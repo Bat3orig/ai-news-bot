@@ -1,0 +1,16 @@
+{
+ "id": "ec05af510167c5d8",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "ContentGrip",
+ "url": "https://www.contentgrip.com/claude-haiku-workflow-cost/",
+ "image": "https://contentgrip-media.b-cdn.net/featured/Claude-Haiku-5.5-lowers-the-cost-of-routine-AI-work.webp",
+ "title": "Claude Haiku 5.5 lowers the cost of routine AI work",
+ "summary_en": "Haiku 5.5 makes repetitive AI work cheaper, but marketing teams need to check prompt bands, quality and total task cost.",
+ "title_mn": "Claude Haiku 5.5 загвар нь хиймэл оюун ухааны өдөр тутмын ажлын өртгийг бууруулна",
+ "summary_mn": "Anthropic компанийн гаргасан Claude Haiku 5.5 загвар нь олон тооны давтамжтай, хөнгөн ажлуудын өртгийг мэдэгдэхүйц хэмжээгээр хэмнэх боломжийг олгож байна.",
+ "body_mn": "Anthropic компани өөрийн шинэ Claude Haiku 5.5 загвараараа дамжуулан их хэмжээний хүсэлт боловсруулах шаардлагатай автоматжуулалт, мэдээллийн сангийн асуулга болон хэрэглэгчийн дэмжлэгийн ажлын өртгийг бууруулж байна. Энэ нь хөгжүүлэгчид болон маркетингийн багуудад зардлаа оновчлох боломжийг олгох юм.\n\nШинэ загвар нь өмнөх хувилбараасаа илүү хямд үнэтэй хэдий ч токенайзерын өөрчлөлт болон үнийн шатлалыг анхаарах шаардлагатай. HubSpot зэрэг компаниудын хийсэн туршилтаар уг загвар нь CRM систем болон тайлан боловсруулахад өндөр үр дүнтэй ажиллаж байгааг харуулжээ.\n\nМөн шинээр нэмэгдсэн effort тохиргооны тусламжтайгаар хөгжүүлэгчид гүйцэтгэл болон зардлын хоорондох тэнцвэрийг өөрийн хэрэгцээнд тохируулан удирдах боломжтой болсон.",
+ "published": "2026-10-08T09:42:49Z",
+ "added": "2026-10-08T23:37:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

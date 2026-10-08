@@ -1,0 +1,16 @@
+{
+ "id": "cc191a0191253513",
+ "subtopic": "nextjs",
+ "source": "Next.js Blog",
+ "source_label": "Next.js Blog",
+ "url": "https://nextjs.org/blog/upcoming-nextjs-security-update-october-2026",
+ "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/upcoming-nextjs-security-update-october-2026/twitter-card.png",
+ "title": "Upcoming Next.js Security Update for Upstream Vulnerabilities",
+ "summary_en": "Next.js plans to publish an out-of-band security update next Wednesday, October 14, 2026, addressing two Critical and one High severity vulnerabilities in upstream dependencies.",
+ "title_mn": "Next.js 2026 оны 10-р сарын 14-нд упстрийм хамаарлын хоёр Critical эмзэг байдлыг засах аюулгүй байдлын шинэчлэлт гаргана",
+ "summary_mn": "Next.js хүрээ 2026 оны 10-р сарын 14-нд гурван эмзэг байдлыг засах онцгой аюулгүй байдлын шинэчлэлт гаргахаа зарлав. Үүнд хоёр Critical, нэг High түвшний эрсдэл багтана. Засварыг боломжтой болмогц шинэчлэх шаардлагатай.",
+ "body_mn": "Next.js баг 2026 оны 10-р сарын 14-нд онцгой (out-of-band) аюулгүй байдлын шинэчлэлт гаргахаа мэдэгдлээ. Шинэчлэлт нь упстрийм хамаарлууд дахь гурван эмзэг байдлыг засна. Үүнээс хоёр нь Critical, нэг нь High түвшний эрсдэлтэй.\n\nДэлгэрэнгүй мэдээлэлд хоёр засвар 9-р сарын аюулгүй байдлын шинэчлэлтээс хойшлогдсон гэж тайлбарлав. Энэ нь упстрийм хамтын ажиллагаатай холбоотой юм.\n\nШинэчлэлтийн хамт бүрэн зөвлөмж буюу нөлөөлөл, хамаарах хувилбарууд, шинэчлэх заавар бүхий advisory-ууд нийтлэгдэнэ. Баг хэрэглэгчдэд шинэчлэлт гарсан даруйд засвартай хувилбарт шилжихийг зөвлөжээ.\n\nМөн Vercel-ийн Open Source Bug Bounty хөтөлбөрөөр судлаачидтай хамтран ажилладаг бөгөөд аюулгүй байдлын асуулт, санал бол security@vercel.com хаягаар холбогдож болно. Next.js ашигладаг хөгжүүлэгчид төслөө шинэчлэх бэлтгэлээ хийх хэрэгтэй.",
+ "published": "2026-10-08T18:00:00Z",
+ "added": "2026-10-08T23:37:41Z",
+ "ai": "claude:claude-haiku-5-5"
+}

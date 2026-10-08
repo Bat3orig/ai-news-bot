@@ -1,0 +1,16 @@
+{
+ "id": "e23c47b999e69a66",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/skip-sending-request-bodies-to-routing-middleware",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/61PCqhtQp3tJHp2U6eN4IN/b491d2a0b17dfa411877b98a478fccfe/routing_middleware_og_final.png",
+ "title": "Skip sending request bodies to Routing Middleware",
+ "summary_en": "You can now skip sending client request bodies to Routing Middleware with skipMiddlewareRequestBody . This reduces incoming Fast Origin Transfer usage for middleware invocations and can improve time to first byte, especially for requests with large bodies. Enable this option only if your Routing Middleware doesn’t read request bodies. Vercel Functions and rewrite targets still receive the body, so you can read and process it there. Set skipMiddlewareRequestBody to true in your project’s JSON configuration file, vercel.json : If you use a TypeScript configuration file, add the same setting to…",
+ "title_mn": "Vercel: Routing Middleware рүү хүсэлтийн биеийг илгээхгүй байх боломжтой боллоо",
+ "summary_mn": "Хөгжүүлэгчид vercel.json эсвэл vercel.ts файлд skipMiddlewareRequestBody тохиргоог идэвхжүүлснээр хүсэлтийн биеийг Routing Middleware рүү дамжуулахгүй байх шинэ боломжтой боллоо.",
+ "body_mn": "Vercel платформ дээр хөгжүүлэгчид Routing Middleware рүү үйлчлүүлэгчийн хүсэлтийн биеийг (request body) явуулахгүй байх шинэ боломжийг нэмжээ. Үүний тулд `skipMiddlewareRequestBody` тохиргоог ашиглах бөгөөд энэ нь middleware дуудагдах үеийн Fast Origin Transfer ашиглалтыг бууруулж, ялангуяа том хэмжээний хүсэлтүүдийн хувьд хуудасны эхний хариу өгөх хурдыг (time to first byte) сайжруулахад тусална.\n\nЭнэхүү тохиргоог зөвхөн таны Routing Middleware хүсэлтийн биеийг унших шаардлагагүй тохиолдолд л идэвхжүүлэхийг зөвлөж байна. Vercel Functions болон rewrite буюу чиглүүлэлтийн зорилтот хэсгүүд хүсэлтийн биеийг хэвээр хүлээж авах тул тэдгээрт боловсруулах боломж хэвээр хадгалагдана.\n\nТохируулахын тулд төслийнхөө `vercel.json` тохиргооны файл эсвэл `@vercel/config` ашигладаг бол `vercel.ts` файлд `skipMiddlewareRequestBody` утгыг true болгон өөрчлөх шаардлагатай. Өөрчлөлт хүчин төгөлдөр болохын тулд төслөө дахин байршуулах (redeploy) хэрэгтэй бөгөөд үндсэн утга нь false байхаар тохируулагдсан байна.",
+ "published": "2026-10-08T16:05:00Z",
+ "added": "2026-10-08T23:37:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

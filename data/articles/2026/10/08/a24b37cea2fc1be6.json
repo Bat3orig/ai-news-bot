@@ -1,0 +1,16 @@
+{
+ "id": "a24b37cea2fc1be6",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+ "image": "",
+ "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+ "summary_en": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9 Comments URL: https://news.ycombinator.com/item?id=50002665 Points: 102 # Comments: 34",
+ "title_mn": "Claude Code ашиглан шинэ гариг илрүүлсэн тухай Hacker News дээр хэлэлцүүлэг өрнөлөө",
+ "summary_mn": "Hacker News дээр хөгжүүлэгч Claude Code хэрэгслийг ашиглан урьд өмнө мэдэгдээгүй байсан шинэ гаригийг олж илрүүлсэн тухай туршлагаа хуваалцжээ.",
+ "body_mn": "Хөгжүүлэгчдийн дунд өргөн ашиглагдаж буй Claude Code агентын тусламжтайгаар огторгуйн өгөгдөлд дүн шинжилгээ хийж, шинэ гариг илрүүлсэн гэх мэдээлэл Hacker News платформ дээр олны анхаарлыг татав.\n\nЭнэхүү кейс нь хиймэл оюун ухааны хөгжүүлэлтийн багаж хэрэгслүүд зөвхөн программ бичихээс гадна шинжлэх ухааны судалгаа, өгөгдөл боловсруулахад хэрхэн тус дэм болж байгааг харуулсан сонирхолтой жишээ болж байна.",
+ "published": "2026-10-08T07:07:34Z",
+ "added": "2026-10-08T23:37:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

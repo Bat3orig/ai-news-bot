@@ -1,0 +1,16 @@
+{
+ "id": "a1ce4b16819f98f0",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Healthcare IT News",
+ "url": "https://www.healthcareitnews.com/news/anthropic-expands-cybersecurity-verification-tools-invites-hospitals-apply",
+ "image": "",
+ "title": "Anthropic expands cybersecurity verification tools, invites hospitals to apply",
+ "summary_en": "",
+ "title_mn": "Anthropic кибер аюулгүй байдлын баталгаажуулалтын хэрэгслээ өргөжүүллээ",
+ "summary_mn": "Anthropic компани кибер аюулгүй байдлыг шалгах хэрэгслүүдээ өргөжүүлж, эмнэлгүүдийг хамтран ажиллахыг урилаа.",
+ "body_mn": "Anthropic компани кибер аюулгүй байдлыг баталгаажуулах дэвшилтэт хэрэгслүүдээ өргөжүүлж байгаагаа зарлаж, эрүүл мэндийн байгууллага, эмнэлгүүдийг үүнд нэгдэхийг урьжээ.\n\nЭнэхүү санаачилга нь эрүүл мэндийн салбарын мэдээллийн аюулгүй байдал, системүүдийн эрсдэлийг илрүүлэх, хиймэл оюун ухааны технологийн найдвартай байдлыг дээшлүүлэхэд чиглэж байна.",
+ "published": "2026-10-08T14:20:00Z",
+ "added": "2026-10-08T23:37:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

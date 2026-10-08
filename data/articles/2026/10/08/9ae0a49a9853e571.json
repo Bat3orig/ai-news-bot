@@ -1,0 +1,16 @@
+{
+ "id": "9ae0a49a9853e571",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-updates-usage-policy-adding-model-abuse-and-deception-rules/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-updates-usage-policy-model-abuse-deception-rules.jpg",
+ "title": "Anthropic Updates Usage Policy, Adding Model Abuse and Deception Rules",
+ "summary_en": "Anthropic published its annual 2026 Usage Policy update on October 8, 2026, consolidating its rules against deceptive campaigns, adding a prohibition on abusive behavior toward its models, and clarifying weapons, surveil...",
+ "title_mn": "Anthropic хэрэглээний бодлогоо шинэчилж, загварт хандах зүй бус хандлага, хуурмаг кампанит ажлыг хориглов",
+ "summary_mn": "Anthropic 2026 оны 10-р сарын 8-нд Usage Policy-гээ жилийн шинэчлэлтээр өөрчиллөө. Шинэ бодлого 2026 оны 11-р сарын 12-нд хүчинтэй болно. Хуурмаг кампанит ажил, загварт хүчирхийлэл үйлдэхийг хориглох шинэ заалт орсон.",
+ "body_mn": "Anthropic 2026 оны 10-р сарын 8-нд Usage Policy буюу хэрэглээний бодлогоо шинэчлэн гаргалаа. Шинэ бодлого 2026 оны 11-р сарын 12-нд хүчинтэй болно. Компанийн хэлснээр ихэнх өөрчлөлт нь одоогийн дүрмийг илүү тодорхой болгох зорилготой юм.\n\nШинэчлэлтээр хуурмаг кампанит ажил болон зохиомол үйл ажиллагаа гэсэн тусдаа хэсэг нэмэгдсэн бөгөөд энэ нь улс төрийн болон арилжааны аль ч төрлийн хуурмаг үйл ажиллагаанд хамаарна. Мөн сонгуулийн хэсгийг Do Not Undermine Democratic Processes гэж нэрлэж, сонгогчдыг хуурах, нэр дэвшигчийн тухай худал мэдээлэл тараах зэргийг голчлон хориглосон. Anthropic мөн хувийн сонгуулийн зорилтот сурталчилгааг бүхэлд нь хориглодог заалтаа хассан байна.\n\nЗэвсгийн хэсэгт зэвсэг ажиллуулах программ хангамж болон бүрэлдэхүүн хэсгүүд, дрон болон бусад автономит машиныг зэвсэглэх үйлдэл багтсан болсон. Компанийн хэлснээр эдгээр өөрчлөлт нь өмнөх бодлогыг хэрэгжүүлсэн практикийг тусгасан юм.\n\nХөгжүүлэгчдэд энэ нь API болон агент хэрэглээнд хамаарах дүрмийн өөрчлөлт бөгөөд Claude-ийг ашиглаж буй программ, автоматжуулалтаа 11-р сараас өмнө шалгах нь зүйтэй.",
+ "published": "2026-10-08T17:22:04Z",
+ "added": "2026-10-08T23:37:41Z",
+ "ai": "claude:claude-haiku-5-5"
+}

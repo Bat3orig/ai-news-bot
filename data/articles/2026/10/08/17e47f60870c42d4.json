@@ -1,0 +1,16 @@
+{
+ "id": "17e47f60870c42d4",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "TradingView",
+ "url": "https://www.tradingview.com/news/zacks:ece69e71f094b:0-alibaba-plunges-16-2-in-6-months-3-key-reasons-to-hold-the-stock/",
+ "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+ "title": "Alibaba Plunges 16.2% in 6 Months: 3 Key Reasons to Hold the Stock",
+ "summary_en": "Alibaba BABA shares have plunged 16.2% over the past six months compared with a 4.1% decline in the Zacks Retail-Wholesale sector as investors weighed the company's aggressive artificial intelligence (AI) spending against declining profitability. While concerns over margins are valid, Alibaba's fun…",
+ "title_mn": "Alibaba-гийн AI Cloud орлого өсөж, Qwen 4 цувралыг хөгжүүлж байна",
+ "summary_mn": "Alibaba компани AI үүлэн тооцооллын орлогоо өсгөж, 2.4 их наяд параметр бүхий Qwen3.8-Max загварыг нээжээ. Мөн ирээдүйд Qwen 4 болон Qwen 5 загваруудыг гаргахаар бэлтгэж байна.",
+ "body_mn": "Alibaba компанийн AI Cloud болон Тооцооллын үйлчилгээний орлого жилийн өмнөхөөсөө 45 хувиар өсөж 48.44 тэрбум юаньд хүрсэн нь гадаад хэрэглэгчдийн дунд хүчтэй өсөлттэй байгааг харуулж байна. Компани Хятадын AI үүлэн зах зээлийн 38.1 хувийг эзэлж, зах зээлд тэргүүлж буйгаа хадгалсаар байна.\n\nӨөрийн эзэмшлийн загвар болон чипүүдийг хослуулсан бүтэн стек бүхий AI стратеги нь Alibaba-гийн гол давуу тал болж байна. T-Head нэгжийн Zhenwu чипүүд одоогоор 650 гаруй гадаад хэрэглэгчдэд үйлчилж байгаа бөгөөд наймдугаар сард 2.4 их наяд параметр бүхий Qwen3.8-Max загварын жинг нээлттэй болгосон билээ.\n\nАпсара бага хурлын үеэр Alibaba Qwen 4 загварын сургалт үргэлжилж байгааг зарласан бөгөөд ирээдүйд Qwen 4.5 болон Qwen 5 цувралуудыг 5-10 их наяд параметр хүртэл өргөжүүлэхээр төлөвлөжээ. Мөн ухаалаг утас үйлдвэрлэгчдэд зориулсан Qwen Intelligence агент платформыг зах зээлд гаргасан байна.\n\nAI болон дэд бүтцийн хөрөнгө оруулалт эрчимтэй нэмэгдэж байгаа нь ойрын хугацааны ашигт ажиллагаанд нөлөөлж байгаа хэдий ч хөгжүүлэгчид болон технологийн зах зээлийн хувьд Alibaba-гийн энэхүү өргөн цар хүрээтэй AI экосистем нь томоохон байр суурь эзэлсээр байна.",
+ "published": "2026-10-08T15:34:00Z",
+ "added": "2026-10-08T23:37:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

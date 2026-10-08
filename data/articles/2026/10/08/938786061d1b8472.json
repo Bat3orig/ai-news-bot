@@ -1,0 +1,16 @@
+{
+ "id": "938786061d1b8472",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/33uyJHqFNLWW71HE6LTMWZ/322eb40091085aac3f7e9b56ac74d7a1/image__116_.png",
+ "title": "OpenAI Ultrafast mode now available on AI Gateway",
+ "summary_en": "AI Gateway now supports OpenAI's Ultrafast service tier, providing faster output for interactive applications and rapid coding iterations. Currently, GPT 6 Astra and GPT 6.1 Sol are supported. To use Ultrafast, request it for openai/gpt-6-astra or openai/gpt-6.1-sol through AI SDK, the Chat Completions API, or Responses API: For workflows with frequent tool calls, OpenAI recommends the Responses API over a persistent WebSocket connection to reduce overhead between turns. See the Ultrafast service-tier examples for persistent connections, including AI SDK over WebSocket. Ultrafast supports US…",
+ "title_mn": "Vercel AI Gateway дээр OpenAI Ultrafast горим ажиллаж эхэллээ",
+ "summary_mn": "Vercel AI Gateway нь интерактив аппликейшн болон хурдан код бичихэд зориулсан OpenAI-ын Ultrafast үйлчилгээний түвшинг дэмждэг боллоо.",
+ "body_mn": "AI Gateway үйлчилгээнд OpenAI-ын Ultrafast үйлчилгээний түвшин нэмэгдсэн байна. Одоогоор GPT-6 Astra болон GPT-6.1 Sol загварууд энэхүү горимыг дэмжиж байгаа бөгөөд AI SDK эсвэл Chat Completions API ашиглан хандах боломжтой.\n\nУг горим нь АНУ болон глобал бүс нутгуудад ажилладаг бөгөөд илүү хурдан хариу өгдөгөөрөө онцлог юм. Ultrafast горимоор илгээсэн хүсэлтүүд нь стандарт тарифын хувь хэмжээгээр тооцогдож тооцогдоно.",
+ "published": "2026-10-08T00:00:00Z",
+ "added": "2026-10-08T23:37:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

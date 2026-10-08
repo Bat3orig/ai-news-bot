@@ -1,0 +1,16 @@
+{
+ "id": "f25468de1505b6e8",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "DevOps.com",
+ "url": "https://devops.com/aditi-consulting-achieves-anthropic-select-tier-after-putting-claude-into-production-across-its-business-and-client-environments/",
+ "image": "https://devops.com/wp-content/uploads/2026/10/aditi_anthropic_770x330.jpg",
+ "title": "Aditi Consulting Achieves Anthropic Select Tier After Putting Claude Into Production Across Its Business and Client Environments",
+ "summary_en": "The milestone follows Aditi’s broader effort to reshape its business, client delivery, and engineering workforce.",
+ "title_mn": "Aditi Consulting компани Anthropic-ийн Select Tier түнш болжээ",
+ "summary_mn": "Aditi Consulting компани Claude загваруудыг өөрийн болон үйлчлүүлэгчдийнхээ бизнес орчинд амжилттай нэвтрүүлсний үр дүнд Anthropic Claude Partner Network-ийн Select Tier зэрэглэлд хүрэв.",
+ "body_mn": "Aditi Consulting компани байгууллагуудад хиймэл оюун ухаан нэвтрүүлэх үйл ажиллагааг дэмждэг Anthropic Claude Partner Network хөтөлбөрийн Select Tier статустай боллоо. Энэхүү амжилт нь тус компани өөрийн үйл ажиллагаа болон инженерчлэлийн багт Claude загваруудыг амжилттай нэвтрүүлсний үр дүнд бий болсон байна.\n\nТухайлбал, клиникийн судалгааны технологийн Advarra компанитай хамтран ажиллах явцдаа Claude болон хиймэл оюун ухааны тусламжтай хөгжүүлэлтийг ашиглан ердөө долоо хоногийн дотор ажиллах боломжтой шийдлийг гаргаж чаджээ. Энэ нь инженерүүдэд AI хэрэгслүүдийг бизнесийн зорилго, техникийн суурь зарчмуудтай хослуулан бодит орчинд хэрэгжүүлэх боломжийг олгож байна.\n\nТехнологийн дэвшил хурдацтай хөгжихийн хэрээр байгууллагуудад технологи олж авах биш харин түүнийг ямар үйл явцад ашиглаж, хэрхэн тогтвортой авч үлдэх вэ гэдэг нь чухал сорилт болж байгааг удирдлагууд онцолжээ. Aditi Consulting энэхүү туршлагаараа дамжуулан үйлчлүүлэгчдэдээ хиймэл оюун ухааныг бодит үр дүн болгон хувиргахад туслахаар ажиллаж байна.",
+ "published": "2026-10-08T16:36:18Z",
+ "added": "2026-10-08T23:37:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
