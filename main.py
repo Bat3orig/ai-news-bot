@@ -135,21 +135,23 @@ def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
 
 
 def send(state: store.State, dry_run: bool) -> int:
-    if not state.outbox:
-        log.info("Outbox empty, nothing to send")
-        return 0
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
     if not dry_run and (not token or not chat_id):
+        if not state.outbox:
+            return 0
         log.error("TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID must be set (or use --dry-run)")
         return 2
     topics = load_topics()
     base = site_url()
     tg = Telegram(token, chat_id, state.telegram, dry_run)
     try:
-        tg.setup_topics(topics)
-    except TelegramRejected as exc:
-        log.warning("Telegram getChat failed: %s", exc)
+        tg.setup_topics(topics)  # also runs with an empty outbox, so renames apply right away
+    except (TelegramRejected, TelegramFatalError) as exc:
+        log.warning("Telegram topic setup failed: %s", exc)
+    if not state.outbox:
+        log.info("Outbox empty, nothing to send")
+        return 0
 
     sent = 0
     exit_code = 0

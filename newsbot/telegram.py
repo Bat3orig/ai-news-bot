@@ -126,16 +126,25 @@ class Telegram:
         self.state["forum"] = bool(chat.get("is_forum"))
         if not self.state["forum"]:
             return
+        # Topic names are plain ("AI"): Telegram already shows its own topic icon.
+        names = self.state.setdefault("names", {})
         for sec in topics.sections:
-            if sec.id in self.state["threads"]:
-                continue
+            thread = self.state["threads"].get(sec.id)
             try:
-                topic = self.call("createForumTopic",
-                                  {"chat_id": self.chat_id, "name": f"{sec.emoji} {sec.name}".strip()})
-                self.state["threads"][sec.id] = topic["message_thread_id"]
-                log.info("Created Telegram topic %r (thread %s)", sec.name, topic["message_thread_id"])
+                if thread is None:
+                    topic = self.call("createForumTopic", {"chat_id": self.chat_id, "name": sec.name})
+                    self.state["threads"][sec.id] = topic["message_thread_id"]
+                    log.info("Created Telegram topic %r (thread %s)", sec.name, topic["message_thread_id"])
+                elif names.get(sec.id) != sec.name:
+                    self.call("editForumTopic",
+                              {"chat_id": self.chat_id, "message_thread_id": thread, "name": sec.name})
+                    log.info("Renamed Telegram topic %s to %r", thread, sec.name)
+                names[sec.id] = sec.name
             except TelegramRejected as exc:
-                log.warning("Could not create Telegram topic %r (make the bot an admin with "
+                if "not modified" in exc.description.lower():
+                    names[sec.id] = sec.name
+                    continue
+                log.warning("Could not create/rename Telegram topic %r (make the bot an admin with "
                             "'Manage topics'): %s", sec.name, exc)
 
     def thread_for(self, section_id: str | None) -> int | None:

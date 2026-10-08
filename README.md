@@ -58,7 +58,7 @@ GitHub Actions (cron */30)
 2. **Topics асаах:** Group → ✏️ Edit → **Topics** → асаана.
 3. **Ботыг admin болгох:** Group → Administrators → Add Admin → бот → **Manage Topics** болон
    **Post/Send messages** эрхийг асаана.
-   → Бот анхны ажиллалтаараа **🤖 AI**, **⚛️ Software**, **🎨 UI/UX** topic-уудыг өөрөө үүсгэнэ.
+   → Бот анхны ажиллалтаараа **AI**, **Software**, **UI/UX** topic-уудыг өөрөө үүсгэнэ.
    Topics асаагаагүй бол бүх мэдээ нэг урсгалд, сэдвийн шошготой ирнэ.
 4. **chat_id авах:** group-д `/start@<bot_username>` гэж бичээд:
    ```bash
