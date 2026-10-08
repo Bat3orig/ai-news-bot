@@ -1,138 +1,217 @@
-# Мэдээний эх сурвалжууд.
+# Мэдээний эх сурвалжууд. Сэдвүүд нь topics.yaml-д тодорхойлогдсон.
 #
 # Талбарууд:
-#   name      (заавал) Telegram мессежид тод үсгээр харагдана. Давхардахгүй байх ёстой.
-#   url       (заавал) RSS / Atom feed-ийн хаяг
-#   type      rss | atom | github_release | google_news   (default: rss)
-#   category  Hashtag болно: OpenAI -> #OpenAI
-#   keywords  (сонголттой) Гарчиг эсвэл товчлолд эдгээрийн аль нэг нь (том жижиг үсэг
-#             ялгахгүй, бүтэн үгээр) орсон үед л илгээнэ.
-#   summary   true/false — товчлол харуулах эсэх (google_news-д default false)
-#   enabled   false болговол түр унтраана
+#   name              (заавал) Давхардахгүй нэр. Өөрчилбөл шинэ эх сурвалж гэж үзэж
+#                     одоо байгаа мэдээг нь чимээгүй "харсан" гэж тэмдэглэнэ.
+#   url               (заавал) RSS / Atom feed
+#   type              rss | atom | github_release | google_news   (default: rss)
+#   subtopic          topics.yaml-ийн дэд сэдвийн id. Заавал бол бүх мэдээ тэр дэд сэдэвт орно.
+#                     Заагаагүй бол мэдээг topics.yaml-ийн keywords-оор ангилж, аль ч дэд
+#                     сэдэвт таарахгүй мэдээг алгасна (Hacker News гэх мэт холимог эх сурвалж).
+#   section           subtopic заагаагүй үед ангиллыг энэ сэдэв дотор хязгаарлана (ai | software | uiux)
+#   keywords          Нэмэлт шүүлтүүр: гарчиг/товчлолд эдгээрийн аль нэг байх ёстой
+#   skip_prereleases  true бол canary/alpha/beta/rc/nightly хувилбарыг алгасна
+#   title_regex       Гарчиг энэ regex-тэй таарсан мэдээг л авна
+#   enabled           false бол түр унтраана
 #
-# Google News query: https://news.google.com/rss/search?q=<QUERY>&hl=en-US&gl=US&ceid=US:en
+# Google News: https://news.google.com/rss/search?q=<QUERY>&hl=en-US&gl=US&ceid=US:en
 
 sources:
-  # ---------- OpenAI ----------
+  # ======================= AI =======================
   - name: OpenAI News
     url: https://openai.com/news/rss.xml
-    type: rss
-    category: OpenAI
+    subtopic: openai
 
-  # ---------- Google / Gemini ----------
   - name: Google DeepMind
     url: https://deepmind.google/blog/rss.xml
-    type: rss
-    category: Google
+    subtopic: gemini
 
   - name: Google AI Blog
     url: https://blog.google/technology/ai/rss/
-    type: rss
-    category: Google
+    subtopic: gemini
 
   - name: Google Developers Blog
     url: https://developers.googleblog.com/feeds/posts/default
     type: atom
-    category: Google
+    subtopic: gemini
+    keywords: [Gemini, Gemma, AI Studio, AI, agent, model]
 
-  # ---------- Anthropic / Claude (албан ёсны RSS байхгүй) ----------
   - name: Anthropic (Google News)
     url: https://news.google.com/rss/search?q=Anthropic+Claude&hl=en-US&gl=US&ceid=US:en
     type: google_news
-    category: Anthropic
-
-  # ---------- Бусад AI компаниуд / open-source ----------
-  - name: Hugging Face Blog
-    url: https://huggingface.co/blog/feed.xml
-    type: rss
-    category: OpenSource
-
-  - name: Meta AI (Google News)
-    url: https://news.google.com/rss/search?q=%22Meta+AI%22+OR+%22Llama+model%22&hl=en-US&gl=US&ceid=US:en
-    type: google_news
-    category: Meta
-
-  - name: Mistral AI (Google News)
-    url: https://news.google.com/rss/search?q=%22Mistral+AI%22&hl=en-US&gl=US&ceid=US:en
-    type: google_news
-    category: Mistral
+    subtopic: anthropic
 
   - name: xAI (Google News)
     url: https://news.google.com/rss/search?q=xAI+Grok&hl=en-US&gl=US&ceid=US:en
     type: google_news
-    category: xAI
-
-  - name: DeepSeek (Google News)
-    url: https://news.google.com/rss/search?q=DeepSeek&hl=en-US&gl=US&ceid=US:en
-    type: google_news
-    category: DeepSeek
+    subtopic: xai
 
   - name: Qwen (Google News)
     url: https://news.google.com/rss/search?q=Qwen+Alibaba&hl=en-US&gl=US&ceid=US:en
     type: google_news
-    category: Qwen
+    subtopic: qwen
 
-  # ---------- Microsoft / GitHub ----------
-  - name: Microsoft Official Blog
-    url: https://blogs.microsoft.com/feed/
-    type: rss
-    category: Microsoft
-    keywords: [AI, Copilot, Azure, agent, model, OpenAI]
-
-  - name: Microsoft Foundry Blog (Azure AI)
-    url: https://devblogs.microsoft.com/foundry/feed/
-    type: rss
-    category: Microsoft
+  - name: Kimi (Google News)
+    url: https://news.google.com/rss/search?q=Kimi+Moonshot+AI&hl=en-US&gl=US&ceid=US:en
+    type: google_news
+    subtopic: kimi
 
   - name: GitHub Changelog
     url: https://github.blog/changelog/feed/
-    type: rss
-    category: DevTools
+    subtopic: ai-devtools
     keywords: [AI, Copilot, LLM, GPT, OpenAI, Gemini, Claude, Anthropic, agent, model, MCP]
 
   - name: GitHub Blog
     url: https://github.blog/feed/
-    type: rss
-    category: DevTools
+    subtopic: ai-devtools
     keywords: [AI, Copilot, LLM, GPT, OpenAI, Gemini, Claude, Anthropic, agent, model, MCP]
-
-  # ---------- GitHub releases ----------
-  - name: ollama/ollama
-    url: https://github.com/ollama/ollama/releases.atom
-    type: github_release
-    category: OpenSource
-
-  # Анхаар: llama.cpp өдөрт 10+ build release гаргадаг тул их чимээ шуугиантай.
-  # Хэт олон мессеж ирвэл "enabled: false" болгоорой.
-  - name: ggml-org/llama.cpp
-    url: https://github.com/ggml-org/llama.cpp/releases.atom
-    type: github_release
-    category: OpenSource
-
-  - name: vllm-project/vllm
-    url: https://github.com/vllm-project/vllm/releases.atom
-    type: github_release
-    category: OpenSource
-
-  - name: huggingface/transformers
-    url: https://github.com/huggingface/transformers/releases.atom
-    type: github_release
-    category: OpenSource
 
   - name: anthropics/claude-code
     url: https://github.com/anthropics/claude-code/releases.atom
     type: github_release
-    category: DevTools
+    subtopic: ai-devtools
+
+  - name: openai/codex
+    url: https://github.com/openai/codex/releases.atom
+    type: github_release
+    subtopic: ai-devtools
+    skip_prereleases: true
 
   - name: openai/openai-python
     url: https://github.com/openai/openai-python/releases.atom
     type: github_release
-    category: DevTools
+    subtopic: ai-devtools
 
-  # ---------- Developer news ----------
+  - name: ollama/ollama
+    url: https://github.com/ollama/ollama/releases.atom
+    type: github_release
+    subtopic: ai-devtools
+    skip_prereleases: true
+
+  # ===================== Software =====================
+  - name: React Blog
+    url: https://react.dev/rss.xml
+    subtopic: react
+
+  - name: facebook/react
+    url: https://github.com/facebook/react/releases.atom
+    type: github_release
+    subtopic: react
+    skip_prereleases: true
+
+  - name: React Native Blog
+    url: https://reactnative.dev/blog/rss.xml
+    subtopic: react-native
+
+  - name: facebook/react-native
+    url: https://github.com/facebook/react-native/releases.atom
+    type: github_release
+    subtopic: react-native
+    skip_prereleases: true
+
+  - name: Expo Changelog
+    url: https://expo.dev/changelog/rss.xml
+    subtopic: react-native
+
+  - name: Next.js Blog
+    url: https://nextjs.org/feed.xml
+    subtopic: nextjs
+
+  - name: vercel/next.js
+    url: https://github.com/vercel/next.js/releases.atom
+    type: github_release
+    subtopic: nextjs
+    skip_prereleases: true
+
+  - name: nestjs/nest
+    url: https://github.com/nestjs/nest/releases.atom
+    type: github_release
+    subtopic: nestjs
+    skip_prereleases: true
+
+  - name: Tauri Blog
+    url: https://tauri.app/blog/rss.xml
+    subtopic: tauri
+
+  # tauri-apps/tauri олон багцын release гаргадаг тул зөвхөн үндсэн "tauri vX"-г авна
+  - name: tauri-apps/tauri
+    url: https://github.com/tauri-apps/tauri/releases.atom
+    type: github_release
+    subtopic: tauri
+    skip_prereleases: true
+    title_regex: "^tauri v"
+
+  - name: Electron Blog
+    url: https://www.electronjs.org/blog/rss.xml
+    subtopic: electron
+
+  - name: electron/electron
+    url: https://github.com/electron/electron/releases.atom
+    type: github_release
+    subtopic: electron
+    skip_prereleases: true
+
+  - name: Node.js Blog
+    url: https://nodejs.org/en/feed/blog.xml
+    subtopic: node
+
+  - name: Vercel
+    url: https://vercel.com/atom
+    subtopic: vercel-cloud
+
+  # ====================== UI/UX ======================
+  - name: shadcn/ui
+    url: https://ui.shadcn.com/rss.xml
+    subtopic: shadcn
+
+  - name: shadcn-ui/ui
+    url: https://github.com/shadcn-ui/ui/releases.atom
+    type: github_release
+    subtopic: shadcn
+    skip_prereleases: true
+    title_regex: "^shadcn@"
+
+  - name: Tailwind CSS Blog
+    url: https://tailwindcss.com/feeds/feed.xml
+    subtopic: tailwind
+
+  - name: tailwindlabs/tailwindcss
+    url: https://github.com/tailwindlabs/tailwindcss/releases.atom
+    type: github_release
+    subtopic: tailwind
+    skip_prereleases: true
+
+  - name: Motion Blog
+    url: https://motion.dev/blog/rss.xml
+    subtopic: motion
+
+  - name: motiondivision/motion
+    url: https://github.com/motiondivision/motion/releases.atom
+    type: github_release
+    subtopic: motion
+    skip_prereleases: true
+
+  - name: Figma Blog
+    url: https://www.figma.com/blog/feed/atom.xml
+    subtopic: design-systems
+
+  - name: Smashing Magazine
+    url: https://www.smashingmagazine.com/feed/
+    section: uiux
+
+  - name: CSS-Tricks
+    url: https://css-tricks.com/feed/
+    subtopic: css-web
+
+  - name: web.dev
+    url: https://web.dev/static/blog/feed.xml
+    subtopic: css-web
+
+  - name: Chrome for Developers
+    url: https://developer.chrome.com/static/blog/feed.xml
+    subtopic: css-web
+
+  # ================= Холимог (бүх сэдэв) =================
+  # subtopic заагаагүй: topics.yaml-ийн keywords-оор ангилна
   - name: Hacker News
     url: https://hnrss.org/newest?points=100
-    type: rss
-    category: HackerNews
-    summary: false
-    keywords: [AI, LLM, GPT, OpenAI, Gemini, Claude, Anthropic, Llama, Mistral, DeepSeek, Qwen, agent, model]

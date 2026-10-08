@@ -1,418 +1,221 @@
 #!/usr/bin/env python3
-"""Telegram AI news bot.
-
-Fetches the feeds listed in sources.yaml, finds items that were not sent
-before (state/seen.json) and pushes them to a Telegram chat.
+"""Telegram dev-news bot (AI / Software / UI/UX) with a Mongolian static site.
 
 Usage:
-    python main.py              # fetch and send to Telegram
-    python main.py --dry-run    # print to console, do not touch seen.json
+    python main.py prepare     # fetch feeds, enrich, translate, save articles, fill outbox
+    python main.py send        # send the outbox to Telegram
+    python main.py             # prepare + send
+    python main.py --dry-run   # print what would happen; writes nothing, sends nothing
+
+GitHub Actions runs `prepare`, builds/deploys the site, then `send`, so the
+"Дэлгэрэнгүй" links already work when the messages arrive.
 """
 
 from __future__ import annotations
 
 import argparse
-import hashlib
-import html
-import json
 import logging
 import os
-import re
 import sys
 import time
-from dataclasses import dataclass, field
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
-import feedparser
-import requests
-import yaml
-
-ROOT = Path(__file__).resolve().parent
-SOURCES_FILE = ROOT / "sources.yaml"
-STATE_FILE = ROOT / "state" / "seen.json"
-
-USER_AGENT = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"
-)
-FETCH_TIMEOUT = 15          # seconds per source
-MAX_AGE = timedelta(days=3)  # only send items newer than this
-STATE_TTL = timedelta(days=30)  # prune seen entries older than this
-MAX_MESSAGES = 20           # per run
-SEND_DELAY = 3              # seconds between Telegram messages
-SUMMARY_LIMIT = 300         # characters
-TELEGRAM_RETRIES = 3
+from newsbot import ai, enrich, feeds, store
+from newsbot.config import load_sources, load_topics
+from newsbot.telegram import SEND_DELAY, Telegram, TelegramFatalError, TelegramRejected
+from newsbot.util import iso, link_key, truncate
 
 log = logging.getLogger("news-bot")
 
-
-class TelegramFatalError(Exception):
-    """Unrecoverable Telegram error (bad token, wrong chat id, ...)."""
+MAX_PER_RUN = 20  # messages per run; the rest go out next run
 
 
-@dataclass
-class Item:
-    source: dict
-    title: str
-    link: str
-    summary: str
-    published: datetime | None
-    keys: list[str] = field(default_factory=list)
-
-    @property
-    def sort_time(self) -> datetime:
-        # Undated items are treated as "just appeared".
-        return self.published or datetime.now(timezone.utc)
+def site_url() -> str:
+    url = os.environ.get("SITE_URL", "").strip()
+    if not url and os.environ.get("GITHUB_REPOSITORY"):
+        owner, repo = os.environ["GITHUB_REPOSITORY"].split("/", 1)
+        url = f"https://{owner.lower()}.github.io/{repo}/"
+    return url.rstrip("/") + "/" if url else ""
 
 
-# --------------------------------------------------------------------------- #
-# Helpers
-# --------------------------------------------------------------------------- #
-
-def sha256(text: str) -> str:
-    return hashlib.sha256(text.encode("utf-8")).hexdigest()
-
-
-def short_key(text: str) -> str:
-    # 16 hex chars (64 bits) is plenty to avoid collisions and keeps seen.json small.
-    return sha256(text)[:16]
-
-
-def normalize_url(url: str) -> str:
-    """Strip utm_* params and the fragment, lowercase scheme/host."""
-    parts = urlsplit(url.strip())
-    query = [(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
-             if not k.lower().startswith("utm_")]
-    return urlunsplit((parts.scheme.lower(), parts.netloc.lower(), parts.path,
-                       urlencode(query), ""))
-
-
-def strip_html(text: str) -> str:
-    text = re.sub(r"<(script|style)\b.*?</\1>", " ", text or "", flags=re.S | re.I)
-    text = re.sub(r"<[^>]+>", " ", text)
-    text = html.unescape(text)
-    text = re.sub(r"\s+", " ", text).strip()
-    # WordPress feeds append "The post X appeared first on Y."
-    return re.sub(r"\s*The post .{0,300}? appeared first on .{0,100}$", "", text)
+def to_article(item: feeds.Item, tr: dict | None, topics, now: datetime) -> dict:
+    sub_id = item.subtopic.id if item.subtopic else ""
+    ai_sub = topics.subtopics.get((tr or {}).get("subtopic", ""))
+    # Dedicated sources keep their subtopic; mixed sources take the AI's choice
+    # (if it is inside the source's allowed section).
+    if ai_sub and not item.source.subtopic and \
+            (not item.source.section or ai_sub.section.id == item.source.section):
+        sub_id = ai_sub.id
+    return {
+        "id": item.id,
+        "subtopic": sub_id,
+        "source": item.source.name,
+        "source_label": item.publisher or item.source.name,
+        "url": item.extra.get("url") or item.link,
+        "image": item.extra.get("image", ""),
+        "title": item.title,
+        # Google News "summaries" just repeat the headline; use the page description.
+        "summary_en": truncate(item.extra.get("description", "") if item.source.type == "google_news"
+                               else item.summary or item.extra.get("description", ""), 600),
+        "title_mn": (tr or {}).get("title_mn", ""),
+        "summary_mn": (tr or {}).get("summary_mn", ""),
+        "body_mn": (tr or {}).get("body_mn", ""),
+        "published": iso(item.published) if item.published else iso(now),
+        "added": iso(now),
+        "ai": (tr or {}).get("ai", ""),
+    }
 
 
-def truncate(text: str, limit: int) -> str:
-    if len(text) <= limit:
-        return text
-    cut = text[: limit - 1]
-    if " " in cut[limit // 2:]:
-        cut = cut[: cut.rfind(" ")]
-    return cut.rstrip(" ,.;:-") + "…"
+def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
+    """Returns True if new articles were added (site needs a rebuild)."""
+    topics = load_topics()
+    sources = load_sources(topics)
+    now = datetime.now(timezone.utc)
+    today = now.date().isoformat()
+    first_run = state.first_run
 
+    candidates, stats = feeds.collect(sources, topics, state, now)
 
-def entry_time(entry) -> datetime | None:
-    for attr in ("published_parsed", "updated_parsed", "created_parsed"):
-        value = entry.get(attr)
-        if value:
-            try:
-                return datetime(*value[:6], tzinfo=timezone.utc)
-            except (TypeError, ValueError):
+    if first_run:
+        if not stats["ok"]:
+            log.error("First run but every source failed; not initializing state")
+            raise SystemExit(1)
+        log.info("First run: marked %d items as seen, sending nothing", stats["bootstrapped"])
+        state.outbox.append({"kind": "notice", "text": f"Bot started, tracking {len(sources)} sources"})
+        return False
+
+    room = max(0, MAX_PER_RUN - len(state.outbox))
+    candidates.sort(key=lambda it: it.sort_time)
+    batch = candidates[:room]
+    log.info("%d new items, processing %d (outbox has %d, max %d per run)",
+             len(candidates), len(batch), len(state.outbox), MAX_PER_RUN)
+    if len(candidates) > len(batch):
+        log.info("%d items left for the next run", len(candidates) - len(batch))
+    if not batch:
+        return False
+
+    enrich.enrich(batch)
+    # Google News links resolve to the publisher URL: drop duplicates of items
+    # we already have from an official feed (e.g. anthropic.com/news).
+    unique, seen_urls = [], set()
+    for it in batch:
+        rk = link_key(it.extra.get("url") or it.link)
+        if rk not in it.keys:
+            if state.is_seen([rk]) or rk in seen_urls:
+                log.info("Duplicate after URL resolve, skipping: %s", it.title[:70])
+                state.mark(it.keys + [rk], today)
                 continue
-    return None
+            it.keys.append(rk)
+        seen_urls.add(rk)
+        unique.append(it)
 
+    translations = ai.translate(unique, topics)
 
-def keyword_patterns(keywords: list[str]) -> list[re.Pattern]:
-    # Whole-word match (optional plural "s") so "AI" does not match "said".
-    return [re.compile(rf"(?<![\w]){re.escape(k)}s?(?![\w])", re.I) for k in keywords]
-
-
-def hashtag(category: str) -> str:
-    tag = re.sub(r"\W+", "", category or "")
-    return f"#{tag}" if tag else ""
-
-
-# --------------------------------------------------------------------------- #
-# Config & state
-# --------------------------------------------------------------------------- #
-
-def load_sources(path: Path) -> list[dict]:
-    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
-    sources = []
-    for src in data.get("sources", []):
-        if not src.get("enabled", True):
+    added = 0
+    for it in unique:
+        tr = translations.get(it.id)
+        state.mark(it.keys, today)
+        if tr and not tr.get("relevant", True) and not it.source.subtopic:
+            log.info("AI: not relevant, skipping: %s", it.title[:70])
             continue
-        if not src.get("name") or not src.get("url"):
-            log.warning("Skipping source without name/url: %r", src)
+        art = to_article(it, tr, topics, now)
+        if not art["subtopic"]:
             continue
-        src.setdefault("type", "rss")
-        src.setdefault("category", "")
-        # Google News summaries just repeat the title, so they are off by default.
-        src.setdefault("summary", src["type"] != "google_news")
-        src["_patterns"] = keyword_patterns(src.get("keywords") or [])
-        sources.append(src)
-    return sources
+        if dry_run:
+            print("=" * 60)
+            print(f"[{art['subtopic']}] {art['title_mn'] or art['title']}  ({art['ai'] or 'English'})")
+            print(f"  url:   {art['url']}\n  image: {art['image'] or '-'}")
+            print(f"  {art['summary_mn'] or art['summary_en'][:200]}")
+        else:
+            store.save_article(art, data_dir)
+        state.outbox.append({"kind": "article", "article": art})
+        added += 1
+    return added > 0
 
 
-def load_state(path: Path) -> dict:
-    try:
-        raw = path.read_text(encoding="utf-8").strip()
-        data = json.loads(raw) if raw else {}
-    except FileNotFoundError:
-        data = {}
-    except json.JSONDecodeError:
-        log.error("%s is not valid JSON; treating it as empty", path)
-        data = {}
-    return {"sources": list(data.get("sources", [])), "items": dict(data.get("items", {}))}
-
-
-def save_state(path: Path, state: dict) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    data = {"sources": sorted(state["sources"]), "items": dict(sorted(state["items"].items()))}
-    path.write_text(json.dumps(data, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
-
-
-def prune_state(state: dict, now: datetime) -> int:
-    cutoff = (now - STATE_TTL).date().isoformat()
-    old = [k for k, day in state["items"].items() if day < cutoff]
-    for k in old:
-        del state["items"][k]
-    return len(old)
-
-
-# --------------------------------------------------------------------------- #
-# Fetching
-# --------------------------------------------------------------------------- #
-
-def fetch_entries(session: requests.Session, src: dict) -> list:
-    resp = session.get(src["url"], timeout=FETCH_TIMEOUT)
-    resp.raise_for_status()
-    feed = feedparser.parse(resp.content)
-    if feed.bozo and not feed.entries:
-        raise ValueError(f"parse error: {feed.get('bozo_exception')!r}")
-    return feed.entries
-
-
-def build_item(entry, src: dict) -> Item | None:
-    link = (entry.get("link") or "").strip()
-    title = strip_html(entry.get("title") or "")
-    if not link or not title:
-        return None
-    clean_link = normalize_url(link)
-    link_key = short_key(clean_link)
-    # Unique id: entry.id, or sha256 of the (utm-stripped) link.
-    # The link key is always stored too, so the same URL coming from two
-    # different sources is only sent once.
-    id_key = short_key(entry["id"]) if entry.get("id") else link_key
-    summary = strip_html(entry.get("summary") or entry.get("description") or "")
-    return Item(
-        source=src,
-        title=title,
-        link=link,
-        summary=summary,
-        published=entry_time(entry),
-        keys=list(dict.fromkeys([id_key, link_key])),
-    )
-
-
-def matches_keywords(item: Item) -> bool:
-    patterns = item.source["_patterns"]
-    if not patterns:
-        return True
-    text = f"{item.title}\n{item.summary}"
-    return any(p.search(text) for p in patterns)
-
-
-# --------------------------------------------------------------------------- #
-# Telegram
-# --------------------------------------------------------------------------- #
-
-def format_message(item: Item) -> str:
-    src = item.source
-    lines = [
-        f"<b>{html.escape(src['name'], quote=False)}</b>",
-        f'<a href="{html.escape(item.link, quote=True)}">{html.escape(item.title, quote=False)}</a>',
-    ]
-    if src.get("summary") and item.summary and item.summary != item.title:
-        lines += ["", html.escape(truncate(item.summary, SUMMARY_LIMIT), quote=False)]
-    tag = hashtag(src.get("category", ""))
-    if tag:
-        lines += ["", tag]
-    return "\n".join(lines)
-
-
-class Telegram:
-    def __init__(self, token: str, chat_id: str, dry_run: bool):
-        self.dry_run = dry_run
-        self.chat_id = chat_id
-        self.url = f"https://api.telegram.org/bot{token}/sendMessage"
-        self.session = requests.Session()
-
-    def send(self, text: str) -> bool:
-        """Return True on success, False if this message should be skipped."""
-        if self.dry_run:
-            print("-" * 60)
-            print(text)
-            return True
-        payload = {
-            "chat_id": self.chat_id,
-            "text": text,
-            "parse_mode": "HTML",
-            "disable_web_page_preview": False,
-        }
-        for attempt in range(1, TELEGRAM_RETRIES + 1):
-            try:
-                resp = self.session.post(self.url, json=payload, timeout=FETCH_TIMEOUT)
-            except requests.RequestException as exc:
-                log.warning("Telegram request failed (attempt %d): %s", attempt, exc)
-                time.sleep(SEND_DELAY * attempt)
-                continue
-            if resp.ok:
-                return True
-            try:
-                body = resp.json()
-            except ValueError:
-                body = {}
-            desc = body.get("description", resp.text[:200])
-            if resp.status_code == 429:
-                wait = int(body.get("parameters", {}).get("retry_after", 5)) + 1
-                log.warning("Telegram 429, waiting %ss", wait)
-                time.sleep(wait)
-                continue
-            if resp.status_code in (401, 403, 404):
-                raise TelegramFatalError(f"HTTP {resp.status_code}: {desc}")
-            if resp.status_code == 400 and "chat not found" in desc.lower():
-                raise TelegramFatalError(f"HTTP 400: {desc}")
-            # Other 4xx (e.g. bad HTML): skip this message so it does not block the queue.
-            if 400 <= resp.status_code < 500:
-                log.error("Telegram rejected message (HTTP %s): %s", resp.status_code, desc)
-                return False
-            log.warning("Telegram HTTP %s (attempt %d): %s", resp.status_code, attempt, desc)
-            time.sleep(SEND_DELAY * attempt)
-        raise TelegramFatalError("Telegram unavailable after retries")
-
-
-# --------------------------------------------------------------------------- #
-# Main
-# --------------------------------------------------------------------------- #
-
-def run(dry_run: bool, sources_path: Path, state_path: Path) -> int:
+def send(state: store.State, dry_run: bool) -> int:
+    if not state.outbox:
+        log.info("Outbox empty, nothing to send")
+        return 0
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
     if not dry_run and (not token or not chat_id):
         log.error("TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID must be set (or use --dry-run)")
         return 2
-
-    sources = load_sources(sources_path)
-    state = load_state(state_path)
-    seen = state["items"]
-    first_run = not seen and not state["sources"]
-    now = datetime.now(timezone.utc)
-    today = now.date().isoformat()
-    cutoff = now - MAX_AGE
-
-    session = requests.Session()
-    session.headers.update({"User-Agent": USER_AGENT,
-                            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
-
-    candidates: list[Item] = []
-    run_keys: set[str] = set()
-    ok, failed, bootstrapped = [], [], 0
-    for src in sources:
-        try:
-            entries = fetch_entries(session, src)
-        except Exception as exc:  # noqa: BLE001 - one bad source must not stop the run
-            log.warning("[%s] fetch failed: %s", src["name"], exc)
-            failed.append(src["name"])
-            continue
-        ok.append(src["name"])
-        # A source we have never fetched successfully (first run, or newly added
-        # to sources.yaml): mark its current items as seen without sending.
-        bootstrap = first_run or src["name"] not in state["sources"]
-        fresh = 0
-        for entry in entries:
-            item = build_item(entry, src)
-            if item is None:
-                continue
-            if any(k in seen for k in item.keys):
-                if item.published is None:
-                    # Undated items have no age filter, so keep them alive while
-                    # they are still in the feed to avoid re-sending after pruning.
-                    for k in item.keys:
-                        seen[k] = today
-                continue
-            if item.published and item.published < cutoff:
-                continue  # too old; never sent, no need to remember it
-            if not matches_keywords(item):
-                continue
-            if any(k in run_keys for k in item.keys):
-                continue  # same link from another source in this run
-            run_keys.update(item.keys)
-            if bootstrap:
-                for k in item.keys:
-                    seen[k] = today
-                bootstrapped += 1
-            else:
-                candidates.append(item)
-                fresh += 1
-        log.info("[%s] %d entries, %d new%s", src["name"], len(entries), fresh,
-                 " (bootstrap)" if bootstrap else "")
-        if src["name"] not in state["sources"]:
-            state["sources"].append(src["name"])
-
-    # Forget sources removed from sources.yaml so re-adding them bootstraps again.
-    names = {s["name"] for s in sources}
-    state["sources"] = [n for n in state["sources"] if n in names]
-
-    log.info("Sources OK: %d, failed: %d %s", len(ok), len(failed), failed or "")
-
-    tg = Telegram(token, chat_id, dry_run)
-    exit_code = 0
+    topics = load_topics()
+    base = site_url()
+    tg = Telegram(token, chat_id, state.telegram, dry_run)
     try:
-        if first_run:
-            if not ok:
-                log.error("First run but every source failed; not initializing state")
-                return 1
-            log.info("First run: marked %d items as seen, sending nothing", bootstrapped)
-            tg.send(f"Bot started, tracking {len(sources)} sources")
-        else:
-            candidates.sort(key=lambda it: it.sort_time)
-            batch = candidates[:MAX_MESSAGES]
-            log.info("%d new items, sending %d (max %d per run)",
-                     len(candidates), len(batch), MAX_MESSAGES)
-            for i, item in enumerate(batch):
-                if i and not dry_run:
-                    time.sleep(SEND_DELAY)
-                tg.send(format_message(item))
-                # Messages Telegram rejected (send() == False) are marked seen too,
-                # so a single bad item can't block the queue forever.
-                for k in item.keys:
-                    seen[k] = today
-            if len(candidates) > len(batch):
-                log.info("%d items left for the next run", len(candidates) - len(batch))
+        tg.setup_topics(topics)
+    except TelegramRejected as exc:
+        log.warning("Telegram getChat failed: %s", exc)
+
+    sent = 0
+    exit_code = 0
+    remaining = list(state.outbox)
+    try:
+        while remaining:
+            entry = remaining[0]
+            if sent and not dry_run:
+                time.sleep(SEND_DELAY)
+            try:
+                if entry["kind"] == "notice":
+                    tg.send_text(entry["text"])
+                else:
+                    art = dict(entry["article"])
+                    if base:
+                        art["site_url"] = f"{base}a/{art['id']}.html"
+                    tg.send_article(art, topics)
+                sent += 1
+            except TelegramRejected as exc:
+                # Don't let one bad message block the queue forever.
+                log.error("Telegram rejected message, dropping it: %s", exc.description)
+            remaining.pop(0)
     except TelegramFatalError as exc:
-        log.error("Telegram error, stopping: %s", exc)
-        if first_run:
-            return 1  # don't save; retry initialization next run
+        log.error("Telegram error, stopping (%d left in outbox): %s", len(remaining), exc)
         exit_code = 1
-
-    pruned = prune_state(state, now)
-    if pruned:
-        log.info("Pruned %d entries older than %d days", pruned, STATE_TTL.days)
-
-    if dry_run:
-        log.info("Dry run: %s not modified", state_path)
-    else:
-        save_state(state_path, state)
+    if not dry_run:
+        state.outbox = remaining
+    log.info("Sent %d messages", sent)
     return exit_code
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Telegram AI news bot")
+    parser = argparse.ArgumentParser(description="Telegram dev-news bot")
+    parser.add_argument("phase", nargs="?", choices=["prepare", "send", "all"], default="all")
     parser.add_argument("--dry-run", action="store_true",
-                        help="print messages instead of sending; do not modify seen.json")
-    parser.add_argument("--sources", type=Path, default=SOURCES_FILE, help="path to sources.yaml")
-    parser.add_argument("--state", type=Path, default=STATE_FILE, help="path to seen.json")
+                        help="print instead of sending; do not modify state/ or data/")
+    parser.add_argument("--state-dir", type=Path, default=store.STATE_DIR)
+    parser.add_argument("--data-dir", type=Path, default=store.DATA_DIR)
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s",
                         stream=sys.stderr)
-    return run(args.dry_run, args.sources, args.state)
+    logging.getLogger("httpx").setLevel(logging.WARNING)
+
+    state = store.State(args.state_dir)
+    now = datetime.now(timezone.utc)
+    exit_code = 0
+    changed = False
+    if args.phase in ("prepare", "all"):
+        changed = prepare(state, args.data_dir, args.dry_run)
+        pruned = state.prune(now)
+        if not args.dry_run:
+            pruned_articles = store.prune_articles(now, load_topics().keep_days, args.data_dir)
+            if pruned or pruned_articles:
+                log.info("Pruned %d seen entries, %d articles", pruned, pruned_articles)
+            changed = changed or pruned_articles > 0
+    if args.phase in ("send", "all"):
+        exit_code = send(state, args.dry_run)
+
+    if args.dry_run:
+        log.info("Dry run: state/ and data/ not modified")
+    else:
+        state.save()
+    if os.environ.get("GITHUB_OUTPUT") and args.phase != "send":
+        with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
+            fh.write(f"changed={'true' if changed else 'false'}\n")
+    return exit_code
 
 
 if __name__ == "__main__":

@@ -1,224 +1,216 @@
-# AI News Telegram Bot
+# Dev Мэдээ — AI · Software · UI/UX мэдээний бот
 
-AI болон хөгжүүлэгчийн мэдээг 30 минут тутам шалгаж, **зөвхөн шинэ** мэдээг таны Telegram чат руу илгээдэг бот. GitHub Actions дээр үнэгүй ажиллана — сервер хэрэггүй.
-
-Хамрах сэдэв: ChatGPT/OpenAI, Gemini/Google, Claude/Anthropic, Meta, Mistral, xAI, DeepSeek, Qwen, Hugging Face, Microsoft/GitHub, open-source загварууд, AI хөгжүүлэгчийн хэрэгслүүд, Hacker News.
-
-## Хэрхэн ажилладаг вэ
+Хөгжүүлэгчийн мэдээг 30 минут тутам шалгаж, **Монгол хэл рүү орчуулан** Telegram group-ийн
+**сэдэв тус бүрийн topic** руу илгээж, мөн **зурагтай вэбсайт** дээр нийтэлдэг бот.
+GitHub Actions + GitHub Pages дээр үнэгүй ажиллана.
 
 ```
-GitHub Actions (cron */30) → main.py → sources.yaml дахь feed-үүдийг татна
-  → state/seen.json-тэй харьцуулна → шинэ мэдээг Telegram руу илгээнэ
-  → seen.json өөрчлөгдсөн бол commit + push хийнэ
+GitHub Actions (cron */30)
+ 1. sources.yaml-ийн RSS-үүдийг татна → шинэ мэдээ олно (state/seen.json)
+ 2. Мэдээ бүрийн эх хуудсыг нээж зураг (og:image) болон текстийг авна
+    (Google News-ийн линкийг жинхэнэ хаяг руу нь задална)
+ 3. AI-аар Монгол гарчиг, товчлол, дэлгэрэнгүй тайлбар бичүүлнэ
+    Gemini 3.8 Flash → Gemini 3.5 Flash-Lite → Claude Haiku 5.5 → (англиар)
+ 4. data/articles/YYYY/MM/DD/<id>.json  ← мэдээний сан
+ 5. build_site.py → вэбсайт → GitHub Pages
+ 6. Telegram: зураг + Монгол гарчиг + товчлол + [Дэлгэрэнгүй] [Эх сурвалж]
+    🤖 AI / ⚛️ Software / 🎨 UI/UX topic тус бүр рүү
 ```
 
-- **Анхны ажиллалт** (`seen.json` хоосон): юу ч илгээхгүй, одоо байгаа бүх мэдээг "харсан" гэж тэмдэглээд `Bot started, tracking N sources` гэсэн ганц мессеж илгээнэ.
-- Зөвхөн **сүүлийн 3 хоногийн** мэдээг, **хуучнаас нь эхлэн** илгээнэ.
-- Нэг ажиллалтад **дээд тал нь 20** мессеж, мессеж хооронд 3 секунд. Үлдсэн нь дараагийн ажиллалтаар явна. Telegram 429 өгвөл `retry_after` хүлээгээд дахин оролдоно.
-- Нэг эх сурвалж (timeout, 4xx/5xx, parse error) алдаа өгвөл log-д бичээд бусдыг нь үргэлжлүүлнэ.
-- Ижил линк хоёр өөр эх сурвалжаас ирвэл нэг л удаа илгээнэ (`utm_*` параметрийг хасаж харьцуулна).
-- `seen.json`-оос 30 хоногоос хуучин бичлэгийг автоматаар устгана.
-- `sources.yaml`-д **шинээр нэмсэн** эх сурвалжийн одоо байгаа мэдээг мөн чимээгүй "харсан" гэж тэмдэглэнэ (spam болохгүй).
+## Сэдвүүд
+
+| Сэдэв | Дэд сэдвүүд |
+|---|---|
+| 🤖 AI | OpenAI, Gemini, Anthropic, xAI, Qwen, Kimi, AI DevTools |
+| ⚛️ Software | React, React Native, Next.js, NestJS, Tauri, Electron, Node.js, Vercel/Cloud |
+| 🎨 UI/UX | shadcn/ui, Tailwind CSS, Motion, Design systems, CSS/Web platform |
+
+Бот **зөвхөн эдгээр дэд сэдэвтэй холбоотой** мэдээг илгээнэ. Тодорхойлолт нь `topics.yaml`-д байна.
 
 ## Файлын бүтэц
 
 | Файл | Үүрэг |
 |---|---|
-| `main.py` | Үндсэн логик |
-| `sources.yaml` | Эх сурвалжийн жагсаалт |
-| `state/seen.json` | Илгээсэн мэдээний ID-ууд (бот өөрөө шинэчилнэ) |
-| `.github/workflows/news.yml` | GitHub Actions workflow |
-| `requirements.txt` | Python dependency (feedparser, requests, PyYAML) |
+| `main.py` | `prepare` (татах, орчуулах, хадгалах) ба `send` (Telegram) |
+| `build_site.py` | `data/articles/`-аас статик сайт үүсгэнэ → `public/` |
+| `topics.yaml` | Сэдэв, дэд сэдэв, keyword, сайтын нэр, хадгалах хугацаа |
+| `sources.yaml` | Эх сурвалжууд (аль дэд сэдэвт хамаарах) |
+| `newsbot/` | `feeds` (RSS), `enrich` (зураг/текст), `ai` (орчуулга), `telegram`, `store` |
+| `site/assets/` | Сайтын CSS, JS |
+| `state/seen.json` | Илгээсэн мэдээний ID-ууд |
+| `state/outbox.json` | Илгээх дараалал (Telegram алдаа гарвал энд үлдэж дараа нь явна) |
+| `state/telegram.json` | Telegram topic-уудын ID (бот өөрөө бөглөнө) |
+| `data/articles/` | Мэдээний сан (JSON) |
+| `.github/workflows/news.yml` | GitHub Actions |
 
 ---
 
 ## Тохируулах заавар
 
-### 1. @BotFather-аар бот үүсгэж token авах
+### 1. @BotFather-аар бот үүсгэх
 
-1. Telegram дээр [@BotFather](https://t.me/BotFather)-г нээнэ.
-2. `/newbot` гэж бичнэ.
-3. Ботын нэр (жишээ нь `My AI News`), дараа нь `bot`-оор төгссөн username (жишээ нь `my_ai_news_bot`) өгнө.
-4. BotFather танд иймэрхүү **token** өгнө:
-   ```
-   123456789:AAHk1x2y3z-AbCdEfGhIjKlMnOpQrStUvWx
-   ```
-   Үүнийг хэнд ч бүү үзүүл, код дотор бүү бич.
+1. Telegram дээр [@BotFather](https://t.me/BotFather) → `/newbot`
+2. Нэр, `bot`-оор төгссөн username өгнө → **token** авна (`123456789:AAH...`). Хэнд ч бүү үзүүл.
 
-### 2. Telegram group үүсгэж, ботоо нэмээд chat_id авах
+### 2. Telegram group: Topics асаах, ботыг admin болгох, chat_id авах
 
-1. Telegram дээр шинэ group үүсгэнэ (жишээ нь "AI News").
-2. Group-ийн гишүүдэд ботоо нэмнэ (username-аар нь хайна).
-3. Group дотор ямар нэг мессеж бичнэ. Ботын privacy mode идэвхтэй үед энгийн мессеж ботод хүрэхгүй байж болох тул команд илгээх нь найдвартай:
-   ```
-   /start@my_ai_news_bot
-   ```
-4. Терминал дээр (`<TOKEN>`-г өөрийн token-оор солино):
+1. Group үүсгээд ботоо нэмнэ.
+2. **Topics асаах:** Group → ✏️ Edit → **Topics** → асаана.
+3. **Ботыг admin болгох:** Group → Administrators → Add Admin → бот → **Manage Topics** болон
+   **Post/Send messages** эрхийг асаана.
+   → Бот анхны ажиллалтаараа **🤖 AI**, **⚛️ Software**, **🎨 UI/UX** topic-уудыг өөрөө үүсгэнэ.
+   Topics асаагаагүй бол бүх мэдээ нэг урсгалд, сэдвийн шошготой ирнэ.
+4. **chat_id авах:** group-д `/start@<bot_username>` гэж бичээд:
    ```bash
    curl -s "https://api.telegram.org/bot<TOKEN>/getUpdates"
    ```
-   Хариунаас `"chat":{"id":-100xxxxxxxxxx,"title":"AI News","type":"supergroup"...}` хэсгийг олно. Энэ `id` (хасах тэмдэгтэйгээ хамт) нь таны **chat_id**.
+   Хариунаас `"chat":{"id":-100xxxxxxxxxx, ...}`-г олно (хасах тэмдэгтэй нь).
+   `"result":[]` хоосон бол ботыг group-оос хасаад дахин нэмээд дахин ажиллуулна.
 
-   `jq` суусан бол шууд гаргаж болно:
-   ```bash
-   curl -s "https://api.telegram.org/bot<TOKEN>/getUpdates" | jq '.result[] | (.message // .my_chat_member).chat | {id, title, type}'
-   ```
-   > `"result":[]` хоосон гарвал group дотор дахин `/start@my_ai_news_bot` бичээд дахин оролдоно уу.
-   > Group-ийг supergroup болгоход chat_id өөрчлөгддөг (`-100...` болно) — тэр үед шинэ id-г ашиглана.
+   > ⚠️ **Topics асаахад group "supergroup" болж chat_id өөрчлөгддөг** (`-100...` болно).
+   > Topics асаасны **дараа** chat_id-гаа авч, `TELEGRAM_CHAT_ID` secret-ийг шинэчилнэ үү.
 
-5. Шалгах (group-д "test" гэж ирэх ёстой):
-   ```bash
-   curl -s "https://api.telegram.org/bot<TOKEN>/sendMessage" -d chat_id=<CHAT_ID> -d text=test
-   ```
+### 3. API key-үүд
 
-> Хувийн чат руу илгээх бол ботдоо `/start` гэж бичээд дээрх `getUpdates`-ээр өөрийн chat_id-г (эерэг тоо) авна.
+| Secret | Хаанаас | Заавал эсэх |
+|---|---|---|
+| `TELEGRAM_BOT_TOKEN` | @BotFather | Заавал |
+| `TELEGRAM_CHAT_ID` | 2-р алхам | Заавал |
+| `GEMINI_API_KEY` | [aistudio.google.com/apikey](https://aistudio.google.com/apikey) → Create API key (үнэгүй) | Зөвлөмж |
+| `CLAUDE_API_TOKEN` | [platform.claude.com](https://platform.claude.com) → API keys (кредит шаардлагатай) | Нөөц |
 
-### 3. GitHub repo үүсгэх
+Repo → **Settings → Secrets and variables → Actions → New repository secret**.
+AI key огт байхгүй бол бот ажилласаар байна, зүгээр л мэдээг англиар илгээнэ.
 
-1. GitHub дээр шинэ repo үүсгэнэ (README, .gitignore нэмэлгүй, хоосон).
-   - **Public (зөвлөмж):** GitHub Actions минут хязгааргүй үнэгүй.
-   - **Private:** сард 2,000 минут үнэгүй. Нэг ажиллалт ~1 минут (GitHub job бүрийг минут руу дээш тоймлодог) × өдөрт 48 × 30 хоног ≈ 1,440 минут — хязгаарт багтана.
-   - Public repo-д `seen.json` дахь hash-ууд л харагдана; token, chat_id нь Secrets-д нууцлагдсан тул ил гарахгүй.
-2. Энэ хавтсыг push хийнэ (git аль хэдийн init хийгдсэн, анхны commit бэлэн):
-   ```bash
-   cd ai-news-bot
-   git remote add origin https://github.com/<USERNAME>/<REPO>.git
-   git push -u origin main
-   ```
+### 4. GitHub Pages асаах
 
-### 4. Secrets нэмэх
+Repo → **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+Сайтын хаяг: `https://<username>.github.io/<repo>/` (жишээ нь `https://bat3orig.github.io/ai-news-bot/`).
 
-Repo → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**:
+> Pages асаагаагүй байсан ч Telegram бот ажиллана (deploy алхам алдаа өгөөд алгасагдана).
 
-| Name | Value |
-|---|---|
-| `TELEGRAM_BOT_TOKEN` | BotFather-ийн өгсөн token |
-| `TELEGRAM_CHAT_ID` | 2-р алхмын chat_id (жишээ нь `-1001234567890`) |
+### 5. Ажиллуулах
 
-> Workflow нь `permissions: contents: write` гэж зарласан тул `seen.json`-г push хийж чадна. Хэрэв push дээр `403` алдаа гарвал **Settings → Actions → General → Workflow permissions**-ийг **Read and write permissions** болгоно уу.
+Repo → **Actions → AI News Bot → Run workflow**. Үүнээс хойш 30 минут тутам автоматаар ажиллана.
 
-### 5. Анх удаа гараар ажиллуулах (workflow_dispatch)
+- `sources.yaml`-д шинээр нэмэгдсэн эх сурвалжийн одоо байгаа мэдээг илгээхгүй, чимээгүй "харсан" гэж
+  тэмдэглэнэ. Зөвхөн дараа нь гарах шинэ мэдээ ирнэ.
+- Нэг ажиллалтад дээд тал нь 20 мессеж. Үлдсэн нь дараагийн ажиллалтаар явна.
 
-1. Repo → **Actions** таб. (Анх удаа бол "I understand my workflows, go ahead and enable them" товчийг дарна.)
-2. Зүүн талаас **AI News Bot** → **Run workflow** → **Run workflow**.
-3. 1–2 минутын дараа:
-   - Telegram group-д `Bot started, tracking 22 sources` гэж ирнэ.
-   - Repo-д `github-actions[bot]`-ийн `chore: update seen.json` commit гарч ирнэ.
-4. Үүнээс хойш 30 минут тутам автоматаар ажиллаж, зөвхөн шинэ мэдээг илгээнэ.
+---
 
-> GitHub-ийн `schedule` нь ачааллаас шалтгаалж 5–20 минут хоцрох нь энгийн үзэгдэл.
-> Public repo-д 60 хоног ямар ч үйл ажиллагаа (commit гэх мэт) байхгүй бол GitHub scheduled workflow-г автоматаар унтраадаг. Тийм болбол Actions табаас дахин **Enable** хийнэ.
+## AI орчуулга (Gemini → Claude)
 
-### 6. Эх сурвалж нэмэх
+- Ажиллалт бүр **эхлээд Gemini**-г оролдоно. Квот дууссан (429) эсвэл алдаа гарвал дараагийн загвар руу,
+  эцэст нь Claude руу шилжинэ. Дараагийн ажиллалт дахиад Gemini-ээс эхэлнэ, тиймээс квот сэргэмэгц
+  автоматаар буцна.
+- Нэг ажиллалтын мэдээг 8-аар нь багцалж нэг хүсэлтээр орчуулна (өдөрт ~50–100 хүсэлт).
+- Холимог эх сурвалжийн (Hacker News) мэдээг AI мөн ангилж, сэдэвт хамаагүй бол алгасна.
+- Гинжийг өөрчлөх: Settings → Secrets and variables → Actions → **Variables** → `AI_PROVIDERS`
+  ```
+  gemini:gemini-3.8-flash,gemini:gemini-3.5-flash-lite,claude:claude-haiku-5-5
+  ```
+  Жишээ нь зөвхөн үнэгүй байлгах бол `gemini:gemini-3.8-flash,gemini:gemini-3.5-flash-lite`.
+- Gemini-ийн үнэгүй хязгаарыг [AI Studio](https://aistudio.google.com) → таны project-ийн rate limit хэсгээс харна.
 
-`sources.yaml`-д шинэ бичлэг нэмнэ:
+## Сайт
 
+- **Нүүр:** сэдэв бүрийн дэд сэдвүүд (тоотой) + сүүлийн мэдээ
+- **`/ai/`, `/software/`, `/uiux/`:** сэдвийн бүх мэдээ, 30-аар хуудаслана
+- **`/t/<дэд сэдэв>/`:** тухайн дэд сэдвийн бүх мэдээ (жишээ нь `/t/nextjs/`)
+- **`/a/<id>.html`:** мэдээний хуудас — зураг, Монгол дэлгэрэнгүй, эх мэдээний холбоос, холбоотой мэдээ
+- Бүх мэдээнээс хайх, dark/light горим, гар утсанд тохирсон
+
+### Хадгалалт ба repo-ийн хэмжээ
+
+Мэдээ бүр ~3–6 KB JSON. Өдөрт 50–100 мэдээ гэвэл сард ~10–15 MB, жилд git түүхтэйгээ ~100–150 MB
+(git шахдаг тул бодитоор үүнээс бага). GitHub repo-г 1 GB-аас бага байлгахыг зөвлөдөг тул олон жил
+асуудалгүй. `topics.yaml` → `site.keep_days` (default 180) хоногоос хуучин мэдээг автоматаар устгана.
+`0` бол үүрд хадгална.
+
+---
+
+## Сэдэв / эх сурвалж нэмэх
+
+**Шинэ дэд сэдэв** — `topics.yaml`:
 ```yaml
-  - name: My New Source            # давхардахгүй нэр, мессежид тод харагдана
-    url: https://example.com/feed.xml
-    type: rss                      # rss | atom | github_release | google_news
-    category: OpenSource           # -> #OpenSource hashtag
-    keywords: [AI, LLM, agent]     # сонголттой: гарчиг/товчлолд эдгээрийн аль нэг байвал л илгээнэ
-    summary: true                  # сонголттой: товчлол харуулах эсэх
-    enabled: true                  # сонголттой: false бол түр унтраана
+      - id: svelte                # URL-д орно: /t/svelte/
+        name: Svelte
+        hashtag: Svelte
+        keywords: [Svelte, SvelteKit]   # холимог эх сурвалжаас ангилахад
+        about: Svelte and SvelteKit framework
 ```
 
-Түгээмэл загварууд:
+**Шинэ эх сурвалж** — `sources.yaml`:
+```yaml
+  - name: Svelte Blog
+    url: https://svelte.dev/blog/rss.xml
+    subtopic: svelte
 
-- **GitHub release:** `https://github.com/<owner>/<repo>/releases.atom`
-- **Албан ёсны RSS байхгүй компани (Google News):**
-  `https://news.google.com/rss/search?q=<QUERY>&hl=en-US&gl=US&ceid=US:en`
-  - Хоосон зайг `+`, хашилтыг `%22` гэж бичнэ: `q=%22Mistral+AI%22`
-  - Сүүлийн 1 хоногоор хязгаарлах: `q=DeepSeek+when:1d`
-- **Hacker News:** `https://hnrss.org/newest?points=100` (+ `keywords` заавал)
-
-`keywords` нь том жижиг үсэг ялгахгүй, **бүтэн үгээр** таарна (жишээ нь `AI` нь "said"-тэй таарахгүй, `model` нь "models"-тэй таарна).
-
-Шинэ эх сурвалж нэмсний дараа:
-```bash
-python main.py --dry-run
+  - name: sveltejs/svelte                       # GitHub release
+    url: https://github.com/sveltejs/svelte/releases.atom
+    type: github_release
+    subtopic: svelte
+    skip_prereleases: true                      # canary/alpha/beta/rc алгасна
 ```
-ажиллуулж log-д `[My New Source] N entries ...` гарч байгаа эсэхийг шалгаад commit + push хийнэ. Шинэ эх сурвалжийн одоо байгаа мэдээ илгээгдэхгүй, зөвхөн дараа нь гарах шинэ мэдээ ирнэ.
+Албан ёсны RSS байхгүй бол Google News:
+`https://news.google.com/rss/search?q=<QUERY>&hl=en-US&gl=US&ceid=US:en` (`type: google_news`).
 
-### 7. Локал дээр `--dry-run`-аар тестлэх
+## Локал дээр турших
 
 ```bash
-cd ai-news-bot
-python3.12 -m venv .venv
-source .venv/bin/activate
+python3.12 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-python main.py --dry-run
+python main.py --dry-run          # юу илгээгдэхийг хэвлэнэ; state/, data/-г өөрчлөхгүй, Telegram руу илгээхгүй
+python build_site.py              # data/articles-аас public/ үүсгэнэ
+python -m http.server -d public   # http://localhost:8000
 ```
+AI орчуулгыг локалаар турших бол `export GEMINI_API_KEY=...` хийгээд `--dry-run` ажиллуулна
+(dry-run ч гэсэн AI API-г дуудна).
 
-`--dry-run` нь Telegram руу илгээхгүй, мессежүүдийг консол руу хэвлэнэ, `seen.json`-г **өөрчлөхгүй**. Token шаардлагагүй.
-
-- `seen.json` хоосон үед зөвхөн `Bot started, tracking N sources` хэвлэнэ (анхны ажиллалтын горим).
-- GitHub дээр бот ажиллаж эхэлсний дараа `git pull` хийгээд `--dry-run` ажиллуулбал дараагийн ажиллалтаар юу илгээгдэхийг харна.
-- Өөр state файлаар туршиж болно: `python main.py --dry-run --state /tmp/test-seen.json`
-
-Жинхэнээр локалаас илгээх (ховор хэрэг болно — GitHub дээрх `seen.json`-той зөрчилдөж болзошгүй):
-```bash
-export TELEGRAM_BOT_TOKEN="123456789:AA..."
-export TELEGRAM_CHAT_ID="-1001234567890"
-python main.py
-```
+Тусдаа хавтсанд бүтэн туршилт: `python main.py prepare --state-dir /tmp/s --data-dir /tmp/d`
 
 ---
 
 ## Эх сурвалжийн төлөв (2026-10-08-нд шалгасан)
 
-Бүх URL-ийг Python (`requests` + `feedparser`, 15 секундийн timeout, энгийн User-Agent)-ээр шалгасан.
+Бүх URL-ийг `requests` + `feedparser`-ээр шалгасан. 40 эх сурвалж бүгд ажиллаж байна.
 
-### ✅ Ажиллаж байгаа (sources.yaml-д орсон)
+**🤖 AI:** OpenAI News, Google DeepMind, Google AI Blog, Google Developers Blog (keyword шүүлттэй),
+Anthropic / xAI / Qwen / Kimi (Google News), GitHub Changelog & Blog (AI keyword шүүлттэй),
+anthropics/claude-code, openai/codex, openai/openai-python, ollama/ollama releases
 
-| Нэр | URL | Тэмдэглэл |
-|---|---|---|
-| OpenAI News | `https://openai.com/news/rss.xml` | |
-| Google DeepMind | `https://deepmind.google/blog/rss.xml` | |
-| Google AI Blog | `https://blog.google/technology/ai/rss/` | Gemini мэдээ эндээс |
-| Google Developers Blog | `https://developers.googleblog.com/feeds/posts/default` | Огноо байхгүй feed — анх харсан цагаар нь тооцно |
-| Anthropic (Google News) | `news.google.com/rss/search?q=Anthropic+Claude` | |
-| Hugging Face Blog | `https://huggingface.co/blog/feed.xml` | |
-| Meta AI (Google News) | `news.google.com/rss/search?q="Meta AI" OR "Llama model"` | |
-| Mistral AI (Google News) | `news.google.com/rss/search?q="Mistral AI"` | |
-| xAI (Google News) | `news.google.com/rss/search?q=xAI+Grok` | |
-| DeepSeek (Google News) | `news.google.com/rss/search?q=DeepSeek` | |
-| Qwen (Google News) | `news.google.com/rss/search?q=Qwen+Alibaba` | |
-| Microsoft Official Blog | `https://blogs.microsoft.com/feed/` | AI/Copilot/Azure keyword шүүлттэй |
-| Microsoft Foundry Blog (Azure AI) | `https://devblogs.microsoft.com/foundry/feed/` | |
-| GitHub Changelog | `https://github.blog/changelog/feed/` | AI/Copilot keyword шүүлттэй |
-| GitHub Blog | `https://github.blog/feed/` | AI/Copilot keyword шүүлттэй |
-| ollama/ollama | `github.com/ollama/ollama/releases.atom` | |
-| ggml-org/llama.cpp | `github.com/ggml-org/llama.cpp/releases.atom` | ⚠️ Өдөрт 10+ build release — их шуугиантай. Хэрэггүй бол `enabled: false` |
-| vllm-project/vllm | `github.com/vllm-project/vllm/releases.atom` | |
-| huggingface/transformers | `github.com/huggingface/transformers/releases.atom` | |
-| anthropics/claude-code | `github.com/anthropics/claude-code/releases.atom` | |
-| openai/openai-python | `github.com/openai/openai-python/releases.atom` | |
-| Hacker News | `https://hnrss.org/newest?points=100` | Keyword шүүлттэй. Заримдаа түр `connection reset` өгдөг — дараагийн ажиллалтаар нөхөгдөнө |
+**⚛️ Software:** React Blog, facebook/react, React Native Blog, facebook/react-native, Expo Changelog,
+Next.js Blog, vercel/next.js, nestjs/nest, Tauri Blog, tauri-apps/tauri, Electron Blog, electron/electron,
+Node.js Blog, Vercel
 
-### ❌ Эвдэрсэн / байхгүй (Google News-ээр орлуулсан)
+**🎨 UI/UX:** shadcn/ui, shadcn-ui/ui, Tailwind CSS Blog, tailwindlabs/tailwindcss, Motion Blog,
+motiondivision/motion, Figma Blog, Smashing Magazine, CSS-Tricks, web.dev, Chrome for Developers
+
+**Холимог:** Hacker News (100+ оноотой, `topics.yaml`-ийн keyword-оор ангилна)
+
+### ❌ Эвдэрсэн / байхгүй (орлуулсан)
 
 | Эх сурвалж | Шалгасан URL | Үр дүн | Орлуулсан |
 |---|---|---|---|
-| Anthropic | `https://www.anthropic.com/news/rss.xml` | 404 — албан ёсны RSS байхгүй | Google News |
-| Meta AI | `https://ai.meta.com/blog/rss/` | 400 — bot хамгаалалттай, RSS байхгүй | Google News |
-| Mistral AI | `https://mistral.ai/news/rss.xml` | 404 | Google News |
-| xAI | `https://x.ai/news/rss.xml` | 404 | Google News |
-| DeepSeek | `https://api-docs.deepseek.com/news/rss.xml` | 200 боловч хоосон | Google News |
-| Qwen | `https://qwenlm.github.io/blog/index.xml` | Ажилладаг боловч 2025-09-өөс хойш шинэчлэгдээгүй | Google News |
-| Microsoft AI Blog | `https://blogs.microsoft.com/ai/feed/` | 410 Gone | Microsoft Official Blog + Foundry Blog |
-| Microsoft Copilot Blog | `https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/` | 200 боловч хоосон | — |
+| Anthropic | `anthropic.com/news/rss.xml` | 404 | Google News |
+| xAI | `x.ai/news/rss.xml` | 404 | Google News |
+| Qwen | `qwenlm.github.io/blog/index.xml` | 2025-09-өөс хойш шинэчлэгдээгүй | Google News |
+| Qwen / Kimi GitHub | `QwenLM/Qwen3`, `MoonshotAI/Kimi-K2` releases | Release байхгүй | Google News |
+| NestJS блог | `trilon.io/blog/rss.xml` | 404 | nestjs/nest releases |
 
-> **Google News-ийн тухай:** query-д таарсан бүх хэвлэлийн мэдээг авчирдаг тул өдөрт хэдэн арван мессеж болж магадгүй. Хэт олон байвал query-г нарийсгах (`q=%22Anthropic%22+Claude+when:1d`), `keywords` нэмэх, эсвэл `enabled: false` болгоно уу. Мөн Google News-ийн линк нь `news.google.com/rss/articles/...` redirect хэлбэртэй тул албан ёсны блогийн ижил мэдээтэй давхардлыг таньж чадахгүй.
+> Next.js, React Native, Electron, Codex зэрэг нь canary/rc/nightly-г өдөр бүр гаргадаг тул
+> `skip_prereleases: true` тохиргоогоор зөвхөн тогтвортой хувилбарыг авна.
 
 ## Алдаа засах
 
-| Шинж тэмдэг | Шалтгаан / шийдэл |
+| Шинж тэмдэг | Шийдэл |
 |---|---|
-| Workflow `TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID must be set` | Secrets нэмээгүй эсвэл нэрийг буруу бичсэн |
-| `Telegram error, stopping: HTTP 401` | Token буруу |
-| `HTTP 400: Bad Request: chat not found` / `403` | chat_id буруу, эсвэл бот group-оос хасагдсан |
+| `TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID must be set` | Secrets-ийн нэрийг шалгах |
+| `HTTP 400: chat not found` | chat_id буруу — Topics асаасны дараа chat_id өөрчлөгддөг |
+| `Could not create Telegram topic` | Ботыг admin болгож **Manage Topics** эрх өгөх |
+| Мэдээ англиар ирж байна | `GEMINI_API_KEY` / `CLAUDE_API_TOKEN` secret, Actions log дахь `AI ... failed` мөр |
+| `Deploy to GitHub Pages` алдаа | Settings → Pages → Source: **GitHub Actions** |
 | Push дээр `403` | Settings → Actions → General → Workflow permissions → Read and write |
-| Анхны мессежийг дахин авахыг хүсвэл | `state/seen.json`-г `{}` болгож commit хийгээд workflow-г ажиллуулна |
-| Нэг эх сурвалж байнга `fetch failed` | URL-ийг `curl -I <url>`-ээр шалгаад солих эсвэл `enabled: false` |
+| Топик устгачихсан | Бот автоматаар General руу илгээж, дараагийн ажиллалтад дахин үүсгэнэ |

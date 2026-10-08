@@ -1,0 +1,135 @@
+# Сэдэв ба дэд сэдвүүд.
+#
+# Бот зөвхөн эдгээр дэд сэдэвтэй холбоотой мэдээг илгээнэ.
+#   section   — Telegram-ийн topic (өрөө) болон сайтын таб
+#   subtopic  — hashtag болон сайтын шүүлтүүр
+#
+# Дэд сэдвийн талбарууд:
+#   id        — давтагдашгүй, жижиг латин үсэг (URL-д орно: /t/<id>/)
+#   name      — харагдах нэр
+#   hashtag   — Telegram hashtag (#-гүйгээр, зөвхөн үсэг/тоо/_)
+#   keywords  — sources.yaml-д subtopic заагаагүй (Hacker News гэх мэт) эх сурвалжийн
+#               мэдээг ангилахад ашиглана. Том жижиг үсэг ялгахгүй, бүтэн үгээр.
+#   about     — AI-д зориулсан товч тайлбар (ангилал хийхэд тусална)
+
+site:
+  title: "Dev Мэдээ"
+  description: "AI, Software, UI/UX — хөгжүүлэгчдэд зориулсан мэдээ Монгол хэлээр"
+  # Сайт дээр мэдээг хэдэн хоног хадгалах (data/articles/). 0 = үүрд хадгална.
+  keep_days: 180
+
+sections:
+  - id: ai
+    name: AI
+    emoji: "🤖"
+    subtopics:
+      - id: openai
+        name: OpenAI
+        hashtag: OpenAI
+        keywords: [OpenAI, ChatGPT, GPT-5, GPT-6, Sora, Sam Altman]
+        about: OpenAI company, ChatGPT, GPT models, Sora, OpenAI API
+      - id: gemini
+        name: Gemini
+        hashtag: Gemini
+        keywords: [Gemini, Google DeepMind, DeepMind, Gemma, NotebookLM, Google AI Studio]
+        about: Google Gemini models and apps, Google DeepMind, Gemma, Google AI products
+      - id: anthropic
+        name: Anthropic
+        hashtag: Anthropic
+        keywords: [Anthropic, Claude]
+        about: Anthropic company and Claude models/apps
+      - id: xai
+        name: xAI
+        hashtag: xAI
+        keywords: [xAI, Grok]
+        about: xAI company and Grok models
+      - id: qwen
+        name: Qwen
+        hashtag: Qwen
+        keywords: [Qwen, Tongyi Qianwen]
+        about: Alibaba Qwen models
+      - id: kimi
+        name: Kimi
+        hashtag: Kimi
+        keywords: [Kimi, Moonshot AI]
+        about: Moonshot AI and Kimi models
+      - id: ai-devtools
+        name: AI DevTools
+        hashtag: AIDevTools
+        keywords: [GitHub Copilot, Copilot, Cursor, Claude Code, Codex, MCP, Model Context Protocol, Ollama, coding agent, AI agent, Windsurf, vibe coding, LLM]
+        about: AI tools for software developers — coding assistants/agents, Copilot, Claude Code, Codex, Cursor, MCP, local LLM runners, AI SDKs
+
+  - id: software
+    name: Software
+    emoji: "⚛️"
+    subtopics:
+      - id: react
+        name: React
+        hashtag: React
+        keywords: [React, React 19, React 20, React Compiler, React Server Components]
+        about: React library (web)
+      - id: react-native
+        name: React Native
+        hashtag: ReactNative
+        keywords: [React Native, Expo]
+        about: React Native and Expo mobile development
+      - id: nextjs
+        name: Next.js
+        hashtag: NextJS
+        keywords: [Next.js, NextJS, Turbopack]
+        about: Next.js framework
+      - id: nestjs
+        name: NestJS
+        hashtag: NestJS
+        keywords: [NestJS]
+        about: NestJS backend framework
+      - id: tauri
+        name: Tauri
+        hashtag: Tauri
+        keywords: [Tauri]
+        about: Tauri desktop/mobile app framework
+      - id: electron
+        name: Electron
+        hashtag: Electron
+        keywords: [Electron, ElectronJS]
+        about: Electron desktop app framework (not the physics particle)
+      - id: node
+        name: Node.js
+        hashtag: NodeJS
+        keywords: [Node.js, NodeJS, npm]
+        about: Node.js runtime and npm ecosystem
+      - id: vercel-cloud
+        name: Vercel/Cloud
+        hashtag: Vercel
+        keywords: [Vercel, Netlify, Cloudflare Workers, serverless, edge functions]
+        about: Vercel platform and frontend/serverless cloud hosting
+
+  - id: uiux
+    name: UI/UX
+    emoji: "🎨"
+    subtopics:
+      - id: shadcn
+        name: shadcn/ui
+        hashtag: shadcn
+        keywords: [shadcn, shadcn/ui]
+        about: shadcn/ui component collection
+      - id: tailwind
+        name: Tailwind CSS
+        hashtag: TailwindCSS
+        keywords: [Tailwind, Tailwind CSS, TailwindCSS]
+        about: Tailwind CSS framework
+      - id: motion
+        name: Motion
+        hashtag: Motion
+        keywords: [Framer Motion, motion.dev, Motion Studio]
+        about: Motion (formerly Framer Motion) animation library
+      - id: design-systems
+        name: Design systems
+        hashtag: DesignSystems
+        keywords: [design system, design systems, design tokens, Figma, component library]
+        about: Design systems, design tokens, Figma, UI component libraries, UX design practice
+      - id: css-web
+        name: CSS/Web platform
+        hashtag: CSS
+        keywords: [CSS, HTML, Web platform, Baseline, WebGPU, View Transitions, Interop]
+        about: CSS, HTML and new web platform/browser features
