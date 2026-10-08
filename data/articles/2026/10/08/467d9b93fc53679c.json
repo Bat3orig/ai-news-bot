@@ -1,0 +1,16 @@
+{
+ "id": "467d9b93fc53679c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "TradingView",
+ "url": "https://www.tradingview.com/news/seekingalpha:e09db4a04094b:0-anthropic-commits-150m-to-u-s-ai-science-initiative/",
+ "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+ "title": "Anthropic commits $150M to U.S. AI science initiative",
+ "summary_en": "Content provided by Seeking Alpha is intended for information purposes only, and that Seeking Alpha does not offer any personalist investment advice and is not a licensed securities dealer, broker, US investment adviser or investment bank.",
+ "title_mn": "Anthropic компаниийн шинжлэх ухааны санаачилгад оруулсан санхүүжилт",
+ "summary_mn": "Энэхүү мэдээлэл нь хөрөнгө оруулалт болон санхүүгийн зах зээлийн ерөнхий тайлбар бөгөөд тухайн мэдээлэл нь хөрөнгө оруулалтын зөвлөгөө биш болохыг анхааруулсан байна.",
+ "body_mn": "Энэхүү контент нь зөвхөн мэдээллийн чанартай бөгөөд хувь хүний хөрөнгө оруулалтын зөвлөгөө болохгүй. Seeking Alpha болон холбогдох платформууд нь тусгай зөвшөөрөлтэй үнэт цаасны дилер, брокер эсвэл хөрөнгө оруулалтын банк биш юм.",
+ "published": "2026-10-08T15:29:16Z",
+ "added": "2026-10-08T18:57:09Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

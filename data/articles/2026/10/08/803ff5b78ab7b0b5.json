@@ -1,0 +1,16 @@
+{
+ "id": "803ff5b78ab7b0b5",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "AI Magazine",
+ "url": "https://aimagazine.com/news/anthropic-godel-what-is-the-ai-powered-godel-factory",
+ "image": "https://assets.bizclikmedia.net/1200/22bb8ad37f4fc420c446006119e2ae39:ecbc6690eec8db265ffd3c8a5f2b346b/fqx1ggarbiyrrya3xhr3hsijue.jpg.jpg",
+ "title": "Anthropic & Godel: What is the AI-Powered Godel Factory?",
+ "summary_en": "UK-headquartered Godel has released a new factory solution spanning agent workflows, skills and engineering that runs on Anthropic products",
+ "title_mn": "Godel Technologies Anthropic Claude дээр суурилсан Godel Factory платформыг нэвтрүүлэв",
+ "summary_mn": "Godel Technologies нь Claude дээр суурилсан Godel Factory гэх AI-native хөгжүүлэлтийн загварыг танилцууллаа. Платформ нь төвлөрсөн агент, стандарт ажлын урсгал болон чанар, эрсдэл, зардлыг бодит цагт хэмжинэ.",
+ "body_mn": "Godel Technologies нь agentic engineering чиглэлийн компани бөгөөд Anthropic-ийн Claude загварт суурилсан Godel Factory гэх AI-native хүргэлтийн загварыг танилцуулжээ. Энэ нь байгууллагууд технологийг хэрхэн бүтээж, удирдаж байгааг өөрчлөх зорилготой.\n\nПлатформ нь төвлөрсөн байдлаар боловсруулсан AI агент, стандарт ажлын урсгал, agent skills, инженерийн мэдлэг болон автоматжуулалтаас бүрдэнэ. Компанийн гүйцэтгэх захирал Гарет Эйнсворт үүнийг захиалагчийн эзэмшилд байрших үйлдвэр гэж тодорхойлсон. Godel нь Anthropic-ийн Claude Partner Network-ийн гишүүн юм.\n\nGodel Factory гурван гол хэсгээс бүрдэнэ: давтагдах инженерийн процессыг AI агентууд гүйцэтгэх, инженерүүд чухал шийдвэрийг баталгаажуулах, харин Factory Intelligence нь хүргэгдсэн ажлыг бие даан шалгаж хэмжинэ. Технологийн захирал Жо Волски чанар, эрсдэл, зардлыг бодит цагт харуулах баазлаг шалгуурыг онцолжээ.\n\nЭнэхүү платформыг эхлээд legacy технологийн шинэчлэл, AI дата платформ, ухаалаг апп болон ажлын урсгалд чиглэн нэвтрүүлнэ. Хөгжүүлэгчдэд энэ нь агентад суурилсан инженерийн арга барил зах зээлд хэрхэн хэрэгжиж байгааг харуулах жишээ юм.",
+ "published": "2026-10-08T09:45:46Z",
+ "added": "2026-10-08T18:57:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}

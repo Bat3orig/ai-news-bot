@@ -5,5 +5,10 @@
   "software": 5,
   "uiux": 6
  },
- "forum": true
+ "forum": true,
+ "names": {
+  "ai": "AI",
+  "software": "Software",
+  "uiux": "UI/UX"
+ }
 }

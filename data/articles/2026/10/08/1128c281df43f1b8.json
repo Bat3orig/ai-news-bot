@@ -1,0 +1,16 @@
+{
+ "id": "1128c281df43f1b8",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/flux-3-image-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/308Sa3pzuNe99tVYc4COdn/ff4af2bd86781de4212ab8ab7ba90e62/image.png",
+ "title": "FLUX 3 Image now available on AI Gateway",
+ "summary_en": "FLUX 3 Image from Black Forest Labs is now available on AI Gateway. Generate images from text or edit existing images using the same model, with one API key and no Black Forest Labs account required. FLUX 3 Image supports up to ten reference images for editing, combining subjects, or changing the composition. It supports five resolution tiers from 768 × 768 to 4K, with square, portrait, and landscape aspect ratios. Set AI_GATEWAY_API_KEY , then use bfl/flux-3-image as the model ID in AI SDK 7 or later. To generate an image, call generateImage with a text prompt: To edit an image, pass it in…",
+ "title_mn": "FLUX 3 Image зураг үүсгэх загвар Vercel AI Gateway дээр гарлаа",
+ "summary_mn": "Black Forest Labs-ийн FLUX 3 Image загвар AI Gateway дээр боломжтой боллоо. Текстээс зураг үүсгэх, одоо байгаа зургийг засах боломжтой бөгөөд 10 хүртэл лавлах зураг ашиглана.",
+ "body_mn": "Black Forest Labs-ийн FLUX 3 Image загвар Vercel AI Gateway дээр гарсан. Нэг API түлхүүрээр текстээс зураг үүсгэх болон одоо байгаа зургийг засах боломжтой бөгөөд Black Forest Labs-ийн тусдаа бүртгэл шаардлагагүй.\n\nЗагвар засварлахад 10 хүртэл лавлах зураг дэмжиж, субъектуудыг нэгтгэх эсвэл зургийн бүтцийг өөрчлөх боломжтой. Гаралт нь 768 × 768-аас 4K хүртэлх таван нарийвчлалын түвшинтэй бөгөөд дөрвөлжин, босоо, хөндлөн харьцаатай байна.\n\nХөгжүүлэгчид AI_GATEWAY_API_KEY орчны хувьсагчийг тохируулаад AI SDK 7 болон түүнээс хойшхи хувилбарт bfl/flux-3-image загварын ID-г ашиглана. generateImage функцээр текстийн prompt илгээж зураг үүсгэх, prompt.images-оор зураг дамжуулан засварлах боломжтой. Мөн AI CLI-аар терминалаас ижил загварыг ашиглаж болно.",
+ "published": "2026-10-08T00:00:00Z",
+ "added": "2026-10-08T18:57:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}

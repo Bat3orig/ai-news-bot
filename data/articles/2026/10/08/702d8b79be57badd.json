@@ -1,0 +1,16 @@
+{
+ "id": "702d8b79be57badd",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Techaeris",
+ "url": "https://techaeris.com/2026/10/08/spacexai-lands-1-5-million-grok-deal/",
+ "image": "https://techaeris.com/wp-content/uploads/2026/10/SpaceXAI-joins-the-Omarchy-Foundation-as-a-Founding-Corporate-Patron-with-1.5-million-in-Grok-tokens-pushing-total-backing-to-about-23.2-million.jpg",
+ "title": "SpaceXAI Lands $1.5 Million Grok Deal With Omarchy Foundation",
+ "summary_en": "SpaceXAI joins the Omarchy Foundation as a Founding Corporate Patron with $1.5 million in Grok tokens, pushing total backing to about $23.2 million",
+ "title_mn": "SpaceXAI компани Omarchy Foundation сангийн хувь нийлүүлэгч болжээ",
+ "summary_mn": "SpaceXAI компани Omarchy Foundation санд 1.5 сая ам долларын дүйцэхүйц Grok токеноор хөрөнгө оруулж, анхдагч байгууллагын ивээн тэтгэгч боллоо. Энэхүү хөрөнгө оруулалт нь Линукс системийн төслийн автоматжуулсан агентуудыг хөгжүүлэхэд зарцуулагдана.",
+ "body_mn": "Хиймэл оюун ухааны технологи хөгжүүлэгч SpaceXAI компани Grok загваруудыг дэмжих зорилгоор Omarchy Foundation санд 1.5 сая ам долларын үнэ бүхий Grok токеноор хандив өргөж, анхдагч ивээн тэтгэгчээр (Founding Corporate Patron) элслээ. Ингэснээр тус сангийн нийт санхүүжилт ойролцоогоор 23.2 сая ам доллар болж өссөн байна.\n\nЭнэхүү хөрөнгө оруулалт нь бэлэн мөнгө бус токеноор хийгдэж байгаа бөгөөд Omarchy төсөл дээр ирж буй олон мянган pull request-ийг хянаж шалгах Omabot болон бусад автоматжуулсан агентуудын үйл ажиллагааг эрчимжүүлэхэд ашиглагдах аж. Төслийн баг одоогоор 7,000 орчим pull request хүлээн авсан бөгөөд хүний хүчин чадлаас давсан энэхүү ачааллыг Grok 4.7 болон түүнээс хойших загварууд дээр суурилсан агентуудын тусламжтайгаар шийдвэрлэж байна.\n\nOmarchy Foundation нь Meta Superintelligence Labs, Alibaba Cloud, DigitalOcean зэрэг технологийн акулуудтай хамтран ажилладаг бөгөөд энэхүү токен хандив нь нээлттэй эх сурвалжтай төслүүдэд хиймэл оюун ухааны тооцооллын хүчин чадлыг шууд хөрөнгө оруулалт болгон ашиглах шинэ жишиг тогтоож байна.",
+ "published": "2026-10-08T14:12:39Z",
+ "added": "2026-10-08T18:57:09Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

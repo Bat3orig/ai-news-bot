@@ -1,0 +1,16 @@
+{
+ "id": "b92241be22fa50cc",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Anthropic",
+ "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+ "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&backgroundColor=heather",
+ "title": "Building on our commitment to American scientific discovery",
+ "summary_en": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+ "title_mn": "Anthropic компани Genesis Mission санаачилгад 150 сая ам долларын дэмжлэг үзүүлнэ",
+ "summary_mn": "Anthropic компани АНУ-ын шинжлэх ухааны судалгааг дэмжих зорилгоор Genesis Mission хөтөлбөрт гурван жилийн хугацаанд 150 сая ам доллар санхүүжүүлэхээ амлалаа. Үүний үр дүнд NASA, NIH зэрэг агентлагуудын эрдэмтэд Claude загварыг ашиглах боломжтой болно.",
+ "body_mn": "Anthropic компани АНУ-ын холбооны засгийн газрын Genesis Mission санаачилгад хамрагдаж, эрдэм шинжилгээний судалгааг хиймэл оюун ухаанаар түргэтгэх зорилгоор 150 сая ам долларын санхүүжилт олгохоо мэдэгдлээ. Энэхүү хөрөнгө оруулалт нь NASA, Үндэсний Эрүүл Мэндийн Институт (NIH), Үндэсний Шинжлэх Ухааны Сан (NSF) зэрэг 15 гаруй агентлагийн эрдэмтэд болон үндэсний лабораториудад Claude хиймэл оюун ухааныг ашиглах боломжийг бүрдүүлнэ.\n\nКомпани энэхүү хамтын ажиллагааны хүрээнд судалгааны ажлыг дэмжих зорилгоор Claude Science ажлын орчныг хөгжүүлж, академик судлаачдад 10,000 хүртэлх эрхийг үнэ төлбөргүй болон хөнгөлөлттэй байдлаар олгож эхэлжээ. Мөн өндөр үр дүнтэй төслүүдэд зориулсан credits хөтөлбөрөө өргөжүүлсэн байна.\n\nҮүний зэрэгцээ Anthropic хэрэглээний бодлогоо шинэчилж, кибер аюулгүй байдлын мэргэжилтнүүдэд зориулсан CyberVerification Program хөтөлбөрөө өргөжүүлж буйгаа зарлав. Түүнчлэн Accenture, Morgan Stanley зэрэг томоохон байгууллагуудтай хамтран ажиллах Claude Frontier Academy академиа байгуулахаар 100 сая ам долларын хөрөнгө оруулалт хийж байна.",
+ "published": "2026-10-08T13:00:00Z",
+ "added": "2026-10-08T18:57:09Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

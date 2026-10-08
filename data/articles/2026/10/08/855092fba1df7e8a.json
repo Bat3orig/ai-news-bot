@@ -1,0 +1,16 @@
+{
+ "id": "855092fba1df7e8a",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/pollo-ai",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/6xbSXB2KZiXOp5KaOSOHGp/b064de95ee020e5a151d567f73d5e6ff/pollo-ai-customer-story-seo-image-cinema-velvet-1920x1080.png?w=1600&h=900&fit=fill",
+ "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+ "summary_en": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+ "title_mn": "Pollo AI платформын видео бүтээх үйл явцад OpenAI загварууд нэгдлээ",
+ "summary_mn": "Pollo AI нь хэрэглэгчдэд санаагаа видео болгон хувиргахад туслах зорилгоор GPT-5.6, GPT-6 Astra болон GPT-Image-2.5 загваруудыг ашиглаж эхэлжээ. Шинэ Pollo Agent хэрэгсэл нь видео зохиол, үзэгдлийн дарааллыг автоматаар гаргадаг.",
+ "body_mn": "Контент бүтээгчдэд зориулсан Pollo AI платформ нь OpenAI-ийн дэвшилтэт загваруудыг нэгтгэж бузраа зарлалаа. Уг платформын шинээр танилцуулсан Pollo Agent нь GPT-5.6, GPT-6 Astra болон GPT-Image-2.5 загваруудыг ашиглан хэрэглэгчийн санааг кино шиг чанартай видео зар сурталчилгаа болгон хувиргах бүрэн удирдлагатай ажлын урсгалыг санал болгож байна.\n\nPollo AI нь тооцооллын хурд, өртөг болон ухаалаг байдлыг тэнцвэржүүлэхийн тулд GPT-5.6 загварыг хүсэлт чиглүүлэхэд (routing), харин илүү төвөгтэй өгүүлэмж болон зохиол бичихэд GPT-6 Astra загварыг ашигладаг. Энэхүү хослол нь хэрэглэгчдэд загвар сонгох цагийг 50 гаруй хувиар хэмнэх боломжийг олгож байна.\n\nТүүнчлэн Marketing Studio хэрэгслийн багц дахь Photo to Video Ads боломж нь энгийн зураг болон санамжаас богино хэмжээний видео сурталчилгааг хэдхэн минутын дотор бүтээхэд тусалдаг. Энэ нь жижиг бизнес эрхлэгчид болон маркетеруудад мэргэжлийн түвшний студийн зардал гаргалгүйгээр чанартай контент хийх боломжийг олгож буйгаараа онцлог юм.",
+ "published": "2026-10-08T12:00:00Z",
+ "added": "2026-10-08T18:57:09Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

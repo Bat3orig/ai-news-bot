@@ -1,0 +1,16 @@
+{
+ "id": "6336fbc409a12703",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-commits-three-year-claude-support-to-the-doe-genesis-mission/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-commits-three-year-claude-support-doe-genesis-mission.jpg",
+ "title": "Anthropic Commits Three-Year Claude Support to the DOE Genesis Mission",
+ "summary_en": "Anthropic announced on October 8, 2026 that it is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI. Anthropic said the...",
+ "title_mn": "Anthropic АНУ-ын шинжлэх ухааны Genesis Mission санаачилгад 150 сая ам.доллар хандивлана",
+ "summary_mn": "Anthropic компани шинжлэх ухааны нээлтүүдийг хиймэл оюун ухаанаар хурдасгах Genesis Mission санаачилгад гурван жилийн хугацаанд 150 сая ам.долларын санхүүжилт олгохоор болжээ. Ингэснээр NASA болон NIH зэрэг агентлагууд Claude загваруудыг судалгаандаа ашиглах боломжтой болно.",
+ "body_mn": "Anthropic компани Вашингтон хотод болсон шинжлэх ухааны дээд хэмжээний уулзалтын үеэр холбооны засгийн газрын Genesis Mission санаачилгад гурван жилийн хугацаанд 150 сая ам.долларын дэмжлэг үзүүлэхээ зарлалаа. Уг санаачилга нь хиймэл оюун ухааны тусламжтайгаар шинжлэх ухаан, технологийн нээлтүүдийг хурдасгах зорилготой бөгөөд NASA, Эрүүл мэндийн үндэсний хүрээлэн (NIH), Шинжлэх ухааны үндэсний сан зэрэг 15 гаруй агентлаг хамрагдаж байна.\n\nСанхүүжилтийн хүрээнд Anthropic компани дээрх байгууллагуудын хэдэн зуун судалгааны төслүүдэд Claude, Claude Code болон API эрхүүдийг үнэ төлбөргүй болон хөнгөлөлттэй нөхцөлөөр олгох юм. Түүнчлэн термоядерын энерг болон квант тооцоолол зэрэг чухал чиглэлүүдээр эрдэмтэдтэй нягт хамтран ажиллаж, техникийн дэмжлэг үзүүлэхээр төлөвлөжээ. Энэ нь эрдэмтдэд дэлхийн хамгийн хүнд сорилтуудыг шийдвэрлэхэд хиймэл оюун ухааныг үр дүнтэй ашиглах боломжийг олгох юм.\n\nЭнэхүү алхам нь Anthropic болон Эрчим хүчний яамны хооронд өмнө нь эхлүүлсэн олон жилийн түншлэлийн үргэлжлэл ажээ. Компани нь өмнө нь Claude Science платформыг гаргаж, академик судлаачдад зориулсан хөтөлбөрүүдийг хэрэгжүүлж байсан бөгөөд энэхүү шинэ санхүүжилт нь Америкийн эрдэмтдийг дэмжих өргөн хүрээтэй үйл ажиллагааны нэг хэсэг болж байна.",
+ "published": "2026-10-08T15:23:01Z",
+ "added": "2026-10-08T18:57:09Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

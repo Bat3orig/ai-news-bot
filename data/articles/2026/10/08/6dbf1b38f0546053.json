@@ -1,0 +1,16 @@
+{
+ "id": "6dbf1b38f0546053",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/sandbox-create-waits-until-ready",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4rt1MEqNqmKfNGurRV42N5/30d16e3a0c7603beb63e967d9506958f/Sandbox.create_og.png",
+ "title": "Vercel Sandbox creation now returns a ready sandbox",
+ "summary_en": "A new Vercel Sandbox is now ready to run commands and read or write files when creation completes. Sandbox.create() now resolves only after snapshot restoration completes, so the first command or file operation no longer waits for it. Startup errors also reject Sandbox.create() instead of surfacing during that operation. Snapshot restoration time now counts toward creation instead of the first operation. Creation is about 50 ms longer at p50, with a larger increase possible for uncached snapshots. The total time through the first operation remains the same. This change applies automatically…",
+ "title_mn": "Vercel Sandbox-ийг үүсгэх үед бэлэн болсон байдлаар буцаадаг боллоо",
+ "summary_mn": "Sandbox.create() одоо snapshot сэргээлт дууссаны дараа л амжилттай буцна. Эхний команд эсвэл файлын үйлдэл хүлээх шаардлагагүй болсон бөгөөд эхлэх алдаа нь create дээр шууд гарна.",
+ "body_mn": "Vercel Sandbox-ийн шинэ өөрчлөлтөөр Sandbox.create() нь snapshot сэргээлт бүрэн дууссаны дараа л resolve хийнэ. Ингэснээр sandbox үүсгэсний дараа шууд команд ажиллуулах, файл унших эсвэл бичих боломжтой болно. Өмнө нь энэ хугацаа эхний үйлдэл дээр тооцогддог байсан.\n\nЭхлэх үеийн алдаа одоо Sandbox.create() дээр шууд reject болно. Өмнө нь энэ нь эхний үйлдлийн үед гарч байсан тул алдааг илрүүлэх нь амархан байх болно.\n\nГүйцэтгэлийн хувьд create хугацаа p50-д ойролцоогоор 50 ms-ээр урт болсон бөгөөд кэшлэгдээгүй snapshot-д илүү их өсөлт гарч болзошгүй. Харин эхний үйлдэл хүртэлх нийт хугацаа өөрчлөгдөөгүй байна.\n\nЭнэ өөрчлөлт SDK-г шинэчлэх шаардлагагүй бөгөөд тохиргоо өөрчлөх шаардлагагүй автоматаар хэрэгжинэ.",
+ "published": "2026-10-08T06:00:00Z",
+ "added": "2026-10-08T18:57:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}

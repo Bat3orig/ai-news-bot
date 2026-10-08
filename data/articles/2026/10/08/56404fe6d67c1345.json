@@ -1,0 +1,16 @@
+{
+ "id": "56404fe6d67c1345",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/pingdotgg/ts-rust",
+ "image": "https://opengraph.githubassets.com/da7b44547168b119dfc591ca782f210d23d18e37f877dcf005f07dce75b15618/pingdotgg/ts-rust",
+ "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+ "summary_en": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 106 # Comments: 200",
+ "title_mn": "TypeScript компиляторыг LLM-ээр Rust руу шилжүүлсэн туршилтын порт гарлаа",
+ "summary_mn": "Туршилтын ts-rust төсөл TypeScript компайлер, checker болон LSP-ийг Rust руу шилжүүлсэн гэж мэдээлжээ. Зохиогч нь үүнийг бүхэлд нь LLM-ээр бичүүлсэн бөгөөд кодыг нь уншаагүй гэжээ.",
+ "body_mn": "Hacker News дээр нийтлэгдсэн мэдээнд TypeScript компайлер, checker болон language server-ийг LLM-ээр Rust руу порт хийсэн туршилт тайлагджээ. Зохиогч нь зардлыг 420,000 доллараас давсан гэж тооцсон боловч зохистой бол ойролцоогоор 20,000 доллараар хийж болох байсан гэжээ. Эхний хувилбар нь бодит төслүүдийн 100% нийцлийг харуулсан гэж мэдэгдсэн ч \"Known problems\" хэсэгт зарим асуудал дурджээ.\n\nПорт нь Microsoft-ийн Go дээр бичигдсэн TypeScript компайлерийн алгоритм болон зан төлөвийг хадгалж, tsc-тай адил командын мөр, language server болон API-г дэмжинэ. npm багц нь tsc-rs нэрээр гарсан бөгөөд Linux x64 болон macOS arm64 платформд боломжтой. Windows болон Linux arm64 дээр одоогоор бэлэн биш.\n\nМөн Effect language service-ийн оношилгоог сонголтоор дэмжих бөгөөд quick fix, hover, completion зэрэг редакторын зарим функц порт хийгдээгүй байна. Зохиогч нь кодыг нь уншаагүй гэдгээ онцолсон тул хөгжүүлэгчид гүйцэтгэл, найдвартай байдлыг нь бие даан шалгах хэрэгтэй. Энэ туршилт нь LLM-ээр том системийг шилжүүлэх боломж, зардлын талаар сонирхолтой жишээ болж байна.",
+ "published": "2026-10-08T00:46:00Z",
+ "added": "2026-10-08T18:57:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}

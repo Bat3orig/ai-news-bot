@@ -1,0 +1,16 @@
+{
+ "id": "7dcaddd2b98841b5",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7j8mZuCava3hzXtnYmLwPg/35f35053f5e998131580efd736d1e773/image__117_.png",
+ "title": "Step 5 Preview now available on AI Gateway",
+ "summary_en": "Step 5 Preview , StepFun's flagship model, is now available on AI Gateway . It's built for agentic coding, professional knowledge work, and financial analysis, from building apps and debugging code to research and analytical reports. Step 5 Preview supports text and image input with a 1M-token context window, allowing you to work with large codebases, a stack of documents, or screenshots and charts in a single request. Use stepfun/step-5-preview as the model name: For other coding agents such as Claude Code, Codex, Cursor, and more, install the latest Vercel CLI and run setup: Then select…",
+ "title_mn": "Step 5 Preview загвар Vercel AI Gateway дээр боломжтой боллоо",
+ "summary_mn": "StepFun-ийн Step 5 Preview загвар AI Gateway дээр гарлаа. Текст болон зургийн оролтыг дэмжиж, 1M токений контекст цонхтой. Загварын нэрийг stepfun/step-5-preview гэж ашиглана.",
+ "body_mn": "Vercel-ийн AI Gateway дээр StepFun компанийн тугийн загвар Step 5 Preview боломжтой болсон. Загвар нь агент хэлбэрийн кодчлол, мэргэжлийн мэдлэгт суурилсан ажил, санхүүгийн шинжилгээнд зориулагдсан бөгөөд апп бүтээх, код засах, тайлан бэлтгэхэд ашиглах боломжтой.\n\nStep 5 Preview текст болон зургийн оролтыг хүлээн авч, 1M токений контекст цонхтой. Энэ нь том кодын сан, олон баримт бичиг, дэлгэцийн зураг болон диаграммыг нэг хүсэлтээр боловсруулах боломжийг олгоно. Загварын нэрийг stepfun/step-5-preview гэж заана.\n\nAI Gateway нь провайдерын үнийг нэмэлтгүй тусгаж, inference дээр платформын хураамж авдаггүй. Мөн Bring Your Own Key (BYOK) хүсэлтэд ч адил байна. Нэгдсэн API, хэрэглээ болон зардлын хяналт, нөөц солилцох дүрэм зэрэг боломжууд багтана.\n\nХөгжүүлэгчид Claude Code, Codex, Cursor зэрэг кодын агентуудаас энэ загварыг сонгон ашиглах боломжтой. Vercel CLI-ийг шинэчлээд setup ажиллуулснаар тохируулж болно.",
+ "published": "2026-10-08T00:00:00Z",
+ "added": "2026-10-08T18:57:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}

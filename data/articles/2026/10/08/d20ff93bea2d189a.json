@@ -1,0 +1,16 @@
+{
+ "id": "d20ff93bea2d189a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Wccftech",
+ "url": "https://wccftech.com/china-blasts-false-information-for-political-purposes-after-anthropic-claude-code-logs-allegedly-unmask-a-26-year-old-hacker-of-nine-south-korean-banks-who-now-says-hes-being-framed/",
+ "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Anthropic-Claude-Code-China.jpeg",
+ "title": "China Blasts “False Information For Political Purposes” After Anthropic Claude Code Logs Allegedly Unmask A 26-Year-Old Hacker Of Nine South Korean Banks, Who Now Says He’s Being Framed",
+ "summary_en": "The leaked Anthropic Claude Code logs point to a South China University of Technology student, along with his initials and Telegram handle.",
+ "title_mn": "Anthropic Claude Code лог файлуудаас болж кибер халдлагын хэрэг маргаан дэгдлээ",
+ "summary_mn": "Өмнөд Солонгосын банкнуудад халдсан хэргийн сэжигтний Anthropic Claude Code ярианы лог файлыг ашиглан илрүүлсэн тухай мэдээлэл гарлаа. Хятадын Гадаад хэргийн яам үүнийг улс төрийн зорилготой худал мэдээлэл хэмээн мэдэгдэв.",
+ "body_mn": "Өмнөд Солонгосын санхүүгийн байгууллагуудад гарсан кибер халдлагын гол сэжигтэн ARTEX хэмээх хятад гаралтай автоматжуулсан хиймэл оюун ухааны агент ашигласан нь тогтоогдсон байна. Аюулгүй байдлын CrowdStrike фирмийн мэдээлснээр, хакер этгээд Anthropic Claude Code ашиглан CV-гээ шинэчлэх хүсэлт гаргах явцдаа ярианы лог файлууддаа өөрийн хувийн мэдээлэл болон халдлагын ул мөрийг санамсаргүйгээр ил болгосон ажээ.\n\nЭнэхүү үйл явдлын дараа Хятадын Гадаад хэргийн яамны хэвлэлийн төлөөлөгч МАО НИН мэдэгдэл хийж, уг мэдээллийг \"улс төрийн зорилгоор тарааж буй худал мэдээлэл\" хэмээн буруушаалаа. Тэрбээр Хятад улс кибер гэмт хэргийг үргэлж эсэргүүцдэг болохыг онцлоод, хиймэл оюун ухаан нь кибер аюулгүй байдалд гүнзгий нөлөө үзүүлж байгаа тул олон улсын хамтын ажиллагааг бэхжүүлэх шаардлагатайг анхааруулав.\n\nХарин өөрийгөө буруутгагдаж буй залуу Henan мужийн дэлгүүрт ажилладаг бөгөөд хэн нэгэнд гүтгүүлсэн гэж мэдэгдэж байна. Хиймэл оюун ухааны хөгжүүлэлтийн явцад үүсч буй энэхүү лог болон аюулгүй байдлын асуудал нь хөгжүүлэгчид болон судлаачдын анхаарлыг зүй ёсоор татаж байна.",
+ "published": "2026-10-08T14:36:39Z",
+ "added": "2026-10-08T18:57:09Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
