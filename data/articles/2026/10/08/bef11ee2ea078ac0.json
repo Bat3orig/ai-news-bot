@@ -1,0 +1,16 @@
+{
+ "id": "bef11ee2ea078ac0",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "PR Newswire",
+ "url": "https://www.prnewswire.com/news-releases/hexaware-becomes-an-anthropic-preferred-partner-bringing-claude-to-the-core-of-its-ai-native-platforms-302902488.html",
+ "image": "https://mmx.prnewswire.com/media/MS1890791/Hexaware-Logo.jpg?id=OA2994851&p=facebook",
+ "title": "Hexaware Becomes an Anthropic Preferred Partner, Bringing Claude to the Core of Its AI-native Platforms",
+ "summary_en": "/PRNewswire/ -- Hexaware Technologies (NSE: HEXT), a global provider of IT services and solutions, today announced a multi-year strategic partnership with...",
+ "title_mn": "Hexaware Anthropic-ийн Preferred Partner болж, Claude-ийг өөрийн платформууддаа нэвтрүүлэв",
+ "summary_mn": "Hexaware Technologies компани Anthropic-тай олон жилийн стратеги түншлэл байгуулж, өөрийн Zerovity болон AgentVerse платформдоо Claude загварыг үндсэн цөм болгон ашиглахаар боллоо. Энэхүү түншлэлийн хүрээнд 1,100 гаруй инженер Claude сертификат авжээ.",
+ "body_mn": "Мэдээллийн технологийн үйлчилгээ үзүүлдэг дэлхийн хэмжээний Hexaware Technologies компани Anthropic-тай олон жилийн стратегийн түншлэл зарлалаа. Энэхүү гэрээний дагуу Hexaware нь Anthropic Claude Partner Network сүлжээний Preferred Partner буюу эрхэмлэсэн түнш болж байна. Компани нь Claude загварыг өөрийн Zerovity хиймэл оюун ухааны инженерчлэлийн платформ болон AgentVerse агент бүтээх системдээ бүрэн нэвтрүүлэх ажээ.\n\nЭнэхүү хамтын ажиллагаа нь enterprise түвшний үйлчлүүлэгчдэд IT үйл ажиллагаа болон програм хангамж хөгжүүлэлтийн чиглэлээр илүү үр дүнд суурилсан үйлчилгээ үзүүлэхэд чиглэж байна. Hexaware хэдийнэ 1,100 гаруй ажилтнаа Claude чиглэлээр мэргэшүүлж, сертификатжуулсан байна. Ингэснээр үйлчлүүлэгчид туршилтын шатнаас бодит үйлдвэрлэлийн орчин руу хурдан шилжих боломж бүрдэж байна.\n\nAnthropic компанийн хувьд энэхүү түншлэл нь тэдний Claude загварыг олон улсын томоохон байгууллагууд болон эрсдэл өндөртэй салбаруудад найдвартай масштажлах боломжийг олгож байна. Хөгжүүлэгчид болон инженерүүдийн хувьд энэ нь агент урсгал болон нарийн төвөгтэй системүүдийг бүтээхэд томоохон түлхэц болох юм.",
+ "published": "2026-10-08T13:12:00Z",
+ "added": "2026-10-08T13:35:14Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
