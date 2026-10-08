@@ -1,0 +1,138 @@
+# Мэдээний эх сурвалжууд.
+#
+# Талбарууд:
+#   name      (заавал) Telegram мессежид тод үсгээр харагдана. Давхардахгүй байх ёстой.
+#   url       (заавал) RSS / Atom feed-ийн хаяг
+#   type      rss | atom | github_release | google_news   (default: rss)
+#   category  Hashtag болно: OpenAI -> #OpenAI
+#   keywords  (сонголттой) Гарчиг эсвэл товчлолд эдгээрийн аль нэг нь (том жижиг үсэг
+#             ялгахгүй, бүтэн үгээр) орсон үед л илгээнэ.
+#   summary   true/false — товчлол харуулах эсэх (google_news-д default false)
+#   enabled   false болговол түр унтраана
+#
+# Google News query: https://news.google.com/rss/search?q=<QUERY>&hl=en-US&gl=US&ceid=US:en
+
+sources:
+  # ---------- OpenAI ----------
+  - name: OpenAI News
+    url: https://openai.com/news/rss.xml
+    type: rss
+    category: OpenAI
+
+  # ---------- Google / Gemini ----------
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    type: rss
+    category: Google
+
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    type: rss
+    category: Google
+
+  - name: Google Developers Blog
+    url: https://developers.googleblog.com/feeds/posts/default
+    type: atom
+    category: Google
+
+  # ---------- Anthropic / Claude (албан ёсны RSS байхгүй) ----------
+  - name: Anthropic (Google News)
+    url: https://news.google.com/rss/search?q=Anthropic+Claude&hl=en-US&gl=US&ceid=US:en
+    type: google_news
+    category: Anthropic
+
+  # ---------- Бусад AI компаниуд / open-source ----------
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    type: rss
+    category: OpenSource
+
+  - name: Meta AI (Google News)
+    url: https://news.google.com/rss/search?q=%22Meta+AI%22+OR+%22Llama+model%22&hl=en-US&gl=US&ceid=US:en
+    type: google_news
+    category: Meta
+
+  - name: Mistral AI (Google News)
+    url: https://news.google.com/rss/search?q=%22Mistral+AI%22&hl=en-US&gl=US&ceid=US:en
+    type: google_news
+    category: Mistral
+
+  - name: xAI (Google News)
+    url: https://news.google.com/rss/search?q=xAI+Grok&hl=en-US&gl=US&ceid=US:en
+    type: google_news
+    category: xAI
+
+  - name: DeepSeek (Google News)
+    url: https://news.google.com/rss/search?q=DeepSeek&hl=en-US&gl=US&ceid=US:en
+    type: google_news
+    category: DeepSeek
+
+  - name: Qwen (Google News)
+    url: https://news.google.com/rss/search?q=Qwen+Alibaba&hl=en-US&gl=US&ceid=US:en
+    type: google_news
+    category: Qwen
+
+  # ---------- Microsoft / GitHub ----------
+  - name: Microsoft Official Blog
+    url: https://blogs.microsoft.com/feed/
+    type: rss
+    category: Microsoft
+    keywords: [AI, Copilot, Azure, agent, model, OpenAI]
+
+  - name: Microsoft Foundry Blog (Azure AI)
+    url: https://devblogs.microsoft.com/foundry/feed/
+    type: rss
+    category: Microsoft
+
+  - name: GitHub Changelog
+    url: https://github.blog/changelog/feed/
+    type: rss
+    category: DevTools
+    keywords: [AI, Copilot, LLM, GPT, OpenAI, Gemini, Claude, Anthropic, agent, model, MCP]
+
+  - name: GitHub Blog
+    url: https://github.blog/feed/
+    type: rss
+    category: DevTools
+    keywords: [AI, Copilot, LLM, GPT, OpenAI, Gemini, Claude, Anthropic, agent, model, MCP]
+
+  # ---------- GitHub releases ----------
+  - name: ollama/ollama
+    url: https://github.com/ollama/ollama/releases.atom
+    type: github_release
+    category: OpenSource
+
+  # Анхаар: llama.cpp өдөрт 10+ build release гаргадаг тул их чимээ шуугиантай.
+  # Хэт олон мессеж ирвэл "enabled: false" болгоорой.
+  - name: ggml-org/llama.cpp
+    url: https://github.com/ggml-org/llama.cpp/releases.atom
+    type: github_release
+    category: OpenSource
+
+  - name: vllm-project/vllm
+    url: https://github.com/vllm-project/vllm/releases.atom
+    type: github_release
+    category: OpenSource
+
+  - name: huggingface/transformers
+    url: https://github.com/huggingface/transformers/releases.atom
+    type: github_release
+    category: OpenSource
+
+  - name: anthropics/claude-code
+    url: https://github.com/anthropics/claude-code/releases.atom
+    type: github_release
+    category: DevTools
+
+  - name: openai/openai-python
+    url: https://github.com/openai/openai-python/releases.atom
+    type: github_release
+    category: DevTools
+
+  # ---------- Developer news ----------
+  - name: Hacker News
+    url: https://hnrss.org/newest?points=100
+    type: rss
+    category: HackerNews
+    summary: false
+    keywords: [AI, LLM, GPT, OpenAI, Gemini, Claude, Anthropic, Llama, Mistral, DeepSeek, Qwen, agent, model]
