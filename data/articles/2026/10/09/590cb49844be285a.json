@@ -1,0 +1,16 @@
+{
+ "id": "590cb49844be285a",
+ "subtopic": "tauri",
+ "source": "tauri-apps/tauri",
+ "source_label": "tauri-apps/tauri",
+ "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v2.12.2",
+ "image": "https://opengraph.githubassets.com/1062691fa6b44dcead1effe8377f962d851e0c64e300821cb2d1bdf3044ae9d6/tauri-apps/tauri/releases/tag/tauri-v2.12.2",
+ "title": "tauri v2.12.2",
+ "summary_en": "Cargo Audit Fetching advisory database from `https://github.com/RustSec/advisory-db.git` Loaded 1295 security advisories (from /home/runner/.cargo/advisory-db) Updating crates.io index Scanning Cargo.lock for vulnerabilities (1091 crate dependencies) Crate: fxhash Version: 0.2.1 Warning: unmaintained Title: fxhash - no longer maintained Date: 2025-09-05 ID: RUSTSEC-2025-0057 URL: https://rustsec.org/advisories/RUSTSEC-2025-0057 Crate: paste Version: 1.0.15 Warning: unmaintained Title: paste - no longer maintained Date: 2024-10-07 ID: RUSTSEC-2024-0436 URL…",
+ "title_mn": "Tauri v2.12.2 хувилбар гарч macOS дээрх restart болон цэсийн алдаануудыг заслаа",
+ "summary_mn": "Tauri баг v2.12.2 шинэчлэлтийг гаргалаа. Энэхүү хувилбарт macOS дээр апп дахин ачаалах үеийн гацалт, цэс үүсгэхэд action ажиллахгүй байсан болон event listener-ийн panic алдаануудыг засварласан байна.",
+ "body_mn": "Десктоп болон гар утасны аппликейшн хөгжүүлэлтийн Tauri фрэймворк v2.12.2 хувилбараа танилцууллаа. Энэхүү засварын хувилбараар хөгжүүлэгчдэд тулгарч байсан хэд хэдэн чухал алдааг залруулсан байна.\n\nТухайлбал, macOS үйлдлийн систем дээр process::restart болон AppHandle::restart дуудах үед шинэ процессийг LaunchServices (open -n)-ээр дамжуулан ажиллуулдаг болгов. Ингэснээр хуучин процессын stdio болон process group-ийг өвлөхөө больж, терминалаас эхлүүлээд хаасан үед апп гэнэт гацах (crash) асуудлыг шийджээ.\n\nМөн нэг удаагийн event listener нь устгагдахаас өмнө олон эвент зэрэг хүлээн авах үед үүсдэг байсан panic алдааг зассан байна. Үүнээс гадна Menu үүсгэх үед MenuItemOptions доторх action шууд ажиллахаа больсон байсныг засаж, цэсийн товшилт хэвийн ажилладаг боллоо.",
+ "published": "2026-10-09T02:28:30Z",
+ "added": "2026-10-09T04:10:17Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

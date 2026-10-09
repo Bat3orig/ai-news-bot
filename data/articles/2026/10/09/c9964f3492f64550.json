@@ -1,0 +1,16 @@
+{
+ "id": "c9964f3492f64550",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Alaska Story",
+ "url": "https://thealaskastory.com/historic-chestnut-grove-to-be-destroyed-by-anthropic-whose-employees-gave-kreiss-tomkins-372000/",
+ "image": "https://thealaskastory.com/wp-content/uploads/2026/10/jkt-election-and-chestnuts.jpg",
+ "title": "Historic chestnut grove to be destroyed by Anthropic, whose employees gave Kreiss-Tomkins $372,000",
+ "summary_en": "A West Virginia chestnut grove faces an uncertain future amid AI expansion, drawing scrutiny of Anthropic and its employees’ $372,000 in donations to JKT.",
+ "title_mn": "Anthropic болон өгөгдлийн төвийн төсөл",
+ "summary_mn": "Энэхүү мэдээ нь Вэст Виржиниа мужид баригдахаар төлөвлөгдөж буй өгөгдлийн төвийн төсөл болон ховор модны төглийг хөндсөн улс төрийн маргааны тухай өгүүлжээ.",
+ "body_mn": "Энэхүү мэдээнд Вэст Виржиниа мужид баригдаж буй томоохон өгөгдлийн төвийн төсөл болон ховор модыг хадгалан үлдэх тухай орон нутгийн маргааныг голлон гаргасан байна. Уг асуудал нь улс төрийн хандив болон дэд бүтцийн бүтээн байгуулалттай холбогдон яригдаж байгаа бөгөөд программ хангамж болон хиймэл оюун ухааны технологийн хөгжүүлэлттэй шууд хамааралгүй юм.\n\nМэдээлэлд Аляска болон Вэст Виржиниа муж хоорондын улс төрийн холбоосууд, мөн нэр дэвшигчдийн сонгуулийн хандив зэрэг сэдвүүдийг хөнджээ. Хэдийгээр Anthropic компани болон түүний ажилтнуудын санхүүжилтийн тухай дурдсан боловч энэ нь програм хангамжийн шинэчлэл, API эсвэл код бичих хэрэгслийн тухай technical буюу техникийн шинж чанартай мэдээ биш юм.\n\nТиймээс энэ нь програм хангамж хөгжүүлэгчдэд зориулсан техникийн ач холбогдолгүй, улс төр болон орон нутгийн байгаль орчны маргааныг хамарсан нийтлэл байна.",
+ "published": "2026-10-09T02:07:09Z",
+ "added": "2026-10-09T04:10:17Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

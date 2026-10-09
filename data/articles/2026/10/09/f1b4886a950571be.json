@@ -1,0 +1,16 @@
+{
+ "id": "f1b4886a950571be",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "mezha.net",
+ "url": "https://mezha.net/eng/news/9b144d58_spacexai_backs_omarchy_with/",
+ "image": "https://mezha.net/eng/kd_image_generate/9b144d58_spacexai_backs_omarchy_with/3729681.jpg?ver=2.0.17",
+ "title": "SpaceXAI backs Omarchy with $1.5 million in Grok tokens",
+ "summary_en": "A new corporate backer has joined Omarchy’s supporters, bringing fresh resources while reviving scrutiny of its creator. The contribution will support development amid criticism of his public comments. SpaceXAI will join the Omacom Foundation as its first founding corporate patron and provide the Omarchy project with .5 million worth of Grok tokens. The Linux distribution […]",
+ "title_mn": "SpaceXAI Omarchy төсөлд 1.5 сая долларын Grok токены дэмжлэг үзүүлэв",
+ "summary_mn": "Ruby on Rails-ийн зохиогчийн хөгжүүлж буй Omarchy төсөлд SpaceXAI компани 1.5 сая долларын Grok токеноор санхүүгийн дэмжлэг үзүүллээ.",
+ "body_mn": "Ruby on Rails-ийг үүсгэн байгуулагч Дэвид Хайнемейр Ханссоны хөгжүүлж буй Omarchy Linux түгээлтэд SpaceXAI компани анхны корпорацийн ивээн тэтгэгчээр нэгдлээ. Тус компани Omarchy төсөлд 1.5 сая ам доллартай тэнцэхүйц Grok токенийг хандивлан дэмжлэг үзүүлж байна.\n\nХанссоны мэдээлснээр уг хөрөнгө оруулалтыг Omarchy-ийн хөгжүүлэлтийг хурдасгах, кодын хяналт хийх болон алдаа засварлахад зарцуулах ажээ. Гэвч Ханссоны цагаачлалын бодлогын талаарх маргаантай байр суурь нь зарим компаниудын зүгээс шүүмжлэл дагуулж байсан юм.\n\nӨмнө нь 1Password болон Cloudflare зэрэг компаниуд энэхүү төслийг дэмжсэний улмаас шүүмжлэлд өртөж байв. Гэсэн хэдий ч SpaceXAI-ийн энэхүү түншлэл нь Omarchy төсөлд санхүүгийн шинэ нөөц бололцоог авчирч байна.",
+ "published": "2026-10-08T21:38:23Z",
+ "added": "2026-10-09T04:10:17Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

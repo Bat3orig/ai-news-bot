@@ -1,0 +1,16 @@
+{
+ "id": "8762716808c7c5ce",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "CNET",
+ "url": "https://www.cnet.com/tech/services-and-software/anthropic-google-and-mistral-unveil-their-latest-ai-models-for-claude-sonnet-haiku-and-gemini/",
+ "image": "https://www.cnet.com/wp-content/uploads/sites/2/777b659a-4f68-4dc8-a70b-ebd3c2d03519.jpg",
+ "title": "Anthropic, Google and Mistral Unveil Their Latest AI Models: What’s New and Why It Matters",
+ "summary_en": "Check out the latest on Anthropic’s Claude Haiku 5.5 and Sonnet 5.5, along with Gemini 4 Argon and Mistral Large 4.",
+ "title_mn": "Anthropic, Google болон Mistral AI компаниуд шинэ загваруудаа танилцууллаа",
+ "summary_mn": "Anthropic компани өндөр хурдтай, хямд өртөгтэй Claude Haiku 5.5 болон Sonnet 5.5 загваруудаа гаргаснаа зарлав.",
+ "body_mn": "AI технологийн өрсөлдөөн үргэлжилж байгаа энэ үед Anthropic, Google, Mistral AI компаниуд шинэ загваруудаа олон нийтэд зарлалаа. Anthropic компани өөрийн хамгийн хямд бөгөөд хурдан загвар болох Haiku 5.5-аа танилцуулсан нь өмнөх хувилбараасаа ойролцоогоор 75 хувиар хямд өртөгтэй бөгөөд компьютер ашиглах, агентын код бичих болон дүрслэх чадвараараа эрс сайжирсан байна.\n\nМөн илүү хүчирхэг Claude Sonnet 5.5 загвар нь хурд, боломжийн үнээр оновчлогдож, кибер аюулгүй байдал болон код бичих чадвараараа өмнөх том загваруудын түвшинд хүрсэн аж. Anthropic эдгээр загваруудад тохируулж болох хүчин чадлын тохиргоог нэмж, загвар олборлох халдлагаас хамгаалах хамгаалалтыг сайжруулжээ.\n\nҮүний зэрэгцээ Google өөрийн гүнзгий дүгнэлт хийх чадвартай Gemini 4 Argon загвараа кибер аюулгүй байдлын мэргэжилтнүүдэд зориулан хязгаарлагдмал байдлаар гаргасан байна. Технологийн компаниуд хурд болон өртөг хэмнэлтийг сайжруулахад анхаарч байгаа нь хөгжүүлэгчдэд илүү олон боломжийг олгож байна.",
+ "published": "2026-10-08T21:11:11Z",
+ "added": "2026-10-09T04:10:17Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

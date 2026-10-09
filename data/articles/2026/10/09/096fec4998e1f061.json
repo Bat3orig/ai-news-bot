@@ -1,0 +1,16 @@
+{
+ "id": "096fec4998e1f061",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Memeburn",
+ "url": "https://memeburn.com/claude-in-google-docs/",
+ "image": "https://memeburn.com/wp-content/uploads/2026/10/Claude-Is-Now-Inside-Google-Docs-Sheets-and-Slides-Where-Gemini-Already-Comes-With-the-Seat.jpg",
+ "title": "Claude in Google Docs: What It Costs Next to Gemini",
+ "summary_en": "Claude for Google Workspace puts Claude inside Google Docs, Sheets and Slides. Here's what it can't do yet and what it costs next to Gemini in Workspace",
+ "title_mn": "Claude Google Docs, Sheets болон Slides дээр албан ёсоор нэвтэрлээ",
+ "summary_mn": "Anthropic компани Claude туслахыг Google Workspace-ийн Docs, Sheets, Slides аппуудад нэмэлт цонх хэлбэрээр нэгтгэсэн нийтийн туршилтыг эхлүүллээ.",
+ "body_mn": "Anthropic компани Google Workspace-д зориулсан Claude нэмэлтийг нийтийн бета хувилбараар гаргалаа. Төлбөртэй эрх бүхий хэрэглэгчид Google Docs, Sheets болон Slides дотор туслах цонхыг нээж, баримт бичгийг дахин найруулах, пивот хүснэгт болон томьёо бэлтгэх, мөн слайдын загвар үүсгэх боломжтой болж байна.\n\nЭнэхүү шинэ боломж нь Claude руу шууд Google Drive-ын холбоосыг хуулж өгөн засвар оруулах хоёр талын холболтыг дэмждэг. Хэрэглэгчид өөрчлөлт бүрийг баталгаажуулах эсвэл шууд зөвшөөрөх тохиргоог сонгож болох бөгөөд аливаа үйлдлийг нэг цонхноос гүйцэтгэх нь цаг хэмнэх давуу талтай юм.\n\nГэвч одоогийн бета хувилбар дээр Docs-ын сэтгэгдлийг шууд унших эсвэл санал болгосон засвартай (suggested edits) ажиллах боломжгүй бөгөөд ажиллагааны хугацаа нь 6 минутаар хязгаарлагджээ. Мөн өгөгдлийг загвар сургалтад ашиглахгүй ч стандарт хадгалалтын журмаар 30 хоног хадгална гэдгийг тус компани сануулсан байна.",
+ "published": "2026-10-09T01:22:11Z",
+ "added": "2026-10-09T04:10:17Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

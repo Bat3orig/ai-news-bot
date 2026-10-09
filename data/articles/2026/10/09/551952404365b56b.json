@@ -1,0 +1,16 @@
+{
+ "id": "551952404365b56b",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "EdTech Innovation Hub",
+ "url": "https://www.edtechinnovationhub.com/news/anthropic-says-its-new-claude-haiku-55-delivers-more-ai-capability-at-75-lower-cost",
+ "image": "http://static1.squarespace.com/static/65a69e0c110a6977ead9741c/t/6ac7b3570661607db88c8ee3/1791472471809/claude-haiku-5-5-model-family.png.png?format=1500w",
+ "title": "Anthropic releases Claude Haiku 5.5 with lower AI pricing | ETIH EdTech News",
+ "summary_en": "Anthropic says Claude Haiku 5.5 costs around 75% less to run than Haiku 4.5. ETIH’s edtech news coverage examines model pricing, benchmark results and new API credits for Max and Team subscribers.",
+ "title_mn": "Anthropic илүү хямд өртөгтэй Claude Haiku 5.5 загварыг танилцууллаа",
+ "summary_mn": "Anthropic компани өдөр тутмын энгийн ажлуудад зориулсан, өмнөх хувилбараасаа 75%-иар хямд өртөгтэй Claude Haiku 5.5 загварыг гаргалаа.",
+ "body_mn": "Anthropic компани их хэмжээний бичиг баримт нэгтгэх, хэрэглэгчийн үйлчилгээ болон өгөгдлийн сангийн асуулгад хариулах зэрэг өдөр тутмын энгийн ажлуудад зориулсан Claude Haiku 5.5 загвараа албан ёсоор худалдаанд гаргалаа. Шинэ загвар нь өмнөх Haiku 4.5 загвартай харьцуулахад ашиглалтын өртөг дунджаар 75 хувиар буурсан үзүүлэлттэй байна.\n\nХайку 5.5 нь Sonnet 5.5 болон Opus 5.5 загваруудын хамт Anthropic-ийн бүтээгдэхүүний шугамд нэмэгдэж байгаа бөгөөд код бичих явцад том хиймэл оюун ухааны туслах дэд агент болгон ашиглахад маш тохиромжтой аж. Мөн хэрэглэгчид зардлыг бууруулах эсвэл гүйцэтгэлийг нэмэгдүүлэхийн тулд загварын зарцуулах хүчин чадлыг өөрсдөө тохируулах боломжтой анхны Haiku хувилбар болжээ.\n\nҮнийн хувьд 100,000 хүртэлх токен бүхий сануулгад үнэ нь өмнөхөөсөө 90 хувиар хямдарсан байна. Энэ нь хөгжүүлэгчдэд API ашиглан програм хөгжүүлэхэд илүү өргөн боломжийг олгож байгаа бөгөөд Asana зэрэг компаниуд хэдийнэ туршиж, хурд болон үр ашгийн хувьд өндөр үр дүнтэй байгааг тэмдэглэжээ.",
+ "published": "2026-10-08T23:01:35Z",
+ "added": "2026-10-09T04:10:17Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
