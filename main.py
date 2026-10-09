@@ -24,11 +24,12 @@ from pathlib import Path
 from newsbot import ai, enrich, feeds, store
 from newsbot.config import load_sources, load_topics
 from newsbot.telegram import SEND_DELAY, Telegram, TelegramFatalError, TelegramRejected
-from newsbot.util import iso, link_key, truncate
+from newsbot.util import iso, link_key, similar_titles, title_tokens, truncate
 
 log = logging.getLogger("news-bot")
 
 MAX_PER_RUN = 20  # messages per run; the rest go out next run
+RECENT_DAYS = 3   # articles this recent count for duplicate-story detection
 
 
 def site_url() -> str:
@@ -67,6 +68,22 @@ def to_article(item: feeds.Item, tr: dict | None, topics, now: datetime) -> dict
     }
 
 
+def drop_duplicates(items: list[feeds.Item], recent: list[str], state: store.State,
+                    today: str) -> list[feeds.Item]:
+    """Near-identical headline already published or earlier in this run: keep the first one."""
+    known = [title_tokens(t) for t in recent]
+    kept = []
+    for it in items:
+        toks = title_tokens(it.title)
+        if any(similar_titles(toks, k) for k in known):
+            log.info("Duplicate story, skipping: %s", it.title[:80])
+            state.mark(it.keys, today)
+            continue
+        known.append(toks)
+        kept.append(it)
+    return kept
+
+
 def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
     """Returns True if new articles were added (site needs a rebuild)."""
     topics = load_topics()
@@ -87,6 +104,8 @@ def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
 
     room = max(0, MAX_PER_RUN - len(state.outbox))
     candidates.sort(key=lambda it: it.sort_time)
+    recent = store.recent_titles(now, RECENT_DAYS, data_dir)
+    candidates = drop_duplicates(candidates, recent, state, today)
     batch = candidates[:room]
     log.info("%d new items, processing %d (outbox has %d, max %d per run)",
              len(candidates), len(batch), len(state.outbox), MAX_PER_RUN)
@@ -110,7 +129,7 @@ def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
         seen_urls.add(rk)
         unique.append(it)
 
-    translations = ai.translate(unique, topics)
+    translations = ai.translate(unique, topics, recent)
 
     added = 0
     for it in unique:
@@ -118,6 +137,9 @@ def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
         state.mark(it.keys, today)
         if tr and not tr.get("relevant", True) and not it.source.subtopic:
             log.info("AI: not relevant, skipping: %s", it.title[:70])
+            continue
+        if tr and tr.get("duplicate"):
+            log.info("AI: duplicate story, skipping: %s", it.title[:70])
             continue
         art = to_article(it, tr, topics, now)
         if not art["subtopic"]:

@@ -23,6 +23,7 @@ log = logging.getLogger("news-bot")
 
 DEFAULT_PROVIDERS = "gemini:gemini-3.8-flash,gemini:gemini-3.5-flash-lite,claude:claude-haiku-5-5"
 CHUNK = 8            # items per AI request
+RECENT_TITLES = 80   # already published titles sent along for duplicate detection
 AI_TIMEOUT = 180     # seconds
 
 SCHEMA = {
@@ -35,12 +36,14 @@ SCHEMA = {
                 "properties": {
                     "id": {"type": "string"},
                     "relevant": {"type": "boolean"},
+                    "duplicate": {"type": "boolean"},
                     "subtopic": {"type": "string"},
                     "title_mn": {"type": "string"},
                     "summary_mn": {"type": "string"},
                     "body_mn": {"type": "string"},
                 },
-                "required": ["id", "relevant", "subtopic", "title_mn", "summary_mn", "body_mn"],
+                "required": ["id", "relevant", "duplicate", "subtopic", "title_mn", "summary_mn",
+                             "body_mn"],
                 "additionalProperties": False,
             },
         }
@@ -56,6 +59,10 @@ You receive news items as JSON. For EVERY item return one object with the same "
   matched by coincidence (e.g. "Electron" the particle, an unrelated company, spam, stock-price noise
   with no product news). Items with a single option come from a dedicated source: keep them true
   unless clearly unrelated.
+- duplicate: true if the item reports the same event or announcement as a title in
+  "already_published" or as an EARLIER item in this batch (the same news from another outlet,
+  or a follow-up article that adds nothing new). Different announcements by the same company
+  are NOT duplicates. Otherwise false.
 - subtopic: exactly one id from that item's "subtopic_options".
 - title_mn: a natural Mongolian headline (Cyrillic), at most 110 characters.
 - summary_mn: 2-3 sentences, at most 320 characters: the key news for a Telegram post.
@@ -89,7 +96,7 @@ def _taxonomy(topics: Topics) -> str:
                      for s in topics.subtopics.values())
 
 
-def _payload(items: list[Item], topics: Topics) -> str:
+def _payload(items: list[Item], topics: Topics, already: list[str]) -> str:
     rows = []
     for it in items:
         if it.source.subtopic:
@@ -109,7 +116,8 @@ def _payload(items: list[Item], topics: Topics) -> str:
             "text": it.extra.get("text") or it.summary,
             "subtopic_options": options,
         })
-    return json.dumps({"items": rows}, ensure_ascii=False)
+    return json.dumps({"already_published": already[-RECENT_TITLES:], "items": rows},
+                      ensure_ascii=False)
 
 
 # --------------------------------------------------------------------------- #
@@ -215,17 +223,20 @@ def _parse(text: str, expected: set[str], topics: Topics) -> dict[str, dict]:
         if row.get("subtopic") not in topics.subtopics:
             row["subtopic"] = ""
         row["relevant"] = row.get("relevant") is not False
+        row["duplicate"] = row.get("duplicate") is True
         out[rid] = row
     return out
 
 
-def translate(items: list[Item], topics: Topics) -> dict[str, dict]:
+def translate(items: list[Item], topics: Topics, recent_titles: list[str]) -> dict[str, dict]:
     """Return {item.id: {...mn fields..., "ai": "provider:model"}} for items that succeeded."""
     chain = provider_chain()
     if not chain:
         log.warning("No AI provider configured (GEMINI_API_KEY / ANTHROPIC_API_KEY); sending in English")
         return {}
     system = SYSTEM_TEMPLATE.format(taxonomy=_taxonomy(topics))
+    already = list(recent_titles)
+    titles = {it.id: it.title for it in items}
     exhausted: set[tuple[str, str]] = set()
     results: dict[str, dict] = {}
     for start in range(0, len(items), CHUNK):
@@ -237,7 +248,7 @@ def translate(items: list[Item], topics: Topics) -> dict[str, dict]:
                 continue
             fn = PROVIDERS[name][0]
             try:
-                text = fn(model, system, _payload(pending, topics))
+                text = fn(model, system, _payload(pending, topics, already))
                 got = _parse(text, {it.id for it in pending}, topics)
             except QuotaError as exc:
                 log.warning("AI %s:%s quota/rate limit, falling back: %s", name, model, exc)
@@ -249,6 +260,9 @@ def translate(items: list[Item], topics: Topics) -> dict[str, dict]:
             for rid, row in got.items():
                 row["ai"] = f"{name}:{model}"
                 results[rid] = row
+                # Later chunks must see what this one kept, to catch cross-chunk duplicates.
+                if row["relevant"] and not row["duplicate"]:
+                    already.append(titles[rid])
             log.info("AI %s:%s translated %d/%d items", name, model, len(got), len(pending))
             pending = [it for it in pending if it.id not in got]
         if pending:

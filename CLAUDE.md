@@ -49,6 +49,13 @@ State (committed by the bot every run):
 - Sources with `subtopic:` are trusted; sources without (Hacker News, Smashing with `section:`) must match `topics.yaml` keywords, and the AI can mark them `relevant: false` → dropped.
 - `skip_prereleases` drops canary/alpha/beta/rc/nightly; `title_regex` for multi-package repos (tauri, shadcn).
 - GitHub release titles get the repo prefix ("claude-code v2.1.290").
+- Duplicate stories (Google News brings one story from 3–6 outlets), two layers:
+  1. `drop_duplicates` in `main.py`: near-identical headlines vs. articles of the last 3 days
+     (`store.recent_titles`) and earlier items in the run. Deliberately strict (≥4 shared words and
+     ≥80% overlap) — looser matching dropped different stories, since most headlines share
+     "Anthropic"/"Claude"/"AI Gateway". Tested on real data: no false positives.
+  2. The AI gets `already_published` (last 80 titles + titles kept by earlier chunks) and returns
+     `duplicate: true` for reworded copies → skipped.
 - AI chain (env `AI_PROVIDERS`, repo variable optional): `gemini:gemini-3.8-flash,gemini:gemini-3.5-flash-lite,claude:claude-haiku-5-5`. Each run restarts from Gemini; a provider that 429s is skipped for the rest of the run; no keys → English fallback. Claude uses the official `anthropic` SDK with `output_config={"effort": "low", "format": json_schema}`. Haiku 5.5 was chosen by the user for cost (~$2–4/month worst case).
 - Secrets: `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`, `GEMINI_API_KEY`, `CLAUDE_API_TOKEN` (mapped to `ANTHROPIC_API_KEY` in the workflow).
 - Telegram: group has Topics on, bot is admin with Manage Topics. Bot creates/renames topics to plain names "AI", "Software", "UI/UX" (no emoji — user asked; Telegram shows its own icon). Deleted topic → post to General, recreate next run. Messages: photo + caption (≤1024 visible chars) with header `🤖 <b>AI</b> · #OpenAI`, Mongolian title, summary, links "Дэлгэрэнгүй" (site) · "Эх сурвалж".
@@ -69,7 +76,8 @@ python -m http.server -d public
 ## Status (2026-10-08)
 - Deployed and running. First translated batch (4 AI items) came from **gemini-3.5-flash-lite**, meaning
   **gemini-3.8-flash failed** — cause unknown. Next step: ask the user for the `AI gemini:gemini-3.8-flash … falling back:` line from the "Prepare news" step log (404 = wrong model id, 429 = low free quota).
-- Open suggestions awaiting the user's answer:
-  1. Duplicate stories from Google News (same story, different outlets — e.g. Hexaware/Anthropic arrived twice): add title-similarity dedup (in-run + recent articles).
-  2. Whether to drop the emoji (🤖/⚛️/🎨) from the message header line too.
+- 2026-10-09: duplicate-story dedup added (see Key behaviors); the AI layer is tested only with a
+  mocked provider — check the next runs' "AI: duplicate story" log lines.
+- Open suggestion awaiting the user's answer: whether to drop the emoji (🤖/⚛️/🎨) from the message
+  header line too.
 - Verified sources/broken list is in `README.md`.

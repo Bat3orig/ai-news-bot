@@ -63,6 +63,27 @@ def keyword_pattern(keywords: list[str]) -> re.Pattern | None:
     return re.compile(rf"(?<![\w/.-])(?:{alts})s?(?![\w])", re.I)
 
 
+# Title similarity (same story from several outlets). Deliberately strict: in this feed almost
+# every headline shares "Anthropic", "Claude", "AI Gateway"..., so looser matching drops
+# different stories. Reworded duplicates are left to the AI ("duplicate" field).
+_STOP = {
+    "the", "a", "an", "and", "or", "of", "to", "in", "on", "for", "with", "by", "at", "from",
+    "is", "are", "as", "its", "it", "new", "how", "why", "what", "after", "over", "into", "now",
+    "that", "this", "be", "has", "have", "will", "can", "up", "out", "says", "said",
+}
+
+
+def title_tokens(title: str) -> frozenset[str]:
+    words = re.findall(r"[\w+.-]+", title.lower())
+    return frozenset(w.strip(".-") for w in words if len(w) > 2 and w not in _STOP)
+
+
+def similar_titles(a: frozenset[str], b: frozenset[str]) -> bool:
+    inter = len(a & b)
+    # Overlap coefficient: robust when one headline is much longer than the other.
+    return inter >= 4 and inter / min(len(a), len(b)) >= 0.8
+
+
 def iso(dt: datetime) -> str:
     return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
