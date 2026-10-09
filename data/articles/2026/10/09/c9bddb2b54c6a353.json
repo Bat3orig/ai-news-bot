@@ -1,0 +1,16 @@
+{
+ "id": "c9bddb2b54c6a353",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+ "image": "https://opengraph.githubassets.com/0594c7852e244b602eb7f6879ebaee0dff99e48c8ebe2d6b67d5415723241bf3/franzenzenhofer/big-arrow-on-the-screen",
+ "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+ "summary_en": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 289 # Comments: 121",
+ "title_mn": "AI агентад дэлгэц дээр сум, хайрцаг зурах bigarrow хэрэгсэл гарлаа",
+ "summary_mn": "bigarrow нь macOS дээр ажилладаг командын мөр хэрэгсэл бөгөөд Claude Code болон Codex-ийн skill хэлбэрээр ашиглагдана. AI агент дэлгэц дээр сум, тэмдэглэгээ зурж хэрэглэгчид товшиж хийх алхмыг заана. MIT лицензтэй.",
+ "body_mn": "bigarrow нь AI агентад дэлгэц дээр сум, хайрцаг болон текст зурах боломж олгодог macOS командын мөр хэрэгсэл юм. Хэрэглэгч товшилт хийхэд сум нь доорх аппликейшн руу дамжиж, гар дээрх фокус хэвээрээ үлдэнэ. Сум өөрөө автоматаар алга болдог.\n\nХэрэгсэл нь Swift дээр бичигдсэн нэг binary бөгөөд daemon, менюу дүрс, данс, телеметргүй. Сум зурахад macOS-ийн ямар ч зөвшөөрөл шаардлагагүй. Энэ нь зөвхөн заах зориулалттай бөгөөд дэлгэц бичих, товших, бичих үйлдэл хийдэггүй.\n\nХөгжүүлэгчдэд энэ нь AI агент зөвшөөрөл олгох эсвэл тодорхой алхмыг хэрэглэгчид зааж өгөх шаардлагатай үед хэрэгтэй. --app болон --element зэрэг сонголтоор тодорхой цонх, таб, элементийг заана. Суурилуулахдаа Xcode 16 болон macOS 14 шаардлагатай.\n\nМӨЧИГ",
+ "published": "2026-10-09T11:03:48Z",
+ "added": "2026-10-09T17:29:59Z",
+ "ai": "claude:claude-haiku-5-5"
+}

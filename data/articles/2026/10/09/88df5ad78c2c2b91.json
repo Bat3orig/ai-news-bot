@@ -1,0 +1,16 @@
+{
+ "id": "88df5ad78c2c2b91",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "India Today",
+ "url": "https://www.indiatoday.in/amp/technology/news/story/thou-shall-not-bully-claude-anthropic-will-ban-you-if-you-do-3013386-2026-10-09",
+ "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/claude-ai-091155624-16x9_0.png?VersionId=1ofnXcWDtn.ANHYo8Wi8e1pZSBIR_m5Y",
+ "title": "Thou shall not bully Claude, Anthropic will ban you if you do",
+ "summary_en": "Anthropic is updating its AI usage policy to ban repeated, needless cruelty towards Claude. The company says users who repeatedly behave cruelly towards its AI models without any clear purpose could face restrictions.",
+ "title_mn": "Anthropic: Claude-тай зүй бусаар харьцвал хэрэглэгчийг эрхийг хасна",
+ "summary_mn": "Anthropic компани хэрэглэгчдийг Claude загварт хүндэтгэлтэй хандахыг шаардаж, хэрцгий, зүй бус авир гаргахыг хориглолоо. Энэхүү шинэ дүрэм нь арваннэгдүгээр сарын 12-ноос хэрэгжиж эхлэх бөгөөд зөвхөн хэтрүүлсэн, зорилгогүй дарамт шахалтад хамаарна.",
+ "body_mn": "Anthropic компани хэрэглэх нөхцөлийн шинэчлэлтээ зарлаж, Claude хиймэл оюун ухаантай зүй бусаар харьцахыг хориглолоо. Шинэ бодлогоор хэрэглэгчдийг Claude модель руу чиглэсэн ямар нэгэн утга учиргүй, байнгын дарамт шахалт болон зүй бус авир гаргахыг хатуу хориглож байна.\n\nКомпанийн мэдэгдэж буйгаар хэрэглэгч энгийн байдлаар бухимдах, загварын үйл ажиллагааг шүүмжлэх, туршилт хийх зэрэг нь энэ хоригт хамаарахгүй бөгөөд зөвхөн хэт хэтэрсэн, зорилгогүй доромжилсон тохиолдлуудыг хянах юм. Claude өөрөө эдгээр байнгын зүй бус харилцааг ярианаас таслах боломжтой хэвээр үлдэх ажээ.\n\nЭнэхүү шинэчлэлт нь сонгуулийн үр дүнд нөлөөлөх оролдлого, хуурамч аккаунт ашиглах, зэвсэг болон тагнуулын хэрэгсэл хөгжүүлэхтэй холбоотой хоригуудыг мөн багтаасан өргөн хүрээний бодлогын нэг хэсэг юм.",
+ "published": "2026-10-09T12:12:59Z",
+ "added": "2026-10-09T17:29:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

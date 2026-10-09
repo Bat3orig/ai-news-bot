@@ -1,0 +1,16 @@
+{
+ "id": "b7e5412a752fc82a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Engadget",
+ "url": "https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/",
+ "image": "https://www.engadget.com/img/gallery/anthropic-now-offers-a-free-vulnerability-finding-service-for-open-source-software/l-intro-1791544973.jpg",
+ "title": "Anthropic Now Offers A Free Vulnerability-Finding Service For Open-Source Software",
+ "summary_en": "Anthropic is offering open-source projects a new way to check for vulnerabilities with its OSS Scanner.",
+ "title_mn": "Anthropic нээлттэй эхийн төслүүдэд үнэгүй аюулгүй байдлын скан хийх үйлчилгээ санал болгов",
+ "summary_mn": "Anthropic нээлттэй эхийн төслүүдэд зориулсан OSS Scanner үйлчилгээг үнэгүй санал болгож байна. Төслүүд хамрагдсанаар хамгийн хүчтэй загваруудаар үе үе аюулгүй байдлын скан хийлгэнэ. Тайлангууд хүний шалгалтгүй гарна.",
+ "body_mn": "Anthropic нээлттэй эхийн төслүүдэд зориулсан OSS Scanner гэдэг шинэ үйлчилгээг эхлүүлжээ. Төслүүд үүнд элсвэл компанийн хамгийн хүчтэй загварууд, түүний дотор Claude Mythos-оор үе үе бүрэн аюулгүй байдлын скан хийгдэнэ. Үйлчилгээ үнэгүй.\n\nАнтропик тайлангууд хүний шалгалт, ангилалгүйгээр бүрэн загвараар үүсгэгдэнэ гэж тодорхойлсон. Ингэснээр скан илүү хурдан, олон удаа хийгдэх боломжтой боловч буруу эсвэл хүчингүй тайлан гарах магадлал байгаа гэж компани анхааруулжээ. Үйлчилгээ нь Google болон OpenSSF-ийн 2016 оноос хойш байгаа OSS-Fuzz-ээс санаа авсан гэж дурдсан.\n\nАнтропик аль хэдийн Claude Security гэдэг төлбөртэй бүтээгдэхүүнтэй бөгөөд код шалгах, засах боломжтой. Харин OSS Scanner нь ижил төрлийн аудитыг үнэгүй хийнэ. Нээлттэй эхийн код интернэтийн суурь дэд бүтцийн тулгуур боловч ихэвчлэн цалингүй сайн дурынхны хөдөлмөрөөр хөгждөг тул энэ алхам чухал гэж үзэж болно.\n\nХөгжүүлэгчдэд энэ нь өөрсдийн нээлттэй эхийн төслүүдийн эрсдэлийг эрт илрүүлэх боломж юм. Гэвч тайланг шууд найдвартай гэж үзэхгүй, шалгалт хийх шаардлагатай.",
+ "published": "2026-10-09T11:24:27Z",
+ "added": "2026-10-09T17:29:59Z",
+ "ai": "claude:claude-haiku-5-5"
+}

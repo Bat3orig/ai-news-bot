@@ -1,0 +1,16 @@
+{
+ "id": "3dec0fb707d92835",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Notebookcheck",
+ "url": "https://www.notebookcheck.net/Claude-Haiku-5-5-Anthropic-s-fastest-model-is-also-free-to-use.1420065.0.html",
+ "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/claude-haiku-5-5-anthropic-gratis.jpg",
+ "title": "Claude Haiku 5.5: Anthropic's fastest model is also free to use",
+ "summary_en": "Anthropic has released Claude Haiku 5.5. According to the company, the fast model is also available on the free Claude plan, alongside Sonnet 5.5. In Anthropic's benchmarks, it beats GPT-6 Luna from ChatGPT Free, and API pricing is up to 90% lower than Haiku 4.5. Max and Team subscribers also get a monthly API credit.",
+ "title_mn": "Claude Haiku 5.5 гарлаа: Anthropic-ийн хамгийн хурдан загвар, үнэ буурлаа",
+ "summary_mn": "Anthropic Claude Haiku 5.5-ыг 10-р сарын 7-нд гаргасан. Оролтын токен 1 сая тутамд $0.10 болж, өмнөх Haiku 4.5-аас хамаагүй хямд боллоо. Үнэгүй хэрэглэгчид ч энэ загварыг сонгож болно.",
+ "body_mn": "Anthropic Claude Haiku 5.5-ыг 10-р сарын 7-нд гаргасан бөгөөд Haiku 4.5-ийн залгамжлагч юм. Үнэгүй төлөвлөгөөнөөс Enterprise хүртэл бүх хэрэглэгч веб, iOS, Android аппликейшнд үүнийг сонгож болно. Загвар нь Sonnet 5.5 болон Opus 5.5-аас хурдан гэж жагсаагдсан.\n\nЗагварын гол өөрчлөлт бол үнэ. Anthropic-ийн мэдээлснээр 100,000 токен хүртэлх хүсэлтэд 1 сая оролтын токен $0.10, гаралтын токен $0.50 байна. Haiku 4.5-д харгалзах үнэ нь $1 ба $5 байсан. Урт хүсэлтэд үнэ $0.50 ба $2.50 болно. Компанийн тооцоолсноор дунджаар 75 орчим хувиар хямд болно. Sonnet 5.5-ийн кэш унших үнийг бас хагасаар бууруулжээ.\n\nAnthropic мөн хөгжүүлэгчийн платформд сарын кредит нэвтрүүлж байна. Max 5x-д $100, Max 20x-д $200, Team төлөвлөгөөнд хамтын хэрэглээнд зориулсан $500 хүртэл олгоно. GitHub Copilot-ийн төлбөртэй төлөвлөгөөнд мөн нэмэгдсэн.\n\nАнтропик үр дүнгийн тестүүдийг өөрсдөө гаргасан бөгөөд бие даасан шалгалт одоогоор байхгүй. Хөгжүүлэгчдэд зардал бууруулах боломжтой загвар гарсан нь чухал.",
+ "published": "2026-10-09T11:30:00Z",
+ "added": "2026-10-09T17:29:59Z",
+ "ai": "claude:claude-haiku-5-5"
+}
