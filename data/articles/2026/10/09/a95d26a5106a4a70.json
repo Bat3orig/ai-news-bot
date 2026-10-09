@@ -1,0 +1,16 @@
+{
+ "id": "a95d26a5106a4a70",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Cryptonews.net",
+ "url": "https://cryptonews.net/news/other/33564461/",
+ "image": "https://cnews24.ru/uploads/162/16215647a1e93fefe7ba8a7bf59cf0411474f6a5_80.jpg",
+ "title": "Anthropic puts Claude Dashboards and Motion into beta for live data and animation",
+ "summary_en": "Anthropic pushed two new Claude tools into beta on Thursday. With Claude Dashboards, users can turn company data into charts that update themselves, and with Claude Motion, they can",
+ "title_mn": "Anthropic компани Claude Dashboards болон Motion хэрэгслүүдийг туршилтаар гаргалаа",
+ "summary_mn": "Anthropic компани компаниудын өгөгдлийг график болгох Claude Dashboards болон код дээр суурилсан хөдөлгөөнт анимаци үүсгэх Claude Motion хэрэгслүүдийг бета хувилбараар танилцууллаа.",
+ "body_mn": "Anthropic компани хэрэглэгчдийн ажлын бүтээмжийг нэмэгдүүлэх зорилготой Claude Dashboards болон Claude Motion гэсэн хоёр шинэ хэрэгслийг бета туршилтад орууллаа. Claude Dashboards нь Amazon Redshift, BigQuery, Snowflake зэрэг өгөгдлийн платформ болон CRM системүүдтэй холбогдож, энгийн текстаар асуухад автоматаар график үүсгэж шинэчилж байх боломж олгодог. Энэ нь дата шинжилгээг хурдан хийхэд тусална.\n\nХарин Claude Motion нь тайлан болон танилцуулгад зориулсан анимаци, хөдөлгөөнт дүрсүүдийг текстэн командын тусламжтайгаар бүтээх хэрэгсэл юм. Уг хэрэгсэл нь код бичдэг бөгөөд хэрэглэгчид өөрсдийн текст, график, зургаа хөдөлгөөнт хэлбэрт шилжүүлж MP4 формат руу татан авах боломжтой. Мөн Adobe, Descript, Runway зэрэг платформуудтай хамтран ажиллах юм.\n\nҮүний зэрэгцээ өмнө нь туршилтын шатанд байсан Claude Docs, Slides, Design хэрэгслүүд албан ёсоор бүх төлөвлөгөөнд (Үнэгүй хувилбарыг оролцуулаад) нэвтэрч байгааг зарлалаа. Бизнесийн хэрэглэгчид Artifacts-д зориулсан шифрлэлтийн түлхүүр ашиглах боломжтой болсон ба Claude Design тусдаа сайт нь арванхоёрдугаар сарын 14-нд хаагдаж, чат дотор бүрэн шилжих ажээ.",
+ "published": "2026-10-09T05:41:37Z",
+ "added": "2026-10-09T11:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

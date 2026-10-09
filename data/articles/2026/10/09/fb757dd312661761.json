@@ -1,0 +1,16 @@
+{
+ "id": "fb757dd312661761",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Hindustan Times",
+ "url": "https://www.hindustantimes.com/business/ai-has-feelings-anthropic-is-getting-sensitive-about-users-being-mean-to-claude-101791521005626.html",
+ "image": "https://www.hindustantimes.com/ht-img/img/2026/10/09/1600x900/logo/FILE-PHOTO--An-Anthropic-logo-is-displayed-at-Mosc_1791520997866_sDRS.jpg",
+ "title": "AI has feelings? Anthropic is getting sensitive about users being mean to Claude | Business News",
+ "summary_en": "Turns out, there is deep concern for the welfare of AI chatbots, and may well be pushing a desperate narrative that AI is a conscious entity | Business News",
+ "title_mn": "Anthropic компани Claude загвартай харьцах хэрэглэгчийн бодлогоо чангатгав",
+ "summary_mn": "Anthropic компани арваннэгдүгээр сараас хэрэгжих шинэ бодлогоо танилцуулж, Claude загварт хэрцгий, зүй бусаар хандахыг хориглолоо. Мөн өндөр эрсдэлтэй салбаруудад хүн оролцох шаардлагыг чангатгав.",
+ "body_mn": "Anthropic компани хэрэглэгчийн үйлчилгээний бодлогодоо томоохон өөрчлөлт оруулж, хиймэл оюун ухаантай зүй бусаар харьцахтай холбоотой шинэ заалтуудыг нэмлээ. Арваннэгдүгээр сараас хэрэгжиж эхлэх энэхүү шинэ бодлогоор хэрэглэгчид Claude загварт ямар нэгэн зорилгогүйгээр байнга хэрцгий, дарамт шахалт үзүүлэх шинжтэй хандахыг хориглосон байна. Гэхдээ энэ нь энгийн шүүмжлэл, бүтээлч туршилт эсвэл хэрэглэгчийн бухимдлыг хязгаарлахгүй бөгөөд зөвхөн хэтэрсэн тохиолдлуудад чиглэнэ.\n\nҮүнээс гадна уг шинэчлэлтээр эрүүл мэнд, хууль эрх зүй, санхүүгийн салбар дахь өндөр эрсдэлтэй хэрэглээнд хүн заавал оролцож, Claude загварын гаргасан зөвлөмжийг хянаж өөрчлөх эрхтэй байх шаардлагыг тусгажээ. Энэ нь хиймэл оюун ухааныг бие даан ажиллах үед гарч болох эрсдэлээс сэргийлэх чухал алхам юм.\n\nAnthropic компани өмнө нь Claude Opus 4 болон 4.1 загваруудын хувьд байнгын хорлонтой эсвэл зүй бус харилцаа үүссэн үед яриаг автоматаар зогсоох боломжийг нэвтрүүлж байсан юм. Шинэ бодлого нь энэхүү хамгаалалтын механизмыг илүү өргөн хүрээнд баталгаажуулж байна.",
+ "published": "2026-10-09T04:43:25Z",
+ "added": "2026-10-09T11:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

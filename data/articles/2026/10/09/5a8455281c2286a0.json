@@ -1,0 +1,16 @@
+{
+ "id": "5a8455281c2286a0",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Decoder",
+ "url": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
+ "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_sky_mapping.png",
+ "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
+ "summary_en": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inpainting. Predictions averaged about ten percent deviation from actual measurements. Ménard sees the project as an example of research that simply wouldn't have gotten done without AI.",
+ "title_mn": "Claude Science тусламжтайгаар огторгуйн анхны хэт ягаан туяаны зургийг бүтээжээ",
+ "summary_mn": "Anthropic-ийн Claude Science агентууд сансар огторгуйн өгөгдлийг нэгтгэж, дэлхийн агаар мандлаас шалтгаалан харагддаггүй хэт ягаан туяаны бүрэн газрын зургийг анх удаа амжилттай бүтээжээ.",
+ "body_mn": "Жонс Хопкинсийн их сургуулийн астрофизикч Брис Менард Anthropic-ийн тусламжтайгаар сансар огторгуйн хэт ягаан туяаны (UV) анхны бүрэн газрын зургийг гаргаснаа танилцууллаа. Дэлхийн озон давхарга хэт ягаан туяаг хаадаг тул өмнө нь энэ төрлийн зураглалыг бүтээхэд хүндрэлтэй байсан юм.\n\nClaude Science систем нь сансрын хэд хэдэн мишнээс авсан өгөгдлийг татаж авч, тохируулга хийн нэгтгэх ажлыг хиймэл оюун ухааны агентуудын тусламжтайгаар гүйцэтгэжээ. Мөн уг загвар нь дутуу хэсгүүдийг нөхөх зорилгоор inpainting аргыг ашигласан бөгөөд туршилтын явцад таамаглалууд нь бодит хэмжилтээс ердөө 10 орчим хувийн зөрүүтэй гарсан байна.\n\nЭнэхүү ололт нь хиймэл оюун ухаан судлаачдын цаг хугацаа шаардсан хүнд өгөгдлийн ажлыг хэрхэн хялбарчилж, шинжлэх ухааны шинэ нээлт хийхэд тусалж болохыг харуулсан чухал жишээ болж байна.",
+ "published": "2026-10-09T09:23:58Z",
+ "added": "2026-10-09T11:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

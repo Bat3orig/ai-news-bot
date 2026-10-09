@@ -1,0 +1,16 @@
+{
+ "id": "88319f69e03e64da",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Register",
+ "url": "https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041",
+ "image": "https://image.theregister.com/228755.jpg?imageId=228755&x=0&y=0&cropw=100&croph=71.67&panox=0&panoy=0&panow=100&panoh=71.67&width=1200&height=683",
+ "title": "Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill",
+ "summary_en": "Vegalabs says $21,168 in unused Azure credits expired as separate Marketplace charges piled up",
+ "title_mn": "Норвегийн стартап болон үүлэн тооцооллын компаниудын хоорондох Claude-ийн төлбөрийн маргаан",
+ "summary_mn": "Vegalabs компани Azure дээр Claude ашиглаад гэнэтийн 17,600 ам.долларын нэхэмжлэх хүлээн авсан бөгөөд уг асуудлаар Microsoft болон Anthropic компаниуд бие бие рүүгээ хариуцлагыг шилжүүлж байна.",
+ "body_mn": "Норвегийн стартап Vegalabs компани Microsoft Azure дээр Claude загварыг ашигласны улмаас 17,600 ам.долларын өрийн бичиг хүлээн авсан байна. Тэд Azure for Startups хөтөлбөрөөс олгосон 25,060 ам.долларын эрх уг төлбөрийг бүрэн хасна гэж тооцсон боловч Azure Marketplace-ээр дамжуулан худалдаж авсан гуравдагч талын загварын төлбөр уг хөнгөлөлтөд хамаардаггүй аж.\n\nVegalabs компани төлбөрийн нөхцөлийг сайтар анзаараагүйгээ хүлээн зөвшөөрсөн хэдий ч тухайн платформ болон хэрэглэгчийн интерфэйс дээр уг ялгааг тодорхой харуулаагүй гэж үзэж байна. Мөн уг төлбөрийг цуцлуулах хүсэлт гаргахад Microsoft болон Anthropic компаниуд тус тусдаа өөр өөр тийш нь чиглүүлж, дэмжлэг үзүүлэх албаны хариунууд нь хиймэл оюун ухаанаар үүсгэгдсэн байжээ.\n\nЭнэхүү явдал нь үүлэн тооцооллын платформ дээр гуравдагч талын хиймэл оюун ухааны загваруудыг байршуулах үед гарч болох санхүүгийн эрсдэл болон төлбөрийн нөхцөлийг илүү тодорхой болгох шаардлагатай байгааг харуулж байна.",
+ "published": "2026-10-09T09:46:00Z",
+ "added": "2026-10-09T11:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

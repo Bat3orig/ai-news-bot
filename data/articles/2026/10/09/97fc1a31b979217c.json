@@ -1,0 +1,16 @@
+{
+ "id": "97fc1a31b979217c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "NDTV",
+ "url": "https://www.ndtv.com/artificial-intelligence/did-ai-discover-a-new-gene-editing-tool-the-anthropic-controversy-explained-12161138",
+ "image": "",
+ "title": "Did AI Discover A New Gene-Editing Tool? The Anthropic Controversy Explained",
+ "summary_en": "",
+ "title_mn": "Хиймэл оюун ухаан ген засварлах шинэ хэрэгсэл нээсэн үү? Anthropic-ийн тойм",
+ "summary_mn": "Anthropic-ийн технологи болон шинжлэх ухааны судалгаатай холбоотой маргаан, генетик засварлах хэрэгслийн талаарх NDTV агентлагийн мэдээлэл.",
+ "body_mn": "NDTV агентлаг Anthropic компани болон хиймэл оюун ухааны тусламжтайгаар шинжлэх ухааны нээлт хийсэн гэх маргаантай асуудлыг хөнджээ. Сүүлийн үед хиймэл оюун ухааны хэрэгслүүдийг биологийн болон ген засварлах салбарт ашиглах боломж болон тэдгээрийн хязгаарлалтын талаарх хэлэлцүүлэг эрчимтэй өрнөж байна.",
+ "published": "2026-10-09T09:52:29Z",
+ "added": "2026-10-09T11:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
