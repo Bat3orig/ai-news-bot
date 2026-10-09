@@ -1,0 +1,16 @@
+{
+ "id": "9bf93d58cc35db99",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/asana-browser-agent",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/4bNHf0rdpv55WFke9YADV7/306540f0701aa79ce7cc9057f616c577/asana-blue-layered-paper-social-seo-1920x1080.png?w=1600&h=900&fit=fill",
+ "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+ "summary_en": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+ "title_mn": "Asana компани GPT-6.1 Sol ашиглан browser агентынхаа өртгийг 76 дахин бууруулжээ",
+ "summary_mn": "Asana Codex орчин дахь GPT-6 Astra-г ашиглан browser агентынхаа ажлын урсгалыг оновчтой болгож, 76 дахин хямд, 5 дахин хурдан ажилладаг болголоо.",
+ "body_mn": "Asana компани нь өөрийн эзэмшдэг StackAI платформын вэб браузер дээр ажилладаг агентынхаа үр ашгийг дээшлүүлж, загварын зардлыг 76 дахин бууруулж чаджээ. Codex доторх GPT-6 Astra-г ашиглан тэд кодын санг судлуулж, гүйцэтгэлийг шалгах туршилтуудыг хийсэн байна.\n\nСудалгааны явцад агентынхаа түүхийн менежментийг сайжруулж, хуудасны текст болон дэлгэцийн зургийг давж ачаалахгүй байх оновчлолыг хийсэн бөгөөд GPT-6.1 Sol загварыг суурь болгон туршжээ. Үүний үр дүнд нэг ажиллагааны дундаж өртөг 0.47 ам.доллар болж буурсан байна.\n\nЭнэхүү оновчлолыг гараар хийхэд 1-2 сар шаардагдах байсан ч AI агентуудын тусламжтайгаар ердөө долоо хоногийн дотор амжилттай хэрэгжүүлсэн нь хөгжүүлэлтийн багуудад маш том давуу талыг өгчээ.",
+ "published": "2026-10-09T07:00:00Z",
+ "added": "2026-10-09T21:50:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

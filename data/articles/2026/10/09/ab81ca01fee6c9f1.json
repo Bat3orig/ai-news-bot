@@ -1,0 +1,16 @@
+{
+ "id": "ab81ca01fee6c9f1",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Techloy",
+ "url": "https://www.techloy.com/anthropic-oss-scanner-free-ai-vulnerability-scans/",
+ "image": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fEN5YmVyc2VjdXJpdHl8ZW58MHx8fHwxNzkxNTQzNjQ3fDA&ixlib=rb-4.1.0&q=80&w=2000",
+ "title": "Anthropic OSS Scanner: Free AI Vulnerability Scans",
+ "summary_en": "It uses Anthropic’s strongest models, including Claude Mythos, to find security flaws and generate bug reports.",
+ "title_mn": "Anthropic нээлттэй эх сурвалжийн төслүүдэд зориулсан үнэгүй OSS Scanner үйлчилгээг танилцууллаа",
+ "summary_mn": "Anthropic компани нээлттэй эх сурвалжийн төслүүдэд аюулгүй байдлын эмзэг байдлыг үнэ төлбөргүй илрүүлэх OSS Scanner үйлчилгээг эхлүүллээ. Энэхүү хэрэгсэл нь Claude загваруудыг ашиглан код дахь алдааг олж, тайлан болон засвар гаргаж өгөх юм.",
+ "body_mn": "Anthropic компани Claude загваруудынхаа чадавхыг ашиглан програм хангамжийн аюулгүй байдлыг сайжруулах зорилготой OSS Scanner үйлчилгээг албан ёсоор нээлээ. Уг үйлчилгээ нь дэд бүтцийн чухал нөлөөтэй нээлттэй эх сурвалжийн төслүүдэд үнэ төлбөргүйгээр эмзэг байдлын сканер хийх боломжийг олгох ажээ.\n\nСистем нь хүний оролцоогүйгээр автоматаар код дахь алдааг шалгаж, ямар алдаа гарсан болон хэрхэн засварлах талаарх мэдээллийг боловсруулж өгдөг. Энэ нь хөгжүүлэгчдэд болзошгүй аюул заналаас урьдчилан сэргийлэх, кибер аюулгүй байдлаа бэхжүүлэхэд чухал түлхэц болно.",
+ "published": "2026-10-09T14:12:45Z",
+ "added": "2026-10-09T21:50:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

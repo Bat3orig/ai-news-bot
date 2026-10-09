@@ -1,0 +1,16 @@
+{
+ "id": "b9bdd03fe02f96f0",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2Qs32E1zkoCkBhVBgltPRb/f1db5034ca5be0f05bacfd89ffda7b03/og_image_card_og_card.jpg",
+ "title": "How Rillet ships 3× faster with AI agents on Vercel",
+ "summary_en": "Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours Gives every builder access to models through AI Gateway Rillet is an AI-native enterprise resource planning (ERP) platform. Their AI agents do accounting work inside a real-time general ledger, with human approval and a full audit trail. Rillet serves more than 600 customers working toward a zero-day…",
+ "title_mn": "Rillet компани Vercel дээр AI агент ашиглан хөгжүүлэлтийн хурдаа 3 дахин өсгөжээ",
+ "summary_mn": "ERP үйлчилгээ үзүүлэгч Rillet компани Vercel болон eve агент хүрээг ашиглан бүтээгдэхүүн гаргах хурдаа гурав дахин нэмэгдүүлсэн байна.",
+ "body_mn": "AI суурьтай аж ахуйн нэгжийн нөөцийн төлөвлөлтийн (ERP) систем хөгжүүлэгч Rillet компани нь Vercel дээр байрших eve агент болон AI Gateway үйлчилгээг ашиглан программ хангамж гаргах хурдаа гурав дахин сайжруулжээ. Тэдний хөгжүүлэлтийн баг эхний дөрвөн сарын хугацаанд 800 гаруй Linear тасалбарыг амжилттай шийдвэрлэсэн байна.\n\nRillet-ийн баг агентуудыг бүтээхдээ eve нээлттэй эх сурвалжтай хүрээг сонгосон бөгөөд markdown заавар болон ур чадваруудыг ашиглан кодын нарийн төвөгтэй байдлыг багасгажээ. Мөн Vercel Connect үйлчилгээгээр дамжуулан Slack болон Linear системүүдэд агентуудын хүрэх эрхийг найдвартай удирдаж байна.\n\nЭнэхүү шийдлийн тусламжтайгаар хэрэглэгчийн үйлчилгээний ажилтнууд хүртэл тусгай Chrome өргөтгөл ашиглан санал хүсэлтээ өгч, агентууд автоматаар Pull Request үүсгэх хүртэлх ажлыг гүйцэтгэх боломжтой болсон нь инженерүүдийн цагийг ихээхэн хэмнэж байна.",
+ "published": "2026-10-09T04:00:00Z",
+ "added": "2026-10-09T21:50:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

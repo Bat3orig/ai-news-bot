@@ -1,0 +1,16 @@
+{
+ "id": "9a360fd20c246594",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Tech Edition",
+ "url": "https://www.techedt.com/anthropic-launches-claude-dashboards-and-motion-for-data-visualisation",
+ "image": "https://www.techedt.com/wp-content/uploads/2026/10/Anthropic-launches-Claude-Dashboards-and-Motion-for-data-visualisation.jpg",
+ "title": "Anthropic launches Claude Dashboards and Motion for data visualisation",
+ "summary_en": "Anthropic launches Claude Dashboards and Motion in beta, bringing interactive data visualisation and editable animated explainers to businesses.",
+ "title_mn": "Anthropic компани Claude Dashboards болон Motion хэрэгслүүдийг танилцууллаа",
+ "summary_mn": "Anthropic компани бизнес хэрэглэгчдэд зориулсан Claude Dashboards болон Claude Motion хэрэгслүүдийг бета хувилбараар гаргалаа. Эдгээр хэрэгсэл нь энгийн ярианы хэлээр өгөгдөл шинжлэх болон хөдөлгөөнт дүрслэл үүсгэх боломж олгоно.",
+ "body_mn": "Anthropic компани Claude хиймэл оюуны туслахдаа бизнесийн хэрэглээг өргөжүүлэх шинэ боломжуудыг нэмлээ. Claude Dashboards нь Databricks, Snowflake, Salesforce зэрэг платформуудтай холбогдож, хэрэглэгчийн асуултын дагуу өгөгдлийг график болон хянах самбар хэлбэрээр харуулах юм.\n\nХарин Claude Motion хэрэгсэл нь тайлан болон үзүүлэлтүүдийг богино хэмжээний хөдөлгөөнт дүрслэл болгон хувиргах чадвартай. Мөн Claude Docs, Slides болон Design зэрэг бүтээлч хэрэгслүүд албан ёсоор бета шарнаас гарч, бүх хэрэглэгчдэд нээлттэй болжээ.",
+ "published": "2026-10-09T14:40:56Z",
+ "added": "2026-10-09T21:50:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

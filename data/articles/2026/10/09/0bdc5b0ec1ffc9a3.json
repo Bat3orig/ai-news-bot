@@ -1,0 +1,16 @@
+{
+ "id": "0bdc5b0ec1ffc9a3",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.27.0",
+ "image": "https://opengraph.githubassets.com/0998d5f7384f039b80e4105f5a9a46dc55c1a4eb4430ba5c942f548d6753cf08/openai/openai-python/releases/tag/v3.27.0",
+ "title": "openai-python v3.27.0",
+ "summary_en": "3.27.0 (2026-10-09) Features api: add prewarmed hosted environments ( #4043 ) ( c511a77 )",
+ "title_mn": "openai-python v3.27.0 хувилбар шинэ боломжтойгоор гарлаа",
+ "summary_mn": "openai-python сангийн 3.27.0 хувилбар гарч, урьдчилан халаасан hosted орчныг дэмжих функц нэмэгдлээ.",
+ "body_mn": "OpenAI python хөгжүүлэлтийн сангийн шинэ буюу 3.27.0 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр API хэсэгт урьдчилан халаасан буюу prewarmed hosted орчныг ашиглах боломжийг нэмсэн байна.\n\nХөгжүүлэгчид энэхүү шинэ боломжийг ашигласнаар OpenAI-ийн үйлчилгээтэй харилцах явцыг илүү хурдан бөгөөд оновчтой болгох боломжтой юм. Засвар болон нэмэлт өөрчлөлтийн дэлгэрэнгүйг албан ёсны GitHub репозитроос харах боломжтой.",
+ "published": "2026-10-09T13:46:41Z",
+ "added": "2026-10-09T21:50:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

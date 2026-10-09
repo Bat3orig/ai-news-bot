@@ -1,0 +1,16 @@
+{
+ "id": "b7ca2974514f4246",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/liquid-ai-d1-is-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2D9pUMCOfGFSvOXKqHNRMr/0ccd519c0c1cc88930d647269ab0edf9/image__112_.png",
+ "title": "Liquid AI's d1 is available on AI Gateway",
+ "summary_en": "Liquid d1 is now available on AI Gateway . d1 is a decision model that evaluates shared state against typed questions for classification, routing, and scoring. It returns structured answers with probabilities without generating text tokens. d1 also has vision support: the model can answer typed questions about images for visual classification, inspection, and scoring. Use liquid/d1 through the AI SDK decision API , the OpenAI-compatible Decisions API , or the TypeSafe-compatible API . These examples ask whether a support agent issued a refund: Image input This example reads a local PNG named…",
+ "title_mn": "Liquid AI-ийн d1 шийдвэр гаргах загвар AI Gateway дээр ашиглах боломжтой боллоо",
+ "summary_mn": "Liquid d1 загвар нь текстийн токен үүсгэхгүйгээр хуваалцсан төлөвийг үнэлэх боломжтойгоор AI Gateway дээр дэмжигдэж эхэллээ.",
+ "body_mn": "Liquid AI компанийн бүтээсэн d1 шийдвэр гаргах загвар одоо Vercel AI Gateway дээр албан ёosan бэлэн боллоо. Энэхүү загвар нь хуваалцсан төлөвийг ангилах, чиглүүлэх, оноо өгөх зорилгоор төрөлжүүлсэн асуултуудын дагуу үнэлгээ хийдэг онцлогтой юм.\n\nd1 нь текст токен үйлдвэрлэхийн оронд магадлал бүхий бүтцийн хариуг буцаадаг бөгөөд зургийг ангилах, шалгах, оноо өгөх визуаль дэмжлэгтэйгээр ирдэг. Хөгжүүлэгчид үүнийг AI SDK decision API, OpenAI-тэй нийцтэй Decisions API эсвэл TypeSafe-тэй нийцтэй API-аар дамжуулан дуудаж ашиглах боломжтой.\n\nAI Gateway-ийн нэгдсэн системд эдгээр шийдвэрийн дуудлагууд бүртгэгдэж, бусад загварын хүсэлтүүдийн хамт хэрэглээний зардал болон бүртгэлд хянагдах юм.",
+ "published": "2026-10-09T00:00:00Z",
+ "added": "2026-10-09T21:50:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

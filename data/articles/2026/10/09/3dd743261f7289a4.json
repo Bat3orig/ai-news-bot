@@ -1,0 +1,16 @@
+{
+ "id": "3dd743261f7289a4",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Forbes",
+ "url": "https://www.forbes.com/sites/fionariley/2026/10/09/anthropic-pauses-free-claude-startup-perks-days-after-launch/",
+ "image": "",
+ "title": "Anthropic Pauses Free Claude Startup Perks Days After Launch",
+ "summary_en": "",
+ "title_mn": "Anthropic стартапуудад зориулсан үнэгүй Claude хөнгөлөлтөө түр зогсоолоо",
+ "summary_mn": "Anthropic компани гарааны бизнесүүдэд зориулан гаргасан Claude үнэгүй хөнгөлөлтүүдийн хөтөлбөрөө гаргаснаасаа хойш хэдхэн хоногийн дараа түр зогсоожээ.",
+ "body_mn": "Anthropic компани стартап болон гарааны бизнес эрхлэгчдэд зориулсан үнэгүй үйлчилгээний хөтөлбөрөө түр хугацаагаар зогсоосон байна. Энэхүү шийдвэр нь хөтөлбөр эхэлснээс хойш тун богино хугацааны дараа гарсан бөгөөд шалтгааны талаар тодорхой мэдээлэл одоогоор гараагүй байна.\n\nХөгжүүлэгчид болон стартапууд уг хөтөлбөрийн хүрээнд Claude загваруудыг ашиглах боломжтой байсан хэдий ч цаашид хэзээ дахин нээгдэх нь тодорхойгүй байна.",
+ "published": "2026-10-09T14:54:37Z",
+ "added": "2026-10-09T21:50:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

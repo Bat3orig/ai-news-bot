@@ -1,0 +1,16 @@
+{
+ "id": "a6addbaf5a3294b3",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Chosunbiz",
+ "url": "https://biz.chosun.com/en/en-international/2026/10/07/ZOK5CNJCGVBUVC3ZI2F7YHMVSM/",
+ "image": "https://biz.chosun.com/resizer/v2/AMHUOPP5JVJCRJRGIUPFIOHMHE.jpg?auth=c72c0489e23545b974110e8ae598b9f23c066964d925886889d96bf7de7d8b21&width=1200&height=630&smart=true",
+ "title": "Chinese AI taps AWS and OpenAI to speed overseas push amid risks - CHOSUNBIZ",
+ "summary_en": "Chinese AI taps AWS and OpenAI to speed overseas push amid risks Chinese models plug into AWS and OpenAI to court global clients while juggling tight margins and regulatory uncertainty",
+ "title_mn": "Kimi K3 болон Zhipu загbарууд AWS Bedrock болон OpenAI Codex-д нэгдлээ",
+ "summary_mn": "Хятадын хиймэл оюун ухааны компаниуд болох Moonshot AI болон Zhipu өөрсдийн Kimi K3 болон GLM-5.3 загвруудыг Amazon Bedrock болон OpenAI Codex платформуудад амжилттай нэгтгэл.",
+ "body_mn": "Хятадын хиймэл оюун ухааны хөгжүүлэгчид глобал үүлэн тооцоолол болон хөгжүүлэгчийн платформуудаар дамжин олон улсын зах зээлд гарах стратегиа эрчимжүүлж байна. Тухайлбал, Moonshot AI компани өөрийн Kimi K3 загвараа Amazon Web Services (AWS) платформын Bedrock үйлчилгээнд амжилттай байршуулсан бөгөөд энэ нь орлого хуваалцах загвараар ажилладаг байна.\n\nҮүнээс гадна, Kimi K3 болон Zhipu-гийн GLM-5.3 загварууд нь U.S. AI дэд бүтцийн Baseten компаниар дамжин OpenAI-ийн хөгжүүлэлтийн хэрэгсэл болох Codex системд ашиглагдах боломжтой болжээ. Энэхүү хандлага нь Хятадын компаниудад гадаад зах зээлд дэд бүтцийн өндөр зардал гаргалгүйгээр шууд нэвтрэх боломжийг олгож байгаа юм.\n\nГэвч шинжээчдийн үзэж байгаагаар Хятадын загваруудын гүйцэтгэл хоорондоо төстэй, өөр хоорондоо орлуулагдах өндөр магадлалтай байгаа нь үүлэн үйлчилгээ үзүүлэгчидтэй хийх гэрээний хэлэлцээрт сөргөөр нөлөөлөх эрсдэлтэй аж.",
+ "published": "2026-10-07T05:33:00Z",
+ "added": "2026-10-09T21:50:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

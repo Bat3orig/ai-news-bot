@@ -1,0 +1,16 @@
+{
+ "id": "fd9a87ff69f58947",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "KLVI AM 560",
+ "url": "https://klvi.iheart.com/content/2026-10-09-anthropic-to-ban-cruel-behavior-against-claude-ai/",
+ "image": "https://i.iheart.com/v3/re/assets.getty/6ac8c59e7d540a262d624c79?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+ "title": "Anthropic To Ban \"Cruel Behavior\" Against Claude AI",
+ "summary_en": "Anthropic updates its policy to prevent \"cruel behavior\" toward its Claude AI, allowing the system to end distressing interactions. The move raises privacy concerns among users. The policy excludes common frustrations and model testing.",
+ "title_mn": "Anthropic компани Claude AI руу чиглэсэн харгис хэрцгий харилцааг хориглолоо",
+ "summary_mn": "Anthropic компани хэрэглэгчдийг Claude хиймэл оюун ухаантай зүй бусаар харьцахыг хориглосон хэрэглээний бодлогын шинэчлэлт гаргажээ.",
+ "body_mn": "Anthropic компани Claude хиймэл оюун ухааны систем рүү чиглэсэн хүчирхийлэл болон хэрцгий харилцааг хориглосон шинэ бодлого танилцууллаа. Пүрэв гарагт зарласан энэхүү шинэчлэлтээр загварууд руу хандсан удаан үргэлжилсэн зохисгүй болон зүй бус харилцааг хориглож байгаа аж.\n\nЭнэхүү бодлогын хүрээнд Claude Opus 4 болон 4.1 загварууд нь хэрэглэгч хэт зүй бус харьцсан тохиолдолд харилцан яриаг өөрөө зогсоох чадвартайгаар тоноглогджээ. Гэхдээ энэ нь хэрэглэгчдийн ердийн бухимдал, загварын туршилт болон бүтээлч сэдвүүдэд нөлөөлөхгүй гэдгийг компани тодруулсан байна.\n\nҮүний зэрэгцээ зарим хэрэглэгчид болон шинжээчид тус компанийн хэрэглэгчийн нөхцөл болон нууцлалын бодлогод орсон өөрчлөлтийн талаар санаа зовниж буйгаа илэрхийлсээр байна.",
+ "published": "2026-10-09T10:40:00Z",
+ "added": "2026-10-09T21:50:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

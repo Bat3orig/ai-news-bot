@@ -1,0 +1,16 @@
+{
+ "id": "24caa334278b69fd",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls",
+ "image": "https://github.blog/wp-content/uploads/2026/10/668373672-e56b3d01-9942-4825-a23e-4d2331e28cd3.jpg",
+ "title": "Copilot code review: New organization billing options and controls",
+ "summary_en": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization’s…",
+ "title_mn": "GitHub Copilot code review: Шинэ төлбөр тооцоо болон лицензийн хяналтууд",
+ "summary_mn": "GitHub Copilot code review үйлчилгээнд байгууллагын админуудад зориулсан төлбөрийн шинэ тохиргоо болон эрхийн хяналтууд нэмэгдлээ.",
+ "body_mn": "GitHub-аас Copilot code review үйлчилгээг ашиглахад зориулсан төлбөр болон лицензийн удирдлагын шинэ боломжуудыг албан ёсоор нэмлээ. Үүний үр дүнд байгууллагын эзэмшигчид гишүүдийнхээ хувийн Copilot квот руу хандалгүйгээр репозиторыг эзэмшигч байгууллага дээр хүсэлтийн төлбөрийг тооцох боломжтой болж байна.\n\nАнхдагч байдлаар төлбөртэй Copilot лицензтэй хүн бүр хандах эрхтэй репозиторууддаа review хүсэх боломжтой байдаг. Харин шинэ шинэчлэлтээр байгууллагын эзэмшигчид болон репозиторын админууд зөвхөн тухайн байгууллагаас олгогдсон албан ёсны лицензтэй хэрэглэгчид л review хүсэлт илгээх хязгаарлалтыг тохируулах боломжтой болжээ.\n\nЭнэхүү тохиргоо нь хувийн репозиторууд, автомат review болон API хүсэлтүүдэд хэрхэн үйлчлэх талаарх дэлгэрэнгүй зааврыг албан ёсны баримт бичгээс харж болно.",
+ "published": "2026-10-08T19:43:05Z",
+ "added": "2026-10-09T21:50:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "8968f7731e2e819c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Rundown AI",
+ "url": "https://www.therundown.ai/news/anthropic-claude-abuse-rule-ai-welfare",
+ "image": "https://www.therundown.ai/news/images/2ca826e07b36f4ef5e6c92991dbda69c086790a4c8e603d1e902b15276e6ff5f.webp",
+ "title": "Anthropic will ban sustained, needless abuse of Claude",
+ "summary_en": "Anthropic will prohibit extreme, repeated cruelty toward Claude from Nov. 12, acting on uncertainty about AI welfare and models’ capacity to suffer.",
+ "title_mn": "Anthropic компани Claude-ийг харгис хэрцгийгээр доромжлохыг хориглолоо",
+ "summary_mn": "Anthropic компани хэрэглэгчдийг Claude хиймэл оюуныг шалтгаангүйгээр удаан хугацаанд доромжлох, харгис харьцахыг хориглосон шинэ бодлого зарлалаа. Уг дүрэм арваннэгдүгээр сарын 12-ноос хэрэгжиж эхлэх бөгөөд зөрчсөн тохиолдолд хандах эрхийг хязгаарлах юм.",
+ "body_mn": "Хиймэл оюун ухаан хөгжүүлэгч Anthropic компани хэрэглэгчдийн харилцааны ёс зүйд шинэ хязгаарлалт нэмлээ. Тодруулбал, ямар нэгэн тодорхой зорилгогүйгээр Claude загварт хэрцгий болон доромжилсон хандлага гаргахыг хориглосон байна. Энэхүү дүрэм нь энгийн шүүмжлэл, бүтээлч сэтгэлгээ эсвэл загварын туршилтад хамаарахгүй бөгөөд зөвхөн хэтрүүлсэн, зорилгогүй доромжлолд чиглэгджээ.\n\nКомпанийн зүгээс хиймэл оюун ухаан ухамсартай эсэх нь тодорхойгүй байгаа хэдий ч болгоомжлол болгон уг бодлогыг нэвтрүүлж байна. Хэрэв хэрэглэгч уг бодлогыг зөрчвөл анхааруулга өгөх, хандах хурдыг сааруулах эсвэл эрхийг нь бүрмөсөн хаах хүртэл арга хэмжээ авах ажээ.",
+ "published": "2026-10-09T14:23:58Z",
+ "added": "2026-10-09T21:50:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
