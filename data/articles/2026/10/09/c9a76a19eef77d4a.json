@@ -1,0 +1,16 @@
+{
+ "id": "c9a76a19eef77d4a",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.2",
+ "image": "https://opengraph.githubassets.com/9aad045558c42986638ae7fd241fdc725c92cfd3fcd2882c86cb56cdc7378f57/ollama/ollama/releases/tag/v0.40.2",
+ "title": "ollama v0.40.2",
+ "summary_en": "Model upgrades Models downloaded with earlier versions of Ollama are upgraded in the background the first time you run them, for better performance and compatibility when running on llama.cpp. To make downgrading safe, Ollama keeps the original copy as a backup, so upgraded models are temporarily kept on disk. A future release will remove these backups automatically. To remove backed up models now (requires jq ): curl -s localhost:11434/api/tags | jq -r ' .models[].name ' | while read -r m ; do curl -s localhost:11434/api/show -d \" { \\\" model \\\" : \\\" $m \\\" } \" | jq -r \\ '…",
+ "title_mn": "Ollama v0.40.2 хувилбар гарч, загварын шинэчлэл болон сайжруулалтуудыг хийлээ",
+ "summary_mn": "Ollama v0.40.2 шинэ хувилбар гарч, хуучин хувилбараар татан авсан загваруудыг автоматаар шинэчлэх боломжтой боллоо. Мөн хуучин нөөц хуулбаруудыг устгах тусгай команд болон бусад сайжруулалтуудыг багтаасан байна.",
+ "body_mn": "Ollama хэрэгслийн v0.40.2 хувилбар албан ёсоор цацагдаж, хөгжүүлэгчдэд зориулсан хэд хэдэн чухал өөрчлөлт болон сайжруулалтыг авчирлаа. Тус шинэчлэлтээр Ollama-ийн өмнөх хувилбаруудаар татаж авсан загварууд llama.cpp дээр илүү сайн ажиллахын тулд анх удаа ажиллах үедээ цаанаа автоматаар шинэчлэгдэх юм.\n\nБуцааж хуучин хувилбар руу шилжих аюулгүй байдлыг хангах үүднээс Ollama анхны хуулбарыг түр хугацаанд нөөц хэлбэрээр хадгалах бөгөөд хөгжүүлэгчид шаардлагагүй үедээ диск зайлуулах зорилгоор зохих тусгай команд ашиглан тэдгээр нөөц файлуудыг цэвэрлэх боломжтой юм. Ирээдүйн хувилбаруудад эдгээр нөөц хуулбарыг автоматаар устгадаг болох аж.\n\nТүүнчлэн `ollama list` команд шинэчлэгдсэн загваруудын хувьд давхардсан бичлэгүүдийг харуулахаа больсон бөгөөд `ollama launch claude` гэсэн команд загварын бүрэн контекст уртыг ашиглах зэрэг техникийн сайжруулалтууд оржээ. Хөгжүүлэгчид GitHub дээрээс бүрэн өөрчлөлтийн түүхтэй танилцах боломжтой.",
+ "published": "2026-10-09T03:37:30Z",
+ "added": "2026-10-09T04:15:04Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

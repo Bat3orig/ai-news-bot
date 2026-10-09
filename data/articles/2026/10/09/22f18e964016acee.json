@@ -1,0 +1,16 @@
+{
+ "id": "22f18e964016acee",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_2g9cog2g9c.2e16d0ba.fill-1200x600.jpg",
+ "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
+ "summary_en": "How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference implementation that runs beside your production agent in Google Cloud, sweeps and verifies failure clusters against conversation transcripts, and diagnoses root causes anchored to the exact deployed source snapshot.",
+ "title_mn": "Google Developers: Бүтээгдэхүүний AI агентыг хянах AQuA чанарын агентыг танилцууллаа",
+ "summary_mn": "Google Cloud төслүүдэд ажиллаж буй хиймэл оюуны агентуудын чанарыг автоматаар хянах AQuA (Ambient Quality Agent) нээлттэй хэрэгслийг танилцууллаа. Энэхүү агентын тусламжтайгаар хувиргалт болон алдааны хэв шинжийг тасралтгүй оношлох боломжтой.",
+ "body_mn": "Хиймэл оюуны агентуудыг үйлдвэрлэлийн орчинд амжилттай нэвтрүүлсний дараа тэдгээрийн чанар цаг хугацаа өнгөрөх тусам хэрхэн өөрчлөгдөж байгааг хянах нь хөгжүүлэгчдийн хувьд томоохон сорилт хэвээр байна. Агент шугаман шалгуураар хэвийн ажиллаж байгаа мэт харавч бодит хэрэглэгчийн урсгал дээр алдаа гаргах тохиолдлууд цөөнгүй байдаг.\n\nҮүнийг шийдвэрлэх зорилгоор Google-ээс AQuA (Ambient Quality Agent) хэрэгслийг нээлттэй эх үүсвэр хэлбэрээр танилцууллаа. AQuA нь таны Google Cloud төслийн хүрээнд Cloud Trace, Cloud Logging болон BigQuery мэдээллүүдэд үндэслэн үйлдвэрлэлийн явцыг хуваарийн дагуу эсвэл шинэчлэлт хийгдсэний дараа автоматаар шалгадаг байна. Энэ нь агентын үйл ажиллагаанд шууд оролцохгүйгээр ард нь ажиллаж, мэдээллийг хянадаг юм.\n\nAQuA нь ярианы хуулбар болон эх кодыг уншиж, хөгжүүлэгчийн тодорхойлсон зорилго болон Python хэл дээр бичигдсэн хэмжүүрүүдийг ашиглан үнэлгээ өгдөг. Энэ нь хөгжүүлэгчдэд бүтээгдэхүүний чанарын түвшинг алдагдуулахгүйгээр агентынхаа гүйцэтгэлийг тасралтгүй сайжруулах боломжийг олгож байна.",
+ "published": "2026-10-09T04:15:04Z",
+ "added": "2026-10-09T04:15:04Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
