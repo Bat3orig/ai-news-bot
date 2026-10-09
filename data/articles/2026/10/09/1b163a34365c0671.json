@@ -1,0 +1,16 @@
+{
+ "id": "1b163a34365c0671",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Seeking Alpha",
+ "url": "https://seekingalpha.com/news/4651528-google-overtakes-anthropic-in-prediction-markets-to-lead-2026-ai-race",
+ "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1163973538/image_1163973538.jpg?io=getty-c-w630",
+ "title": "Google overtakes Anthropic in prediction markets to lead 2026 AI race (GOOGL:NASDAQ)",
+ "summary_en": "Google overtakes Anthropic in prediction markets to lead “best AI model by year-end” odds.",
+ "title_mn": "Google prediction market-д Anthropic-ийг давж, 2026 оны AI тэмцээнд тэргүүлэв",
+ "summary_mn": "Пүрэв гарагт Google prediction market дээрх магадлалаараа урт хугацаанд тэргүүлсэн Anthropic-ийг тойрч, жилийн эцэст хамгийн шилдэг AI загвартай байх магадлалаар тэргүүллээ.",
+ "body_mn": "Seeking Alpha-ийн мэдээлснээр Google (GOOGL) Пүрэв гарагт prediction market дээрх магадлалын хувьд удаан хугацаанд тэргүүлсэн Anthropic-ийг давж, тэргүүн байранд гарлаа. Худалдаачид жилийн эцэс гэхэд аль технологийн томоохон компани хамгийн шилдэг AI загварыг эзэмших вэ гэдэг дээр мөрийцөж байна.\n\nЭнэ мэдээ нь зах зээлийн хандлагыг илэрхийлэх боловч бодит технологийн гүйцэтгэлийн тухай албан ёсны харьцуулалт биш юм. Эх материалд загварын бенчмарк, гаргасан шинэ хувилбар болон техникийн үзүүлэлт тодорхой дурдагдаагүй.\n\nХөгжүүлэгчдэд энэ мэдээ шууд техникийн өөрчлөлт авчрахгүй ч AI платформуудын өрсөлдөөн хурцдаж буйг харуулна. Загварын сонголт, API-ийн үнэ болон хандалтад нөлөөлж болзошгүй тул цаашдын мэдээллийг дагах нь зүйтэй.",
+ "published": "2026-10-08T19:04:50Z",
+ "added": "2026-10-09T03:54:29Z",
+ "ai": "claude:claude-haiku-5-5"
+}

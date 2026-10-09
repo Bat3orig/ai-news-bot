@@ -1,0 +1,16 @@
+{
+ "id": "c63e7b27dc6cb7fb",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Gizmodo",
+ "url": "https://gizmodo.com/anthropic-moves-us-one-step-closer-to-making-clanker-a-slur-2000823772",
+ "image": "",
+ "title": "Anthropic Moves Us One Step Closer to Making ‘Clanker’ a Slur",
+ "summary_en": "",
+ "title_mn": "Anthropic-ийн талаарх Gizmodo сайтын нийтлэл",
+ "summary_mn": "Энэхүү мэдээ нь Anthropic компанийн талаарх хошигнол эсвэл богино хэмжээний гарчигтай бөгөөд хөгжүүлэгчдэд зориулсан техникийн ямар нэгэн мэдээлэл агуулаагүй болно.",
+ "body_mn": "Уг нийтлэл нь зөвхөн гарчиг төдий мэдээлэлтэй бөгөөд ямар нэгэн баримт, техникийн шинэчлэл болон хөгжүүлэгчдэд хэрэгтэй дэлгэрэнгүй агуулга байхгүй байна. Тиймээс энэхүү мэдээллийг хэрэгтэй мэдээний санд хамруулах боломжгүй юм.",
+ "published": "2026-10-08T20:40:39Z",
+ "added": "2026-10-09T03:54:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

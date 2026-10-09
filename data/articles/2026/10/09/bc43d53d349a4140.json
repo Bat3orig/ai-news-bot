@@ -1,0 +1,16 @@
+{
+ "id": "bc43d53d349a4140",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Yahoo! Finance Canada",
+ "url": "https://ca.finance.yahoo.com/news/anthropic-launches-dashboard-animation-tools-190747503.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/235ee11c63b54aff22b2e583fe57f1a9a451c5f83758bf372af712a586b00688/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.ca%2Fb8a0bd1549e5456e92beb0c648dca328.jpg",
+ "title": "Anthropic launches dashboard, animation tools for Claude",
+ "summary_en": "Oct 8 (Reuters) - Anthropic on Thursday launched tools that allow users to create data dashboards and animations through Claude, as AI companies vie to broaden their suite of workplace productivity",
+ "title_mn": "Anthropic Claude-д dashboard болон анимейшн хэрэгсэл нэмлээ",
+ "summary_mn": "Claude Dashboards beta хэлбэрээр төлбөртэй төлөвлөгөөнд, Claude Motion Team болон Enterprise хэрэглэгчдэд нээлттэй боллоо. Docs, Slides болон Design хэрэгслүүд бүх төлөвлөгөөнд ерөнхийд нь нээлттэй.",
+ "body_mn": "Reuters-ийн мэдээлснээр Anthropic Пүрэв гарагт Claude-д өгөгдлийн dashboard болон анимейшн үүсгэх хэрэгслүүдээ нэмлээ. Компани энэ алхмаар AI компаниуд ажлын байрны программ хангамжийн багцаа өргөтгөх өрсөлдөөнд оролцож буйг тодорхой харуулж байна.\n\nClaude Dashboards нь төлбөртэй төлөвлөгөөнд beta хэлбэрээр нээлттэй. Энэ хэрэгсэл бизнесийн өгөгдлийн платформ болон харилцагчийн удирдлагын системтэй холбогдож, энгийн хэлээр асуусан асуултаас амьд dashboard болон шинжилгээ бүтээдэг.\n\nClaude Motion нь Team болон Enterprise хэрэглэгчдэд beta хэлбэрээр боломжтой бөгөөд засварлагдах анимейшн бүтээж, видео файл болгон экспортлох боломжийг олгоно. Anthropic эдгээр хэрэгслийг кодгүйгээр өгөгдөл шинжлэх, визуал контент бэлтгэхэд зориулсан гэжээ.\n\nМөн Claude Docs, Slides болон Design хэрэгслүүд beta туршилтын дараа бүх Claude төлөвлөгөөнд ерөнхийд нь нээлттэй болсон байна.",
+ "published": "2026-10-08T19:07:47Z",
+ "added": "2026-10-09T03:54:29Z",
+ "ai": "claude:claude-haiku-5-5"
+}

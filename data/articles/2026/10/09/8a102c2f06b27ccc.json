@@ -1,0 +1,16 @@
+{
+ "id": "8a102c2f06b27ccc",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Reuters",
+ "url": "https://www.reuters.com/technology/anthropic-launches-dashboard-animation-tools-claude-2026-10-08/",
+ "image": "",
+ "title": "Anthropic launches dashboard, animation tools for Claude",
+ "summary_en": "",
+ "title_mn": "Anthropic Claude-д dashboard болон анимейшн хэрэгсэл нэмлээ",
+ "summary_mn": "Anthropic Claude-д өгөгдлийн dashboard болон анимейшн үүсгэх хэрэгслүүдийг нэмсэн тухай Reuters мэдээлжээ. Дэлгэрэнгүй мэдээлэл энэ тайлбарт байхгүй байна.",
+ "body_mn": "Reuters агентлагын энэ мэдээнд Anthropic Claude-д dashboard болон анимейшн үүсгэх хэрэгслүүд нэмсэн тухай гарчиг л байна. Бусад дэлгэрэнгүй мэдээлэл, хэрэгслийн хүрээ, хандах боломжийн нөхцөл зэрэг хэсгүүд эх текстэд байхгүй тул тэдгээрийг баталж чадахгүй.\n\nДээрх мэдээллээс харахад Anthropic ажлын байрны бүтээмжийн хэрэгслүүдээ өргөтгөж буй нь тодорхой байна. Илүү нарийвчилсан мэдээллийг албан ёсны зарлал болон Reuters-ийн бүрэн нийтлэлээс шалгаж болно.",
+ "published": "2026-10-08T19:08:01Z",
+ "added": "2026-10-09T03:54:29Z",
+ "ai": "claude:claude-haiku-5-5"
+}

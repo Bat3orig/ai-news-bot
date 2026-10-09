@@ -1,0 +1,16 @@
+{
+ "id": "67c0051771a24d90",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Techli",
+ "url": "https://techli.com/source-meridian-becomes-a-select-partner-in-anthropics-claude-network/11532/",
+ "image": "",
+ "title": "Source Meridian becomes a Select partner in Anthropic’s Claude network",
+ "summary_en": "",
+ "title_mn": "Source Meridian компани Anthropic-ийн Claude түншлэлийн сүлжээнд нэгдлээ",
+ "summary_mn": "Эрүүл мэнд болон зохицуулалттай салбарт үйл ажиллагаа явуулдаг Source Meridian компани Anthropic-ийн Claude Partner Network-ийн Select түнш боллоо. Энэ нь эрүүл мэндийн байгууллагуудад өгөгдлийн аюулгүй байдлыг хангасан AI шийдлүүдийг нэвтрүүлэх боломжийг өргөжүүлж байна.",
+ "body_mn": "Source Meridian компани Anthropic-ийн Claude Partner Network Services Track хөтөлбөрийн Select түншээр сонгогдлоо. Ингэснээр эрүүл мэнд болон бусад хатуу зохицуулалттай салбарын байгууллагуудад Claude загварт суурилсан шийдлүүдийг хүргэх боломж илүү өргөжиж байна.\n\nAnthropic компани бизнесүүдэд хиймэл оюун ухааны системүүдийг дэд бүтцийнх нь хүрээнд холбоход туслах зорилгоор энэхүү түншлэлийн сүлжээг хөгжүүлж байгаа юм. Select түнш болохын тулд компаниуд дор хаяж 10 сертификаттай ажилтантай байх, сүүлийн 12 сарын хугацаанд production орчинд хоёр хамтарсан үйлчлүүлэгчтэй болсон байх шаардлагыг хангасан байх ёстой.\n\nSource Meridian нь эмнэлзүйн байгалийн хэлний боловсруулалт, RAG болон хиймэл оюун ухааны агент зэрэг чиглэлээр ажилладаг туршлагатай юм. Тэдний технологийн архитектур нь HIPAA, SOC 2, HITRUST зэрэг аюулгүй байдал, нууцлалын стандартуудыг хангахад чиглэгддэг тул эрүүл мэндийн салбарт хиймэл оюун ухааныг нэвтрүүлэхэд чухал алхам болж байна.",
+ "published": "2026-10-08T20:27:20Z",
+ "added": "2026-10-09T03:54:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

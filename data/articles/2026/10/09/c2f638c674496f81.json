@@ -1,0 +1,16 @@
+{
+ "id": "c2f638c674496f81",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.295",
+ "image": "https://opengraph.githubassets.com/dcd85cc09c433aa3666f9ee287bfcdcee1723dae81f86e24a561ff9f76882a84/anthropics/claude-code/releases/tag/v2.1.295",
+ "title": "claude-code v2.1.295",
+ "summary_en": "What's changed Added onFailure: \"block\" for command and HTTP hooks: a hook that can't start, times out, or exits with an unexpected code blocks the action instead of letting it through Added Program Status Protocol (OSC 7501) support: terminals that implement it can show whether Claude Code is working, waiting on you, or done Added quoted text to the /copy picker, so a drafted message copies without its > markers Added a warning to claude plugin install , enable , disable and marketplace add when the settings file they write to does not load Added a line on stderr, when it is a terminal…",
+ "title_mn": "Claude Code v2.1.295 хувилбар шинэчлэгдлээ",
+ "summary_mn": "Claude Code хэрэгслийн шинэ хувилбар гарч, command болон HTTP хуукуудад onFailure \"block\" нэмэгдэн, terminal дээрх програмын төлөв болон таймерын дэмжлэг сайжирлаа. Мөн олон төрлийн алдааг засварлаж, хөгжүүлэгчдийн ажлыг хөнгөвчилжээ.",
+ "body_mn": "Claude Code хэрэгслийн шинэ v2.1.295 шинэчлэлт нь хөгжүүлэгчдэд зориулсан олон шинэ боломж, сайжруулалтыг авчирлаа. Тухайлбал, command болон HTTP хуукуудад onFailure \"block\" сонголт нэмэгдсэн бөгөөд энэ нь хүсэлт амжилтгүй болох эсвэл цаг хэтэрсэн тохиолдолд үйлдлийг зогсоох боломжийг олгож байна.\n\nҮүнээс гадна OSC 7501 протоколын дэмжлэг нэмэгдсэнээр терминал дээр Claude Code ажиллаж байгаа эсвэл хүлээгдэж буй төлөвийг харуулах боломжтой болжээ. Мөн Bedrock, Vertex болон бусад үүлэн үйлчилгээнүүдэд stream эхлэх хугацааг хязгаарлах timeouts.upstream_ttfb_ms тохиргоог нэмсэн нь failover хийхэд тусална.\n\nЭнэхүү шинэчлэлтээр 1m загварууд контекстийн бета хувилбарыг зөвшөөрөхгүй үед автоматаар дахин илгээдэг болсон байна. Түүнчлэн алсын MCP серверүүдийн тасалдалттай холбоотой алдаанууд, Bash хэрэгслийн дуудлага болон бусад техникийн асуудлуудыг амжилттай заслаа.",
+ "published": "2026-10-08T19:48:38Z",
+ "added": "2026-10-09T03:54:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "edd281de8bb5690d",
+ "subtopic": "ai-devtools",
+ "source": "openai/codex",
+ "source_label": "openai/codex",
+ "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0",
+ "image": "https://opengraph.githubassets.com/ecd5f375c36de28d9804327dbdf3e5b7ade3c97efa418c5370f3495eb6d33d86/openai/codex/releases/tag/rust-v0.162.0",
+ "title": "codex 0.162.0",
+ "summary_en": "New Features Add tools for creating and listing managed Git worktrees from trusted local projects when the worktrees feature is enabled. ( #50148 ) Pin tasks in the agent Command Center with p and keep them in a shared Pinned group when supported by the server. ( #51500 ) Navigate and copy transcript blocks with /copy , use Ctrl+Insert to copy selections, and tune mouse-wheel scrolling with tui.mouse_scroll_speed . ( #50434 , #50215 , #50209 ) Make URLs clickable in approval headers, questions, MCP prompts, warnings, banners, and verification prompts, including when links wrap across lines…",
+ "title_mn": "Codex 0.162.0: Git worktree, Pinned группүүд, TUI сайжруулалт нэмэгдлээ",
+ "summary_mn": "OpenAI-ийн Codex CLI-ийн 0.162.0 хувилбар гарлаа. Шинэ хувилбарт Git worktree үүсгэх, жагсаах боломж, Command Center-д ажил бэхлэх (Pinned) функц, transcript-ийн блокуудыг хуулах /copy командууд нэмэгдсэн.",
+ "body_mn": "OpenAI-ийн Codex-ийн 0.162.0 хувилбар гарлаа. Шинэчлэлийн гол хэсэг нь итгэмжлэгдсэн локал төслөөс managed Git worktree үүсгэх болон жагсаах хэрэгслүүд юм. Энэ функц worktrees feature идэвхтэй байх үед ажиллана.\n\nAgent Command Center дотор ажлуудыг p товчоор бэхлэж, серверт дэмжигдсэн бол хуваалцсан Pinned бүлэгт хадгалах боломжтой боллоо. Transcript-ийн блокуудыг /copy командаар хуулах, Ctrl+Insert-ээр сонголтыг хуулах, tui.mouse_scroll_speed тохиргоогоор хулганы гүйлгэлтийг тохируулах боломж нэмэгдсэн.\n\nApproval толгой хэсэг, асуулт, MCP prompt, анхааруулга болон баталгаажуулалтын цонхонд байгаа холбоосууд одоо дарж болдог боллоо. Холбоос мөр таслагдсан ч ажиллана. Мөн custom Responses-тай нийцтэй model provider-үүдэд live web access болон remote compaction тохируулах боломж нэмэгдсэн.\n\nАлдааны засварууд ч багтсан. Шинэ TUI thread-үүд серверийн model болон reasoning-summary өгөгдмөл утгыг хүлээн авдаг болсон. apply_patch нь CRLF мөрийн төгсгөлийг хадгална. Linux sandbox-ийн эхлэл, Windows 10 дээрх drive letter-ийн хандалт, Responses болон WebSocket алдааны үед серверийн Retry-After зөвлөмжийг хүндэтгэх зэрэг асуудлууд засагдсан.\n\nХөгжүүлэгчдэд чухал нь: шинэ хувилбарт JavaScript helper-үүд болон Code Mode дотор ranked tool search нэмэгдсэн. Windows-ийн суулгагч PowerShell-ээр гарын үсэгтэй болсон бөгөөд хуучин stable хувилбар шинэ татагдах холбоосыг солихгүй болсон.",
+ "published": "2026-10-08T18:58:03Z",
+ "added": "2026-10-09T03:54:29Z",
+ "ai": "claude:claude-haiku-5-5"
+}

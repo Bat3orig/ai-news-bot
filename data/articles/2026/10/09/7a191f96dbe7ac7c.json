@@ -1,0 +1,16 @@
+{
+ "id": "7a191f96dbe7ac7c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "IndexBox",
+ "url": "https://www.indexbox.io/blog/anthropic-launches-claude-dashboards-and-motion-tools-for-no-code-data-visualization/",
+ "image": "https://www.indexbox.io/landing/img/blog/telegram-fallback/c0d74e6986c1668f86b7b4476262a7ff.webp",
+ "title": "Anthropic Adds Claude Dashboards and Motion Tools for Workplace Productivity - News and Statistics",
+ "summary_en": "Anthropic rolled out beta tools Claude Dashboards and Claude Motion for no-code data dashboards and animations, and made Claude Docs, Slides and Design generally available across all plans.",
+ "title_mn": "Anthropic компани Claude хэрэгсэлд Dashboard болон Motion боломжуудыг нэмлээ",
+ "summary_mn": "Anthropic компани бизнес хэрэглэгчдэд зориулсан Claude Dashboards болон Claude Motion хэрэгслүүдийг танилцууллаа. Эдгээр шинэ боломжууд нь хэрэглэгчдэд код бичихгүйгээр дата шинжилгээ хийх, хөдөлгөөнт дүрс бүтээх боломжийг олгоно.",
+ "body_mn": "Anthropic компани ажлын байрны бүтээмжийг нэмэгдүүлэх зорилгоор Claude системдээ шинэ боломжуудыг нэвтрүүлж эхэллээ. Шинээр гарсан Claude Dashboards нь бизнесийн дата платформ болон харилцагчийн удирдлагын системүүдтэй холбогдож, энгийн хэлээр өгсөн асуулгаар шууд дата шинжилгээ хийх боломжийг олгодог бөгөөд одоогоор төлбөртэй эрхүүдэд бета хэлбэрээр санал болгож байна.\n\nМөн Team болон Enterprise хэрэглэгчдэд зориулсан Claude Motion хэрэгсэл бета байдлаар нээгдсэн бөгөөд энэ нь хэрэглэгчдэд засварлах боломжтой анимаци буюу хөдөлгөөнт дүрс бүтээж, видео файл болгон экспортлох боломж олгож байгаа ажээ. Эдгээрээс гадна Claude Docs, Slides болон Design хэрэгслүүдийг бүх хэрэглэгчдэд албан ёсоор нээлттэй болголоо.",
+ "published": "2026-10-08T20:01:32Z",
+ "added": "2026-10-09T03:54:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

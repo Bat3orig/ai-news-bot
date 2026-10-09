@@ -1,0 +1,16 @@
+{
+ "id": "b8e3f532a9ff87f2",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Bloomberg Law News",
+ "url": "https://news.bloomberglaw.com/privacy-and-data-security/spacexai-hit-with-biometric-suit-over-images-uploaded-to-grok",
+ "image": "https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fce%2F01%2F3dc7c5074017835bdc6fdd8cf1af%2F458379167.jpg&width=1200&height=630&fit=cover&removeAnimation=true&crop=8181x3153%2B6%2B0",
+ "title": "SpaceXAI Hit With Biometric Suit Over Images Uploaded to Grok",
+ "summary_en": "An Illinois Grok user sued the AI chatbot’s owners and developers, SpaceXAI Corp. and SpaceXAI LLC, alleging the companies illegally scanned users’ facial geometry when they uploaded photos for editing or analysis.",
+ "title_mn": "SpaceXAI компани Grok хэрэглэгчийн биометрийн мэдээллийн хэргээр шүүхэд дуудагдлаа",
+ "summary_mn": "Иллинойс мужийн Grok хэрэглэгч SpaceXAI компаниудын эсрэг шүүхэд ханджээ. Тэрээр зураг засварлах үед нүүрний геометр өгөгдлийг хууль бусаар сканнердаж цуглуулсан хэмээн буруутгасан байна.",
+ "body_mn": "Иллинойс мужийн Grok хэрэглэгч тус чатбот хөгжүүлэгч болох SpaceXAI Corp. болон SpaceXAI LLC компаниудын эсрэг хууль ёсны нэхэмжлэл гаргажээ. Нэхэмжлэгчийн зүгээс хэрэглэгчид зургаа засварлах эсвэл шинжлүүлэх зорилгоор байршуулах үед компаниуд тэдний нүүрний геометр өгөгдлийг хууль бусаар сканнердаж авсан хэмээн мэдэгдсэн байна.\n\nИллинойс мужийн Biometric Information Privacy Act хуулийн дагуу компаниуд биометрийн мэдээлэл цуглуулахын өмнө бичгээр зөвшөөрөл авах, мэдээлэл хадгалах бодлогоо олон нийтэд ил тод байлгах, уг мэдээллээс ашиг олохгүй байх үүрэгтэй юм. Нэхэмжлэгч Сезар Падилла мэдэгдэхдээ, мэргэжлийн зураг болон загварчлал хийлгэхээр селфи зургаа байршуулсан бөгөөд энэ үед дээрх хууль зөрчигдсөн гэж үзжээ.\n\nЭнэхүү хууль зүйн маргаан нь хиймэл оюун ухааны хэрэглүүрүүдэд хэрэглэгчийн хувийн болон биометрийн өгөгдлийг боловсруулах явцад тулгарч болох хууль эрх зүйн эрсдэл болон зохицуулалтын чухал асуудлуудыг хөгжүүлэгчид болон компаниудад сануулж байна.",
+ "published": "2026-10-08T16:53:00Z",
+ "added": "2026-10-09T03:54:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "d79610df7d93e135",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "TradingView",
+ "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45U14S:0-anthropic-launches-dashboard-animation-tools-for-claude/",
+ "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+ "title": "Anthropic launches dashboard, animation tools for Claude",
+ "summary_en": "Anthropic on Thursday launched tools that allow users to create data dashboards and animations through Claude, as AI companies vie to broaden their suite of workplace productivity applications.Here are some details:",
+ "title_mn": "Anthropic Claude-д dashboard болон анимейшн үүсгэх хэрэгсэл нэмлээ",
+ "summary_mn": "Anthropic Claude-оор өгөгдлийн dashboard болон анимейшн үүсгэх хэрэгслүүдийг танилцууллаа. Энэ нь AI компаниудын ажлын байрны бүтээмжийн программ хангамжийн өрсөлдөөний нэг хэсэг юм.",
+ "body_mn": "Anthropic Пүрэв гарагт хэрэглэгчид Claude-ээр дамжуулан өгөгдлийн dashboard болон анимейшн үүсгэх боломжтой хэрэгслүүдээ танилцууллаа. Энэ нь AI компаниуд ажлын байрны бүтээмжийн программуудаа өргөтгөх өрсөлдөөний нэг хэсэг юм.\n\nReuters-ийн мэдээлснээр Claude Dashboards нь төлбөртэй төлөвлөгөөнд beta хэлбэрээр боломжтой. Энэ хэрэгсэл бизнесийн өгөгдлийн платформ болон харилцагчийн удирдлагын системтэй холбогдож, энгийн хэлээр асуусан асуултаас шууд амьд dashboard болон шинжилгээ бүтээдэг.\n\nClaude Motion нь Team болон Enterprise хэрэглэгчдэд beta хэлбэрээр нээлттэй бөгөөд засварлагдах анимейшн үүсгэж, видео файл болгон экспортлох боломжтой. Anthropic эдгээр хэрэгслийг кодгүйгээр бизнесийн өгөгдөл шинжлэх, визуал контент бүтээхэд зориулсан гэжээ.\n\nМөн компани Claude Docs, Slides болон Design хэрэгслүүдийг beta туршилтын дараа бүх Claude төлөвлөгөөнд ерөнхийд нь нээлттэй болгосон. Хөгжүүлэгчдэд энэ нь ерөнхий AI платформ өргөжиж буйг харуулж байна.",
+ "published": "2026-10-08T19:00:00Z",
+ "added": "2026-10-09T03:54:29Z",
+ "ai": "claude:claude-haiku-5-5"
+}
