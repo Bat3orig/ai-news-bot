@@ -1,0 +1,16 @@
+{
+ "id": "2e446121749c6eeb",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Pasquale Pillitteri",
+ "url": "https://pasqualepillitteri.it/en/news/22152/anthropic-pauses-free-claude-team-api-credits",
+ "image": "https://pasqualepillitteri.it/uploads/img/news/anthropic-sospende-claude-team-gratis-crediti-startup-cover.webp",
+ "title": "Anthropic pauses free Claude Team and $1,000 in API credits",
+ "summary_en": "On October 9 Anthropic paused the free year of Claude Team and the $1,000 API credit in Claude Startups. Founders who already redeemed them keep both.",
+ "title_mn": "Anthropic Claude Startups хөтөлбөрийн үнэгүй эрхүүдийг түр зогсоов",
+ "summary_mn": "Anthropic компани өндөр эрэлт хэрэгцээтэй холбоотойгоор Claude Startups хөтөлбөрийн хүрээнд олгож байсан Claude Team болон 1,000 ам.долларын API эрхийн урамшууллыг түр зогсоожээ.",
+ "body_mn": "Anthropic компани өөрийн Claude Startups хөтөлбөрийн зарим гол урамшуулал болох Claude Team төлөвлөгөөний нэг жилийн үнэгүй эрх болон 1,000 ам.долларын API эрхийг түр хугацаагаар зогсоохоо зарлажээ. Өмнө нь эдгээр эрхээ амжиж авсан үүсгэн байгуулагчид хадгалж үлдэх боловч хараахан идэвхжүүлээгүй өргөдлүүд дахин хянагдахаар болсон байна.\n\nЭнэхүү шийдвэр нь хөтөлбөрийн өргөжүүлэлт зарласнаас хойш ердөө хэдхэн хоногийн дараа гарсан бөгөөд хүлээгдэж байснаас хамаагүй олон хүсэлт ирсэнтэй холбоотой аж. Эхний 48 цагийн дотор өмнөх саруудынхаас олон дахин их өргөдөл ирсэн нь компани өргөдөл шалгах шалгуураа эргэн харахад хүргэжээ. Гэсэн хэдий ч Startup Stack буюу түншүүдийн хөнгөлөлт болон техникийн зөвлөгөө авах боломж хэвээр үлдэж байна.\n\nХөгжүүлэгчид болон стартап үүсгэн байгуулагчдын хувьд энэхүү өөрчлөлт нь платформын нөөц бололцоо болон эрэлт хэрэгцээ ямар түвшинд байгааг харуулсан чухал мэдээ юм. Anthropic компани хөтөлбөрийн шалгуурыг сайжруулж, жинхэнэ стартапуудад туслах зорилгоор дахин шалгалт хийж байгаа бөгөөд эдгээр хөнгөлөлт эргэн ирэх хугацааг одоогоор тодорхой зарлаагүй байна.",
+ "published": "2026-10-10T09:26:40Z",
+ "added": "2026-10-10T21:54:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

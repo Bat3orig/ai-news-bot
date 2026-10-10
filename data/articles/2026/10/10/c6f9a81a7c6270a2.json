@@ -1,0 +1,16 @@
+{
+ "id": "c6f9a81a7c6270a2",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Interesting Engineering",
+ "url": "https://interestingengineering.com/ai-robotics/anthropic-accuses-chinese-ai-firms",
+ "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/ICE_Cyber_Crimes_Center_38992721075-1.jpg",
+ "title": "Anthropic accuses Chinese AI firms of secretly using Claude to train their AI models",
+ "summary_en": "Anthropic accuses Chinese AI firms, including Moonshot AI and Alibaba, of distillation campaigns to extract capabilities from Claude.",
+ "title_mn": "Anthropic хятадын AI компаниудыг Claude загварыг хулгайлсан гэж буруутгав",
+ "summary_mn": "Anthropic компани Хятадын хиймэл оюун ухааны хөгжүүлэгчид Claude болон бусад Америкийн загваруудын мэдээллийг зөвшөөрөлгүйгээр нууцаар татан авч ашигласан хэмээн мэдэгдэв. Тус тайланд Moonshot AI, Alibaba, DeepSeek зэрэг компаниуд багтаж байгаа ажээ.",
+ "body_mn": "Америкийн хиймэл оюун ухааны Anthropic компани Хятадын хөгжүүлэгчдийг өөрсдийн технологиос хууль бусаар distillation буюу мэдээлэл олборлох аргаар хуулбарласан хэмээн хатуу буруутгалаа. Есдүгээр сард гаргасан тайланд DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun болон Z.AI зэрэг компаниуд Claude, GPT, Gemini загваруудаас миллиард токен гарган авсан гэжээ.\n\nAnthropic-ийн мэдээлснээр, Moonshot AI нь хэрэглэгчдэд Kimi гэж харагдуулан цаана нь Claude руу нууцаар хүсэлт явуулдаг байжээ. Тухайлбал, ердөө 10 хоногийн дотор Сингапур болон Япон дахь 5,380 хуурамч аккаунт ашиглан 300,000 орчим хэрэглэгчийн хүсэлтийг дамжуулсан байна. Энэ үйл ажиллагааг АНУ-ын NSA, CISA, FBI хамтран анхааруулж, американ загваруудын чадамжийг үйлдвэрлэлийн хэмжээнд хулгайлж буйг онцолжээ.\n\nЭдгээр гэнэтийн мэдэгдлийн дараа Хятадын зохицуулах байгууллагууд холбогдох компаниудаас тайлбар авч эхэлсэн байна. Гэвч зарим шинжээчид Anthropic хангалттай бодит нотолгоо гаргаж өгөөгүй хэмээн эргэлзэж байгаагаа илэрхийлжээ. АНУ-ын агентлагууд болон технологийн компаниуд хамгаалалтаа чангатгах шаардлагатай тулгарч байна.",
+ "published": "2026-10-10T18:36:00Z",
+ "added": "2026-10-10T21:54:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

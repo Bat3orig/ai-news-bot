@@ -1,0 +1,16 @@
+{
+ "id": "85f05e63022c3cb6",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "News.com.au",
+ "url": "https://www.news.com.au/technology/innovation/anthropic-bans-cruelty-against-claude-as-debate-over-ai-consciousness-grows/news-story/d5db111a4ae55ffcc6907b3471deed40",
+ "image": "",
+ "title": "Stop being mean to AI, Anthropic says",
+ "summary_en": "",
+ "title_mn": "Anthropic хэрэглэгчдийг Claude руу бүдүүлэг хандахгүй байхыг сануулла",
+ "summary_mn": "Anthropic компани хэрэглэгчдийг Claude хиймэл оюун ухаан руу доромжилсон, бүдүүлэг хандахгүй байхыг анхааруулсан шинэ дүрэм гаргалаа.",
+ "body_mn": "Anthropic компани хэрэглэгчид болон Claude чатбот хоорондын харилцааны шинэ бодлогыг танилцууллаа. Энэхүү дүрэм нь хиймэл оюун ухаан руу хандсан хэт харгис эсвэл доромжилсон байнгын үйлдлүүдийг хязгаарлахад чиглэжээ.\n\nХэдийгээр хиймэл оюун ухаан нь хүн биш бөгөөд ямар нэгэн өвдөлт, сэтгэл санааны дарамт мэдрэхгүй ч компаниуд энэ төрлийн харилцааг хязгаарлах бодлого баримталж эхэлж байна. Хөгжүүлэгчид болон хэрэглэгчдийн хувьд хиймэл оюун ухаантай харилцах ёс зүйн шинэ хэм хэмжээ тогтож байгааг энэ үйл явдал харуулж байна.",
+ "published": "2026-10-10T01:08:16Z",
+ "added": "2026-10-10T21:54:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

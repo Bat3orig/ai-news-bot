@@ -1,0 +1,16 @@
+{
+ "id": "a91405951b83e939",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
+ "title": "New controls and chat improvements in Copilot for JetBrains",
+ "summary_en": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and…",
+ "title_mn": "GitHub Copilot for JetBrains шинэчлэгдэж, MCP тохиргоо сайжирлаа",
+ "summary_mn": "GitHub Copilot for JetBrains плагин шинэчлэгдэж, үндсэн загвар сонголт, MCP серверийн удирдлага болон чат навигаци сайжирлаа. Мөн JetBrains IDE 2025.2 болон түүнээс дээш хувилбарыг дэмжихээр болжээ.",
+ "body_mn": "GitHub Copilot for JetBrains плагины шинэ хувилбар гарч, хөгжүүлэгчдэд загвар болон MCP серверүүдийг илүү сайн удирдах боломжийг олгож байна. Enterprise админууд одоо шинэ яриа эхлэхэд ямар Copilot загвар анхдагч байхыг тохируулах боломжтой болсон нь байгууллагын түвшний хяналтыг сайжруулжээ.\n\nОношлогооны цэсэнд Fix үйлдэл нэмэгдсэн бөгөөд энэ нь асуудлыг шууд inline чатаар дамжуулан засварлах боломжийг өгдөг. Шинэ MCP тохиргоогоор дамжуулан Copilot болон Claude-ийн серверүүд автоматаар асахаас сэргийлж, хөгжүүлэгч хэрэгслүүдээ хэзээ идэвхжүүлэхээ өөрөө хянах боломжтой болжээ.\n\nХэлний сервер эхлэх, загвар болон провайдер солих үеийн тогтвортой байдал сайжирсан байна. Гэхдээ анхаарах зүйл нь GitHub Copilot нь JetBrains IDE 2025.1 хувилбарын дэмжлэгийг зогсоосон тул хэрэглэгчид 2025.2 болон түүнээс дээш хувилбарыг ашиглах шаардлагатай юм.",
+ "published": "2026-10-10T18:53:39Z",
+ "added": "2026-10-10T21:54:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

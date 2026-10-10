@@ -1,0 +1,16 @@
+{
+ "id": "b7dd468533aec1ff",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Yahoo Finance",
+ "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-claude-gets-75-cheaper-082554445.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/1b7e774e289b8e27230b95e50d98b09e12af4ba202d826ce9cdc8761e95ffd47/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F2a569199b0ab622e37aef9376ebe6c57.jpg",
+ "title": "Anthropic's Claude Gets 75% Cheaper. Its $2 Trillion IPO Gets Called “Ridiculous”",
+ "summary_en": "Anthropic's Claude Haiku 5.5 comes in about 75% cheaper as New Constructs values the company at $150 billion before its IPO.",
+ "title_mn": "Anthropic Claude Haiku 5.5 загvʽeee гаргаж, 75% хямдруулла",
+ "summary_mn": "Anthropic компани Claude Haiku 5.5 загвраа өмнөх хувилбараасаа дунджаар 75% хямд үнээр худалдаанд гаргалаа. Шинэ загвар нь их хэмжээний өгөгдөл боловсруулах, хураангуйлах болон дэд агентын ажлуудад зориулагдсан байна.",
+ "body_mn": "Anthropic компани Claude Haiku 5.5 загвраа танилцуулж, API ашиглалтын үнийг мэдэгдэхүйц хямдрууллаа. 100,000 хүртэлх токен бүхий хүсэлтэд оролт нь сая токен тутамд 0.10 ам.доллар, гаралт нь 0.50 ам.доллар болж буурсан нь өмнөх хувилбараас 90%-иар хямд үзүүлэлт юм. Уг загвар нь өндөр хэмжээний хураангуйлалт, ангилал, вэб ашиглалт болон агентын даалгаваруудад зориулагдан бүтээгдсэн байна.\n\nArtificial Analysis байгууллагын үнэлгээгээр Haiku 5.5 нь Intelligence Index-т 43 оноо авсан нь өмнөх хувилбараасаа 26 оноогоор өссөн үзүүлэлт юм. Энэ нь хамгийн дээд хүчин чадлаараа GPT-6 Luna болон Gemini 3.8 Flash загваруудыг давж гарсан боловч Sonnet 5.5 загвараас 13 оноогоор хоцорч байна. Гэхдээ уг загвар нь даалгаврыг гүйцэтгэх явцдаа харьцангуй олон гаралт токен зарцуулж байгааг шинжээчид тэмдэглэжээ.\n\nЭнэхүү загварын шинэчлэлт нь хөгжүүлэгчдэд хиймэл оюун ухааны агентуудыг илүү хямд зардлаар өргөн хүрээнд ашиглах боломжийг олгож байна. Ялангуяа хүнд болон давталттай автоматжуулалтын ажлуудад API зардал багассан нь томоохон давуу тал болж байна. Компанийн зүгээс загварын хурд болон хүртээмжийг сайжруулахад анхаарч байгаа энэ цаг үед хөгжүүлэгчдэд илүү хэмнэлттэй шийдэл гарч ирж байна.",
+ "published": "2026-10-08T08:25:54Z",
+ "added": "2026-10-10T21:54:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
