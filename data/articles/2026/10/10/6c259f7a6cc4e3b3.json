@@ -1,0 +1,16 @@
+{
+ "id": "6c259f7a6cc4e3b3",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "MarkTechPost",
+ "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+ "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-4-1-1024x768.png",
+ "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+ "summary_en": "Alibaba Qwen releases Qwen-Image-2.1-Turbo, a 7B open-weight image generation and editing model producing 2K images in 8 steps.",
+ "title_mn": "Alibaba ердөө 8 алхмаар зураг үүсгэдэг Qwen-Image-2.1-Turbo загвараа танилцууллаа",
+ "summary_mn": "Alibaba-гийн Qwen баг нээлттэй жинтэй Qwen-Image-2.1-Turbo загвараа гаргалаа. 7B параметр бүхий уг DiT загвар нь зургийг 40 биш ердөө 8 алхмаар үүсгэж, засварлах чадвартай болжээ.",
+ "body_mn": "Alibaba-гийн Qwen баг өөрсдийн нээлттэй жинтэй зураг үүсгэгч Qwen-Image-2.1 загварын хурдасгасан хувилбар болох Qwen-Image-2.1-Turbo-г албан ёсоор танилцууллаа. Энэхүү шинэ чекпойнт нь өмнөх 40 алхамт процессыг ердөө 8 denoising алхам болгон бууруулснаар зураг үүсгэх хугацааг 5 дахин хурдасгасан байна.\n\nУг загвар нь 32 давхарга, 7B параметр бүхий single-stream DiT (Diffusion Transformer) архитектур болон block-causal attention-д суурилжээ. Оролтын зураг болон текстийг эхний алхам дээр л нэг удаа тооцоолж, дараагийн алхмуудад уг cache-ийг дахин ашигладаг prefix KV caching аргыг нэвтрүүлсэн нь 8 алхамт дүрслэлд маш өндөр үр ашигтай болсон байна. Diffusers сангийн QwenImage21Pipeline ашиглан шууд ачаалах боломжтой.\n\nTurbo загвар нь хөрөг зураг, хүний байрлал, тунгалаг дэвсгэртэй зураг, типографи, UI дизайн үүсгэх зэрэг өргөн боломжтойгоос гадна олон зургийн нийлэмж засварлах үйлдлийг дэмжинэ. Alibaba Cloud Model Studio дээр hosted API хэлбэрээр байршсан бөгөөд нэг зураг үүсгэх зардал нь 0.1 CNY буюу Pro хувилбараасаа 2.5 дахин хямд, минутад 120 хүсэлт хүлээн авах хүчин чадалтай гарчээ.",
+ "published": "2026-10-09T20:33:17Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

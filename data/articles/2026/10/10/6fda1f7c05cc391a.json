@@ -1,0 +1,16 @@
+{
+ "id": "6fda1f7c05cc391a",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3WeNobCQwlgEfwQoenasH4/65e5daf73dee11d33ea9f07464795ee6/fx-domain-buy-og.png",
+ "title": "Agents can now buy domains with the Vercel CLI",
+ "summary_en": "Your agent can now use the Vercel CLI to buy a domain. The agent discovers candidates with vercel domains search , checks availability and registrar pricing with vercel domains check and vercel domains price , and initiates the purchase with vercel domains buy . The purchase decision itself stays with you by design. Run non-interactively, vercel domains buy returns a structured, machine-readable error and the suggested next commands, so the agent hands the confirmation back to you, prohibiting it from spending money without your approval. You can confirm the price, the auto-renew choice, and…",
+ "title_mn": "Vercel CLI ашиглан AI агентууд домэйн худалдаж авах боломжтой боллоо",
+ "summary_mn": "Vercel CLI-д AI агентуудад зориулсан домэйн хайх, шалгах шинэ боломж нэмэгдлээ. Гэхдээ санхүүгийн аюулгүй байдлыг хангах үүднээс эцсийн худалдан авалтыг зөвхөн хөгжүүлэгч өөрөө баталгаажуулна.",
+ "body_mn": "Vercel компани өөрийн CLI хэрэгсэлд хиймэл оюунт агентууд домэйн хайх, үнэ шалгах болон худалдан авалтыг эхлүүлэх шинэ боломжийг нэвтрүүллээ. Агентууд 'vercel domains search' коммандаар тохирох домэйныг илрүүлж, 'vercel domains check' болон 'vercel domains price' коммандаар боломжит хувилбар, бүртгэлийн үнийг шалгах чадвартай болжээ.\n\nХарин эцсийн худалдан авалтын шийдвэрийг хөгжүүлэгчийн зөвшөөрөлгүйгээр гүйцэтгэхгүй байхаар бүтээсэн байна. 'vercel domains buy' коммандыг автоматаар ажиллуулах үед агент өөрөө шууд мөнгө зарцуулах боломжгүй бөгөөд алдааны мэдээлэл болон дараагийн баталгаажуулах алхмуудыг хэрэглэгчид буцаан өгөх юм.\n\nХөгжүүлэгчид домэйны үнэ, автоматаар сунгах тохиргоо болон бүртгүүлэгчийн холбоо барих мэдээллийг интерактив терминал эсвэл Vercel dashboard дээрээс шалган баталгаажуулна. Энэхүү CLI шинэчлэл нь агентуудад зориулсан тусгай skill-тэй ирж байгаа тул агентууд домэйн худалдан авах дарааллыг зааварчилгаагүйгээр бүрэн гүйцэтгэх боломжтой.",
+ "published": "2026-10-09T20:24:00Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

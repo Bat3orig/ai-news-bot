@@ -1,0 +1,16 @@
+{
+ "id": "e49c1724b343e165",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+ "title": "4 team rituals that drive AI adoption",
+ "summary_en": "Elevating AI’s impact from individual productivity gains to team-wide wins requires meeting people where they are. Here’s how teams at Figma, Sephora, Mercari, and Atlassian are making it easier for people to drive real value with AI.",
+ "title_mn": "Figma: Дизайн болон бүтээгдэхүүний багуудад AI нэвтрүүлэх туршлагууд",
+ "summary_mn": "Бүтээгдэхүүн хөгжүүлэгчдийн 90 гаруй хувь нь AI ур чадварыг чухалчилж байгаа энэ үед Figma, Sephora, Atlassian багууд дизайнеруудын ажлын урсгалд AI нэвтрүүлж буй туршлагаа хуваалцлаа.",
+ "body_mn": "Figma компанийн нийтэлсэн тайланд дурдсанаар бүтээгдэхүүн бүтээгчдийн 90 гаруй хувь нь хиймэл оюуны ур чадварыг ирээдүйн амжилтын үндэс гэж үзэж байна. Гэвч хувь хүний бүтээмжийг багийн түвшинд шилжүүлэхийн тулд хамтын суралцах орчин чухал байгааг онцолжээ.\n\nFigma-ийн Дизайн үйл ажиллагааны (Design Ops) менежер Жейк Геллер дизайнеруудад зориулан Figma plugin бүтээх зэрэг бодит зорилготой, Slack болон 7 хоног бүрийн туршилтын уулзалтууд бүхий бичил сургалтын багуудыг ажиллуулсан байна. Мөн дизайнерууд кодын санг Figma Make-тэй шууд холбож, PR хүртэлх өөрчлөлтийг хамтран хийх боломж бүрдэж байна.\n\nТүүнчлэн Sephora зэрэг байгууллагууд зөвхөн бэлэн үр дүнг бус, алдаа дутагдалтай туршилтуудаа хуваалцах хэлбэрээр багийн гишүүдийнхээ хиймэл оюун ашиглах айдас, эргэлзээг арилгаж байгааг тайланд онцолсон байна.",
+ "published": "2026-10-10T02:12:00Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

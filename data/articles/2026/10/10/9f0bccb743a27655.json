@@ -1,0 +1,16 @@
+{
+ "id": "9f0bccb743a27655",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Asia Business Outlook",
+ "url": "https://www.asiabusinessoutlook.com/news/alibabas-joe-tsai-says-opensource-ai-can-boost-europes-tech-freedom-nwid-12592.html",
+ "image": "https://www.asiabusinessoutlook.com/uploaded_images/newstransfer/5s0frgdhn.jpg",
+ "title": "Alibaba's Joe Tsai Says Open-Source AI Can Boost Europe's Tech Freedom",
+ "summary_en": "Alibaba chairman Joe Tsai urges Europe to adopt open-source AI and expand data centres to strengthen technological independence and support local innovation.",
+ "title_mn": "Alibaba-ийн Жо Цай Европыг нээлттэй эхийн хиймэл оюуныг дэмжихийг уриалав",
+ "summary_mn": "Alibaba группийн тэргүүн Жо Цай Европын холбоог технологийн бие даасан байдлаа хангахын тулд нээлттэй эхийн хиймэл оюун болон дата төвийн дэд бүтцийг өргөжүүлэхийг уриаллаа.",
+ "body_mn": "Alibaba группийн тэргүүн Жо Цай Европ тив технологийн хувьд бие даасан байдлаа бэхжүүлэхийн тулд нээлттэй эхийн (open-source) хиймэл оюуны шийдлүүдийг түлхүү нэвтрүүлэх хэрэгтэй гэж үзэж байна.\n\nТүүнчлэн орон нутгийн инновацыг дэмжихийн тулд дата төвүүдийн дэд бүтцийг тэлэх нь Европ дахь хөгжүүлэгчид болон компаниудад хараат бус байдлаар хиймэл оюуны загваруудыг ашиглах боломжийг олгоно гэдгийг онцолжээ.",
+ "published": "2026-10-10T01:06:36Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

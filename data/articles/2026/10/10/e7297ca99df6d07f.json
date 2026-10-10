@@ -1,0 +1,16 @@
+{
+ "id": "e7297ca99df6d07f",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "MIXED Reality News",
+ "url": "https://mixed-news.com/en/claude-managed-agents-web-fetch-url-not-in-prior-context/",
+ "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260-1.jpg",
+ "title": "Claude's Managed Agents now fetch only a URL that already appeared in the session",
+ "summary_en": "A Claude agent that reads a poisoned document can no longer call out to a web address it found inside it. In Claude Managed Agents, the web_fetch tool",
+ "title_mn": "Anthropic Claude Managed Agents хэрэгслийн вэб татах боломжид аюулгүй байдлын хязгаарлалт хийлээ",
+ "summary_mn": "Anthropic компани Claude Managed Agents хэрэгслийн web_fetch болон web_search үйлдлүүдэд мэдээлэл алдагдахаас сэргийлэх шинэ хязгаарлалтуудыг нэмлээ. Ингэснээр агентууд зөвхөн тухайн сесс дотор өмнө нь гарч ирсэн URL хаяг руу л хандах боломжтой боллоо.",
+ "body_mn": "Anthropic компани Claude Managed Agents хэрэгслийн аюулгүй байдлыг сайжруулах зорилгоор шинэ хязгаарлалт нэвтрүүлснээ зарлалаа. Шинэ журмын дагуу web_fetch хэрэгсэл нь зөвхөн хэрэглэгчийн мессеж, вэб хайлтын үр дүн эсвэл өмнө нь буцаагдсан хуудсанд гарч ирсэн URL хаягууд руу л хандах боломжтой болжээ. Энэ нь хортой баримт бичигт нуугдсан линкээр дамжин өгөгдөл гадагш алдагдах эрсдлийг бууруулах зорилготой юм.\n\nMөн үүнтэй зэрэгцүүлэн хязгаарлагдмал сүлжээтэй үүлэн орчинд allowed_hosts жагсаалтыг web_search болон web_fetch үйлдлүүдэд мөн адил үйлчилдэг болгожээ. Хэрэв жагсаалтад ороогүй хост руу хандах оролдлого хийвэл алдаа буцаах ба энэ нь агентын аюулгүй байдлыг илүү өндөр түвшинд хангахад тусална.\n\nЭдгээр өөрчлөлт нь Claude ашиглан автоматжуулсан судалгаа болон агентын систем хөгжүүлж буй хөгжүүлэгчдэд аюулгүй байдлын талаас нь анхаарах ёстой чухал шинэчлэл болж байна.",
+ "published": "2026-10-10T00:35:04Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

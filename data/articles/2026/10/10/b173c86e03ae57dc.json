@@ -1,0 +1,16 @@
+{
+ "id": "b173c86e03ae57dc",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Benzinga",
+ "url": "https://www.benzinga.com/markets/private-markets/26/10/62284079/anthropic-tightens-claude-rules-on-ai-powered-influence-campaigns-weapons-and-surveillance",
+ "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/09/Los-Angeles--California---March-29--2024.jpg",
+ "title": "Anthropic Tightens Claude Rules on AI-Powered Influence Campaigns, Weapons and Surveillance",
+ "summary_en": "Anthropic is tightening and clarifying restrictions on how its Claude AI models can be used for surveillance.",
+ "title_mn": "Anthropic компани Claude загварын ашиглалтын бодлогоо шинэчиллээ",
+ "summary_mn": "Anthropic компани Claude загварынхаа хэрэглээний бодлогыг чангатгаж, зэвсэг боловсруулах, тагнуул хийх болон хуурамч мэдээллийн кампанит ажилд ашиглахыг хориглов. Шинэчилсэн журам арваннэгдүгээр сарын 12-ноос хэрэгжиж эхэлнэ.",
+ "body_mn": "Anthropic компани Claude хиймэл оюун ухааны загваруудыг нөлөөллийн кампанит ажил, зэвсэг боловсруулах, болон тагнуулд ашиглахтай холбоотой хязгаарлалтуудаа чангатгаж, тодорхой болголоо. Шинэчилсэн бодлого нь сүүлийн үед автономит хиймэл оюун ухааны системүүдийн бий болгож буй эрсдэл нэмэгдэж байгаатай холбоотой юм.\n\nТус компани Claude загвар нь сүүлийн нэг жилийн хугацаанд илүү урт бөгөөд бие даасан ажлуудыг гүйцэтгэх болсон тул дүрэм журам хэрхэн хэрэгжихийг шинэ жишээнүүдээр баяжуулжээ. Шинэчилсэн бодлогоор төөрөгдүүлсэн үйл ажиллагаа явуулах, сонгуулийн үйл явцад саад учруулах, зэвсгийн удирдлагын системд оролцохыг хатуу хориглосон байна.\n\nМөн өндөр эрсдэлтэй хэрэглээнд хүний хяналт шаардлагатайг сануулжээ. Үүнээс гадна загваруудад хандаж зүй бусаар харьцах, хэрцгий байдал гаргахыг хязгаарласан шинэ заалт орсон байна.",
+ "published": "2026-10-09T19:55:43Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

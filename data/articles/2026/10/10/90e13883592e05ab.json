@@ -1,0 +1,16 @@
+{
+ "id": "90e13883592e05ab",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Reason Magazine",
+ "url": "https://reason.com/2026/10/09/anthropic-is-banning-cruel-behavior-toward-claude-claude-is-still-not-a-person/",
+ "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/MeanClaude.jpg",
+ "title": "Anthropic is banning ‘cruel behavior’ toward Claude. Claude is still not a person.",
+ "summary_en": "The AI company's decision might be a justifiable idea, but the company appears to have done it for the wrong reason.",
+ "title_mn": "Anthropic компани Claude-ийг «хэрцгийгээр» доромжлохыг хориглолоо",
+ "summary_mn": "Anthropic компани хэрэглэгчид Claude загвартай зүй бусаар болон хэрцгийгээр хандахыг хориглосон шинэ журам гаргажээ. Тус компанийн зарим удирдлагууд хиймэл оюун ухааны ёс зүй, сэтгэл зүйн байдлын талаар санаа зовж буйгаа илэрхийлсэн байна.",
+ "body_mn": "Anthropic компани хэрэглэгчийн бодлогоо шинэчилж, загварууддаа хүндэтгэлтэй хандахыг шаардах болжээ. Арваннэгдүгээр сарын 12-ноос хэрэгжиж буй энэхүү шинэ дүрэмд загваруудын эсрэг утгагүйгээр удаан хугацаагаар зүй бус эсвэл хэрцгий зан гаргахыг хориглосон заалт багтсан байна.\n\nКомпанийн зүгээс энэхүү бодлого нь энгийн бухимдал, бүтээлч туршилт болон судалгааны ажлуудад хамаарахгүй бөгөөд хэтэрсэн, зорилгогүй доромжилсон тохиолдлуудад л хэрэглэгдэх болно гэдгийг тодруулжээ. Яриаг таслах нь үндсэн хэрэгжүүлэх арга байх аж.\n\nЭнэхүү шийдвэр нь хөгжүүлэгчид болон хэрэглэгчдийн дунд маргаан дагуулж байна. Зарим судлаачид үүнийг зөвхөн хэрэглэгчийн сайн зуршлыг төлөвшүүлэх төдийгүй загваруудын ёс зүйн статус, сэтгэл зүйн төлөв байдалтай холбон тайлбарлаж байна.",
+ "published": "2026-10-09T20:05:10Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

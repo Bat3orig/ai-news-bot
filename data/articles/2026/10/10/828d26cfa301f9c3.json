@@ -1,0 +1,16 @@
+{
+ "id": "828d26cfa301f9c3",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "BASENOR",
+ "url": "https://www.basenor.com/blogs/news/grok-can-simulate-anything-4-details-that-matter",
+ "image": "https://www.basenor.com/cdn/shop/articles/195a4b1f6a77d8d6c91b254831be19b9.jpg?v=1791594259",
+ "title": "Grok Can Simulate Anything: 4 Details That Matter",
+ "summary_en": "Elon Musk posted a single sentence on X late Friday that landed harder than it looks: \"Grok @Bot can make a sim of anything.\" Behind that claim is a stack of xAI infrastructure that has been quietly building toward exactly this — a world-modeling AI capable of generating interactive simulations on demand. Here's what w",
+ "title_mn": "Илон Маск: Grok ямар ч орчны интерактив симуляцийг үүсгэх чадвартай болно",
+ "summary_mn": "xAI компани өөрсдийн Grok загваруудыг олон агенттай ертөнцийн загварчлал (World Model) бүхий симуляцийн платформ болгон өргөжүүлж буйгаа илэрхийллээ. Энэ нь биет болон нийгмийн орчныг бодит цагт симуляци хийх боломжийг бүрдүүлж байна.",
+ "body_mn": "Илон Маск X платформ дээрээ Grok ямар ч төрлийн симуляцийг хийх чадвартай тухай мэдэгдсэн байна. Энэхүү технологийн суурь нь xAI компанийн бүтээсэн Large World Model (LWM) буюу олон агент, физик болон нийгмийн харилцан үйлчлэлийг бодит цаг хугацаанд дүрслэх зорилготой олон их наяд параметртэй мультимодал загвар юм.\n\nЭнэхүү симуляцийн орчныг ажиллуулахын тулд Grok 4.20 Multi-Agent хувилбарын 2 сая токений контекст цонх болон олон агентыг зэрэг ажиллуулах бүтцийг ашиглаж байна. Мөн Grok Build платформоор дамжуулан хөгжүүлэгчид бэлэн бүрэлдэхүүн хэсгүүдийг ашиглан өөрсдийн агент, логик төлөвүүдийг тусгай орчинд байршуулах боломжтой болсон юм.\n\nGrok 4.6 загвар нь өөрийгөө шалгах (self-testing) чадвартай болсноор урт хугацаанд үргэлжлэх симуляцийн алдааг хүний оролцоогүй засах боломжтой болжээ. Энэ нь Tesla-ийн бүрэн автомат жолоодлого (FSD) болон Optimus роботын сургалтад шаардлагатай синтетик өгөгдөл бэлтгэхэд чухал нөлөө үзүүлэх төлөвтэй байна.",
+ "published": "2026-10-10T01:04:19Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "728b37eaaa1c82be",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "BGR",
+ "url": "https://www.bgr.com/2277516/claude-users-say-these-are-most-useful-skills/",
+ "image": "https://www.bgr.com/img/gallery/claude-users-say-these-are-the-most-useful-skills/l-intro-1791217957.jpg",
+ "title": "Claude Users Say These Are The Most Useful Skills",
+ "summary_en": "A good Claude Skill can save you from explaining a familiar task all over again. These are some of the ones that users recommend the most.",
+ "title_mn": "Claude хэрэглэгчдийн хамгийн их ашигладаг шилдэг Skills хэрэгслүүд",
+ "summary_mn": "Anthropic компанийн Claude загварт нэвтрүүлсэн Skills хэрэгслүүд хөгжүүлэгчдийн дунд өргөн тархаж байна. Хэрэглэгчид өөрсдийн ажлын урсгалыг хялбарчлах зорилгоор төрөл бүрийн скрипт, зааварчилгааг багтаасан Skills-ийг бүтээж байна.",
+ "body_mn": "Anthropic компани өнгөрсөн аравдугаар сард Claude загвартаа Skills функц нэвтрүүлснээс хойш хөгжүүлэгчид болон сонирхогчид өөрсдийн хэрэгцээнд тохирсон олон төрлийн хэрэгслийг бүтээжээ. Эдгээр Skills нь зааварчилгаа, скрипт болон бусад нөөцүүдийг багтаадаг бөгөөд Claude шаардлагатай үед тэдгээрийг автоматаар ашиглаж давтан тайлбар өгөх шаардлагагүй болгодог.\n\nОлон нийтийн дунд хамгийн өргөн ашиглагдаж буй жишээнүүдэд Anthropic-ийн өөрийн бүтээсэн skill-creator, вэбсайт болон баримт бичгээс тусгай Skills үүсгэх зориулалттай Skill Seekers зэрэг хэрэгслүүд багтаж байна. Мөн YouTube видеоны хуулбар татах, PDF файлаас мэдээлэл найдвартай шүүж авах зэрэг бүтээмжийг дээшлүүлэх хэрэгслүүд өндөр үнэлгээ авчээ.\n\nЭдгээр боломцууд нь хөгжүүлэгчдэд судалгаа хийх, дата боловсруулах болон кодыг зохион байгуулах ажлыг хурдасгаж, өдөр тутмын бүтээмжийг эрс сайжруулах боломжийг олгож байна.",
+ "published": "2026-10-09T23:17:00Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

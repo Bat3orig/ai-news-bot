@@ -1,0 +1,16 @@
+{
+ "id": "b29e48284345c73f",
+ "subtopic": "ai-devtools",
+ "source": "openai/codex",
+ "source_label": "openai/codex",
+ "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.1",
+ "image": "https://opengraph.githubassets.com/66e18f25dd3ae262730148ccb499ba9c11591a3c335b8038584783404c57b627/openai/codex/releases/tag/rust-v0.162.1",
+ "title": "codex 0.162.1",
+ "summary_en": "Bug Fixes Fixed a TUI crash when asynchronous questions contain multiple lines, preserving line breaks and complete hyperlink destinations. ( #51866 ) Fixed startup failures caused by differences between a running background server's feature settings and CLI defaults. Compatibility checks now apply only to explicit command-line feature overrides. ( #52648 ) Full Changelog: rust-v0.162.0...rust-v0.162.1",
+ "title_mn": "codex 0.162.1 хувилбар гарлаа",
+ "summary_mn": "OpenAI-ийн Codex хэрэгслийн 0.162.1 хувилбарт олон мөрт асуултын үеэр TUI гацах алдаа болон дэвсгэр сервертэй холбоотой эхлүүлэх үеийн зөрчлийг заслаа.",
+ "body_mn": "OpenAI Codex төслийн codex 0.162.1 засвар хувилбар гарлаа. Энэхүү хувилбараар терминалын интерфэйс (TUI) болон тохиргооны зөрчлүүдтэй холбоотой алдаануудыг шийджээ.\n\nТухайлбал, асинхрон асуултууд олон мөр текстийг агуулсан үед TUI гэнэт гацдаг байсан алдааг засварлаж, мөр хоорондын зай болон бүрэн hyperlink холбоосуудыг хадгалдаг болгосон байна. Мөн арын горимд ажиллаж буй серверийн тохиргоо CLI-ийн анхдагч утгуудтай зөрснөөс үүдэж эхлүүлэх үед үүсдэг байсан асуудлыг шийдвэрлэжээ. Тохиргооны нийцлийн шалгалтууд одоо зөвхөн комманд мөрнөөс илгээсэн өөрчлөлтүүдэд хамаарах юм.",
+ "published": "2026-10-09T19:47:24Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

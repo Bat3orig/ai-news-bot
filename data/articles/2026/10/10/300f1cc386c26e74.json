@@ -1,0 +1,16 @@
+{
+ "id": "300f1cc386c26e74",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-launches-claude-dashboards-and-motion-takes-docs-out-of-beta/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-launches-claude-dashboards-and-motion-takes-docs-out-of-beta.jpg",
+ "title": "Anthropic Launches Claude Dashboards and Motion, Takes Docs Out of Beta",
+ "summary_en": "Anthropic launched Claude Dashboards and Claude Motion on October 8, 2026, and took Claude Docs, Slides, and Design out of beta on every Claude plan, including Free. The company's announcement also set a December 14, 202...",
+ "title_mn": "Anthropic компани Claude Dashboards болон Motion хэрэгслүүдийг танилцууллаа",
+ "summary_mn": "Anthropic компани Claude Dashboards болон Claude Motion шинэ хэрэгслүүдийг танилцуулж, Claude Docs, Slides зэрэг боломцуудыг бүх төлөвлөгөөнд туршилтын үе шатнаас гаргаснаа зарлалаа. Dashboards хэрэгсэл нь хэрэглэгчдэд Amazon Redshift, BigQuery, Snowflake зэрэг мэдээллийн сангуудтай холбогдож, энгийн ярианы хэлээр асуулга явуулах замаар динамик график үүсгэх боломж олгодог.\n\nХарин Motion хэрэгсэл нь Team болон Enterprise төлөвлөгөөний хэрэглэгчдэд зориулагдсан бөгөөд текстийн сануулгаас богино хэмжээний хөдөлгөөнт дүрс буюу анимаци үүсгэх боломж олгодог байна. Энэ нь ямар нэгэн видео үүсгэх загвар ашиглахгүйгээр код бичих замаар текст, график, дүрслэлийг хөдөлгөөнд оруулдгаараа онцлог юм.\n\nҮүнээс гадна Claude Docs, Slides болон Design хэрэгслүүдийг бүх хэрэглэгчдэд нээлттэй болгож, дата болон артефактуудыг удирдах хэрэглэгчийн туршлагыг сайжруулжээ. Enterprise хэрэглэгчдийн хувьд шинэ хэрэгслүүд анхдагчаар хаалттай байх бөгөөд админууд тохиргооноос идэвхжүүлэх боломжтой.",
+ "body_mn": "Anthropic компани Claude Dashboards болон Claude Motion шинэ хэрэгслүүдийг танилцуулж, Claude Docs, Slides зэрэг боломцуудыг бүх төлөвлөгөөнд туршилтын үе шатнаас гаргаснаа зарлалаа. Dashboards хэрэгсэл нь хэрэглэгчдэд Amazon Redshift, BigQuery, Snowflake зэрэг мэдээллийн сангуудтай холбогдож, энгийн ярианы хэлээр асуулга явуулах замаар динамик график үүсгэх боломж олгодог.\n\nХарин Motion хэрэгсэл нь Team болон Enterprise төлөвлөгөөний хэрэглэгчдэд зориулагдсан бөгөөд текстийн сануулгаас богино хэмжээний хөдөлгөөнт дүрс буюу анимаци үүсгэх боломж олгодог байна. Энэ нь ямар нэгэн видео үүсгэх загвар ашиглахгүйгээр код бичих замаар текст, график, дүрслэлийг хөдөлгөөнд оруулдгаараа онцлог юм.\n\nҮүнээс гадна Claude Docs, Slides болон Design хэрэгслүүдийг бүх хэрэглэгчдэд нээлттэй болгож, дата болон артефактуудыг удирдах хэрэглэгчийн туршла гэх мэт шинэ боломцуудыг нэмжээ. Enterprise хэрэглэгчдийн хувьд шинэ хэрэгслүүд анхдагчаар хаалттай байх бөгөөд админууд тохиргооноос идэвхжүүлэх боломжтой.",
+ "published": "2026-10-09T21:53:01Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "ec899f104655cd5d",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+ "image": "https://github.blog/wp-content/uploads/2026/10/667724435-138fc0bf-2da0-4dfa-98c8-671bf744ac7f.jpg",
+ "title": "GitHub Copilot weekly releases — October 5",
+ "summary_en": "This week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work. GitHub Copilot Claude Haiku…",
+ "title_mn": "GitHub Copilot шинэчлэлтүүд: Олон данс болон локал загваруудын дэмжлэг",
+ "summary_mn": "GitHub Copilot-ийн энэ долоо хоногийн шинэчлэлтээр тусдаа GitHub дансуудыг лиценз болон репозитор дээр ашиглах боломжтой боллоо. Мөн Copilot CLI ашиглан локал Ollama загваруудыг хялбархан сонгох боломж бүрдлээ.",
+ "body_mn": "GitHub Copilot хөгжүүлэгчдэд зориулсан шинэ шинэчлэлтүүдээ гаргалаа. Энэхүү шинэчлэлтийн үр дүнд хэрэглэгчид Copilot лиценз болон репозиторууддаа тусдаа GitHub дансуудыг зэрэг ашиглах боломжтой болж байна. Тухайлбал, байгууллагаас олгосон Copilot лицензийг хувийн эсвэл өөр дансны репозитор руу нэвтрэхэд ашиглах боломжтой юм.\n\nҮүнээс гадна GitHub Copilot CLI нь локал Ollama жишээн дээр ажиллаж буй дэмжигдсэн загваруудыг өөрийн ажлын урсгалаасаа гаралгүйгээр /model командын тусламжтайгаар шууд олж илрүүлж ашиглах боломжийг бүрдүүлжээ. Энэ нь хөгжүүлэгчдэд үүлэн болон локал хиймэл оюун ухааны загваруудын хооронд шилжихэд илүү хялбар болгож байна.\n\nЭдгээр сайжруулалт нь хөгжүүлэгчдийн өдөр тутмын бүтээмжийг нэмэгдүүлж, олон төрлийн орчинд ажиллах боломжийг илүү уян хатан болгож байна.",
+ "published": "2026-10-09T22:58:23Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

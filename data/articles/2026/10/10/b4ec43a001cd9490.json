@@ -1,0 +1,16 @@
+{
+ "id": "b4ec43a001cd9490",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.28.0",
+ "image": "https://opengraph.githubassets.com/0d7d582fc1e53611ded544114280e9b95e1d9f4c378aacf4eee238bab92c9424/openai/openai-python/releases/tag/v3.28.0",
+ "title": "openai-python v3.28.0",
+ "summary_en": "3.28.0 (2026-10-09) Features api: add agent environment suspension and expiration ( #4046 ) ( 6aa25a9 ) Chores deps: bump astral-sh/setup-uv from 10.1.0 to 10.2.0 ( #4026 ) ( 8bfffd4 ) deps: bump CodeQL init and analyze to 4.38.2 ( #4025 ) ( 4f5e618 ) deps: update PyJWT security constraint to 2.14.0 ( #3991 ) ( aaed2a7 )",
+ "title_mn": "openai-python v3.28.0 хувилбар гарлаа",
+ "summary_mn": "openai-python сангийн 3.28.0 шинэчлэлт гарч, агентын орчныг түр зогсоох болон хугацаа дуусах API нэмэгдлээ. Мөн хөгжүүлэлтийн сангуудыг шинэчилж, аюулгүй байдлын сайжруулалт хийжээ.",
+ "body_mn": "OpenAI python сангийн шинэ хувилбар болох 3.28.0 албан ёсоор гарлаа. Энэхүү шинэчлэлтээр агентын орчныг түр зогсоох (suspension) болон хүчинтэй хугацаа дуусах (expiration) API функцүүд нэмэгдсэн нь хөгжүүлэгчдэд агентын ажиллагааг илүү нарийвчлалтай удирдах боломжийг олгож байна.\n\nҮүнээс гадна төслийн хөгжүүлэлт болон аюулгүй байдлын хүрээнд CodeQL хэрэгсэл болон PyJWT сангийн хувилбаруудыг шинэчилсэн байна. Тухайлбал, PyJWT сангийн аюулгүй байдлын хязгаарлалтыг 2.14.0 болгон шинэчилж, болзошгүй эмзэг байдлуудыг хаажээ.\n\nЭдгээр өөрчлөлт нь OpenAI-ийн хэрэгслүүдийг ашиглан AI агент болон хэрэглээний програм бүтээж буй хөгжүүлэгчдэд илүү найдвартай, хяналттай орчныг бүрдүүлэх юм. Шинэ хувилбарыг төсөлдөө суулгаж турших боломжтой болжээ.",
+ "published": "2026-10-09T20:49:22Z",
+ "added": "2026-10-10T07:25:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
