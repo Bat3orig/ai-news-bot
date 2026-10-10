@@ -1,0 +1,16 @@
+{
+ "id": "5c5ca4e080df14e7",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Startup Fortune",
+ "url": "https://startupfortune.com/cisco-turns-webex-into-an-ai-agent-workspace-with-claude-built-in/",
+ "image": "https://startupfortune.com/wp-content/uploads/2026/10/cisco-webex-anthropic.jpg",
+ "title": "Cisco turns Webex into an AI agent workspace with Claude built in",
+ "summary_en": "Cisco unveiled Claude Managed Agents in Webex at WebexOne 2026, alongside RoomOS 27 and OpenAI's dot agents, with most features landing in early 2027.",
+ "title_mn": "Cisco Webex платформд Claude Managed Agents болон OpenAI Dots агентуудыг нэвтрүүллээ",
+ "summary_mn": "Cisco компани Webex платформдоо Claude Managed Agents болон OpenAI Dots агентуудыг нэгтгэв. AI агентууд дуудлага, чатын үеэр бодит цагт даалгавар гүйцэтгэж, танилцуулга бэлтгэх чадвартай болжээ.",
+ "body_mn": "Cisco компани WebexOne арга хэмжээнийхээ үеэр Webex платформдоо Anthropic-ийн Claude Managed Agents болон OpenAI-ийн Dots агентуудыг нэгтгэж байгаагаа танилцууллаа. Энэхүү шийдэл нь хурлын дараа товч дүгнэлт хийх уламжлалт чатботоос хальж, бодит цагийн уулзалт, чатын өрөөнд идэвхтэй оролцох боломжийг олгож байна.\n\nХэрэглэгчид Webex дотор тусгай агентыг @mention хийн дуудаж, системийн хэрэглээний тоон мэдээллийг татаж авах эсвэл PowerPoint танилцуулга руу өгөгдөл оруулах зэрэг олон шатлалт даалгавруудыг шууд ярианы дундуур гүйцэтгүүлэх боломжтой болжээ. Claude Managed Agents нь цаанаа үүлэн орчинд ажиллаж, байгууллагын контекст мэдээллийг хуваалцан ажилладаг.\n\nCisco зөвхөн нэг компанийн моделд түгжигдэхээс зайлсхийж, Anthropic болон OpenAI-ийн хамгийн сүүлийн үеийн агентуудыг зэрэг дэмжиж байгаа нь онцлог юм. Түүнчлэн хурлын өрөөний тоног төхөөрөмжид зориулсан RoomOS 27 системээрээ дамжуулан Google Meet, Microsoft Teams, Zoom-тэй бүрэн нийцтэй ажиллах боломжийг бүрдүүлжээ.",
+ "published": "2026-10-10T11:21:40Z",
+ "added": "2026-10-10T18:08:30Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

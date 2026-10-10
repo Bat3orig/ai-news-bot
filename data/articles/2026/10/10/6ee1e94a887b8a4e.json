@@ -1,0 +1,16 @@
+{
+ "id": "6ee1e94a887b8a4e",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "The New Stack",
+ "url": "https://thenewstack.io/microsoft-decision-model-foundry/",
+ "image": "https://cdn.thenewstack.io/media/2026/10/57c94021-logan-voss-5kzn1icmroq-unsplash-1-scaled.jpg",
+ "title": "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
+ "summary_en": "Microsoft’s Decision-1 matches Jev’s price and skips OpenAI’s model. Here’s who it’s built for and what it still leaves out for developers building agents.",
+ "title_mn": "Microsoft Alibaba-ийн Qwen загвар дээр суурилсан шинэ шийдвэр гаргах загвар бүтээжээ",
+ "summary_mn": "Microsoft компани OpenAI-ийн загварыг алгасаж, Alibaba-ийн Qwen загварт суурилсан Microsoft-Decision-1 хурдан шийдвэр гаргах загварыг бүтээжээ.",
+ "body_mn": "Microsoft компани шинээр Microsoft-Decision-1 нэртэй шийдвэр гаргах хурдан загварыг танилцууллаа. Уг загвар нь OpenAI-ийн технологид бус, харин Alibaba компанийн Qwen загвар дээр суурилан бүтээгдсэнээрээ онцлог юм.\n\nЭнэхүү алхам нь технологийн салбарт нээлттэй эх сурвалжтай (open-source) загваруудын байр суурь улам бэхжиж байгааг харуулж байна. Хөгжүүлэгчид болон хиймэл оюун ухааны зах зээлд өрсөлдөөн ширүүсч байгаагийн тод илрэл юм.\n\nMicrosoft болон бусад томоохон тоглогчид төрөл бүрийн даалгаврыг гүйцэтгэхдээ янз бүрийн экосистемийн загваруудыг хослуулан ашиглах чиг хандлага эрчимжиж байна.",
+ "published": "2026-10-10T13:03:50Z",
+ "added": "2026-10-10T18:08:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "992c88bc67262295",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Futurism",
+ "url": "https://futurism.com/artificial-intelligence/anthropic-solve-humor",
+ "image": "https://futurism.com/wp-content/uploads/2026/10/anthropic-solve-humor.jpg?quality=85&w=1200",
+ "title": "Eggheads at Anthropic Said They Used Claude to \"Solve\" Humor",
+ "summary_en": "Former Anthropic employee Jacob Coxon says that employees at the company were adamant they \"solved\" humor using Claude.",
+ "title_mn": "Anthropic компанийн хуучин ажилтан хошин шогийн мэдрэмжийг AI-аар шийдсэн гэж ярьжээ",
+ "summary_mn": "Anthropic компанийн хуучин ажилтан тус компанид хошин шогийн мэдрэмжийг Claude загвараар бүрэн шийдсэн гэж үздэг дотоод соёл байсныг дурсжээ.",
+ "body_mn": "Anthropic компаниас гарсан хуучин ажилтан Jacob Coxon хэвлэлд өгсөн ярилцлагадаа тус компанийн дотоод орчин болон хиймэл оюун ухааныг хэт шүтэх хандлагын талаар ярьжээ. Түүний дурс снаар, компанид Claude загварыг хошин шог ойлгодог болгож хөгжүүлсний дараа үүнийг бүрэн шийдсэн гэж үзэж байсан гэнэ.\n\nЭнэхүү яриа нь хиймэл оюун ухаан хөгжүүлэгч томоохон лабораториудын дотоод соёл, заримдаа хэт өөдрөг эсвэл бодит байдлаас тасархай хандлагатай байдгийг илтгэж байна. Технологийн салбарт хиймэл оюун ухааны ухамсар болон чадварын талаарх маргаан үргэлжилсээр байна.\n\nХөгжүүлэгчид болон инженерүүдийн хувьд AI загварын хязгаарлалт, бодит чадварыг бодитоор үнэлэх нь чухал болохыг энэ мэт яриа сануулж байна.",
+ "published": "2026-10-10T15:01:00Z",
+ "added": "2026-10-10T18:08:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "b5945e7a7abdde20",
+ "subtopic": "tauri",
+ "source": "tauri-apps/tauri",
+ "source_label": "tauri-apps/tauri",
+ "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v2.12.3",
+ "image": "https://opengraph.githubassets.com/047e53531e278ec5cd23161b55ec2b36338bbddcabc325ba884795a0c776eb14/tauri-apps/tauri/releases/tag/tauri-v2.12.3",
+ "title": "tauri v2.12.3",
+ "summary_en": "Cargo Audit Fetching advisory database from `https://github.com/RustSec/advisory-db.git` Loaded 1296 security advisories (from /home/runner/.cargo/advisory-db) Updating crates.io index Scanning Cargo.lock for vulnerabilities (1092 crate dependencies) Crate: fxhash Version: 0.2.1 Warning: unmaintained Title: fxhash - no longer maintained Date: 2025-09-05 ID: RUSTSEC-2025-0057 URL: https://rustsec.org/advisories/RUSTSEC-2025-0057 Crate: paste Version: 1.0.15 Warning: unmaintained Title: paste - no longer maintained Date: 2024-10-07 ID: RUSTSEC-2024-0436 URL…",
+ "title_mn": "Tauri v2.12.3 хувилбар гарлаа: Channel алдаа болон iOS build-ийн засварууд",
+ "summary_mn": "Tauri фрэймворкийн 2.12.3 шинэчлэлтээр Channel мессеж дараалалд гацах асуудал, iOS дээрх Xcode 27-ийн холболтын алдаа болон Windows NSIS суулгагчийн хувилбар бууруулах алдаануудыг заслаа.",
+ "body_mn": "Десктоп болон гар утасны платформд зориулсан аппликейшн хөгжүүлэх нээлттэй эхийн Tauri фрэймворкийн v2.12.3 хувилбар гарлаа. Энэхүү шинэчлэлт нь системийн тогтвортой ажиллагааг хангахад чиглэсэн хэд хэдэн чухал засварыг багтаасан байна.\n\nГол өөрчлөлтүүдийн нэг нь Channel-ийн мессеж боловсруулалттай холбоотой юм. Өмнө нь onmessage боловсруулагч алдаа гаргахад (throw) дараа дараагийн мессежүүд дараалалд түгжигдэн үлддэг байсан бол одоо алдааг асинхроноор дахин илгээж, цаашдын мессежүүдийг тасралтгүй дамжуулах боломжтой болжээ. Мөн iOS үйлдлийн системд зориулсан Swift-ийн @_cdecl оролтын цэгүүдийг public болгож өөрчилснөөр Xcode 27 дээр Rust сангуудтай амжилттай холбогдож, release бүтээлт хэвийн хийгдэх нөхцөлийг бүрдүүлэв.\n\nТүүнчлэн Windows-ийн NSIS суулгагчийн алдааг засварласан байна. Тодруулбал, bundle.windows.allowDowngrades тохиргоо false байх үед дуугүй (/S), идэвхгүй (/P) болон шинэчлэх (/UPDATE) горимд хувилбар бууруулах үйлдлийг хориглодоггүй байсан доголдлыг арилгажээ. Энэ хувилбараар мөн tauri-macros болон tauri-build хамаарлуудыг 2.7.2 хувилбар руу шинэчилсэн байна.",
+ "published": "2026-10-10T17:47:59Z",
+ "added": "2026-10-10T18:08:30Z",
+ "ai": "gemini:gemini-3.8-flash"
+}
