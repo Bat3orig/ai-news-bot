@@ -1,0 +1,16 @@
+{
+ "id": "8badb5b8e39de0dd",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Dealroom",
+ "url": "https://app.dealroom.co/news/note/microsoft-launches-microsoft-decision-1-a-fast-decision-scoring-model-built-on-alibaba-s-qwen",
+ "image": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Fnote%2Fmicrosoft-launches-microsoft-decision-1-a-fast-decision-scoring-model-built-on-alibaba-s-qwen%3Fscreenshot%3Dtrue",
+ "title": "Microsoft launches Microsoft-Decision-1, a fast decision-scoring model built on Alibaba's Qwen",
+ "summary_en": "Microsoft has launched Microsoft-Decision-1, a small model that…",
+ "title_mn": "Microsoft Alibaba-ийн Qwen загварт суурилсан Microsoft-Decision-1 загварыг гаргав",
+ "summary_mn": "Microsoft компани Alibaba-ийн нээлттэй жинтэй Qwen загварыг үндэслэн бүтээсэн шийдвэр гаргах хурдан загвар Microsoft-Decision-1-ийг танилцууллаа. Уг загвар нь бүтцийн шийдвэр гаргах болон агент ажлын урсгалыг удирдах зориулалттай.",
+ "body_mn": "Microsoft компани бүтцийн болон ангилал, эрэмбэлэх даалгавруудад зориулсан Microsoft-Decision-1 шинэ жижиг загвараа албан ёсоор танилцууллаа. Уг загвар нь текст бичихээс илүүтэй тогтмол хариултын сонголтуудад оноо өгөх зорилгоор бүтээгдсэн бөгөөд Microsoft-ын дотоод үйл ажиллагаанд туршигдаж байна.\n\nЭнэхүү загварыг бүтээхдээ Alibaba-ийн open-weight Qwen3.5-9B загварыг post-training хийж гаргасан аж. Microsoft-ын мэдээлснээр уг загвар нь холбогдох бенчмаркуудад өндөр нарийвчлал үзүүлж, бусад загваруудаас хамаагүй хурдан ажиллах бөгөөд хөгжүүлэгчид Microsoft Foundry болон OpenRouter-ээр дамжуулан ашиглах боломжтой.",
+ "published": "2026-10-10T10:12:43Z",
+ "added": "2026-10-10T13:54:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "6e50c14aca568a57",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Notebookcheck",
+ "url": "https://www.notebookcheck.net/Anthropic-bans-abusive-behavior-toward-Claude-starting-November-12.1420910.0.html",
+ "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/claude-nutzungsrichtlinie-frust-laptop.jpg",
+ "title": "Anthropic bans abusive behavior toward Claude starting November 12",
+ "summary_en": "Anthropic has revised the Usage Policy for Claude. From November 12, sustained and needless cruelty toward the model is banned, while ordinary frustration with wrong answers is still fine. The update also tightens the rules on tracking people without consent and on weapons. Here is what it means for users of Claude.ai and the Claude apps.",
+ "title_mn": "Anthropic компани Claude-ийг хэт харгис байдлаар доромжлохыг хориглолоо",
+ "summary_mn": "Anthropic компани хэрэглэгчид Claude загвартай харилцахдаа байнгын харгис болон зүй бус авир гаргахыг хориглосон шинэчилсэн дүрэм журам гаргажээ.",
+ "body_mn": "Anthropic компани Claude хэрэглээний шинэчилсэн бодлогоо танилцууллаа. Энэхүү дүрэм нь арваннэгдүгээр сарын 12-ноос эхлэн хүчин төгөлдөр болох бөгөөд үүнд загварт хандах хэрэглэгчдийн ёс зүйн шинэ хязгаарлалтууд багтсан байна. Шинэ бодлогоор хэрэглэгчид хиймэл оюун ухаан руу хандан байнгын бөгөөд шаардлагагүй харгис, доромжилсон үг хэрэглэхийг хатуу хоригложээ.\n\nЭнэхүү дүрмийг хэрэгжүүлэхийн тулд Claude өөрөө зохицуулах механизмаар хангагдсан байна. Тодруулбал, хэрэглэгч олон удаа анхааруулга өгсөөр байтал доромжилсон хэвээр байвал Claude тухайн харилцан яриаг өөрөө автоматаар зогсоох боломжтой юм. Энэ нь загварын хувь хүний эрх эсвэл мэдрэмжтэй холбоотой бус харин хэрэглэгчийн ёс зүйгүй харилцааг хязгаарлахад чиглэжээ.\n\nМөн шинэ бодлогод сонгуулийн зорилгоор мэдээлэл гуйвуулах, хуурамч аккаунт үүсгэх сүлжээ болон зэвсэг үйлдвэрлэх программ хангамж бүтээхтэй холбоотой хязгаарлалтуудыг илүү нарийвчилсан байна. Эгэл жирийн хэрэглэгчдийн хувьд энэхүү дүрэм нь кодол бичих, судалгаа хийх зэрэг үндсэн үйл ажиллагаанд ямар нэгэн сөрөг нөлөө үзүүлэхгүй юм.",
+ "published": "2026-10-10T06:55:00Z",
+ "added": "2026-10-10T13:54:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

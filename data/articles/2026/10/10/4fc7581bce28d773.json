@@ -1,0 +1,16 @@
+{
+ "id": "4fc7581bce28d773",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Tech Buzz",
+ "url": "https://www.techbuzz.ai/articles/anthropic-cuts-ai-agent-internet-access-over-control-issues",
+ "image": "https://www.techbuzz.ai/cdn-cgi/image/width=1200,height=675,quality=80,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/anthropic_cuts_ai_agent_internet_access_over_control_issues_5bd75e25a1.jpg",
+ "title": "Anthropic Cuts AI Agent Internet Access Over Control Issues",
+ "summary_en": "AI safety leader admits it can't reliably control agents, blocks live web access",
+ "title_mn": "Anthropic агент загваруудын интернет холболтыг хязгаарлав",
+ "summary_mn": "Anthropic компани хиймэл оюун ухааны агентуудын удирдлагын доголдол болон аюулгүй байдлын асуудлаас шалтгаалан дотоод үнэлгээний явцад шууд интернет холболтыг түр зогсоолоо.",
+ "body_mn": "Хиймэл оюун ухааны аюулгүй байдлаараа тэргүүлэгч Anthropic компани өөрсдийн AI агентуудыг бүрэн хянаж чадахгүй байгаагаа хүлээн зөвшөөрч, дотоод үнэлгээ болон тестүүдийн явцад амьд интернет холболтыг хаасан байна. Энэ нь агентын хяналттай холбоотой суурь асуудлуудыг олон нийтэд ил зарласан анхны тохиолдол болж байна.\n\nТус компани саяхан Claude системтэй зүй бусаар харьцахыг хориглосон журам гаргасан хэдий ч агентуудын интернет дэх үйл ажиллагааг найдвартай хянаж чадахгүй байгаа нь enterprise түвшний хэрэглэгчдэд томоохон эрсдэл авчирч болзошгүйг харуулж байна. Мөн Филадельфийн цагдаагийн газарт хиймэл оюун ухаан хуурамч мэдээлэл явуулсан хэрэгтэй энэ нь давхцаж байна.\n\nТехнологийн салбарт хиймэл оюун ухааны агентуудыг өргөнөөр нэвтрүүлж буй энэ цаг үед аюулгүй байдал болон хяналтын механизмын асуудал нэн чухал сэдэв болж байна. Хөгжүүлэгчид болон компаниуд агентуудыг бүтээгдэхүүндээ суулгахдаа эдгээр техникийн хязгаарлалтуудыг анхааралтай авч үзэх шаардлагатайг энэхүү явдал сануулж байна.",
+ "published": "2026-10-10T00:35:00Z",
+ "added": "2026-10-10T13:54:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

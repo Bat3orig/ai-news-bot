@@ -1,0 +1,16 @@
+{
+ "id": "766dc7faf4dd31b7",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Britannica",
+ "url": "https://www.britannica.com/money/Anthropic-PBC",
+ "image": "",
+ "title": "Anthropic | History, Controversies, & Claude AI",
+ "summary_en": "",
+ "title_mn": "Anthropic компанийн түүх болон Claude AI",
+ "summary_mn": "Энэхүү мэдээлэл нь Anthropic компани болон түүний хөгжүүлж буй Claude хиймэл оюун ухааны талаарх ерөнхий мэдээллийг агуулсан байна.",
+ "body_mn": "Энэхүү материал нь Anthropic компанийн түүх, гарсан маргаантай асуудлууд болон Claude хиймэл оюун ухааны загваруудын талаарх ерөнхий лавлах мэдээлэл юм.\n\nПрограм хангамжийн хөгжүүлэгчид болон технологи сонирхогчдод зориулсан шинэ техникийн шийдвэр, API өөрчлөлт болон код бичихэд туслах хэрэгслүүдийн талаар энд дурдаагүй болно.\n\nДэлгэрэнгүй мэдээллийг тухайн компанийн албан ёсны баримт бичиг болон шинэчлэлтүүдээс харах боломжтой юм.",
+ "published": "2026-10-08T07:00:00Z",
+ "added": "2026-10-10T13:54:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
