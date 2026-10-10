@@ -1,0 +1,16 @@
+{
+ "id": "205567286308162c",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.296",
+ "image": "https://opengraph.githubassets.com/d62f2246da963b4a9e47318fa942b33e3f9a0f8c0a37f82c7597a51716210c8d/anthropics/claude-code/releases/tag/v2.1.296",
+ "title": "claude-code v2.1.296",
+ "summary_en": "What's changed Added a code key to the Claude apps gateway's managed.policies[] : the same settings as cli , also applied in Claude Desktop's Code tab; beside desktop , it turns on Claude Desktop's gateway mode Added autoCompactWindow to subagent frontmatter and --agents definitions, so a subagent can auto-compact earlier than the main conversation's window Added CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL to run every workflow agent on one model while other subagents keep theirs Added CLAUDE_CODE_OVERLOADED_RETRY_MAX_DELAY_MS environment variable to set a longer maximum delay for the backoff when…",
+ "title_mn": "Claude Code v2.1.296: Claude apps gateway, subagent тохиргоо болон олон алдааг засав",
+ "summary_mn": "Claude Code v2.1.296 хувилбарт subagent-ийн autoCompactWindow, CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL хувьсагч, Read хэрэгслийн allow_large сонголт нэмэгдлээ. Мөн hook, MCP, self-hosted runner болон gateway-тэй холбоотой олон алдааг засварласан.",
+ "body_mn": "Anthropic Claude Code-ийн v2.1.296 хувилбарыг гаргалаа. Шинэ хувилбарт Claude apps gateway-ийн managed.policies[] тохиргоонд code түлхүүр нэмэгдсэн бөгөөд энэ нь Claude Desktop-ийн Code таб дээр мөн адил хэрэглэгдэнэ. Subagent-ийн frontmatter болон --agents тодорхойлолтод autoCompactWindow нэмснээр subagent үндсэн харилцааных шигээ биш, илүү эрт автоматаар товчлох боломжтой болжээ.\n\nCLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL хувьсагчаар workflow агент бүгдийг нэг загвараар ажиллуулах, харин бусад subagent өөрийн загвартаа үлдэх боломжтой. CLAUDE_CODE_OVERLOADED_RETRY_MAX_DELAY_MS хувьсагчаар 529 алдааны дахин оролдлогын хүлээлтийн дээд хугацааг уртасгаж болно. Read хэрэгслийн allow_large сонголтоор Claude шаардлагатай бол текст файлыг нэг дуудлагаар хэмжээний хязгаараас давуулан уншиж чадна.\n\nЗасварлагдсан алдаанд managed-settings PreToolUse hook-ууд, headless сешн дэх MCP сервер, --teleport командын хоосон харилцаа, self-hosted runner-ийн алдааны мессеж, Haiku 5.5 загварын token тооллын асуудал зэрэг багтжээ. Хөгжүүлэгчдэд чухал нь hook, MCP болон runner тохиргоотой ажиллаж байгаа бол шинэчлэх нь зүйтэй.",
+ "published": "2026-10-09T19:28:59Z",
+ "added": "2026-10-10T01:25:23Z",
+ "ai": "claude:claude-haiku-5-5"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "a628b517b88b4a46",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Gadget Review",
+ "url": "https://www.gadgetreview.com/anthropic-bans-cruelty-toward-claude-without-claiming-it-can-suffer",
+ "image": "https://www.gadgetreview.com/wp-content/uploads/Anthropic-Bans-Cruelty-Toward-Claude-Without-Claiming-It-Can-Suffer-scaled.jpg",
+ "title": "Anthropic Bans Cruelty Toward Claude Without Claiming It Can Suffer",
+ "summary_en": "Anthropic bans sustained cruelty toward Claude in its 2026 policy update while stopping short of claiming the AI can actually suffer.",
+ "title_mn": "Anthropic компани Claude загварт хэрцгий хандахыг хориглосон шинэ бодлого танилцууллаа",
+ "summary_mn": "Anthropic компани хэрэглэгчдийг Claude загварт удаа дараа шалтгаангүйгээр хэрцгий болон зүй бусаар хандахыг хориглосон шинэ журам гаргажээ. Гэхдээ уг бодлого нь загварыг өвдөрсөн эсвэл ухамсартай гэж үзсэндээ бус, хэтрүүлсэн үйлдлүүдийг хязгаарлахад чиглэж байна.",
+ "body_mn": "Anthropic компани ашиглалтын бодлогоо шинэчилж, Claude загварт чиглэсэн ямар ч шалтгаангүй, байнгын зүй бус болон хэрцгий үйлдлүүдийг хориглолоо. Энэхүү журам нь энгийн бухимдал, шүүмжлэл, бүтээлч ажил болон загварыг турших үйл ажиллагаанд хамаарахгүй бөгөөд зөвхөн хэтрүүлсэн, давтагдсан тохиолдлуудад үйлчлэх юм.\n\nЭнэхүү шийдвэр нь хиймэл оюун ухаан ухамсартай эсэх талаар маргаан өрнөж буй цаг үед гарч байгаагаараа онцлог юм. Тус компанийн гүйцэтгэх захирал Дарио Амодей загварууд ухамсартай эсэхийг сайн мэдэхгүй ч энэ боломжийг үгүйсгээгүй байна. Гэсэн хэдий ч уг хориг нь Claude өвдөх чадвартай гэсэн утгыг шууд илэрхийлээгүй ажээ.\n\nШинэ бодлогод зүй бус харилцаанаас гадна зэвсэг зохион бүтээх, тагнуул хийх, сонгуулийн үйл явцад нөлөөлөх хязгаарлалтуудыг илүү тодорхой болгосон байна. Тухайлбал, зэвсгийн удирдлагын систем болон автомат хэрэгслүүдэд Claude-ийг ашиглахыг хоригложээ. Мөн эрүүл мэнд, санхүүгийн шийдвэр гаргахад хүний хяналт заавал байх шаардлагыг тусгасан байна.",
+ "published": "2026-10-09T14:29:29Z",
+ "added": "2026-10-10T01:25:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "225ea07374e2554e",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "FF News",
+ "url": "https://ffnews.com/news/hexaware-becomes-a-preferred-partner-in-the-claude-partner-network-bringing-clau-226ba581",
+ "image": "",
+ "title": "Hexaware and Anthropic Forge Multi-Year Partnership to Scale Claude AI for Global Enterprises",
+ "summary_en": "FF News is the fintech news network covering payments, insurtech, tradetech and capital markets.",
+ "title_mn": "Hexaware болон Anthropic компаниуд Claude AI-г өргөжүүлэхээр хамтран ажиллана",
+ "summary_mn": "Hexaware болон Anthropic компаниуд дэлхийн хэмжээний байгууллагуудад Claude AI-г нэвтрүүлэх болон өргөжүүлэх зорилгоор олон жилийн түншлэл байгууллаа.",
+ "body_mn": "Hexaware болон Anthropic компаниуд дэлхий даяарх томоохон байгууллагуудад Claude хиймэл оюун ухааныг нэвтрүүлж, цар хүрээг нь тэлэх зорилготой олон жилийн түншлэлийн гэрээ байгуулснаа зарлалаа. Энэхүү хамтын ажиллагаа нь санхүүгийн технологи, даатгал болон капитал зах зээлийн салбар дахь хэрэглэгчдэд Claude платформын боломжуудыг илүү хүртээмжтэй болгох юм.\n\nХөгжүүлэгчид болон бизнесийн байгууллагууд энэхүү түншлэлийн хүрээнд Claude загваруудыг өөрсдийн үйл ажиллагаа болон үйлчлүүлэгчдийн орчинд амжилттай нэгтгэх боломж бүрдэж байна. Энэ нь хиймэл оюун ухааныг ажлын байрны бүтээмжийг нэмэгдүүлэх чиглэлээр өргөнөөр ашиглахад чухал алхам болж байна.",
+ "published": "2026-10-09T16:09:27Z",
+ "added": "2026-10-10T01:25:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

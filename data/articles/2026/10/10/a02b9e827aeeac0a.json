@@ -1,0 +1,16 @@
+{
+ "id": "a02b9e827aeeac0a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Decoder",
+ "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+ "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+ "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+ "summary_en": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66.",
+ "title_mn": "Anthropic: Claude нэг дор 1000 AI агентыг зэрэг удирдаж ажиллах боломжтой боллоо",
+ "summary_mn": "Anthropic Claude Managed Agents-дээ dynamic workflows боломжийг нэмлээ. Үндсэн агент төлөвлөгөө гаргаж, 1000 хүртэлх дэд агентыг зэрэг ажиллуулан даалгавруудыг нэгтгэн гүйцэтгэх боломжтой болжээ.",
+ "body_mn": "Anthropic компани өөрийн Claude Managed Agents дэд бүтцэд динамик ажлын урсгал буюу \"dynamic workflows\" функцийг нэмж, олон агентыг зэрэг удирдах (multi-agent orchestration) боломжийг танилцууллаа. Энэхүү бүтцийн хүрээнд нэг удирдагч агент ерөнхий төлөвлөгөө боловсруулж, дэд даалгавруудыг салбар агентуудад хуваарилаад, эцэст нь үр дүнг нэгтгэн гаргадаг байна. Нэг удаагийн үйлдлээр зэрэгцээ байдлаар 1000 хүртэлх агент ажиллах чадвартай.\n\nЭнэ төрлийн олон агентын бүтэц нь токен зарцуулалтыг эрс нэмэгдүүлдэг тул үр ашигтай эсэх тал дээр маргаантай байдаг. Гэсэн хэдий ч Anthropic өөрсдийн туршилтын үр дүнгээс хуваалцсан бөгөөд 116,000 мөртэй кодонд зориуд 70 алдаа үлдээхэд ганц агент ердөө 14-27 алдааг олсон бол dynamic workflow ашигласнаар 66 алдааг тогтвортой илрүүлж чадсан байна.\n\nХөгжүүлэгчид энэхүү динамик ажлын урсгалыг идэвхжүүлэхийн тулд \"multiagent_20261001\" агент төрлийг сонгох шаардлагатай. Anthropic-ийн зүгээс уг урсгал маш их хэмжээний токен зарцуулдаг тул эхний ээлжинд бага хэмжээний туршилтаар эхлэхийг зөвлөж байгаа бөгөөд албан ёсны баримт бичиг болон Claude Code дээр /claude-api managed-agents-onboard командыг ажиллуулан тохируулах боломжтой юм.",
+ "published": "2026-10-09T18:34:07Z",
+ "added": "2026-10-10T01:25:23Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

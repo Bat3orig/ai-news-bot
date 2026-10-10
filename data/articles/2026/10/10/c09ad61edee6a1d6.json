@@ -1,0 +1,16 @@
+{
+ "id": "c09ad61edee6a1d6",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/new-pro-teams-now-default-to-30-day-deployment-retention",
+ "image": "https://vercel.com/api/dynamic-og?title=New%20Pro%20teams%20now%20default%20to%2030-day%20deployment%20retention&format=changelog",
+ "title": "New Pro teams now default to 30-day deployment retention",
+ "summary_en": "New Pro teams now default to a 30-day deployment retention period. Coding agents have accelerated development, increasing deployment frequency and the amount of stored deployment history. Shorter retention keeps recent history available while limiting older history and its storage costs. You can choose a longer retention period in your team's settings when you need more history for inspection or rollback. Deployment Storage and Functions Storage each cost $0.10 per GB-month. Older deployments may be deleted under your retention policy. Deleted deployments cannot be restored or used for…",
+ "title_mn": "Vercel шинэ Pro багуудын deployment хадгалах хугацааг 30 хоног болголоо",
+ "summary_mn": "Vercel-ийн шинэ Pro багуудын deployment хадгалалтын үндсэн тохиргоо 30 хоног боллоо. Код бичих AI агентуудын улмаас deployment давтамж нэмэгдсэн тул өгөгдөл хадгалах зардлыг бууруулах зорилгоор ийнхүү өөрчилжээ.",
+ "body_mn": "Vercel платформ шинэ Pro багуудын хувьд deployment түүхийг хадгалах үндсэн хугацааг (retention period) 30 хоног болгон өөрчиллөө. Сүүлийн үед кодчиллын AI агентууд хүчтэй хөгжиж, хөгжүүлэлтийн явцыг хурдасгаснаар төслийг deploy хийх давтамж эрс нэмэгдэж, хадгалагдах түүхийн хэмжээ ихсээд байсан юм.\n\nХадгалах хугацааг богиносгосноор ойрын түүхийг бүрэн ашиглах боломжтой хэвээр үлдэж, хуучин өгөгдлийн хадгалалтын зардлыг хязгаарлах давуу талтай. Хэрэв өмнөх хувилбаруудыг шалгах эсвэл rollback хийх зорилгоор урт хугацаагаар хадгалах шаардлагатай бол багийн тохиргоо хэсгээс хугацааг сунгах боломжтой аж.\n\nVercel дээр Deployment Storage болон Functions Storage-ийн төлбөр тус бүр GB тутамд сарын $0.10 ам.долларын үнэтэй байдаг. Хугацаа хэтэрч автоматаар устгагдсан deployment-уудыг сэргээх боломжгүй бөгөөд rollback хийхэд ашиглаж болохгүйг хөгжүүлэгчид анхаарах хэрэгтэй.",
+ "published": "2026-10-09T18:00:00Z",
+ "added": "2026-10-10T01:25:23Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

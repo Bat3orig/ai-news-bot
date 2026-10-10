@@ -1,0 +1,16 @@
+{
+ "id": "1e8ccb553236b87c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "CTech",
+ "url": "https://www.calcalistech.com/ctechnews/article/xsem3l91w",
+ "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/10/22/Hk4RiO80ex/Hk4RiO80ex_0_55_3000_1689_0_large.jpg",
+ "title": "Claude Code creator's prompting formula: Say what you want and let AI figure out the rest",
+ "summary_en": "Boris Cherny says users should explain the task, specify how much effort it deserves and tell the model how to verify its work. His advice is to stop micromanaging the process without losing sight of the result.",
+ "title_mn": "Claude Code-ийг бүтээгч үр дүнтэй prompting хийх зарчмаа хуваалцав",
+ "summary_mn": "Claude Code-ийг бүтээгч Борис Черный хиймэл оюунд зааварчилгаа өгөхдөө хэт нарийн процессийг удирдалгүй, хүсэж буй үр дүн болон шалгах аргачлалд төвлөрөх нь үр дүнтэй гэж зөвлөлөө.",
+ "body_mn": "Claude Code хэрэгслийг бүтээгч Борис Черный (Boris Cherny) хөгжүүлэгчдэд зориулсан prompting буюу зааварчилгаа бичих өөрийн арга барилыг танилцууллаа. Түүний үзэж буйгаар хамгийн гол дүрэм бол хийх ажлыг тодорхой хэлж, хиймэл оюунд өөрт нь үлдсэнийг гүйцэтгэх эрх чөлөө өгөх явдал юм.\n\nЧерный хэрэглэгчдэд ажлыг сайтар тайлбарлах, тухайн даалгаварт хичнээн хэмжээний хүчин чармайлт гаргахыг зааж өгөх, мөн хамгийн чухал нь хийсэн ажлаа хэрхэн шалгаж баталгаажуулах зааврыг загварт өгөхийг зөвлөжээ. Хиймэл оюуны алхам бүрийг хэт нарийн зааварлах (micromanage) нь бүтээмжийг бууруулдаг байна.\n\nКод бичих агент болон автоматжуулалтын хэрэгслүүд хөгжихийн хэрээр хөгжүүлэгчид загварт үйлдэл бүрийг заах бус, харин төгсгөлийн шалгуур, тест болон баталгаажуулалтын логикийг зөв тодорхойлж өгөх ур чадварт суралцах шаардлагатай болж байна.",
+ "published": "2026-10-09T13:02:00Z",
+ "added": "2026-10-10T01:25:23Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

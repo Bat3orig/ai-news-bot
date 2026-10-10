@@ -1,0 +1,16 @@
+{
+ "id": "980065eec7b10df0",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Oracle Blogs",
+ "url": "https://blogs.oracle.com/ai-and-datascience/whats-new-in-oracle-ai-october-2026",
+ "image": "",
+ "title": "What’s New in Oracle AI? October 2026 Edition",
+ "summary_en": "",
+ "title_mn": "Oracle AI-giin October 2026-iin shinechlel",
+ "summary_mn": "Oracle AI-giin October 2026-iin shinechleliin talaar toimlejee.",
+ "body_mn": "Oracle AI-giin October 2026-iin shinechleliin talaar todorhoi medeelel garchee. Энэхүү мэдээлэл нь хөгжүүлэгчдэд шууд хамааралтай шинэ боломжуудыг багтаасан байна.\n\nКомпанийн зүгээс гаргасан энэхүү шинэчлэл нь хэрэглэгчдэд илүү өргөн боломжийг олгох зорилготой ажээ.",
+ "published": "2026-10-09T17:22:52Z",
+ "added": "2026-10-10T01:25:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

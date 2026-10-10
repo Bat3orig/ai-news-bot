@@ -1,0 +1,16 @@
+{
+ "id": "5b74f2a39ef66bd3",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/microsoft-decision-1-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png",
+ "title": "Microsoft Decision-1 now available on AI Gateway",
+ "summary_en": "Decision-1 from Microsoft is now available on AI Gateway . It answers typed questions about text with probabilities, choices, and scores. It can be used to classify support requests, select the next step in a workflow, or assess an AI response against a rubric. The model can answer yes/no questions, choose among named categories, or score an input against an ordered set of criteria. Multiple questions can share the same input in one request. Choice and score answers include probabilities for each option, so your application can decide when to act or send an uncertain result for review. Call…",
+ "title_mn": "Microsoft Decision-1 загвар Vercel AI Gateway дээр гарлаа",
+ "summary_mn": "Microsoft-ийн Decision-1 загварыг Vercel AI Gateway-ээр дамжуулан ашиглах боломжтой боллоо. Энэхүү загвар нь текстийг ангилах, үнэлэх болон шийдвэр гаргах магадлалыг тооцоолох зориулалттай.",
+ "body_mn": "Vercel компани AI Gateway платформдоо Microsoft-ийн Decision-1 загварыг нэмснээ зарлалаа. Тус загвар нь өгөгдсөн текстийн дагуу тийм/үгүй гэсэн хариулт өгөх, олон сонголтоос ангилал сонгох эсвэл тогтоосон шалгуурын дагуу оноо өгөх чадвартай.\n\nХөгжүүлэгчид Decision-1 загварыг хэрэглэгчийн хүсэлтийг ангилах, ажлын урсгалын (workflow) дараагийн алхмыг шийдэх, эсвэл хиймэл оюуны хариултыг шалгуурын дагуу үнэлэхэд ашиглаж болно. Сонголт болон үнэлгээний хариу бүрт магадлалын хувийг хавсаргадаг тул систем тодорхойгүй үр дүнг шалгуулахаар хүний хяналтад шилжүүлэх боломжтой.\n\nЭнэхүү загварыг AI SDK decision API, OpenAI-тай нийцтэй Decisions API, эсвэл TypeSafe API-аар дамжуулан дуудах боломжтой бөгөөд Azure-ийн тусдаа тохиргоо шаардахгүйгээр зөвхөн AI Gateway API түлхүүрээр ажиллана. Загварын нэрийг microsoft/microsoft-decision-1 гэж заан шууд ашиглаж болно.",
+ "published": "2026-10-09T00:00:00Z",
+ "added": "2026-10-10T01:25:23Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

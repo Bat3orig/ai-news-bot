@@ -1,0 +1,16 @@
+{
+ "id": "8b71174e2ced0b77",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "New York Post",
+ "url": "https://nypost.com/2026/10/09/business/other-ipos-are-on-ice-as-investors-await-anthropics-mega-public-debut/",
+ "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144393894.jpg?quality=75&strip=all&w=1200",
+ "title": "Other IPOs on ice as investors await Anthropic’s mega public debut",
+ "summary_en": "Wall Street’s market for new stocks has suddenly stalled, but big investors aren’t out of cash, experts say — they are simply hoarding their funds for a historic mega-deal while refusin…",
+ "title_mn": "Anthropic-ийн мега IPO хүлээгдэж буй тул бусад IPO-нууд хойшлогдож байна",
+ "summary_mn": "Хөрөнгө оруулагчид Anthropic-ийн 2 их наяд ам.долларын үнэлгээ бүхий IPO-г хүлээж байгаа тул Уолл Стрийт дэх бусад технологийн компаниудын хувьцаа гаргах үйл явц түр зогсоод байна.",
+ "body_mn": "Claude чатботыг бүтээгч Anthropic компани 2 их наяд орчим ам.долларын үнэлгээтэйгээр IPO хийж, ойрын долоо хоногуудад 100 хүртэлх тэрбум ам.доллар татан төвлөрүүлэхээр төлөвлөж байна. Хөрөнгө оруулагчид энэхүү түүхэн том хэлцлийг хүлээж буй тул Уолл Стрийт дэх шинэ хувьцааны зах зээл түр намжжээ.\n\nХөрөнгө оруулалтын сангууд бэлэн мөнгөө Anthropic-ийн хувьцаанд зориулж нөөцөлж байгаагийн улмаас ухаалаг бөгж үйлдвэрлэгч Oura, дата төвийн Firmus болон Holtec Nuclear зэрэг томоохон компаниуд төлөвлөсөн IPO-гоо тодорхойгүй хугацаагаар хойшлуулаад байна.\n\nЗах зээлийн шинжээчдийн үзэж буйгаар хөрөнгө оруулагчид хиймэл оюуны дэвшилтэт тэргүүлэх загвар хөгжүүлэгч компаниудад өндөр үнэлгээ өгөхөд бэлэн байгаа ч дэд бүтэц болон бусад технологийн чиглэлээр өндөр үнэ төлөхөөс татгалзаж, зах зээл дээр болгоомжлол үүсээд байна.",
+ "published": "2026-10-09T17:17:00Z",
+ "added": "2026-10-10T01:25:23Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

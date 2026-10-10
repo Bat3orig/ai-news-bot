@@ -1,0 +1,16 @@
+{
+ "id": "6e764fd8f2e3ca89",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/deployment-storage-pricing-expands-to-existing-teams",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ki1wWHOLW2YLQgykXhDeY/ebd5b40737ffbbfe573cb6c67057768b/image__46_.png",
+ "title": "Deployment Storage billing begins for existing Pro teams",
+ "summary_en": "Deployment Storage and Functions Storage billing will begin for all Pro teams at $0.10 per GB-month. Check your email for details about when billing will start for your team. To keep storage costs low, the deployment retention window also changes to 30 days. Deployments older than 30 days will be deleted starting October 23, unless you opt out in your retention settings before then. Retention settings already at 30 days or shorter are unchanged. Control your Deployment Storage Review retention periods for Pre-Production, Production, Canceled, and Errored deployments with a Deployment…",
+ "title_mn": "Vercel одоо байгаа Pro багуудаас deployment хадгалалтын төлбөр авч эхэлнэ",
+ "summary_mn": "Vercel-ийн одоогийн Pro хэрэглэгчдэд Deployment болон Functions Storage-ийн төлбөрийг сарын $0.10/GB үнээр тооцож эхлэхээр боллоо. Мөн зардлыг багасгахын тулд хадгалах хугацааг 30 хоног болгон өөрчилж байна.",
+ "body_mn": "Vercel платформ одоо ажиллаж буй бүх Pro багуудын хувьд Deployment Storage болон Functions Storage-ийн төлбөрийг авч эхлэхээр болсноо зарлалаа. Хадгалалтын төлбөр нь сарын 1 GB тутамд $0.10 ам.доллар байх бөгөөд хэрэглэгчдийн төлбөр хэзээнээс бодогдож эхлэх нарийн мэдээллийг имэйлээр мэдэгдэж байна.\n\nХадгалалтын зардлыг хэт өсгөхөөс сэргийлж deployment хадгалах үндсэн хугацааг 30 хоног болгон шилжүүлж байна. Хэрэв хэрэглэгч retention тохиргоогоо өөрчлөхгүй бол 10-р сарын 23-наас эхлэн 30 хоногоос хуучин deployment-ууд автоматаар устах юм. Харин аль хэдийн 30 хоног болон түүнээс богино хугацаагаар тохируулсан багуудын хувьд ямар нэг өөрчлөлт орохгүй.\n\nХөгжүүлэгчид Deployment Retention Policy тохиргоогоор Pre-Production, Production, Canceled болон Errored төлөвүүдийн хадгалагдах хугацааг тус тусад нь тохируулах боломжтой. Мөн зардлаа хэмнэхийн тулд шаардлагагүй build файлуудаа устгах, том хэмжээний файлуудыг Vercel Blob руу шилжүүлэх болон Function bundle-ийн хэмжээг багасгахыг Vercel зөвлөж байна.",
+ "published": "2026-10-09T18:00:00Z",
+ "added": "2026-10-10T01:25:23Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

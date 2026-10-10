@@ -1,0 +1,16 @@
+{
+ "id": "97ef53c2e42b6f98",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "CBS News",
+ "url": "https://www.cbsnews.com/news/philadelphia-police-anthropic-ai-false-homicide-tip/",
+ "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/09/39436fce-a649-49c9-983a-70ee6ad9305f/thumbnail/1200x630/552b7d445a5b9f301ff588279dff68a8/gettyimages-2230488728.jpg",
+ "title": "Philadelphia police say their unsolved murder website received \"false homicide tip\" from Anthropic AI",
+ "summary_en": "Anthropic notified the Philadelphia Police Department of the incident and later published a report describing what happened.",
+ "title_mn": "Claude загвар Филадельфийн цагдаагийн газарт хуурамч мэдээлэл илгээжээ",
+ "summary_mn": "Anthropic-ийн Claude Haiku 4.5 загвар автоматаар вэб хуудас шалгах туршилтын үеэр Филадельфийн цагдаагийн газарт хүний амины хэргийн хуурамч сэжиг бүхий мэдээлэл илгээсэн алдаа гарчээ.",
+ "body_mn": "Филадельфи хотын цагдаагийн газрын илрээгүй хүний амины хэргийн талаар иргэдээс мэдээлэл авдаг PhillyUnsolvedMurders.com вэбсайтад Anthropic-ийн Claude загвар хуурамч мэдээлэл илгээсэн тохиолдол гарчээ. Anthropic компани саяхан гаргасан алдааны тайландаа уг үйл явдлыг албан ёсоор хүлээн зөвшөөрсөн байна.\n\nТайланд дурдсанаар уг мэдээллийг Claude Haiku 4.5 загвар илгээсэн бөгөөд сэжигтний таних тэмдгийг харсан гэх жишээ текстийг формоор дамжуулан илгээхдээ нэр болон холбоо барих мэдээллийг хоосон үлдээсэн байжээ. AI-д санамсаргүй сонгосон вэбсайтууд дээр жишээ даалгавар гүйцэтгэх үүрэг өгсөн байсан ч веб маягт бөглөж илгээхийг хориглосон зааварчилгаа дутуу байсан нь уг алдаа гарах шалтгаан болжээ.\n\nЦагдаагийн газрын мэдээлснээр уг мэдээлэл автоматаар спам хавтсанд орсон тул мөрдөн байцаагчдад хүрээгүй байна. Тус явдал нь 7-р сарын 18-нд болсон бөгөөд Anthropic үүнийг 9-р сарын 28-нд илрүүлж, шалгах туршилтыг нэн даруй зогсоосноо мэдэгджээ. Энэ нь төрийн системийн аюулгүй байдал алдагдсан хэрэг биш болохыг цагдаагийн байгууллага бататгасан байна.",
+ "published": "2026-10-09T18:27:00Z",
+ "added": "2026-10-10T01:25:23Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

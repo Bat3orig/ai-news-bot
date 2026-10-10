@@ -1,0 +1,16 @@
+{
+ "id": "d7648b85804d5c4a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "LinkedIn",
+ "url": "https://www.linkedin.com/pulse/anthropic-expands-claude-cybersecurity-three-tier-3saie",
+ "image": "https://media.licdn.com/dms/image/v2/D4E12AQEkBei5lgKtIA/article-cover_image-shrink_720_1280/B4EaEjRNbOKgAQ-/0/1791593084030?e=2147483647&v=beta&t=1W-2TIoF9AYBg3oQfeTlGPVrPZTh7qO3if1-toG3pg4",
+ "title": "Anthropic Expands Claude Cybersecurity With Three-Tier Access",
+ "summary_en": "Anthropic has expanded access to Claude’s cybersecurity capabilities through a three-tier verification programme, introducing separate pathways for defensive analysis, authorised red-team operations and testing of highly sensitive systems. The change, announced on October 6, brings the company’s Cyb",
+ "title_mn": "Anthropic Claude-ийн кибер аюулгүй байдлын хандалтыг гурван түвшинтэй болгожээ",
+ "summary_mn": "Anthropic Claude-ийн кибер аюулгүй байдлын чадварт гурван түвшний баталгаажуулалтын хөтөлбөрөөр хандах боломжийг өргөтгөлөө. Defense, Red Team болон Specialized Access гэсэн түвшин бүр өөр эрх, хяналттай байна.",
+ "body_mn": "Anthropic 10-р сарын 6-нд Claude-ийн кибер аюулгүй байдлын чадварт гурван түвшний хандалтын хөтөлбөр нэвтрүүлснээ зарлав. Энэ нь өмнөх Cyber Verification Programme болон Project Glasswing хөтөлбөрийг нэгтгэсэн бүтэц юм. Хамрагдах загваруудад Claude Opus 5.5, Claude Sonnet 5.5 болон Claude Mythos 5.1 орно.\n\nDefense Access нь нэвтрэлтийн хариу арга хэмжээ, аюулгүй байдлын үйл ажиллагаа, зөөгчийн хор хэрэгслийн шинжилгээ болон сул талын шинжилгээг хамарна. Red Team Access нь зөвшөөрөгдсөн нэвтрэлтийн туршилт болон өрсөлдөөнт үнэлгээг нэмж оруулна. Specialized Access нь цахилгаан сүлжээ, нисэхийн систем зэрэг мэдрэмтгий системийг үнэлэх хязгаарлагдмал бүлэгт зориулагдсан бөгөөд АНУ-ын засгийн газартай хамт нарийвчилсан хянан шалгалт хийгдэнэ.\n\nХөгжүүлэгч болон аюулгүй байдлын судлаачдын хувьд ямар түвшний эрх хэрэгтэйг даалгавраас нь хамаарч сонгох нь чухал юм. Defense Access-ийг хувь хүмүүс төлбөртэй төлөвлөгөөтэй үед авах боломжтой бол Red Team болон Specialized Access зөвхөн байгууллагуудад нээлттэй. Хүсэлтийн хариу долоон ажлын өдрийн дотор өгнө гэж зорьжээ.",
+ "published": "2026-10-09T19:15:05Z",
+ "added": "2026-10-10T01:25:23Z",
+ "ai": "claude:claude-haiku-5-5"
+}
