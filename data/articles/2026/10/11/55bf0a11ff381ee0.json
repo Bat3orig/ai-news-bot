@@ -1,0 +1,16 @@
+{
+ "id": "55bf0a11ff381ee0",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "The Standard (HK)",
+ "url": "https://www.thestandard.com.hk/innovation/article/342426/Moonshot-AI-unveils-partner-program-driving-custom-AI-integration",
+ "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/c0d69b75f8a9159b95681a8c30de437d/2026-09/2026-09-07T074857Z_546169583_RC27ENAO1KEU_RTRMADP_3_MOONSHOT-AI-RESULTS.JPG",
+ "title": "Moonshot AI unveils partner program, driving custom AI integration",
+ "summary_en": "Chinese artificial intelligence start-up Moonshot AI launched a Kimi enterprise partner program, deploying forward deployed engineers to work directly on sites with clients to specialized integrate AI into core business operations.",
+ "title_mn": "Moonshot AI компани Kimi enterprise түншлэлийн хөтөлбөрөө танилцууллаа",
+ "summary_mn": "Moonshot AI компани бизнесүүдэд хиймэл оюун ухааныг нэгтгэхэд туслах Kimi enterprise түншлэлийн хөтөлбөрөө эхлүүллээ. Тус компани Хонконг болон Шанхайд давхар хувьцаа гаргахаар төлөвлөж байна.",
+ "body_mn": "Хятадын хиймэл оюун ухааны стартап болох Moonshot AI компани байгууллагуудад зориулсан Kimi enterprise түншлэлийн хөтөлбөрөө албан ёсоор зарлалаа. Энэхүү хөтөлбөрийн хүрээнд инженерүүд үйлчлүүлэгчдийн талбай дээр шууд ажиллаж, хиймэл оюун ухааныг үндсэн бизнест нь мэргэжлийн түвшинд нэгтгэхэд туслах юм.\n\nЭнэхүү санаачилгад Chinasoft International, Kingsoft Cloud, AsiaInfo Technologies зэрэг компаниуд эхний ээлжинд нэгдээд байна. Түншүүд модель болон агентын суурь хөгжүүлэлт, шийдэл бүтээх зэрэг чиглэлээр дэмжлэг авах ажээ. Уг үйл ажиллагаа нь хөгжүүлэгчид болон бизнесийн байгууллагуудад хиймэл оюун ухааныг үр дүнтэй ашиглах шинэ боломжийг нээж байна.\n\nҮүний зэрэгцээ тус компани санхүүжилтээ өргөжүүлэх зорилгоор Хонконг болон Шанхайн хөрөнгийн биржид давхар бүртгэл хийх боломжийг судалж байгаа аж. Энэ нь Хятадын хиймэл оюун ухааны салбарын өсөлтөд чухал алхам болж байна.",
+ "published": "2026-10-09T08:54:00Z",
+ "added": "2026-10-11T22:37:06Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
