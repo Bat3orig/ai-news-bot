@@ -1,0 +1,16 @@
+{
+ "id": "2a50f49b78088076",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Pasquale Pillitteri",
+ "url": "https://pasqualepillitteri.it/en/news/22685/anthropic-cyber-mission-power-grids-oss-scanner",
+ "image": "https://pasqualepillitteri.it/uploads/img/news/anthropic-cyber-mission-reti-elettriche-oss-scanner-cover.webp",
+ "title": "Anthropic launches Cyber Mission for power grids and free OSS Scanner",
+ "summary_en": "Anthropic Cyber Mission puts Claude behind power grids and water systems with 11 partners, and opens a free OSS Scanner whose reports skip human review.",
+ "title_mn": "Anthropic компани чухал дэд бүтцийг хамгаалах Cyber Mission хөтөлбөр зарлалаа",
+ "summary_mn": "Anthropic компани эрчим хүчний сүлжээ, усны систем зэрэг чухал дэд бүтцийг хамгаалах Cyber Mission санаачилга болон нээлттэй эхийн төслүүдэд зориулсан үнэгүй OSS Scanner үйлчилгээг танилцууллаа.",
+ "body_mn": "Anthropic компани чухал дэд бүтэц болон нээлттэй эхийн программ хангамжийг хамгаалахад чиглэсэн Anthropic Cyber Mission шинэ санаачилгаа албан ёсоор танилцууллаа. Энэхүү хөтөлбөр нь эрчим хүчний сүлжээ, усны систем, тээврийн сүлжээ зэрэг стратегийн чухал салбаруудыг хамгаалах Critical Infrastructure Defense Program болон OSS Scanner гэсэн хоёр үндсэн хэсгээс бүрдэж байна.\n\nOSS Scanner нь нээлттэй эхийн төслүүдийн үндсэн хөгжүүлэгчдэд зориулсан үнэгүй үйлчилгээ бөгөөд GitHub дээр pull request илгээх замаар идэвхждэг. Энэхүү хэрэгсэл нь Claude Mythos зэрэг дэвшилтэт загваруудыг ашиглан кодыг бүрэн офлайн байдлаар шалгаж, эмзэг байдлыг илрүүлдэг байна. Google-ийн OSS-Fuzz хэрэгслээс ялгаатай нь хиймэл оюун ухааны хэлний загварууд кодыг шууд уншиж, дүн шинжилгээ хийдэг онцлогтой.\n\nХарин Critical Infrastructure Defense Program нь эрчим хүч болон үйлдвэрлэлийн системүүдийг удирддаг компаниудтай хамтран ажиллаж, Claude загварууд болон салбарын мэргэжилтнүүдийг ашиглан аюулгүй байдлыг хангах зорилготой. Энэхүү хөтөлбөрт Accenture, CrowdShield, Deloitte, Dragos, Palo Alto Networks зэрэг салбарын тэргүүлэгч компаниуд үүсгэн байгуулагчаар нэгджээ.\n\nЭнэхүү шинэ санаачилга нь програм хангамжийн эмзэг байдлыг засах хугацааг богиносгох, ялангуяа удаан хугацаагаар ажилладаг үйлдвэрлэлийн системүүдийн аюулгүй байдлыг дээшлүүлэхэд хөгжүүлэгчид болон аюулгүй байдлын мэргэжилтнүүдэд чухал хувь нэмэр оруулах юм.",
+ "published": "2026-10-11T12:24:38Z",
+ "added": "2026-10-11T13:41:07Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
