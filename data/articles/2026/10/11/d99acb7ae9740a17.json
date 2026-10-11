@@ -1,0 +1,16 @@
+{
+ "id": "d99acb7ae9740a17",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "MIXED Reality News",
+ "url": "https://mixed-news.com/en/anthropic-sonnet-5-5-cache-reads-halved-claude-code-2-1-296-cost/",
+ "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/6ab6a76f77cf7911a03be1c0_ec09f8b2.png",
+ "title": "Anthropic halved Sonnet 5.5 cache reads, and its own tool showed the old price for two days",
+ "summary_en": "Anthropic halved the price of prompt cache reads on Claude Sonnet 5.5 on October 7, and for the next two days its own coding tool priced them at the old",
+ "title_mn": "Anthropic Claude Sonnet 5.5-ын кэш унших үнийг 50% бууруулжээ",
+ "summary_mn": "Anthropic Claude Sonnet 5.5 загварын prompt cache унших үнийг 1 сая токен тутамд $0.20-оос $0.10 болгон буурууллаа. Энэ нь суурь input үнийн 0.05x болж байгаа бөгөөд давтан өгөгдөл, заавар ашигладаг хиймэл оюуны agent системүүдийн зардлыг мэдэгдэхүйц хэмнэнэ.",
+ "body_mn": "Anthropic компани платформынхоо шинэчлэлтээр Claude Sonnet 5.5 загварын prompt cache унших (cache read) үнийг 50 хувиар бууруулж, нэг сая токен тутамд $0.10 болгосноо зарлалаа. Өмнө нь тус үнэ суурь input зардлын 0.1x буюу $0.20 байсан бол одоо 0.05x болж буурчээ. Харин кэш бичих (cache write) болон бусад үнэд ямар нэгэн өөрчлөлт ороогүй байна.\n\nКэш уншилт гэдэг нь системд өмнө нь хадгалсан prompt-ийн угтварыг (prefix) дахин ашиглахад төлдөг төлбөр бөгөөд нэг ижил заавар, файлуудыг тогтмол уншдаг AI agent-уудын хувьд токен урсгалын дийлэнх хэсгийг эзэлдэг. Одоогийн байдлаар Sonnet 5.5-ын 1 сая суурь input токен $2, гаралтын токен $10 байгаа бол 5 минутын кэш бичилт $2.50, нэг цагийн кэш бичилт $4 үнэтэй байна.\n\nСонирхолтой нь уг үнийн бууралт гарсны дараа Anthropic-ийн өөрийн албан ёсны Claude Code терминал хэрэгсэл хоёр өдрийн турш хэрэглэгчдэд хуучин үнээр зардлыг тооцож харуулж байжээ. Энэхүү дэлгэцийн тооцооллын зөрүүг тус хэрэгслийн 2.1.296 шинэчлэлтээр зассан бөгөөд Anthropic-ийн зүгээс бодит хэрэглээг шинэ тарифын дагуу нэхэмжилж байсныг тодруулсан байна.",
+ "published": "2026-10-11T18:13:50Z",
+ "added": "2026-10-11T18:33:30Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

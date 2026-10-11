@@ -1,0 +1,16 @@
+{
+ "id": "464c4dfcc3a62dfc",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.29.0",
+ "image": "https://opengraph.githubassets.com/cd1d015850afe96d1fc4fd2e8ca874d70cf6af7e8233bf1268d6c95bc1dc6272/openai/openai-python/releases/tag/v3.29.0",
+ "title": "openai-python v3.29.0",
+ "summary_en": "3.29.0 (2026-10-11) Features api: add billing_not_active session error code ( #4052 ) ( c88b320 ) api: add shida to named Live voices ( #4053 ) ( 7352cf5 ) api: add vault updates and metadata filters ( #4047 ) ( e72f493 ) api: align beta pagination limits and non-null parameters ( #4057 ) ( 800899e ) Chores api: clarify decision creation documentation ( #4054 ) ( 16d3d3b ) api: clarify Decisions question and answer descriptions ( #4051 ) ( 895d617 ) api: document 128-character safety identifiers ( #4050 ) ( 2c1ae52 ) api: document decision choice constraints ( #4055 ) ( b7a1990 ) api…",
+ "title_mn": "openai-python v3.29.0 хувилбар гарлаа",
+ "summary_mn": "OpenAI Python сангийн v3.29.0 хувилбарт billing_not_active алдааны код, Live voice-д 'shida' хоолой, болон Vault хайлтын шүүлтүүрүүд нэмэгдэв.",
+ "body_mn": "OpenAI-ийн албан ёсны Python хөгжүүлэгчийн сан болох openai-python-ийн v3.29.0 хувилбар шинээр гарлаа.\n\nШинэ хувилбарт сессийн алдааны ангилалд billing_not_active код шинээр нэмэгдсэн байна. Мөн Live аудио дуут функцэд \"shida\" нэртэй шинэ дуу хоолой орсон бол vault шинэчлэлт болон мета өгөгдлийн шүүлтүүрийн (metadata filters) дэмжлэг нэмэгджээ.\n\nТүүнчлэн бета хувилбарын pagination лимит, файлын сангийн (Files API) rate-limit баримтжуулалт болон Decisions холбогдолтой параметрүүдийн тодорхойлолтуудыг сайжруулсан байна.",
+ "published": "2026-10-11T17:38:54Z",
+ "added": "2026-10-11T18:33:30Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

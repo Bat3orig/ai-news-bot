@@ -1,0 +1,16 @@
+{
+ "id": "c24738b61b3e9974",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Moneycontrol.com",
+ "url": "https://www.moneycontrol.com/news/trends/elon-musk-suggests-uploading-credit-card-photos-to-grok-for-ai-powered-shopping-sparking-security-concerns-14049366.html",
+ "image": "",
+ "title": "Elon Musk suggests uploading credit card photos to Grok for AI-powered shopping, sparks security concerns",
+ "summary_en": "",
+ "title_mn": "Илон Маск Grok-оор худалдан авалт хийхийн тулд картны зургаа оруулахыг санал болгов",
+ "summary_mn": "Илон Маск Grok чатботоор онлайн худалдан авалт хийхдээ төлбөрийн картын зургийг оруулах санаа дэвшүүлсэн нь кибер аюулгүй байдлын асуудал дагуулав.",
+ "body_mn": "Илон Маск хэрэглэгчдийг Grok системээр дамжуулан худалдан авалт хийхдээ өөрсдийн төлбөрийн картны зургийг хиймэл оюунд оруулах боломжтой гэсэн санал гаргасан байна.\n\nЭнэхүү алхам нь кибер аюулгүй байдлын мэргэжилтнүүдийн дунд нууцлал болон санхүүгийн залилангийн эрсдэлийн талаар ихээхэн шүүмжлэл, болгоомжлолыг үүсгээд байна.",
+ "published": "2026-10-11T07:17:39Z",
+ "added": "2026-10-11T18:33:30Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

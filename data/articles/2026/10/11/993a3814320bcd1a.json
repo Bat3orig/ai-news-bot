@@ -1,0 +1,16 @@
+{
+ "id": "993a3814320bcd1a",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Pasquale Pillitteri",
+ "url": "https://pasqualepillitteri.it/en/news/22755/grok-bot-email-address-mail-grokbot",
+ "image": "https://pasqualepillitteri.it/uploads/img/news/grok-bot-indirizzo-email-mail-grokbot-cover.webp",
+ "title": "Grok Bot launches its own email address at mail.grokbot.com",
+ "summary_en": "Since October 9, 2026 Grok Bot can have its own inbox on mail.grokbot.com. How to claim it, what the Bot can do with it, sending limits and team rules.",
+ "title_mn": "Grok Bot агент mail.grokbot.com домэйнд зориулалтын имэйл хаягтай боллоо",
+ "summary_mn": "Grok Bot-д хэрэглэгчийн өмнөөс үйлчилгээнд бүртгүүлэх, цаг товлох боломжтой mail.grokbot.com домэйн бүхий бие даасан имэйл хаяг үүсгэх боломж нэмэгдлээ.",
+ "body_mn": "Grok Bot өөрийн гэсэн зориулалтын имэйл хайрцагтай болж, хэрэглэгчийн өмнөөс харилцаа холбоо тогтоох боломжтой боллоо. Хэрэглэгчид mail.grokbot.com домэйн дор өөрийн сонгосон нэр бүхий имэйл хаягийг ботоосоо шууд хүсэж, баталгаажуулснаар авч байна.\n\nЭнэхүү боломжийн гол зорилго нь туслах агент нь гуравдагч үйлчилгээнүүдэд бүртгүүлэх, уулзалт товлох болон бусад байгууллагуудтай бие даан харилцах үйл явцыг хөнгөвчлөх юм. Өмнө нь хувийн Gmail эсвэл Outlook дансыг заавал холбох шаардлагатай байсан бол одоо агент өөрийн гэсэн имэйлээр ажиллах боломжтой болжээ.\n\nНэр сонгохдоо 64 хүртэлх тэмдэгттэй байх, support, admin, security зэрэг тусгай үгсийг ашиглахгүй байх дүрэмтэй. Нэг дансанд зөвхөн нэг имэйл хаяг олгогдох бөгөөд нэгэнт сонгосон нэрийг устгах юм уу дахин өөр хүнд шилжүүлэх боломжгүйг баримтжуулжээ.",
+ "published": "2026-10-11T16:47:56Z",
+ "added": "2026-10-11T18:33:30Z",
+ "ai": "gemini:gemini-3.8-flash"
+}
