@@ -1,0 +1,16 @@
+{
+ "id": "f1f6907d0676545d",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "TestingCatalog AI News",
+ "url": "https://www.testingcatalog.com/anthropic-tests-claude-health-for-web-and-mysterious-iggy/",
+ "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/10/Screenshot-2026-10-09-at-16.58.07.png",
+ "title": "Anthropic tests Claude Health for web and mysterious \"iggy\"",
+ "summary_en": "Arborio and Iggy have appeared in Claude navigation with heart-in-hand and sun icons. Their purpose and public release remain unconfirmed.",
+ "title_mn": "Anthropic Claude интерфейст Arborio болон Iggy нэртэй шинэ боломжуудыг туршиж байна",
+ "summary_mn": "Anthropic компани Claude системд Arborio болон Iggy гэсэн дотоод кодын нэртэй шинэ хэсгүүдийг хөгжүүлж байна. Arborio нь эрүүл мэндийн өгөгдөлтэй холбоотой байж болох магадлалтай юм.",
+ "body_mn": "Anthropic компани Claude интерфейсийнхээ хүрээнд өмнө нь ашиглагдаж байгаагүй Arborio болон Iggy гэсэн дотоод кодын нэртэй хоёр шинэ хэсгийг хөгжүүлж эхэлжээ. Эдгээр нь одоогоор хэрэглэгчдэд шууд нээлттэй болоогүй бөгөөд функц болон гарах хугацаа нь тодорхойгүй хэвээр байна.\n\nArborio хэсэг нь зүрхний дүрс тэмдэгтэй байгаа нь эрүүл мэндийн дата шинжилгээ болон фитнесс мэдээлэлтэй холбоотой байж болзошгүйг харуулж байна. Хэрэв энэ нь хэрэгжвэл одоо гар утасны аппликейшнд ажиллаж буй эрүүл мэндийн хяналтыг вэб интерфэйс рүү өргөжүүлж магадгүй юм.\n\nХарин Iggy нь нарны дүрс тэмдэгтэй бөгөөд ямар зорилготой болох нь одоогоор тодорхойгүй байна. Зарим шинжээчдийн үзэж байгаагаар энэ нь хэрэглэгчийн даалгаврыг бие даан гүйцэтгэх агент систем байж болох талтай аж.",
+ "published": "2026-10-10T20:39:53Z",
+ "added": "2026-10-11T06:41:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

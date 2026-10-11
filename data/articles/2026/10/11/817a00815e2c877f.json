@@ -1,0 +1,16 @@
+{
+ "id": "817a00815e2c877f",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.3",
+ "image": "https://opengraph.githubassets.com/bae4b12fdf0f84374c764ffcfa61feb436bd539b80a085af15900e0acf1806a2/ollama/ollama/releases/tag/v0.40.3",
+ "title": "ollama v0.40.3",
+ "summary_en": "What's Changed ollama launch claude no longer shows a warning about Claude connectors by @hoyyeva in #18878 ollama launch codex no longer warns about service tiers by @hoyyeva in #18879 Paused background model upgrade for embedding and other request performance, by @jmorganca in #18908 Full Changelog : v0.40.2...v0.40.3",
+ "title_mn": "Ollama v0.40.3 хувилбар гарлаа",
+ "summary_mn": "Ollama хэрэгслийн шинэ v0.40.3 хувилбар худалдаалагдаж эхэлсэн бөгөөд энэ шинэчлэлтээр Claude болон Codex холболтын анхааруулга мессежүүдийг болиулжээ.",
+ "body_mn": "Ollama төсөл өөрийн шинэ v0.40.3 хувилбараа албан ёсны болголоо. Энэхүү шинэчлэлтээр хөгжүүлэгчдийн ашиглалтад зориулсан зарим мэдэгдэл болон сануулгуудыг цэгцэлсэн байна.\n\nТухайлбал, ollama launch claude болон ollama launch codex команд тоглуулах үед гарч байсан анхааруулгыг болиулжээ. Энэ нь хэрэглэгчдэд илүү хялбар туршлагыг бий болгох зорилготой юм.\n\nҮүнээс гадна суулгагдсан загваруудын хүсэлтийн гүйцэтгэлийг сайжруулах зорилгоор арын процессийн шинэчлэлтүүдийг түр зогсоогоод байна. Хөгжүүлэгчид GitHub repository дээрээс бүрэн өөрчлөлтийн жагсаалтыг үзэх боломжтой.",
+ "published": "2026-10-11T06:40:39Z",
+ "added": "2026-10-11T06:41:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
