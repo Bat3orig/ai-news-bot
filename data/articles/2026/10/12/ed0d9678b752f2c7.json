@@ -1,0 +1,16 @@
+{
+ "id": "ed0d9678b752f2c7",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "ForkLog",
+ "url": "https://forklog.com/en/microsoft-unveils-ai-model-based-on-qwen/",
+ "image": "https://forklog.com/en/wp-content/uploads/2025/08/uskoryayushhei-sya-fragmentatsii-mirovogo-interneta.webp",
+ "title": "Microsoft Unveils AI Model Based on Qwen",
+ "summary_en": "Microsoft has launched Microsoft-Decision-1, a model for routing, classification, prioritization, data verification, and workflow management. It is based on",
+ "title_mn": "Microsoft Alibaba-гийн Qwen загвар дээр суурилсан шийдвэр гаргах AI загвар танилцууллаа",
+ "summary_mn": "Microsoft компани Alibaba-гийн open-source Qwen3.5-9B загвар дээр суурилсан Microsoft-Decision-1 шинэ AI загвараа танилцууллаа. Энэхүү загвар нь чиглүүлэлт, ангилал болон ажлын урсгалыг удирдах зориулалттай.",
+ "body_mn": "Microsoft компани дата баталгаажуулалт, чиглүүлэлт, ангилал болон ажлын урсгалыг удирдахад зориулагдсан Microsoft-Decision-1 нэртэй шинэ AI загвараа гаргалаа. Уг загвар нь Alibaba-гийн open-source Qwen3.5-9B загвар дээр суурилсан байна.\n\nЕрдийн LLM загваруудаас ялгаатай нь энэхүү шийдвэр гаргах загвар нь шууд арга хэмжээ авах боломжийг олгох бүтцийн хариуг өгдөг. Нейрон сүлжээ нь тийм/үгүй хариулт, олон сонголттой тест, үнэлгээг дэмждэг ба хөгжүүлэгчид хурдан үнэлгээ хийх зорилгоор Qwen загварыг дахин сургажээ.\n\nMicrosoft-ийн мэдээлснээр шинэ загвар нь benchmark тестүүдэд өндөр нарийвчлал үзүүлж, хамгийн хурдан ажиллагаатай байж чаджээ. Тус компани энэ шийдлийг Xbox судалгааны хэсэг болон Copilot багтаа ашиглаж эхэлсэн бөгөөд саяхан танилцуулсан Copilot-ийн шинэ боломжуудтай нэгтгэх юм.\n\nХөгжүүлэгчид болон байгууллагуудад зориулсан уг загварын ашиглалтын өртөг нь сая оролтын токен тутамд 0.042 ам.доллар бөгөөд гаралтын токенууд үнэ төлбөргүй байхаар тооцогджээ.",
+ "published": "2026-10-11T11:25:06Z",
+ "added": "2026-10-12T01:57:27Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "945da8c818b8d09c",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "BigGo Finance",
+ "url": "https://finance.biggo.com/news/63c4db1a-3838-48ae-9493-bb7ef9aafe6a",
+ "image": "",
+ "title": "Moonshot AI Seeks to Settle Shareholder Arbitration Ahead of IPO; Accused of Misrepresentation, Faces Claim for 10.5% Original Stake",
+ "summary_en": "",
+ "title_mn": "Moonshot AI хөрөнгө оруулагчдын маргааныг IPO хийхээс өмнө шийдвэрлэхээр зорьж байна",
+ "summary_mn": "Moonshot AI компани хувьцаа гаргахаар төлөвлөж байгаа бөгөөд өмнөх компанитай холбоотой арбитражийн маргааныг шийдвэрлэхээр ажиллаж байна.",
+ "body_mn": "Kimi чатботыг бүтээгч Moonshot AI компани хөрөнгө оруулагчидтай үүссэн эрх зүйн маргааныг шийдвэрлэх арга замыг хайж байна. Энэхүү маргаан нь үүсгэн байгуулагчийн өмнөх startup компани болох Recurrent.ai-тай холбоотой юм.\n\nХөрөнгө оруулагчид шаардлагатай зөвшөөрөлгүйгээр Moonshot компани байгуулагдсан хэмээн үзэж нөхөн төлбөр шаардаж байгаа аж. Тус компани нь хөрөнгийн зах зээлд хувьцаагаа гаргахаар бэлтгэж буй энэ үед дээрх хууль эрх зүйн асуудлуудыг цэгцлэх шаардлагатай тулгарчээ.",
+ "published": "2026-10-12T00:35:00Z",
+ "added": "2026-10-12T01:57:27Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

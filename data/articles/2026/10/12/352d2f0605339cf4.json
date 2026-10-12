@@ -1,0 +1,16 @@
+{
+ "id": "352d2f0605339cf4",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Startup Fortune",
+ "url": "https://startupfortune.com/moonshot-ai-executives-seek-to-settle-investor-dispute-before-hong-kong-ipo/",
+ "image": "https://startupfortune.com/wp-content/uploads/2026/10/moonshot-ai-yang-zhilin-gsr-ventures.jpg",
+ "title": "Moonshot AI executives seek to settle investor dispute before Hong Kong IPO",
+ "summary_en": "Reuters reports Moonshot AI executives Yang Zhilin and Zhang Yutao are in settlement talks over a $700M+ investor dispute ahead of its Hong Kong IPO.",
+ "title_mn": "Moonshot AI компани Хонконгийн IPO хийхээс өмнө хөрөнгө оруулагчдын маргааныг цэгцлэхээр ярилцаж байна",
+ "summary_mn": "Moonshot AI-ийн удирдлагууд хөрөнгө оруулагчдын нэхэмжлэлийг шийдвэрлэхээр яриа хэлэлцээ хийж байна. Энэхүү маргаан нь өмнөх Recurrent.ai компанитай холбоотой юм.",
+ "body_mn": "Kimi чатботыг хөгжүүлэгч Moonshot AI компанийн дээд удирдлагууд Хонг Конгод IPO хийхээр төлөвлөж буй энэ үедээ хувьцаа эзэмшигчдийн нэхэмжлэлийг барагдуулах яриа хэлэлцээг эхлүүлжээ. Уг маргаан нь үүсгэн байгуулагчдын өмнөх Recurrent.ai стартаптай холбоотой байна.\n\nRecurrent.ai-ийн хөрөнгө оруулагчид Moonshot компани үүсгэн байгуулагдах үед шаардлагатай конкурсын бус болон бусад гэрээний зөвшөөрлийг аваагүй хэмээн буруутгаж байна. Өмнө нь талуудын дунд үүссэн санал зөрөлдөөн арбитражийн шүүхэд хүрсэн бөгөөд одоо санхүүгийн томоохон нэхэмжлэл яригдаж байгаа аж.\n\nMoonshot AI нь зах зээлд өөрийн байр сууриа бэхжүүлж, Кimi K3 загвараараа томоохон өрсөлдөөнийг бий болгоод байгаа хэдий ч энэхүү засаглалын болон эрх зүйн маргаан нь хөрөнгө оруулагчдын анхаарлыг татаж буй гол асуудлын нэг болжээ.",
+ "published": "2026-10-12T01:29:53Z",
+ "added": "2026-10-12T01:57:27Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

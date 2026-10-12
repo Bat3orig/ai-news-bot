@@ -1,0 +1,16 @@
+{
+ "id": "9e969c6abb36b7ad",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "https://tech-insider.org/",
+ "url": "https://tech-insider.org/codex-cli-0-162-vs-claude-code-2-1-296-2026/",
+ "image": "",
+ "title": "Codex CLI 0.162 vs Claude Code 2.1.296 [2026]",
+ "summary_en": "",
+ "title_mn": "Codex CLI 0.162 болон Claude Code 2.1.296 хувилбаруудын харьцуулалт",
+ "summary_mn": "Хөгжүүлэгчдэд зориулсан хиймэл оюун ухааны CLI хэрэгслүү болох Codex CLI болон Claude Code шинэ хувилбаруудынхаа онцлогоор хоорондоо өрсөлдөж байна.",
+ "body_mn": "Програм хангамжийн хөгжүүлэлтэд зориулагдсан хиймэл оюун ухааны туслах хэрэгслүүдийн шинэ хувилбарууд гарчээ. Codex CLI болон Claude Code хэрэгслүүдийн шинэчлэлтүүд нь хөгжүүлэгчдийн бүтээмжийг нэмэгдүүлэхэд чиглэж байна.",
+ "published": "2026-10-11T22:42:59Z",
+ "added": "2026-10-12T01:57:27Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
