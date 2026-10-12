@@ -1,0 +1,16 @@
+{
+ "id": "8aec0ab6511866f2",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "富途牛牛",
+ "url": "https://news.futunn.com/en/post/1000868485/the-foundational-architecture-of-microsoft-s-new-models-is-alibaba",
+ "image": "",
+ "title": "The foundational architecture of Microsoft's new models is Alibaba's Qwen, with over 60% of decision-making models developed based on Qwen.",
+ "summary_en": "",
+ "title_mn": "Microsoft-ын шинэ шийдвэр гаргах загваруудын суурь архитектур нь Alibaba-гийн Qwen юм",
+ "summary_mn": "Microsoft компанийн шинээр гаргасан шийдвэр гаргах загваруудын 60 гаруй хувь нь Alibaba-гийн Qwen загвар дээр суурилан хөгжигджээ.",
+ "body_mn": "Технологийн салбарт томоохон хамтын ажиллагаа болон загварын хуваалт үргэлжилсээр байна. Шинэ мэдээллээр Microsoft компанийн шинээр бүтээсэн шийдвэр гаргах загваруудын суурь архитектур нь Alibaba компанийн боловсруулсан Qwen загвар болох нь тогтоогджээ.\n\nМэдээлэлд дурдсанаар Microsoft-ын шийдвэр гаргах загваруудын 60 гаруй хувь нь шууд Qwen загварт үндэслэж бүтээгдсэн байна. Энэ нь нээлттэй эх сурвалжтай AI загварууд дэлхийн томоохон технологийн аварга компаниудын бүтээгдэхүүнд ямар чухал суурь болж байгааг харуулж буй хэрэг юм.\n\nЭнэхүү хандлага нь хөгжүүлэгчид болон хиймэл оюун ухаан судлаачдын дунд нээлттэй эх сурвалжтай Qwen загварын нэр хүнд, чадавхыг улам бүр бататгаж байна.",
+ "published": "2026-10-12T07:29:03Z",
+ "added": "2026-10-12T08:37:21Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
