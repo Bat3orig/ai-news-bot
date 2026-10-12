@@ -1,0 +1,16 @@
+{
+ "id": "2267f8aad8ba3ace",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "BigGo Finance",
+ "url": "https://finance.biggo.com/news/bd69f264b46e27d8",
+ "image": "https://img.biggo.com/NM1EKRpZXI4G1DUjsCFGytxPUFUaiZX7mms_8PKsLNQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2JkNjlmMjY0YjQ2ZTI3ZDhfMTc5MTc5NDgzMV9jb3Zlci5qcGc.jpg",
+ "title": "Anthropic's Gabe Cemaj: The Agent Harness You Build Today Will Thin Out as Claude Gets Smarter",
+ "summary_en": "Anthropic is betting that the future of AI agents isn't about building more complex harnesses, but about removing them entirely. In a technical…",
+ "title_mn": "Anthropic: Claude ухаалаг болох тусам хөгжүүлэгчдийн тавих хязгаарлалт багасна",
+ "summary_mn": "Anthropic компанийн төлөөлөгч Габе Семай Claude Managed Agents платформын талаар ярихдаа, хиймэл оюун ухаан хөгжихийн хэрээр хөгжүүлэгчдийн тавих удирдлагын хязгаарлалт багасах болно гэжээ.",
+ "body_mn": "AI Engineer подкастад оролцсон Anthropic компанийн ажилтан Габе Семай Claude Managed Agents платформ болон агентуудын ирээдүйн чиг хандлагын талаар ярьжээ. Түүний хэлснээр хүмүүс хиймэл оюун ухааны үйл ажиллагааг хэт их хязгаарлахыг оролддог боловч Claude илүү ухаалаг болох тусам тэдгээр хамгаалалтын хязгаарлалтыг багасгаж байна.\n\nЭнэхүү платформ нь хөгжүүлэгчдэд API болон SDK ашиглан өөрсдийн системээ бүтээх боломжийг олгодог бөгөөд сесс болон санах ойн сангууд дээр суурилдаг байна. Хөгжүүлэгчид үүнийг ашиглан олон агентын хамтын ажиллагааг удирдах боломжтой аж.\n\nМөн уг платформын тусламжтайгаар нэг удаагийн агентын сессийг хуваарьт болон давтагдах ажлуудад ашиглахаар тохируулах боломжтойг үзүүлжээ. Anthropic компани хөгжүүлэгчдэд доод түвшний үндсэн боломжуудыг өгч, агентуудыг өөрсдөө бие даан ажиллах боломжоор хангахад анхаарч байна.",
+ "published": "2026-10-12T08:09:00Z",
+ "added": "2026-10-12T18:25:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

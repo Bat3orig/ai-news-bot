@@ -1,0 +1,16 @@
+{
+ "id": "abe33871652a3790",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.1.3",
+ "image": "https://opengraph.githubassets.com/8bd2b990a22f0250b2e62e34187a8611f8ae680dab909ec81c7795c95120adc4/nestjs/nest/releases/tag/v12.1.3",
+ "title": "nest v12.1.3",
+ "summary_en": "v12.1.3 (2026-10-12) Bug fixes core , microservices #18111 fix(core,microservices): flush buffered logs when initialization fails ( @thekhegay ) #17993 fix(core,microservices): run transient global enhancers on controllers ( @johnnyhuirilef ) platform-express #18110 fix(express): guard async request hook completion ( @GiHoon1123 ) #17973 fix(express): destroy the StreamableFile source on client disconnect ( @maxymlyskov ) #17942 fix(express): run wildcard middleware on the bare global prefix path ( @Chaoqi31 ) core #18104 fix(core): fail at startup for request-scoped class global enhancers (…",
+ "title_mn": "NestJS v12.1.3 шинэчлэлт гарлаа",
+ "summary_mn": "NestJS фреймворкийн v12.1.3 хувилбар гарч, core болон microservices хэсгийн олон алдааг засжээ.",
+ "body_mn": "NestJS баг v12.1.3 хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэчлэлтээр үндсэн цөм болон микросервисийн модулиудад олон чухал алдаа засаж, тогтвортой байдлыг сайжруулсан байна.\n\nТухайлбал, express платформын хүсэлтийн холбоосуудтай холбоотой алдаанууд, StreamableFile эх сурвалжийг цэвэрлэх болон SSE (Server-Sent Events) урсгалын амьдралын циклийн менежментийг сайжруулжээ. Мөн глобал enhancer болон микросервисийн холболтын алдаанууд дээр засварууд хийгдсэн байна.\n\nХөгжүүлэгчид dependencies файлаа шинэчилж, уг хувилбар руу шилжсэнээр эдгээр алдаануудаас сэргийлэх боломжтой.",
+ "published": "2026-10-12T11:29:08Z",
+ "added": "2026-10-12T18:25:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

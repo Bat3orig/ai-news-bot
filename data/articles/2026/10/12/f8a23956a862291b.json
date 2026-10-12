@@ -1,0 +1,16 @@
+{
+ "id": "f8a23956a862291b",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/hcltech-forms-anthropic-business-unit-under-global-premier-partnership/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/10/hcltech-forms-anthropic-business-unit-under-global-premier-partnership.jpg",
+ "title": "HCLTech Forms Anthropic Business Unit Under Global Premier Partnership",
+ "summary_en": "HCLTech on October 12, 2026 announced a Global Premier Partnership with Anthropic, under which it will establish a dedicated Anthropic Business Unit and Center of Excellence and embed Claude and Claude Code into select H...",
+ "title_mn": "HCLTech болон Anthropic компаниуд стратегийн түншлэл зарлав",
+ "summary_mn": "HCLTech компани Anthropic-тай Global Premier Partnership байгуулж, тусгай бизнесийн нэгж байгуулахаа зарлалаа. Энэ хүрээнд Claude болон Claude Code хэрэгслүүдийг байгууллагын түвшний бүтээгдэхүүнүүдэд нэгтгэх юм.",
+ "body_mn": "HCLTech болон Anthropic компаниуд дэлхийн хэмжээний түншлэл байгуулснаа зарлаж, Claude болон Claude Code-ийг өөрсдийн Enterprise бүтээгдэхүүнүүдэд нэгтгэхээр болжээ. Түншлэлийн хүрээнд HCLTech нь тусгай Anthropic бизнесийн нэгж болон Center of Excellence байгуулж ажиллана.\n\nЭнэхүү хамтын ажиллагаа нь байгууллагуудад Agentic AI технологиудыг аюулгүй, кибер аюулгүй байдлын өндөр түвшинд нэвтрүүлэхэд чиглэж байна. HCLSoftware нь Anthropic-ийн ISV түнш болж, Claude загваруудыг HCL BigFix болон HCL AppScan зэрэг бүтээгдэхүүнүүддээ ашиглах ажээ.\n\nMөн HCLTech өөрийн AI Force платформондоо Claude болон Claude Code хэрэгслүүдийг нэгтгэснээр програм хангамж хөгжүүлэлт, IT үйл ажиллагааг автоматжуулах боломжтой болж байна. Энэ нь байгууллагуудад хиймэл оюун ухааныг найдвартай ашиглахад чухал алхам болж байна.",
+ "published": "2026-10-12T11:47:07Z",
+ "added": "2026-10-12T18:25:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

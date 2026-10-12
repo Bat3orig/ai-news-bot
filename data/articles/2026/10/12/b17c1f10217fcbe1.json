@@ -1,0 +1,16 @@
+{
+ "id": "b17c1f10217fcbe1",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Moneycontrol.com",
+ "url": "https://www.moneycontrol.com/news/business/companies/hcltech-partners-with-anthropic-to-expand-enterprise-use-of-agentic-ai-14050250.html",
+ "image": "https://images.moneycontrol.com/static-mcnews/2021/11/HCL-Tech.jpg",
+ "title": "HCLTech partners with Anthropic to expand enterprise use of Agentic AI",
+ "summary_en": "HCLTech’s services teams will develop industry-specific solutions powered by Claude, Cowork and Claude Code",
+ "title_mn": "HCLTech Anthropic-той хамтран Claude төвтэй хиймэл оюуны нэгж байгуулна",
+ "summary_mn": "HCLTech Anthropic-той Global Premier Partnership гэрээ байгуулж, тусгай бизнес нэгж болон шилдэг туршлагын төв (CoE) байгуулан, байгууллагуудад Claude болон Claude Code-ийг нэвтрүүлэхээр боллоо.",
+ "body_mn": "Дэлхийн технологийн үйлчилгээ үзүүлэгч HCLTech компани Anthropic-той Global Premier Partnership түвшний түншлэл зарлалаа. Энэхүү түншлэлийн хүрээнд Agentic AI шийдлүүдийг байгууллагын түвшинд найдвартай, аюулгүй нэвтрүүлэх тусгай Anthropic Business Unit болон Centre of Excellence (CoE) байгуулахаар болсон байна.\n\nHCLTech-ийн багууд Claude, Cowork болон хөгжүүлэгчдийн кодчиллын агент Claude Code-ийг өөрсдийн үйлчилгээ болон програм хангамжуудад интеграцчилна. Тухайлбал, HCLSoftware салбар нь кибер аюулгүй байдлын BigFix болон AppScan бүтээгдэхүүнүүддээ Claude-ийн боломжуудыг суулгахаар ажиллаж байна.\n\nМөн HCLTech өөрийн хиймэл оюуны программ хангамжийн инженерчлэлийн платформ болох AIForce-д Claude болон Claude Code-ийг нэгтгэн, автомат код засварлах, IT дэмжлэг үзүүлэх ажлын урсгалуудыг бий болгох юм.",
+ "published": "2026-10-12T11:23:16Z",
+ "added": "2026-10-12T18:25:49Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

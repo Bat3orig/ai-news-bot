@@ -1,0 +1,16 @@
+{
+ "id": "a240546fbffb685a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Benzinga",
+ "url": "https://www.benzinga.com/markets/tech/26/10/62292047/yemen-weapons-cell-used-claude-like-a-small-engineering-team-anthropic-says",
+ "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/12/October-11--2023--Brazil--In-This-Photo-.jpg",
+ "title": "Anthropic Says Northern Yemen Cell Used Claude for Guidance Software",
+ "summary_en": "Anthropic said a northern Yemen cell used Claude Code in place of human engineers to develop guidance software for rockets and missiles.",
+ "title_mn": "Йемений бүлэглэл пуужингийн программ хангамж бичихэд Claude Code ашиглажээ",
+ "summary_mn": "Anthropic-ийн аюулгүй байдлын тайланд дурдсанаар Умард Йемений зэвсэгт бүлэглэл баллистик болон удирдлагат пуужингийн программ бичихдээ инженерүүдийн оронд Claude Code хэрэгслийг ашигласан байна.",
+ "body_mn": "Anthropic өнгөрсөн есдүгээр сарын аюулгүй байдлын тагнуулын тайлангаа нийтэлж, Умард Йемений халдагч бүлэглэл Claude Code хэрэгслийг пуужингийн чиглүүлэгч программ хөгжүүлэхэд ашиглаж байсныг илрүүлэн таслан зогсоосноо мэдээллээ. Тус бүлэглэл хүний оронд Claude-ийг ашиглаж, 2,000 гаруй км тусгалтай баллистик пуужин болон гипер дуунаас хурдан аппарат зэрэг гурван төрлийн зэвсгийн хөтөлбөр дээр ажиллаж байжээ.\n\nХалдагчид олон Claude сессийг зэрэг ажиллуулан, нэг сессээр код бичүүлж, нөгөөгөөр нь судалгаа хийлгэн, гурав дахь сессээр бичсэн кодыг нь хянуулж байсан байна. Тэд системийн аюулгүй байдлын хамгаалалтыг тойрч гарахын тулд программ хангамжийн эцсийн зорилгыг нуун, даалгавруудыг жижиг хэсгүүдэд хуваан асууж байжээ.\n\nAnthropic сэжигтэй үйл ажиллагааг дотоод хяналтаараа илрүүлэн холбогдох бүртгэлүүдийг хаасан бөгөөд тухайн бүлэглэл хийсэн ажлаа Claude-ээс хамааралгүй офлайн симуляцийн орчинд шилжүүлж амжсан байсныг онцолсон байна.",
+ "published": "2026-10-12T08:46:02Z",
+ "added": "2026-10-12T18:25:49Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

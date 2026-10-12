@@ -1,0 +1,16 @@
+{
+ "id": "00ed8b72310c6045",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Machine Maker",
+ "url": "https://themachinemaker.com/news/hexaware-joins-anthropics-claude-partner-network-as-preferred-partner/",
+ "image": "https://themachinemaker.com/wp-content/uploads/2026/10/HEXAWARE-.jpg",
+ "title": "Hexaware Joins Anthropic’s Claude Partner Network as Preferred Partner",
+ "summary_en": "Hexaware Technologies (NSE: HEXT) has entered into a multi-year partnership with Anthropic, becoming a Preferred Partner in the Claude Partner Network. The partnership will combine Anthropic’s Claude AI models with Hexaware’s platforms to deliver AI-based services for enterprise customers. The agreement places Claude at the centre of two Hexaware platforms: Zerovity, the company’s AI-native engineering Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
+ "title_mn": "Hexaware болон Anthropic байгууллагын түвшний AI агент хөгжүүлэлтэд хамтарна",
+ "summary_mn": "Hexaware компани Anthropic-ийн Claude Partner Network сүлжээнд Preferred Partner статустай нэгдлээ. Тэд өөрсдийн платформдоо Claude загваруудыг нэгтгэн, байгууллагын автоматжуулалтыг хурдасгахаар төлөвлөж байна.",
+ "body_mn": "Мэдээллийн технологийн үйлчилгээ үзүүлэгч Hexaware Technologies компани хиймэл оюуны Anthropic лабораторитой олон жилийн түншлэлийн гэрээ байгуулж, Claude Partner Network хөтөлбөрийн Preferred Partner боллоо. Энэхүү хамтын ажиллагааны хүрээнд Claude загваруудыг Hexaware-ийн платформ болон үйлчилгээнүүдтэй хослуулан enterprise хэрэглэгчдэд хүргэх юм.\n\nХамтын ажиллагааны гол цөм нь Hexaware-ийн AI-native инженерчлэлийн Zerovity платформ болон 600 гаруй бэлэн агентууд бүхий AgentVerse систем юм. Тус компани нь Claude-ийн гэрчилгээтэй 1,100 гаруй мэргэжилтэнтэй бөгөөд программ хангамжийн дэд бүтэц, техникийн өр (technical debt) арилгах, код шалгах, аюулгүй байдлын цоорхой нөхөх зэрэг чиглэлд AI агентуудыг ашиглахаар бэлтгэж байна.\n\nХөгжүүлэгчид болон байгууллагуудын хувьд одоогийн ашиглаж буй хэрэгслүүдээ шууд Zerovity системтэй холбож, токен оновчлол бүхий программ хангамжийн автоматжуулалтыг бодит үйлдвэрлэлийн орчинд нэвтрүүлэх боломж бүрдэж байна.",
+ "published": "2026-10-12T08:39:23Z",
+ "added": "2026-10-12T18:25:49Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

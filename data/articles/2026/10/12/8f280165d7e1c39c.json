@@ -1,0 +1,16 @@
+{
+ "id": "8f280165d7e1c39c",
+ "subtopic": "anthropic",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+ "image": "https://image.cnbcfm.com/api/v1/image/108363256-1789499134411-gettyimages-2294938529-2026_sep_14_dreamforce_1602.jpeg?v=1789499168&w=1920&h=1080",
+ "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+ "summary_en": "Article URL: https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html Comments URL: https://news.ycombinator.com/item?id=50051583 Points: 231 # Comments: 198",
+ "title_mn": "Судалгааны компани Anthropic-ийн IPO-г шүүмжилж, хөрөнгө оруулагчдад анхаарууллаа",
+ "summary_mn": "Anthropic компани өндөр үнэлгээтэйгээр хувьцаа гаргахаар зэхэж байгаа хэдий ч Нью-Конструктс судалгааны компани үүнийг хэт хөөрөгдсөн үнэлгээ хэмээн шүүмжиллээ.",
+ "body_mn": "Anthropic компани Nasdaq бирж дээр их хэмжээний үнэлгээтэйгээр IPO хийхээр бэлтгэж буй энэ үед Нью-Конструктс судалгааны компани үүнийг хөрөнгө оруулагчдыг төөрөгдүүлсэн хэрэг хэмээн мэдэгджээ. Тус компани Anthropic-ийн үнэлгээг зах зээлийн хүлээлтээс хамаагүй доогуур буюу 150 тэрбум ам доллараар үнэлсэн байна.\n\nТайланд дурдсанаар Anthropic компани өнгөрсөн онд өндөр орлого олсон ч их хэмжээний алдагдал хүлээсэн бөгөөд нээлттэй эх сурвалжтай загварууд хүчээ авч буй өнөө үед ашигтай ажиллахад хүндрэлтэй байх болно гэжээ.\n\nМөн уг IPO нь олон нийтийн хөрөнгө оруулагчдад ашиг авчрахын оронд Wall Street-ийн хөрөнгө оруулагчдад л дэмжлэг үзүүлэх зорилготой гэж үзэж байгаагаа илэрхийлжээ. Anthropic компани энэ талаар ямар нэгэн тайлбар өгөөгүй байна.",
+ "published": "2026-10-12T05:03:47Z",
+ "added": "2026-10-12T18:25:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
