@@ -1,0 +1,16 @@
+{
+ "id": "623c24d9a2f12166",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "fox10tv.com",
+ "url": "https://www.fox10tv.com/video/2026/10/13/apple-readies-homeview-hub-anthropic-tightens-claude-rules/",
+ "image": "https://gray-wala-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F10-13-2026%2Ft_467f2693399849b1a94301047e22c0ce_name_file_1280x720_2000_v3_1_.jpg?auth=2f39423a58008d4b3d836674321583b4444a53e9bf24d5dd74d4ebe1e95cea20&width=1200&height=600&smart=true",
+ "title": "Apple readies HomeView hub as Anthropic tightens Claude rules",
+ "summary_en": "",
+ "title_mn": "Apple HomeView төвийг бэлтгэж байх үед Anthropic Claude-ийн дүрмийг чангаслаа",
+ "summary_mn": "fox10tv.com-ийн толилуулгад Apple HomeView төвийг бэлтгэж байгаа ба Anthropic Claude-ийн дүрмийг хатуужуулсан гэж мэдээлсэн. Дэлгэрэнгүй агуулга байхгүй.",
+ "body_mn": "fox10tv.com нь Apple-ийн HomeView нэртэй hub бэлтгэж байгаа тухай мэдээ, мөн Anthropic Claude-ийн дүрмийг чангатгасан тухай гарчгийг нэгтгэн нийтэлжээ. Эх текст нь зөвхөн гарчиг байгаа тул дэлгэрэнгүй нөхцөлийг тодорхойлох боломжгүй.\n\nAnthropic-ийн дүрмийн өөрчлөлт нь Claude-ийг ашиглах хөгжүүлэгчдэд өөрийн программын хэрэглээний бодлогыг шалгах шаардлагатайг сануулж байна. Дэлгэрэнгүй баримт бичгийг Anthropic-ийн албан ёсны мэдэгдлээс шалгах нь зүйтэй.",
+ "published": "2026-10-13T03:41:00Z",
+ "added": "2026-10-13T15:11:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}

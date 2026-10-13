@@ -1,0 +1,16 @@
+{
+ "id": "ede0838fd43ed96f",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1",
+ "image": "https://opengraph.githubassets.com/d2fa50612097e1f564ad428927f1bf82ec630b017c75e0b403af1c9cb4b681a3/ollama/ollama/releases/tag/v0.40.4-rc1",
+ "title": "ollama v0.40.4",
+ "summary_en": "What's Changed llama: update llama.cpp to b11521 for decision models and EmbeddingGemma 2 by @jmorganca in #18917 server: reuse verified manifests and loaded models in inference routes by @dhiltgen in #18947 mlx: compact restored recurrent state after speculative rollback by @dhiltgen in #18955 launch: include installed models in Codex /model picker by @ParthSareen in #18887 MLX, MLX-C: version bump by @dhiltgen in #18956 Full Changelog : v0.40.3...v0.40.4-rc1",
+ "title_mn": "Ollama v0.40.4 хувилбар гарлаа",
+ "summary_mn": "Ollama v0.40.4 хувилбар гарсан бөгөөд llama.cpp-ийг шинэчилж, серверийн болон MLX-ийн засвар хийгдсэн. Codex /model сонгогч нь суулгасан загваруудыг харуулдаг болсон.",
+ "body_mn": "Ollama нь орон нутагт LLM загвар ажиллуулах хэрэгсэл бөгөөд v0.40.4 хувилбар гарсан. Шинэчлэлийн тэмдэглэлд llama.cpp-ийг b11521 хувилбар руу шинэчилж, decision загварууд болон EmbeddingGemma 2-г дэмжихээр болгосон гэж дурджээ.\n\nСерверийн талд баталгаажсан манифест болон ачаалагдсан загваруудыг inference замд дахин ашиглах өөрчлөлт орсон. MLX талд speculative rollback-ийн дараа recurrent state-ийг шахах засвар хийгдэж, MLX болон MLX-C-ийн хувилбар шинэчлэгдсэн байна. Мөн launch командад суулгасан загваруудыг Codex /model сонгогчид харуулдаг болжээ.\n\nХөгжүүлэгчдэд энэ хувилбар нь орон нутгийн загварын гүйцэтгэл болон серверийн тогтвортой байдалд анхаарах хэрэгтэй шинэчлэл юм. Суулгахаасаа өмнө changelog-ийг уншихыг зөвлөж байна.",
+ "published": "2026-10-13T05:26:17Z",
+ "added": "2026-10-13T15:11:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}

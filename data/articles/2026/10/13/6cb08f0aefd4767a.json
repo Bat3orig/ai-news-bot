@@ -1,0 +1,16 @@
+{
+ "id": "6cb08f0aefd4767a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "BigGo Finance",
+ "url": "https://finance.biggo.com/news/5303a04f-8923-483e-a508-04cfa3f399d9",
+ "image": "https://img.biggo.com/lT2EGQ0W_i7quFhiGXeH864o1nF1Vte1efRWFmdtVRM/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzUzMDNhMDRmLTg5MjMtNDgzZS1hNTA4LTA0Y2ZhM2YzOTlkOV8xNzkxODcxMzE2X2RlZmF1bHQuanBn.jpg",
+ "title": "LG CNS Secures Anthropic's Top-Tier Partner Status—One of Fewer Than 50 Worldwide",
+ "summary_en": "LG CNS has become the first South Korean company to attain Preferred status in Anthropic's Claude Partner Network. Fewer than 50 of the roughly 40,000…",
+ "title_mn": "LG CNS Anthropic-ийн Preferred түвшний түнш болжээ",
+ "summary_mn": "LG CNS нь Солонгосын компаниудаас анх удаа Anthropic-ийн Claude Partner Network-ийн Preferred түвшинд хүрчээ. Компани Claude Code ашиглан 20 жил настай системийг бүрэн шинэчилсэн.",
+ "body_mn": "LG CNS нь Anthropic-ийн дэлхийн хэмжээний 40 мянга орчим түншийн дотроос 50-аас цөөн компанид олгодог Preferred статусыг авсан анхны Солонгосын компани боллоо. Статус нь Claude-ийн нэвтрүүлэлт, хэрэгжүүлэлтийн чадварыг албан ёсоор баталсан хэрэг юм. Түвшний систем таван шатаас бүрдэх бөгөөд Preferred-д хүрэхийн тулд 100 Claude-ийн гэрчилгэт мэргэжилтэн, 15 үйлдвэрлэлийн хэрэглээ, гурван нийтийн кейс судалгаа шаардлагатай.\n\nLG CNS-д ойролцоогоор 140 Claude-ийн гэрчилгэтэй мэргэжилтэн, 20 орчим хэрэгжүүлэлтийн тохиолдол байдаг. Компани барилгын салбарын харилцагчийн 20 жил настай төслийн удирдлагын системийг Claude Code ашиглан бүрэн дахин бичсэн. Долоон сар орчим үргэлжилсэн төслөөр 2913 API-гийн 2888-ийг шинэ систем рүү хөрвүүлж, 99.1 хувийн хөрвүүлэлтийн түвшинд хүрсэн. Мөн 1340 дэлгэцийг React дээр суурилсан архитектурт шилжүүлжээ.\n\nAnthropic энэ кейсийг өөрийн вэбсайтдаа нийтэлж, зардал уламжлалт аргаас ойролцоогоор 50 хувиар бага гарсан гэж мэдэгдсэн. LG CNS нь Claude Code-ийг 200 орчим инженертэй Build Center-дээ стандарт хөгжүүлэлтийн арга болгон ашигладаг. Хөгжүүлэгчдэд энэ нь томоохон систем шинэчлэхэд AI кодчлох хэрэгслийн практик хэрэглээг харуулсан жишээ юм.",
+ "published": "2026-10-13T05:55:00Z",
+ "added": "2026-10-13T15:11:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}

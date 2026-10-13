@@ -1,0 +1,16 @@
+{
+ "id": "bd7d2e2c75a1f240",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "trendingtopics.eu",
+ "url": "https://www.trendingtopics.eu/muse-wonder-claude-fable-cheaper/",
+ "image": "https://www.trendingtopics.eu/wp-content/uploads/2026/10/alexandr-wang-meta-muse-scaled-social.jpg",
+ "title": "Meta’s Muse Wonder Matches Claude Fable for Less",
+ "summary_en": "Artificial Analysis tests Meta’s Muse Wonder: the Intelligence Index top 10, a price ranking, strengths in A.I. agents and gaps in knowledge.",
+ "title_mn": "Meta-ийн Muse Wonder загвар Claude Fable-тай чанараар дүйцэж, үнээр илүү хямд байна",
+ "summary_mn": "Artificial Analysis шинжилгээгээр Meta-ийн Muse Wonder Full загвар Intelligence Index-д Claude Fable 5.1-ээс илүү оноо авчээ. Гэхдээ энэ мэдээ нь Anthropic компанид шууд хамаарахгүй, харьцуулалт юм.",
+ "body_mn": "Мэдээ нь Meta-ийн шинэ Muse Wonder болон Muse Wonder Full загваруудын гүйцэтгэлийг Artificial Analysis шинжилгээгээр харуулж байна. Muse Wonder Full 56 оноо, стандарт Muse Wonder 52 оноо авсан бөгөөд өмнөх Muse Spark 1.3-аас ихээхэн сайжирсан гэж тайлагнажээ.\n\nҮнийн хувьд Muse Wonder нь Claude Fable-тай харьцуулахад нэг шинжилгээний ажилд ойролцоогоор 40 хувиар хямд гэж байна. Мэдээний дагуу CritPt болон GDP.pdf тестэд тэргүүлэх байдал нарийн байгаа бөгөөд GDPval-AA дээр Muse Wonder Full нь Claude Opus 5.5 болон Claude Sonnet 5.5-тай статистикийн алдааны хүрээнд ойрхон байна.\n\nЭнэ мэдээ нь Anthropic-ийн шинэ үйл ажиллагаа биш тул хөгжүүлэгчдэд шууд нөлөөлөх мэдээлэл багатай. Харин өрсөлдөх загваруудын үнэ, гүйцэтгэлийн харьцуулалт сонирхолтой байж болно.",
+ "published": "2026-10-13T07:00:59Z",
+ "added": "2026-10-13T15:11:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}

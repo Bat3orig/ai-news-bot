@@ -1,0 +1,16 @@
+{
+ "id": "bab14072892840c1",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "My Startup World",
+ "url": "https://mystartupworld.com/anthropic-launches-fastest-and-most-affordable-claude-haiku-model/",
+ "image": "",
+ "title": "Anthropic launches fastest and affordable Claude Haiku model yet",
+ "summary_en": "Anthropic has introduced Claude Haiku 5.5, calling it the company’s fastest, most capable, and most affordable small AI model to date. Built for high-volume and cost-sensitive workloads, the new model is designed to help enterprises scale AI adoption across a wide range of applications, including summarization, database queries, classification, browser use, customer support, and software […]",
+ "title_mn": "Anthropic хамгийн хурдан, хямд Claude Haiku 5.5 загварыг танилцуулав",
+ "summary_mn": "Anthropic Claude Haiku 5.5 загварыг өмнөх Haiku 4.5-тай харьцуулахад ойролцоогоор 75 хувиар хямд ажиллуулах боломжтойгоор гаргалаа. Шинэ загварт ачаалал болон үр дүнг сонгох боломжтой effort тохиргоо нэмэгдсэн.",
+ "body_mn": "Anthropic өөрийн хамгийн хурдан, хамгийн чадварлаг, хамгийн хямд жижиг хиймэл оюун ухааны загвар гэж тодорхойлсон Claude Haiku 5.5-ыг танилцуулав. Загвар нь өндөр ачаалалтай болон зардалд мэдрэмтгий ажлуудад зориулагдсан бөгөөд хураангуйлал, өгөгдлийн санд асуулга хийх, ангилал, хөтчийн ашиглалт, харилцагчийн дэмжлэг, програм хангамжийн хөгжүүлэлтэд ашиглагдана.\n\nКомпанийн мэдээлснээр Haiku 5.5 нь Haiku 4.5-тай харьцуулахад дундажаар 75 орчим хувиар бага зардалтай ажилладаг. Шинэ загварт хурд болон зардал, эсвэл илүү ухаалаг үр дүнгийн хооронд сонголт хийх боломжийг олгодог effort тохиргоо нэмэгдсэн. Мөн Claude Sonnet 5.5-ын cache-read үнийг 50 хувиар бууруулж, Claude Max болон Team захиалагчдад сар бүр API кредит олгохоор болжээ.\n\nЗагвар нь Claude платформ болон Amazon Web Services, Google Cloud, Microsoft Azure зэрэг томоохон үүлэн үйлчилгээ нэгдмэл байдлаар даруй боломжтой. Хөгжүүлэгчдэд энэ нь агент системийг өртөг багатайгаар дэд агент болгон ашиглах боломжийг нээж өгч байна.",
+ "published": "2026-10-13T04:42:09Z",
+ "added": "2026-10-13T15:11:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "50fc2290266d9591",
+ "subtopic": "motion",
+ "source": "motiondivision/motion",
+ "source_label": "motiondivision/motion",
+ "url": "https://github.com/motiondivision/motion/releases/tag/v14.1.1",
+ "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+ "title": "motion v14.1.1",
+ "summary_en": "v14.1.1",
+ "title_mn": "Motion v14.1.1 хувилбар гарлаа",
+ "summary_mn": "Motion (өмнө нь Framer Motion) анимацийн сангийн v14.1.1 хувилбар гарсан тухай мэдээлэл гарлаа. Эх материалд хувилбарын өөрчлөлтийн дэлгэрэнгүй тайлбар алга.",
+ "body_mn": "Motion нь React орчинд интерактив анимаци хийхэд өргөн ашиглагддаг UI/UX сан бөгөөд өмнө нь Framer Motion нэрээр мэдэгдэж байсан. Шинэ v14.1.1 хувилбар гарсан тухай мэдээ нийтлэгдлээ.\n\nГэхдээ эх материалд зөвхөн хувилбарын дугаар л байгаа тул шинэчлэлийн гол өөрчлөлт, засвар, шинэ функцүүдийн талаар баталгаатай мэдээлэл байхгүй. Хөгжүүлэгчид шинэчлэлийн тэмдэглэлийг Motion-ийн албан ёсны GitHub хуудаснаас шалгаж, суулгахаасаа өмнө өөрийн төслийн анимацийг туршиж үзэхийг зөвлөж байна.",
+ "published": "2026-10-13T03:47:38Z",
+ "added": "2026-10-13T15:11:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}

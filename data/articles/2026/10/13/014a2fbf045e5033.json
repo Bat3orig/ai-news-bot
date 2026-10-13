@@ -1,0 +1,16 @@
+{
+ "id": "014a2fbf045e5033",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "BigGo Finance",
+ "url": "https://finance.biggo.com/news/2560626e-7935-43b0-aefd-2004e4610429",
+ "image": "https://img.biggo.com/bea7eRVoJtuqfzYoUMbHiBFnog91lyZwTHV4KS5k3Bs/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzI1NjA2MjZlLTc5MzUtNDNiMC1hZWZkLTIwMDRlNDYxMDQyOV8xNzkxODczMTk4X2RlZmF1bHQuanBn.jpg",
+ "title": "Anthropic Dramatically Strengthens Defenses Against AI \"Distillation\" — Cuts Inference Data Extraction by Up to 99%",
+ "summary_en": "U.S. AI company Anthropic announced on the 12th that it has significantly strengthened its defenses against distillation attacks, in which competitors…",
+ "title_mn": "Anthropic дистилляцийн халдлагаас хамгаалах механизмаа сайжруулж, мэдээлэл хулгайлалтыг 90–99% бууруулжээ",
+ "summary_mn": "Anthropic дистилляцийн халдлагын эсрэг хамгаалалтаа ихээхэн сайжруулснаа мэдэгдлээ. Шинэ арга хэмжээгээр загварын inference мэдээлэл хулгайлах хэмжээ өмнөхөөс 10–100 дахин буурсан гэж байна. Компани Zhipu (Z.AI) зэрэг Хятадын компаниудыг Claude-аас хуулбарлах оролдлого хийсэн гэж нэрлэжээ.",
+ "body_mn": "Anthropic өөрийн блог дээр зарласнаар, дистилляцийн халдлагад өртөхөөс сэргийлэх гурван үндсэн арга хэмжээ авсан байна. Нэгдүгээрт, \"Claude Fable 5.1\" болон \"Claude Opus 5.5\" загваруудад \"preserved thinking\" функцийг нэвтрүүлж, 2026 оны 8 дугаар сарын 31-ээс хойш үүссэн шинэ API бүртгэлд өмнөх контекстыг засах боломжгүй болгосон. Харин \"Claude Sonnet 5.5\" дээр inference бүртгэлийг зөвхөн хүсэлт гаргасан байгууллага харах боломжтой болгожээ.\n\nХоёрдугаарт, хорлон сүйтгэх оролдлогыг илрүүлэх хоёр шатлагат классификатор ажиллуулж байна. Худал эерэг илрүүлэлтийн түвшин 0.1%-иас доош байгаа бөгөөд компанийн өнөөг хүртэл тодорхойлсон бүх дистилляцийн аргыг барих чадвартай гэж мэдэгдсэн. Гуравдугаарт, давтан оролдож буй бүртгэлүүдэд хатуу хязгаар тогтоож, хамгийн их зөрчилтэйг нь түдгэлзүүлсэн. Компани хэдэн арван мянган холбоотой бүртгэлийг хаасан гэжээ.\n\nAnthropic Zhipu (Z.AI) компани GLM-5.3 загвараа хөгжүүлэх явцад Claude Fable 5-аас дистилляц хийх оролдлого хийсэн гэж нэрлэжээ. Компанийн үзэж байгаагаар дистилляцаар олж авсан чадвар нь хангалттай аюулгүй байдлын хамгаалалтгүйгээр тархаж, цэргийн болон хяналтын системд ашиглагдах эрсдэлтэй.\n\nХөгжүүлэгчдэд энэ нь бодит нөлөөтэй. Preserved thinking-ийн нэвтрүүлэлт зарим API интеграцийг шинэчлэхийг шаардах бөгөөд блоклогдсон хүсэлтүүдийн төлбөр 9 дүгээр сарын 24-нөөс дахин эхэлсэн. Гэхдээ Anthropic өөрөө энэ арга хэмжээний үр дүнг бие даасан байдлаар баталгаажуулаагүй гэдгээ дурджээ.",
+ "published": "2026-10-13T06:25:00Z",
+ "added": "2026-10-13T15:11:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}

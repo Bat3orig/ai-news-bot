@@ -1,0 +1,16 @@
+{
+ "id": "022aca5a3d309b25",
+ "subtopic": "openai",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://www.argmin.net/p/faster-fourier-transforms",
+ "image": "https://substackcdn.com/image/fetch/$s_!1mN7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f0c6088-ce61-4802-ac3f-c8bc4060a05a_840x599.jpeg",
+ "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+ "summary_en": "Article URL: https://www.argmin.net/p/faster-fourier-transforms Comments URL: https://news.ycombinator.com/item?id=50065932 Points: 213 # Comments: 133",
+ "title_mn": "OpenAI-ийн хурдан Фурье хувиргалтын гэх математикийн нотолгоог шинжилжээ",
+ "summary_mn": "argmin блог OpenAI-ийн математикийн репозиторид гарсан, Фурье хувиргалтыг FFT-ээс хурдан гэх нэхэмжлэлийг шалгажээ. Зохиолч хурдан арга олж чадаагүй гэж дүгнэжээ.",
+ "body_mn": "Hacker News дээр нийтлэгдсэн argmin блогт OpenAI-ийн математикийн репозиторид гарсан, Фурье хувиргалтыг хурдасгах гэх нэхэмжлэлийг шинжилсэн байна. Нэхэмжлэл main.pdf баримт дээр тулгуурласан бөгөөд log(n) гишүүнийг бага зэрэг бууруулна гэж үзсэн.\n\nФурье хувиргалт n² үйлдлээс Cooley-Tukey-ийн FFT-ээр 5 n log₂ n үйлдэл болж буурдаг. Зохиолч асуудлыг шалгахаар хэлэлцүүлэг хийсэн ч хурдан арга олоогүй гэж тайлбарлажээ.\n\nЭнэ нь хөгжүүлэгчдэд AI-аар бүтээсэн математикийн үр дүнг шууд хүлээн авахаас өмнө шалгах хэрэгтэйг сануулж байна.",
+ "published": "2026-10-13T02:46:43Z",
+ "added": "2026-10-13T15:11:09Z",
+ "ai": "claude:claude-haiku-5-5"
+}
