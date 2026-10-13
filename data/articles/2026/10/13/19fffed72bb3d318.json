@@ -1,0 +1,16 @@
+{
+ "id": "19fffed72bb3d318",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
+ "title": "Gemini 4 Argon now available on AI Gateway",
+ "summary_en": "Gemini 4 Argon from Google is now available on AI Gateway . Gemini 4 Argon is built for coding, agentic work, and complex reasoning. It has a 1M token context window, accepts text, image, PDF, and video input, and supports tool calling. On coding tasks, Gemini 4 Argon builds features, fixes bugs, and researches unfamiliar codebases, carrying longer tasks through multiple steps. The model also reads dense diagrams, spreadsheets, layout-heavy documents, and video, which suits tasks like a financial analysis spread across several spreadsheet tabs. Beyond code, it handles work in finance…",
+ "title_mn": "Google-ийн Gemini 4 Argon загвар Vercel AI Gateway дээр нээгдлээ",
+ "summary_mn": "Google компанийн код бичих, агентийн ажлуудад зориулсан Gemini 4 Argon загвар Vercel AI Gateway дээр албан ёсоор боломжтой боллоо.",
+ "body_mn": "Google-ийн бүтээсэн Gemini 4 Argon загвар нь 1 сая токенийн контекст цонхтой бөгөөд текст, зураг, PDF, видео оролтыг хүлээн авч, багаж хэрэгсэл дуудах чадвартай.\n\nКод бичих болон алдаа засварлах ажлуудад олон алхмаар гүйцэтгэх чадвартай энэхүү загвар нь хууль эрх зүй, санхүү, шинжлэх ухааны нарийн төвөгтэй асуудлуудыг шийдвэрлэхэд тохиромжтой. Загвар нь уламжлалт төсвийн оронд сэтгэх түвшний (low, medium, high) тохиргоог ашигладаг.\n\nХөгжүүлэгчид уг загварыг AI SDK, Chat Completions API болон Claude Code, Cursor зэрэг код бичих агентуудтай холбож ашиглах боломжтой. Vercel AI Gateway нь ямар нэгэн нэмэлт хураамжгүйгээр хэрэглээг хянах, найдвартай ажиллагааг хангах нэгдсэн API-г санал болгодог.",
+ "published": "2026-10-13T00:00:00Z",
+ "added": "2026-10-13T20:46:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

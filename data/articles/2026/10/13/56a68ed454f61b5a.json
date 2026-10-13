@@ -1,0 +1,16 @@
+{
+ "id": "56a68ed454f61b5a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Startup Fortune",
+ "url": "https://startupfortune.com/anthropic-is-betting-its-enterprise-future-on-engineers-who-live-at-the-client/",
+ "image": "https://startupfortune.com/wp-content/uploads/2026/10/claude-anthropic-forward-deployed-engineer.jpg",
+ "title": "Anthropic Is Betting Its Enterprise Future on Engineers Who Live at the Client",
+ "summary_en": "Anthropic hires Forward Deployed Engineers to embed at clients, while a $100 million academy trains engineers at Deloitte, McKinsey and Accenture.",
+ "title_mn": "Anthropic компани байгууллагын үйлчлүүлэгчдэд зориулсан шинэ баг бүрдүүлж эхэлжээ",
+ "summary_mn": "Anthropic компани үйлчлүүлэгч байгууллагууд дээрээ биечлэн ажиллах 'Forward Deployed Engineers' инженерүүдийг ажилд авч, аж ахуйн нэгжүүдэд Claude загварыг нэвтрүүлэх ажилд анхаарч байна.",
+ "body_mn": "Anthropic компани аж ахуйн нэгжүүдэд зориулсан үйл ажиллагаагаа өргөжүүлж, захиалагч компаниудын дэргэд биечлэн байрлаж ажиллах инженерүүдийг шинээр сонгон шалгаруулж эхэллээ. Эдгээр инженерүүд нь API үйлчилгээ үзүүлээд орхихын оронд үйлчлүүлэгчийн системд Claude загварыг бодит байдлаар суулгах интеграцийн кодыг хамтран бичих юм.\n\nКомпанийн зүгээс эдгээр ажилтнуудад соებч зан, агентын системтэй ажиллах туршлага, асуудал шийдвэрлэх өндөр чадвар болон инженерчлэлийн суурь мэдлэг зэрэг үндсэн шалгууруудыг тавьж байна. Үүний зэрэгцээ Deloitte, McKinsey, Accenture зэрэг түнш компаниудын инженерүүдэд зориулсан 100 сая ам.долларын өртөгтэй сургалтын академийг мөн байгуулжээ.\n\nЭнэхүү стратеги нь компаниудад Claude загварыг аюулгүй бөгөөд үр дүнтэйгээр ашиглахад туслах зорилготой бөгөөд Anthropic өөрийн инженерүүдийг шууд суулгах болон түншүүдээ сургах гэсэн хоёр үндсэн чиглэлээр зэрэг ажиллаж байна.",
+ "published": "2026-10-13T07:35:31Z",
+ "added": "2026-10-13T20:46:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "b8440999655ae55b",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "NeoTeo",
+ "url": "https://www.neoteo.com/en/a-reported-grok-bot-bank-data-leak-puts-shared-agents-in-focus",
+ "image": "https://www.nitroindex.com/opengraph/www.neoteo.com/og.png?url=https%3A%2F%2Fwww.neoteo.com%2Fen%2Fa-reported-grok-bot-bank-data-leak-puts-shared-agents-in-focus",
+ "title": "A reported Grok Bot bank-data leak puts shared agents in focus",
+ "summary_en": "The Wall Street Journal reported Shane Mac’s finances in a Slack screenshot. xAI says its Bots share account resources and…",
+ "title_mn": "Grok Bot-ийн санхүүгийн мэдээлэл алдагдсан явдал шүүмжлэл дагууллаа",
+ "summary_mn": "Wall Street Journal сонин xAI-ийн Grok Bot-оор дамжуулан хувийн санхүүгийн мэдээлэл алдагдсан тухай мэдээллээ. xAI нэг хэрэглэгчийн бүх Bot-ууд нэг үүлэн компьютер хуваалцдаг болохыг батлав.",
+ "body_mn": "Wall Street Journal сонинд мэдээлснээр, XMTP Labs компанийн гүйцэтгэх захирал Шейн Макын хувийн дансны үлдэгдэл, Netflix болон автомашины даатгалын төлбөрийн мэдээлэл агуулсан дэлгэц хуваалцсан зураг Slack мессенжерээр дамжин алдагдсан байна. Энэхүү асуудал нь хэрэглэгчдийн анхаарлыг хүлээж аваад байгаа ажээ.\n\nxAI-ийн аюулгүй байдлын баримт бичигт дурдсанаар, нэг хэрэглэгчийн бүртгэл дэх бүх Bot-ууд байнгын үүлэн компьютер хуваалцаж ажилладаг байна. Үүнд файл, хөтчийн сесс болон команд мөрийн эрхүүд тухайн бүртгэлийн хүрээнд хамтдаа ашиглагддаг бөгөөд аюулгүй байдлын тусгаарлалт үүсдэггүй болохыг компани тайлбарлажээ.\n\nМөн xAI систем нь зөвшөөрлийн гурван сонголтыг олгодог боловч аль хэдийн хийгдсэн үйлдлийг буцаах боломжгүй аж. Иймд хэрэглэгчдэд ямар зорилготой үйлдэл хийж байгаа нь тодорхойгүй тохиолдолд зөвшөөрөл өгөхгүй байхыг мэргэжилтнүүд зөвлөж байна. Хөгжүүлэгчид болон хэрэглэгчдийн хувьд AI агентлагуудын өгөгдөл хуваалцах архитектур аюулгүй байдлын эрсдэл дагуулж болзошгүйг энэхүү явдал харуулж байна.",
+ "published": "2026-10-11T02:48:22Z",
+ "added": "2026-10-13T20:46:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

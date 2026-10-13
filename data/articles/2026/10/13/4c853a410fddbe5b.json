@@ -1,0 +1,16 @@
+{
+ "id": "4c853a410fddbe5b",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Yahoo Finance",
+ "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-unveils-450-ai-glasses-090046040.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/84e29ba6221f445324e7e20066a7a0b85c35b8a3b4e1626f0aa0ffc6e5084918/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F25493c1b91ee2ac88dac9a725e041155.jpg",
+ "title": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets",
+ "summary_en": "Alibaba Group Holding Ltd. on Tuesday unveiled the new generation of its smart glasses, deepening its foray into consumer electronics as an extension of its artificial intelligence strategy.",
+ "title_mn": "Alibaba компани Qwen Glasses N1 цуврал ухаалаг нүдний шилээ танилцууллаа",
+ "summary_mn": "Alibaba компани 450 ам.долларын үнэтэй, Qwen AI туслах болон сайжруулсан камер бүхий Qwen Glasses N1 ухаалаг нүдний шилний шинэ үеийг худалдаанд гаргалаа.",
+ "body_mn": "Alibaba Group Holding Ltd. компани хиймэл оюун ухааны стратегиа өргөжүүлэх зорилгоор шинэ үеийн ухаалаг нүдний шилний цувралаа албан ёсоор танилцууллаа. Ханжоу хотод болсон арга хэмжээний үеэр дэлгэсэн Qwen Glasses N1 цуврал нь хөнгөлөлтгүйгээр 2,999 юанаас (ойролцоогоор 450 ам.доллар) эхлэх үнэтэй ажээ.\n\nШинэ нүдний шил нь 50 мегапикселийн сайжруулсан камер, мэдрэгчүүдээр тоноглогдсон бөгөөд Pro загвар нь нүдний хөдөлгөөн хянах функцийг агуулж байна. Нэг цэнэглэлтээр 25 цаг хүлээлгийн горимд ажиллах эсвэл 9 цаг хөгжим тоглуулах чадвартай энэхүү төхөөрөмж нь хэрэглэгчдэд ясны дамжуулагч микрофоноор дамжуулан Qwen AI туслахтай харилцах боломжийг олгодог.\n\nЭнэхүү төхөөрөмж нь худалдан авалт хийх, төлбөр тооцоо хийх, эрүүл мэндийн үзүүлэлт хянах зэрэг олон төрлийн функцуудыг дэмждэг байна. Мөн хямд өртөгтэй сонголт болгож Bose компанитай хамтран бүтээсэн Qwen Clip нэртэй AI чихэвчийг худалдаанд гаргажээ.",
+ "published": "2026-10-13T09:00:46Z",
+ "added": "2026-10-13T20:46:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

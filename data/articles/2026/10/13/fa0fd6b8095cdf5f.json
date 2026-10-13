@@ -1,0 +1,16 @@
+{
+ "id": "fa0fd6b8095cdf5f",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Bloomberg.com",
+ "url": "https://www.bloomberg.com/opinion/articles/2026-10-13/anthropic-has-bigger-safety-and-ipo-problems-than-claude-s-feelings",
+ "image": "",
+ "title": "Anthropic Has Bigger Problems Than Claude's Feelings",
+ "summary_en": "",
+ "title_mn": "Bloomberg: Anthropic-д Claude-ийн сэтгэл хөдлөлөөс илүү том асуудлууд байна",
+ "summary_mn": "Anthropic компани болон Claude загварын эргэн тойронд өрнөж буй үйл явдлуудын талаар Bloomberg хэвлэлд онцолжээ.",
+ "body_mn": "Anthropic компанийн хөгжүүлж буй Claude загварын талаарх маргаан болон компанид тулгарч буй томоохон сорилтуудын талаар Bloomberg агентлаг мэдээллээ. Хиймэл оюун ухааны аюулгүй байдал болон бизнесийн өргөжилттэй холбоотой асуудлууд анхаарлын төвд байна.",
+ "published": "2026-10-13T04:00:00Z",
+ "added": "2026-10-13T20:46:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

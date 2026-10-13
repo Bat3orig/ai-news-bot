@@ -1,0 +1,16 @@
+{
+ "id": "c93d8d29c9a71fbb",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/repository-checkout-and-git-lfs-downloads-are-now-faster",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/13mR5O8UFtj7dotkDh7dHC/ee156e1790bfef2bb0f208eea7569394/faster-repository-checkout-and-git-lfs-downloads.png",
+ "title": "Repository checkout and Git LFS downloads are now faster",
+ "summary_en": "Repository checkout and Git LFS downloads are now faster on Vercel, reducing the time spent preparing your project's files before a build. During rollout on build machines with more than two vCPUs: The average time to get project files ready fell by 20%. For LFS-enabled projects, the average time to get project files ready fell by 54%, saving approximately 13 seconds per deployment on this step. The 90th-percentile time to get project files ready fell by 22%. This means 90% of deployments finish this step in that time or less. These improvements apply automatically, with no action required…",
+ "title_mn": "Vercel дээр репозитор татах болон Git LFS таталт илүү хурдан боллоо",
+ "summary_mn": "Vercel платформын бүтээх серверүүд дээр репозитор шалгах болон Git LFS татах үйл явц хурдасч, хөгжүүлэгчдийн хүлээх хугацаа багаслаа.",
+ "body_mn": "Vercel дээр төслийн файлуудыг угсралтын өмнө бэлтгэх хугацааг багасгах зорилгоор репозитор шалгах болон Git LFS татах ажиллагааг сайжрууллаа. Хоёр болон түүнээс дээш vCPU бүхий серверүүд дээр энэхүү шинэчлэлтийг хийжээ.\n\nШинэчлэлтийн үр дүнд файлуудыг бэлтгэх дундаж хугацаа 20 хувиар буурсан байна. Харин Git LFS идэвхжүүлсэн төслүүдийн хувьд бэлтгэх хугацаа 54 хувиар буурч, байршуулалт бүрт дунджаар 13 секундийн хэмнэлт гарч байна.\n\nЭдгээр гүйцэтгэлийн сайжруулалтууд нь ямар нэгэн нэмэлт тохиргоо хийх шаардлагагүйгээр автоматаар хэрэгжиж байгаа бөгөөд хөгжүүлэгчдийн бүтээмжийг нэмэгдүүлэхэд чухал хувь нэмэр оруулна.",
+ "published": "2026-10-13T00:00:00Z",
+ "added": "2026-10-13T20:46:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

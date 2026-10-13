@@ -1,0 +1,16 @@
+{
+ "id": "9c47c6a14c04ed6b",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "TechNode",
+ "url": "https://technode.com/2026/10/13/alibaba-prepares-qwen-go-personal-ai-assistant-for-claims-bookings-and-shopping/",
+ "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261013-cn-364764.jpg?fit=2000%2C1334&ssl=1",
+ "title": "Alibaba prepares Qwen Go personal AI assistant for claims, bookings and shopping",
+ "summary_en": "Alibaba is preparing to introduce Qwen Go, a personal AI assistant that can handle tasks such as flight-delay compensation claims, shopping refunds,",
+ "title_mn": "Alibaba Qwen Go хувийн AI туслахыг танилцууллаа",
+ "summary_mn": "Alibaba компани нислэг хойшлогдсоны нөхөн төлбөр авах, захиалга хийх болон худалдан авалт удирдах чадвартай Qwen Go хувийн AI туслахыг хөгжүүлж эхэлжээ.",
+ "body_mn": "Alibaba компани хэрэглэгчдийн өдөр тутмын амьдралын олон төрлийн даалгаврыг гүйцэтгэх чадвартай Qwen Go хуويйн AI туслахыг олон нийтэд танилцуулахаар бэлтгэж байна. Энэхүү систем нь нислэг хойшлогдсоны нөхөн төлбөр нэхэмжлэх, худалдан авалтын буцаалт хийх, машины үйлчилгээ болон спортын талбайн цаг захиалах зэрэг ажлуудыг бие даан гүйцэтгэх юм.\n\nТуршилтын явцад Qwen Go нь хэрэглэгчийн нислэг шалгаж, зохих нөхөн төлбөрийг олж тогтоон, харилцагчийн үйлчилгээтэй холбогдож тохиролцсон амжилттай үзүүлбэрүүдийг харуулсан байна. Хэрэглэгчид үйл явцыг дэлгэцнээс хянаж, шаардлагатай үед оролцох эсвэл зогсоох боломжтой ажээ.\n\nЭнэхүү шинэчлэлт нь Qwen загварын худалдаа, тээвэр, хүргэлтийн үйлчилгээнүүдтэй хэдийн үүсгэсэн холболтуудад суурилж байгаа юм. Хөгжүүлэгчдийн хувьд хэрэглэгчийн өдөр тутмын хэрэглээнд нэвтэрч буй энэхүү дэвшилтэт агентын боломжууд AI хэрэглээг шинэ түвшинд гаргаж байна.",
+ "published": "2026-10-13T07:32:41Z",
+ "added": "2026-10-13T20:46:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

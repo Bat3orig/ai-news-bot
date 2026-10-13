@@ -1,0 +1,16 @@
+{
+ "id": "e75f3b2df73fe2b9",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "富途牛牛",
+ "url": "https://news.futunn.com/en/post/1000963697/alibaba-s-qwen-launches-n1-pro-and-n1-ai-glasses",
+ "image": "",
+ "title": "Alibaba's Qwen launches N1 Pro and N1 AI glasses, with prices starting at RMB 2,218",
+ "summary_en": "",
+ "title_mn": "Alibaba Qwen N1 Pro AI glasses",
+ "summary_mn": "Alibaba announced new AI glasses.",
+ "body_mn": "Alibaba's Qwen launches N1 Pro and N1 AI glasses, with prices starting at RMB 2,218.\n\nThis is a short news item about new hardware release.",
+ "published": "2026-10-13T07:18:49Z",
+ "added": "2026-10-13T20:46:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

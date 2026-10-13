@@ -1,0 +1,16 @@
+{
+ "id": "ec32ad7e3829d489",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "富途牛牛",
+ "url": "https://news.futunn.com/en/post/1000962822/alibaba-qwen-go-makes-its-debut-ramping-up-competition-in",
+ "image": "",
+ "title": "Alibaba Qwen Go makes its debut, ramping up competition in the personal agent space; the AI application arms race may soon extend into everyday life scenarios.",
+ "summary_en": "",
+ "title_mn": "Alibaba Qwen Go зах зээлд гарахаар боллоо",
+ "summary_mn": "Alibaba компани хувийн агентын зах зээлд өрсөлдөх Qwen Go загвараа танилцуулж, өдөр тутмын амьдралын хэрэглээнд чиглэсэн өрсөлдөөнийг эрчимжүүлж байна.",
+ "body_mn": "Alibaba групп хувийн агентуудын зах зээлд байр сууриа бэхжүүлэх зорилготой Qwen Go загвараа албан ёсоор танилцууллаа. Энэхүү алхам нь хиймэл оюун ухааны хэрэглээний програмуудын өрсөлдөөнийг хэрэглэгчдийн өдөр тутмын амьдралын түвшинд шилжүүлж байна.\n\nQwen Go нь хэрэглэгчдийн өдөр тутмын ажлыг хөнгөвчлөх, ухаалаг туслахын үүрэг гүйцэтгэх зорилготой юм. Alibaba-ийн Qwen загваруудын экосистем өргөжиж байгаа нь хиймэл оюун ухааны зах зээл дэх өрсөлдөөнийг улам бүр хурцатгаж байна.",
+ "published": "2026-10-13T07:18:16Z",
+ "added": "2026-10-13T20:46:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

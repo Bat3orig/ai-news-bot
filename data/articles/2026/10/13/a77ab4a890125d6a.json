@@ -1,0 +1,16 @@
+{
+ "id": "a77ab4a890125d6a",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png",
+ "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway",
+ "summary_en": "MAI-Image-2.6 and MAI-Image-2.6-Flash from Microsoft are now available on AI Gateway . Generate images from text or edit existing images through the AI SDK or the AI CLI , with one API key and no provider account. Both models support photorealistic imagery, text rendering, and targeted edits to products, portraits, and layouts. You can provide up to five reference images to guide edits or combine subjects, with output sizes up to 1536 × 1536. MAI-Image-2.6 ( microsoft/mai-image-2.6 ) for final assets, when image quality matters more than speed. MAI-Image-2.6-Flash (…",
+ "title_mn": "Microsoft-ын MAI-Image-2.6 загварууд Vercel AI Gateway дээр нэмэгдлээ",
+ "summary_mn": "Microsoft компанийн бүтээсэн MAI-Image-2.6 болон MAI-Image-2.6-Flash зураг үүсгэх загварууд одоо Vercel AI Gateway дээр ашиглах боломжтой боллоо.",
+ "body_mn": "Microsoft компани боловсруулсан MAI-Image-2.6 болон MAI-Image-2.6-Flash загваруудаа Vercel AI Gateway дээр гаргалаа. Хөгжүүлэгчид AI SDK эсвэл AI CLI ашиглан нэг API түлхүүрээр зураг үүсгэх болон засварлах боломжтой болж байна.\n\nЭдгээр загварууд нь фото бодит чанартай зураг гаргах, текст дүрслэх, бүтээгдэхүүн болон хөрөг зургийг нарийвчлан засварлах чадамжтай. Хэрэглэгчид 1536 × 1536 хүртэлх хэмжээтэй зураг гаргаж авахаас гадна тав хүртэлх лавлагаа зургийг ашиглан загварчлах боломжтой юм.\n\nҮндсэн MAI-Image-2.6 загвар нь чанар чухал үед зориулагдсан бол MAI-Image-2.6-Flash хувилбар нь илүү хурдан бөгөөд хямд зардлаар олон давталт хийх шаардлагатай үед тохирно. Хөгжүүлэгчид AI Gateway ашиглан эдгээр загваруудыг шууд төсөлдөө нэгтгэх боломжтой.",
+ "published": "2026-10-13T00:00:00Z",
+ "added": "2026-10-13T20:46:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

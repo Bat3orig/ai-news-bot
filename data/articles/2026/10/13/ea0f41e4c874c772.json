@@ -1,0 +1,16 @@
+{
+ "id": "ea0f41e4c874c772",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "OrcaRouter",
+ "url": "https://www.orcarouter.ai/blog/qwen-3-6",
+ "image": "https://cms.orcarouter.ai/api/media/file/1-2017-1200x630.png",
+ "title": "Qwen 3.6: The Five Members, and the Six IDs We Serve",
+ "summary_en": "Nobody searches 'Qwen 3.6'. This page maps the five members of Alibaba's April 2026 generation and names the six Qwen 3.6 ids OrcaRouter serves today.",
+ "title_mn": "Alibaba Qwen 3.6 загварын үеийн гишүүд болон API боломжууд",
+ "summary_mn": "Alibaba компани Qwen3.6 загварын үеийнхээ таван үндсэн гишүүн болон агентын код бичихэд зориулсан preserve_thinking функцийн талаар мэдээллээ.",
+ "body_mn": "Alibaba компани Qwen3.6 мультимедиа загварын үеийнхээ таван үндсэн гишүүнийг танилцууллаа. Энэхүү үе шат нь агентын код бичих чадварыг шинэ түвшинд гаргасан бөгөөд API болон нээлттэй жинтэй загваруудыг багтааж байна.\n\nШинэчлэлтээр нэвтэрсэн гол боломж бол preserve_thinking хэмээх API функц юм. Энэ нь эргэлт бүрийн өмнөх логик дүгнэлт, санааг хадгалж үлдэх бөгөөд агентын төвөгтэй ажлуудад онцгой ач холбогдолтой ажээ. Мөн уг гэр бүлд Qwen3.6-Plus, Qwen3.6-Max-Preview, Qwen3.6-Flash зэрэг API үйлчилгээнүүд болон 35B, 27B параметр бүхий open-weights загварууд багтаж байна.\n\nХөгжүүлэгчдийн хувьд өргөн цар хүрээтэй контекст цонх болон олон төрлийн мультимедиа оролтыг дэмжих энэхүү архитектур нь хиймэл оюун ухаант агентуудыг бүтээхэд өргөн боломжийг олгож байна.",
+ "published": "2026-10-13T09:44:32Z",
+ "added": "2026-10-13T20:46:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

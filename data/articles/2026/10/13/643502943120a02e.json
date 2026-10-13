@@ -1,0 +1,16 @@
+{
+ "id": "643502943120a02e",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "The Cryptonomist",
+ "url": "https://en.cryptonomist.ch/2026/10/13/alibaba-smart-glasses-n1-pro/",
+ "image": "https://cryptonomist.ch/wp-content/uploads/2026/10/alibaba-smart-glasses.jpeg",
+ "title": "Alibaba smart glasses add eye tracking and iris payments in N1 Pro",
+ "summary_en": "Alibaba smart glasses feature the N1 Pro's eye tracking and iris payment, advancing AI wearable technology in the Chinese augmented reality market.",
+ "title_mn": "Alibaba N1 Pro ухаалаг нүдний шилэнд нүд хянах болон цахилгаан төлбөрийн боломж нэмэгдлээ",
+ "summary_mn": "Alibaba компани N1 Pro ухаалаг нүдний шилээ танилцуулж, Qwen AI загварыг цахилгаан төлбөр болон нүд хянах технологитой хослууллаа.",
+ "body_mn": "Alibaba компани Qwen AI загварт суурилсан ухаалаг нүдний шилний шинэ загвар болох N1 Pro-г худалдаанд гаргалаа. Энэхүү төхөөрөмж нь хэрэглэгчийн нүдний хөдөлгөөнийг хянах болон цахилгаан төлбөр тооцоо хийх шинэ боломжуудыг дэмждэгээрээ онцлог юм.\n\nУг нүдний шил нь Qualcomm Snapdragon AR1 процессорыг ашиглан төхөөрөмж дээрээ шууд боловсруулалт хийдэг бөгөөд Qwen AI туслахын тусламжтайгаар бодит цагийн орчуулга хийх, Alipay болон Taobao платформтой шууд холбогдох боломжийг бүрдүүлжээ. Анх Quark AI Glasses нэртэйгээр хөгжиж байсан энэ төхөөрөмж нь зах зээлд өрсөлдөхүйц чанар, боломжуудыг санал болгож байна.\n\nХөгжүүлэгчид болон хэрэглэгчдийн хувьд худалдаа, төлбөрийн системтэй нягт холбогдсон энэхүү wearable төхөөрөмж нь хиймэл оюун ухааныг өдөр тутмын хэрэглээнд нэвтрүүлэх бас нэгэн томоохон алхам болж байна.",
+ "published": "2026-10-13T09:27:46Z",
+ "added": "2026-10-13T20:46:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
