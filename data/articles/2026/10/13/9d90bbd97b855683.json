@@ -1,0 +1,16 @@
+{
+ "id": "9d90bbd97b855683",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+ "title": "Client telemetry user attribution and configurable capture",
+ "summary_en": "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three…",
+ "title_mn": "GitHub Copilottelemetry-д хэрэглэгчийн бүртгэл нэмэгдлээ",
+ "summary_mn": "Enterprise админуудрууд GitHub Copilot-ийн үйл ажиллагааг хэрэглэгч тус бүрээр нь ялгах боломжтой боллоо. Энэхүүtelemetry функц нь prompt болон tool-ийн контентыг цуглуулахгүйгээр ажилладаг.",
+ "body_mn": "Enterprise түвшний админууд удирдлагатай орчинд telemetry ашиглан GitHub Copilot-ийн үйл ажиллагааг хэрэглэгч тус бүрт холбох боломжтой боллоо. Энэ нь хэрэглэгчийн prompt, хариу болон tool-ийн контентыг цуглуулахгүйгээр OpenTelemetry (OTel) өгөгдөлд гурван шинэ шинж чанарыг нэмж өгч байна.\n\nIdentity capture буюу хэрэглэгчийн бүртгэлийг барих тохиргоо нь анхдагчаар хаалттай байх бөгөөд pseudonymous буюу нууц нэршилтэй хэрэглэгчийн ID-аас тусдаа хэвээр үлдэх юм. Админууд Copilot CLI, GitHub Copilot апп болон VS Code сессүүдэд нарийн хяналт хийх боломжтой.\n\nМөн өгөгдөл цуглуулах таван ангиллыг админууд тус бүрд нь бие даан удирдах боломжтой болсон. Эдгээр ангилал бүгд анхдагчаар унтраалттай байх ба шаардлагатай тохиолдолд л тохиргоог идэвхжүүлэхийг зөвлөж байна.",
+ "published": "2026-10-12T22:38:00Z",
+ "added": "2026-10-13T07:15:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

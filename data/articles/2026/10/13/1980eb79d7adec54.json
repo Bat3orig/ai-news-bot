@@ -1,0 +1,16 @@
+{
+ "id": "1980eb79d7adec54",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "VentureBeat",
+ "url": "https://venturebeat.com/technology/metas-new-muse-wonder-and-muse-wonder-full-models-achieve-frontier-performance-but-only-the-weaker-one-is-available-via-api",
+ "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1loM1rLZlDNxVrTjuzeRxm/23f90d09b41b75aea66e2dba8e92b335/85df5d7d-150d-4c0e-a94e-077d30587fbb.png?w=800&q=75",
+ "title": "Meta's new Muse Wonder and Muse Wonder Full models achieve frontier performance, but only the weaker one is available via API",
+ "summary_en": "The company has not announced a pay-as-you-go API price for its most powerful model. Instead, Full is currently available through two Muse Code subscription tiers:",
+ "title_mn": "Meta компани шинэ Muse Wonder загваруудаа танилцууллаа",
+ "summary_mn": "Meta компани OpenAI болон Anthropic-тэй өрсөлдөхүйц Muse Wonder хиймэл оюун ухааны шинэ загваруудыг танилцууллаа. Эдгээр загвар нь агентын ажлуудад өндөр гүйцэтгэлтэй.",
+ "body_mn": "Meta компани OpenAI болон Anthropic-ийн тэргүүлэх загваруудтай өрсөлдөхүйц Muse Wonder болон Muse Wonder Full нэртэй хоёр шинэ хиймэл оюун ухааны загварыг танилцууллаа. Эдгээр загварууд нь программ хангамж хөгжүүлэлт, хууль эрх зүй болон агентын нарийн төвөгтэй ажлуудад өндөр гүйцэтгэл үзүүлэх зорилготой юм.\n\nШинэ загварууд нь олон сая токенийн контекст цонхыг дэмжихээс гадна Active Memory болон Active Focus гэсэн дэвшилтэт чадваруудыг агуулжээ. Эдгээр нь агентуудад ярианы түүхийг хадгалах, олон аппликейшн хооронд ажиллах, гэнэтийн саад бэрхшээлийг даван туулахад тусалдаг байна.\n\nХэдийгээр зарим хувилбарыг нь API ашиглан олон нийтэд хүргэж байгаа ч хамгийн хүчирхэг хувилбарыг нь Muse Code программчлалын туслахаар хязгаарлажээ. Энэ нь хөгжүүлэгчид болон аж ахуйн нэгжүүд дэх үүлэн тооцооллын шинэ өрсөлдөөнийг харуулж байна.",
+ "published": "2026-10-12T20:04:04Z",
+ "added": "2026-10-13T07:15:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "3bc15902c1ad255a",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/prabanta-dev/janas",
+ "image": "https://opengraph.githubassets.com/f2f187b2269a5977591f7a742789796c7319cfd0013828827ec593c65e77a6de/prabanta-dev/janas",
+ "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+ "summary_en": "Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 103 # Comments: 32",
+ "title_mn": "Janas-LLM: SSD дискнээс шууд ажиллаж том хэмжээний загваруудыг ажиллуулах хэрэгсэл",
+ "summary_mn": "Janas-LLM нь оператив санах ойноос том хэмжээний AI загваруудыг SSD дискнээс шууд урсгалаар уншиж ажиллуулах боломжийг олгодог хэрэгсэл юм.",
+ "body_mn": "Janas-LLM нь оператив санах ойноос (RAM) илүү том хэмжээтэй хиймэл оюун ухааны загваруудыг NVMe SSD дискнээс шууд урсгалаар (streaming) уншиж ажиллуулах боломжийг олгодог C хэл дээр бичигдсэн хэрэгсэл юм. Энэ нь ердийн зөөврийн компьютер дээр 80 тэрбум параметр бүхий загваруудыг ажиллуулах боломжийг бүрдүүлдэг.\n\nУг хэрэгсэл нь шаардлагатай экспертүүдийг SSD дискнээс шууд татаж, оновчтой байдлаар ажилладаг тул бусад алдартай хөдөлгүүрүүдээс хурдан ажиллах үзүүлэлттэй байна. Линукс болон Виндовс үйлдлийн систем дээр амжилттай туршигдсан байна.\n\nХөгжүүлэгчид өөрсдийн компьютер дээрээ томоохон хэмжээний Qwen болон бусад нээлттэй загваруудыг хялбархан туршиж үзэх боломжийг энэхүү хэрэгсэл олгож байна.",
+ "published": "2026-10-12T22:05:43Z",
+ "added": "2026-10-13T07:15:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

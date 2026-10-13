@@ -1,0 +1,16 @@
+{
+ "id": "897ed0a11c3fdbaa",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+ "image": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-3.08.26-PM.png",
+ "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+ "summary_en": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.",
+ "title_mn": "GitHub Copilot-д төслийн онцлог, дүрмийг зааж өгөх дөрвөн арга барил",
+ "summary_mn": "GitHub-ээс Copilot-ийг төслийн дүрэм журамд нийцүүлэх зааварчилгаа, тусгай скилл, код баазын агент болон MCP серверүүдийг хэрхэн тохируулах арга барилуудыг танилцууллаа.",
+ "body_mn": "Төсөл болгон өөрийн архитектур, файлын бүтэц, бичиглэлийн өвөрмөц дүрэмтэй байдаг тул хиймэл оюуны туслахад энэ контекстийг зөв өгөх нь хамгийн чухал юм. GitHub-ээс Copilot-ийг тухайн репозиторын онцлогт бүрэн дасган ажиллуулах дөрвөн үндсэн арга хэрэгслийг дэлгэрэнгүй тайлбарласан байна.\n\nЭхний арга нь репозиторын зааварчилгаа (Custom Instructions) бөгөөд `.github/copilot-instructions.md` файлд нийтлэг стандартыг тодорхойлох, эсвэл `.github/instructions` дотор тодорхой файлуудад хамаарах дүрмийг `applyTo` талбараар зааж өгөх боломжтой. Хоёр дахь нь тодорхой үйлдлүүдэд зориулсан \"Agent Skills\" бөгөөд `.github/skills` хавтсанд тест ажиллуулах, код шалгах заавар бүхий скриптүүдийг хадгалснаар Copilot тэдгээрийг автоматаар ашигладаг.\n\nГуравдугаарт, хүртээмжийн аудит хийх зэрэг том хэмжээний ажлуудад зориулан `.github/agents` санд тусгай агентуудыг тодорхойлж болно. Эцэст нь, MCP (Model Context Protocol) серверүүдээр дамжуулан Copilot-ийг албан ёсны баримт бичиг болон Playwright зэрэг тестлэх гадаад хэрэгслүүдтэй шууд холбон ажиллуулах боломжтой болжээ.",
+ "published": "2026-10-12T17:43:59Z",
+ "added": "2026-10-13T07:15:33Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

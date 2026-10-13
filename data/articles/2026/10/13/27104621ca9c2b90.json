@@ -1,0 +1,16 @@
+{
+ "id": "27104621ca9c2b90",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "MarkTechPost",
+ "url": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
+ "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-401-2-1024x768.png",
+ "title": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents",
+ "summary_en": "Alibaba Qwen’s QwenGyre elastic RL framework trains XLong-horizon agents, lifting Qwen 3.8 2.4T NL2RepoBench from 52.5% to 58.5%.",
+ "title_mn": "Alibaba Qwen баг QwenGyre уян хатан бэхжүүлсэн сургалтын тогтолцоог танилцууллаа",
+ "summary_mn": "Alibaba-ийн Qwen баг агентуудыг сургах QwenGyre уян хатан бэхжүүлсэн сургалтын тогтолцоог танилцууллаа.",
+ "body_mn": "Alibaba-ийн Qwen баг код бичих агентуудыг сургахад зориулсан QwenGyre хэмээх уян хатан бэхжүүлсэн сургалтын (RL) тогтолцоог нээлттэй болголоо. Энэхүү систем нь олон цагаар үргэлжилж, сая хүртэлх токен боловсруулах агентын ажлуудыг гүйцэтгэхэд чиглэгддэг.\n\nQwenGyre нь график процессор (GPU)-уудыг сургалт болон гүйцэтгэлийн хооронд уян хатан хуваарилж, тооцооллын хурдыг мэдэгдэхүйц сайжруулдаг. Туршилтаар энэхүү тогтолцоог ашигласнаар загварын үнэлгээний амжилтын хувь өссөн байна.\n\nЭнэхүү судалгаа нь хөгжүүлэгчид болон судлаачдад урт хугацааны даалгавар гүйцэтгэх чадвартай AI агентуудыг сургахад чухал ач холбогдолтой юм. QwenGyre-ийн код болон дэлгэрэнгүй мэдээллийг arXiv болон албан ёсны хуудсаас үзэх боломжтой.",
+ "published": "2026-10-12T21:41:50Z",
+ "added": "2026-10-13T07:15:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

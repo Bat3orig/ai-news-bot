@@ -1,0 +1,16 @@
+{
+ "id": "781486ed73819888",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+ "image": "https://nirajrajgor.com/blog/kindle-photo-frame/cover.jpg",
+ "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+ "summary_en": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 141 # Comments: 93",
+ "title_mn": "Хөгжүүлэгч хуუчирсан Kindle төхөөрөмжөө хиймэл оюун ухааны тусламжтайгаар зургийн жааз болголоо",
+ "summary_mn": "Нэгэн хөгжүүлэгч ашиглахаа больсон Kindle төхөөрөмжөө AI агентуудын тусламжтайгаар jailbreak хийж, фото слайд үзүүлдэг апп болгон өөрчилжээ.",
+ "body_mn": "Нэгэн хөгжүүлэгч ашиглахаа больсон 10 дугаар үеийн Kindle төхөөрөмжөө хиймэл оюун ухааны агентуудын тусламжтайгаар хувийн фото слайд үзүүлдэг жааз болгон хувиргажээ. Тэрээр Codex болон T3 Code ашиглан MacBook дээрээ AI агентуудтай хамтран KindleCTL хэмээх захиалгат аппыг бүтээсэн байна.\n\nЭхэндээ GPT-5.6 Sol болон Anthropic-ийн Opus 5.5 зэрэг загваруудыг туршиж үзсэн боловч cybersecurity хамгаалалт болон файлын системд өгөгдөл хадгалах алдаанаас болж бүтэлгүйтжээ. Эцэст нь GPT-6 Astra загварыг ашиглан open-source jailbreak кодод тулгуурлан төхөөрөмжийг амжилттай тохируулсан байна.\n\nАгент нь Kindle төхөөрөмжтэй Wi-Fi-аар холбогдож, алдааг олж засварлахын тулд дэлгэцийн зургийг ашиглахын оронд оношилгооны байнгын холболт үүсгэж автоматжуулжээ. Энэхүү туршилт нь хөгжүүлэгчдэд AI агентуудыг суулгагдсан системүүд дээр туршихад сонирхолтой жишээ боллоо.",
+ "published": "2026-10-12T23:07:25Z",
+ "added": "2026-10-13T07:15:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

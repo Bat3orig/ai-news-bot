@@ -1,0 +1,16 @@
+{
+ "id": "9ae82b2a31927697",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "xAI",
+ "url": "https://x.ai/news/x-subscription",
+ "image": "https://media.x.ai/v1/website/the-x-subscription-db7a1253.png",
+ "title": "Introducing The X Subscription",
+ "summary_en": "Grok, Grok Bot, Cursor, and X Premium, all on one plan.",
+ "title_mn": "xAI компани Grok болон Cursor-ийг багтаасан The X Subscription багцыг танилцууллаа",
+ "summary_mn": "xAI компани Grok, Grok Bot, Cursor болон X Premium үйлчилгээг нэг төлөвлөгөөнд нэгтгэсэн The X Subscription багцыг худалдаанд гаргалаа. Шинэ багц нь хөгжүүлэгчдэд илүү өргөн боломж олгоно.",
+ "body_mn": "xAI компани Grok, Grok Bot, Cursor болон X Premium үйлчилгээг нэгтгэсэн The X Subscription багцыг албан ёсоор танилцууллаа. Энэхүү шинэ төлөвлөгөө нь санаа олохоос эхлээд программ бүтээх, хуваалцах хүртэлх бүх замыг нэг хиймэл оюун ухааны захиалгаар дэмжих зорилготой юм.\n\nТөлбөртэй багцуудад Grok болон Cursor хооронд хуваалцах Grok загварын хэрэглээний сан багтсан байна. Захиалга бүр Cursor-ийн хуучин төлөвлөгөөнөөс даруй хоёр дахин их код бичих боломжийг олгож байгаа бөгөөд гуравдагч талын загваруудыг Cursor дотор API үнээр ашиглах боломжтой хэвээр үлджээ.\n\nБагийн хэрэглэгчид болон Enterprise харилцагчдад зориулсан админ хяналт, нэгдсэн тооцоо, SSO зэрэг боломжуудыг нэгтгэсэн бөгөөд хэрэглэгчид одоо байгаа төлөвлөгөөнөөсөө шилжих эсвэл шинээр холбогдох боломжтой.",
+ "published": "2026-10-12T22:41:48Z",
+ "added": "2026-10-13T07:15:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

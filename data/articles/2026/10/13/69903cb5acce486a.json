@@ -1,0 +1,16 @@
+{
+ "id": "69903cb5acce486a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Anthropic",
+ "url": "https://www.anthropic.com/research/distillation-defenses",
+ "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/a5934d1ae8428b2a97fae1963a5f427594fc7202-1200x630.jpg",
+ "title": "Strengthening our defenses against distillation attacks",
+ "summary_en": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+ "title_mn": "Anthropic загварын чадвар хулгайлах халдлагаас хамгаалах арга барилаа танилцуулав",
+ "summary_mn": "Anthropic компани Claude загварын чадварыг хууль бусаар хуулбарлах (distillation) оролдлогуудыг 90-99 хувиар бууруулжээ. Энэ хамгаалалтын улмаас триллион токенийн орлогоос татгалзахад хүрсэн байна.",
+ "body_mn": "Anthropic компани бусад лабораториуд Claude загварын чадварыг зөвшөөрөлгүйгээр хуулж, өөрсдийн жижиг загваруудыг сургах буюу \"дистилляцийн халдлага\" хийхийг таслан зогсоох шинэ хамгаалалтын системүүдийг нэвтрүүлснээ зарлалаа. Эхний үр дүнгээс үзэхэд эдгээр арга хэмжээ нь хууль бус мэдээлэл цуглуулах урсгалыг 90-99 хүртэл хувиар бууруулсан байна.\n\nДистилляцийн халдлага нь хуурамч хаягуудын сүлжээгээр дамжуулан хүчирхэг загварын хариултуудыг бөөнөөр нь цуглуулж, өөрийн загварыг хямд зардлаар хурдан сайжруулах зорилготой байдаг аж. Тухайлбал, Хятадын Zhipu компани GLM-5.3 загвараа хөгжүүлэхдээ, мөн Moonshot AI-ийн Kimi загварт ирсэн хүсэлтүүдийг нууцаар Claude рүү чиглүүлэн өгөгдөл цуглуулж байсныг тус компани жишээ болгон дурджээ.\n\nAnthropic-ийн мэдээлснээр уг хамгаалалтыг нэвтрүүлснээр олон триллион токенийн төлбөртэй урсгал болон томоохон орлогоос татгалзахад хүрсэн байна. Мөн зарим албан ёсны хөгжүүлэгчид болон хэрэглэгчид өөрсдийн API интеграцчлалд зохих өөрчлөлт оруулах шаардлага тулгарчээ.",
+ "published": "2026-10-12T09:30:00Z",
+ "added": "2026-10-13T07:15:33Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

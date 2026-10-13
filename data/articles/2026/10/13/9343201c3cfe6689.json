@@ -1,0 +1,16 @@
+{
+ "id": "9343201c3cfe6689",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Pasquale Pillitteri",
+ "url": "https://pasqualepillitteri.it/en/news/23162/enderman-says-musk-grok-lego-order-canceled",
+ "image": "https://pasqualepillitteri.it/uploads/img/news/musk-grok-lego-ordine-cover.webp",
+ "title": "Enderman Says Musk's LEGO Order Placed by Grok Bot Was Canceled",
+ "summary_en": "Enderman says Musk's LEGO order placed by Grok Bot was canceled. The billionaire posted a $241.34 purchase of five sets with order details visible.",
+ "title_mn": "Grok Bot-оор хийсэн Илон Маскийн LEGO захиалгыг YouTuber цуцалжээ",
+ "summary_mn": "Илон Маск Grok Bot ашиглан худалдан авсан LEGO-ийнхоо дэлгэцийн зургийг нийтлэхдээ захиалгын дугаараа ил үлдээсний улмаас нэгэн хэрэглэгч тус захиалгыг нь цуцлах хүсэлт илгээжээ.",
+ "body_mn": "Илон Маск өөрийн X хуудсандаа Grok Bot ашиглан 241 ам.долларын LEGO Star Wars багцыг хэрхэн хялбархан захиалснаа харуулсан зургийг нийтэлсэн байна. Гэвч уг дэлгэцийн зурагт захиалгын дугаар, хүргэлтийн хаяг болон картын сүүлийн дөрвөн орон нууцлалгүй ил харагдаж байжээ.\n\nҮүний дараа Enderman хэмээх YouTuber уг захиалгын дугаарыг ашиглан LEGO-ийн туслах чатботоор дамжуулан цуцлах хүсэлт илгээж, \"Хүмүүс ээ, мэдээллээ сүлжээнд бүү нийтэл\" хэмээн хариу тавьжээ. LEGO-ийн чатбот хүсэлтийг хүлээн авч, тусгай баг руу шилжүүлснээ мэдэгдсэн байна.\n\nЭнэхүү үйл явдал нь AI агентаар дамжуулан цахим худалдан авалт хийх үйл явц болон хувийн мэдээллийн нууцлалын асуудал хэр зэрэг эмзэг болохыг харуулсан тод жишээ боллоо. Өмнө нь Маск Grok-т төлбөрийн картынхаа зургийг оруулаад худалдан авалт хийлгэхийг хэрэглэгчдэд санал болгож байсан нь аюулгүй байдлын шинжээчдийн шүүмжлэлд өртөж байсан юм.",
+ "published": "2026-10-12T18:07:34Z",
+ "added": "2026-10-13T07:15:33Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

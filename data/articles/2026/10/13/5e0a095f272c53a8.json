@@ -1,0 +1,16 @@
+{
+ "id": "5e0a095f272c53a8",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Cryptonews",
+ "url": "https://cryptonews.com/news/anthropics-claude-ai-predicts-chainlink-price/",
+ "image": "https://cryptonews.com/wp-content/uploads/2026/10/1791813403-chatgpt-image-sep-11-2026-06_37_55-pm.jpg",
+ "title": "Anthropic’s Claude AI Predicts a Wild Price for Chainlink (LINK)",
+ "summary_en": "Anthropic's Claude AI predicts that in a peak bull-market setup, Chainlink (LINK) could hit $150–$250 by January 1, 2027, with a stretch target toward $300+ if a full-blown crypto bull market returns and a landmark catalyst turbocharges it.LINK currently trades...",
+ "title_mn": "Anthropic-ийн Claude AI Chainlink (LINK)-ийн үнийн төлөвд дүн шинжилгээ хийжээ",
+ "summary_mn": "Anthropic-ийн Claude AI Chainlink коины үнийн ирээдүйн боломжит төлөвт дүн шинжилгээ хийлээ.",
+ "body_mn": "Anthropic компанийн Claude AI загвар криптовалютын зах зээл дэх Chainlink (LINK) коины үнийн ирээдүйн төлөвийг шинжлэлээ. Шинжээчдийн үзэж буйгаар тодорхой нөхцөл байдал бүрдвэл уг коины үнэ өсөх боломжтой байна.\n\nУг таамаглал нь санхүүгийн томоохон байгууллагууд болон засгийн газрууд Chainlink-ийн технологи болон CCIP сүлжээг үндсэн дэд бүтцэд ашиглах болно гэсэн таамаглал дээр суурилсан болно. Гэсэн хэдий ч энэ нь зах зээлийн таамаглал бөгөөд бодит байдалд хэрэгжихэд томоохон зохицуулалт шаардлагатай юм.\n\nХиймэл оюун ухааны загваруудын гаргаж буй이йм төрлийн санхүүгийн таамаглал нь сонирхол татахуйц мэдээлэл төдийгүй зах зээлийн чиг хандлагыг сонирхогчдод хүрдэг байна.",
+ "published": "2026-10-12T22:18:00Z",
+ "added": "2026-10-13T07:15:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}
