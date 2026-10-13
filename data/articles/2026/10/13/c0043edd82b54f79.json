@@ -1,0 +1,16 @@
+{
+ "id": "c0043edd82b54f79",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "TestingCatalog AI News",
+ "url": "https://www.testingcatalog.com/anthropic-tests-new-model-opus-5-5-routing-opus-5-6-fable-5-5/",
+ "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/10/anthropic-thinking-featured.webp",
+ "title": "Anthropic tests its next model under Claude Opus 5.5",
+ "summary_en": "Some Claude users say their Opus 5.5 requests are landing on a new, unannounced model, and the outputs shared on X so far look like a real step up. Whether it ends up as Opus 5.6 or Fable 5.5 is still unclear.",
+ "title_mn": "Anthropic шинэ Claude Opus 5.5 загвараа туршиж эхэлжээ",
+ "summary_mn": "Anthropic компани өөрийн Claude Opus 5.5 загварын шинэ хувилбарыг олон нийтийн дунд нууц байдлаар туршиж эхэлсэн бололтой. Зарим хэрэглэгчид уг загварын хурд болон нарийвчлал өмнөхөөсөө эрс сайжирсныг анзаарчээ.",
+ "body_mn": "Anthropic компани Claude Opus 5.5 загварынхаа дараагийн шинэ хувилбарыг зах зээл дээр чимээгүйхэн туршиж эхэлсэн байна. Зарим хэрэглэгчид болон хөгжүүлэгчид сошиал сүлжээнд уг загварын гаргаж буй үр дүн өмнөх хувилбаруудаасаа илүү гүнзгий, нарийн байгааг тэмдэглэжээ.\n\nТуршилтын явцад зарим хэрэглэгчид Blender-ийн MCP хэрэгслийг ашиглан ганцхан өгүүлбэрээр маш нарийн 3D дүрслэл болон хөдөлгөөнт анимац бүтээсэн байна. Энэ нь загварын кодол болон дүрслэх чадвар өндөр түвшинд хөгжсөнийг харуулж байна.\n\nAnthropic саφαрын сүүлээр Sonnet 5.5 болон Haiku 5.5 загваруудыг гаргаад байсан бөгөөд одоо Opus болон Fable цувралуудынхаа шинэ хувилбаруудыг амжилттай туршиж байна. Хөгжүүлэгчдийн хувьд эдгээр шинэ загварууд нь код бичих болон контент бүтээх ажлыг илүү хялбар болгож байна.",
+ "published": "2026-10-12T13:14:53Z",
+ "added": "2026-10-13T00:53:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

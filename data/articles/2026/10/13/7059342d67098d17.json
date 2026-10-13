@@ -1,0 +1,16 @@
+{
+ "id": "7059342d67098d17",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png",
+ "title": "Muse Wonder now available on AI Gateway",
+ "summary_en": "Muse Wonder from Meta is now available on AI Gateway. The model is designed for coding, long-running agents, and computer use. It can plan multi-step tasks, delegate work to sub-agents, and recover from errors as work progresses. Muse Wonder has a 1M-token context window and supports text, image, and PDF input, tool calling, and structured output. Agents can work with code, screenshots, and documents in the same workflow. You can access the model through AI Gateway with one API key, without creating a separate Meta account. Set AI_GATEWAY_API_KEY in your environment, then use…",
+ "title_mn": "Meta-гийн Muse Wonder загвар AI Gateway-д нэмэгдлээ",
+ "summary_mn": "Meta компанийн код бичих, агент болон компьютер ашиглахад зориулсан Muse Wonder загвар Vercel-ийн AI Gateway-д нэмэгдлээ. Энэхүү загвар нь 1 сая токенийн контекцтэй бөгөөд нэг API түлхүүрээр ажиллах боломжтой.",
+ "body_mn": "Meta компаниас гаргасан Muse Wonder загвар нь одоо Vercel-ийн AI Gateway платформоор дамжин хөгжүүлэгчдэд хүрч байна. Энэхүү загвар нь олон шаттай ажлыг төлөвлөх, дэд агентуудад ажил хуваарилах, алдааг өөрөө засах чадвартайгаараа онцлог юм.\n\nЗагвар нь 1 сая токенийн контекц цонхыг дэмждэг ба текст, зураг, PDF файлуудыг боловсруулах, функц дуудах (tool calling) чадвартай. Хөгжүүлэгчид тусдаа Meta-гийн бүртгэл үүсгэхгүйгээр AI Gateway-ийн нэг API түлхүүрийг ашиглан нэвтрэх боломжтой аж.\n\nAI_GATEWAY_API_KEY тохиргоог хийсний дараа meta/muse-wonder-1.0 нэрээр төслүүддээ ашиглаж эхлэх боломжтой. Энэ нь хөгжүүлэгчдэд олон төрлийн загваруудыг нэг доос дуудах, зардал болон ашиглалтыг хянах боломжийг олгож байна.",
+ "published": "2026-10-12T00:00:00Z",
+ "added": "2026-10-13T00:53:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

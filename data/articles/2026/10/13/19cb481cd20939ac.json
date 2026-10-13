@@ -1,0 +1,16 @@
+{
+ "id": "19cb481cd20939ac",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "DQ",
+ "url": "https://www.dqindia.com/news/hcltech-anthropic-partnership-enterprise-agentic-ai-12669779",
+ "image": "https://img-cdn.publive.online/fit-in/1200x675/dq/media/media_files/2026/10/12/hcltech-and-anthropic-ai-partnership-2026-10-12-20-58-57.png",
+ "title": "HCLTech, Anthropic partner to expand enterprise agentic AI deployments",
+ "summary_en": "HCLTech and Anthropic have signed a global partnership to scale enterprise agentic AI, integrating Claude and Claude Code into software engineering, cybersecurity and business applications",
+ "title_mn": "HCLTech болон Anthropic компаниуд хамтран ажиллахаар болжээ",
+ "summary_mn": "HCLTech компани Anthropic-тай стратегийн түншлэл байгуулж, байгууллагын түвшний хиймэл оюуны шийдлүүдийг зах зээлд гаргахаар боллоо.",
+ "body_mn": "HCLTech компани Anthropic-тай Дэлхийн дээд зэрэглэлийн түншлэлийн гэрээ байгуулснаа зарлалаа. Энэхүү хамтын ажиллагааны хүрээнд тус компани Claude загварт суурилсан дэвшилтэт шийдлүүдийг хөгжүүлэх тусгай бизнес нэгжийг байгуулахаар төлөвлөжээ.\n\nТүншлэл нь програм хангамжийн инженерчлэл, кибер аюулгүй байдал, бизнесийн автоматжуулалтыг хамарч байна. HCLTech өөрийн бүтээгдэхүүнүүддээ Claude болон Claude Code хэрэгслүүдийг нэгтгэснээр үйлчлүүлэгчдэд илүү найдвартай орчныг бүрдүүлж өгөх юм.\n\nЭнэхүү алхам нь байгууллагууд туршилтын үе шатнаас бодит хэрэглээ рүү шилжихэд чухал түлхэц болж байгаа бөгөөд аюулгүй байдлын бодлого, хүний хяналтыг хослуулан хэрэгжүүлэхэд анхаарч байна.",
+ "published": "2026-10-12T15:29:00Z",
+ "added": "2026-10-13T00:53:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

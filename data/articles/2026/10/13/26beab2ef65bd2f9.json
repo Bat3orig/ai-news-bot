@@ -1,0 +1,16 @@
+{
+ "id": "26beab2ef65bd2f9",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "shattered.io",
+ "url": "https://shattered.io/anthropic-claude-usage-policy-arrest-ban-2026/",
+ "image": "https://shattered.io/wp-content/uploads/2026/10/anthropic-claude-usage-policy-arrest-ban-2026-gen.jpg",
+ "title": "Anthropic Bars Claude From Arrest Calls by Nov. 12",
+ "summary_en": "Anthropic's updated Claude usage policy bars AI from arrest and prosecution calls, bans drone weapons use, takes effect Nov. 12, 2026.",
+ "title_mn": "Anthropic Claude-ийн хэрэглээний шинэ дүрэм баталжээ",
+ "summary_mn": "Anthropic компани Claude загварын хэрэглээний шинэчилсэн бодлогоо танилцууллаа. Уг шинэ дүрэм нь зэвсэг, тагнуул, сонгууль болон хиймэл оюунд хүндэтгэлтэй хандах зэрэг асуудлуудыг хамарч байна.",
+ "body_mn": "Anthropic компани Claude загварын хэрэглээг хязгаарлах шинэчилсэн бодлогоо албан ёсоор танилцуулж, хэрэгжих хугацааг зарлалаа. Шинэчилсэн журмаар Claude-ийг эрх зүйн шийдвэр гаргах, мөрдөн шалгах, зэвсэг болон бие даасан систем хөгжүүлэхэд ашиглахыг хатуу хориглосон байна.\n\nТүүнчлэн уг бодлогоор хиймэл оюун ухаанд хандах зүй бус болон харгис хэрцгий харилцааг хориглосон заалт оруулжээ. Энэ нь хэрэглэгчдийг хамгаалахаас илүүтэй хиймэл оюуны төлөв байдлыг харгалзсан шийдвэр болж байна.\n\nКомпанийн зүгээс энэхүү шинэчлэл нь хэрэглэгчдийн санал хүсэлт, зохицуулалтын шаардлагад үндэслэсэн болохыг онцлов. Шинэ дүрмүүд товлосон хугацаанд хүчин төгөлдөр болох бөгөөд хөгжүүлэгчид болон байгууллагууд үйл ажиллагаагаа эргэн харах шаардлагатай болж байна.",
+ "published": "2026-10-12T14:14:05Z",
+ "added": "2026-10-13T00:53:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

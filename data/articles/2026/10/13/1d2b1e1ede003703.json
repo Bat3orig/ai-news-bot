@@ -1,0 +1,16 @@
+{
+ "id": "1d2b1e1ede003703",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Rediff",
+ "url": "https://www.rediff.com/business/report/hcltech-partners-with-anthropic-for-agentic-ai-solutions/20261012.htm",
+ "image": "https://im.rediff.com/1200-630/money/2026/aug/04anthropic1.jpg",
+ "title": "HCLTech To Build Agentic AI Solutions With Anthropic's Claude",
+ "summary_en": "HCLTech has announced a global partnership with Anthropic to establish a dedicated business unit focused on developing agentic AI solutions for enterprise clients using Anthropic's Claude. The collaboration aims to help businesses adopt AI systems that operate with minimal human intervention, prioritising safety, cybersecurity, and governance. HCLSoftware will also integrate Claude into its enterprise products.",
+ "title_mn": "HCLTech компани Anthropic-тай хамтран агент AI шийдлүүдийг хөгжүүлнэ",
+ "summary_mn": "HCLTech компани байгууллагын үйлчлүүлэгчдэд зориулсан агент хиймэл оюун ухааны шийдлүүдийг хөгжүүлэх зорилгоор Anthropic-тай дэлхийн хэмжээний стратегийн түншлэл байгууллаа. Тэд Claude болон Claude Code загваруудыг өөрсдийн бүтээгдэхүүнүүддээ нэгтгэх юм.",
+ "body_mn": "HCLTech компани Anthropic-тай стратегийн түншлэл зарлаж, аж ахуйн нэгжүүдэд зориулсан найдвартай агент хиймэл оюун ухааны (agentic AI) шийдлүүдийг бүтээхээр болжээ. Энэ хүрээнд тэд тусгай бизнес нэгж байгуулж, Claude загваруудыг нэвтрүүлэх аж.\n\nШинэ бизнес нэгж нь хэрэглэгчдэд аюулгүй орчинд Claude загваруудыг турших, нэвтрүүлэх боломжийг олгох юм. Түүнчлэн HCLSoftware нь Anthropic-ын бие даасан программ хангамжийн түнш болж, Claude загварыг HCL BigFix болон HCL AppScan зэрэг кибер аюулгүй байдал, автоматжуулалтын бүтээгдэхүүнүүддээ суулгахаар болжээ.\n\nMөн HCLTech өөрийн AIForce программ хангамж инженерчлэлийн платформдоо Claude болон Claude Code-ийг нэмж, мэдээллийн технологийн дэмжлэг үзүүлэх болон код засварлах ажлуудад хүний хяналттайгаар ашиглах ажээ.",
+ "published": "2026-10-12T12:30:43Z",
+ "added": "2026-10-13T00:53:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

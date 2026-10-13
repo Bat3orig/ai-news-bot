@@ -1,0 +1,16 @@
+{
+ "id": "174b3c7df23d0b2e",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Forkast News",
+ "url": "https://forkast.news/two-clocks-no-commitments-what-enterprise-deployers-actually-face-on-oct-15/",
+ "image": "https://forkast.news/wp-content/uploads/2026/10/two-clocks-no-commitments-hero-v3-1024x687.jpg",
+ "title": "Two Clocks, No Commitments: What Enterprise Deployers Actually Face on Oct 15",
+ "summary_en": "StepFun's promised weights and Anthropic's \"Not sooner than October 15, 2026\" for Haiku 4.5 land on the same day. Neither is contractual, and that is exactly what deployers have to plan around.",
+ "title_mn": "Anthropic хуучин Haiku 4.5 загвараа шинэчлэх шилжилтийн үеийг зарлалаа",
+ "summary_mn": "Anthropic компани хямд өртөгтэй Claude Haiku 5.5 загварыг гаргаснаар хуучин Haiku 4.5-ийн үйлчилгээ дуусах хугацааг тодорхойлж, хөгжүүлэгчдийг шинэ загвар руу шилжихийг уриаллаа.",
+ "body_mn": "Anthropic өөрийн загваруудын ашиглалтын мөчлөгийн хуудсаа шинэчилж, Claude Haiku 4.5 загварын платформоос хасагдах хамгийн эхний хугацааг 10-р сарын 15 гэж тэмдэглэжээ. Хэдийгээр шууд зогсоох албан ёсны шийдвэр хараахан гараагүй ч тус компани үйлчилгээгээ хаахаас 60 хоногийн өмнө мэдэгддэг дүрэмтэй тул энэ нь шилжилт эхэлснийг илтгэж байна.\n\nТус компани 10-р сарын 7-нд өндөр ачаалалтай ажлуудад зориулсан Claude Haiku 5.5 хувилбарыг танилцуулсан бөгөөд энэ нь 100,000 хүртэлх токентой хүсэлтэд Haiku 4.5-аас 90 хувь хямд үнэтэй юм. 1 сая гаралтын токен тутмын үнэ ердөө 0.50 ам.доллар болж буурсан нь хөгжүүлэгчдэд томоохон хэмнэлт авчирч байна.\n\nAlphaSense, Box зэрэг томоохон харилцагчид Haiku 5.5 руу шилжсэнээр хурд нь хоёр дахин нэмэгдэж, гүйцэтгэл нь мэдэгдэхүйц сайжирсан тухай мэдээлсэн тул хөгжүүлэгчид API дуудлагуудаа шинэ хувилбар луу шилжүүлэх бэлтгэлээ хангах шаардлагатай болж байна.",
+ "published": "2026-10-12T15:05:55Z",
+ "added": "2026-10-13T00:53:25Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "7f386f2c4c4fb7fe",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Memeburn",
+ "url": "https://memeburn.com/claude-in-gemini/",
+ "image": "https://memeburn.com/wp-content/uploads/2026/10/Google-Just-Put-Claude-Inside-Gemini.-The-Company-Picking-Your-AI-Now-Profits-Either-Way.jpg",
+ "title": "Claude in Gemini 2026: Why Google Let a Rival Into Its Menu",
+ "summary_en": "Claude in Gemini is real in 2026: Google's new Gemini agent lists Claude Opus and Sonnet next to its own models. What it means, what it costs, and who wins.",
+ "title_mn": "Google өөрийн Gemini платформдоо Anthropic-ийн Claude загваруудыг нэгтгэлээ",
+ "summary_mn": "Google корпорац шинэ Gemini корпорацын агентынхаа сонголтод өөрийн Gemini 4 Argon загвараас гадна Anthropic-ийн Claude Opus 5 болон Sonnet 5.5 загваруудыг албан ёсоор орууллаа.",
+ "body_mn": "Google Cloud-ийн Gemini at Work арга хэмжээний үеэр гүйцэтгэх захирал Томас Куриан ажлын орчинд зориулсан шинэ нэгдсэн Gemini агентыг танилцууллаа. Хамгийн сонирхолтой нь уг агентын загвар сонгох цэсэд Google-ийн шинэ Gemini 4 Argon загварын доор гол өрсөлдөгч Anthropic-ийн Claude Opus 5 болон Sonnet 5.5 загварууд багтсан байна.\n\nGoogle-ийн үзэж байгаагаар Gemini агент нь санах ой, холболт болон хэрэгслүүдийг нэгтгэсэн хүрээ бөгөөд арын тооцоолох LLM загварыг хэрэглэгч өөрөө сонгох боломжтой юм. Агент нь томоохон даалгавруудыг гүйцэтгэхдээ өөр өөр дэд хэсгүүдийг тохирох загварууд руу хуваарилан ажиллуулах чадвартай.\n\nӨмнө нь Claude зөвхөн Google Cloud-ийн хөгжүүлэгчдийн дэд бүтцээр дамжин гардаг байсан бол одоо тэрбум гаруй хэрэглэгчтэй Gemini үндсэн бүтээгдэхүүний өмнө шууд гарч ирж байгаа нь хөгжүүлэгчид болон байгууллагуудад загвар сонголтын том эрх чөлөө олгож байна.",
+ "published": "2026-10-12T14:04:28Z",
+ "added": "2026-10-13T00:53:25Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

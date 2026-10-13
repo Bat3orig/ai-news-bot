@@ -1,0 +1,16 @@
+{
+ "id": "f3dfb516f3a43a8d",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Geeky Gadgets",
+ "url": "https://www.geeky-gadgets.com/claude-motion/",
+ "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/10/claude-motion-animations.jpg",
+ "title": "Anthropic Launches Claude Motion to Turn Reports Into Interactive Animations",
+ "summary_en": "Anthropic's Claude Motion creates data animations in code while OpenAI launches GPT-6 with interactive Intelligent UI elements for all users.",
+ "title_mn": "Anthropic компани Claude Motion болон Dashboards хэрэгслүүдийг танилцууллаа",
+ "summary_mn": "Anthropic компани тайлан мэдээллийг хөдөлгөөнт дүрс болон интерактив хэлбэрт шилжүүлэх Claude Motion болон Claude Dashboards хэрэгслүүдийг гаргалаа. Эдгээр шинэ боломжууд нь хэрэглэгчдэд өгөгдлийг илүү ойлгомжтой байдлаар удирдах боломж олгоно.",
+ "body_mn": "Anthropic компани хиймэл оюун ухааны бүтээгдэхүүнүүддээ зориулсан шинэ боломжуудыг зарлалаа. Үүнд үндсэн өгөгдлөөс хөдөлгөөнт дүрс үүсгэх зориулалттай Claude Motion болон интерактив дүрслэл хийх Claude Dashboards багтаж байна.\n\nЭдгээр шинэ хэрэгслүүд нь Google Workspace-тэй нягт уялдаж, хэрэглэгчдэд Docs болон Sheets аппликейшн дотор шууд баримт бичиг засах, томьёо үүсгэх, слайд дизайн хийх боломжийг олгодог. Энэ нь мэргэжилтнүүд болон байгууллагуудад мэдээллийг илүү бүтээгдэхүүн сайтайгаар удирдан үзүүлэхэд туслах юм.\n\nСүүлийн үеийн технологийн дэвшлүүд нь хэрэглэгч төвтэй дизайн, уян хатан байдалд түлхүү анхаарч байгааг энэхүү шинэчлэл харуулж байна. Хөгжүүлэгчид болон энгийн хэрэглэгчдэд зориулсан эдгээр хэрэгслүүд нь өдөр тутмын ажлын урсгалыг ихээхэн хөнгөвчлөх зорилготой юм.",
+ "published": "2026-10-12T12:03:09Z",
+ "added": "2026-10-13T00:53:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite"
+}

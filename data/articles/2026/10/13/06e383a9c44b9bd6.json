@@ -1,0 +1,16 @@
+{
+ "id": "06e383a9c44b9bd6",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "AI News",
+ "url": "https://www.artificialintelligence-news.com/news/alibaba-details-qwengyre-accelerate-extreme-horizon-agent-training/",
+ "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/10/browser-download-20261012T133740.320358371Z-0-stan-hutter-oEvWT-maC6Q-unsplash-scaled.jpg",
+ "title": "Alibaba details QwenGyre to accelerate extreme-horizon agent training",
+ "summary_en": "Alibaba Qwen researchers have detailed QwenGyre, an elastic reinforcement learning framework that trains extreme-long horizon agents on multi-hour software engineering tasks.",
+ "title_mn": "Alibaba урт хугацааны агентуудыг сургах QwenGyre фрэймворкийг танилцууллаа",
+ "summary_mn": "Alibaba болон их сургуулиудын судлаачид хэдэн зуун алхам бүхий програм хангамжийн даалгавруудыг гүйцэтгэдэг AI агентуудыг сургах QwenGyre фрэймворкийг танилцууллаа. Энэ нь сургалтын явцыг 1.85 дахин хурдасгадаг.",
+ "body_mn": "Alibaba Token Hub-ийн судлаачид Хятадын Шинжлэх ухаан, технологийн их сургууль болон Tsinghua их сургуультай хамтран QwenGyre нэртэй хүчитгэсэн сургалтын (RL) фрэймворкийг танилцууллаа. Энэхүү систем нь програм хангамжийн инженерийн нарийн төвөгтэй, хэдэн зуун харилцан үйлдэл шаардсан урт хугацааны даалгавруудыг гүйцэтгэх агентуудыг сургахад чиглэгджээ.\n\nУрт хугацааны rollout гүйцэтгэл нь нэг сессдээ 700,000-аас нэг сая хүртэлх токен зарцуулдаг бөгөөд GPU-ийн сул зогсолт болон давхардсан траекторын саатал үүсгэдэг. QwenGyre нь Elastic Scheduler-ийн тусламжтайгаар GPU-уудыг даалгавар үүсгэх болон сургалтын шатуудын хооронд динамикаар шилжүүлж, тооцооллын нөөцийн сул зогсолтыг арилгасан байна.\n\nМөн тусгай Trajectory Processor нь олон салаалсан түүхүүдийг нэгтгэн, давхардлыг арилгаж хэсэгчилсэн үр дүнд үнэлгээ өгдөг. Тестээр QwenGyre нь сургалтын хурдыг 1.21-1.85 дахин нэмэгдүүлсэн ба 2.4T параметр бүхий Qwen 3.8 загвар дээр NL2RepoBench үнэлгээний оноог зургаан хувиар ахиулжээ.",
+ "published": "2026-10-12T13:46:47Z",
+ "added": "2026-10-13T00:53:25Z",
+ "ai": "gemini:gemini-3.8-flash"
+}
