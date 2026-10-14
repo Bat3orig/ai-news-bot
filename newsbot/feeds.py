@@ -156,7 +156,7 @@ def collect(sources: list[Source], topics: Topics, state: State, now: datetime,
             continue
         stats["ok"].append(src.name)
         bootstrap = state.first_run or src.name not in state.sources
-        fresh = 0
+        fresh = skipped = 0
         for entry in entries:
             item = build_item(entry, src, topics)
             if item is None:
@@ -181,14 +181,20 @@ def collect(sources: list[Source], topics: Topics, state: State, now: datetime,
             if any(k in run_keys for k in item.keys):
                 continue
             run_keys.update(item.keys)
+            if src.limit and fresh >= src.limit and not bootstrap:
+                # Ranked feeds (GitHub Trending): only the top N new ones, drop the rest.
+                state.mark(item.keys, today)
+                skipped += 1
+                continue
             if bootstrap:
                 state.mark(item.keys, today)
                 stats["bootstrapped"] += 1
             else:
                 candidates.append(item)
                 fresh += 1
-        log.info("[%s] %d entries, %d new%s", src.name, len(entries), fresh,
-                 " (bootstrap)" if bootstrap else "")
+        log.info("[%s] %d entries, %d new%s%s", src.name, len(entries), fresh,
+                 " (bootstrap)" if bootstrap else "",
+                 f", {skipped} over limit {src.limit}" if skipped else "")
         if src.name not in state.sources:
             state.sources.append(src.name)
 

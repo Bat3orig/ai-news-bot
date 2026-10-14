@@ -83,12 +83,18 @@ You receive news items as JSON. For EVERY item return one object with the same "
     gadgets and hardware, general-audience explainers.
   1 = spam, SEO comparison pages, crypto or stock price predictions, listicles, unrelated items.
   Use 1 when relevant is false. Release notes from a dedicated repository are at least 3.
+  GitHub repositories: 4-5 = useful, well-made developer tool, library, framework or app;
+  3 = interesting project; 1-2 = link lists, course notes, piracy, tools for getting paid APIs
+  for free or evading terms of service, non-software.
 - subtopic: exactly one id from that item's "subtopic_options".
 - title_mn: a natural Mongolian headline (Cyrillic), at most 110 characters.
 - summary_mn: 2-3 sentences, at most 320 characters: the key news for a Telegram post.
 - body_mn: 3-5 short paragraphs (150-300 words) explaining what happened, the important details and
   numbers, and why it matters for developers. Separate paragraphs with a blank line. Plain text,
   no markdown, no headings.
+
+- editor_note (only on some items): follow it for that item; it says what kind of item it is
+  and what to focus on. It can narrow what deserves a score of 3 or more.
 
 Rules:
 - Write fluent, natural Mongolian in Cyrillic script, as a Mongolian tech journalist would.
@@ -144,20 +150,24 @@ def _payload(items: list[Item], topics: Topics, already: list[str]) -> str:
         if it.source.subtopic:
             options = [it.source.subtopic]
         elif it.source.section:
-            options = [s.id for s in topics.subtopics.values() if s.section.id == it.source.section]
+            options = [s.id for s in topics.subtopics.values()
+                       if s.section.id == it.source.section and not s.dedicated]
         else:
-            options = list(topics.subtopics)
+            options = [s.id for s in topics.subtopics.values() if not s.dedicated]
         # Put the keyword guess first as a hint.
         if it.subtopic and it.subtopic.id in options:
             options.remove(it.subtopic.id)
             options.insert(0, it.subtopic.id)
-        rows.append({
+        row = {
             "id": it.id,
             "source": it.publisher or it.source.name,
             "title": it.title,
             "text": it.extra.get("text") or it.summary,
             "subtopic_options": options,
-        })
+        }
+        if it.source.ai_hint:
+            row["editor_note"] = it.source.ai_hint
+        rows.append(row)
     return json.dumps({"already_published": already, "items": rows},
                       ensure_ascii=False)
 

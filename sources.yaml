@@ -12,6 +12,8 @@
 #   keywords          Нэмэлт шүүлтүүр: гарчиг/товчлолд эдгээрийн аль нэг байх ёстой
 #   skip_prereleases  true бол canary/alpha/beta/rc/nightly хувилбарыг алгасна
 #   title_regex       Гарчиг энэ regex-тэй таарсан мэдээг л авна
+#   limit             Нэг удаад зөвхөн эхний N шинэ мэдээг авч, үлдсэнийг алгасна (GitHub Trending)
+#   ai_hint           AI-д өгөх нэмэлт заавар (энэ эх сурвалжийн мэдээг юуг онцолж бичих вэ)
 #   enabled           false бол түр унтраана
 #
 # Google News: https://news.google.com/rss/search?q=<QUERY>&hl=en-US&gl=US&ceid=US:en
@@ -207,6 +209,30 @@ sources:
     url: https://vercel.com/atom
     subtopic: vercel-cloud
 
+  # Долоо хоног бүрийн newsletter: шинэ package, framework, хэрэгслүүд
+  - name: JavaScript Weekly
+    url: https://cprss.s3.amazonaws.com/javascriptweekly.com.xml
+    subtopic: packages
+    ai_hint: &newsletter >-
+      Weekly newsletter issue. Write about the 3-5 most notable libraries, frameworks, packages,
+      tools and releases in it (what each is and why developers care), not about the newsletter.
+      title_mn names the main highlight(s). Score 4 unless the issue has nothing notable.
+
+  - name: Node Weekly
+    url: https://cprss.s3.amazonaws.com/nodeweekly.com.xml
+    subtopic: packages
+    ai_hint: *newsletter
+
+  - name: React Status
+    url: https://cprss.s3.amazonaws.com/react.statuscode.com.xml
+    subtopic: packages
+    ai_hint: *newsletter
+
+  - name: Frontend Focus
+    url: https://cprss.s3.amazonaws.com/frontendfoc.us.xml
+    subtopic: packages
+    ai_hint: *newsletter
+
   # ====================== UI/UX ======================
   - name: shadcn/ui
     url: https://ui.shadcn.com/rss.xml
@@ -258,6 +284,67 @@ sources:
   - name: Chrome for Developers
     url: https://developer.chrome.com/static/blog/feed.xml
     subtopic: css-web
+
+  # ====================== GitHub ======================
+  # Өдөр бүрийн trending repo-ууд (github.com/trending-ийн RSS). limit: нэг өдөрт хэлээр нь
+  # дээд тал нь хэдэн шинэ repo оруулах.
+  - name: GitHub Trending TypeScript
+    url: https://mshibanami.github.io/GitHubTrendingRSS/daily/typescript.xml
+    subtopic: gh-js
+    limit: 2
+    ai_hint: &trending >-
+      Trending GitHub repository (title = owner/name, text = its description and README).
+      Introduce it: what it does, key features, tech stack, who it is for and how to try it.
+      title_mn: "<repo name>: <what it does>".
+
+  - name: GitHub Trending JavaScript
+    url: https://mshibanami.github.io/GitHubTrendingRSS/daily/javascript.xml
+    subtopic: gh-js
+    limit: 2
+    ai_hint: *trending
+
+  - name: GitHub Trending Python
+    url: https://mshibanami.github.io/GitHubTrendingRSS/daily/python.xml
+    subtopic: gh-python
+    limit: 3
+    ai_hint: *trending
+
+  - name: GitHub Trending Rust
+    url: https://mshibanami.github.io/GitHubTrendingRSS/daily/rust.xml
+    subtopic: gh-rust
+    limit: 3
+    ai_hint: *trending
+
+  # ==================== Vibe coding ====================
+  # AI-аар код бичих хэрэглээний зөвлөгөө, workflow (бизнесийн мэдээ биш)
+  - name: Simon Willison
+    url: https://simonwillison.net/atom/entries/
+    subtopic: vibe-coding
+    ai_hint: &vibe >-
+      Vibe coding topic: practical knowledge for people building software with AI tools
+      (tips, workflows, prompts, how-tos, new features of AI coding tools and how to use them).
+      Score 4-5 for that; general AI/model news, business or opinion without practical takeaways
+      gets 2. In body_mn focus on what the reader can try.
+
+  - name: Addy Osmani
+    url: https://addyo.substack.com/feed
+    subtopic: vibe-coding
+    ai_hint: *vibe
+
+  - name: Harper Reed
+    url: https://harper.blog/index.xml
+    subtopic: vibe-coding
+    ai_hint: *vibe
+
+  - name: Builder.io Blog
+    url: https://www.builder.io/blog/feed.xml
+    subtopic: vibe-coding
+    ai_hint: *vibe
+
+  - name: Cursor Changelog
+    url: https://cursor.com/changelog/rss.xml
+    subtopic: vibe-coding
+    ai_hint: *vibe
 
   # ================= Холимог (бүх сэдэв) =================
   # subtopic заагаагүй: topics.yaml-ийн keywords-оор ангилна

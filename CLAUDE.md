@@ -21,6 +21,17 @@ Topics (`topics.yaml`, chosen by the user — only these are sent):
 - **AI**: OpenAI, Gemini, Anthropic, xAI, Qwen, Kimi, AI DevTools
 - **Software**: React, React Native, Next.js, NestJS, Tauri, Electron, Node.js, Vercel/Cloud
 - **UI/UX**: shadcn/ui, Tailwind CSS, Motion, Design systems, CSS/Web platform
+- **Software › Packages** (2026-10-14): JavaScript Weekly, Node Weekly, React Status, Frontend Focus
+  newsletters; the AI writes about the 3–5 notable packages in each issue (`ai_hint`).
+- **GitHub** (2026-10-14): trending repos from mshibanami/GitHubTrendingRSS daily feeds for
+  TypeScript, JavaScript (both → `gh-js`), Python, Rust. Entries are undated, ranked; `limit: 2–3`
+  per feed per fetch, the rest marked seen. Subtopics are `dedicated: true` (AI never assigns them
+  to mixed sources such as Hacker News).
+- **Vibe coding** (2026-10-14, own Telegram topic): the user wants **usage-side** content (tips,
+  workflows, tool how-tos), not business news. Sources: Simon Willison (`/atom/entries/`), Addy
+  Osmani, Harper Reed, Builder.io, Cursor changelog. Reddit works locally but usually blocks
+  Actions IPs, so it is not used. Google News "vibe coding" is too business-heavy, so it is not used.
+- Source fields `limit` and `ai_hint` (passed to the AI as `editor_note`) are in `sources.yaml`.
 
 ## Layout
 | Path | Role |
@@ -87,9 +98,20 @@ python -m http.server -d public
 - Headless Chrome screenshots work: `"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --screenshot=...` (min window width is ~500px; use an iframe to test 375px).
 - Use the scratchpad for test state, never the real `state/` with non-dry runs.
 
-## Status (2026-10-08)
-- Deployed and running. First translated batch (4 AI items) came from **gemini-3.5-flash-lite**, meaning
-  **gemini-3.8-flash failed** — cause unknown. Next step: ask the user for the `AI gemini:gemini-3.8-flash … falling back:` line from the "Prepare news" step log (404 = wrong model id, 429 = low free quota).
+## Status (2026-10-14)
+- Deployed and running. gemini-3.8-flash works part of the time (45 articles 10/09–10/14), so the
+  model id is right; the fallbacks are its free-quota 429s. No action needed.
+- 2026-10-14: sending hours (08:00–21:00 MN, 10 per run) committed and pushed (`3050d14`).
+- 2026-10-14: noise filter (block list, AI score, 7-day dedup) pushed by the user (`2187778`).
+  The AI score and dedup are tested only with mocks, so check the "AI: low value" and
+  "AI: duplicate story" log lines.
+- 2026-10-14: GitHub / Vibe coding topics and Packages added. New sources bootstrap silently on
+  their first run, so the first posts arrive at the next feed update (trending updates daily).
+- **PENDING:** cleanup of old articles. The user asked for it, but deleting was blocked. The review
+  kept 63 of 237 (releases, Vercel/AI Gateway, Copilot changelog, model launches, Claude features,
+  technical HN posts) and dropped 174 (business, partnerships, IPO, crypto, AI-incident stories,
+  "cruelty to Claude" copies, customer stories, SEO sites). Redo the review with the new rules, and
+  get explicit approval before deleting.
 - 2026-10-09: duplicate-story dedup added (see Key behaviors); the AI layer is tested only with a
   mocked provider — check the next runs' "AI: duplicate story" log lines.
 - Open suggestion awaiting the user's answer: whether to drop the emoji (🤖/⚛️/🎨) from the message

@@ -30,6 +30,7 @@ class Subtopic:
     section: "Section"
     about: str = ""
     pattern: re.Pattern | None = None
+    dedicated: bool = False  # only sources that name it get it (AI never picks it)
 
 
 @dataclass
@@ -87,6 +88,8 @@ class Source:
     keywords: re.Pattern | None = None
     skip_prereleases: bool = False
     title_regex: re.Pattern | None = None
+    limit: int = 0      # take only the first N new entries per fetch (feed order); 0 = all
+    ai_hint: str = ""   # extra instruction for the AI about this source's items
 
     def accepts_title(self, title: str) -> bool:
         if self.skip_prereleases and PRERELEASE_RE.search(title):
@@ -115,7 +118,8 @@ def load_topics(path: Path = TOPICS_FILE) -> Topics:
         for t in s.get("subtopics", []):
             hashtag = re.sub(r"\W+", "", t.get("hashtag") or t["name"])
             sub = Subtopic(id=t["id"], name=t["name"], hashtag=hashtag, section=sec,
-                           about=t.get("about", ""), pattern=keyword_pattern(t.get("keywords") or []))
+                           about=t.get("about", ""), pattern=keyword_pattern(t.get("keywords") or []),
+                           dedicated=bool(t.get("dedicated")))
             if sub.id in subs:
                 raise ValueError(f"duplicate subtopic id: {sub.id}")
             sec.subtopics.append(sub)
@@ -174,5 +178,7 @@ def load_sources(topics: Topics, path: Path = SOURCES_FILE) -> list[Source]:
             keywords=keyword_pattern(s.get("keywords") or []),
             skip_prereleases=bool(s.get("skip_prereleases")),
             title_regex=re.compile(s["title_regex"], re.I) if s.get("title_regex") else None,
+            limit=max(0, int(s.get("limit") or 0)),
+            ai_hint=str(s.get("ai_hint") or "").strip(),
         ))
     return sources

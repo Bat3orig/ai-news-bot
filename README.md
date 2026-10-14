@@ -22,8 +22,10 @@ GitHub Actions (cron */30)
 | Сэдэв | Дэд сэдвүүд |
 |---|---|
 | 🤖 AI | OpenAI, Gemini, Anthropic, xAI, Qwen, Kimi, AI DevTools |
-| ⚛️ Software | React, React Native, Next.js, NestJS, Tauri, Electron, Node.js, Vercel/Cloud |
+| ⚛️ Software | React, React Native, Next.js, NestJS, Tauri, Electron, Node.js, Vercel/Cloud, Packages |
 | 🎨 UI/UX | shadcn/ui, Tailwind CSS, Motion, Design systems, CSS/Web platform |
+| 🐙 GitHub | Trending repo: TypeScript/JS, Python, Rust |
+| ✨ Vibe coding | AI-аар код бичих зөвлөгөө, workflow, хэрэгслүүд |
 
 Бот **зөвхөн эдгээр дэд сэдэвтэй холбоотой** мэдээг илгээнэ. Тодорхойлолт нь `topics.yaml`-д байна.
 
@@ -184,9 +186,9 @@ AI орчуулгыг локалаар турших бол `export GEMINI_API_KE
 
 ---
 
-## Эх сурвалжийн төлөв (2026-10-08-нд шалгасан)
+## Эх сурвалжийн төлөв (2026-10-08-нд шалгасан, 2026-10-14-нд нэмсэн)
 
-Бүх URL-ийг `requests` + `feedparser`-ээр шалгасан. 40 эх сурвалж бүгд ажиллаж байна.
+Бүх URL-ийг `requests` + `feedparser`-ээр шалгасан. 53 эх сурвалж бүгд ажиллаж байна.
 
 **🤖 AI:** OpenAI News, Google DeepMind, Google AI Blog, Google Developers Blog (keyword шүүлттэй),
 Anthropic / xAI / Qwen / Kimi (Google News), GitHub Changelog & Blog (AI keyword шүүлттэй),
@@ -194,10 +196,17 @@ anthropics/claude-code, openai/codex, openai/openai-python, ollama/ollama releas
 
 **⚛️ Software:** React Blog, facebook/react, React Native Blog, facebook/react-native, Expo Changelog,
 Next.js Blog, vercel/next.js, nestjs/nest, Tauri Blog, tauri-apps/tauri, Electron Blog, electron/electron,
-Node.js Blog, Vercel
+Node.js Blog, Vercel, JavaScript Weekly / Node Weekly / React Status / Frontend Focus (долоо хоногийн
+newsletter → Packages)
 
 **🎨 UI/UX:** shadcn/ui, shadcn-ui/ui, Tailwind CSS Blog, tailwindlabs/tailwindcss, Motion Blog,
 motiondivision/motion, Figma Blog, Smashing Magazine, CSS-Tricks, web.dev, Chrome for Developers
+
+**🐙 GitHub:** GitHub Trending (mshibanami/GitHubTrendingRSS) — TypeScript, JavaScript, Python, Rust.
+`limit`-ээр өдөрт хэлээр нь 2–3 шинэ repo л авна.
+
+**✨ Vibe coding:** Simon Willison, Addy Osmani, Harper Reed, Builder.io Blog, Cursor Changelog.
+Reddit (r/vibecoding, r/ClaudeCode) локал дээр ажилладаг ч GitHub Actions-ийн IP-г блоклодог тул нэмээгүй.
 
 **Холимог:** Hacker News (100+ оноотой, `topics.yaml`-ийн keyword-оор ангилна)
 

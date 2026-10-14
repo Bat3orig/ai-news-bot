@@ -121,6 +121,11 @@ sections:
         hashtag: Vercel
         keywords: [Vercel, Netlify, Cloudflare Workers, serverless, edge functions]
         about: Vercel platform and frontend/serverless cloud hosting
+      - id: packages
+        name: Packages
+        hashtag: Packages
+        keywords: [npm, pnpm, Yarn, Bun, Deno, Vite, Vitest, JSR, PyPI, crates.io]
+        about: Notable new or popular libraries, frameworks, runtimes and npm/PyPI/crates packages (Bun, Deno, Vite, new npm packages) not covered by another subtopic
 
   - id: uiux
     name: UI/UX
@@ -151,3 +156,36 @@ sections:
         hashtag: CSS
         keywords: [CSS, HTML, Web platform, Baseline, WebGPU, View Transitions, Interop]
         about: CSS, HTML and new web platform/browser features
+
+  # GitHub дээр олны анхаарал татаж буй (trending) repo-ууд. Зөвхөн sources.yaml-д
+  # subtopic-оор нь заасан эх сурвалжаас орно (dedicated: true).
+  - id: github
+    name: GitHub
+    emoji: "🐙"
+    subtopics:
+      - id: gh-js
+        name: TypeScript/JS
+        hashtag: TypeScript
+        dedicated: true
+        about: Trending GitHub repositories written in TypeScript or JavaScript
+      - id: gh-python
+        name: Python
+        hashtag: Python
+        dedicated: true
+        about: Trending GitHub repositories written in Python
+      - id: gh-rust
+        name: Rust
+        hashtag: Rust
+        dedicated: true
+        about: Trending GitHub repositories written in Rust
+
+  # AI-аар код бичих (vibe coding): хэрэглээний зөвлөгөө, workflow, хэрэгслүүд.
+  - id: vibe
+    name: Vibe coding
+    emoji: "✨"
+    subtopics:
+      - id: vibe-coding
+        name: Vibe coding
+        hashtag: VibeCoding
+        keywords: [vibe coding, vibe-coding, vibecoding, vibe coded, vibe-coded]
+        about: Practical use of AI coding tools (Claude Code, Cursor, Codex, Copilot agents) - tips, workflows, prompts, how-tos for building software with AI
