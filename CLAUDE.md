@@ -45,7 +45,11 @@ State (committed by the bot every run):
 ## Key behaviors / decisions (don't regress)
 - **First run** (empty seen.json): send nothing, mark all seen, send "Bot started, tracking N sources".
 - **New source** (name not in `state.sources`): its current items are marked seen silently. Renaming a source = new source.
-- Only items newer than 3 days; oldest first; 20 per run; 3 s between messages; honor 429 `retry_after`.
+- Only items newer than 3 days; oldest first; 3 s between messages; honor 429 `retry_after`.
+- Sending hours (2026-10-14, user request): Telegram only 08:00–21:00 Mongolia time (`topics.yaml` →
+  `telegram.send_hours` / `utc_offset: 8`), max 10 messages per run (`max_per_send`); the rest stay in
+  the outbox for the next run. `prepare` keeps running at night (site stays fresh): 20 items per run,
+  paused while the outbox holds ≥50 (`MAX_OUTBOX`). `send --ignore-hours` bypasses the window for tests.
 - Sources with `subtopic:` are trusted; sources without (Hacker News, Smashing with `section:`) must match `topics.yaml` keywords, and the AI can mark them `relevant: false` → dropped.
 - `skip_prereleases` drops canary/alpha/beta/rc/nightly; `title_regex` for multi-package repos (tauri, shadcn).
 - GitHub release titles get the repo prefix ("claude-code v2.1.290").

@@ -5,6 +5,7 @@ from __future__ import annotations
 import logging
 import re
 from dataclasses import dataclass, field
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import yaml
@@ -45,6 +46,21 @@ class Topics:
     sections: list[Section]
     subtopics: dict[str, Subtopic]
     keep_days: int = 180
+    send_hours: tuple[int, int] = (0, 24 * 60)  # [start, end) in minutes, local time
+    utc_offset: float = 0                       # hours; Mongolia = 8
+    max_per_send: int = 10
+
+    @property
+    def send_hours_text(self) -> str:
+        (a, b), sign = self.send_hours, "+" if self.utc_offset >= 0 else "-"
+        return f"{a // 60:02d}:{a % 60:02d}-{b // 60:02d}:{b % 60:02d} UTC{sign}{abs(self.utc_offset):g}"
+
+    def can_send(self, now: datetime) -> bool:
+        """True if `now` (aware) is inside the Telegram sending hours."""
+        local = now.astimezone(timezone(timedelta(hours=self.utc_offset)))
+        minute = local.hour * 60 + local.minute
+        start, end = self.send_hours
+        return start <= minute < end if start <= end else minute >= start or minute < end
 
     def classify(self, text: str, section: str | None = None) -> Subtopic | None:
         """Best keyword match (longest matched keyword wins, e.g. React Native > React)."""
@@ -78,9 +94,19 @@ class Source:
         return True
 
 
+def parse_hours(text: str) -> tuple[int, int]:
+    """'08:00-21:00' -> (480, 1260) minutes."""
+    m = re.fullmatch(r"\s*(\d{1,2}):(\d{2})\s*-\s*(\d{1,2}):(\d{2})\s*", str(text))
+    if not m:
+        raise ValueError(f"telegram.send_hours must look like '08:00-21:00', got {text!r}")
+    h1, m1, h2, m2 = map(int, m.groups())
+    return h1 * 60 + m1, h2 * 60 + m2
+
+
 def load_topics(path: Path = TOPICS_FILE) -> Topics:
     data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
     site = data.get("site") or {}
+    tg = data.get("telegram") or {}
     sections, subs = [], {}
     for s in data.get("sections", []):
         sec = Section(id=s["id"], name=s["name"], emoji=s.get("emoji", ""))
@@ -94,7 +120,10 @@ def load_topics(path: Path = TOPICS_FILE) -> Topics:
             subs[sub.id] = sub
         sections.append(sec)
     return Topics(site.get("title", "Dev News"), site.get("description", ""), sections, subs,
-                  int(site.get("keep_days", 180)))
+                  int(site.get("keep_days", 180)),
+                  parse_hours(tg.get("send_hours", "00:00-24:00")),
+                  float(tg.get("utc_offset", 0)),
+                  max(1, int(tg.get("max_per_send", 10))))
 
 
 def load_sources(topics: Topics, path: Path = SOURCES_FILE) -> list[Source]:

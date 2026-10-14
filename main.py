@@ -28,7 +28,8 @@ from newsbot.util import iso, link_key, similar_titles, title_tokens, truncate
 
 log = logging.getLogger("news-bot")
 
-MAX_PER_RUN = 20  # messages per run; the rest go out next run
+MAX_PER_RUN = 20  # new items processed (translated + saved) per run; the rest wait
+MAX_OUTBOX = 50   # stop processing while this many messages wait (e.g. Telegram is down)
 RECENT_DAYS = 3   # articles this recent count for duplicate-story detection
 
 
@@ -102,13 +103,14 @@ def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
         state.outbox.append({"kind": "notice", "text": f"Bot started, tracking {len(sources)} sources"})
         return False
 
-    room = max(0, MAX_PER_RUN - len(state.outbox))
+    # Outside sending hours the outbox grows overnight; keep processing so the site stays fresh.
+    room = max(0, min(MAX_PER_RUN, MAX_OUTBOX - len(state.outbox)))
     candidates.sort(key=lambda it: it.sort_time)
     recent = store.recent_titles(now, RECENT_DAYS, data_dir)
     candidates = drop_duplicates(candidates, recent, state, today)
     batch = candidates[:room]
-    log.info("%d new items, processing %d (outbox has %d, max %d per run)",
-             len(candidates), len(batch), len(state.outbox), MAX_PER_RUN)
+    log.info("%d new items, processing %d (outbox has %d, room %d)",
+             len(candidates), len(batch), len(state.outbox), room)
     if len(candidates) > len(batch):
         log.info("%d items left for the next run", len(candidates) - len(batch))
     if not batch:
@@ -156,7 +158,7 @@ def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
     return added > 0
 
 
-def send(state: store.State, dry_run: bool) -> int:
+def send(state: store.State, dry_run: bool, ignore_hours: bool = False) -> int:
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
     if not dry_run and (not token or not chat_id):
@@ -174,12 +176,17 @@ def send(state: store.State, dry_run: bool) -> int:
     if not state.outbox:
         log.info("Outbox empty, nothing to send")
         return 0
+    if not ignore_hours and not topics.can_send(datetime.now(timezone.utc)):
+        log.info("Outside sending hours (%s), keeping %d messages for later",
+                 topics.send_hours_text, len(state.outbox))
+        return 0
 
     sent = 0
     exit_code = 0
     remaining = list(state.outbox)
+    done = 0  # sent or dropped; a big overnight backlog goes out max_per_send per run
     try:
-        while remaining:
+        while remaining and done < topics.max_per_send:
             entry = remaining[0]
             if sent and not dry_run:
                 time.sleep(SEND_DELAY)
@@ -196,12 +203,13 @@ def send(state: store.State, dry_run: bool) -> int:
                 # Don't let one bad message block the queue forever.
                 log.error("Telegram rejected message, dropping it: %s", exc.description)
             remaining.pop(0)
+            done += 1
     except TelegramFatalError as exc:
         log.error("Telegram error, stopping (%d left in outbox): %s", len(remaining), exc)
         exit_code = 1
     if not dry_run:
         state.outbox = remaining
-    log.info("Sent %d messages", sent)
+    log.info("Sent %d messages, %d left for the next run", sent, len(remaining))
     return exit_code
 
 
@@ -210,6 +218,8 @@ def main() -> int:
     parser.add_argument("phase", nargs="?", choices=["prepare", "send", "all"], default="all")
     parser.add_argument("--dry-run", action="store_true",
                         help="print instead of sending; do not modify state/ or data/")
+    parser.add_argument("--ignore-hours", action="store_true",
+                        help="send even outside telegram.send_hours (topics.yaml)")
     parser.add_argument("--state-dir", type=Path, default=store.STATE_DIR)
     parser.add_argument("--data-dir", type=Path, default=store.DATA_DIR)
     args = parser.parse_args()
@@ -230,7 +240,7 @@ def main() -> int:
                 log.info("Pruned %d seen entries, %d articles", pruned, pruned_articles)
             changed = changed or pruned_articles > 0
     if args.phase in ("send", "all"):
-        exit_code = send(state, args.dry_run)
+        exit_code = send(state, args.dry_run, args.ignore_hours)
 
     if args.dry_run:
         log.info("Dry run: state/ and data/ not modified")
