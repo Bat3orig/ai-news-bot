@@ -1,0 +1,17 @@
+{
+ "id": "dbbcb182b33b2dd8",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/citrolabs/ego-lite",
+ "image": "https://repository-images.githubusercontent.com/1212503250/1e62fd1c-4ca2-40f1-aae4-6aec4614e726",
+ "title": "citrolabs/ego-lite",
+ "summary_en": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. https://lite.ego.app The fastest browser for AI agents to run web automation English · 简体中文 · 日本語 · 한국어 · Português · Español · Français · Italiano · Русский ego (lite) is a browser where you and your AI agents work in parallel. Your agents run their browser tasks in their own Spaces, isolated workspaces inside the same browser, while you keep browsing in yours, so no agent ever takes the…",
+ "title_mn": "citrolabs/ego-lite: AI агент болон хэрэглэгч зэрэг ажиллах вэб хөтөч",
+ "summary_mn": "ego lite бол хэрэглэгч болон AI агент хоёр нэг хөтөч дотор тусгаарлагдсан орчинд зэрэг ажиллах боломжийг олгодог хурдан хөтөч юм. Агент таны хувийн табыг түгжрэлгүйгээр вэб автоматжуулалтын ажлыг гүйцэтгэнэ.",
+ "body_mn": "citrolabs/ego-lite нь AI агент болон хэрэглэгчдэд зориулан бүтээгдсэн кросс-платформ хөтөч бөгөөд вэб автоматжуулалтын ажлыг илүү хурдан бөгөөд үр дүнтэй хийх боломжийг олгодог. Уламжлалт хэрэгслүүдээс ялгаатай нь ego lite нь хэрэглэгч болон агентийн хооронд хөтчийн удирдлагын төлөөх тэмцлийг арилгаж, тусгаарлагдсан Space дотор агентийн ажлыг явуулдаг.\n\nЭнэхүү хөтөч нь анх ажиллах үед таны Chrome дэх бүртгэл, күүки, өргөтгөлүүдийг шууд өвлөн авах боломжтой бөгөөд агентийн CLI-аар дамжуулан энгийн хэлээр хүсэлт илгээж автоматжуулалт хийх боломжтой. AI агент хуудасны бүтцийг текст хэлбэрт хөрвүүлэн уншиж, таны үндсэн ажлыг тасалдуулахгүйгээр ажилладаг.\n\nГүйцэтгэлийн хувьд бусад автоматжуулалтын сангуудтай харьцуулахад илүү хурдан ажиллаж, токены зарцуулалтыг багасгадаг. Одоогоор macOS дээр ажиллах ба Windows болон Linux хувилбарууд удахгүй гарах төлөвлөгөөтэй байгаа бөгөөд MIT лицензтэйгээр нээлттэй хөгжүүлэгдэж байна.",
+ "published": "2026-10-14T15:18:29Z",
+ "added": "2026-10-14T15:18:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

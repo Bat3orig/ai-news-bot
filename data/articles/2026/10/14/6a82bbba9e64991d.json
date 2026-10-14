@@ -1,0 +1,17 @@
+{
+ "id": "6a82bbba9e64991d",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/raphaelmansuy/edgequake",
+ "image": "https://opengraph.githubassets.com/8505246a4d6a8461e35b43fc47c8f272f9964443031865584c4fcc32d03f00ba/raphaelmansuy/edgequake",
+ "title": "raphaelmansuy/edgequake",
+ "summary_en": "EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation https://edgequake.com EdgeQuake Graph-RAG in Rust: one binary, one Postgres, any LLM — cloud or fully local. Turn documents into a knowledge graph and get answers with sources, not just similar chunks. Quick start · Pick your LLM · How it works · Honest numbers · Docs Quick start Needs Docker. Nothing else to install: no Rust, no Node.js, no build. curl -fsSL…",
+ "title_mn": "edgequake: Rust-аар бичигдсэн Graph-RAG систем, нэг binary ба Postgres-тэй",
+ "summary_mn": "EdgeQuake нь баримт бичгийг мэдлэгийн графт хувиргаж, эх сурвалжтай хариулт өгдөг Rust-д бичигдсэн Graph-RAG систем юм. Docker-ээр суулгаж, Ollama эсвэл OpenAI, Anthropic түлхүүрээр ажиллуулж болно.",
+ "body_mn": "raphaelmansuy/edgequake бол Graph-RAG систем бөгөөд баримт бичгүүдийг entity болон харилцаа бүхий мэдлэгийн граф болгон хувиргана. Хайлт хийхдээ vector хайлт болон граф дайралтыг хослуулдаг. Энэ нь \"хэн хэнд тайлагнадаг вэ\" эсвэл \"ямар гэрээ ямар бүтээгдэхүүнд нөлөөлдөг вэ\" гэх мэт харилцаанаас хамаарсан асуултад тустай гэж төсөл тайлбарлажээ. Систем LightRAG алгоритмыг Rust-аар хэрэгжүүлсэн.\n\nӨгөгдлийн сан нь зөвхөн Postgres, backend нь нэг Rust binary, мөн multi-tenant тусгаарлалт, auth, веб UI, MCP, SDK-үүд багтана. Суулгахдаа Docker шаардлагатай бөгөөд Rust, Node.js суулгах шаардлагагүй. Веб интерфейс дээр баримт оруулаад http://localhost:3000 хаягаар асуулт асууж болно. Ollama ашиглавал хэдэн GB загвар татагдана, харин cloud түлхүүр ашиглавал хамгийн хурдан хариулт авна.\n\nТөслийн бенчмарк дээр LightRAG-тай адил чанартай гэж зохиогчид нээлттэй тайлагнасан. Иймд гол давуу тал нь илүү нарийвчлал биш харин production-д бэлэн байдал юм. Хувилбар шинэчлэх заавар, лицензийн мэдээллийг README-ээс харна уу.",
+ "published": "2026-10-14T15:18:29Z",
+ "added": "2026-10-14T15:18:29Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

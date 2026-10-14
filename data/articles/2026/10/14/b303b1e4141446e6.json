@@ -1,0 +1,17 @@
+{
+ "id": "b303b1e4141446e6",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/ruvnet/RuView",
+ "image": "https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf",
+ "title": "ruvnet/RuView",
+ "summary_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. https://Cognitum.One/RuView π RuView Start here Hardware Models AI toolkit Smart home Cognitum Seed See through walls with WiFi Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no cameras or wearables. Just physics. Works natively with the four major smart-home ecosystems: Home Assistant via the…",
+ "title_mn": "ruvnet/RuView: Энгийн Wi-Fi дохиог орон зайн мэдрэгч болгох систем",
+ "summary_mn": "RuView нь ямар нэгэн камер эсвэл зүүдэг төхөөрөмж ашиглахгүйгээр, ердийн Wi-Fi радио долгион болон ESP32 мэдрэгч ашиглан хүний хөдөлгөөн илрүүлэх, амьсгал хэмжих spatial intelligence систем юм.",
+ "body_mn": "ruvnet/RuView нь орчин үеийн ухаалаг гэрийн системүүд болон IoT хөгжүүлэгчдэд зориулагдсан шинэлэг нээлттэй эх сурвалжтай төсөл юм. Энэхүү систем нь энгийн Wi-Fi роутер болон хямд өртөгтэй ESP32 мэдрэгчүүдийг ашиглан өрөөнд буй хүний хөдөлгөөн, амьсгалын давтамж, зүрхний цохилтыг ямар нэгэн камер болон хувийн төхөөрөмжгүйгээр хэмжих боломжийг олгодог.\n\nУг технологи нь Channel State Information (CSI) физик үзүүлэлт дээр тулгуурладаг бөгөөд хүний бие радио долгионд үзүүлэх нөлөөллийг хэмжин хиймэл оюун ухааны тусламжтайгаар боловсруулдаг. Home Assistant, Apple Home, Google Home болон Amazon Alexa зэрэг үндсэн экосистемүүдтэй шууд холбогдож ажиллах чадвартай.\n\nЭнэхүү төсөл нь хэрэглэгчийн хувийн нууцыг дээд зэргээр хамгаалж, үүлэн технологи болон камер ашиглалгүйгээр орон зайг хянах боломжийг олгодог тул ухаалаг гэрийн болон аюулгүй байдлын шийдэл хөгжүүлэгчдэд маш сонирхолтой сонголт юм.",
+ "published": "2026-10-14T15:18:29Z",
+ "added": "2026-10-14T15:18:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -58,5 +58,205 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9a5d651e4c5a403e",
+   "subtopic": "packages",
+   "source": "Frontend Focus",
+   "source_label": "Frontend Focus",
+   "url": "https://frontendfoc.us/issues/762",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1791980846/dwgixdfnss8se8vv6o8n.png",
+   "title": "The best way to use icons in Web UIs",
+   "summary_en": "🚀 Frontend Focus #​762 — October 14, 2026 | Read on the web What the iPhone Duo Means for Web Development — The Duo is out next week, so Darius fired up the simulator to try the Device Posture and Viewport Segments APIs (both available behind a flag). Using Video.js components and CSS, he tried to recreate Netflix's folded-player UI, but Apple's fullscreen restrictions made things a tad interesting. Darius Cepulis (Video.js) The Best Way to Use Icons in Web UIs — Lea shows how to insert and tweak icons without touching any HTML, using --icon custom properties, @property , style queries, and…",
+   "title_mn": "Frontend Focus #762: CSS icon систем болон TypeScript заавар",
+   "summary_mn": "Frontend Focus сонины 762 дахь дугаарт HTML ашиглахгүйгээр CSS маск, style queries ашиглан дүрс оруулах аргуудыг хөнджээ. Мөн TypeScript төрлүүдийг гүнзгийрүүлж сурах болон шинэ вэб платформ онцлогуудыг танилцуулсан байна.",
+   "body_mn": "Frontend Focus сонины шинэ дугаарт вэб хөгжүүлэлтэд хэрэгтэй олон сонирхолтой мэдээлэл болон хэрэгслүүдийг багтаажээ. Тухайлбал, Lea-ийн танилцуулсан CSS болон custom properties ашиглан HTML-д хүрэлгүйгээр вэб UI дотор дүрс оруулах арга нь уламжлалт аргаас илүү уян хатан, засварлахад хялбар болохыг харуулсан байна.\n\nҮүнээс гадна багаж хэрэгсэл болон сургалтын тал дээр AI-аар үүсгэгдсэн TypeScript кодыг шалгах, generics болон conditional types зэргийг гүнзгийрүүлж сурах зөвлөмжүүд багтжээ. Мөн Firefox-ын 2027 оны вэб платформын саналаа өгөх хэсэг нээгдсэн бөгөөд хөгжүүлэгчид өөрсдийн саналаа өгөх боломжтой болсон байна.\n\nЭнэхүү дугаарт вэб хөгжүүлэгчдийн сонирхлыг татахуйц хصف шийдлүүд болон Mozilla-аас гаргасан enterprise түвшний Firefox хувилбар, Let's Encrypt сертификатын хугацаа богиносох зэрэг чухал мэдээллүүдийг нэгтгэн хүргэсэн нь фронтенд хөгжүүлэгчдэд нэн тустай юм.",
+   "published": "2026-10-14T00:00:00Z",
+   "added": "2026-10-14T15:18:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3f7c5d6ecbf3c95b",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+   "image": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20October%2021,%202026%20Security%20Releases",
+   "title": "Wednesday, October 21, 2026 Security Releases",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "title_mn": "Node.js аюулгүй байдлын шинэчлэлтүүд 2026 оны 10 дугаар сарын 21-нд гарна",
+   "summary_mn": "Node.js төслөөс 26.x, 24.x, 22.x хувилбарын шугамуудад илэрсэн аюулгүй байдлын сул талуудыг засварлахаар 2026 оны 10 дугаар сарын 21-нд шинэ хувилбаруудыг гаргахаар зарлалаа.",
+   "body_mn": "Node.js төслийн баг 2026 оны 10 дугаар сарын 21-нд эсвэл түүний ойролцоогоор 26.x, 24.x болон 22.x хувилбаруудад зориулсан шинэчлэлтүүдийг гаргахаа мэдэгдлээ. Энэхүү шинэчлэлтийн гол зорилго нь системд илэрсэн аюулгүй байдлын сул талуудыг засах бөгөөд хамгийн өндөр зэрэглэл нь HIGH буюу өндөр түвшинд үнэлэгджээ.\n\nХөгжүүлэгчид болон систем админууд өөрсдийн ашиглаж буй орчноо аюулгүй байлгахын тулд албан ёсны хуваарийн дагуу дэмжигдэж буй сүүлийн үеийн хувилбарууд руу шилжих шаардлагатай юм. Дэмжлэг нь дууссан (End-of-Life) хувилбарууд энэхүү засварт хамрагдахгүй бөгөөд аюулгүй байдлын эрсдэлтэй хэвээр үлдэх тул анхаарах нь чухал.\n\nДэлгэрэнгүй мэдээлэл болон албан ёсны зааварчилгааг Node.js-ийн аюулгүй байдлын бодлогын хуудаснаас үзэх боломжтой. Мөн шинэчлэлтийн талаарх шуурхай зарлалыг авахын тулд nodejs-sec мэдээллийн жагсаалтад бүртгүүлэх боломжтой байна.",
+   "published": "2026-10-14T03:00:00Z",
+   "added": "2026-10-14T15:18:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dbbcb182b33b2dd8",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/citrolabs/ego-lite",
+   "image": "https://repository-images.githubusercontent.com/1212503250/1e62fd1c-4ca2-40f1-aae4-6aec4614e726",
+   "title": "citrolabs/ego-lite",
+   "summary_en": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. https://lite.ego.app The fastest browser for AI agents to run web automation English · 简体中文 · 日本語 · 한국어 · Português · Español · Français · Italiano · Русский ego (lite) is a browser where you and your AI agents work in parallel. Your agents run their browser tasks in their own Spaces, isolated workspaces inside the same browser, while you keep browsing in yours, so no agent ever takes the…",
+   "title_mn": "citrolabs/ego-lite: AI агент болон хэрэглэгч зэрэг ажиллах вэб хөтөч",
+   "summary_mn": "ego lite бол хэрэглэгч болон AI агент хоёр нэг хөтөч дотор тусгаарлагдсан орчинд зэрэг ажиллах боломжийг олгодог хурдан хөтөч юм. Агент таны хувийн табыг түгжрэлгүйгээр вэб автоматжуулалтын ажлыг гүйцэтгэнэ.",
+   "body_mn": "citrolabs/ego-lite нь AI агент болон хэрэглэгчдэд зориулан бүтээгдсэн кросс-платформ хөтөч бөгөөд вэб автоматжуулалтын ажлыг илүү хурдан бөгөөд үр дүнтэй хийх боломжийг олгодог. Уламжлалт хэрэгслүүдээс ялгаатай нь ego lite нь хэрэглэгч болон агентийн хооронд хөтчийн удирдлагын төлөөх тэмцлийг арилгаж, тусгаарлагдсан Space дотор агентийн ажлыг явуулдаг.\n\nЭнэхүү хөтөч нь анх ажиллах үед таны Chrome дэх бүртгэл, күүки, өргөтгөлүүдийг шууд өвлөн авах боломжтой бөгөөд агентийн CLI-аар дамжуулан энгийн хэлээр хүсэлт илгээж автоматжуулалт хийх боломжтой. AI агент хуудасны бүтцийг текст хэлбэрт хөрвүүлэн уншиж, таны үндсэн ажлыг тасалдуулахгүйгээр ажилладаг.\n\nГүйцэтгэлийн хувьд бусад автоматжуулалтын сангуудтай харьцуулахад илүү хурдан ажиллаж, токены зарцуулалтыг багасгадаг. Одоогоор macOS дээр ажиллах ба Windows болон Linux хувилбарууд удахгүй гарах төлөвлөгөөтэй байгаа бөгөөд MIT лицензтэйгээр нээлттэй хөгжүүлэгдэж байна.",
+   "published": "2026-10-14T15:18:29Z",
+   "added": "2026-10-14T15:18:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8b34966bc46b8c9b",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/truelockmc/streambert",
+   "image": "https://repository-images.githubusercontent.com/1160232942/662e90ff-7ef1-4ad2-947f-6418f0233545",
+   "title": "truelockmc/streambert",
+   "summary_en": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking Streambert A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking * Installation Why Streambert? 🎦 Streaming: Stream any Movie, Anime or TV Series from around the World. 📥 Downloading: Download anything you want to watch. 📃 Subtitles: Download and manage Subtitles. ⚙️ Customizability: Customize the Interface and Features to your unique needs. 📚 Library: Track what you watched, save stuff you want…",
+   "title_mn": "truelockmc/streambert: Кино, олон ангит кино үзэх Electron суурьтай апп",
+   "summary_mn": "Streambert бол ямар ч зар сурталчилгаа болон хяналтгүйгээр дэлхийн аль ч кино, олон ангит кино эсвэл анимег шууд үзэх, татаж авах боломжтой Electron суурьтай кросс-платформ десктоп апп юм.",
+   "body_mn": "truelockmc/streambert төсөл нь хэрэглэгчдэд ямар нэгэн төвөгтэй зар сурталчилгаа болон мэдээлэл цуглуулалтгүйгээр видео контент үзэх боломжийг олгодог нээлттэй эх сурвалжтай Electron десктоп апп юм. Энэхүү апп нь видео стримийг VidSrc болон бусад эх үүсвэрээс авч, харин зургийн мэдээлэл болон тайлбарыг TMDB болон AniList-ээс татаж аван ажилладаг.\n\nПрограмын гол онцлог нь видеонуудын .m3u8 болон .mp4 файл руу шууд холбогдож, контентыг шууд үзэхээс гадна төхөөрөмж дээрээ татаж авч хадгалах боломжийг олгодогт оршино. Апп нь аниме болон энгийн кинонуудыг ялган таньж зохих мета өгөгдлийг автоматаар холбодог бөгөөд ашиглахад хялбар интерфэйстэй.\n\nЭнэхүү хэрэгсэл нь macOS, Linux (Deb, Pacman, AppImage) болон Windows үйлдлийн системүүдэд зориулагдсан байдлаар бэлэн болсон байна. Төсөл нь GPL-3.0 лицензээр нээлттэй байна.",
+   "published": "2026-10-14T15:18:29Z",
+   "added": "2026-10-14T15:18:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0604d6a7a7d7afd2",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+   "image": "https://opengraph.githubassets.com/0009f448bffc1df1c954926120ad1c570908e6933276b853953e84f4cc466d3d/harry0703/MoneyPrinterTurbo",
+   "title": "harry0703/MoneyPrinterTurbo",
+   "summary_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 | English | 日本語 | 版本发布 | 问题反馈 界面预览 🖥️ WebUI API 特别感谢 ❤️ 感谢 Kimi 赞助本项目！ Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3 能直接驱动视频创作，不仅撰写视频文案，还会提炼素材搜索关键词、决定成片画面；对内容理解越准确，匹配到的素材就越贴题。 MoneyPrinterTurbo 用户专属优惠：新用户通过专属链接注册，首次成功充值可获充值金额 10% 的 API 额度，最高赠送 ¥1000。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（ 中文站 ｜ Global ）体验 API。 火山引擎…",
+   "title_mn": "harry0703/MoneyPrinterTurbo: AI ашиглан богино хэмжээний видео бүтээх хэрэгсэл",
+   "summary_mn": "MoneyPrinterTurbo нь видеоны сэдэв эсвэл түлхүүр үг өгөхөд л сценари бичих, материал тааруулах, субтитр болон хөгжим нэмж өндөр чанартай богино видео автоматаар үүсгэх нээлттэй эх сурвалжтай хэрэгсэл юм.",
+   "body_mn": "harry0703/MoneyPrinterTurbo нь хиймэл оюун ухааны тусламжтайгаар ямар ч гарын оролцоогүйгээр богино хэмжээний видео контент бүтээх автоматжуулсан систем юм. Хэрэглэгч зөвхөн видеоны сэдэв эсвэл түлхүүр үгээ оруулахад л уг хэрэгсэл видеоны зохиол бичиж, хамааралтай зургууд болон дүрс материалыг хайж олон, дуу оруулалт болон субтитртэй хамтатган өндөр чанартай видео гаргаж өгдөг.\n\nЭнэхүү шинэ хувилбар нь Moonshot AI-ийн Kimi K3 загварыг дэмждэг болсноор илүү нарийвчлалтай контент ойлголт болон хайлт хийх чадвартай болжээ. Түүнчлэн Edge TTS, Azure, OpenAI болон бусад олон төрлийн дуу оруулалтын (TTS) үйлчилгээг сонгож ашиглах боломжийг олгодог. Whisper загварыг ашиглан автомат субтитр үүсгэх боломжтой бөгөөд Docker болон Python орчинд хялбархан суулгаж ажиллуулах боломжтой.\n\nЭнэхүү хэрэгсэл нь контент бүтээгчид болон автоматжуулалтын чиглэлээр ажилладаг хөгжүүлэгчдэд зориулагдсан бөгөөд macOS болон Windows үйлдлийн системүүдийг дэмждэг.",
+   "published": "2026-10-14T15:18:29Z",
+   "added": "2026-10-14T15:18:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "11b86268bb2d567a",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/baidu/Unlimited-OCR",
+   "image": "https://opengraph.githubassets.com/85bf4bb300ea0ef7077144e96fe72d1bb635cc8e738903a93aa529aad1e6a5b8/baidu/Unlimited-OCR",
+   "title": "baidu/Unlimited-OCR",
+   "summary_en": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. Unlimited OCR Works Welcome the Era of One-shot Long-horizon Parsing. Release [2026/07/21] 🤝 Thanks to the ms-swift community for their support, our model now supports training with ms-swift . [2026/07/03] 🤝 Thanks to the Baidu Cloud team for their support. Our model is now available on Baidu Cloud . [2026/06/28] 🤝 Thanks to the vLLM community and Tianyu Guo for their support, our model now supports vLLM inference. [2026/06/24] 🤝 Thanks to AK for creating a demo for us. It is now available at Hugging Face Spaces…",
+   "title_mn": "baidu/Unlimited-OCR: NVIDIA GPU дээр ажиллах өндөр хүчин чадалтай OCR систем",
+   "summary_mn": "Unlimited-OCR нь Hugging Face transformers болон SGLang ашиглан NVIDIA GPU дээр ажиллах, документ болон PDF файл боловсруулах орчин үеийн OCR inference систем юм.",
+   "body_mn": "baidu/Unlimited-OCR төсөл нь том хэмжээний баримт бичиг болон PDF файлуудыг өндөр хурдтайгаар задлан шинжлэхэд зориулагдсан нээлттэй эх сурвалжтай inference систем юм. Энэхүү систем нь NVIDIA GPU болон CUDA орчинд оновчлогдсон бөгөөд Hugging Face transformers номын сан дээр суурилсан байна.\n\nУг хэрэгсэл нь SGLang болон vLLM технологиудыг ашиглан OpenAI-тэй нийцтэй API интерфейсээр дамжуулан урсгал (streaming) хүсэлтүүдийг хүлээж авдаг. Мөн олон тооны зураг болон PDF файлыг нэгэн зэрэг багц хэлбэрээр (batch inference) хурдан хугацаанд боловсруулах чадвартай.\n\nЭнэхүү төсөл нь Deepseek-OCR болон PaddleOCR зэрэг өмнөх загваруудын санааг шингээж бүтээгдсэн бөгөөд баримт бичиг таних, автоматжуулалтын систем хөгжүүлж буй хөгжүүлэгчдэд нэн тохиромжтой шийдэл юм.",
+   "published": "2026-10-14T15:18:29Z",
+   "added": "2026-10-14T15:18:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ddd7486148a91958",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/browser-use/video-use",
+   "image": "https://opengraph.githubassets.com/7a69554f60c1fb3363f7f9543b52c75e781bd022273885469db7c4bc0cf665cf/browser-use/video-use",
+   "title": "browser-use/video-use",
+   "summary_en": "Edit videos with coding agents https://video-use.com video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus. Cloud-hosted video-use is coming. Join the waitlist at video-use.com . What it does Cuts out filler words ( umm , uh , false starts) and dead space between takes Auto color grades every segment (warm cinematic, neutral punch, or any custom ffmpeg chain) 30ms audio fades at every cut…",
+   "title_mn": "browser-use/video-use: Claude Code ашиглан видео засварлах нээлттэй хэрэгсэл",
+   "summary_mn": "video-use бол түүхий видео материалыг фолдерт хийж Claude Code-оор дамжуулан чатлах замаар ямар ч цэсгүйгээр эцсийн видеог гаргаж авах боломжийг олгодог 100% нээлттэй эх сурвалжтай хэрэгсэл юм.",
+   "body_mn": "browser-use/video-use нь хиймэл оюун ухааны агент болон хөгжүүлэгчдэд зориулагдсан видео засварлах шинэлэг хэрэгсэл юм. Хөгжүүлэгч түүхий видео файлуудаа тодорхой фолдерт байрлуулаад Claude Code эсвэл бусад shell хандалттай агенттай чатлах замаар ямар нэгэн нарийн төвөгтэй видео засварлагчийн цэс ашиглалгүйгээр хүссэн видеогоо гаргаж авах боломжтой.\n\nУг хэрэгсэл нь LLM буюу хэлний загварт видеог шууд том хэмжээгээр дамжуулж токены нөөц үрэхийн оронд ухаалаг хоёр давхаргат системийг ашигладаг. Нэгдүгээрт, ElevenLabs Scribe ашиглан үгийн түвшний цаг болон яригчийг ялгах аудио хуулбар (transcript) үүсгэж үндсэн унших хэсэг болгодог. Хоёрдугаарт, шаардлагатай үед л визуаль хэсгийг харах зураг болон waveform үүсгэж ажилладаг.\n\nЭнэхүү арга нь хиймэл оюун ухаанд видео засварлах ажлыг маш бага токеноор, өндөр нарийвчлалтайгаар хийх боломжийг олгодог бөгөөд контент бүтээгчид болон AI агент сонирхогчдод маш хэрэгтэй хэрэгсэл юм.",
+   "published": "2026-10-14T15:18:29Z",
+   "added": "2026-10-14T15:18:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b303b1e4141446e6",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/ruvnet/RuView",
+   "image": "https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf",
+   "title": "ruvnet/RuView",
+   "summary_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. https://Cognitum.One/RuView π RuView Start here Hardware Models AI toolkit Smart home Cognitum Seed See through walls with WiFi Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no cameras or wearables. Just physics. Works natively with the four major smart-home ecosystems: Home Assistant via the…",
+   "title_mn": "ruvnet/RuView: Энгийн Wi-Fi дохиог орон зайн мэдрэгч болгох систем",
+   "summary_mn": "RuView нь ямар нэгэн камер эсвэл зүүдэг төхөөрөмж ашиглахгүйгээр, ердийн Wi-Fi радио долгион болон ESP32 мэдрэгч ашиглан хүний хөдөлгөөн илрүүлэх, амьсгал хэмжих spatial intelligence систем юм.",
+   "body_mn": "ruvnet/RuView нь орчин үеийн ухаалаг гэрийн системүүд болон IoT хөгжүүлэгчдэд зориулагдсан шинэлэг нээлттэй эх сурвалжтай төсөл юм. Энэхүү систем нь энгийн Wi-Fi роутер болон хямд өртөгтэй ESP32 мэдрэгчүүдийг ашиглан өрөөнд буй хүний хөдөлгөөн, амьсгалын давтамж, зүрхний цохилтыг ямар нэгэн камер болон хувийн төхөөрөмжгүйгээр хэмжих боломжийг олгодог.\n\nУг технологи нь Channel State Information (CSI) физик үзүүлэлт дээр тулгуурладаг бөгөөд хүний бие радио долгионд үзүүлэх нөлөөллийг хэмжин хиймэл оюун ухааны тусламжтайгаар боловсруулдаг. Home Assistant, Apple Home, Google Home болон Amazon Alexa зэрэг үндсэн экосистемүүдтэй шууд холбогдож ажиллах чадвартай.\n\nЭнэхүү төсөл нь хэрэглэгчийн хувийн нууцыг дээд зэргээр хамгаалж, үүлэн технологи болон камер ашиглалгүйгээр орон зайг хянах боломжийг олгодог тул ухаалаг гэрийн болон аюулгүй байдлын шийдэл хөгжүүлэгчдэд маш сонирхолтой сонголт юм.",
+   "published": "2026-10-14T15:18:29Z",
+   "added": "2026-10-14T15:18:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d07066251c23560c",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/rtk-ai/rtk",
+   "image": "https://opengraph.githubassets.com/bb139819de5931761d7b48329515e50f556cb3560691300007d4c64663660044/rtk-ai/rtk",
+   "title": "rtk-ai/rtk",
+   "summary_en": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies https://www.rtk-ai.app Agent-agnostic token optimization: compress, route, filter, and more. One composable pipeline across everything your AI agent reads and sends — built on RTK's battle-tested bash-output compression (up to 90% smaller). Website • Install • Troubleshooting • Architecture • Discord English • Francais • 中文 • 日本語 • 한국어 • Espanol • Português rtk filters and compresses command outputs before they reach your LLM context. Single Rust binary, 100+ supported…",
+   "title_mn": "rtk: AI агентын terminal гаралтыг LLM-д хүрэхээс өмнө шахан багасгадаг Rust хэрэгсэл",
+   "summary_mn": "RTK нь AI кодлох агентууд shell командын гаралтыг LLM контекст руу орохоос өмнө шүүж, шахдаг нээлттэй Rust хэрэгсэл юм. Нэг binary, 100 гаруй команд дэмжиж, зохиогчид нэмэлт хугацаа 10ms-ээс бага гэж бичжээ.",
+   "body_mn": "rtk-ai/rtk бол AI агентууд терминалын командуудын гаралтыг уншихаас өмнө шүүж, шахдаг хэрэгсэл юм. Shell команд дуудагдах бүрт RTK гаралтыг шүүж, богиносгоод агент руу илгээдэг. Git, GitHub CLI, Cargo, npm, pnpm, vitest, jest, tsc, Next.js, Playwright, Prisma, pytest, ruff, Docker, Kubernetes, Terraform зэрэг 100 гаруй команд дэмжигдэнэ. Зохиогчдын хэлснээр нэг бинари файл байна, нэмэлт хугацаа 10ms-ээс бага.\n\nТөслийн README-д bash гаралтыг 90 хүртэл хувиар багасгаж болно гэж дурдсан. Гэхдээ энэ нь агентын нийт токен зардлын хувьтай адил биш юм. Bash гаралт нь оролтын токены нэг хэсэг бөгөөд системийн prompt, яриа түүх, гаралтын токен зэрэг бусад зүйлс мөн зардалд орно. Токен тоог зохиогчид bytes/4 гэж тооцдог тул тоо нь ойролцоо байна. RTK 18 AI кодлох хэрэгслийг дэмжиж, Hermes, Claude-ийн prompt cache-д нөлөөлөхгүй гэж тайлбарласан.\n\nХэрэв та агентаар их хэмжээний build, test, git ажиллуулдаг бол энэ нь контекст цонхыг хэмнэх боломжтой. Хэрэгсэл Apache-2.0 болон BUSL хоёр хувилбартай тул лицензээ шалгах хэрэгтэй. Суулгахын өмнө өөр \"rtk\" нэртэй crates.io багц байгааг анхаарна уу.\n\nСуулгах заавар, --dry-run горим, устгах зааврыг README-ээс үзнэ үү.",
+   "published": "2026-10-14T15:18:29Z",
+   "added": "2026-10-14T15:18:29Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6a82bbba9e64991d",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/raphaelmansuy/edgequake",
+   "image": "https://opengraph.githubassets.com/8505246a4d6a8461e35b43fc47c8f272f9964443031865584c4fcc32d03f00ba/raphaelmansuy/edgequake",
+   "title": "raphaelmansuy/edgequake",
+   "summary_en": "EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation https://edgequake.com EdgeQuake Graph-RAG in Rust: one binary, one Postgres, any LLM — cloud or fully local. Turn documents into a knowledge graph and get answers with sources, not just similar chunks. Quick start · Pick your LLM · How it works · Honest numbers · Docs Quick start Needs Docker. Nothing else to install: no Rust, no Node.js, no build. curl -fsSL…",
+   "title_mn": "edgequake: Rust-аар бичигдсэн Graph-RAG систем, нэг binary ба Postgres-тэй",
+   "summary_mn": "EdgeQuake нь баримт бичгийг мэдлэгийн графт хувиргаж, эх сурвалжтай хариулт өгдөг Rust-д бичигдсэн Graph-RAG систем юм. Docker-ээр суулгаж, Ollama эсвэл OpenAI, Anthropic түлхүүрээр ажиллуулж болно.",
+   "body_mn": "raphaelmansuy/edgequake бол Graph-RAG систем бөгөөд баримт бичгүүдийг entity болон харилцаа бүхий мэдлэгийн граф болгон хувиргана. Хайлт хийхдээ vector хайлт болон граф дайралтыг хослуулдаг. Энэ нь \"хэн хэнд тайлагнадаг вэ\" эсвэл \"ямар гэрээ ямар бүтээгдэхүүнд нөлөөлдөг вэ\" гэх мэт харилцаанаас хамаарсан асуултад тустай гэж төсөл тайлбарлажээ. Систем LightRAG алгоритмыг Rust-аар хэрэгжүүлсэн.\n\nӨгөгдлийн сан нь зөвхөн Postgres, backend нь нэг Rust binary, мөн multi-tenant тусгаарлалт, auth, веб UI, MCP, SDK-үүд багтана. Суулгахдаа Docker шаардлагатай бөгөөд Rust, Node.js суулгах шаардлагагүй. Веб интерфейс дээр баримт оруулаад http://localhost:3000 хаягаар асуулт асууж болно. Ollama ашиглавал хэдэн GB загвар татагдана, харин cloud түлхүүр ашиглавал хамгийн хурдан хариулт авна.\n\nТөслийн бенчмарк дээр LightRAG-тай адил чанартай гэж зохиогчид нээлттэй тайлагнасан. Иймд гол давуу тал нь илүү нарийвчлал биш харин production-д бэлэн байдал юм. Хувилбар шинэчлэх заавар, лицензийн мэдээллийг README-ээс харна уу.",
+   "published": "2026-10-14T15:18:29Z",
+   "added": "2026-10-14T15:18:29Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]

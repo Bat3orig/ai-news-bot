@@ -1,0 +1,17 @@
+{
+ "id": "8b34966bc46b8c9b",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/truelockmc/streambert",
+ "image": "https://repository-images.githubusercontent.com/1160232942/662e90ff-7ef1-4ad2-947f-6418f0233545",
+ "title": "truelockmc/streambert",
+ "summary_en": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking Streambert A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking * Installation Why Streambert? 🎦 Streaming: Stream any Movie, Anime or TV Series from around the World. 📥 Downloading: Download anything you want to watch. 📃 Subtitles: Download and manage Subtitles. ⚙️ Customizability: Customize the Interface and Features to your unique needs. 📚 Library: Track what you watched, save stuff you want…",
+ "title_mn": "truelockmc/streambert: Кино, олон ангит кино үзэх Electron суурьтай апп",
+ "summary_mn": "Streambert бол ямар ч зар сурталчилгаа болон хяналтгүйгээр дэлхийн аль ч кино, олон ангит кино эсвэл анимег шууд үзэх, татаж авах боломжтой Electron суурьтай кросс-платформ десктоп апп юм.",
+ "body_mn": "truelockmc/streambert төсөл нь хэрэглэгчдэд ямар нэгэн төвөгтэй зар сурталчилгаа болон мэдээлэл цуглуулалтгүйгээр видео контент үзэх боломжийг олгодог нээлттэй эх сурвалжтай Electron десктоп апп юм. Энэхүү апп нь видео стримийг VidSrc болон бусад эх үүсвэрээс авч, харин зургийн мэдээлэл болон тайлбарыг TMDB болон AniList-ээс татаж аван ажилладаг.\n\nПрограмын гол онцлог нь видеонуудын .m3u8 болон .mp4 файл руу шууд холбогдож, контентыг шууд үзэхээс гадна төхөөрөмж дээрээ татаж авч хадгалах боломжийг олгодогт оршино. Апп нь аниме болон энгийн кинонуудыг ялган таньж зохих мета өгөгдлийг автоматаар холбодог бөгөөд ашиглахад хялбар интерфэйстэй.\n\nЭнэхүү хэрэгсэл нь macOS, Linux (Deb, Pacman, AppImage) болон Windows үйлдлийн системүүдэд зориулагдсан байдлаар бэлэн болсон байна. Төсөл нь GPL-3.0 лицензээр нээлттэй байна.",
+ "published": "2026-10-14T15:18:29Z",
+ "added": "2026-10-14T15:18:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

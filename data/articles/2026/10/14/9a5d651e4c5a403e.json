@@ -1,0 +1,17 @@
+{
+ "id": "9a5d651e4c5a403e",
+ "subtopic": "packages",
+ "source": "Frontend Focus",
+ "source_label": "Frontend Focus",
+ "url": "https://frontendfoc.us/issues/762",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1791980846/dwgixdfnss8se8vv6o8n.png",
+ "title": "The best way to use icons in Web UIs",
+ "summary_en": "🚀 Frontend Focus #​762 — October 14, 2026 | Read on the web What the iPhone Duo Means for Web Development — The Duo is out next week, so Darius fired up the simulator to try the Device Posture and Viewport Segments APIs (both available behind a flag). Using Video.js components and CSS, he tried to recreate Netflix's folded-player UI, but Apple's fullscreen restrictions made things a tad interesting. Darius Cepulis (Video.js) The Best Way to Use Icons in Web UIs — Lea shows how to insert and tweak icons without touching any HTML, using --icon custom properties, @property , style queries, and…",
+ "title_mn": "Frontend Focus #762: CSS icon систем болон TypeScript заавар",
+ "summary_mn": "Frontend Focus сонины 762 дахь дугаарт HTML ашиглахгүйгээр CSS маск, style queries ашиглан дүрс оруулах аргуудыг хөнджээ. Мөн TypeScript төрлүүдийг гүнзгийрүүлж сурах болон шинэ вэб платформ онцлогуудыг танилцуулсан байна.",
+ "body_mn": "Frontend Focus сонины шинэ дугаарт вэб хөгжүүлэлтэд хэрэгтэй олон сонирхолтой мэдээлэл болон хэрэгслүүдийг багтаажээ. Тухайлбал, Lea-ийн танилцуулсан CSS болон custom properties ашиглан HTML-д хүрэлгүйгээр вэб UI дотор дүрс оруулах арга нь уламжлалт аргаас илүү уян хатан, засварлахад хялбар болохыг харуулсан байна.\n\nҮүнээс гадна багаж хэрэгсэл болон сургалтын тал дээр AI-аар үүсгэгдсэн TypeScript кодыг шалгах, generics болон conditional types зэргийг гүнзгийрүүлж сурах зөвлөмжүүд багтжээ. Мөн Firefox-ын 2027 оны вэб платформын саналаа өгөх хэсэг нээгдсэн бөгөөд хөгжүүлэгчид өөрсдийн саналаа өгөх боломжтой болсон байна.\n\nЭнэхүү дугаарт вэб хөгжүүлэгчдийн сонирхлыг татахуйц хصف шийдлүүд болон Mozilla-аас гаргасан enterprise түвшний Firefox хувилбар, Let's Encrypt сертификатын хугацаа богиносох зэрэг чухал мэдээллүүдийг нэгтгэн хүргэсэн нь фронтенд хөгжүүлэгчдэд нэн тустай юм.",
+ "published": "2026-10-14T00:00:00Z",
+ "added": "2026-10-14T15:18:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

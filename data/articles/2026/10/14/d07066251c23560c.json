@@ -1,0 +1,17 @@
+{
+ "id": "d07066251c23560c",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/rtk-ai/rtk",
+ "image": "https://opengraph.githubassets.com/bb139819de5931761d7b48329515e50f556cb3560691300007d4c64663660044/rtk-ai/rtk",
+ "title": "rtk-ai/rtk",
+ "summary_en": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies https://www.rtk-ai.app Agent-agnostic token optimization: compress, route, filter, and more. One composable pipeline across everything your AI agent reads and sends — built on RTK's battle-tested bash-output compression (up to 90% smaller). Website • Install • Troubleshooting • Architecture • Discord English • Francais • 中文 • 日本語 • 한국어 • Espanol • Português rtk filters and compresses command outputs before they reach your LLM context. Single Rust binary, 100+ supported…",
+ "title_mn": "rtk: AI агентын terminal гаралтыг LLM-д хүрэхээс өмнө шахан багасгадаг Rust хэрэгсэл",
+ "summary_mn": "RTK нь AI кодлох агентууд shell командын гаралтыг LLM контекст руу орохоос өмнө шүүж, шахдаг нээлттэй Rust хэрэгсэл юм. Нэг binary, 100 гаруй команд дэмжиж, зохиогчид нэмэлт хугацаа 10ms-ээс бага гэж бичжээ.",
+ "body_mn": "rtk-ai/rtk бол AI агентууд терминалын командуудын гаралтыг уншихаас өмнө шүүж, шахдаг хэрэгсэл юм. Shell команд дуудагдах бүрт RTK гаралтыг шүүж, богиносгоод агент руу илгээдэг. Git, GitHub CLI, Cargo, npm, pnpm, vitest, jest, tsc, Next.js, Playwright, Prisma, pytest, ruff, Docker, Kubernetes, Terraform зэрэг 100 гаруй команд дэмжигдэнэ. Зохиогчдын хэлснээр нэг бинари файл байна, нэмэлт хугацаа 10ms-ээс бага.\n\nТөслийн README-д bash гаралтыг 90 хүртэл хувиар багасгаж болно гэж дурдсан. Гэхдээ энэ нь агентын нийт токен зардлын хувьтай адил биш юм. Bash гаралт нь оролтын токены нэг хэсэг бөгөөд системийн prompt, яриа түүх, гаралтын токен зэрэг бусад зүйлс мөн зардалд орно. Токен тоог зохиогчид bytes/4 гэж тооцдог тул тоо нь ойролцоо байна. RTK 18 AI кодлох хэрэгслийг дэмжиж, Hermes, Claude-ийн prompt cache-д нөлөөлөхгүй гэж тайлбарласан.\n\nХэрэв та агентаар их хэмжээний build, test, git ажиллуулдаг бол энэ нь контекст цонхыг хэмнэх боломжтой. Хэрэгсэл Apache-2.0 болон BUSL хоёр хувилбартай тул лицензээ шалгах хэрэгтэй. Суулгахын өмнө өөр \"rtk\" нэртэй crates.io багц байгааг анхаарна уу.\n\nСуулгах заавар, --dry-run горим, устгах зааврыг README-ээс үзнэ үү.",
+ "published": "2026-10-14T15:18:29Z",
+ "added": "2026-10-14T15:18:29Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

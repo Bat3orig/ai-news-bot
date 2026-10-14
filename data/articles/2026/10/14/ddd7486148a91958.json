@@ -1,0 +1,17 @@
+{
+ "id": "ddd7486148a91958",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/browser-use/video-use",
+ "image": "https://opengraph.githubassets.com/7a69554f60c1fb3363f7f9543b52c75e781bd022273885469db7c4bc0cf665cf/browser-use/video-use",
+ "title": "browser-use/video-use",
+ "summary_en": "Edit videos with coding agents https://video-use.com video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus. Cloud-hosted video-use is coming. Join the waitlist at video-use.com . What it does Cuts out filler words ( umm , uh , false starts) and dead space between takes Auto color grades every segment (warm cinematic, neutral punch, or any custom ffmpeg chain) 30ms audio fades at every cut…",
+ "title_mn": "browser-use/video-use: Claude Code ашиглан видео засварлах нээлттэй хэрэгсэл",
+ "summary_mn": "video-use бол түүхий видео материалыг фолдерт хийж Claude Code-оор дамжуулан чатлах замаар ямар ч цэсгүйгээр эцсийн видеог гаргаж авах боломжийг олгодог 100% нээлттэй эх сурвалжтай хэрэгсэл юм.",
+ "body_mn": "browser-use/video-use нь хиймэл оюун ухааны агент болон хөгжүүлэгчдэд зориулагдсан видео засварлах шинэлэг хэрэгсэл юм. Хөгжүүлэгч түүхий видео файлуудаа тодорхой фолдерт байрлуулаад Claude Code эсвэл бусад shell хандалттай агенттай чатлах замаар ямар нэгэн нарийн төвөгтэй видео засварлагчийн цэс ашиглалгүйгээр хүссэн видеогоо гаргаж авах боломжтой.\n\nУг хэрэгсэл нь LLM буюу хэлний загварт видеог шууд том хэмжээгээр дамжуулж токены нөөц үрэхийн оронд ухаалаг хоёр давхаргат системийг ашигладаг. Нэгдүгээрт, ElevenLabs Scribe ашиглан үгийн түвшний цаг болон яригчийг ялгах аудио хуулбар (transcript) үүсгэж үндсэн унших хэсэг болгодог. Хоёрдугаарт, шаардлагатай үед л визуаль хэсгийг харах зураг болон waveform үүсгэж ажилладаг.\n\nЭнэхүү арга нь хиймэл оюун ухаанд видео засварлах ажлыг маш бага токеноор, өндөр нарийвчлалтайгаар хийх боломжийг олгодог бөгөөд контент бүтээгчид болон AI агент сонирхогчдод маш хэрэгтэй хэрэгсэл юм.",
+ "published": "2026-10-14T15:18:29Z",
+ "added": "2026-10-14T15:18:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

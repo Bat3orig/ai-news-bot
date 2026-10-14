@@ -1,0 +1,17 @@
+{
+ "id": "11b86268bb2d567a",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/baidu/Unlimited-OCR",
+ "image": "https://opengraph.githubassets.com/85bf4bb300ea0ef7077144e96fe72d1bb635cc8e738903a93aa529aad1e6a5b8/baidu/Unlimited-OCR",
+ "title": "baidu/Unlimited-OCR",
+ "summary_en": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. Unlimited OCR Works Welcome the Era of One-shot Long-horizon Parsing. Release [2026/07/21] 🤝 Thanks to the ms-swift community for their support, our model now supports training with ms-swift . [2026/07/03] 🤝 Thanks to the Baidu Cloud team for their support. Our model is now available on Baidu Cloud . [2026/06/28] 🤝 Thanks to the vLLM community and Tianyu Guo for their support, our model now supports vLLM inference. [2026/06/24] 🤝 Thanks to AK for creating a demo for us. It is now available at Hugging Face Spaces…",
+ "title_mn": "baidu/Unlimited-OCR: NVIDIA GPU дээр ажиллах өндөр хүчин чадалтай OCR систем",
+ "summary_mn": "Unlimited-OCR нь Hugging Face transformers болон SGLang ашиглан NVIDIA GPU дээр ажиллах, документ болон PDF файл боловсруулах орчин үеийн OCR inference систем юм.",
+ "body_mn": "baidu/Unlimited-OCR төсөл нь том хэмжээний баримт бичиг болон PDF файлуудыг өндөр хурдтайгаар задлан шинжлэхэд зориулагдсан нээлттэй эх сурвалжтай inference систем юм. Энэхүү систем нь NVIDIA GPU болон CUDA орчинд оновчлогдсон бөгөөд Hugging Face transformers номын сан дээр суурилсан байна.\n\nУг хэрэгсэл нь SGLang болон vLLM технологиудыг ашиглан OpenAI-тэй нийцтэй API интерфейсээр дамжуулан урсгал (streaming) хүсэлтүүдийг хүлээж авдаг. Мөн олон тооны зураг болон PDF файлыг нэгэн зэрэг багц хэлбэрээр (batch inference) хурдан хугацаанд боловсруулах чадвартай.\n\nЭнэхүү төсөл нь Deepseek-OCR болон PaddleOCR зэрэг өмнөх загваруудын санааг шингээж бүтээгдсэн бөгөөд баримт бичиг таних, автоматжуулалтын систем хөгжүүлж буй хөгжүүлэгчдэд нэн тохиромжтой шийдэл юм.",
+ "published": "2026-10-14T15:18:29Z",
+ "added": "2026-10-14T15:18:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
