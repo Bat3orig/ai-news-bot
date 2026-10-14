@@ -1,0 +1,17 @@
+{
+ "id": "d10fcf80f101bc46",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Yahoo Finance",
+ "url": "https://finance.yahoo.com/technology/ai/articles/himax-wiseeye-ultralow-power-ai-101100905.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/204fbe13147a13281e02bd00961baa58a9d109ba24984cd9af4967df52c0164d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F7832dd196cd5ccfa74e69a9cbd254453.jpg",
+ "title": "Himax WiseEye Ultralow Power AI Adopted in Alibaba’s Latest Qwen Glasses",
+ "summary_en": "Himax’s Always-On Vision AI Combines 24/7 Environmental Sensing with Intelligent System Wake-Up for Extended Smart Glasses Battery LifeTAINAN, Taiwan, Oct. 14, 2026 (GLOBE NEWSWIRE) -- Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or the “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced that its WiseEye™ ultralow power AI processor, HX6538, has been integrated into Alibaba’s latest Qwen Glasses N1 series, jointly power",
+ "title_mn": "Alibaba-гийн Qwen Glasses N1 ухаалаг нүдний шилэнд Himax WiseEye AI чип суулгажээ",
+ "summary_mn": "Himax Technologies компани өөрийн WiseEye HX6538 хэт бага эрчим зарцуулдаг AI процессоррийн тусламжтайгаар Alibaba-гийн Qwen Glasses N1 цувралыг тоноглосон байна. Энэхүү систем нь ердөө 5 милливатт эрчим хүч зарцуулж, хүрээлэн буй орчныг тасралтгүй хянах боломжийг олгодог.",
+ "body_mn": "Himax Technologies компани өөрийн WiseEye хэт бага эрчим зарцуулдаг HX6538 AI процессор Alibaba-гийн шинээр гаргасан Qwen Glasses N1 ухаалаг нүдний шилний цувралд нэгтгэгдсэнийг албан ёсоор зарлалаа. Энэхүү шинэ төхөөрөмж нь үндсэн камерын системээс хамааралгүйгээр ажилладаг байнга асаалттай байх дүрс мэдрэх системийг хослуулан бүтээжээ.\n\nЭнэхүү архитектурын гол цөм болох WiseEye процессор нь Arm Cortex-M55 болон Ethos-U55 AI хурдасгуур архитектурыг ашигладаг бөгөөд төхөөрөмж дээрээ бодит цаг хугацаанд дүрсний хиймэл оюун ухааны дүгнэлт хийх, хүний болон бусад үйл явдлыг илрүүлэх чадвартай аж. Ердөө 5 милливатт эрчим хүч зарцуулдаг энэхүү систем нь хэрэггүй үйлдлүүдийг багасгаж, нүдний шилний зайны ашиглалтын хугацааг мэдэгдэхүйц уртасгадаг байна.\n\nХиймэл оюун ухааны агент болон олон төрлийн мультимодал загварууд эрчимтэй хөгжиж буй энэ үед ухаалаг нүдний шил нь хэрэглэгчийн хүрээлэн буй орчныг бодит цагт мэдэрч, идэвхтэй үйлчилгээ үзүүлэх чухал хэрэгсэл болж хувирч байна. Himax-ийн энэхүү шийдэл нь төхөөрөмж дээр өгөгдлийг шууд боловсруулж, зөвхөн шаардлагатай үед үндсэн системийг сэрээх замаар хязгаарлагдмал зай болон хөнгөн загварын хоорондох техникийн хүндрэлийг амжилттай шийдвэрлэжээ.",
+ "published": "2026-10-14T10:11:00Z",
+ "added": "2026-10-14T19:33:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

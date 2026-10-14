@@ -1,0 +1,17 @@
+{
+ "id": "a8b8c31de898145e",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/third-moment-research",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/m0YDNMUPfmBJYf8nw2LGR/202c3cb46da0506d77cce90027c1ef9c/third-moment-research-first-light-social-1920x1080.png?w=1600&h=900&fit=fill",
+ "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+ "summary_en": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+ "title_mn": "Third Moment Research OpenAI болон Codex ашиглан 10,000 агентыг зэрэг ажиллуулж байна",
+ "summary_mn": "Third Moment Research компани GPT-6 болон Codex ашиглан квант санхүүгийн судалгаанд зориулсан 10,000 агентыг олон цагаар зэрэг ажиллуулж байна.",
+ "body_mn": "Third Moment Research нь OpenAI-ийн GPT-6 Astra, GPT-6.1 Sol болон Codex загваруудыг ашиглан өөрийгөө сайжруулах чадвартай AI агентуудыг бүтээжээ. Тус компани энэхүү системээр дамжуулан 10,000 агентыг 36-48 цагийн турш тасралтгүй ажиллуулж, санхүүгийн зах зээлийн өгөгдөл дээр туршилт хийдэг байна.\n\nЭнэ явцдаа Codex нь код суурь дахь гүйцэтгэлийн саатлыг илрүүлж, кэшлэлтийн оновчлол хийснээр агентуудын токен болон хугацааны зарцуулалтыг эрс багасгажээ. Энэ нь хөгжүүлэгчдэд том хэмжээний өгөгдөл боловсруулах агентуудыг илүү үр дүнтэйгээр бүтээхэд чухал жишээ болж байна.",
+ "published": "2026-10-14T07:00:00Z",
+ "added": "2026-10-14T19:33:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "00302874315ac5a6",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "TechNode",
+ "url": "https://technode.com/2026/10/14/alibaba-launches-qwen-n1-ai-glasses-with-swappable-batteries-starting-at-rmb-2899/",
+ "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261014-cn-371237.png?fit=1600%2C1200&ssl=1",
+ "title": "Alibaba launches Qwen N1 AI glasses with swappable batteries, starting at RMB 2,899",
+ "summary_en": "Alibaba launched its Qwen N1 and N1 Pro AI glasses in China on October 13, with standard packages priced from RMB 2,899 and RMB 3,399, respectively. Both",
+ "title_mn": "Alibaba Qwen N1 ухаалаг шилээ сольдог зайтайгаар худалдаанд гаргалаа",
+ "summary_mn": "Alibaba компани Qwen AI туслахтай, сольдог зай болон 4K камер бүхий Qwen N1, N1 Pro ухаалаг шилнүүдээ танилцууллаа.",
+ "body_mn": "Alibaba компани Qwen хиймэл оюун ухаанд суурилсан N1 болон N1 Pro ухаалаг шилнүүдээ Хятадын зах зээлд албан ёсоор гаргалаа. Уг төхөөрөмж нь 50 мегапикселийн камертай бөгөөд 4K видео бичлэг хийх, орчуулга хийх, уулзалтын тэмдэглэл хөтлөх зэрэг функцуудыг Qwen загвараар дамжуулан гүйцэтгэдэг.\n\nPro загвар нь нүдний хөдөлгөөн хянах, нүдний солонгосон бүрхэвчээр төлбөр хийх болон эрүүл мэндийн хяналтын системийг өөртөө багтаажээ. Сольдог зайны технологи нь хэрэглэгчдэд төхөөрөмжөө тасралтгүй ашиглах боломжийг олгодог байна.",
+ "published": "2026-10-14T07:18:54Z",
+ "added": "2026-10-14T19:33:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "57c3309db5bedcde",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/amp-beyond-coding",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/4cxTIUhXa03TEYCnkIcMCu/29e6065058ed969022021186f994dad6/amp-beyond-coding-coiled-connection-seo-open-graph-1920x1080.png?w=1600&h=900&fit=fill",
+ "title": "Amp puts AI agents to work beyond code with OpenAI models",
+ "summary_en": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+ "title_mn": "Amp хөгжүүлэлтийн агентдаа OpenAI-ийн загваруудыг нэвтрүүлж буйгаа танилцуулав",
+ "summary_mn": "Хөгжүүлэгчдэд зориулсан AI агент бүтээгч Amp нь GPT-6 Astra болон Sign in with ChatGPT боломжийг системдээ нэгтгэн, код бичихээс гадна төлөвлөлт, дизайнд ашиглаж байна.",
+ "body_mn": "Програм хангамж хөгжүүлэгчдэд зориулсан бие даасан AI агент хөгжүүлдэг Amp компани OpenAI-ийн GPT-6 Astra, Ultrafast горим болон GPT-Live-1 загваруудыг платформынхоо үндсэн суурь болгон ашиглаж байгаагаа мэдээллээ. Amp-ийн хэрэглэгчид долоо хоногт 10 тэрбум хүртэл токен зарцуулж байгаа тул зардал болон хязгаарлалтыг шийдвэрлэхийн тулд Sign in with ChatGPT функцийг нэвтрүүлсэн байна.\n\nЭнэхүү интеграци нь хэрэглэгчдэд өөрсдийн ChatGPT эрхээрээ дамжуулан GPT-6 Astra зэрэг дэвшилтэт загваруудыг илүү өргөн эрхтэйгээр ашиглах боломжийг олгож байгаа бөгөөд агентууд зөвхөн код бичихээс гадна архитектур төлөвлөх, UI дизайн гаргах, баримт бичиг боловсруулах ажлыг гүйцэтгэж байна.\n\nМөн Amp саяхан Puck нэртэй харилцан ярианы туслахыг танилцуулсан бөгөөд хөгжүүлэгчид Puck-оор дамжуулан бусад агентуудыг удирдах, алдаа засах даалгавар өгөх боломжтой болжээ. Үүнээс гадна GPT-Live-1-ээр тоноглогдсон Calling Puck функц нь хөгжүүлэгчдэд ухаалаг цаг эсвэл бусад төхөөрөмжөөс дуу хоолойгоор бодит цаг хугацаанд агентуудаа удирдах боломжийг олгож байна.",
+ "published": "2026-10-14T12:00:00Z",
+ "added": "2026-10-14T19:33:05Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

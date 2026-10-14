@@ -1,0 +1,17 @@
+{
+ "id": "1b58e4fd3562399d",
+ "subtopic": "shadcn",
+ "source": "shadcn/ui",
+ "source_label": "shadcn/ui",
+ "url": "https://ui.shadcn.com/docs/changelog/2026-10-ai-elements",
+ "image": "https://ui.shadcn.com/og?title=October%202026%20-%20Trace%2C%20Code%20Block%20and%20AI%20Elements&description=Two%20new%20components%20for%20the%20steps%20an%20agent%20takes%20and%20the%20code%20it%20writes%2C%20and%20AI%20Elements%2C%20patterns%20for%20agentic%20interfaces%20built%20from%20shadcn%2Fui%20components.",
+ "title": "October 2026 - Trace, Code Block and AI Elements",
+ "summary_en": "Two new components for the steps an agent takes and the code it writes, and AI Elements, patterns for agentic interfaces built from shadcn/ui components.",
+ "title_mn": "shadcn/ui шинээр Trace, Code Block болон AI Elements хэрэгслүүдийг гаргалаа",
+ "summary_mn": "shadcn/ui нь агент интерфейсүүдэд зориулсан Trace, Code Block компонент болон AI Elements загваруудыг танилцууллаа.",
+ "body_mn": "shadcn/ui төсөл нь агентуудын алхмуудыг харуулах Trace болон код, лог хэвлэх Code Block гэсэн хоёр шинэ компонентийг Base UI, React Aria, Radix суурьтайгаар гаргалаа. Эдгээр нь агентын хэрэглэгчийн интерфейсийг бүтээхэд шаардлагатай стандартыг бүрдүүлж өгдөг.\n\nҮүний зэрэгцээ AI SDK Elements-ийг орлох 21 шинэ AI Elements загваруудыг танилцуулсан байна. Хөгжүүлэгчид эдгээр кодыг төсөвтөө шууд хуулж ашиглах боломжтой бөгөөд хуучин AI SDK Elements хэрэглэгчид coding agent ашиглан хялбархан шилжүүлэх боломжтойгоо онцолжээ.",
+ "published": "2026-10-14T00:00:00Z",
+ "added": "2026-10-14T19:33:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

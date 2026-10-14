@@ -1,0 +1,17 @@
+{
+ "id": "2b877c79a305b167",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6IJRpzQdAnszj8GfcqfRR/5f3354b90e94f4f1ba4db3e371dfee1a/image__118_.png",
+ "title": "Nemotron 3.5 Lightning now available on AI Gateway for free",
+ "summary_en": "Nemotron 3.5 Lightning from NVIDIA is now available for free on AI Gateway as nvidia/nemotron-3.5-lightning-free , served by NVIDIA. Nemotron 3.5 Lightning is an open-weight reasoning and chat model for long-running agents, sub-agent work, chatbots, and RAG systems. The model has 30B parameters with 3B active per token, in a hybrid Mixture-of-Experts design that interleaves Mamba-2 and MoE layers with a few attention layers. It has a 1M token context window and supports tool calling and structured outputs. Note: The provider may retain prompts for model improvement. Call Nemotron 3.5…",
+ "title_mn": "NVIDIA-ийн Nemotron 3.5 Lightning загвар Vercel AI Gateway дээр үнэгүй гарлаа",
+ "summary_mn": "NVIDIA-ийн 30 тэрбум параметртэй Nemotron 3.5 Lightning загвар Vercel AI Gateway дээр үнэгүй боломжтой боллоо.",
+ "body_mn": "NVIDIA компани өөрийн Nemotron 3.5 Lightning нээлттэй жинтэй загвараа Vercel AI Gateway дээр nvidia/nemotron-3.5-lightning-free нэрээр үнэгүй байршууллаа. Энэхүү загвар нь MoE болон Mamba-2 архитектороор бүтээгдсэн бөгөөд токөн бүрт 3 тэрбум идэвхтэй параметртэй, 1 сая токены контекст цонхыг дэмждэг.\n\nУг загвар нь урт хугацаанд ажилладаг агент болон RAG системүүдэд зориулагдсан бөгөөд хөгжүүлэгчид AI SDK болон стандарт API-уудаар дамжуулан Claude Code, Cursor зэрэг хэрэгслүүдэд шууд ашиглах боломжтой. Vercel AI Gateway нь үүнийг нэгдсэн API болон ашиглалтын хяналтын хамт санал болгож байна.",
+ "published": "2026-10-14T00:00:00Z",
+ "added": "2026-10-14T19:33:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
