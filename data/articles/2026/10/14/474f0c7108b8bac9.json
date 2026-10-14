@@ -1,0 +1,17 @@
+{
+ "id": "474f0c7108b8bac9",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.299",
+ "image": "https://opengraph.githubassets.com/8f689e27022a4a2781f8eda10fe8575b846ba8fae9b2be3f7cf6c405c6e5ab9d/anthropics/claude-code/releases/tag/v2.1.299",
+ "title": "claude-code v2.1.299",
+ "summary_en": "What's changed Added CLAUDE_CODE_DISABLE_FILE_MENTIONS environment variable: Claude gets the paths of @ file mentions to read with its file tools, not the files' contents Added idle compaction in the terminal: a 200K+ token conversation left idle for about 54 minutes is compacted before its one-hour prompt cache expires, so your next message doesn't reprocess it all Added CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS to change idle compaction's 200K-token minimum; \"idleCompaction\": false in settings.json turns it off. Both need v2.1.290 or later Added $.prompt.media so a prompt.submit hook of a mod…",
+ "title_mn": "Claude Code v2.1.299 хувилбар шинэ тохиргоо болон сайжруулалттайгаар гарлаа",
+ "summary_mn": "Claude Code v2.1.299 хувилбарт file mentions удирдлага, терминал дахь idle compaction болон agent view хэрэгслүүд нэмэгджээ. Хөгжүүлэгчийн ажлыг хөнгөвчлөх олон алдаа засвар болон командууд багтсан байна.",
+ "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ v2.1.299 хувилбарыг гаргаж, хөгжүүлэгчдэд зориулсан шинэ боломж, тохиргоонуудыг нэмлээ. Тус хувилбарт шинээр CLAUDE_CODE_DISABLE_FILE_MENTIONS орчны хувьсагч нэмэгдсэн нь файлын агуулгыг шууд оруулахгүйгээр зөвхөн замыг нь Claude-д дамжуулах боломжийг олгож байна.\n\nМөн терминал дээр ажиллах үед idle compaction буюу идэвхгүй үед яриаг шахах шинэ боломж нэмэгдсэн байна. 200К-аас дээш токен бүхий яриа 54 орчим минут идэвхгүй байвал автоматаар шахагддаг бөгөөд ингэснээр дараагийн мессеж илгээхэд бүх яриаг дахин боловсруулахгүй байх давуу талтай аж. Үүнийг хөгжүүлэгч хүссэнээрээ тохируулах боломжтой.\n\n agente view хэсэгт шинээр /effort болон /fast командууд нэмэгдэж, шинэ сессийн параметрүүдийг хурдан тохируулах боломжтой болсон бол аюулгүй байдлын үүднээс зарим хэрэгслүүдийг хязгаарлах --disallow-tools параметр нэмэгджээ. Түүнчлэн API болон сесс удирдлагатай холбоотой олон алдааг зассан байна.",
+ "published": "2026-10-14T02:49:42Z",
+ "added": "2026-10-14T05:50:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

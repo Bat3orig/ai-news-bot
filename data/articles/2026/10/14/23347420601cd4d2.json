@@ -1,0 +1,17 @@
+{
+ "id": "23347420601cd4d2",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
+ "image": "https://github.blog/wp-content/uploads/2026/10/669843404-1a20c331-b765-4da1-985b-47ce30aaa064.png",
+ "title": "Gemini 4 Argon in GitHub Copilot",
+ "summary_en": "Gemini 4 Argon, Google’s newest frontier model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks. In early testing, Gemini 4 Argon…",
+ "title_mn": "Google-ийн Gemini 4 Argon загвар GitHub Copilot-д нэмэгдлээ",
+ "summary_mn": "Google-ийн хамгийн сүүлийн үеийн Gemini 4 Argon загвар GitHub Copilot системд нэмэгдэж, хөгжүүлэгчдэд ашиглагдаж эхэллээ.",
+ "body_mn": "Google компани өөрийн шинэ frontier загвар болох Gemini 4 Argon-ийг GitHub Copilot-д албан ёсоор нэгтгэснээ зарлалаа. Энэхүү загвар нь нарийн төвөгтэй код бичих, агент болон учир шалтгааныг олох даалгаваруудад зориулагдсан байна.\n\nАнхны туршилтаар Gemini 4 Argon нь өмнөх хувилбаруудаасаа илүү өндөр үр дүн үзүүлсэн бөгөөд ялангуяа Copilot CLI дээр хамгийн өндөр өсөлттэй байжээ. Загвар нь ажлаа дуусгахаасаа өмнө захын тохиолдлуудыг сайтар шалгадаг онцлогтой бөгөөд Pro+, Max, Business болон Enterprise хэрэглэгчид ашиглах боломжтой болжээ.",
+ "published": "2026-10-13T18:39:56Z",
+ "added": "2026-10-14T05:50:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "6f4a2efbab89953b",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Pulse 2.0",
+ "url": "https://pulse2.com/anthropic-says-new-defenses-cut-data-harvested-through-ai-distillation-attacks-by-90-to-99/",
+ "image": "https://cdn.pulse2.com/cdn/2025/09/Anthropic-Logo-feat.jpg",
+ "title": "Anthropic Says New Defenses Cut Data Harvested Through AI Distillation Attacks By 90% To 99%",
+ "summary_en": "Anthropic said new anti-distillation defenses have reduced the amount of Claude reasoning data harvested by attackers by approximately 90% to 99%.",
+ "title_mn": "Anthropic: AI загварын дата хулгайлах халдлагыг 90-99%-иар бууруулжээ",
+ "summary_mn": "Anthropic компани distillation буюу загварын чадавхыг хуулбарлах халдлагын эсрэг шинэ хамгаалалт нэвтрүүлж, алдагдлыг эрс багасгажээ.",
+ "body_mn": "Anthropic компани өөрийн Claude загварын нууцлагдсан логик болон өгөгдлийг хууль бусаар хуулбарлах оролдлогыг (distillation attacks) зогсоох зорилгоор шинэ хамгаалалтууд нэвтрүүлжээ. Эдгээр арга хэмжээ нь дайралтын улмаас дата алдагдах байдлыг 90-99 хувиар бууруулж чадсан байна.\n\nКомпанийн мэдэгдсэнээр зарим хөгжүүлэгчид хуурамч бүртгэлүүдийн сүлжээ ашиглан Claude-ийн чадварыг өөрийн загварт шилжүүлэх оролдлого хийдэг байжээ. Үүний эсрэг Anthropic контекст хандах эрхийг хязгаарлах, хоёр үе шаттай ангилагч систем ашиглах зэрэг арга хэмжээнүүдийг авсан байна.",
+ "published": "2026-10-13T20:16:07Z",
+ "added": "2026-10-14T05:50:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

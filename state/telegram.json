@@ -3,12 +3,16 @@
  "threads": {
   "ai": 4,
   "software": 5,
-  "uiux": 6
+  "uiux": 6,
+  "github": 285,
+  "vibe": 286
  },
  "forum": true,
  "names": {
   "ai": "AI",
   "software": "Software",
-  "uiux": "UI/UX"
+  "uiux": "UI/UX",
+  "github": "GitHub",
+  "vibe": "Vibe coding"
  }
 }

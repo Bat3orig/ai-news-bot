@@ -1,0 +1,17 @@
+{
+ "id": "817adef125f2a537",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v44.7.2",
+ "image": "https://opengraph.githubassets.com/9ef58e67239f73662c60923e874e9612f902036e2422f5af5ce5f95a04af6485/electron/electron/releases/tag/v44.7.2",
+ "title": "electron v44.7.2",
+ "summary_en": "Release Notes for v44.7.2 Fixes Fixed an issue where clicks posted to a background app were dropped on macOS. #54819 (Also in 45 ) Fixed interrupted macOS updates leaving a broken app behind. #54844 (Also in 45 ) Other Changes Backported fixes from upstream ANGLE, Chromium, PDFium and V8. #54898 Documentation Documentation changes: #54880",
+ "title_mn": "Electron v44.7.2 хувилбар гарч, macOS дээрх алдаануудыг заслаа",
+ "summary_mn": "Electron v44.7.2 хувилбарт macOS дээр далд горимд ажиллаж буй апп руу дарах үйлдэл алгасах болон шинэчлэлт тасалдсанаас апп эвдрэх асуудлуудыг засав.",
+ "body_mn": "Electron баг v44 салбарын шинэ v44.7.2 хувилбарыг албан ёсоор гаргалаа. Уг хувилбарт голчлон macOS үйлдлийн систем дээр ажиглагдаж байсан түгээмэл алдаануудыг шийдвэрлэжээ.\n\nТухайлбал, macOS дээр далд (background) горимд байгаа аппликейшн руу хийсэн даралтууд алга болдог алдааг засварласан байна. Мөн шинэчлэлт хийх явц тасалдсаны улмаас аппликейшн бүрэн бус, эвдэрч үлддэг байсан асуудлыг шийджээ.\n\nТүүнчлэн ANGLE, Chromium, PDFium болон V8 зэрэг дэд сангуудын засваруудыг нэгтгэсэн тул macOS хэрэглэгчдэд зориулсан Electron апп бүтээгчид шинэчлэлт хийхийг зөвлөж байна.",
+ "published": "2026-10-14T01:27:06Z",
+ "added": "2026-10-14T05:50:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

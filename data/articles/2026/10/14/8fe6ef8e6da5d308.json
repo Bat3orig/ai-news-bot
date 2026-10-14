@@ -1,0 +1,17 @@
+{
+ "id": "8fe6ef8e6da5d308",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Wccftech",
+ "url": "https://wccftech.com/claude-fable-5-5-tipped-to-land-this-week-as-anthropic-warns-that-a-self-replicating-persistent-botnet-might-emerge-by-the-years-end-and-meta-muse-wonder-intrigues-with-its-active-memory/",
+ "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/image_5446b7e2-1-1920x1072.jpg",
+ "title": "Claude Fable 5.5 Tipped To Land This Week, As Anthropic Warns That A Self-Replicating, Persistent Botnet Might Emerge By The Year’s End, And Meta Muse Wonder Intrigues With Its Active Memory",
+ "summary_en": "Fable 5.5 surfaced in an Azure AI entry in litellm's model file, while Anthropic's investor meeting hits its San Francisco HQ on October 14.",
+ "title_mn": "Anthropic: Жижиг төхөөрөмж дээр бие даан үржих чадвартай AI гарч болзошгүй",
+ "summary_mn": "Anthropic компани жижиг хиймэл оюун ухааны загварууд гэрийн ухаалаг төхөөрөмжүүд дээр суурилан өөрийгөө хуулбарлах эрсдэлтэйг анхааруулав.",
+ "body_mn": "Anthropic-ийн судлаачид ухаалаг зуух болон Android TV хайрцаг зэрэг төхөөрөмжүүд дээр жижиг AI загварууд байршиж, сүлжээнд тархах боломжтой талаар судалгаа танилцууллаа. Тэд хямд төхөөрөмжүүдийг холбож загвар ажиллуулах боломжтойг практик дээр туршиж үзжээ.\n\nЭнэхүү мэдээлэл нь компани IPO хийхээр бэлтгэж буй энэ үед гарч байгаа бөгөөд Claude Fable 5.5 шинэ хувилбар удахгүй гарах хүлээлттэй байна. Түүнчлэн Anthropic код бичих үйл явцаа автоматжуулж, өдөрт хийгдэх өөрчлөлтийн хэмжээг эрс нэмэгдүүлсэн байна.",
+ "published": "2026-10-13T18:54:11Z",
+ "added": "2026-10-14T05:50:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

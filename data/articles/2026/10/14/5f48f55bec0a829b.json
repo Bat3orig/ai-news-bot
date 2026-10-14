@@ -1,0 +1,17 @@
+{
+ "id": "5f48f55bec0a829b",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4",
+ "image": "https://opengraph.githubassets.com/38f826a642afc1dbcef5589404db00aa428fcddb14cf0468f70d6a1933fcfc12/ollama/ollama/releases/tag/v0.40.4",
+ "title": "ollama v0.40.4",
+ "summary_en": "Decision models in the CLI Decision models can now be used directly from the terminal with ollama run — ask yes/no questions, classify text into labels, or score against a rubric: ollama run nimble --ask \"Is a refund being requested?\" < ticket.txt What's Changed Kev decision models are now supported by the MLX runner on Apple silicon ollama launch can now be used with usage credits without upgrading to a paid plan ollama launch codex now includes locally installed Ollama models in its model picker. Use /model within the Codex CLI to swap models. Improved inference performance by reusing…",
+ "title_mn": "Ollama v0.40.4 хувилбар шийдвэр гаргах загваруудын дэмжлэгтэйгээр гарлаа",
+ "summary_mn": "Ollama v0.40.4 шинэ хувилбар терминалаас шууд шийдвэр гаргах загваруудыг ашиглах боломжийг олгож байна. Мөн Apple silicon болон NVIDIA GPU дээрх MLX runner-ийн гүйцэтгэл сайжирч, олон төрлийн алдаанууд засагджээ.",
+ "body_mn": "Ollama хэрэгслийн шинэ v0.40.4 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон шинэ боломжуудыг нэмлээ. Гол шинэчлэлтүүдийн нэг нь терминал дотроос ollama run команд ашиглан шийдвэр гаргах загваруудыг шууд ажиллуулах боломж болсон явдал юм. Хөгжүүлэгчид энэхүү боломжоор тийм/үгүй гэсэн асуултуудад хариулах, текстийг шошгоор ангилах зэрэг үйлдлийг хийх боломжтой.\n\nТүүнчлэн Apple silicon дээрх MLX runner ашиглан үндсэн шийдвэр гаргах загваруудыг дэмждэг болсон ба ollama launch codex нь локал байдлаар суулгасан Ollama загваруудыг загвар сонгогчдоо автоматаар нэмдэг болжээ. Баталгаажсан манифестууд болон өмнө нь ачаалагдсан загваруудыг дахин ашиглах замаар inference буюу үр дүн боловсруулах хурдыг сайжруулсан байна.\n\nШинэ хувилбарт олон төрлийн мультимодаль суулгац (multimodal embeddings) дэмжлэг нэмэгдэж, NVIDIA GPU дээрх Gemma 4 загварын ажиллах хурд сайжирсан байна. Мөн llama.cpp сан шинэчлэгдэж, санах ойн менежмент болон тогтвортой байдал сайжиржээ.",
+ "published": "2026-10-14T02:23:26Z",
+ "added": "2026-10-14T05:50:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

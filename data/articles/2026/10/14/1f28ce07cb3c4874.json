@@ -1,0 +1,17 @@
+{
+ "id": "1f28ce07cb3c4874",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v42.11.13",
+ "image": "https://opengraph.githubassets.com/8e33ded832148b611f25f37984831adb84eadccb2da44045a5ce340044fba417/electron/electron/releases/tag/v42.11.13",
+ "title": "electron v42.11.13",
+ "summary_en": "Release Notes for v42.11.13 Fixes Fixed a crash when starting without an available display server on Linux. #54796 (Also in 45 )",
+ "title_mn": "Electron v42.11.13 хувилбар гарлаа",
+ "summary_mn": "Electron фреймворкийн v42.11.13 засвар гарч, Linux үйлдлийн систем дээр дэлгэц сервер байхгүй үед үүсдэг крэшийг зассан байна.",
+ "body_mn": "Electron баг v42.11.13 засварын хувилбараа албан ёсоор гаргалаа. Энэхүү шинэ хувилбарт Linux орчинд ямар нэгэн боломжит дэлгэцийн сервер (display server) байхгүй үед програмыг эхлүүлэх явцад гардаг байсан крэшийг амжилттай зассан байна.\n\nЭнэхүү алдааны засвар нь 45 хувилбарт мөн нэгтгэгдсэн бөгөөд хөгжүүлэгчдэд суурь тогтвортой байдлыг сайжруулахад чухал юм. Десктоп апп хөгжүүлж буй багууд энэхүү хувилбар руу шинэчлэлт хийхэд тохиромжтой.",
+ "published": "2026-10-13T17:54:53Z",
+ "added": "2026-10-14T05:50:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

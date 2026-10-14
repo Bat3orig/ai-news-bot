@@ -1,0 +1,17 @@
+{
+ "id": "0d18ec305a1878e2",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+ "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-security-logo.png",
+ "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+ "summary_en": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%.",
+ "title_mn": "GitHub нууц үг илрүүлэх системдээ ModernBERT загварыг нэвтрүүлжээ",
+ "summary_mn": "GitHub нууц үг илрүүлэх хурдаа сайжруулах зорилгоор шинэчилсэн ModernBERT ангилагчийг нэвтрүүлж, шалгалтын хурдыг 86% хувиар өсгөжээ.",
+ "body_mn": "GitHub платформын нууц үг болон API түлхүүр илрүүлэх системд томоохон шинэчлэлт хийгдсэнийг албан ёсоор зарлалаа. Багууд код бичих явцад үүсч болох хуурамч сэрүүлгийг багасгах, мөн илрүүлэлтийн хурдыг нэмэгдүүлэх зорилгоор нарийн тохируулсан ModernBERT загварт суурилсан хоёр үе шаттайpipeline-ийг бүтээжээ.\n\nШинэ систем нь regex загвараар нэр дэвшигч мөрүүдийг эхлээд шүүж, дараа нь ModernBERT загвараар дамжуулан бодит итгэмжлэл эсвэл баримт бичгийн жишээ болохыг ялгадаг байна. Үүний үр дүнд код оруулахын өмнөх шалгалт болон ерөнхий гүйцэтгэлийн хугацаа 86 хувиар хурдассан байна.\n\nЭнэхүү шинэчлэлт нь хиймэл оюун ухааны тусламжтайгаар код бичих хурд нэмэгдэж буй өнөө үед нууц мэдээллийн аюулгүй байдлыг хангах чухал алхам болж байна.",
+ "published": "2026-10-13T17:56:33Z",
+ "added": "2026-10-14T05:50:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

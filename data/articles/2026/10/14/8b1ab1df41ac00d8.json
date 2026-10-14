@@ -1,0 +1,17 @@
+{
+ "id": "8b1ab1df41ac00d8",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup_light_16-9.width-1300.png",
+ "title": "Developing Gemini 4 Argon responsibly and safely",
+ "summary_en": "Learn more about our approach to safety and security for Gemini 4 Argon.",
+ "title_mn": "Google Gemini 4 Argon загварын аюулгүй байдлын тайлангаа танилцуулав",
+ "summary_mn": "Google DeepMind компани шинэ Gemini 4 Argon загварын кибер аюулгүй байдал болон хариуцлагатай ашиглалтын талаарх мэдээллээ хуваалцжээ.",
+ "body_mn": "Google DeepMind шинээр гаргаж буй Gemini 4 Argon загварынхаа аюулгүй байдлын тогтолцоог олон нийтэд дэлгэлээ. Энэхүү загвар нь кибер хамгаалалт, програм хангамжийн эмзэг байдлыг илрүүлэх тал дээр өндөр түвшний чадвартай болох нь тогтоогджээ.\n\nТуршилтын явцад уг загварыг ашиглан эмнэлгийн программ хангамжийн критикал алдааг олж засварласан нь олон зуун мянган хүний өгөгдлийг хамгаалахад тусалсан байна. Google загварыг ашиглах явцад хортой хүсэлтүүдийг таслан зогсоох гурван давхар бодит цагийн хамгаалалтын систем хэрэгжүүлжээ.",
+ "published": "2026-10-13T19:43:07Z",
+ "added": "2026-10-14T05:50:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

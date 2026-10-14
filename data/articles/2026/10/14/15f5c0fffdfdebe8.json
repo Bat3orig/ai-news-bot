@@ -1,0 +1,17 @@
+{
+ "id": "15f5c0fffdfdebe8",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+ "image": "https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG",
+ "title": "OpenAI engineer arrested in bugging of executive conference room",
+ "summary_en": "https://x.com/OpenAINewsroom/status/2110095403198849132 Comments URL: https://news.ycombinator.com/item?id=50078141 Points: 504 # Comments: 430",
+ "title_mn": "OpenAI-ийн инженер хурлын өрөөнд нууц бичигч төхөөрөмж байрлуулсан хэргээр баривчлагджээ",
+ "summary_mn": "OpenAI компанид ажилладаг инженер гүйцэтгэх захирлуудын хурлын өрөөнд аудио бичигч нууцаар байрлуулсан хэргээр холбогдож, холбогдох албаныхан баривчилжээ.",
+ "body_mn": "Холбооны прокуроруудын мэдээлснээр OpenAI компанийн инженер Абдулрахман Алфозан Сан Франциско дахь төв байрны гүйцэтгэх удирдлагын хурлын өрөөнд яриа бичих төхөөрөмж нуусан хэргээр баривчлагдсан байна.\n\nКомпанийн ажилтнууд төхөөрөмжийг есдүгээр сарын 30-нд олж илрүүлсэн бөгөөд уг төхөөрөмж нь телевизийн ард USB порт руу залгаатай байжээ. OpenAI-ийн ажилтнууд төхөөрөмжийг илрүүлэх явцдаа өөрсдийн AI загваруудыг ашиглан түүний гарал үүслийг тодруулж, хууль хяналтын байгууллагад шилжүүлсэн байна. Гэм буруутай нь тогтоогдвол тэрээр таван жилийн хорих ял хүлээх магадлалтай аж.",
+ "published": "2026-10-13T20:23:55Z",
+ "added": "2026-10-14T05:50:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

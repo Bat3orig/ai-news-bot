@@ -1,0 +1,17 @@
+{
+ "id": "2836decd84264e59",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v43.7.11",
+ "image": "https://opengraph.githubassets.com/ad15b25cca6b18e3df215ae6ad8019477c605eb9a9e50d1a1e5563eb03627ede/electron/electron/releases/tag/v43.7.11",
+ "title": "electron v43.7.11",
+ "summary_en": "Release Notes for v43.7.11 Other Changes Backported fixes from upstream ANGLE, Chromium, PDFium and V8. #54899 Documentation Documentation changes: #54881",
+ "title_mn": "Electron v43.7.11 хувилбар гарлаа",
+ "summary_mn": "Electron төсөл v43.7.11 хувилбараа гаргаж Chromium, V8, ANGLE болон PDFium-ийн сүүлийн үеийн засваруудыг нэгтгэлээ.",
+ "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн Electron фрэймворкийн 43 дахь хувилбарын ээлжит v43.7.11 шинэчлэлт гарлаа. Энэхүү хувилбар нь системийн тогтвортой ажиллагаа болон дэд сангуудын засваруудад чиглэсэн байна.\n\nЭнэ хувилбараар upstream сангууд болох ANGLE, Chromium, PDFium болон V8 хөдөлгүүрүүдийн шинэчлэлтүүд болон алдааны засваруудыг буцаан нөхөж (backport) суулгажээ.\n\nElectron v43 ашиглаж буй хөгжүүлэгчид аюулгүй байдал болон гүйцэтгэлийн найдвартай байдлыг хангахын тулд уг хувилбар руу шинэчлэх боломжтой.",
+ "published": "2026-10-14T01:17:09Z",
+ "added": "2026-10-14T05:50:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}
