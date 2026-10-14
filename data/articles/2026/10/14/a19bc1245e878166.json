@@ -1,0 +1,17 @@
+{
+ "id": "a19bc1245e878166",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5whM0EM20wGHLVBkIkNixX/6b6fd4a26e9b99e9e50b83daa3b63111/sandbox-challenge-findings-v1.png",
+ "title": "Findings from the $1M Vercel Sandbox challenge",
+ "summary_en": "In August, we launched the $1M hacker challenge for Vercel Sandbox , inviting security researchers to try and escape Vercel Sandbox. We also coordinated with cybersecurity experts Trail of Bits to review the source code and security architecture. Here is a summary of the challenge: 1,285 reports over two weeks $242,000 in bounties paid out One Linux kernel zeroday vulnerability uncovered No reports showed anyone accessing customer data in Vercel Sandbox. The most severe finding was the defect in the upstream Linux kernel. The kernel zero day The program's most important report arrived on day…",
+ "title_mn": "Vercel Sandbox-ийн аюулгүй байдлын шалгалтаар Linux цөмийн эмзэг байдал илэрчээ",
+ "summary_mn": "Vercel Sandbox-ийн 1 сая ам.долларын урамшуулалт сорилтоор Linux цөмийн сүлжээний стек дэх нуле-дэй эмзэг байдал илэрч, үүнийг холбогдох түншүүдтэй хамтран амжилттай заслаа.",
+ "body_mn": "Vercel компаниас Vercel Sandbox орчныг шалгах зорилгоор зарласан 1 сая ам.долларын хакерын сорилтын үеэр аюулгүй байдлын судлаачид болон Trail of Bits компани хамтран ажиллажээ. Шалгалтаар үндсэн виртуалчлалын давхарга хэвийн ажиллаж байгаа нь тогтоогдсон ч Linux цөмийн сүлжээний стекээс ноцтой эмзэг байдал олдсон байна.\n\nСудлаач Paulos Yibelo тусгайлан бэлтгэсэн пакетуудыг ашиглан хост машин болон бусад түрээслэгчдийн санах ойн мэдээлэл рүү нэвтрэх, хост машиныг устгах эсвэл бүрэн эрх мэдэлтэйгээр команд ажиллуулах боломжтойг харуулжээ. Энэхүү эмзэг байдал нь Vercel Sandbox төдийгүй Linux цөөн ашигладаг ихэнх үүлэн тооцооллын үйлчилгээ үзүүлэгчдэд хамааралтай нийтлэг эрсдэл байв.\n\nVercel компани уг асуудлыг мэдсэн даруйдаа судлаачид болон AWS тэргүүтэй түншүүдтэйгээ хамтран яаралтай засвар хийж, хөгжүүлэгчдийн аюулгүй байдлыг хангасан байна. Мөн дотоод шалгалтаар өөр нэг санах ойн өгөгдөл алдагдах жижиг алдааг олж зассан аж.",
+ "published": "2026-10-14T07:00:00Z",
+ "added": "2026-10-14T22:54:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -398,5 +398,185 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "825f5847474b3b2c",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/amazon-s3-joins-the-vercel-marketplace",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3CwGGkHrOUd0MoiKCmi4rJ/05c10845d7d9593dd733a78c99c9a8a5/amazon_s3_added_to_the_vercel_marketplace_og_card__1_.jpg",
+   "title": "Amazon S3 joins the Vercel Marketplace",
+   "summary_en": "You can now create and connect Amazon S3 resources through the Vercel Marketplace without leaving your Vercel project dashboard. The Amazon S3 Marketplace integration automatically adds connection details as environment variables and lets you manage resources alongside your application infrastructure, with links to AWS for deeper configuration. Authentication uses short-lived OIDC credentials without storing static AWS keys. Amazon S3 is also available in v0 , which provisions resources, configures connections, and generates code from your prompt. type: embedded-entry-inline id…",
+   "title_mn": "Amazon S3 үйлчилгээ Vercel Marketplace-д нэмэгдлээ",
+   "summary_mn": "Хөгжүүлэгчид Amazon S3 нөөцийг Vercel төслийн самбараас шууд үүсгэж, OIDC ашиглан статик түлхүүргүйгээр холбох боломжтой боллоо. Мөн v0 хэрэгслээр дамжуулан хүсэлтээс код үүсгэхэд дэмжигдэнэ.",
+   "body_mn": "Amazon S3 үйлчилгээ Vercel Marketplace-д албан ёсоор нэмэгдсэн бөгөөд хөгжүүлэгчид Vercel төслийн хяналтын самбараас гарахгүйгээр AWS нөөцүүдийг үүсгэж, холбох боломжтой боллоо. Энэхүү интеграци нь холболтын мэдээллийг орчны хувьсагч болгон автоматаар нэмдэг байна.\n\nХолболтын үед статик AWS түлхүүр хадгалахын оронд богино хугацааны OIDC эрхлэлтийг (authentication) ашигладаг тул аюулгүй байдал өндөр байна. Мөн S3 үйлчилгээг v0 хэрэгслээр дамжуулан ашиглах боломжтой бөгөөд хэрэглэгчийн өгсөн хүсэлт (prompt) дээр үндэслэн холболтыг тохируулж, код автоматаар үүсгэж өгдөг юм.\n\nШинэ хэрэглэгчид Vercel-ээр дамжуулан шинэ AWS данс үүсгэхэд зургаан сарын хугацаатай 100 ам.долларын эрх авах боломжтой. Түүнчлэн одоо байгаа дансаа холбож, хэрэглээгээ Vercel самбараас шууд удирдах боломжтойгоороо хөгжүүлэгчдийн ажлыг хөнгөвчилж байна.",
+   "published": "2026-10-14T00:00:00Z",
+   "added": "2026-10-14T22:54:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a19bc1245e878166",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5whM0EM20wGHLVBkIkNixX/6b6fd4a26e9b99e9e50b83daa3b63111/sandbox-challenge-findings-v1.png",
+   "title": "Findings from the $1M Vercel Sandbox challenge",
+   "summary_en": "In August, we launched the $1M hacker challenge for Vercel Sandbox , inviting security researchers to try and escape Vercel Sandbox. We also coordinated with cybersecurity experts Trail of Bits to review the source code and security architecture. Here is a summary of the challenge: 1,285 reports over two weeks $242,000 in bounties paid out One Linux kernel zeroday vulnerability uncovered No reports showed anyone accessing customer data in Vercel Sandbox. The most severe finding was the defect in the upstream Linux kernel. The kernel zero day The program's most important report arrived on day…",
+   "title_mn": "Vercel Sandbox-ийн аюулгүй байдлын шалгалтаар Linux цөмийн эмзэг байдал илэрчээ",
+   "summary_mn": "Vercel Sandbox-ийн 1 сая ам.долларын урамшуулалт сорилтоор Linux цөмийн сүлжээний стек дэх нуле-дэй эмзэг байдал илэрч, үүнийг холбогдох түншүүдтэй хамтран амжилттай заслаа.",
+   "body_mn": "Vercel компаниас Vercel Sandbox орчныг шалгах зорилгоор зарласан 1 сая ам.долларын хакерын сорилтын үеэр аюулгүй байдлын судлаачид болон Trail of Bits компани хамтран ажиллажээ. Шалгалтаар үндсэн виртуалчлалын давхарга хэвийн ажиллаж байгаа нь тогтоогдсон ч Linux цөмийн сүлжээний стекээс ноцтой эмзэг байдал олдсон байна.\n\nСудлаач Paulos Yibelo тусгайлан бэлтгэсэн пакетуудыг ашиглан хост машин болон бусад түрээслэгчдийн санах ойн мэдээлэл рүү нэвтрэх, хост машиныг устгах эсвэл бүрэн эрх мэдэлтэйгээр команд ажиллуулах боломжтойг харуулжээ. Энэхүү эмзэг байдал нь Vercel Sandbox төдийгүй Linux цөөн ашигладаг ихэнх үүлэн тооцооллын үйлчилгээ үзүүлэгчдэд хамааралтай нийтлэг эрсдэл байв.\n\nVercel компани уг асуудлыг мэдсэн даруйдаа судлаачид болон AWS тэргүүтэй түншүүдтэйгээ хамтран яаралтай засвар хийж, хөгжүүлэгчдийн аюулгүй байдлыг хангасан байна. Мөн дотоод шалгалтаар өөр нэг санах ойн өгөгдөл алдагдах жижиг алдааг олж зассан аж.",
+   "published": "2026-10-14T07:00:00Z",
+   "added": "2026-10-14T22:54:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "004cd593adabcd24",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/sentinelone",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/6LgeCJxMCVafjSThCrAJNz/4859e929cd3c29c50f70ee81ff920dab/sentinelone-woven-texture-social-larger-logos.png?w=1600&h=900&fit=fill",
+   "title": "SentinelOne cuts malware analysis from weeks to hours",
+   "summary_en": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+   "title_mn": "SentinelOne OpenAI Daybreak ашиглан хортой программ шинжлэх хугацааг эрс багасгалаа",
+   "summary_mn": "SentinelOne компани OpenAI Daybreak хэрэгслийг ашиглан нарийн төвөгтэй хортой программ хангамжийг задлан шинжлэх хугацааг 4-6 долоо хоногоос ердөө 8 цаг болгон буурууллаа.",
+   "body_mn": "Кибер аюулгүй байдлын SentinelOne компани OpenAI Daybreak системийг нэвтрүүлснээр хортой программ хангамжийг (malware) задлан шинжлэх хугацааг хэдэн долоо хоногоос хэдхэн цаг болгон багасгаж чаджээ. Өмнө нь шилдэг судлаачдын хувьд нарийн төвөгтэй хортой кодыг задлан шинжлэхэд 4-6 долоо хоног шаардагддаг байсан бол одоо уг хугацаа ойролцоогоор 8 цаг болж богиноссон байна.\n\nИйнхүү шинжилгээний хугацаа хурдассанаар судлаачдад илүү олон аюул заналхийллийг шалгах, янз бүрийн хортой программ дахь холбоо хамаарлыг илрүүлэх боломж нээгдэж байна. Компанийн Хиймэл оюун ухааны ахлах ажилтан Gregor Stewart-ын мэдээлснээр, урьд өмнө төсөвлөх боломжгүй байсан мэдээллийн урсгалыг үүсгэж чадсан аж.\n\nГэсэн хэдий ч системийн архитектурыг өөрчлөх болон эцсийн хариуцлагыг хүлээх тал дээр хүний оролцоо зайлшгүй хэвээр байгаа аж. SentinelOne одоо OpenAI-ийн кибер аюулгүй байдлын чадавхыг код бичих үйл явцад нэвтрүүлж, хөгжүүлэгчдэд програм бүтээх явцдаа аюулгүй байдлын асуудлаа шийдвэрлэх боломжийг олгохоор зорьж байна.",
+   "published": "2026-10-14T12:00:00Z",
+   "added": "2026-10-14T22:54:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a43899852749542e",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/release/v26.12.0",
+   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.12.0%20(Current)",
+   "title": "Node.js 26.12.0 (Current)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "title_mn": "Node.js 26.12.0 (Current) хувилбар гарлаа",
+   "summary_mn": "Node.js платформ шинэ 26.12.0 Current хувилбараа гаргалаа. Энэхүү шинэ хувилбарт төрсөн суурилуулагч болон эх кодыг дээрх албан ёсны холбоосоор татаж авах боломжтой.",
+   "body_mn": "Node.js платформ хөгжүүлэгчид зориулан Node.js 26.12.0 Current хувилбарыг албан ёсоор гаргалаа. Шинэ хувилбар нь Windows, macOS болон Linux үйлдвэрлэлийн системүүдэд зориулсан суулгагч болон бинар файлуудыг багтаасан болно.\n\nХөгжүүлэгчид албан ёсны вэб сайтаас Windows 64-бит болон ARM 64-бит суулгагч, macOS Apple Silicon болон Intel хувилбарууд, мөн Linux болон бусад архитектурт зориулсан эх кодыг татаж авах боломжтой юм. Дэлгэрэнгүй API баримт бичгийг албан ёсны баримтжуулалтын хуудаснаас үзэх боломжтой.\n\nЭнэхүү шинэчлэлт нь Node.js орчныг ашиглан сервер талын программ хөгжүүлж буй инженерүүдэд хамгийн сүүлийн үеийн боломжууд болон тогтвортой байдлыг хангаж өгдөг.",
+   "published": "2026-10-14T15:23:06Z",
+   "added": "2026-10-14T22:54:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "93e5fa26e67fee13",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/release/v24.22.0",
+   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.0%20(LTS)",
+   "title": "Node.js 24.22.0 (LTS)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "title_mn": "Node.js 24.22.0 (LTS) хувилбар гарлаа",
+   "summary_mn": "Node.js runtime орчны урт хугацааны дэмжлэгтэй Node.js 24.22.0 LTS хувилбар бэлэн боллоо. Бүх платформд зориулсан суулгагч болон эх код татах боломжтой.",
+   "body_mn": "Node.js баг хөгжүүлэгчдэд зориулж урт хугацааны дэмжлэг үзүүлэх Node.js 24.22.0 LTS хувилбарыг гаргалаа. Энэхүү хувилбар нь бүтээгдэхүүний тогтвортой байдлыг эрхэмлэдэг төслүүдэд тохиромжтой юм.\n\nШинэ хувилбарт Windows, macOS, Linux болон бусад платформд зориулсан 64-бит болон ARM архитектурын суулгагч, бинар файлууд багтсан болно. Хөгжүүлэгчид албан ёсны линкүүдийг ашиглан шаардлагатай багцуудаа татан авч суулгах боломжтой.\n\nLTS хувилбар нь бизнесийн түвшний болон тогтвортой ажиллах шаардлагатай программ хангамжуудад найдвартай ажиллагааг хангадаг чухал шинэчлэлт юм.",
+   "published": "2026-10-14T15:26:48Z",
+   "added": "2026-10-14T22:54:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8e8f1a18d7e2ee46",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+   "image": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/diverse-grid.png",
+   "title": "Why do LLM pelicans look like this?",
+   "summary_en": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 148 # Comments: 130",
+   "title_mn": "Design Creativity Bench: Хиймэл оюун ухааны UI дизайн бүтээх бүтээлч байдлыг үнэлэх нь",
+   "summary_mn": "Шинэ судалгаагаар хөгжүүлэлтийн тэргүүлэх AI загварууд UI дизайн бүтээхдээ хүний дизайнеруудаас бүтээлч байдлаараа хоцорч байгааг тогтоожээ. Судлаачид загваруудын бүтээлч байдлыг хэмжих шинэ benchmark танилцууллаа.",
+   "body_mn": "Орчин үеийн хиймэл оюун ухааны загварууд вэб сайт болон программ хангамжийн хэрэглэгчийн интерфейс (UI) кодлох чадвараараа гайхалтай амжилт үзүүлж байгаа ч бүтээлч дизайны шийдвэр гаргахад учир дутагдалтай хэвээр байна. Судлаачид 16 тэргүүлэх загварыг 80 гаруй нээлттэй UI даалгавраар шалгаж, хүний дизайнеруудын бүтээлтэй харьцуулан үнэлжээ.\n\nТуршилтын үр дүнгээс харахад хамгийн өндөр оноо авсан загвар хүртэл хүний дизайны түвшинд хүрч чадахгүй байгаа бөгөөд загваруудын дунд өвөрмөц шийдэл гаргах чадвар дутагдаж байгааг илрүүлсэн байна. Тус судалгааны баг хиймэл оюун ухааны загваруудын бүтээлч байдлыг гурван хэмжигдэхүүнээр үнэлэх зорилготой Design Creativity Bench нэртэй шинэ benchmark болон үнэлгээний хүрээг танилцуулжээ.\n\nЭнэхүү судалгаа нь хөгжүүлэгчид болон дизайнеруудад AI хэрэгслүүдийг ашиглан интерфейс бүтээх явцдаа тэдгээрийн хязгаарлагдмал талуудыг олж харах, үнэлэх шинэ боломжийг олгож байна. Бүтээгдэхүүний код болон дизайныг автоматжуулахад анхаарч буй инженерүүдэд энэхүү үнэлгээний үр дүн чухал мэдээлэл болж байна.",
+   "published": "2026-10-14T16:33:34Z",
+   "added": "2026-10-14T22:54:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fc5dbee1f7755a74",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "xAI",
+   "url": "https://x.ai/news/grok-voice-3",
+   "image": "https://media.x.ai/v1/website/og-grok-voice-3-0-b281361b.webp",
+   "title": "Introducing Grok Voice 3.0 | SpaceXSI",
+   "summary_en": "The world’s most intelligent voice model.",
+   "title_mn": "xAI ярианы шинэ загвар Grok Voice 3.0-ийг танилцууллаа",
+   "summary_mn": "xAI компани дуу хоолойгоор шууд харилцдаг Grok Voice 3.0 загвараа худалдаанд гаргав. 1 секунд хүрэхгүй хоцролттой уг загвар нь Voice Agent API-д минутын $0.08 үнэтэй гарсан байна.",
+   "body_mn": "xAI компани ярианаас ярианд шууд хөрвүүлдэг (speech-to-speech) Grok Voice 3.0 загвараа албан ёсоор зарлалаа. Тус загвар нь 1 секундээс бага хугацааны хоцролттой ажилладаг бөгөөд хэрэглэгчийн дэмжлэгийн дуудлага шийдвэрлэх чадвараараа дээд амжилт тогтоосон гэж мэдээлжээ.\n\nArtificial Analysis-ийн хараат бус туршилтаар Grok Voice 3.0 нь Speech-to-Speech Index дээр 86.9 оноо авч нэгдүгээрт жагссан байна. Мөн ярианы дундуурх зогсолт болон тасалдалтыг хэр зэрэг бодитой зохицуулж буйг хэмждэг Full Duplex Bench шалгуурт 97 хувийн үнэлгээ авчээ. Үүнээс гадна ServiceNow-ийн EVA-Bench үнэлгээгээр аж ахуйн нэгжийн түвшний дуут агентуудын дунд 74 хувийн нарийвчлалтайгаар тэргүүлсэн байна.\n\nОдоогоор уг загварыг Tesla автомашинуудын гар ашиглахгүй команд болон Starlink-ийн өдөрт 20,000 орчим дуудлага хүлээн авдаг дуудлагын төвд ашиглаж байгаа аж. Starlink дуудлагуудын 70 орчим хувийг хүний оролцоогүйгээр шийдвэрлэж байна.\n\nХөгжүүлэгчдэд зориулан Grok Voice 3.0-ийг Voice Agent API-аар дамжуулан Grok Voice 2.0-той ижил буюу минутын $0.08 (цагийн $4.80) үнээр санал болгож эхэлжээ. Коддоо grok-voice-latest ашиглаж буй системүүд шинэ хувилбар луу автоматаар шилжсэн байна.",
+   "published": "2026-10-14T16:41:49Z",
+   "added": "2026-10-14T22:54:29Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "16ceb924f9fdca80",
+   "subtopic": "vibe-coding",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://lwn.net/Articles/1100449/",
+   "image": "",
+   "title": "Linus Torvalds's first LLM-assisted patch series",
+   "summary_en": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 110 # Comments: 92",
+   "title_mn": "Линус Торвалдс анх удаа LLM ашиглан засварын багц бэлтгэжээ",
+   "summary_mn": "Линус Торвалдс Maintainers Summit дээр LLM загвар ашиглан patch бичсэнээ хуваалцлаа. Үр дүнд нь read() үйлдлийн хурд эрс сайжирсан ч кодын хяналтаар race condition илэрчээ.",
+   "body_mn": "Саяхан болж өнгөрсөн Maintainers Summit уулзалтын үеэр Linux-ийг үндэслэгч Линус Торвалдс томоохон хэлний загвар (LLM) ашиглан анхны засварын багцаа (patch series) гаргасан тухайгаа хуваалцжээ.\n\nУг өөрчлөлтийн үр дүнд read() үйлдлийг эрчимтэй ашигладаг бенчмаркийн гүйцэтгэл даруй нэг эрэмбээр буюу арав дахин хурдассан байна. Гэсэн хэдий ч хамтран хөгжүүлэгчдийн кодын хяналтын (code review) явцад уг кодонд уралдах нөхцөл (race condition) илэрсэн тул дахин сайжруулалт хийх шаардлагатай болсон байна.\n\nЭнэхүү тохиолдол нь туршлагатай ахлах хөгжүүлэгчид ч цөмийн түвшний системийн гүйцэтгэлийг оновчлоход хиймэл оюуныг ашиглаж эхэлснийг харуулахын зэрэгцээ LLM-ийн үүсгэсэн кодыг зайлшгүй нарийн нягтлах шаардлагатайг сануулж байна.",
+   "published": "2026-10-14T16:55:07Z",
+   "added": "2026-10-14T22:54:29Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d469e8fd09ac9728",
+   "subtopic": "react",
+   "source": "facebook/react",
+   "source_label": "facebook/react",
+   "url": "https://github.com/react/react/releases/tag/v19.0.9",
+   "image": "https://opengraph.githubassets.com/30165f30111eea23d2315df1de5b422718fdc9946c41fdd659fcf4ad361a43b9/react/react/releases/tag/v19.0.9",
+   "title": "react 19.0.9 (October 14th, 2026)",
+   "summary_en": "React Server Components Improve transport protocol ( #37842 by @unstubbable and @eps1lon )",
+   "title_mn": "React 19.0.9 хувилбар гарч, RSC-ийн протоколыг сайжруулав",
+   "summary_mn": "React 19.0.9 хувилбар албан ёсоор гарлаа. Шинэ хувилбарт React Server Components-ийн өгөгдөл дамжуулах transport протоколыг сайжруулсан байна.",
+   "body_mn": "React баг 19.0.9 хувилбарыг хөгжүүлэгчдэд хүргэлээ. Энэхүү жижиг шинэчлэлтээр React Server Components (RSC)-ийн ажиллагаатай холбоотой сайжруулалтыг багтаасан байна.\n\nТус хувилбарт RSC-ийн transport protocol буюу серверээс клиент рүү компонент болон түүний өгөгдлийг дамжуулах бүтцийг илүү найдвартай болгож сайжруулжээ (#37842).\n\nReact 19 дээр суурилсан серверийн компонентуудтай ажиллаж буй хөгжүүлэгчид уг шинэ хувилбар луу шинэчлэх замаар өгөгдөл дамжуулалтын тогтвортой байдлыг сайжруулах боломжтой юм.",
+   "published": "2026-10-14T17:05:59Z",
+   "added": "2026-10-14T22:54:29Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
  }
 ]

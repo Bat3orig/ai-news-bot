@@ -1,0 +1,17 @@
+{
+ "id": "004cd593adabcd24",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/sentinelone",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/6LgeCJxMCVafjSThCrAJNz/4859e929cd3c29c50f70ee81ff920dab/sentinelone-woven-texture-social-larger-logos.png?w=1600&h=900&fit=fill",
+ "title": "SentinelOne cuts malware analysis from weeks to hours",
+ "summary_en": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+ "title_mn": "SentinelOne OpenAI Daybreak ашиглан хортой программ шинжлэх хугацааг эрс багасгалаа",
+ "summary_mn": "SentinelOne компани OpenAI Daybreak хэрэгслийг ашиглан нарийн төвөгтэй хортой программ хангамжийг задлан шинжлэх хугацааг 4-6 долоо хоногоос ердөө 8 цаг болгон буурууллаа.",
+ "body_mn": "Кибер аюулгүй байдлын SentinelOne компани OpenAI Daybreak системийг нэвтрүүлснээр хортой программ хангамжийг (malware) задлан шинжлэх хугацааг хэдэн долоо хоногоос хэдхэн цаг болгон багасгаж чаджээ. Өмнө нь шилдэг судлаачдын хувьд нарийн төвөгтэй хортой кодыг задлан шинжлэхэд 4-6 долоо хоног шаардагддаг байсан бол одоо уг хугацаа ойролцоогоор 8 цаг болж богиноссон байна.\n\nИйнхүү шинжилгээний хугацаа хурдассанаар судлаачдад илүү олон аюул заналхийллийг шалгах, янз бүрийн хортой программ дахь холбоо хамаарлыг илрүүлэх боломж нээгдэж байна. Компанийн Хиймэл оюун ухааны ахлах ажилтан Gregor Stewart-ын мэдээлснээр, урьд өмнө төсөвлөх боломжгүй байсан мэдээллийн урсгалыг үүсгэж чадсан аж.\n\nГэсэн хэдий ч системийн архитектурыг өөрчлөх болон эцсийн хариуцлагыг хүлээх тал дээр хүний оролцоо зайлшгүй хэвээр байгаа аж. SentinelOne одоо OpenAI-ийн кибер аюулгүй байдлын чадавхыг код бичих үйл явцад нэвтрүүлж, хөгжүүлэгчдэд програм бүтээх явцдаа аюулгүй байдлын асуудлаа шийдвэрлэх боломжийг олгохоор зорьж байна.",
+ "published": "2026-10-14T12:00:00Z",
+ "added": "2026-10-14T22:54:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

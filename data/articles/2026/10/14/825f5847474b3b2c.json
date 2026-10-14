@@ -1,0 +1,17 @@
+{
+ "id": "825f5847474b3b2c",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/amazon-s3-joins-the-vercel-marketplace",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3CwGGkHrOUd0MoiKCmi4rJ/05c10845d7d9593dd733a78c99c9a8a5/amazon_s3_added_to_the_vercel_marketplace_og_card__1_.jpg",
+ "title": "Amazon S3 joins the Vercel Marketplace",
+ "summary_en": "You can now create and connect Amazon S3 resources through the Vercel Marketplace without leaving your Vercel project dashboard. The Amazon S3 Marketplace integration automatically adds connection details as environment variables and lets you manage resources alongside your application infrastructure, with links to AWS for deeper configuration. Authentication uses short-lived OIDC credentials without storing static AWS keys. Amazon S3 is also available in v0 , which provisions resources, configures connections, and generates code from your prompt. type: embedded-entry-inline id…",
+ "title_mn": "Amazon S3 үйлчилгээ Vercel Marketplace-д нэмэгдлээ",
+ "summary_mn": "Хөгжүүлэгчид Amazon S3 нөөцийг Vercel төслийн самбараас шууд үүсгэж, OIDC ашиглан статик түлхүүргүйгээр холбох боломжтой боллоо. Мөн v0 хэрэгслээр дамжуулан хүсэлтээс код үүсгэхэд дэмжигдэнэ.",
+ "body_mn": "Amazon S3 үйлчилгээ Vercel Marketplace-д албан ёсоор нэмэгдсэн бөгөөд хөгжүүлэгчид Vercel төслийн хяналтын самбараас гарахгүйгээр AWS нөөцүүдийг үүсгэж, холбох боломжтой боллоо. Энэхүү интеграци нь холболтын мэдээллийг орчны хувьсагч болгон автоматаар нэмдэг байна.\n\nХолболтын үед статик AWS түлхүүр хадгалахын оронд богино хугацааны OIDC эрхлэлтийг (authentication) ашигладаг тул аюулгүй байдал өндөр байна. Мөн S3 үйлчилгээг v0 хэрэгслээр дамжуулан ашиглах боломжтой бөгөөд хэрэглэгчийн өгсөн хүсэлт (prompt) дээр үндэслэн холболтыг тохируулж, код автоматаар үүсгэж өгдөг юм.\n\nШинэ хэрэглэгчид Vercel-ээр дамжуулан шинэ AWS данс үүсгэхэд зургаан сарын хугацаатай 100 ам.долларын эрх авах боломжтой. Түүнчлэн одоо байгаа дансаа холбож, хэрэглээгээ Vercel самбараас шууд удирдах боломжтойгоороо хөгжүүлэгчдийн ажлыг хөнгөвчилж байна.",
+ "published": "2026-10-14T00:00:00Z",
+ "added": "2026-10-14T22:54:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

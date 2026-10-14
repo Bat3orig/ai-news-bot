@@ -1,0 +1,17 @@
+{
+ "id": "a43899852749542e",
+ "subtopic": "node",
+ "source": "Node.js Blog",
+ "source_label": "Node.js Blog",
+ "url": "https://nodejs.org/en/blog/release/v26.12.0",
+ "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.12.0%20(Current)",
+ "title": "Node.js 26.12.0 (Current)",
+ "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+ "title_mn": "Node.js 26.12.0 (Current) хувилбар гарлаа",
+ "summary_mn": "Node.js платформ шинэ 26.12.0 Current хувилбараа гаргалаа. Энэхүү шинэ хувилбарт төрсөн суурилуулагч болон эх кодыг дээрх албан ёсны холбоосоор татаж авах боломжтой.",
+ "body_mn": "Node.js платформ хөгжүүлэгчид зориулан Node.js 26.12.0 Current хувилбарыг албан ёсоор гаргалаа. Шинэ хувилбар нь Windows, macOS болон Linux үйлдвэрлэлийн системүүдэд зориулсан суулгагч болон бинар файлуудыг багтаасан болно.\n\nХөгжүүлэгчид албан ёсны вэб сайтаас Windows 64-бит болон ARM 64-бит суулгагч, macOS Apple Silicon болон Intel хувилбарууд, мөн Linux болон бусад архитектурт зориулсан эх кодыг татаж авах боломжтой юм. Дэлгэрэнгүй API баримт бичгийг албан ёсны баримтжуулалтын хуудаснаас үзэх боломжтой.\n\nЭнэхүү шинэчлэлт нь Node.js орчныг ашиглан сервер талын программ хөгжүүлж буй инженерүүдэд хамгийн сүүлийн үеийн боломжууд болон тогтвортой байдлыг хангаж өгдөг.",
+ "published": "2026-10-14T15:23:06Z",
+ "added": "2026-10-14T22:54:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

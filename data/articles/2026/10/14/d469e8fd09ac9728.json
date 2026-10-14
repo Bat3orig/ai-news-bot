@@ -1,0 +1,17 @@
+{
+ "id": "d469e8fd09ac9728",
+ "subtopic": "react",
+ "source": "facebook/react",
+ "source_label": "facebook/react",
+ "url": "https://github.com/react/react/releases/tag/v19.0.9",
+ "image": "https://opengraph.githubassets.com/30165f30111eea23d2315df1de5b422718fdc9946c41fdd659fcf4ad361a43b9/react/react/releases/tag/v19.0.9",
+ "title": "react 19.0.9 (October 14th, 2026)",
+ "summary_en": "React Server Components Improve transport protocol ( #37842 by @unstubbable and @eps1lon )",
+ "title_mn": "React 19.0.9 хувилбар гарч, RSC-ийн протоколыг сайжруулав",
+ "summary_mn": "React 19.0.9 хувилбар албан ёсоор гарлаа. Шинэ хувилбарт React Server Components-ийн өгөгдөл дамжуулах transport протоколыг сайжруулсан байна.",
+ "body_mn": "React баг 19.0.9 хувилбарыг хөгжүүлэгчдэд хүргэлээ. Энэхүү жижиг шинэчлэлтээр React Server Components (RSC)-ийн ажиллагаатай холбоотой сайжруулалтыг багтаасан байна.\n\nТус хувилбарт RSC-ийн transport protocol буюу серверээс клиент рүү компонент болон түүний өгөгдлийг дамжуулах бүтцийг илүү найдвартай болгож сайжруулжээ (#37842).\n\nReact 19 дээр суурилсан серверийн компонентуудтай ажиллаж буй хөгжүүлэгчид уг шинэ хувилбар луу шинэчлэх замаар өгөгдөл дамжуулалтын тогтвортой байдлыг сайжруулах боломжтой юм.",
+ "published": "2026-10-14T17:05:59Z",
+ "added": "2026-10-14T22:54:29Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
