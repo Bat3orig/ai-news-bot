@@ -1,0 +1,16 @@
+{
+ "id": "ddeb43ca19c1b3af",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Next Web",
+ "url": "https://thenextweb.com/news/palantir-shyam-sankar-pentagon-replaced-anthropic-face-the-nation",
+ "image": "https://media.thenextweb.com/2026/10/shyam-sankar-palantir-cto-portrait-city-window.jpg",
+ "title": "Palantir CTO says the Pentagon has already replaced Anthropic’s AI",
+ "summary_en": "“It’s already been replaced,” Palantir CTO Shyam Sankar said of Anthropic’s AI at the Pentagon, adding it had no operational impact.",
+ "title_mn": "Palantir: Пентагон Anthropic-ийн AI моделиудыг аль хэдийн сольсон",
+ "summary_mn": "Palantir-ийн CTO Шям Санкар CBS-ийн нэвтрүүлэгт Пентагон Anthropic-ийн AI моделиудыг аль хэдийн сольсон боловч үйл ажиллагаанд нөлөө гараагүй гэжээ. Claude нь Palantir-ийн Maven Smart System-ийн нэг хэсэг байсан. Одоо Пентагон xAI, OpenAI, Google-ийн моделиудыг ашиглаж байна.",
+ "body_mn": "Palantir-ийн технологийн дарга Шям Санкар CBS-ийн Face the Nation нэвтрүүлэгт Пентагон Anthropic-ийн AI моделиудыг аль хэдийн сольсон гэж мэдэгдсэн. Энэ нь Пентагон Anthropic-ийн бүтээгдэхүүнээс татгалзсаны дараа хүчин төгөлдөр болсон бөгөөд тэр компанийг нийлүүлэлтийн эрсдэлтэй гэж тодорхойлсон байна. Claude нь Пентагон ашигладаг Palantir-ийн Maven Smart System-ийн нэг хэсэг байсан юм.\n\nСанкарын хэлснээр одоо Яам xAI, OpenAI, Google-ийн моделиудыг, мөн Nvidia-ийн Nemotron зэрэг нээлттэй жинтэй моделиудыг ашиглаж байна. Тэрээр хэрэглэгчид AI аппликейшнүүддээ ямар модель ашиглахаа өөрсдөө сонгодог бөгөөд моделиа солих боломж нь Palantir-ийн худалдааны өсөлтийг түлхэж байгаа гэв.\n\nЭнэ мэдэгдэл нь хөгжүүлэгчдэд нэг чухал санаа өгч байна: нэг моделийн хамаарлаас салах архитектур, модель солигдох боломжтой интерфэйс бол бизнесийн эрсдэлийг бууруулах гол арга юм. Харин Санкар Minab-ийн сургуулийн довтолгооны талаарх тайлангийн үр дүнг хүлээх шаардлагатайг дурдсан бөгөөд энэ асуудал AI-ийн найдвартай байдлын талаарх маргааныг үргэлжлүүлж байна.",
+ "published": "2026-10-13T12:16:09Z",
+ "added": "2026-10-14T00:02:59Z",
+ "ai": "claude:claude-haiku-5-5"
+}

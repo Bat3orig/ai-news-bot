@@ -1,0 +1,16 @@
+{
+ "id": "69cdff7c2fcce1b3",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+ "image": "https://github.blog/wp-content/uploads/2026/10/667782846-ef515640-70b9-4fef-bea7-51e018eeef7f.jpeg",
+ "title": "Code scanning AI Scan metrics in security overview",
+ "summary_en": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the…",
+ "title_mn": "GitHub аюулгүй байдлын хяналтын самбарт AI Scan метрикүүдийг нэмлээ",
+ "summary_mn": "GitHub-ийн Security Overview хэсэгт pull request дээрх AI Scan-ийн үр нөлөөг хянах шинэ метрикүүд нэмэгдлээ. Админууд хиймэл оюуны илрүүлсэн эмзэг байдлууд болон autofix зөвлөмжийг хөгжүүлэгчид хэр их хэрэгжүүлж буй статистикийг нэгдсэн байдлаар харах боломжтой боллоо.",
+ "body_mn": "GitHub өөрийн Security Overview хэсэгт pull request түвшинд хийгддэг AI Scan шинжилгээний үр нөлөөг байгууллагын админуудад харуулах шинэ метрикүүдийг нийтийн туршилтын (public preview) хувилбараар нэвтрүүллээ. Шинэ үзүүлэлтүүд нь хичнээн асуудал илэрсэн, тэдгээрийг хэрхэн зассан, аль репозитор дээр илүү үүссэн болон хөгжүүлэгчид autofix зөвлөмжийг хэр олон удаа ашигласан зэргийг тайлагнах юм.\n\nӨмнөх CodeQL pull requests хуудсыг Code scanning on pull requests гэж өөрчилсөн бөгөөд дотроо CodeQL болон AI Scan гэсэн тусдаа табтай болжээ. AI Scan таб дээрээс нийт илэрсэн асуудлууд болон autofix засах хувилбар санал болгосон эсэх мэдээллийг хялбархан ялган харах боломжтой болсон байна.\n\nЭнэхүү шинэчлэл нь аюулгүй байдлын багуудад pull request тус бүрийг гараар шалгах шаардлагагүйгээр хиймэл оюуны сканнерын өгөөж, хөгжүүлэгчдийн хариу үйлдлийг байгууллагын хэмжээнд үнэлэх боломжийг олгож байна. Уг боломж нь GitHub Code Security болон GitHub Advanced Security эрхтэй хэрэглэгчдэд нээлттэй болжээ.",
+ "published": "2026-10-13T12:03:17Z",
+ "added": "2026-10-14T00:02:59Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

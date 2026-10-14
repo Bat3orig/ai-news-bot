@@ -1,0 +1,16 @@
+{
+ "id": "dc972c6ad3e701d0",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "OrcaRouter",
+ "url": "https://www.orcarouter.ai/id/blog/qwen-3-8",
+ "image": "https://cms.orcarouter.ai/api/media/file/1-2020-1200x630.png",
+ "title": "Qwen 3.8: setiap anggota keluarganya, dan cara memilih salah satunya",
+ "summary_en": "Qwen 3.8 mencakup lima anggota, tiga di antaranya berbobot terbuka dan dua hanya API, di bawah tiga lisensi. Untuk apa masing-masing digunakan, dan aturan…",
+ "title_mn": "Alibaba-ийн Qwen 3.8 загварын цуврал болон хувилбаруудын ялгаа",
+ "summary_mn": "Alibaba Qwen 3.8 үеийн загваруудаа танилцуулсан бөгөөд үүнд нээлттэй жинтэй 27B, 2.4T-A95B болон зөвхөн API-аар ашиглах Max, Flash хувилбарууд багтаж байна. Хөгжүүлэгчид өөрсдийн серверийн нөөц болон лицензийн шаардлагаас хамааран тохирох загвараа сонгох боломжтой.",
+ "body_mn": "Alibaba компани Qwen 3.8 үеийн загваруудаа танилцуулсан бөгөөд энэ нь тус компанийн түүхэнд анх удаа Qwen-Max түвшний цөмийг нээлттэй жинтэйгээр гаргасан тохиолдол болж байна. Энэ цуврал нь нэг сервер дээр ажиллах боломжтой Apache 2.0 лицензтэй Qwen3.8-27B, өгөгдлийн төвийн түвшний Qwen3.8-2.4T-A95B MoE загвар, мөн өндөр ачаалалд зориулсан Flash болон Max API хувилбаруудаас бүрджээ.\n\nХөгжүүлэгчдэд хамгийн чухал сонголт бол өөрсдөө бие даан байршуулах (self-host) боломжтой 27B болон зөвхөн үүлэн API-аар дуудах хувилбаруудын хооронд үүсэж байна. 27 тэрбум параметр бүхий Qwen3.8-27B нь 262,144 токений эх контексттэй бөгөөд YaRN ашиглан 1 сая хүртэл өргөтгөх боломжтой, бүрэн мультимодал бүтэцтэй юм.\n\nХарин Qwen3.8-Max нь хамгийн дээд чадамжтай тэргүүлэгч загвар болж үлдэж байгаа бол Qwen3.8-Flash нь олон давтамжтай, богино даалгавруудыг хямд зардлаар хурдан гүйцэтгэхэд зориулагдсан байна.",
+ "published": "2026-10-13T10:25:18Z",
+ "added": "2026-10-14T00:02:59Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "5d6795a945e65c93",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/drama-3-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3jtwXa5RD3dFsSl3TvFr1w/3366d1f5f6b27b7057298e953317195c/image__87_.png",
+ "title": "Drama 3 now available on AI Gateway",
+ "summary_en": "Drama 3 from Fish Audio is now available on AI Gateway, and 80% off for 30 days (through Nov 12). The text-to-speech model is currently in preview and lets you direct voice performances with natural-language instructions in your script, making it useful for voiceovers, character dialogue, and audio storytelling. Describe the emotion and pacing in square brackets, add sounds and pauses where they belong, or wrap selected words in tags such as <whisper> and <emphasis> to change their delivery. Directions can be written in a different language from the spoken text. Drama 3 also supports…",
+ "title_mn": "Fish Audio-ийн Drama 3 TTS загвар Vercel AI Gateway-д нэмэгдлээ",
+ "summary_mn": "Fish Audio-ийн текстийг дуу хоолой болгох Drama 3 загвар Vercel AI Gateway дээр preview хувилбараар гарлаа. Энэхүү загвар нь дуу хоолойн сэтгэл хөдлөл, хэмнэлийг байгалийн хэлээр зааварчилж удирдах боломж олгодог бөгөөд 30 хоногийн турш 80 хувийн хямдралтай байна.",
+ "body_mn": "Fish Audio компанийн хөгжүүлсэн Drama 3 загвар Vercel AI Gateway платформ дээр preview горимоор албан ёсоор нэвтэрлээ. Хөгжүүлэгчид тус загварыг эхний 30 хоног буюу 11-р сарын 12-ныг хүртэл 80 хувийн хөнгөлөлттэй үнээр ашиглах боломжтой юм.\n\nDrama 3 нь аудио өгүүлэмж, дүрүүдийн яриа болон дуу оруулалтад зориулагдсан ба текст дотор дөрвөлжин хаалтад сэтгэл хөдлөл, хурд зэргийг тайлбарлан удирдах боломжийг олгодог. Мөн <whisper> эсвэл <emphasis> зэрэг шошго ашиглан үгийн дуудлагыг өөрчлөхөөс гадна олон хүний харилцан яриаг тус бүрийн дуу хоолойгоор үүсгэх чадвартай.\n\nVercel AI Gateway-ээр дамжуулан fish-audio/drama-3 нэрээр загварыг дуудах боломжтой бөгөөд нэгдсэн API, дахин оролдох тохиргоо, зардал хяналт, Zero Data Retention зэрэг найдвартай дэд бүтцийн давуу талуудыг давхар ашиглах боломжтой.",
+ "published": "2026-10-13T00:00:00Z",
+ "added": "2026-10-14T00:02:59Z",
+ "ai": "gemini:gemini-3.8-flash"
+}

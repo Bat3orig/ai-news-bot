@@ -1,0 +1,16 @@
+{
+ "id": "926250f0129d2a61",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "OrcaRouter",
+ "url": "https://www.orcarouter.ai/blog/kimi-k3-vs-fable-5",
+ "image": "https://cms.orcarouter.ai/api/media/file/1-2026-1200x630.png",
+ "title": "Kimi K3 vs Claude Fable 5: Is 3.33x Worth Six Points?",
+ "summary_en": "Kimi K3 is a flat 3.33x cheaper than Claude Fable 5 and six points behind on the Intelligence Index. Where the open-weight model wins, and where it lo",
+ "title_mn": "Kimi K3 болон Claude Fable 5-ийн үнэ, гүйцэтгэлийн харьцуулалт",
+ "summary_mn": "Moonshot AI-ийн нээлттэй жинтэй Kimi K3 загвар нь Claude Fable 5-аас 3.3 дахин хямд өртөгтэй атлаа гүйцэтгэлийн индексээр ердөө зургаан онооны зөрүүтэй гарчээ. Хоёр загвар хоёул 1 сая токений контекст цонх дэмждэг байна.",
+ "body_mn": "Moonshot AI-ийн 2.8 их наяд параметртэй MoE загвар Kimi K3 нь Anthropic-ийн тэргүүлэх Claude Fable 5 загвартай зардлын хувьд хүчтэй өрсөлдөж байна. Kimi K3 нь сая инпут токенд 3.00 доллар, аутпут токенд 15.00 долларын үнэтэй байгаа нь Fable 5-ийн 10.00 ба 50.00 долларын тарифтай харьцуулахад яг гурав дахин хямд үзүүлэлт юм.\n\nArtificial Analysis-ийн Интеллектийн Индексээр Claude Fable 5 нь 50 оноотой гарсан бол Kimi K3 нь 44 оноо авч, ердөө зургаан онооны зөрүү харуулжээ. Гэсэн хэдий ч Kimi K3 нь нээлттэй жинтэй 116 загвараас 3-р байранд эрэмбэлэгдэж байгаа нь нээлттэй загваруудын дунд өндөр амжилт болж байна.\n\nХурдны хувьд Claude Fable 5 секундэд 64.7 токен боловсруулж байгаа нь Kimi K3-ийн 43.0 токен/сек хурднаас 50 орчим хувиар илүү байна. Гэвч их хэмжээний өгөгдөл боловсруулах, зардалдаа мэдрэг төслүүдийн хувьд Kimi K3-ийн 3.3 дахин хямд үнэ нь хөгжүүлэгчдийн хувьд маш таатай сонголт болж байна.",
+ "published": "2026-10-13T10:40:30Z",
+ "added": "2026-10-14T00:02:59Z",
+ "ai": "gemini:gemini-3.8-flash"
+}
