@@ -1,0 +1,17 @@
+{
+ "id": "204fba276193ffab",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v44.7.1",
+ "image": "https://opengraph.githubassets.com/6454faa66da30e9064b71667fed6d52fefd9e39ef96eae0d0bb0ca9077249854/electron/electron/releases/tag/v44.7.1",
+ "title": "electron v44.7.1",
+ "summary_en": "Release Notes for v44.7.1 Fixes Fixed a crash when starting without an available display server on Linux. #54794 (Also in 45 ) Fixed a Linux crash creating a window with a menu bar when GTK failed to load. #54859 (Also in 45 ) Fixed a WebContentsView that was removed with removeChildView() and re-added with addChildView() staying hidden behind its sibling views on Linux. #54798 Fixed asar archives in non-ASCII folders failing to load on Linux. #54849 (Also in 45 ) Fixed renderer crashes during garbage collection inside ShadowRealms. #54865 (Also in 45 ) Other Changes Refactored mouse…",
+ "title_mn": "Electron v44.7.1 хувилбар гарлаа: Chromium 152 шинэчлэл ба Linux алдааны засварууд",
+ "summary_mn": "Electron v44.7.1 шинэчлэлтээр Chromium 152 хувилбарыг нэвтрүүлж, Linux дээрх цонх, GTK болон asar архив ачаалахтай холбоотой алдаануудыг заслаа.",
+ "body_mn": "Electron десктоп аппликейшн хөгжүүлэлтийн фрэймворк v44.7.1 шинэчлэлтээ нийтэллээ. Уг хувилбараар Chromium-ийн хувилбарыг 152.0.7977.149 болгон ахиулсан байна.\n\nЭнэ хувилбарт Linux үйлдлийн системд хамаарах хэд хэдэн алдааг зассан байна. Үүнд GTK ачаалж чадахгүй үед цэстэй цонх үүсгэхэд гацдаг, display server байхгүй үед ажиллахад аппликейшн хаагддаг, мөн removeChildView() болон addChildView() ашигласны дараа WebContentsView дэлгэцэнд харагдахгүй үлддэг алдаанууд багтжээ. Мөн латин бус тэмдэгт (non-ASCII) агуулсан хавтсанд буй asar архивыг Linux дээр ачаалахтай холбоотой асуудлыг шийдсэн байна.\n\nТүүнээс гадна ShadowRealms дотор санах ой цэвэрлэх (garbage collection) үед рендерер процесс гацдаг алдааг засварлаж, Windows систем дээрх setIgnoreMouseEvents(true, { forward: true }) тохиргоотой хулганы эвент дамжуулах кодод рефакторинг хийжээ.",
+ "published": "2026-10-13T17:54:22Z",
+ "added": "2026-10-14T05:09:01Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

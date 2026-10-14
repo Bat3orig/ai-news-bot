@@ -1,0 +1,17 @@
+{
+ "id": "c803c10fb93e716c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Register",
+ "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+ "image": "https://image.theregister.com/241238.jpg?imageId=241238&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+ "title": "Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse",
+ "summary_en": "Self-replicating AI botnets could become feasible on IoT hardware within months, claims the Claude maker, if smaller models get smarter",
+ "title_mn": "Anthropic: Хиймэл оюун IoT төхөөрөмж дээр бие даан үржих эрсдэлтэйг анхааруулав",
+ "summary_mn": "Anthropic компани жижиг оврын хиймэл оюуны загварууд тун удахгүй IoT төхөөрөмжүүд болон Android телевизийн приставкаар дамжин өөрөө тархах чадвартай болох магадлалтайг судалгаагаараа дурджээ.",
+ "body_mn": "Anthropic компанийн судлаачид хиймэл оюуны загварууд дата төвийн серверээс хамаарахгүйгээр, сул хамгаалалттай IoT төхөөрөмжүүд болон Android приставүүд дээр бие даан ажиллаж, тархах боломжтой талаарх шинэ судалгааг нийтэлжээ. Тэдний туршилтаар Gemma болон Z.ai-ийн GLM загварууд тодорхой хэмжээний тархалт хийх чадвартай болох нь ажиглагдсан байна.\n\nСудалгааны багийн мэдээлснээр 9 тэрбум параметр бүхий загвар нь олон төрлийн аппарат хангамж дээр инференс буюу тооцоолол хийх чадвартай бөгөөд энэ нь ирээдүйд төвлөрсөн удирдлагагүйгээр тархах сүлжээ үүсэх эрсдэлийг харуулж байна. Гэхдээ зарим шинжээчид энэхүү туршилт нь зориудаар сул хамгаалалттай орчинд хийгдсэн бөгөөд бодит байдал дээр кибер халдлага үйлдэхэд илүү олон шат дамжлага хэрэгтэй гэдгийг онцолж байна.\n\nТехнологийн салбарынхан хиймэл оюуны аюулгүй байдлын талаарх энэ мэт судалгааг анхааралтай ажиглаж байгаа бөгөөд загвар хөгжүүлэгчид болзошгүй эрсдэлээс урьдчилан сэргийлэх хамгаалалтын системийг сайжруулах шаардлагатай байгаа юм.",
+ "published": "2026-10-13T16:49:00Z",
+ "added": "2026-10-14T05:09:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

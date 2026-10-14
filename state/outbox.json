@@ -1,1 +1,82 @@
-[]
+[
+ {
+  "kind": "article",
+  "article": {
+   "id": "c803c10fb93e716c",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Register",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+   "image": "https://image.theregister.com/241238.jpg?imageId=241238&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+   "title": "Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse",
+   "summary_en": "Self-replicating AI botnets could become feasible on IoT hardware within months, claims the Claude maker, if smaller models get smarter",
+   "title_mn": "Anthropic: Хиймэл оюун IoT төхөөрөмж дээр бие даан үржих эрсдэлтэйг анхааруулав",
+   "summary_mn": "Anthropic компани жижиг оврын хиймэл оюуны загварууд тун удахгүй IoT төхөөрөмжүүд болон Android телевизийн приставкаар дамжин өөрөө тархах чадвартай болох магадлалтайг судалгаагаараа дурджээ.",
+   "body_mn": "Anthropic компанийн судлаачид хиймэл оюуны загварууд дата төвийн серверээс хамаарахгүйгээр, сул хамгаалалттай IoT төхөөрөмжүүд болон Android приставүүд дээр бие даан ажиллаж, тархах боломжтой талаарх шинэ судалгааг нийтэлжээ. Тэдний туршилтаар Gemma болон Z.ai-ийн GLM загварууд тодорхой хэмжээний тархалт хийх чадвартай болох нь ажиглагдсан байна.\n\nСудалгааны багийн мэдээлснээр 9 тэрбум параметр бүхий загвар нь олон төрлийн аппарат хангамж дээр инференс буюу тооцоолол хийх чадвартай бөгөөд энэ нь ирээдүйд төвлөрсөн удирдлагагүйгээр тархах сүлжээ үүсэх эрсдэлийг харуулж байна. Гэхдээ зарим шинжээчид энэхүү туршилт нь зориудаар сул хамгаалалттай орчинд хийгдсэн бөгөөд бодит байдал дээр кибер халдлага үйлдэхэд илүү олон шат дамжлага хэрэгтэй гэдгийг онцолж байна.\n\nТехнологийн салбарынхан хиймэл оюуны аюулгүй байдлын талаарх энэ мэт судалгааг анхааралтай ажиглаж байгаа бөгөөд загвар хөгжүүлэгчид болзошгүй эрсдэлээс урьдчилан сэргийлэх хамгаалалтын системийг сайжруулах шаардлагатай байгаа юм.",
+   "published": "2026-10-13T16:49:00Z",
+   "added": "2026-10-14T05:09:01Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c664062411ee545a",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Yahoo",
+   "url": "https://www.yahoo.com/news/world/articles/anthropic-admits-ai-helped-houthis-165121005.html",
+   "image": "https://s.yimg.com/lo/mysterio/api/2a00a901773bed30e765f69146578055a880ef49cf58645dc9f4b3cbba074b75/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2Ffea3daaec1cb2c9955707f6a2098edbd.jpg",
+   "title": "Anthropic Admits AI Helped Houthis Develop Missiles That Could Correct Their Course",
+   "summary_en": "Yemen-based actors used Claude Code to develop missile guidance software, exposing AI safety limits that account bans alone cannot fix.",
+   "title_mn": "Anthropic: Зэвсэгт бүлэглэлүүд Claude Code хэрэгслийг пуужингийн технологид ашигласан байж болзошгүйг илрүүлжээ",
+   "summary_mn": "Anthropic компани өөрийн аюулгүй байдлын тайландаа Еемений хойд хэсэгт үйл ажиллагаа явуулдаг бүлэглэлүүд пуужингийн чиглүүлэгч болон программ хангамж бүтээхэд Claude Code ашигласныг илрүүлснээ мэдэгдлээ.",
+   "body_mn": "Anthropic компани аюулгүй байдлын тайлангаа нийтэлж, хиймэл оюуныг зэвсэг бүтээх үйл ажиллагаанд ашигласан тохиолдлыг илрүүлсэн тухайгаа мэдээлжээ. Тус компанийн мэдээлснээр 2025 оны арванхоёрдугаар сараас 2026 оны наймдугаар сар хүртэлх хугацаанд Йемений хойд хэсэгт байрлах этгээдүүд Claude Code хэрэгслийг ашиглан пуужингийн программ хангамж, байршил тогтоох систем болон симуляцийн код бичсэн байна.\n\nУг этгээдүүд нь гар утасны түвшний нислэгийн компьютер бүхий удирдлагатай пуужин болон баллистик пуужингийн төслүүдэд холбогдох open-source автопилот программ хангамжийг нэгтгэхэд хиймэл оюуныг ашиглажээ. Тэд аюулгүй байдлын хяналтыг тойрч гарч, олон сессээр ажлаа хуваан гүйцэтгэх замаар системээс нууцлах оролдлого хийсэн байна.\n\nAnthropic компани холбогдох дансуудыг хааж, аюулгүй байдлын түншүүд болон төрийн байгууллагуудад мэдээллийг хуваалцжээ. Энэхүү явдал нь хиймэл оюун үйлчилгээ үзүүлэгч компаниуд дан ганц нэг удаагийн хүсэлтийг шалгахаас гадна бүхэл бүтэн сессийн турших зорилго, нэгдсэн хандлагыг илрүүлэх дэвшилтэт хамгаалалтын систем хөгжүүлэх шаардлагатайг харуулж байна.",
+   "published": "2026-10-13T16:51:21Z",
+   "added": "2026-10-14T05:09:01Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "71696f37058a2a5f",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v43.7.10",
+   "image": "https://opengraph.githubassets.com/d4ef5f5b3b0f9869ab55bcffbcc6cf88d6e8cdfed08f85571dab34568c785b92/electron/electron/releases/tag/v43.7.10",
+   "title": "electron v43.7.10",
+   "summary_en": "Release Notes for v43.7.10 Fixes Fixed a crash when starting without an available display server on Linux. #54795 (Also in 45 ) Fixed a renderer crash when a ResizeObserver loop-limit error handler modified layout. #54611 (Also in 42 , 44 , 45 )",
+   "title_mn": "Electron v43.7.10 хувилбар гарлаа",
+   "summary_mn": "Electron v43.7.10 хувилбарт Linux дээр display server-гүй үед үүсдэг гацалт болон ResizeObserver алдаа боловсруулагчтай холбоотой рендерерийн алдааг засжээ.",
+   "body_mn": "Electron фрэймворкийн v43.7.10 засварын хувилбар албан ёсоор гарлаа. Энэхүү хувилбарт Linux систем болон хөтөчийн рендерер процесс дээр ажиглагдсан цөөн хэдэн ноцтой алдааг зассан байна.\n\nТухайлбал, Linux үйлдлийн систем дээр боломжит display server байхгүй үед аппликейшн ажиллаж эхлэх явцад үүсдэг байсан системийн гацалтыг (#54795) бүрэн шийджээ. Энэхүү засварыг мөн Electron 45 хувилбарт давхар оруулсан байна.\n\nМөн түүнчлэн ResizeObserver-ийн давталтын хязгаарын алдаа боловсруулагч (loop-limit error handler) нь layout-ийг өөрчлөх үед рендерер процесс гэнэт хаагддаг алдааг (#54611) зассан бөгөөд уг засвар нь Electron 42, 44, 45 хувилбаруудад мөн хийгдсэн байна.",
+   "published": "2026-10-13T17:41:48Z",
+   "added": "2026-10-14T05:09:01Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "204fba276193ffab",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v44.7.1",
+   "image": "https://opengraph.githubassets.com/6454faa66da30e9064b71667fed6d52fefd9e39ef96eae0d0bb0ca9077249854/electron/electron/releases/tag/v44.7.1",
+   "title": "electron v44.7.1",
+   "summary_en": "Release Notes for v44.7.1 Fixes Fixed a crash when starting without an available display server on Linux. #54794 (Also in 45 ) Fixed a Linux crash creating a window with a menu bar when GTK failed to load. #54859 (Also in 45 ) Fixed a WebContentsView that was removed with removeChildView() and re-added with addChildView() staying hidden behind its sibling views on Linux. #54798 Fixed asar archives in non-ASCII folders failing to load on Linux. #54849 (Also in 45 ) Fixed renderer crashes during garbage collection inside ShadowRealms. #54865 (Also in 45 ) Other Changes Refactored mouse…",
+   "title_mn": "Electron v44.7.1 хувилбар гарлаа: Chromium 152 шинэчлэл ба Linux алдааны засварууд",
+   "summary_mn": "Electron v44.7.1 шинэчлэлтээр Chromium 152 хувилбарыг нэвтрүүлж, Linux дээрх цонх, GTK болон asar архив ачаалахтай холбоотой алдаануудыг заслаа.",
+   "body_mn": "Electron десктоп аппликейшн хөгжүүлэлтийн фрэймворк v44.7.1 шинэчлэлтээ нийтэллээ. Уг хувилбараар Chromium-ийн хувилбарыг 152.0.7977.149 болгон ахиулсан байна.\n\nЭнэ хувилбарт Linux үйлдлийн системд хамаарах хэд хэдэн алдааг зассан байна. Үүнд GTK ачаалж чадахгүй үед цэстэй цонх үүсгэхэд гацдаг, display server байхгүй үед ажиллахад аппликейшн хаагддаг, мөн removeChildView() болон addChildView() ашигласны дараа WebContentsView дэлгэцэнд харагдахгүй үлддэг алдаанууд багтжээ. Мөн латин бус тэмдэгт (non-ASCII) агуулсан хавтсанд буй asar архивыг Linux дээр ачаалахтай холбоотой асуудлыг шийдсэн байна.\n\nТүүнээс гадна ShadowRealms дотор санах ой цэвэрлэх (garbage collection) үед рендерер процесс гацдаг алдааг засварлаж, Windows систем дээрх setIgnoreMouseEvents(true, { forward: true }) тохиргоотой хулганы эвент дамжуулах кодод рефакторинг хийжээ.",
+   "published": "2026-10-13T17:54:22Z",
+   "added": "2026-10-14T05:09:01Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ }
+]

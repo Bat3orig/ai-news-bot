@@ -1,0 +1,17 @@
+{
+ "id": "a65028e3cea02902",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "the deep dive",
+ "url": "https://thedeepdive.ca/anthropic-sacrifices-revenue-to-protect-claude-while-keeping-approval-rights-over-some-ai-audits/",
+ "image": "https://thedeepdive.ca/wp-content/uploads/2026/10/header-template.001-47.png",
+ "title": "Anthropic Sacrifices Revenue to Protect Claude—While Keeping Approval Rights Over Some AI Audits",
+ "summary_en": "Anthropic is accepting lost revenue to protect Claude’s proprietary AI capabilities while retaining some control over reports from newly engaged outside evaluators, placing the company’s intellectual-property protections alongside its commitments to independent scrutiny. The company disclosed that new safeguards had reduced the amount of Claude reasoning data extracted by suspected model-copying operations by an estimated 90% to […]",
+ "title_mn": "Anthropic загвараа хамгаалахын тулд орлогоо алдаж, аудит хийх эрхээ хадгалж байна",
+ "summary_mn": "Anthropic компани Claude-ийн өгөгдлийг хууль бусаар хуулбарлахаас хамгаалахын тулд их хэмжээний траффик болон орлогоо золиослон, шинэ хамгаалалт нэвтрүүлжээ.",
+ "body_mn": "Anthropic компани Claude загварынхаа логик өгөгдлийг хууль бусаар хуулбарлах оролдлогыг 90-99 хувиар бууруулах зорилгоор шинэ хамгаалалтын системийг нэвтрүүлсэн бөгөөд үүний улмаас төлбөртэй траффик болон орлогоо алдахад хүрчээ.\n\nМөн гадны аудиторуудтай хийх гэрээний хүрээнд зарим тайлан нийтлэх эрхийг хянах, зөвшөөрөл авах нөхцөлийг тавьж байгаа нь шүүмжлэл дагуулж байна. Компанийн зүгээс шинээр хамтран ажиллаж буй зарим фирмүүдийн тайланд санал өгөх эрхтэй гэдгээ хүлээн зөвшөөрсөн байна.\n\nЭнэхүү хамгаалалтын систем нь хууль ёсны хөгжүүлэгчдийн хүсэлтэд зарим талаар саад учруулж болзошгүй байгаа бөгөөд Anthropic алдаатай хаагдсан хүсэлтүүдийн төлбөрийг буцаан тооцож эхэлжээ.",
+ "published": "2026-10-13T15:13:03Z",
+ "added": "2026-10-14T05:09:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

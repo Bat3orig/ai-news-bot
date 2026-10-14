@@ -1,0 +1,17 @@
+{
+ "id": "94cc08977f17740f",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png",
+ "title": "Gemini 4 Argon for Robotics",
+ "summary_en": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.",
+ "title_mn": "Google Gemini 4 Argon загвар роботтехникийн салбарт нэвтэрлээ",
+ "summary_mn": "Google DeepMind компани физик орчны ойлголт, код генераци хийх чадвартай Gemini 4 Argon загварын роботтехникийн хэрэглээг танилцууллаа. Энэхүү загвар нь Embodied Reasoning benchmark шалгуураар 87 хувийн амжилт үзүүлжээ.",
+ "body_mn": "Google компани роботтехникийн стек болон физик AGI хөгжүүлэлтийг хурдасгах зорилготой Gemini 4 Argon загварын роботтехникийн боломжуудыг олон нийтэд дэлгэлээ. Шинэ загвар нь биет болон орон зайн бодлогыг 3D орчинд шийдвэрлэх чадвараараа бусад тэргүүлэх загваруудаас хол илүү гарсан байна.\n\nЭнэхүү загвар нь Boston Dynamics Spot робот болон төрөл бүрийн робот гар удирдахаас гадна MuJoCo физикийн симуляцийн орчинд биетүүдийн дижитал хуулбарыг автоматаар үүсгэх чадвартай. Хөгжүүлэгчид гараар зурсан цаасны ноорог зургаас шууд MuJoCo дүр зураг үүсгэж, роботын хөдөлгөөний траекторийг тооцоолох боломжтой болжээ.\n\nМөн роботын удирдлагын бичлэгүүдэд анализ хийж, алдаатай болон тогтворгүй үйлдлүүдийг хугацааны дарааллаар ялган таних өндөр түвшний харааны семантик дүгнэлт хийдэг байна. Энэ нь роботтехникийн чиглэлээр ажиллаж буй хөгжүүлэгчдэд физик орчныг кодчилох шинэ арга барилыг бий болгож байна.",
+ "published": "2026-10-13T16:01:58Z",
+ "added": "2026-10-14T05:09:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

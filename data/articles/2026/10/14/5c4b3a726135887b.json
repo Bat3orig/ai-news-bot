@@ -1,0 +1,17 @@
+{
+ "id": "5c4b3a726135887b",
+ "subtopic": "anthropic",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+ "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png",
+ "title": "Redesigning source control at Anthropic",
+ "summary_en": "Article URL: https://www.anthropic.com/engineering/redesigning-source-control Comments URL: https://news.ycombinator.com/item?id=50073633 Points: 636 # Comments: 611",
+ "title_mn": "Anthropic компани өөрийн эх сурвалжийн хяналтын системийг шинэчлэн бүтээжээ",
+ "summary_mn": "Anthropic өдөрт хийгдэх код нэгтгэлт эрс өссөнтэй холбоотойгоор Git системийг орлох Scion нэртэй дотоод хувилбар хяналтын системийг таван сарын дотор бүтээжээ.",
+ "body_mn": "Anthropic компанид Claude код бичих процессыг автоматжуулж, өдөрт хийгдэх кодын нэгтгэлтийн тоо хэд дахин өссөнтэй холбоотойгоор уламжлалт Git систем хөгжүүлэлтийн саад тотгор болж эхэлжээ. 2026 оны 5-р сард өдөрт дунджаар 2,500 өөрчлөлт нэгтгэгдэж байсан бол 9-р сар гэхэд энэ тоо 30,000 давжээ.\n\nЭнэхүү өсөлтийг гүйцөхийн тулд тус компани Git системийг халж, Scion хэмээх дотоод хувилбар хяналтын системийг ердөө таван сарын дотор бүтээж нэвтрүүлсэн байна. Мөн код хянах Antique систем, кодын хайлт болон IAM системийг хамт хөгжүүлжээ.\n\nAnthropic-ийн гол салбар байгууллагын түүх бараг 100 GB хүрсэн бөгөөд өдөрт 25 сая орчим код таталт хийгддэг нь уламжлалт Git-ийн архитектурт хэт хүнд ачаалал үүсгэж байсан аж. Энэхүү туршлага нь хиймэл оюун ухаан ашиглан код бичиж буй бусад байгууллагуудад ч мөн тулгарах асуудал юм.",
+ "published": "2026-10-13T15:49:56Z",
+ "added": "2026-10-14T05:09:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

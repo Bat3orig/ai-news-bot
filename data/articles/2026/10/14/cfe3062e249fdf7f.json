@@ -1,0 +1,17 @@
+{
+ "id": "cfe3062e249fdf7f",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+ "title": "Enterprise managed settings enforcement updates",
+ "summary_en": "Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version…",
+ "title_mn": "GitHub Copilot-ийн байгууллагын удирдлагын тохиргоонд шинэчлэлт орлоо",
+ "summary_mn": "Enterprise админууд GitHub Copilot хэрэглэгчдийг кэшлэгдсэн бодлого ашиглахын оронд сервер дээрх шинэ тохиргоог асаалтанд авахыг шаардах боломжтой боллоо.",
+ "body_mn": "GitHub Copilot-ийн байгууллагын удирдлагын тохиргоонд администраторуудад зориулсан шинэ боломжууд нэмэгдлээ. Тухайлбал, дэмжигдсэн Copilot клиенүүд хуучин кэшлэгдсэн бодлогод найдахын оронд сервер дээрх шинэчилсэн тохиргоог ачааллах үедээ шууд татаж авахыг шаардах боломжтой болов.\n\n`forceRemoteSettingsRefresh` тохиргоог идэвхжүүлснээр бодлогын өөрчлөлт Copilot ажиллаж эхлэхээс өмнө хүчин төгөлдөр үйлчлэх юм. Энэхүү тохиргоо нь Copilot CLI, VS Code болон GitHub Copilot апп дотор дэмжигддэг.\n\nХэрэв клиент систем шинэчилсэн бодлогыг баталгаажуулж чадахгүй бол хуучин эсвэл баталгаагүй бодлогоор ажиллахын оронд хаагдах зарчмаар ажиллана. Мөн sandbox түлхүүрт хамгийн бага клиентийн хувилбарын шаардлагыг нэмж өгчээ.",
+ "published": "2026-10-13T15:20:10Z",
+ "added": "2026-10-14T05:09:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

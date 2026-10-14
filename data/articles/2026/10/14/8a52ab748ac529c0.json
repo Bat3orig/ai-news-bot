@@ -1,0 +1,17 @@
+{
+ "id": "8a52ab748ac529c0",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "ALM Corp",
+ "url": "https://almcorp.com/news/anthropic-gives-startups-free-year-claude-team/",
+ "image": "https://almcorp.com/wp-content/uploads/2026/10/AI-Team-Collaboration-Workspace.webp",
+ "title": "Anthropic Gives Startups a Free Year of Claude Team (2026)",
+ "summary_en": "Anthropic expands its Claude for Startups program, offering eligible founders a free year of Claude Team, $1,000 in API credits, and $45,000 in partner perks.",
+ "title_mn": "Anthropic стартапуудад Claude Team төлөвлөгөөг нэг жилийн хугацаатай үнэгүй олгоно",
+ "summary_mn": "Anthropic стартапуудад зориулсан хөтөлбөрөө өргөжүүлж, шаардлага хангасан компаниудад Claude Team-ийг нэг жил үнэгүй, мөн 1000 долларын API эрх өгөхөөр болжээ.",
+ "body_mn": "Anthropic компани Claude for Startups хөтөлбөрөө шинэчилж байгаагаа зарлалаа. Шалгуур хангасан шинэ стартапууд Claude Team багцыг нэг жилийн хугацаатай үнэгүй ашиглахаас гадна 1,000 ам.долларын API эрх, 45,000 ам.доллар хүртэлх түншүүдийн хөнгөлөлт авах боломжтой болжээ.\n\nЭнэхүү хөтөлбөр нь сүүлийн таван жилийн дотор үүсгэн байгуулагдсан эсвэл сүүлийн хоёр жилд хөрөнгө оруулалт авсан стартапуудад нээлттэй юм. Бүртгүүлэхийн тулд Claude Console дээр бүртгэл үүсгэж, албан ёсны имэйл хаягаараа хандах шаардлагатай аж.\n\nГэсэн хэдий ч энэхүү үнэгүй эрх нь зөвхөн анх удаа Claude Team төлөвлөгөөнд нэгдэж буй байгууллагуудад хамаарах бөгөөд 1,000 долларын API кредит нь зөвхөн Claude Console дээрх анхдагч API-д зургаан сарын хугацаанд хүчинтэй байх юм.",
+ "published": "2026-10-13T14:34:45Z",
+ "added": "2026-10-14T05:09:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

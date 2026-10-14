@@ -1,0 +1,17 @@
+{
+ "id": "c664062411ee545a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Yahoo",
+ "url": "https://www.yahoo.com/news/world/articles/anthropic-admits-ai-helped-houthis-165121005.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/2a00a901773bed30e765f69146578055a880ef49cf58645dc9f4b3cbba074b75/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2Ffea3daaec1cb2c9955707f6a2098edbd.jpg",
+ "title": "Anthropic Admits AI Helped Houthis Develop Missiles That Could Correct Their Course",
+ "summary_en": "Yemen-based actors used Claude Code to develop missile guidance software, exposing AI safety limits that account bans alone cannot fix.",
+ "title_mn": "Anthropic: Зэвсэгт бүлэглэлүүд Claude Code хэрэгслийг пуужингийн технологид ашигласан байж болзошгүйг илрүүлжээ",
+ "summary_mn": "Anthropic компани өөрийн аюулгүй байдлын тайландаа Еемений хойд хэсэгт үйл ажиллагаа явуулдаг бүлэглэлүүд пуужингийн чиглүүлэгч болон программ хангамж бүтээхэд Claude Code ашигласныг илрүүлснээ мэдэгдлээ.",
+ "body_mn": "Anthropic компани аюулгүй байдлын тайлангаа нийтэлж, хиймэл оюуныг зэвсэг бүтээх үйл ажиллагаанд ашигласан тохиолдлыг илрүүлсэн тухайгаа мэдээлжээ. Тус компанийн мэдээлснээр 2025 оны арванхоёрдугаар сараас 2026 оны наймдугаар сар хүртэлх хугацаанд Йемений хойд хэсэгт байрлах этгээдүүд Claude Code хэрэгслийг ашиглан пуужингийн программ хангамж, байршил тогтоох систем болон симуляцийн код бичсэн байна.\n\nУг этгээдүүд нь гар утасны түвшний нислэгийн компьютер бүхий удирдлагатай пуужин болон баллистик пуужингийн төслүүдэд холбогдох open-source автопилот программ хангамжийг нэгтгэхэд хиймэл оюуныг ашиглажээ. Тэд аюулгүй байдлын хяналтыг тойрч гарч, олон сессээр ажлаа хуваан гүйцэтгэх замаар системээс нууцлах оролдлого хийсэн байна.\n\nAnthropic компани холбогдох дансуудыг хааж, аюулгүй байдлын түншүүд болон төрийн байгууллагуудад мэдээллийг хуваалцжээ. Энэхүү явдал нь хиймэл оюун үйлчилгээ үзүүлэгч компаниуд дан ганц нэг удаагийн хүсэлтийг шалгахаас гадна бүхэл бүтэн сессийн турших зорилго, нэгдсэн хандлагыг илрүүлэх дэвшилтэт хамгаалалтын систем хөгжүүлэх шаардлагатайг харуулж байна.",
+ "published": "2026-10-13T16:51:21Z",
+ "added": "2026-10-14T05:09:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

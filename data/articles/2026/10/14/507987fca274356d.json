@@ -1,0 +1,17 @@
+{
+ "id": "507987fca274356d",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/workday-and-anthropic-connect-claude-to-sana-hr-and-finance-agents/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/10/workday-and-anthropic-connect-claude-to-sana-hr-and-finance-agents.jpg",
+ "title": "Workday and Anthropic Connect Claude to Sana HR and Finance Agents",
+ "summary_en": "Workday and Anthropic on October 13, 2026, announced a partnership at Workday Rising 2026 in Las Vegas that connects Claude's reasoning with Sana AI agents and Workday's data and business context in HR and finance. The e...",
+ "title_mn": "Workday болон Anthropic компаниуд Claude-ийг Sana HR болон санхүүгийн агенттай хол눚",
+ "summary_mn": "Workday болон Anthropic хамтын ажиллагаа зарлаж, Claude-ийн боловсруулалтын чадварыг Sana AI агент болон Workday өгөгдөлтэй MCP стандартын дагуу холбожээ.",
+ "body_mn": "Workday болон Anthropic компаниуд Las Vegas хотод болсон Workday Rising 2026 арга хэмжээний үеэр хамтын ажиллагаагаа зарлалаа. Энэхүү түншлэл нь Claude-ийн логик боловсруулалтыг Sana AI агент болон Workday-ийн HR болон санхүүгийн өгөгдөлтэй холбож өгч байна.\n\nЭнэхүү шийдэл нь Model Context Protocol (MCP) нээлттэй стандартыг ашиглан Sana болон Claude хооронд мэдээлэл, даалгавраа солилцох боломжийг олгодог. Үүний үрүнд хэрэглэгчид ажлаа шинээр эхлэхгүйгээр хоёр платформ хооронд саадгүй үргэлжлүүлэх боломжтой болж байна.\n\nХамтарсан хэрэглэгчид Workday Agent-Ready Tools ашиглан өөрсдийн агентуудыг шууд Claude дотор бүтээх боломжтой аж. Систем нь байгууллагын аюулгүй байдал, хандалтын хяналт, аудитын шаардлагыг бүрэн хангаж ажиллахаар зохион бүтээгджээ.",
+ "published": "2026-10-13T13:25:03Z",
+ "added": "2026-10-14T05:09:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

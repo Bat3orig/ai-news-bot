@@ -1,0 +1,17 @@
+{
+ "id": "71696f37058a2a5f",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v43.7.10",
+ "image": "https://opengraph.githubassets.com/d4ef5f5b3b0f9869ab55bcffbcc6cf88d6e8cdfed08f85571dab34568c785b92/electron/electron/releases/tag/v43.7.10",
+ "title": "electron v43.7.10",
+ "summary_en": "Release Notes for v43.7.10 Fixes Fixed a crash when starting without an available display server on Linux. #54795 (Also in 45 ) Fixed a renderer crash when a ResizeObserver loop-limit error handler modified layout. #54611 (Also in 42 , 44 , 45 )",
+ "title_mn": "Electron v43.7.10 хувилбар гарлаа",
+ "summary_mn": "Electron v43.7.10 хувилбарт Linux дээр display server-гүй үед үүсдэг гацалт болон ResizeObserver алдаа боловсруулагчтай холбоотой рендерерийн алдааг засжээ.",
+ "body_mn": "Electron фрэймворкийн v43.7.10 засварын хувилбар албан ёсоор гарлаа. Энэхүү хувилбарт Linux систем болон хөтөчийн рендерер процесс дээр ажиглагдсан цөөн хэдэн ноцтой алдааг зассан байна.\n\nТухайлбал, Linux үйлдлийн систем дээр боломжит display server байхгүй үед аппликейшн ажиллаж эхлэх явцад үүсдэг байсан системийн гацалтыг (#54795) бүрэн шийджээ. Энэхүү засварыг мөн Electron 45 хувилбарт давхар оруулсан байна.\n\nМөн түүнчлэн ResizeObserver-ийн давталтын хязгаарын алдаа боловсруулагч (loop-limit error handler) нь layout-ийг өөрчлөх үед рендерер процесс гэнэт хаагддаг алдааг (#54611) зассан бөгөөд уг засвар нь Electron 42, 44, 45 хувилбаруудад мөн хийгдсэн байна.",
+ "published": "2026-10-13T17:41:48Z",
+ "added": "2026-10-14T05:09:01Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

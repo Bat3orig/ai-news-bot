@@ -1,0 +1,17 @@
+{
+ "id": "ad0dc492d32241f2",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+ "image": "https://github.blog/wp-content/uploads/2026/10/571554102-6349f5b6-b0b7-4130-9300-6d5d87e0b6e9_963b5b.jpg",
+ "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+ "summary_en": "Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is…",
+ "title_mn": "GitHub Secret Scanning систем Anthropic болон Salesforce түлхүүрүүдийг автоматаар блоклоно",
+ "summary_mn": "GitHub-ийн нууц үг илрүүлэх систем Anthropic болон Salesforce үйлчилгээний нууц түлхүүрүүдийг олж илрүүлж, анхдагч байдлаар хамгаалах боломжтой боллоо.",
+ "body_mn": "GitHub платформын нууц үг илрүүлэх (secret scanning) систем нь шинэчлэгдэж Salesforce, Anthropic болон Cloudsmith зэрэг үйлчилгээний нууц түлхүүр, сертификатуудыг илрүүлдэг болжээ. Үүнээс Anthropic болон бусад зарим түншүүдийн нууц түлхүүрүүдийг олон нийтийн болон хувийн сангуудад байршуулах үед push protection буюу түлхүүр алдагдахаас хамгаалах шүүлтүүрээр автоматаар хаах юм.\n\nХэрэв програм хангамжийн сангуудад эдгээр нууц мэдээлэл санамсаргүй байдлаар орвол систем үүнийг таньж холбогдох байгууллагад мэдэгдэн тухайн credential-ийг хүчингүй болгох эсвэл солих арга хэмжээг авдаг. Энэхүү шинэчлэлт нь үнэгүй болон олон нийтийн бүх сангуудад автоматаар үйлчилж эхэлжээ.\n\nХөгжүүлэгчид өөрсдийн кодын сан дахь аюулгүй байдлыг сайжруулахын тулд албан ёсны баримт бичлэгтэй танилцаж, дэмжигдсэн нууц үгийн төрлүүдийг шалгах боломжтой байна.",
+ "published": "2026-10-13T16:12:36Z",
+ "added": "2026-10-14T05:09:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
