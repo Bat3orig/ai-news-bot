@@ -51,15 +51,25 @@ State (committed by the bot every run):
   the outbox for the next run. `prepare` keeps running at night (site stays fresh): 20 items per run,
   paused while the outbox holds ≥50 (`MAX_OUTBOX`). `send --ignore-hours` bypasses the window for tests.
 - Sources with `subtopic:` are trusted; sources without (Hacker News, Smashing with `section:`) must match `topics.yaml` keywords, and the AI can mark them `relevant: false` → dropped.
+- Noise filter (2026-10-14, user request — Google News flooded the AI topic with business/spam):
+  1. `sources.yaml` → `block:` publishers (substring of outlet name or resolved URL host) and title
+     keywords; dropped before the AI (`drop_blocked`, run before and after enrich).
+  2. AI `score` 1–5 = usefulness for developers; below `topics.yaml` → `filter.min_score` (3) is
+     dropped, except `github_release` sources. 2 = business/partnerships/IPO/lawsuits/politics/
+     AI-safety incidents/gadgets. User said AI-incident stories (e.g. "Claude sent police a false
+     tip") are NOT wanted. Score is saved in the article JSON (`score`) for tuning.
 - `skip_prereleases` drops canary/alpha/beta/rc/nightly; `title_regex` for multi-package repos (tauri, shadcn).
 - GitHub release titles get the repo prefix ("claude-code v2.1.290").
 - Duplicate stories (Google News brings one story from 3–6 outlets), two layers:
-  1. `drop_duplicates` in `main.py`: near-identical headlines vs. articles of the last 3 days
+  1. `drop_duplicates` in `main.py`: near-identical headlines vs. articles of the last 7 days
      (`store.recent_titles`) and earlier items in the run. Deliberately strict (≥4 shared words and
      ≥80% overlap) — looser matching dropped different stories, since most headlines share
      "Anthropic"/"Claude"/"AI Gateway". Tested on real data: no false positives.
-  2. The AI gets `already_published` (last 80 titles + titles kept by earlier chunks) and returns
-     `duplicate: true` for reworded copies → skipped.
+  2. The AI gets `already_published` ("date: title"): `ai._related` picks up to 60 headlines of the
+     last 7 days that share a word rare in that week with the chunk's titles/text, plus the newest 15
+     and titles kept by earlier chunks. It returns `duplicate: true` for the same story even days
+     later / reworded / follow-ups → skipped. (Before: last 80 titles ≈ 1–2 days, so one story
+     came back 6 times over 3 days.)
 - AI chain (env `AI_PROVIDERS`, repo variable optional): `gemini:gemini-3.8-flash,gemini:gemini-3.5-flash-lite,claude:claude-haiku-5-5`. Each run restarts from Gemini; a provider that 429s is skipped for the rest of the run; no keys → English fallback. Claude uses the official `anthropic` SDK with `output_config={"effort": "low", "format": json_schema}`. Haiku 5.5 was chosen by the user for cost (~$2–4/month worst case).
 - Secrets: `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`, `GEMINI_API_KEY`, `CLAUDE_API_TOKEN` (mapped to `ANTHROPIC_API_KEY` in the workflow).
 - Telegram: group has Topics on, bot is admin with Manage Topics. Bot creates/renames topics to plain names "AI", "Software", "UI/UX" (no emoji — user asked; Telegram shows its own icon). Deleted topic → post to General, recreate next run. Messages: photo + caption (≤1024 visible chars) with header `🤖 <b>AI</b> · #OpenAI`, Mongolian title, summary, links "Дэлгэрэнгүй" (site) · "Эх сурвалж".

@@ -16,6 +16,54 @@
 #
 # Google News: https://news.google.com/rss/search?q=<QUERY>&hl=en-US&gl=US&ceid=US:en
 
+# Хориглох жагсаалт: AI-д очихоос өмнө хасна (токен хэмнэнэ).
+#   publishers  Нэр эсвэл домэйнд нь агуулагдвал алгасна (том жижиг үсэг ялгахгүй)
+#   keywords    Гарчигт нь энэ үг байвал алгасна (бүтэн үгээр)
+block:
+  publishers:
+    # SEO / AI-аар бичсэн харьцуулалтын сайтууд
+    - orcarouter
+    - tech-insider
+    - shattered.io
+    - pillitteri
+    - biggo
+    - futunn
+    - 富途牛牛
+    - basenor
+    - linkedin
+    # Крипто / хувьцаа / хэвлэлийн мэдэгдэл
+    - cryptonews
+    - beincrypto
+    - cryptonomist
+    - forklog
+    - yellow.com
+    - decrypt.co
+    - 247wallst
+    - 24/7 wall st
+    - benzinga
+    - tradingview
+    - streetinsider
+    - seekingalpha
+    - seeking alpha
+    - indexbox
+    - globenewswire
+    - prnewswire
+    - pr newswire
+    - forkast
+    - dealroom
+  keywords:
+    - price prediction
+    - XRP
+    - Bitcoin
+    - Ethereum
+    - Dogecoin
+    - Chainlink
+    - Solana
+    - crypto
+    - stock price
+    - stocks to buy
+    - IPO
+
 sources:
   # ======================= AI =======================
   - name: OpenAI News

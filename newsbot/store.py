@@ -93,14 +93,15 @@ def load_articles(data_dir: Path = DATA_DIR) -> list[dict]:
     return articles
 
 
-def recent_titles(now: datetime, days: int, data_dir: Path = DATA_DIR) -> list[str]:
-    """Original titles of articles added in the last `days` days, oldest first."""
+def recent_titles(now: datetime, days: int, data_dir: Path = DATA_DIR) -> list[tuple[str, str]]:
+    """(added date, original title) of articles added in the last `days` days, oldest first."""
     cutoff = (now - timedelta(days=days)).date().isoformat()
     arts = []
     for day_dir in sorted((data_dir / "articles").glob("*/*/*")):
         if "-".join(day_dir.parts[-3:]) >= cutoff:
             arts += [a for a in (read_json(p, None) for p in day_dir.glob("*.json")) if a]
-    return [a["title"] for a in sorted(arts, key=lambda a: a.get("added", ""))]
+    return [(a.get("added", "")[:10], a["title"])
+            for a in sorted(arts, key=lambda a: a.get("added", ""))]
 
 
 def prune_articles(now: datetime, keep_days: int, data_dir: Path = DATA_DIR) -> int:

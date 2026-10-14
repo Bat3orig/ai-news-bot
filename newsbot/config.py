@@ -6,6 +6,7 @@ import logging
 import re
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
+from urllib.parse import urlsplit
 from pathlib import Path
 
 import yaml
@@ -49,6 +50,7 @@ class Topics:
     send_hours: tuple[int, int] = (0, 24 * 60)  # [start, end) in minutes, local time
     utc_offset: float = 0                       # hours; Mongolia = 8
     max_per_send: int = 10
+    min_score: int = 3                          # AI usefulness score (1-5) needed to publish
 
     @property
     def send_hours_text(self) -> str:
@@ -123,7 +125,29 @@ def load_topics(path: Path = TOPICS_FILE) -> Topics:
                   int(site.get("keep_days", 180)),
                   parse_hours(tg.get("send_hours", "00:00-24:00")),
                   float(tg.get("utc_offset", 0)),
-                  max(1, int(tg.get("max_per_send", 10))))
+                  max(1, int(tg.get("max_per_send", 10))),
+                  int((data.get("filter") or {}).get("min_score", 3)))
+
+
+@dataclass
+class Block:
+    """sources.yaml `block:` — dropped before the AI sees them (saves tokens)."""
+    publishers: list[str] = field(default_factory=list)  # lowercase; matched in name or URL host
+    keywords: re.Pattern | None = None                   # matched in the title
+
+    def reason(self, title: str, publisher: str = "", url: str = "") -> str:
+        where = f"{publisher} {urlsplit(url).netloc}".lower()
+        for p in self.publishers:
+            if p in where:
+                return f"publisher {p!r}"
+        m = self.keywords.search(title) if self.keywords else None
+        return f"keyword {m.group(0)!r}" if m else ""
+
+
+def load_block(path: Path = SOURCES_FILE) -> Block:
+    data = (yaml.safe_load(path.read_text(encoding="utf-8")) or {}).get("block") or {}
+    return Block([str(p).lower().strip() for p in data.get("publishers") or [] if str(p).strip()],
+                 keyword_pattern(data.get("keywords") or []))
 
 
 def load_sources(topics: Topics, path: Path = SOURCES_FILE) -> list[Source]:

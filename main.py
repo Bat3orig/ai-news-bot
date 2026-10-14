@@ -22,7 +22,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from newsbot import ai, enrich, feeds, store
-from newsbot.config import load_sources, load_topics
+from newsbot.config import Block, load_block, load_sources, load_topics
 from newsbot.telegram import SEND_DELAY, Telegram, TelegramFatalError, TelegramRejected
 from newsbot.util import iso, link_key, similar_titles, title_tokens, truncate
 
@@ -30,7 +30,7 @@ log = logging.getLogger("news-bot")
 
 MAX_PER_RUN = 20  # new items processed (translated + saved) per run; the rest wait
 MAX_OUTBOX = 50   # stop processing while this many messages wait (e.g. Telegram is down)
-RECENT_DAYS = 3   # articles this recent count for duplicate-story detection
+RECENT_DAYS = 7   # articles this recent count for duplicate-story detection
 
 
 def site_url() -> str:
@@ -66,7 +66,22 @@ def to_article(item: feeds.Item, tr: dict | None, topics, now: datetime) -> dict
         "published": iso(item.published) if item.published else iso(now),
         "added": iso(now),
         "ai": (tr or {}).get("ai", ""),
+        "score": (tr or {}).get("score"),
     }
+
+
+def drop_blocked(items: list[feeds.Item], block: Block, state: store.State,
+                 today: str) -> list[feeds.Item]:
+    """sources.yaml `block:` publishers / title keywords (spam, crypto, SEO sites)."""
+    kept = []
+    for it in items:
+        why = block.reason(it.title, it.publisher, it.extra.get("url") or it.link)
+        if why:
+            log.info("Blocked (%s), skipping: %s", why, it.title[:80])
+            state.mark(it.keys, today)
+            continue
+        kept.append(it)
+    return kept
 
 
 def drop_duplicates(items: list[feeds.Item], recent: list[str], state: store.State,
@@ -107,7 +122,9 @@ def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
     room = max(0, min(MAX_PER_RUN, MAX_OUTBOX - len(state.outbox)))
     candidates.sort(key=lambda it: it.sort_time)
     recent = store.recent_titles(now, RECENT_DAYS, data_dir)
-    candidates = drop_duplicates(candidates, recent, state, today)
+    block = load_block()
+    candidates = drop_blocked(candidates, block, state, today)
+    candidates = drop_duplicates(candidates, [t for _, t in recent], state, today)
     batch = candidates[:room]
     log.info("%d new items, processing %d (outbox has %d, room %d)",
              len(candidates), len(batch), len(state.outbox), room)
@@ -117,6 +134,7 @@ def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
         return False
 
     enrich.enrich(batch)
+    batch = drop_blocked(batch, block, state, today)  # resolved Google News URL -> publisher host
     # Google News links resolve to the publisher URL: drop duplicates of items
     # we already have from an official feed (e.g. anthropic.com/news).
     unique, seen_urls = [], set()
@@ -142,6 +160,10 @@ def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
             continue
         if tr and tr.get("duplicate"):
             log.info("AI: duplicate story, skipping: %s", it.title[:70])
+            continue
+        # Release notes from a dedicated repo are always kept; the rest must be useful to devs.
+        if tr and tr["score"] < topics.min_score and it.source.type != "github_release":
+            log.info("AI: low value (score %d), skipping: %s", tr["score"], it.title[:70])
             continue
         art = to_article(it, tr, topics, now)
         if not art["subtopic"]:

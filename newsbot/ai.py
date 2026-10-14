@@ -13,17 +13,21 @@ from __future__ import annotations
 import json
 import logging
 import os
+from collections import Counter
+from datetime import datetime, timezone
 
 import requests
 
 from .config import Topics
 from .feeds import Item
+from .util import title_tokens
 
 log = logging.getLogger("news-bot")
 
 DEFAULT_PROVIDERS = "gemini:gemini-3.8-flash,gemini:gemini-3.5-flash-lite,claude:claude-haiku-5-5"
 CHUNK = 8            # items per AI request
-RECENT_TITLES = 80   # already published titles sent along for duplicate detection
+RELATED_TITLES = 60  # past headlines sharing a distinctive word with the chunk
+LATEST_TITLES = 15   # plus the newest headlines, always sent
 AI_TIMEOUT = 180     # seconds
 
 SCHEMA = {
@@ -37,13 +41,14 @@ SCHEMA = {
                     "id": {"type": "string"},
                     "relevant": {"type": "boolean"},
                     "duplicate": {"type": "boolean"},
+                    "score": {"type": "integer"},
                     "subtopic": {"type": "string"},
                     "title_mn": {"type": "string"},
                     "summary_mn": {"type": "string"},
                     "body_mn": {"type": "string"},
                 },
-                "required": ["id", "relevant", "duplicate", "subtopic", "title_mn", "summary_mn",
-                             "body_mn"],
+                "required": ["id", "relevant", "duplicate", "score", "subtopic", "title_mn",
+                             "summary_mn", "body_mn"],
                 "additionalProperties": False,
             },
         }
@@ -59,10 +64,25 @@ You receive news items as JSON. For EVERY item return one object with the same "
   matched by coincidence (e.g. "Electron" the particle, an unrelated company, spam, stock-price noise
   with no product news). Items with a single option come from a dedicated source: keep them true
   unless clearly unrelated.
-- duplicate: true if the item reports the same event or announcement as a title in
-  "already_published" or as an EARLIER item in this batch (the same news from another outlet,
-  or a follow-up article that adds nothing new). Different announcements by the same company
-  are NOT duplicates. Otherwise false.
+- duplicate: true if the item is about the same event, announcement or story as a headline in
+  "already_published" ("date: headline", up to a week old) or as an EARLIER item in this batch.
+  It IS a duplicate when another outlet reports it, when it is published days later, when the
+  headline takes a different angle or wording, or when it is a follow-up/reaction/analysis that
+  adds no major new fact. It is NOT a duplicate if it is a different announcement (even by the
+  same company on the same day) or a real new development (e.g. the actual release after a rumor).
+- score: how useful the item is for software developers who build with these tools (1-5):
+  5 = new model, major version, new API/SDK/CLI/tool or feature, pricing, rate-limit or
+    deprecation change, open-weight release.
+  4 = notable product feature developers use, technical deep-dive, engineering post, credible
+    benchmark, important release notes.
+  3 = other news that directly changes how developers build or use these tools (API terms or
+    usage-policy changes, major outages, security issues in dev tools).
+  2 = business and general news: partnerships, customers, resellers, hiring, funding, valuation,
+    revenue, IPO, lawsuits, politics, government and military deals, executives' opinions,
+    AI-safety incidents and lab drama (e.g. a model sending a false tip to police), consumer
+    gadgets and hardware, general-audience explainers.
+  1 = spam, SEO comparison pages, crypto or stock price predictions, listicles, unrelated items.
+  Use 1 when relevant is false. Release notes from a dedicated repository are at least 3.
 - subtopic: exactly one id from that item's "subtopic_options".
 - title_mn: a natural Mongolian headline (Cyrillic), at most 110 characters.
 - summary_mn: 2-3 sentences, at most 320 characters: the key news for a Telegram post.
@@ -96,6 +116,28 @@ def _taxonomy(topics: Topics) -> str:
                      for s in topics.subtopics.values())
 
 
+def _related(items: list[Item], past: list[tuple[str, str]]) -> list[str]:
+    """Past headlines ("date: title") that may be the same story as one of `items`.
+
+    A week of headlines is too long to send whole, so pick the ones sharing a distinctive word
+    (one that is rare in the week, unlike "Anthropic"/"Claude"/"AI") with an item's title or
+    text, plus the newest few.
+    """
+    if not past:
+        return []
+    toks = [title_tokens(t) for _, t in past]
+    df = Counter(w for ts in toks for w in ts)
+    rare = max(3, len(past) // 25)
+    want = set()
+    for it in items:
+        want |= title_tokens(f"{it.title} {(it.extra.get('text') or it.summary)[:400]}")
+    want = {w for w in want if df.get(w, 0) <= rare}
+    scored = [(len(ts & want), i) for i, ts in enumerate(toks)]
+    picked = {i for n, i in sorted(scored, reverse=True)[:RELATED_TITLES] if n}
+    picked |= set(range(max(0, len(past) - LATEST_TITLES), len(past)))
+    return [f"{past[i][0]}: {past[i][1]}" for i in sorted(picked)]
+
+
 def _payload(items: list[Item], topics: Topics, already: list[str]) -> str:
     rows = []
     for it in items:
@@ -116,7 +158,7 @@ def _payload(items: list[Item], topics: Topics, already: list[str]) -> str:
             "text": it.extra.get("text") or it.summary,
             "subtopic_options": options,
         })
-    return json.dumps({"already_published": already[-RECENT_TITLES:], "items": rows},
+    return json.dumps({"already_published": already, "items": rows},
                       ensure_ascii=False)
 
 
@@ -224,19 +266,28 @@ def _parse(text: str, expected: set[str], topics: Topics) -> dict[str, dict]:
             row["subtopic"] = ""
         row["relevant"] = row.get("relevant") is not False
         row["duplicate"] = row.get("duplicate") is True
+        try:
+            row["score"] = min(5, max(1, int(row.get("score"))))
+        except (TypeError, ValueError):
+            row["score"] = 3  # unknown: neither keep nor drop on its own
         out[rid] = row
     return out
 
 
-def translate(items: list[Item], topics: Topics, recent_titles: list[str]) -> dict[str, dict]:
-    """Return {item.id: {...mn fields..., "ai": "provider:model"}} for items that succeeded."""
+def translate(items: list[Item], topics: Topics,
+              recent: list[tuple[str, str]]) -> dict[str, dict]:
+    """Return {item.id: {...mn fields..., "ai": "provider:model"}} for items that succeeded.
+
+    `recent` = (date, title) of articles published in the last days, oldest first.
+    """
     chain = provider_chain()
     if not chain:
         log.warning("No AI provider configured (GEMINI_API_KEY / ANTHROPIC_API_KEY); sending in English")
         return {}
     system = SYSTEM_TEMPLATE.format(taxonomy=_taxonomy(topics))
-    already = list(recent_titles)
+    kept: list[str] = []  # titles kept by earlier chunks of this run
     titles = {it.id: it.title for it in items}
+    today = datetime.now(timezone.utc).date().isoformat()
     exhausted: set[tuple[str, str]] = set()
     results: dict[str, dict] = {}
     for start in range(0, len(items), CHUNK):
@@ -248,6 +299,7 @@ def translate(items: list[Item], topics: Topics, recent_titles: list[str]) -> di
                 continue
             fn = PROVIDERS[name][0]
             try:
+                already = _related(pending, recent) + [f"{today}: {t}" for t in kept]
                 text = fn(model, system, _payload(pending, topics, already))
                 got = _parse(text, {it.id for it in pending}, topics)
             except QuotaError as exc:
@@ -262,7 +314,7 @@ def translate(items: list[Item], topics: Topics, recent_titles: list[str]) -> di
                 results[rid] = row
                 # Later chunks must see what this one kept, to catch cross-chunk duplicates.
                 if row["relevant"] and not row["duplicate"]:
-                    already.append(titles[rid])
+                    kept.append(titles[rid])
             log.info("AI %s:%s translated %d/%d items", name, model, len(got), len(pending))
             pending = [it for it in pending if it.id not in got]
         if pending:
