@@ -1,0 +1,17 @@
+{
+ "id": "3888c0e3209644c8",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/vercel-labs/skills",
+ "image": "https://opengraph.githubassets.com/03857960bc33f9dddbe0cf72c58c1cb4df8e7c17dca5bf9c651fc4f73f167062/vercel-labs/skills",
+ "title": "vercel-labs/skills",
+ "summary_en": "The open agent skills tool - npx skills https://skills.sh skills The CLI for the open agent skills ecosystem. Supports OpenCode , Claude Code , Codex , Cursor , and 75 more . Install a Skill npx skills add vercel-labs/agent-skills Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent interactively: npx skills use vercel-labs/agent-skills@web-design-guidelines | claude npx skills use vercel-labs/agent-skills --skill web-design-guidelines --agent claude-code skills use resolves sources the same way as skills add , writes the selected skill files to a…",
+ "title_mn": "vercel-labs/skills: AI агентуудад ур чадвар холбох нээлттэй CLI хэрэгсэл",
+ "summary_mn": "Vercel Labs-аас Claude Code, Cursor, Codex зэрэг 75 гаруй кодинг агентад SKILL.md заавруудыг хялбар нэгтгэх нээлттэй CLI санг танилцууллаа.",
+ "body_mn": "Vercel Labs төрөл бүрийн AI кодинг агентуудад ур чадвар (skills) суулгах, удирдах зориулалттай нээлттэй эхийн vercel-labs/skills төслийг гаргалаа. Уг CLI нь OpenCode, Claude Code, Codex, Cursor зэрэг 75 гаруй кодын агентуудтай шууд нийцэн ажилладаг.\n\nАгентын ур чадвар нь SKILL.md файл болон YAML frontmatter тодорхойлолт бүхий дахин ашиглагдах зааварчилгаа юм. Тус хэрэгсэл нь олон нийтийн болон хувийн сангуудаас ур чадваруудыг автоматаар татаж, тухайн төслийн орчинд бэлдэж өгөх чадвартай бөгөөд GitHub CLI болон SSH баталгаажуулалтыг аюулгүй ашигладаг.\n\nМөн Claude Code plugin marketplace-ийн бүтэцтэй зохицдог тул хөгжүүлэгчид өөрсдийн агентын ажиллах хүрээг хүссэнээрээ өргөтгөх боломжтой. Төслийг туршихын тулд skills CLI-г суулган дурын дэмжигдсэн агент дээр интерактив хэлбэрээр ажиллуулах боломжтой юм.",
+ "published": "2026-10-14T10:24:06Z",
+ "added": "2026-10-14T10:24:06Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

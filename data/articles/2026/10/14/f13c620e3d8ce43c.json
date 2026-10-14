@@ -1,0 +1,17 @@
+{
+ "id": "f13c620e3d8ce43c",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v42.11.14",
+ "image": "https://opengraph.githubassets.com/4adcb3b9714243454e63e536b487650e92c45a97b4ab474f06e3a2c6b81ce06b/electron/electron/releases/tag/v42.11.14",
+ "title": "electron v42.11.14",
+ "summary_en": "Release Notes for v42.11.14 Other Changes Backported fixes from upstream ANGLE, Chromium, PDFium and V8. #54900",
+ "title_mn": "Electron v42.11.14 хувилбар гарлаа",
+ "summary_mn": "Electron v42.11.14 хувилбарт ANGLE, Chromium, PDFium болон V8-ын өмнөх засваруудыг буцаан нэвтрүүлжээ. Энэ нь зөвхөн дотоод сангийн засвар бөгөөд шинэ API байхгүй.",
+ "body_mn": "Electron-ийн v42.11.14 хувилбарын тэмдэглэлд \"Other Changes\" гэсэн ангилалд багтах засварууд орсон байна. Гол агуулга нь upstream ANGLE, Chromium, PDFium болон V8 төслүүдийн өмнө нь гарсан засваруудыг backport хийсэн явдал юм.\n\nТэмдэглэлд шинэ функц эсвэл API-ийн өөрчлөлт дурдагдаагүй. Харин үндсэн браузерын хөдөлгүүрийн засварууд багтсан тул Electron дээр суурилсан аппликейшнүүд аюулгүй байдал болон тогтвортой ажиллагаанд ач холбогдолтой байж болно.\n\nХөгжүүлэгчид v42 салбарыг ашигладаг бол энэ шинэчлэлтийг хийх нь зүйтэй. Бусад хувилбарын мэдээлэл болон дэлгэрэнгүйг GitHub дээрх electron/electron repository-оос шалгаж болно.",
+ "published": "2026-10-14T03:01:23Z",
+ "added": "2026-10-14T10:24:06Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

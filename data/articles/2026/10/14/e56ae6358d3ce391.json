@@ -1,0 +1,17 @@
+{
+ "id": "e56ae6358d3ce391",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.30.0",
+ "image": "https://opengraph.githubassets.com/58f7830af7a34b38657818ff2d8bed499c69c292f8b997aa722ce824130d9fcd/openai/openai-python/releases/tag/v3.30.0",
+ "title": "openai-python v3.30.0",
+ "summary_en": "3.30.0 (2026-10-14) Features api: add beta session spending limits ( #4058 ) ( b570279 ) api: add OCI external-storage provider support ( #4060 ) ( 9eb83fe ) api: add organization Decisions usage reporting ( #4062 ) ( 5e7a23e ) api: expose image tool error and moderation details ( #4072 ) ( c5452af ) api: support image URLs and detailed safety alert explanations ( #4061 ) ( 3c50399 ) api: support updating project API key expiry ( #4066 ) ( 1f05e33 ) Bug Fixes streaming: restore async HTTP/1.1 connection reuse ( #4041 ) ( 1f6cfe1 ) Chores api: clarify agent tool limits and environment…",
+ "title_mn": "openai-python v3.30.0: session spending limit болон OCI дэмжлэг нэмэгдлээ",
+ "summary_mn": "openai-python v3.30.0 хувилбарт beta session spending limits, OCI external-storage provider дэмжлэг, organization Decisions usage reporting зэрэг шинэ боломжууд нэмэгдсэн. Мөн streaming-ийн async HTTP/1.1 холболтын засвар орсон.",
+ "body_mn": "OpenAI-ийн Python SDK-ийн 3.30.0 хувилбар 2026 оны 10-р сарын 14-нд гарсан. Шинэ боломжуудын дунд beta session spending limits, OCI external-storage provider дэмжлэг, project API key-ийн хугацаа шинэчлэх боломж орсон байна.\n\nМөн api:-ийн доорх нэмэлтүүд багтсан: organization Decisions usage reporting, image tool-ийн алдаа болон moderation дэлгэрэнгүйг харуулах, image URL дэмжлэг болон аюулгүй байдлын дэлгэрэнгүй тайлбар. Засварын хэсэгт streaming: async HTTP/1.1 холболтын дахин ашиглалтыг сэргээсэн байна.\n\nХөгжүүлэгчдэд зардлын хязгаар болон usage reporting нь API хэрэглээг хянахад ашигтай. Хэрэв Python дээр суурилсан backend ашиглаж байгаа бол SDK-гаа шинэчлэх нь зүйтэй.",
+ "published": "2026-10-14T04:00:19Z",
+ "added": "2026-10-14T10:24:06Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

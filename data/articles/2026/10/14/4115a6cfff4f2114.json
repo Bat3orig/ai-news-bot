@@ -1,0 +1,17 @@
+{
+ "id": "4115a6cfff4f2114",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.31.0",
+ "image": "https://opengraph.githubassets.com/fa20c4d6df223e9298c7b03beb7fe02048d46029d6b90dcb92c59b4391b8dce6/openai/openai-python/releases/tag/v3.31.0",
+ "title": "openai-python v3.31.0",
+ "summary_en": "3.31.0 (2026-10-14) Features add browser and computer toolsets (1/4) ( #4073 ) ( 47b9e4e )",
+ "title_mn": "openai-python v3.31.0: browser болон computer toolset нэмэгдлээ",
+ "summary_mn": "openai-python v3.31.0 хувилбарт browser болон computer toolsets нэмэгдсэн. Энэ нь агентууд вэб хөтөч болон компьютерийг удирдах боломжийг SDK-д авчирч байна.",
+ "body_mn": "OpenAI-ийн Python SDK-ийн 3.31.0 хувилбар 2026 оны 10-р сарын 14-нд гарсан. Тэмдэглэлд \"add browser and computer toolsets (1/4)\" гэсэн ганц шинэ функц дурдагдсан бөгөөд энэ нь хэсэгчилсэн нэвтрүүлэлт юм.\n\nBrowser болон computer toolsets нь агентуудад вэб хуудас болон компьютерийн интерфэйстэй харилцах боломж олгоно. Гэхдээ энэ хэсэгт дэлгэрэнгүй API параметр болон жишээ код дурдагдаагүй тул хөгжүүлэгчид баримтжуулалтыг дагах хэрэгтэй.\n\nХэрэв та агент системээ вэбтэй холбож ажиллуулахаар төлөвлөж байгаа бол энэ хувилбарыг дагаж мөрдөх нь зүйтэй.",
+ "published": "2026-10-14T05:38:46Z",
+ "added": "2026-10-14T10:24:06Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

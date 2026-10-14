@@ -1,0 +1,17 @@
+{
+ "id": "cb2c51bc30a37065",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/every-app/open-seo",
+ "image": "https://opengraph.githubassets.com/a7e4515068637902707c514e8f1243956deb62a60c6eb09591cfd77bb07673e0/every-app/open-seo",
+ "title": "every-app/open-seo",
+ "summary_en": "Open source alternative to Semrush and Ahrefs https://openseo.so OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people . If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-one SEO tool for you and your AI agent. Connect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is…",
+ "title_mn": "every-app/open-seo: Semrush болон Ahrefs-ийн нээлттэй эхийн хувилбар",
+ "summary_mn": "AI агентуудтай MCP протоколоор холбогддог, хэрэглэснээрээ төлдөг үнэтэй SEO хэрэгслүүдийн нээлттэй хувилбар бүхий төсөл гарлаа.",
+ "body_mn": "every-app баг Semrush болон Ahrefs зэрэг өндөр үнэтэй платформтой өрсөлдөхүйц нээлттэй эх бүхий every-app/open-seo төслийг хөгжүүлж байна. Хэрэглэгчид сар бүрийн тогтмол өндөр төлбөрөөс зайлсхийж, өөрсдийн сервер дээр байршуулан хэрэглээгээрээ төлөх хэлбэрээр ашиглах боломжтой.\n\nOpenSEO-ийн гол онцлог нь Model Context Protocol (MCP) серверийг дэмждэгт оршино. Ингэснээр Claude Code, OpenClaw, Hermes зэрэг AI агентууд уг хэрэгслээр дамжуулан SEO-ийн өгөгдөл дээр шууд шинжилгээ хийх, тайлан гаргах автомат ажлуудыг гүйцэтгэж чадна.\n\nУг төсөл нь өгөгдөл цуглуулахдаа DataForSEO API-г ашигладаг бөгөөд self-host хийсэн тохиолдолд уг API түлхүүрээрээ шууд хандан зардал багатай ажиллах боломжийг олгож байна.",
+ "published": "2026-10-14T10:24:06Z",
+ "added": "2026-10-14T10:24:06Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

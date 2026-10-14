@@ -1,0 +1,17 @@
+{
+ "id": "15036cb7c70bad5f",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Startup Fortune",
+ "url": "https://startupfortune.com/anthropics-claude-agents-pushed-code-merges-to-30000-a-day-in-september/",
+ "image": "https://startupfortune.com/wp-content/uploads/2026/10/scion-anthropic-claude-code.jpg",
+ "title": "Anthropic's Claude agents pushed code merges to 30,000 a day in September",
+ "summary_en": "Anthropic's Claude coding agents pushed daily code merges to over 30,000, forcing a 7-engineer team to replace Git with a new system called Scion.",
+ "title_mn": "Anthropic өөрийн Git-ийн орлуулагч Scion системийг бүтээжээ",
+ "summary_mn": "Anthropic-ийн Claude агентууд 9-р сард өдөрт 30,000 код нэгтгэл хийсэн нь 5-р сарынхаас 12 дахин их байна. Үүнтэй холбогдуулан компани монорепо дээр зориулсан Scion хувилбар сэлгэн хэрэглэх системийг бүтээжээ.",
+ "body_mn": "Anthropic өөрийн инженерийн блогтоо Claude кодын агентууд 2026 оны 9-р сард өдөрт 30,000 гаруй код нэгтгэл хийж байсныг мэдээлэв. Харин 5-р сард энэ тоо өдөрт ойролцоогоор 2,500 байжээ. Энэ өсөлтийн улмаас Git нь агентын хурд руу дасан зохицоогүй гэж компани үзсэн.\n\nДалан хүний баг таван сарын хугацаанд Scion хэмээх хувилбарын удирдлагын систем болон Antique код шалгах хэрэгслийг бүтээжээ. Компанийн хэлснээр Scion нь ерөнхий зорилгын Git орлуулагч биш, харин маш том монорепо болон агентын олон тооны урсгалд зориулагдсан юм.\n\nКомпанийн мэдээлснээр Scion нь өмнөх Git дээр суурилсан системтэй харьцуулахад CPU болон санах ойн хэрэглээг ойролцоогоор 200 дахин бууруулж, CI-д код татах хугацааг минутаас секунд болгосон байна. Хөгжүүлэгчдэд энэ нь агент дээр суурилсан том хэмжээний төслийн инфрацийн хязгаарыг харуулсан чухал жишээ юм.",
+ "published": "2026-10-14T09:35:00Z",
+ "added": "2026-10-14T10:24:06Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

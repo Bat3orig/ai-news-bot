@@ -1,0 +1,17 @@
+{
+ "id": "5e8ced6de786f55e",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_le2f6yle2f.2e16d0ba.fill-1200x600.jpg",
+ "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+ "summary_en": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source Python Agent Development Kit (ADK).",
+ "title_mn": "Gemini 4 Argon 200 мянган мөр кодтой Python төслийг хоногийн дотор хурдасгав",
+ "summary_mn": "Google-ийн инженерийн баг Gemini 4 Argon загварыг 200,000 гаруй мөр кодтой ADK санг оновчлоход туршиж, санах ойн ачааллыг 40 хувиар бууруулжээ.",
+ "body_mn": "Google өөрийн нээлттэй эх бүхий google/adk-python төсөл дээр Gemini 4 Argon загварын чадварыг шалгасан бодит туршилтын үр дүнгээ хуваалцлаа. Нийт 205,000 мөр код, 800 орчим файл, 17,000 орчим нэгжийн тесттэй уг томоохон системд олон файл дамжсан хурдны гацааг олох даалгаврыг загварт өгсөн байна.\n\nЗагвар 11 цагийн турш хүний оролцоогүй ажиллахдаа repository доторх .agents/skills дүрмийн файлууд болон Google Antigravity-ийн /goal горимыг ашиглажээ. Эхний ээлжинд ямар ч зааваргүй ажиллуулахад алдаатай шийдлүүд гаргаж байсан ч, тусгай баримтжуулалт болон зааврын дагуу ажилласнаар багийн дүрэм журамд нийцсэн шийдлийг боловсруулсан байна.\n\nҮр дүнд нь ADK сангийн урт хугацааны session бэлдэх хугацааг 40 хувиар богиносгож, cold package import хийх хурдыг 21 хувиар ахиулсан хоёр үндсэн оновчлол албан ёсоор кодын санд оржээ. Энэхүү туршилт нь AI агент зөвхөн шинэ төсөл эхлүүлэх төдийгүй, том код баазыг бүхэлд нь шинжлэн оновчлох чадвартайг харуулж байна.",
+ "published": "2026-10-14T10:24:06Z",
+ "added": "2026-10-14T10:24:06Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
