@@ -7,8 +7,10 @@ Project context for Claude Code. Read this first; it is everything the previous 
   `README.md` and user-facing text (Telegram messages, site UI, YAML comments) are in Mongolian.
 - The user is not deeply technical about GitHub/Telegram setup: give exact click paths and commands.
 - The user approved Claude pushing to `origin main` for this project. Still say what you pushed.
-- Never hardcode secrets. No API keys exist on this machine; `gh` CLI is installed but **not logged in**
-  (can't read Actions logs — ask the user to paste them).
+- Never hardcode secrets. No API keys exist on this machine. `gh` CLI is logged in as **bbat3orig**,
+  a different account from the repo owner Bat3orig. It can read runs (`gh run list/view -R
+  Bat3orig/ai-news-bot`) but **cannot dispatch workflows** (403, needs admin). Ask the user to click
+  Actions → AI News Bot → Run workflow.
 
 ## What it is
 A Telegram + website news bot for developers, running free on GitHub Actions + GitHub Pages.
@@ -105,9 +107,12 @@ python -m http.server -d public
 - 2026-10-14: noise filter (block list, AI score, 7-day dedup) pushed by the user (`2187778`).
   The AI score and dedup are tested only with mocks, so check the "AI: low value" and
   "AI: duplicate story" log lines.
+- 2026-10-14: scheduled runs are delayed by GitHub: `*/30` cron actually ran every ~4–5 h
+  (20:45, 00:02, 05:08 UTC). An external cron that calls workflow_dispatch was suggested; the
+  user has not decided yet.
 - 2026-10-14: GitHub / Vibe coding topics and Packages added. New sources bootstrap silently on
   their first run, so the first posts arrive at the next feed update (trending updates daily).
-- **PENDING:** cleanup of old articles. The user asked for it, but deleting was blocked. The review
+- **PENDING:** cleanup of old articles (still not done as of session end 2026-10-14). The user asked for it, but deleting was blocked. The review
   kept 63 of 237 (releases, Vercel/AI Gateway, Copilot changelog, model launches, Claude features,
   technical HN posts) and dropped 174 (business, partnerships, IPO, crypto, AI-incident stories,
   "cruelty to Claude" copies, customer stories, SEO sites). Redo the review with the new rules, and
