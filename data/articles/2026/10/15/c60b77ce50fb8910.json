@@ -1,0 +1,17 @@
+{
+ "id": "c60b77ce50fb8910",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/ruvnet/ruflo",
+ "image": "https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db",
+ "title": "ruvnet/ruflo",
+ "summary_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated https://Cognitum.One An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later . Run inside Claude Code: /plugin marketplace add ruvnet/ruflo /plugin install ruflo-core@ruflo…",
+ "title_mn": "ruvnet/ruflo: Claude Code болон Codex-т зориулсан агентын мета систем",
+ "summary_mn": "ruvnet/ruflo нь Claude Code болон Codex хэрэгслүүдэд зориулсан агентын мета систем бөгөөд олон агентуудыг хооронд нь уялдаа холбоотой ажиллах, санах ойгоо хуваалцах боломжийг олгодог хөгжүүлэгчийн хэрэгсэл юм.",
+ "body_mn": "ruvnet/ruflo репозитори нь Claude Code болон Codex хэрэгслүүдэд зориулсан дэвшилтэт агентын мета систем юм. Энэхүү хэрэгсэл нь хиймэл оюуны агентуудад санах ой, даалгавар төлөвлөх, тестлэх зэрэг боломжийг олгож, тэдгээрийг хооронд нь хамтран ажиллах нөхцөлийг бүрдүүлдэг.\n\nГол онцлогуудаас дурдвал, 100 гаруй тусгай зориулалтын агентууд, өөрийгөө суралцах санах ойн систем, машин хоорондын холбоо болон аюулгүй байдлын хамгаалалт багтана. Хөгжүүлэгчид энэхүү системийн тусламжтайгаар агентуудыг бүлэг болгон зохион байгуулж, кодын ажлаа илүү үр дүнтэй удирдах боломжтой.\n\nТехнологийн хувьд Rust дээр суурилсан хурдан хиймэл оюуны хөдөлгүүр, вектор санах ой болон залгамж холбооны системүүдийг ашигладаг. Claude Code 2.1.287 болон түүнээс дээш хувилбарыг шаардах бөгөөд терминал дээр npx ruflo init гэсэн тушаалаар хялбархан суулгаж туршиж үзэх боломжтой.",
+ "published": "2026-10-15T16:03:29Z",
+ "added": "2026-10-15T16:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

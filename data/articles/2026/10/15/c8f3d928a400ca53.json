@@ -1,0 +1,17 @@
+{
+ "id": "c8f3d928a400ca53",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+ "image": "https://opengraph.githubassets.com/7aed55127ef2a605f9de3f6f51c0799040b6f29b3be84e081c04eb36478690b4/K-Dense-AI/scientific-agent-skills",
+ "title": "K-Dense-AI/scientific-agent-skills",
+ "summary_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. https://arxiv.org/abs/2609.00065 Scientific Agent Skills 🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility — now works with any AI agent that supports the open Agent Skills standard, not just Claude. New: K-Dense…",
+ "title_mn": "K-Dense-AI/scientific-agent-skills: AI агентуудад зориулсан шинжлэх ухааны 177 ур чадвар",
+ "summary_mn": "K-Dense-AI/scientific-agent-skills нь биологи, хими, физик, өгөгдлийн шинжилгээ зэрэг шинжлэх ухааны салбаруудын тусгай сангуудтай ажиллах AI агентуудын 177 ур чадварыг багтаасан нээлттэй эх сурвалжтай сан юм.",
+ "body_mn": "Энэхүү репозитори нь AI агентуудад биологи, хими, анагаах ухаан, физик, инженерчлэл, дэлхийн шинжлэх ухаан болон өгөгдлийн анализын чиглэлээр мэргэшсэн сангууд, өгөгдлийн сануудтай саадгүй ажиллах боломжийг олгодог 177 шинжлэх ухааны ур чадварыг агуулдаг. Ур чадвар бүр нь тухайн салбарын баталгаажуулалтын шалгалт болон процедурын мэдлэгийг агуулсан SKILL.md файлтай.\n\nУг төсөл нь нээлттэй Agent Skills стандартыг дэмждэг бөгөөд Cursor, Claude Code, Codex, Google Antigravity болон бусад тохирох хэрэгслүүдтэй хамтран ажиллах чадвартай. Мөн хөгжүүлэгчид өөрсдийн API түлхүүрүүдийг ашиглан локал орчинд ажиллах боломжтой 'K-Dense BYOK' нэртэй шинжлэх ухааны ко-сайнс боломжийг давхар санал болгодог.\n\nШинжлэх ухааны судалгаа, инженерчлэл болон өгөгдөл боловсруулалтад AI агентуудыг ашиглаж буй хөгжүүлэгчдэд ажлаа хурдасгах, агентынхаа чадамжийг сайжруулахад маш хэрэгтэй нээлттэй эх сурвалж юм.",
+ "published": "2026-10-15T16:03:29Z",
+ "added": "2026-10-15T16:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

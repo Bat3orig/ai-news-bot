@@ -1,0 +1,17 @@
+{
+ "id": "80fff3a90d51ccf9",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+ "image": "https://github.blog/wp-content/uploads/2026/10/668637028-c7fd9e91-ddbd-40bd-a7cb-c31366bbc342.jpeg",
+ "title": "AI Scan for pull requests generally available",
+ "summary_en": "Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently…",
+ "title_mn": "GitHub CodeQL-д зориулсан AI Scan боломжийг нээлттэй болголоо",
+ "summary_mn": "GitHub-ийн кодын аюулгүй байдлыг шалгах AI Scan хэрэгсэл одоо албан ёсоор бүх хэрэглэгчдэд нээлттэй боллоо. Энэ нь CodeQL-ийн дэмждэггүй PHP, Terraform, Dockerfile зэрэг олон хэл дээрх эмзэг байдлыг илрүүлэх боломжийг олгодог.",
+ "body_mn": "GitHub компани хувь нийлүүлсэн код шалгах AI Scan хэрэгслээ бүх хэрэглэгчдэд нээлттэй болгосноо зарлалаа. Энэхүү шинэ боломж нь уламжлалт CodeQL хэрэгслийг нөхөж, одоогоор CodeQL дэмждэггүй PHP, Shell/Bash, Terraform (HCL), Dockerfiles, JSP, Blazor зэрэг хэл болон фрэймворкууд дээрх аюулгүй байдлын сул талуудыг илрүүлэх үүрэгтэй.\n\nAI Scan нь тухайн кодын санд тохиргоо хийгдсэн үед pull request хийх явцад автоматаар ажилладаг. Үр дүн нь CodeQL үр дүнтэй хамт Files changed болон Conversation таб дээр гарч ирэх бөгөөд \"AI\" гэсэн тэмдэглэгээгээр ялгагддаг байна. Хөгжүүлэгчид уг үр дүнгээс аюулгүй байдлын эрсдлийн тайлбар болон санал болгож буй засах кодыг шууд харах боломжтой.\n\nЭнэхүү хэрэгсэл нь олон нийтийн болон хувийн кодын сануудад ашиглагдах бөгөөд аюулгүй байдлын AI кредитийг зарцуулдаг. AI Scan нь зөвхөн зөвлөмж өгөх зорилготой бөгөөд pull request нэгтгэх үйл явцыг автоматаар хаахгүй боловч хөгжүүлэгчдэд кодын чанар, аюулгүй байдлаа сайжруулахад үнэтэй туслалцаа үзүүлнэ.",
+ "published": "2026-10-15T15:04:51Z",
+ "added": "2026-10-15T16:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

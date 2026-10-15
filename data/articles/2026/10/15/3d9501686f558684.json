@@ -1,0 +1,17 @@
+{
+ "id": "3d9501686f558684",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/react/react",
+ "image": "https://opengraph.githubassets.com/c5dd4efb4316ac804f8b24706d9da96297a3cf91a7f895ae95654038b6fe5ec5/react/react",
+ "title": "react/react",
+ "summary_en": "The library for web and native user interfaces. https://react.dev React · React is a JavaScript library for building user interfaces. Declarative: React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable, simpler to understand, and easier to debug. Component-Based: Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in…",
+ "title_mn": "react/react: Хэрэглэгчийн интерфэйс бүтээх JavaScript сан",
+ "summary_mn": "React нь хэрэглэгчийн интерфэйс бүтээхэд зориулагдсан нээлттэй эх сурвалжтай JavaScript сан бөгөөд вэб болон утасны аппликейшн хөгжүүлэхэд өргөнөөр ашиглагддаг.",
+ "body_mn": "React бол хэрэглэгчийн интерфэйс бүтээхэд зориулагдсан алдартай JavaScript сан юм. Анхнаасаа аажмаар нэвтрүүлэхэд (gradual adoption) зориулагдаж бүтээгдсэн тул хөгжүүлэгчид өөрсдийн хэрэгцээнд тааруулан бага эсвэл их хэмжээгээр төслүүддээ ашиглах боломжтой байдаг.\n\nЭнэхүү төв санд React цөмийг хөгжүүлэх үндсэн код байрладаг ба хурдыг нэмэгдүүлэх, хэрэглэхэд илүү хялбар болгох зорилготойгоор олон нийтийн оролцоотойгоор GitHub дээр нээлттэй хөгжүүлэгддэг. JSX хэмээх HTML-тэй төстэй синтаксийг ашигладаг нь код бичих явцыг илүү ойлгомжтой болгодог байна.\n\nВэб болон мобайл интерфейс бүтээхэд зайлшгүй мэдэх ёстой суурь технологийн хувьд хөгжүүлэгчдэд шинэ хувилбарууд, алдаа засвар болон хувь нэмэр оруулах боломжийг байнга олгодог.",
+ "published": "2026-10-15T16:03:29Z",
+ "added": "2026-10-15T16:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

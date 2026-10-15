@@ -498,5 +498,245 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cf51666d17cb99b7",
+   "subtopic": "motion",
+   "source": "Motion Blog",
+   "source_label": "Motion Blog",
+   "url": "https://motion.dev/magazine/introducing-motion-ui-gallery",
+   "image": "https://images.motion.dev/og/fresh/v1/site/magazine-introducing-motion-ui-gallery-3t474q1hegbja.png",
+   "title": "Introducing Motion UI Gallery",
+   "summary_en": "When I was but a lad, \"lightbox\" plugins were the impressive new thing to slap on your fansite. These days, the best ones are all bespoke Awwwards fodder. Hand-tuned to do one thing beautifully, then thrown away for the next site. Today, we're launching Gallery, a new Motion UI component for React (with Vue on the way!) It's a new component for building award-winning image and video galleries that work in both 2D and 3D, where every arrangement, gesture and detail view transitions smoothly into the next. Read the full article on Motion",
+   "title_mn": "Motion UI Gallery component-ийг React болон Vue-д зориулан танилцууллаа",
+   "summary_mn": "Motion баг Gallery хэмээх шинэ UI компонент гаргаснаа зарлалаа. Энэ нь WebGL ашиглалгүйгээр DOM болон CSS transform дээр 2D, 3D зураг, видео gallery хийх боломж өгдөг.",
+   "body_mn": "Motion баг вэб сайтуудад зориулсан Gallery хэмээх шинэ UI компонентоо албан ёсоор танилцууллаа. Энэхүү хэрэгсэл нь React болон удахгүй гарах Vue фреймворкт зориулагдсан бөгөөд шагнал хүртэхүйц түвшний зургийн болон видеон gallery бүтээх боломж олгодог.\n\nИхэнх gallery сангууд зөвхөн нэг л зүйлийг сайн хийдэг бол Motion UI Gallery нь list, grid, barrel, coverflow, helix, ring, sphere болон stack зэрэг 8 төрлийн зохион байгуулалтыг багтаасан байна. Бүх хөдөлгөөн болон 3D эргэлтүүд нь canvas эсвэл WebGL ашиглалгүйгээр бүрэн DOM болон CSS transform ашиглан дүрслэгддэг нь хүртээмж болон гүйцэтгэлд сайнаар нөлөөлдөг.\n\nХөгжүүлэгчид defineGalleryArrangement функц ашиглан өөрсдийн хүссэн зохион байгуулалтыг зохиох боломжтой. Мөн тоон утга бүр motion value дэмждэг тул камерын хазайлтыг шууд хөдөлгөөнд оруулах боломжтой бөгөөд дахин render хийх шаардлагагүй байдаг.",
+   "published": "2026-10-14T00:00:00Z",
+   "added": "2026-10-15T16:03:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "692261a346a3b693",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "TechSpot",
+   "url": "https://www.techspot.com/news/114209-anthropic-ditched-git-own-version-control-system-because.html",
+   "image": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-14-image-30.jpg",
+   "title": "Anthropic ditched Git for its own version control system because Claude is writing too much code",
+   "summary_en": "Anthropic detailed the system in a recent engineering post, reporting that it averaged about 2,500 merged code changes a day in May. By September, that figure exceeded 30,000.",
+   "title_mn": "Anthropic AI код бичих хурдаа даgаж Git-ийг Scion хувилбар хяналтын системээр солив",
+   "summary_mn": "Anthropic компани хиймэл оюуны агентлагуудын бичсэн кодын хэмжээ эрс өссөнтэй холбоотойгоор үндсэн сан дахь Git системийг Scion хэмээх шинэ хувилбар хяналтын системээр солилоо. Энэхүү систем нь сервер дээр ажиллаж, CI болон хайгуулын ажлын явцыг хэд дахин хурдасгажээ.",
+   "body_mn": "Anthropic компани өөрийн үндсэн кодын сандаа ашиглаж байсан Git системийг халж, Scion нэртэй шинэ хувилбар хяналтын системийг нэвтрүүлсэн тухай мэдээллээ. Энэхүү өөрчлөлт нь хиймэл оюуны агентлагууд өдөрт олон девелоперийн ажлыг амжуулан асар их хэмжээний код бичиж эхэлсэнтэй холбоотой юм. Тавдугаар сард өдөрт дунджаар 2,500 код нэгтгэгдэж байсан бол есдүгээр сар гэхэд энэ үзүүлэлт 30,000-аас давжээ.\n\nШинэ Scion систем нь ихэнх хувилбар хяналтын үйлдлийг сервер талдаа гүйцэтгэж, агентуудын татаж авах шаардлагатай өгөгдлийн хэмжээг эрс багасгадаг. Ингэснээр үргэлжилсэн интеграцийн (CI) болон судалгааны ажлын үеийн кодын шалгалт минут биш секундийн хугацааг зарцуулдаг болж, CI дэд бүтцийн CPU-ийн хүчин чадлын 25 хувийг хэмнэсэн байна. Дээд тал нь долуулаа бүрэлдэхүүнтэй баг энэхүү системийг ердөө таван сарын дотор хөгжүүлж дуусгажээ.\n\nAnthropic-ийн үндсэн салбарын түүх 100 ГБ-аас дээшилж, шахсан ажлын хуулбар нь 25 ГБ-аас давсан байна. Хэрэв хуучин Git системийг ашигласан хэвээр байсан бол өдөр тутмын CI шалгалт асар их трафик үүсгэх байжээ. Scion систем өөрчлөлт бүрийг урьдчилсан бүртгэлд (write-ahead log) changeset хэлбэрээр хадгалдаг бөгөөд сервер дээр төвлөрсөн энэхүү шийдэл нь олон мянган өөрчлөлтийг зэрэг шалгах явцыг илүү үр дүнтэй болгож байна.",
+   "published": "2026-10-15T13:43:00Z",
+   "added": "2026-10-15T16:03:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f52877434f6437f0",
+   "subtopic": "motion",
+   "source": "motiondivision/motion",
+   "source_label": "motiondivision/motion",
+   "url": "https://github.com/motiondivision/motion/releases/tag/v14.3.0",
+   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+   "title": "motion v14.3.0",
+   "summary_en": "v14.3.0",
+   "title_mn": "Motion v14.3.0 хувилбар гарлаа",
+   "summary_mn": "Вэб болон анимацийн хөгжүүлэлтэд өргөн ашиглагддаг Motion номын сангийн v14.3.0 шинэ хувилбар албан ёсоор цацагдлаа.",
+   "body_mn": "Motion (хуучнаар Framer Motion) анимацийн номын сангийн шинэ v14.3.0 хувилбар хэрэглэгчдийн гарт хүрлээ. Энэхүү шинэ хувилбарт хөгжүүлэгчдийн хүсэн хүлээсэн зарим засвар болон сайжруулалтууд орсон байна.\n\nНомын сангийн хөгжүүлэгчид гүйцэтгэлийг сайжруулах, алдаануудыг засах талд түлхүү анхаарчээ. Дэлгэрэнгүй өөрчлөлтүүд болон шинэ боломжуудын талаар албан ёсны хувилбарын тэмдэглэлээс харах боломжтой.\n\nМошн анимацийн сан нь React болон бусад орчинд хэрэглэгчдийн туршлагыг сайжруулахад чухал үүрэг гүйцэтгэдэг билээ.",
+   "published": "2026-10-15T13:54:17Z",
+   "added": "2026-10-15T16:03:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ccc10797b3c0a8b1",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Memeburn",
+   "url": "https://memeburn.com/qwengyre-alibaba-ai-agents/",
+   "image": "https://memeburn.com/wp-content/uploads/2026/10/Alibabas-AI-Agents-Now-Work-4-Hour-Shifts.-QwenGyre-Is-How-It-Stops-Paying-GPUs-to-Wait.jpg",
+   "title": "QwenGyre 2026: How Alibaba Cut Agent Training Time by 44%",
+   "summary_en": "QwenGyre is Alibaba's new way to train AI agents on 4-hour tasks. Here's how it cut training time by 44% in 2026, why GPUs sit idle, and what it means for you.",
+   "title_mn": "Alibaba QwenGyre системийг танилцуулж, агент сургах хугацааг 44%-иар бууруулав",
+   "summary_mn": "Alibaba компани хиймэл оюуны агентуудыг сургах хугацааг эрс богиносгосон QwenGyre системийг танилцууллаа. Энэхүү шинэ тогтолцоо нь олон цагаар үргэлжилдэг урт хугацааны даалгавартай агентуудын сургалтын үр дүнг сайжруулж, GPU нөөцийг хэмнэдэг.",
+   "body_mn": "Alibaba-ийн Qwen баг хиймэл оюуны агентуудын сургалтын хугацааг эрс богиносгох зорилготой QwenGyre хэмээх шинэ тогтолцоогоо олон нийтэд дэлгэлээ. Тус систем нь 2.4 триллион параметр бүхий загвар дээр 48 алхамтай сургалтын явцыг ердөө 75 цагийн дотор дуусгаж чаджээ. Өмнө нь ижил төстэй сургалтад 134 цаг зарцуулагддаг байсан юм.\n\nОрчин үеийн хиймэл оюуны салбар богино хугацааны чатботуудаас илүүтэйгээр олон цагаар тасралтгүй ажиллах чадвартай агентууд руу шилжиж байна. Гэвч ийм төрлийн агентуудыг сургах нь маш их тооцоолох хүч шаардаж, үнэтэй GPU чипүүдийг удаан хугацаагаар сул зогсооход хүргэдэг аж. QwenGyre нь энэхүү сул зогсолтыг багасгахын тулд Elastic Scheduler буюу уян хатан хуваарилагч болон Trajectory Processor гэсэн үндсэн хэсгүүдийг ашигладаг.\n\nУян хатан хуваарилагч нь GPU нөөцүүдийг агентын ажиллуулах болон загварыг сургах хооронд ямар ч алдагдалгүйгээр хурдан шилжүүлэх боломжийг олгодог бол Trajectory Processor нь сургалтын өгөгдлийг цэгцэлж, давхардсан алхмуудыг хадгалах замаар хугацааг 25 хувиар бууруулдаг байна. Энэхүү судалгаа нь урт хугацааны даалгавар гүйцэтгэх агентуудын ирээдүйн хөгжилд чухал алхам болж байна.",
+   "published": "2026-10-15T14:55:16Z",
+   "added": "2026-10-15T16:03:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "80fff3a90d51ccf9",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+   "image": "https://github.blog/wp-content/uploads/2026/10/668637028-c7fd9e91-ddbd-40bd-a7cb-c31366bbc342.jpeg",
+   "title": "AI Scan for pull requests generally available",
+   "summary_en": "Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently…",
+   "title_mn": "GitHub CodeQL-д зориулсан AI Scan боломжийг нээлттэй болголоо",
+   "summary_mn": "GitHub-ийн кодын аюулгүй байдлыг шалгах AI Scan хэрэгсэл одоо албан ёсоор бүх хэрэглэгчдэд нээлттэй боллоо. Энэ нь CodeQL-ийн дэмждэггүй PHP, Terraform, Dockerfile зэрэг олон хэл дээрх эмзэг байдлыг илрүүлэх боломжийг олгодог.",
+   "body_mn": "GitHub компани хувь нийлүүлсэн код шалгах AI Scan хэрэгслээ бүх хэрэглэгчдэд нээлттэй болгосноо зарлалаа. Энэхүү шинэ боломж нь уламжлалт CodeQL хэрэгслийг нөхөж, одоогоор CodeQL дэмждэггүй PHP, Shell/Bash, Terraform (HCL), Dockerfiles, JSP, Blazor зэрэг хэл болон фрэймворкууд дээрх аюулгүй байдлын сул талуудыг илрүүлэх үүрэгтэй.\n\nAI Scan нь тухайн кодын санд тохиргоо хийгдсэн үед pull request хийх явцад автоматаар ажилладаг. Үр дүн нь CodeQL үр дүнтэй хамт Files changed болон Conversation таб дээр гарч ирэх бөгөөд \"AI\" гэсэн тэмдэглэгээгээр ялгагддаг байна. Хөгжүүлэгчид уг үр дүнгээс аюулгүй байдлын эрсдлийн тайлбар болон санал болгож буй засах кодыг шууд харах боломжтой.\n\nЭнэхүү хэрэгсэл нь олон нийтийн болон хувийн кодын сануудад ашиглагдах бөгөөд аюулгүй байдлын AI кредитийг зарцуулдаг. AI Scan нь зөвхөн зөвлөмж өгөх зорилготой бөгөөд pull request нэгтгэх үйл явцыг автоматаар хаахгүй боловч хөгжүүлэгчдэд кодын чанар, аюулгүй байдлаа сайжруулахад үнэтэй туслалцаа үзүүлнэ.",
+   "published": "2026-10-15T15:04:51Z",
+   "added": "2026-10-15T16:03:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8e2d50ea0d105be0",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc1",
+   "image": "https://opengraph.githubassets.com/fda35efb18eb6d32e3b369bdbf93132ff478ceb82dc5c22197b2a31388768f58/ollama/ollama/releases/tag/v0.40.5-rc1",
+   "title": "ollama v0.40.5",
+   "summary_en": "What's Changed mlx: port the Metal custom kernels to CUDA by @dhiltgen in #18657 docs: model recs and language standardization by @anra8571 in #18981 openai: accept custom tool calls in Responses history by @hoyyeva in #18911 app: clarify cloud payment errors by @willietran in #18986 MLX: version bump by @dhiltgen in #18993 New Contributors @willietran made their first contribution in #18986 Full Changelog : v0.40.4...v0.40.5-rc0",
+   "title_mn": "Ollama v0.40.5 шинэ хувилбар гарлаа",
+   "summary_mn": "Ollama хэрэгслийн v0.40.5 шинэ хувилбар гарч, Metal цөмүүдийг CUDA рүү шилжүүлэх зэрэг сайжруулалтуудыг хийлээ.",
+   "body_mn": "Орон нутгийн хиймэл оюуны загваруудыг ажиллуулахад зориулагдсан Ollama хэрэгслийн v0.40.5 шинэ хувилбар цацагдлаа. Энэхүү хувилбарт голчлон гүйцэтгэлийг сайжруулах болон алдааг засах засварууд багтсан байна.\n\nТухайлбал, MLX хэсэг дэх Metal custom цөмүүдийг CUDA рүү шилжүүлсэн нь GPU ашиглалтын үр ашгийг дээшлүүлжээ. Мөн OpenAI нийцтэй байдлын хүрээнд захиалгат хэрэгслийн дуудлагыг Responses түүхэнд хүлээн авдаг болсон байна.\n\nҮүнээс гадна үүлэн төлбөртэй холбоотой алдааны мэдэгдлүүдийг илүү ойлгомжтой болгож, баримт бичгүүдийг шинэчилжээ. Хөгжүүлэгчид шинэ хувилбарыг GitHub дахь албан ёсны репозитороос татан авч ашиглах боломжтой.",
+   "published": "2026-10-15T15:07:44Z",
+   "added": "2026-10-15T16:03:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c1cf9ab9b6d2f7d5",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/evaluating-ai-agents-banner-1600x.2e16d0ba.fill-1200x600.png",
+   "title": "Evaluating AI agents: moving past the vibe check",
+   "summary_en": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
+   "title_mn": "Google хиймэл оюуны агентуудыг үнэлэх шинэ аргачлалыг танилцуулав",
+   "summary_mn": "Google компани хиймэл оюуны агентуудынхаа ажлыг бодитойгоор шалгах, үнэлэх алхмуудын талаар дэлгэрэнгүй зөвлөмж нийтэллээ. Энгийн туршилтаас илүүтэйгээр хэрэглэгчийн бодит хэрэгцээнд суурилсан үнэлгээний системийг хөгжүүлэхийг зөвлөж байна.",
+   "body_mn": "Google Developers блогт хиймэл оюуны агентуудыг бодитоор үнэлэх аргачлалын тухай нийтлэл гарлаа. Хиймэл оюуны агент даалгавраа алдах, токен үрэх эсвэл хариултаа хийсвэрлэх тохиолдол олон гардаг бөгөөд энгийн нүдээр харах төдий шалгалт үүнийг олж харж чаддаггүй байна.\n\nНийтлэлд агентыг хөгжүүлэх явцад давтагдах боломжтой үнэлгээний системийг эхнээс нь суулгах хэрэгтэйг онцолжээ. Ингэхдээ хийсвэр шалгуур үзүүлэлтээс илүүтэйгээр хэрэглэгчийн бодит хэрэгцээ болон чухал хэрэглэгчийн замналд (CUJ) тулгуурлах нь зүйтэй аж. Жишээ нь агент хүссэн гүйлгээний ID-г зөв олсон эсэх, тайлан шалгасан эсэх зэрэг тодорхой шалгууруудыг тавих хэрэгтэй.\n\nМөн хөгжүүлэгчид үйлдвэрлэлийн орчинд гарахаас өмнө олон янзын алдаатай, үсгийн алдаатай асуултууд асуудаг хэрэглэгчдийг дуурайлган турших замаар агентдаа шалгалт хийх боломжтойг дурджээ. Энэ нь агентынхаа гүйцэтгэлийг сайжруулахад чухал үүрэгтэй юм.",
+   "published": "2026-10-15T16:03:29Z",
+   "added": "2026-10-15T16:03:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a94e518258b06141",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/1_1.2e16d0ba.fill-1200x600.png",
+   "title": "Three layers, one repo: a tour of google/adk-recipes",
+   "summary_en": "The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such as retail product search and virtual try-on) directly into their coding assistants, and deploy production-ready services across multiple languages. This cohesive structure streamlines the entire workflow from initial scaffolding to full deployment on Google Cloud infrastructure.",
+   "title_mn": "Google Cloud агентын хөгжүүлэлтэд зориулсан adk-recipes санг нээв",
+   "summary_mn": "Google компани агентын хөгжүүлэлтийг хялбарчлах зорилгоор google/adk-recipes нэртэй шинэчилсэн репозиторийг танилцууллаа. Энэхүү төсөл нь үндсэн загвар, залгаас болон төрөл бүрийн үйлчилгээг нэг доос ашиглах боломжийг олгодог.",
+   "body_mn": "Google Cloud дээр хиймэл оюуны агент хөгжүүлж буй хөгжүүлэгчдэд зориулж google/adk-recipes нэртэй шинэчилсэн репозиторийг танилцууллаа. Өмнөх adk-samples төслийн залгамж болох энэхүү сан нь агентын платформын бүх хэрэгцээг нэг эх үүсвэрээс хангах зорилготой юм.\n\nyt сан нь core/, plugins/, contrib/ гэсэн үндсэн гурван хэсгээс бүрддэг. Core хэсэгт Agents CLI болон DevRel багийн санал болгодог суурь загварууд багтсан бол plugins/ хэсэгт суулгаж болох залгаасууд, contrib/ хэсэгт таван өөр хэл дээр ажиллах боломжтой үйлчилгээнүүд байрладаг.\n\nРепозиторийн бүх хэсэг нь хиймэл оюуны код бичих туслахуудад зориулагдсан баримт бичиг, манифестуудтай бүтээгдсэн байна. Хөгжүүлэгчид Agents CLI ашиглан шаардлагатай загваруудыг терминалаасаа шууд татаж суулгах болон клоуд орчинд байрлуулах бүрэн боломжтой аж.",
+   "published": "2026-10-15T16:03:29Z",
+   "added": "2026-10-15T16:03:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c60b77ce50fb8910",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/ruvnet/ruflo",
+   "image": "https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db",
+   "title": "ruvnet/ruflo",
+   "summary_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated https://Cognitum.One An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later . Run inside Claude Code: /plugin marketplace add ruvnet/ruflo /plugin install ruflo-core@ruflo…",
+   "title_mn": "ruvnet/ruflo: Claude Code болон Codex-т зориулсан агентын мета систем",
+   "summary_mn": "ruvnet/ruflo нь Claude Code болон Codex хэрэгслүүдэд зориулсан агентын мета систем бөгөөд олон агентуудыг хооронд нь уялдаа холбоотой ажиллах, санах ойгоо хуваалцах боломжийг олгодог хөгжүүлэгчийн хэрэгсэл юм.",
+   "body_mn": "ruvnet/ruflo репозитори нь Claude Code болон Codex хэрэгслүүдэд зориулсан дэвшилтэт агентын мета систем юм. Энэхүү хэрэгсэл нь хиймэл оюуны агентуудад санах ой, даалгавар төлөвлөх, тестлэх зэрэг боломжийг олгож, тэдгээрийг хооронд нь хамтран ажиллах нөхцөлийг бүрдүүлдэг.\n\nГол онцлогуудаас дурдвал, 100 гаруй тусгай зориулалтын агентууд, өөрийгөө суралцах санах ойн систем, машин хоорондын холбоо болон аюулгүй байдлын хамгаалалт багтана. Хөгжүүлэгчид энэхүү системийн тусламжтайгаар агентуудыг бүлэг болгон зохион байгуулж, кодын ажлаа илүү үр дүнтэй удирдах боломжтой.\n\nТехнологийн хувьд Rust дээр суурилсан хурдан хиймэл оюуны хөдөлгүүр, вектор санах ой болон залгамж холбооны системүүдийг ашигладаг. Claude Code 2.1.287 болон түүнээс дээш хувилбарыг шаардах бөгөөд терминал дээр npx ruflo init гэсэн тушаалаар хялбархан суулгаж туршиж үзэх боломжтой.",
+   "published": "2026-10-15T16:03:29Z",
+   "added": "2026-10-15T16:03:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "379642deb53f3714",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+   "image": "https://opengraph.githubassets.com/4f8fdadedc3e429c330419df758d47d83b7975fb10530bd25bf4d83f6f14c2ec/ChromeDevTools/chrome-devtools-mcp",
+   "title": "ChromeDevTools/chrome-devtools-mcp",
+   "summary_en": "Chrome DevTools for coding agents https://developer.chrome.com/docs/devtools/agents Chrome DevTools for agents Chrome DevTools for agents ( chrome-devtools-mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. A CLI is also provided for use without MCP. Tool reference | Changelog | Contributing | Troubleshooting | Design Principles…",
+   "title_mn": "ChromeDevTools/chrome-devtools-mcp: AI агентуудад зориулсан Chrome DevTools сервер",
+   "summary_mn": "ChromeDevTools/chrome-devtools-mcp нь Claude, Cursor болон Copilot зэрэг AI код бичих агентуудад шууд ажиллаж буй Chrome хөтчийг хянах, шалгах боломжийг олгодог Model-Context-Protocol (MCP) сервер юм.",
+   "body_mn": "ChromeDevTools/chrome-devtools-mcp төсөл нь AI туслахуудад Chrome DevTools-ийн бүрэн боломжийг ашиглан автоматжуулалт хийх, гүнзгийрүүлэн дибаг хийх, гүйцэтгэлийн шинжилгээ явуулах боломжийг олгодог чухал хэрэгсэл юм.\n\nЭнэхүү MCP сервер нь хөтчийн жишээний контентыг MCP үйлчлүүлэгчдэд ил болгож, ямар ч өгөгдлийг шалгах, өөрчлөх боломжийг бүрдүүлдэг. Мөн ямар нэгэн MCP сервер ашиглахгүйгээр шууд ашиглахад зориулсан CLI буюу команд мөрийн хэрэгслийг давхар хангаж өгсөн байна.\n\nАргачлалын хувьд зөвхөн Google Chrome болон Chrome for Testing хувилбаруудыг албан ёсоор дэмждэг бөгөөд хөгжүүлэгчдэд зориулсан `--slim`, `--headless` зэрэг тохиргооны параметрүүдтэй. Гүйцэтгэлийн хэрэгслүүд нь хэрэглэгчийн бодит туршлагын өгөгдлийг татахын тулд CrUX API рүү хандах боломжтой бөгөөд хүсвэл үүнийг тохиргоогоор унтрааж болдог.\n\nЭнэхүү сан нь хөгжүүлэгчдэд AI агентаараа дамжуулан вэб аппликейшнийг автомат тестлэх, алдааг олж засварлахад үнэ цэнэтэй нэмэлт болж байна.",
+   "published": "2026-10-15T16:03:29Z",
+   "added": "2026-10-15T16:03:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3d9501686f558684",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/react/react",
+   "image": "https://opengraph.githubassets.com/c5dd4efb4316ac804f8b24706d9da96297a3cf91a7f895ae95654038b6fe5ec5/react/react",
+   "title": "react/react",
+   "summary_en": "The library for web and native user interfaces. https://react.dev React · React is a JavaScript library for building user interfaces. Declarative: React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable, simpler to understand, and easier to debug. Component-Based: Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in…",
+   "title_mn": "react/react: Хэрэглэгчийн интерфэйс бүтээх JavaScript сан",
+   "summary_mn": "React нь хэрэглэгчийн интерфэйс бүтээхэд зориулагдсан нээлттэй эх сурвалжтай JavaScript сан бөгөөд вэб болон утасны аппликейшн хөгжүүлэхэд өргөнөөр ашиглагддаг.",
+   "body_mn": "React бол хэрэглэгчийн интерфэйс бүтээхэд зориулагдсан алдартай JavaScript сан юм. Анхнаасаа аажмаар нэвтрүүлэхэд (gradual adoption) зориулагдаж бүтээгдсэн тул хөгжүүлэгчид өөрсдийн хэрэгцээнд тааруулан бага эсвэл их хэмжээгээр төслүүддээ ашиглах боломжтой байдаг.\n\nЭнэхүү төв санд React цөмийг хөгжүүлэх үндсэн код байрладаг ба хурдыг нэмэгдүүлэх, хэрэглэхэд илүү хялбар болгох зорилготойгоор олон нийтийн оролцоотойгоор GitHub дээр нээлттэй хөгжүүлэгддэг. JSX хэмээх HTML-тэй төстэй синтаксийг ашигладаг нь код бичих явцыг илүү ойлгомжтой болгодог байна.\n\nВэб болон мобайл интерфейс бүтээхэд зайлшгүй мэдэх ёстой суурь технологийн хувьд хөгжүүлэгчдэд шинэ хувилбарууд, алдаа засвар болон хувь нэмэр оруулах боломжийг байнга олгодог.",
+   "published": "2026-10-15T16:03:29Z",
+   "added": "2026-10-15T16:03:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c8f3d928a400ca53",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+   "image": "https://opengraph.githubassets.com/7aed55127ef2a605f9de3f6f51c0799040b6f29b3be84e081c04eb36478690b4/K-Dense-AI/scientific-agent-skills",
+   "title": "K-Dense-AI/scientific-agent-skills",
+   "summary_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. https://arxiv.org/abs/2609.00065 Scientific Agent Skills 🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility — now works with any AI agent that supports the open Agent Skills standard, not just Claude. New: K-Dense…",
+   "title_mn": "K-Dense-AI/scientific-agent-skills: AI агентуудад зориулсан шинжлэх ухааны 177 ур чадвар",
+   "summary_mn": "K-Dense-AI/scientific-agent-skills нь биологи, хими, физик, өгөгдлийн шинжилгээ зэрэг шинжлэх ухааны салбаруудын тусгай сангуудтай ажиллах AI агентуудын 177 ур чадварыг багтаасан нээлттэй эх сурвалжтай сан юм.",
+   "body_mn": "Энэхүү репозитори нь AI агентуудад биологи, хими, анагаах ухаан, физик, инженерчлэл, дэлхийн шинжлэх ухаан болон өгөгдлийн анализын чиглэлээр мэргэшсэн сангууд, өгөгдлийн сануудтай саадгүй ажиллах боломжийг олгодог 177 шинжлэх ухааны ур чадварыг агуулдаг. Ур чадвар бүр нь тухайн салбарын баталгаажуулалтын шалгалт болон процедурын мэдлэгийг агуулсан SKILL.md файлтай.\n\nУг төсөл нь нээлттэй Agent Skills стандартыг дэмждэг бөгөөд Cursor, Claude Code, Codex, Google Antigravity болон бусад тохирох хэрэгслүүдтэй хамтран ажиллах чадвартай. Мөн хөгжүүлэгчид өөрсдийн API түлхүүрүүдийг ашиглан локал орчинд ажиллах боломжтой 'K-Dense BYOK' нэртэй шинжлэх ухааны ко-сайнс боломжийг давхар санал болгодог.\n\nШинжлэх ухааны судалгаа, инженерчлэл болон өгөгдөл боловсруулалтад AI агентуудыг ашиглаж буй хөгжүүлэгчдэд ажлаа хурдасгах, агентынхаа чадамжийг сайжруулахад маш хэрэгтэй нээлттэй эх сурвалж юм.",
+   "published": "2026-10-15T16:03:29Z",
+   "added": "2026-10-15T16:03:29Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
  }
 ]

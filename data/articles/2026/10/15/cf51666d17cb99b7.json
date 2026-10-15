@@ -1,0 +1,17 @@
+{
+ "id": "cf51666d17cb99b7",
+ "subtopic": "motion",
+ "source": "Motion Blog",
+ "source_label": "Motion Blog",
+ "url": "https://motion.dev/magazine/introducing-motion-ui-gallery",
+ "image": "https://images.motion.dev/og/fresh/v1/site/magazine-introducing-motion-ui-gallery-3t474q1hegbja.png",
+ "title": "Introducing Motion UI Gallery",
+ "summary_en": "When I was but a lad, \"lightbox\" plugins were the impressive new thing to slap on your fansite. These days, the best ones are all bespoke Awwwards fodder. Hand-tuned to do one thing beautifully, then thrown away for the next site. Today, we're launching Gallery, a new Motion UI component for React (with Vue on the way!) It's a new component for building award-winning image and video galleries that work in both 2D and 3D, where every arrangement, gesture and detail view transitions smoothly into the next. Read the full article on Motion",
+ "title_mn": "Motion UI Gallery component-ийг React болон Vue-д зориулан танилцууллаа",
+ "summary_mn": "Motion баг Gallery хэмээх шинэ UI компонент гаргаснаа зарлалаа. Энэ нь WebGL ашиглалгүйгээр DOM болон CSS transform дээр 2D, 3D зураг, видео gallery хийх боломж өгдөг.",
+ "body_mn": "Motion баг вэб сайтуудад зориулсан Gallery хэмээх шинэ UI компонентоо албан ёсоор танилцууллаа. Энэхүү хэрэгсэл нь React болон удахгүй гарах Vue фреймворкт зориулагдсан бөгөөд шагнал хүртэхүйц түвшний зургийн болон видеон gallery бүтээх боломж олгодог.\n\nИхэнх gallery сангууд зөвхөн нэг л зүйлийг сайн хийдэг бол Motion UI Gallery нь list, grid, barrel, coverflow, helix, ring, sphere болон stack зэрэг 8 төрлийн зохион байгуулалтыг багтаасан байна. Бүх хөдөлгөөн болон 3D эргэлтүүд нь canvas эсвэл WebGL ашиглалгүйгээр бүрэн DOM болон CSS transform ашиглан дүрслэгддэг нь хүртээмж болон гүйцэтгэлд сайнаар нөлөөлдөг.\n\nХөгжүүлэгчид defineGalleryArrangement функц ашиглан өөрсдийн хүссэн зохион байгуулалтыг зохиох боломжтой. Мөн тоон утга бүр motion value дэмждэг тул камерын хазайлтыг шууд хөдөлгөөнд оруулах боломжтой бөгөөд дахин render хийх шаардлагагүй байдаг.",
+ "published": "2026-10-14T00:00:00Z",
+ "added": "2026-10-15T16:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "379642deb53f3714",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+ "image": "https://opengraph.githubassets.com/4f8fdadedc3e429c330419df758d47d83b7975fb10530bd25bf4d83f6f14c2ec/ChromeDevTools/chrome-devtools-mcp",
+ "title": "ChromeDevTools/chrome-devtools-mcp",
+ "summary_en": "Chrome DevTools for coding agents https://developer.chrome.com/docs/devtools/agents Chrome DevTools for agents Chrome DevTools for agents ( chrome-devtools-mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. A CLI is also provided for use without MCP. Tool reference | Changelog | Contributing | Troubleshooting | Design Principles…",
+ "title_mn": "ChromeDevTools/chrome-devtools-mcp: AI агентуудад зориулсан Chrome DevTools сервер",
+ "summary_mn": "ChromeDevTools/chrome-devtools-mcp нь Claude, Cursor болон Copilot зэрэг AI код бичих агентуудад шууд ажиллаж буй Chrome хөтчийг хянах, шалгах боломжийг олгодог Model-Context-Protocol (MCP) сервер юм.",
+ "body_mn": "ChromeDevTools/chrome-devtools-mcp төсөл нь AI туслахуудад Chrome DevTools-ийн бүрэн боломжийг ашиглан автоматжуулалт хийх, гүнзгийрүүлэн дибаг хийх, гүйцэтгэлийн шинжилгээ явуулах боломжийг олгодог чухал хэрэгсэл юм.\n\nЭнэхүү MCP сервер нь хөтчийн жишээний контентыг MCP үйлчлүүлэгчдэд ил болгож, ямар ч өгөгдлийг шалгах, өөрчлөх боломжийг бүрдүүлдэг. Мөн ямар нэгэн MCP сервер ашиглахгүйгээр шууд ашиглахад зориулсан CLI буюу команд мөрийн хэрэгслийг давхар хангаж өгсөн байна.\n\nАргачлалын хувьд зөвхөн Google Chrome болон Chrome for Testing хувилбаруудыг албан ёсоор дэмждэг бөгөөд хөгжүүлэгчдэд зориулсан `--slim`, `--headless` зэрэг тохиргооны параметрүүдтэй. Гүйцэтгэлийн хэрэгслүүд нь хэрэглэгчийн бодит туршлагын өгөгдлийг татахын тулд CrUX API рүү хандах боломжтой бөгөөд хүсвэл үүнийг тохиргоогоор унтрааж болдог.\n\nЭнэхүү сан нь хөгжүүлэгчдэд AI агентаараа дамжуулан вэб аппликейшнийг автомат тестлэх, алдааг олж засварлахад үнэ цэнэтэй нэмэлт болж байна.",
+ "published": "2026-10-15T16:03:29Z",
+ "added": "2026-10-15T16:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

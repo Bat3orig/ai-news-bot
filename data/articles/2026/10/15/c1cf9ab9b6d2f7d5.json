@@ -1,0 +1,17 @@
+{
+ "id": "c1cf9ab9b6d2f7d5",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/evaluating-ai-agents-banner-1600x.2e16d0ba.fill-1200x600.png",
+ "title": "Evaluating AI agents: moving past the vibe check",
+ "summary_en": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
+ "title_mn": "Google хиймэл оюуны агентуудыг үнэлэх шинэ аргачлалыг танилцуулав",
+ "summary_mn": "Google компани хиймэл оюуны агентуудынхаа ажлыг бодитойгоор шалгах, үнэлэх алхмуудын талаар дэлгэрэнгүй зөвлөмж нийтэллээ. Энгийн туршилтаас илүүтэйгээр хэрэглэгчийн бодит хэрэгцээнд суурилсан үнэлгээний системийг хөгжүүлэхийг зөвлөж байна.",
+ "body_mn": "Google Developers блогт хиймэл оюуны агентуудыг бодитоор үнэлэх аргачлалын тухай нийтлэл гарлаа. Хиймэл оюуны агент даалгавраа алдах, токен үрэх эсвэл хариултаа хийсвэрлэх тохиолдол олон гардаг бөгөөд энгийн нүдээр харах төдий шалгалт үүнийг олж харж чаддаггүй байна.\n\nНийтлэлд агентыг хөгжүүлэх явцад давтагдах боломжтой үнэлгээний системийг эхнээс нь суулгах хэрэгтэйг онцолжээ. Ингэхдээ хийсвэр шалгуур үзүүлэлтээс илүүтэйгээр хэрэглэгчийн бодит хэрэгцээ болон чухал хэрэглэгчийн замналд (CUJ) тулгуурлах нь зүйтэй аж. Жишээ нь агент хүссэн гүйлгээний ID-г зөв олсон эсэх, тайлан шалгасан эсэх зэрэг тодорхой шалгууруудыг тавих хэрэгтэй.\n\nМөн хөгжүүлэгчид үйлдвэрлэлийн орчинд гарахаас өмнө олон янзын алдаатай, үсгийн алдаатай асуултууд асуудаг хэрэглэгчдийг дуурайлган турших замаар агентдаа шалгалт хийх боломжтойг дурджээ. Энэ нь агентынхаа гүйцэтгэлийг сайжруулахад чухал үүрэгтэй юм.",
+ "published": "2026-10-15T16:03:29Z",
+ "added": "2026-10-15T16:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

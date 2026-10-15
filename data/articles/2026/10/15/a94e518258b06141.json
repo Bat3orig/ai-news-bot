@@ -1,0 +1,17 @@
+{
+ "id": "a94e518258b06141",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/1_1.2e16d0ba.fill-1200x600.png",
+ "title": "Three layers, one repo: a tour of google/adk-recipes",
+ "summary_en": "The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such as retail product search and virtual try-on) directly into their coding assistants, and deploy production-ready services across multiple languages. This cohesive structure streamlines the entire workflow from initial scaffolding to full deployment on Google Cloud infrastructure.",
+ "title_mn": "Google Cloud агентын хөгжүүлэлтэд зориулсан adk-recipes санг нээв",
+ "summary_mn": "Google компани агентын хөгжүүлэлтийг хялбарчлах зорилгоор google/adk-recipes нэртэй шинэчилсэн репозиторийг танилцууллаа. Энэхүү төсөл нь үндсэн загвар, залгаас болон төрөл бүрийн үйлчилгээг нэг доос ашиглах боломжийг олгодог.",
+ "body_mn": "Google Cloud дээр хиймэл оюуны агент хөгжүүлж буй хөгжүүлэгчдэд зориулж google/adk-recipes нэртэй шинэчилсэн репозиторийг танилцууллаа. Өмнөх adk-samples төслийн залгамж болох энэхүү сан нь агентын платформын бүх хэрэгцээг нэг эх үүсвэрээс хангах зорилготой юм.\n\nyt сан нь core/, plugins/, contrib/ гэсэн үндсэн гурван хэсгээс бүрддэг. Core хэсэгт Agents CLI болон DevRel багийн санал болгодог суурь загварууд багтсан бол plugins/ хэсэгт суулгаж болох залгаасууд, contrib/ хэсэгт таван өөр хэл дээр ажиллах боломжтой үйлчилгээнүүд байрладаг.\n\nРепозиторийн бүх хэсэг нь хиймэл оюуны код бичих туслахуудад зориулагдсан баримт бичиг, манифестуудтай бүтээгдсэн байна. Хөгжүүлэгчид Agents CLI ашиглан шаардлагатай загваруудыг терминалаасаа шууд татаж суулгах болон клоуд орчинд байрлуулах бүрэн боломжтой аж.",
+ "published": "2026-10-15T16:03:29Z",
+ "added": "2026-10-15T16:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

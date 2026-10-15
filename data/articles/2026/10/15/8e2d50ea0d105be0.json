@@ -1,0 +1,17 @@
+{
+ "id": "8e2d50ea0d105be0",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc1",
+ "image": "https://opengraph.githubassets.com/fda35efb18eb6d32e3b369bdbf93132ff478ceb82dc5c22197b2a31388768f58/ollama/ollama/releases/tag/v0.40.5-rc1",
+ "title": "ollama v0.40.5",
+ "summary_en": "What's Changed mlx: port the Metal custom kernels to CUDA by @dhiltgen in #18657 docs: model recs and language standardization by @anra8571 in #18981 openai: accept custom tool calls in Responses history by @hoyyeva in #18911 app: clarify cloud payment errors by @willietran in #18986 MLX: version bump by @dhiltgen in #18993 New Contributors @willietran made their first contribution in #18986 Full Changelog : v0.40.4...v0.40.5-rc0",
+ "title_mn": "Ollama v0.40.5 шинэ хувилбар гарлаа",
+ "summary_mn": "Ollama хэрэгслийн v0.40.5 шинэ хувилбар гарч, Metal цөмүүдийг CUDA рүү шилжүүлэх зэрэг сайжруулалтуудыг хийлээ.",
+ "body_mn": "Орон нутгийн хиймэл оюуны загваруудыг ажиллуулахад зориулагдсан Ollama хэрэгслийн v0.40.5 шинэ хувилбар цацагдлаа. Энэхүү хувилбарт голчлон гүйцэтгэлийг сайжруулах болон алдааг засах засварууд багтсан байна.\n\nТухайлбал, MLX хэсэг дэх Metal custom цөмүүдийг CUDA рүү шилжүүлсэн нь GPU ашиглалтын үр ашгийг дээшлүүлжээ. Мөн OpenAI нийцтэй байдлын хүрээнд захиалгат хэрэгслийн дуудлагыг Responses түүхэнд хүлээн авдаг болсон байна.\n\nҮүнээс гадна үүлэн төлбөртэй холбоотой алдааны мэдэгдлүүдийг илүү ойлгомжтой болгож, баримт бичгүүдийг шинэчилжээ. Хөгжүүлэгчид шинэ хувилбарыг GitHub дахь албан ёсны репозитороос татан авч ашиглах боломжтой.",
+ "published": "2026-10-15T15:07:44Z",
+ "added": "2026-10-15T16:03:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
