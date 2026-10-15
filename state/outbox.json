@@ -898,5 +898,45 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0bd2004fd0c4ddf0",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png",
+   "title": "Muse Spark Open now available on AI Gateway",
+   "summary_en": "Muse Spark Open from Meta is now available on AI Gateway. The open-weight reasoning model is designed for coding and agentic workflows, including multi-file refactoring, debugging, and understanding large codebases. Muse Spark Open supports text and image input with a 1M-token context window, allowing agents to work with code and screenshots in the same request. It is available with ZDR and no training, without creating separate provider accounts. Use meta/muse-spark-open as the model name across all API formats and coding agents. The model is available across the AI SDK , the…",
+   "title_mn": "Meta-ийн Muse Spark Open загвар Vercel AI Gateway дээр гарлаа",
+   "summary_mn": "Vercel компани Meta-ийн Muse Spark Open open-weight загварыг AI Gateway платформдоо нэмлээ. Тус загвар нь 1 сая токений контекст цонхтой бөгөөд кодчилол, агент workflow-д зориулагджээ.",
+   "body_mn": "Vercel өөрийн AI Gateway үйлчилгээндээ Meta компанийн гаргасан Muse Spark Open нээлттэй жинтэй (open-weight) загварыг албан ёсоор нэмснээ зарлалаа. Тус загвар нь олон файл дээр зэрэг refactoring хийх, кодын алдаа илрүүлэн дибаг хийх, том хэмжээний кодын санг шинжлэх зэрэг агент workflow болон кодчилолын нарийн даалгавруудад зориулагдан гарсан байна.\n\nMuse Spark Open нь текст болон зургийн оролтыг зэрэг хүлээн авдаг ба 1 сая токений контекст цонхтой тул хиймэл оюуны агентууд нэг хүсэлтээр эх код болон дэлгэцийн зургийг зэрэг боловсруулах бүрэн боломжтой. Мөн тусдаа провайдерын бүртгэл үүсгэх шаардлагагүй бөгөөд Zero Data Retention (ZDR) нөхцөлтэй тул өгөгдлийг сургалтад ашиглахгүйгээр найдвартай ажиллах боломжийг бүрдүүлжээ.\n\nХөгжүүлэгчид уг загварыг AI SDK болон OpenAI, Anthropic-тэй нийцтэй API-уудаар дамжуулан meta/muse-spark-open нэрээр шууд дуудах боломжтой. Түүнчлэн Vercel CLI-ийг шинэчилснээр Claude Code, Codex, Cursor зэрэг агент хэрэгслүүдэд холбон ашиглах боломж бүрдэж байна.",
+   "published": "2026-10-15T00:00:00Z",
+   "added": "2026-10-15T22:52:52Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1bf1c0d676e846bd",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1BSi0cEKrRxN45GULUVQv3/21d346140aa8cfe1a5a6d0b50cbfbd58/oct-og-blog-bubbles_2x.png",
+   "title": "Open weight takes 71.5% of tokens and 23% of spend",
+   "summary_en": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August , and September . October 2026 summary Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their share of spend has more than quadrupled since June. September’s gateway spend was about 13 times December’s, while the…",
+   "title_mn": "Vercel: Нээлттэй загварууд AI Gateway-ийн токений 71.5 хувийг эзэлж байна",
+   "summary_mn": "Vercel-ийн 2026 оны 10-р сарын тайлангаар нээлттэй жинтэй загварууд нийт токений 71.5 хувь, зардлын 23 хувийг эзэлж, үйлдвэрлэлийн орчинд хэрэглээ нь эрчимтэй өсжээ.",
+   "body_mn": "Vercel компани AI Gateway үйлчилгээнийхээ 2026 оны 10-р сарын хэрэглээний тайланг (Production Index) танилцууллаа. Тайлангаас харахад нээлттэй жинтэй (open-weight) загварууд нийт боловсруулагдсан токений 71.5 хувийг эзэлж, нийт зардлын 23 хувийг бүрдүүлэх болсон байна. Өнгөрсөн зургадугаар сараас хойш нээлттэй загваруудын зардалд эзлэх хувь дөрөв дахин өсжээ.\n\nХямд өртөгтэй загварууд токений өсөлтийг тэргүүлж байгаа бол илүү үнэтэй, хүчин чадал сайтай open-weight загварууд зардлын өсөлтийг бий болгож байна. Тухайлбал, DeepSeek-v4.1-Flash дангаараа есдүгээр сарын нийт токений бараг тал хувийг боловсруулсан боловч зардлын дөнгөж 2.6 хувийг эзэлсэн бол Kimi K3 зэрэг илүү өндөр үнэтэй загварууд зардлын өсөлтийн гуравны хоёрыг бүрдүүлсэн байна.\n\nТайланд дурдсанаар есдүгээр сард хөгжүүлэгч багуудын бараг 50 хувь нь хамгийн их ашигладаг загвараа сольсон бол гуравны нэг нь үйлчилгээ үзүүлэгч лабаа өөрчилжээ. Энэ нь байгууллагууд нэг загвараас хараат бус болж, олон төрлийн загварыг уян хатан хослуулан ашиглах хандлагатай болсныг харуулж байна.",
+   "published": "2026-10-15T07:00:00Z",
+   "added": "2026-10-15T22:52:52Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
  }
 ]

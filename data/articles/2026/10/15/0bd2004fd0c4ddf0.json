@@ -1,0 +1,17 @@
+{
+ "id": "0bd2004fd0c4ddf0",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png",
+ "title": "Muse Spark Open now available on AI Gateway",
+ "summary_en": "Muse Spark Open from Meta is now available on AI Gateway. The open-weight reasoning model is designed for coding and agentic workflows, including multi-file refactoring, debugging, and understanding large codebases. Muse Spark Open supports text and image input with a 1M-token context window, allowing agents to work with code and screenshots in the same request. It is available with ZDR and no training, without creating separate provider accounts. Use meta/muse-spark-open as the model name across all API formats and coding agents. The model is available across the AI SDK , the…",
+ "title_mn": "Meta-ийн Muse Spark Open загвар Vercel AI Gateway дээр гарлаа",
+ "summary_mn": "Vercel компани Meta-ийн Muse Spark Open open-weight загварыг AI Gateway платформдоо нэмлээ. Тус загвар нь 1 сая токений контекст цонхтой бөгөөд кодчилол, агент workflow-д зориулагджээ.",
+ "body_mn": "Vercel өөрийн AI Gateway үйлчилгээндээ Meta компанийн гаргасан Muse Spark Open нээлттэй жинтэй (open-weight) загварыг албан ёсоор нэмснээ зарлалаа. Тус загвар нь олон файл дээр зэрэг refactoring хийх, кодын алдаа илрүүлэн дибаг хийх, том хэмжээний кодын санг шинжлэх зэрэг агент workflow болон кодчилолын нарийн даалгавруудад зориулагдан гарсан байна.\n\nMuse Spark Open нь текст болон зургийн оролтыг зэрэг хүлээн авдаг ба 1 сая токений контекст цонхтой тул хиймэл оюуны агентууд нэг хүсэлтээр эх код болон дэлгэцийн зургийг зэрэг боловсруулах бүрэн боломжтой. Мөн тусдаа провайдерын бүртгэл үүсгэх шаардлагагүй бөгөөд Zero Data Retention (ZDR) нөхцөлтэй тул өгөгдлийг сургалтад ашиглахгүйгээр найдвартай ажиллах боломжийг бүрдүүлжээ.\n\nХөгжүүлэгчид уг загварыг AI SDK болон OpenAI, Anthropic-тэй нийцтэй API-уудаар дамжуулан meta/muse-spark-open нэрээр шууд дуудах боломжтой. Түүнчлэн Vercel CLI-ийг шинэчилснээр Claude Code, Codex, Cursor зэрэг агент хэрэгслүүдэд холбон ашиглах боломж бүрдэж байна.",
+ "published": "2026-10-15T00:00:00Z",
+ "added": "2026-10-15T22:52:52Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
