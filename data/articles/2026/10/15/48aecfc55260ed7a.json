@@ -1,0 +1,17 @@
+{
+ "id": "48aecfc55260ed7a",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
+ "image": "https://vercel.com/api/dynamic-og?title=Python%20on%20Vercel%20is%20now%20generally%20available&format=changelog",
+ "title": "Python on Vercel is now generally available",
+ "summary_en": "Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the infrastructure so you can focus on your application: Automatic framework support: FastAPI, Flask, and Django applications are automatically recognized and configured, with framework-specific support for serving static assets through the Vercel CDN. Native Python runtime and tooling: Vercel runs CPython on…",
+ "title_mn": "Vercel дээрх Python орчин албан ёсоор бүрэн бэлэн боллоо",
+ "summary_mn": "Vercel тавцан дээр Python хэл албан ёсны анхдагч түвшний runtime болж, ерөнхий хэрэглээнд (GA) гарлаа. FastAPI, Flask, Django хүрээнүүдийг автоматаар таньж ажиллуулахаас гадна олон шинэ Python SDK дагалдаж байна.",
+ "body_mn": "Vercel платформ дээр Python хэлийг бүрэн дэмжсэн runtime ерөнхий хэрэглээнд (Generally Available) шилжлээ. Хөгжүүлэгчид одоо Python backend болон JavaScript frontend хосолсон бүтэн стек систем, API, хиймэл оюуны агентуудыг нэгдсэн хөгжүүлэлт болон байршуулалтын орчинд хялбар бүтээх боломжтой болж байна.\n\nСистем нь FastAPI, Flask, Django зэрэг түгээмэл хүрээнүүдийг автоматаар таньж тохируулан, статик файлуудыг Vercel CDN сүлжээгээр шууд түгээдэг. Дотооддоо Linux дээрх CPython орчин ажиллах бөгөөд сангуудын хамаарлыг удирдахдаа uv болон pyproject.toml хэрэгслийг дэмждэг. Түүнчлэн хүсэлтэд суурилсан өргөтгөлийг Fluid compute-ээр, урт хугацаанд үргэлжлэх ажлуудыг Vercel Daemons-оор гүйцэтгэх бүтэцтэй болжээ.\n\nҮүнээс гадна Python-д зориулсан төрөлхийн олон шинэ SDK гарсан байна. Үүнд AI SDK for Python (Beta), удаан үргэлжлэх ажлыг хянах Workflow SDK, арын процессуудад зориулсан Queues, Sandbox, Connect, Blob сангууд багтаж байна. Vercel Services-ийн тусламжтайгаар frontend болон FastAPI зэрэг backend-ийг нэг репозитороос нэгэн зэрэг байршуулж турших боломжтой.",
+ "published": "2026-10-15T00:00:00Z",
+ "added": "2026-10-15T19:56:58Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

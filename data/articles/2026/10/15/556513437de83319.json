@@ -1,0 +1,17 @@
+{
+ "id": "556513437de83319",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7d24YNYo2l2J7stiK3KlNW/d8074dec98736975d0824c1d8636175c/BYOC_OG_4.png",
+ "title": "Bring Your Own Cloud on AWS is now generally available",
+ "summary_en": "Enterprise teams can now run Vercel Functions in their own AWS account with Bring Your Own Cloud (BYOC). With BYOC, your function code and execution stay inside your security and compliance boundary. Vercel continues to handle deployments, environments, routing, and static assets. During deployment, you provision functions in your AWS account and Vercel serves everything else. You keep control over function execution with your own IAM permissions, network access, and resource lifecycle policies. With BYOC, you can: Run Node.js and Python Vercel Functions in your AWS account Meet strict…",
+ "title_mn": "Bring Your Own Cloud on AWS үйлчилгээг албан ёсоор нээлээ",
+ "summary_mn": "Vercel Enterprise хэрэглэгчид өөрсдийн AWS дансанд Vercel Functions ажиллуулах Bring Your Own Cloud (BYOC) үйлчилгээг ашиглах боломжтой боллоо.",
+ "body_mn": "Vercel компани байгууллагын хэрэглэгчдэд зориулсан Bring Your Own Cloud (BYOC) үйлчилгээг AWS дээр албан ёсоор гаргалаа. Энэхүү боломжийн тусламжтайгаар хөгжүүлэгчид Vercel Functions кодыг өөрсдийн AWS данс дотор ажиллуулж, аюулгүй байдал болон стандартын шаардлагыг бүрэн хянах боломжтой болж байна.\n\nDeployment болон сүлжээний чиглүүлэлтийг Vercel хариуцах хэвээр үлдэх боловч функцийн гүйцэтгэл, IAM эрх болон resource lifecycle бодлогыг байгууллага өөрөө удирдах юм. Энэ нь Node.js болон Python функцийг VPC доторх дотоод системүүдтэйгээ хувийн байдлаар холбох өндөр ач холбогдолтой шийдэл юм.",
+ "published": "2026-10-15T00:00:00Z",
+ "added": "2026-10-15T19:56:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

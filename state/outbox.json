@@ -738,5 +738,165 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9aa8891b0c740ec8",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-connect-secure-compute",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/34yqLUjwa5AGrMtAplMCN1/8ab2dc32a6b50e4645609776d21d5f0a/connect_secure_compute__OG_.png",
+   "title": "Vercel Connect now supports Secure Compute",
+   "summary_en": "Vercel Connect now supports Secure Compute , allowing connectors to reach providers with IP allowlists, such as Salesforce and Snowflake. With Secure Compute routing enabled, Connect’s provider requests use the selected network’s dedicated static IP addresses instead of Connect’s shared IPs. Requests to obtain and refresh access tokens follow that route; your app’s direct API routing is unchanged by this setting. Credential management stays the same, so you don’t need to store long-lived provider secrets in your app or build OAuth flows yourself. To enable Secure Compute routing for a…",
+   "title_mn": "Vercel Connect нь Secure Compute үйлчилгээг дэмждэг боллоо",
+   "summary_mn": "Vercel Connect нь Secure Compute сүлжээг дэмжиж эхэлснээр хөгжүүлэгчид Salesforce, Snowflake зэрэг үйлчилгээ рүү статикт IP хаягаар холбогдох боломжтой боллоо.",
+   "body_mn": "Vercel компани өөрийн Connect үйлчилгээндээ Secure Compute функц нэмэгдсэнийг зарлалаа. Ингэснээр хөгжүүлэгчид Salesforce болон Snowflake зэрэг гаفад үйлчилгээ үзүүлэгч рүү хандахдаа хуваалцсан IP хаягийн оронд сонгосон сүлжээнийхээ зориулалтын статик IP хаягуудыг ашиглах боломжтой болж байна.\n\nЭнэхүү шинэчлэлт нь серверless аппликейшнүүдийн аюулгүй байдлыг сайжруулж, IP зөвшөөрлийн жагсаалт (allowlist) ашигладаг байгууллагын системүүдтэй хялбар холбогдох нөхцлийг бүрдүүлж байна. Хөгжүүлэгчид апп дотроо долгон хугацааны нууц үг хадгалахгүйгээр аюулгүй байдлын өндөр шаардлага хангасан интеграцчилал хийх боломжтой боллоо.",
+   "published": "2026-10-15T00:00:00Z",
+   "added": "2026-10-15T19:56:58Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7a9c01be6c6c1119",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6Y4H5UA4xuPIuTv48nb323/824e9973377b803537899720e29fd8dc/image__119_.png",
+   "title": "Cat Jam is now available in stealth for free on AI Gateway",
+   "summary_en": "Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a JSON schema you supply. Responses include the model's reasoning text alongside the answer. Cat Jam takes text input only. Cat Jam supports low , medium , high , xhigh , and max reasoning efforts. Zero Data Retention (ZDR) is not available for this model. Prompts may be retained for safety reasons…",
+   "title_mn": "Cat Jam нэртэй шинэ модель Vercel AI Gateway дээр нээгдлээ",
+   "summary_mn": "Vercel AI Gateway дээр кодын болон агентлаг даалгаварт зориулсан Cat Jam нэртэй шинэ модель туршилтын журмаар үнэ төлбөргүй гарлаа.",
+   "body_mn": "Vercel платформ өөрийн AI Gateway дээр Cat Jam хэмээх шинэ reasoning моделийг нэмжээ. Энэхүү модель нь кодын бичиг хэрэг болон агентын даалгаваруудыг гүйцэтгэхэд зориулагдсан ба бага сааталтайгаар ажилладаг.\n\nCat Jam нь function calling болон JSON schema дэмждэг бөгөөд модель хариу өгөхдөө өөрийн логик бодолтыг хамт буцаадаг онцлогтой. Хөгжүүлэгчид AI SDK болон OpenAI/Anthropic API-уудаар дамжуулан уг моделийг Claude Code, Cursor зэрэг хэрэгслүүдэд холбож ашиглах боломжтой байна.",
+   "published": "2026-10-15T00:00:00Z",
+   "added": "2026-10-15T19:56:58Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d21c2d0ed6cf348d",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5kLUBBJRQh259PerQhBTGL/81f52679a86a6a214d550a096c1533ac/Vercel_Drives_OG_6__1_.jpg",
+   "title": "Vercel Drives is now generally available",
+   "summary_en": "Vercel Drives is now generally available for Vercel Sandbox on Hobby, Pro, and Enterprise. A Drive is persistent storage that you mount as a directory in a Vercel Sandbox. Its files remain available after the sandbox stops, so later runs and other sandboxes can access them by mounting the same Drive. Use Drives to preserve an agent’s workspace or file-based memory across runs, or to make datasets, models, dependencies, and build artifacts available across sandboxes. You can also fork a Drive into independent writable Drives. Forks inherit the source Drive's data, region, and maximum size…",
+   "title_mn": "Vercel Drives албан ёсоор ашиглалтад орлоо",
+   "summary_mn": "Vercel Sandbox орчинд зориулсан Vercel Drives байнгын хадгалах сан бүх хэрэглэгчдэд нээлттэй боллоо.",
+   "body_mn": "Vercel Sandbox-т зориулсан Vercel Drives үйлчилгээ албан ёсоор нээгдлээ. Энэ нь хөгжүүлэгчдэд AI агентын ажлын талбар эсвэл файлаар суурилсан санах ойг хадгалах байнгын диск холбох боломжийг олгож байна.\n\nҮүний тусламжтайгаар агентын ажилласан workspace болон өгөгдөл сангууд зогссоны дараа ч хадгалагдах бөгөөд дараагийн ажиллуулалтад ашиглагдах боломжтой. Мөн Drives-ийг бие даасан хувилбар болгон салаалуулах (fork) боломжтой тул зэрэгцээ ажиллах процессуудыг үр дүнтэй удирдах боломж бүрджээ.",
+   "published": "2026-10-15T00:00:00Z",
+   "added": "2026-10-15T19:56:58Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "556513437de83319",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7d24YNYo2l2J7stiK3KlNW/d8074dec98736975d0824c1d8636175c/BYOC_OG_4.png",
+   "title": "Bring Your Own Cloud on AWS is now generally available",
+   "summary_en": "Enterprise teams can now run Vercel Functions in their own AWS account with Bring Your Own Cloud (BYOC). With BYOC, your function code and execution stay inside your security and compliance boundary. Vercel continues to handle deployments, environments, routing, and static assets. During deployment, you provision functions in your AWS account and Vercel serves everything else. You keep control over function execution with your own IAM permissions, network access, and resource lifecycle policies. With BYOC, you can: Run Node.js and Python Vercel Functions in your AWS account Meet strict…",
+   "title_mn": "Bring Your Own Cloud on AWS үйлчилгээг албан ёсоор нээлээ",
+   "summary_mn": "Vercel Enterprise хэрэглэгчид өөрсдийн AWS дансанд Vercel Functions ажиллуулах Bring Your Own Cloud (BYOC) үйлчилгээг ашиглах боломжтой боллоо.",
+   "body_mn": "Vercel компани байгууллагын хэрэглэгчдэд зориулсан Bring Your Own Cloud (BYOC) үйлчилгээг AWS дээр албан ёсоор гаргалаа. Энэхүү боломжийн тусламжтайгаар хөгжүүлэгчид Vercel Functions кодыг өөрсдийн AWS данс дотор ажиллуулж, аюулгүй байдал болон стандартын шаардлагыг бүрэн хянах боломжтой болж байна.\n\nDeployment болон сүлжээний чиглүүлэлтийг Vercel хариуцах хэвээр үлдэх боловч функцийн гүйцэтгэл, IAM эрх болон resource lifecycle бодлогыг байгууллага өөрөө удирдах юм. Энэ нь Node.js болон Python функцийг VPC доторх дотоод системүүдтэйгээ хувийн байдлаар холбох өндөр ач холбогдолтой шийдэл юм.",
+   "published": "2026-10-15T00:00:00Z",
+   "added": "2026-10-15T19:56:58Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5e912850214f6deb",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
+   "image": "https://vercel.com/api/dynamic-og?title=Vercel%20Connect%20adds%20Enterprise-Managed%20Authorization&format=changelog",
+   "title": "Vercel Connect adds Enterprise-Managed Authorization",
+   "summary_en": "Vercel Connect now supports Enterprise-Managed Authorization (EMA) in public beta. Your apps and agents can access supported services on behalf of signed-in users without separate consent prompts for each service. Here's how access works: Admin-managed access: Administrators can grant or revoke access to supported services through the identity provider. Corporate sign-in: Users sign into your app with their corporate account through a compatible identity provider such as Okta . Scoped tokens: Your app requests the scopes it needs, and Connect handles token exchange, caching, and renewal…",
+   "title_mn": "Vercel Connect байгууллагын удирдлагатай эрхийн тохиргоог нэвтрүүллээ",
+   "summary_mn": "Vercel Connect систем Enterprise-Managed Authorization боломжийг нийтийн туршилтын хувилбараар гаргалаа. Хэрэглэгчид үйлчилгээ бүрд тусгайлан зөвшөөрөл өгөх шаардлагагүй болж, админууд нэгдсэн байдлаар эрх зохицуулна.",
+   "body_mn": "Vercel Connect систем Enterprise-Managed Authorization буюу EMA боломжийг нийтийн туршилтын горимоор (public beta) танилцууллаа. Энэхүү шинэчлэл нь байгууллагын аппликейшн болон хиймэл оюуны агентуудад нэвтэрсэн хэрэглэгчийн нэрийн өмнөөс гуравдагч үйлчилгээнүүдэд шууд хандах боломжийг олгож байгаа бөгөөд үйлчилгээ тус бүр дээр тусдаа зөвшөөрлийн цонх гаргах шаардлагагүй болжээ.\n\nСистемийн админууд Okta зэрэг нийцтэй таних тэмдэгтийн нийлүүлэгчээр (IdP) дамжуулан үйлчилгээний хандалтын эрхийг төвлөрсөн байдлаар олгох эсвэл цуцлах боломжтой. Хэрэглэгч корпорацын бүртгэлээрээ нэг л удаа нэвтрэхэд Connect нь токен солилцоо, кэшлэлт болон хугацаа сунгалтыг автоматаар хариуцах юм. Хандалт нь зөвхөн батлагдсан хамрах хүрээ (scope) болон хэрэглэгчийн одоогийн эрхээр хязгаарлагдана.\n\nТүүнчлэн энэхүү шинэ боломж нь Vercel Passport болон Cross-App Access (XAA)-ийг бүрэн дэмждэг. Үүний үр дүнд Model Context Protocol (MCP) серверийн токен хүсэх, тухайлбал нэвтэрсэн хэрэглэгчийн нэрээр Slack-ийн MCP сервертэй харьцах агентууд бүтээхэд authorization хийх үйл явц ихээхэн хялбар болж байна.",
+   "published": "2026-10-15T00:00:00Z",
+   "added": "2026-10-15T19:56:58Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b068768f7d654d48",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5Gkwe5QduUSkyqvMo1c2oX/cc3f1754799d0f7f6e3f5e9b17b91b29/vercel-connect-now-supports-mcp-event-subscriptions.png",
+   "title": "MCP Events support in Vercel Connect is now in public beta",
+   "summary_en": "Vercel Connect now supports MCP Events in public beta, allowing your apps and agents to subscribe to webhook events from compatible MCP servers. Build agents for tasks like summarizing new messages, reviewing newly created issues, or responding to document feedback. Connect creates subscriptions on the MCP server and renews them automatically as needed, verifying the server’s webhooks and forwarding events to your application using authenticated delivery. You can use the Connect SDK to subscribe to MCP events: type: embedded-entry-inline id: 4OcwkT5TX5v1h28r0qLS1C At your delivery endpoint…",
+   "title_mn": "Vercel Connect-д MCP Events дэмжлэг нийтийн туршилтаар орлоо",
+   "summary_mn": "Vercel Connect одоо MCP серверүүдээс ирэх webhook эвентүүдийг хүлээн авах MCP Events функцийг дэмжиж эхэллээ. Ингэснээр хөгжүүлэгчид эвентэд суурилсан бие даасан хиймэл оюуны агентууд хөгжүүлэх боломжтой болж байна.",
+   "body_mn": "Vercel компани Vercel Connect үйлчилгээндээ MCP Events боломжийг нийтийн туршилтаар нэвтрүүлснээ зарлалаа. Энэхүү шийдэл нь хөгжүүлэгчдэд нийцтэй Model Context Protocol (MCP) серверүүдээс webhook эвентүүдийг шууд хүлээн авч, бие даасан хиймэл оюуны агентууд угсрах боломж олгож байна. Жишээлбэл, шинэ мессеж хураангуйлах, шинээр үүссэн issue-г шалгах зэрэг даалгавруудыг автоматжуулах боломжтой.\n\nConnect нь MCP сервер дээрх эвент захиалгыг (subscription) үүсгэж, шаардлагатай үед автоматаар сунган, баталгаажуулсан хүргэлтээр аппликейшн рүү найдвартай дамжуулдаг. Хөгжүүлэгчид Connect SDK ашиглан эвентэд бүртгүүлэхээс гадна Next.js чиглүүлэлт (route) дээр ирж буй хүсэлтийн найдвартай байдлыг баталгаажуулах код бичихэд тун хялбар болжээ.\n\nМөн AI SDK-ийн эвент илрүүлэх болон бүртгүүлэх API-уудыг агентын хэрэгсэл (tools) болгон ашиглах боломж бүрдэж байна. Connect-ийн MCP Events адаптерийн тусламжтайгаар агентууд серверийн эвентүүдийг өөрсдөө илрүүлж, шаардлагатай эвент захиалгаа удирдах чадвартай болж байна.",
+   "published": "2026-10-15T00:00:00Z",
+   "added": "2026-10-15T19:56:58Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "48aecfc55260ed7a",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
+   "image": "https://vercel.com/api/dynamic-og?title=Python%20on%20Vercel%20is%20now%20generally%20available&format=changelog",
+   "title": "Python on Vercel is now generally available",
+   "summary_en": "Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the infrastructure so you can focus on your application: Automatic framework support: FastAPI, Flask, and Django applications are automatically recognized and configured, with framework-specific support for serving static assets through the Vercel CDN. Native Python runtime and tooling: Vercel runs CPython on…",
+   "title_mn": "Vercel дээрх Python орчин албан ёсоор бүрэн бэлэн боллоо",
+   "summary_mn": "Vercel тавцан дээр Python хэл албан ёсны анхдагч түвшний runtime болж, ерөнхий хэрэглээнд (GA) гарлаа. FastAPI, Flask, Django хүрээнүүдийг автоматаар таньж ажиллуулахаас гадна олон шинэ Python SDK дагалдаж байна.",
+   "body_mn": "Vercel платформ дээр Python хэлийг бүрэн дэмжсэн runtime ерөнхий хэрэглээнд (Generally Available) шилжлээ. Хөгжүүлэгчид одоо Python backend болон JavaScript frontend хосолсон бүтэн стек систем, API, хиймэл оюуны агентуудыг нэгдсэн хөгжүүлэлт болон байршуулалтын орчинд хялбар бүтээх боломжтой болж байна.\n\nСистем нь FastAPI, Flask, Django зэрэг түгээмэл хүрээнүүдийг автоматаар таньж тохируулан, статик файлуудыг Vercel CDN сүлжээгээр шууд түгээдэг. Дотооддоо Linux дээрх CPython орчин ажиллах бөгөөд сангуудын хамаарлыг удирдахдаа uv болон pyproject.toml хэрэгслийг дэмждэг. Түүнчлэн хүсэлтэд суурилсан өргөтгөлийг Fluid compute-ээр, урт хугацаанд үргэлжлэх ажлуудыг Vercel Daemons-оор гүйцэтгэх бүтэцтэй болжээ.\n\nҮүнээс гадна Python-д зориулсан төрөлхийн олон шинэ SDK гарсан байна. Үүнд AI SDK for Python (Beta), удаан үргэлжлэх ажлыг хянах Workflow SDK, арын процессуудад зориулсан Queues, Sandbox, Connect, Blob сангууд багтаж байна. Vercel Services-ийн тусламжтайгаар frontend болон FastAPI зэрэг backend-ийг нэг репозитороос нэгэн зэрэг байршуулж турших боломжтой.",
+   "published": "2026-10-15T00:00:00Z",
+   "added": "2026-10-15T19:56:58Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "eec953e7d057543b",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/69YLGxKpc3pTIH8tHrLFgo/51d3f9dc460bf3e7b1c4fdd7a4d757f1/image__104_.png",
+   "title": "TypeSafe AI's Jev 1.14 is now available on AI Gateway",
+   "summary_en": "Jev 1.14 from TypeSafe AI is now available on AI Gateway . Jev is a decision model for software. You pass it state and a set of questions, and it returns typed Choice, Score, and Boolean answers with probabilities instead of free-form text. It answers every question in one request, in parallel, for classification, routing, scoring, and automated verification. Jev 1.14 accepts images as part of the state, and has an experimental long-context mode for documents, logs, or conversation histories that are too long for a standard request. Use typesafe-ai/jev-1.14.0 as the model name. Image input…",
+   "title_mn": "TypeSafe AI-ийн Jev 1.14 шийдвэр гаргах загвар AI Gateway-д нэмэгдлээ",
+   "summary_mn": "Програм хангамжийн шийдвэр гаргалтад зориулагдсан Jev 1.14 загвар Vercel AI Gateway дээр ашиглахад бэлэн боллоо. Загвар нь чөлөөт текстийн оронд тодорхой хэв шинжит хариу өгдөг ба зураг, урт контекстийг дэмждэг болжээ.",
+   "body_mn": "TypeSafe AI компаниас хөгжүүлсэн Jev 1.14 шийдвэр гаргах загвар Vercel AI Gateway дээр албан ёсоор гарлаа. Энэхүү загвар нь энгийн текст үүсгэхийн оронд хөгжүүлэгчийн илгээсэн төлөв байдал болон асуултуудад магадлал бүхий Choice, Score, Boolean утгуудыг нэг хүсэлтээр параллель байдлаар буцаадаг онцлогтой.\n\nШинэ 1.14 хувилбар нь төлөв байдлын нэг хэсэг болгон зураг хүлээн авах чадвартай болсноос гадна баримт бичиг, серверийн лог зэрэг урт хэмжээний өгөгдлийг шалгахад зориулагдсан туршилтын урт контекст (long-context) горимтой болжээ. Хөгжүүлэгчид уг загварыг typesafe-ai/jev-1.14.0 нэрээр шууд дуудан ашиглах боломжтой.\n\nJev нь Zero Data Retention болон No Training тохиргоог дэмждэг тул дата нууцлалыг чанд хангадаг. Мөн AI Gateway-ийн бусад хэрэгслүүдтэй бүрэн нийцэж, хийсэн дуудлагууд нь лог бүртгэл, тусгай тайланд тусгагдаж, зардлын төсөвт автоматаар тооцогдоно.",
+   "published": "2026-10-15T00:00:00Z",
+   "added": "2026-10-15T19:56:58Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
  }
 ]

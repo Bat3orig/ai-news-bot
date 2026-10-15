@@ -1,0 +1,17 @@
+{
+ "id": "b068768f7d654d48",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5Gkwe5QduUSkyqvMo1c2oX/cc3f1754799d0f7f6e3f5e9b17b91b29/vercel-connect-now-supports-mcp-event-subscriptions.png",
+ "title": "MCP Events support in Vercel Connect is now in public beta",
+ "summary_en": "Vercel Connect now supports MCP Events in public beta, allowing your apps and agents to subscribe to webhook events from compatible MCP servers. Build agents for tasks like summarizing new messages, reviewing newly created issues, or responding to document feedback. Connect creates subscriptions on the MCP server and renews them automatically as needed, verifying the server’s webhooks and forwarding events to your application using authenticated delivery. You can use the Connect SDK to subscribe to MCP events: type: embedded-entry-inline id: 4OcwkT5TX5v1h28r0qLS1C At your delivery endpoint…",
+ "title_mn": "Vercel Connect-д MCP Events дэмжлэг нийтийн туршилтаар орлоо",
+ "summary_mn": "Vercel Connect одоо MCP серверүүдээс ирэх webhook эвентүүдийг хүлээн авах MCP Events функцийг дэмжиж эхэллээ. Ингэснээр хөгжүүлэгчид эвентэд суурилсан бие даасан хиймэл оюуны агентууд хөгжүүлэх боломжтой болж байна.",
+ "body_mn": "Vercel компани Vercel Connect үйлчилгээндээ MCP Events боломжийг нийтийн туршилтаар нэвтрүүлснээ зарлалаа. Энэхүү шийдэл нь хөгжүүлэгчдэд нийцтэй Model Context Protocol (MCP) серверүүдээс webhook эвентүүдийг шууд хүлээн авч, бие даасан хиймэл оюуны агентууд угсрах боломж олгож байна. Жишээлбэл, шинэ мессеж хураангуйлах, шинээр үүссэн issue-г шалгах зэрэг даалгавруудыг автоматжуулах боломжтой.\n\nConnect нь MCP сервер дээрх эвент захиалгыг (subscription) үүсгэж, шаардлагатай үед автоматаар сунган, баталгаажуулсан хүргэлтээр аппликейшн рүү найдвартай дамжуулдаг. Хөгжүүлэгчид Connect SDK ашиглан эвентэд бүртгүүлэхээс гадна Next.js чиглүүлэлт (route) дээр ирж буй хүсэлтийн найдвартай байдлыг баталгаажуулах код бичихэд тун хялбар болжээ.\n\nМөн AI SDK-ийн эвент илрүүлэх болон бүртгүүлэх API-уудыг агентын хэрэгсэл (tools) болгон ашиглах боломж бүрдэж байна. Connect-ийн MCP Events адаптерийн тусламжтайгаар агентууд серверийн эвентүүдийг өөрсдөө илрүүлж, шаардлагатай эвент захиалгаа удирдах чадвартай болж байна.",
+ "published": "2026-10-15T00:00:00Z",
+ "added": "2026-10-15T19:56:58Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

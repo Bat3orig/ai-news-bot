@@ -1,0 +1,17 @@
+{
+ "id": "d21c2d0ed6cf348d",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5kLUBBJRQh259PerQhBTGL/81f52679a86a6a214d550a096c1533ac/Vercel_Drives_OG_6__1_.jpg",
+ "title": "Vercel Drives is now generally available",
+ "summary_en": "Vercel Drives is now generally available for Vercel Sandbox on Hobby, Pro, and Enterprise. A Drive is persistent storage that you mount as a directory in a Vercel Sandbox. Its files remain available after the sandbox stops, so later runs and other sandboxes can access them by mounting the same Drive. Use Drives to preserve an agent’s workspace or file-based memory across runs, or to make datasets, models, dependencies, and build artifacts available across sandboxes. You can also fork a Drive into independent writable Drives. Forks inherit the source Drive's data, region, and maximum size…",
+ "title_mn": "Vercel Drives албан ёсоор ашиглалтад орлоо",
+ "summary_mn": "Vercel Sandbox орчинд зориулсан Vercel Drives байнгын хадгалах сан бүх хэрэглэгчдэд нээлттэй боллоо.",
+ "body_mn": "Vercel Sandbox-т зориулсан Vercel Drives үйлчилгээ албан ёсоор нээгдлээ. Энэ нь хөгжүүлэгчдэд AI агентын ажлын талбар эсвэл файлаар суурилсан санах ойг хадгалах байнгын диск холбох боломжийг олгож байна.\n\nҮүний тусламжтайгаар агентын ажилласан workspace болон өгөгдөл сангууд зогссоны дараа ч хадгалагдах бөгөөд дараагийн ажиллуулалтад ашиглагдах боломжтой. Мөн Drives-ийг бие даасан хувилбар болгон салаалуулах (fork) боломжтой тул зэрэгцээ ажиллах процессуудыг үр дүнтэй удирдах боломж бүрджээ.",
+ "published": "2026-10-15T00:00:00Z",
+ "added": "2026-10-15T19:56:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

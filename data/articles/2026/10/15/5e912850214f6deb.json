@@ -1,0 +1,17 @@
+{
+ "id": "5e912850214f6deb",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
+ "image": "https://vercel.com/api/dynamic-og?title=Vercel%20Connect%20adds%20Enterprise-Managed%20Authorization&format=changelog",
+ "title": "Vercel Connect adds Enterprise-Managed Authorization",
+ "summary_en": "Vercel Connect now supports Enterprise-Managed Authorization (EMA) in public beta. Your apps and agents can access supported services on behalf of signed-in users without separate consent prompts for each service. Here's how access works: Admin-managed access: Administrators can grant or revoke access to supported services through the identity provider. Corporate sign-in: Users sign into your app with their corporate account through a compatible identity provider such as Okta . Scoped tokens: Your app requests the scopes it needs, and Connect handles token exchange, caching, and renewal…",
+ "title_mn": "Vercel Connect байгууллагын удирдлагатай эрхийн тохиргоог нэвтрүүллээ",
+ "summary_mn": "Vercel Connect систем Enterprise-Managed Authorization боломжийг нийтийн туршилтын хувилбараар гаргалаа. Хэрэглэгчид үйлчилгээ бүрд тусгайлан зөвшөөрөл өгөх шаардлагагүй болж, админууд нэгдсэн байдлаар эрх зохицуулна.",
+ "body_mn": "Vercel Connect систем Enterprise-Managed Authorization буюу EMA боломжийг нийтийн туршилтын горимоор (public beta) танилцууллаа. Энэхүү шинэчлэл нь байгууллагын аппликейшн болон хиймэл оюуны агентуудад нэвтэрсэн хэрэглэгчийн нэрийн өмнөөс гуравдагч үйлчилгээнүүдэд шууд хандах боломжийг олгож байгаа бөгөөд үйлчилгээ тус бүр дээр тусдаа зөвшөөрлийн цонх гаргах шаардлагагүй болжээ.\n\nСистемийн админууд Okta зэрэг нийцтэй таних тэмдэгтийн нийлүүлэгчээр (IdP) дамжуулан үйлчилгээний хандалтын эрхийг төвлөрсөн байдлаар олгох эсвэл цуцлах боломжтой. Хэрэглэгч корпорацын бүртгэлээрээ нэг л удаа нэвтрэхэд Connect нь токен солилцоо, кэшлэлт болон хугацаа сунгалтыг автоматаар хариуцах юм. Хандалт нь зөвхөн батлагдсан хамрах хүрээ (scope) болон хэрэглэгчийн одоогийн эрхээр хязгаарлагдана.\n\nТүүнчлэн энэхүү шинэ боломж нь Vercel Passport болон Cross-App Access (XAA)-ийг бүрэн дэмждэг. Үүний үр дүнд Model Context Protocol (MCP) серверийн токен хүсэх, тухайлбал нэвтэрсэн хэрэглэгчийн нэрээр Slack-ийн MCP сервертэй харьцах агентууд бүтээхэд authorization хийх үйл явц ихээхэн хялбар болж байна.",
+ "published": "2026-10-15T00:00:00Z",
+ "added": "2026-10-15T19:56:58Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

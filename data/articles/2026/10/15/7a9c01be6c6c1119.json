@@ -1,0 +1,17 @@
+{
+ "id": "7a9c01be6c6c1119",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6Y4H5UA4xuPIuTv48nb323/824e9973377b803537899720e29fd8dc/image__119_.png",
+ "title": "Cat Jam is now available in stealth for free on AI Gateway",
+ "summary_en": "Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a JSON schema you supply. Responses include the model's reasoning text alongside the answer. Cat Jam takes text input only. Cat Jam supports low , medium , high , xhigh , and max reasoning efforts. Zero Data Retention (ZDR) is not available for this model. Prompts may be retained for safety reasons…",
+ "title_mn": "Cat Jam нэртэй шинэ модель Vercel AI Gateway дээр нээгдлээ",
+ "summary_mn": "Vercel AI Gateway дээр кодын болон агентлаг даалгаварт зориулсан Cat Jam нэртэй шинэ модель туршилтын журмаар үнэ төлбөргүй гарлаа.",
+ "body_mn": "Vercel платформ өөрийн AI Gateway дээр Cat Jam хэмээх шинэ reasoning моделийг нэмжээ. Энэхүү модель нь кодын бичиг хэрэг болон агентын даалгаваруудыг гүйцэтгэхэд зориулагдсан ба бага сааталтайгаар ажилладаг.\n\nCat Jam нь function calling болон JSON schema дэмждэг бөгөөд модель хариу өгөхдөө өөрийн логик бодолтыг хамт буцаадаг онцлогтой. Хөгжүүлэгчид AI SDK болон OpenAI/Anthropic API-уудаар дамжуулан уг моделийг Claude Code, Cursor зэрэг хэрэгслүүдэд холбож ашиглах боломжтой байна.",
+ "published": "2026-10-15T00:00:00Z",
+ "added": "2026-10-15T19:56:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

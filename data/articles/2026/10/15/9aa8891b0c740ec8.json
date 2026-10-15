@@ -1,0 +1,17 @@
+{
+ "id": "9aa8891b0c740ec8",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-connect-secure-compute",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/34yqLUjwa5AGrMtAplMCN1/8ab2dc32a6b50e4645609776d21d5f0a/connect_secure_compute__OG_.png",
+ "title": "Vercel Connect now supports Secure Compute",
+ "summary_en": "Vercel Connect now supports Secure Compute , allowing connectors to reach providers with IP allowlists, such as Salesforce and Snowflake. With Secure Compute routing enabled, Connect’s provider requests use the selected network’s dedicated static IP addresses instead of Connect’s shared IPs. Requests to obtain and refresh access tokens follow that route; your app’s direct API routing is unchanged by this setting. Credential management stays the same, so you don’t need to store long-lived provider secrets in your app or build OAuth flows yourself. To enable Secure Compute routing for a…",
+ "title_mn": "Vercel Connect нь Secure Compute үйлчилгээг дэмждэг боллоо",
+ "summary_mn": "Vercel Connect нь Secure Compute сүлжээг дэмжиж эхэлснээр хөгжүүлэгчид Salesforce, Snowflake зэрэг үйлчилгээ рүү статикт IP хаягаар холбогдох боломжтой боллоо.",
+ "body_mn": "Vercel компани өөрийн Connect үйлчилгээндээ Secure Compute функц нэмэгдсэнийг зарлалаа. Ингэснээр хөгжүүлэгчид Salesforce болон Snowflake зэрэг гаفад үйлчилгээ үзүүлэгч рүү хандахдаа хуваалцсан IP хаягийн оронд сонгосон сүлжээнийхээ зориулалтын статик IP хаягуудыг ашиглах боломжтой болж байна.\n\nЭнэхүү шинэчлэлт нь серверless аппликейшнүүдийн аюулгүй байдлыг сайжруулж, IP зөвшөөрлийн жагсаалт (allowlist) ашигладаг байгууллагын системүүдтэй хялбар холбогдох нөхцлийг бүрдүүлж байна. Хөгжүүлэгчид апп дотроо долгон хугацааны нууц үг хадгалахгүйгээр аюулгүй байдлын өндөр шаардлага хангасан интеграцчилал хийх боломжтой боллоо.",
+ "published": "2026-10-15T00:00:00Z",
+ "added": "2026-10-15T19:56:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

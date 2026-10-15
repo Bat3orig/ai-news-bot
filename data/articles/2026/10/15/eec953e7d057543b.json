@@ -1,0 +1,17 @@
+{
+ "id": "eec953e7d057543b",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/69YLGxKpc3pTIH8tHrLFgo/51d3f9dc460bf3e7b1c4fdd7a4d757f1/image__104_.png",
+ "title": "TypeSafe AI's Jev 1.14 is now available on AI Gateway",
+ "summary_en": "Jev 1.14 from TypeSafe AI is now available on AI Gateway . Jev is a decision model for software. You pass it state and a set of questions, and it returns typed Choice, Score, and Boolean answers with probabilities instead of free-form text. It answers every question in one request, in parallel, for classification, routing, scoring, and automated verification. Jev 1.14 accepts images as part of the state, and has an experimental long-context mode for documents, logs, or conversation histories that are too long for a standard request. Use typesafe-ai/jev-1.14.0 as the model name. Image input…",
+ "title_mn": "TypeSafe AI-ийн Jev 1.14 шийдвэр гаргах загвар AI Gateway-д нэмэгдлээ",
+ "summary_mn": "Програм хангамжийн шийдвэр гаргалтад зориулагдсан Jev 1.14 загвар Vercel AI Gateway дээр ашиглахад бэлэн боллоо. Загвар нь чөлөөт текстийн оронд тодорхой хэв шинжит хариу өгдөг ба зураг, урт контекстийг дэмждэг болжээ.",
+ "body_mn": "TypeSafe AI компаниас хөгжүүлсэн Jev 1.14 шийдвэр гаргах загвар Vercel AI Gateway дээр албан ёсоор гарлаа. Энэхүү загвар нь энгийн текст үүсгэхийн оронд хөгжүүлэгчийн илгээсэн төлөв байдал болон асуултуудад магадлал бүхий Choice, Score, Boolean утгуудыг нэг хүсэлтээр параллель байдлаар буцаадаг онцлогтой.\n\nШинэ 1.14 хувилбар нь төлөв байдлын нэг хэсэг болгон зураг хүлээн авах чадвартай болсноос гадна баримт бичиг, серверийн лог зэрэг урт хэмжээний өгөгдлийг шалгахад зориулагдсан туршилтын урт контекст (long-context) горимтой болжээ. Хөгжүүлэгчид уг загварыг typesafe-ai/jev-1.14.0 нэрээр шууд дуудан ашиглах боломжтой.\n\nJev нь Zero Data Retention болон No Training тохиргоог дэмждэг тул дата нууцлалыг чанд хангадаг. Мөн AI Gateway-ийн бусад хэрэгслүүдтэй бүрэн нийцэж, хийсэн дуудлагууд нь лог бүртгэл, тусгай тайланд тусгагдаж, зардлын төсөвт автоматаар тооцогдоно.",
+ "published": "2026-10-15T00:00:00Z",
+ "added": "2026-10-15T19:56:58Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
