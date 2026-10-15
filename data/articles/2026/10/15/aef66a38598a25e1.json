@@ -1,0 +1,17 @@
+{
+ "id": "aef66a38598a25e1",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
+ "image": "https://opengraph.githubassets.com/a8022eaaa5067bf2c8b8e070e885e62853409c26cec7870b1d2877b124d40f1d/anthropics/claude-code/releases/tag/v2.1.300",
+ "title": "claude-code v2.1.300",
+ "summary_en": "What's changed Added virtualText to a mod's prompt decorations: text drawn in the prompt box that never enters the draft or the submitted prompt Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry api_request event, splitting cache writes by lifetime Added $.ui.view({ agentId }) for mods: shows an agent's transcript in the main view when you ask, and $.ui.view({}) goes back Added a dir prop on a mod's Text for right-to-left text: on Windows and in VS Code's terminal its rows read in that direction and sit flush right Added /advisor on Claude Platform on AWS; no…",
+ "title_mn": "Claude Code v2.1.300 хувилбар гарлаа",
+ "summary_mn": "Claude Code v2.1.300 дээр mod-уудад зориулсан шинэ боломжууд болон OpenTelemetry trace дэмжлэг нэмэгдэв.",
+ "body_mn": "Anthropic компанийн Claude Code терминалын хэрэгслийн 2.1.300 хувилбар гарлаа. Шинэ хувилбарт mod хөгжүүлэгчдэд зориулж prompt хайрцагт зөвхөн харагдах virtualText дэмжлэг, агент бүрийн лог түүхийг харах $.ui.view({ agentId }) функцийг нэмсэн байна.\n\nМөн OpenTelemetry api_request эвентэд кэшийн хугацааг 5 минут болон 1 цагаар ялгах тэмдэглэгээ, түүнчлэн GenAI semantic-convention стандартын аттрибутууд (gen_ai.provider.name, tool.name гэх мэт) багтжээ. AWS дээрх Claude Platform-д /advisor тушаалыг нэвтрүүлсэн байна.\n\nҮүнээс гадна үүлэн орчинд ажиллаж байх үед агент тасрах, товчлуурын даралт дутуу бүртгэгдэх, subagent-ууд харагдахгүй болох зэрэг агентын удирдлагатай холбоотой олон чухал алдааг засварлажээ.",
+ "published": "2026-10-14T18:24:25Z",
+ "added": "2026-10-15T01:09:00Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "ffb5a326c8ee4530",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
+ "title": "HydraFusion updates and new Max option",
+ "summary_en": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot…",
+ "title_mn": "GitHub Copilot нь HydraFusion болон HydraFusion Max загваруудыг нэмлээ",
+ "summary_mn": "GitHub Copilot нь хэд хэдэн загварын хүчийг нэгтгэж нэг хариулт гаргадаг HydraFusion болон илүү хүнд даалгаварт зориулсан HydraFusion Max сонголтуудыг зарлалаа. Эдгээр нь VS Code, Copilot апп болон CLI дээр research preview байдлаар ажиллаж байна.",
+ "body_mn": "GitHub Copilot хөгжүүлэгчдэд зориулсан шинэ боломж болох HydraFusion болон HydraFusion Max загварын сан болон оркестрчлалын урсгалыг танилцууллаа. Энэхүү шийдэл нь олон AI загварын давуу талыг хослуулан нэгдсэн хариулт гаргаж өгдөг тул хөгжүүлэгчид даалгавар бүрд тохирох загварыг тусад нь сонгох шаардлагагүй болж байна.\n\nHydraFusion Max нь илүү өндөр түвшний гүйцэтгэл шаардсан, хүнд хэцүү даалгаварт зориулагдсан бөгөөд илүү гүнзгий эргэцүүлэл, нарийвчлалыг гаргахын зэрэгцээ токений хэмнэлтийг давхар анхаардаг байна. Эдгээр шинэ боломжууд нь VS Code, GitHub Copilot апп болон терминал дахь GitHub Copilot CLI хэрэгслүүдэд дэмжигдэх ажээ.\n\nЭдгээр функцийг Copilot Pro, Pro+, Business болон Enterprise багц хэрэглэгчид preview горимоор ашиглах боломжтой бөгөөд байгууллагынхаа загварын бодлогод нийцүүлэн тохируулах боломжтой юм. Шинэ боломжийн талаарх дэлгэрэнгүйг албан ёсны баримт бичгээс харж, санал хүсэлтээ хуваалцах боломжтой.",
+ "published": "2026-10-14T20:01:35Z",
+ "added": "2026-10-15T01:09:00Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

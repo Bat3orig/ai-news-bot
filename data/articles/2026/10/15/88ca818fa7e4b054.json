@@ -1,0 +1,17 @@
+{
+ "id": "88ca818fa7e4b054",
+ "subtopic": "nextjs",
+ "source": "vercel/next.js",
+ "source_label": "vercel/next.js",
+ "url": "https://github.com/vercel/next.js/releases/tag/v16.4.1",
+ "image": "https://opengraph.githubassets.com/2e3990968bb0bdcc4c3795e241d23889acd43df58503047fbfacb91fced11d1d/vercel/next.js/releases/tag/v16.4.1",
+ "title": "next.js v16.4.1",
+ "summary_en": "This release contains security fixes for the following advisories: Critical: Unauthenticated Remote Code Execution in use cache functions returning typed arrays Unauthenticated Remote Code Execution in Image Optimization API when SVG files are used High: Denial of Service in App Router using Server Actions",
+ "title_mn": "Next.js 16.4.1 хувилбар аюулгүй байдлын чухал засваруудтай гарлаа",
+ "summary_mn": "Next.js 16.4.1 шинэчлэлтээр use cache функц болон Image Optimization API дахь RCE цоорхойнууд, мөн Server Actions DoS эмзэг байдлыг нөхлөө.",
+ "body_mn": "Vercel болон Next.js баг v16.4.1 шинэ хувилбарыг гаргаж, аюулгүй байдлын хоёр ноцтой RCE болон нэг DoS эмзэг байдлыг зассанаа мэдэгдлээ. Эхний critical цоорхой нь typed array буцаадаг `use cache` функцүүдэд баталгаажуулалтгүйгээр алсаас код ажиллуулах эрсдэлтэй холбоотой байв.\n\nМөн Image Optimization API-д SVG файлууд боловсруулах үед үүсдэг RCE цоорхой болон App Router-ийн Server Actions механизмыг ашиглан системийн үйлчилгээг саатуулах (DoS) аюул засагдсан байна. Эдгээр нь Next.js 16 хувилбарын шинэ боломжуудтай шууд холбогдож байсан тул нэн даруй засах шаардлагатай байв.\n\nХөгжүүлэгчдийн хувьд `use cache` зааварчилгаа болон зураг оновчлолын сангуудыг ашиглаж байгаа төслүүдээ эрсдэлээс сэргийлж нэн даруй 16.4.1 хувилбар руу ахиулах нь чухал юм.",
+ "published": "2026-10-14T17:47:59Z",
+ "added": "2026-10-15T01:09:00Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

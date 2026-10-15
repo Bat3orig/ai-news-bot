@@ -1,0 +1,17 @@
+{
+ "id": "1324372457403200",
+ "subtopic": "nextjs",
+ "source": "vercel/next.js",
+ "source_label": "vercel/next.js",
+ "url": "https://github.com/vercel/next.js/releases/tag/v15.5.28",
+ "image": "https://opengraph.githubassets.com/3444dd34dad645b9ce5603227d777cf5d171ecb08e3cc9c66d025dd7ebb4e77d/vercel/next.js/releases/tag/v15.5.28",
+ "title": "next.js v15.5.28",
+ "summary_en": "This release contains security fixes for the following advisories: Critical: Unauthenticated Remote Code Execution in Image Optimization API when SVG files are used High: Denial of Service in App Router using Server Actions",
+ "title_mn": "Next.js 15.5.28 хувилбарт RCE болон DoS эмзэг байдлуудыг заслаа",
+ "summary_mn": "Next.js 15.5.28 хувилбар гарч, Image Optimization API-д SVG файлууд ашиглахад үүсдэг алсаас код ажиллуулах ноцтой цоорхой болон App Router-ийн DoS алдааг засварлав.",
+ "body_mn": "Next.js төслийн баг 15.5.28 хувилбарыг албан ёсоор нийтэлж, аюулгүй байдлын ноцтой хэд хэдэн эмзэг байдлыг арилгалаа. Энэхүү шинэчлэлтээр SVG файл ашиглах үед Image Optimization API-д гарч болох алсаас зөвшөөрөлгүй код ажиллуулах (Unauthenticated RCE) маш өндөр түвшний цоорхойг зассан байна.\n\nТүүнчлэн App Router дээрх Server Actions-ийг ашиглан системийн ажиллагааг унагах боломжтой Denial of Service (DoS) эмзэг байдлыг хамтад нь арилгажээ. Эдгээр асуудлууд нь шууд хэрэглэгчийн хүсэлт боловсруулах түвшинд нөлөөлдөг тул production системүүдэд эрсдэл үүсгэх магадлалтай байсан юм.\n\nNext.js-ийн 15.x хувилбарыг ашиглаж буй хөгжүүлэгчид болон байгууллагуудад өөрсдийн хамаарлуудаа (dependencies) яаралтай 15.5.28 хувилбар руу шинэчлэхийг зөвлөж байна.",
+ "published": "2026-10-14T17:47:49Z",
+ "added": "2026-10-15T01:09:00Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "dcdc8283cdb1ff36",
+ "subtopic": "tauri",
+ "source": "tauri-apps/tauri",
+ "source_label": "tauri-apps/tauri",
+ "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v2.12.4",
+ "image": "https://opengraph.githubassets.com/f5ecc80a64bc6fe2a27c08f934ecf3a6823db036340f0e469fb779cba84f1de9/tauri-apps/tauri/releases/tag/tauri-v2.12.4",
+ "title": "tauri v2.12.4",
+ "summary_en": "Cargo Audit Fetching advisory database from `https://github.com/RustSec/advisory-db.git` Loaded 1314 security advisories (from /home/runner/.cargo/advisory-db) Updating crates.io index Scanning Cargo.lock for vulnerabilities (1045 crate dependencies) Crate: fxhash Version: 0.2.1 Warning: unmaintained Title: fxhash - no longer maintained Date: 2025-09-05 ID: RUSTSEC-2025-0057 URL: https://rustsec.org/advisories/RUSTSEC-2025-0057 Crate: paste Version: 1.0.15 Warning: unmaintained Title: paste - no longer maintained Date: 2024-10-07 ID: RUSTSEC-2024-0436 URL…",
+ "title_mn": "Tauri v2.12.4 хувилбар гарлаа",
+ "summary_mn": "Tauri v2.12.4 дээр iOS хөгжүүлэлтийн серверийн алдааны мэдээлэл сайжирч, мобайл плагины panic алдаа засагдлаа.",
+ "body_mn": "Кросс платформ апп хөгжүүлэх Tauri фрэймворкийн 2.12.4 хувилбар гарлаа. Энэхүү хувилбарт хөгжүүлэгчдэд учирдаг цөөн хэдэн ноцтой асуудлуудыг шийдвэрлэсэн байна.\n\nТухайлбал, iOS төхөөрөмж дээр localhost холболт амжилтгүй болох үед tauri ios dev --host тушаалыг санал болгох илүү тодорхой алдааны тайлбар нэмэгдэв. Мөн IPC болон asset protocol handler дээр хоосон path орж ирэх үед panic үүсдэг асуудлыг зассан байна.\n\nТүүнчлэн PluginHandle::run_mobile_plugin_async дуудлагууд хугацаа хэтрэх үед iOS болон Android дээр бүхэл процессыг зогсоож panic үүсгэдэг байсныг зогсоож, хоцорсон хариуг алгасах хэлбэрээр засаж тогтвортой байдлыг сайжруулжээ.",
+ "published": "2026-10-14T18:52:14Z",
+ "added": "2026-10-15T01:09:00Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

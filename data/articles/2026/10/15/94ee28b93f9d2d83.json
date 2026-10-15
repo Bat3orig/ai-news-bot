@@ -1,0 +1,17 @@
+{
+ "id": "94ee28b93f9d2d83",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/block-ai-powered-security",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/6csT9lb6PlJ3KoxJDX6p7s/c94f16d2eadb4b01cb428ce5c62db7a2/Block-AI-Powered-Security-SEO-Image-1920x1080.png?w=1600&h=900&fit=fill",
+ "title": "How Block is building AI-powered security with OpenAI technology",
+ "summary_en": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+ "title_mn": "Block компани кибер аюулгүй байдлын үйл ажиллагаандаа OpenAI Daybreak ашиглаж байна",
+ "summary_mn": "Square болон Cash App-ийн толгой компани Block нь кибер эмзэг байдлыг илрүүлэх, шалгах явцыг түргэсгэхийн тулд OpenAI Daybreak загварыг ашиглаж буйгаа танилцууллаа. Үүний үр дүнд сэжигтэй тохиолдлыг шалгах дамжуулах чадвар 50 хувиар өсжээ.",
+ "body_mn": "Square, Cash App болон Afterpay зэрэг бүтээгдэхүүнийг хөгжүүлэгч Block компани кибер аюулгүй байдлын үйл ажиллагаандаа OpenAI Daybreak систем болон Defense Factory загварыг ашиглаж эхэлжээ. Өмнө нь хэдэн долоо хоног зарцуулдаг байсан эмзэг байдлын дүн шинжилгээ, шалгалтын ажлуудыг одоо хэдхэн цагийн дотор гүйцэтгэх боломжтой болсон байна.\n\nКомпанийн аюулгүй байдлын баг сүүлийн долоон сарын бүтээгдэхүүний телеметрийн өгөгдлийг нэг цаг хүрэхгүй хугацаанд дахин шалгаж, халдлагын дарааллыг холбон бүхэл бүтэн замаар нь илрүүлэх боломжтой болжээ. Мөн сэжигтэй дохиоллыг шүүх үйл явц (triage) 50 хувиар өсөж, улирал тутамд 1100 орчим шинжээч-цагийн ажлыг хиймэл оюун ухаан гүйцэтгэж байгаа аж.\n\nТүүнчлэн Block бүх ажилд хамгийн сүүлийн үеийн нэг загварыг ашиглахын оронд Daybreak дээр суурилсан зохицуулагч системээр дамжуулан тохирох загваруудыг хуваарилж, эцсийн үр дүнг хүний хяналтаар баталгаажуулдаг дэд бүтцийг нэвтрүүлсэн байна.",
+ "published": "2026-10-14T07:00:00Z",
+ "added": "2026-10-15T01:09:00Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

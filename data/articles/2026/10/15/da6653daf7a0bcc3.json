@@ -1,0 +1,17 @@
+{
+ "id": "da6653daf7a0bcc3",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-adds-opentelemetry-trace-export-to-the-claude-platform/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-adds-opentelemetry-trace-export-to-the-claude-platform.jpg",
+ "title": "Anthropic Adds OpenTelemetry Trace Export to the Claude Platform",
+ "summary_en": "Anthropic has added OpenTelemetry trace export to the Claude Platform, announcing on October 14, 2026 that developers can now send traces from Claude Managed Agents, the Messages API, and Claude SDKs to any observability...",
+ "title_mn": "Claude платформ OpenTelemetry trace экспортлох боломжтой боллоо",
+ "summary_mn": "Anthropic компани Claude Console, Messages API болон Claude SDK-уудаас OpenTelemetry стандартын trace-үүдийг дурын мониторинг хэрэгсэл рүү шууд илгээх нийтийн бета хувилбарыг зарлалаа.",
+ "body_mn": "Anthropic компани Claude Platform-доо OpenTelemetry стандартын trace экспортлох боломжийг нийтийн бета хувилбараар нэвтрүүлснээ зарлалаа. Хөгжүүлэгчид одоо Claude Managed Agents, Messages API болон Claude SDK-ийн дуудлагуудыг OTLP стандарт дэмждэг ямар ч ажиглалтын (observability) хэрэгсэл рүү шууд илгээх боломжтой болж байна.\n\nЭнэхүү интеграцчилал нь OpenTelemetry GenAI семиантик конвенцийг дагадаг тул Claude болон бусад AI үйлчилгээ үзүүлэгчдийн өгөгдлийг нэгтгэн нэг хянах самбар (dashboard) дээр шинжлэх боломжийг бүрдүүлжээ. Trace-ийг тохируулахдаа Claude Console дээр очих байршлыг тохируулах замаар API түвшинд, эсвэл SDK дээр нь tracer provider бүртгэх замаар хийх хоёр замтай байна.\n\nКонтентын хувьд систем зөвхөн мета өгөгдлийг бүртгэх (өгөгдмөл горим) эсвэл бүрэн prompt, хариуг багтаах горимтой. Бүрэн контентын горимд нэг span-ийн хэмжээ 0.75 MB буюу англи хэлний 200k контекст цонхонд таарах бөгөөд хязгаараас хэтэрсэн тохиолдолд анхны мессежүүдийг танаж `anthropic.content.truncated` шинж чанарыг оноодог байна.",
+ "published": "2026-10-14T17:36:08Z",
+ "added": "2026-10-15T01:09:00Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "b7d94d1a845a9cbb",
+ "subtopic": "react-native",
+ "source": "Expo Changelog",
+ "source_label": "Expo Changelog",
+ "url": "https://expo.dev/changelog/settings-navigation-refresh",
+ "image": "https://cdn.sanity.io/images/9r24npb8/production/3d492dfcbf8c80e7a48336fb81a66eb806ef9a0b-2400x1350.png?rect=0,45,2400,1260&w=1200&h=630&fm=webp&q=80&auto=format",
+ "title": "Refreshed settings navigation on expo.dev",
+ "summary_en": "Check out new updates and improvements to Expo and EAS from the Expo team.",
+ "title_mn": "Expo тохиргооны навигацын загвараа шинэчлэв",
+ "summary_mn": "expo.dev платформ дээр хэрэглэгч, байгууллага, төслийн тохиргоог шинэчилсэн цэс, байрлалтай болголоо.",
+ "body_mn": "Expo баг expo.dev хянах самбарынхаа хэрэглэгч, бүртгэл болон төслийн түвшний тохиргооны хуудсуудын бүтцийг бүрэн шинэчиллээ.\n\nШинэчлэлтээр тусдаа тохиргооны хуудсууд болон бүх хэсэгт жигд харагдах цэс (sidebar) нэмэгдсэн тул төслийн тохиргоог олоход илүү хялбар болжээ.\n\nХөгжүүлэгчид User Settings болон төсөл бүрийн Settings цэсээр орж шинэчлэгдсэн зохион байгуулалтыг туршиж үзэх боломжтой.",
+ "published": "2026-10-14T18:45:00Z",
+ "added": "2026-10-15T01:09:00Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

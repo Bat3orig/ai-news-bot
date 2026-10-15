@@ -1,0 +1,17 @@
+{
+ "id": "394f43520b65f567",
+ "subtopic": "packages",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://petal.live/",
+ "image": "",
+ "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+ "summary_en": "Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal ( https://github.com/kiruna-labs/petal ) Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry. Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could…",
+ "title_mn": "Petal: CoScreen-ий нээлттэй эхтэй хувилбар танилцуулагдлаа",
+ "summary_mn": "Хөгжүүлэгчдийн хамтран ажиллахад зориулсан CoScreen болон ScreenHero төрлийн нээлттэй эхтэй Petal хэрэгсэл гарлаа.",
+ "body_mn": "Хөгжүүлэгчид дэлгэцээ бие биедээ хуваалцах үед цонх бүрийг тусад нь зөөх, хэмжээг нь өөрчлөх боломжтой Petal нэртэй нээлттэй эх бүхий шинэ аппликейшн танилцуулагдлаа. Энэ нь өмнө нь алдартай байсан ScreenHero болон CoScreen шийдлүүдийг орлохуйц боломжуудыг санал болгож байна.\n\nХуваалцсан цонх бүр дээр хэрэглэгчдийн курсор нэрээрээ ялгарч харагдах бөгөөд хулгана, гарны удирдлагыг шууд шилжүүлэх боломжтой. Олон хэрэглэгч нэгэн зэрэг цонхоо хуваалцах чадвартай.\n\nPetal нь LiveKit дэд бүтэц дээр ажилладаг бөгөөд хөгжүүлэгчид өөрсдийн серверийг холбон бүрэн хяналттайгаар ашиглах боломжийг олгож байна.",
+ "published": "2026-10-14T18:23:14Z",
+ "added": "2026-10-15T01:09:00Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

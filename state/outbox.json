@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "5e8ced6de786f55e",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_le2f6yle2f.2e16d0ba.fill-1200x600.jpg",
-   "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-   "summary_en": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source Python Agent Development Kit (ADK).",
-   "title_mn": "Gemini 4 Argon 200 мянган мөр кодтой Python төслийг хоногийн дотор хурдасгав",
-   "summary_mn": "Google-ийн инженерийн баг Gemini 4 Argon загварыг 200,000 гаруй мөр кодтой ADK санг оновчлоход туршиж, санах ойн ачааллыг 40 хувиар бууруулжээ.",
-   "body_mn": "Google өөрийн нээлттэй эх бүхий google/adk-python төсөл дээр Gemini 4 Argon загварын чадварыг шалгасан бодит туршилтын үр дүнгээ хуваалцлаа. Нийт 205,000 мөр код, 800 орчим файл, 17,000 орчим нэгжийн тесттэй уг томоохон системд олон файл дамжсан хурдны гацааг олох даалгаврыг загварт өгсөн байна.\n\nЗагвар 11 цагийн турш хүний оролцоогүй ажиллахдаа repository доторх .agents/skills дүрмийн файлууд болон Google Antigravity-ийн /goal горимыг ашиглажээ. Эхний ээлжинд ямар ч зааваргүй ажиллуулахад алдаатай шийдлүүд гаргаж байсан ч, тусгай баримтжуулалт болон зааврын дагуу ажилласнаар багийн дүрэм журамд нийцсэн шийдлийг боловсруулсан байна.\n\nҮр дүнд нь ADK сангийн урт хугацааны session бэлдэх хугацааг 40 хувиар богиносгож, cold package import хийх хурдыг 21 хувиар ахиулсан хоёр үндсэн оновчлол албан ёсоор кодын санд оржээ. Энэхүү туршилт нь AI агент зөвхөн шинэ төсөл эхлүүлэх төдийгүй, том код баазыг бүхэлд нь шинжлэн оновчлох чадвартайг харуулж байна.",
-   "published": "2026-10-14T10:24:06Z",
-   "added": "2026-10-14T10:24:06Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3888c0e3209644c8",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending TypeScript",
-   "source_label": "GitHub Trending TypeScript",
-   "url": "https://github.com/vercel-labs/skills",
-   "image": "https://opengraph.githubassets.com/03857960bc33f9dddbe0cf72c58c1cb4df8e7c17dca5bf9c651fc4f73f167062/vercel-labs/skills",
-   "title": "vercel-labs/skills",
-   "summary_en": "The open agent skills tool - npx skills https://skills.sh skills The CLI for the open agent skills ecosystem. Supports OpenCode , Claude Code , Codex , Cursor , and 75 more . Install a Skill npx skills add vercel-labs/agent-skills Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent interactively: npx skills use vercel-labs/agent-skills@web-design-guidelines | claude npx skills use vercel-labs/agent-skills --skill web-design-guidelines --agent claude-code skills use resolves sources the same way as skills add , writes the selected skill files to a…",
-   "title_mn": "vercel-labs/skills: AI агентуудад ур чадвар холбох нээлттэй CLI хэрэгсэл",
-   "summary_mn": "Vercel Labs-аас Claude Code, Cursor, Codex зэрэг 75 гаруй кодинг агентад SKILL.md заавруудыг хялбар нэгтгэх нээлттэй CLI санг танилцууллаа.",
-   "body_mn": "Vercel Labs төрөл бүрийн AI кодинг агентуудад ур чадвар (skills) суулгах, удирдах зориулалттай нээлттэй эхийн vercel-labs/skills төслийг гаргалаа. Уг CLI нь OpenCode, Claude Code, Codex, Cursor зэрэг 75 гаруй кодын агентуудтай шууд нийцэн ажилладаг.\n\nАгентын ур чадвар нь SKILL.md файл болон YAML frontmatter тодорхойлолт бүхий дахин ашиглагдах зааварчилгаа юм. Тус хэрэгсэл нь олон нийтийн болон хувийн сангуудаас ур чадваруудыг автоматаар татаж, тухайн төслийн орчинд бэлдэж өгөх чадвартай бөгөөд GitHub CLI болон SSH баталгаажуулалтыг аюулгүй ашигладаг.\n\nМөн Claude Code plugin marketplace-ийн бүтэцтэй зохицдог тул хөгжүүлэгчид өөрсдийн агентын ажиллах хүрээг хүссэнээрээ өргөтгөх боломжтой. Төслийг туршихын тулд skills CLI-г суулган дурын дэмжигдсэн агент дээр интерактив хэлбэрээр ажиллуулах боломжтой юм.",
-   "published": "2026-10-14T10:24:06Z",
-   "added": "2026-10-14T10:24:06Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "cb2c51bc30a37065",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending TypeScript",
-   "source_label": "GitHub Trending TypeScript",
-   "url": "https://github.com/every-app/open-seo",
-   "image": "https://opengraph.githubassets.com/a7e4515068637902707c514e8f1243956deb62a60c6eb09591cfd77bb07673e0/every-app/open-seo",
-   "title": "every-app/open-seo",
-   "summary_en": "Open source alternative to Semrush and Ahrefs https://openseo.so OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people . If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-one SEO tool for you and your AI agent. Connect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is…",
-   "title_mn": "every-app/open-seo: Semrush болон Ahrefs-ийн нээлттэй эхийн хувилбар",
-   "summary_mn": "AI агентуудтай MCP протоколоор холбогддог, хэрэглэснээрээ төлдөг үнэтэй SEO хэрэгслүүдийн нээлттэй хувилбар бүхий төсөл гарлаа.",
-   "body_mn": "every-app баг Semrush болон Ahrefs зэрэг өндөр үнэтэй платформтой өрсөлдөхүйц нээлттэй эх бүхий every-app/open-seo төслийг хөгжүүлж байна. Хэрэглэгчид сар бүрийн тогтмол өндөр төлбөрөөс зайлсхийж, өөрсдийн сервер дээр байршуулан хэрэглээгээрээ төлөх хэлбэрээр ашиглах боломжтой.\n\nOpenSEO-ийн гол онцлог нь Model Context Protocol (MCP) серверийг дэмждэгт оршино. Ингэснээр Claude Code, OpenClaw, Hermes зэрэг AI агентууд уг хэрэгслээр дамжуулан SEO-ийн өгөгдөл дээр шууд шинжилгээ хийх, тайлан гаргах автомат ажлуудыг гүйцэтгэж чадна.\n\nУг төсөл нь өгөгдөл цуглуулахдаа DataForSEO API-г ашигладаг бөгөөд self-host хийсэн тохиолдолд уг API түлхүүрээрээ шууд хандан зардал багатай ажиллах боломжийг олгож байна.",
-   "published": "2026-10-14T10:24:06Z",
-   "added": "2026-10-14T10:24:06Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9a5d651e4c5a403e",
-   "subtopic": "packages",
-   "source": "Frontend Focus",
-   "source_label": "Frontend Focus",
-   "url": "https://frontendfoc.us/issues/762",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1791980846/dwgixdfnss8se8vv6o8n.png",
-   "title": "The best way to use icons in Web UIs",
-   "summary_en": "🚀 Frontend Focus #​762 — October 14, 2026 | Read on the web What the iPhone Duo Means for Web Development — The Duo is out next week, so Darius fired up the simulator to try the Device Posture and Viewport Segments APIs (both available behind a flag). Using Video.js components and CSS, he tried to recreate Netflix's folded-player UI, but Apple's fullscreen restrictions made things a tad interesting. Darius Cepulis (Video.js) The Best Way to Use Icons in Web UIs — Lea shows how to insert and tweak icons without touching any HTML, using --icon custom properties, @property , style queries, and…",
-   "title_mn": "Frontend Focus #762: CSS icon систем болон TypeScript заавар",
-   "summary_mn": "Frontend Focus сонины 762 дахь дугаарт HTML ашиглахгүйгээр CSS маск, style queries ашиглан дүрс оруулах аргуудыг хөнджээ. Мөн TypeScript төрлүүдийг гүнзгийрүүлж сурах болон шинэ вэб платформ онцлогуудыг танилцуулсан байна.",
-   "body_mn": "Frontend Focus сонины шинэ дугаарт вэб хөгжүүлэлтэд хэрэгтэй олон сонирхолтой мэдээлэл болон хэрэгслүүдийг багтаажээ. Тухайлбал, Lea-ийн танилцуулсан CSS болон custom properties ашиглан HTML-д хүрэлгүйгээр вэб UI дотор дүрс оруулах арга нь уламжлалт аргаас илүү уян хатан, засварлахад хялбар болохыг харуулсан байна.\n\nҮүнээс гадна багаж хэрэгсэл болон сургалтын тал дээр AI-аар үүсгэгдсэн TypeScript кодыг шалгах, generics болон conditional types зэргийг гүнзгийрүүлж сурах зөвлөмжүүд багтжээ. Мөн Firefox-ын 2027 оны вэб платформын саналаа өгөх хэсэг нээгдсэн бөгөөд хөгжүүлэгчид өөрсдийн саналаа өгөх боломжтой болсон байна.\n\nЭнэхүү дугаарт вэб хөгжүүлэгчдийн сонирхлыг татахуйц хصف шийдлүүд болон Mozilla-аас гаргасан enterprise түвшний Firefox хувилбар, Let's Encrypt сертификатын хугацаа богиносох зэрэг чухал мэдээллүүдийг нэгтгэн хүргэсэн нь фронтенд хөгжүүлэгчдэд нэн тустай юм.",
-   "published": "2026-10-14T00:00:00Z",
-   "added": "2026-10-14T15:18:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3f7c5d6ecbf3c95b",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-   "image": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20October%2021,%202026%20Security%20Releases",
-   "title": "Wednesday, October 21, 2026 Security Releases",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js аюулгүй байдлын шинэчлэлтүүд 2026 оны 10 дугаар сарын 21-нд гарна",
-   "summary_mn": "Node.js төслөөс 26.x, 24.x, 22.x хувилбарын шугамуудад илэрсэн аюулгүй байдлын сул талуудыг засварлахаар 2026 оны 10 дугаар сарын 21-нд шинэ хувилбаруудыг гаргахаар зарлалаа.",
-   "body_mn": "Node.js төслийн баг 2026 оны 10 дугаар сарын 21-нд эсвэл түүний ойролцоогоор 26.x, 24.x болон 22.x хувилбаруудад зориулсан шинэчлэлтүүдийг гаргахаа мэдэгдлээ. Энэхүү шинэчлэлтийн гол зорилго нь системд илэрсэн аюулгүй байдлын сул талуудыг засах бөгөөд хамгийн өндөр зэрэглэл нь HIGH буюу өндөр түвшинд үнэлэгджээ.\n\nХөгжүүлэгчид болон систем админууд өөрсдийн ашиглаж буй орчноо аюулгүй байлгахын тулд албан ёсны хуваарийн дагуу дэмжигдэж буй сүүлийн үеийн хувилбарууд руу шилжих шаардлагатай юм. Дэмжлэг нь дууссан (End-of-Life) хувилбарууд энэхүү засварт хамрагдахгүй бөгөөд аюулгүй байдлын эрсдэлтэй хэвээр үлдэх тул анхаарах нь чухал.\n\nДэлгэрэнгүй мэдээлэл болон албан ёсны зааварчилгааг Node.js-ийн аюулгүй байдлын бодлогын хуудаснаас үзэх боломжтой. Мөн шинэчлэлтийн талаарх шуурхай зарлалыг авахын тулд nodejs-sec мэдээллийн жагсаалтад бүртгүүлэх боломжтой байна.",
-   "published": "2026-10-14T03:00:00Z",
-   "added": "2026-10-14T15:18:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dbbcb182b33b2dd8",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending JavaScript",
-   "source_label": "GitHub Trending JavaScript",
-   "url": "https://github.com/citrolabs/ego-lite",
-   "image": "https://repository-images.githubusercontent.com/1212503250/1e62fd1c-4ca2-40f1-aae4-6aec4614e726",
-   "title": "citrolabs/ego-lite",
-   "summary_en": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. https://lite.ego.app The fastest browser for AI agents to run web automation English · 简体中文 · 日本語 · 한국어 · Português · Español · Français · Italiano · Русский ego (lite) is a browser where you and your AI agents work in parallel. Your agents run their browser tasks in their own Spaces, isolated workspaces inside the same browser, while you keep browsing in yours, so no agent ever takes the…",
-   "title_mn": "citrolabs/ego-lite: AI агент болон хэрэглэгч зэрэг ажиллах вэб хөтөч",
-   "summary_mn": "ego lite бол хэрэглэгч болон AI агент хоёр нэг хөтөч дотор тусгаарлагдсан орчинд зэрэг ажиллах боломжийг олгодог хурдан хөтөч юм. Агент таны хувийн табыг түгжрэлгүйгээр вэб автоматжуулалтын ажлыг гүйцэтгэнэ.",
-   "body_mn": "citrolabs/ego-lite нь AI агент болон хэрэглэгчдэд зориулан бүтээгдсэн кросс-платформ хөтөч бөгөөд вэб автоматжуулалтын ажлыг илүү хурдан бөгөөд үр дүнтэй хийх боломжийг олгодог. Уламжлалт хэрэгслүүдээс ялгаатай нь ego lite нь хэрэглэгч болон агентийн хооронд хөтчийн удирдлагын төлөөх тэмцлийг арилгаж, тусгаарлагдсан Space дотор агентийн ажлыг явуулдаг.\n\nЭнэхүү хөтөч нь анх ажиллах үед таны Chrome дэх бүртгэл, күүки, өргөтгөлүүдийг шууд өвлөн авах боломжтой бөгөөд агентийн CLI-аар дамжуулан энгийн хэлээр хүсэлт илгээж автоматжуулалт хийх боломжтой. AI агент хуудасны бүтцийг текст хэлбэрт хөрвүүлэн уншиж, таны үндсэн ажлыг тасалдуулахгүйгээр ажилладаг.\n\nГүйцэтгэлийн хувьд бусад автоматжуулалтын сангуудтай харьцуулахад илүү хурдан ажиллаж, токены зарцуулалтыг багасгадаг. Одоогоор macOS дээр ажиллах ба Windows болон Linux хувилбарууд удахгүй гарах төлөвлөгөөтэй байгаа бөгөөд MIT лицензтэйгээр нээлттэй хөгжүүлэгдэж байна.",
-   "published": "2026-10-14T15:18:29Z",
-   "added": "2026-10-14T15:18:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8b34966bc46b8c9b",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending JavaScript",
-   "source_label": "GitHub Trending JavaScript",
-   "url": "https://github.com/truelockmc/streambert",
-   "image": "https://repository-images.githubusercontent.com/1160232942/662e90ff-7ef1-4ad2-947f-6418f0233545",
-   "title": "truelockmc/streambert",
-   "summary_en": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking Streambert A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking * Installation Why Streambert? 🎦 Streaming: Stream any Movie, Anime or TV Series from around the World. 📥 Downloading: Download anything you want to watch. 📃 Subtitles: Download and manage Subtitles. ⚙️ Customizability: Customize the Interface and Features to your unique needs. 📚 Library: Track what you watched, save stuff you want…",
-   "title_mn": "truelockmc/streambert: Кино, олон ангит кино үзэх Electron суурьтай апп",
-   "summary_mn": "Streambert бол ямар ч зар сурталчилгаа болон хяналтгүйгээр дэлхийн аль ч кино, олон ангит кино эсвэл анимег шууд үзэх, татаж авах боломжтой Electron суурьтай кросс-платформ десктоп апп юм.",
-   "body_mn": "truelockmc/streambert төсөл нь хэрэглэгчдэд ямар нэгэн төвөгтэй зар сурталчилгаа болон мэдээлэл цуглуулалтгүйгээр видео контент үзэх боломжийг олгодог нээлттэй эх сурвалжтай Electron десктоп апп юм. Энэхүү апп нь видео стримийг VidSrc болон бусад эх үүсвэрээс авч, харин зургийн мэдээлэл болон тайлбарыг TMDB болон AniList-ээс татаж аван ажилладаг.\n\nПрограмын гол онцлог нь видеонуудын .m3u8 болон .mp4 файл руу шууд холбогдож, контентыг шууд үзэхээс гадна төхөөрөмж дээрээ татаж авч хадгалах боломжийг олгодогт оршино. Апп нь аниме болон энгийн кинонуудыг ялган таньж зохих мета өгөгдлийг автоматаар холбодог бөгөөд ашиглахад хялбар интерфэйстэй.\n\nЭнэхүү хэрэгсэл нь macOS, Linux (Deb, Pacman, AppImage) болон Windows үйлдлийн системүүдэд зориулагдсан байдлаар бэлэн болсон байна. Төсөл нь GPL-3.0 лицензээр нээлттэй байна.",
-   "published": "2026-10-14T15:18:29Z",
-   "added": "2026-10-14T15:18:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0604d6a7a7d7afd2",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-   "image": "https://opengraph.githubassets.com/0009f448bffc1df1c954926120ad1c570908e6933276b853953e84f4cc466d3d/harry0703/MoneyPrinterTurbo",
-   "title": "harry0703/MoneyPrinterTurbo",
-   "summary_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 | English | 日本語 | 版本发布 | 问题反馈 界面预览 🖥️ WebUI API 特别感谢 ❤️ 感谢 Kimi 赞助本项目！ Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3 能直接驱动视频创作，不仅撰写视频文案，还会提炼素材搜索关键词、决定成片画面；对内容理解越准确，匹配到的素材就越贴题。 MoneyPrinterTurbo 用户专属优惠：新用户通过专属链接注册，首次成功充值可获充值金额 10% 的 API 额度，最高赠送 ¥1000。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（ 中文站 ｜ Global ）体验 API。 火山引擎…",
-   "title_mn": "harry0703/MoneyPrinterTurbo: AI ашиглан богино хэмжээний видео бүтээх хэрэгсэл",
-   "summary_mn": "MoneyPrinterTurbo нь видеоны сэдэв эсвэл түлхүүр үг өгөхөд л сценари бичих, материал тааруулах, субтитр болон хөгжим нэмж өндөр чанартай богино видео автоматаар үүсгэх нээлттэй эх сурвалжтай хэрэгсэл юм.",
-   "body_mn": "harry0703/MoneyPrinterTurbo нь хиймэл оюун ухааны тусламжтайгаар ямар ч гарын оролцоогүйгээр богино хэмжээний видео контент бүтээх автоматжуулсан систем юм. Хэрэглэгч зөвхөн видеоны сэдэв эсвэл түлхүүр үгээ оруулахад л уг хэрэгсэл видеоны зохиол бичиж, хамааралтай зургууд болон дүрс материалыг хайж олон, дуу оруулалт болон субтитртэй хамтатган өндөр чанартай видео гаргаж өгдөг.\n\nЭнэхүү шинэ хувилбар нь Moonshot AI-ийн Kimi K3 загварыг дэмждэг болсноор илүү нарийвчлалтай контент ойлголт болон хайлт хийх чадвартай болжээ. Түүнчлэн Edge TTS, Azure, OpenAI болон бусад олон төрлийн дуу оруулалтын (TTS) үйлчилгээг сонгож ашиглах боломжийг олгодог. Whisper загварыг ашиглан автомат субтитр үүсгэх боломжтой бөгөөд Docker болон Python орчинд хялбархан суулгаж ажиллуулах боломжтой.\n\nЭнэхүү хэрэгсэл нь контент бүтээгчид болон автоматжуулалтын чиглэлээр ажилладаг хөгжүүлэгчдэд зориулагдсан бөгөөд macOS болон Windows үйлдлийн системүүдийг дэмждэг.",
-   "published": "2026-10-14T15:18:29Z",
-   "added": "2026-10-14T15:18:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "11b86268bb2d567a",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/baidu/Unlimited-OCR",
-   "image": "https://opengraph.githubassets.com/85bf4bb300ea0ef7077144e96fe72d1bb635cc8e738903a93aa529aad1e6a5b8/baidu/Unlimited-OCR",
-   "title": "baidu/Unlimited-OCR",
-   "summary_en": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. Unlimited OCR Works Welcome the Era of One-shot Long-horizon Parsing. Release [2026/07/21] 🤝 Thanks to the ms-swift community for their support, our model now supports training with ms-swift . [2026/07/03] 🤝 Thanks to the Baidu Cloud team for their support. Our model is now available on Baidu Cloud . [2026/06/28] 🤝 Thanks to the vLLM community and Tianyu Guo for their support, our model now supports vLLM inference. [2026/06/24] 🤝 Thanks to AK for creating a demo for us. It is now available at Hugging Face Spaces…",
-   "title_mn": "baidu/Unlimited-OCR: NVIDIA GPU дээр ажиллах өндөр хүчин чадалтай OCR систем",
-   "summary_mn": "Unlimited-OCR нь Hugging Face transformers болон SGLang ашиглан NVIDIA GPU дээр ажиллах, документ болон PDF файл боловсруулах орчин үеийн OCR inference систем юм.",
-   "body_mn": "baidu/Unlimited-OCR төсөл нь том хэмжээний баримт бичиг болон PDF файлуудыг өндөр хурдтайгаар задлан шинжлэхэд зориулагдсан нээлттэй эх сурвалжтай inference систем юм. Энэхүү систем нь NVIDIA GPU болон CUDA орчинд оновчлогдсон бөгөөд Hugging Face transformers номын сан дээр суурилсан байна.\n\nУг хэрэгсэл нь SGLang болон vLLM технологиудыг ашиглан OpenAI-тэй нийцтэй API интерфейсээр дамжуулан урсгал (streaming) хүсэлтүүдийг хүлээж авдаг. Мөн олон тооны зураг болон PDF файлыг нэгэн зэрэг багц хэлбэрээр (batch inference) хурдан хугацаанд боловсруулах чадвартай.\n\nЭнэхүү төсөл нь Deepseek-OCR болон PaddleOCR зэрэг өмнөх загваруудын санааг шингээж бүтээгдсэн бөгөөд баримт бичиг таних, автоматжуулалтын систем хөгжүүлж буй хөгжүүлэгчдэд нэн тохиромжтой шийдэл юм.",
-   "published": "2026-10-14T15:18:29Z",
-   "added": "2026-10-14T15:18:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ddd7486148a91958",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/browser-use/video-use",
-   "image": "https://opengraph.githubassets.com/7a69554f60c1fb3363f7f9543b52c75e781bd022273885469db7c4bc0cf665cf/browser-use/video-use",
-   "title": "browser-use/video-use",
-   "summary_en": "Edit videos with coding agents https://video-use.com video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus. Cloud-hosted video-use is coming. Join the waitlist at video-use.com . What it does Cuts out filler words ( umm , uh , false starts) and dead space between takes Auto color grades every segment (warm cinematic, neutral punch, or any custom ffmpeg chain) 30ms audio fades at every cut…",
-   "title_mn": "browser-use/video-use: Claude Code ашиглан видео засварлах нээлттэй хэрэгсэл",
-   "summary_mn": "video-use бол түүхий видео материалыг фолдерт хийж Claude Code-оор дамжуулан чатлах замаар ямар ч цэсгүйгээр эцсийн видеог гаргаж авах боломжийг олгодог 100% нээлттэй эх сурвалжтай хэрэгсэл юм.",
-   "body_mn": "browser-use/video-use нь хиймэл оюун ухааны агент болон хөгжүүлэгчдэд зориулагдсан видео засварлах шинэлэг хэрэгсэл юм. Хөгжүүлэгч түүхий видео файлуудаа тодорхой фолдерт байрлуулаад Claude Code эсвэл бусад shell хандалттай агенттай чатлах замаар ямар нэгэн нарийн төвөгтэй видео засварлагчийн цэс ашиглалгүйгээр хүссэн видеогоо гаргаж авах боломжтой.\n\nУг хэрэгсэл нь LLM буюу хэлний загварт видеог шууд том хэмжээгээр дамжуулж токены нөөц үрэхийн оронд ухаалаг хоёр давхаргат системийг ашигладаг. Нэгдүгээрт, ElevenLabs Scribe ашиглан үгийн түвшний цаг болон яригчийг ялгах аудио хуулбар (transcript) үүсгэж үндсэн унших хэсэг болгодог. Хоёрдугаарт, шаардлагатай үед л визуаль хэсгийг харах зураг болон waveform үүсгэж ажилладаг.\n\nЭнэхүү арга нь хиймэл оюун ухаанд видео засварлах ажлыг маш бага токеноор, өндөр нарийвчлалтайгаар хийх боломжийг олгодог бөгөөд контент бүтээгчид болон AI агент сонирхогчдод маш хэрэгтэй хэрэгсэл юм.",
-   "published": "2026-10-14T15:18:29Z",
-   "added": "2026-10-14T15:18:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "b303b1e4141446e6",
    "subtopic": "gh-rust",
    "source": "GitHub Trending Rust",
@@ -576,6 +376,246 @@
    "published": "2026-10-14T17:05:59Z",
    "added": "2026-10-14T22:54:29Z",
    "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "94ee28b93f9d2d83",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/block-ai-powered-security",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/6csT9lb6PlJ3KoxJDX6p7s/c94f16d2eadb4b01cb428ce5c62db7a2/Block-AI-Powered-Security-SEO-Image-1920x1080.png?w=1600&h=900&fit=fill",
+   "title": "How Block is building AI-powered security with OpenAI technology",
+   "summary_en": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+   "title_mn": "Block компани кибер аюулгүй байдлын үйл ажиллагаандаа OpenAI Daybreak ашиглаж байна",
+   "summary_mn": "Square болон Cash App-ийн толгой компани Block нь кибер эмзэг байдлыг илрүүлэх, шалгах явцыг түргэсгэхийн тулд OpenAI Daybreak загварыг ашиглаж буйгаа танилцууллаа. Үүний үр дүнд сэжигтэй тохиолдлыг шалгах дамжуулах чадвар 50 хувиар өсжээ.",
+   "body_mn": "Square, Cash App болон Afterpay зэрэг бүтээгдэхүүнийг хөгжүүлэгч Block компани кибер аюулгүй байдлын үйл ажиллагаандаа OpenAI Daybreak систем болон Defense Factory загварыг ашиглаж эхэлжээ. Өмнө нь хэдэн долоо хоног зарцуулдаг байсан эмзэг байдлын дүн шинжилгээ, шалгалтын ажлуудыг одоо хэдхэн цагийн дотор гүйцэтгэх боломжтой болсон байна.\n\nКомпанийн аюулгүй байдлын баг сүүлийн долоон сарын бүтээгдэхүүний телеметрийн өгөгдлийг нэг цаг хүрэхгүй хугацаанд дахин шалгаж, халдлагын дарааллыг холбон бүхэл бүтэн замаар нь илрүүлэх боломжтой болжээ. Мөн сэжигтэй дохиоллыг шүүх үйл явц (triage) 50 хувиар өсөж, улирал тутамд 1100 орчим шинжээч-цагийн ажлыг хиймэл оюун ухаан гүйцэтгэж байгаа аж.\n\nТүүнчлэн Block бүх ажилд хамгийн сүүлийн үеийн нэг загварыг ашиглахын оронд Daybreak дээр суурилсан зохицуулагч системээр дамжуулан тохирох загваруудыг хуваарилж, эцсийн үр дүнг хүний хяналтаар баталгаажуулдаг дэд бүтцийг нэвтрүүлсэн байна.",
+   "published": "2026-10-14T07:00:00Z",
+   "added": "2026-10-15T01:09:00Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "da6653daf7a0bcc3",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/anthropic-adds-opentelemetry-trace-export-to-the-claude-platform/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-adds-opentelemetry-trace-export-to-the-claude-platform.jpg",
+   "title": "Anthropic Adds OpenTelemetry Trace Export to the Claude Platform",
+   "summary_en": "Anthropic has added OpenTelemetry trace export to the Claude Platform, announcing on October 14, 2026 that developers can now send traces from Claude Managed Agents, the Messages API, and Claude SDKs to any observability...",
+   "title_mn": "Claude платформ OpenTelemetry trace экспортлох боломжтой боллоо",
+   "summary_mn": "Anthropic компани Claude Console, Messages API болон Claude SDK-уудаас OpenTelemetry стандартын trace-үүдийг дурын мониторинг хэрэгсэл рүү шууд илгээх нийтийн бета хувилбарыг зарлалаа.",
+   "body_mn": "Anthropic компани Claude Platform-доо OpenTelemetry стандартын trace экспортлох боломжийг нийтийн бета хувилбараар нэвтрүүлснээ зарлалаа. Хөгжүүлэгчид одоо Claude Managed Agents, Messages API болон Claude SDK-ийн дуудлагуудыг OTLP стандарт дэмждэг ямар ч ажиглалтын (observability) хэрэгсэл рүү шууд илгээх боломжтой болж байна.\n\nЭнэхүү интеграцчилал нь OpenTelemetry GenAI семиантик конвенцийг дагадаг тул Claude болон бусад AI үйлчилгээ үзүүлэгчдийн өгөгдлийг нэгтгэн нэг хянах самбар (dashboard) дээр шинжлэх боломжийг бүрдүүлжээ. Trace-ийг тохируулахдаа Claude Console дээр очих байршлыг тохируулах замаар API түвшинд, эсвэл SDK дээр нь tracer provider бүртгэх замаар хийх хоёр замтай байна.\n\nКонтентын хувьд систем зөвхөн мета өгөгдлийг бүртгэх (өгөгдмөл горим) эсвэл бүрэн prompt, хариуг багтаах горимтой. Бүрэн контентын горимд нэг span-ийн хэмжээ 0.75 MB буюу англи хэлний 200k контекст цонхонд таарах бөгөөд хязгаараас хэтэрсэн тохиолдолд анхны мессежүүдийг танаж `anthropic.content.truncated` шинж чанарыг оноодог байна.",
+   "published": "2026-10-14T17:36:08Z",
+   "added": "2026-10-15T01:09:00Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1324372457403200",
+   "subtopic": "nextjs",
+   "source": "vercel/next.js",
+   "source_label": "vercel/next.js",
+   "url": "https://github.com/vercel/next.js/releases/tag/v15.5.28",
+   "image": "https://opengraph.githubassets.com/3444dd34dad645b9ce5603227d777cf5d171ecb08e3cc9c66d025dd7ebb4e77d/vercel/next.js/releases/tag/v15.5.28",
+   "title": "next.js v15.5.28",
+   "summary_en": "This release contains security fixes for the following advisories: Critical: Unauthenticated Remote Code Execution in Image Optimization API when SVG files are used High: Denial of Service in App Router using Server Actions",
+   "title_mn": "Next.js 15.5.28 хувилбарт RCE болон DoS эмзэг байдлуудыг заслаа",
+   "summary_mn": "Next.js 15.5.28 хувилбар гарч, Image Optimization API-д SVG файлууд ашиглахад үүсдэг алсаас код ажиллуулах ноцтой цоорхой болон App Router-ийн DoS алдааг засварлав.",
+   "body_mn": "Next.js төслийн баг 15.5.28 хувилбарыг албан ёсоор нийтэлж, аюулгүй байдлын ноцтой хэд хэдэн эмзэг байдлыг арилгалаа. Энэхүү шинэчлэлтээр SVG файл ашиглах үед Image Optimization API-д гарч болох алсаас зөвшөөрөлгүй код ажиллуулах (Unauthenticated RCE) маш өндөр түвшний цоорхойг зассан байна.\n\nТүүнчлэн App Router дээрх Server Actions-ийг ашиглан системийн ажиллагааг унагах боломжтой Denial of Service (DoS) эмзэг байдлыг хамтад нь арилгажээ. Эдгээр асуудлууд нь шууд хэрэглэгчийн хүсэлт боловсруулах түвшинд нөлөөлдөг тул production системүүдэд эрсдэл үүсгэх магадлалтай байсан юм.\n\nNext.js-ийн 15.x хувилбарыг ашиглаж буй хөгжүүлэгчид болон байгууллагуудад өөрсдийн хамаарлуудаа (dependencies) яаралтай 15.5.28 хувилбар руу шинэчлэхийг зөвлөж байна.",
+   "published": "2026-10-14T17:47:49Z",
+   "added": "2026-10-15T01:09:00Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "88ca818fa7e4b054",
+   "subtopic": "nextjs",
+   "source": "vercel/next.js",
+   "source_label": "vercel/next.js",
+   "url": "https://github.com/vercel/next.js/releases/tag/v16.4.1",
+   "image": "https://opengraph.githubassets.com/2e3990968bb0bdcc4c3795e241d23889acd43df58503047fbfacb91fced11d1d/vercel/next.js/releases/tag/v16.4.1",
+   "title": "next.js v16.4.1",
+   "summary_en": "This release contains security fixes for the following advisories: Critical: Unauthenticated Remote Code Execution in use cache functions returning typed arrays Unauthenticated Remote Code Execution in Image Optimization API when SVG files are used High: Denial of Service in App Router using Server Actions",
+   "title_mn": "Next.js 16.4.1 хувилбар аюулгүй байдлын чухал засваруудтай гарлаа",
+   "summary_mn": "Next.js 16.4.1 шинэчлэлтээр use cache функц болон Image Optimization API дахь RCE цоорхойнууд, мөн Server Actions DoS эмзэг байдлыг нөхлөө.",
+   "body_mn": "Vercel болон Next.js баг v16.4.1 шинэ хувилбарыг гаргаж, аюулгүй байдлын хоёр ноцтой RCE болон нэг DoS эмзэг байдлыг зассанаа мэдэгдлээ. Эхний critical цоорхой нь typed array буцаадаг `use cache` функцүүдэд баталгаажуулалтгүйгээр алсаас код ажиллуулах эрсдэлтэй холбоотой байв.\n\nМөн Image Optimization API-д SVG файлууд боловсруулах үед үүсдэг RCE цоорхой болон App Router-ийн Server Actions механизмыг ашиглан системийн үйлчилгээг саатуулах (DoS) аюул засагдсан байна. Эдгээр нь Next.js 16 хувилбарын шинэ боломжуудтай шууд холбогдож байсан тул нэн даруй засах шаардлагатай байв.\n\nХөгжүүлэгчдийн хувьд `use cache` зааварчилгаа болон зураг оновчлолын сангуудыг ашиглаж байгаа төслүүдээ эрсдэлээс сэргийлж нэн даруй 16.4.1 хувилбар руу ахиулах нь чухал юм.",
+   "published": "2026-10-14T17:47:59Z",
+   "added": "2026-10-15T01:09:00Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "394f43520b65f567",
+   "subtopic": "packages",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://petal.live/",
+   "image": "",
+   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+   "summary_en": "Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal ( https://github.com/kiruna-labs/petal ) Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry. Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could…",
+   "title_mn": "Petal: CoScreen-ий нээлттэй эхтэй хувилбар танилцуулагдлаа",
+   "summary_mn": "Хөгжүүлэгчдийн хамтран ажиллахад зориулсан CoScreen болон ScreenHero төрлийн нээлттэй эхтэй Petal хэрэгсэл гарлаа.",
+   "body_mn": "Хөгжүүлэгчид дэлгэцээ бие биедээ хуваалцах үед цонх бүрийг тусад нь зөөх, хэмжээг нь өөрчлөх боломжтой Petal нэртэй нээлттэй эх бүхий шинэ аппликейшн танилцуулагдлаа. Энэ нь өмнө нь алдартай байсан ScreenHero болон CoScreen шийдлүүдийг орлохуйц боломжуудыг санал болгож байна.\n\nХуваалцсан цонх бүр дээр хэрэглэгчдийн курсор нэрээрээ ялгарч харагдах бөгөөд хулгана, гарны удирдлагыг шууд шилжүүлэх боломжтой. Олон хэрэглэгч нэгэн зэрэг цонхоо хуваалцах чадвартай.\n\nPetal нь LiveKit дэд бүтэц дээр ажилладаг бөгөөд хөгжүүлэгчид өөрсдийн серверийг холбон бүрэн хяналттайгаар ашиглах боломжийг олгож байна.",
+   "published": "2026-10-14T18:23:14Z",
+   "added": "2026-10-15T01:09:00Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "aef66a38598a25e1",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
+   "image": "https://opengraph.githubassets.com/a8022eaaa5067bf2c8b8e070e885e62853409c26cec7870b1d2877b124d40f1d/anthropics/claude-code/releases/tag/v2.1.300",
+   "title": "claude-code v2.1.300",
+   "summary_en": "What's changed Added virtualText to a mod's prompt decorations: text drawn in the prompt box that never enters the draft or the submitted prompt Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry api_request event, splitting cache writes by lifetime Added $.ui.view({ agentId }) for mods: shows an agent's transcript in the main view when you ask, and $.ui.view({}) goes back Added a dir prop on a mod's Text for right-to-left text: on Windows and in VS Code's terminal its rows read in that direction and sit flush right Added /advisor on Claude Platform on AWS; no…",
+   "title_mn": "Claude Code v2.1.300 хувилбар гарлаа",
+   "summary_mn": "Claude Code v2.1.300 дээр mod-уудад зориулсан шинэ боломжууд болон OpenTelemetry trace дэмжлэг нэмэгдэв.",
+   "body_mn": "Anthropic компанийн Claude Code терминалын хэрэгслийн 2.1.300 хувилбар гарлаа. Шинэ хувилбарт mod хөгжүүлэгчдэд зориулж prompt хайрцагт зөвхөн харагдах virtualText дэмжлэг, агент бүрийн лог түүхийг харах $.ui.view({ agentId }) функцийг нэмсэн байна.\n\nМөн OpenTelemetry api_request эвентэд кэшийн хугацааг 5 минут болон 1 цагаар ялгах тэмдэглэгээ, түүнчлэн GenAI semantic-convention стандартын аттрибутууд (gen_ai.provider.name, tool.name гэх мэт) багтжээ. AWS дээрх Claude Platform-д /advisor тушаалыг нэвтрүүлсэн байна.\n\nҮүнээс гадна үүлэн орчинд ажиллаж байх үед агент тасрах, товчлуурын даралт дутуу бүртгэгдэх, subagent-ууд харагдахгүй болох зэрэг агентын удирдлагатай холбоотой олон чухал алдааг засварлажээ.",
+   "published": "2026-10-14T18:24:25Z",
+   "added": "2026-10-15T01:09:00Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b7d94d1a845a9cbb",
+   "subtopic": "react-native",
+   "source": "Expo Changelog",
+   "source_label": "Expo Changelog",
+   "url": "https://expo.dev/changelog/settings-navigation-refresh",
+   "image": "https://cdn.sanity.io/images/9r24npb8/production/3d492dfcbf8c80e7a48336fb81a66eb806ef9a0b-2400x1350.png?rect=0,45,2400,1260&w=1200&h=630&fm=webp&q=80&auto=format",
+   "title": "Refreshed settings navigation on expo.dev",
+   "summary_en": "Check out new updates and improvements to Expo and EAS from the Expo team.",
+   "title_mn": "Expo тохиргооны навигацын загвараа шинэчлэв",
+   "summary_mn": "expo.dev платформ дээр хэрэглэгч, байгууллага, төслийн тохиргоог шинэчилсэн цэс, байрлалтай болголоо.",
+   "body_mn": "Expo баг expo.dev хянах самбарынхаа хэрэглэгч, бүртгэл болон төслийн түвшний тохиргооны хуудсуудын бүтцийг бүрэн шинэчиллээ.\n\nШинэчлэлтээр тусдаа тохиргооны хуудсууд болон бүх хэсэгт жигд харагдах цэс (sidebar) нэмэгдсэн тул төслийн тохиргоог олоход илүү хялбар болжээ.\n\nХөгжүүлэгчид User Settings болон төсөл бүрийн Settings цэсээр орж шинэчлэгдсэн зохион байгуулалтыг туршиж үзэх боломжтой.",
+   "published": "2026-10-14T18:45:00Z",
+   "added": "2026-10-15T01:09:00Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dcdc8283cdb1ff36",
+   "subtopic": "tauri",
+   "source": "tauri-apps/tauri",
+   "source_label": "tauri-apps/tauri",
+   "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v2.12.4",
+   "image": "https://opengraph.githubassets.com/f5ecc80a64bc6fe2a27c08f934ecf3a6823db036340f0e469fb779cba84f1de9/tauri-apps/tauri/releases/tag/tauri-v2.12.4",
+   "title": "tauri v2.12.4",
+   "summary_en": "Cargo Audit Fetching advisory database from `https://github.com/RustSec/advisory-db.git` Loaded 1314 security advisories (from /home/runner/.cargo/advisory-db) Updating crates.io index Scanning Cargo.lock for vulnerabilities (1045 crate dependencies) Crate: fxhash Version: 0.2.1 Warning: unmaintained Title: fxhash - no longer maintained Date: 2025-09-05 ID: RUSTSEC-2025-0057 URL: https://rustsec.org/advisories/RUSTSEC-2025-0057 Crate: paste Version: 1.0.15 Warning: unmaintained Title: paste - no longer maintained Date: 2024-10-07 ID: RUSTSEC-2024-0436 URL…",
+   "title_mn": "Tauri v2.12.4 хувилбар гарлаа",
+   "summary_mn": "Tauri v2.12.4 дээр iOS хөгжүүлэлтийн серверийн алдааны мэдээлэл сайжирч, мобайл плагины panic алдаа засагдлаа.",
+   "body_mn": "Кросс платформ апп хөгжүүлэх Tauri фрэймворкийн 2.12.4 хувилбар гарлаа. Энэхүү хувилбарт хөгжүүлэгчдэд учирдаг цөөн хэдэн ноцтой асуудлуудыг шийдвэрлэсэн байна.\n\nТухайлбал, iOS төхөөрөмж дээр localhost холболт амжилтгүй болох үед tauri ios dev --host тушаалыг санал болгох илүү тодорхой алдааны тайлбар нэмэгдэв. Мөн IPC болон asset protocol handler дээр хоосон path орж ирэх үед panic үүсдэг асуудлыг зассан байна.\n\nТүүнчлэн PluginHandle::run_mobile_plugin_async дуудлагууд хугацаа хэтрэх үед iOS болон Android дээр бүхэл процессыг зогсоож panic үүсгэдэг байсныг зогсоож, хоцорсон хариуг алгасах хэлбэрээр засаж тогтвортой байдлыг сайжруулжээ.",
+   "published": "2026-10-14T18:52:14Z",
+   "added": "2026-10-15T01:09:00Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "57c35bcdde1615c8",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0",
+   "image": "https://opengraph.githubassets.com/be78bf71d5573f8cb4c6760b8bbeb99553f755eb499034daadacb262011c1286/ollama/ollama/releases/tag/v0.40.5-rc0",
+   "title": "ollama v0.40.5",
+   "summary_en": "What's Changed mlx: port the Metal custom kernels to CUDA by @dhiltgen in #18657 docs: model recs and language standardization by @anra8571 in #18981 openai: accept custom tool calls in Responses history by @hoyyeva in #18911 app: clarify cloud payment errors by @willietran in #18986 MLX: version bump by @dhiltgen in #18993 New Contributors @willietran made their first contribution in #18986 Full Changelog : v0.40.4...v0.40.5-rc0",
+   "title_mn": "Ollama v0.40.5 хувилбар гарлаа",
+   "summary_mn": "Ollama 0.40.5 хувилбарт Metal custom kernel-үүдийг CUDA руу хөрвүүлж, OpenAI custom tool calls дэмжлэгийг сайжруулав.",
+   "body_mn": "Хиймэл оюуны локал загваруудыг ажиллуулахад ашиглагддаг Ollama сангийн 0.40.5 хувилбар гарлаа.\n\nШинэ хувилбарт MLX сангийн Metal custom kernel-үүдийг CUDA орчин руу хөрвүүлэн суулгаснаар Nvidia график карттай системүүд дээрх ажиллагааг сайжруулжээ. Түүнчлэн OpenAI нийцтэй API-ийн Responses түүх дотор тусгай tool call-уудыг хүлээн авах боломж нэмэгдсэн байна.\n\nҮүнээс гадна MLX хамаарлын хувилбарыг ахиулж, үүлэн үйлчилгээний төлбөрийн алдааны мэдэгдлийг илүү ойлгомжтой болгосон сайжруулалтууд оржээ.",
+   "published": "2026-10-14T19:45:22Z",
+   "added": "2026-10-15T01:09:00Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ffb5a326c8ee4530",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
+   "title": "HydraFusion updates and new Max option",
+   "summary_en": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot…",
+   "title_mn": "GitHub Copilot нь HydraFusion болон HydraFusion Max загваруудыг нэмлээ",
+   "summary_mn": "GitHub Copilot нь хэд хэдэн загварын хүчийг нэгтгэж нэг хариулт гаргадаг HydraFusion болон илүү хүнд даалгаварт зориулсан HydraFusion Max сонголтуудыг зарлалаа. Эдгээр нь VS Code, Copilot апп болон CLI дээр research preview байдлаар ажиллаж байна.",
+   "body_mn": "GitHub Copilot хөгжүүлэгчдэд зориулсан шинэ боломж болох HydraFusion болон HydraFusion Max загварын сан болон оркестрчлалын урсгалыг танилцууллаа. Энэхүү шийдэл нь олон AI загварын давуу талыг хослуулан нэгдсэн хариулт гаргаж өгдөг тул хөгжүүлэгчид даалгавар бүрд тохирох загварыг тусад нь сонгох шаардлагагүй болж байна.\n\nHydraFusion Max нь илүү өндөр түвшний гүйцэтгэл шаардсан, хүнд хэцүү даалгаварт зориулагдсан бөгөөд илүү гүнзгий эргэцүүлэл, нарийвчлалыг гаргахын зэрэгцээ токений хэмнэлтийг давхар анхаардаг байна. Эдгээр шинэ боломжууд нь VS Code, GitHub Copilot апп болон терминал дахь GitHub Copilot CLI хэрэгслүүдэд дэмжигдэх ажээ.\n\nЭдгээр функцийг Copilot Pro, Pro+, Business болон Enterprise багц хэрэглэгчид preview горимоор ашиглах боломжтой бөгөөд байгууллагынхаа загварын бодлогод нийцүүлэн тохируулах боломжтой юм. Шинэ боломжийн талаарх дэлгэрэнгүйг албан ёсны баримт бичгээс харж, санал хүсэлтээ хуваалцах боломжтой.",
+   "published": "2026-10-14T20:01:35Z",
+   "added": "2026-10-15T01:09:00Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1ceae2a1bf8fbaac",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Breakingthenews.net",
+   "url": "https://breakingthenews.net/Article/Anthropic-bans-accounts-to-prevent-election-abuse/67298826",
+   "image": "https://cdn.ttweb.net/News/images/407661.jpg?preset=w800_q70",
+   "title": "Anthropic bans accounts to prevent election abuse",
+   "summary_en": "Anthropic PBC revealed in a statement on Wednesday that its teams continued to investigate coordinated abuse related to elections, including the midterms in the United States, with a goal of preventin...",
+   "title_mn": "Anthropic компани сонгуулийн үеийн зөрчлөөс урьдчилан сэргийлэхийн тулд хэрэглэгчийн эрхийг хааж эхэлжээ",
+   "summary_mn": "Anthropic компани АНУ-ын дундах сонгууль болон бусад зохион байгуулалттай зөрчлүүдийг мөрдөн шалгаж, урьдчилан сэргийлэх зорилгоор зарим хэрэглэгчийн эрхийг хааж эхэлснээ мэдэгдлээ.",
+   "body_mn": "Anthropic PBC компаниас Лхагва гарагт гаргасан мэдэгдэлд дурдсанаар, тэдний багууд сонгуультай холбоотой зохион байгуулалттай зөрчил болон төөрөгдүүлэх оролдлогуудыг нягтлан шалгаж байна. Үүний хүрээнд АНУ-ын дундах хугацааны сонгуулийн үеэр гарч болзошгүй эрсдэлээс сэргийлэх зорилгоор холбогдох арга хэмжээ авч, зарим бүртгэл эрхийг хааж эхэлжээ.\n\nЭнэхүү бодлого нь хиймэл оюун ухааны платформыг улс төрийн зорилгоор урвуулан ашиглахаас хамгаалах чухал алхам болж байна. Хөгжүүлэгчид болон API хэрэглэгчид платформынхоо ашиглалтын шинэчилсэн дүрэм журам болон хязгаарлалтуудыг сайтар шалгах шаардлагатай юм.",
+   "published": "2026-10-14T20:16:00Z",
+   "added": "2026-10-15T01:09:00Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d7141f126bce97de",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "MIXED Reality News",
+   "url": "https://mixed-news.com/en/claude-code-2-1-299-third-party-gateway-api-key-sent-to-anthropic/",
+   "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/69093b56f1035860a3cfe774_og_claude-code-on-the-web.jpg",
+   "title": "Claude Code was sending your gateway's API key to Anthropic, and 2.1.299 stops it",
+   "summary_en": "Claude Code has been sending the API key you configure for a third-party gateway to Anthropic's own servers on five kinds of routine request, and version",
+   "title_mn": "Claude Code 2.1.299 хувилбар гарч, API түлхүүр алдагддаг алдааг засжээ",
+   "summary_mn": "Claude Code нь гуравдагч талын gateway ашиглах үед API түлхүүрийг Anthropic руу явуулдаг байсан ноцтой алдааг 2.1.299 хувилбараараа заслаа. Шинэчлэлтээр мөн стрикийн болон санах ойн хязгаарлалтын зарим асуудлыг шийдвэрлэжээ.",
+   "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ 2.1.299 хувилбарыг гаргаж, гуравдагч талын gateway ашиглах үед гардаг байсан нууцлалын алдааг зассан байна. Тодруулбал, хэрэглэгчид ANTHROPIC_BASE_URL тохиргоог ашиглан прокси эсвэл gateway руу холбогдох үед зарим хүсэлт дээр тухайн gateway-ийн өгсөн итгэмжлэл Anthropic-ийн сервер рүү илгээгдэж байжээ.\n\nШинэ 2.1.299 хувилбар нь feature flag, startup, fast mode, profile болон feedback хүсэлтүүдийн үеэр уг алдаа гарахааргүй болгож өөрчилсөн байна. Мөн удирдлагатай тохиргооны файлууд дээр gateway-ийн түлхүүр явах асуудлыг давхар шийджээ. Үүнээс гадна стриминг тасардаг хугацааг 180 секундээс 300 секунд болгон сунгаж, prompt-too-long алдаа гардаг байсан асуудлыг сайжруулсан байна.\n\nХөгжүүлэгчид Claude Code ашиглаж буй орчиндоо тохируулан npm пакетуудаа яаралтай шинэчлэх нь чухал юм. Тогтвортой (stable) болон дараагийн сувгийн хувилбаруудад эдгээр засвар амжилттай орсон байна.",
+   "published": "2026-10-14T20:18:45Z",
+   "added": "2026-10-15T01:09:00Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
  }

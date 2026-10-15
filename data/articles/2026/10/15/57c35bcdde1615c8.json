@@ -1,0 +1,17 @@
+{
+ "id": "57c35bcdde1615c8",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0",
+ "image": "https://opengraph.githubassets.com/be78bf71d5573f8cb4c6760b8bbeb99553f755eb499034daadacb262011c1286/ollama/ollama/releases/tag/v0.40.5-rc0",
+ "title": "ollama v0.40.5",
+ "summary_en": "What's Changed mlx: port the Metal custom kernels to CUDA by @dhiltgen in #18657 docs: model recs and language standardization by @anra8571 in #18981 openai: accept custom tool calls in Responses history by @hoyyeva in #18911 app: clarify cloud payment errors by @willietran in #18986 MLX: version bump by @dhiltgen in #18993 New Contributors @willietran made their first contribution in #18986 Full Changelog : v0.40.4...v0.40.5-rc0",
+ "title_mn": "Ollama v0.40.5 хувилбар гарлаа",
+ "summary_mn": "Ollama 0.40.5 хувилбарт Metal custom kernel-үүдийг CUDA руу хөрвүүлж, OpenAI custom tool calls дэмжлэгийг сайжруулав.",
+ "body_mn": "Хиймэл оюуны локал загваруудыг ажиллуулахад ашиглагддаг Ollama сангийн 0.40.5 хувилбар гарлаа.\n\nШинэ хувилбарт MLX сангийн Metal custom kernel-үүдийг CUDA орчин руу хөрвүүлэн суулгаснаар Nvidia график карттай системүүд дээрх ажиллагааг сайжруулжээ. Түүнчлэн OpenAI нийцтэй API-ийн Responses түүх дотор тусгай tool call-уудыг хүлээн авах боломж нэмэгдсэн байна.\n\nҮүнээс гадна MLX хамаарлын хувилбарыг ахиулж, үүлэн үйлчилгээний төлбөрийн алдааны мэдэгдлийг илүү ойлгомжтой болгосон сайжруулалтууд оржээ.",
+ "published": "2026-10-14T19:45:22Z",
+ "added": "2026-10-15T01:09:00Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

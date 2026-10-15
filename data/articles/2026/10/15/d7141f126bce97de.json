@@ -1,0 +1,17 @@
+{
+ "id": "d7141f126bce97de",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "MIXED Reality News",
+ "url": "https://mixed-news.com/en/claude-code-2-1-299-third-party-gateway-api-key-sent-to-anthropic/",
+ "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/69093b56f1035860a3cfe774_og_claude-code-on-the-web.jpg",
+ "title": "Claude Code was sending your gateway's API key to Anthropic, and 2.1.299 stops it",
+ "summary_en": "Claude Code has been sending the API key you configure for a third-party gateway to Anthropic's own servers on five kinds of routine request, and version",
+ "title_mn": "Claude Code 2.1.299 хувилбар гарч, API түлхүүр алдагддаг алдааг засжээ",
+ "summary_mn": "Claude Code нь гуравдагч талын gateway ашиглах үед API түлхүүрийг Anthropic руу явуулдаг байсан ноцтой алдааг 2.1.299 хувилбараараа заслаа. Шинэчлэлтээр мөн стрикийн болон санах ойн хязгаарлалтын зарим асуудлыг шийдвэрлэжээ.",
+ "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ 2.1.299 хувилбарыг гаргаж, гуравдагч талын gateway ашиглах үед гардаг байсан нууцлалын алдааг зассан байна. Тодруулбал, хэрэглэгчид ANTHROPIC_BASE_URL тохиргоог ашиглан прокси эсвэл gateway руу холбогдох үед зарим хүсэлт дээр тухайн gateway-ийн өгсөн итгэмжлэл Anthropic-ийн сервер рүү илгээгдэж байжээ.\n\nШинэ 2.1.299 хувилбар нь feature flag, startup, fast mode, profile болон feedback хүсэлтүүдийн үеэр уг алдаа гарахааргүй болгож өөрчилсөн байна. Мөн удирдлагатай тохиргооны файлууд дээр gateway-ийн түлхүүр явах асуудлыг давхар шийджээ. Үүнээс гадна стриминг тасардаг хугацааг 180 секундээс 300 секунд болгон сунгаж, prompt-too-long алдаа гардаг байсан асуудлыг сайжруулсан байна.\n\nХөгжүүлэгчид Claude Code ашиглаж буй орчиндоо тохируулан npm пакетуудаа яаралтай шинэчлэх нь чухал юм. Тогтвортой (stable) болон дараагийн сувгийн хувилбаруудад эдгээр засвар амжилттай орсон байна.",
+ "published": "2026-10-14T20:18:45Z",
+ "added": "2026-10-15T01:09:00Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

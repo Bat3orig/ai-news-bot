@@ -1,0 +1,17 @@
+{
+ "id": "1ceae2a1bf8fbaac",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Breakingthenews.net",
+ "url": "https://breakingthenews.net/Article/Anthropic-bans-accounts-to-prevent-election-abuse/67298826",
+ "image": "https://cdn.ttweb.net/News/images/407661.jpg?preset=w800_q70",
+ "title": "Anthropic bans accounts to prevent election abuse",
+ "summary_en": "Anthropic PBC revealed in a statement on Wednesday that its teams continued to investigate coordinated abuse related to elections, including the midterms in the United States, with a goal of preventin...",
+ "title_mn": "Anthropic компани сонгуулийн үеийн зөрчлөөс урьдчилан сэргийлэхийн тулд хэрэглэгчийн эрхийг хааж эхэлжээ",
+ "summary_mn": "Anthropic компани АНУ-ын дундах сонгууль болон бусад зохион байгуулалттай зөрчлүүдийг мөрдөн шалгаж, урьдчилан сэргийлэх зорилгоор зарим хэрэглэгчийн эрхийг хааж эхэлснээ мэдэгдлээ.",
+ "body_mn": "Anthropic PBC компаниас Лхагва гарагт гаргасан мэдэгдэлд дурдсанаар, тэдний багууд сонгуультай холбоотой зохион байгуулалттай зөрчил болон төөрөгдүүлэх оролдлогуудыг нягтлан шалгаж байна. Үүний хүрээнд АНУ-ын дундах хугацааны сонгуулийн үеэр гарч болзошгүй эрсдэлээс сэргийлэх зорилгоор холбогдох арга хэмжээ авч, зарим бүртгэл эрхийг хааж эхэлжээ.\n\nЭнэхүү бодлого нь хиймэл оюун ухааны платформыг улс төрийн зорилгоор урвуулан ашиглахаас хамгаалах чухал алхам болж байна. Хөгжүүлэгчид болон API хэрэглэгчид платформынхоо ашиглалтын шинэчилсэн дүрэм журам болон хязгаарлалтуудыг сайтар шалгах шаардлагатай юм.",
+ "published": "2026-10-14T20:16:00Z",
+ "added": "2026-10-15T01:09:00Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
