@@ -1,0 +1,17 @@
+{
+ "id": "e1d7f2ee6c9f0c05",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://clova.email/",
+ "image": "https://clova.email/og-image.png",
+ "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+ "summary_en": "Infinite inboxes, including prefixes where you don't have to create inboxes before you use them -- they self create when you add a suffix. Three types of inboxes: - One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else. - Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice. - Prefix. The most powerful. Declare a prefix like \"service\" and then invent any suffix, like \"service-netflix\" or \"service$bank\" and it creates a new…",
+ "title_mn": "Clova.Email: Нэг ирсэн имэйл хаягаар хязгаарлагддаг түр хаягийн үйлчилгээ гарав",
+ "summary_mn": "Нэг хаягт зөвхөн анхны илгээгчээс захидал хүлээн авдаг шинэ имэйл үйлчилгээ гарлаа. Тус платформ нь Claude болон Cursor зэрэг хэрэгслүүдтэй MCP протоколоор холбогдон автоматаар ажиллах боломжтой.",
+ "body_mn": "Хэрэглэгчийн бодит имэйл хаягийг нууцлах зорилготой Clova.Email үйлчилгээ танилцуулагдлаа. Энэхүү платформоор үүсгэсэн хаяг руу хамгийн анх захидал илгээсэн хүн эсвэл байгууллага тухайн хаягийг бүрэн эзэмших бөгөөд бусад ямар ч хаягаас ирсэн имэйлийг автоматаар цуцалдаг онцлогтой.\n\nХэрэглэгчид хаяг бүрийн хүчинтэй хугацааг тохируулах боломжтой бөгөөд хугацаа дуусмагц тухайн хайрцагт буй бүх захидлууд устах зарчмаар ажиллана. Үнэгүй багцад өдөрт 100 мессеж, Pro болон Business багцад өдөрт 1,000 мессежийн лимит олгогджээ.\n\nХөгжүүлэгчид болон AI хэрэглэгчдэд хамгийн чухал давуу тал нь Model Context Protocol (MCP) дэмжлэг юм. Claude, Cursor зэрэг агентлаг хэрэгслүүд MCP-ээр холбогдож, шинэ бүртгэлийн код авах, баримтуудыг шүүх ажлуудыг хүний оролцоогүй гүйцэтгэх боломжтой болж байна.",
+ "published": "2026-10-14T17:00:59Z",
+ "added": "2026-10-15T11:50:39Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

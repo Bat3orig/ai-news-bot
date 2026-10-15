@@ -1,0 +1,17 @@
+{
+ "id": "64b4c0ac42c9f46a",
+ "subtopic": "packages",
+ "source": "Node Weekly",
+ "source_label": "Node Weekly",
+ "url": "https://nodeweekly.com/issues/644",
+ "image": "https://res.cloudinary.com/cpress/image/upload/v1653576619/lgfqinzbdqttwmhvljxb.png",
+ "title": "The NodeConf EU 2026 talks are online",
+ "summary_en": "#​644 — October 15, 2026 Read on the Web 📝 We're taking next week off and will be back on Thursday, October 29. __ Peter Cooper, your editor Skia Canvas 4.0: A Fast Canvas Environment for Node — Based on Google's Skia graphics engine, it produces results similar to Chrome's own canvas. GPU accelerated and can render images, paths, fonts, shapes, etc. both to static images and live in a native window. v4.0 is faster, lighter, and adds native PDF loading. GitHub repo. Christian Swinehart Cut Your GitHub Actions Times and Costs in Half — Faster Node builds with better hardware, unlimited…",
+ "title_mn": "NodeConf EU цуврал, TanStack Start 1.0 болон Skia Canvas 4.0 танилцуулагдлаа",
+ "summary_mn": "TanStack Start 1.0 тогтвортой хувилбар гарч, React болон Solid дээр стриминг SSR санал болгож эхлэв. Мөн Skia Canvas 4.0 болон Express 5.3 шинэчлэгдсэн бол Node.js 26.12.0 хувилбар гарчээ.",
+ "body_mn": "Node.js экосистемийн ээлжит шинэчлэлүүдээс хамгийн их анхаарал татсан нь TanStack Start 1.0 бүрэн стекийн фрэймворк тогтвортой шатанд хүрсэн явдал байлаа. React болон Solid дээр бүрэн тулгуурласан энэхүү фрэймворк нь Node, Bun, Cloudflare Workers орчинд типийг бүрэн шалгах серверийн функцууд болон стрийминг SSR боломжийг авчирч байна.\n\nҮүний зэрэгцээ Skia Canvas 4.0 хувилбар танилцуулагдсан бөгөөд график дүрслэлийн хурд сайжирч, санах ой бага ашигладаг болсноос гадна PDF файлуудыг шууд унших дэмжлэг нэмэгджээ. Энэхүү багц нь Google-ийн Skia график хөдөлгүүр дээр суурилсан учир Chrome-ийн өөрийн канвастай ижил үр дүнг хурдан гаргах давуу талтай юм.\n\nNode.js өөрөө v26.12.0 (Current) болон v24.22.0 (LTS) хувилбарууддаа шинэчлэл хийсэн бол түгээмэл серверийн сан болох Express 5.3 олон тооны алдааны засвар, аюулгүй байдлын сайжруулалттайгаар нийтлэгдэв. Мөн NodeConf EU 2026 хурлын FFI, WebAssembly, V8 санах ойн менежмент сэдэвт илтгэлүүд онлайн тавигдсан байна.",
+ "published": "2026-10-15T00:00:00Z",
+ "added": "2026-10-15T11:50:39Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

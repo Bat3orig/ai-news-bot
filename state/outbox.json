@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "825f5847474b3b2c",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/amazon-s3-joins-the-vercel-marketplace",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3CwGGkHrOUd0MoiKCmi4rJ/05c10845d7d9593dd733a78c99c9a8a5/amazon_s3_added_to_the_vercel_marketplace_og_card__1_.jpg",
-   "title": "Amazon S3 joins the Vercel Marketplace",
-   "summary_en": "You can now create and connect Amazon S3 resources through the Vercel Marketplace without leaving your Vercel project dashboard. The Amazon S3 Marketplace integration automatically adds connection details as environment variables and lets you manage resources alongside your application infrastructure, with links to AWS for deeper configuration. Authentication uses short-lived OIDC credentials without storing static AWS keys. Amazon S3 is also available in v0 , which provisions resources, configures connections, and generates code from your prompt. type: embedded-entry-inline id…",
-   "title_mn": "Amazon S3 үйлчилгээ Vercel Marketplace-д нэмэгдлээ",
-   "summary_mn": "Хөгжүүлэгчид Amazon S3 нөөцийг Vercel төслийн самбараас шууд үүсгэж, OIDC ашиглан статик түлхүүргүйгээр холбох боломжтой боллоо. Мөн v0 хэрэгслээр дамжуулан хүсэлтээс код үүсгэхэд дэмжигдэнэ.",
-   "body_mn": "Amazon S3 үйлчилгээ Vercel Marketplace-д албан ёсоор нэмэгдсэн бөгөөд хөгжүүлэгчид Vercel төслийн хяналтын самбараас гарахгүйгээр AWS нөөцүүдийг үүсгэж, холбох боломжтой боллоо. Энэхүү интеграци нь холболтын мэдээллийг орчны хувьсагч болгон автоматаар нэмдэг байна.\n\nХолболтын үед статик AWS түлхүүр хадгалахын оронд богино хугацааны OIDC эрхлэлтийг (authentication) ашигладаг тул аюулгүй байдал өндөр байна. Мөн S3 үйлчилгээг v0 хэрэгслээр дамжуулан ашиглах боломжтой бөгөөд хэрэглэгчийн өгсөн хүсэлт (prompt) дээр үндэслэн холболтыг тохируулж, код автоматаар үүсгэж өгдөг юм.\n\nШинэ хэрэглэгчид Vercel-ээр дамжуулан шинэ AWS данс үүсгэхэд зургаан сарын хугацаатай 100 ам.долларын эрх авах боломжтой. Түүнчлэн одоо байгаа дансаа холбож, хэрэглээгээ Vercel самбараас шууд удирдах боломжтойгоороо хөгжүүлэгчдийн ажлыг хөнгөвчилж байна.",
-   "published": "2026-10-14T00:00:00Z",
-   "added": "2026-10-14T22:54:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a19bc1245e878166",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5whM0EM20wGHLVBkIkNixX/6b6fd4a26e9b99e9e50b83daa3b63111/sandbox-challenge-findings-v1.png",
-   "title": "Findings from the $1M Vercel Sandbox challenge",
-   "summary_en": "In August, we launched the $1M hacker challenge for Vercel Sandbox , inviting security researchers to try and escape Vercel Sandbox. We also coordinated with cybersecurity experts Trail of Bits to review the source code and security architecture. Here is a summary of the challenge: 1,285 reports over two weeks $242,000 in bounties paid out One Linux kernel zeroday vulnerability uncovered No reports showed anyone accessing customer data in Vercel Sandbox. The most severe finding was the defect in the upstream Linux kernel. The kernel zero day The program's most important report arrived on day…",
-   "title_mn": "Vercel Sandbox-ийн аюулгүй байдлын шалгалтаар Linux цөмийн эмзэг байдал илэрчээ",
-   "summary_mn": "Vercel Sandbox-ийн 1 сая ам.долларын урамшуулалт сорилтоор Linux цөмийн сүлжээний стек дэх нуле-дэй эмзэг байдал илэрч, үүнийг холбогдох түншүүдтэй хамтран амжилттай заслаа.",
-   "body_mn": "Vercel компаниас Vercel Sandbox орчныг шалгах зорилгоор зарласан 1 сая ам.долларын хакерын сорилтын үеэр аюулгүй байдлын судлаачид болон Trail of Bits компани хамтран ажиллажээ. Шалгалтаар үндсэн виртуалчлалын давхарга хэвийн ажиллаж байгаа нь тогтоогдсон ч Linux цөмийн сүлжээний стекээс ноцтой эмзэг байдал олдсон байна.\n\nСудлаач Paulos Yibelo тусгайлан бэлтгэсэн пакетуудыг ашиглан хост машин болон бусад түрээслэгчдийн санах ойн мэдээлэл рүү нэвтрэх, хост машиныг устгах эсвэл бүрэн эрх мэдэлтэйгээр команд ажиллуулах боломжтойг харуулжээ. Энэхүү эмзэг байдал нь Vercel Sandbox төдийгүй Linux цөөн ашигладаг ихэнх үүлэн тооцооллын үйлчилгээ үзүүлэгчдэд хамааралтай нийтлэг эрсдэл байв.\n\nVercel компани уг асуудлыг мэдсэн даруйдаа судлаачид болон AWS тэргүүтэй түншүүдтэйгээ хамтран яаралтай засвар хийж, хөгжүүлэгчдийн аюулгүй байдлыг хангасан байна. Мөн дотоод шалгалтаар өөр нэг санах ойн өгөгдөл алдагдах жижиг алдааг олж зассан аж.",
-   "published": "2026-10-14T07:00:00Z",
-   "added": "2026-10-14T22:54:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "004cd593adabcd24",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/sentinelone",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/6LgeCJxMCVafjSThCrAJNz/4859e929cd3c29c50f70ee81ff920dab/sentinelone-woven-texture-social-larger-logos.png?w=1600&h=900&fit=fill",
-   "title": "SentinelOne cuts malware analysis from weeks to hours",
-   "summary_en": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-   "title_mn": "SentinelOne OpenAI Daybreak ашиглан хортой программ шинжлэх хугацааг эрс багасгалаа",
-   "summary_mn": "SentinelOne компани OpenAI Daybreak хэрэгслийг ашиглан нарийн төвөгтэй хортой программ хангамжийг задлан шинжлэх хугацааг 4-6 долоо хоногоос ердөө 8 цаг болгон буурууллаа.",
-   "body_mn": "Кибер аюулгүй байдлын SentinelOne компани OpenAI Daybreak системийг нэвтрүүлснээр хортой программ хангамжийг (malware) задлан шинжлэх хугацааг хэдэн долоо хоногоос хэдхэн цаг болгон багасгаж чаджээ. Өмнө нь шилдэг судлаачдын хувьд нарийн төвөгтэй хортой кодыг задлан шинжлэхэд 4-6 долоо хоног шаардагддаг байсан бол одоо уг хугацаа ойролцоогоор 8 цаг болж богиноссон байна.\n\nИйнхүү шинжилгээний хугацаа хурдассанаар судлаачдад илүү олон аюул заналхийллийг шалгах, янз бүрийн хортой программ дахь холбоо хамаарлыг илрүүлэх боломж нээгдэж байна. Компанийн Хиймэл оюун ухааны ахлах ажилтан Gregor Stewart-ын мэдээлснээр, урьд өмнө төсөвлөх боломжгүй байсан мэдээллийн урсгалыг үүсгэж чадсан аж.\n\nГэсэн хэдий ч системийн архитектурыг өөрчлөх болон эцсийн хариуцлагыг хүлээх тал дээр хүний оролцоо зайлшгүй хэвээр байгаа аж. SentinelOne одоо OpenAI-ийн кибер аюулгүй байдлын чадавхыг код бичих үйл явцад нэвтрүүлж, хөгжүүлэгчдэд програм бүтээх явцдаа аюулгүй байдлын асуудлаа шийдвэрлэх боломжийг олгохоор зорьж байна.",
-   "published": "2026-10-14T12:00:00Z",
-   "added": "2026-10-14T22:54:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a43899852749542e",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v26.12.0",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.12.0%20(Current)",
-   "title": "Node.js 26.12.0 (Current)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 26.12.0 (Current) хувилбар гарлаа",
-   "summary_mn": "Node.js платформ шинэ 26.12.0 Current хувилбараа гаргалаа. Энэхүү шинэ хувилбарт төрсөн суурилуулагч болон эх кодыг дээрх албан ёсны холбоосоор татаж авах боломжтой.",
-   "body_mn": "Node.js платформ хөгжүүлэгчид зориулан Node.js 26.12.0 Current хувилбарыг албан ёсоор гаргалаа. Шинэ хувилбар нь Windows, macOS болон Linux үйлдвэрлэлийн системүүдэд зориулсан суулгагч болон бинар файлуудыг багтаасан болно.\n\nХөгжүүлэгчид албан ёсны вэб сайтаас Windows 64-бит болон ARM 64-бит суулгагч, macOS Apple Silicon болон Intel хувилбарууд, мөн Linux болон бусад архитектурт зориулсан эх кодыг татаж авах боломжтой юм. Дэлгэрэнгүй API баримт бичгийг албан ёсны баримтжуулалтын хуудаснаас үзэх боломжтой.\n\nЭнэхүү шинэчлэлт нь Node.js орчныг ашиглан сервер талын программ хөгжүүлж буй инженерүүдэд хамгийн сүүлийн үеийн боломжууд болон тогтвортой байдлыг хангаж өгдөг.",
-   "published": "2026-10-14T15:23:06Z",
-   "added": "2026-10-14T22:54:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "93e5fa26e67fee13",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v24.22.0",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.0%20(LTS)",
-   "title": "Node.js 24.22.0 (LTS)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 24.22.0 (LTS) хувилбар гарлаа",
-   "summary_mn": "Node.js runtime орчны урт хугацааны дэмжлэгтэй Node.js 24.22.0 LTS хувилбар бэлэн боллоо. Бүх платформд зориулсан суулгагч болон эх код татах боломжтой.",
-   "body_mn": "Node.js баг хөгжүүлэгчдэд зориулж урт хугацааны дэмжлэг үзүүлэх Node.js 24.22.0 LTS хувилбарыг гаргалаа. Энэхүү хувилбар нь бүтээгдэхүүний тогтвортой байдлыг эрхэмлэдэг төслүүдэд тохиромжтой юм.\n\nШинэ хувилбарт Windows, macOS, Linux болон бусад платформд зориулсан 64-бит болон ARM архитектурын суулгагч, бинар файлууд багтсан болно. Хөгжүүлэгчид албан ёсны линкүүдийг ашиглан шаардлагатай багцуудаа татан авч суулгах боломжтой.\n\nLTS хувилбар нь бизнесийн түвшний болон тогтвортой ажиллах шаардлагатай программ хангамжуудад найдвартай ажиллагааг хангадаг чухал шинэчлэлт юм.",
-   "published": "2026-10-14T15:26:48Z",
-   "added": "2026-10-14T22:54:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8e8f1a18d7e2ee46",
-   "subtopic": "ai-devtools",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
-   "image": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/diverse-grid.png",
-   "title": "Why do LLM pelicans look like this?",
-   "summary_en": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 148 # Comments: 130",
-   "title_mn": "Design Creativity Bench: Хиймэл оюун ухааны UI дизайн бүтээх бүтээлч байдлыг үнэлэх нь",
-   "summary_mn": "Шинэ судалгаагаар хөгжүүлэлтийн тэргүүлэх AI загварууд UI дизайн бүтээхдээ хүний дизайнеруудаас бүтээлч байдлаараа хоцорч байгааг тогтоожээ. Судлаачид загваруудын бүтээлч байдлыг хэмжих шинэ benchmark танилцууллаа.",
-   "body_mn": "Орчин үеийн хиймэл оюун ухааны загварууд вэб сайт болон программ хангамжийн хэрэглэгчийн интерфейс (UI) кодлох чадвараараа гайхалтай амжилт үзүүлж байгаа ч бүтээлч дизайны шийдвэр гаргахад учир дутагдалтай хэвээр байна. Судлаачид 16 тэргүүлэх загварыг 80 гаруй нээлттэй UI даалгавраар шалгаж, хүний дизайнеруудын бүтээлтэй харьцуулан үнэлжээ.\n\nТуршилтын үр дүнгээс харахад хамгийн өндөр оноо авсан загвар хүртэл хүний дизайны түвшинд хүрч чадахгүй байгаа бөгөөд загваруудын дунд өвөрмөц шийдэл гаргах чадвар дутагдаж байгааг илрүүлсэн байна. Тус судалгааны баг хиймэл оюун ухааны загваруудын бүтээлч байдлыг гурван хэмжигдэхүүнээр үнэлэх зорилготой Design Creativity Bench нэртэй шинэ benchmark болон үнэлгээний хүрээг танилцуулжээ.\n\nЭнэхүү судалгаа нь хөгжүүлэгчид болон дизайнеруудад AI хэрэгслүүдийг ашиглан интерфейс бүтээх явцдаа тэдгээрийн хязгаарлагдмал талуудыг олж харах, үнэлэх шинэ боломжийг олгож байна. Бүтээгдэхүүний код болон дизайныг автоматжуулахад анхаарч буй инженерүүдэд энэхүү үнэлгээний үр дүн чухал мэдээлэл болж байна.",
-   "published": "2026-10-14T16:33:34Z",
-   "added": "2026-10-14T22:54:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "fc5dbee1f7755a74",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "xAI",
-   "url": "https://x.ai/news/grok-voice-3",
-   "image": "https://media.x.ai/v1/website/og-grok-voice-3-0-b281361b.webp",
-   "title": "Introducing Grok Voice 3.0 | SpaceXSI",
-   "summary_en": "The world’s most intelligent voice model.",
-   "title_mn": "xAI ярианы шинэ загвар Grok Voice 3.0-ийг танилцууллаа",
-   "summary_mn": "xAI компани дуу хоолойгоор шууд харилцдаг Grok Voice 3.0 загвараа худалдаанд гаргав. 1 секунд хүрэхгүй хоцролттой уг загвар нь Voice Agent API-д минутын $0.08 үнэтэй гарсан байна.",
-   "body_mn": "xAI компани ярианаас ярианд шууд хөрвүүлдэг (speech-to-speech) Grok Voice 3.0 загвараа албан ёсоор зарлалаа. Тус загвар нь 1 секундээс бага хугацааны хоцролттой ажилладаг бөгөөд хэрэглэгчийн дэмжлэгийн дуудлага шийдвэрлэх чадвараараа дээд амжилт тогтоосон гэж мэдээлжээ.\n\nArtificial Analysis-ийн хараат бус туршилтаар Grok Voice 3.0 нь Speech-to-Speech Index дээр 86.9 оноо авч нэгдүгээрт жагссан байна. Мөн ярианы дундуурх зогсолт болон тасалдалтыг хэр зэрэг бодитой зохицуулж буйг хэмждэг Full Duplex Bench шалгуурт 97 хувийн үнэлгээ авчээ. Үүнээс гадна ServiceNow-ийн EVA-Bench үнэлгээгээр аж ахуйн нэгжийн түвшний дуут агентуудын дунд 74 хувийн нарийвчлалтайгаар тэргүүлсэн байна.\n\nОдоогоор уг загварыг Tesla автомашинуудын гар ашиглахгүй команд болон Starlink-ийн өдөрт 20,000 орчим дуудлага хүлээн авдаг дуудлагын төвд ашиглаж байгаа аж. Starlink дуудлагуудын 70 орчим хувийг хүний оролцоогүйгээр шийдвэрлэж байна.\n\nХөгжүүлэгчдэд зориулан Grok Voice 3.0-ийг Voice Agent API-аар дамжуулан Grok Voice 2.0-той ижил буюу минутын $0.08 (цагийн $4.80) үнээр санал болгож эхэлжээ. Коддоо grok-voice-latest ашиглаж буй системүүд шинэ хувилбар луу автоматаар шилжсэн байна.",
-   "published": "2026-10-14T16:41:49Z",
-   "added": "2026-10-14T22:54:29Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "16ceb924f9fdca80",
-   "subtopic": "vibe-coding",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://lwn.net/Articles/1100449/",
-   "image": "",
-   "title": "Linus Torvalds's first LLM-assisted patch series",
-   "summary_en": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 110 # Comments: 92",
-   "title_mn": "Линус Торвалдс анх удаа LLM ашиглан засварын багц бэлтгэжээ",
-   "summary_mn": "Линус Торвалдс Maintainers Summit дээр LLM загвар ашиглан patch бичсэнээ хуваалцлаа. Үр дүнд нь read() үйлдлийн хурд эрс сайжирсан ч кодын хяналтаар race condition илэрчээ.",
-   "body_mn": "Саяхан болж өнгөрсөн Maintainers Summit уулзалтын үеэр Linux-ийг үндэслэгч Линус Торвалдс томоохон хэлний загвар (LLM) ашиглан анхны засварын багцаа (patch series) гаргасан тухайгаа хуваалцжээ.\n\nУг өөрчлөлтийн үр дүнд read() үйлдлийг эрчимтэй ашигладаг бенчмаркийн гүйцэтгэл даруй нэг эрэмбээр буюу арав дахин хурдассан байна. Гэсэн хэдий ч хамтран хөгжүүлэгчдийн кодын хяналтын (code review) явцад уг кодонд уралдах нөхцөл (race condition) илэрсэн тул дахин сайжруулалт хийх шаардлагатай болсон байна.\n\nЭнэхүү тохиолдол нь туршлагатай ахлах хөгжүүлэгчид ч цөмийн түвшний системийн гүйцэтгэлийг оновчлоход хиймэл оюуныг ашиглаж эхэлснийг харуулахын зэрэгцээ LLM-ийн үүсгэсэн кодыг зайлшгүй нарийн нягтлах шаардлагатайг сануулж байна.",
-   "published": "2026-10-14T16:55:07Z",
-   "added": "2026-10-14T22:54:29Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d469e8fd09ac9728",
-   "subtopic": "react",
-   "source": "facebook/react",
-   "source_label": "facebook/react",
-   "url": "https://github.com/react/react/releases/tag/v19.0.9",
-   "image": "https://opengraph.githubassets.com/30165f30111eea23d2315df1de5b422718fdc9946c41fdd659fcf4ad361a43b9/react/react/releases/tag/v19.0.9",
-   "title": "react 19.0.9 (October 14th, 2026)",
-   "summary_en": "React Server Components Improve transport protocol ( #37842 by @unstubbable and @eps1lon )",
-   "title_mn": "React 19.0.9 хувилбар гарч, RSC-ийн протоколыг сайжруулав",
-   "summary_mn": "React 19.0.9 хувилбар албан ёсоор гарлаа. Шинэ хувилбарт React Server Components-ийн өгөгдөл дамжуулах transport протоколыг сайжруулсан байна.",
-   "body_mn": "React баг 19.0.9 хувилбарыг хөгжүүлэгчдэд хүргэлээ. Энэхүү жижиг шинэчлэлтээр React Server Components (RSC)-ийн ажиллагаатай холбоотой сайжруулалтыг багтаасан байна.\n\nТус хувилбарт RSC-ийн transport protocol буюу серверээс клиент рүү компонент болон түүний өгөгдлийг дамжуулах бүтцийг илүү найдвартай болгож сайжруулжээ (#37842).\n\nReact 19 дээр суурилсан серверийн компонентуудтай ажиллаж буй хөгжүүлэгчид уг шинэ хувилбар луу шинэчлэх замаар өгөгдөл дамжуулалтын тогтвортой байдлыг сайжруулах боломжтой юм.",
-   "published": "2026-10-14T17:05:59Z",
-   "added": "2026-10-14T22:54:29Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "94ee28b93f9d2d83",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/block-ai-powered-security",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/6csT9lb6PlJ3KoxJDX6p7s/c94f16d2eadb4b01cb428ce5c62db7a2/Block-AI-Powered-Security-SEO-Image-1920x1080.png?w=1600&h=900&fit=fill",
-   "title": "How Block is building AI-powered security with OpenAI technology",
-   "summary_en": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-   "title_mn": "Block компани кибер аюулгүй байдлын үйл ажиллагаандаа OpenAI Daybreak ашиглаж байна",
-   "summary_mn": "Square болон Cash App-ийн толгой компани Block нь кибер эмзэг байдлыг илрүүлэх, шалгах явцыг түргэсгэхийн тулд OpenAI Daybreak загварыг ашиглаж буйгаа танилцууллаа. Үүний үр дүнд сэжигтэй тохиолдлыг шалгах дамжуулах чадвар 50 хувиар өсжээ.",
-   "body_mn": "Square, Cash App болон Afterpay зэрэг бүтээгдэхүүнийг хөгжүүлэгч Block компани кибер аюулгүй байдлын үйл ажиллагаандаа OpenAI Daybreak систем болон Defense Factory загварыг ашиглаж эхэлжээ. Өмнө нь хэдэн долоо хоног зарцуулдаг байсан эмзэг байдлын дүн шинжилгээ, шалгалтын ажлуудыг одоо хэдхэн цагийн дотор гүйцэтгэх боломжтой болсон байна.\n\nКомпанийн аюулгүй байдлын баг сүүлийн долоон сарын бүтээгдэхүүний телеметрийн өгөгдлийг нэг цаг хүрэхгүй хугацаанд дахин шалгаж, халдлагын дарааллыг холбон бүхэл бүтэн замаар нь илрүүлэх боломжтой болжээ. Мөн сэжигтэй дохиоллыг шүүх үйл явц (triage) 50 хувиар өсөж, улирал тутамд 1100 орчим шинжээч-цагийн ажлыг хиймэл оюун ухаан гүйцэтгэж байгаа аж.\n\nТүүнчлэн Block бүх ажилд хамгийн сүүлийн үеийн нэг загварыг ашиглахын оронд Daybreak дээр суурилсан зохицуулагч системээр дамжуулан тохирох загваруудыг хуваарилж, эцсийн үр дүнг хүний хяналтаар баталгаажуулдаг дэд бүтцийг нэвтрүүлсэн байна.",
-   "published": "2026-10-14T07:00:00Z",
-   "added": "2026-10-15T01:09:00Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "da6653daf7a0bcc3",
    "subtopic": "anthropic",
    "source": "Anthropic (Google News)",
@@ -596,6 +396,106 @@
    "published": "2026-10-15T04:52:00Z",
    "added": "2026-10-15T06:05:11Z",
    "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e1d7f2ee6c9f0c05",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://clova.email/",
+   "image": "https://clova.email/og-image.png",
+   "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+   "summary_en": "Infinite inboxes, including prefixes where you don't have to create inboxes before you use them -- they self create when you add a suffix. Three types of inboxes: - One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else. - Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice. - Prefix. The most powerful. Declare a prefix like \"service\" and then invent any suffix, like \"service-netflix\" or \"service$bank\" and it creates a new…",
+   "title_mn": "Clova.Email: Нэг ирсэн имэйл хаягаар хязгаарлагддаг түр хаягийн үйлчилгээ гарав",
+   "summary_mn": "Нэг хаягт зөвхөн анхны илгээгчээс захидал хүлээн авдаг шинэ имэйл үйлчилгээ гарлаа. Тус платформ нь Claude болон Cursor зэрэг хэрэгслүүдтэй MCP протоколоор холбогдон автоматаар ажиллах боломжтой.",
+   "body_mn": "Хэрэглэгчийн бодит имэйл хаягийг нууцлах зорилготой Clova.Email үйлчилгээ танилцуулагдлаа. Энэхүү платформоор үүсгэсэн хаяг руу хамгийн анх захидал илгээсэн хүн эсвэл байгууллага тухайн хаягийг бүрэн эзэмших бөгөөд бусад ямар ч хаягаас ирсэн имэйлийг автоматаар цуцалдаг онцлогтой.\n\nХэрэглэгчид хаяг бүрийн хүчинтэй хугацааг тохируулах боломжтой бөгөөд хугацаа дуусмагц тухайн хайрцагт буй бүх захидлууд устах зарчмаар ажиллана. Үнэгүй багцад өдөрт 100 мессеж, Pro болон Business багцад өдөрт 1,000 мессежийн лимит олгогджээ.\n\nХөгжүүлэгчид болон AI хэрэглэгчдэд хамгийн чухал давуу тал нь Model Context Protocol (MCP) дэмжлэг юм. Claude, Cursor зэрэг агентлаг хэрэгслүүд MCP-ээр холбогдож, шинэ бүртгэлийн код авах, баримтуудыг шүүх ажлуудыг хүний оролцоогүй гүйцэтгэх боломжтой болж байна.",
+   "published": "2026-10-14T17:00:59Z",
+   "added": "2026-10-15T11:50:39Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "64b4c0ac42c9f46a",
+   "subtopic": "packages",
+   "source": "Node Weekly",
+   "source_label": "Node Weekly",
+   "url": "https://nodeweekly.com/issues/644",
+   "image": "https://res.cloudinary.com/cpress/image/upload/v1653576619/lgfqinzbdqttwmhvljxb.png",
+   "title": "The NodeConf EU 2026 talks are online",
+   "summary_en": "#​644 — October 15, 2026 Read on the Web 📝 We're taking next week off and will be back on Thursday, October 29. __ Peter Cooper, your editor Skia Canvas 4.0: A Fast Canvas Environment for Node — Based on Google's Skia graphics engine, it produces results similar to Chrome's own canvas. GPU accelerated and can render images, paths, fonts, shapes, etc. both to static images and live in a native window. v4.0 is faster, lighter, and adds native PDF loading. GitHub repo. Christian Swinehart Cut Your GitHub Actions Times and Costs in Half — Faster Node builds with better hardware, unlimited…",
+   "title_mn": "NodeConf EU цуврал, TanStack Start 1.0 болон Skia Canvas 4.0 танилцуулагдлаа",
+   "summary_mn": "TanStack Start 1.0 тогтвортой хувилбар гарч, React болон Solid дээр стриминг SSR санал болгож эхлэв. Мөн Skia Canvas 4.0 болон Express 5.3 шинэчлэгдсэн бол Node.js 26.12.0 хувилбар гарчээ.",
+   "body_mn": "Node.js экосистемийн ээлжит шинэчлэлүүдээс хамгийн их анхаарал татсан нь TanStack Start 1.0 бүрэн стекийн фрэймворк тогтвортой шатанд хүрсэн явдал байлаа. React болон Solid дээр бүрэн тулгуурласан энэхүү фрэймворк нь Node, Bun, Cloudflare Workers орчинд типийг бүрэн шалгах серверийн функцууд болон стрийминг SSR боломжийг авчирч байна.\n\nҮүний зэрэгцээ Skia Canvas 4.0 хувилбар танилцуулагдсан бөгөөд график дүрслэлийн хурд сайжирч, санах ой бага ашигладаг болсноос гадна PDF файлуудыг шууд унших дэмжлэг нэмэгджээ. Энэхүү багц нь Google-ийн Skia график хөдөлгүүр дээр суурилсан учир Chrome-ийн өөрийн канвастай ижил үр дүнг хурдан гаргах давуу талтай юм.\n\nNode.js өөрөө v26.12.0 (Current) болон v24.22.0 (LTS) хувилбарууддаа шинэчлэл хийсэн бол түгээмэл серверийн сан болох Express 5.3 олон тооны алдааны засвар, аюулгүй байдлын сайжруулалттайгаар нийтлэгдэв. Мөн NodeConf EU 2026 хурлын FFI, WebAssembly, V8 санах ойн менежмент сэдэвт илтгэлүүд онлайн тавигдсан байна.",
+   "published": "2026-10-15T00:00:00Z",
+   "added": "2026-10-15T11:50:39Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b3362b5553094135",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Cybernews",
+   "url": "https://cybernews.com/ai-news/grok-bot-phishing-spacexai-invite-scam/",
+   "image": "https://media.cybernews.com/images/featured-big/2026/08/Grok-blocking-replies.jpg",
+   "title": "Grok Bot phishing email catch exposes AI agent risks",
+   "summary_en": "Grok Bot phishing email detection exposed xAI template flaws, but shared AI agents may leak data or follow malicious prompts. See which risks matter",
+   "title_mn": "Grok Bot фишинг имэйлийг илрүүлсэн ч AI агентын эрсдэл тодорчээ",
+   "summary_mn": "Tesla-ийн инженер Wes Morrill Grok Bot-оор SpaceXAI-ийн нэрийн дор ирсэн фишинг имэйлийг илрүүлсэн тухай мэдээлсэн. Гэхдээ Grok Bot хуваалцсан компьютер дээр ажиллах тул эрсдэл үүсгэж болзошгүй.",
+   "body_mn": "Tesla-ийн Cybertruck-ийн ахлах инженер Wes Morrill Grok Bot имэйлд илгээгдсэн фишинг халдлагыг илрүүлсэнээ X дээр нийтэлжээ. Имэйл SPF, DKIM, DMARC шалгалтаас тэнцсэн ч Grok Bot аюулгүй байдлын шалгалт хийхэд халдлага гэдгийг тогтоожээ. Халдагч xAI-ийн багийн нэрэнд HTML кодыг оруулсан нь загварын escape хийгдээгүй байсантай холбоотой гэж мэдээлэгджээ.\n\nГэхдээ Cybernews Grok Bot нь хуваалцсан үүлэн компьютер дээр 24/7 ажилладаг тул нэг ботод унасан зааварчилгаа бусад ботод ч хүрч болзошгүйг анхааруулжээ. SpaceXAI өөрөө компьютер нь хэрэглэгчийн дансанд хамаардаг гэж мэдэгдсэн. Иймд нууц үг, файлыг хэн нэгэн ботод хүртээмжтэй байлгахгүй байхыг зөвлөж байна.\n\nХөгжүүлэгчдэд энэ нь AI агентад хандах эрх, нууцлал болон prompt injection эрсдлийг анхаарах шаардлагатайг харуулж байна.",
+   "published": "2026-10-15T09:31:41Z",
+   "added": "2026-10-15T11:50:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f592f4f66c2ba929",
+   "subtopic": "react-native",
+   "source": "facebook/react-native",
+   "source_label": "facebook/react-native",
+   "url": "https://github.com/react/react-native/releases/tag/v0.88.0",
+   "image": "https://opengraph.githubassets.com/e0b9e84a451bc69c7f91f4f7b1ce7dea10cdfdf4fb71e8dceb22de09378afe84/react/react-native",
+   "title": "react-native v0.88.0",
+   "summary_en": "v0.88.0",
+   "title_mn": "React Native v0.88.0 хувилбар гарлаа",
+   "summary_mn": "React Native фреймворкийн v0.88.0 шинэ хувилбар албан ёсоор цацагдлаа.",
+   "body_mn": "React Native төслийн хувьд v0.88.0 хувилбар нь хөгжүүлэгчдэд зориулсан шинэ боломж болон засваруудыг агуулсан байдлаар гарсан байна.\n\nЭнэхүү шинэчлэл нь гар утасны аппликейшн хөгжүүлэлтийг сайжруулах, гүйцэтгэлийг нэмэгдүүлэх зорилготой бөгөөд төслийн албан ёсны repository дээрээс дэлгэрэнгүй хувилбарын тэмдэглэлийг харах боломжтой.\n\nХөгжүүлэгчид төслөө шинэ хувилбар руу шилжүүлэхдээ хамааралтай сангуудаа шалгах шаардлагатай.",
+   "published": "2026-10-15T11:38:19Z",
+   "added": "2026-10-15T11:50:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a45d64982f7c69b6",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_bib6g3bib6.2e16d0ba.fill-1200x600.jpg",
+   "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
+   "summary_en": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and tool execution remain entirely inside your infrastructure while pulling configuration updates from the control plane. Developers can expose OpenAPI 3.0.x specifications as discoverable MCP tools, leverage existing security policies and API products, and trace end-to-end requests using W3C trace context headers.",
+   "title_mn": "Apigee hybrid дээр MCP дэмжлэг нэмэгдлээ: агент хэрэгслүүдийг өөрийн кластер дотор ажиллуулна",
+   "summary_mn": "Google Apigee hybrid 1.17.0 хувилбараар MCP (Model Context Protocol) дэмжлэгийг нэвтрүүлж, MCP data plane-ийг хэрэглэгчийн өөрийн Kubernetes кластер дотор ажиллуулах боломжтой боллоо. OpenAPI спецификаас MCP tool-ууд автоматаар үүснэ. MCP-ийн хүсэлт кластерээс гадагш гарахгүй.",
+   "body_mn": "Google Apigee-д өмнө нь MCP дэмжлэгийг урьдчилан харах хувилбараар зарласан бол одоо Apigee hybrid 1.17.0 хувилбарт, 2026 оны 9-р сарын 14-нд, MCP-ийг хэрэглэгчийн өөрийн Kubernetes кластер дотор ажиллуулах боломж нэмэгдлээ. Үүнийг зохицуулдаг шалтгаан нь зохицуулалтын шаардлага, өгөгдлийн төвийн байршил эсвэл олон үүлэн орчин байж болно.\n\nАжиллах зарчим нь өмнөх Apigee-тэй адил. OpenAPI 3.0.x спецификаар API-гээ тодорхойлж, MCP Discovery Proxy үүсгэхэд спецификийн операци бүр MCP tool болж хувирна. Агентууд JSON-RPC протоколоор tools/list болон tools/call дуудлагыг хийнэ. Хөгжүүлэгч MCP серверийн код бичих шаардлагагүй.\n\nHybrid-ийн онцлог нь MCP data plane кластерийн дотор ажилладаг явдал юм. Control plane Google Cloud дээр үлдэж, sidecar нь tool-ийн тохиргоог кластераас тогтмол татдаг. MCP-ийн хүсэлт, хариу кластерээс гадагш гарахгүй бөгөөд Google талаас кластер руу шууд холболт үүсгэгдэхгүй.\n\nMCP нь анхдагчаар идэвхгүй бөгөөд overrides.yaml файлд enableMcpServer: true гэж тохируулж, apigee-operator chart-ыг эхлээд, apigee-org chart-ыг дараа нь шинэчлэх ёстой. Дараалал чухал тул буруу дарааллаар шинэчлэвэл MCP pod-ууд үүсэхгүй. Анхдагч тохиргоо нь хоёр MCP replica, арав хүртэл автоматаар өсөх чадвартай.",
+   "published": "2026-10-15T11:50:39Z",
+   "added": "2026-10-15T11:50:39Z",
+   "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
  }

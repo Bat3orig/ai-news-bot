@@ -1,0 +1,17 @@
+{
+ "id": "b3362b5553094135",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Cybernews",
+ "url": "https://cybernews.com/ai-news/grok-bot-phishing-spacexai-invite-scam/",
+ "image": "https://media.cybernews.com/images/featured-big/2026/08/Grok-blocking-replies.jpg",
+ "title": "Grok Bot phishing email catch exposes AI agent risks",
+ "summary_en": "Grok Bot phishing email detection exposed xAI template flaws, but shared AI agents may leak data or follow malicious prompts. See which risks matter",
+ "title_mn": "Grok Bot фишинг имэйлийг илрүүлсэн ч AI агентын эрсдэл тодорчээ",
+ "summary_mn": "Tesla-ийн инженер Wes Morrill Grok Bot-оор SpaceXAI-ийн нэрийн дор ирсэн фишинг имэйлийг илрүүлсэн тухай мэдээлсэн. Гэхдээ Grok Bot хуваалцсан компьютер дээр ажиллах тул эрсдэл үүсгэж болзошгүй.",
+ "body_mn": "Tesla-ийн Cybertruck-ийн ахлах инженер Wes Morrill Grok Bot имэйлд илгээгдсэн фишинг халдлагыг илрүүлсэнээ X дээр нийтэлжээ. Имэйл SPF, DKIM, DMARC шалгалтаас тэнцсэн ч Grok Bot аюулгүй байдлын шалгалт хийхэд халдлага гэдгийг тогтоожээ. Халдагч xAI-ийн багийн нэрэнд HTML кодыг оруулсан нь загварын escape хийгдээгүй байсантай холбоотой гэж мэдээлэгджээ.\n\nГэхдээ Cybernews Grok Bot нь хуваалцсан үүлэн компьютер дээр 24/7 ажилладаг тул нэг ботод унасан зааварчилгаа бусад ботод ч хүрч болзошгүйг анхааруулжээ. SpaceXAI өөрөө компьютер нь хэрэглэгчийн дансанд хамаардаг гэж мэдэгдсэн. Иймд нууц үг, файлыг хэн нэгэн ботод хүртээмжтэй байлгахгүй байхыг зөвлөж байна.\n\nХөгжүүлэгчдэд энэ нь AI агентад хандах эрх, нууцлал болон prompt injection эрсдлийг анхаарах шаардлагатайг харуулж байна.",
+ "published": "2026-10-15T09:31:41Z",
+ "added": "2026-10-15T11:50:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

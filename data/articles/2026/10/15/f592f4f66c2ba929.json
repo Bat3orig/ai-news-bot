@@ -1,0 +1,17 @@
+{
+ "id": "f592f4f66c2ba929",
+ "subtopic": "react-native",
+ "source": "facebook/react-native",
+ "source_label": "facebook/react-native",
+ "url": "https://github.com/react/react-native/releases/tag/v0.88.0",
+ "image": "https://opengraph.githubassets.com/e0b9e84a451bc69c7f91f4f7b1ce7dea10cdfdf4fb71e8dceb22de09378afe84/react/react-native",
+ "title": "react-native v0.88.0",
+ "summary_en": "v0.88.0",
+ "title_mn": "React Native v0.88.0 хувилбар гарлаа",
+ "summary_mn": "React Native фреймворкийн v0.88.0 шинэ хувилбар албан ёсоор цацагдлаа.",
+ "body_mn": "React Native төслийн хувьд v0.88.0 хувилбар нь хөгжүүлэгчдэд зориулсан шинэ боломж болон засваруудыг агуулсан байдлаар гарсан байна.\n\nЭнэхүү шинэчлэл нь гар утасны аппликейшн хөгжүүлэлтийг сайжруулах, гүйцэтгэлийг нэмэгдүүлэх зорилготой бөгөөд төслийн албан ёсны repository дээрээс дэлгэрэнгүй хувилбарын тэмдэглэлийг харах боломжтой.\n\nХөгжүүлэгчид төслөө шинэ хувилбар руу шилжүүлэхдээ хамааралтай сангуудаа шалгах шаардлагатай.",
+ "published": "2026-10-15T11:38:19Z",
+ "added": "2026-10-15T11:50:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
