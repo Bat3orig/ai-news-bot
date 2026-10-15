@@ -1,0 +1,17 @@
+{
+ "id": "c0ca492bd0f29b00",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/introducing-figma-specs/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+ "title": "Introducing Specs: Markdown as a medium",
+ "summary_en": "We’re launching Specs, a container for your context that lives on the Figma canvas.",
+ "title_mn": "Figma Specs: Markdown-ийг canvas дээрх multiplayer spec болгох шинэ боломж",
+ "summary_mn": "Figma Specs нь Markdown файлыг canvas дээр шууд spec болгон хөрвүүлэх, олон хүнтэй хамтран засах боломжтой шинэ контейнер юм. Figma-ийн agent болон MCP сервер нь spec-ийг кодын агентуудтай холбож, дизайны шийдвэрийг код руу дамжуулна.",
+ "body_mn": "Figma шинэ Specs контейнерээ танилцуулж байна. Хэрэглэгчид ямар ч .md файлыг canvas дээр чирэн оруулахад тэр нь spec болдог. Одоо олон бүтээгчид Markdown-оор ажиллаж, агентуудтай хамтран ажилладаг тул энэ формат контекст хуваалцах гол хэлбэр болсон гэж Figma тайлбарлаж байна.\n\nSpecs нь олон хүнтэй хамтран засах боломжтой бөгөөд spec-ийг duplicate хийж, хүн бүр өөрийн хувилбар дээр зэрэг ажиллаж болно. GitHub, Hex зэрэг connector-ууд кодын сан болон өгөгдлөөс контекст татаж, агентын хариултыг шууд баримт дээр комментоор үлдээх боломжтой.\n\nFigma-ийн MCP сервер дизайны шийдвэрийг кодын агентуудад хүргэдэг тул бүтээсэн зүйл дизайнтай таарах магадлал нэмэгдэнэ. Figma мөн MCP-ийн алдаа, token хэрэглээг бууруулсан гэдгээ дурдсан. Энэ нь агентаар код бичдэг хөгжүүлэгчдэд практикт ач холбогдолтой шинэчлэл юм.",
+ "published": "2026-10-15T04:51:00Z",
+ "added": "2026-10-15T06:05:11Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

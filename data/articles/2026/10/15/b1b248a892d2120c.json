@@ -1,0 +1,17 @@
+{
+ "id": "b1b248a892d2120c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Dark Reading",
+ "url": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
+ "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebc5737d9330c848/6acfd08de9c3113a94cf7694/cat_peek_Seregaff_Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
+ "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
+ "summary_en": "A bug in Claude Code Desktop's preview pane can allow adversaries to steal credentials from developers, undetected.",
+ "title_mn": "Claude Code Desktop-т хөгжүүлэгчийн мэдээлэл хулгайлах SneakPeek сул тал илрүүлжээ",
+ "summary_mn": "Anthropic-ийн Claude Code Desktop програмын урьдчилан харах цонхонд илөрсөн SneakPeek нэртэй сул тал нь хөгжүүлэгчийн SSH түлхүүр, AWS болон OAuth эрхүүдийг чимээгүй хулгайлах эрсдэлтэй байсныг судлагчид тогтоожээ.",
+ "body_mn": "Noma компанийн судлагчид Anthropic-ийн Claude Code Desktop хэрэгслийн автомат урьдчилан харах цонхонд (preview pane) өндөр эрсдэлтэй эмзэг байдал байгааг илрүүлжээ. \"SneakPeek\" гэж нэрлэсэн энэхүү сул тал нь ямар нэгэн товшилт эсвэл анхааруулгагүйгээр хөгжүүлэгчийн компьютер дээрх эмзэг файлуудыг хулгайлах боломжийг хакеруудад олгодог байсан байна.\n\nУг сул тал нь урьдчилан харах хэсгийн архитектурын гурван гол дутагдал буюу агуулгын аюулгүй байдлын бодлого (CSP) дутуу байх, гарал үүслийн хязгаарлалтгүй хандалт, идэвхгүй хүсэлт шүүлтүүрээс үүдэлтэй аж. Хакерүүд 256KB-аас дээш хэмжээтэй HTML файлыг хортой скрипттэй хамт амруулахад Claude Code уг файлыг урьдчилан харах явцдаа скриптийг автоматаар ажиллуулж, AWS болон GitHub эрх, API түлхүүрүүдийг экспортлох боломжтой байжээ.\n\nAnthropic компани энэхүү асуудлыг анх долдугаар сард хүлээн авч засвар хийсэн боловч судлагчид үүнийг тойрч гар аргаар шалгах боломжтойг тогтоосны дараа наймдугаар сард илүү гүнзгий архитектурын засварыг хийсэн байна. Мэргэжилтнүүд хөгжүүлэгчдэд програм хангамжаа тогтмол шинэчилж, урт хугацааны чухал итгэмжлэлүүдийг локал компьютер дээр хадгалахгүй байхыг зөвлөж байна.",
+ "published": "2026-10-14T20:35:55Z",
+ "added": "2026-10-15T06:05:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

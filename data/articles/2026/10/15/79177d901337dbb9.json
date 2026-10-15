@@ -1,0 +1,17 @@
+{
+ "id": "79177d901337dbb9",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Hindustan Times",
+ "url": "https://www.hindustantimes.com/world-news/us-news/anthropic-to-update-claude-ai-with-us-election-information-ahead-of-midterms-101792021126682.html",
+ "image": "https://www.hindustantimes.com/ht-img/img/2026/10/14/1600x900/logo/Anthropic_1792021557714_gIFg_1792021557827_gxil_61fa6758-f687-4bff-bfbe-9c9cd5e20808_IrH2.jpg",
+ "title": "Anthropic to update Claude AI with US election information ahead of midterms | Hindustan Times",
+ "summary_en": "Anthropic will add official voting information and election results to Claude ahead of November midterms, using data from nonprofit Democracy Works.",
+ "title_mn": "Anthropic Claude AI-д АНУ-ын сонгуулийн албан ёсны мэдээллийг нэмэхээр болжээ",
+ "summary_mn": "Anthropic компани АНУ-ын 2026 оны завсрын сонгуулийн өмнө Claude чатботдоо албан ёсны санал өгөх журам болон сонгуулийн үр дүнг харуулах шинэ функц нэмэхээ зарлала.",
+ "body_mn": "Anthropic компани АНУ-ын арваннэгдүгээр сард болох завсрын сонгуулийн өмнө Claude чатботдоо санал өгөх үйл явц болон сонгуулийн албан ёсны үр дүнг харуулах шинэ боломжийг нэмэхээр болсноо зарлалаа. Энэхүү шинэчлэлт нь хэрэглэгчдэд найдвартай мэдээллээр хангаж, хиймэл оюун ухааныг улс төрийн үйл явцад буруугаар ашиглахаас урьдчилан сэргийлэх зорилготой юм.\n\nУг функц нь ашгийн бус Democracy Works байгууллагын мэдээллийн санг ашиглах бөгөөд хэрэглэгчид санал өгөх журмын талаар асуухад мужийн болон орон нутгийн сонгуулийн эх сурвалжаас шууд хариулт авах боломжтой болно. Anthropic-ийн гаргасан судалгаагаар хэрэглэгчдийн ярианы багагүй хувь нь улс төр, нийгмийн бодлогод хамаардаг байна.\n\nЭнэхүү шинэчлэлт нь сонгуулийн өдрүүдэд чатботын өгч буй мэдээллийн үнэн зөв байдлыг сайжруулахад чиглэгдсэн бөгөөд сонгогчдод улс төрийн нэр дэвшигчдийг санал болгох зорилгогүйгээр зөвхөн логистик болон үйл явцын мэдээллийг хүргэх ажээ.",
+ "published": "2026-10-14T23:52:01Z",
+ "added": "2026-10-15T06:05:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

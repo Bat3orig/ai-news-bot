@@ -1,0 +1,17 @@
+{
+ "id": "952ef36f55797ef0",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Economic Times",
+ "url": "https://m.economictimes.com/tech/artificial-intelligence/anthropic-to-add-us-voting-information-to-claude-before-midterms/articleshow/134955974.cms",
+ "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-17016,resizemode-75,msid-134955974/tech/artificial-intelligence/anthropic-to-add-us-voting-information-to-claude-before-midterms.jpg",
+ "title": "Anthropic to add US voting information to Claude before midterms",
+ "summary_en": "Anthropic said on Wednesday it would add official US voting information from nonprofit Democracy Works to its Claude AI chatbot later this month, ahead of the November midterm elections.",
+ "title_mn": "Anthropic компани Claude системд АНУ-ын сонгуулийн албан ёсны мэдээллийг нэмэхээр болжээ",
+ "summary_mn": "Anthropic компани АНУ-ын завсарлагааны сонгуулийн өмнө Democracy Works байгууллагаас гаргасан сонгуулийн албан ёсны мэдээллийг Claude хиймэл оюун ухаанд нэгтгэхээ мэдэгдлээ.",
+ "body_mn": "Anthropic компани энэ сарын сүүлээр болох АНУ-ын завсарлагааны сонгуулийн өмнө Claude хиймэл оюун ухааны чатботдоо сонгуулийн албан ёсны мэдээллүүдийг нэмж оруулахаар болсноо лхагва гарагт зарлалаа.\n\nУг шинэчлэлтээр дамжуулан хэрэглэгчид Democracy Works ашгийн бус байгууллагын баталгаатай мэдээллийг Claude системээс шууд авах боломжтой болох бөгөөд энэ нь сонгуулийн үеэр худал мэдээлэл тархахаас сэргийлэх зорилготой юм.",
+ "published": "2026-10-15T03:01:59Z",
+ "added": "2026-10-15T06:05:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

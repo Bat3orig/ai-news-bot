@@ -1,0 +1,17 @@
+{
+ "id": "0c6286e4c6baaf98",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/design-together-with-code-layers/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/fd9f6ce97dbb2f1dadaf0baf1542447e73bcf51d-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+ "title": "Design together with code layers on the canvas",
+ "summary_en": "Today, code layers moves into open beta. Now teams can explore and build prototypes backed by real code on the canvas.",
+ "title_mn": "Figma код давхаргыг нээлттэй бета хувилбараар гаргалаа",
+ "summary_mn": "Figma Design платформд бодит код дээр суурилсан прототип хийх код давхарга (code layers) нээлттэй бета хувилбараар гарлаа.",
+ "body_mn": "Дизайнерууд болон хөгжүүлэгчдэд зориулсан шинэ боломж болох код давхарга (code layers) Figma Design дээр албан ёсоор нээлттэй бета хувилбартаа шилжлээ. Энэ нь багуудад микро харилцан үйлчлэлээс эхлээд бүтэн урсгал хүртэлх туршилтуудыг бодит код дээр тулгуурлан хийх боломжийг олгож байна.\n\nХөгжүүлэгчид болон дизайнерууд GitHub эсвэл орон нутгийн хавтсаас хөнгөн жинтэй прототипийн кодыг импортлон Figma хуудас дээр зэрэгцүүлэн ажиллах боломжтой. Мөн Figma Chrome өргөтгөлийг ашиглан шууд вэб туршлагыг платформ руу татах эсвэл Figma загварыг интерактив код давхарга болгон хувиргах боломжтой юм.\n\nЭнэхүү шинэчлэлт нь багуудад санаагаа хурдан хуваалцах, код болон дизайн хоорондын зөрүүг багасгахад тусална. Тухайлбал, агентууд болон Figma MCP сервер хамтран ажилласнаар дизайны шийдвэрүүдийг код бичих орчин руу алдаагүй шилжүүлэх боломж бүрджээ.",
+ "published": "2026-10-15T04:52:00Z",
+ "added": "2026-10-15T06:05:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

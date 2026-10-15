@@ -1,0 +1,17 @@
+{
+ "id": "71dd155a841a4883",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "36Kr",
+ "url": "https://eu.36kr.com/en/p/4026370532790145",
+ "image": "https://img.36krcdn.com/hsossms/20261015/v2_54885c3cba8b41e893e8b4ba4508458d@000000@ai_oswg903555oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+ "title": "Claude Fully Lifts Third-Party App Ban Immediately",
+ "summary_en": "Discover why openness stands as the most formidable competitive moat for artificial intelligence, reshaping innovation trajectories, fostering collaborative development, and creating unparalleled long-term value that closed proprietary AI systems cannot replicate in today’s fast-evolving tech landscape.",
+ "title_mn": "Anthropic Claude захиалгын эрхийг гуравдагч талын апп болон Agent-д ашиглахыг зөвшөөрөв",
+ "summary_mn": "Anthropic компани Claude захиалгын сарын API Credit-ийг гуравдагч талын апп болон Agent-үүдэд саадгүй ашиглах боломжийг албан ёсоор нээлээ. Ингэснээр хөгжүүлэгчид болон хэрэглэгчдийн дунд тулгарч байсан давхар төлбөрийн асуудал шийдвэрлэгдэж байна.",
+ "body_mn": "Anthropic компани хэрэглэгчдийнхээ Claude Max болон Team төлөвлөгөөний сарын API эрхийг ямар нэгэн бодлогын хязгаарлалтгүйгээр гуравдагч талын аппликейшн болон Agent-үүдэд шууд ашиглахыг албан ёсоор зөвшөөрлөө. Энэхүү шийдвэр нь хиймэл оюун ухааны зах зээлд хөгжүүлэгчдийн хувьд томоохон дэвшил болж байна.\n\nӨмнө нь хөгжүүлэгчид болон хэрэглэгчид Claude-ийн суурь модель дээр суурилсан апп ашиглахдаа давхар төлбөр төлөх шаардлагатай болдог байсан нь Agent экосистемийн хөгжилд томоохон саад учруулж байв. Одоо шинэ бодлогын дагуу хэрэглэгчид өөрсдийн Claude захиалгынхаа эрхээр гуравдагч талын хэрэгслүүдийг ашиглах боломж бүрдэж байна.\n\nЭнэхүү алхам нь хөгжүүлэгчдэд ямар нэгэн дарамтгүйгээр шинэ санаа, аппликейшн хөгжүүлэх боломжийг олгож байгаа бөгөөд Anthropic компанийн ажилтнууд Hacker News болон бусад платформ дээр уг бодлогыг албан ёсоор баталгаажуулсан юм. Ингэснээр Agent экосистем илүү өргөн хүрээнд хөгжих суурь тавигдаж байна.",
+ "published": "2026-10-15T01:11:36Z",
+ "added": "2026-10-15T06:05:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

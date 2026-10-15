@@ -1,0 +1,17 @@
+{
+ "id": "10dc79139148cfa7",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/websites-with-payload-in-figma/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+ "title": "Create, ship, and manage data-backed websites with Payload in Figma",
+ "summary_en": "With Payload in Figma, teams can go from prototype to production together, managing their content and data all in one place.",
+ "title_mn": "Figma платформд Payload CMS нэгдлээ",
+ "summary_mn": "Нээлттэй эх сурвалжтай Payload headless CMS болон апп хүрээ Figma-тай нэгдэж, дизайнераас маркетер, хөгжүүлэгч хүртэл нэг дор хамтран ажиллах боломжтой боллоо.",
+ "body_mn": "Нээлттэй эх сурвалжтай алдартай headless CMS болон веб апп хөгжүүлэлтийн хүрээ болох Payload Figma багт нэгдсэнийг зарлалаа. Өнгөрсөн жилд таталт нь 6 дахин өссөн Payload нь Figma Make дээр апп бүтээх явцад өгөгдөл хадгалах, файлын сан, хэрэглэгчийн нэвтрэлт болон админ самбарыг автоматаар тохируулж өгдөг.\n\nЭнэхүү интеграцийн тусламжтайгаар дизайнерууд бодит контент ашиглан загвар гаргах ба маркетерууд уг контентыг админ самбараар шууд шинэчлэх боломжтой болно. Харин хөгжүүлэгчид Payload-ийн нээлттэй эх сурвалжийн хүрээг ашиглан аппаа өргөтгөх боломжтой бөгөөд гишүүн бүр өөрийн үүрэгт тохирсон ажлын талбартай байна.\n\nPayload нь контент, медиа, зөвшөөрөл, ажлын урсгал болон API интерфейсийг бүрэн хангадаг. Ингэснээр багууд тусдаа CMS холбох эсвэл инженерүүдийг хүлээлгүйгээр вэб аппын контентоо хялбархан удирдах боломж бүрдэж байна.",
+ "published": "2026-10-15T04:50:00Z",
+ "added": "2026-10-15T06:05:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
