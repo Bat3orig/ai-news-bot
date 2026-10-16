@@ -1,0 +1,17 @@
+{
+ "id": "80f7d46d93c2c75c",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7BIu1uOKc0Yg5PAdei0JZG/f167bea4aae659810c31d92237eee05f/vercel_builds_hydrogen_with_shopify_og_card.jpg",
+ "title": "Vercel and Shopify make agents first-class shoppers",
+ "summary_en": "Agents already shop on the web, but they often use pages and tools originally built for people and search engines. Building a better shopping experience for agents means treating them as first-class shoppers, with product information they can read directly and tools designed for agents to shop. Today, Vercel Shop , our open source Next.js storefront template for Shopify , is generally available. Teams can launch storefronts optimized for how people, search engines, and agents interact with them. Vercel Shop is built on Shopify’s Hydrogen SDK . The SDK gives teams access to the store’s…",
+ "title_mn": "Vercel болон Shopify агентуудад зориулсан Vercel Shop темплэйтийг танилцууллаа",
+ "summary_mn": "Vercel компани Shopify-тай хамтран хиймэл оюуны агентуудад зориулсан Vercel Shop нээлттэй эхийн Next.js темплэйтийг бүрэн танилцууллаа. Уг шийдэл нь дахин шинэчлэгдсэн Hydrogen SDK болон UCP стандартаар дамжуулан агентуудад саадгүй худалдан авалт хийх боломжийг олгож байна.",
+ "body_mn": "Vercel болон Shopify компаниуд хиймэл оюуны агентуудыг нэгдүгээр зэрэглэлийн хэрэглэгч гэж үзэх шинэ хандлагыг нэвтрүүлж, Next.js дээр суурилсан Vercel Shop нээлттэй эхийн дэлгүүрийн темплэйтийг нийтийн хүртээл болголоо. Энэхүү темплэйт нь энгийн хэрэглэгч, хайлтын систем болон AI агентуудад зэрэг зориулагдсан архитектуртай юм.\n\nТөсөл нь Shopify-ийн шинэчлэгдсэн Hydrogen SDK дээр үндэслэсэн бөгөөд бүтээгдэхүүний мэдээлэл, сагс, төлбөрийн урсгалыг бүрэн агуулсан. Нэг хуудасны хаяг нь хүнд визуал байдлаар харагдахаас гадна агентуудад зориулсан бүтцийн өгөгдлийг машинаар унших боломжтойгоор үзүүлдэг.\n\nТүүнчлэн Universal Commerce Protocol (UCP) болон MCP (Model Context Protocol)-ийг дэмждэг тул агентууд сайт дундуур төөрөлгүйгээр өөрийн домэйноос бараа хайж, сагсанд нэмэх боломжтой болсон нь цахим худалдааны хөгжүүлэлтэд шинэ шат авчирч байна.",
+ "published": "2026-10-16T07:00:00Z",
+ "added": "2026-10-16T18:36:20Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

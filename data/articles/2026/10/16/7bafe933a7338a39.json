@@ -1,0 +1,17 @@
+{
+ "id": "7bafe933a7338a39",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "MIXED Reality News",
+ "url": "https://mixed-news.com/en/compliance-api-instructions-for-claude-account-level-every-organisation/",
+ "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/0127845de9b30f0146d7d45c49049be8b749b158.jpg",
+ "title": "The instructions you typed into Claude can now be pulled by every organisation you belong to",
+ "summary_en": "Anthropic’s Compliance API can now return the text each member of a Claude Enterprise organisation typed into Instructions for Claude in claude.ai, and",
+ "title_mn": "Anthropic байгууллагуудад хэрэглэгчийн тохиргоог татах Compliance API гаргав",
+ "summary_mn": "Anthropic-ийн Claude Enterprise байгууллагуудад зориулсан шинэ Compliance API гарлаа. Тус эндпойнтоор дамжуулан ажилтнуудын claude.ai дээр оруулсан хувийн заавруудыг тухайн ажилтны харьяалагдах байгууллагын админууд татан шалгах боломжтой болжээ.",
+ "body_mn": "Anthropic өөрийн Claude Enterprise хэрэглэгчдэд зориулан Compliance API-даа шинэ бэта эндпойнт нэмлээ. Энэхүү эндпойнт нь байгууллагын гишүүдийн claude.ai тохиргоондоо бичсэн Instructions for Claude болон Cowork-ийн Global instructions өгөгдлийг эзэмшигчдэд унших боломжийг олгож байна.\n\nШинэ GET /v1/compliance/organizations/{org_uuid}/user_preferences эндпойнт нь read:compliance_user_data эрхтэй Compliance Access Key шаарддаг. Хэрэглэгчийн зааварчилгаа нь байгууллагын бус хувийн бүртгэлийн түвшний тохиргоо тул нэг ажилтны бичсэн заавар түүний харьяалагдах бүх байгууллагын тайланд нэгэн зэрэг харагдах онцлогтой юм.\n\nAnthropic уг түлхүүрийг үйлдвэрлэлийн өгөгдлийн сангийн нууц үгтэй адилтган маш нарийн хамгаалахыг анхааруулсан бөгөөд уг боломж зөвхөн Enterprise төлөвлөгөөтэй хэрэглэгчдэд хамаарч, хувийн Pro, Max болон Free хэрэглэгчдэд хамаарахгүй.",
+ "published": "2026-10-16T07:03:49Z",
+ "added": "2026-10-16T18:36:20Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

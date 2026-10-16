@@ -738,5 +738,165 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "34f2b847b5e499bc",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "www.tokenpost.com",
+   "url": "https://www.tokenpost.com/news/technology/32809",
+   "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/14105f052c19ace81a67142cc530b7d631bc954b2eb4610ed72f97d952b9ef31.webp",
+   "title": "Cursor Tightens Grok Bot Training Rules After Employee Data Concerns",
+   "summary_en": "Engineers questioned whether staff activity with Sand could have put confidential customer, supplier or partner information into data shared for training.",
+   "title_mn": "Cursor ажилтнуудынхаа өгөгдлийг Grok Bot-ийн сургалтаас хасахаар боллоо",
+   "summary_mn": "Cursor компанийн инженерүүд Sand дотоод туршилтын өгөгдөл SpaceXAI рүү илгээгдэх эрсдэл үүссэнд санаа зовниж буйгаа илэрхийлсний дараа сургалтын журмаа чангатгажээ. Ажилтнуудын ашиглалтын мэдээллийг цаашдын моделийн сургалтаас хасахаар шийдвэрлэсэн байна.",
+   "body_mn": "Cursor компани ажилтнуудынхаа ашиглаж байсан Grok Bot-ийн дотоод хувилбар болох Sand хэрэгслийн хандалтыг чангатгаж, ажилтнуудын өгөгдлийг моделийн сургалтаас хасахаар боллоо. Инженерүүд тус хэрэгсэл дээрх харилцагч, түншүүдийн нууц мэдээлэл SpaceXAI рүү сургалтын өгөгдөл болон илгээгдэж болзошгүй талаар анхааруулсан байна.\n\nКомпанийн хуулийн баг ажилтнуудын өгөгдөл дээр модель сургах хууль эрх зүйн бүрэн эрх байхгүй байж болзошгүйг дурджээ. Үүний дараа Sand системд зөвхөн албаны мэйл хаягаар нэвтрэхийг шаарддаг болж, өмнө нь илгээсэн өгөгдлийг нягталж эхэлсэн аж.\n\nЭнэхүү алхам нь байгууллагын системүүдтэй холбогдон ажилладаг хиймэл оюуны агентуудыг турших явцад ажилтнуудын өгөгдлийг сургалтын багцаас салангид, аюулгүй байлгах шаардлага хэр чухлыг харуулж байна.",
+   "published": "2026-10-15T22:05:40Z",
+   "added": "2026-10-16T18:36:20Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "21c31fd503925eb3",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4XBu5a3hOR9JZHjp8jLTsn/111f4e942146d7652012a54487986081/image.png",
+   "title": "Reflection AI's Beam now available on AI Gateway for free",
+   "summary_en": "Beam from Reflection AI , previously available in stealth as stealth/cat-jam , is now available on AI Gateway . Beam is free to use for a limited time during the launch period when serviced by Reflection AI. Beam is an low latency US open-weight reasoning model for coding and agentic tasks, with weights released under Apache 2.0 . Beam supports tool calling and structured outputs , with a 1M-token context window for code, documents, and conversation history. Reasoning effort is adjustable. Beam is designed for speed, activating only 23B of its 501B parameters per token and avoiding tokens a…",
+   "title_mn": "Reflection AI-ийн Beam модель Vercel AI Gateway дээр үнэгүй гарлаа",
+   "summary_mn": "Reflection AI-ийн бүтээсэн Beam хэмээх нээлттэй жинтэй reasoning модель Vercel AI Gateway платформд нэмэгдлээ. Энэхүү модель нь 1M контекст цонхтой, tool calling болон бүтэцлэгдсэн өгөгдлийг дэмждэг бөгөөд нээлтийн хугацаанд үнэгүй ашиглах боломжтой.",
+   "body_mn": "Өмнө нь cat-jam нэрээр хаалттай туршигдаж байсан Reflection AI-ийн Beam модель одоо Vercel AI Gateway дээр албан ёсоор гарлаа. Тус нээлттэй жинтэй модель нь Apache 2.0 лицензтэй бөгөөд код бичих болон агентын даалгавруудад зориулан бага сааталтай (low latency) ажиллахаар тохируулагдсан байна.\n\nBeam нь нийт 501 тэрбум параметртэй хэдий ч токен тутамд 23 тэрбумыг идэвхжүүлдэг тул хариултыг маш хурдан гаргадаг. Мөн 1 сая хүртэлх токены контекст цонх, tool calling болон structured outputs дэмжлэгтэй бөгөөд хөгжүүлэгчид reasoning түвшнийг өөрсдөө тохируулах боломжтой.\n\nХөгжүүлэгчид Vercel CLI ашиглан reflection/beam эсвэл reflection/beam-free нэрээр дуудаж Claude Code, Codex, Cursor зэрэг агент хэрэгслүүд дээрээ шууд турших боломжтой юм.",
+   "published": "2026-10-16T00:00:00Z",
+   "added": "2026-10-16T18:36:20Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4bce660781f8c7bf",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v43.8.0",
+   "image": "https://opengraph.githubassets.com/5e4f78ecefe6cd63ac621ca4414d4be15284729304643a5fa3062c51780f4866/electron/electron/releases/tag/v43.8.0",
+   "title": "electron v43.8.0",
+   "summary_en": "Release Notes for v43.8.0 Fixes Fixed a crash on Linux at startup or on theme change with GTK modules loaded. #55016 Fixed a crash when creating a framed window on Wayland in environments where GTK could not initialize. #54893 (Also in 44 , 45 ) Fixed a Linux crash creating a window with a menu bar when GTK failed to load. #54884 (Also in 44 , 45 ) Fixed an issue where clicks posted to a background app were dropped on macOS. #54905 (Also in 42 , 44 , 45 ) Fixed net.fetch and session.fetch failing permanently with net::ERR_FAILED after the Network Service process restarts. #54908 (Also in 42…",
+   "title_mn": "Electron v43.8.0 хувилбар гарлаа",
+   "summary_mn": "Electron 43.8.0 хувилбарт Linux болон Wayland дээр GTK-тэй холбоотой гардаг олон гацалтыг засаж, сүлжээний процесс болон utilityProcess-ийн алдаануудыг арилгажээ. Мөн Node.js хувилбарыг v24.22.0 болгон шинэчилсэн байна.",
+   "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн Electron фрэймворкийн 43.8.0 шинэ хувилбар албан ёсоор гарлаа. Энэхүү хувилбараар систем тогтвортой ажиллахад чиглэсэн хэд хэдэн чухал алдааны засваруудыг хийжээ.\n\nТухайлбал, Linux болон Wayland орчинд GTK сангууд ачааллах эсвэл загвар солих үед гардаг байсан хэд хэдэн системийг гацаадаг алдааг засварласан байна. Мөн macOS дээр арын горимд ажиллаж буй апп руу дарсан товшилт хаягддаг байсныг зассан бөгөөд Network Service дахин ачаалласны дараа net.fetch амжилтгүй болдог асуудлыг шийджээ.\n\nҮүнээс гадна utilityProcess хаагдахын өмнөхөн илгээсэн мессежүүд гээгддэг байсныг засаж, Node.js-ийг v24.22.0 хувилбар руу ахиулж, Chromium болон V8-ийн сүүлийн үеийн засваруудыг багтаасан байна.",
+   "published": "2026-10-16T05:53:53Z",
+   "added": "2026-10-16T18:36:20Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "80f7d46d93c2c75c",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7BIu1uOKc0Yg5PAdei0JZG/f167bea4aae659810c31d92237eee05f/vercel_builds_hydrogen_with_shopify_og_card.jpg",
+   "title": "Vercel and Shopify make agents first-class shoppers",
+   "summary_en": "Agents already shop on the web, but they often use pages and tools originally built for people and search engines. Building a better shopping experience for agents means treating them as first-class shoppers, with product information they can read directly and tools designed for agents to shop. Today, Vercel Shop , our open source Next.js storefront template for Shopify , is generally available. Teams can launch storefronts optimized for how people, search engines, and agents interact with them. Vercel Shop is built on Shopify’s Hydrogen SDK . The SDK gives teams access to the store’s…",
+   "title_mn": "Vercel болон Shopify агентуудад зориулсан Vercel Shop темплэйтийг танилцууллаа",
+   "summary_mn": "Vercel компани Shopify-тай хамтран хиймэл оюуны агентуудад зориулсан Vercel Shop нээлттэй эхийн Next.js темплэйтийг бүрэн танилцууллаа. Уг шийдэл нь дахин шинэчлэгдсэн Hydrogen SDK болон UCP стандартаар дамжуулан агентуудад саадгүй худалдан авалт хийх боломжийг олгож байна.",
+   "body_mn": "Vercel болон Shopify компаниуд хиймэл оюуны агентуудыг нэгдүгээр зэрэглэлийн хэрэглэгч гэж үзэх шинэ хандлагыг нэвтрүүлж, Next.js дээр суурилсан Vercel Shop нээлттэй эхийн дэлгүүрийн темплэйтийг нийтийн хүртээл болголоо. Энэхүү темплэйт нь энгийн хэрэглэгч, хайлтын систем болон AI агентуудад зэрэг зориулагдсан архитектуртай юм.\n\nТөсөл нь Shopify-ийн шинэчлэгдсэн Hydrogen SDK дээр үндэслэсэн бөгөөд бүтээгдэхүүний мэдээлэл, сагс, төлбөрийн урсгалыг бүрэн агуулсан. Нэг хуудасны хаяг нь хүнд визуал байдлаар харагдахаас гадна агентуудад зориулсан бүтцийн өгөгдлийг машинаар унших боломжтойгоор үзүүлдэг.\n\nТүүнчлэн Universal Commerce Protocol (UCP) болон MCP (Model Context Protocol)-ийг дэмждэг тул агентууд сайт дундуур төөрөлгүйгээр өөрийн домэйноос бараа хайж, сагсанд нэмэх боломжтой болсон нь цахим худалдааны хөгжүүлэлтэд шинэ шат авчирч байна.",
+   "published": "2026-10-16T07:00:00Z",
+   "added": "2026-10-16T18:36:20Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7bafe933a7338a39",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "MIXED Reality News",
+   "url": "https://mixed-news.com/en/compliance-api-instructions-for-claude-account-level-every-organisation/",
+   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/0127845de9b30f0146d7d45c49049be8b749b158.jpg",
+   "title": "The instructions you typed into Claude can now be pulled by every organisation you belong to",
+   "summary_en": "Anthropic’s Compliance API can now return the text each member of a Claude Enterprise organisation typed into Instructions for Claude in claude.ai, and",
+   "title_mn": "Anthropic байгууллагуудад хэрэглэгчийн тохиргоог татах Compliance API гаргав",
+   "summary_mn": "Anthropic-ийн Claude Enterprise байгууллагуудад зориулсан шинэ Compliance API гарлаа. Тус эндпойнтоор дамжуулан ажилтнуудын claude.ai дээр оруулсан хувийн заавруудыг тухайн ажилтны харьяалагдах байгууллагын админууд татан шалгах боломжтой болжээ.",
+   "body_mn": "Anthropic өөрийн Claude Enterprise хэрэглэгчдэд зориулан Compliance API-даа шинэ бэта эндпойнт нэмлээ. Энэхүү эндпойнт нь байгууллагын гишүүдийн claude.ai тохиргоондоо бичсэн Instructions for Claude болон Cowork-ийн Global instructions өгөгдлийг эзэмшигчдэд унших боломжийг олгож байна.\n\nШинэ GET /v1/compliance/organizations/{org_uuid}/user_preferences эндпойнт нь read:compliance_user_data эрхтэй Compliance Access Key шаарддаг. Хэрэглэгчийн зааварчилгаа нь байгууллагын бус хувийн бүртгэлийн түвшний тохиргоо тул нэг ажилтны бичсэн заавар түүний харьяалагдах бүх байгууллагын тайланд нэгэн зэрэг харагдах онцлогтой юм.\n\nAnthropic уг түлхүүрийг үйлдвэрлэлийн өгөгдлийн сангийн нууц үгтэй адилтган маш нарийн хамгаалахыг анхааруулсан бөгөөд уг боломж зөвхөн Enterprise төлөвлөгөөтэй хэрэглэгчдэд хамаарч, хувийн Pro, Max болон Free хэрэглэгчдэд хамаарахгүй.",
+   "published": "2026-10-16T07:03:49Z",
+   "added": "2026-10-16T18:36:20Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3d0a92e9ce80b290",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Slator",
+   "url": "https://slator.com/spacexai-updates-grok-voice/",
+   "image": "https://slator.com/assets/2026/10/velora-fd8d27ac88f139f1.png",
+   "title": "SpaceXAI Updates Speech-to-Speech Model",
+   "summary_en": "SpaceXAI launches Grok Voice 3.0, handling 20K Starlink customer calls daily.",
+   "title_mn": "SpaceXAI компани Grok Voice 3.0 загвараа танилцууллаа",
+   "summary_mn": "SpaceXAI компани бодит цагийн ярианы агентудад зориулсан шинэчилсэн Grok Voice 3.0 загвараа гаргалаа. Уг загвар нь Artificial Analysis индекст тэргүүлж, Starlink болон Tesla-ийн хэрэглэгчийн үйлчилгээний дуудлагыг амжилттай удирдаж байна.",
+   "body_mn": "Elon Musk-ийн удирддаг SpaceXAI компани Grok Voice 3.0 хэмээх бодит цагийн ярианаас ярианд (speech-to-speech) шилжих шинэ загвараа албан ёсоор танилцууллаа. Тус компани шинэ загвараа Starlink-ийн олон хэл дээрх хэрэглэгчийн дэмжлэг үзүүлэх дуудлагыг хүний оролцоогүйгээр амжилттай удирдаж эхэлснийг мэдэгдэв. API баримт бичигт дурдсанаар уг загвар нь 20 гаруй хэл болон аялгаар чөлөөтэй ярих чадвартай ажээ.\n\nArtificial Analysis хэмээх бенчмарк компани Grok Voice 3.0 загварыг Speech-to-Speech индекстээ OpenAI болон Google-ийн загваруудыг ардаа орхин нэгдүгээрт эрэмбэлсэн байна. Тус загварын даалгавар гүйцэтгэх амжилт нь 94.8%-д хүрчээ. SpaceXAI-ийн мэдээлснээр Starlink болон Tesla компаниудын хэмжээнд өдөрт сая сая яриаг энэхүү систем хангаж байгаа бөгөөд дуудлагын 70 орчим хувийг хүний оролцоогүйгээр бүрэн шийдвэрлэж байна.\n\nШинэ загвар нь мөн Tesla машинд болон Grok Bot-ын дуудлагын горимд ашиглагдаж байгаа бөгөөд хэрэглэгчид гар утсаа ашиглахгүйгээр хуваарь шалгах, захиалга өгөх зэрэг олон төрлийн үйлдлийг хийх боломжтой болжээ. Grok Voice 3.0 нь хөгжүүлэгчдэд зориулсан API-римээр дамжуулан минут нь 0.08 ам.долларын үнэтэйгээр ашиглагдах юм.",
+   "published": "2026-10-16T10:04:17Z",
+   "added": "2026-10-16T18:36:20Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fb4846301b13c103",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/big-tech/article/3371203/alibaba-embed-ai-throughout-taobao-tmall-merchant-operations-2027-executive",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/16/48d941f7-1ac9-475c-88f1-3dd8100aada1_e01c8940.jpg?itok=7Ur4gvb7&v=1792157856",
+   "title": "Alibaba to embed AI throughout Taobao, Tmall merchant operations in 2027",
+   "summary_en": "The plans include Qwen Work-powered tools for merchants and AI-driven product discovery for consumers.",
+   "title_mn": "Alibaba компани Qwen Work туслахыг Taobao болон Tmall платформд нэвтрүүлнэ",
+   "summary_mn": "Alibaba Group ирэх жилээс өөрийн цахим худалдааны Taobao, Tmall платформ дээрх худалдагчдын үйл ажиллагаанд Qwen Work хиймэл оюун ухааныг бүрэн нэвтрүүлэхээр төлөвлөжээ.",
+   "body_mn": "Alibaba Group Holding-ийн дотоодын цахим худалдааны гол платформ болох Taobao болон Tmall компаниуд ирэх жилээс эхлэн худалдагчдын үйл ажиллагаанд хиймэл оюун ухааныг өргөнөөр ашиглахаар төлөвлөж байна. Энэ талаар Tmall-ын ерөнхийлөгч Liu Bo Singles’ Day хэвлэлийн хурлын үеэр мэдэгджээ.\n\nЭнэхүү өргөжүүлэлтийн гол хөдөлгөгч хүч нь Alibaba-гийн байгууллагын хиймэл оюун ухааны туслах болох Qwen Work байх ажээ. Олон платформоор бараа бүтээгдэхүүн борлуулдаг худалдагчдад зориулсан энэхүү хэрэгслийн туршилт энэ долоо хоног эхэлсэн бөгөөд ирэх жилээс ажлын урсгалд бүрэн нэвтрэх юм.\n\nӨнгөрсөн жилийн хугацаанд Taobao болон Tmall платформ дээр хиймэл оюун ухааныг ашигласан туршилт хүлээлтээс давсан үр дүнтэй байсныг удирдлагууд онцолжээ. Худалдагчид бүтээгдэхүүн гаргах, сурталчилгаа хийх, харилцагчийн үйлчилгээ үзүүлэх зэрэгт platform-level AI хэрэгслүүдийг хэдийнэ өргөнөөр ашиглаж байна.",
+   "published": "2026-10-16T13:37:50Z",
+   "added": "2026-10-16T18:36:20Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d8439d8d82dd840c",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "MIXED Reality News",
+   "url": "https://mixed-news.com/en/claude-code-2-1-301-model-switch-summary-usage-credits/",
+   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/f66071070c4701ea2c37fc01b3c0f83623cf29d3.jpg",
+   "title": "Claude Code could spend your credits on a summary by the model you were leaving, until 2.1.301",
+   "summary_en": "Switching Claude Code to a model with a smaller context window could spend your usage credits on a summary written by the model you were leaving, without",
+   "title_mn": "Anthropic компани Claude Code 2.1.301 хувилбарыг гаргаж, кредит болон контекстийн алдааг заслаа",
+   "summary_mn": "Claude Code 2.1.301 шинэчлэлтээр бага контекст цонхтой загварт шилжих үед хэрэглэгчийн зөвшөөрөлгүйгээр кредит зарцуулдаг байсан алдааг заслаа. Мөн загварын хувилбар солих болон API гарцтай холбоотой зарим чухал засуудыг оруулжээ.",
+   "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ 2.1.301 хувилбарийг npm реэстрид байршуулж, хөгжүүлэгчдийн тулгарч байсан зарим чухал алдаануудыг зассан байна. Хамгийн гол засалт нь хэрэглэгч Claude Code-г илүү жижиг контекст цонхтой загварт шилжүүлэх үед өмнөх загварын бичсэн хураангуй ярианд ашиглагдах кредит ямар нэгэн сануулгагүйгээр хасагддаг байсан алдааг залруулжээ.\n\nУг шинэчлэлтээр мөн олон төрлийн техникийн алдааг зассан байна. Тухайлбал, LLM gateway ашиглах үед хүсэлт давтагдаж алдаа гардаг байсан нөхцөл, мөн AWS Bedrock ашиглаагүй байхад awsAuthRefresh команд ажиллаж загвар солих үйл явцыг удаашруулдаг байсан асуудлыг шийдвэрлэжээ. Түүнчлэн 'fable' нэршилтэй холбоотойгоор зарим байгууллагад шинэ загвар байхгүй үед алдаа заадаг байсныг өмнөх хувилбар руу автоматаар шилжих замаар зассан байна.\n\nХөгжүүлэгчид үйл ажиллагаагаа илүү хялбар удирдах үүднээс шинээр CLAUDE_CODE_RETRY_WATCHZ_MAX_USAGE_LIMIT_WAIT_MS тохиргоог нэмж өгсөн бөгөөд энэ нь хэрэглээний хязгаарлалтад хүрсэн үед хүсэлтийг зогсоох боломжийг олгодог. Гэсэн хэдий ч тогтвортой (stable) сувгийг ашиглаж байгаа хэрэглэгчдэд энэ шинэчлэлт шууд хүрэхгүй бөгөөд одоогоор 2.1.292 хувилбар хэвээр байгаа ажээ.",
+   "published": "2026-10-16T13:40:08Z",
+   "added": "2026-10-16T18:36:20Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

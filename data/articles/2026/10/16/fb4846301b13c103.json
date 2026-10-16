@@ -1,0 +1,17 @@
+{
+ "id": "fb4846301b13c103",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "South China Morning Post",
+ "url": "https://www.scmp.com/tech/big-tech/article/3371203/alibaba-embed-ai-throughout-taobao-tmall-merchant-operations-2027-executive",
+ "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/16/48d941f7-1ac9-475c-88f1-3dd8100aada1_e01c8940.jpg?itok=7Ur4gvb7&v=1792157856",
+ "title": "Alibaba to embed AI throughout Taobao, Tmall merchant operations in 2027",
+ "summary_en": "The plans include Qwen Work-powered tools for merchants and AI-driven product discovery for consumers.",
+ "title_mn": "Alibaba компани Qwen Work туслахыг Taobao болон Tmall платформд нэвтрүүлнэ",
+ "summary_mn": "Alibaba Group ирэх жилээс өөрийн цахим худалдааны Taobao, Tmall платформ дээрх худалдагчдын үйл ажиллагаанд Qwen Work хиймэл оюун ухааныг бүрэн нэвтрүүлэхээр төлөвлөжээ.",
+ "body_mn": "Alibaba Group Holding-ийн дотоодын цахим худалдааны гол платформ болох Taobao болон Tmall компаниуд ирэх жилээс эхлэн худалдагчдын үйл ажиллагаанд хиймэл оюун ухааныг өргөнөөр ашиглахаар төлөвлөж байна. Энэ талаар Tmall-ын ерөнхийлөгч Liu Bo Singles’ Day хэвлэлийн хурлын үеэр мэдэгджээ.\n\nЭнэхүү өргөжүүлэлтийн гол хөдөлгөгч хүч нь Alibaba-гийн байгууллагын хиймэл оюун ухааны туслах болох Qwen Work байх ажээ. Олон платформоор бараа бүтээгдэхүүн борлуулдаг худалдагчдад зориулсан энэхүү хэрэгслийн туршилт энэ долоо хоног эхэлсэн бөгөөд ирэх жилээс ажлын урсгалд бүрэн нэвтрэх юм.\n\nӨнгөрсөн жилийн хугацаанд Taobao болон Tmall платформ дээр хиймэл оюун ухааныг ашигласан туршилт хүлээлтээс давсан үр дүнтэй байсныг удирдлагууд онцолжээ. Худалдагчид бүтээгдэхүүн гаргах, сурталчилгаа хийх, харилцагчийн үйлчилгээ үзүүлэх зэрэгт platform-level AI хэрэгслүүдийг хэдийнэ өргөнөөр ашиглаж байна.",
+ "published": "2026-10-16T13:37:50Z",
+ "added": "2026-10-16T18:36:20Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

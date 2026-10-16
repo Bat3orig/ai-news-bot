@@ -1,0 +1,17 @@
+{
+ "id": "34f2b847b5e499bc",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "www.tokenpost.com",
+ "url": "https://www.tokenpost.com/news/technology/32809",
+ "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/14105f052c19ace81a67142cc530b7d631bc954b2eb4610ed72f97d952b9ef31.webp",
+ "title": "Cursor Tightens Grok Bot Training Rules After Employee Data Concerns",
+ "summary_en": "Engineers questioned whether staff activity with Sand could have put confidential customer, supplier or partner information into data shared for training.",
+ "title_mn": "Cursor ажилтнуудынхаа өгөгдлийг Grok Bot-ийн сургалтаас хасахаар боллоо",
+ "summary_mn": "Cursor компанийн инженерүүд Sand дотоод туршилтын өгөгдөл SpaceXAI рүү илгээгдэх эрсдэл үүссэнд санаа зовниж буйгаа илэрхийлсний дараа сургалтын журмаа чангатгажээ. Ажилтнуудын ашиглалтын мэдээллийг цаашдын моделийн сургалтаас хасахаар шийдвэрлэсэн байна.",
+ "body_mn": "Cursor компани ажилтнуудынхаа ашиглаж байсан Grok Bot-ийн дотоод хувилбар болох Sand хэрэгслийн хандалтыг чангатгаж, ажилтнуудын өгөгдлийг моделийн сургалтаас хасахаар боллоо. Инженерүүд тус хэрэгсэл дээрх харилцагч, түншүүдийн нууц мэдээлэл SpaceXAI рүү сургалтын өгөгдөл болон илгээгдэж болзошгүй талаар анхааруулсан байна.\n\nКомпанийн хуулийн баг ажилтнуудын өгөгдөл дээр модель сургах хууль эрх зүйн бүрэн эрх байхгүй байж болзошгүйг дурджээ. Үүний дараа Sand системд зөвхөн албаны мэйл хаягаар нэвтрэхийг шаарддаг болж, өмнө нь илгээсэн өгөгдлийг нягталж эхэлсэн аж.\n\nЭнэхүү алхам нь байгууллагын системүүдтэй холбогдон ажилладаг хиймэл оюуны агентуудыг турших явцад ажилтнуудын өгөгдлийг сургалтын багцаас салангид, аюулгүй байлгах шаардлага хэр чухлыг харуулж байна.",
+ "published": "2026-10-15T22:05:40Z",
+ "added": "2026-10-16T18:36:20Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

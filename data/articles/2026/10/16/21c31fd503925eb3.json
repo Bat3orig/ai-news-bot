@@ -1,0 +1,17 @@
+{
+ "id": "21c31fd503925eb3",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4XBu5a3hOR9JZHjp8jLTsn/111f4e942146d7652012a54487986081/image.png",
+ "title": "Reflection AI's Beam now available on AI Gateway for free",
+ "summary_en": "Beam from Reflection AI , previously available in stealth as stealth/cat-jam , is now available on AI Gateway . Beam is free to use for a limited time during the launch period when serviced by Reflection AI. Beam is an low latency US open-weight reasoning model for coding and agentic tasks, with weights released under Apache 2.0 . Beam supports tool calling and structured outputs , with a 1M-token context window for code, documents, and conversation history. Reasoning effort is adjustable. Beam is designed for speed, activating only 23B of its 501B parameters per token and avoiding tokens a…",
+ "title_mn": "Reflection AI-ийн Beam модель Vercel AI Gateway дээр үнэгүй гарлаа",
+ "summary_mn": "Reflection AI-ийн бүтээсэн Beam хэмээх нээлттэй жинтэй reasoning модель Vercel AI Gateway платформд нэмэгдлээ. Энэхүү модель нь 1M контекст цонхтой, tool calling болон бүтэцлэгдсэн өгөгдлийг дэмждэг бөгөөд нээлтийн хугацаанд үнэгүй ашиглах боломжтой.",
+ "body_mn": "Өмнө нь cat-jam нэрээр хаалттай туршигдаж байсан Reflection AI-ийн Beam модель одоо Vercel AI Gateway дээр албан ёсоор гарлаа. Тус нээлттэй жинтэй модель нь Apache 2.0 лицензтэй бөгөөд код бичих болон агентын даалгавруудад зориулан бага сааталтай (low latency) ажиллахаар тохируулагдсан байна.\n\nBeam нь нийт 501 тэрбум параметртэй хэдий ч токен тутамд 23 тэрбумыг идэвхжүүлдэг тул хариултыг маш хурдан гаргадаг. Мөн 1 сая хүртэлх токены контекст цонх, tool calling болон structured outputs дэмжлэгтэй бөгөөд хөгжүүлэгчид reasoning түвшнийг өөрсдөө тохируулах боломжтой.\n\nХөгжүүлэгчид Vercel CLI ашиглан reflection/beam эсвэл reflection/beam-free нэрээр дуудаж Claude Code, Codex, Cursor зэрэг агент хэрэгслүүд дээрээ шууд турших боломжтой юм.",
+ "published": "2026-10-16T00:00:00Z",
+ "added": "2026-10-16T18:36:20Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

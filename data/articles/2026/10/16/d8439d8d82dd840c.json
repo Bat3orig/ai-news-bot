@@ -1,0 +1,17 @@
+{
+ "id": "d8439d8d82dd840c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "MIXED Reality News",
+ "url": "https://mixed-news.com/en/claude-code-2-1-301-model-switch-summary-usage-credits/",
+ "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/f66071070c4701ea2c37fc01b3c0f83623cf29d3.jpg",
+ "title": "Claude Code could spend your credits on a summary by the model you were leaving, until 2.1.301",
+ "summary_en": "Switching Claude Code to a model with a smaller context window could spend your usage credits on a summary written by the model you were leaving, without",
+ "title_mn": "Anthropic компани Claude Code 2.1.301 хувилбарыг гаргаж, кредит болон контекстийн алдааг заслаа",
+ "summary_mn": "Claude Code 2.1.301 шинэчлэлтээр бага контекст цонхтой загварт шилжих үед хэрэглэгчийн зөвшөөрөлгүйгээр кредит зарцуулдаг байсан алдааг заслаа. Мөн загварын хувилбар солих болон API гарцтай холбоотой зарим чухал засуудыг оруулжээ.",
+ "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ 2.1.301 хувилбарийг npm реэстрид байршуулж, хөгжүүлэгчдийн тулгарч байсан зарим чухал алдаануудыг зассан байна. Хамгийн гол засалт нь хэрэглэгч Claude Code-г илүү жижиг контекст цонхтой загварт шилжүүлэх үед өмнөх загварын бичсэн хураангуй ярианд ашиглагдах кредит ямар нэгэн сануулгагүйгээр хасагддаг байсан алдааг залруулжээ.\n\nУг шинэчлэлтээр мөн олон төрлийн техникийн алдааг зассан байна. Тухайлбал, LLM gateway ашиглах үед хүсэлт давтагдаж алдаа гардаг байсан нөхцөл, мөн AWS Bedrock ашиглаагүй байхад awsAuthRefresh команд ажиллаж загвар солих үйл явцыг удаашруулдаг байсан асуудлыг шийдвэрлэжээ. Түүнчлэн 'fable' нэршилтэй холбоотойгоор зарим байгууллагад шинэ загвар байхгүй үед алдаа заадаг байсныг өмнөх хувилбар руу автоматаар шилжих замаар зассан байна.\n\nХөгжүүлэгчид үйл ажиллагаагаа илүү хялбар удирдах үүднээс шинээр CLAUDE_CODE_RETRY_WATCHZ_MAX_USAGE_LIMIT_WAIT_MS тохиргоог нэмж өгсөн бөгөөд энэ нь хэрэглээний хязгаарлалтад хүрсэн үед хүсэлтийг зогсоох боломжийг олгодог. Гэсэн хэдий ч тогтвортой (stable) сувгийг ашиглаж байгаа хэрэглэгчдэд энэ шинэчлэлт шууд хүрэхгүй бөгөөд одоогоор 2.1.292 хувилбар хэвээр байгаа ажээ.",
+ "published": "2026-10-16T13:40:08Z",
+ "added": "2026-10-16T18:36:20Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

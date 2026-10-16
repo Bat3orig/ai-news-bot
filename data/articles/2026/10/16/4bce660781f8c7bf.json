@@ -1,0 +1,17 @@
+{
+ "id": "4bce660781f8c7bf",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v43.8.0",
+ "image": "https://opengraph.githubassets.com/5e4f78ecefe6cd63ac621ca4414d4be15284729304643a5fa3062c51780f4866/electron/electron/releases/tag/v43.8.0",
+ "title": "electron v43.8.0",
+ "summary_en": "Release Notes for v43.8.0 Fixes Fixed a crash on Linux at startup or on theme change with GTK modules loaded. #55016 Fixed a crash when creating a framed window on Wayland in environments where GTK could not initialize. #54893 (Also in 44 , 45 ) Fixed a Linux crash creating a window with a menu bar when GTK failed to load. #54884 (Also in 44 , 45 ) Fixed an issue where clicks posted to a background app were dropped on macOS. #54905 (Also in 42 , 44 , 45 ) Fixed net.fetch and session.fetch failing permanently with net::ERR_FAILED after the Network Service process restarts. #54908 (Also in 42…",
+ "title_mn": "Electron v43.8.0 хувилбар гарлаа",
+ "summary_mn": "Electron 43.8.0 хувилбарт Linux болон Wayland дээр GTK-тэй холбоотой гардаг олон гацалтыг засаж, сүлжээний процесс болон utilityProcess-ийн алдаануудыг арилгажээ. Мөн Node.js хувилбарыг v24.22.0 болгон шинэчилсэн байна.",
+ "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн Electron фрэймворкийн 43.8.0 шинэ хувилбар албан ёсоор гарлаа. Энэхүү хувилбараар систем тогтвортой ажиллахад чиглэсэн хэд хэдэн чухал алдааны засваруудыг хийжээ.\n\nТухайлбал, Linux болон Wayland орчинд GTK сангууд ачааллах эсвэл загвар солих үед гардаг байсан хэд хэдэн системийг гацаадаг алдааг засварласан байна. Мөн macOS дээр арын горимд ажиллаж буй апп руу дарсан товшилт хаягддаг байсныг зассан бөгөөд Network Service дахин ачаалласны дараа net.fetch амжилтгүй болдог асуудлыг шийджээ.\n\nҮүнээс гадна utilityProcess хаагдахын өмнөхөн илгээсэн мессежүүд гээгддэг байсныг засаж, Node.js-ийг v24.22.0 хувилбар руу ахиулж, Chromium болон V8-ийн сүүлийн үеийн засваруудыг багтаасан байна.",
+ "published": "2026-10-16T05:53:53Z",
+ "added": "2026-10-16T18:36:20Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
