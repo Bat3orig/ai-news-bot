@@ -1,0 +1,17 @@
+{
+ "id": "dd5760dd7903fdee",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-makes-code-review-for-claude-code-generally-available/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-makes-code-review-for-claude-code-generally-available.jpg",
+ "title": "Anthropic Makes Code Review for Claude Code Generally Available",
+ "summary_en": "Anthropic made Code Review, the multi-agent pull-request review system for Claude Code, generally available to Claude Team and Enterprise organizations on October 15, 2026, and paired the launch with a promotional offer...",
+ "title_mn": "Anthropic Claude Code-д зориулсан Code Review системийг албан ёсоор гаргалаа",
+ "summary_mn": "Anthropic компани Claude Team болон Enterprise хэрэглэгчдэд зориулсан Code Review олон агентын pull-request шалгах системийг албан ёсоор нээлээ.",
+ "body_mn": "Anthropic компани Claude Code-д зориулсан pull-request шалгах олон агентын систем болох Code Review-г 2026 оны 10 дугаар сарын 15-ны өдрөөс эхлэн Claude Team болон Enterprise байгууллагуудад албан ёсоор нээлттэй болголоо. Шинэ бүтээгдэхүүнийг дэмжих зорилгоор эрх бүхий Enterprise байгууллагуудад хамгийн багадаа 10,000 ам.долларын шалгалтын эрх олгох урамшууллыг зарлажээ.\n\nТус компани судалгааны урьдчилсан хувилбарын үр дүнд үндэслэн Code Review-г илүү хурдан, чухал алдааг олж илрүүлэх чадвартай болгосноо онцоллоо. Ихэнх шалгалтууд өмнөхөөсөө 3 дахин хурдан буюу 6-10 минутын дотор дуусаж байгаа аж. Админууд репозитор бүрд Quick, Standard эсвэл Deep шалгалтын түвшнийг оноож өгөх боломжтой.\n\nCode Review нь Anthropic-ийн дэд бүтцэд дөрвөн үе шаттайгаар ажилладаг бөгөөд parallel байдлаар кодыг шалгаж, false positive үр дүнг шүүн ангилдаг. Энэхүү систем нь зөвхөн алдаа болон зөв байдалд анхаарлаа хандуулж, код нэгтгэх шийдвэрийг багт үлдээдэг байна. Үйлчилгээг ашиглахын тулд GitHub дээр байрлах репозитор болон Team эсвэл Enterprise төлөвлөгөө шаардлагатай.",
+ "published": "2026-10-15T20:31:02Z",
+ "added": "2026-10-16T10:00:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

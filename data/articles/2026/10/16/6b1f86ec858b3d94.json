@@ -1,0 +1,17 @@
+{
+ "id": "6b1f86ec858b3d94",
+ "subtopic": "ai-devtools",
+ "source": "openai/codex",
+ "source_label": "openai/codex",
+ "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
+ "image": "https://opengraph.githubassets.com/8ca52016e0bcccdc63200b197368503fb71524266141e884f88114fc768c2b66/openai/codex/releases/tag/rust-v0.163.0",
+ "title": "codex 0.163.0",
+ "summary_en": "New Features Open /config to search preferences across categories, change supported settings immediately, and see which changes require a restart. ( #52990 , #53429 ) Send a follow-up while Codex is responding to steer it immediately. Interrupting a turn also stops active Code Mode cells and their nested tool calls. ( #51812 , #51835 ) Configure a leader key in /keymap . The default is Ctrl+X , shortcut hints stay open until you choose or cancel, and voice mute moves to F9 . ( #52273 ) Restart a managed background server from /daemon . Codex warns about work the restart could interrupt, then…",
+ "title_mn": "Codex 0.163.0 хувилбар шинэ боломжуудтайгаар гарлаа",
+ "summary_mn": "Codex CLI хэрэгслийн 0.163.0 шинэ хувилбар гарч, тохиргоог хайх боломж, даруй тасалдуулах функц болон арын сервер дахин асаах команд зэргийг нэмлээ.",
+ "body_mn": "Codex хөгжүүлэгчид 0.163.0 хувилбарыг албан ёosan гаргалаа. Энэхүү шинэ хувилбарт хэрэглэгчийн хэрэглээг хөнгөвчилсөн олон сонирхолтой боломж, сайжруулалтууд багтсан байна. Тухайлбал, /config команд ашиглан категориуд дунд тохиргоо хайх, дэмжигдсэн тохиргоог шууд өөрчлөх боломжтой болжээ.\n\nMөн хөгжүүлэгчид Codex хариу өгч байх үед нь шууд дараагийн хүсэлтээ явуулж чиглүүлэх боломжтой болсон бөгөөд ажиллагааг тасалдуулах үед идэвхтэй Code Modeเซลлүүд болон тэдгээрийн хэрэгслүүд хамт зогсоно. /keymap тохиргоонд удирдлагын товчлуурыг (leader key) тохируулах боломжтой болсон ба үндсэн тохиргоогоор Ctrl+X байхаар өөрчилжээ.\n\nҮүнээс гадна /daemon командын тусламжтайгаар удирдуулах арын серверийг дахин асаах, Codex бие даасан read-only хэрэгслүүдийг зэрэг ажиллуулах зэрэг шинэчлэлтүүд орсон байна. Linux болон macOS системүүдэд зориулсан багцын хэмжээг багасгаж, гүйцэтгэлийг илүү сайжруулжээ.",
+ "published": "2026-10-15T21:33:06Z",
+ "added": "2026-10-16T10:00:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

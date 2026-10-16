@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "e1d7f2ee6c9f0c05",
-   "subtopic": "ai-devtools",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://clova.email/",
-   "image": "https://clova.email/og-image.png",
-   "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-   "summary_en": "Infinite inboxes, including prefixes where you don't have to create inboxes before you use them -- they self create when you add a suffix. Three types of inboxes: - One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else. - Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice. - Prefix. The most powerful. Declare a prefix like \"service\" and then invent any suffix, like \"service-netflix\" or \"service$bank\" and it creates a new…",
-   "title_mn": "Clova.Email: Нэг ирсэн имэйл хаягаар хязгаарлагддаг түр хаягийн үйлчилгээ гарав",
-   "summary_mn": "Нэг хаягт зөвхөн анхны илгээгчээс захидал хүлээн авдаг шинэ имэйл үйлчилгээ гарлаа. Тус платформ нь Claude болон Cursor зэрэг хэрэгслүүдтэй MCP протоколоор холбогдон автоматаар ажиллах боломжтой.",
-   "body_mn": "Хэрэглэгчийн бодит имэйл хаягийг нууцлах зорилготой Clova.Email үйлчилгээ танилцуулагдлаа. Энэхүү платформоор үүсгэсэн хаяг руу хамгийн анх захидал илгээсэн хүн эсвэл байгууллага тухайн хаягийг бүрэн эзэмших бөгөөд бусад ямар ч хаягаас ирсэн имэйлийг автоматаар цуцалдаг онцлогтой.\n\nХэрэглэгчид хаяг бүрийн хүчинтэй хугацааг тохируулах боломжтой бөгөөд хугацаа дуусмагц тухайн хайрцагт буй бүх захидлууд устах зарчмаар ажиллана. Үнэгүй багцад өдөрт 100 мессеж, Pro болон Business багцад өдөрт 1,000 мессежийн лимит олгогджээ.\n\nХөгжүүлэгчид болон AI хэрэглэгчдэд хамгийн чухал давуу тал нь Model Context Protocol (MCP) дэмжлэг юм. Claude, Cursor зэрэг агентлаг хэрэгслүүд MCP-ээр холбогдож, шинэ бүртгэлийн код авах, баримтуудыг шүүх ажлуудыг хүний оролцоогүй гүйцэтгэх боломжтой болж байна.",
-   "published": "2026-10-14T17:00:59Z",
-   "added": "2026-10-15T11:50:39Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "64b4c0ac42c9f46a",
-   "subtopic": "packages",
-   "source": "Node Weekly",
-   "source_label": "Node Weekly",
-   "url": "https://nodeweekly.com/issues/644",
-   "image": "https://res.cloudinary.com/cpress/image/upload/v1653576619/lgfqinzbdqttwmhvljxb.png",
-   "title": "The NodeConf EU 2026 talks are online",
-   "summary_en": "#​644 — October 15, 2026 Read on the Web 📝 We're taking next week off and will be back on Thursday, October 29. __ Peter Cooper, your editor Skia Canvas 4.0: A Fast Canvas Environment for Node — Based on Google's Skia graphics engine, it produces results similar to Chrome's own canvas. GPU accelerated and can render images, paths, fonts, shapes, etc. both to static images and live in a native window. v4.0 is faster, lighter, and adds native PDF loading. GitHub repo. Christian Swinehart Cut Your GitHub Actions Times and Costs in Half — Faster Node builds with better hardware, unlimited…",
-   "title_mn": "NodeConf EU цуврал, TanStack Start 1.0 болон Skia Canvas 4.0 танилцуулагдлаа",
-   "summary_mn": "TanStack Start 1.0 тогтвортой хувилбар гарч, React болон Solid дээр стриминг SSR санал болгож эхлэв. Мөн Skia Canvas 4.0 болон Express 5.3 шинэчлэгдсэн бол Node.js 26.12.0 хувилбар гарчээ.",
-   "body_mn": "Node.js экосистемийн ээлжит шинэчлэлүүдээс хамгийн их анхаарал татсан нь TanStack Start 1.0 бүрэн стекийн фрэймворк тогтвортой шатанд хүрсэн явдал байлаа. React болон Solid дээр бүрэн тулгуурласан энэхүү фрэймворк нь Node, Bun, Cloudflare Workers орчинд типийг бүрэн шалгах серверийн функцууд болон стрийминг SSR боломжийг авчирч байна.\n\nҮүний зэрэгцээ Skia Canvas 4.0 хувилбар танилцуулагдсан бөгөөд график дүрслэлийн хурд сайжирч, санах ой бага ашигладаг болсноос гадна PDF файлуудыг шууд унших дэмжлэг нэмэгджээ. Энэхүү багц нь Google-ийн Skia график хөдөлгүүр дээр суурилсан учир Chrome-ийн өөрийн канвастай ижил үр дүнг хурдан гаргах давуу талтай юм.\n\nNode.js өөрөө v26.12.0 (Current) болон v24.22.0 (LTS) хувилбарууддаа шинэчлэл хийсэн бол түгээмэл серверийн сан болох Express 5.3 олон тооны алдааны засвар, аюулгүй байдлын сайжруулалттайгаар нийтлэгдэв. Мөн NodeConf EU 2026 хурлын FFI, WebAssembly, V8 санах ойн менежмент сэдэвт илтгэлүүд онлайн тавигдсан байна.",
-   "published": "2026-10-15T00:00:00Z",
-   "added": "2026-10-15T11:50:39Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b3362b5553094135",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "Cybernews",
-   "url": "https://cybernews.com/ai-news/grok-bot-phishing-spacexai-invite-scam/",
-   "image": "https://media.cybernews.com/images/featured-big/2026/08/Grok-blocking-replies.jpg",
-   "title": "Grok Bot phishing email catch exposes AI agent risks",
-   "summary_en": "Grok Bot phishing email detection exposed xAI template flaws, but shared AI agents may leak data or follow malicious prompts. See which risks matter",
-   "title_mn": "Grok Bot фишинг имэйлийг илрүүлсэн ч AI агентын эрсдэл тодорчээ",
-   "summary_mn": "Tesla-ийн инженер Wes Morrill Grok Bot-оор SpaceXAI-ийн нэрийн дор ирсэн фишинг имэйлийг илрүүлсэн тухай мэдээлсэн. Гэхдээ Grok Bot хуваалцсан компьютер дээр ажиллах тул эрсдэл үүсгэж болзошгүй.",
-   "body_mn": "Tesla-ийн Cybertruck-ийн ахлах инженер Wes Morrill Grok Bot имэйлд илгээгдсэн фишинг халдлагыг илрүүлсэнээ X дээр нийтэлжээ. Имэйл SPF, DKIM, DMARC шалгалтаас тэнцсэн ч Grok Bot аюулгүй байдлын шалгалт хийхэд халдлага гэдгийг тогтоожээ. Халдагч xAI-ийн багийн нэрэнд HTML кодыг оруулсан нь загварын escape хийгдээгүй байсантай холбоотой гэж мэдээлэгджээ.\n\nГэхдээ Cybernews Grok Bot нь хуваалцсан үүлэн компьютер дээр 24/7 ажилладаг тул нэг ботод унасан зааварчилгаа бусад ботод ч хүрч болзошгүйг анхааруулжээ. SpaceXAI өөрөө компьютер нь хэрэглэгчийн дансанд хамаардаг гэж мэдэгдсэн. Иймд нууц үг, файлыг хэн нэгэн ботод хүртээмжтэй байлгахгүй байхыг зөвлөж байна.\n\nХөгжүүлэгчдэд энэ нь AI агентад хандах эрх, нууцлал болон prompt injection эрсдлийг анхаарах шаардлагатайг харуулж байна.",
-   "published": "2026-10-15T09:31:41Z",
-   "added": "2026-10-15T11:50:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f592f4f66c2ba929",
-   "subtopic": "react-native",
-   "source": "facebook/react-native",
-   "source_label": "facebook/react-native",
-   "url": "https://github.com/react/react-native/releases/tag/v0.88.0",
-   "image": "https://opengraph.githubassets.com/e0b9e84a451bc69c7f91f4f7b1ce7dea10cdfdf4fb71e8dceb22de09378afe84/react/react-native",
-   "title": "react-native v0.88.0",
-   "summary_en": "v0.88.0",
-   "title_mn": "React Native v0.88.0 хувилбар гарлаа",
-   "summary_mn": "React Native фреймворкийн v0.88.0 шинэ хувилбар албан ёсоор цацагдлаа.",
-   "body_mn": "React Native төслийн хувьд v0.88.0 хувилбар нь хөгжүүлэгчдэд зориулсан шинэ боломж болон засваруудыг агуулсан байдлаар гарсан байна.\n\nЭнэхүү шинэчлэл нь гар утасны аппликейшн хөгжүүлэлтийг сайжруулах, гүйцэтгэлийг нэмэгдүүлэх зорилготой бөгөөд төслийн албан ёсны repository дээрээс дэлгэрэнгүй хувилбарын тэмдэглэлийг харах боломжтой.\n\nХөгжүүлэгчид төслөө шинэ хувилбар руу шилжүүлэхдээ хамааралтай сангуудаа шалгах шаардлагатай.",
-   "published": "2026-10-15T11:38:19Z",
-   "added": "2026-10-15T11:50:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a45d64982f7c69b6",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_bib6g3bib6.2e16d0ba.fill-1200x600.jpg",
-   "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
-   "summary_en": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and tool execution remain entirely inside your infrastructure while pulling configuration updates from the control plane. Developers can expose OpenAPI 3.0.x specifications as discoverable MCP tools, leverage existing security policies and API products, and trace end-to-end requests using W3C trace context headers.",
-   "title_mn": "Apigee hybrid дээр MCP дэмжлэг нэмэгдлээ: агент хэрэгслүүдийг өөрийн кластер дотор ажиллуулна",
-   "summary_mn": "Google Apigee hybrid 1.17.0 хувилбараар MCP (Model Context Protocol) дэмжлэгийг нэвтрүүлж, MCP data plane-ийг хэрэглэгчийн өөрийн Kubernetes кластер дотор ажиллуулах боломжтой боллоо. OpenAPI спецификаас MCP tool-ууд автоматаар үүснэ. MCP-ийн хүсэлт кластерээс гадагш гарахгүй.",
-   "body_mn": "Google Apigee-д өмнө нь MCP дэмжлэгийг урьдчилан харах хувилбараар зарласан бол одоо Apigee hybrid 1.17.0 хувилбарт, 2026 оны 9-р сарын 14-нд, MCP-ийг хэрэглэгчийн өөрийн Kubernetes кластер дотор ажиллуулах боломж нэмэгдлээ. Үүнийг зохицуулдаг шалтгаан нь зохицуулалтын шаардлага, өгөгдлийн төвийн байршил эсвэл олон үүлэн орчин байж болно.\n\nАжиллах зарчим нь өмнөх Apigee-тэй адил. OpenAPI 3.0.x спецификаар API-гээ тодорхойлж, MCP Discovery Proxy үүсгэхэд спецификийн операци бүр MCP tool болж хувирна. Агентууд JSON-RPC протоколоор tools/list болон tools/call дуудлагыг хийнэ. Хөгжүүлэгч MCP серверийн код бичих шаардлагагүй.\n\nHybrid-ийн онцлог нь MCP data plane кластерийн дотор ажилладаг явдал юм. Control plane Google Cloud дээр үлдэж, sidecar нь tool-ийн тохиргоог кластераас тогтмол татдаг. MCP-ийн хүсэлт, хариу кластерээс гадагш гарахгүй бөгөөд Google талаас кластер руу шууд холболт үүсгэгдэхгүй.\n\nMCP нь анхдагчаар идэвхгүй бөгөөд overrides.yaml файлд enableMcpServer: true гэж тохируулж, apigee-operator chart-ыг эхлээд, apigee-org chart-ыг дараа нь шинэчлэх ёстой. Дараалал чухал тул буруу дарааллаар шинэчлэвэл MCP pod-ууд үүсэхгүй. Анхдагч тохиргоо нь хоёр MCP replica, арав хүртэл автоматаар өсөх чадвартай.",
-   "published": "2026-10-15T11:50:39Z",
-   "added": "2026-10-15T11:50:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "cf51666d17cb99b7",
-   "subtopic": "motion",
-   "source": "Motion Blog",
-   "source_label": "Motion Blog",
-   "url": "https://motion.dev/magazine/introducing-motion-ui-gallery",
-   "image": "https://images.motion.dev/og/fresh/v1/site/magazine-introducing-motion-ui-gallery-3t474q1hegbja.png",
-   "title": "Introducing Motion UI Gallery",
-   "summary_en": "When I was but a lad, \"lightbox\" plugins were the impressive new thing to slap on your fansite. These days, the best ones are all bespoke Awwwards fodder. Hand-tuned to do one thing beautifully, then thrown away for the next site. Today, we're launching Gallery, a new Motion UI component for React (with Vue on the way!) It's a new component for building award-winning image and video galleries that work in both 2D and 3D, where every arrangement, gesture and detail view transitions smoothly into the next. Read the full article on Motion",
-   "title_mn": "Motion UI Gallery component-ийг React болон Vue-д зориулан танилцууллаа",
-   "summary_mn": "Motion баг Gallery хэмээх шинэ UI компонент гаргаснаа зарлалаа. Энэ нь WebGL ашиглалгүйгээр DOM болон CSS transform дээр 2D, 3D зураг, видео gallery хийх боломж өгдөг.",
-   "body_mn": "Motion баг вэб сайтуудад зориулсан Gallery хэмээх шинэ UI компонентоо албан ёсоор танилцууллаа. Энэхүү хэрэгсэл нь React болон удахгүй гарах Vue фреймворкт зориулагдсан бөгөөд шагнал хүртэхүйц түвшний зургийн болон видеон gallery бүтээх боломж олгодог.\n\nИхэнх gallery сангууд зөвхөн нэг л зүйлийг сайн хийдэг бол Motion UI Gallery нь list, grid, barrel, coverflow, helix, ring, sphere болон stack зэрэг 8 төрлийн зохион байгуулалтыг багтаасан байна. Бүх хөдөлгөөн болон 3D эргэлтүүд нь canvas эсвэл WebGL ашиглалгүйгээр бүрэн DOM болон CSS transform ашиглан дүрслэгддэг нь хүртээмж болон гүйцэтгэлд сайнаар нөлөөлдөг.\n\nХөгжүүлэгчид defineGalleryArrangement функц ашиглан өөрсдийн хүссэн зохион байгуулалтыг зохиох боломжтой. Мөн тоон утга бүр motion value дэмждэг тул камерын хазайлтыг шууд хөдөлгөөнд оруулах боломжтой бөгөөд дахин render хийх шаардлагагүй байдаг.",
-   "published": "2026-10-14T00:00:00Z",
-   "added": "2026-10-15T16:03:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "692261a346a3b693",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "TechSpot",
-   "url": "https://www.techspot.com/news/114209-anthropic-ditched-git-own-version-control-system-because.html",
-   "image": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-14-image-30.jpg",
-   "title": "Anthropic ditched Git for its own version control system because Claude is writing too much code",
-   "summary_en": "Anthropic detailed the system in a recent engineering post, reporting that it averaged about 2,500 merged code changes a day in May. By September, that figure exceeded 30,000.",
-   "title_mn": "Anthropic AI код бичих хурдаа даgаж Git-ийг Scion хувилбар хяналтын системээр солив",
-   "summary_mn": "Anthropic компани хиймэл оюуны агентлагуудын бичсэн кодын хэмжээ эрс өссөнтэй холбоотойгоор үндсэн сан дахь Git системийг Scion хэмээх шинэ хувилбар хяналтын системээр солилоо. Энэхүү систем нь сервер дээр ажиллаж, CI болон хайгуулын ажлын явцыг хэд дахин хурдасгажээ.",
-   "body_mn": "Anthropic компани өөрийн үндсэн кодын сандаа ашиглаж байсан Git системийг халж, Scion нэртэй шинэ хувилбар хяналтын системийг нэвтрүүлсэн тухай мэдээллээ. Энэхүү өөрчлөлт нь хиймэл оюуны агентлагууд өдөрт олон девелоперийн ажлыг амжуулан асар их хэмжээний код бичиж эхэлсэнтэй холбоотой юм. Тавдугаар сард өдөрт дунджаар 2,500 код нэгтгэгдэж байсан бол есдүгээр сар гэхэд энэ үзүүлэлт 30,000-аас давжээ.\n\nШинэ Scion систем нь ихэнх хувилбар хяналтын үйлдлийг сервер талдаа гүйцэтгэж, агентуудын татаж авах шаардлагатай өгөгдлийн хэмжээг эрс багасгадаг. Ингэснээр үргэлжилсэн интеграцийн (CI) болон судалгааны ажлын үеийн кодын шалгалт минут биш секундийн хугацааг зарцуулдаг болж, CI дэд бүтцийн CPU-ийн хүчин чадлын 25 хувийг хэмнэсэн байна. Дээд тал нь долуулаа бүрэлдэхүүнтэй баг энэхүү системийг ердөө таван сарын дотор хөгжүүлж дуусгажээ.\n\nAnthropic-ийн үндсэн салбарын түүх 100 ГБ-аас дээшилж, шахсан ажлын хуулбар нь 25 ГБ-аас давсан байна. Хэрэв хуучин Git системийг ашигласан хэвээр байсан бол өдөр тутмын CI шалгалт асар их трафик үүсгэх байжээ. Scion систем өөрчлөлт бүрийг урьдчилсан бүртгэлд (write-ahead log) changeset хэлбэрээр хадгалдаг бөгөөд сервер дээр төвлөрсөн энэхүү шийдэл нь олон мянган өөрчлөлтийг зэрэг шалгах явцыг илүү үр дүнтэй болгож байна.",
-   "published": "2026-10-15T13:43:00Z",
-   "added": "2026-10-15T16:03:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f52877434f6437f0",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.3.0",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.3.0",
-   "summary_en": "v14.3.0",
-   "title_mn": "Motion v14.3.0 хувилбар гарлаа",
-   "summary_mn": "Вэб болон анимацийн хөгжүүлэлтэд өргөн ашиглагддаг Motion номын сангийн v14.3.0 шинэ хувилбар албан ёсоор цацагдлаа.",
-   "body_mn": "Motion (хуучнаар Framer Motion) анимацийн номын сангийн шинэ v14.3.0 хувилбар хэрэглэгчдийн гарт хүрлээ. Энэхүү шинэ хувилбарт хөгжүүлэгчдийн хүсэн хүлээсэн зарим засвар болон сайжруулалтууд орсон байна.\n\nНомын сангийн хөгжүүлэгчид гүйцэтгэлийг сайжруулах, алдаануудыг засах талд түлхүү анхаарчээ. Дэлгэрэнгүй өөрчлөлтүүд болон шинэ боломжуудын талаар албан ёсны хувилбарын тэмдэглэлээс харах боломжтой.\n\nМошн анимацийн сан нь React болон бусад орчинд хэрэглэгчдийн туршлагыг сайжруулахад чухал үүрэг гүйцэтгэдэг билээ.",
-   "published": "2026-10-15T13:54:17Z",
-   "added": "2026-10-15T16:03:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ccc10797b3c0a8b1",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "Memeburn",
-   "url": "https://memeburn.com/qwengyre-alibaba-ai-agents/",
-   "image": "https://memeburn.com/wp-content/uploads/2026/10/Alibabas-AI-Agents-Now-Work-4-Hour-Shifts.-QwenGyre-Is-How-It-Stops-Paying-GPUs-to-Wait.jpg",
-   "title": "QwenGyre 2026: How Alibaba Cut Agent Training Time by 44%",
-   "summary_en": "QwenGyre is Alibaba's new way to train AI agents on 4-hour tasks. Here's how it cut training time by 44% in 2026, why GPUs sit idle, and what it means for you.",
-   "title_mn": "Alibaba QwenGyre системийг танилцуулж, агент сургах хугацааг 44%-иар бууруулав",
-   "summary_mn": "Alibaba компани хиймэл оюуны агентуудыг сургах хугацааг эрс богиносгосон QwenGyre системийг танилцууллаа. Энэхүү шинэ тогтолцоо нь олон цагаар үргэлжилдэг урт хугацааны даалгавартай агентуудын сургалтын үр дүнг сайжруулж, GPU нөөцийг хэмнэдэг.",
-   "body_mn": "Alibaba-ийн Qwen баг хиймэл оюуны агентуудын сургалтын хугацааг эрс богиносгох зорилготой QwenGyre хэмээх шинэ тогтолцоогоо олон нийтэд дэлгэлээ. Тус систем нь 2.4 триллион параметр бүхий загвар дээр 48 алхамтай сургалтын явцыг ердөө 75 цагийн дотор дуусгаж чаджээ. Өмнө нь ижил төстэй сургалтад 134 цаг зарцуулагддаг байсан юм.\n\nОрчин үеийн хиймэл оюуны салбар богино хугацааны чатботуудаас илүүтэйгээр олон цагаар тасралтгүй ажиллах чадвартай агентууд руу шилжиж байна. Гэвч ийм төрлийн агентуудыг сургах нь маш их тооцоолох хүч шаардаж, үнэтэй GPU чипүүдийг удаан хугацаагаар сул зогсооход хүргэдэг аж. QwenGyre нь энэхүү сул зогсолтыг багасгахын тулд Elastic Scheduler буюу уян хатан хуваарилагч болон Trajectory Processor гэсэн үндсэн хэсгүүдийг ашигладаг.\n\nУян хатан хуваарилагч нь GPU нөөцүүдийг агентын ажиллуулах болон загварыг сургах хооронд ямар ч алдагдалгүйгээр хурдан шилжүүлэх боломжийг олгодог бол Trajectory Processor нь сургалтын өгөгдлийг цэгцэлж, давхардсан алхмуудыг хадгалах замаар хугацааг 25 хувиар бууруулдаг байна. Энэхүү судалгаа нь урт хугацааны даалгавар гүйцэтгэх агентуудын ирээдүйн хөгжилд чухал алхам болж байна.",
-   "published": "2026-10-15T14:55:16Z",
-   "added": "2026-10-15T16:03:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "80fff3a90d51ccf9",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
-   "image": "https://github.blog/wp-content/uploads/2026/10/668637028-c7fd9e91-ddbd-40bd-a7cb-c31366bbc342.jpeg",
-   "title": "AI Scan for pull requests generally available",
-   "summary_en": "Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently…",
-   "title_mn": "GitHub CodeQL-д зориулсан AI Scan боломжийг нээлттэй болголоо",
-   "summary_mn": "GitHub-ийн кодын аюулгүй байдлыг шалгах AI Scan хэрэгсэл одоо албан ёсоор бүх хэрэглэгчдэд нээлттэй боллоо. Энэ нь CodeQL-ийн дэмждэггүй PHP, Terraform, Dockerfile зэрэг олон хэл дээрх эмзэг байдлыг илрүүлэх боломжийг олгодог.",
-   "body_mn": "GitHub компани хувь нийлүүлсэн код шалгах AI Scan хэрэгслээ бүх хэрэглэгчдэд нээлттэй болгосноо зарлалаа. Энэхүү шинэ боломж нь уламжлалт CodeQL хэрэгслийг нөхөж, одоогоор CodeQL дэмждэггүй PHP, Shell/Bash, Terraform (HCL), Dockerfiles, JSP, Blazor зэрэг хэл болон фрэймворкууд дээрх аюулгүй байдлын сул талуудыг илрүүлэх үүрэгтэй.\n\nAI Scan нь тухайн кодын санд тохиргоо хийгдсэн үед pull request хийх явцад автоматаар ажилладаг. Үр дүн нь CodeQL үр дүнтэй хамт Files changed болон Conversation таб дээр гарч ирэх бөгөөд \"AI\" гэсэн тэмдэглэгээгээр ялгагддаг байна. Хөгжүүлэгчид уг үр дүнгээс аюулгүй байдлын эрсдлийн тайлбар болон санал болгож буй засах кодыг шууд харах боломжтой.\n\nЭнэхүү хэрэгсэл нь олон нийтийн болон хувийн кодын сануудад ашиглагдах бөгөөд аюулгүй байдлын AI кредитийг зарцуулдаг. AI Scan нь зөвхөн зөвлөмж өгөх зорилготой бөгөөд pull request нэгтгэх үйл явцыг автоматаар хаахгүй боловч хөгжүүлэгчдэд кодын чанар, аюулгүй байдлаа сайжруулахад үнэтэй туслалцаа үзүүлнэ.",
-   "published": "2026-10-15T15:04:51Z",
-   "added": "2026-10-15T16:03:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "8e2d50ea0d105be0",
    "subtopic": "ai-devtools",
    "source": "ollama/ollama",
@@ -617,6 +417,206 @@
    "added": "2026-10-16T05:19:21Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c781df3ac224fed2",
+   "subtopic": "vibe-coding",
+   "source": "Builder.io Blog",
+   "source_label": "Builder.io Blog",
+   "url": "https://www.builder.io/blog/grokbot-review",
+   "image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/ca28bae71dec4d0db4a6d589dd1b244e?width=1200",
+   "title": "GrokBot is amazing. Here's why I stopped using it.",
+   "summary_en": "GrokBot helped me merge 78 PRs in a week. Then my bots burned $100 deciding they had nothing to tell me. Here's what always-on agents need instead.",
+   "title_mn": "GrokBot болон T3 Code ашиглан 78 PR нийлүүлсэн туршлага ба тулгарсан бэрхшээл",
+   "summary_mn": "Нэг дор 16 GrokBot агентыг ажлын тусгай чиглэлээр T3 Code-той холбон долоо хоногт 78 PR нэгтгэсэн боловч автомат хяналт болон зардлын томоохон хүндрэл гарчээ.",
+   "body_mn": "Хөгжүүлэгч нэгэн нийтлэлдээ GrokBot-ын 16 бие даасан агентыг GitHub, Bug, Inbox, Vault зэрэг тусдаа үүргээр ажиллуулж, долоо хоногт 78 pull request (PR) нийлүүлж амжсан сонирхолтой туршлагаа хуваалцжээ. Тэрээр үүний тулд орон нутгийн машинаасаа шууд Claude Code болон Codex ажиллуулдаг T3 Code аппликэйшнийг скриптээр дамжуулан GrokBot-ын webhook-тэй холбосон байна.\n\nЭнэхүү урсгалын хүрээнд PR-ийн код хянагдаж батлагдах үед тусгай GitHub бот нь код бичиж буй агент руу мэдээлж хоёрхон минутын дотор автоматаар нийлүүлэх зэрэг өндөр үр бүтээмжийг бий болгожээ. Мөн хувийн имэйл, төлөвлөгөөний ботууд өдөрт 3 удаа мэдээллээ нэгтгэн дарааллыг нь гаргаж өгдөг байсан нь шийдвэр гаргах ачааллыг бүрэн хөнгөвчилсөн байна.\n\nГэвч амралтын өдрүүдэд ботууд өөрсдөө идэвхжиж хоосон шалгалт хийсээр 100 ам.долларын зардлын хязгаарыг хэтрүүлж, систем бүхэлдээ гацсан байна. Түүнчлэн ботууд үүрэг авчихаад дараа нь мэдэгдэхгүй орхигдуулах, үйл явцын мэдээлэл гээгдэх зэрэг архитектурын түвшний сул талууд одоогийн байнгын ажиллагаатай агентуудад байсаар байгааг онцолжээ.",
+   "published": "2026-10-15T18:00:00Z",
+   "added": "2026-10-16T10:00:16Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "32165ee6af8945a5",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/g91SfQ7YxvtosiWacUxkg/47162ea17967b74890a6ef14a8c9fa78/rosalind-academic-plan-seo.png?w=1600&h=900&fit=fill",
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "summary_en": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+   "title_mn": "OpenAI судалгааны лабораториудад GPT-Rosalind загварыг үнэ төлбөргүй ашиглах хөтөлбөр зарлалаа",
+   "summary_mn": "OpenAI амьдралын ухааны тусгай чиглэлийн GPT-Rosalind загвар болон Workbench платформыг эрдэм шинжилгээний байгууллагуудад 12 сарын турш үнэгүй олгох Academic Plan-ийг танилцууллаа.",
+   "body_mn": "OpenAI компани анагаах, биологийн салбарын судалгааг дэмжих зорилгоор Rosalind Academic Plan хөтөлбөрийг зарлалаа. Шалгуурт тэнцсэн эрдэм шинжилгээний лабораториуд GPT-Rosalind загвар болон Rosalind Workbench хэрэгслийг 12 сар хүртэлх хугацаанд 30 хүртэлх хэрэглэгчийн эрхтэйгээр төлбөргүй ашиглах боломжтой болж байна.\n\nGPT-Rosalind нь хими, геномик, нойтон лабораторийн үйл ажиллагаанд зориулагдсан багаж хэрэгслүүдийг нэгтгэн ажиллах чадвартай, өндөр түвшний reasoning дээр суурилсан загвар юм. Хэрэглэгчид батлагдсан нэвтрэх эрх авснаар эм, уураг, пептидийн дизайн боловсруулах болон өвчний молекулын бүтцийг шинжлэх судалгаанд уг загварыг ашиглана.\n\nЭнэхүү академик хөтөлбөрийн хүрээнд илгээгдсэн судалгааны өгөгдлийг OpenAI үндсэн загваруудаа сургахад ашиглахгүй байх аюулгүй байдлын тохиргоотой бөгөөд арилжааны бусад бүх шилдэг загваруудыг ашиглах боломжийг хамтад нь багтаажээ.",
+   "published": "2026-10-15T19:00:00Z",
+   "added": "2026-10-16T10:00:16Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e333d72720c0c3c5",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5",
+   "image": "https://opengraph.githubassets.com/50e08577562f01dc2938165767d228422e7733298c7bdcfbca3e27fdb82b2a18/ollama/ollama/releases/tag/v0.40.5",
+   "title": "ollama v0.40.5",
+   "summary_en": "NVIDIA Nemotron 3.5 Super NVIDIA Nemotron 3.5 Super is a vision-language model for coding, reasoning, tool use, and document understanding. It pairs a 120B-parameter hybrid Mamba-2/Transformer mixture-of-experts backbone (12B active per token) with a C-RADIO vision encoder, and supports tool calling, an on/off thinking mode, and context up to 1M tokens. ollama run nemotron-3.5-super A compact sibling, Nemotron 3.5 Bolt , distills Super down to 74B parameters (9B active) tuned to fit a 24 GB NVIDIA GPU for everyday agentic tasks, with speculative decoding via its included drafter. What's…",
+   "title_mn": "Ollama v0.40.5 хувилбар NVIDIA Nemotron 3.5 Super загварыг дэмжлэгтэйгээр гарлаа",
+   "summary_mn": "Ollama v0.40.5 шинэчлэлтээр NVIDIA Nemotron 3.5 Super болон Bolt загваруудыг нэмж, үүлэн дэх шийдвэр гаргах загваруудыг дэмждэг боллоо. Мөн llama.cpp болон алдаа мэдээлэх хэсгийг сайжруулсан байна.",
+   "body_mn": "Ollama төсөл v0.40.5 хувилргаа гаргаснаа зарлалаа. Энэхүү шинэчлэлтээр NVIDIA Nemotron 3.5 Super болон түүний хөнгөн хувилбар болох Nemotron 3.5 Bolt загваруудыг албан ёсоор дэмждэг болсон нь хөгжүүлэгчдэд код бичих, логик боловсруулах болон агентлаг ажлуудыг хийхэд илүү өргөн боломж олгож байна.\n\nШинэ хувилбарт хөгжүүлэгчид ollama.com үүлэн үйлчилгээгээр дамжуулан clef:cloud болон clef-flash:cloud загваруудыг шууд ажиллуулах боломжтой болсон. Мөн OpenAI-тай нийцтэй Responses харилцан ярианы үеэр тохируулсан хэрэгслийн дуудлага алдаа гаргадаг байсныг засаж, үүлэн хандалт болон төлбөрийн алдааны мессежүүдийг илүү ойлгомжтой болгожээ.\n\nҮүнээс гадна llama.cpp болон MLX сангуудыг шинэчилж, Nemotron загваруудын ажиллах нөхцөлийг сайжруулсан байна. 24 GB NVIDIA GPU дээр ажиллах зориулалттай Bolt загвар болон 1M токен хүртэлх контекст дэмждэг Super загвар нь хиймэл оюуны хөгжүүлэлтийн хэрэгслүүдийг орон нутгийн болон үүлэн орчинд хослуулан ашиглахад чухал алхам болж байна.",
+   "published": "2026-10-15T19:18:39Z",
+   "added": "2026-10-16T10:00:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6d7836fe63a7cbe1",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.301",
+   "image": "https://opengraph.githubassets.com/320b6490de42374d99ccc5201a9e44d68b796444a013218ca10bea6e20c91cc9/anthropics/claude-code/releases/tag/v2.1.301",
+   "title": "claude-code v2.1.301",
+   "summary_en": "What's changed Added CLAUDE_CODE_RETRY_WATCHDOG_MAX_USAGE_LIMIT_WAIT_MS so unattended retry mode ( CLAUDE_CODE_RETRY_WATCHDOG ) ends a request at a usage limit that resets too far away instead of waiting Added OpenTelemetry tracing guidance to the claude-api skill, including setting up trace destinations with the ant CLI Added the % motion to vim mode: jump to the matching bracket, alone or with d/c/y Added rows to a mod's Input : a text field of several lines in the terminal, where Enter submits and Shift+Enter or a backslash before Enter starts a new line Added classifier_verdict and…",
+   "title_mn": "Claude Code v2.1.301 хувилбар OpenTelemetry болон vim горимын сайжруулалттай гарлаа",
+   "summary_mn": "Claude Code v2.1.301 шинэчлэлтээр OpenTelemetry tracing дэмжлэг, vim горимын сайжруулалт болон олон төрлийн алдаа засварыг хийжээ.",
+   "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ v2.1.301 хувилбарыг гаргалаа. Энэхүү шинэчлэлтээр хөгжүүлэгчдийн ажлын урсгалыг сайжруулах олон шинэ боломж болон алдаа засварууд багтсан байна.\n\nТухайлбал, claude-api skill дотор OpenTelemetry tracing удирдамжийг нэмж, ant CLI ашиглан ул мөр бүртгэх цэгүүдийг тохируулах боломжтой болжээ. Мөн vim горимд % хөдөлгөөнийг нэмсэн нь хаалтуудыг хооронд нь хялбар шилжих боломжийг олгож байна. Олон мөрт оролтын талбарт Enter товчоор илгээх ба Shift+Enter ашиглан шинэ мөр үүсгэх боломжтой болжээ.\n\nҮүнээс гадна worktree болон гишүүдийн санах ойн ашиглалт, загвар солих үеийн хүлээлттэй холбоотой олон алдаануудыг засварласан нь агентуудын тогтвортой байдлыг сайжруулж байна.",
+   "published": "2026-10-15T19:22:06Z",
+   "added": "2026-10-16T10:00:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0fb5cf8a26c77a05",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+   "image": "https://github.blog/wp-content/uploads/2026/10/645867806-878ea927-48c9-4765-a896-4a5f3d7b8f2e.jpg",
+   "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+   "summary_en": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date…",
+   "title_mn": "GitHub Copilot сонгогдсон загваруудыг 11 дүгээр сард хасна",
+   "summary_mn": "GitHub Copilot 2026 оны 11 дүгээр сарын 16-наас эхлэн зарим хуучин загваруудыг дэмжихээ болихоо зарлалаа. Хөгжүүлэгчид ажлын урсгалаа шинэ загварууд руу шилжүүлэх шаардлагатай.",
+   "body_mn": "GitHub компаниас мэдэгдсэнээр, 2026 оны 11 дүгээр сарын 16-ны өдрөөс эхлэн GitHub Copilot-ын бүх орчинд зарим сонгогдсон загваруудын дэмжлэгийг зогсоохоор болжээ. Үүнд Copilot Chat, шууд засвар хийх болон агент горимууд хамрагдах ажээ.\n\nГэхдээ жилийн төлөвлөгөөтэй хувь хэрэглэгчдэд зориулж Claude Opus 4.8 загвар үргэлжлэн ашиглагдах бөгөөд энэхүү тацварлалт нь тэдэнд хамаарахгүй юм. Админууд болон хөгжүүлэгчид өөрсдийн ажлын урсгал, интеграциудаа дэмжигдсэн шинэ загварууд руу урьдчилан шилжүүлэх шаардлагатай.\n\nХэрэв глобал үндсэн тохиргоог унтраасан бол Copilot тохиргоо дахь загварын бодлогоор дамжуулан өөр хувилбаруудыг идэвхжүүлэх боломжтой байна. Энэхүү өөрчлөлт нь хөгжүүлэгчдийг илүү шинэ бөгөөд чадвартай загварууд руу шилжүүлэх зорилготой юм.",
+   "published": "2026-10-15T19:35:13Z",
+   "added": "2026-10-16T10:00:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0b1032acdbe2dabd",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Blog",
+   "source_label": "GitHub Blog",
+   "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+   "image": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-12.28.43-PM.png",
+   "title": "The next developer interface is ambient intelligence",
+   "summary_en": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building.",
+   "title_mn": "Хөгжүүлэгчийн дараагийн интерфейс: Орчны хиймэл оюун ухаан",
+   "summary_mn": "Хиймэл оюуны хөгжил нь хөгжүүлэгчдийн багаж хэрэгсэлтэй харилцах харилцааг өөрчилж, орчны хиймэл оюун ухаан буюу ambient intelligence чиглэл рүү шилжүүлж байна.",
+   "body_mn": "Програм хангамжийн хөгжүүлэлтийн түүхэнд гарын үсэг, хулгана, засварлагч, терминал болон хөтөч нь үндсэн хэрэгсэл байсаар ирсэн. Гэвч хиймэл оюун ухаан энэ харилцааг үндсээр нь өөрчилж, хөгжүүлэгчдэд командаас илүү зорилгоо тодорхойлох боломжийг олгож байна.\n\nШинэ үеийн хөгжүүлэлтийн явцад GitHub Copilot болон бусад агентууд репозиторын контекстийг ойлгож, алдааг шалгаж, тест ажиллуулан pull request үүсгэх чадвартай болжээ. Энэ нь хөгжүүлэгчдээс техникийн командуудыг цээжлэх бус харин чиглэл тогтоох, хязгаарлалт тодорхойлох чадварыг илүү үнэ цэнэтэй болгож байна.\n\nЭнэхүү шилжилтийн хүрээнд Logitech компанитай хамтран бүтээсэн MX Keypad зэрэг төхөөрөмжүүд нь хөгжүүлэгчдэд физик товчлуураар дамжуулан хиймэл оюуны агентуудыг удирдах, контекстэд суурилсан ажлын урсгалыг хурдасгах боломжийг олгож байна.",
+   "published": "2026-10-15T19:39:27Z",
+   "added": "2026-10-16T10:00:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "64c0a04445160322",
+   "subtopic": "react-native",
+   "source": "Expo Changelog",
+   "source_label": "Expo Changelog",
+   "url": "https://expo.dev/changelog/sdk-58",
+   "image": "https://cdn.sanity.io/images/9r24npb8/production/ddd5bb6eddbd4b98cc546553c4aea8a8ad6be9ef-1800x1012.png?rect=0,34,1800,945&w=1200&h=630&fm=webp&q=80&auto=format",
+   "title": "Expo SDK 58",
+   "summary_en": "Learn about the changes and how to upgrade",
+   "title_mn": "Expo SDK 58 хувилбар iOS 27 болон React Native 0.88 дэмжлэгтэйгээр гарлаа",
+   "summary_mn": "Expo SDK 58 нь React Native 0.88 хувилбарыг багтаасан бөгөөд iOS 27 болон нугалардаг төхөөрөмжүүдийн шинэ боломжуудыг дэмждэг боллоо.",
+   "body_mn": "Expo баг өнөөдөр Expo SDK 58 хувилбар албан ёсоор гарсныг зарлалаа. Энэхүү шинэ хувилбар нь iOS 27 үйлдлийн системд зориулагдсан бөгөөд React Native 0.88 хувилбарыг ашиглаж байна.\n\nSDK 58 нь iOS 27-ийн scene-based амьдралын мөчлөг болон iPhone аппуудын хэмжээг өөрчлөх боломжийг бүрэн дэмждэг. Мөн нугалардаг төхөөрөмжүүдэд зориулсан шинэ expo-hinge багц нэмэгдсэн нь хөгжүүлэгчдэд нугалах өнцөг болон төхөөрөмжийн төлөвийг хянах боломж олгож байна. Expo UI дотор SwiftUI-ийн ArrangementView контейнерийг нэмжээ.\n\nШинэ expo-device-hub хөгжүүлэгчийн хэрэгслийн залгаас нь хөтөч дээрээс шууд iOS симулятор болон Android эмулятор руу хандах, хянах боломжийг бүрдүүлсэн байна. Хөгжүүлэгчид npx expo install expo-device-hub команчаар суулгаж ашиглах боломжтой.",
+   "published": "2026-10-15T20:00:00Z",
+   "added": "2026-10-16T10:00:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dd5760dd7903fdee",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/anthropic-makes-code-review-for-claude-code-generally-available/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-makes-code-review-for-claude-code-generally-available.jpg",
+   "title": "Anthropic Makes Code Review for Claude Code Generally Available",
+   "summary_en": "Anthropic made Code Review, the multi-agent pull-request review system for Claude Code, generally available to Claude Team and Enterprise organizations on October 15, 2026, and paired the launch with a promotional offer...",
+   "title_mn": "Anthropic Claude Code-д зориулсан Code Review системийг албан ёсоор гаргалаа",
+   "summary_mn": "Anthropic компани Claude Team болон Enterprise хэрэглэгчдэд зориулсан Code Review олон агентын pull-request шалгах системийг албан ёсоор нээлээ.",
+   "body_mn": "Anthropic компани Claude Code-д зориулсан pull-request шалгах олон агентын систем болох Code Review-г 2026 оны 10 дугаар сарын 15-ны өдрөөс эхлэн Claude Team болон Enterprise байгууллагуудад албан ёсоор нээлттэй болголоо. Шинэ бүтээгдэхүүнийг дэмжих зорилгоор эрх бүхий Enterprise байгууллагуудад хамгийн багадаа 10,000 ам.долларын шалгалтын эрх олгох урамшууллыг зарлажээ.\n\nТус компани судалгааны урьдчилсан хувилбарын үр дүнд үндэслэн Code Review-г илүү хурдан, чухал алдааг олж илрүүлэх чадвартай болгосноо онцоллоо. Ихэнх шалгалтууд өмнөхөөсөө 3 дахин хурдан буюу 6-10 минутын дотор дуусаж байгаа аж. Админууд репозитор бүрд Quick, Standard эсвэл Deep шалгалтын түвшнийг оноож өгөх боломжтой.\n\nCode Review нь Anthropic-ийн дэд бүтцэд дөрвөн үе шаттайгаар ажилладаг бөгөөд parallel байдлаар кодыг шалгаж, false positive үр дүнг шүүн ангилдаг. Энэхүү систем нь зөвхөн алдаа болон зөв байдалд анхаарлаа хандуулж, код нэгтгэх шийдвэрийг багт үлдээдэг байна. Үйлчилгээг ашиглахын тулд GitHub дээр байрлах репозитор болон Team эсвэл Enterprise төлөвлөгөө шаардлагатай.",
+   "published": "2026-10-15T20:31:02Z",
+   "added": "2026-10-16T10:00:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4e768f37b29957b9",
+   "subtopic": "nextjs",
+   "source": "vercel/next.js",
+   "source_label": "vercel/next.js",
+   "url": "https://github.com/vercel/next.js/releases/tag/v16.4.2",
+   "image": "https://opengraph.githubassets.com/60ada4117c99ea5e4961bd7aea8f6bd5a99ed201632c17377f4be1eb75ebdd0a/vercel/next.js/releases/tag/v16.4.2",
+   "title": "next.js v16.4.2",
+   "summary_en": "What's Changed [lts-active] turbo-tasks snapshot consistency fixes ( #99644 , #99732 , #99649 ) by @lukesandberg in #100002 [lts-active] Turbopack: backport Pages Router dev module graph chaining ( #98823 , #99910 , #100091 ) by @sokra in #100008 [lts-active] fix(next-code-frame): snap visible window to char boundaries by @lukesandberg in #100212 [lts-active] [turbopack] Fix two GC paths that leave half-torn-down dependency edges by @lukesandberg in #100209 [lts-active] Turbopack: Ignore realpath errors during module resolution, matching node's behavior by @lukesandberg in #100217…",
+   "title_mn": "Next.js v16.4.2 хувилбар гарч, Turbopack болон тогтвортой байдлын засваруудыг хийлээ",
+   "summary_mn": "Next.js v16.4.2 шинэчлэлтээр turbo-tasks тогтвортой байдал, Turbopack модуль графикийн холбоос болон бусад чухал алдаануудыг заслаа.",
+   "body_mn": "Vercel баг Next.js фрэймворкийн шинэ v16.4.2 хувилбарыг гаргалаа. Энэхүү хувилбар нь гол төлөв lts-active буюу идэвхтэй урт хугацааны дэмжлэгтэй хувилбаруудын тогтвортой байдал болон гүйцэтгэлийг сайжруулахад чиглэжээ.\n\nШинэчлэлтээр turbo-tasks snapshot-ийн тогтвортой байдлыг хангах засварууд хийгдсэн бөгөөд Turbopack ашиглан Pages Router хөгжүүлэлтийн модуль графикийн холбоосыг буцаан оруулсан байна. Мөн realpath алдааг үл тоомсорлох замаар Node.js-ийн зан төлөвтэй нийцүүлэх засваруудыг хийжээ.\n\nТүүнчлэн Turbopack сааталтай динамик импортын chunk-list мөргөлдөөнийг засаж, хөгжүүлэгчдэд илүү найдвартай ажиллах орчныг бүрдүүлсэн байна. Дэлгэрэнгүй өөрчлөлтүүдийг GitHub дахь албан ёсны хувилбарын тэмдэглэлээс харах боломжтой.",
+   "published": "2026-10-15T20:44:37Z",
+   "added": "2026-10-16T10:00:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6b1f86ec858b3d94",
+   "subtopic": "ai-devtools",
+   "source": "openai/codex",
+   "source_label": "openai/codex",
+   "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
+   "image": "https://opengraph.githubassets.com/8ca52016e0bcccdc63200b197368503fb71524266141e884f88114fc768c2b66/openai/codex/releases/tag/rust-v0.163.0",
+   "title": "codex 0.163.0",
+   "summary_en": "New Features Open /config to search preferences across categories, change supported settings immediately, and see which changes require a restart. ( #52990 , #53429 ) Send a follow-up while Codex is responding to steer it immediately. Interrupting a turn also stops active Code Mode cells and their nested tool calls. ( #51812 , #51835 ) Configure a leader key in /keymap . The default is Ctrl+X , shortcut hints stay open until you choose or cancel, and voice mute moves to F9 . ( #52273 ) Restart a managed background server from /daemon . Codex warns about work the restart could interrupt, then…",
+   "title_mn": "Codex 0.163.0 хувилбар шинэ боломжуудтайгаар гарлаа",
+   "summary_mn": "Codex CLI хэрэгслийн 0.163.0 шинэ хувилбар гарч, тохиргоог хайх боломж, даруй тасалдуулах функц болон арын сервер дахин асаах команд зэргийг нэмлээ.",
+   "body_mn": "Codex хөгжүүлэгчид 0.163.0 хувилбарыг албан ёosan гаргалаа. Энэхүү шинэ хувилбарт хэрэглэгчийн хэрэглээг хөнгөвчилсөн олон сонирхолтой боломж, сайжруулалтууд багтсан байна. Тухайлбал, /config команд ашиглан категориуд дунд тохиргоо хайх, дэмжигдсэн тохиргоог шууд өөрчлөх боломжтой болжээ.\n\nMөн хөгжүүлэгчид Codex хариу өгч байх үед нь шууд дараагийн хүсэлтээ явуулж чиглүүлэх боломжтой болсон бөгөөд ажиллагааг тасалдуулах үед идэвхтэй Code Modeเซลлүүд болон тэдгээрийн хэрэгслүүд хамт зогсоно. /keymap тохиргоонд удирдлагын товчлуурыг (leader key) тохируулах боломжтой болсон ба үндсэн тохиргоогоор Ctrl+X байхаар өөрчилжээ.\n\nҮүнээс гадна /daemon командын тусламжтайгаар удирдуулах арын серверийг дахин асаах, Codex бие даасан read-only хэрэгслүүдийг зэрэг ажиллуулах зэрэг шинэчлэлтүүд орсон байна. Linux болон macOS системүүдэд зориулсан багцын хэмжээг багасгаж, гүйцэтгэлийг илүү сайжруулжээ.",
+   "published": "2026-10-15T21:33:06Z",
+   "added": "2026-10-16T10:00:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]

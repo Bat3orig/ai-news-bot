@@ -1,0 +1,17 @@
+{
+ "id": "4e768f37b29957b9",
+ "subtopic": "nextjs",
+ "source": "vercel/next.js",
+ "source_label": "vercel/next.js",
+ "url": "https://github.com/vercel/next.js/releases/tag/v16.4.2",
+ "image": "https://opengraph.githubassets.com/60ada4117c99ea5e4961bd7aea8f6bd5a99ed201632c17377f4be1eb75ebdd0a/vercel/next.js/releases/tag/v16.4.2",
+ "title": "next.js v16.4.2",
+ "summary_en": "What's Changed [lts-active] turbo-tasks snapshot consistency fixes ( #99644 , #99732 , #99649 ) by @lukesandberg in #100002 [lts-active] Turbopack: backport Pages Router dev module graph chaining ( #98823 , #99910 , #100091 ) by @sokra in #100008 [lts-active] fix(next-code-frame): snap visible window to char boundaries by @lukesandberg in #100212 [lts-active] [turbopack] Fix two GC paths that leave half-torn-down dependency edges by @lukesandberg in #100209 [lts-active] Turbopack: Ignore realpath errors during module resolution, matching node's behavior by @lukesandberg in #100217…",
+ "title_mn": "Next.js v16.4.2 хувилбар гарч, Turbopack болон тогтвортой байдлын засваруудыг хийлээ",
+ "summary_mn": "Next.js v16.4.2 шинэчлэлтээр turbo-tasks тогтвортой байдал, Turbopack модуль графикийн холбоос болон бусад чухал алдаануудыг заслаа.",
+ "body_mn": "Vercel баг Next.js фрэймворкийн шинэ v16.4.2 хувилбарыг гаргалаа. Энэхүү хувилбар нь гол төлөв lts-active буюу идэвхтэй урт хугацааны дэмжлэгтэй хувилбаруудын тогтвортой байдал болон гүйцэтгэлийг сайжруулахад чиглэжээ.\n\nШинэчлэлтээр turbo-tasks snapshot-ийн тогтвортой байдлыг хангах засварууд хийгдсэн бөгөөд Turbopack ашиглан Pages Router хөгжүүлэлтийн модуль графикийн холбоосыг буцаан оруулсан байна. Мөн realpath алдааг үл тоомсорлох замаар Node.js-ийн зан төлөвтэй нийцүүлэх засваруудыг хийжээ.\n\nТүүнчлэн Turbopack сааталтай динамик импортын chunk-list мөргөлдөөнийг засаж, хөгжүүлэгчдэд илүү найдвартай ажиллах орчныг бүрдүүлсэн байна. Дэлгэрэнгүй өөрчлөлтүүдийг GitHub дахь албан ёсны хувилбарын тэмдэглэлээс харах боломжтой.",
+ "published": "2026-10-15T20:44:37Z",
+ "added": "2026-10-16T10:00:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

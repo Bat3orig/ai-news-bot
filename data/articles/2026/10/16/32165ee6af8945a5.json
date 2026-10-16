@@ -1,0 +1,17 @@
+{
+ "id": "32165ee6af8945a5",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/g91SfQ7YxvtosiWacUxkg/47162ea17967b74890a6ef14a8c9fa78/rosalind-academic-plan-seo.png?w=1600&h=900&fit=fill",
+ "title": "Bringing GPT-Rosalind to academic research labs",
+ "summary_en": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+ "title_mn": "OpenAI судалгааны лабораториудад GPT-Rosalind загварыг үнэ төлбөргүй ашиглах хөтөлбөр зарлалаа",
+ "summary_mn": "OpenAI амьдралын ухааны тусгай чиглэлийн GPT-Rosalind загвар болон Workbench платформыг эрдэм шинжилгээний байгууллагуудад 12 сарын турш үнэгүй олгох Academic Plan-ийг танилцууллаа.",
+ "body_mn": "OpenAI компани анагаах, биологийн салбарын судалгааг дэмжих зорилгоор Rosalind Academic Plan хөтөлбөрийг зарлалаа. Шалгуурт тэнцсэн эрдэм шинжилгээний лабораториуд GPT-Rosalind загвар болон Rosalind Workbench хэрэгслийг 12 сар хүртэлх хугацаанд 30 хүртэлх хэрэглэгчийн эрхтэйгээр төлбөргүй ашиглах боломжтой болж байна.\n\nGPT-Rosalind нь хими, геномик, нойтон лабораторийн үйл ажиллагаанд зориулагдсан багаж хэрэгслүүдийг нэгтгэн ажиллах чадвартай, өндөр түвшний reasoning дээр суурилсан загвар юм. Хэрэглэгчид батлагдсан нэвтрэх эрх авснаар эм, уураг, пептидийн дизайн боловсруулах болон өвчний молекулын бүтцийг шинжлэх судалгаанд уг загварыг ашиглана.\n\nЭнэхүү академик хөтөлбөрийн хүрээнд илгээгдсэн судалгааны өгөгдлийг OpenAI үндсэн загваруудаа сургахад ашиглахгүй байх аюулгүй байдлын тохиргоотой бөгөөд арилжааны бусад бүх шилдэг загваруудыг ашиглах боломжийг хамтад нь багтаажээ.",
+ "published": "2026-10-15T19:00:00Z",
+ "added": "2026-10-16T10:00:16Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

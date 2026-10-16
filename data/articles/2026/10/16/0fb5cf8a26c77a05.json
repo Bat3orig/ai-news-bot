@@ -1,0 +1,17 @@
+{
+ "id": "0fb5cf8a26c77a05",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+ "image": "https://github.blog/wp-content/uploads/2026/10/645867806-878ea927-48c9-4765-a896-4a5f3d7b8f2e.jpg",
+ "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+ "summary_en": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date…",
+ "title_mn": "GitHub Copilot сонгогдсон загваруудыг 11 дүгээр сард хасна",
+ "summary_mn": "GitHub Copilot 2026 оны 11 дүгээр сарын 16-наас эхлэн зарим хуучин загваруудыг дэмжихээ болихоо зарлалаа. Хөгжүүлэгчид ажлын урсгалаа шинэ загварууд руу шилжүүлэх шаардлагатай.",
+ "body_mn": "GitHub компаниас мэдэгдсэнээр, 2026 оны 11 дүгээр сарын 16-ны өдрөөс эхлэн GitHub Copilot-ын бүх орчинд зарим сонгогдсон загваруудын дэмжлэгийг зогсоохоор болжээ. Үүнд Copilot Chat, шууд засвар хийх болон агент горимууд хамрагдах ажээ.\n\nГэхдээ жилийн төлөвлөгөөтэй хувь хэрэглэгчдэд зориулж Claude Opus 4.8 загвар үргэлжлэн ашиглагдах бөгөөд энэхүү тацварлалт нь тэдэнд хамаарахгүй юм. Админууд болон хөгжүүлэгчид өөрсдийн ажлын урсгал, интеграциудаа дэмжигдсэн шинэ загварууд руу урьдчилан шилжүүлэх шаардлагатай.\n\nХэрэв глобал үндсэн тохиргоог унтраасан бол Copilot тохиргоо дахь загварын бодлогоор дамжуулан өөр хувилбаруудыг идэвхжүүлэх боломжтой байна. Энэхүү өөрчлөлт нь хөгжүүлэгчдийг илүү шинэ бөгөөд чадвартай загварууд руу шилжүүлэх зорилготой юм.",
+ "published": "2026-10-15T19:35:13Z",
+ "added": "2026-10-16T10:00:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

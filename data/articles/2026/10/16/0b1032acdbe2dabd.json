@@ -1,0 +1,17 @@
+{
+ "id": "0b1032acdbe2dabd",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+ "image": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-12.28.43-PM.png",
+ "title": "The next developer interface is ambient intelligence",
+ "summary_en": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building.",
+ "title_mn": "Хөгжүүлэгчийн дараагийн интерфейс: Орчны хиймэл оюун ухаан",
+ "summary_mn": "Хиймэл оюуны хөгжил нь хөгжүүлэгчдийн багаж хэрэгсэлтэй харилцах харилцааг өөрчилж, орчны хиймэл оюун ухаан буюу ambient intelligence чиглэл рүү шилжүүлж байна.",
+ "body_mn": "Програм хангамжийн хөгжүүлэлтийн түүхэнд гарын үсэг, хулгана, засварлагч, терминал болон хөтөч нь үндсэн хэрэгсэл байсаар ирсэн. Гэвч хиймэл оюун ухаан энэ харилцааг үндсээр нь өөрчилж, хөгжүүлэгчдэд командаас илүү зорилгоо тодорхойлох боломжийг олгож байна.\n\nШинэ үеийн хөгжүүлэлтийн явцад GitHub Copilot болон бусад агентууд репозиторын контекстийг ойлгож, алдааг шалгаж, тест ажиллуулан pull request үүсгэх чадвартай болжээ. Энэ нь хөгжүүлэгчдээс техникийн командуудыг цээжлэх бус харин чиглэл тогтоох, хязгаарлалт тодорхойлох чадварыг илүү үнэ цэнэтэй болгож байна.\n\nЭнэхүү шилжилтийн хүрээнд Logitech компанитай хамтран бүтээсэн MX Keypad зэрэг төхөөрөмжүүд нь хөгжүүлэгчдэд физик товчлуураар дамжуулан хиймэл оюуны агентуудыг удирдах, контекстэд суурилсан ажлын урсгалыг хурдасгах боломжийг олгож байна.",
+ "published": "2026-10-15T19:39:27Z",
+ "added": "2026-10-16T10:00:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

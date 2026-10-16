@@ -1,0 +1,17 @@
+{
+ "id": "64c0a04445160322",
+ "subtopic": "react-native",
+ "source": "Expo Changelog",
+ "source_label": "Expo Changelog",
+ "url": "https://expo.dev/changelog/sdk-58",
+ "image": "https://cdn.sanity.io/images/9r24npb8/production/ddd5bb6eddbd4b98cc546553c4aea8a8ad6be9ef-1800x1012.png?rect=0,34,1800,945&w=1200&h=630&fm=webp&q=80&auto=format",
+ "title": "Expo SDK 58",
+ "summary_en": "Learn about the changes and how to upgrade",
+ "title_mn": "Expo SDK 58 хувилбар iOS 27 болон React Native 0.88 дэмжлэгтэйгээр гарлаа",
+ "summary_mn": "Expo SDK 58 нь React Native 0.88 хувилбарыг багтаасан бөгөөд iOS 27 болон нугалардаг төхөөрөмжүүдийн шинэ боломжуудыг дэмждэг боллоо.",
+ "body_mn": "Expo баг өнөөдөр Expo SDK 58 хувилбар албан ёсоор гарсныг зарлалаа. Энэхүү шинэ хувилбар нь iOS 27 үйлдлийн системд зориулагдсан бөгөөд React Native 0.88 хувилбарыг ашиглаж байна.\n\nSDK 58 нь iOS 27-ийн scene-based амьдралын мөчлөг болон iPhone аппуудын хэмжээг өөрчлөх боломжийг бүрэн дэмждэг. Мөн нугалардаг төхөөрөмжүүдэд зориулсан шинэ expo-hinge багц нэмэгдсэн нь хөгжүүлэгчдэд нугалах өнцөг болон төхөөрөмжийн төлөвийг хянах боломж олгож байна. Expo UI дотор SwiftUI-ийн ArrangementView контейнерийг нэмжээ.\n\nШинэ expo-device-hub хөгжүүлэгчийн хэрэгслийн залгаас нь хөтөч дээрээс шууд iOS симулятор болон Android эмулятор руу хандах, хянах боломжийг бүрдүүлсэн байна. Хөгжүүлэгчид npx expo install expo-device-hub команчаар суулгаж ашиглах боломжтой.",
+ "published": "2026-10-15T20:00:00Z",
+ "added": "2026-10-16T10:00:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

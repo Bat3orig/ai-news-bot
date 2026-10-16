@@ -1,0 +1,17 @@
+{
+ "id": "6d7836fe63a7cbe1",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.301",
+ "image": "https://opengraph.githubassets.com/320b6490de42374d99ccc5201a9e44d68b796444a013218ca10bea6e20c91cc9/anthropics/claude-code/releases/tag/v2.1.301",
+ "title": "claude-code v2.1.301",
+ "summary_en": "What's changed Added CLAUDE_CODE_RETRY_WATCHDOG_MAX_USAGE_LIMIT_WAIT_MS so unattended retry mode ( CLAUDE_CODE_RETRY_WATCHDOG ) ends a request at a usage limit that resets too far away instead of waiting Added OpenTelemetry tracing guidance to the claude-api skill, including setting up trace destinations with the ant CLI Added the % motion to vim mode: jump to the matching bracket, alone or with d/c/y Added rows to a mod's Input : a text field of several lines in the terminal, where Enter submits and Shift+Enter or a backslash before Enter starts a new line Added classifier_verdict and…",
+ "title_mn": "Claude Code v2.1.301 хувилбар OpenTelemetry болон vim горимын сайжруулалттай гарлаа",
+ "summary_mn": "Claude Code v2.1.301 шинэчлэлтээр OpenTelemetry tracing дэмжлэг, vim горимын сайжруулалт болон олон төрлийн алдаа засварыг хийжээ.",
+ "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ v2.1.301 хувилбарыг гаргалаа. Энэхүү шинэчлэлтээр хөгжүүлэгчдийн ажлын урсгалыг сайжруулах олон шинэ боломж болон алдаа засварууд багтсан байна.\n\nТухайлбал, claude-api skill дотор OpenTelemetry tracing удирдамжийг нэмж, ant CLI ашиглан ул мөр бүртгэх цэгүүдийг тохируулах боломжтой болжээ. Мөн vim горимд % хөдөлгөөнийг нэмсэн нь хаалтуудыг хооронд нь хялбар шилжих боломжийг олгож байна. Олон мөрт оролтын талбарт Enter товчоор илгээх ба Shift+Enter ашиглан шинэ мөр үүсгэх боломжтой болжээ.\n\nҮүнээс гадна worktree болон гишүүдийн санах ойн ашиглалт, загвар солих үеийн хүлээлттэй холбоотой олон алдаануудыг засварласан нь агентуудын тогтвортой байдлыг сайжруулж байна.",
+ "published": "2026-10-15T19:22:06Z",
+ "added": "2026-10-16T10:00:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
