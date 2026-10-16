@@ -1,0 +1,17 @@
+{
+ "id": "7ae1f290b8cbe5ea",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/perplexity-decider-v1-2-models-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6SjEqDjCsv4dSU7FtQbFrp/74915dc350a65095c7f5ee524fa5bbf8/Vercel_x_Perplexity.png",
+ "title": "Perplexity's Decider V1.2 models now available on AI Gateway",
+ "summary_en": "Perplexity Decider V1.2 27B and Decider Flash V1.2 4B are now available on AI Gateway . Both are multimodal decision models for classifying content, routing requests, and scoring text, structured records, and images. The models answer typed questions with probabilities. Boolean questions return the likelihood of yes, Choice questions select from categories you define, and Score questions assess content against an ordered rubric. Your application can use those results to route a support ticket, flag a damaged product, or send an uncertain decision for human review. Multiple questions can…",
+ "title_mn": "Perplexity-ийн Decider V1.2 шийдвэр гаргагч загварууд Vercel AI Gateway-д нэмэгдлээ",
+ "summary_mn": "Vercel-ийн AI Gateway платформд Perplexity-ийн Decider V1.2 27B болон Flash V1.2 4B мультимодал загварууд нэмэгдлээ. Хөгжүүлэгчид контент ангилах, хүсэлт чиглүүлэх болон оноо өгөх үйлдлийг хялбар гүйцэтгэх боломжтой.",
+ "body_mn": "Vercel компани AI Gateway дээрээ Perplexity Decider V1.2 27B болон Decider Flash V1.2 4B загваруудыг албан ёсоор дэмжиж эхэлснээ зарлалаа. Эдгээр нь текст, бүтэцлэгдсэн өгөгдөл болон зургийг шинжлэн контент ангилах, хүсэлт чиглүүлэхэд зориулагдсан мультимодал шийдвэр гаргагч загварууд юм.\n\nDecider V1.2 загварууд нь асуултад магадлалын хэлбэрээр хариулдаг. Тухайлбал, тийм/үгүй төрлийн Boolean хариулт, хөгжүүлэгчийн тодорхойлсон ангиллаас сонгох Choice хариулт, мөн шалгуурын дагуу үнэлэх Score хариултыг нэг хүсэлтээр олон асуултад нэгэн зэрэг буцааж чадна. Үүнийг дэмжлэгийн хүсэлтийг чиглүүлэх, гэмтэлтэй барааны зургийг илрүүлэх зэрэгт шууд ашиглаж болно.\n\nХөгжүүлэгчид эдгээр загварыг Vercel AI SDK, Decisions API эсвэл TypeSafe-тэй нийцтэй API-аар дамжуулан дуудах боломжтой. AI Gateway-ийн нэг API түлхүүрээр бүх зардал, логуудыг нэг дор хянаж, үйлчилгээ үзүүлэгчийн үндсэн үнээр ямар ч нэмэлт шимтгэлгүй ашиглах боломжтой юм.",
+ "published": "2026-10-16T00:00:00Z",
+ "added": "2026-10-16T21:51:37Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

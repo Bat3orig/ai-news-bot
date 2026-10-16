@@ -1,0 +1,17 @@
+{
+ "id": "a39e7daa0f724775",
+ "subtopic": "vibe-coding",
+ "source": "Cursor Changelog",
+ "source_label": "Cursor Changelog",
+ "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+ "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
+ "title": "Cloud Agent Canvases and Environment Improvements",
+ "summary_en": "Cloud agents can now build and share interactive canvases. The Environments API is available in beta, environments support up to 300 repos, and large environments load 5x faster.",
+ "title_mn": "Cursor Cloud Agents интерактив Canvas болон орчны шинэ боломжуудтай боллоо",
+ "summary_mn": "Cursor-ийн Cloud Agents одоо ажлынхаа үр дүнг интерактив Canvas байдлаар үүсгэж, багийнхантайгаа холбоосоор хуваалцах боломжтой боллоо. Мөн орчныг программчлан удирдах Environments API болон 300 хүртэлх репозитор дэмждэг болжээ.",
+ "body_mn": "Cursor хөгжүүлэлтийн хэрэгсэл Cloud Agents-дээ интерактив Canvas болон клауд орчны томоохон шинэчлэлтүүдийг танилцууллаа. Одоо хиймэл оюуны агент нь код бичихээс гадна интерактив canvas үүсгэх чадвартай болсон бөгөөд хөгжүүлэгчид үүнийг холбоос хэлбэрээр багийн бусад гишүүдэд илгээж шууд харуулах боломжтой.\n\nТүүнчлэн агентуудын ажиллах клауд орчныг кодоор автоматаар үүсгэж, удирдах зориулалттай Environments API бета туршилтаар нээгдлээ. Энэ нь төслийн орчныг автоматаар бэлдэх, CI/CD болон автоматжуулалтын урсгалд агентуудыг нэгтгэхэд практик давуу тал олгож байна.\n\nКлауд агентын орчны хүчин чадлыг эрс тэлж, нэгэн зэрэг 300 хүртэлх кодын репозитортой ажиллах боломжтой болгожээ. Мөн олон репозитор бүхий том төслүүдийн ачааллах хурдыг 5 дахин сайжруулснаар агент том системүүд дээр хурдан ажиллах нөхцөл бүрдсэн байна.",
+ "published": "2026-10-16T00:00:00Z",
+ "added": "2026-10-16T21:51:37Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "9b446f087c38409b",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Cybernews",
+ "url": "https://cybernews.com/security/claude-code-preview-pane-secret-leak-flaw/",
+ "image": "https://media.cybernews.com/images/featured-big/2026/09/claude-logo-nur-photo-phonre.jpg",
+ "title": "Claude Code's preview pane could leak your secrets",
+ "summary_en": "8.7-rated Claude Code vulnerability could let malicious HTML steal SSH keys and tokens via its preview pane. See which risks developers face",
+ "title_mn": "Claude Code Desktop-ийн цонхоор нууц түлхүүрүүд алдагдах эрсдэл илэрч, засагджээ",
+ "summary_mn": "Claude Code Desktop-ийн HTML preview цонхны SneakPeek цоорхойг ашиглан хөгжүүлэгчийн SSH, AWS түлхүүр зэрэг нууц мэдээллийг зөвшөөрөлгүй хулгайлах боломжтой байжээ. Anthropic уг 8.7 үнэлгээтэй ноцтой алдааг v1.30096.1 хувилбарт зассан байна.",
+ "body_mn": "Noma Labs-ийн аюулгүй байдлын шинжээчид Anthropic компанийн Claude Code Desktop аппликейшнд SneakPeek нэртэй эмзэг байдал илрүүлсэн байна. Энэхүү цоорхой нь CVSS v4.0 системээр 8.7 оноо авсан ноцтой алдаанд тооцогдож байгаа бөгөөд халдагчид хөгжүүлэгчийн төхөөрөмж дээрх нууц файлуудыг алсаас хулгайлах эрсдэлийг үүсгэж байжээ.\n\nХалдлага нь код шалгалтын тайлан нэртэй хортой JavaScript агуулсан HTML файлыг олон нийтийн репозиторт оруулахаас эхэлдэг байна. Хөгжүүлэгч уг төслийг татаж аваад Claude Code-оор тайланг шалгуулах үед апп доторх preview цонх HTML-ийг уншиж, хэрэглэгчээс ямар нэгэн зөвшөөрөл асуулгүй хортой кодыг ажиллуулдаг байжээ. Тухайлбал 256KB-аас дээш хэмжээтэй HTML файлууд CSP болон локал файлын хязгаарлалтыг тойрч гарч байсан аж.\n\nҮүний үр дүнд халдагчид SSH хувийн түлхүүр, AWS хандалтын нууц, npm болон GitHub токеныг гаднын сервер рүү нууцаар илгээх боломжтой байв. Anthropic уг алдааг Claude Code Desktop v1.30096.1 хувилбарт бүрэн зассан тул хөгжүүлэгчдийг аппаа нэн даруй шинэчлэхийг зөвлөж байна.",
+ "published": "2026-10-16T13:49:20Z",
+ "added": "2026-10-16T21:51:37Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

@@ -898,5 +898,65 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7ae1f290b8cbe5ea",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/perplexity-decider-v1-2-models-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6SjEqDjCsv4dSU7FtQbFrp/74915dc350a65095c7f5ee524fa5bbf8/Vercel_x_Perplexity.png",
+   "title": "Perplexity's Decider V1.2 models now available on AI Gateway",
+   "summary_en": "Perplexity Decider V1.2 27B and Decider Flash V1.2 4B are now available on AI Gateway . Both are multimodal decision models for classifying content, routing requests, and scoring text, structured records, and images. The models answer typed questions with probabilities. Boolean questions return the likelihood of yes, Choice questions select from categories you define, and Score questions assess content against an ordered rubric. Your application can use those results to route a support ticket, flag a damaged product, or send an uncertain decision for human review. Multiple questions can…",
+   "title_mn": "Perplexity-ийн Decider V1.2 шийдвэр гаргагч загварууд Vercel AI Gateway-д нэмэгдлээ",
+   "summary_mn": "Vercel-ийн AI Gateway платформд Perplexity-ийн Decider V1.2 27B болон Flash V1.2 4B мультимодал загварууд нэмэгдлээ. Хөгжүүлэгчид контент ангилах, хүсэлт чиглүүлэх болон оноо өгөх үйлдлийг хялбар гүйцэтгэх боломжтой.",
+   "body_mn": "Vercel компани AI Gateway дээрээ Perplexity Decider V1.2 27B болон Decider Flash V1.2 4B загваруудыг албан ёсоор дэмжиж эхэлснээ зарлалаа. Эдгээр нь текст, бүтэцлэгдсэн өгөгдөл болон зургийг шинжлэн контент ангилах, хүсэлт чиглүүлэхэд зориулагдсан мультимодал шийдвэр гаргагч загварууд юм.\n\nDecider V1.2 загварууд нь асуултад магадлалын хэлбэрээр хариулдаг. Тухайлбал, тийм/үгүй төрлийн Boolean хариулт, хөгжүүлэгчийн тодорхойлсон ангиллаас сонгох Choice хариулт, мөн шалгуурын дагуу үнэлэх Score хариултыг нэг хүсэлтээр олон асуултад нэгэн зэрэг буцааж чадна. Үүнийг дэмжлэгийн хүсэлтийг чиглүүлэх, гэмтэлтэй барааны зургийг илрүүлэх зэрэгт шууд ашиглаж болно.\n\nХөгжүүлэгчид эдгээр загварыг Vercel AI SDK, Decisions API эсвэл TypeSafe-тэй нийцтэй API-аар дамжуулан дуудах боломжтой. AI Gateway-ийн нэг API түлхүүрээр бүх зардал, логуудыг нэг дор хянаж, үйлчилгээ үзүүлэгчийн үндсэн үнээр ямар ч нэмэлт шимтгэлгүй ашиглах боломжтой юм.",
+   "published": "2026-10-16T00:00:00Z",
+   "added": "2026-10-16T21:51:37Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a39e7daa0f724775",
+   "subtopic": "vibe-coding",
+   "source": "Cursor Changelog",
+   "source_label": "Cursor Changelog",
+   "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
+   "title": "Cloud Agent Canvases and Environment Improvements",
+   "summary_en": "Cloud agents can now build and share interactive canvases. The Environments API is available in beta, environments support up to 300 repos, and large environments load 5x faster.",
+   "title_mn": "Cursor Cloud Agents интерактив Canvas болон орчны шинэ боломжуудтай боллоо",
+   "summary_mn": "Cursor-ийн Cloud Agents одоо ажлынхаа үр дүнг интерактив Canvas байдлаар үүсгэж, багийнхантайгаа холбоосоор хуваалцах боломжтой боллоо. Мөн орчныг программчлан удирдах Environments API болон 300 хүртэлх репозитор дэмждэг болжээ.",
+   "body_mn": "Cursor хөгжүүлэлтийн хэрэгсэл Cloud Agents-дээ интерактив Canvas болон клауд орчны томоохон шинэчлэлтүүдийг танилцууллаа. Одоо хиймэл оюуны агент нь код бичихээс гадна интерактив canvas үүсгэх чадвартай болсон бөгөөд хөгжүүлэгчид үүнийг холбоос хэлбэрээр багийн бусад гишүүдэд илгээж шууд харуулах боломжтой.\n\nТүүнчлэн агентуудын ажиллах клауд орчныг кодоор автоматаар үүсгэж, удирдах зориулалттай Environments API бета туршилтаар нээгдлээ. Энэ нь төслийн орчныг автоматаар бэлдэх, CI/CD болон автоматжуулалтын урсгалд агентуудыг нэгтгэхэд практик давуу тал олгож байна.\n\nКлауд агентын орчны хүчин чадлыг эрс тэлж, нэгэн зэрэг 300 хүртэлх кодын репозитортой ажиллах боломжтой болгожээ. Мөн олон репозитор бүхий том төслүүдийн ачааллах хурдыг 5 дахин сайжруулснаар агент том системүүд дээр хурдан ажиллах нөхцөл бүрдсэн байна.",
+   "published": "2026-10-16T00:00:00Z",
+   "added": "2026-10-16T21:51:37Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9b446f087c38409b",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Cybernews",
+   "url": "https://cybernews.com/security/claude-code-preview-pane-secret-leak-flaw/",
+   "image": "https://media.cybernews.com/images/featured-big/2026/09/claude-logo-nur-photo-phonre.jpg",
+   "title": "Claude Code's preview pane could leak your secrets",
+   "summary_en": "8.7-rated Claude Code vulnerability could let malicious HTML steal SSH keys and tokens via its preview pane. See which risks developers face",
+   "title_mn": "Claude Code Desktop-ийн цонхоор нууц түлхүүрүүд алдагдах эрсдэл илэрч, засагджээ",
+   "summary_mn": "Claude Code Desktop-ийн HTML preview цонхны SneakPeek цоорхойг ашиглан хөгжүүлэгчийн SSH, AWS түлхүүр зэрэг нууц мэдээллийг зөвшөөрөлгүй хулгайлах боломжтой байжээ. Anthropic уг 8.7 үнэлгээтэй ноцтой алдааг v1.30096.1 хувилбарт зассан байна.",
+   "body_mn": "Noma Labs-ийн аюулгүй байдлын шинжээчид Anthropic компанийн Claude Code Desktop аппликейшнд SneakPeek нэртэй эмзэг байдал илрүүлсэн байна. Энэхүү цоорхой нь CVSS v4.0 системээр 8.7 оноо авсан ноцтой алдаанд тооцогдож байгаа бөгөөд халдагчид хөгжүүлэгчийн төхөөрөмж дээрх нууц файлуудыг алсаас хулгайлах эрсдэлийг үүсгэж байжээ.\n\nХалдлага нь код шалгалтын тайлан нэртэй хортой JavaScript агуулсан HTML файлыг олон нийтийн репозиторт оруулахаас эхэлдэг байна. Хөгжүүлэгч уг төслийг татаж аваад Claude Code-оор тайланг шалгуулах үед апп доторх preview цонх HTML-ийг уншиж, хэрэглэгчээс ямар нэгэн зөвшөөрөл асуулгүй хортой кодыг ажиллуулдаг байжээ. Тухайлбал 256KB-аас дээш хэмжээтэй HTML файлууд CSP болон локал файлын хязгаарлалтыг тойрч гарч байсан аж.\n\nҮүний үр дүнд халдагчид SSH хувийн түлхүүр, AWS хандалтын нууц, npm болон GitHub токеныг гаднын сервер рүү нууцаар илгээх боломжтой байв. Anthropic уг алдааг Claude Code Desktop v1.30096.1 хувилбарт бүрэн зассан тул хөгжүүлэгчдийг аппаа нэн даруй шинэчлэхийг зөвлөж байна.",
+   "published": "2026-10-16T13:49:20Z",
+   "added": "2026-10-16T21:51:37Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
  }
 ]
