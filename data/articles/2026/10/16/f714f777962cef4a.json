@@ -1,0 +1,17 @@
+{
+ "id": "f714f777962cef4a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "RuntimeWire",
+ "url": "https://runtimewire.com/article/anthropic-employer-perk-annual-pro-checkout",
+ "image": "https://runtimewire.com/og/anthropic-employer-perk-annual-pro-checkout.16x9.jpg?v=og2-wz3i0g",
+ "title": "Anthropic is preparing to launch a work-email discount path to annual Claude Pro",
+ "summary_en": "RuntimeWire found work-email verification and an annual Claude Pro checkout handoff in a Windows package. No live offer, discount amount or eligible employers were verified.",
+ "title_mn": "Anthropic компани Claude Pro багцад ажилчдын цахим шуудангаар хөнгөлөлт олгохоор бэлтгэж байна",
+ "summary_mn": "Anthropic-ийн Windows аппын багц дотроос байгууллагын и-мэйлээр дамжуулан жилийн Claude Pro захиалгад хөнгөлөлт авах боломжтой хэсэг илэрчээ.",
+ "body_mn": "RuntimeWire хэвлэлийн судалснаар Anthropic компанийн Windows апп дотор байгууллагын цахим шуудангаар баталгаажуулалт хийж, жилийн Claude Pro захиалгын хөнгөлөлттэй үнээр авах урсгал хөгжүүлэгдэж байгаа аж. Гэсэн хэдий ч энэхүү үйлчилгээ албан ёсоор нээгдсэн эсэх болон ямар нөхцөлтэй байх нь одоогоор тодорхойгүй байна.\n\nЭнэхүү боломж нь хэрэглэгчдэд ажлын байрны и-мэйлээ ашиглан баталгаажуулалт хийх замаар хөнгөлөлттэй нөхцөлөөр захиалга хийх боломжийг олгох зорилготой байж магадгүй юм. Хэдийгээр аппын кодоос уг интерфейс олдсон ч Anthropic компани үүнийг албан ёсоор зарлаагүй байна.",
+ "published": "2026-10-16T03:39:00Z",
+ "added": "2026-10-16T14:57:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

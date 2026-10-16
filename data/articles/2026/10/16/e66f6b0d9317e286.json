@@ -1,0 +1,17 @@
+{
+ "id": "e66f6b0d9317e286",
+ "subtopic": "packages",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+ "image": "https://www.vlt.io/api/og/blog?data=eyJ0aXRsZSI6IlRoYW5rIHlvdSwgRGVubyIsImJhbm5lciI6Imh0dHBzOi8vd3d3LnZsdC5pby9pbWFnZXMvYmxvZy9jb21wZXRpdGlvbi1rZWVwcy1qYXZhc2NyaXB0LW1vdmluZy9iYW5uZXIucG5nIn0%3D",
+ "title": "Thank You, Deno",
+ "summary_en": "Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving Comments URL: https://news.ycombinator.com/item?id=50112331 Points: 114 # Comments: 27",
+ "title_mn": "Deno баг Cloudflare-д нэгдэж, runtime-ийн хөгжүүлэлтээ өөрчилж байна",
+ "summary_mn": "Ryan Dahl болон Deno баг Cloudflare компанид нэгдэж байгаагаа зарлаж, Deno runtime-ийн хөгжүүлэлтийг ирэх жилийн хугацаанд зогсоохоор болжээ.",
+ "body_mn": "Deno-г үндэслэгч Ryan Dahl болон түүний баг Cloudflare компанид нэгдэж байгаагаа зарлалаа. Ингэснээр Deno runtime ирэх жилийн хугацаанд аажмаар хаагдах бөгөөд JSR платформ Cloudflare-ийн дэд бүтцэд үргэлжлэн ажиллах юм. Багийн гол зорилго нь Deno-ийн celld технологийг Cloudflare-ийн workerd системд нэгтгэх ажээ.\n\nDeno анх гарч ирэхдээ Node.js-ийн дутагдалтай талуудыг шийдвэрлэх, TypeScript-ийг анхдагчаар дэмжих, URL дээр суурилсан хамаарал зэрэг шинэлэг санаануудыг дэвшүүлж байсан билээ. Гэсэн хэдий ч зах зээлийн бодит байдал болон Bun зэрэг өрсөлдөгчдийн нөлөөгөөр экосистем хувьсан өөрчлөгдөж, эцэстээ Node болон npm нийцтэй байдлыг бүрэн хангахад хүрч байв. Энэхүү нэгдэл нь JavaScript болон WebAssembly орчны хөгжилд томоохон өөрчлөлт авчирч байна.",
+ "published": "2026-10-16T00:52:40Z",
+ "added": "2026-10-16T14:57:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

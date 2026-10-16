@@ -1,0 +1,17 @@
+{
+ "id": "44f0c877c76b658e",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v42.11.15",
+ "image": "https://opengraph.githubassets.com/7522f8854a375c42f485791bf7e8bf558b9622a5190c044d6f20fa4dccee81c1/electron/electron/releases/tag/v42.11.15",
+ "title": "electron v42.11.15",
+ "summary_en": "Release Notes for v42.11.15 Fixes Fixed a crash on Linux at startup or on theme change with GTK modules loaded. #55015 Fixed an issue where clicks posted to a background app were dropped on macOS. #54906 (Also in 43 , 44 , 45 ) Fixed net.fetch and session.fetch failing permanently with net::ERR_FAILED after the Network Service process restarts. #54925 (Also in 43 , 44 , 45 ) Fixed utilityProcess dropping messages posted with process.parentPort.postMessage() right before the process exits. #55000 (Also in 43 , 45 ) Other Changes Backported fixes from upstream Chromium and V8. #55035",
+ "title_mn": "Electron v42.11.15 хувилбарын алдаа засах шинэчлэлт",
+ "summary_mn": "Electron v42.11.15 хувилбар гарч, Linux болон macOS систем дээрх зарим чухал алдаанууд болон сүлжээний хүсэлтийн доголдлыг заслаа.",
+ "body_mn": "Electron v42.11.15 засварын хувилбар худалдаанд гарлаа. Энэхүү хувилбараар Linux дээр GTK модулиуд ачаалагдах үед үүсдэг байсан гажиг болон macOS дээр ар талд ажиллаж буй апп руу товшилт явуулахад алдагдах асуудлыг шийдвэрлэжээ.\n\nҮүнээс гадна сүлжээний үйл явц дахин эхлэх үед net.fetch болон session.fetch команд fail болдог байсан алдааг засварлаж, upstream Chromium болон V8 хөдөлгүүрийн засваруудыг нэгтгэсэн байна.",
+ "published": "2026-10-16T01:53:00Z",
+ "added": "2026-10-16T14:57:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

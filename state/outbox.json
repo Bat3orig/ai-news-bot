@@ -618,5 +618,125 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e66f6b0d9317e286",
+   "subtopic": "packages",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+   "image": "https://www.vlt.io/api/og/blog?data=eyJ0aXRsZSI6IlRoYW5rIHlvdSwgRGVubyIsImJhbm5lciI6Imh0dHBzOi8vd3d3LnZsdC5pby9pbWFnZXMvYmxvZy9jb21wZXRpdGlvbi1rZWVwcy1qYXZhc2NyaXB0LW1vdmluZy9iYW5uZXIucG5nIn0%3D",
+   "title": "Thank You, Deno",
+   "summary_en": "Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving Comments URL: https://news.ycombinator.com/item?id=50112331 Points: 114 # Comments: 27",
+   "title_mn": "Deno баг Cloudflare-д нэгдэж, runtime-ийн хөгжүүлэлтээ өөрчилж байна",
+   "summary_mn": "Ryan Dahl болон Deno баг Cloudflare компанид нэгдэж байгаагаа зарлаж, Deno runtime-ийн хөгжүүлэлтийг ирэх жилийн хугацаанд зогсоохоор болжээ.",
+   "body_mn": "Deno-г үндэслэгч Ryan Dahl болон түүний баг Cloudflare компанид нэгдэж байгаагаа зарлалаа. Ингэснээр Deno runtime ирэх жилийн хугацаанд аажмаар хаагдах бөгөөд JSR платформ Cloudflare-ийн дэд бүтцэд үргэлжлэн ажиллах юм. Багийн гол зорилго нь Deno-ийн celld технологийг Cloudflare-ийн workerd системд нэгтгэх ажээ.\n\nDeno анх гарч ирэхдээ Node.js-ийн дутагдалтай талуудыг шийдвэрлэх, TypeScript-ийг анхдагчаар дэмжих, URL дээр суурилсан хамаарал зэрэг шинэлэг санаануудыг дэвшүүлж байсан билээ. Гэсэн хэдий ч зах зээлийн бодит байдал болон Bun зэрэг өрсөлдөгчдийн нөлөөгөөр экосистем хувьсан өөрчлөгдөж, эцэстээ Node болон npm нийцтэй байдлыг бүрэн хангахад хүрч байв. Энэхүү нэгдэл нь JavaScript болон WebAssembly орчны хөгжилд томоохон өөрчлөлт авчирч байна.",
+   "published": "2026-10-16T00:52:40Z",
+   "added": "2026-10-16T14:57:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bb38cdc5652ed5f7",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v44.8.0",
+   "image": "https://opengraph.githubassets.com/3de8a12d3400033bca578c179de591e6e080aa22578b8109ccc685787bf6bcf1/electron/electron/releases/tag/v44.8.0",
+   "title": "electron v44.8.0",
+   "summary_en": "Release Notes for v44.8.0 Features Added support for Notification action buttons on Linux. #54890 (Also in 45 ) Fixes Fixed mouse cursor missing over native dialogs in certain scenarios on Windows. #54987 Fixed net.fetch and session.fetch failing permanently with net::ERR_FAILED after the Network Service process restarts. #54909 (Also in 42 , 43 , 45 ) Fixed utilityProcess dropping messages posted with process.parentPort.postMessage() right before the process exits. #54960 (Also in 42 , 43 , 45 ) Fixed win.isFullScreen() being stale in fullscreen events on Windows. #55009 (Also in 45 ) Other…",
+   "title_mn": "Electron v44.8.0 хувилбар шинэчлэгдэн гарлаа",
+   "summary_mn": "Electron v44.8.0 хувилбар гарч, Linux үйлдлийн систем дэх Notification товчлуурын дэмжлэг нэмэгдэж, Chromium болон Node.js шинэчлэгджээ.",
+   "body_mn": "Electron хүрээний шинэ v44.8.0 хувилбар албан ёсоор гарлаа. Энэхүү шинэчлэлтээр Linux дээр Notification action товчлууруудыг ашиглах боломжтой болсон бөгөөд Windows систем дэх уугуул харилцах цонхны хулганы курсорын алдааг зассан байна.\n\nМөн net.fetch болон session.fetch процессууд тасалдсаны дараа алдаа өгдөг байсан асуудлыг засахаас гадна Chromium 152.0.7977.167 болон Node.js v24.22.0 хувилбарууд руу шинэчлэгдсэн байна.",
+   "published": "2026-10-16T01:50:20Z",
+   "added": "2026-10-16T14:57:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "44f0c877c76b658e",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v42.11.15",
+   "image": "https://opengraph.githubassets.com/7522f8854a375c42f485791bf7e8bf558b9622a5190c044d6f20fa4dccee81c1/electron/electron/releases/tag/v42.11.15",
+   "title": "electron v42.11.15",
+   "summary_en": "Release Notes for v42.11.15 Fixes Fixed a crash on Linux at startup or on theme change with GTK modules loaded. #55015 Fixed an issue where clicks posted to a background app were dropped on macOS. #54906 (Also in 43 , 44 , 45 ) Fixed net.fetch and session.fetch failing permanently with net::ERR_FAILED after the Network Service process restarts. #54925 (Also in 43 , 44 , 45 ) Fixed utilityProcess dropping messages posted with process.parentPort.postMessage() right before the process exits. #55000 (Also in 43 , 45 ) Other Changes Backported fixes from upstream Chromium and V8. #55035",
+   "title_mn": "Electron v42.11.15 хувилбарын алдаа засах шинэчлэлт",
+   "summary_mn": "Electron v42.11.15 хувилбар гарч, Linux болон macOS систем дээрх зарим чухал алдаанууд болон сүлжээний хүсэлтийн доголдлыг заслаа.",
+   "body_mn": "Electron v42.11.15 засварын хувилбар худалдаанд гарлаа. Энэхүү хувилбараар Linux дээр GTK модулиуд ачаалагдах үед үүсдэг байсан гажиг болон macOS дээр ар талд ажиллаж буй апп руу товшилт явуулахад алдагдах асуудлыг шийдвэрлэжээ.\n\nҮүнээс гадна сүлжээний үйл явц дахин эхлэх үед net.fetch болон session.fetch команд fail болдог байсан алдааг засварлаж, upstream Chromium болон V8 хөдөлгүүрийн засваруудыг нэгтгэсэн байна.",
+   "published": "2026-10-16T01:53:00Z",
+   "added": "2026-10-16T14:57:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6fdf4a6bc9a49fd0",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "title": "Multi-repo support and other improvements for GitHub in Slack and Teams",
+   "summary_en": "Multi-repo support in Slack and Teams GitHub Copilot in Slack and Teams now supports working across multiple repositories in a single conversation. Whether you’re tracking pull requests, investigating issues, or…",
+   "title_mn": "Slack болон Teams дахь GitHub Copilot олон репозитор дэмждэг боллоо",
+   "summary_mn": "GitHub Copilot нь Slack болон Microsoft Teams орчинд олон репозитортой нэгэн зэрэг ажиллах боломжтой болж шинэчлэгдлээ.",
+   "body_mn": "Slack болон Microsoft Teams дэх GitHub Copilot хэрэгсэл нь хэрэглэгчдэд нэг ярианы цонх дотор олон репозитортой зэрэг ажиллах боломжийг олгож эхэллээ. Ингэснээр хөгжүүлэгчид янз бүрийн төслүүдийн хооронд шилжихгүйгээр pull request шалгах, асуудал мөрдөх болон төслийн явцын мэдээлэл авах боломжтой болж байна.\n\nШинэчлэлтийн хүрээнд @GitHub руу ямар ч зурвасын дундаас хандах, ярианы контекстийг илүү сайн хадгалах, репозиторуудын хооронд шилжихэд илүү хялбар болгох зэрэг сайжруулалтуудыг хийсэн байна. Энэ нь багаар ажиллах явцыг илүү хурдан бөгөөд үр дүнтэй болгож байгаа юм.",
+   "published": "2026-10-16T02:16:35Z",
+   "added": "2026-10-16T14:57:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f714f777962cef4a",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "RuntimeWire",
+   "url": "https://runtimewire.com/article/anthropic-employer-perk-annual-pro-checkout",
+   "image": "https://runtimewire.com/og/anthropic-employer-perk-annual-pro-checkout.16x9.jpg?v=og2-wz3i0g",
+   "title": "Anthropic is preparing to launch a work-email discount path to annual Claude Pro",
+   "summary_en": "RuntimeWire found work-email verification and an annual Claude Pro checkout handoff in a Windows package. No live offer, discount amount or eligible employers were verified.",
+   "title_mn": "Anthropic компани Claude Pro багцад ажилчдын цахим шуудангаар хөнгөлөлт олгохоор бэлтгэж байна",
+   "summary_mn": "Anthropic-ийн Windows аппын багц дотроос байгууллагын и-мэйлээр дамжуулан жилийн Claude Pro захиалгад хөнгөлөлт авах боломжтой хэсэг илэрчээ.",
+   "body_mn": "RuntimeWire хэвлэлийн судалснаар Anthropic компанийн Windows апп дотор байгууллагын цахим шуудангаар баталгаажуулалт хийж, жилийн Claude Pro захиалгын хөнгөлөлттэй үнээр авах урсгал хөгжүүлэгдэж байгаа аж. Гэсэн хэдий ч энэхүү үйлчилгээ албан ёсоор нээгдсэн эсэх болон ямар нөхцөлтэй байх нь одоогоор тодорхойгүй байна.\n\nЭнэхүү боломж нь хэрэглэгчдэд ажлын байрны и-мэйлээ ашиглан баталгаажуулалт хийх замаар хөнгөлөлттэй нөхцөлөөр захиалга хийх боломжийг олгох зорилготой байж магадгүй юм. Хэдийгээр аппын кодоос уг интерфейс олдсон ч Anthropic компани үүнийг албан ёсоор зарлаагүй байна.",
+   "published": "2026-10-16T03:39:00Z",
+   "added": "2026-10-16T14:57:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "89ff12e0cc3c49e0",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "MIXED Reality News",
+   "url": "https://mixed-news.com/en/anthropic-election-red-team-isd-mccain-multi-step-misuse/",
+   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/d0efef057e61d2c590d06d8902da2167fe93200a-1920x1080-1.png",
+   "title": "Anthropic says Claude refuses a harmful request, but can miss a campaign of harmless ones",
+   "summary_en": "Anthropic says Claude reliably refused a single harmful election request when two independent research organisations tried to get past its safeguards, but",
+   "title_mn": "Anthropic: Claude сонгуулийн хортой хүсэлтээс татгалздаг ч жижиг кампанит ажилд алдаж болзошгүй",
+   "summary_mn": "Anthropic компанийн судалгаагаар Claude нэгдсэн хортой хүсэлтээс татгалзаж чадах боловч жижиг хэсгүүдэд хуваасан хорлонтой кампанит ажлыг анзааралгүй орхиж болохыг тогтоожээ. Тиймээс тэд олон шаттай буруу ашиглалтыг илрүүлэх шинэ ангилагчуудыг нэмсэн байна.",
+   "body_mn": "Anthropic компани өөрийн Claude загварын сонгуулийн үеийн аюулгүй байдлын шалгалтын үр дүнг танилцууллаа. Institute for Strategic Dialogue болон McCain Institute байгууллагуудтай хамтран хийсэн туршилтаар Claude нэгдсэн нэг хортой хүсэлтээс найдвартай татгалзаж байсан ч, тухайн хорлонтой кампанит ажлыг жижиг хэсгүүдэд хувааж илгээхэд (аудитын судалгаа хийх, мэдээний сайт бүтээх, контент бэлтгэх гэх мэт) зарим тохиолдолд таньж чадахгүй өнгөрч болохыг тогтоожээ.\n\nҮүний улмаас Anthropic компани \"шинэ болон олон шаттай буруу ашиглалт\"-ыг илрүүлэх шинэ ангилагчуудыг нэмсэн байна. Үүнд хуурамч сошиал медиа хаяг, мэдээний сайт үүсгэх оролдлого болон гадаад улсын төрийн оролцогчдын сонгуульд нөлөөлөх оролдлогыг илрүүлэх чадварыг сайжруулжээ.\n\nМөн тайланд дурдсанаар, есдүгээр сарын сүүлээр АНУ дахь Claude.ai хэрэглэгчдийн ярианы ердөө 5.75 орчим хувь нь улс төр, олон нийтийн бодлоготой холбоотой байсан бөгөөд сонгууль эсвэл санал хураалтын тухай яриа 0.51 хувийг эзэлж байжээ. Хэрэглэгчдэд хэнд саналаа өгөхийг зааж өгөх хүсэлт маш ховор буюу 0.01 хувьтай тэнцсэн байна.\n\nЭнэхүү шинэ хамгаалалт ба ангилагч хэрэгслүүд нь хөгжүүлэгчид болон хиймэл оюун ухааны платформууд хэрэглэгчдийн аюулгүй байдлыг хангах, улс төрийн зорилгоор загварыг буруугаар ашиглахаас урьдчилан сэргийлэхэд чухал алхам болж байна.",
+   "published": "2026-10-16T04:38:49Z",
+   "added": "2026-10-16T14:57:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

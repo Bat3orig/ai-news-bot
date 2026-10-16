@@ -1,0 +1,17 @@
+{
+ "id": "bb38cdc5652ed5f7",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v44.8.0",
+ "image": "https://opengraph.githubassets.com/3de8a12d3400033bca578c179de591e6e080aa22578b8109ccc685787bf6bcf1/electron/electron/releases/tag/v44.8.0",
+ "title": "electron v44.8.0",
+ "summary_en": "Release Notes for v44.8.0 Features Added support for Notification action buttons on Linux. #54890 (Also in 45 ) Fixes Fixed mouse cursor missing over native dialogs in certain scenarios on Windows. #54987 Fixed net.fetch and session.fetch failing permanently with net::ERR_FAILED after the Network Service process restarts. #54909 (Also in 42 , 43 , 45 ) Fixed utilityProcess dropping messages posted with process.parentPort.postMessage() right before the process exits. #54960 (Also in 42 , 43 , 45 ) Fixed win.isFullScreen() being stale in fullscreen events on Windows. #55009 (Also in 45 ) Other…",
+ "title_mn": "Electron v44.8.0 хувилбар шинэчлэгдэн гарлаа",
+ "summary_mn": "Electron v44.8.0 хувилбар гарч, Linux үйлдлийн систем дэх Notification товчлуурын дэмжлэг нэмэгдэж, Chromium болон Node.js шинэчлэгджээ.",
+ "body_mn": "Electron хүрээний шинэ v44.8.0 хувилбар албан ёсоор гарлаа. Энэхүү шинэчлэлтээр Linux дээр Notification action товчлууруудыг ашиглах боломжтой болсон бөгөөд Windows систем дэх уугуул харилцах цонхны хулганы курсорын алдааг зассан байна.\n\nМөн net.fetch болон session.fetch процессууд тасалдсаны дараа алдаа өгдөг байсан асуудлыг засахаас гадна Chromium 152.0.7977.167 болон Node.js v24.22.0 хувилбарууд руу шинэчлэгдсэн байна.",
+ "published": "2026-10-16T01:50:20Z",
+ "added": "2026-10-16T14:57:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

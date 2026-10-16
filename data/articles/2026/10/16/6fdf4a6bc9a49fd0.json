@@ -1,0 +1,17 @@
+{
+ "id": "6fdf4a6bc9a49fd0",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+ "title": "Multi-repo support and other improvements for GitHub in Slack and Teams",
+ "summary_en": "Multi-repo support in Slack and Teams GitHub Copilot in Slack and Teams now supports working across multiple repositories in a single conversation. Whether you’re tracking pull requests, investigating issues, or…",
+ "title_mn": "Slack болон Teams дахь GitHub Copilot олон репозитор дэмждэг боллоо",
+ "summary_mn": "GitHub Copilot нь Slack болон Microsoft Teams орчинд олон репозитортой нэгэн зэрэг ажиллах боломжтой болж шинэчлэгдлээ.",
+ "body_mn": "Slack болон Microsoft Teams дэх GitHub Copilot хэрэгсэл нь хэрэглэгчдэд нэг ярианы цонх дотор олон репозитортой зэрэг ажиллах боломжийг олгож эхэллээ. Ингэснээр хөгжүүлэгчид янз бүрийн төслүүдийн хооронд шилжихгүйгээр pull request шалгах, асуудал мөрдөх болон төслийн явцын мэдээлэл авах боломжтой болж байна.\n\nШинэчлэлтийн хүрээнд @GitHub руу ямар ч зурвасын дундаас хандах, ярианы контекстийг илүү сайн хадгалах, репозиторуудын хооронд шилжихэд илүү хялбар болгох зэрэг сайжруулалтуудыг хийсэн байна. Энэ нь багаар ажиллах явцыг илүү хурдан бөгөөд үр дүнтэй болгож байгаа юм.",
+ "published": "2026-10-16T02:16:35Z",
+ "added": "2026-10-16T14:57:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
