@@ -1,0 +1,17 @@
+{
+ "id": "c5819c2654a4984e",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/introducing-token-pass",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1vf3f7hdDkZ5sDCuhS8YF8/29dce5ff73ace37d53142ac15c6038ec/image__16_.png",
+ "title": "Introducing Token Pass",
+ "summary_en": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , so you can choose your tools and switch between included models using your team’s shared credit. Token Pass has Zero Data Retention (ZDR) enabled by default. Requests run through selected providers with inference in the US and EU. AI Gateway and the provider delete your prompts…",
+ "title_mn": "Vercel Pro хэрэглэгчдэд зориулсан Token Pass захиалгыг танилцууллаа",
+ "summary_mn": "Vercel сар бүр 30 доллароор 80 долларын үнэ бүхий GLM 5.3 болон Kimi K3 загваруудын эрх олгох Token Pass үйлчилгээг Pro багуудад зориулан танилцууллаа.",
+ "body_mn": "Vercel компани Pro багуудад зориулсан AI загваруудын зардлыг хэмнэх Token Pass үйлчилгээний урьдчилсан хандалтыг (early access) зарлалаа. Хөгжүүлэгч багууд сард 30 доллар төлөөд GLM 5.3 болон Kimi K3 загваруудад ашиглах 80 долларын сарын кредит авах боломжтой болж байна.\n\nЭнэхүү үйлчилгээ нь AI Gateway-ээр дамжин ажилладаг бөгөөд fx, Command Code, Pi зэрэг код бичих агентууд эсвэл AI SDK ашиглан бүтээсэн хувийн агентуудтай шууд холбогдох боломжтой. Token Pass дээр Zero Data Retention (ZDR) горим анхдагчаар идэвхжсэн тул хэрэглэгчийн prompt өгөгдлийг загвар сургахад ашиглахгүй бөгөөд хүсэлт дуусмагц устгагдана.\n\nЗахиалгын кредит нь сар бүр шинэчлэгдэх бөгөөд ашиглаагүй үлдсэн эрх дараа сар руу шилжихгүй. Лимит дууссан тохиолдолд гэнэтийн нэмэлт төлбөр бодогдохгүйгээр дараагийн мөчлөг хүртэл түр зогсох зарчмаар ажиллана.",
+ "published": "2026-10-15T07:00:00Z",
+ "added": "2026-10-16T05:19:21Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

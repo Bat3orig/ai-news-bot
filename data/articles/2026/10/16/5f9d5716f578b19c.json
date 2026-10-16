@@ -1,0 +1,17 @@
+{
+ "id": "5f9d5716f578b19c",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5yGRfkGbVtAvyU7cPYzKqD/9d7b7fb62541b96f219a76596b158452/Backends_Blog_Post_OG_2.png",
+ "title": "Backends on Vercel: Python, containers, and Daemons",
+ "summary_en": "Last year, we expanded zero-config support for Python and TypeScript backend frameworks. By this summer, developers could deploy their frontend and backend together with Vercel Services and coordinate background work with queues and durable workflows . Today at Vercel Ship in San Francisco , we are expanding the backend workloads you can run on Vercel. Python on Vercel is now generally available, container support in Vercel Functions enables custom runtimes and system libraries, and we are introducing Vercel Daemons in Public Beta for background workers that pull work and stay running…",
+ "title_mn": "Vercel бэкэнд хөгжүүлэлтийн боломжуудаа өргөтгөж Python, контейнер, Daemons-ийг зарлалаа",
+ "summary_mn": "Vercel Ship дээр Python ерөнхий хэрэглээнд нэвтэрч, Vercel Functions контейнер дэмждэг болсноос гадна тасралтгүй ажиллах арын процесс буюу Vercel Daemons бета хувилбараар гарлаа.",
+ "body_mn": "Сан-Францискод болсон Vercel Ship арга хэмжээний үеэр Vercel платформ бэкэнд чиглэлийн томоохон шинэчлэлтүүдийг зарлалаа. Үүнд Python дэмжлэгийн GA хувилбар, Vercel Functions дээрх контейнерийн дэмжлэг болон Vercel Daemons-ийн нээлттэй бета хувилбар багтаж байна.\n\nХөгжүүлэгчид FastAPI, Flask, Django зэрэг Python фрэймворкуудыг Vercel дээр уламжлалт CPython болон PyPI сангуудтайгаа хялбар ажиллуулах боломжтой боллоо. Мөн Python SDK-ийг ашиглан Blob, Queues, Workflows болон AI SDK-тэй бүрэн уялдан ажиллах боломж бүрдэж байна.\n\nКонтейнерийн дэмжлэг нэмэгдсэнээр ямар ч програмчлалын хэл дээрх аппликейшнийг шаардлагатай систем сангуудын хамт Fluid compute дээр байршуулах боломжтой болсон. Харин шинээр гарсан Vercel Daemons нь дараалал болон өгөгдлийн сангаас даалгавар татаж авч тасралтгүй боловсруулдаг арын үйлчилгээнүүдийг серверийн зогсолтгүй ажиллуулах нөхцөлийг хангаж байна.",
+ "published": "2026-10-15T07:00:00Z",
+ "added": "2026-10-16T05:19:21Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
