@@ -1,0 +1,17 @@
+{
+ "id": "8bf1faa17ca8b663",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2D9pUMCOfGFSvOXKqHNRMr/0ccd519c0c1cc88930d647269ab0edf9/image__112_.png",
+ "title": "Liquid AI's d1-ultra now available on AI Gateway",
+ "summary_en": "d1-ultra from Liquid AI is now available on AI Gateway. It is a multimodal decision model for classification, routing, and scoring across text and images, including visual defect inspection and checking damage claims against customer photos. Rather than generating text, d1-ultra returns structured answers with probabilities. Ask a Boolean question to get the probability of a yes/no answer, use Choice to select among named categories, or use Score to rate an ordered scale. You can ask multiple questions about the same input in one request and use the probabilities to decide when to automate…",
+ "title_mn": "Liquid AI-ийн шийдвэр гаргагч d1-ultra загвар Vercel AI Gateway-д нэмэгдлээ",
+ "summary_mn": "Vercel AI Gateway дээр Liquid AI компанийн текст болон зураг ангилах, үнэлэх зориулалттай multimodal шийдвэр гаргагч d1-ultra загвар гарлаа. Энэ загвар нь гаралт үүсгэхгүй зөвхөн магадлалын бүтэцтэй өгөгдөл буцаадаг.",
+ "body_mn": "Vercel-ийн AI Gateway платформ дээр Liquid AI-ийн шинэ multimodal шийдвэр гаргагч d1-ultra загвар албан ёсоор нэмэгдлээ. Энэ загвар нь ердийн текст үүсгэгч LLM-үүдээс ялгаатай нь текст болон зургийн оролтод ангилал хийх, чиглүүлэх (routing) болон эрсдэлийн үнэлгээ өгөх зориулалттай бөгөөд бүтцийн дагуу тооцоолсон магадлалын утгуудыг буцаадаг байна.\n\nХөгжүүлэгчид уг загвараас Boolean (тийм/үгүй магадлал), Choice (нэрлэсэн ангиллуудаас сонгох) эсвэл Score (тоосон үнэлгээ) хэлбэрээр нэг хүсэлтээр олон асуулт зэрэг асуух боломжтой. Загвар нь 32,768 токений контекст цонхтой бөгөөд зөвхөн оролтын токен болон зургийн зардлаар тооцогдож, гаралтын токений төлбөр авдаггүй онцлогтой.\n\nЗагварыг liquid/d1-ultra нэршлээр Vercel AI SDK, OpenAI-compatible Decisions API болон TypeSafe API-аар дамжуулан дуудах боломжтой. AI Gateway-ээр дамжуулсан дуудлагуудад платформ ямар нэг нэмэлт шимтгэл тооцдоггүй бөгөөд нэгдсэн хяналтын самбараас зардал, логуудыг шууд харах боломжийг олгож байна.",
+ "published": "2026-10-15T00:00:00Z",
+ "added": "2026-10-16T00:55:22Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

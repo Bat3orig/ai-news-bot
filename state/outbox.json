@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "da6653daf7a0bcc3",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Unite.AI",
-   "url": "https://www.unite.ai/anthropic-adds-opentelemetry-trace-export-to-the-claude-platform/",
-   "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-adds-opentelemetry-trace-export-to-the-claude-platform.jpg",
-   "title": "Anthropic Adds OpenTelemetry Trace Export to the Claude Platform",
-   "summary_en": "Anthropic has added OpenTelemetry trace export to the Claude Platform, announcing on October 14, 2026 that developers can now send traces from Claude Managed Agents, the Messages API, and Claude SDKs to any observability...",
-   "title_mn": "Claude платформ OpenTelemetry trace экспортлох боломжтой боллоо",
-   "summary_mn": "Anthropic компани Claude Console, Messages API болон Claude SDK-уудаас OpenTelemetry стандартын trace-үүдийг дурын мониторинг хэрэгсэл рүү шууд илгээх нийтийн бета хувилбарыг зарлалаа.",
-   "body_mn": "Anthropic компани Claude Platform-доо OpenTelemetry стандартын trace экспортлох боломжийг нийтийн бета хувилбараар нэвтрүүлснээ зарлалаа. Хөгжүүлэгчид одоо Claude Managed Agents, Messages API болон Claude SDK-ийн дуудлагуудыг OTLP стандарт дэмждэг ямар ч ажиглалтын (observability) хэрэгсэл рүү шууд илгээх боломжтой болж байна.\n\nЭнэхүү интеграцчилал нь OpenTelemetry GenAI семиантик конвенцийг дагадаг тул Claude болон бусад AI үйлчилгээ үзүүлэгчдийн өгөгдлийг нэгтгэн нэг хянах самбар (dashboard) дээр шинжлэх боломжийг бүрдүүлжээ. Trace-ийг тохируулахдаа Claude Console дээр очих байршлыг тохируулах замаар API түвшинд, эсвэл SDK дээр нь tracer provider бүртгэх замаар хийх хоёр замтай байна.\n\nКонтентын хувьд систем зөвхөн мета өгөгдлийг бүртгэх (өгөгдмөл горим) эсвэл бүрэн prompt, хариуг багтаах горимтой. Бүрэн контентын горимд нэг span-ийн хэмжээ 0.75 MB буюу англи хэлний 200k контекст цонхонд таарах бөгөөд хязгаараас хэтэрсэн тохиолдолд анхны мессежүүдийг танаж `anthropic.content.truncated` шинж чанарыг оноодог байна.",
-   "published": "2026-10-14T17:36:08Z",
-   "added": "2026-10-15T01:09:00Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "1324372457403200",
-   "subtopic": "nextjs",
-   "source": "vercel/next.js",
-   "source_label": "vercel/next.js",
-   "url": "https://github.com/vercel/next.js/releases/tag/v15.5.28",
-   "image": "https://opengraph.githubassets.com/3444dd34dad645b9ce5603227d777cf5d171ecb08e3cc9c66d025dd7ebb4e77d/vercel/next.js/releases/tag/v15.5.28",
-   "title": "next.js v15.5.28",
-   "summary_en": "This release contains security fixes for the following advisories: Critical: Unauthenticated Remote Code Execution in Image Optimization API when SVG files are used High: Denial of Service in App Router using Server Actions",
-   "title_mn": "Next.js 15.5.28 хувилбарт RCE болон DoS эмзэг байдлуудыг заслаа",
-   "summary_mn": "Next.js 15.5.28 хувилбар гарч, Image Optimization API-д SVG файлууд ашиглахад үүсдэг алсаас код ажиллуулах ноцтой цоорхой болон App Router-ийн DoS алдааг засварлав.",
-   "body_mn": "Next.js төслийн баг 15.5.28 хувилбарыг албан ёсоор нийтэлж, аюулгүй байдлын ноцтой хэд хэдэн эмзэг байдлыг арилгалаа. Энэхүү шинэчлэлтээр SVG файл ашиглах үед Image Optimization API-д гарч болох алсаас зөвшөөрөлгүй код ажиллуулах (Unauthenticated RCE) маш өндөр түвшний цоорхойг зассан байна.\n\nТүүнчлэн App Router дээрх Server Actions-ийг ашиглан системийн ажиллагааг унагах боломжтой Denial of Service (DoS) эмзэг байдлыг хамтад нь арилгажээ. Эдгээр асуудлууд нь шууд хэрэглэгчийн хүсэлт боловсруулах түвшинд нөлөөлдөг тул production системүүдэд эрсдэл үүсгэх магадлалтай байсан юм.\n\nNext.js-ийн 15.x хувилбарыг ашиглаж буй хөгжүүлэгчид болон байгууллагуудад өөрсдийн хамаарлуудаа (dependencies) яаралтай 15.5.28 хувилбар руу шинэчлэхийг зөвлөж байна.",
-   "published": "2026-10-14T17:47:49Z",
-   "added": "2026-10-15T01:09:00Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "88ca818fa7e4b054",
-   "subtopic": "nextjs",
-   "source": "vercel/next.js",
-   "source_label": "vercel/next.js",
-   "url": "https://github.com/vercel/next.js/releases/tag/v16.4.1",
-   "image": "https://opengraph.githubassets.com/2e3990968bb0bdcc4c3795e241d23889acd43df58503047fbfacb91fced11d1d/vercel/next.js/releases/tag/v16.4.1",
-   "title": "next.js v16.4.1",
-   "summary_en": "This release contains security fixes for the following advisories: Critical: Unauthenticated Remote Code Execution in use cache functions returning typed arrays Unauthenticated Remote Code Execution in Image Optimization API when SVG files are used High: Denial of Service in App Router using Server Actions",
-   "title_mn": "Next.js 16.4.1 хувилбар аюулгүй байдлын чухал засваруудтай гарлаа",
-   "summary_mn": "Next.js 16.4.1 шинэчлэлтээр use cache функц болон Image Optimization API дахь RCE цоорхойнууд, мөн Server Actions DoS эмзэг байдлыг нөхлөө.",
-   "body_mn": "Vercel болон Next.js баг v16.4.1 шинэ хувилбарыг гаргаж, аюулгүй байдлын хоёр ноцтой RCE болон нэг DoS эмзэг байдлыг зассанаа мэдэгдлээ. Эхний critical цоорхой нь typed array буцаадаг `use cache` функцүүдэд баталгаажуулалтгүйгээр алсаас код ажиллуулах эрсдэлтэй холбоотой байв.\n\nМөн Image Optimization API-д SVG файлууд боловсруулах үед үүсдэг RCE цоорхой болон App Router-ийн Server Actions механизмыг ашиглан системийн үйлчилгээг саатуулах (DoS) аюул засагдсан байна. Эдгээр нь Next.js 16 хувилбарын шинэ боломжуудтай шууд холбогдож байсан тул нэн даруй засах шаардлагатай байв.\n\nХөгжүүлэгчдийн хувьд `use cache` зааварчилгаа болон зураг оновчлолын сангуудыг ашиглаж байгаа төслүүдээ эрсдэлээс сэргийлж нэн даруй 16.4.1 хувилбар руу ахиулах нь чухал юм.",
-   "published": "2026-10-14T17:47:59Z",
-   "added": "2026-10-15T01:09:00Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "394f43520b65f567",
-   "subtopic": "packages",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://petal.live/",
-   "image": "",
-   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-   "summary_en": "Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal ( https://github.com/kiruna-labs/petal ) Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry. Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could…",
-   "title_mn": "Petal: CoScreen-ий нээлттэй эхтэй хувилбар танилцуулагдлаа",
-   "summary_mn": "Хөгжүүлэгчдийн хамтран ажиллахад зориулсан CoScreen болон ScreenHero төрлийн нээлттэй эхтэй Petal хэрэгсэл гарлаа.",
-   "body_mn": "Хөгжүүлэгчид дэлгэцээ бие биедээ хуваалцах үед цонх бүрийг тусад нь зөөх, хэмжээг нь өөрчлөх боломжтой Petal нэртэй нээлттэй эх бүхий шинэ аппликейшн танилцуулагдлаа. Энэ нь өмнө нь алдартай байсан ScreenHero болон CoScreen шийдлүүдийг орлохуйц боломжуудыг санал болгож байна.\n\nХуваалцсан цонх бүр дээр хэрэглэгчдийн курсор нэрээрээ ялгарч харагдах бөгөөд хулгана, гарны удирдлагыг шууд шилжүүлэх боломжтой. Олон хэрэглэгч нэгэн зэрэг цонхоо хуваалцах чадвартай.\n\nPetal нь LiveKit дэд бүтэц дээр ажилладаг бөгөөд хөгжүүлэгчид өөрсдийн серверийг холбон бүрэн хяналттайгаар ашиглах боломжийг олгож байна.",
-   "published": "2026-10-14T18:23:14Z",
-   "added": "2026-10-15T01:09:00Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "aef66a38598a25e1",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
-   "image": "https://opengraph.githubassets.com/a8022eaaa5067bf2c8b8e070e885e62853409c26cec7870b1d2877b124d40f1d/anthropics/claude-code/releases/tag/v2.1.300",
-   "title": "claude-code v2.1.300",
-   "summary_en": "What's changed Added virtualText to a mod's prompt decorations: text drawn in the prompt box that never enters the draft or the submitted prompt Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry api_request event, splitting cache writes by lifetime Added $.ui.view({ agentId }) for mods: shows an agent's transcript in the main view when you ask, and $.ui.view({}) goes back Added a dir prop on a mod's Text for right-to-left text: on Windows and in VS Code's terminal its rows read in that direction and sit flush right Added /advisor on Claude Platform on AWS; no…",
-   "title_mn": "Claude Code v2.1.300 хувилбар гарлаа",
-   "summary_mn": "Claude Code v2.1.300 дээр mod-уудад зориулсан шинэ боломжууд болон OpenTelemetry trace дэмжлэг нэмэгдэв.",
-   "body_mn": "Anthropic компанийн Claude Code терминалын хэрэгслийн 2.1.300 хувилбар гарлаа. Шинэ хувилбарт mod хөгжүүлэгчдэд зориулж prompt хайрцагт зөвхөн харагдах virtualText дэмжлэг, агент бүрийн лог түүхийг харах $.ui.view({ agentId }) функцийг нэмсэн байна.\n\nМөн OpenTelemetry api_request эвентэд кэшийн хугацааг 5 минут болон 1 цагаар ялгах тэмдэглэгээ, түүнчлэн GenAI semantic-convention стандартын аттрибутууд (gen_ai.provider.name, tool.name гэх мэт) багтжээ. AWS дээрх Claude Platform-д /advisor тушаалыг нэвтрүүлсэн байна.\n\nҮүнээс гадна үүлэн орчинд ажиллаж байх үед агент тасрах, товчлуурын даралт дутуу бүртгэгдэх, subagent-ууд харагдахгүй болох зэрэг агентын удирдлагатай холбоотой олон чухал алдааг засварлажээ.",
-   "published": "2026-10-14T18:24:25Z",
-   "added": "2026-10-15T01:09:00Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b7d94d1a845a9cbb",
-   "subtopic": "react-native",
-   "source": "Expo Changelog",
-   "source_label": "Expo Changelog",
-   "url": "https://expo.dev/changelog/settings-navigation-refresh",
-   "image": "https://cdn.sanity.io/images/9r24npb8/production/3d492dfcbf8c80e7a48336fb81a66eb806ef9a0b-2400x1350.png?rect=0,45,2400,1260&w=1200&h=630&fm=webp&q=80&auto=format",
-   "title": "Refreshed settings navigation on expo.dev",
-   "summary_en": "Check out new updates and improvements to Expo and EAS from the Expo team.",
-   "title_mn": "Expo тохиргооны навигацын загвараа шинэчлэв",
-   "summary_mn": "expo.dev платформ дээр хэрэглэгч, байгууллага, төслийн тохиргоог шинэчилсэн цэс, байрлалтай болголоо.",
-   "body_mn": "Expo баг expo.dev хянах самбарынхаа хэрэглэгч, бүртгэл болон төслийн түвшний тохиргооны хуудсуудын бүтцийг бүрэн шинэчиллээ.\n\nШинэчлэлтээр тусдаа тохиргооны хуудсууд болон бүх хэсэгт жигд харагдах цэс (sidebar) нэмэгдсэн тул төслийн тохиргоог олоход илүү хялбар болжээ.\n\nХөгжүүлэгчид User Settings болон төсөл бүрийн Settings цэсээр орж шинэчлэгдсэн зохион байгуулалтыг туршиж үзэх боломжтой.",
-   "published": "2026-10-14T18:45:00Z",
-   "added": "2026-10-15T01:09:00Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dcdc8283cdb1ff36",
-   "subtopic": "tauri",
-   "source": "tauri-apps/tauri",
-   "source_label": "tauri-apps/tauri",
-   "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v2.12.4",
-   "image": "https://opengraph.githubassets.com/f5ecc80a64bc6fe2a27c08f934ecf3a6823db036340f0e469fb779cba84f1de9/tauri-apps/tauri/releases/tag/tauri-v2.12.4",
-   "title": "tauri v2.12.4",
-   "summary_en": "Cargo Audit Fetching advisory database from `https://github.com/RustSec/advisory-db.git` Loaded 1314 security advisories (from /home/runner/.cargo/advisory-db) Updating crates.io index Scanning Cargo.lock for vulnerabilities (1045 crate dependencies) Crate: fxhash Version: 0.2.1 Warning: unmaintained Title: fxhash - no longer maintained Date: 2025-09-05 ID: RUSTSEC-2025-0057 URL: https://rustsec.org/advisories/RUSTSEC-2025-0057 Crate: paste Version: 1.0.15 Warning: unmaintained Title: paste - no longer maintained Date: 2024-10-07 ID: RUSTSEC-2024-0436 URL…",
-   "title_mn": "Tauri v2.12.4 хувилбар гарлаа",
-   "summary_mn": "Tauri v2.12.4 дээр iOS хөгжүүлэлтийн серверийн алдааны мэдээлэл сайжирч, мобайл плагины panic алдаа засагдлаа.",
-   "body_mn": "Кросс платформ апп хөгжүүлэх Tauri фрэймворкийн 2.12.4 хувилбар гарлаа. Энэхүү хувилбарт хөгжүүлэгчдэд учирдаг цөөн хэдэн ноцтой асуудлуудыг шийдвэрлэсэн байна.\n\nТухайлбал, iOS төхөөрөмж дээр localhost холболт амжилтгүй болох үед tauri ios dev --host тушаалыг санал болгох илүү тодорхой алдааны тайлбар нэмэгдэв. Мөн IPC болон asset protocol handler дээр хоосон path орж ирэх үед panic үүсдэг асуудлыг зассан байна.\n\nТүүнчлэн PluginHandle::run_mobile_plugin_async дуудлагууд хугацаа хэтрэх үед iOS болон Android дээр бүхэл процессыг зогсоож panic үүсгэдэг байсныг зогсоож, хоцорсон хариуг алгасах хэлбэрээр засаж тогтвортой байдлыг сайжруулжээ.",
-   "published": "2026-10-14T18:52:14Z",
-   "added": "2026-10-15T01:09:00Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "57c35bcdde1615c8",
-   "subtopic": "ai-devtools",
-   "source": "ollama/ollama",
-   "source_label": "ollama/ollama",
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0",
-   "image": "https://opengraph.githubassets.com/be78bf71d5573f8cb4c6760b8bbeb99553f755eb499034daadacb262011c1286/ollama/ollama/releases/tag/v0.40.5-rc0",
-   "title": "ollama v0.40.5",
-   "summary_en": "What's Changed mlx: port the Metal custom kernels to CUDA by @dhiltgen in #18657 docs: model recs and language standardization by @anra8571 in #18981 openai: accept custom tool calls in Responses history by @hoyyeva in #18911 app: clarify cloud payment errors by @willietran in #18986 MLX: version bump by @dhiltgen in #18993 New Contributors @willietran made their first contribution in #18986 Full Changelog : v0.40.4...v0.40.5-rc0",
-   "title_mn": "Ollama v0.40.5 хувилбар гарлаа",
-   "summary_mn": "Ollama 0.40.5 хувилбарт Metal custom kernel-үүдийг CUDA руу хөрвүүлж, OpenAI custom tool calls дэмжлэгийг сайжруулав.",
-   "body_mn": "Хиймэл оюуны локал загваруудыг ажиллуулахад ашиглагддаг Ollama сангийн 0.40.5 хувилбар гарлаа.\n\nШинэ хувилбарт MLX сангийн Metal custom kernel-үүдийг CUDA орчин руу хөрвүүлэн суулгаснаар Nvidia график карттай системүүд дээрх ажиллагааг сайжруулжээ. Түүнчлэн OpenAI нийцтэй API-ийн Responses түүх дотор тусгай tool call-уудыг хүлээн авах боломж нэмэгдсэн байна.\n\nҮүнээс гадна MLX хамаарлын хувилбарыг ахиулж, үүлэн үйлчилгээний төлбөрийн алдааны мэдэгдлийг илүү ойлгомжтой болгосон сайжруулалтууд оржээ.",
-   "published": "2026-10-14T19:45:22Z",
-   "added": "2026-10-15T01:09:00Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ffb5a326c8ee4530",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
-   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
-   "title": "HydraFusion updates and new Max option",
-   "summary_en": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot…",
-   "title_mn": "GitHub Copilot нь HydraFusion болон HydraFusion Max загваруудыг нэмлээ",
-   "summary_mn": "GitHub Copilot нь хэд хэдэн загварын хүчийг нэгтгэж нэг хариулт гаргадаг HydraFusion болон илүү хүнд даалгаварт зориулсан HydraFusion Max сонголтуудыг зарлалаа. Эдгээр нь VS Code, Copilot апп болон CLI дээр research preview байдлаар ажиллаж байна.",
-   "body_mn": "GitHub Copilot хөгжүүлэгчдэд зориулсан шинэ боломж болох HydraFusion болон HydraFusion Max загварын сан болон оркестрчлалын урсгалыг танилцууллаа. Энэхүү шийдэл нь олон AI загварын давуу талыг хослуулан нэгдсэн хариулт гаргаж өгдөг тул хөгжүүлэгчид даалгавар бүрд тохирох загварыг тусад нь сонгох шаардлагагүй болж байна.\n\nHydraFusion Max нь илүү өндөр түвшний гүйцэтгэл шаардсан, хүнд хэцүү даалгаварт зориулагдсан бөгөөд илүү гүнзгий эргэцүүлэл, нарийвчлалыг гаргахын зэрэгцээ токений хэмнэлтийг давхар анхаардаг байна. Эдгээр шинэ боломжууд нь VS Code, GitHub Copilot апп болон терминал дахь GitHub Copilot CLI хэрэгслүүдэд дэмжигдэх ажээ.\n\nЭдгээр функцийг Copilot Pro, Pro+, Business болон Enterprise багц хэрэглэгчид preview горимоор ашиглах боломжтой бөгөөд байгууллагынхаа загварын бодлогод нийцүүлэн тохируулах боломжтой юм. Шинэ боломжийн талаарх дэлгэрэнгүйг албан ёсны баримт бичгээс харж, санал хүсэлтээ хуваалцах боломжтой.",
-   "published": "2026-10-14T20:01:35Z",
-   "added": "2026-10-15T01:09:00Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "1ceae2a1bf8fbaac",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Breakingthenews.net",
-   "url": "https://breakingthenews.net/Article/Anthropic-bans-accounts-to-prevent-election-abuse/67298826",
-   "image": "https://cdn.ttweb.net/News/images/407661.jpg?preset=w800_q70",
-   "title": "Anthropic bans accounts to prevent election abuse",
-   "summary_en": "Anthropic PBC revealed in a statement on Wednesday that its teams continued to investigate coordinated abuse related to elections, including the midterms in the United States, with a goal of preventin...",
-   "title_mn": "Anthropic компани сонгуулийн үеийн зөрчлөөс урьдчилан сэргийлэхийн тулд хэрэглэгчийн эрхийг хааж эхэлжээ",
-   "summary_mn": "Anthropic компани АНУ-ын дундах сонгууль болон бусад зохион байгуулалттай зөрчлүүдийг мөрдөн шалгаж, урьдчилан сэргийлэх зорилгоор зарим хэрэглэгчийн эрхийг хааж эхэлснээ мэдэгдлээ.",
-   "body_mn": "Anthropic PBC компаниас Лхагва гарагт гаргасан мэдэгдэлд дурдсанаар, тэдний багууд сонгуультай холбоотой зохион байгуулалттай зөрчил болон төөрөгдүүлэх оролдлогуудыг нягтлан шалгаж байна. Үүний хүрээнд АНУ-ын дундах хугацааны сонгуулийн үеэр гарч болзошгүй эрсдэлээс сэргийлэх зорилгоор холбогдох арга хэмжээ авч, зарим бүртгэл эрхийг хааж эхэлжээ.\n\nЭнэхүү бодлого нь хиймэл оюун ухааны платформыг улс төрийн зорилгоор урвуулан ашиглахаас хамгаалах чухал алхам болж байна. Хөгжүүлэгчид болон API хэрэглэгчид платформынхоо ашиглалтын шинэчилсэн дүрэм журам болон хязгаарлалтуудыг сайтар шалгах шаардлагатай юм.",
-   "published": "2026-10-14T20:16:00Z",
-   "added": "2026-10-15T01:09:00Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "d7141f126bce97de",
    "subtopic": "anthropic",
    "source": "Anthropic (Google News)",
@@ -937,6 +737,26 @@
    "added": "2026-10-15T22:52:52Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8bf1faa17ca8b663",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2D9pUMCOfGFSvOXKqHNRMr/0ccd519c0c1cc88930d647269ab0edf9/image__112_.png",
+   "title": "Liquid AI's d1-ultra now available on AI Gateway",
+   "summary_en": "d1-ultra from Liquid AI is now available on AI Gateway. It is a multimodal decision model for classification, routing, and scoring across text and images, including visual defect inspection and checking damage claims against customer photos. Rather than generating text, d1-ultra returns structured answers with probabilities. Ask a Boolean question to get the probability of a yes/no answer, use Choice to select among named categories, or use Score to rate an ordered scale. You can ask multiple questions about the same input in one request and use the probabilities to decide when to automate…",
+   "title_mn": "Liquid AI-ийн шийдвэр гаргагч d1-ultra загвар Vercel AI Gateway-д нэмэгдлээ",
+   "summary_mn": "Vercel AI Gateway дээр Liquid AI компанийн текст болон зураг ангилах, үнэлэх зориулалттай multimodal шийдвэр гаргагч d1-ultra загвар гарлаа. Энэ загвар нь гаралт үүсгэхгүй зөвхөн магадлалын бүтэцтэй өгөгдөл буцаадаг.",
+   "body_mn": "Vercel-ийн AI Gateway платформ дээр Liquid AI-ийн шинэ multimodal шийдвэр гаргагч d1-ultra загвар албан ёсоор нэмэгдлээ. Энэ загвар нь ердийн текст үүсгэгч LLM-үүдээс ялгаатай нь текст болон зургийн оролтод ангилал хийх, чиглүүлэх (routing) болон эрсдэлийн үнэлгээ өгөх зориулалттай бөгөөд бүтцийн дагуу тооцоолсон магадлалын утгуудыг буцаадаг байна.\n\nХөгжүүлэгчид уг загвараас Boolean (тийм/үгүй магадлал), Choice (нэрлэсэн ангиллуудаас сонгох) эсвэл Score (тоосон үнэлгээ) хэлбэрээр нэг хүсэлтээр олон асуулт зэрэг асуух боломжтой. Загвар нь 32,768 токений контекст цонхтой бөгөөд зөвхөн оролтын токен болон зургийн зардлаар тооцогдож, гаралтын токений төлбөр авдаггүй онцлогтой.\n\nЗагварыг liquid/d1-ultra нэршлээр Vercel AI SDK, OpenAI-compatible Decisions API болон TypeSafe API-аар дамжуулан дуудах боломжтой. AI Gateway-ээр дамжуулсан дуудлагуудад платформ ямар нэг нэмэлт шимтгэл тооцдоггүй бөгөөд нэгдсэн хяналтын самбараас зардал, логуудыг шууд харах боломжийг олгож байна.",
+   "published": "2026-10-15T00:00:00Z",
+   "added": "2026-10-16T00:55:22Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
   }
  }
 ]
