@@ -1,0 +1,17 @@
+{
+ "id": "e025c5c877a65dd9",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/superdesigndev/superdesign-skill",
+ "image": "https://opengraph.githubassets.com/abe7eb61654b03cac06892bce9317ff89b5e840a1c45762ffbc7b048ef5c2be5/superdesigndev/superdesign-skill",
+ "title": "superdesigndev/superdesign-skill",
+ "summary_en": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev https://superdesign.dev Superdesign: UI, presentations, and graphics for coding agents Stop shipping AI-slop UI. Coding agents write great code and mediocre interfaces: generic layouts, default shadcn everything, no taste. Superdesign is the skill that gives your agent design judgment, so the UI it ships actually looks considered. Install it once and your agent (Claude Code…",
+ "title_mn": "superdesigndev/superdesign-skill: AI кодчлогч агентуудад дизайны мэдрэмж олгох скилл",
+ "summary_mn": "Claude Code, Cursor зэрэг 70 гаруй кодчлогч агентуудад чанартай UI/UX гаргах чадвар олгодог шинэ скилл нээгдэв. Төсөл нь агент бэлэн сангаас хуулбарласан загвар биш, бодит дизайны жишигт нийцсэн интерфэйс бүтээх боломж олгоно.",
+ "body_mn": "superdesigndev/superdesign-skill нь Claude Code, Cursor, Codex зэрэг 70 гаруй төрлийн хиймэл оюунт кодчлогч агентуудад зориулсан дизайны туслах скилл юм. Хиймэл оюуны агентууд код бичихдээ сайн боловч өгөгдмөл shadcn эсвэл загваргүй ерөнхий UI гаргадаг сул талыг засахаар уг төсөл бүтээгджээ.\n\nЭнэхүү скиллийг нэг удаа суулгаснаар терминалаас гаралгүйгээр чанартай интерфэйс, танилцуулга болон графикийн нооргуудыг infinite canvas дээр үүсгэж, засварлах боломжтой. Скилл нь төслийн өмнөх төлөвийг replica_html_template хэлбэрээр уншиж авсны үндсэн дээр дизайны өөрчлөлтийг үе шаттайгаар сайжруулан гүйцэтгэдэг.\n\nХөгжүүлэгчид уг хэрэгслийг npx skills add superdesigndev/superdesign-skill коммандаар суулгах боломжтой бөгөөд Claude Code дээр /superdesign:superdesign байдлаар шууд дуудан шинэ төслийн загварчлал хийхэд ашиглаж болно.",
+ "published": "2026-10-17T16:03:26Z",
+ "added": "2026-10-17T16:03:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

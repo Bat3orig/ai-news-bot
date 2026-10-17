@@ -1,0 +1,17 @@
+{
+ "id": "9a082b67929ac272",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/xerj-org/xerj",
+ "image": "https://opengraph.githubassets.com/599b205b349e260ea115b323526628c54a24df688de766e94fe22f62dd28e44a/xerj-org/xerj",
+ "title": "xerj-org/xerj",
+ "summary_en": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work. https://xerj.org XERJ English | 简体中文 XERJ is a community-trusted local AI search that indexes any folder automatically, so your coding agent stops burning tokens reading files one by one and pulls the exact code it needs instead. Reference coding is its main use…",
+ "title_mn": "xerj-org/xerj: AI кодчиллын агентуудад зориулсан дотоод хайлтын хөдөлгүүр",
+ "summary_mn": "Rust дээр бичигдсэн XERJ нь файлуудыг индексжүүлснээр код бичигч агентуудад контекстийн токен үрэхгүйгээр хэрэгтэй кодын хэсгээ олоход тусалдаг. Ингэснээр гаралтын токен зарцуулалтыг дунджаар 2.7-оос 5 дахин бууруулдаг байна.",
+ "body_mn": "XERJ нь локал орчинд ажилладаг хиймэл оюуны хайлтын систем бөгөөд ажлын хавтсыг автоматаар индексжүүлж өгдөг. Ингэснээр AI код бичигч агент төслийн файлуудыг нэг бүрчлэн уншиж токен үрэхийн оронд зөвхөн шаардлагатай кодын хэсгийг шууд татаж ашиглах нөхцөл бүрддэг.\n\nЭнэхүү аргын гол давуу тал нь жишиг кодтой харьцуулан кодлох явдал юм. Хэрэв агентад тодорхой даалгавар өгвөл ойролцоо нээлттэй эхийн санг татаж индексжүүлээд тэдгээрийн шийдлийг ашиглан код бичдэг. Туршилтаас харахад энэ арга нь агентын гаралтын токен зарцуулалтыг 2.7 дахин, зарим тохиолдолд 5 дахин бууруулж байжээ.\n\nRust хэл дээр хөгжүүлэгдсэн энэхүү систем нь нэг тушаалаар код, баримт бичиг, бүртгэлийн файл болон SQLite өгөгдлийг ямар ч бүтэц зааж өгөх шаардлагагүйгээр индексжүүлдэг. Хөгжүүлэгчийн машинд локал горимоор ажиллахаар зохион байгуулагдсан тул өгөгдөл гадагш алдагдах эрсдэлгүй юм.",
+ "published": "2026-10-17T16:03:26Z",
+ "added": "2026-10-17T16:03:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

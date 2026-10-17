@@ -1,0 +1,17 @@
+{
+ "id": "d591c4cfe030ee56",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/Crosstalk-Solutions/unifi-toolkit",
+ "image": "https://opengraph.githubassets.com/62b4a0ce5c19a6215f3d335a19e6bcac083bb42909a2ac15c8118fc8630aaa9f/Crosstalk-Solutions/unifi-toolkit",
+ "title": "Crosstalk-Solutions/unifi-toolkit",
+ "summary_en": "A suite of tools for UniFi network management UI Toolkit A comprehensive suite of tools for UniFi network management and monitoring. Note: This project is not affiliated with, endorsed by, or sponsored by Ubiquiti Inc. UniFi is a trademark of Ubiquiti Inc. Features Dashboard Real-time system status including: Gateway Info - Model, firmware, uptime Resource Usage - CPU and RAM utilization Network Health - WAN, LAN, WLAN, VPN status with diagnostic reasons Connected Clients - Wired and wireless counts WAN Status - IP, ISP, latency, uptime (supports 3+ WANs dynamically) Debug Info - One-click…",
+ "title_mn": "Crosstalk-Solutions/unifi-toolkit: UniFi сүлжээг удирдах, хянах хэрэгслүүдийн цуглуулга",
+ "summary_mn": "UniFi Toolkit нь UniFi сүлжээний дэд бүтцийн төхөөрөмжүүдийг хянах, аюулгүй байдлын үйл явдлуудыг ажиглах болон галт ханыг шуурхай удирдах нээлттэй эхийн багц хэрэгсэл юм. Системийг Docker ашиглан байрлуулах бүрэн боломжтой.",
+ "body_mn": "UniFi Toolkit нь сүлжээний администраторууд болон хөгжүүлэгчдэд зориулсан UniFi төхөөрөмжүүдийг удирдах, хянах цогц хэрэгсэл юм. Ubiquiti-ээс хараат бус энэхүү төсөл нь локал сүлжээний хяналтыг автоматжуулах, төхөөрөмжүүдийн байршлыг нарийн тодорхойлох боломжийг олгодог.\n\nУг хэрэгслийн тусламжтайгаар сүлжээнд холбогдсон тодорхой төхөөрөмжүүдийн хөдөлгөөнийг хянах, UniFi gateway-ээс ирэх IDS/IPS аюулгүй байдлын анхааруулгуудыг нэгтгэн харах боломжтой. Мөн шаардлагатай үед сэжигтэй төхөөрөмж эсвэл дэд сүлжээг бүхэлд нь ганц товшилтоор бүрэн тусгаарлах House Arrest боломжийг бүрдүүлжээ.\n\nСистемийг Docker болон Docker Compose ашиглан түргэн байрлуулах боломжтой бөгөөд Caddy серверийн тусламжтайгаар Let's Encrypt HTTPS холболтыг автоматаар шийддэг. Хянагчийн нэвтрэх мэдээлэл өгөгдлийн санд шифрлэгдэн хадгалагддаг ба UniFi төхөөрөмжийн локал хаягаар шууд харьцдаг байна.",
+ "published": "2026-10-17T16:03:26Z",
+ "added": "2026-10-17T16:03:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

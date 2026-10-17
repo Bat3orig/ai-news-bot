@@ -1,0 +1,17 @@
+{
+ "id": "68075b827dd9c2b0",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_s1iz7fs1iz.2e16d0ba.fill-1200x600.jpg",
+ "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
+ "summary_en": "Google OAuth Platform now supports DPoP (Demonstrating Proof-of-Possession) to sender-constrain refresh tokens, neutralizing Infostealer malware and adversary-in-the-middle attacks. By cryptographically binding long-lived refresh tokens while maintaining short-lived access tokens as standard Bearer tokens, developers achieve robust credential security without incurring high-QPS API performance overhead. Additionally, developers integrating multi-agent or Model Context Protocol (MCP) workloads can use Google Cloud Secure Token Service (STS) to handle secure token delegation across agent chains.",
+ "title_mn": "Google OAuth системд DPoP дэмжлэг нэмэгдэж refresh token-ийг хамгаална",
+ "summary_mn": "Google өөрийн OAuth 2.0 платформдоо RFC 9449 DPoP протоколыг нэвтрүүлж, зөвхөн refresh token-ийг криптограф түлхүүртэй уяхаар шийдвэрлэжээ. Энэ нь API-ийн ачааллыг нэмэгдүүлэлгүйгээр токен хулгайлагдахаас сэргийлнэ.",
+ "body_mn": "Google компани өөрийн Identity болон OAuth платформдоо RFC 9449 стандартын дагуу DPoP (Demonstrating Proof-of-Possession) дэмжлэгийг нэвтрүүлснээ зарлалаа. Уламжлалт Bearer токен нь хэн эзэмшиж байгаад үл хамааран ажилладаг тул хортой код болон хөндлөнгийн халдлагаар хулгайлагдсан үед хэрэглэгчийг дуурайх эрсдэл дагуулдаг билээ.\n\nDPoP нь токенийг клиент талд үүсгэсэн асимметр криптограф түлхүүртэй баталгаажуулан холбодог тул токен алдагдсан ч тухайн хувийн түлхүүргүйгээр ашиглагдах боломжгүй юм. Google энэхүү хамгаалалтыг инженерийн ухаалаг шийдэл болгон зөвхөн урт настай refresh token дээр заавал шаардахаар зохион байгуулжээ. Харин өндөр QPS ачаалалтай ажилладаг resource API-уудын богино настай access token-ийг хэвээр үлдээж, системд криптограф шалгалтын хоцрогдол үүсэхээс сэргийлсэн байна.\n\nЭнэхүү шинэчлэл нь Google Workspace Context-Aware Access болон Gemini Enterprise Agent платформууд дээрх агентуудын аюулгүй байдлыг бэхжүүлэхэд чухал үүрэг гүйцэтгэх бөгөөд сүүлийн үеийн Model Context Protocol (MCP) зэрэг агентын дэд бүтцүүдэд HTTP толгой түвшинд найдвартай хамгаалалт болж өгнө.",
+ "published": "2026-10-17T16:03:26Z",
+ "added": "2026-10-17T16:03:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

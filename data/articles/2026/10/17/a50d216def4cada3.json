@@ -1,0 +1,17 @@
+{
+ "id": "a50d216def4cada3",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/cursor/plugins",
+ "image": "https://opengraph.githubassets.com/871cf357f97bd536322170664c245e0ec7aed52a6fe203ea297a720e1cf90003/cursor/plugins",
+ "title": "cursor/plugins",
+ "summary_en": "Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) teaching Teaching Cursor Utilities Skill mapping, practice plans, and learning retrospectives. continual-learning Continual Learning Eric Zakariasson Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only…",
+ "title_mn": "cursor/plugins: Cursor-т зориулсан албан ёсны плагины сан",
+ "summary_mn": "Cursor код засварлагчийн албан ёсны плагинуудыг нэгтгэсэн олон плагинт сан нээгдэв. Түгээмэл хөгжүүлэлтийн хэрэгсэл, сангууд болон SaaS үйлчилгээнүүдтэй ажиллах өргөтгөлүүдийг стандартын дагуу агуулжээ.",
+ "body_mn": "cursor/plugins нь Cursor хиймэл оюунт код засварлагчид зориулсан албан ёсны өргөтгөл, плагинуудыг төвлөрүүлсэн нээлттэй сан юм. Энэхүү сангаас хөгжүүлэгчид өдөр тутмын ажилдаа түгээмэл ашигладаг фрэймворк, хөгжүүлэлтийн хэрэгслүүд болон үүлэн SaaS үйлчилгээнүүдийг Cursor-той шууд уялдуулан ажиллуулах плагинуудыг татан авах боломжтой.\n\nТөслийн бүтэц нь multi-plugin marketplace загвараар хийгдсэн бөгөөд үндсэн root хавтсанд байрлах .cursor-plugin/marketplace.json файлд бүх плагинуудыг бүртгэж өгсөн байна. Харин өргөтгөл бүр нь бие даасан хавтастай бөгөөд өөрийн гэсэн .cursor-plugin/plugin.json тохиргооны манифест файлтай байхаар зохион байгуулагджээ.\n\nTypeScript болон JSON бүтэц дээр суурилсан уг репозиторыг сонирхсон хөгжүүлэгчид Cursor-т зориулан өөрсдийн плагиныг стандарт форматын дагуу бүтээх эсвэл бэлэн байгаа плагинуудыг өөрийн орчиндоо туршин үзэх замаар ашиглах бүрэн боломжтой юм.",
+ "published": "2026-10-17T16:03:26Z",
+ "added": "2026-10-17T16:03:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

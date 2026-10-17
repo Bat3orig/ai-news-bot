@@ -1,0 +1,17 @@
+{
+ "id": "f48ba67ee5d25797",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/lightseekorg/tokenspeed",
+ "image": "https://opengraph.githubassets.com/0d06b2e556b16e0c51e4f8bab4f66b0899c7236e35695777d6eac019cec066d3/lightseekorg/tokenspeed",
+ "title": "lightseekorg/tokenspeed",
+ "summary_en": "TokenSpeed is a speed-of-light LLM inference engine. https://lightseek.org/blog/lightseek-tokenspeed.html TokenSpeed is a speed-of-light LLM inference engine designed for agentic workloads , with TensorRT-LLM-level performance and vLLM-level usability. The goal is to be the most performant inference engine for production agentic workloads. Core components: Scheduler : C++ control plane and Python execution plane. Request lifecycle, KV cache ownership, and overlap timing are encoded as a finite-state machine, with safe KV resource reuse enforced by the type system at compile time. Kernels…",
+ "title_mn": "lightseekorg/tokenspeed: Агент системүүдэд зориулсан өндөр хурдтай LLM инференс хөдөлгүүр",
+ "summary_mn": "TokenSpeed нь хиймэл оюуны агентуудын ачааллыг хамгийн өндөр хурдаар гүйцэтгэх зорилготой шинэ нээлттэй эхийн LLM инференс хөдөлгүүр юм. Уг сан нь хяналтын түвшинг С++, гүйцэтгэлийн түвшинг Python дээр тусгаарласнаар найдвартай ажиллагааг уян хатан байдалтай хослуулжээ.",
+ "body_mn": "TokenSpeed нь бүтээмжийн орчин дахь агент системүүдийн ачаалалд тусгайлан зориулагдсан нээлттэй эхийн LLM инференс хөдөлгүүр юм. Энэхүү төсөл нь TensorRT-LLM түвшний өндөр гүйцэтгэлийг vLLM шиг ашиглахад хялбар байдалтай хослуулахыг зорьж байгаа бөгөөд PyTorch Foundation-ий экосистемд албан ёсоор нэгдсэн байна.\n\nАрхитектурын хувьд TokenSpeed нь хяналтын болон гүйцэтгэлийн түвшнийг анх удаа бүрэн салгаснаараа бусад хөдөлгүүрүүдээс ялгардаг. Хяналтын хэсгийг C++ дээр finite-state machine хэлбэрээр хэрэгжүүлж, KV cache болон хүсэлтийн төлөвийг compile үед аюулгүй удирддаг бол гүйцэтгэлийн хэсгийг Python дээр хөгжүүлсэн нь инженерүүдэд хурдан туршилт хийх боломжийг олгодог.\n\nМөн тооцооллын цөмүүдийг (kernels) бие даасан модуль болгон зохион байгуулж, өөр өөр техник хангамжийн хурдасгууруудад нийцэх нээлттэй API загварыг нэвтрүүлжээ. Ашгийн бус LightSeek Foundation-ийн дэмжлэгтэйгээр NVIDIA, AMD зэрэг чип үйлдвэрлэгчдийн инженерийн оролцоотой хөгжиж байгаа нь энэ төслийг аливаа компаниас хараат бус байлгахад тусалж байна.",
+ "published": "2026-10-17T16:03:26Z",
+ "added": "2026-10-17T16:03:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

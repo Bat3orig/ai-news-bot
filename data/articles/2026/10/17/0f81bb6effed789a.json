@@ -1,0 +1,17 @@
+{
+ "id": "0f81bb6effed789a",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/desktop/desktop",
+ "image": "https://repository-images.githubusercontent.com/58559694/aeae5400-6102-11e9-980d-dc74185ed41d",
+ "title": "desktop/desktop",
+ "summary_en": "Focus on what matters instead of fighting with Git. https://github.com/apps/desktop GitHub Desktop GitHub Desktop is an open-source Electron -based GitHub app. It is written in TypeScript and uses React . Where can I get it? Download the official installer for your operating system: macOS macOS (Apple silicon) Windows Windows machine-wide install Linux is not officially supported; however, you can find installers created for Linux from a fork of GitHub Desktop in the Community Releases section. Beta Channel Want to test out new features and get fixes before everyone else? Install the beta…",
+ "title_mn": "desktop/desktop: GitHub-ийн албан ёсны Electron болон React desktop апп",
+ "summary_mn": "GitHub-ийн десктоп клиент нь TypeScript, React болон Electron дээр суурилсан нээлттэй эхийн апп юм. Git-ийн коммандтай шууд зууралдалгүйгээр кодоо цэгцтэй удирдах боломжийг хөгжүүлэгчдэд олгодог.",
+ "body_mn": "desktop/desktop нь хөгжүүлэгчдийн өдөр тутамдаа ашигладаг GitHub Desktop програмын үндсэн нээлттэй эхийн репозитор юм. Уг аппликейшн нь хөгжүүлэгчдийг Git-ийн нарийн төвөгтэй коммандуудаас чөлөөлж, визуал интерфэйсээр дамжуулан хувилбарын хяналтаа хялбар удирдах боломжоор хангадаг.\n\nТөслийн технологийн стек нь TypeScript, React болон Electron хүрээн дээр суурилсан тул веб технологи ашиглан десктоп апп бүтээх туршлага судлахыг хүссэн инженерүүдэд маш сайн суурь жишээ болж чаддаг. Төсөл нь албан ёсоор macOS болон Windows үйлдлийн системийг дэмждэг бөгөөд Линукс үйлдлийн системд зориулсан форк болон олон нийтийн багцууд ч бий.\n\nХөгжүүлэгчид desktop.github.com хаягаас суулгацын файлыг татаж шууд хэрэглэх боломжтойгоос гадна төслийн setup.md зааврын дагуу өөрийн машин дээрээ локалаар ажиллуулан, open source хөгжүүлэлтэд нь хувь нэмрээ оруулах боломжтой.",
+ "published": "2026-10-17T16:03:26Z",
+ "added": "2026-10-17T16:03:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

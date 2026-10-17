@@ -1,0 +1,17 @@
+{
+ "id": "8378c4c3eaf83062",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+ "image": "https://opengraph.githubassets.com/5e72be6dcaeb5d97f2924865b562039028791f37c05feba47341899c85f904b3/cloud-hypervisor/cloud-hypervisor",
+ "title": "cloud-hypervisor/cloud-hypervisor",
+ "summary_en": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security. https://www.cloudhypervisor.org 1. What is Cloud Hypervisor? Objectives High Level Architectures Guest OS 2. Getting Started Host OS Use Pre-built Binaries Packages Building from Source Booting Linux Firmware Booting Custom Kernel and Disk Image Building your Kernel Disk image Booting the guest VM 3. Status Hot Plug Device Model…",
+ "title_mn": "cloud-hypervisor/cloud-hypervisor: Rust дээр суурилсан үүлэн орчны Virtual Machine Monitor",
+ "summary_mn": "Cloud Hypervisor нь KVM болон Microsoft Hypervisor дээр ажилладаг, үүлэн дэд бүтцэд зориулсан хөнгөн жинтэй виртуал машин хянагч (VMM) юм. Rust хэлээр бичигдсэн энэхүү төсөл нь x86-64 болон AArch64 архитектурыг бүрэн дэмждэг.",
+ "body_mn": "Cloud Hypervisor нь орчин үеийн үүлэн үйлчилгээний дэд бүтцэд тусгайлан зориулагдсан нээлттэй эхийн Virtual Machine Monitor (VMM) юм. Уг систем нь Линуксийн KVM болон Microsoft Hypervisor (MSHV) дээр суурилан ажилладаг бөгөөд аюулгүй байдал, хурдан ажиллагааг хангах үүднээс Rust хэлээр хөгжүүлэгджээ.\n\nТөслийн гол онцлог нь хуучин үеийн төхөөрөмжүүдийн дэмжлэгийг бүрэн хасч, зөвхөн үүлэн орчинд шаардлагатай paravirtualized (virtio) төхөөрөмжүүд болон 64-битийн архитектурт анхаарлаа хандуулсанд оршино. Үүний үр дүнд санах ойн зарцуулалт багасч, систем ачаалах хугацаа эрс багассан байна.\n\nОдоогоор x86-64 болон AArch64 платформуудыг үндсэн архитектураар дэмжиж байгаа бөгөөд riscv64 дэмжлэгийг туршилтын шатанд оруулжээ. Үйлдлийн системийн хувьд 64-битийн Linux болон Windows-ийн серверийн хувилбаруудыг шууд цөмөөс эсвэл UEFI/PVH фирмвэйрээр дамжуулан ачаалах бүрэн чадвартай.",
+ "published": "2026-10-17T16:03:26Z",
+ "added": "2026-10-17T16:03:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

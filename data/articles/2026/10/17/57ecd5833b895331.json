@@ -1,0 +1,17 @@
+{
+ "id": "57ecd5833b895331",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/michael-denyer/pstack-claude",
+ "image": "https://opengraph.githubassets.com/ae12f72b52da413fb0f491f5114197d45e556ae1f5d9650f2703df95f1410008/michael-denyer/pstack-claude",
+ "title": "michael-denyer/pstack-claude",
+ "summary_en": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. pstack Lauren Tan's pstack is an opinionated Cursor skill stack that improves agent outcomes. This is a port for Claude Code, Codex, Pi, GitHub Copilot and other agent harnesses. It tracks upstream and also carries named policy forks, each declared in tools/forks.json . Tell poteto-mode your goal and it will invoke the correct workflow for the task. It keeps your code concise, simple and verified. For concurrency bugs…",
+ "title_mn": "michael-denyer/pstack-claude: AI агентуудад зориулсан pstack скиллийн сан",
+ "summary_mn": "Cursor-т зориулагдсан pstack скиллүүдийг Claude Code, GitHub Copilot, Codex зэрэг агентуудад зориулан хөрвүүлсэн репозитор гарлаа. Энэ нь кодын алдаа засах, бүтэц зохион байгуулах зэрэг ажлуудыг тогтсон playbook-ээр гүйцэтгүүлдэг.",
+ "body_mn": "michael-denyer/pstack-claude нь Лорен Таны бүтээсэн Cursor-ийн алдартай pstack скилл багцыг Claude Code, Codex, Pi, болон GitHub Copilot зэрэг бусад AI агент harness-ууд дээр ашиглахад зориулан портолсон төсөл юм. Энэхүү хэрэгсэл нь агентуудыг илүү оновчтой, шалгагдсан цэвэр код бичихэд чиглүүлдэг.\n\nХөгжүүлэгчид 'poteto-mode'-д зорилгоо даатгаснаар агент алдааг тусад нь илрүүлэх, архитектурын шийдэл гаргах, шалгах тестийг дахин гүйцэтгэх зэрэг тогтсон дүрэм, playbook-ийн дагуу ажиллана. Мөн нэмэлт плагинаар дамжуулан TLA+ загварчлал болон Lean баталгаажуулалт хийх боломжийг олгодог байна.\n\nУг төсөл нь ямар нэгэн тусдаа сервер эсвэл телеметри ашигладаггүй тул аюулгүй байдлын хувьд эрсдэлгүй. GitHub Copilot, Claude Code зэрэгт суулгах заавар нь бэлэн байгаа бөгөөд ~/.agents/skills/ хавтаст холбох замаар олон төрлийн терминал агенттай хамтран ашиглах боломжтой.",
+ "published": "2026-10-17T16:03:26Z",
+ "added": "2026-10-17T16:03:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

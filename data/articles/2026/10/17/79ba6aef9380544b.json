@@ -1,0 +1,17 @@
+{
+ "id": "79ba6aef9380544b",
+ "subtopic": "react-native",
+ "source": "React Native Blog",
+ "source_label": "React Native Blog",
+ "url": "https://reactnative.dev/blog/2026/10/19/react-native-0.88",
+ "image": "https://reactnative.dev/img/logo-share.png",
+ "title": "React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes",
+ "summary_en": "Today we are excited to release React Native 0.88!",
+ "title_mn": "React Native 0.88 гарлаа: Web-д суурилсан эвент дамжуулалт ба Variable Fonts",
+ "summary_mn": "React Native 0.88 хувилбар албан ёсоор гарч, W3C EventTarget стандартад суурилсан шинэ эвент дамжуулалтыг анхдагч болгов. Мөн variable fonts дэмжлэг, iOS дээрх SceneDelegate болон React 19.3.0 шинэчлэлтийг breaking change-гүйгээр багтаажээ.",
+ "body_mn": "React Native баг 0.88 хувилбараа олон нийтэд танилцууллаа. Энэхүү хувилбарын хамгийн том ажиллах үеийн өөрчлөлт нь хуучин залгаас дээр суурилсан эвент системийг W3C EventTarget стандартад шилжүүлж, вэб платформтой нийцтэй бодит capture болон bubble урсгалыг анхдагч болгосон явдал юм.\n\nЭнэхүү шинэчлэлт нь React-ийн хувилбарыг 19.3.0 болгон шинэчилснээр боломжтой болсон бөгөөд хөгжүүлэгчдийн бичсэн одоогийн эвент код ямар ч өөрчлөлтгүйгээр хэвийн ажиллах тул breaking change байхгүй. Мөн шинэ хувилбараар Text болон TextInput бүрэлдэхүүн хэсгүүдэд fontVariationSettings тохиргоог нэмж, Android болон iOS дээр variable fonts бүрэн ашиглах боломжийг бүрдүүлэв.\n\nҮүнээс гадна Java TurboModules нь JavaScript ArrayBuffer утгуудыг шууд хүлээн авч буцаах боломжтой болсноор хоёртын өгөгдөл боловсруулах хурд сайжирчээ. Мөн Apple-ийн iOS 27 SDK-ийн шаардлагад нийцүүлэн UIKit SceneDelegate амьдралын мөчлөгийн дэмжлэгийг нэмсэн нь цонхны хэмжээг чөлөөтэй өөрчлөх суурийг тавьж байна.",
+ "published": "2026-10-19T00:00:00Z",
+ "added": "2026-10-17T16:03:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

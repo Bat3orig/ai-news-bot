@@ -1,0 +1,17 @@
+{
+ "id": "4138778ebbc75ba6",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/akitaonrails/ai-memory",
+ "image": "https://opengraph.githubassets.com/f4a3ff25bd78787e57741faa2d7a4407104df9dd6183e89f0df85f29e9a5ad24/akitaonrails/ai-memory",
+ "title": "akitaonrails/ai-memory",
+ "summary_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai-memory Your coding agent probably has a memory feature already. Claude Code takes its own notes, Cursor remembers some things, and every platform is adding more. They all have the same limits: the notes live on one machine, belong to one agent, and drop out…",
+ "title_mn": "akitaonrails/ai-memory: AI кодчиллын агентуудад зориулсан урт хугацааны санах ой",
+ "summary_mn": "ai-memory нь олон төрлийн AI агентуудын дунд ажлын явц, шийдвэр, алдааг хадгалж хуваалцдаг нээлттэй хэрэгсэл юм. Claude Code-оос гарч Codex руу шилжих үед контекстоо дахин тайлбарлах шаардлагагүйгээр ажлаа үргэлжлүүлэх боломжийг олгоно.",
+ "body_mn": "Одоогийн AI кодчиллын хэрэгслүүд санах ойтой байдаг ч тэдгээр нь зөвхөн тухайн машин, тухайн агентдаа хадгалагддаг тул өөр хэрэгсэл рүү шилжихэд контекст алдагддаг. Rust хэлээр бичигдсэн ai-memory төсөл нь Claude Code, Codex, Cursor, Gemini CLI зэрэг 20 гаруй төрлийн хэрэгслийн дунд нийтийн урт хугацааны санах ой үүсгэж энэ асуудлыг шийдвэрлэжээ.\n\nЭнэхүү сангийн тусламжтайгаар Claude Code дээр эхлүүлсэн ажлаа дундаас нь зогсоогоод шууд Codex дээр үргэлжлүүлэхэд ямар арга бүтэлгүйтсэн, одоо ямар асуудал үлдсэнийг автоматаар дамжуулдаг. Түүнчлэн нэг төсөл дээр олж авсан мэдлэг, хөгжүүлэгчийн дадал зуршлыг өөр шинэ төсөлд ч эхнээс нь хуваалцах боломжтой.\n\nБүх мэдээлэл нь Git-ээр удирдагддаг энгийн Markdown файлуудад хадгалагддаг тул вектор сантай зууралдах шаардлагагүй бөгөөд бүх тэмдэглэлийг хүссэн үедээ Obsidian эсвэл grep ашиглан харж засах боломжтой. Санах ойн бүртгэл, хайлт, дамжуулалт нь LLM-ийн нэмэлт API дуудлага ашиглахгүйгээр ажилладаг тул зардал гарахгүй.",
+ "published": "2026-10-17T16:03:26Z",
+ "added": "2026-10-17T16:03:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

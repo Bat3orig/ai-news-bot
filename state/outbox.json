@@ -538,5 +538,245 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "68075b827dd9c2b0",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_s1iz7fs1iz.2e16d0ba.fill-1200x600.jpg",
+   "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
+   "summary_en": "Google OAuth Platform now supports DPoP (Demonstrating Proof-of-Possession) to sender-constrain refresh tokens, neutralizing Infostealer malware and adversary-in-the-middle attacks. By cryptographically binding long-lived refresh tokens while maintaining short-lived access tokens as standard Bearer tokens, developers achieve robust credential security without incurring high-QPS API performance overhead. Additionally, developers integrating multi-agent or Model Context Protocol (MCP) workloads can use Google Cloud Secure Token Service (STS) to handle secure token delegation across agent chains.",
+   "title_mn": "Google OAuth системд DPoP дэмжлэг нэмэгдэж refresh token-ийг хамгаална",
+   "summary_mn": "Google өөрийн OAuth 2.0 платформдоо RFC 9449 DPoP протоколыг нэвтрүүлж, зөвхөн refresh token-ийг криптограф түлхүүртэй уяхаар шийдвэрлэжээ. Энэ нь API-ийн ачааллыг нэмэгдүүлэлгүйгээр токен хулгайлагдахаас сэргийлнэ.",
+   "body_mn": "Google компани өөрийн Identity болон OAuth платформдоо RFC 9449 стандартын дагуу DPoP (Demonstrating Proof-of-Possession) дэмжлэгийг нэвтрүүлснээ зарлалаа. Уламжлалт Bearer токен нь хэн эзэмшиж байгаад үл хамааран ажилладаг тул хортой код болон хөндлөнгийн халдлагаар хулгайлагдсан үед хэрэглэгчийг дуурайх эрсдэл дагуулдаг билээ.\n\nDPoP нь токенийг клиент талд үүсгэсэн асимметр криптограф түлхүүртэй баталгаажуулан холбодог тул токен алдагдсан ч тухайн хувийн түлхүүргүйгээр ашиглагдах боломжгүй юм. Google энэхүү хамгаалалтыг инженерийн ухаалаг шийдэл болгон зөвхөн урт настай refresh token дээр заавал шаардахаар зохион байгуулжээ. Харин өндөр QPS ачаалалтай ажилладаг resource API-уудын богино настай access token-ийг хэвээр үлдээж, системд криптограф шалгалтын хоцрогдол үүсэхээс сэргийлсэн байна.\n\nЭнэхүү шинэчлэл нь Google Workspace Context-Aware Access болон Gemini Enterprise Agent платформууд дээрх агентуудын аюулгүй байдлыг бэхжүүлэхэд чухал үүрэг гүйцэтгэх бөгөөд сүүлийн үеийн Model Context Protocol (MCP) зэрэг агентын дэд бүтцүүдэд HTTP толгой түвшинд найдвартай хамгаалалт болж өгнө.",
+   "published": "2026-10-17T16:03:26Z",
+   "added": "2026-10-17T16:03:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a50d216def4cada3",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/cursor/plugins",
+   "image": "https://opengraph.githubassets.com/871cf357f97bd536322170664c245e0ec7aed52a6fe203ea297a720e1cf90003/cursor/plugins",
+   "title": "cursor/plugins",
+   "summary_en": "Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) teaching Teaching Cursor Utilities Skill mapping, practice plans, and learning retrospectives. continual-learning Continual Learning Eric Zakariasson Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only…",
+   "title_mn": "cursor/plugins: Cursor-т зориулсан албан ёсны плагины сан",
+   "summary_mn": "Cursor код засварлагчийн албан ёсны плагинуудыг нэгтгэсэн олон плагинт сан нээгдэв. Түгээмэл хөгжүүлэлтийн хэрэгсэл, сангууд болон SaaS үйлчилгээнүүдтэй ажиллах өргөтгөлүүдийг стандартын дагуу агуулжээ.",
+   "body_mn": "cursor/plugins нь Cursor хиймэл оюунт код засварлагчид зориулсан албан ёсны өргөтгөл, плагинуудыг төвлөрүүлсэн нээлттэй сан юм. Энэхүү сангаас хөгжүүлэгчид өдөр тутмын ажилдаа түгээмэл ашигладаг фрэймворк, хөгжүүлэлтийн хэрэгслүүд болон үүлэн SaaS үйлчилгээнүүдийг Cursor-той шууд уялдуулан ажиллуулах плагинуудыг татан авах боломжтой.\n\nТөслийн бүтэц нь multi-plugin marketplace загвараар хийгдсэн бөгөөд үндсэн root хавтсанд байрлах .cursor-plugin/marketplace.json файлд бүх плагинуудыг бүртгэж өгсөн байна. Харин өргөтгөл бүр нь бие даасан хавтастай бөгөөд өөрийн гэсэн .cursor-plugin/plugin.json тохиргооны манифест файлтай байхаар зохион байгуулагджээ.\n\nTypeScript болон JSON бүтэц дээр суурилсан уг репозиторыг сонирхсон хөгжүүлэгчид Cursor-т зориулан өөрсдийн плагиныг стандарт форматын дагуу бүтээх эсвэл бэлэн байгаа плагинуудыг өөрийн орчиндоо туршин үзэх замаар ашиглах бүрэн боломжтой юм.",
+   "published": "2026-10-17T16:03:26Z",
+   "added": "2026-10-17T16:03:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0f81bb6effed789a",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/desktop/desktop",
+   "image": "https://repository-images.githubusercontent.com/58559694/aeae5400-6102-11e9-980d-dc74185ed41d",
+   "title": "desktop/desktop",
+   "summary_en": "Focus on what matters instead of fighting with Git. https://github.com/apps/desktop GitHub Desktop GitHub Desktop is an open-source Electron -based GitHub app. It is written in TypeScript and uses React . Where can I get it? Download the official installer for your operating system: macOS macOS (Apple silicon) Windows Windows machine-wide install Linux is not officially supported; however, you can find installers created for Linux from a fork of GitHub Desktop in the Community Releases section. Beta Channel Want to test out new features and get fixes before everyone else? Install the beta…",
+   "title_mn": "desktop/desktop: GitHub-ийн албан ёсны Electron болон React desktop апп",
+   "summary_mn": "GitHub-ийн десктоп клиент нь TypeScript, React болон Electron дээр суурилсан нээлттэй эхийн апп юм. Git-ийн коммандтай шууд зууралдалгүйгээр кодоо цэгцтэй удирдах боломжийг хөгжүүлэгчдэд олгодог.",
+   "body_mn": "desktop/desktop нь хөгжүүлэгчдийн өдөр тутамдаа ашигладаг GitHub Desktop програмын үндсэн нээлттэй эхийн репозитор юм. Уг аппликейшн нь хөгжүүлэгчдийг Git-ийн нарийн төвөгтэй коммандуудаас чөлөөлж, визуал интерфэйсээр дамжуулан хувилбарын хяналтаа хялбар удирдах боломжоор хангадаг.\n\nТөслийн технологийн стек нь TypeScript, React болон Electron хүрээн дээр суурилсан тул веб технологи ашиглан десктоп апп бүтээх туршлага судлахыг хүссэн инженерүүдэд маш сайн суурь жишээ болж чаддаг. Төсөл нь албан ёсоор macOS болон Windows үйлдлийн системийг дэмждэг бөгөөд Линукс үйлдлийн системд зориулсан форк болон олон нийтийн багцууд ч бий.\n\nХөгжүүлэгчид desktop.github.com хаягаас суулгацын файлыг татаж шууд хэрэглэх боломжтойгоос гадна төслийн setup.md зааврын дагуу өөрийн машин дээрээ локалаар ажиллуулан, open source хөгжүүлэлтэд нь хувь нэмрээ оруулах боломжтой.",
+   "published": "2026-10-17T16:03:26Z",
+   "added": "2026-10-17T16:03:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "57ecd5833b895331",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/michael-denyer/pstack-claude",
+   "image": "https://opengraph.githubassets.com/ae12f72b52da413fb0f491f5114197d45e556ae1f5d9650f2703df95f1410008/michael-denyer/pstack-claude",
+   "title": "michael-denyer/pstack-claude",
+   "summary_en": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. pstack Lauren Tan's pstack is an opinionated Cursor skill stack that improves agent outcomes. This is a port for Claude Code, Codex, Pi, GitHub Copilot and other agent harnesses. It tracks upstream and also carries named policy forks, each declared in tools/forks.json . Tell poteto-mode your goal and it will invoke the correct workflow for the task. It keeps your code concise, simple and verified. For concurrency bugs…",
+   "title_mn": "michael-denyer/pstack-claude: AI агентуудад зориулсан pstack скиллийн сан",
+   "summary_mn": "Cursor-т зориулагдсан pstack скиллүүдийг Claude Code, GitHub Copilot, Codex зэрэг агентуудад зориулан хөрвүүлсэн репозитор гарлаа. Энэ нь кодын алдаа засах, бүтэц зохион байгуулах зэрэг ажлуудыг тогтсон playbook-ээр гүйцэтгүүлдэг.",
+   "body_mn": "michael-denyer/pstack-claude нь Лорен Таны бүтээсэн Cursor-ийн алдартай pstack скилл багцыг Claude Code, Codex, Pi, болон GitHub Copilot зэрэг бусад AI агент harness-ууд дээр ашиглахад зориулан портолсон төсөл юм. Энэхүү хэрэгсэл нь агентуудыг илүү оновчтой, шалгагдсан цэвэр код бичихэд чиглүүлдэг.\n\nХөгжүүлэгчид 'poteto-mode'-д зорилгоо даатгаснаар агент алдааг тусад нь илрүүлэх, архитектурын шийдэл гаргах, шалгах тестийг дахин гүйцэтгэх зэрэг тогтсон дүрэм, playbook-ийн дагуу ажиллана. Мөн нэмэлт плагинаар дамжуулан TLA+ загварчлал болон Lean баталгаажуулалт хийх боломжийг олгодог байна.\n\nУг төсөл нь ямар нэгэн тусдаа сервер эсвэл телеметри ашигладаггүй тул аюулгүй байдлын хувьд эрсдэлгүй. GitHub Copilot, Claude Code зэрэгт суулгах заавар нь бэлэн байгаа бөгөөд ~/.agents/skills/ хавтаст холбох замаар олон төрлийн терминал агенттай хамтран ашиглах боломжтой.",
+   "published": "2026-10-17T16:03:26Z",
+   "added": "2026-10-17T16:03:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e025c5c877a65dd9",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/superdesigndev/superdesign-skill",
+   "image": "https://opengraph.githubassets.com/abe7eb61654b03cac06892bce9317ff89b5e840a1c45762ffbc7b048ef5c2be5/superdesigndev/superdesign-skill",
+   "title": "superdesigndev/superdesign-skill",
+   "summary_en": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev https://superdesign.dev Superdesign: UI, presentations, and graphics for coding agents Stop shipping AI-slop UI. Coding agents write great code and mediocre interfaces: generic layouts, default shadcn everything, no taste. Superdesign is the skill that gives your agent design judgment, so the UI it ships actually looks considered. Install it once and your agent (Claude Code…",
+   "title_mn": "superdesigndev/superdesign-skill: AI кодчлогч агентуудад дизайны мэдрэмж олгох скилл",
+   "summary_mn": "Claude Code, Cursor зэрэг 70 гаруй кодчлогч агентуудад чанартай UI/UX гаргах чадвар олгодог шинэ скилл нээгдэв. Төсөл нь агент бэлэн сангаас хуулбарласан загвар биш, бодит дизайны жишигт нийцсэн интерфэйс бүтээх боломж олгоно.",
+   "body_mn": "superdesigndev/superdesign-skill нь Claude Code, Cursor, Codex зэрэг 70 гаруй төрлийн хиймэл оюунт кодчлогч агентуудад зориулсан дизайны туслах скилл юм. Хиймэл оюуны агентууд код бичихдээ сайн боловч өгөгдмөл shadcn эсвэл загваргүй ерөнхий UI гаргадаг сул талыг засахаар уг төсөл бүтээгджээ.\n\nЭнэхүү скиллийг нэг удаа суулгаснаар терминалаас гаралгүйгээр чанартай интерфэйс, танилцуулга болон графикийн нооргуудыг infinite canvas дээр үүсгэж, засварлах боломжтой. Скилл нь төслийн өмнөх төлөвийг replica_html_template хэлбэрээр уншиж авсны үндсэн дээр дизайны өөрчлөлтийг үе шаттайгаар сайжруулан гүйцэтгэдэг.\n\nХөгжүүлэгчид уг хэрэгслийг npx skills add superdesigndev/superdesign-skill коммандаар суулгах боломжтой бөгөөд Claude Code дээр /superdesign:superdesign байдлаар шууд дуудан шинэ төслийн загварчлал хийхэд ашиглаж болно.",
+   "published": "2026-10-17T16:03:26Z",
+   "added": "2026-10-17T16:03:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f48ba67ee5d25797",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/lightseekorg/tokenspeed",
+   "image": "https://opengraph.githubassets.com/0d06b2e556b16e0c51e4f8bab4f66b0899c7236e35695777d6eac019cec066d3/lightseekorg/tokenspeed",
+   "title": "lightseekorg/tokenspeed",
+   "summary_en": "TokenSpeed is a speed-of-light LLM inference engine. https://lightseek.org/blog/lightseek-tokenspeed.html TokenSpeed is a speed-of-light LLM inference engine designed for agentic workloads , with TensorRT-LLM-level performance and vLLM-level usability. The goal is to be the most performant inference engine for production agentic workloads. Core components: Scheduler : C++ control plane and Python execution plane. Request lifecycle, KV cache ownership, and overlap timing are encoded as a finite-state machine, with safe KV resource reuse enforced by the type system at compile time. Kernels…",
+   "title_mn": "lightseekorg/tokenspeed: Агент системүүдэд зориулсан өндөр хурдтай LLM инференс хөдөлгүүр",
+   "summary_mn": "TokenSpeed нь хиймэл оюуны агентуудын ачааллыг хамгийн өндөр хурдаар гүйцэтгэх зорилготой шинэ нээлттэй эхийн LLM инференс хөдөлгүүр юм. Уг сан нь хяналтын түвшинг С++, гүйцэтгэлийн түвшинг Python дээр тусгаарласнаар найдвартай ажиллагааг уян хатан байдалтай хослуулжээ.",
+   "body_mn": "TokenSpeed нь бүтээмжийн орчин дахь агент системүүдийн ачаалалд тусгайлан зориулагдсан нээлттэй эхийн LLM инференс хөдөлгүүр юм. Энэхүү төсөл нь TensorRT-LLM түвшний өндөр гүйцэтгэлийг vLLM шиг ашиглахад хялбар байдалтай хослуулахыг зорьж байгаа бөгөөд PyTorch Foundation-ий экосистемд албан ёсоор нэгдсэн байна.\n\nАрхитектурын хувьд TokenSpeed нь хяналтын болон гүйцэтгэлийн түвшнийг анх удаа бүрэн салгаснаараа бусад хөдөлгүүрүүдээс ялгардаг. Хяналтын хэсгийг C++ дээр finite-state machine хэлбэрээр хэрэгжүүлж, KV cache болон хүсэлтийн төлөвийг compile үед аюулгүй удирддаг бол гүйцэтгэлийн хэсгийг Python дээр хөгжүүлсэн нь инженерүүдэд хурдан туршилт хийх боломжийг олгодог.\n\nМөн тооцооллын цөмүүдийг (kernels) бие даасан модуль болгон зохион байгуулж, өөр өөр техник хангамжийн хурдасгууруудад нийцэх нээлттэй API загварыг нэвтрүүлжээ. Ашгийн бус LightSeek Foundation-ийн дэмжлэгтэйгээр NVIDIA, AMD зэрэг чип үйлдвэрлэгчдийн инженерийн оролцоотой хөгжиж байгаа нь энэ төслийг аливаа компаниас хараат бус байлгахад тусалж байна.",
+   "published": "2026-10-17T16:03:26Z",
+   "added": "2026-10-17T16:03:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ed290ef9cc98a5a6",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/elder-plinius/V3R1T4S",
+   "image": "https://opengraph.githubassets.com/a71ac6f2fd12d3ca7cf30d58e56d72f1c5a33ecc0e05a908c37851414ebcc5fa/elder-plinius/V3R1T4S",
+   "title": "elder-plinius/V3R1T4S",
+   "summary_en": "liberating known unknowns ██╗ ██╗ ██████╗ ██████╗ ██╗ ████████╗ ██╗ ██╗ ███████╗ ██║ ██║ ╚════██╗ ██╔══██╗ ███║ ╚══██╔══╝ ██║ ██║ ██╔════╝ ██║ ██║ █████╔╝ ██████╔╝ ╚██║ ██║ ███████║ ███████╗ ╚██╗ ██╔╝ ╚═══██╗ ██╔══██╗ ██║ ██║ ╚════██║ ╚════██║ ╚████╔╝ ██████╔╝ ██║ ██║ ██║ ██║ ██║ ███████║ ╚═══╝ ╚═════╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚══════╝ hills no one has climbed · unknowns no one has known Turn your unused tokens into scientific discoveries. Wins · Known unknowns · Check us · Join · Trophy case · For agents CIPHERS CRACKED. TABLES BEATEN. BOUNDS PUSHED. 🔓 Unsolved problems, liberated by legions of…",
+   "title_mn": "elder-plinius/V3R1T4S: Ашиглагдаагүй токенуудыг шинжлэх ухааны нээлт болгон хувиргах фрэймворк",
+   "summary_mn": "V3R1T4S нь хэрэглэгчийн ашиглаагүй хиймэл оюуны токенуудыг математик, криптографийн шийдэгдээгүй бодлогуудыг бодоход чиглүүлдэг төсөл юм. Энэ нь Claude Code, Codex зэрэг агентуудтай шууд холбогдож шинжлэх ухааны нээлт хийх зорилготой.",
+   "body_mn": "V3R1T4S төсөл нь хөгжүүлэгчдийн ашиглаагүй сул байгаа AI квот, токенуудыг шинжлэх ухааны нээлттэй бодлогуудыг шалгахад чиглүүлдэг Python хэрэгсэл юм. Уг сан нь матриц үржүүлэлтийн алгоритмыг цөөн үйлдлээр хийх, эртний шифр тайлах, математикийн онолын хязгааруудыг тэлэх зэрэг чиглэлээр агентуудыг ажиллуулдаг.\n\nХөгжүүлэгч өөрийн машинд Claude Code, Codex, Gemini CLI эсвэл Grok Bot зэрэг код ажиллуулж чаддаг ямар ч агентыг нээгээд төслийн тушаалыг оруулснаар үйл ажиллагаа эхэлнэ. Агент хэрэглэгчээс зургаан энгийн асуулт асууж, зөвшөөрөл авсны үндсэн дээр өөрийн тусгаарлагдсан хавтсанд шийдэгдээгүй 280 гаруй бодлогын сангаас сонгон ажилладаг.\n\nАюулгүй байдлыг хангах үүднээс хэрэглэгчийн зөвшөөрөлгүйгээр гадагшаа ямар ч өгөгдөл илгээдэггүй бөгөөд олдсон үр дүн бүрийг тусгай шалгагч скриптүүд болон бие даасан бусад агентууд автоматаар баталгаажуулдаг. Хэрэв таны агент шинэ амжилт тогтоовол уг төслийн албан ёсны жагсаалтад хэрэглэгчийн нэр бүртгэгдэх системтэй юм.",
+   "published": "2026-10-17T16:03:26Z",
+   "added": "2026-10-17T16:03:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d591c4cfe030ee56",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/Crosstalk-Solutions/unifi-toolkit",
+   "image": "https://opengraph.githubassets.com/62b4a0ce5c19a6215f3d335a19e6bcac083bb42909a2ac15c8118fc8630aaa9f/Crosstalk-Solutions/unifi-toolkit",
+   "title": "Crosstalk-Solutions/unifi-toolkit",
+   "summary_en": "A suite of tools for UniFi network management UI Toolkit A comprehensive suite of tools for UniFi network management and monitoring. Note: This project is not affiliated with, endorsed by, or sponsored by Ubiquiti Inc. UniFi is a trademark of Ubiquiti Inc. Features Dashboard Real-time system status including: Gateway Info - Model, firmware, uptime Resource Usage - CPU and RAM utilization Network Health - WAN, LAN, WLAN, VPN status with diagnostic reasons Connected Clients - Wired and wireless counts WAN Status - IP, ISP, latency, uptime (supports 3+ WANs dynamically) Debug Info - One-click…",
+   "title_mn": "Crosstalk-Solutions/unifi-toolkit: UniFi сүлжээг удирдах, хянах хэрэгслүүдийн цуглуулга",
+   "summary_mn": "UniFi Toolkit нь UniFi сүлжээний дэд бүтцийн төхөөрөмжүүдийг хянах, аюулгүй байдлын үйл явдлуудыг ажиглах болон галт ханыг шуурхай удирдах нээлттэй эхийн багц хэрэгсэл юм. Системийг Docker ашиглан байрлуулах бүрэн боломжтой.",
+   "body_mn": "UniFi Toolkit нь сүлжээний администраторууд болон хөгжүүлэгчдэд зориулсан UniFi төхөөрөмжүүдийг удирдах, хянах цогц хэрэгсэл юм. Ubiquiti-ээс хараат бус энэхүү төсөл нь локал сүлжээний хяналтыг автоматжуулах, төхөөрөмжүүдийн байршлыг нарийн тодорхойлох боломжийг олгодог.\n\nУг хэрэгслийн тусламжтайгаар сүлжээнд холбогдсон тодорхой төхөөрөмжүүдийн хөдөлгөөнийг хянах, UniFi gateway-ээс ирэх IDS/IPS аюулгүй байдлын анхааруулгуудыг нэгтгэн харах боломжтой. Мөн шаардлагатай үед сэжигтэй төхөөрөмж эсвэл дэд сүлжээг бүхэлд нь ганц товшилтоор бүрэн тусгаарлах House Arrest боломжийг бүрдүүлжээ.\n\nСистемийг Docker болон Docker Compose ашиглан түргэн байрлуулах боломжтой бөгөөд Caddy серверийн тусламжтайгаар Let's Encrypt HTTPS холболтыг автоматаар шийддэг. Хянагчийн нэвтрэх мэдээлэл өгөгдлийн санд шифрлэгдэн хадгалагддаг ба UniFi төхөөрөмжийн локал хаягаар шууд харьцдаг байна.",
+   "published": "2026-10-17T16:03:26Z",
+   "added": "2026-10-17T16:03:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9a082b67929ac272",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/xerj-org/xerj",
+   "image": "https://opengraph.githubassets.com/599b205b349e260ea115b323526628c54a24df688de766e94fe22f62dd28e44a/xerj-org/xerj",
+   "title": "xerj-org/xerj",
+   "summary_en": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work. https://xerj.org XERJ English | 简体中文 XERJ is a community-trusted local AI search that indexes any folder automatically, so your coding agent stops burning tokens reading files one by one and pulls the exact code it needs instead. Reference coding is its main use…",
+   "title_mn": "xerj-org/xerj: AI кодчиллын агентуудад зориулсан дотоод хайлтын хөдөлгүүр",
+   "summary_mn": "Rust дээр бичигдсэн XERJ нь файлуудыг индексжүүлснээр код бичигч агентуудад контекстийн токен үрэхгүйгээр хэрэгтэй кодын хэсгээ олоход тусалдаг. Ингэснээр гаралтын токен зарцуулалтыг дунджаар 2.7-оос 5 дахин бууруулдаг байна.",
+   "body_mn": "XERJ нь локал орчинд ажилладаг хиймэл оюуны хайлтын систем бөгөөд ажлын хавтсыг автоматаар индексжүүлж өгдөг. Ингэснээр AI код бичигч агент төслийн файлуудыг нэг бүрчлэн уншиж токен үрэхийн оронд зөвхөн шаардлагатай кодын хэсгийг шууд татаж ашиглах нөхцөл бүрддэг.\n\nЭнэхүү аргын гол давуу тал нь жишиг кодтой харьцуулан кодлох явдал юм. Хэрэв агентад тодорхой даалгавар өгвөл ойролцоо нээлттэй эхийн санг татаж индексжүүлээд тэдгээрийн шийдлийг ашиглан код бичдэг. Туршилтаас харахад энэ арга нь агентын гаралтын токен зарцуулалтыг 2.7 дахин, зарим тохиолдолд 5 дахин бууруулж байжээ.\n\nRust хэл дээр хөгжүүлэгдсэн энэхүү систем нь нэг тушаалаар код, баримт бичиг, бүртгэлийн файл болон SQLite өгөгдлийг ямар ч бүтэц зааж өгөх шаардлагагүйгээр индексжүүлдэг. Хөгжүүлэгчийн машинд локал горимоор ажиллахаар зохион байгуулагдсан тул өгөгдөл гадагш алдагдах эрсдэлгүй юм.",
+   "published": "2026-10-17T16:03:26Z",
+   "added": "2026-10-17T16:03:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4138778ebbc75ba6",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/akitaonrails/ai-memory",
+   "image": "https://opengraph.githubassets.com/f4a3ff25bd78787e57741faa2d7a4407104df9dd6183e89f0df85f29e9a5ad24/akitaonrails/ai-memory",
+   "title": "akitaonrails/ai-memory",
+   "summary_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai-memory Your coding agent probably has a memory feature already. Claude Code takes its own notes, Cursor remembers some things, and every platform is adding more. They all have the same limits: the notes live on one machine, belong to one agent, and drop out…",
+   "title_mn": "akitaonrails/ai-memory: AI кодчиллын агентуудад зориулсан урт хугацааны санах ой",
+   "summary_mn": "ai-memory нь олон төрлийн AI агентуудын дунд ажлын явц, шийдвэр, алдааг хадгалж хуваалцдаг нээлттэй хэрэгсэл юм. Claude Code-оос гарч Codex руу шилжих үед контекстоо дахин тайлбарлах шаардлагагүйгээр ажлаа үргэлжлүүлэх боломжийг олгоно.",
+   "body_mn": "Одоогийн AI кодчиллын хэрэгслүүд санах ойтой байдаг ч тэдгээр нь зөвхөн тухайн машин, тухайн агентдаа хадгалагддаг тул өөр хэрэгсэл рүү шилжихэд контекст алдагддаг. Rust хэлээр бичигдсэн ai-memory төсөл нь Claude Code, Codex, Cursor, Gemini CLI зэрэг 20 гаруй төрлийн хэрэгслийн дунд нийтийн урт хугацааны санах ой үүсгэж энэ асуудлыг шийдвэрлэжээ.\n\nЭнэхүү сангийн тусламжтайгаар Claude Code дээр эхлүүлсэн ажлаа дундаас нь зогсоогоод шууд Codex дээр үргэлжлүүлэхэд ямар арга бүтэлгүйтсэн, одоо ямар асуудал үлдсэнийг автоматаар дамжуулдаг. Түүнчлэн нэг төсөл дээр олж авсан мэдлэг, хөгжүүлэгчийн дадал зуршлыг өөр шинэ төсөлд ч эхнээс нь хуваалцах боломжтой.\n\nБүх мэдээлэл нь Git-ээр удирдагддаг энгийн Markdown файлуудад хадгалагддаг тул вектор сантай зууралдах шаардлагагүй бөгөөд бүх тэмдэглэлийг хүссэн үедээ Obsidian эсвэл grep ашиглан харж засах боломжтой. Санах ойн бүртгэл, хайлт, дамжуулалт нь LLM-ийн нэмэлт API дуудлага ашиглахгүйгээр ажилладаг тул зардал гарахгүй.",
+   "published": "2026-10-17T16:03:26Z",
+   "added": "2026-10-17T16:03:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8378c4c3eaf83062",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+   "image": "https://opengraph.githubassets.com/5e72be6dcaeb5d97f2924865b562039028791f37c05feba47341899c85f904b3/cloud-hypervisor/cloud-hypervisor",
+   "title": "cloud-hypervisor/cloud-hypervisor",
+   "summary_en": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security. https://www.cloudhypervisor.org 1. What is Cloud Hypervisor? Objectives High Level Architectures Guest OS 2. Getting Started Host OS Use Pre-built Binaries Packages Building from Source Booting Linux Firmware Booting Custom Kernel and Disk Image Building your Kernel Disk image Booting the guest VM 3. Status Hot Plug Device Model…",
+   "title_mn": "cloud-hypervisor/cloud-hypervisor: Rust дээр суурилсан үүлэн орчны Virtual Machine Monitor",
+   "summary_mn": "Cloud Hypervisor нь KVM болон Microsoft Hypervisor дээр ажилладаг, үүлэн дэд бүтцэд зориулсан хөнгөн жинтэй виртуал машин хянагч (VMM) юм. Rust хэлээр бичигдсэн энэхүү төсөл нь x86-64 болон AArch64 архитектурыг бүрэн дэмждэг.",
+   "body_mn": "Cloud Hypervisor нь орчин үеийн үүлэн үйлчилгээний дэд бүтцэд тусгайлан зориулагдсан нээлттэй эхийн Virtual Machine Monitor (VMM) юм. Уг систем нь Линуксийн KVM болон Microsoft Hypervisor (MSHV) дээр суурилан ажилладаг бөгөөд аюулгүй байдал, хурдан ажиллагааг хангах үүднээс Rust хэлээр хөгжүүлэгджээ.\n\nТөслийн гол онцлог нь хуучин үеийн төхөөрөмжүүдийн дэмжлэгийг бүрэн хасч, зөвхөн үүлэн орчинд шаардлагатай paravirtualized (virtio) төхөөрөмжүүд болон 64-битийн архитектурт анхаарлаа хандуулсанд оршино. Үүний үр дүнд санах ойн зарцуулалт багасч, систем ачаалах хугацаа эрс багассан байна.\n\nОдоогоор x86-64 болон AArch64 платформуудыг үндсэн архитектураар дэмжиж байгаа бөгөөд riscv64 дэмжлэгийг туршилтын шатанд оруулжээ. Үйлдлийн системийн хувьд 64-битийн Linux болон Windows-ийн серверийн хувилбаруудыг шууд цөмөөс эсвэл UEFI/PVH фирмвэйрээр дамжуулан ачаалах бүрэн чадвартай.",
+   "published": "2026-10-17T16:03:26Z",
+   "added": "2026-10-17T16:03:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "79ba6aef9380544b",
+   "subtopic": "react-native",
+   "source": "React Native Blog",
+   "source_label": "React Native Blog",
+   "url": "https://reactnative.dev/blog/2026/10/19/react-native-0.88",
+   "image": "https://reactnative.dev/img/logo-share.png",
+   "title": "React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes",
+   "summary_en": "Today we are excited to release React Native 0.88!",
+   "title_mn": "React Native 0.88 гарлаа: Web-д суурилсан эвент дамжуулалт ба Variable Fonts",
+   "summary_mn": "React Native 0.88 хувилбар албан ёсоор гарч, W3C EventTarget стандартад суурилсан шинэ эвент дамжуулалтыг анхдагч болгов. Мөн variable fonts дэмжлэг, iOS дээрх SceneDelegate болон React 19.3.0 шинэчлэлтийг breaking change-гүйгээр багтаажээ.",
+   "body_mn": "React Native баг 0.88 хувилбараа олон нийтэд танилцууллаа. Энэхүү хувилбарын хамгийн том ажиллах үеийн өөрчлөлт нь хуучин залгаас дээр суурилсан эвент системийг W3C EventTarget стандартад шилжүүлж, вэб платформтой нийцтэй бодит capture болон bubble урсгалыг анхдагч болгосон явдал юм.\n\nЭнэхүү шинэчлэлт нь React-ийн хувилбарыг 19.3.0 болгон шинэчилснээр боломжтой болсон бөгөөд хөгжүүлэгчдийн бичсэн одоогийн эвент код ямар ч өөрчлөлтгүйгээр хэвийн ажиллах тул breaking change байхгүй. Мөн шинэ хувилбараар Text болон TextInput бүрэлдэхүүн хэсгүүдэд fontVariationSettings тохиргоог нэмж, Android болон iOS дээр variable fonts бүрэн ашиглах боломжийг бүрдүүлэв.\n\nҮүнээс гадна Java TurboModules нь JavaScript ArrayBuffer утгуудыг шууд хүлээн авч буцаах боломжтой болсноор хоёртын өгөгдөл боловсруулах хурд сайжирчээ. Мөн Apple-ийн iOS 27 SDK-ийн шаардлагад нийцүүлэн UIKit SceneDelegate амьдралын мөчлөгийн дэмжлэгийг нэмсэн нь цонхны хэмжээг чөлөөтэй өөрчлөх суурийг тавьж байна.",
+   "published": "2026-10-19T00:00:00Z",
+   "added": "2026-10-17T16:03:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
  }
 ]
