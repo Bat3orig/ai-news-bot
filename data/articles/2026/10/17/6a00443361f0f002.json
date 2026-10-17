@@ -1,0 +1,17 @@
+{
+ "id": "6a00443361f0f002",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.34.0",
+ "image": "https://opengraph.githubassets.com/12b954fdf519050bf7224841cf3b0dec5da91a78637fd4fb945e0b19bfe9c213/openai/openai-python/releases/tag/v3.34.0",
+ "title": "openai-python v3.34.0",
+ "summary_en": "3.34.0 (2026-10-17) Features api: add degraded external storage status ( #4097 ) ( b216cb2 ) api: add Realtime Translation WebSocket sessions ( #4095 ) ( bfada50 )",
+ "title_mn": "openai-python v3.34.0 хувилбарт Realtime Translation сессүүд нэмэгдлээ",
+ "summary_mn": "OpenAI албан ёсны Python сангаа v3.34.0 болгон шинэчиллээ. Шинэ хувилбарт Realtime Translation WebSocket сессийн дэмжлэг болон гадаад санах ойн төлөвийн шинэ талбар нэмэгдсэн байна.",
+ "body_mn": "OpenAI өөрийн албан ёсны Python SDK-ийн шинэ v3.34.0 хувилбарыг нийтэллээ. Энэхүү хувилбарт бодит хугацааны орчуулгын системтэй ажиллахад зориулагдсан Realtime Translation WebSocket session дэмжлэгийг нэмж өгсөн нь аудио болон текстийг шууд горимд дамжуулахад чухал шинэчлэл боллоо.\n\nМөн API-ийн түвшинд гадаад санах ойн найдвартай ажиллагаа доголдсон үеийг хянах degraded external storage status үзүүлэлтийг тусгаж өгсөн байна. Хөгжүүлэгчид pip суулгагчаар дамжуулан openai-python санг шинэчлэн эдгээр боломжуудыг ашиглах боломжтой.",
+ "published": "2026-10-17T20:34:04Z",
+ "added": "2026-10-17T21:10:08Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
