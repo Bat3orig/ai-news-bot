@@ -838,5 +838,25 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "25e39f3cd6482f58",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.35.0",
+   "image": "https://opengraph.githubassets.com/0d57331141ad18c092d4fb14ccaf32ceb9150a75c91ca29ff90d5d841d8b6ba9/openai/openai-python/releases/tag/v3.35.0",
+   "title": "openai-python v3.35.0",
+   "summary_en": "3.35.0 (2026-10-17) Features api: add typed Live sideband events ( #4099 ) ( 8d5cbf0 ) api: add ultrafast service tier for Agents ( #4101 ) ( 100bf8f ) Bug Fixes realtime: preserve byte receives with websockets 13 ( #4098 ) ( 309916e )",
+   "title_mn": "openai-python v3.35.0 хувилбар гарлаа",
+   "summary_mn": "openai-python сангийн v3.35.0 хувилбар гарч, Live sideband үйл явдлууд болон агентуудад зориулсан хэт хурдан үйлчилгээний түвшинг нэмжээ.",
+   "body_mn": "OpenAI-ийн Python хэлэнд зориулсан албан ёсны openai-python сангийн v3.35.0 шинэчлэлт албан ёсоор цацагдлаа. Энэхүү хувилбарт хөгжүүлэгчдэд зориулсан шинэ боломжууд болон алдаа засварууд багтсан байна.\n\nГол шинэчлэлтүүдээс дурдвал, API хэсэгт Live sideband төрөлжсөн үйл явдлуудыг (typed Live sideband events) нэмсэн бөгөөд Agents буюу агентуудад зориулсан хэт хурдан (ultrafast) үйлчилгээний түвшнийг дэмждэг болжээ. Мөн бодит цагийн (realtime) холболтын үед WebSockets ашиглан өгөгдөл хүлээн авах явцад байтыг хадгалах алдааг зассан байна.\n\nЭнэхүү шинэчлэлт нь OpenAI-ийн API ашиглан хиймэл оюун ухааны агентууд болон бодит цагийн өгөгдөл дамжуулах аппликейшн хөгжүүлж буй хөгжүүлэгчдэд нэн чухал бөгөөд шинэ боломжуудыг төсөлдөө шууд ашиглах боломжийг олгож байна.",
+   "published": "2026-10-17T23:13:52Z",
+   "added": "2026-10-17T23:15:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
  }
 ]
