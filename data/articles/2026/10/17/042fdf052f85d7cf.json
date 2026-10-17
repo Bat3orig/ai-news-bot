@@ -1,0 +1,17 @@
+{
+ "id": "042fdf052f85d7cf",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Startup Fortune",
+ "url": "https://startupfortune.com/claude-opus-55-beats-a-human-baseline-and-ai-researchers-move-up-their-self-improvement-clock/",
+ "image": "https://startupfortune.com/wp-content/uploads/2026/10/vals-ai-rayan-krishnan-claude-opus-5-5.jpg",
+ "title": "Claude Opus 5.5 beats a human baseline and AI researchers move up their self improvement clock",
+ "summary_en": "Vals AI moved its full recursive self-improvement forecast to July 2027 after Claude Opus 5.5 beat a human baseline on its RSI Index benchmark.",
+ "title_mn": "Claude Opus 5.5 хөгжүүлэгчийн түвшнийг давж, RSI төлөвлөгөө урагшиллаа",
+ "summary_mn": "Vals AI-ийн шинжилгээгээр Opus 5.5 загвар хэлний загвар сургах даалгаварт хүний суурь түвшнийг давж, бүрэн RSI таамгийг 2027 оны 7 сар болголоо.",
+ "body_mn": "Хиймэл оюуны туршилтын бие даасан Vals AI компани өөрсдийн Recursive Self-Improvement (RSI) индексээ шинэчилж, загварууд өөрсдийгөө сайжруулах хугацааг 2027 оны 7 сар болгон нэг сараар урагшлууллаа. Ингэх болсон гол шалтгаан нь саяхан туршсан Claude Opus 5.5 загварын үр дүн байв.\n\nТус загвар 24 цагийн тооцооллын лимитийн хүрээнд жижиг хэлний загварыг эхнээс нь сургах даалгаварт 0.8308 bits per byte (BPB) оноо авч, судлаачдын тогтоосон хүний суурь хэмжүүр болох 0.85 BPB-ийг анх удаа давжээ. Индексийн нийт 5 даалгавраас 4-ийг нь тэргүүлж, ерөнхий дунджаар 0.46 авсан нь Gemini 4 Argon (0.29) болон GPT-6 Astra (0.27)-оос хол давсан үзүүлэлт болсон байна.\n\nГэсэн хэдий ч тестийн багц угсрах буюу harness engineering ангилалд Opus 5.5 ердөө 0.15 оноо авсан бөгөөд энэ чиглэлд хүний мэргэжилтнүүд 93.6%-ийн оновчлолтойгоор давамгайлсан хэвээр байгааг судалгаа харуулжээ.",
+ "published": "2026-10-17T03:56:04Z",
+ "added": "2026-10-17T12:40:52Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

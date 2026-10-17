@@ -1,0 +1,17 @@
+{
+ "id": "2527a2533cad5399",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/XjRrN5hZhlEhKtaKK82HX/21cb9a2fc8061a972c50e795f492248a/Vercel_x_DeepSeek.png",
+ "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
+ "summary_en": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-step automation. With images, the model reads charts and handles visual reasoning more accurately when it can call tools. DeepSeek V4.1 Flash 1017 also finishes tasks faster and with shorter outputs than the previous snapshot, so agent runs tend to take less time and use fewer…",
+ "title_mn": "DeepSeek V4.1 Flash 1017 модель Vercel AI Gateway-д нэмэгдлээ",
+ "summary_mn": "Vercel AI Gateway платформд DeepSeek V4.1 Flash 1017 шинэчлэл орлоо. Загвар нь логик дүгнэлт, код бичих болон олон шатлалт агентын даалгавруудыг илүү хурдан, цөөн токеноор гүйцэтгэдэг болжээ.",
+ "body_mn": "Vercel компани DeepSeek V4.1 Flash 1017 загварыг өөрийн AI Gateway үйлчилгээндээ нэмлээ. Энэхүү шинэчлэл нь DeepSeek V4.1 Flash загварын сайжруулсан хувилбар бөгөөд логик сэтгэлгээ, кодчилол, агентын ажлууд болон зургийн өгөгдлийг таньж дүгнэх чадварыг эрс сайжруулсан байна.\n\nТус загвар нь терминал дээр ажиллах, төслийн репозиторыг бүтнээр нь үүсгэх, засахад өндөр үр дүн үзүүлж байгаагаас гадна олон алхамт автоматжуулалтыг чанартай гүйцэтгэдэг болжээ. Түүнчлэн график унших болон багаж хэрэгсэл (tool calling) ашиглан зураг дээр визуал дүгнэлт гаргах нарийвчлал нь өссөн байна.\n\nDeepSeek V4.1 Flash 1017 нь өмнөх хувилбараасаа илүү хурдан ажиллаж, даалгаврыг цөөн токеноор илэрхийлэн дуусгадаг болсон тул агентуудын ажиллах хугацаа болон зардал багасах давуу талтай. Хөгжүүлэгчид deepseek/deepseek-v4.1-flash-1017 нэршлээр Claude Code, Codex, Cursor зэрэг дэмжигдсэн орчинд Vercel CLI-ээр тохируулан ашиглах боломжтой.",
+ "published": "2026-10-17T00:00:00Z",
+ "added": "2026-10-17T12:40:52Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

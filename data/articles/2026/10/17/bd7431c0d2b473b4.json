@@ -1,0 +1,17 @@
+{
+ "id": "bd7431c0d2b473b4",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/78V7KGa0XpqgbSIVHUiApt/ca2d815350dcc28e0387bdb691635818/image.png",
+ "title": "Elorian AI's Glimpse now available on AI Gateway",
+ "summary_en": "Glimpse from Elorian is now available on AI Gateway. The visual reasoning model accepts images and video to follow objects through motion, interpret spatial relationships, and connect an action to its physical consequences. Glimpse can return to visual evidence as it works: zooming into a detail, revisiting a short interval of video, or tracking the same feature across frames. This allows the model to support use cases like scientific chart analysis, video captioning, visual counting, and robotics data annotation. Some examples include checking a train's motion to determine whether it is…",
+ "title_mn": "Elorian AI-ийн Glimpse модель Vercel AI Gateway-д нэмэгдлээ",
+ "summary_mn": "Elorian компанийн визуал дүгнэлт хийх Glimpse модель Vercel AI Gateway дээр ашиглахад бэлэн боллоо. AI SDK 7-оор дамжуулан бичлэг илгээж, орон зайн дүн шинжилгээ болон хөдөлгөөн дагах боломжтой.",
+ "body_mn": "Elorian компанийн бүтээсэн визуал эргэцүүлэл хийх Glimpse модель Vercel AI Gateway платформд албан ёсоор нэмэгдлээ. Энэхүү модель нь зураг болон видео бичлэг хүлээн авч, биетүүдийн хөдөлгөөнийг дагах, орон зайн хамаарлыг тодорхойлох, үйлдэл болон түүний үр дагаврыг холбон тайлбарлах чадвартай юм.\n\nGlimpse нь боловсруулалт хийх явцдаа дүрсний тодорхой хэсэг рүү томруулж харах, бичлэгийн богино хугацааны хэсгийг дахин шалгах, эсвэл кадруудын хооронд тухайн элементийг тогтвортой дагах боломжтой. Үүний тусламжтайгаар шинжлэх ухааны график шинжилгээ, видео тайлбар үүсгэх, тоолох болон роботын өгөгдлийг тэмдэглэх (annotation) зэрэг даалгавруудыг гүйцэтгэхэд тохиромжтой.\n\nХөгжүүлэгчид AI SDK 7-г ашиглан бичлэгийг олон нийтэд нээлттэй эсвэл гарын үсэгтэй HTTPS холбоосоор файл хэлбэрээр илгээх боломжтой. Мөн Vercel CLI-ийг шинэчлэн Claude Code, Codex, Cursor зэрэг хэрэгслүүдэд AI Gateway тохиргоог хялбархан суулгаж болно. AI Gateway нь загварын үндсэн үнийг ямар ч нэмэгдэлгүйгээр санал болгодог.",
+ "published": "2026-10-16T00:00:00Z",
+ "added": "2026-10-17T12:40:52Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

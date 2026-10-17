@@ -1,0 +1,17 @@
+{
+ "id": "d080742bf703cfec",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.33.0",
+ "image": "https://opengraph.githubassets.com/0bc0a5802c7e96faf0068d1812750db630a2aaeb2c9693ed380759bbee8c18f0/openai/openai-python/releases/tag/v3.33.0",
+ "title": "openai-python v3.33.0",
+ "summary_en": "3.33.0 (2026-10-16) Features api: add safety identifiers to image requests and responses ( #4093 ) ( c969e32 ) api: share Decisions cache breakpoint parameter type ( #4092 ) ( f7cefda )",
+ "title_mn": "openai-python v3.33.0 хувилбар гарлаа",
+ "summary_mn": "OpenAI-ийн албан ёсны Python санд зургийн хүсэлт, хариунд аюулгүй байдлын танигч нэмж, кэшийн параметрийн төрлийг шинэчиллээ.",
+ "body_mn": "OpenAI албан ёсны Python SDK-ийнхөө v3.33.0 хувилбарыг нийтэллээ. Энэ удаагийн шинэчлэлтээр зургийн API хүсэлт болон хариунд аюулгүй байдлын танигчдыг (safety identifiers) дамжуулах боломжийг оруулсан байна.\n\nМөн Decisions кэшийн breakpoint параметрийн төрлийг хуваалцах (share) хэлбэрт шилжүүлж, санг ашиглан хөгжүүлэлт хийж буй системүүдийн төрөл шалгалтыг сайжруулжээ.\n\nЭдгээр өөрчлөлт нь OpenAI API ашиглан multimodal болон зураг боловсруулах аппликейшн бүтээж буй инженерүүдэд аюулгүй байдлын шалгалтыг хянах, кэш ашиглалтыг зөв тохируулахад туслах юм.",
+ "published": "2026-10-17T00:29:04Z",
+ "added": "2026-10-17T12:40:52Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

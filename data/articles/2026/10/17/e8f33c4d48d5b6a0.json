@@ -1,0 +1,17 @@
+{
+ "id": "e8f33c4d48d5b6a0",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
+ "image": "https://opengraph.githubassets.com/7dc71177e3507b1b962e2c8417e2c0a7545787cd089f37dfaf4d488ad88115ac/ollama/ollama/releases/tag/v0.40.6",
+ "title": "ollama v0.40.6",
+ "summary_en": "What's Changed win: prevent orphaned runners by @dhiltgen in #18500 gguf: add the q2_0 tensor and file types by @jmorganca in #18967 Launch clef in Ollama's cloud by @jberg5 in #19036 use identifiers for --ask mode question keys by @jberg5 in #19041 Full Changelog : v0.40.5...v0.40.6-rc0",
+ "title_mn": "Ollama v0.40.6 хувилбар гарлаа",
+ "summary_mn": "Ollama 0.40.6 хувилбарт Windows дээрх салангид процессуудыг зогсоох засвар орж, GGUF q2_0 төрлийг дэмжиж эхэллээ.",
+ "body_mn": "Орон нутгийн LLM ажиллуулах түгээмэл хэрэгсэл болох Ollama-ийн v0.40.6 хувилбар гарлаа. Шинэ хувилбарт Windows үйлдлийн систем дээр арын процессууд өнчирч үлдэх (orphaned runners) асуудлыг бүрэн зассан байна.\n\nМөн GGUF форматад q2_0 тензор болон файлын төрлийн дэмжлэгийг нэмсэн бөгөөд Ollama Cloud дээр clef ажиллуулах боломжийг суулгажээ. Үүнээс гадна --ask горим дахь асуултын түлхүүрүүдэд танигч (identifiers) ашигладаг болсон байна.\n\nЭнэхүү шинэчлэл нь бага санах ойтой төхөөрөмжүүдэд квантчлагдсан жижиг загваруудыг ажиллуулах болон Windows хөгжүүлэгчдийн системийн тогтвортой байдлыг хангахад чухал нөлөөтэй.",
+ "published": "2026-10-17T00:58:39Z",
+ "added": "2026-10-17T12:40:52Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

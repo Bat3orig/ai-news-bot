@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "6b1f86ec858b3d94",
-   "subtopic": "ai-devtools",
-   "source": "openai/codex",
-   "source_label": "openai/codex",
-   "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
-   "image": "https://opengraph.githubassets.com/8ca52016e0bcccdc63200b197368503fb71524266141e884f88114fc768c2b66/openai/codex/releases/tag/rust-v0.163.0",
-   "title": "codex 0.163.0",
-   "summary_en": "New Features Open /config to search preferences across categories, change supported settings immediately, and see which changes require a restart. ( #52990 , #53429 ) Send a follow-up while Codex is responding to steer it immediately. Interrupting a turn also stops active Code Mode cells and their nested tool calls. ( #51812 , #51835 ) Configure a leader key in /keymap . The default is Ctrl+X , shortcut hints stay open until you choose or cancel, and voice mute moves to F9 . ( #52273 ) Restart a managed background server from /daemon . Codex warns about work the restart could interrupt, then…",
-   "title_mn": "Codex 0.163.0 хувилбар шинэ боломжуудтайгаар гарлаа",
-   "summary_mn": "Codex CLI хэрэгслийн 0.163.0 шинэ хувилбар гарч, тохиргоог хайх боломж, даруй тасалдуулах функц болон арын сервер дахин асаах команд зэргийг нэмлээ.",
-   "body_mn": "Codex хөгжүүлэгчид 0.163.0 хувилбарыг албан ёosan гаргалаа. Энэхүү шинэ хувилбарт хэрэглэгчийн хэрэглээг хөнгөвчилсөн олон сонирхолтой боломж, сайжруулалтууд багтсан байна. Тухайлбал, /config команд ашиглан категориуд дунд тохиргоо хайх, дэмжигдсэн тохиргоог шууд өөрчлөх боломжтой болжээ.\n\nMөн хөгжүүлэгчид Codex хариу өгч байх үед нь шууд дараагийн хүсэлтээ явуулж чиглүүлэх боломжтой болсон бөгөөд ажиллагааг тасалдуулах үед идэвхтэй Code Modeเซลлүүд болон тэдгээрийн хэрэгслүүд хамт зогсоно. /keymap тохиргоонд удирдлагын товчлуурыг (leader key) тохируулах боломжтой болсон ба үндсэн тохиргоогоор Ctrl+X байхаар өөрчилжээ.\n\nҮүнээс гадна /daemon командын тусламжтайгаар удирдуулах арын серверийг дахин асаах, Codex бие даасан read-only хэрэгслүүдийг зэрэг ажиллуулах зэрэг шинэчлэлтүүд орсон байна. Linux болон macOS системүүдэд зориулсан багцын хэмжээг багасгаж, гүйцэтгэлийг илүү сайжруулжээ.",
-   "published": "2026-10-15T21:33:06Z",
-   "added": "2026-10-16T10:00:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e66f6b0d9317e286",
-   "subtopic": "packages",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-   "image": "https://www.vlt.io/api/og/blog?data=eyJ0aXRsZSI6IlRoYW5rIHlvdSwgRGVubyIsImJhbm5lciI6Imh0dHBzOi8vd3d3LnZsdC5pby9pbWFnZXMvYmxvZy9jb21wZXRpdGlvbi1rZWVwcy1qYXZhc2NyaXB0LW1vdmluZy9iYW5uZXIucG5nIn0%3D",
-   "title": "Thank You, Deno",
-   "summary_en": "Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving Comments URL: https://news.ycombinator.com/item?id=50112331 Points: 114 # Comments: 27",
-   "title_mn": "Deno баг Cloudflare-д нэгдэж, runtime-ийн хөгжүүлэлтээ өөрчилж байна",
-   "summary_mn": "Ryan Dahl болон Deno баг Cloudflare компанид нэгдэж байгаагаа зарлаж, Deno runtime-ийн хөгжүүлэлтийг ирэх жилийн хугацаанд зогсоохоор болжээ.",
-   "body_mn": "Deno-г үндэслэгч Ryan Dahl болон түүний баг Cloudflare компанид нэгдэж байгаагаа зарлалаа. Ингэснээр Deno runtime ирэх жилийн хугацаанд аажмаар хаагдах бөгөөд JSR платформ Cloudflare-ийн дэд бүтцэд үргэлжлэн ажиллах юм. Багийн гол зорилго нь Deno-ийн celld технологийг Cloudflare-ийн workerd системд нэгтгэх ажээ.\n\nDeno анх гарч ирэхдээ Node.js-ийн дутагдалтай талуудыг шийдвэрлэх, TypeScript-ийг анхдагчаар дэмжих, URL дээр суурилсан хамаарал зэрэг шинэлэг санаануудыг дэвшүүлж байсан билээ. Гэсэн хэдий ч зах зээлийн бодит байдал болон Bun зэрэг өрсөлдөгчдийн нөлөөгөөр экосистем хувьсан өөрчлөгдөж, эцэстээ Node болон npm нийцтэй байдлыг бүрэн хангахад хүрч байв. Энэхүү нэгдэл нь JavaScript болон WebAssembly орчны хөгжилд томоохон өөрчлөлт авчирч байна.",
-   "published": "2026-10-16T00:52:40Z",
-   "added": "2026-10-16T14:57:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "bb38cdc5652ed5f7",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v44.8.0",
-   "image": "https://opengraph.githubassets.com/3de8a12d3400033bca578c179de591e6e080aa22578b8109ccc685787bf6bcf1/electron/electron/releases/tag/v44.8.0",
-   "title": "electron v44.8.0",
-   "summary_en": "Release Notes for v44.8.0 Features Added support for Notification action buttons on Linux. #54890 (Also in 45 ) Fixes Fixed mouse cursor missing over native dialogs in certain scenarios on Windows. #54987 Fixed net.fetch and session.fetch failing permanently with net::ERR_FAILED after the Network Service process restarts. #54909 (Also in 42 , 43 , 45 ) Fixed utilityProcess dropping messages posted with process.parentPort.postMessage() right before the process exits. #54960 (Also in 42 , 43 , 45 ) Fixed win.isFullScreen() being stale in fullscreen events on Windows. #55009 (Also in 45 ) Other…",
-   "title_mn": "Electron v44.8.0 хувилбар шинэчлэгдэн гарлаа",
-   "summary_mn": "Electron v44.8.0 хувилбар гарч, Linux үйлдлийн систем дэх Notification товчлуурын дэмжлэг нэмэгдэж, Chromium болон Node.js шинэчлэгджээ.",
-   "body_mn": "Electron хүрээний шинэ v44.8.0 хувилбар албан ёсоор гарлаа. Энэхүү шинэчлэлтээр Linux дээр Notification action товчлууруудыг ашиглах боломжтой болсон бөгөөд Windows систем дэх уугуул харилцах цонхны хулганы курсорын алдааг зассан байна.\n\nМөн net.fetch болон session.fetch процессууд тасалдсаны дараа алдаа өгдөг байсан асуудлыг засахаас гадна Chromium 152.0.7977.167 болон Node.js v24.22.0 хувилбарууд руу шинэчлэгдсэн байна.",
-   "published": "2026-10-16T01:50:20Z",
-   "added": "2026-10-16T14:57:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "44f0c877c76b658e",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v42.11.15",
-   "image": "https://opengraph.githubassets.com/7522f8854a375c42f485791bf7e8bf558b9622a5190c044d6f20fa4dccee81c1/electron/electron/releases/tag/v42.11.15",
-   "title": "electron v42.11.15",
-   "summary_en": "Release Notes for v42.11.15 Fixes Fixed a crash on Linux at startup or on theme change with GTK modules loaded. #55015 Fixed an issue where clicks posted to a background app were dropped on macOS. #54906 (Also in 43 , 44 , 45 ) Fixed net.fetch and session.fetch failing permanently with net::ERR_FAILED after the Network Service process restarts. #54925 (Also in 43 , 44 , 45 ) Fixed utilityProcess dropping messages posted with process.parentPort.postMessage() right before the process exits. #55000 (Also in 43 , 45 ) Other Changes Backported fixes from upstream Chromium and V8. #55035",
-   "title_mn": "Electron v42.11.15 хувилбарын алдаа засах шинэчлэлт",
-   "summary_mn": "Electron v42.11.15 хувилбар гарч, Linux болон macOS систем дээрх зарим чухал алдаанууд болон сүлжээний хүсэлтийн доголдлыг заслаа.",
-   "body_mn": "Electron v42.11.15 засварын хувилбар худалдаанд гарлаа. Энэхүү хувилбараар Linux дээр GTK модулиуд ачаалагдах үед үүсдэг байсан гажиг болон macOS дээр ар талд ажиллаж буй апп руу товшилт явуулахад алдагдах асуудлыг шийдвэрлэжээ.\n\nҮүнээс гадна сүлжээний үйл явц дахин эхлэх үед net.fetch болон session.fetch команд fail болдог байсан алдааг засварлаж, upstream Chromium болон V8 хөдөлгүүрийн засваруудыг нэгтгэсэн байна.",
-   "published": "2026-10-16T01:53:00Z",
-   "added": "2026-10-16T14:57:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6fdf4a6bc9a49fd0",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
-   "title": "Multi-repo support and other improvements for GitHub in Slack and Teams",
-   "summary_en": "Multi-repo support in Slack and Teams GitHub Copilot in Slack and Teams now supports working across multiple repositories in a single conversation. Whether you’re tracking pull requests, investigating issues, or…",
-   "title_mn": "Slack болон Teams дахь GitHub Copilot олон репозитор дэмждэг боллоо",
-   "summary_mn": "GitHub Copilot нь Slack болон Microsoft Teams орчинд олон репозитортой нэгэн зэрэг ажиллах боломжтой болж шинэчлэгдлээ.",
-   "body_mn": "Slack болон Microsoft Teams дэх GitHub Copilot хэрэгсэл нь хэрэглэгчдэд нэг ярианы цонх дотор олон репозитортой зэрэг ажиллах боломжийг олгож эхэллээ. Ингэснээр хөгжүүлэгчид янз бүрийн төслүүдийн хооронд шилжихгүйгээр pull request шалгах, асуудал мөрдөх болон төслийн явцын мэдээлэл авах боломжтой болж байна.\n\nШинэчлэлтийн хүрээнд @GitHub руу ямар ч зурвасын дундаас хандах, ярианы контекстийг илүү сайн хадгалах, репозиторуудын хооронд шилжихэд илүү хялбар болгох зэрэг сайжруулалтуудыг хийсэн байна. Энэ нь багаар ажиллах явцыг илүү хурдан бөгөөд үр дүнтэй болгож байгаа юм.",
-   "published": "2026-10-16T02:16:35Z",
-   "added": "2026-10-16T14:57:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f714f777962cef4a",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "RuntimeWire",
-   "url": "https://runtimewire.com/article/anthropic-employer-perk-annual-pro-checkout",
-   "image": "https://runtimewire.com/og/anthropic-employer-perk-annual-pro-checkout.16x9.jpg?v=og2-wz3i0g",
-   "title": "Anthropic is preparing to launch a work-email discount path to annual Claude Pro",
-   "summary_en": "RuntimeWire found work-email verification and an annual Claude Pro checkout handoff in a Windows package. No live offer, discount amount or eligible employers were verified.",
-   "title_mn": "Anthropic компани Claude Pro багцад ажилчдын цахим шуудангаар хөнгөлөлт олгохоор бэлтгэж байна",
-   "summary_mn": "Anthropic-ийн Windows аппын багц дотроос байгууллагын и-мэйлээр дамжуулан жилийн Claude Pro захиалгад хөнгөлөлт авах боломжтой хэсэг илэрчээ.",
-   "body_mn": "RuntimeWire хэвлэлийн судалснаар Anthropic компанийн Windows апп дотор байгууллагын цахим шуудангаар баталгаажуулалт хийж, жилийн Claude Pro захиалгын хөнгөлөлттэй үнээр авах урсгал хөгжүүлэгдэж байгаа аж. Гэсэн хэдий ч энэхүү үйлчилгээ албан ёсоор нээгдсэн эсэх болон ямар нөхцөлтэй байх нь одоогоор тодорхойгүй байна.\n\nЭнэхүү боломж нь хэрэглэгчдэд ажлын байрны и-мэйлээ ашиглан баталгаажуулалт хийх замаар хөнгөлөлттэй нөхцөлөөр захиалга хийх боломжийг олгох зорилготой байж магадгүй юм. Хэдийгээр аппын кодоос уг интерфейс олдсон ч Anthropic компани үүнийг албан ёсоор зарлаагүй байна.",
-   "published": "2026-10-16T03:39:00Z",
-   "added": "2026-10-16T14:57:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "89ff12e0cc3c49e0",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "MIXED Reality News",
-   "url": "https://mixed-news.com/en/anthropic-election-red-team-isd-mccain-multi-step-misuse/",
-   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/d0efef057e61d2c590d06d8902da2167fe93200a-1920x1080-1.png",
-   "title": "Anthropic says Claude refuses a harmful request, but can miss a campaign of harmless ones",
-   "summary_en": "Anthropic says Claude reliably refused a single harmful election request when two independent research organisations tried to get past its safeguards, but",
-   "title_mn": "Anthropic: Claude сонгуулийн хортой хүсэлтээс татгалздаг ч жижиг кампанит ажилд алдаж болзошгүй",
-   "summary_mn": "Anthropic компанийн судалгаагаар Claude нэгдсэн хортой хүсэлтээс татгалзаж чадах боловч жижиг хэсгүүдэд хуваасан хорлонтой кампанит ажлыг анзааралгүй орхиж болохыг тогтоожээ. Тиймээс тэд олон шаттай буруу ашиглалтыг илрүүлэх шинэ ангилагчуудыг нэмсэн байна.",
-   "body_mn": "Anthropic компани өөрийн Claude загварын сонгуулийн үеийн аюулгүй байдлын шалгалтын үр дүнг танилцууллаа. Institute for Strategic Dialogue болон McCain Institute байгууллагуудтай хамтран хийсэн туршилтаар Claude нэгдсэн нэг хортой хүсэлтээс найдвартай татгалзаж байсан ч, тухайн хорлонтой кампанит ажлыг жижиг хэсгүүдэд хувааж илгээхэд (аудитын судалгаа хийх, мэдээний сайт бүтээх, контент бэлтгэх гэх мэт) зарим тохиолдолд таньж чадахгүй өнгөрч болохыг тогтоожээ.\n\nҮүний улмаас Anthropic компани \"шинэ болон олон шаттай буруу ашиглалт\"-ыг илрүүлэх шинэ ангилагчуудыг нэмсэн байна. Үүнд хуурамч сошиал медиа хаяг, мэдээний сайт үүсгэх оролдлого болон гадаад улсын төрийн оролцогчдын сонгуульд нөлөөлөх оролдлогыг илрүүлэх чадварыг сайжруулжээ.\n\nМөн тайланд дурдсанаар, есдүгээр сарын сүүлээр АНУ дахь Claude.ai хэрэглэгчдийн ярианы ердөө 5.75 орчим хувь нь улс төр, олон нийтийн бодлоготой холбоотой байсан бөгөөд сонгууль эсвэл санал хураалтын тухай яриа 0.51 хувийг эзэлж байжээ. Хэрэглэгчдэд хэнд саналаа өгөхийг зааж өгөх хүсэлт маш ховор буюу 0.01 хувьтай тэнцсэн байна.\n\nЭнэхүү шинэ хамгаалалт ба ангилагч хэрэгслүүд нь хөгжүүлэгчид болон хиймэл оюун ухааны платформууд хэрэглэгчдийн аюулгүй байдлыг хангах, улс төрийн зорилгоор загварыг буруугаар ашиглахаас урьдчилан сэргийлэхэд чухал алхам болж байна.",
-   "published": "2026-10-16T04:38:49Z",
-   "added": "2026-10-16T14:57:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "34f2b847b5e499bc",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "www.tokenpost.com",
-   "url": "https://www.tokenpost.com/news/technology/32809",
-   "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/14105f052c19ace81a67142cc530b7d631bc954b2eb4610ed72f97d952b9ef31.webp",
-   "title": "Cursor Tightens Grok Bot Training Rules After Employee Data Concerns",
-   "summary_en": "Engineers questioned whether staff activity with Sand could have put confidential customer, supplier or partner information into data shared for training.",
-   "title_mn": "Cursor ажилтнуудынхаа өгөгдлийг Grok Bot-ийн сургалтаас хасахаар боллоо",
-   "summary_mn": "Cursor компанийн инженерүүд Sand дотоод туршилтын өгөгдөл SpaceXAI рүү илгээгдэх эрсдэл үүссэнд санаа зовниж буйгаа илэрхийлсний дараа сургалтын журмаа чангатгажээ. Ажилтнуудын ашиглалтын мэдээллийг цаашдын моделийн сургалтаас хасахаар шийдвэрлэсэн байна.",
-   "body_mn": "Cursor компани ажилтнуудынхаа ашиглаж байсан Grok Bot-ийн дотоод хувилбар болох Sand хэрэгслийн хандалтыг чангатгаж, ажилтнуудын өгөгдлийг моделийн сургалтаас хасахаар боллоо. Инженерүүд тус хэрэгсэл дээрх харилцагч, түншүүдийн нууц мэдээлэл SpaceXAI рүү сургалтын өгөгдөл болон илгээгдэж болзошгүй талаар анхааруулсан байна.\n\nКомпанийн хуулийн баг ажилтнуудын өгөгдөл дээр модель сургах хууль эрх зүйн бүрэн эрх байхгүй байж болзошгүйг дурджээ. Үүний дараа Sand системд зөвхөн албаны мэйл хаягаар нэвтрэхийг шаарддаг болж, өмнө нь илгээсэн өгөгдлийг нягталж эхэлсэн аж.\n\nЭнэхүү алхам нь байгууллагын системүүдтэй холбогдон ажилладаг хиймэл оюуны агентуудыг турших явцад ажилтнуудын өгөгдлийг сургалтын багцаас салангид, аюулгүй байлгах шаардлага хэр чухлыг харуулж байна.",
-   "published": "2026-10-15T22:05:40Z",
-   "added": "2026-10-16T18:36:20Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "21c31fd503925eb3",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4XBu5a3hOR9JZHjp8jLTsn/111f4e942146d7652012a54487986081/image.png",
-   "title": "Reflection AI's Beam now available on AI Gateway for free",
-   "summary_en": "Beam from Reflection AI , previously available in stealth as stealth/cat-jam , is now available on AI Gateway . Beam is free to use for a limited time during the launch period when serviced by Reflection AI. Beam is an low latency US open-weight reasoning model for coding and agentic tasks, with weights released under Apache 2.0 . Beam supports tool calling and structured outputs , with a 1M-token context window for code, documents, and conversation history. Reasoning effort is adjustable. Beam is designed for speed, activating only 23B of its 501B parameters per token and avoiding tokens a…",
-   "title_mn": "Reflection AI-ийн Beam модель Vercel AI Gateway дээр үнэгүй гарлаа",
-   "summary_mn": "Reflection AI-ийн бүтээсэн Beam хэмээх нээлттэй жинтэй reasoning модель Vercel AI Gateway платформд нэмэгдлээ. Энэхүү модель нь 1M контекст цонхтой, tool calling болон бүтэцлэгдсэн өгөгдлийг дэмждэг бөгөөд нээлтийн хугацаанд үнэгүй ашиглах боломжтой.",
-   "body_mn": "Өмнө нь cat-jam нэрээр хаалттай туршигдаж байсан Reflection AI-ийн Beam модель одоо Vercel AI Gateway дээр албан ёсоор гарлаа. Тус нээлттэй жинтэй модель нь Apache 2.0 лицензтэй бөгөөд код бичих болон агентын даалгавруудад зориулан бага сааталтай (low latency) ажиллахаар тохируулагдсан байна.\n\nBeam нь нийт 501 тэрбум параметртэй хэдий ч токен тутамд 23 тэрбумыг идэвхжүүлдэг тул хариултыг маш хурдан гаргадаг. Мөн 1 сая хүртэлх токены контекст цонх, tool calling болон structured outputs дэмжлэгтэй бөгөөд хөгжүүлэгчид reasoning түвшнийг өөрсдөө тохируулах боломжтой.\n\nХөгжүүлэгчид Vercel CLI ашиглан reflection/beam эсвэл reflection/beam-free нэрээр дуудаж Claude Code, Codex, Cursor зэрэг агент хэрэгслүүд дээрээ шууд турших боломжтой юм.",
-   "published": "2026-10-16T00:00:00Z",
-   "added": "2026-10-16T18:36:20Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4bce660781f8c7bf",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v43.8.0",
-   "image": "https://opengraph.githubassets.com/5e4f78ecefe6cd63ac621ca4414d4be15284729304643a5fa3062c51780f4866/electron/electron/releases/tag/v43.8.0",
-   "title": "electron v43.8.0",
-   "summary_en": "Release Notes for v43.8.0 Fixes Fixed a crash on Linux at startup or on theme change with GTK modules loaded. #55016 Fixed a crash when creating a framed window on Wayland in environments where GTK could not initialize. #54893 (Also in 44 , 45 ) Fixed a Linux crash creating a window with a menu bar when GTK failed to load. #54884 (Also in 44 , 45 ) Fixed an issue where clicks posted to a background app were dropped on macOS. #54905 (Also in 42 , 44 , 45 ) Fixed net.fetch and session.fetch failing permanently with net::ERR_FAILED after the Network Service process restarts. #54908 (Also in 42…",
-   "title_mn": "Electron v43.8.0 хувилбар гарлаа",
-   "summary_mn": "Electron 43.8.0 хувилбарт Linux болон Wayland дээр GTK-тэй холбоотой гардаг олон гацалтыг засаж, сүлжээний процесс болон utilityProcess-ийн алдаануудыг арилгажээ. Мөн Node.js хувилбарыг v24.22.0 болгон шинэчилсэн байна.",
-   "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн Electron фрэймворкийн 43.8.0 шинэ хувилбар албан ёсоор гарлаа. Энэхүү хувилбараар систем тогтвортой ажиллахад чиглэсэн хэд хэдэн чухал алдааны засваруудыг хийжээ.\n\nТухайлбал, Linux болон Wayland орчинд GTK сангууд ачааллах эсвэл загвар солих үед гардаг байсан хэд хэдэн системийг гацаадаг алдааг засварласан байна. Мөн macOS дээр арын горимд ажиллаж буй апп руу дарсан товшилт хаягддаг байсныг зассан бөгөөд Network Service дахин ачаалласны дараа net.fetch амжилтгүй болдог асуудлыг шийджээ.\n\nҮүнээс гадна utilityProcess хаагдахын өмнөхөн илгээсэн мессежүүд гээгддэг байсныг засаж, Node.js-ийг v24.22.0 хувилбар руу ахиулж, Chromium болон V8-ийн сүүлийн үеийн засваруудыг багтаасан байна.",
-   "published": "2026-10-16T05:53:53Z",
-   "added": "2026-10-16T18:36:20Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "80f7d46d93c2c75c",
    "subtopic": "vercel-cloud",
    "source": "Vercel",
@@ -557,6 +357,186 @@
    "added": "2026-10-17T08:56:54Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bd7431c0d2b473b4",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/78V7KGa0XpqgbSIVHUiApt/ca2d815350dcc28e0387bdb691635818/image.png",
+   "title": "Elorian AI's Glimpse now available on AI Gateway",
+   "summary_en": "Glimpse from Elorian is now available on AI Gateway. The visual reasoning model accepts images and video to follow objects through motion, interpret spatial relationships, and connect an action to its physical consequences. Glimpse can return to visual evidence as it works: zooming into a detail, revisiting a short interval of video, or tracking the same feature across frames. This allows the model to support use cases like scientific chart analysis, video captioning, visual counting, and robotics data annotation. Some examples include checking a train's motion to determine whether it is…",
+   "title_mn": "Elorian AI-ийн Glimpse модель Vercel AI Gateway-д нэмэгдлээ",
+   "summary_mn": "Elorian компанийн визуал дүгнэлт хийх Glimpse модель Vercel AI Gateway дээр ашиглахад бэлэн боллоо. AI SDK 7-оор дамжуулан бичлэг илгээж, орон зайн дүн шинжилгээ болон хөдөлгөөн дагах боломжтой.",
+   "body_mn": "Elorian компанийн бүтээсэн визуал эргэцүүлэл хийх Glimpse модель Vercel AI Gateway платформд албан ёсоор нэмэгдлээ. Энэхүү модель нь зураг болон видео бичлэг хүлээн авч, биетүүдийн хөдөлгөөнийг дагах, орон зайн хамаарлыг тодорхойлох, үйлдэл болон түүний үр дагаврыг холбон тайлбарлах чадвартай юм.\n\nGlimpse нь боловсруулалт хийх явцдаа дүрсний тодорхой хэсэг рүү томруулж харах, бичлэгийн богино хугацааны хэсгийг дахин шалгах, эсвэл кадруудын хооронд тухайн элементийг тогтвортой дагах боломжтой. Үүний тусламжтайгаар шинжлэх ухааны график шинжилгээ, видео тайлбар үүсгэх, тоолох болон роботын өгөгдлийг тэмдэглэх (annotation) зэрэг даалгавруудыг гүйцэтгэхэд тохиромжтой.\n\nХөгжүүлэгчид AI SDK 7-г ашиглан бичлэгийг олон нийтэд нээлттэй эсвэл гарын үсэгтэй HTTPS холбоосоор файл хэлбэрээр илгээх боломжтой. Мөн Vercel CLI-ийг шинэчлэн Claude Code, Codex, Cursor зэрэг хэрэгслүүдэд AI Gateway тохиргоог хялбархан суулгаж болно. AI Gateway нь загварын үндсэн үнийг ямар ч нэмэгдэлгүйгээр санал болгодог.",
+   "published": "2026-10-16T00:00:00Z",
+   "added": "2026-10-17T12:40:52Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5663347afc6bfbc4",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "MIXED Reality News",
+   "url": "https://mixed-news.com/en/claude-opus-5-5-fast-mode-out-of-research-preview-rate-limit/",
+   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/1923f2edea23fb276f0a2eeee44b7d32446a0684-2400x1260-1.jpg",
+   "title": "Claude Opus 5.5 fast mode needs no access request, but falling back costs the cache",
+   "summary_en": "Anthropic has taken fast mode out of research preview on Claude Opus 5.5, so asking for it no longer needs an access request or a beta header. The release",
+   "title_mn": "Claude Opus 5.5 загварын fast mode хязгаарлалтгүй болж, нийтэд нээгдлээ",
+   "summary_mn": "Anthropic Claude Opus 5.5 загварын fast mode горимыг бүрэн нээж, Start, Build, Scale багцуудад анхдагчаар нэвтрүүллээ. Харин fast горимоос standard руу шилжих үед prompt cache ашиглагдахгүй болохыг анхааруулж байна.",
+   "body_mn": "Anthropic компани Claude Opus 5.5 загварынхаа fast mode горимыг туршилтын шатнаас (research preview) гаргаж, нийтэд нээлттэй болголоо. Ингэснээр хөгжүүлэгчид тус горимыг ашиглахын тулд тусгай хүсэлт илгээх эсвэл beta header заавал залгах шаардлагагүй болж, Start, Build, Scale хэрэглээний шатлалуудад анхдагчаар тохируулагдсан хурдны хязгаартайгаар ашиглах боломжтой болсон байна.\n\nШинэ хурдны хязгаар нь Opus-ийн ердийн хязгаараас тусдаа тооцогдох бөгөөд 429 алдаа ирэх үед retry-after толгой мэдээлэл хариу буцаана. Харин fast горимоос хязгаар давсны улмаас standard хурд руу буцан шилжих (fallback) тохиолдолд өмнөх prompt cache бүрэн цуцлагдаж (cache miss), кэшлэгдсэн урт контекстыг дахин эхнээс нь бүрэн үнээр тооцох эрсдэлтэйг Anthropic анхааруулжээ.\n\nFast mode горим нь загварын чадвар болон чанарт ямар ч өөрчлөлт оруулахгүйгээр секундын гаралтын токены хурдыг 2.5 дахин нэмэгдүүлдэг. Уг горимын үнэ 1 сая оролтын токенд $8, гаралтын токенд $40 хэвээр байгаа бөгөөд анх удаа Claude API-аас гадна Microsoft Foundry-ийн Azure байршуулалтад нэвтэрч эхэлжээ.",
+   "published": "2026-10-16T23:43:50Z",
+   "added": "2026-10-17T12:40:52Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2527a2533cad5399",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/XjRrN5hZhlEhKtaKK82HX/21cb9a2fc8061a972c50e795f492248a/Vercel_x_DeepSeek.png",
+   "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
+   "summary_en": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-step automation. With images, the model reads charts and handles visual reasoning more accurately when it can call tools. DeepSeek V4.1 Flash 1017 also finishes tasks faster and with shorter outputs than the previous snapshot, so agent runs tend to take less time and use fewer…",
+   "title_mn": "DeepSeek V4.1 Flash 1017 модель Vercel AI Gateway-д нэмэгдлээ",
+   "summary_mn": "Vercel AI Gateway платформд DeepSeek V4.1 Flash 1017 шинэчлэл орлоо. Загвар нь логик дүгнэлт, код бичих болон олон шатлалт агентын даалгавруудыг илүү хурдан, цөөн токеноор гүйцэтгэдэг болжээ.",
+   "body_mn": "Vercel компани DeepSeek V4.1 Flash 1017 загварыг өөрийн AI Gateway үйлчилгээндээ нэмлээ. Энэхүү шинэчлэл нь DeepSeek V4.1 Flash загварын сайжруулсан хувилбар бөгөөд логик сэтгэлгээ, кодчилол, агентын ажлууд болон зургийн өгөгдлийг таньж дүгнэх чадварыг эрс сайжруулсан байна.\n\nТус загвар нь терминал дээр ажиллах, төслийн репозиторыг бүтнээр нь үүсгэх, засахад өндөр үр дүн үзүүлж байгаагаас гадна олон алхамт автоматжуулалтыг чанартай гүйцэтгэдэг болжээ. Түүнчлэн график унших болон багаж хэрэгсэл (tool calling) ашиглан зураг дээр визуал дүгнэлт гаргах нарийвчлал нь өссөн байна.\n\nDeepSeek V4.1 Flash 1017 нь өмнөх хувилбараасаа илүү хурдан ажиллаж, даалгаврыг цөөн токеноор илэрхийлэн дуусгадаг болсон тул агентуудын ажиллах хугацаа болон зардал багасах давуу талтай. Хөгжүүлэгчид deepseek/deepseek-v4.1-flash-1017 нэршлээр Claude Code, Codex, Cursor зэрэг дэмжигдсэн орчинд Vercel CLI-ээр тохируулан ашиглах боломжтой.",
+   "published": "2026-10-17T00:00:00Z",
+   "added": "2026-10-17T12:40:52Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d080742bf703cfec",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.33.0",
+   "image": "https://opengraph.githubassets.com/0bc0a5802c7e96faf0068d1812750db630a2aaeb2c9693ed380759bbee8c18f0/openai/openai-python/releases/tag/v3.33.0",
+   "title": "openai-python v3.33.0",
+   "summary_en": "3.33.0 (2026-10-16) Features api: add safety identifiers to image requests and responses ( #4093 ) ( c969e32 ) api: share Decisions cache breakpoint parameter type ( #4092 ) ( f7cefda )",
+   "title_mn": "openai-python v3.33.0 хувилбар гарлаа",
+   "summary_mn": "OpenAI-ийн албан ёсны Python санд зургийн хүсэлт, хариунд аюулгүй байдлын танигч нэмж, кэшийн параметрийн төрлийг шинэчиллээ.",
+   "body_mn": "OpenAI албан ёсны Python SDK-ийнхөө v3.33.0 хувилбарыг нийтэллээ. Энэ удаагийн шинэчлэлтээр зургийн API хүсэлт болон хариунд аюулгүй байдлын танигчдыг (safety identifiers) дамжуулах боломжийг оруулсан байна.\n\nМөн Decisions кэшийн breakpoint параметрийн төрлийг хуваалцах (share) хэлбэрт шилжүүлж, санг ашиглан хөгжүүлэлт хийж буй системүүдийн төрөл шалгалтыг сайжруулжээ.\n\nЭдгээр өөрчлөлт нь OpenAI API ашиглан multimodal болон зураг боловсруулах аппликейшн бүтээж буй инженерүүдэд аюулгүй байдлын шалгалтыг хянах, кэш ашиглалтыг зөв тохируулахад туслах юм.",
+   "published": "2026-10-17T00:29:04Z",
+   "added": "2026-10-17T12:40:52Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e8f33c4d48d5b6a0",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
+   "image": "https://opengraph.githubassets.com/7dc71177e3507b1b962e2c8417e2c0a7545787cd089f37dfaf4d488ad88115ac/ollama/ollama/releases/tag/v0.40.6",
+   "title": "ollama v0.40.6",
+   "summary_en": "What's Changed win: prevent orphaned runners by @dhiltgen in #18500 gguf: add the q2_0 tensor and file types by @jmorganca in #18967 Launch clef in Ollama's cloud by @jberg5 in #19036 use identifiers for --ask mode question keys by @jberg5 in #19041 Full Changelog : v0.40.5...v0.40.6-rc0",
+   "title_mn": "Ollama v0.40.6 хувилбар гарлаа",
+   "summary_mn": "Ollama 0.40.6 хувилбарт Windows дээрх салангид процессуудыг зогсоох засвар орж, GGUF q2_0 төрлийг дэмжиж эхэллээ.",
+   "body_mn": "Орон нутгийн LLM ажиллуулах түгээмэл хэрэгсэл болох Ollama-ийн v0.40.6 хувилбар гарлаа. Шинэ хувилбарт Windows үйлдлийн систем дээр арын процессууд өнчирч үлдэх (orphaned runners) асуудлыг бүрэн зассан байна.\n\nМөн GGUF форматад q2_0 тензор болон файлын төрлийн дэмжлэгийг нэмсэн бөгөөд Ollama Cloud дээр clef ажиллуулах боломжийг суулгажээ. Үүнээс гадна --ask горим дахь асуултын түлхүүрүүдэд танигч (identifiers) ашигладаг болсон байна.\n\nЭнэхүү шинэчлэл нь бага санах ойтой төхөөрөмжүүдэд квантчлагдсан жижиг загваруудыг ажиллуулах болон Windows хөгжүүлэгчдийн системийн тогтвортой байдлыг хангахад чухал нөлөөтэй.",
+   "published": "2026-10-17T00:58:39Z",
+   "added": "2026-10-17T12:40:52Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "042fdf052f85d7cf",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Startup Fortune",
+   "url": "https://startupfortune.com/claude-opus-55-beats-a-human-baseline-and-ai-researchers-move-up-their-self-improvement-clock/",
+   "image": "https://startupfortune.com/wp-content/uploads/2026/10/vals-ai-rayan-krishnan-claude-opus-5-5.jpg",
+   "title": "Claude Opus 5.5 beats a human baseline and AI researchers move up their self improvement clock",
+   "summary_en": "Vals AI moved its full recursive self-improvement forecast to July 2027 after Claude Opus 5.5 beat a human baseline on its RSI Index benchmark.",
+   "title_mn": "Claude Opus 5.5 хөгжүүлэгчийн түвшнийг давж, RSI төлөвлөгөө урагшиллаа",
+   "summary_mn": "Vals AI-ийн шинжилгээгээр Opus 5.5 загвар хэлний загвар сургах даалгаварт хүний суурь түвшнийг давж, бүрэн RSI таамгийг 2027 оны 7 сар болголоо.",
+   "body_mn": "Хиймэл оюуны туршилтын бие даасан Vals AI компани өөрсдийн Recursive Self-Improvement (RSI) индексээ шинэчилж, загварууд өөрсдийгөө сайжруулах хугацааг 2027 оны 7 сар болгон нэг сараар урагшлууллаа. Ингэх болсон гол шалтгаан нь саяхан туршсан Claude Opus 5.5 загварын үр дүн байв.\n\nТус загвар 24 цагийн тооцооллын лимитийн хүрээнд жижиг хэлний загварыг эхнээс нь сургах даалгаварт 0.8308 bits per byte (BPB) оноо авч, судлаачдын тогтоосон хүний суурь хэмжүүр болох 0.85 BPB-ийг анх удаа давжээ. Индексийн нийт 5 даалгавраас 4-ийг нь тэргүүлж, ерөнхий дунджаар 0.46 авсан нь Gemini 4 Argon (0.29) болон GPT-6 Astra (0.27)-оос хол давсан үзүүлэлт болсон байна.\n\nГэсэн хэдий ч тестийн багц угсрах буюу harness engineering ангилалд Opus 5.5 ердөө 0.15 оноо авсан бөгөөд энэ чиглэлд хүний мэргэжилтнүүд 93.6%-ийн оновчлолтойгоор давамгайлсан хэвээр байгааг судалгаа харуулжээ.",
+   "published": "2026-10-17T03:56:04Z",
+   "added": "2026-10-17T12:40:52Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "46b877b468355580",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://llmspeed.dev/",
+   "image": "https://llmspeed.dev/og.png",
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "summary_en": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 114 # Comments: 41",
+   "title_mn": "Llmspeed: Төхөөрөмж худалдаж авахаас өмнө орон нутгийн LLM-ийн хурдыг тооцоолох хэрэгсэл",
+   "summary_mn": "Llmspeed нээлттэй эхийн төсөл нь таны техник хангамж дээр төрөл бүрийн хэлний загварууд ямар хурдтай ажиллахыг урьдчилан тооцоолдог.",
+   "body_mn": "Орон нутгийн төхөөрөмж дээр том хэлний загварууд ажиллуулах сонирхолтой хөгжүүлэгчдэд зориулсан Llmspeed нэртэй нээлттэй эхийн шинэ хэрэгсэл Hacker News дээр танилцуулагдлаа.\n\nЭнэхүү хэрэгсэл нь r/LocalLLaMA болон localscore.ai зэрэг нийгэмлэгийн бодит жишиг тестүүдэд тулгуурлан тодорхой график карт, процессор бүхий системүүд дээр өгөгдсөн загвар ямар хурдтай ажиллахыг тооцоолж өгдөг байна. Хэмжигдээгүй шинэ төхөөрөмжүүдийн хувьд үзүүлэлт дээр үндэслэн таамаглал дэвшүүлдэг аж.\n\nОрон нутгийн LLM орчин бүрдүүлэхээр техник хангамж шинээр худалдан авахаар төлөвлөж буй инженерүүдэд хэрэгцээгүй зардал гаргахаас сэргийлэхэд туслах хэрэгсэл болжээ.",
+   "published": "2026-10-17T04:36:53Z",
+   "added": "2026-10-17T12:40:52Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8a7ce5c1e7243f72",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v44.9.0",
+   "image": "https://opengraph.githubassets.com/6ee1c153632dd6f65ca20b12db6e5be4200c15a865690b22d515e923ec8b5757/electron/electron/releases/tag/v44.9.0",
+   "title": "electron v44.9.0",
+   "summary_en": "Release Notes for v44.9.0 Features Added app shims on macOS to show windows under another app's Dock icon. #55073 (Also in 45 ) Fixes Fixed link-opened windows not using the opener's session and webPreferences . #55048 (Also in 42 , 43 , 45 ) Fixed setCertificateVerifyProc occasionally not being applied to a request issued concurrently with the first request to a host. #55046 (Also in 42 , 43 , 45 )",
+   "title_mn": "Electron v44.9.0 хувилбар гарлаа",
+   "summary_mn": "Electron v44.9.0-д macOS-д зориулсан шинэ боломж нэмэгдэж, холбоосоор нээгдсэн цонхны session алдааг заслаа.",
+   "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн Electron фрэймворкийн v44.9.0 хувилбар гарлаа. Энэхүү хувилбараар macOS дээр бусад аппликейшны Dock дүрс дор цонх харуулах боломж олгодог app shims дэмжлэгийг нэмсэн байна.\n\nМөн холбоосоор нээгдсэн цонхнууд эх цонхны session болон webPreferences тохиргоог авч ашиглахгүй байсан ноцтой алдааг зассан бөгөөд энэ засвар хуучин 42, 43, 45 хувилбаруудад мөн суусан байна.\n\nТүүнчлэн нэг хост руу зэрэгцэн хийгдсэн анхны хүсэлтүүд дээр setCertificateVerifyProc функц хааяа ажиллахгүй өнгөрдөг сүлжээний алдааг засварлажээ.",
+   "published": "2026-10-17T04:57:22Z",
+   "added": "2026-10-17T12:40:52Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "14842105a8e9957f",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Notebookcheck",
+   "url": "https://www.notebookcheck.net/Claude-Haiku-4-5-leaves-the-model-selector-on-October-29.1426214.0.html",
+   "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/claude-haiku-45-abschied-teaser.jpg",
+   "title": "Claude Haiku 4.5 leaves the model selector on October 29",
+   "summary_en": "Anthropic is removing Claude Haiku 4.5 from the model selector on October 29. The change affects the Free, Pro and Max plans in chat, Claude Cowork and Claude Design. Your old chats are kept, and Haiku 5.5 answers when you continue them. Here is who is exempt and what to check before the switch.",
+   "title_mn": "Claude Haiku 4.5 загвар 10-р сарын 29-нөөс сонголтоос хасагдана",
+   "summary_mn": "Anthropic 10-р сарын 29-нөөс Claude Haiku 4.5 хувилбарыг Free, Pro, Max багцуудын сонголтын цэснээс хасаж, Haiku 5.5 загвараар орлуулахаар боллоо. API болон Claude Code хэрэглэгчдэд энэ өөрчлөлт нөлөөлөхгүй.",
+   "body_mn": "Anthropic компани Claude чатын загвар сонгох цэснээс Claude Haiku 4.5 хувилбарыг 10-р сарын 29-нөөс эхлэн албан ёсоор хасахаар болсноо мэдэгдлээ. Түүний оронд 10-р сарын эхээр үнэгүй багцад гарсан шинэ Claude Haiku 5.5 загвар үндсэн сонголт болох юм.\n\nЭнэхүү өөрчлөлт нь Claude-ийн Free, Pro болон Max төлөвлөгөөний вэб, десктоп, мобайл апп дээрх чат, Claude Cowork, Claude Design зэрэг хэрэгслүүдэд хамаарна. Харин Team, Enterprise хэрэглэгчид болон Claude Code ашиглаж буй хөгжүүлэгчид өртөхгүй. Мөн Anthropic API-аар дамжуулан Haiku 4.5-ыг дуудаж байгаа системүүдэд ямар нэгэн өөрчлөлт орохгүй хэвийн ажиллана.\n\nХэрэглэгчдийн өмнө нь Haiku 4.5 дээр хийсэн хуучин чатууд хэвээр хадгалагдах бөгөөд 10-р сарын 29-нөөс хойш тухайн чатдаа үргэлжлүүлэн бичвэл шинэ Haiku 5.5 загвар хариулна. Хэрэв та Haiku 4.5 дээр тодорхой prompt, автоматжуулалт тогтмол ашигладаг бол уг хугацаанаас өмнө Haiku 5.5 дээр туршиж тохиргоогоо шалгахыг зөвлөж байна.",
+   "published": "2026-10-17T07:10:00Z",
+   "added": "2026-10-17T12:40:52Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
   }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "14842105a8e9957f",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Notebookcheck",
+ "url": "https://www.notebookcheck.net/Claude-Haiku-4-5-leaves-the-model-selector-on-October-29.1426214.0.html",
+ "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/claude-haiku-45-abschied-teaser.jpg",
+ "title": "Claude Haiku 4.5 leaves the model selector on October 29",
+ "summary_en": "Anthropic is removing Claude Haiku 4.5 from the model selector on October 29. The change affects the Free, Pro and Max plans in chat, Claude Cowork and Claude Design. Your old chats are kept, and Haiku 5.5 answers when you continue them. Here is who is exempt and what to check before the switch.",
+ "title_mn": "Claude Haiku 4.5 загвар 10-р сарын 29-нөөс сонголтоос хасагдана",
+ "summary_mn": "Anthropic 10-р сарын 29-нөөс Claude Haiku 4.5 хувилбарыг Free, Pro, Max багцуудын сонголтын цэснээс хасаж, Haiku 5.5 загвараар орлуулахаар боллоо. API болон Claude Code хэрэглэгчдэд энэ өөрчлөлт нөлөөлөхгүй.",
+ "body_mn": "Anthropic компани Claude чатын загвар сонгох цэснээс Claude Haiku 4.5 хувилбарыг 10-р сарын 29-нөөс эхлэн албан ёсоор хасахаар болсноо мэдэгдлээ. Түүний оронд 10-р сарын эхээр үнэгүй багцад гарсан шинэ Claude Haiku 5.5 загвар үндсэн сонголт болох юм.\n\nЭнэхүү өөрчлөлт нь Claude-ийн Free, Pro болон Max төлөвлөгөөний вэб, десктоп, мобайл апп дээрх чат, Claude Cowork, Claude Design зэрэг хэрэгслүүдэд хамаарна. Харин Team, Enterprise хэрэглэгчид болон Claude Code ашиглаж буй хөгжүүлэгчид өртөхгүй. Мөн Anthropic API-аар дамжуулан Haiku 4.5-ыг дуудаж байгаа системүүдэд ямар нэгэн өөрчлөлт орохгүй хэвийн ажиллана.\n\nХэрэглэгчдийн өмнө нь Haiku 4.5 дээр хийсэн хуучин чатууд хэвээр хадгалагдах бөгөөд 10-р сарын 29-нөөс хойш тухайн чатдаа үргэлжлүүлэн бичвэл шинэ Haiku 5.5 загвар хариулна. Хэрэв та Haiku 4.5 дээр тодорхой prompt, автоматжуулалт тогтмол ашигладаг бол уг хугацаанаас өмнө Haiku 5.5 дээр туршиж тохиргоогоо шалгахыг зөвлөж байна.",
+ "published": "2026-10-17T07:10:00Z",
+ "added": "2026-10-17T12:40:52Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

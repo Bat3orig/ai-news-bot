@@ -1,0 +1,17 @@
+{
+ "id": "5663347afc6bfbc4",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "MIXED Reality News",
+ "url": "https://mixed-news.com/en/claude-opus-5-5-fast-mode-out-of-research-preview-rate-limit/",
+ "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/1923f2edea23fb276f0a2eeee44b7d32446a0684-2400x1260-1.jpg",
+ "title": "Claude Opus 5.5 fast mode needs no access request, but falling back costs the cache",
+ "summary_en": "Anthropic has taken fast mode out of research preview on Claude Opus 5.5, so asking for it no longer needs an access request or a beta header. The release",
+ "title_mn": "Claude Opus 5.5 загварын fast mode хязгаарлалтгүй болж, нийтэд нээгдлээ",
+ "summary_mn": "Anthropic Claude Opus 5.5 загварын fast mode горимыг бүрэн нээж, Start, Build, Scale багцуудад анхдагчаар нэвтрүүллээ. Харин fast горимоос standard руу шилжих үед prompt cache ашиглагдахгүй болохыг анхааруулж байна.",
+ "body_mn": "Anthropic компани Claude Opus 5.5 загварынхаа fast mode горимыг туршилтын шатнаас (research preview) гаргаж, нийтэд нээлттэй болголоо. Ингэснээр хөгжүүлэгчид тус горимыг ашиглахын тулд тусгай хүсэлт илгээх эсвэл beta header заавал залгах шаардлагагүй болж, Start, Build, Scale хэрэглээний шатлалуудад анхдагчаар тохируулагдсан хурдны хязгаартайгаар ашиглах боломжтой болсон байна.\n\nШинэ хурдны хязгаар нь Opus-ийн ердийн хязгаараас тусдаа тооцогдох бөгөөд 429 алдаа ирэх үед retry-after толгой мэдээлэл хариу буцаана. Харин fast горимоос хязгаар давсны улмаас standard хурд руу буцан шилжих (fallback) тохиолдолд өмнөх prompt cache бүрэн цуцлагдаж (cache miss), кэшлэгдсэн урт контекстыг дахин эхнээс нь бүрэн үнээр тооцох эрсдэлтэйг Anthropic анхааруулжээ.\n\nFast mode горим нь загварын чадвар болон чанарт ямар ч өөрчлөлт оруулахгүйгээр секундын гаралтын токены хурдыг 2.5 дахин нэмэгдүүлдэг. Уг горимын үнэ 1 сая оролтын токенд $8, гаралтын токенд $40 хэвээр байгаа бөгөөд анх удаа Claude API-аас гадна Microsoft Foundry-ийн Azure байршуулалтад нэвтэрч эхэлжээ.",
+ "published": "2026-10-16T23:43:50Z",
+ "added": "2026-10-17T12:40:52Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

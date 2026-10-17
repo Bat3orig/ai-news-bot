@@ -1,0 +1,17 @@
+{
+ "id": "8a7ce5c1e7243f72",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v44.9.0",
+ "image": "https://opengraph.githubassets.com/6ee1c153632dd6f65ca20b12db6e5be4200c15a865690b22d515e923ec8b5757/electron/electron/releases/tag/v44.9.0",
+ "title": "electron v44.9.0",
+ "summary_en": "Release Notes for v44.9.0 Features Added app shims on macOS to show windows under another app's Dock icon. #55073 (Also in 45 ) Fixes Fixed link-opened windows not using the opener's session and webPreferences . #55048 (Also in 42 , 43 , 45 ) Fixed setCertificateVerifyProc occasionally not being applied to a request issued concurrently with the first request to a host. #55046 (Also in 42 , 43 , 45 )",
+ "title_mn": "Electron v44.9.0 хувилбар гарлаа",
+ "summary_mn": "Electron v44.9.0-д macOS-д зориулсан шинэ боломж нэмэгдэж, холбоосоор нээгдсэн цонхны session алдааг заслаа.",
+ "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн Electron фрэймворкийн v44.9.0 хувилбар гарлаа. Энэхүү хувилбараар macOS дээр бусад аппликейшны Dock дүрс дор цонх харуулах боломж олгодог app shims дэмжлэгийг нэмсэн байна.\n\nМөн холбоосоор нээгдсэн цонхнууд эх цонхны session болон webPreferences тохиргоог авч ашиглахгүй байсан ноцтой алдааг зассан бөгөөд энэ засвар хуучин 42, 43, 45 хувилбаруудад мөн суусан байна.\n\nТүүнчлэн нэг хост руу зэрэгцэн хийгдсэн анхны хүсэлтүүд дээр setCertificateVerifyProc функц хааяа ажиллахгүй өнгөрдөг сүлжээний алдааг засварлажээ.",
+ "published": "2026-10-17T04:57:22Z",
+ "added": "2026-10-17T12:40:52Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
