@@ -1,0 +1,17 @@
+{
+ "id": "02f6eed56c5ce6bc",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.32.0",
+ "image": "https://opengraph.githubassets.com/99271babdca3eb4de4b42ddbd85245417362c8e0c964a7add306491c710cf535/openai/openai-python/releases/tag/v3.32.0",
+ "title": "openai-python v3.32.0",
+ "summary_en": "3.32.0 (2026-10-16) Features api: add cache settings and key options [2/2] ( #4087 ) ( 325da45 ) api: add prompt-based voice creation ( #4091 ) ( 2e39db7 ) api: add regional processing residency options ( #4081 ) ( 21ce0c2 ) api: add response error diagnostics and model notices ( #4086 ) ( e71d781 ) api: support audio fixture playback in Live sessions ( #4085 ) ( 9998c1a ) api: support Decisions in Live sessions ( #4088 ) ( 230a923 ) Bug Fixes api: declare Realtime response error messages ( #4083 ) ( 95dbee9 ) Chores api: clarify Decisions request and response fields ( #4079 ) ( d42accb )…",
+ "title_mn": "openai-python v3.32.0 гарлаа: Prompt-д суурилсан хоолой үүсгэлт болон cache тохиргоо нэмэгдэв",
+ "summary_mn": "OpenAI-ийн Python сангийн 3.32.0 хувилбар гарч, кэшийн шинэ тохиргоонууд, prompt-оор дуу хоолой үүсгэх боломж болон бүс нутгийн өгөгдөл боловсруулалтын (residency) сонголтууд нэмэгдлээ.",
+ "body_mn": "OpenAI албан ёсны openai-python сангийнхаа v3.32.0 хувилбарыг нийтэллээ. Энэхүү хувилбараар хөгжүүлэгчдэд зориулсан хэд хэдэн чухал шинэ API тохиргоо болон боломжуудыг нэвтрүүлсэн байна.\n\nТухайлбал, хүсэлтийн cache тохиргоо болон түлхүүрийн сонголтуудыг нэмж өгсөн бөгөөд prompt бичиж дуу хоолой үүсгэх (prompt-based voice creation) шинэ API боломжтой болжээ. Түүнчлэн хууль эрх зүй, нууцлалын шаардлагад нийцүүлэн датаг тодорхой бүс нутагт боловсруулах regional processing residency тохиргоог нэмсэн байна.\n\nLive session-уудад зориулан Decisions боломж болон аудио fixture тоглуулах дэмжлэгийг оруулж, алдааны оношилгоо (error diagnostics) болон загварын мэдэгдлүүдийг харуулах болжээ. Мөн Realtime хариултын алдааны мэдэгдлүүдийг зассан байна.",
+ "published": "2026-10-16T20:17:26Z",
+ "added": "2026-10-17T08:56:54Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

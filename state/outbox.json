@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "ad09b0946a60b7ff",
-   "subtopic": "gemini",
-   "source": "Google DeepMind",
-   "source_label": "Google DeepMind",
-   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-   "image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w1200-h630-n-nu-rw",
-   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "summary_en": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-   "title_mn": "Google DeepMind шинэ пептид илрүүлэх судалгаанд Antigravity платформыг ашиглаж байна",
-   "summary_mn": "Google DeepMind антибиотикийн тэсвэржилтийн эсрэг үйлчлэх пептидийг илрүүлэхэд Google Antigravity агент дэд бүтэц болон ProtNLM загварыг туршиж буйгаа танилцууллаа.",
-   "body_mn": "Google DeepMind-ийн судлаачид бактерийн тэсвэржилтийн эсрэг шинэ пептид илрүүлэх явцыг хурдасгах зорилгоор өөрсдийн агент систем болох Google Antigravity платформыг ашиглаж буй туршлагаа нийтэллээ. Энэхүү платформ нь олон салангид мэдээллийн сан дахь хайлтыг нэг интерактив орчинд нэгтгэдэг.\n\nСудалгааны хүрээнд амин хүчлийн дарааллаас биологийн функцийг шууд таамаглах чадвартай ProtNLM (Protein Natural Language Model) гүн сургалтын загварыг ашиглан UniProt сан дахь олон сая бүртгэгдээгүй уургуудыг шинжилжээ.\n\nЭрдэмтэд Antigravity платформын тусламжтайгаар амьсгалын замын халдвар үүсгэгч Streptococcus pseudopneumoniae-ийн эсрэг идэвхтэй байх магадлалтай шинэ нэгдлийг амжилттай тооцоолж, лабораторийн бодит туршилтад шилжүүлсэн байна.",
-   "published": "2026-10-15T16:08:03Z",
-   "added": "2026-10-16T05:19:21Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c781df3ac224fed2",
-   "subtopic": "vibe-coding",
-   "source": "Builder.io Blog",
-   "source_label": "Builder.io Blog",
-   "url": "https://www.builder.io/blog/grokbot-review",
-   "image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/ca28bae71dec4d0db4a6d589dd1b244e?width=1200",
-   "title": "GrokBot is amazing. Here's why I stopped using it.",
-   "summary_en": "GrokBot helped me merge 78 PRs in a week. Then my bots burned $100 deciding they had nothing to tell me. Here's what always-on agents need instead.",
-   "title_mn": "GrokBot болон T3 Code ашиглан 78 PR нийлүүлсэн туршлага ба тулгарсан бэрхшээл",
-   "summary_mn": "Нэг дор 16 GrokBot агентыг ажлын тусгай чиглэлээр T3 Code-той холбон долоо хоногт 78 PR нэгтгэсэн боловч автомат хяналт болон зардлын томоохон хүндрэл гарчээ.",
-   "body_mn": "Хөгжүүлэгч нэгэн нийтлэлдээ GrokBot-ын 16 бие даасан агентыг GitHub, Bug, Inbox, Vault зэрэг тусдаа үүргээр ажиллуулж, долоо хоногт 78 pull request (PR) нийлүүлж амжсан сонирхолтой туршлагаа хуваалцжээ. Тэрээр үүний тулд орон нутгийн машинаасаа шууд Claude Code болон Codex ажиллуулдаг T3 Code аппликэйшнийг скриптээр дамжуулан GrokBot-ын webhook-тэй холбосон байна.\n\nЭнэхүү урсгалын хүрээнд PR-ийн код хянагдаж батлагдах үед тусгай GitHub бот нь код бичиж буй агент руу мэдээлж хоёрхон минутын дотор автоматаар нийлүүлэх зэрэг өндөр үр бүтээмжийг бий болгожээ. Мөн хувийн имэйл, төлөвлөгөөний ботууд өдөрт 3 удаа мэдээллээ нэгтгэн дарааллыг нь гаргаж өгдөг байсан нь шийдвэр гаргах ачааллыг бүрэн хөнгөвчилсөн байна.\n\nГэвч амралтын өдрүүдэд ботууд өөрсдөө идэвхжиж хоосон шалгалт хийсээр 100 ам.долларын зардлын хязгаарыг хэтрүүлж, систем бүхэлдээ гацсан байна. Түүнчлэн ботууд үүрэг авчихаад дараа нь мэдэгдэхгүй орхигдуулах, үйл явцын мэдээлэл гээгдэх зэрэг архитектурын түвшний сул талууд одоогийн байнгын ажиллагаатай агентуудад байсаар байгааг онцолжээ.",
-   "published": "2026-10-15T18:00:00Z",
-   "added": "2026-10-16T10:00:16Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "32165ee6af8945a5",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/g91SfQ7YxvtosiWacUxkg/47162ea17967b74890a6ef14a8c9fa78/rosalind-academic-plan-seo.png?w=1600&h=900&fit=fill",
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "summary_en": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-   "title_mn": "OpenAI судалгааны лабораториудад GPT-Rosalind загварыг үнэ төлбөргүй ашиглах хөтөлбөр зарлалаа",
-   "summary_mn": "OpenAI амьдралын ухааны тусгай чиглэлийн GPT-Rosalind загвар болон Workbench платформыг эрдэм шинжилгээний байгууллагуудад 12 сарын турш үнэгүй олгох Academic Plan-ийг танилцууллаа.",
-   "body_mn": "OpenAI компани анагаах, биологийн салбарын судалгааг дэмжих зорилгоор Rosalind Academic Plan хөтөлбөрийг зарлалаа. Шалгуурт тэнцсэн эрдэм шинжилгээний лабораториуд GPT-Rosalind загвар болон Rosalind Workbench хэрэгслийг 12 сар хүртэлх хугацаанд 30 хүртэлх хэрэглэгчийн эрхтэйгээр төлбөргүй ашиглах боломжтой болж байна.\n\nGPT-Rosalind нь хими, геномик, нойтон лабораторийн үйл ажиллагаанд зориулагдсан багаж хэрэгслүүдийг нэгтгэн ажиллах чадвартай, өндөр түвшний reasoning дээр суурилсан загвар юм. Хэрэглэгчид батлагдсан нэвтрэх эрх авснаар эм, уураг, пептидийн дизайн боловсруулах болон өвчний молекулын бүтцийг шинжлэх судалгаанд уг загварыг ашиглана.\n\nЭнэхүү академик хөтөлбөрийн хүрээнд илгээгдсэн судалгааны өгөгдлийг OpenAI үндсэн загваруудаа сургахад ашиглахгүй байх аюулгүй байдлын тохиргоотой бөгөөд арилжааны бусад бүх шилдэг загваруудыг ашиглах боломжийг хамтад нь багтаажээ.",
-   "published": "2026-10-15T19:00:00Z",
-   "added": "2026-10-16T10:00:16Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e333d72720c0c3c5",
-   "subtopic": "ai-devtools",
-   "source": "ollama/ollama",
-   "source_label": "ollama/ollama",
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5",
-   "image": "https://opengraph.githubassets.com/50e08577562f01dc2938165767d228422e7733298c7bdcfbca3e27fdb82b2a18/ollama/ollama/releases/tag/v0.40.5",
-   "title": "ollama v0.40.5",
-   "summary_en": "NVIDIA Nemotron 3.5 Super NVIDIA Nemotron 3.5 Super is a vision-language model for coding, reasoning, tool use, and document understanding. It pairs a 120B-parameter hybrid Mamba-2/Transformer mixture-of-experts backbone (12B active per token) with a C-RADIO vision encoder, and supports tool calling, an on/off thinking mode, and context up to 1M tokens. ollama run nemotron-3.5-super A compact sibling, Nemotron 3.5 Bolt , distills Super down to 74B parameters (9B active) tuned to fit a 24 GB NVIDIA GPU for everyday agentic tasks, with speculative decoding via its included drafter. What's…",
-   "title_mn": "Ollama v0.40.5 хувилбар NVIDIA Nemotron 3.5 Super загварыг дэмжлэгтэйгээр гарлаа",
-   "summary_mn": "Ollama v0.40.5 шинэчлэлтээр NVIDIA Nemotron 3.5 Super болон Bolt загваруудыг нэмж, үүлэн дэх шийдвэр гаргах загваруудыг дэмждэг боллоо. Мөн llama.cpp болон алдаа мэдээлэх хэсгийг сайжруулсан байна.",
-   "body_mn": "Ollama төсөл v0.40.5 хувилргаа гаргаснаа зарлалаа. Энэхүү шинэчлэлтээр NVIDIA Nemotron 3.5 Super болон түүний хөнгөн хувилбар болох Nemotron 3.5 Bolt загваруудыг албан ёсоор дэмждэг болсон нь хөгжүүлэгчдэд код бичих, логик боловсруулах болон агентлаг ажлуудыг хийхэд илүү өргөн боломж олгож байна.\n\nШинэ хувилбарт хөгжүүлэгчид ollama.com үүлэн үйлчилгээгээр дамжуулан clef:cloud болон clef-flash:cloud загваруудыг шууд ажиллуулах боломжтой болсон. Мөн OpenAI-тай нийцтэй Responses харилцан ярианы үеэр тохируулсан хэрэгслийн дуудлага алдаа гаргадаг байсныг засаж, үүлэн хандалт болон төлбөрийн алдааны мессежүүдийг илүү ойлгомжтой болгожээ.\n\nҮүнээс гадна llama.cpp болон MLX сангуудыг шинэчилж, Nemotron загваруудын ажиллах нөхцөлийг сайжруулсан байна. 24 GB NVIDIA GPU дээр ажиллах зориулалттай Bolt загвар болон 1M токен хүртэлх контекст дэмждэг Super загвар нь хиймэл оюуны хөгжүүлэлтийн хэрэгслүүдийг орон нутгийн болон үүлэн орчинд хослуулан ашиглахад чухал алхам болж байна.",
-   "published": "2026-10-15T19:18:39Z",
-   "added": "2026-10-16T10:00:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6d7836fe63a7cbe1",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.301",
-   "image": "https://opengraph.githubassets.com/320b6490de42374d99ccc5201a9e44d68b796444a013218ca10bea6e20c91cc9/anthropics/claude-code/releases/tag/v2.1.301",
-   "title": "claude-code v2.1.301",
-   "summary_en": "What's changed Added CLAUDE_CODE_RETRY_WATCHDOG_MAX_USAGE_LIMIT_WAIT_MS so unattended retry mode ( CLAUDE_CODE_RETRY_WATCHDOG ) ends a request at a usage limit that resets too far away instead of waiting Added OpenTelemetry tracing guidance to the claude-api skill, including setting up trace destinations with the ant CLI Added the % motion to vim mode: jump to the matching bracket, alone or with d/c/y Added rows to a mod's Input : a text field of several lines in the terminal, where Enter submits and Shift+Enter or a backslash before Enter starts a new line Added classifier_verdict and…",
-   "title_mn": "Claude Code v2.1.301 хувилбар OpenTelemetry болон vim горимын сайжруулалттай гарлаа",
-   "summary_mn": "Claude Code v2.1.301 шинэчлэлтээр OpenTelemetry tracing дэмжлэг, vim горимын сайжруулалт болон олон төрлийн алдаа засварыг хийжээ.",
-   "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ v2.1.301 хувилбарыг гаргалаа. Энэхүү шинэчлэлтээр хөгжүүлэгчдийн ажлын урсгалыг сайжруулах олон шинэ боломж болон алдаа засварууд багтсан байна.\n\nТухайлбал, claude-api skill дотор OpenTelemetry tracing удирдамжийг нэмж, ant CLI ашиглан ул мөр бүртгэх цэгүүдийг тохируулах боломжтой болжээ. Мөн vim горимд % хөдөлгөөнийг нэмсэн нь хаалтуудыг хооронд нь хялбар шилжих боломжийг олгож байна. Олон мөрт оролтын талбарт Enter товчоор илгээх ба Shift+Enter ашиглан шинэ мөр үүсгэх боломжтой болжээ.\n\nҮүнээс гадна worktree болон гишүүдийн санах ойн ашиглалт, загвар солих үеийн хүлээлттэй холбоотой олон алдаануудыг засварласан нь агентуудын тогтвортой байдлыг сайжруулж байна.",
-   "published": "2026-10-15T19:22:06Z",
-   "added": "2026-10-16T10:00:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0fb5cf8a26c77a05",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-   "image": "https://github.blog/wp-content/uploads/2026/10/645867806-878ea927-48c9-4765-a896-4a5f3d7b8f2e.jpg",
-   "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
-   "summary_en": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date…",
-   "title_mn": "GitHub Copilot сонгогдсон загваруудыг 11 дүгээр сард хасна",
-   "summary_mn": "GitHub Copilot 2026 оны 11 дүгээр сарын 16-наас эхлэн зарим хуучин загваруудыг дэмжихээ болихоо зарлалаа. Хөгжүүлэгчид ажлын урсгалаа шинэ загварууд руу шилжүүлэх шаардлагатай.",
-   "body_mn": "GitHub компаниас мэдэгдсэнээр, 2026 оны 11 дүгээр сарын 16-ны өдрөөс эхлэн GitHub Copilot-ын бүх орчинд зарим сонгогдсон загваруудын дэмжлэгийг зогсоохоор болжээ. Үүнд Copilot Chat, шууд засвар хийх болон агент горимууд хамрагдах ажээ.\n\nГэхдээ жилийн төлөвлөгөөтэй хувь хэрэглэгчдэд зориулж Claude Opus 4.8 загвар үргэлжлэн ашиглагдах бөгөөд энэхүү тацварлалт нь тэдэнд хамаарахгүй юм. Админууд болон хөгжүүлэгчид өөрсдийн ажлын урсгал, интеграциудаа дэмжигдсэн шинэ загварууд руу урьдчилан шилжүүлэх шаардлагатай.\n\nХэрэв глобал үндсэн тохиргоог унтраасан бол Copilot тохиргоо дахь загварын бодлогоор дамжуулан өөр хувилбаруудыг идэвхжүүлэх боломжтой байна. Энэхүү өөрчлөлт нь хөгжүүлэгчдийг илүү шинэ бөгөөд чадвартай загварууд руу шилжүүлэх зорилготой юм.",
-   "published": "2026-10-15T19:35:13Z",
-   "added": "2026-10-16T10:00:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0b1032acdbe2dabd",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Blog",
-   "source_label": "GitHub Blog",
-   "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
-   "image": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-12.28.43-PM.png",
-   "title": "The next developer interface is ambient intelligence",
-   "summary_en": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building.",
-   "title_mn": "Хөгжүүлэгчийн дараагийн интерфейс: Орчны хиймэл оюун ухаан",
-   "summary_mn": "Хиймэл оюуны хөгжил нь хөгжүүлэгчдийн багаж хэрэгсэлтэй харилцах харилцааг өөрчилж, орчны хиймэл оюун ухаан буюу ambient intelligence чиглэл рүү шилжүүлж байна.",
-   "body_mn": "Програм хангамжийн хөгжүүлэлтийн түүхэнд гарын үсэг, хулгана, засварлагч, терминал болон хөтөч нь үндсэн хэрэгсэл байсаар ирсэн. Гэвч хиймэл оюун ухаан энэ харилцааг үндсээр нь өөрчилж, хөгжүүлэгчдэд командаас илүү зорилгоо тодорхойлох боломжийг олгож байна.\n\nШинэ үеийн хөгжүүлэлтийн явцад GitHub Copilot болон бусад агентууд репозиторын контекстийг ойлгож, алдааг шалгаж, тест ажиллуулан pull request үүсгэх чадвартай болжээ. Энэ нь хөгжүүлэгчдээс техникийн командуудыг цээжлэх бус харин чиглэл тогтоох, хязгаарлалт тодорхойлох чадварыг илүү үнэ цэнэтэй болгож байна.\n\nЭнэхүү шилжилтийн хүрээнд Logitech компанитай хамтран бүтээсэн MX Keypad зэрэг төхөөрөмжүүд нь хөгжүүлэгчдэд физик товчлуураар дамжуулан хиймэл оюуны агентуудыг удирдах, контекстэд суурилсан ажлын урсгалыг хурдасгах боломжийг олгож байна.",
-   "published": "2026-10-15T19:39:27Z",
-   "added": "2026-10-16T10:00:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "64c0a04445160322",
-   "subtopic": "react-native",
-   "source": "Expo Changelog",
-   "source_label": "Expo Changelog",
-   "url": "https://expo.dev/changelog/sdk-58",
-   "image": "https://cdn.sanity.io/images/9r24npb8/production/ddd5bb6eddbd4b98cc546553c4aea8a8ad6be9ef-1800x1012.png?rect=0,34,1800,945&w=1200&h=630&fm=webp&q=80&auto=format",
-   "title": "Expo SDK 58",
-   "summary_en": "Learn about the changes and how to upgrade",
-   "title_mn": "Expo SDK 58 хувилбар iOS 27 болон React Native 0.88 дэмжлэгтэйгээр гарлаа",
-   "summary_mn": "Expo SDK 58 нь React Native 0.88 хувилбарыг багтаасан бөгөөд iOS 27 болон нугалардаг төхөөрөмжүүдийн шинэ боломжуудыг дэмждэг боллоо.",
-   "body_mn": "Expo баг өнөөдөр Expo SDK 58 хувилбар албан ёсоор гарсныг зарлалаа. Энэхүү шинэ хувилбар нь iOS 27 үйлдлийн системд зориулагдсан бөгөөд React Native 0.88 хувилбарыг ашиглаж байна.\n\nSDK 58 нь iOS 27-ийн scene-based амьдралын мөчлөг болон iPhone аппуудын хэмжээг өөрчлөх боломжийг бүрэн дэмждэг. Мөн нугалардаг төхөөрөмжүүдэд зориулсан шинэ expo-hinge багц нэмэгдсэн нь хөгжүүлэгчдэд нугалах өнцөг болон төхөөрөмжийн төлөвийг хянах боломж олгож байна. Expo UI дотор SwiftUI-ийн ArrangementView контейнерийг нэмжээ.\n\nШинэ expo-device-hub хөгжүүлэгчийн хэрэгслийн залгаас нь хөтөч дээрээс шууд iOS симулятор болон Android эмулятор руу хандах, хянах боломжийг бүрдүүлсэн байна. Хөгжүүлэгчид npx expo install expo-device-hub команчаар суулгаж ашиглах боломжтой.",
-   "published": "2026-10-15T20:00:00Z",
-   "added": "2026-10-16T10:00:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dd5760dd7903fdee",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Unite.AI",
-   "url": "https://www.unite.ai/anthropic-makes-code-review-for-claude-code-generally-available/",
-   "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-makes-code-review-for-claude-code-generally-available.jpg",
-   "title": "Anthropic Makes Code Review for Claude Code Generally Available",
-   "summary_en": "Anthropic made Code Review, the multi-agent pull-request review system for Claude Code, generally available to Claude Team and Enterprise organizations on October 15, 2026, and paired the launch with a promotional offer...",
-   "title_mn": "Anthropic Claude Code-д зориулсан Code Review системийг албан ёсоор гаргалаа",
-   "summary_mn": "Anthropic компани Claude Team болон Enterprise хэрэглэгчдэд зориулсан Code Review олон агентын pull-request шалгах системийг албан ёсоор нээлээ.",
-   "body_mn": "Anthropic компани Claude Code-д зориулсан pull-request шалгах олон агентын систем болох Code Review-г 2026 оны 10 дугаар сарын 15-ны өдрөөс эхлэн Claude Team болон Enterprise байгууллагуудад албан ёсоор нээлттэй болголоо. Шинэ бүтээгдэхүүнийг дэмжих зорилгоор эрх бүхий Enterprise байгууллагуудад хамгийн багадаа 10,000 ам.долларын шалгалтын эрх олгох урамшууллыг зарлажээ.\n\nТус компани судалгааны урьдчилсан хувилбарын үр дүнд үндэслэн Code Review-г илүү хурдан, чухал алдааг олж илрүүлэх чадвартай болгосноо онцоллоо. Ихэнх шалгалтууд өмнөхөөсөө 3 дахин хурдан буюу 6-10 минутын дотор дуусаж байгаа аж. Админууд репозитор бүрд Quick, Standard эсвэл Deep шалгалтын түвшнийг оноож өгөх боломжтой.\n\nCode Review нь Anthropic-ийн дэд бүтцэд дөрвөн үе шаттайгаар ажилладаг бөгөөд parallel байдлаар кодыг шалгаж, false positive үр дүнг шүүн ангилдаг. Энэхүү систем нь зөвхөн алдаа болон зөв байдалд анхаарлаа хандуулж, код нэгтгэх шийдвэрийг багт үлдээдэг байна. Үйлчилгээг ашиглахын тулд GitHub дээр байрлах репозитор болон Team эсвэл Enterprise төлөвлөгөө шаардлагатай.",
-   "published": "2026-10-15T20:31:02Z",
-   "added": "2026-10-16T10:00:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4e768f37b29957b9",
-   "subtopic": "nextjs",
-   "source": "vercel/next.js",
-   "source_label": "vercel/next.js",
-   "url": "https://github.com/vercel/next.js/releases/tag/v16.4.2",
-   "image": "https://opengraph.githubassets.com/60ada4117c99ea5e4961bd7aea8f6bd5a99ed201632c17377f4be1eb75ebdd0a/vercel/next.js/releases/tag/v16.4.2",
-   "title": "next.js v16.4.2",
-   "summary_en": "What's Changed [lts-active] turbo-tasks snapshot consistency fixes ( #99644 , #99732 , #99649 ) by @lukesandberg in #100002 [lts-active] Turbopack: backport Pages Router dev module graph chaining ( #98823 , #99910 , #100091 ) by @sokra in #100008 [lts-active] fix(next-code-frame): snap visible window to char boundaries by @lukesandberg in #100212 [lts-active] [turbopack] Fix two GC paths that leave half-torn-down dependency edges by @lukesandberg in #100209 [lts-active] Turbopack: Ignore realpath errors during module resolution, matching node's behavior by @lukesandberg in #100217…",
-   "title_mn": "Next.js v16.4.2 хувилбар гарч, Turbopack болон тогтвортой байдлын засваруудыг хийлээ",
-   "summary_mn": "Next.js v16.4.2 шинэчлэлтээр turbo-tasks тогтвортой байдал, Turbopack модуль графикийн холбоос болон бусад чухал алдаануудыг заслаа.",
-   "body_mn": "Vercel баг Next.js фрэймворкийн шинэ v16.4.2 хувилбарыг гаргалаа. Энэхүү хувилбар нь гол төлөв lts-active буюу идэвхтэй урт хугацааны дэмжлэгтэй хувилбаруудын тогтвортой байдал болон гүйцэтгэлийг сайжруулахад чиглэжээ.\n\nШинэчлэлтээр turbo-tasks snapshot-ийн тогтвортой байдлыг хангах засварууд хийгдсэн бөгөөд Turbopack ашиглан Pages Router хөгжүүлэлтийн модуль графикийн холбоосыг буцаан оруулсан байна. Мөн realpath алдааг үл тоомсорлох замаар Node.js-ийн зан төлөвтэй нийцүүлэх засваруудыг хийжээ.\n\nТүүнчлэн Turbopack сааталтай динамик импортын chunk-list мөргөлдөөнийг засаж, хөгжүүлэгчдэд илүү найдвартай ажиллах орчныг бүрдүүлсэн байна. Дэлгэрэнгүй өөрчлөлтүүдийг GitHub дахь албан ёсны хувилбарын тэмдэглэлээс харах боломжтой.",
-   "published": "2026-10-15T20:44:37Z",
-   "added": "2026-10-16T10:00:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "6b1f86ec858b3d94",
    "subtopic": "ai-devtools",
    "source": "openai/codex",
@@ -677,6 +477,86 @@
    "added": "2026-10-17T04:46:02Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7b0b9a1018f4cc9d",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/anthropic-says-claude-beat-best-published-quantum-circuit-designs/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-says-claude-beat-best-published-quantum-circuit-designs.jpg",
+   "title": "Anthropic Says Claude Beat Best Published Quantum Circuit Designs",
+   "summary_en": "In a research post published October 16, 2026, Anthropic reported that its Claude Mythos 5 model, working in a closed loop with an automated evaluator and largely on its own, designed quantum circuits that improve on the...",
+   "title_mn": "Claude Mythos 5 загвар квант хэлхээний шилдэг архитектуруудыг сайжруулж чаджээ",
+   "summary_mn": "Anthropic-ийн судалгаагаар Claude Mythos 5 загвар бие даан квант хэлхээ зохион бүтээж, өмнө нийтлэгдсэн шилдэг алгоритмуудын гүйцэтгэлийг үлэмж сайжруулсан байна. Энэ нь квант тооцооллын нөөцийн зарцуулалтыг эрс багасгажээ.",
+   "body_mn": "Anthropic судалгааны нийтлэлдээ Claude Mythos 5 загвар автомат үнэлгээний системтэй битүү циклээр ажиллаж, квант хэлхээний үндсэн найман алгоритмыг шинэчлэн боловсруулсан тухай мэдээллээ. Хүнээс хараат бус байдлаар гаргаж авсан эдгээр шийдлүүд нь шинжлэх ухааны өмнөх нийтлэлүүдэд бүртгэгдсэн түвшнээс зарим хэсэгтээ бүхэл бүтэн зэргээр давсан үр дүн үзүүлжээ.\n\nТуршилтыг Anthropic-ийн STEM хөтөлбөрийн хүрээнд Harvard их сургууль болон QuEra Computing-ийн эрдэмтэдтэй хамтран гүйцэтгэсэн бөгөөд 46 хуудас бүхий албан ёсны эрдэм шинжилгээний өгүүллийг arXiv санд нийтэлсэн байна. Загварын бүтээсэн шийдлүүд найман даалгаврын долоод нь шаардагдах кубит болон Toffoli логик хаалганы тоог мэдэгдэхүйц бууруулж чаджээ.\n\nКвант алгоритмууд нь тодорхой гаралттай байдаг тул ердийн компьютер дээр шалгахад хялбар бөгөөд загвар Python хэлээр хэлхээг бичиж, үр дүнгийн дагуу өөрөө засварлах зарчмаар ажилласан байна. Энэхүү судалгаа нь том хэлний загварууд квант тооцоолол, физик болон нарийн архитектурын инженерийн нарийн бодлогуудыг шийдвэрлэх өндөр чадвартайг харууллаа.",
+   "published": "2026-10-16T17:53:01Z",
+   "added": "2026-10-17T08:56:54Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ef84becf7c9d0543",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+   "image": "https://claude.dev/blog/solving-code-review-at-anthropic/og.png",
+   "title": "How the Claude Code team does code review",
+   "summary_en": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 338 # Comments: 312",
+   "title_mn": "Claude Code баг кодын шалгалтыг хэрхэн хийдэг вэ?",
+   "summary_mn": "Claude Code багийнхан хиймэл оюуны бичсэн их хэмжээний кодод зориулсан ревью хийх процесоо хуваалцлаа. Тэд хүний оролцоог хэмнэхийн тулд автоматжуулсан олон шатлалт шалгалтыг PR үүсгэхээс өмнө хийдэг болжээ.",
+   "body_mn": "Claude Code-ийн нийт кодын 90 орчим хувийг Claude өөрөө бичдэг бөгөөд Anthropic-ийн үндсэн репозиторт өдөрт 30,000 гаруй өөрчлөлт ордог байна. Ийм их хэмжээний өөрчлөлтийг хүн мөр бүрээр нь гараар шалгах боломжгүй тул тус баг кодын шалгалтын (code review) урсгалаа бүрэн шинэчилжээ.\n\nТэд өмнө нь код бичиж дууссаны дараа PR дээр хүн хүлээдэг байсан бүтцийг халж, кодыг бичих явцад нь алдааг засдаг тогтолцоо руу шилжүүлсэн байна. PR нээхээс өмнө тест, build болон визуал харьцуулалтыг Claude-д ажиллуулан шалгуулж, тусдаа subagent-аар diff-ийг хянуулдаг аж. Мөн алдаа хайх, diff-ийг хялбарчлах дотоод тусгай skill-үүдийг ажиллуулдаг байна.\n\nЭнэхүү шинэчлэлийн үр дүнд зургаагаас есдүгээр сарын хооронд нэгтгэгдсэн PR-ийн тоо 2 дахин өссөн ч буцаагдсан (revert) өөрчлөлтийн хувь 40 гаруй хувиар буурчээ. Тэдний зорилго бол ихэнх PR-ийг дээд тал нь нэг хүний зөвшөөрөлтэйгөөр, чанарын эрсдэл гаргалгүйгээр нэгтгэх явдал гэдгийг онцолсон байна.",
+   "published": "2026-10-16T19:04:47Z",
+   "added": "2026-10-17T08:56:54Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "02f6eed56c5ce6bc",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.32.0",
+   "image": "https://opengraph.githubassets.com/99271babdca3eb4de4b42ddbd85245417362c8e0c964a7add306491c710cf535/openai/openai-python/releases/tag/v3.32.0",
+   "title": "openai-python v3.32.0",
+   "summary_en": "3.32.0 (2026-10-16) Features api: add cache settings and key options [2/2] ( #4087 ) ( 325da45 ) api: add prompt-based voice creation ( #4091 ) ( 2e39db7 ) api: add regional processing residency options ( #4081 ) ( 21ce0c2 ) api: add response error diagnostics and model notices ( #4086 ) ( e71d781 ) api: support audio fixture playback in Live sessions ( #4085 ) ( 9998c1a ) api: support Decisions in Live sessions ( #4088 ) ( 230a923 ) Bug Fixes api: declare Realtime response error messages ( #4083 ) ( 95dbee9 ) Chores api: clarify Decisions request and response fields ( #4079 ) ( d42accb )…",
+   "title_mn": "openai-python v3.32.0 гарлаа: Prompt-д суурилсан хоолой үүсгэлт болон cache тохиргоо нэмэгдэв",
+   "summary_mn": "OpenAI-ийн Python сангийн 3.32.0 хувилбар гарч, кэшийн шинэ тохиргоонууд, prompt-оор дуу хоолой үүсгэх боломж болон бүс нутгийн өгөгдөл боловсруулалтын (residency) сонголтууд нэмэгдлээ.",
+   "body_mn": "OpenAI албан ёсны openai-python сангийнхаа v3.32.0 хувилбарыг нийтэллээ. Энэхүү хувилбараар хөгжүүлэгчдэд зориулсан хэд хэдэн чухал шинэ API тохиргоо болон боломжуудыг нэвтрүүлсэн байна.\n\nТухайлбал, хүсэлтийн cache тохиргоо болон түлхүүрийн сонголтуудыг нэмж өгсөн бөгөөд prompt бичиж дуу хоолой үүсгэх (prompt-based voice creation) шинэ API боломжтой болжээ. Түүнчлэн хууль эрх зүй, нууцлалын шаардлагад нийцүүлэн датаг тодорхой бүс нутагт боловсруулах regional processing residency тохиргоог нэмсэн байна.\n\nLive session-уудад зориулан Decisions боломж болон аудио fixture тоглуулах дэмжлэгийг оруулж, алдааны оношилгоо (error diagnostics) болон загварын мэдэгдлүүдийг харуулах болжээ. Мөн Realtime хариултын алдааны мэдэгдлүүдийг зассан байна.",
+   "published": "2026-10-16T20:17:26Z",
+   "added": "2026-10-17T08:56:54Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "31e9c13103518d0d",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
+   "image": "https://opengraph.githubassets.com/641b684b9ce7bce5b2dfe5e170f4946863eec5c5feecd047d2bb35fc8858c8e1/anthropics/claude-code/releases/tag/v2.1.302",
+   "title": "claude-code v2.1.302",
+   "summary_en": "What's changed Added CLAUDE_CODE_AUTO_MODE_MODEL to choose the model the client-side auto mode classifier uses; it does not change the model for server-side auto mode Added an Idle compaction row to /config for turning idle compaction off or back on; the notices shown after an idle compaction now say how to turn it off Added a notice to /design-sync and /design-login that standalone Claude Design (claude.ai/design) closes by December 14, 2026 Fixed a \"Prompt is too long\" error when stopping a turn while the conversation was being compacted Fixed requests failing with \"diagnostics: Extra…",
+   "title_mn": "claude-code v2.1.302 гарлаа: Санах ой болон кэшийн алдаануудыг засав",
+   "summary_mn": "Claude Code CLI хэрэгслийн 2.1.302 хувилбарт auto mode-ийн загварыг заах орчны хувьсагч нэмэгдэж, том зургийн файлуудаас үүдэлтэй санах ойн асуудал болон prompt cache алдагдах алдааг засжээ.",
+   "body_mn": "Anthropic компани өөрсдийн терминалын туслах claude-code хэрэгслийн v2.1.302 хувилбарыг гаргалаа. Шинэ хувилбарт хэрэглэгчийн талын auto mode ангилагчийн ашиглах загварыг сонгох CLAUDE_CODE_AUTO_MODE_MODEL орчны хувьсагчийг нэмсэн байна.\n\nМөн /config хэсэгт сул зогсолтын үеийн шахалтыг (idle compaction) унтраах, асаах тохиргоог оруулжээ. Томоохон засваруудаас дурдвал Read хэрэгсэл 128 MB-аас дээш хэмжээтэй зургийн файлыг бүхлээр нь санах ой руу дуудаж ачаалладаг байсныг зогсоосон ба сессийн дундуур нэмэгдсэн хэрэгслээс болж prompt cache miss үүсдэг асуудлыг шийдвэрлэсэн байна.\n\nҮүнээс гадна бие даасан Claude Design (claude.ai/design) үйлчилгээ 2026 оны 12-р сарын 14 гэхэд хаагдах тухай мэдэгдлийг /design-sync командад нэмж, Git worktree болон плагинуудын суулгацтай холбоотой алдаануудыг засжээ.",
+   "published": "2026-10-16T20:53:06Z",
+   "added": "2026-10-17T08:56:54Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
   }
  }
 ]

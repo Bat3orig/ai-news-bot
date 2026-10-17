@@ -1,0 +1,17 @@
+{
+ "id": "7b0b9a1018f4cc9d",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-says-claude-beat-best-published-quantum-circuit-designs/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-says-claude-beat-best-published-quantum-circuit-designs.jpg",
+ "title": "Anthropic Says Claude Beat Best Published Quantum Circuit Designs",
+ "summary_en": "In a research post published October 16, 2026, Anthropic reported that its Claude Mythos 5 model, working in a closed loop with an automated evaluator and largely on its own, designed quantum circuits that improve on the...",
+ "title_mn": "Claude Mythos 5 загвар квант хэлхээний шилдэг архитектуруудыг сайжруулж чаджээ",
+ "summary_mn": "Anthropic-ийн судалгаагаар Claude Mythos 5 загвар бие даан квант хэлхээ зохион бүтээж, өмнө нийтлэгдсэн шилдэг алгоритмуудын гүйцэтгэлийг үлэмж сайжруулсан байна. Энэ нь квант тооцооллын нөөцийн зарцуулалтыг эрс багасгажээ.",
+ "body_mn": "Anthropic судалгааны нийтлэлдээ Claude Mythos 5 загвар автомат үнэлгээний системтэй битүү циклээр ажиллаж, квант хэлхээний үндсэн найман алгоритмыг шинэчлэн боловсруулсан тухай мэдээллээ. Хүнээс хараат бус байдлаар гаргаж авсан эдгээр шийдлүүд нь шинжлэх ухааны өмнөх нийтлэлүүдэд бүртгэгдсэн түвшнээс зарим хэсэгтээ бүхэл бүтэн зэргээр давсан үр дүн үзүүлжээ.\n\nТуршилтыг Anthropic-ийн STEM хөтөлбөрийн хүрээнд Harvard их сургууль болон QuEra Computing-ийн эрдэмтэдтэй хамтран гүйцэтгэсэн бөгөөд 46 хуудас бүхий албан ёсны эрдэм шинжилгээний өгүүллийг arXiv санд нийтэлсэн байна. Загварын бүтээсэн шийдлүүд найман даалгаврын долоод нь шаардагдах кубит болон Toffoli логик хаалганы тоог мэдэгдэхүйц бууруулж чаджээ.\n\nКвант алгоритмууд нь тодорхой гаралттай байдаг тул ердийн компьютер дээр шалгахад хялбар бөгөөд загвар Python хэлээр хэлхээг бичиж, үр дүнгийн дагуу өөрөө засварлах зарчмаар ажилласан байна. Энэхүү судалгаа нь том хэлний загварууд квант тооцоолол, физик болон нарийн архитектурын инженерийн нарийн бодлогуудыг шийдвэрлэх өндөр чадвартайг харууллаа.",
+ "published": "2026-10-16T17:53:01Z",
+ "added": "2026-10-17T08:56:54Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

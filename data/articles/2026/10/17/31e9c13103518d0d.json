@@ -1,0 +1,17 @@
+{
+ "id": "31e9c13103518d0d",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
+ "image": "https://opengraph.githubassets.com/641b684b9ce7bce5b2dfe5e170f4946863eec5c5feecd047d2bb35fc8858c8e1/anthropics/claude-code/releases/tag/v2.1.302",
+ "title": "claude-code v2.1.302",
+ "summary_en": "What's changed Added CLAUDE_CODE_AUTO_MODE_MODEL to choose the model the client-side auto mode classifier uses; it does not change the model for server-side auto mode Added an Idle compaction row to /config for turning idle compaction off or back on; the notices shown after an idle compaction now say how to turn it off Added a notice to /design-sync and /design-login that standalone Claude Design (claude.ai/design) closes by December 14, 2026 Fixed a \"Prompt is too long\" error when stopping a turn while the conversation was being compacted Fixed requests failing with \"diagnostics: Extra…",
+ "title_mn": "claude-code v2.1.302 гарлаа: Санах ой болон кэшийн алдаануудыг засав",
+ "summary_mn": "Claude Code CLI хэрэгслийн 2.1.302 хувилбарт auto mode-ийн загварыг заах орчны хувьсагч нэмэгдэж, том зургийн файлуудаас үүдэлтэй санах ойн асуудал болон prompt cache алдагдах алдааг засжээ.",
+ "body_mn": "Anthropic компани өөрсдийн терминалын туслах claude-code хэрэгслийн v2.1.302 хувилбарыг гаргалаа. Шинэ хувилбарт хэрэглэгчийн талын auto mode ангилагчийн ашиглах загварыг сонгох CLAUDE_CODE_AUTO_MODE_MODEL орчны хувьсагчийг нэмсэн байна.\n\nМөн /config хэсэгт сул зогсолтын үеийн шахалтыг (idle compaction) унтраах, асаах тохиргоог оруулжээ. Томоохон засваруудаас дурдвал Read хэрэгсэл 128 MB-аас дээш хэмжээтэй зургийн файлыг бүхлээр нь санах ой руу дуудаж ачаалладаг байсныг зогсоосон ба сессийн дундуур нэмэгдсэн хэрэгслээс болж prompt cache miss үүсдэг асуудлыг шийдвэрлэсэн байна.\n\nҮүнээс гадна бие даасан Claude Design (claude.ai/design) үйлчилгээ 2026 оны 12-р сарын 14 гэхэд хаагдах тухай мэдэгдлийг /design-sync командад нэмж, Git worktree болон плагинуудын суулгацтай холбоотой алдаануудыг засжээ.",
+ "published": "2026-10-16T20:53:06Z",
+ "added": "2026-10-17T08:56:54Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
