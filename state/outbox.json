@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "556513437de83319",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7d24YNYo2l2J7stiK3KlNW/d8074dec98736975d0824c1d8636175c/BYOC_OG_4.png",
-   "title": "Bring Your Own Cloud on AWS is now generally available",
-   "summary_en": "Enterprise teams can now run Vercel Functions in their own AWS account with Bring Your Own Cloud (BYOC). With BYOC, your function code and execution stay inside your security and compliance boundary. Vercel continues to handle deployments, environments, routing, and static assets. During deployment, you provision functions in your AWS account and Vercel serves everything else. You keep control over function execution with your own IAM permissions, network access, and resource lifecycle policies. With BYOC, you can: Run Node.js and Python Vercel Functions in your AWS account Meet strict…",
-   "title_mn": "Bring Your Own Cloud on AWS үйлчилгээг албан ёсоор нээлээ",
-   "summary_mn": "Vercel Enterprise хэрэглэгчид өөрсдийн AWS дансанд Vercel Functions ажиллуулах Bring Your Own Cloud (BYOC) үйлчилгээг ашиглах боломжтой боллоо.",
-   "body_mn": "Vercel компани байгууллагын хэрэглэгчдэд зориулсан Bring Your Own Cloud (BYOC) үйлчилгээг AWS дээр албан ёсоор гаргалаа. Энэхүү боломжийн тусламжтайгаар хөгжүүлэгчид Vercel Functions кодыг өөрсдийн AWS данс дотор ажиллуулж, аюулгүй байдал болон стандартын шаардлагыг бүрэн хянах боломжтой болж байна.\n\nDeployment болон сүлжээний чиглүүлэлтийг Vercel хариуцах хэвээр үлдэх боловч функцийн гүйцэтгэл, IAM эрх болон resource lifecycle бодлогыг байгууллага өөрөө удирдах юм. Энэ нь Node.js болон Python функцийг VPC доторх дотоод системүүдтэйгээ хувийн байдлаар холбох өндөр ач холбогдолтой шийдэл юм.",
-   "published": "2026-10-15T00:00:00Z",
-   "added": "2026-10-15T19:56:58Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5e912850214f6deb",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
-   "image": "https://vercel.com/api/dynamic-og?title=Vercel%20Connect%20adds%20Enterprise-Managed%20Authorization&format=changelog",
-   "title": "Vercel Connect adds Enterprise-Managed Authorization",
-   "summary_en": "Vercel Connect now supports Enterprise-Managed Authorization (EMA) in public beta. Your apps and agents can access supported services on behalf of signed-in users without separate consent prompts for each service. Here's how access works: Admin-managed access: Administrators can grant or revoke access to supported services through the identity provider. Corporate sign-in: Users sign into your app with their corporate account through a compatible identity provider such as Okta . Scoped tokens: Your app requests the scopes it needs, and Connect handles token exchange, caching, and renewal…",
-   "title_mn": "Vercel Connect байгууллагын удирдлагатай эрхийн тохиргоог нэвтрүүллээ",
-   "summary_mn": "Vercel Connect систем Enterprise-Managed Authorization боломжийг нийтийн туршилтын хувилбараар гаргалаа. Хэрэглэгчид үйлчилгээ бүрд тусгайлан зөвшөөрөл өгөх шаардлагагүй болж, админууд нэгдсэн байдлаар эрх зохицуулна.",
-   "body_mn": "Vercel Connect систем Enterprise-Managed Authorization буюу EMA боломжийг нийтийн туршилтын горимоор (public beta) танилцууллаа. Энэхүү шинэчлэл нь байгууллагын аппликейшн болон хиймэл оюуны агентуудад нэвтэрсэн хэрэглэгчийн нэрийн өмнөөс гуравдагч үйлчилгээнүүдэд шууд хандах боломжийг олгож байгаа бөгөөд үйлчилгээ тус бүр дээр тусдаа зөвшөөрлийн цонх гаргах шаардлагагүй болжээ.\n\nСистемийн админууд Okta зэрэг нийцтэй таних тэмдэгтийн нийлүүлэгчээр (IdP) дамжуулан үйлчилгээний хандалтын эрхийг төвлөрсөн байдлаар олгох эсвэл цуцлах боломжтой. Хэрэглэгч корпорацын бүртгэлээрээ нэг л удаа нэвтрэхэд Connect нь токен солилцоо, кэшлэлт болон хугацаа сунгалтыг автоматаар хариуцах юм. Хандалт нь зөвхөн батлагдсан хамрах хүрээ (scope) болон хэрэглэгчийн одоогийн эрхээр хязгаарлагдана.\n\nТүүнчлэн энэхүү шинэ боломж нь Vercel Passport болон Cross-App Access (XAA)-ийг бүрэн дэмждэг. Үүний үр дүнд Model Context Protocol (MCP) серверийн токен хүсэх, тухайлбал нэвтэрсэн хэрэглэгчийн нэрээр Slack-ийн MCP сервертэй харьцах агентууд бүтээхэд authorization хийх үйл явц ихээхэн хялбар болж байна.",
-   "published": "2026-10-15T00:00:00Z",
-   "added": "2026-10-15T19:56:58Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b068768f7d654d48",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5Gkwe5QduUSkyqvMo1c2oX/cc3f1754799d0f7f6e3f5e9b17b91b29/vercel-connect-now-supports-mcp-event-subscriptions.png",
-   "title": "MCP Events support in Vercel Connect is now in public beta",
-   "summary_en": "Vercel Connect now supports MCP Events in public beta, allowing your apps and agents to subscribe to webhook events from compatible MCP servers. Build agents for tasks like summarizing new messages, reviewing newly created issues, or responding to document feedback. Connect creates subscriptions on the MCP server and renews them automatically as needed, verifying the server’s webhooks and forwarding events to your application using authenticated delivery. You can use the Connect SDK to subscribe to MCP events: type: embedded-entry-inline id: 4OcwkT5TX5v1h28r0qLS1C At your delivery endpoint…",
-   "title_mn": "Vercel Connect-д MCP Events дэмжлэг нийтийн туршилтаар орлоо",
-   "summary_mn": "Vercel Connect одоо MCP серверүүдээс ирэх webhook эвентүүдийг хүлээн авах MCP Events функцийг дэмжиж эхэллээ. Ингэснээр хөгжүүлэгчид эвентэд суурилсан бие даасан хиймэл оюуны агентууд хөгжүүлэх боломжтой болж байна.",
-   "body_mn": "Vercel компани Vercel Connect үйлчилгээндээ MCP Events боломжийг нийтийн туршилтаар нэвтрүүлснээ зарлалаа. Энэхүү шийдэл нь хөгжүүлэгчдэд нийцтэй Model Context Protocol (MCP) серверүүдээс webhook эвентүүдийг шууд хүлээн авч, бие даасан хиймэл оюуны агентууд угсрах боломж олгож байна. Жишээлбэл, шинэ мессеж хураангуйлах, шинээр үүссэн issue-г шалгах зэрэг даалгавруудыг автоматжуулах боломжтой.\n\nConnect нь MCP сервер дээрх эвент захиалгыг (subscription) үүсгэж, шаардлагатай үед автоматаар сунган, баталгаажуулсан хүргэлтээр аппликейшн рүү найдвартай дамжуулдаг. Хөгжүүлэгчид Connect SDK ашиглан эвентэд бүртгүүлэхээс гадна Next.js чиглүүлэлт (route) дээр ирж буй хүсэлтийн найдвартай байдлыг баталгаажуулах код бичихэд тун хялбар болжээ.\n\nМөн AI SDK-ийн эвент илрүүлэх болон бүртгүүлэх API-уудыг агентын хэрэгсэл (tools) болгон ашиглах боломж бүрдэж байна. Connect-ийн MCP Events адаптерийн тусламжтайгаар агентууд серверийн эвентүүдийг өөрсдөө илрүүлж, шаардлагатай эвент захиалгаа удирдах чадвартай болж байна.",
-   "published": "2026-10-15T00:00:00Z",
-   "added": "2026-10-15T19:56:58Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "48aecfc55260ed7a",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
-   "image": "https://vercel.com/api/dynamic-og?title=Python%20on%20Vercel%20is%20now%20generally%20available&format=changelog",
-   "title": "Python on Vercel is now generally available",
-   "summary_en": "Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the infrastructure so you can focus on your application: Automatic framework support: FastAPI, Flask, and Django applications are automatically recognized and configured, with framework-specific support for serving static assets through the Vercel CDN. Native Python runtime and tooling: Vercel runs CPython on…",
-   "title_mn": "Vercel дээрх Python орчин албан ёсоор бүрэн бэлэн боллоо",
-   "summary_mn": "Vercel тавцан дээр Python хэл албан ёсны анхдагч түвшний runtime болж, ерөнхий хэрэглээнд (GA) гарлаа. FastAPI, Flask, Django хүрээнүүдийг автоматаар таньж ажиллуулахаас гадна олон шинэ Python SDK дагалдаж байна.",
-   "body_mn": "Vercel платформ дээр Python хэлийг бүрэн дэмжсэн runtime ерөнхий хэрэглээнд (Generally Available) шилжлээ. Хөгжүүлэгчид одоо Python backend болон JavaScript frontend хосолсон бүтэн стек систем, API, хиймэл оюуны агентуудыг нэгдсэн хөгжүүлэлт болон байршуулалтын орчинд хялбар бүтээх боломжтой болж байна.\n\nСистем нь FastAPI, Flask, Django зэрэг түгээмэл хүрээнүүдийг автоматаар таньж тохируулан, статик файлуудыг Vercel CDN сүлжээгээр шууд түгээдэг. Дотооддоо Linux дээрх CPython орчин ажиллах бөгөөд сангуудын хамаарлыг удирдахдаа uv болон pyproject.toml хэрэгслийг дэмждэг. Түүнчлэн хүсэлтэд суурилсан өргөтгөлийг Fluid compute-ээр, урт хугацаанд үргэлжлэх ажлуудыг Vercel Daemons-оор гүйцэтгэх бүтэцтэй болжээ.\n\nҮүнээс гадна Python-д зориулсан төрөлхийн олон шинэ SDK гарсан байна. Үүнд AI SDK for Python (Beta), удаан үргэлжлэх ажлыг хянах Workflow SDK, арын процессуудад зориулсан Queues, Sandbox, Connect, Blob сангууд багтаж байна. Vercel Services-ийн тусламжтайгаар frontend болон FastAPI зэрэг backend-ийг нэг репозитороос нэгэн зэрэг байршуулж турших боломжтой.",
-   "published": "2026-10-15T00:00:00Z",
-   "added": "2026-10-15T19:56:58Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "eec953e7d057543b",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/69YLGxKpc3pTIH8tHrLFgo/51d3f9dc460bf3e7b1c4fdd7a4d757f1/image__104_.png",
-   "title": "TypeSafe AI's Jev 1.14 is now available on AI Gateway",
-   "summary_en": "Jev 1.14 from TypeSafe AI is now available on AI Gateway . Jev is a decision model for software. You pass it state and a set of questions, and it returns typed Choice, Score, and Boolean answers with probabilities instead of free-form text. It answers every question in one request, in parallel, for classification, routing, scoring, and automated verification. Jev 1.14 accepts images as part of the state, and has an experimental long-context mode for documents, logs, or conversation histories that are too long for a standard request. Use typesafe-ai/jev-1.14.0 as the model name. Image input…",
-   "title_mn": "TypeSafe AI-ийн Jev 1.14 шийдвэр гаргах загвар AI Gateway-д нэмэгдлээ",
-   "summary_mn": "Програм хангамжийн шийдвэр гаргалтад зориулагдсан Jev 1.14 загвар Vercel AI Gateway дээр ашиглахад бэлэн боллоо. Загвар нь чөлөөт текстийн оронд тодорхой хэв шинжит хариу өгдөг ба зураг, урт контекстийг дэмждэг болжээ.",
-   "body_mn": "TypeSafe AI компаниас хөгжүүлсэн Jev 1.14 шийдвэр гаргах загвар Vercel AI Gateway дээр албан ёсоор гарлаа. Энэхүү загвар нь энгийн текст үүсгэхийн оронд хөгжүүлэгчийн илгээсэн төлөв байдал болон асуултуудад магадлал бүхий Choice, Score, Boolean утгуудыг нэг хүсэлтээр параллель байдлаар буцаадаг онцлогтой.\n\nШинэ 1.14 хувилбар нь төлөв байдлын нэг хэсэг болгон зураг хүлээн авах чадвартай болсноос гадна баримт бичиг, серверийн лог зэрэг урт хэмжээний өгөгдлийг шалгахад зориулагдсан туршилтын урт контекст (long-context) горимтой болжээ. Хөгжүүлэгчид уг загварыг typesafe-ai/jev-1.14.0 нэрээр шууд дуудан ашиглах боломжтой.\n\nJev нь Zero Data Retention болон No Training тохиргоог дэмждэг тул дата нууцлалыг чанд хангадаг. Мөн AI Gateway-ийн бусад хэрэгслүүдтэй бүрэн нийцэж, хийсэн дуудлагууд нь лог бүртгэл, тусгай тайланд тусгагдаж, зардлын төсөвт автоматаар тооцогдоно.",
-   "published": "2026-10-15T00:00:00Z",
-   "added": "2026-10-15T19:56:58Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0bd2004fd0c4ddf0",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png",
-   "title": "Muse Spark Open now available on AI Gateway",
-   "summary_en": "Muse Spark Open from Meta is now available on AI Gateway. The open-weight reasoning model is designed for coding and agentic workflows, including multi-file refactoring, debugging, and understanding large codebases. Muse Spark Open supports text and image input with a 1M-token context window, allowing agents to work with code and screenshots in the same request. It is available with ZDR and no training, without creating separate provider accounts. Use meta/muse-spark-open as the model name across all API formats and coding agents. The model is available across the AI SDK , the…",
-   "title_mn": "Meta-ийн Muse Spark Open загвар Vercel AI Gateway дээр гарлаа",
-   "summary_mn": "Vercel компани Meta-ийн Muse Spark Open open-weight загварыг AI Gateway платформдоо нэмлээ. Тус загвар нь 1 сая токений контекст цонхтой бөгөөд кодчилол, агент workflow-д зориулагджээ.",
-   "body_mn": "Vercel өөрийн AI Gateway үйлчилгээндээ Meta компанийн гаргасан Muse Spark Open нээлттэй жинтэй (open-weight) загварыг албан ёсоор нэмснээ зарлалаа. Тус загвар нь олон файл дээр зэрэг refactoring хийх, кодын алдаа илрүүлэн дибаг хийх, том хэмжээний кодын санг шинжлэх зэрэг агент workflow болон кодчилолын нарийн даалгавруудад зориулагдан гарсан байна.\n\nMuse Spark Open нь текст болон зургийн оролтыг зэрэг хүлээн авдаг ба 1 сая токений контекст цонхтой тул хиймэл оюуны агентууд нэг хүсэлтээр эх код болон дэлгэцийн зургийг зэрэг боловсруулах бүрэн боломжтой. Мөн тусдаа провайдерын бүртгэл үүсгэх шаардлагагүй бөгөөд Zero Data Retention (ZDR) нөхцөлтэй тул өгөгдлийг сургалтад ашиглахгүйгээр найдвартай ажиллах боломжийг бүрдүүлжээ.\n\nХөгжүүлэгчид уг загварыг AI SDK болон OpenAI, Anthropic-тэй нийцтэй API-уудаар дамжуулан meta/muse-spark-open нэрээр шууд дуудах боломжтой. Түүнчлэн Vercel CLI-ийг шинэчилснээр Claude Code, Codex, Cursor зэрэг агент хэрэгслүүдэд холбон ашиглах боломж бүрдэж байна.",
-   "published": "2026-10-15T00:00:00Z",
-   "added": "2026-10-15T22:52:52Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "1bf1c0d676e846bd",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1BSi0cEKrRxN45GULUVQv3/21d346140aa8cfe1a5a6d0b50cbfbd58/oct-og-blog-bubbles_2x.png",
-   "title": "Open weight takes 71.5% of tokens and 23% of spend",
-   "summary_en": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August , and September . October 2026 summary Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their share of spend has more than quadrupled since June. September’s gateway spend was about 13 times December’s, while the…",
-   "title_mn": "Vercel: Нээлттэй загварууд AI Gateway-ийн токений 71.5 хувийг эзэлж байна",
-   "summary_mn": "Vercel-ийн 2026 оны 10-р сарын тайлангаар нээлттэй жинтэй загварууд нийт токений 71.5 хувь, зардлын 23 хувийг эзэлж, үйлдвэрлэлийн орчинд хэрэглээ нь эрчимтэй өсжээ.",
-   "body_mn": "Vercel компани AI Gateway үйлчилгээнийхээ 2026 оны 10-р сарын хэрэглээний тайланг (Production Index) танилцууллаа. Тайлангаас харахад нээлттэй жинтэй (open-weight) загварууд нийт боловсруулагдсан токений 71.5 хувийг эзэлж, нийт зардлын 23 хувийг бүрдүүлэх болсон байна. Өнгөрсөн зургадугаар сараас хойш нээлттэй загваруудын зардалд эзлэх хувь дөрөв дахин өсжээ.\n\nХямд өртөгтэй загварууд токений өсөлтийг тэргүүлж байгаа бол илүү үнэтэй, хүчин чадал сайтай open-weight загварууд зардлын өсөлтийг бий болгож байна. Тухайлбал, DeepSeek-v4.1-Flash дангаараа есдүгээр сарын нийт токений бараг тал хувийг боловсруулсан боловч зардлын дөнгөж 2.6 хувийг эзэлсэн бол Kimi K3 зэрэг илүү өндөр үнэтэй загварууд зардлын өсөлтийн гуравны хоёрыг бүрдүүлсэн байна.\n\nТайланд дурдсанаар есдүгээр сард хөгжүүлэгч багуудын бараг 50 хувь нь хамгийн их ашигладаг загвараа сольсон бол гуравны нэг нь үйлчилгээ үзүүлэгч лабаа өөрчилжээ. Энэ нь байгууллагууд нэг загвараас хараат бус болж, олон төрлийн загварыг уян хатан хослуулан ашиглах хандлагатай болсныг харуулж байна.",
-   "published": "2026-10-15T07:00:00Z",
-   "added": "2026-10-15T22:52:52Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8bf1faa17ca8b663",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2D9pUMCOfGFSvOXKqHNRMr/0ccd519c0c1cc88930d647269ab0edf9/image__112_.png",
-   "title": "Liquid AI's d1-ultra now available on AI Gateway",
-   "summary_en": "d1-ultra from Liquid AI is now available on AI Gateway. It is a multimodal decision model for classification, routing, and scoring across text and images, including visual defect inspection and checking damage claims against customer photos. Rather than generating text, d1-ultra returns structured answers with probabilities. Ask a Boolean question to get the probability of a yes/no answer, use Choice to select among named categories, or use Score to rate an ordered scale. You can ask multiple questions about the same input in one request and use the probabilities to decide when to automate…",
-   "title_mn": "Liquid AI-ийн шийдвэр гаргагч d1-ultra загвар Vercel AI Gateway-д нэмэгдлээ",
-   "summary_mn": "Vercel AI Gateway дээр Liquid AI компанийн текст болон зураг ангилах, үнэлэх зориулалттай multimodal шийдвэр гаргагч d1-ultra загвар гарлаа. Энэ загвар нь гаралт үүсгэхгүй зөвхөн магадлалын бүтэцтэй өгөгдөл буцаадаг.",
-   "body_mn": "Vercel-ийн AI Gateway платформ дээр Liquid AI-ийн шинэ multimodal шийдвэр гаргагч d1-ultra загвар албан ёсоор нэмэгдлээ. Энэ загвар нь ердийн текст үүсгэгч LLM-үүдээс ялгаатай нь текст болон зургийн оролтод ангилал хийх, чиглүүлэх (routing) болон эрсдэлийн үнэлгээ өгөх зориулалттай бөгөөд бүтцийн дагуу тооцоолсон магадлалын утгуудыг буцаадаг байна.\n\nХөгжүүлэгчид уг загвараас Boolean (тийм/үгүй магадлал), Choice (нэрлэсэн ангиллуудаас сонгох) эсвэл Score (тоосон үнэлгээ) хэлбэрээр нэг хүсэлтээр олон асуулт зэрэг асуух боломжтой. Загвар нь 32,768 токений контекст цонхтой бөгөөд зөвхөн оролтын токен болон зургийн зардлаар тооцогдож, гаралтын токений төлбөр авдаггүй онцлогтой.\n\nЗагварыг liquid/d1-ultra нэршлээр Vercel AI SDK, OpenAI-compatible Decisions API болон TypeSafe API-аар дамжуулан дуудах боломжтой. AI Gateway-ээр дамжуулсан дуудлагуудад платформ ямар нэг нэмэлт шимтгэл тооцдоггүй бөгөөд нэгдсэн хяналтын самбараас зардал, логуудыг шууд харах боломжийг олгож байна.",
-   "published": "2026-10-15T00:00:00Z",
-   "added": "2026-10-16T00:55:22Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5f9d5716f578b19c",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5yGRfkGbVtAvyU7cPYzKqD/9d7b7fb62541b96f219a76596b158452/Backends_Blog_Post_OG_2.png",
-   "title": "Backends on Vercel: Python, containers, and Daemons",
-   "summary_en": "Last year, we expanded zero-config support for Python and TypeScript backend frameworks. By this summer, developers could deploy their frontend and backend together with Vercel Services and coordinate background work with queues and durable workflows . Today at Vercel Ship in San Francisco , we are expanding the backend workloads you can run on Vercel. Python on Vercel is now generally available, container support in Vercel Functions enables custom runtimes and system libraries, and we are introducing Vercel Daemons in Public Beta for background workers that pull work and stay running…",
-   "title_mn": "Vercel бэкэнд хөгжүүлэлтийн боломжуудаа өргөтгөж Python, контейнер, Daemons-ийг зарлалаа",
-   "summary_mn": "Vercel Ship дээр Python ерөнхий хэрэглээнд нэвтэрч, Vercel Functions контейнер дэмждэг болсноос гадна тасралтгүй ажиллах арын процесс буюу Vercel Daemons бета хувилбараар гарлаа.",
-   "body_mn": "Сан-Францискод болсон Vercel Ship арга хэмжээний үеэр Vercel платформ бэкэнд чиглэлийн томоохон шинэчлэлтүүдийг зарлалаа. Үүнд Python дэмжлэгийн GA хувилбар, Vercel Functions дээрх контейнерийн дэмжлэг болон Vercel Daemons-ийн нээлттэй бета хувилбар багтаж байна.\n\nХөгжүүлэгчид FastAPI, Flask, Django зэрэг Python фрэймворкуудыг Vercel дээр уламжлалт CPython болон PyPI сангуудтайгаа хялбар ажиллуулах боломжтой боллоо. Мөн Python SDK-ийг ашиглан Blob, Queues, Workflows болон AI SDK-тэй бүрэн уялдан ажиллах боломж бүрдэж байна.\n\nКонтейнерийн дэмжлэг нэмэгдсэнээр ямар ч програмчлалын хэл дээрх аппликейшнийг шаардлагатай систем сангуудын хамт Fluid compute дээр байршуулах боломжтой болсон. Харин шинээр гарсан Vercel Daemons нь дараалал болон өгөгдлийн сангаас даалгавар татаж авч тасралтгүй боловсруулдаг арын үйлчилгээнүүдийг серверийн зогсолтгүй ажиллуулах нөхцөлийг хангаж байна.",
-   "published": "2026-10-15T07:00:00Z",
-   "added": "2026-10-16T05:19:21Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c5819c2654a4984e",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/introducing-token-pass",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1vf3f7hdDkZ5sDCuhS8YF8/29dce5ff73ace37d53142ac15c6038ec/image__16_.png",
-   "title": "Introducing Token Pass",
-   "summary_en": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , so you can choose your tools and switch between included models using your team’s shared credit. Token Pass has Zero Data Retention (ZDR) enabled by default. Requests run through selected providers with inference in the US and EU. AI Gateway and the provider delete your prompts…",
-   "title_mn": "Vercel Pro хэрэглэгчдэд зориулсан Token Pass захиалгыг танилцууллаа",
-   "summary_mn": "Vercel сар бүр 30 доллароор 80 долларын үнэ бүхий GLM 5.3 болон Kimi K3 загваруудын эрх олгох Token Pass үйлчилгээг Pro багуудад зориулан танилцууллаа.",
-   "body_mn": "Vercel компани Pro багуудад зориулсан AI загваруудын зардлыг хэмнэх Token Pass үйлчилгээний урьдчилсан хандалтыг (early access) зарлалаа. Хөгжүүлэгч багууд сард 30 доллар төлөөд GLM 5.3 болон Kimi K3 загваруудад ашиглах 80 долларын сарын кредит авах боломжтой болж байна.\n\nЭнэхүү үйлчилгээ нь AI Gateway-ээр дамжин ажилладаг бөгөөд fx, Command Code, Pi зэрэг код бичих агентууд эсвэл AI SDK ашиглан бүтээсэн хувийн агентуудтай шууд холбогдох боломжтой. Token Pass дээр Zero Data Retention (ZDR) горим анхдагчаар идэвхжсэн тул хэрэглэгчийн prompt өгөгдлийг загвар сургахад ашиглахгүй бөгөөд хүсэлт дуусмагц устгагдана.\n\nЗахиалгын кредит нь сар бүр шинэчлэгдэх бөгөөд ашиглаагүй үлдсэн эрх дараа сар руу шилжихгүй. Лимит дууссан тохиолдолд гэнэтийн нэмэлт төлбөр бодогдохгүйгээр дараагийн мөчлөг хүртэл түр зогсох зарчмаар ажиллана.",
-   "published": "2026-10-15T07:00:00Z",
-   "added": "2026-10-16T05:19:21Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "ad09b0946a60b7ff",
    "subtopic": "gemini",
    "source": "Google DeepMind",
@@ -777,6 +577,106 @@
    "added": "2026-10-17T00:04:50Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cf80280130ab47d4",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Defiant",
+   "url": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
+   "image": "https://cdn.sanity.io/images/6oftkxoa/production/65693db1236ff83e2954b3e8721da229bb5556b6-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
+   "title": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
+   "summary_en": "Anthropic says Claude reconstructed NIST elliptic-curve seed origins using a timestamp-seeded generator, without finding a weakness in the curves.",
+   "title_mn": "Claude NIST-ийн эллиптик муруйн эх үүсгэлийг 1990-ээд оны цагийн тэмдэглэгээтэй холбон тогтоов",
+   "summary_mn": "Anthropic-ийн мэдэгдсэнээр Claude загвар NIST эллиптик муруйн анхны утгуудыг цагийн тэмдэглэгээнд суурилсан генератор ашиглан сэргээсэн байна. Энэ нь муруйн аюулгүй байдлыг эвдээгүй ч криптографийн судалгаанд чухал ач холбогдолтой юм.",
+   "body_mn": "Anthropic компани өөрсдийн Claude загвар нь NIST-ийн алдартай эллиптик муруйн (elliptic curve) эхлэл утгуудыг (seeds) 1990-ээд оны цагийн тэмдэглэгээнээс (timestamp) үүссэн болохыг амжилттай тодорхойлж сэргээсэн тухай зарлалаа. Энэхүү судалгааны хүрээнд prime муруйн тав, binary муруйн дөрвөн утгыг хамарсан кодоо нийтэлжээ.\n\nСудлаачдын онцолсноор энэхүү ололт нь NIST эллиптик муруйн криптограф хамгаалалт, аюулгүй байдлыг эвдсэн хэрэг биш юм. Харин олон жилийн турш тодорхойгүй байсан санамсаргүй утгуудын үүслийг хиймэл оюуны тусламжтайгаар тайлж, бүрэн детерминистик аргаар дахин бүтээж болсныг харуулсан байна.\n\nКриптограф болон аюулгүй байдлын системүүдийг хөгжүүлэгчдийн хувьд энэ нь томоохон хэлний загварууд (LLM) код болон математикийн түүхэн өгөгдөлд гүнзгий задлан шинжилгээ хийж, нарийн учир холбогдлыг илрүүлэх боломжтойг баталсан сонирхолтой жишээ болж байна.",
+   "published": "2026-10-15T07:00:00Z",
+   "added": "2026-10-17T04:46:02Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b81a488a1b8178eb",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Wccftech",
+   "url": "https://wccftech.com/china-now-requires-an-export-license-for-all-new-large-ai-models-potentially-affecting-moonshots-unreleased-kimi-k3-1-as-taiwan-criminalizes-smuggling-of-advanced-chips-to-china/",
+   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/image_dbd2be16.jpg",
+   "title": "China To Require An Export License For All New Large AI Models, Potentially Affecting Moonshot’s Unreleased Kimi K3.1, As Taiwan Criminalizes Smuggling Of Advanced Chips To China",
+   "summary_en": "The adoption of Moonshot AI's Kimi 3.1 model might be affected, even though China's Ministry of Commerce assures of a streamlined process.",
+   "title_mn": "Хятад улс том AI загваруудад экспортын лиценз шаардахаар болсон нь Kimi K3.1-д нөлөөлж болзошгүй",
+   "summary_mn": "Хятад улс 2 их наядаас дээш параметр бүхий эсвэл тооцооллын өндөр босго давсан нээлттэй хиймэл оюуны загваруудад экспортын зөвшөөрөл олгохоор төлөвлөж байна. Энэ нь Moonshot AI-ийн удахгүй гаргах Kimi K3.1 загварт нөлөөлөх магадлалтай.",
+   "body_mn": "БНХАУ-ын Худалдааны яам (MOFCOM) мэдрэмтгий 23 технологийн экспортод лицензийн хяналт тогтоох шинэ дүрмийн төслийг танилцууллаа. Уг зохицуулалтаар 2 их наядаас дээш параметртэй эсвэл 10e26 FLOPS-оос дээш хүчин чадлаар сургагдсан шинэ нээлттэй жинтэй (open-weight) загваруудыг олон улсад нээлттэй гаргахаас өмнө төрийн зөвшөөрөл авах шаардлага тулгарч байна.\n\nЭнэхүү зохицуулалт нь Moonshot AI компанийн албан ёсоор танилцуулахаар бэлтгэж буй Kimi K3.1 загварын нээлтэд шууд нөлөөлөх магадлалтай боллоо. Өмнөх мэдээллүүдээс үзвэл Kimi K3.1 нь 2 их наядаас олон параметртэй, 1 сая хүртэлх токен бүхий context window, мөн олон агентийн горимыг (swarm agents) дэмжсэн хүчирхэг архитектуртай байх төлөвтэй байсан юм.\n\nТүүнчлэн Тайвань улс дэвшилтэт чип болон серверүүдийг Хятад руу хууль бусаар нийлүүлэх явдалд эрүүгийн хариуцлага хүлээлгэх шийдвэр гаргасантай энэ явдал давхцаж байна. Нээлттэй эхийн загварууд ашиглан аппликейшн бүтээдэг хөгжүүлэгчдийн хувьд Хятадын тэргүүлэх лабораториудын шинэ загваруудыг ашиглах, турших боломж зохицуулалтын улмаас саатаж болзошгүй болоод байна.",
+   "published": "2026-10-16T14:17:02Z",
+   "added": "2026-10-17T04:46:02Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6ca3e6ca1de99da1",
+   "subtopic": "gemini",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://starskirmish.com/bench/v0-2/",
+   "image": "https://starskirmish.com/assets/og.png",
+   "title": "Show HN: Gemini 4 Argon plays StarCraft",
+   "summary_en": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 199 # Comments: 90",
+   "title_mn": "StarSkirmish Bench: Gemini 4 Argon болон флагман загварууд StarCraft бот хөгжүүлэлтээр өрсөлдөв",
+   "summary_mn": "Нэг цагийн дотор StarCraft бот бичих StarSkirmish Bench v0.2 шалгуураар Gemini 4 Argon, GPT-6 Astra, Claude Opus зэрэг шилдэг LLM-үүдийг туршжээ. Хэдийгээр AI ботууд сайжирсан ч хүний бүтээсэн шилдэг ботуудыг гүйцэх болоогүй байна.",
+   "body_mn": "Хөгжүүлэгчдийн дунд танилцуулагдсан StarSkirmish Bench v0.2 тест нь хиймэл оюуны загваруудад нэг цагийн хугацаа өгч, StarCraft тоглоомын бот кодолж гаргах чадварыг шалгажээ. Загварууд C++ хэл болон BWAPI ашиглан Protoss төрлийн бот бичиж, бусад бэлэн ботууд болон хүний бичсэн шилдэг ботуудтай өрсөлдсөн байна.\n\nҮр дүнгээс харахад OpenAI-ийн GPT-6 Astra хамгийн өндөр оноог авсан бол түүний дараа GPT-6.1 Sol орсон байна. Харин Google-ийн шинэ Gemini 4 Argon, Claude Opus 5.5 болон Claude Fable 5.1 загварууд гуравдугаар байранд тун ойрхон үр дүнтэйгээр жагсжээ. Сонирхолтой нь Gemini 4 Argon-ий гүйцэтгэл гүйлтийн хооронд хамгийн их хэлбэлзэлтэй буюу 18 онооны зөрүүтэй байсныг судалгаанд тэмдэглэсэн байна.\n\nГэсэн хэдий ч хүний гараар чадварлаг бүтээгдсэн Stardust, BananaBrain зэрэг шилдэг ботуудыг загварууд бараг ялж чадаагүй бөгөөд тэргүүлэгч GPT-6 Astra дөнгөж 7 хувийн хожил авчээ. Энэхүү тест нь программ зохиох агентууд богино хугацаанд нарийн стратегитай код бичиж турших, алдаагаа засах бодит чадварыг хэмжих чухал жишиг болж байна.",
+   "published": "2026-10-16T14:18:44Z",
+   "added": "2026-10-17T04:46:02Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bda2999d2d0e0e2c",
+   "subtopic": "nextjs",
+   "source": "Next.js Blog",
+   "source_label": "Next.js Blog",
+   "url": "https://nextjs.org/blog/improving-navigation-experience-in-v0-with-nextjs-16-4",
+   "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/improving-navigation-experience-in-v0-with-nextjs-16-4/twitter-card.png",
+   "title": "Improving navigation experience in v0 with Next.js 16.4",
+   "summary_en": "How we used Partial Prefetching and a coding agent to improve navigation across v0 with Next.js 16.4.",
+   "title_mn": "Next.js 16.4 ашиглан v0 платформын шилжилтийн хурдыг сайжруулсан туршлага",
+   "summary_mn": "Vercel баг v0 платформын хуудас хоорондын шилжилтийг хурдасгахдаа Next.js 16.4 хувилбарын Partial Prefetching болон шинэ optimizer Skill-ийг хэрхэн ашигласнаа хуваалцлаа.",
+   "body_mn": "Vercel компани өөрсдийн v0 AI апп бүтээгч системийн хуудас хоорондын шилжилтийг улам бүр түргэн, SPA (Single Page Application) мэт жигд болгосон техникийн туршлагаа нийтэллээ. Өмнө нь хэрэглэгчид өмнө нээсэн хуудас руугаа буцах үед ачааллын skeleton хардаг байсан бол шинэ шийдлээр үүнийг бүрэн арилгасан байна.\n\nNext.js 16.4 хувилбараас эхлэн create-next-app нь Cache Components болон Partial Prefetching тохиргоог анхдагчаар идэвхжүүлдэг болсон билээ. Partial Prefetching нь тухайн чиглэлийн дахин ашиглагдах статик хэсгүүдийг товшихоос өмнө урьдчилан татаж бэлддэг бөгөөд dynamic агуулгыг шилжилтийн явцад ачаалдаг онцлогтой юм. Үүний үр дүнд сүлжээний илүүдэл хүсэлтүүдийг бууруулж, UI-ийн бэлэн байдлыг хангаж чадсан байна.\n\nТүүнчлэн энэхүү шилжилтийг автоматжуулахын тулд Playwright-ийн instant() тест шалгагч болон шинэ next-partial-prefetching-optimizer Skill-ийг AI агент дээр ажиллуулжээ. Агент нь урьдчилан татах UI бүрэн бэлэн болж тест давах хүртэл кодыг автоматаар өөрчилж, сайжруулалтыг бодит төсөлд нэвтрүүлсэн байна. Энэ нь Next.js ашиглан том хэмжээний веб апп хөгжүүлж буй багуудад бүтээмжээ нэмэх бодит заавар болж байна.",
+   "published": "2026-10-16T15:00:00Z",
+   "added": "2026-10-17T04:46:02Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c8c1b67b88b62da7",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Anthropic",
+   "url": "https://www.anthropic.com/research/employment-at-anthropic",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "title": "How employment is changing at Anthropic",
+   "summary_en": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+   "title_mn": "Anthropic дотоод судалгаагаа нийтлэв: AI агент ашигласнаар junior инженерүүдийн эрэлт буурчээ",
+   "summary_mn": "Anthropic байгууллагынхаа дотоод судалгааг танилцууллаа. AI агентууд хүний ажиллах цагаас 6 дахин их цаг ажиллаж байгаа бөгөөд шинэ залуу (junior) инженер ажилд авах үзүүлэлт 27%-иас 9% болж эрс буурсан байна.",
+   "body_mn": "Anthropic компани хиймэл оюуны өргөн хэрэглээ өөрсдийнх нь ажлын байр, бүтээмжид хэрхэн нөлөөлж буй талаарх дэлгэрэнгүй судалгааг нийтэллээ. Тус компанид AI агентууд Slack-д харилцаж, уулзалт товлох, алдаа засах зэрэг инженерингийн томоохон ажлуудыг бие даан гүйцэтгэж байгаа бөгөөд агентуудын ажилласан цаг хүний ажиллах цагаас 6 дахин их (6:1 харьцаатай) болжээ.\n\nСудалгааны үр дүнгээс үзэхэд код бичих агентуудыг нэвтрүүлснээр нийт ажилтнуудын бүтээмж огцом өссөн боловч анхан шатны (junior) техникийн ажилтнуудын эрэлт мэдэгдэхүйц буурсан байна. Техникийн хэлтсийн шинээр авч буй junior мэргэжилтнүүдийн эзлэх хувь 27%-иас 9% болж огцом унажээ. Код бичих, алдаа шалгах ажлыг Claude гүйцэтгэдэг болсон тул менежерүүд нарийн техникийн мэдлэг гэхээс илүү бие даасан байдал, дүн шинжилгээ хийх чадварыг чухалчлах болсон байна.\n\nМөн Anthropic өмнөх үеийн технологийн компаниудтай харьцуулахад нэг ажилтанд ногдох орлогоороо Meta болон Google-ээс 2-4 дахин өндөр байгааг тэмдэглэжээ. Байгууллагын удирдлагын зүгээс ажил эрхлэлтийн бүтцийн энэхүү эрс өөрчлөлтийг хянаж, ажилтнуудыг дотооддоо өөр үүрэгт шилжүүлэх урьдчилан сэргийлэх механизмыг туршиж эхэлсэн байна.",
+   "published": "2026-10-16T16:26:00Z",
+   "added": "2026-10-17T04:46:02Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
   }
  }
 ]

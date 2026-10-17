@@ -1,0 +1,17 @@
+{
+ "id": "b81a488a1b8178eb",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Wccftech",
+ "url": "https://wccftech.com/china-now-requires-an-export-license-for-all-new-large-ai-models-potentially-affecting-moonshots-unreleased-kimi-k3-1-as-taiwan-criminalizes-smuggling-of-advanced-chips-to-china/",
+ "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/image_dbd2be16.jpg",
+ "title": "China To Require An Export License For All New Large AI Models, Potentially Affecting Moonshot’s Unreleased Kimi K3.1, As Taiwan Criminalizes Smuggling Of Advanced Chips To China",
+ "summary_en": "The adoption of Moonshot AI's Kimi 3.1 model might be affected, even though China's Ministry of Commerce assures of a streamlined process.",
+ "title_mn": "Хятад улс том AI загваруудад экспортын лиценз шаардахаар болсон нь Kimi K3.1-д нөлөөлж болзошгүй",
+ "summary_mn": "Хятад улс 2 их наядаас дээш параметр бүхий эсвэл тооцооллын өндөр босго давсан нээлттэй хиймэл оюуны загваруудад экспортын зөвшөөрөл олгохоор төлөвлөж байна. Энэ нь Moonshot AI-ийн удахгүй гаргах Kimi K3.1 загварт нөлөөлөх магадлалтай.",
+ "body_mn": "БНХАУ-ын Худалдааны яам (MOFCOM) мэдрэмтгий 23 технологийн экспортод лицензийн хяналт тогтоох шинэ дүрмийн төслийг танилцууллаа. Уг зохицуулалтаар 2 их наядаас дээш параметртэй эсвэл 10e26 FLOPS-оос дээш хүчин чадлаар сургагдсан шинэ нээлттэй жинтэй (open-weight) загваруудыг олон улсад нээлттэй гаргахаас өмнө төрийн зөвшөөрөл авах шаардлага тулгарч байна.\n\nЭнэхүү зохицуулалт нь Moonshot AI компанийн албан ёсоор танилцуулахаар бэлтгэж буй Kimi K3.1 загварын нээлтэд шууд нөлөөлөх магадлалтай боллоо. Өмнөх мэдээллүүдээс үзвэл Kimi K3.1 нь 2 их наядаас олон параметртэй, 1 сая хүртэлх токен бүхий context window, мөн олон агентийн горимыг (swarm agents) дэмжсэн хүчирхэг архитектуртай байх төлөвтэй байсан юм.\n\nТүүнчлэн Тайвань улс дэвшилтэт чип болон серверүүдийг Хятад руу хууль бусаар нийлүүлэх явдалд эрүүгийн хариуцлага хүлээлгэх шийдвэр гаргасантай энэ явдал давхцаж байна. Нээлттэй эхийн загварууд ашиглан аппликейшн бүтээдэг хөгжүүлэгчдийн хувьд Хятадын тэргүүлэх лабораториудын шинэ загваруудыг ашиглах, турших боломж зохицуулалтын улмаас саатаж болзошгүй болоод байна.",
+ "published": "2026-10-16T14:17:02Z",
+ "added": "2026-10-17T04:46:02Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "cf80280130ab47d4",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Defiant",
+ "url": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
+ "image": "https://cdn.sanity.io/images/6oftkxoa/production/65693db1236ff83e2954b3e8721da229bb5556b6-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
+ "title": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
+ "summary_en": "Anthropic says Claude reconstructed NIST elliptic-curve seed origins using a timestamp-seeded generator, without finding a weakness in the curves.",
+ "title_mn": "Claude NIST-ийн эллиптик муруйн эх үүсгэлийг 1990-ээд оны цагийн тэмдэглэгээтэй холбон тогтоов",
+ "summary_mn": "Anthropic-ийн мэдэгдсэнээр Claude загвар NIST эллиптик муруйн анхны утгуудыг цагийн тэмдэглэгээнд суурилсан генератор ашиглан сэргээсэн байна. Энэ нь муруйн аюулгүй байдлыг эвдээгүй ч криптографийн судалгаанд чухал ач холбогдолтой юм.",
+ "body_mn": "Anthropic компани өөрсдийн Claude загвар нь NIST-ийн алдартай эллиптик муруйн (elliptic curve) эхлэл утгуудыг (seeds) 1990-ээд оны цагийн тэмдэглэгээнээс (timestamp) үүссэн болохыг амжилттай тодорхойлж сэргээсэн тухай зарлалаа. Энэхүү судалгааны хүрээнд prime муруйн тав, binary муруйн дөрвөн утгыг хамарсан кодоо нийтэлжээ.\n\nСудлаачдын онцолсноор энэхүү ололт нь NIST эллиптик муруйн криптограф хамгаалалт, аюулгүй байдлыг эвдсэн хэрэг биш юм. Харин олон жилийн турш тодорхойгүй байсан санамсаргүй утгуудын үүслийг хиймэл оюуны тусламжтайгаар тайлж, бүрэн детерминистик аргаар дахин бүтээж болсныг харуулсан байна.\n\nКриптограф болон аюулгүй байдлын системүүдийг хөгжүүлэгчдийн хувьд энэ нь томоохон хэлний загварууд (LLM) код болон математикийн түүхэн өгөгдөлд гүнзгий задлан шинжилгээ хийж, нарийн учир холбогдлыг илрүүлэх боломжтойг баталсан сонирхолтой жишээ болж байна.",
+ "published": "2026-10-15T07:00:00Z",
+ "added": "2026-10-17T04:46:02Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

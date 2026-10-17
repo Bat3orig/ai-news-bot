@@ -1,0 +1,17 @@
+{
+ "id": "6ca3e6ca1de99da1",
+ "subtopic": "gemini",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://starskirmish.com/bench/v0-2/",
+ "image": "https://starskirmish.com/assets/og.png",
+ "title": "Show HN: Gemini 4 Argon plays StarCraft",
+ "summary_en": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 199 # Comments: 90",
+ "title_mn": "StarSkirmish Bench: Gemini 4 Argon болон флагман загварууд StarCraft бот хөгжүүлэлтээр өрсөлдөв",
+ "summary_mn": "Нэг цагийн дотор StarCraft бот бичих StarSkirmish Bench v0.2 шалгуураар Gemini 4 Argon, GPT-6 Astra, Claude Opus зэрэг шилдэг LLM-үүдийг туршжээ. Хэдийгээр AI ботууд сайжирсан ч хүний бүтээсэн шилдэг ботуудыг гүйцэх болоогүй байна.",
+ "body_mn": "Хөгжүүлэгчдийн дунд танилцуулагдсан StarSkirmish Bench v0.2 тест нь хиймэл оюуны загваруудад нэг цагийн хугацаа өгч, StarCraft тоглоомын бот кодолж гаргах чадварыг шалгажээ. Загварууд C++ хэл болон BWAPI ашиглан Protoss төрлийн бот бичиж, бусад бэлэн ботууд болон хүний бичсэн шилдэг ботуудтай өрсөлдсөн байна.\n\nҮр дүнгээс харахад OpenAI-ийн GPT-6 Astra хамгийн өндөр оноог авсан бол түүний дараа GPT-6.1 Sol орсон байна. Харин Google-ийн шинэ Gemini 4 Argon, Claude Opus 5.5 болон Claude Fable 5.1 загварууд гуравдугаар байранд тун ойрхон үр дүнтэйгээр жагсжээ. Сонирхолтой нь Gemini 4 Argon-ий гүйцэтгэл гүйлтийн хооронд хамгийн их хэлбэлзэлтэй буюу 18 онооны зөрүүтэй байсныг судалгаанд тэмдэглэсэн байна.\n\nГэсэн хэдий ч хүний гараар чадварлаг бүтээгдсэн Stardust, BananaBrain зэрэг шилдэг ботуудыг загварууд бараг ялж чадаагүй бөгөөд тэргүүлэгч GPT-6 Astra дөнгөж 7 хувийн хожил авчээ. Энэхүү тест нь программ зохиох агентууд богино хугацаанд нарийн стратегитай код бичиж турших, алдаагаа засах бодит чадварыг хэмжих чухал жишиг болж байна.",
+ "published": "2026-10-16T14:18:44Z",
+ "added": "2026-10-17T04:46:02Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

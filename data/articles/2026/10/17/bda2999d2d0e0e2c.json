@@ -1,0 +1,17 @@
+{
+ "id": "bda2999d2d0e0e2c",
+ "subtopic": "nextjs",
+ "source": "Next.js Blog",
+ "source_label": "Next.js Blog",
+ "url": "https://nextjs.org/blog/improving-navigation-experience-in-v0-with-nextjs-16-4",
+ "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/improving-navigation-experience-in-v0-with-nextjs-16-4/twitter-card.png",
+ "title": "Improving navigation experience in v0 with Next.js 16.4",
+ "summary_en": "How we used Partial Prefetching and a coding agent to improve navigation across v0 with Next.js 16.4.",
+ "title_mn": "Next.js 16.4 ашиглан v0 платформын шилжилтийн хурдыг сайжруулсан туршлага",
+ "summary_mn": "Vercel баг v0 платформын хуудас хоорондын шилжилтийг хурдасгахдаа Next.js 16.4 хувилбарын Partial Prefetching болон шинэ optimizer Skill-ийг хэрхэн ашигласнаа хуваалцлаа.",
+ "body_mn": "Vercel компани өөрсдийн v0 AI апп бүтээгч системийн хуудас хоорондын шилжилтийг улам бүр түргэн, SPA (Single Page Application) мэт жигд болгосон техникийн туршлагаа нийтэллээ. Өмнө нь хэрэглэгчид өмнө нээсэн хуудас руугаа буцах үед ачааллын skeleton хардаг байсан бол шинэ шийдлээр үүнийг бүрэн арилгасан байна.\n\nNext.js 16.4 хувилбараас эхлэн create-next-app нь Cache Components болон Partial Prefetching тохиргоог анхдагчаар идэвхжүүлдэг болсон билээ. Partial Prefetching нь тухайн чиглэлийн дахин ашиглагдах статик хэсгүүдийг товшихоос өмнө урьдчилан татаж бэлддэг бөгөөд dynamic агуулгыг шилжилтийн явцад ачаалдаг онцлогтой юм. Үүний үр дүнд сүлжээний илүүдэл хүсэлтүүдийг бууруулж, UI-ийн бэлэн байдлыг хангаж чадсан байна.\n\nТүүнчлэн энэхүү шилжилтийг автоматжуулахын тулд Playwright-ийн instant() тест шалгагч болон шинэ next-partial-prefetching-optimizer Skill-ийг AI агент дээр ажиллуулжээ. Агент нь урьдчилан татах UI бүрэн бэлэн болж тест давах хүртэл кодыг автоматаар өөрчилж, сайжруулалтыг бодит төсөлд нэвтрүүлсэн байна. Энэ нь Next.js ашиглан том хэмжээний веб апп хөгжүүлж буй багуудад бүтээмжээ нэмэх бодит заавар болж байна.",
+ "published": "2026-10-16T15:00:00Z",
+ "added": "2026-10-17T04:46:02Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
