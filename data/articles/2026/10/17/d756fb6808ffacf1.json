@@ -1,0 +1,17 @@
+{
+ "id": "d756fb6808ffacf1",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Intelligent Living",
+ "url": "https://www.intelligentliving.co/muse-spark-open-vs-kimi-k3-five-points/",
+ "image": "https://www.intelligentliving.co/wp-content/uploads/2026/10/muse-spark-open-vs-kimi-k3-size-gap.jpg",
+ "title": "Muse Spark Open vs Kimi K3: Five Points Smarter, Three Times the Cost",
+ "summary_en": "Muse Spark Open vs Kimi K3: the US model scores 39 to Kimi's 44 but costs less than half as much to run and is 2.5x faster.",
+ "title_mn": "Muse Spark Open болон Kimi K3: Нээлттэй том загваруудын харьцуулалт",
+ "summary_mn": "Meta-ийн 816 тэрбум параметртэй шинэ Muse Spark Open загварыг Moonshot AI-ийн 2.8 их наяд параметртэй Kimi K3 загвартай харьцуулжээ. Kimi K3 нь ерөнхий чадварын индексээр тэргүүлж байгаа бол Muse Spark Open нь агентын багаж ашиглалт болон хурд, өртгийн хувьд давуу талтай байна.",
+ "body_mn": "Meta компани 816 тэрбум параметртэй Muse Spark Open нээлттэй жинтэй загвараа танилцуулснаар Moonshot AI-ийн Kimi K3 загвартай шууд өрсөлдөх боллоо. Artificial Analysis-ийн үнэлгээгээр Kimi K3 нь чадварын оноогоор Muse Spark Open-оос илүү гарч байгаа хэдий ч загваруудын хэмжээ болон зориулалт харилцан адилгүй байна.\n\nMoonshot AI-ийн Kimi K3 нь 2.8 их наяд параметртэй бөгөөд урт дараалалтай өгөгдөл, кодчилол болон гүнзгий эргэцүүлэл хийхэд зориулсан том бүтэцтэй юм. Харин Meta-ийн Muse Spark Open нь харьцангуй авсаархан MoE архитектуртай бөгөөд хөгжүүлэгчид өөрсдөө сервер дээрээ ажиллуулах, fine-tune хийхэд тохиромжтой, илүү хурдан бөгөөд ажиллах зардал багатайгаараа ялгарч байна.\n\nТүүнчлэн Muse Spark Open нь агент түвшний багаж ашиглах даалгавар дээр илүү сайн гүйцэтгэл үзүүлж, хийсвэрлэх магадлал бага байгааг харьцуулалт харуулжээ. Гэхдээ эдгээр нээлттэй загваруудын аль аль нь Claude Opus зэрэг салбартаа тэргүүлэгч хаалттай загваруудын түвшинд хараахан хүрээгүй байна.",
+ "published": "2026-10-16T05:30:49Z",
+ "added": "2026-10-17T00:04:50Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
