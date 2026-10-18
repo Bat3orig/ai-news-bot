@@ -1,0 +1,17 @@
+{
+ "id": "a3fd88c8bf2b98d8",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/mixelpixx/Konnect",
+ "image": "https://opengraph.githubassets.com/25cf1a72f5d25c8addb65eb90afba16650915d68a0259468de7562fdcd4fed5c/mixelpixx/Konnect",
+ "title": "mixelpixx/Konnect",
+ "summary_en": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing Konnect *BETA Release AI-assisted PCB design for KiCAD 10. Konnect is a native KiCAD plugin — a single Rust binary — that lets Claude and other AI assistants design schematics and PCBs through the Model Context Protocol (MCP). 228 tools across 21 on-demand toolsets. Schematic capture, PCB layout and routing, ERC/DRC, design-review audits, JLCPCB part search, reference circuits, and a…",
+ "title_mn": "mixelpixx/Konnect: KiCAD 10-д зориулсан AI туслахтай PCB дизайн хийх хэрэгсэл",
+ "summary_mn": "Konnect нь KiCAD 10-д зориулсан Rust хэлээр бичигдсэн тогтмол хоёртын файл бөгөөд Claude болон AI агентуудад MCP ашиглан PCB дизайн хийх боломж олгодог.",
+ "body_mn": "mixelpixx/Konnect нь KiCAD 10 программ хангамжид зориулсан Model Context Protocol (MCP) ашиглан Claude болон бусад AI туслахуудад схем болон PCB дизайн хийх боломжийг олгодог Rust хэлээр бичигдсэн плагин юм.\n\nУг төсөл нь өмнөх KiCAD-MCP-Server төслийн сул талуудыг засаж, олон хэл хоорондын холболт, subprocess болон SWIG хамаарлуудыг арилган нэг л статик бинар файл хэлбэрээр ажиллахаар бүтээгджээ. Ингэснээр хэрэгсэл нь илүү хурдан суулгагдаж, KiCAD 10-ын албан ёсны IPC API-тай шууд холбогддог.\n\nЭнэхүү хэрэгсэл нь 228 гаруй хэрэгслийг багтаасан бөгөөд схем зурах, байршил тогтоох, дизайн шалгах, JLCPCB эд анги хайх зэрэг олон үйлдлийг AI тусламжтайгаар автоматжуулах боломжийг инженерүүдэд олгож байна.",
+ "published": "2026-10-18T06:13:15Z",
+ "added": "2026-10-18T06:13:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

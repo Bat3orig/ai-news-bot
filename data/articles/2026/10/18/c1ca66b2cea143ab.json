@@ -1,0 +1,17 @@
+{
+ "id": "c1ca66b2cea143ab",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+ "image": "https://opengraph.githubassets.com/cb3b53cbb7c833162b3ebd04a380b6b0f8de2aad2f8fc7f267a0cb5e1fe9c9c1/The-Swarm-Corporation/AutoHedge",
+ "title": "The-Swarm-Corporation/AutoHedge",
+ "summary_en": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. https://swarms.xyz/ AutoHedge AutoHedge is an enterprise-grade autonomous agent hedge fund that trades on your behalf. It combines swarm intelligence and specialized AI agents to perform end-to-end market analysis, risk management, and execution with minimal human intervention. Current support: Full autonomous trading on Solana. Coming soon: Coinbase and additional exchanges. Overview AutoHedge is built to be the…",
+ "title_mn": "The-Swarm-Corporation/AutoHedge: Бие даасан агентуудын санхүүгийн арилжааны систем",
+ "summary_mn": "AutoHedge нь Solana блокчэйн дээр зах зээлийн шинжилгээ, эрсдэлийн удирдлага, захиалга гүйцэтгэлийг бие даан гүйцэтгэх AI агентуудын платформ юм.",
+ "body_mn": "The-Swarm-Corporation/AutoHedge нь байгууллагын түвшний найдвартай ажиллагаатай, бие даасан агентуудад суурилсан хөрөнгө оруулалтын сангийн систем юм. Систем нь олон агент бүхий архитектурыг ашиглан зах зээлийн бодит цагийн шинжилгээ хийж, арилжааны стратеги боловсруулдаг.\n\nОдоогоор Solana сүлжээг бүрэн дэмжиж ажилладаг бөгөөд удахгүй Coinbase болон бусад биржүүдийг нэмэхээр төлөвлөжээ. Платформ нь арилжааны шийдвэр гаргахаас өмнө эрсдэлийг тооцоолох, бүтэцлэгдсэн JSON форматаар тайлан гаргах боломжтой.\n\nМодульчлагдсан архитектуртай тул хөгжүүлэгчид өөрсдийн хүссэн стратеги болон шинэ биржүүдийг хялбархан холбох боломжтой юм. AI агентуудын тусламжтайгаар зах зээлийн судалгааг автоматжуулах хүсэлтэй хөгжүүлэгчдэд зориулагдсан.",
+ "published": "2026-10-18T06:13:15Z",
+ "added": "2026-10-18T06:13:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

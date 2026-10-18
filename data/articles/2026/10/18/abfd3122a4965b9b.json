@@ -1,0 +1,17 @@
+{
+ "id": "abfd3122a4965b9b",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/openai/codex/issues/25921",
+ "image": "https://opengraph.githubassets.com/57b2b53056cde9bbb9f0e59bee1dc021ac104165d9cc514b7c45c0a395b404c0/openai/codex/issues/25921",
+ "title": "Codex Desktop continuously generates Crashpad pending dumps",
+ "summary_en": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 115 # Comments: 41",
+ "title_mn": "Codex Desktop апп алдааны дамп файлуудаар дискийг дүүргэдэг асуудал илэрлээ",
+ "summary_mn": "Codex Desktop хөгжүүлэгчийн хэрэгсэл хэвийн ажиллаж байх үедээ ард нь Crashpad дамп файлуудыг зогсолтгүй үүсгэж, дискний хэмжээг хэдэн арван гигабайтаар дүүргэж буйг хэрэглэгчид илрүүлжээ.",
+ "body_mn": "OpenAI-ийн Codex Desktop аппликэйшнийг ашиглаж буй хөгжүүлэгчид системийн диск нь тодорхойгүй шалтгаанаар хурдацтай дүүрч буй алдааг Hacker News дээр хэлэлцэж эхэллээ. Шалгалтаар апп доторх Crashpad механизм хязгааргүйгээр dmp болон sidecar.json файлуудыг тасралтгүй бичиж байгаа нь тогтоогджээ.\n\nНэг хэрэглэгчийн тохиолдолд уг хавтас ганц хоногийн дотор 54 мянга гаруй файл, 4.9 ГБ хэмжээтэй болсон бол өөр нэг хөгжүүлэгчийн машин дээр 59 ГБ хүрч үйлдлийн системийн файлын хязгаарт тулсан байна. Хамгийн ноцтой нь аппликэйшн өөрөө гацаагүй, хэвийн ажиллаж байх үед ч ард нь browser_crashpad_handler процесс зогсолтгүй алдааны тайлан бичсээр байжээ.\n\nАлдаа нь Chromium дээр суурилсан Browser Use модулийн дахин эхлүүлэх гогцооноос үүдэлтэй байх магадлалтай байна. Одоогоор түр хугацаанд pending хавтсыг цэвэрлэх боломжтой ч хөтөч дахин ажиллах үед файл үүсгэх процесс дахин идэвхжиж байгаа тул OpenAI-аас яаралтай засвар гаргах шаардлагатай болоод байна.",
+ "published": "2026-10-17T17:45:08Z",
+ "added": "2026-10-18T06:13:15Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

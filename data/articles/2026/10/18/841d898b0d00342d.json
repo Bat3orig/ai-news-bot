@@ -1,0 +1,17 @@
+{
+ "id": "841d898b0d00342d",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+ "image": "https://opengraph.githubassets.com/c38fc610f3df12b368dd9cb4bf37c8264756cb35e9a1a42c9ccca46628c218d3/bmad-code-org/BMAD-METHOD",
+ "title": "bmad-code-org/BMAD-METHOD",
+ "summary_en": "Breakthrough Method for Agile Ai Driven Development Agile Ai Driven Development — turn an idea or change request into working software without giving up the thinking. Ai Driven Development (AiDD) covers the whole effort, not only the code: what to build, how it holds together, and how it changes as you learn. BMad Method is the agile way to do it — decisions stay explicit, context carries forward, and the process sizes itself to the work. Small changes go straight to build. Complex work gets the depth it needs. The same method covers a weekend prototype and a system with years of history…",
+ "title_mn": "bmad-code-org/BMAD-METHOD: AI-д суурилсан хөгжүүлэлтийн арга зүйн хэрэгсэл",
+ "summary_mn": "BMad Method нь санааг ажиллах чадвартай программ хангамж болгон хувиргах уян хатан, AI төвтэй хөгжүүлэлтийн арга зүй болон skill удирдлагын систем юм.",
+ "body_mn": "bmad-code-org/BMAD-METHOD нь програм хангамж хөгжүүлэлтийн явцад код бичихээс гадна юу бүтээх, архитектур нь хэрхэн холбогдохыг удирдах уян хатан арга зүйг санал болгодог. Энэ нь жижиг прототипээс эхлээд олон жилийн түүхтэй том системүүдэд ч адилхан ашиглагдах боломжтой.\n\nЭнэхүү хэрэгсэл нь тогтвортой v6.12 хувилбар болон v7 альфа хувилбараар хөгжиж байгаа бөгөөд Claude Code болон Codex зэрэг AI хөгжүүлэлтийн багажнуудад plugin болон skill хэлбэрээр суулгаж ашиглах боломжтой. Суулгахын тулд Node.js болон Python (uv скриптүүд) шаардлагатай.\n\nAI coding туслахууд кодыг шууд бичих явцдаа далд таамаглал гаргах эрсдэлтэй байдаг бол BMad арга зүй нь шийдвэр гаргах үйл явцыг тодорхой болгож, агентуудын контекстийг хадгалахад тусалдаг.",
+ "published": "2026-10-18T06:13:15Z",
+ "added": "2026-10-18T06:13:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

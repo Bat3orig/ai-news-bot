@@ -1,0 +1,17 @@
+{
+ "id": "dcb792d718508bec",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/vercel/next.js",
+ "image": "https://repository-images.githubusercontent.com/70107786/4602445c-10a2-4903-a360-c96d70531f67",
+ "title": "vercel/next.js",
+ "summary_en": "The React Framework https://nextjs.org Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds. Visit our Learn Next.js course to get started with Next.js. Visit the Next.js Showcase to see more sites built with Next.js. Documentation Visit https://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas…",
+ "title_mn": "vercel/next.js: React суурьтай full-stack веб хөгжүүлэлтийн тэргүүлэх фрэймворк",
+ "summary_mn": "Next.js нь хамгийн сүүлийн үеийн React боломжууд болон Rust суурьтай хурдан хэрэгслүүдийг нэгтгэсэн full-stack веб аппликэйшн хөгжүүлэх нээлттэй эхийн шилдэг шийдэл юм.",
+ "body_mn": "vercel/next.js нь дэлхийн олон зуун мянган хөгжүүлэгчид болон томоохон компаниудын өргөнөөр ашигладаг, React технологи дээр суурилсан хамгийн алдартай full-stack веб фрэймворк юм. Энэхүү сан нь серверийн талын дүрслэл (SSR), статик сайт үүсгэлт (SSG), болон API замыг цогцоор нь шийдэж өгдөг.\n\nТөслийн гол онцлог нь React-ийн шинэ шийдлүүдийг хамгийн түрүүнд нэвтрүүлж, Turbopack зэрэг Rust хэл дээр бичигдсэн өндөр хурдтай багажуудыг ашиглан код бөөгнөрүүлэх болон хөгжүүлэлтийн хурдыг дээд зэргээр хангадаг явдал юм.\n\nВеб хөгжүүлэгч бүрийн заавал мэдэх ёстой уг төслийг npx create-next-app тушаалаар шууд үүсгэн турших боломжтой бөгөөд GitHub репозиторт шинээр суралцагчдад зориулсан good first issue шошготой даалгаврууд тогтмол нийтлэгддэг.",
+ "published": "2026-10-18T06:13:15Z",
+ "added": "2026-10-18T06:13:15Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

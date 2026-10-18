@@ -1,0 +1,17 @@
+{
+ "id": "f7d22c75b9c000f9",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/elie222/rakazo",
+ "image": "https://opengraph.githubassets.com/6bc6455201b8d15d6fbe77fe066770bab01f175eca7669bf08a4d1254fef65fa/elie222/rakazo",
+ "title": "elie222/rakazo",
+ "summary_en": "Open-source Grok Bot alternative. Choose your own model and sandbox. https://rakazo.com Rakazo Rakazo is an open source AI agent for persistent teammates, and a self-hosted AI assistant you can run on your own machine. It is available on the web, as an Electron desktop app, and on iPhone and Android . Bring your own model and computer provider, or run the complete stack locally. It is an open source, self-hosted alternative to Grok Bot, Meta Muse, OpenAI Dots, Instinct, OpenClaw, Hermes Agent, and Hark Pro. Rakazo is in beta. Learn more at rakazo.com . How Rakazo compares Once Rakazo is…",
+ "title_mn": "elie222/rakazo: Өөрийн серверт байршуулах нээлттэй эхтэй AI туслах агент",
+ "summary_mn": "Rakazo нь өөрийн сервер эсвэл компьютер дээрээ бүрэн ажиллуулах боломжтой, олон платформ дэмжсэн нээлттэй эх бүхий бие даасан AI туслахын цогц систем юм.",
+ "body_mn": "elie222/rakazo нь байнгын ажиллагаатай хиймэл оюунт багийн хамтрагч болж ажиллах зориулалттай, өөрийн дэд бүтэц дээр бүрэн байршуулж болдог нээлттэй эхийн систем юм. Уг платформыг вэб хувилбараас гадна Electron desktop болон гар утасны апп хэлбэрээр ашиглах боломжтой.\n\nУг төсөл нь Grok Bot, Meta Muse зэрэг үйлчилгээний нээлттэй хувилбар бөгөөд хэрэглэгч хүссэн том хэлний загвараа холбож, бүх процессыг дотоод сүлжээндээ ажиллуулж болно. Технологийн хувьд Node.js, pnpm, Docker Compose болон PostgreSQL ашигладаг бөгөөд төрөл бүрийн алсын үүлэн тооцооллын орчнуудтай нэгдэх чадвартай.\n\nТуршиж үзэхийн тулд Docker Engine болон Compose суулгасан байхад хангалттай бөгөөд бэлэн суулгацын скриптийг ажиллуулан http://127.0.0.1:5173 хаягаар нэвтрэн өөрийн моделио холбож ашиглаж эхэлнэ.",
+ "published": "2026-10-18T06:13:15Z",
+ "added": "2026-10-18T06:13:15Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

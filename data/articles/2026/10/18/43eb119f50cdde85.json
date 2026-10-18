@@ -1,0 +1,17 @@
+{
+ "id": "43eb119f50cdde85",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/GCWing/OpenBitFun",
+ "image": "https://opengraph.githubassets.com/9f0a96cbde088deb8a972b4b9666b28d16da1c086c0c4d7f05bf2a320d159142/GCWing/OpenBitFun",
+ "title": "GCWing/OpenBitFun",
+ "summary_en": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development. https://openbitfun.com English · 中文 Built to keep going. OpenBitFun is a highly customizable, open-source agent workspace that keeps work moving your way. Four powerful Agent Harness modes · Cross-device remote control · Customization from Mini Apps to source If this is the kind of agent workspace you want, ⭐ Star OpenBitFun and help more people discover it. Download Desktop ·…",
+ "title_mn": "GCWing/OpenBitFun: Өөрчлөн тохируулах боломжтой нээлттэй эх сурвалжтай агент ажлын орчин",
+ "summary_mn": "OpenBitFun 1.0.0 нь олон төхөөрөмж хоорондын удирдлага, 4 төрлийн Agent Harness горим бүхий Rust хэлээр бүтээгдсэн AI агент ажлын орчин юм.",
+ "body_mn": "GCWing/OpenBitFun нь ажлын урсгалыг хүссэнээрээ удирдах боломжийг олгодог, өндөр түвшинд тохируулах боломжтой нээлттэй эх сурвалжтай агент ажлын орчин юм. Шинэ 1.0.0 хувилбар нь шинэчлэгдсэн интерфейс, олон төхөөрөмж хоорондын удирдлага болон 4 төрлийн Agent Harness горимыг санал болгож байна.\n\nRust хэлээр бичигдсэн Agent Runtime нь сессийн төлөв, контекст болон хэрэгслийн гүйцэтгэлийг найдвартай удирддаг бөгөөд хэрэглэгчид ширээний компьютер, гар утас болон браузераар дамжуулан ажлаа үргэлжлүүлэх боломжтой. Мөн Mini Apps болон Mini App Marketplace ашиглан өөрийн хэрэгцээт багаж хэрэгслийг хялбархан бүтээх боломжтой.\n\nУг төсөл нь DeepSWE v1.1 үнэлгээнд өндөр амжилт үзүүлсэн бөгөөд агентын удирдлага, алсын холболт шаарддаг хөгжүүлэгчдэд зориулагдсан болно.",
+ "published": "2026-10-18T06:13:15Z",
+ "added": "2026-10-18T06:13:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

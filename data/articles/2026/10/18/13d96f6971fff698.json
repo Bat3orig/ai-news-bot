@@ -1,0 +1,17 @@
+{
+ "id": "13d96f6971fff698",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/anthropics/claude-code",
+ "image": "https://opengraph.githubassets.com/9c52c5bc1e1fb953368c0ed9d49652d765f07e411c74330fac86d53235b4b9c2/anthropics/claude-code",
+ "title": "anthropics/claude-code",
+ "summary_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. https://code.claude.com/docs/en/overview Claude Code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your terminal, IDE, or tag @claude on Github. Learn…",
+ "title_mn": "anthropics/claude-code: Терминалд ажилладаг агент кодчиллын хэрэгсэл",
+ "summary_mn": "Anthropic компани таны кодын санг бүрэн ойлгож, Git урсгал удирдах болон байнгын давтагддаг ажлуудыг терминал дотроос байгалийн хэлээр гүйцэтгэх Claude Code хэрэгслийг танилцууллаа.",
+ "body_mn": "anthropics/claude-code нь хөгжүүлэгчийн терминал дотор шууд ажилладаг хиймэл оюуны кодчиллын бие даасан агент хэрэгсэл юм. Уг хэрэгсэл нь төслийн кодын бүтцийг бүрэн уншиж танилцан, байгалийн хэлээр өгсөн тушаалаар кодыг өөрчлөх, тайлбарлах, алдаа засах болон Git-ийн үйлдлүүдийг гүйцэтгэдэг.\n\nХөгжүүлэгчид Claude Code-ийг зөвхөн терминал дээрээс гадна IDE орчинд эсвэл GitHub дээр комментоор дуудан ашиглах боломжтой. Мөн төрөл бүрийн нэмэлт плагинуудын дэмжлэгтэй тул тусгай тушаалууд болон дэд агентуудаар чадварыг нь өргөтгөх боломж бүрджээ.\n\nТөслийг өөрийн системд суулгахдаа баримт бичигт заасан албан ёсны зааврын дагуу суулгаж, төслийн үндсэн хавтас дотроо шууд claude гэж бичин ажиллуулна. Туршиж үзэхэд хялбар, өдөр тутмын хөгжүүлэлтийн хурдыг мэдэгдэхүйц нэмэгдүүлэх давуу талтай.",
+ "published": "2026-10-18T06:13:15Z",
+ "added": "2026-10-18T06:13:15Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

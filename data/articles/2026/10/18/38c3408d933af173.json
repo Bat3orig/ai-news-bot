@@ -1,0 +1,17 @@
+{
+ "id": "38c3408d933af173",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/DietrichGebert/ponytail",
+ "image": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6",
+ "title": "DietrichGebert/ponytail",
+ "summary_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code · -41% time · -26% cost · -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail: 68%. Benchmarked in Claude Code, the same agent with and without the skill: 39 tasks including a real FastAPI + React repo, Opus 5.5, 5 runs each. Details . Español · 한국어 · 简体中文 · 日本語 Already built with Ponytail You know him. Long ponytail. Oval glasses. Has…",
+ "title_mn": "DietrichGebert/ponytail: Claude Code-д зориулсан кодын хэмжээг багасгагч хэрэгсэл",
+ "summary_mn": "Ponytail 5 нь Claude Code агентуудад зориулсан бөгөөд кодыг 53%-иар цөөрүүлж, шаардлагагүй сан суулгахын оронд бэлэн кодыг ашиглан оновчилдог.",
+ "body_mn": "DietrichGebert/ponytail төслийн 5 дахь хувилбар суурь сайжруулалттайгаар гарлаа. Энэхүү хэрэгсэл нь код бичих явцыг оновчилж, шаардлагагүй кодыг багасгахын зэрэгцээ аюулгүй байдал, тестийн хамгаалалтыг алдагдуулахгүй байхаар бүтээгдсэн байна.\n\nШинэ хувилбар нь Claude Code дээр хийсэн тестүүдээр кодын хэмжээг 53%, хугацааг 41%, зардлыг 26%, токен хэрэглээг 45%-иар бууруулжээ. Тухайлбал, агентууд шинэ огноо сонгогч сан суулгахын оронд браузер болон репозиторт байгаа бэлэн компонентуудыг холбож богино код бичихэд тусалдаг.\n\nМөн /ponytail-review болон /ponytail-audit командыг шинэчилж, зөвхөн устгах бус харин код хэрхэн ажиллаж байгааг нягтлах, аюулгүй байдал, алдаа шалгах боломжтой болгосон. Хэрэглэгчид Claude Code терминал эсвэл десктоп апп дээрээ ашиглах боломжтой бөгөөд Claude Code 2.1.290 болон түүнээс дээш хувилбар шаардлагатай.",
+ "published": "2026-10-18T06:13:15Z",
+ "added": "2026-10-18T06:13:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

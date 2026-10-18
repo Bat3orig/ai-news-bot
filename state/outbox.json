@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "b81a488a1b8178eb",
-   "subtopic": "kimi",
-   "source": "Kimi (Google News)",
-   "source_label": "Wccftech",
-   "url": "https://wccftech.com/china-now-requires-an-export-license-for-all-new-large-ai-models-potentially-affecting-moonshots-unreleased-kimi-k3-1-as-taiwan-criminalizes-smuggling-of-advanced-chips-to-china/",
-   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/image_dbd2be16.jpg",
-   "title": "China To Require An Export License For All New Large AI Models, Potentially Affecting Moonshot’s Unreleased Kimi K3.1, As Taiwan Criminalizes Smuggling Of Advanced Chips To China",
-   "summary_en": "The adoption of Moonshot AI's Kimi 3.1 model might be affected, even though China's Ministry of Commerce assures of a streamlined process.",
-   "title_mn": "Хятад улс том AI загваруудад экспортын лиценз шаардахаар болсон нь Kimi K3.1-д нөлөөлж болзошгүй",
-   "summary_mn": "Хятад улс 2 их наядаас дээш параметр бүхий эсвэл тооцооллын өндөр босго давсан нээлттэй хиймэл оюуны загваруудад экспортын зөвшөөрөл олгохоор төлөвлөж байна. Энэ нь Moonshot AI-ийн удахгүй гаргах Kimi K3.1 загварт нөлөөлөх магадлалтай.",
-   "body_mn": "БНХАУ-ын Худалдааны яам (MOFCOM) мэдрэмтгий 23 технологийн экспортод лицензийн хяналт тогтоох шинэ дүрмийн төслийг танилцууллаа. Уг зохицуулалтаар 2 их наядаас дээш параметртэй эсвэл 10e26 FLOPS-оос дээш хүчин чадлаар сургагдсан шинэ нээлттэй жинтэй (open-weight) загваруудыг олон улсад нээлттэй гаргахаас өмнө төрийн зөвшөөрөл авах шаардлага тулгарч байна.\n\nЭнэхүү зохицуулалт нь Moonshot AI компанийн албан ёсоор танилцуулахаар бэлтгэж буй Kimi K3.1 загварын нээлтэд шууд нөлөөлөх магадлалтай боллоо. Өмнөх мэдээллүүдээс үзвэл Kimi K3.1 нь 2 их наядаас олон параметртэй, 1 сая хүртэлх токен бүхий context window, мөн олон агентийн горимыг (swarm agents) дэмжсэн хүчирхэг архитектуртай байх төлөвтэй байсан юм.\n\nТүүнчлэн Тайвань улс дэвшилтэт чип болон серверүүдийг Хятад руу хууль бусаар нийлүүлэх явдалд эрүүгийн хариуцлага хүлээлгэх шийдвэр гаргасантай энэ явдал давхцаж байна. Нээлттэй эхийн загварууд ашиглан аппликейшн бүтээдэг хөгжүүлэгчдийн хувьд Хятадын тэргүүлэх лабораториудын шинэ загваруудыг ашиглах, турших боломж зохицуулалтын улмаас саатаж болзошгүй болоод байна.",
-   "published": "2026-10-16T14:17:02Z",
-   "added": "2026-10-17T04:46:02Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6ca3e6ca1de99da1",
-   "subtopic": "gemini",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://starskirmish.com/bench/v0-2/",
-   "image": "https://starskirmish.com/assets/og.png",
-   "title": "Show HN: Gemini 4 Argon plays StarCraft",
-   "summary_en": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 199 # Comments: 90",
-   "title_mn": "StarSkirmish Bench: Gemini 4 Argon болон флагман загварууд StarCraft бот хөгжүүлэлтээр өрсөлдөв",
-   "summary_mn": "Нэг цагийн дотор StarCraft бот бичих StarSkirmish Bench v0.2 шалгуураар Gemini 4 Argon, GPT-6 Astra, Claude Opus зэрэг шилдэг LLM-үүдийг туршжээ. Хэдийгээр AI ботууд сайжирсан ч хүний бүтээсэн шилдэг ботуудыг гүйцэх болоогүй байна.",
-   "body_mn": "Хөгжүүлэгчдийн дунд танилцуулагдсан StarSkirmish Bench v0.2 тест нь хиймэл оюуны загваруудад нэг цагийн хугацаа өгч, StarCraft тоглоомын бот кодолж гаргах чадварыг шалгажээ. Загварууд C++ хэл болон BWAPI ашиглан Protoss төрлийн бот бичиж, бусад бэлэн ботууд болон хүний бичсэн шилдэг ботуудтай өрсөлдсөн байна.\n\nҮр дүнгээс харахад OpenAI-ийн GPT-6 Astra хамгийн өндөр оноог авсан бол түүний дараа GPT-6.1 Sol орсон байна. Харин Google-ийн шинэ Gemini 4 Argon, Claude Opus 5.5 болон Claude Fable 5.1 загварууд гуравдугаар байранд тун ойрхон үр дүнтэйгээр жагсжээ. Сонирхолтой нь Gemini 4 Argon-ий гүйцэтгэл гүйлтийн хооронд хамгийн их хэлбэлзэлтэй буюу 18 онооны зөрүүтэй байсныг судалгаанд тэмдэглэсэн байна.\n\nГэсэн хэдий ч хүний гараар чадварлаг бүтээгдсэн Stardust, BananaBrain зэрэг шилдэг ботуудыг загварууд бараг ялж чадаагүй бөгөөд тэргүүлэгч GPT-6 Astra дөнгөж 7 хувийн хожил авчээ. Энэхүү тест нь программ зохиох агентууд богино хугацаанд нарийн стратегитай код бичиж турших, алдаагаа засах бодит чадварыг хэмжих чухал жишиг болж байна.",
-   "published": "2026-10-16T14:18:44Z",
-   "added": "2026-10-17T04:46:02Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "bda2999d2d0e0e2c",
-   "subtopic": "nextjs",
-   "source": "Next.js Blog",
-   "source_label": "Next.js Blog",
-   "url": "https://nextjs.org/blog/improving-navigation-experience-in-v0-with-nextjs-16-4",
-   "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/improving-navigation-experience-in-v0-with-nextjs-16-4/twitter-card.png",
-   "title": "Improving navigation experience in v0 with Next.js 16.4",
-   "summary_en": "How we used Partial Prefetching and a coding agent to improve navigation across v0 with Next.js 16.4.",
-   "title_mn": "Next.js 16.4 ашиглан v0 платформын шилжилтийн хурдыг сайжруулсан туршлага",
-   "summary_mn": "Vercel баг v0 платформын хуудас хоорондын шилжилтийг хурдасгахдаа Next.js 16.4 хувилбарын Partial Prefetching болон шинэ optimizer Skill-ийг хэрхэн ашигласнаа хуваалцлаа.",
-   "body_mn": "Vercel компани өөрсдийн v0 AI апп бүтээгч системийн хуудас хоорондын шилжилтийг улам бүр түргэн, SPA (Single Page Application) мэт жигд болгосон техникийн туршлагаа нийтэллээ. Өмнө нь хэрэглэгчид өмнө нээсэн хуудас руугаа буцах үед ачааллын skeleton хардаг байсан бол шинэ шийдлээр үүнийг бүрэн арилгасан байна.\n\nNext.js 16.4 хувилбараас эхлэн create-next-app нь Cache Components болон Partial Prefetching тохиргоог анхдагчаар идэвхжүүлдэг болсон билээ. Partial Prefetching нь тухайн чиглэлийн дахин ашиглагдах статик хэсгүүдийг товшихоос өмнө урьдчилан татаж бэлддэг бөгөөд dynamic агуулгыг шилжилтийн явцад ачаалдаг онцлогтой юм. Үүний үр дүнд сүлжээний илүүдэл хүсэлтүүдийг бууруулж, UI-ийн бэлэн байдлыг хангаж чадсан байна.\n\nТүүнчлэн энэхүү шилжилтийг автоматжуулахын тулд Playwright-ийн instant() тест шалгагч болон шинэ next-partial-prefetching-optimizer Skill-ийг AI агент дээр ажиллуулжээ. Агент нь урьдчилан татах UI бүрэн бэлэн болж тест давах хүртэл кодыг автоматаар өөрчилж, сайжруулалтыг бодит төсөлд нэвтрүүлсэн байна. Энэ нь Next.js ашиглан том хэмжээний веб апп хөгжүүлж буй багуудад бүтээмжээ нэмэх бодит заавар болж байна.",
-   "published": "2026-10-16T15:00:00Z",
-   "added": "2026-10-17T04:46:02Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c8c1b67b88b62da7",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Anthropic",
-   "url": "https://www.anthropic.com/research/employment-at-anthropic",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-   "title": "How employment is changing at Anthropic",
-   "summary_en": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
-   "title_mn": "Anthropic дотоод судалгаагаа нийтлэв: AI агент ашигласнаар junior инженерүүдийн эрэлт буурчээ",
-   "summary_mn": "Anthropic байгууллагынхаа дотоод судалгааг танилцууллаа. AI агентууд хүний ажиллах цагаас 6 дахин их цаг ажиллаж байгаа бөгөөд шинэ залуу (junior) инженер ажилд авах үзүүлэлт 27%-иас 9% болж эрс буурсан байна.",
-   "body_mn": "Anthropic компани хиймэл оюуны өргөн хэрэглээ өөрсдийнх нь ажлын байр, бүтээмжид хэрхэн нөлөөлж буй талаарх дэлгэрэнгүй судалгааг нийтэллээ. Тус компанид AI агентууд Slack-д харилцаж, уулзалт товлох, алдаа засах зэрэг инженерингийн томоохон ажлуудыг бие даан гүйцэтгэж байгаа бөгөөд агентуудын ажилласан цаг хүний ажиллах цагаас 6 дахин их (6:1 харьцаатай) болжээ.\n\nСудалгааны үр дүнгээс үзэхэд код бичих агентуудыг нэвтрүүлснээр нийт ажилтнуудын бүтээмж огцом өссөн боловч анхан шатны (junior) техникийн ажилтнуудын эрэлт мэдэгдэхүйц буурсан байна. Техникийн хэлтсийн шинээр авч буй junior мэргэжилтнүүдийн эзлэх хувь 27%-иас 9% болж огцом унажээ. Код бичих, алдаа шалгах ажлыг Claude гүйцэтгэдэг болсон тул менежерүүд нарийн техникийн мэдлэг гэхээс илүү бие даасан байдал, дүн шинжилгээ хийх чадварыг чухалчлах болсон байна.\n\nМөн Anthropic өмнөх үеийн технологийн компаниудтай харьцуулахад нэг ажилтанд ногдох орлогоороо Meta болон Google-ээс 2-4 дахин өндөр байгааг тэмдэглэжээ. Байгууллагын удирдлагын зүгээс ажил эрхлэлтийн бүтцийн энэхүү эрс өөрчлөлтийг хянаж, ажилтнуудыг дотооддоо өөр үүрэгт шилжүүлэх урьдчилан сэргийлэх механизмыг туршиж эхэлсэн байна.",
-   "published": "2026-10-16T16:26:00Z",
-   "added": "2026-10-17T04:46:02Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7b0b9a1018f4cc9d",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Unite.AI",
-   "url": "https://www.unite.ai/anthropic-says-claude-beat-best-published-quantum-circuit-designs/",
-   "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-says-claude-beat-best-published-quantum-circuit-designs.jpg",
-   "title": "Anthropic Says Claude Beat Best Published Quantum Circuit Designs",
-   "summary_en": "In a research post published October 16, 2026, Anthropic reported that its Claude Mythos 5 model, working in a closed loop with an automated evaluator and largely on its own, designed quantum circuits that improve on the...",
-   "title_mn": "Claude Mythos 5 загвар квант хэлхээний шилдэг архитектуруудыг сайжруулж чаджээ",
-   "summary_mn": "Anthropic-ийн судалгаагаар Claude Mythos 5 загвар бие даан квант хэлхээ зохион бүтээж, өмнө нийтлэгдсэн шилдэг алгоритмуудын гүйцэтгэлийг үлэмж сайжруулсан байна. Энэ нь квант тооцооллын нөөцийн зарцуулалтыг эрс багасгажээ.",
-   "body_mn": "Anthropic судалгааны нийтлэлдээ Claude Mythos 5 загвар автомат үнэлгээний системтэй битүү циклээр ажиллаж, квант хэлхээний үндсэн найман алгоритмыг шинэчлэн боловсруулсан тухай мэдээллээ. Хүнээс хараат бус байдлаар гаргаж авсан эдгээр шийдлүүд нь шинжлэх ухааны өмнөх нийтлэлүүдэд бүртгэгдсэн түвшнээс зарим хэсэгтээ бүхэл бүтэн зэргээр давсан үр дүн үзүүлжээ.\n\nТуршилтыг Anthropic-ийн STEM хөтөлбөрийн хүрээнд Harvard их сургууль болон QuEra Computing-ийн эрдэмтэдтэй хамтран гүйцэтгэсэн бөгөөд 46 хуудас бүхий албан ёсны эрдэм шинжилгээний өгүүллийг arXiv санд нийтэлсэн байна. Загварын бүтээсэн шийдлүүд найман даалгаврын долоод нь шаардагдах кубит болон Toffoli логик хаалганы тоог мэдэгдэхүйц бууруулж чаджээ.\n\nКвант алгоритмууд нь тодорхой гаралттай байдаг тул ердийн компьютер дээр шалгахад хялбар бөгөөд загвар Python хэлээр хэлхээг бичиж, үр дүнгийн дагуу өөрөө засварлах зарчмаар ажилласан байна. Энэхүү судалгаа нь том хэлний загварууд квант тооцоолол, физик болон нарийн архитектурын инженерийн нарийн бодлогуудыг шийдвэрлэх өндөр чадвартайг харууллаа.",
-   "published": "2026-10-16T17:53:01Z",
-   "added": "2026-10-17T08:56:54Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ef84becf7c9d0543",
-   "subtopic": "ai-devtools",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-   "image": "https://claude.dev/blog/solving-code-review-at-anthropic/og.png",
-   "title": "How the Claude Code team does code review",
-   "summary_en": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 338 # Comments: 312",
-   "title_mn": "Claude Code баг кодын шалгалтыг хэрхэн хийдэг вэ?",
-   "summary_mn": "Claude Code багийнхан хиймэл оюуны бичсэн их хэмжээний кодод зориулсан ревью хийх процесоо хуваалцлаа. Тэд хүний оролцоог хэмнэхийн тулд автоматжуулсан олон шатлалт шалгалтыг PR үүсгэхээс өмнө хийдэг болжээ.",
-   "body_mn": "Claude Code-ийн нийт кодын 90 орчим хувийг Claude өөрөө бичдэг бөгөөд Anthropic-ийн үндсэн репозиторт өдөрт 30,000 гаруй өөрчлөлт ордог байна. Ийм их хэмжээний өөрчлөлтийг хүн мөр бүрээр нь гараар шалгах боломжгүй тул тус баг кодын шалгалтын (code review) урсгалаа бүрэн шинэчилжээ.\n\nТэд өмнө нь код бичиж дууссаны дараа PR дээр хүн хүлээдэг байсан бүтцийг халж, кодыг бичих явцад нь алдааг засдаг тогтолцоо руу шилжүүлсэн байна. PR нээхээс өмнө тест, build болон визуал харьцуулалтыг Claude-д ажиллуулан шалгуулж, тусдаа subagent-аар diff-ийг хянуулдаг аж. Мөн алдаа хайх, diff-ийг хялбарчлах дотоод тусгай skill-үүдийг ажиллуулдаг байна.\n\nЭнэхүү шинэчлэлийн үр дүнд зургаагаас есдүгээр сарын хооронд нэгтгэгдсэн PR-ийн тоо 2 дахин өссөн ч буцаагдсан (revert) өөрчлөлтийн хувь 40 гаруй хувиар буурчээ. Тэдний зорилго бол ихэнх PR-ийг дээд тал нь нэг хүний зөвшөөрөлтэйгөөр, чанарын эрсдэл гаргалгүйгээр нэгтгэх явдал гэдгийг онцолсон байна.",
-   "published": "2026-10-16T19:04:47Z",
-   "added": "2026-10-17T08:56:54Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "02f6eed56c5ce6bc",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.32.0",
-   "image": "https://opengraph.githubassets.com/99271babdca3eb4de4b42ddbd85245417362c8e0c964a7add306491c710cf535/openai/openai-python/releases/tag/v3.32.0",
-   "title": "openai-python v3.32.0",
-   "summary_en": "3.32.0 (2026-10-16) Features api: add cache settings and key options [2/2] ( #4087 ) ( 325da45 ) api: add prompt-based voice creation ( #4091 ) ( 2e39db7 ) api: add regional processing residency options ( #4081 ) ( 21ce0c2 ) api: add response error diagnostics and model notices ( #4086 ) ( e71d781 ) api: support audio fixture playback in Live sessions ( #4085 ) ( 9998c1a ) api: support Decisions in Live sessions ( #4088 ) ( 230a923 ) Bug Fixes api: declare Realtime response error messages ( #4083 ) ( 95dbee9 ) Chores api: clarify Decisions request and response fields ( #4079 ) ( d42accb )…",
-   "title_mn": "openai-python v3.32.0 гарлаа: Prompt-д суурилсан хоолой үүсгэлт болон cache тохиргоо нэмэгдэв",
-   "summary_mn": "OpenAI-ийн Python сангийн 3.32.0 хувилбар гарч, кэшийн шинэ тохиргоонууд, prompt-оор дуу хоолой үүсгэх боломж болон бүс нутгийн өгөгдөл боловсруулалтын (residency) сонголтууд нэмэгдлээ.",
-   "body_mn": "OpenAI албан ёсны openai-python сангийнхаа v3.32.0 хувилбарыг нийтэллээ. Энэхүү хувилбараар хөгжүүлэгчдэд зориулсан хэд хэдэн чухал шинэ API тохиргоо болон боломжуудыг нэвтрүүлсэн байна.\n\nТухайлбал, хүсэлтийн cache тохиргоо болон түлхүүрийн сонголтуудыг нэмж өгсөн бөгөөд prompt бичиж дуу хоолой үүсгэх (prompt-based voice creation) шинэ API боломжтой болжээ. Түүнчлэн хууль эрх зүй, нууцлалын шаардлагад нийцүүлэн датаг тодорхой бүс нутагт боловсруулах regional processing residency тохиргоог нэмсэн байна.\n\nLive session-уудад зориулан Decisions боломж болон аудио fixture тоглуулах дэмжлэгийг оруулж, алдааны оношилгоо (error diagnostics) болон загварын мэдэгдлүүдийг харуулах болжээ. Мөн Realtime хариултын алдааны мэдэгдлүүдийг зассан байна.",
-   "published": "2026-10-16T20:17:26Z",
-   "added": "2026-10-17T08:56:54Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "31e9c13103518d0d",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
-   "image": "https://opengraph.githubassets.com/641b684b9ce7bce5b2dfe5e170f4946863eec5c5feecd047d2bb35fc8858c8e1/anthropics/claude-code/releases/tag/v2.1.302",
-   "title": "claude-code v2.1.302",
-   "summary_en": "What's changed Added CLAUDE_CODE_AUTO_MODE_MODEL to choose the model the client-side auto mode classifier uses; it does not change the model for server-side auto mode Added an Idle compaction row to /config for turning idle compaction off or back on; the notices shown after an idle compaction now say how to turn it off Added a notice to /design-sync and /design-login that standalone Claude Design (claude.ai/design) closes by December 14, 2026 Fixed a \"Prompt is too long\" error when stopping a turn while the conversation was being compacted Fixed requests failing with \"diagnostics: Extra…",
-   "title_mn": "claude-code v2.1.302 гарлаа: Санах ой болон кэшийн алдаануудыг засав",
-   "summary_mn": "Claude Code CLI хэрэгслийн 2.1.302 хувилбарт auto mode-ийн загварыг заах орчны хувьсагч нэмэгдэж, том зургийн файлуудаас үүдэлтэй санах ойн асуудал болон prompt cache алдагдах алдааг засжээ.",
-   "body_mn": "Anthropic компани өөрсдийн терминалын туслах claude-code хэрэгслийн v2.1.302 хувилбарыг гаргалаа. Шинэ хувилбарт хэрэглэгчийн талын auto mode ангилагчийн ашиглах загварыг сонгох CLAUDE_CODE_AUTO_MODE_MODEL орчны хувьсагчийг нэмсэн байна.\n\nМөн /config хэсэгт сул зогсолтын үеийн шахалтыг (idle compaction) унтраах, асаах тохиргоог оруулжээ. Томоохон засваруудаас дурдвал Read хэрэгсэл 128 MB-аас дээш хэмжээтэй зургийн файлыг бүхлээр нь санах ой руу дуудаж ачаалладаг байсныг зогсоосон ба сессийн дундуур нэмэгдсэн хэрэгслээс болж prompt cache miss үүсдэг асуудлыг шийдвэрлэсэн байна.\n\nҮүнээс гадна бие даасан Claude Design (claude.ai/design) үйлчилгээ 2026 оны 12-р сарын 14 гэхэд хаагдах тухай мэдэгдлийг /design-sync командад нэмж, Git worktree болон плагинуудын суулгацтай холбоотой алдаануудыг засжээ.",
-   "published": "2026-10-16T20:53:06Z",
-   "added": "2026-10-17T08:56:54Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "bd7431c0d2b473b4",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/78V7KGa0XpqgbSIVHUiApt/ca2d815350dcc28e0387bdb691635818/image.png",
-   "title": "Elorian AI's Glimpse now available on AI Gateway",
-   "summary_en": "Glimpse from Elorian is now available on AI Gateway. The visual reasoning model accepts images and video to follow objects through motion, interpret spatial relationships, and connect an action to its physical consequences. Glimpse can return to visual evidence as it works: zooming into a detail, revisiting a short interval of video, or tracking the same feature across frames. This allows the model to support use cases like scientific chart analysis, video captioning, visual counting, and robotics data annotation. Some examples include checking a train's motion to determine whether it is…",
-   "title_mn": "Elorian AI-ийн Glimpse модель Vercel AI Gateway-д нэмэгдлээ",
-   "summary_mn": "Elorian компанийн визуал дүгнэлт хийх Glimpse модель Vercel AI Gateway дээр ашиглахад бэлэн боллоо. AI SDK 7-оор дамжуулан бичлэг илгээж, орон зайн дүн шинжилгээ болон хөдөлгөөн дагах боломжтой.",
-   "body_mn": "Elorian компанийн бүтээсэн визуал эргэцүүлэл хийх Glimpse модель Vercel AI Gateway платформд албан ёсоор нэмэгдлээ. Энэхүү модель нь зураг болон видео бичлэг хүлээн авч, биетүүдийн хөдөлгөөнийг дагах, орон зайн хамаарлыг тодорхойлох, үйлдэл болон түүний үр дагаврыг холбон тайлбарлах чадвартай юм.\n\nGlimpse нь боловсруулалт хийх явцдаа дүрсний тодорхой хэсэг рүү томруулж харах, бичлэгийн богино хугацааны хэсгийг дахин шалгах, эсвэл кадруудын хооронд тухайн элементийг тогтвортой дагах боломжтой. Үүний тусламжтайгаар шинжлэх ухааны график шинжилгээ, видео тайлбар үүсгэх, тоолох болон роботын өгөгдлийг тэмдэглэх (annotation) зэрэг даалгавруудыг гүйцэтгэхэд тохиромжтой.\n\nХөгжүүлэгчид AI SDK 7-г ашиглан бичлэгийг олон нийтэд нээлттэй эсвэл гарын үсэгтэй HTTPS холбоосоор файл хэлбэрээр илгээх боломжтой. Мөн Vercel CLI-ийг шинэчлэн Claude Code, Codex, Cursor зэрэг хэрэгслүүдэд AI Gateway тохиргоог хялбархан суулгаж болно. AI Gateway нь загварын үндсэн үнийг ямар ч нэмэгдэлгүйгээр санал болгодог.",
-   "published": "2026-10-16T00:00:00Z",
-   "added": "2026-10-17T12:40:52Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5663347afc6bfbc4",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "MIXED Reality News",
-   "url": "https://mixed-news.com/en/claude-opus-5-5-fast-mode-out-of-research-preview-rate-limit/",
-   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/1923f2edea23fb276f0a2eeee44b7d32446a0684-2400x1260-1.jpg",
-   "title": "Claude Opus 5.5 fast mode needs no access request, but falling back costs the cache",
-   "summary_en": "Anthropic has taken fast mode out of research preview on Claude Opus 5.5, so asking for it no longer needs an access request or a beta header. The release",
-   "title_mn": "Claude Opus 5.5 загварын fast mode хязгаарлалтгүй болж, нийтэд нээгдлээ",
-   "summary_mn": "Anthropic Claude Opus 5.5 загварын fast mode горимыг бүрэн нээж, Start, Build, Scale багцуудад анхдагчаар нэвтрүүллээ. Харин fast горимоос standard руу шилжих үед prompt cache ашиглагдахгүй болохыг анхааруулж байна.",
-   "body_mn": "Anthropic компани Claude Opus 5.5 загварынхаа fast mode горимыг туршилтын шатнаас (research preview) гаргаж, нийтэд нээлттэй болголоо. Ингэснээр хөгжүүлэгчид тус горимыг ашиглахын тулд тусгай хүсэлт илгээх эсвэл beta header заавал залгах шаардлагагүй болж, Start, Build, Scale хэрэглээний шатлалуудад анхдагчаар тохируулагдсан хурдны хязгаартайгаар ашиглах боломжтой болсон байна.\n\nШинэ хурдны хязгаар нь Opus-ийн ердийн хязгаараас тусдаа тооцогдох бөгөөд 429 алдаа ирэх үед retry-after толгой мэдээлэл хариу буцаана. Харин fast горимоос хязгаар давсны улмаас standard хурд руу буцан шилжих (fallback) тохиолдолд өмнөх prompt cache бүрэн цуцлагдаж (cache miss), кэшлэгдсэн урт контекстыг дахин эхнээс нь бүрэн үнээр тооцох эрсдэлтэйг Anthropic анхааруулжээ.\n\nFast mode горим нь загварын чадвар болон чанарт ямар ч өөрчлөлт оруулахгүйгээр секундын гаралтын токены хурдыг 2.5 дахин нэмэгдүүлдэг. Уг горимын үнэ 1 сая оролтын токенд $8, гаралтын токенд $40 хэвээр байгаа бөгөөд анх удаа Claude API-аас гадна Microsoft Foundry-ийн Azure байршуулалтад нэвтэрч эхэлжээ.",
-   "published": "2026-10-16T23:43:50Z",
-   "added": "2026-10-17T12:40:52Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "2527a2533cad5399",
    "subtopic": "vercel-cloud",
    "source": "Vercel",
@@ -697,6 +497,226 @@
    "added": "2026-10-18T01:18:54Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "abfd3122a4965b9b",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://github.com/openai/codex/issues/25921",
+   "image": "https://opengraph.githubassets.com/57b2b53056cde9bbb9f0e59bee1dc021ac104165d9cc514b7c45c0a395b404c0/openai/codex/issues/25921",
+   "title": "Codex Desktop continuously generates Crashpad pending dumps",
+   "summary_en": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 115 # Comments: 41",
+   "title_mn": "Codex Desktop апп алдааны дамп файлуудаар дискийг дүүргэдэг асуудал илэрлээ",
+   "summary_mn": "Codex Desktop хөгжүүлэгчийн хэрэгсэл хэвийн ажиллаж байх үедээ ард нь Crashpad дамп файлуудыг зогсолтгүй үүсгэж, дискний хэмжээг хэдэн арван гигабайтаар дүүргэж буйг хэрэглэгчид илрүүлжээ.",
+   "body_mn": "OpenAI-ийн Codex Desktop аппликэйшнийг ашиглаж буй хөгжүүлэгчид системийн диск нь тодорхойгүй шалтгаанаар хурдацтай дүүрч буй алдааг Hacker News дээр хэлэлцэж эхэллээ. Шалгалтаар апп доторх Crashpad механизм хязгааргүйгээр dmp болон sidecar.json файлуудыг тасралтгүй бичиж байгаа нь тогтоогджээ.\n\nНэг хэрэглэгчийн тохиолдолд уг хавтас ганц хоногийн дотор 54 мянга гаруй файл, 4.9 ГБ хэмжээтэй болсон бол өөр нэг хөгжүүлэгчийн машин дээр 59 ГБ хүрч үйлдлийн системийн файлын хязгаарт тулсан байна. Хамгийн ноцтой нь аппликэйшн өөрөө гацаагүй, хэвийн ажиллаж байх үед ч ард нь browser_crashpad_handler процесс зогсолтгүй алдааны тайлан бичсээр байжээ.\n\nАлдаа нь Chromium дээр суурилсан Browser Use модулийн дахин эхлүүлэх гогцооноос үүдэлтэй байх магадлалтай байна. Одоогоор түр хугацаанд pending хавтсыг цэвэрлэх боломжтой ч хөтөч дахин ажиллах үед файл үүсгэх процесс дахин идэвхжиж байгаа тул OpenAI-аас яаралтай засвар гаргах шаардлагатай болоод байна.",
+   "published": "2026-10-17T17:45:08Z",
+   "added": "2026-10-18T06:13:15Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "13d96f6971fff698",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/anthropics/claude-code",
+   "image": "https://opengraph.githubassets.com/9c52c5bc1e1fb953368c0ed9d49652d765f07e411c74330fac86d53235b4b9c2/anthropics/claude-code",
+   "title": "anthropics/claude-code",
+   "summary_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. https://code.claude.com/docs/en/overview Claude Code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your terminal, IDE, or tag @claude on Github. Learn…",
+   "title_mn": "anthropics/claude-code: Терминалд ажилладаг агент кодчиллын хэрэгсэл",
+   "summary_mn": "Anthropic компани таны кодын санг бүрэн ойлгож, Git урсгал удирдах болон байнгын давтагддаг ажлуудыг терминал дотроос байгалийн хэлээр гүйцэтгэх Claude Code хэрэгслийг танилцууллаа.",
+   "body_mn": "anthropics/claude-code нь хөгжүүлэгчийн терминал дотор шууд ажилладаг хиймэл оюуны кодчиллын бие даасан агент хэрэгсэл юм. Уг хэрэгсэл нь төслийн кодын бүтцийг бүрэн уншиж танилцан, байгалийн хэлээр өгсөн тушаалаар кодыг өөрчлөх, тайлбарлах, алдаа засах болон Git-ийн үйлдлүүдийг гүйцэтгэдэг.\n\nХөгжүүлэгчид Claude Code-ийг зөвхөн терминал дээрээс гадна IDE орчинд эсвэл GitHub дээр комментоор дуудан ашиглах боломжтой. Мөн төрөл бүрийн нэмэлт плагинуудын дэмжлэгтэй тул тусгай тушаалууд болон дэд агентуудаар чадварыг нь өргөтгөх боломж бүрджээ.\n\nТөслийг өөрийн системд суулгахдаа баримт бичигт заасан албан ёсны зааврын дагуу суулгаж, төслийн үндсэн хавтас дотроо шууд claude гэж бичин ажиллуулна. Туршиж үзэхэд хялбар, өдөр тутмын хөгжүүлэлтийн хурдыг мэдэгдэхүйц нэмэгдүүлэх давуу талтай.",
+   "published": "2026-10-18T06:13:15Z",
+   "added": "2026-10-18T06:13:15Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f7d22c75b9c000f9",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/elie222/rakazo",
+   "image": "https://opengraph.githubassets.com/6bc6455201b8d15d6fbe77fe066770bab01f175eca7669bf08a4d1254fef65fa/elie222/rakazo",
+   "title": "elie222/rakazo",
+   "summary_en": "Open-source Grok Bot alternative. Choose your own model and sandbox. https://rakazo.com Rakazo Rakazo is an open source AI agent for persistent teammates, and a self-hosted AI assistant you can run on your own machine. It is available on the web, as an Electron desktop app, and on iPhone and Android . Bring your own model and computer provider, or run the complete stack locally. It is an open source, self-hosted alternative to Grok Bot, Meta Muse, OpenAI Dots, Instinct, OpenClaw, Hermes Agent, and Hark Pro. Rakazo is in beta. Learn more at rakazo.com . How Rakazo compares Once Rakazo is…",
+   "title_mn": "elie222/rakazo: Өөрийн серверт байршуулах нээлттэй эхтэй AI туслах агент",
+   "summary_mn": "Rakazo нь өөрийн сервер эсвэл компьютер дээрээ бүрэн ажиллуулах боломжтой, олон платформ дэмжсэн нээлттэй эх бүхий бие даасан AI туслахын цогц систем юм.",
+   "body_mn": "elie222/rakazo нь байнгын ажиллагаатай хиймэл оюунт багийн хамтрагч болж ажиллах зориулалттай, өөрийн дэд бүтэц дээр бүрэн байршуулж болдог нээлттэй эхийн систем юм. Уг платформыг вэб хувилбараас гадна Electron desktop болон гар утасны апп хэлбэрээр ашиглах боломжтой.\n\nУг төсөл нь Grok Bot, Meta Muse зэрэг үйлчилгээний нээлттэй хувилбар бөгөөд хэрэглэгч хүссэн том хэлний загвараа холбож, бүх процессыг дотоод сүлжээндээ ажиллуулж болно. Технологийн хувьд Node.js, pnpm, Docker Compose болон PostgreSQL ашигладаг бөгөөд төрөл бүрийн алсын үүлэн тооцооллын орчнуудтай нэгдэх чадвартай.\n\nТуршиж үзэхийн тулд Docker Engine болон Compose суулгасан байхад хангалттай бөгөөд бэлэн суулгацын скриптийг ажиллуулан http://127.0.0.1:5173 хаягаар нэвтрэн өөрийн моделио холбож ашиглаж эхэлнэ.",
+   "published": "2026-10-18T06:13:15Z",
+   "added": "2026-10-18T06:13:15Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dcb792d718508bec",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/vercel/next.js",
+   "image": "https://repository-images.githubusercontent.com/70107786/4602445c-10a2-4903-a360-c96d70531f67",
+   "title": "vercel/next.js",
+   "summary_en": "The React Framework https://nextjs.org Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds. Visit our Learn Next.js course to get started with Next.js. Visit the Next.js Showcase to see more sites built with Next.js. Documentation Visit https://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas…",
+   "title_mn": "vercel/next.js: React суурьтай full-stack веб хөгжүүлэлтийн тэргүүлэх фрэймворк",
+   "summary_mn": "Next.js нь хамгийн сүүлийн үеийн React боломжууд болон Rust суурьтай хурдан хэрэгслүүдийг нэгтгэсэн full-stack веб аппликэйшн хөгжүүлэх нээлттэй эхийн шилдэг шийдэл юм.",
+   "body_mn": "vercel/next.js нь дэлхийн олон зуун мянган хөгжүүлэгчид болон томоохон компаниудын өргөнөөр ашигладаг, React технологи дээр суурилсан хамгийн алдартай full-stack веб фрэймворк юм. Энэхүү сан нь серверийн талын дүрслэл (SSR), статик сайт үүсгэлт (SSG), болон API замыг цогцоор нь шийдэж өгдөг.\n\nТөслийн гол онцлог нь React-ийн шинэ шийдлүүдийг хамгийн түрүүнд нэвтрүүлж, Turbopack зэрэг Rust хэл дээр бичигдсэн өндөр хурдтай багажуудыг ашиглан код бөөгнөрүүлэх болон хөгжүүлэлтийн хурдыг дээд зэргээр хангадаг явдал юм.\n\nВеб хөгжүүлэгч бүрийн заавал мэдэх ёстой уг төслийг npx create-next-app тушаалаар шууд үүсгэн турших боломжтой бөгөөд GitHub репозиторт шинээр суралцагчдад зориулсан good first issue шошготой даалгаврууд тогтмол нийтлэгддэг.",
+   "published": "2026-10-18T06:13:15Z",
+   "added": "2026-10-18T06:13:15Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "38c3408d933af173",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/DietrichGebert/ponytail",
+   "image": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6",
+   "title": "DietrichGebert/ponytail",
+   "summary_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code · -41% time · -26% cost · -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail: 68%. Benchmarked in Claude Code, the same agent with and without the skill: 39 tasks including a real FastAPI + React repo, Opus 5.5, 5 runs each. Details . Español · 한국어 · 简体中文 · 日本語 Already built with Ponytail You know him. Long ponytail. Oval glasses. Has…",
+   "title_mn": "DietrichGebert/ponytail: Claude Code-д зориулсан кодын хэмжээг багасгагч хэрэгсэл",
+   "summary_mn": "Ponytail 5 нь Claude Code агентуудад зориулсан бөгөөд кодыг 53%-иар цөөрүүлж, шаардлагагүй сан суулгахын оронд бэлэн кодыг ашиглан оновчилдог.",
+   "body_mn": "DietrichGebert/ponytail төслийн 5 дахь хувилбар суурь сайжруулалттайгаар гарлаа. Энэхүү хэрэгсэл нь код бичих явцыг оновчилж, шаардлагагүй кодыг багасгахын зэрэгцээ аюулгүй байдал, тестийн хамгаалалтыг алдагдуулахгүй байхаар бүтээгдсэн байна.\n\nШинэ хувилбар нь Claude Code дээр хийсэн тестүүдээр кодын хэмжээг 53%, хугацааг 41%, зардлыг 26%, токен хэрэглээг 45%-иар бууруулжээ. Тухайлбал, агентууд шинэ огноо сонгогч сан суулгахын оронд браузер болон репозиторт байгаа бэлэн компонентуудыг холбож богино код бичихэд тусалдаг.\n\nМөн /ponytail-review болон /ponytail-audit командыг шинэчилж, зөвхөн устгах бус харин код хэрхэн ажиллаж байгааг нягтлах, аюулгүй байдал, алдаа шалгах боломжтой болгосон. Хэрэглэгчид Claude Code терминал эсвэл десктоп апп дээрээ ашиглах боломжтой бөгөөд Claude Code 2.1.290 болон түүнээс дээш хувилбар шаардлагатай.",
+   "published": "2026-10-18T06:13:15Z",
+   "added": "2026-10-18T06:13:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c1ca66b2cea143ab",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+   "image": "https://opengraph.githubassets.com/cb3b53cbb7c833162b3ebd04a380b6b0f8de2aad2f8fc7f267a0cb5e1fe9c9c1/The-Swarm-Corporation/AutoHedge",
+   "title": "The-Swarm-Corporation/AutoHedge",
+   "summary_en": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. https://swarms.xyz/ AutoHedge AutoHedge is an enterprise-grade autonomous agent hedge fund that trades on your behalf. It combines swarm intelligence and specialized AI agents to perform end-to-end market analysis, risk management, and execution with minimal human intervention. Current support: Full autonomous trading on Solana. Coming soon: Coinbase and additional exchanges. Overview AutoHedge is built to be the…",
+   "title_mn": "The-Swarm-Corporation/AutoHedge: Бие даасан агентуудын санхүүгийн арилжааны систем",
+   "summary_mn": "AutoHedge нь Solana блокчэйн дээр зах зээлийн шинжилгээ, эрсдэлийн удирдлага, захиалга гүйцэтгэлийг бие даан гүйцэтгэх AI агентуудын платформ юм.",
+   "body_mn": "The-Swarm-Corporation/AutoHedge нь байгууллагын түвшний найдвартай ажиллагаатай, бие даасан агентуудад суурилсан хөрөнгө оруулалтын сангийн систем юм. Систем нь олон агент бүхий архитектурыг ашиглан зах зээлийн бодит цагийн шинжилгээ хийж, арилжааны стратеги боловсруулдаг.\n\nОдоогоор Solana сүлжээг бүрэн дэмжиж ажилладаг бөгөөд удахгүй Coinbase болон бусад биржүүдийг нэмэхээр төлөвлөжээ. Платформ нь арилжааны шийдвэр гаргахаас өмнө эрсдэлийг тооцоолох, бүтэцлэгдсэн JSON форматаар тайлан гаргах боломжтой.\n\nМодульчлагдсан архитектуртай тул хөгжүүлэгчид өөрсдийн хүссэн стратеги болон шинэ биржүүдийг хялбархан холбох боломжтой юм. AI агентуудын тусламжтайгаар зах зээлийн судалгааг автоматжуулах хүсэлтэй хөгжүүлэгчдэд зориулагдсан.",
+   "published": "2026-10-18T06:13:15Z",
+   "added": "2026-10-18T06:13:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "841d898b0d00342d",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+   "image": "https://opengraph.githubassets.com/c38fc610f3df12b368dd9cb4bf37c8264756cb35e9a1a42c9ccca46628c218d3/bmad-code-org/BMAD-METHOD",
+   "title": "bmad-code-org/BMAD-METHOD",
+   "summary_en": "Breakthrough Method for Agile Ai Driven Development Agile Ai Driven Development — turn an idea or change request into working software without giving up the thinking. Ai Driven Development (AiDD) covers the whole effort, not only the code: what to build, how it holds together, and how it changes as you learn. BMad Method is the agile way to do it — decisions stay explicit, context carries forward, and the process sizes itself to the work. Small changes go straight to build. Complex work gets the depth it needs. The same method covers a weekend prototype and a system with years of history…",
+   "title_mn": "bmad-code-org/BMAD-METHOD: AI-д суурилсан хөгжүүлэлтийн арга зүйн хэрэгсэл",
+   "summary_mn": "BMad Method нь санааг ажиллах чадвартай программ хангамж болгон хувиргах уян хатан, AI төвтэй хөгжүүлэлтийн арга зүй болон skill удирдлагын систем юм.",
+   "body_mn": "bmad-code-org/BMAD-METHOD нь програм хангамж хөгжүүлэлтийн явцад код бичихээс гадна юу бүтээх, архитектур нь хэрхэн холбогдохыг удирдах уян хатан арга зүйг санал болгодог. Энэ нь жижиг прототипээс эхлээд олон жилийн түүхтэй том системүүдэд ч адилхан ашиглагдах боломжтой.\n\nЭнэхүү хэрэгсэл нь тогтвортой v6.12 хувилбар болон v7 альфа хувилбараар хөгжиж байгаа бөгөөд Claude Code болон Codex зэрэг AI хөгжүүлэлтийн багажнуудад plugin болон skill хэлбэрээр суулгаж ашиглах боломжтой. Суулгахын тулд Node.js болон Python (uv скриптүүд) шаардлагатай.\n\nAI coding туслахууд кодыг шууд бичих явцдаа далд таамаглал гаргах эрсдэлтэй байдаг бол BMad арга зүй нь шийдвэр гаргах үйл явцыг тодорхой болгож, агентуудын контекстийг хадгалахад тусалдаг.",
+   "published": "2026-10-18T06:13:15Z",
+   "added": "2026-10-18T06:13:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "511a5089717fad8a",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/yt-dlp/yt-dlp",
+   "image": "https://repository-images.githubusercontent.com/307260205/b6a8d716-9c7b-40ec-bc44-6422d8b741a0",
+   "title": "yt-dlp/yt-dlp",
+   "summary_en": "A feature-rich command-line audio/video downloader https://discord.gg/H5MNcFW63r yt-dlp is a feature-rich command-line audio/video downloader with support for thousands of sites . The project is a fork of youtube-dl based on the now inactive youtube-dlc . INSTALLATION Detailed instructions Release Files Update Dependencies Compile USAGE AND OPTIONS General Options Network Options Geo-restriction Video Selection Download Options Filesystem Options Thumbnail Options Internet Shortcut Options Verbosity and Simulation Options Workarounds Video Format Options Subtitle Options Authentication…",
+   "title_mn": "yt-dlp/yt-dlp: Олон мянган сайтын видео татах команд мөрийн хэрэгсэл",
+   "summary_mn": "yt-dlp нь youtube-dl төслөөс салбарласан, олон мянган сайтын видео болон аудиог татах өргөн боломжтой команд мөрийн хэрэгсэл юм.",
+   "body_mn": "yt-dlp/yt-dlp нь интернэт дэх олон мянган вэбсайтаас видео болон аудио татаж авах зориулалттай, өргөн боломжтой команд мөрийн хэрэгсэл юм. Уг төсөл нь youtube-dl болон youtube-dlc төслүүдэд суурилсан бөгөөд идэвхтэй шинэчлэгддэгээрээ алдартай.\n\nХөгжүүлэгчид үүнийг Python pip, binaries эсвэл гуравдагч талын багц удирдагч ашиглан суулгах боломжтой. Python 3.10+ хувилбаруудыг дэмждэг ба видео болон аудио файлуудыг нэгтгэхэд ffmpeg, мөн YouTube-ийн бүрэн дэмжлэгт yt-dlp-ejs болон JavaScript engine (Deno, Node.js гэх мэт) шаардлагатай.\n\nТөсөл нь Unlicense болонрим GPLv3+ лифценцүүдийн дор хөгжүүлэгддэг бөгөөд stable, nightly болон master сувгуудаар дамжуулан шинэчлэлтээ хүргэдэг.",
+   "published": "2026-10-18T06:13:15Z",
+   "added": "2026-10-18T06:13:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b6bd2783a916c52e",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/zed-industries/zed",
+   "image": "https://opengraph.githubassets.com/8ce5af12c27dc6c999bbd8ee80e840c1d7bfacff28a15e651bd389559cd76955/zed-industries/zed",
+   "title": "zed-industries/zed",
+   "summary_en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. https://zed.dev Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter . Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager ( macOS / Linux / Windows ). Other platforms are not yet available: Web ( tracking discussion ) Developing Zed Building Zed for macOS Building Zed for Linux Building Zed for Windows Contributing See CONTRIBUTING.md for ways you can…",
+   "title_mn": "zed-industries/zed: Өндөр бүтээмжтэй, олон хэрэглэгчийн кодын редактор",
+   "summary_mn": "Zed нь Atom болон Tree-sitter бүтээгчдийн хөгжүүлсэн, macOS, Linux, Windows үйлдвэрлэлийн системд зориулсан өндөр хурдтай кодын редактор юм.",
+   "body_mn": "zed-industries/zed нь програм хангамж хөгжүүлэгчдэд зориулсан өндөр гүйцэтгэлтэй, олон хэрэглэгчийн хамтын ажиллагааг дэмждэг орчин үеийн кодын редактор юм. Энэхүү төслийг алдартай Atom редактор болон Tree-sitter бүтээгчид санаачлан хөгжүүлжээ.\n\nУг редактор нь macOS, Linux болон Windows үйлдвэрлэлийн системүүдэд шууд татаж авах болон багц удирдагчаар дамжуулан суулгах боломжтой байдлаар бүтээгдсэн байна. Гол код нь GPL-3.0-or-later лицензтэй бөгөөд зарим хэсэг нь Apache-2.0 лицензтэй байдаг.\n\nХурд болон хөнгөн байдлыг эрхэмлэдэг хөгжүүлэгчдэд зориулсан уг редактор нь нээлттэй эх сурвалжтай бөгөөд олон нийтийн оролцоотойгоор тогтмол сайжирч байна.",
+   "published": "2026-10-18T06:13:15Z",
+   "added": "2026-10-18T06:13:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a3fd88c8bf2b98d8",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/mixelpixx/Konnect",
+   "image": "https://opengraph.githubassets.com/25cf1a72f5d25c8addb65eb90afba16650915d68a0259468de7562fdcd4fed5c/mixelpixx/Konnect",
+   "title": "mixelpixx/Konnect",
+   "summary_en": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing Konnect *BETA Release AI-assisted PCB design for KiCAD 10. Konnect is a native KiCAD plugin — a single Rust binary — that lets Claude and other AI assistants design schematics and PCBs through the Model Context Protocol (MCP). 228 tools across 21 on-demand toolsets. Schematic capture, PCB layout and routing, ERC/DRC, design-review audits, JLCPCB part search, reference circuits, and a…",
+   "title_mn": "mixelpixx/Konnect: KiCAD 10-д зориулсан AI туслахтай PCB дизайн хийх хэрэгсэл",
+   "summary_mn": "Konnect нь KiCAD 10-д зориулсан Rust хэлээр бичигдсэн тогтмол хоёртын файл бөгөөд Claude болон AI агентуудад MCP ашиглан PCB дизайн хийх боломж олгодог.",
+   "body_mn": "mixelpixx/Konnect нь KiCAD 10 программ хангамжид зориулсан Model Context Protocol (MCP) ашиглан Claude болон бусад AI туслахуудад схем болон PCB дизайн хийх боломжийг олгодог Rust хэлээр бичигдсэн плагин юм.\n\nУг төсөл нь өмнөх KiCAD-MCP-Server төслийн сул талуудыг засаж, олон хэл хоорондын холболт, subprocess болон SWIG хамаарлуудыг арилган нэг л статик бинар файл хэлбэрээр ажиллахаар бүтээгджээ. Ингэснээр хэрэгсэл нь илүү хурдан суулгагдаж, KiCAD 10-ын албан ёсны IPC API-тай шууд холбогддог.\n\nЭнэхүү хэрэгсэл нь 228 гаруй хэрэгслийг багтаасан бөгөөд схем зурах, байршил тогтоох, дизайн шалгах, JLCPCB эд анги хайх зэрэг олон үйлдлийг AI тусламжтайгаар автоматжуулах боломжийг инженерүүдэд олгож байна.",
+   "published": "2026-10-18T06:13:15Z",
+   "added": "2026-10-18T06:13:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "43eb119f50cdde85",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/GCWing/OpenBitFun",
+   "image": "https://opengraph.githubassets.com/9f0a96cbde088deb8a972b4b9666b28d16da1c086c0c4d7f05bf2a320d159142/GCWing/OpenBitFun",
+   "title": "GCWing/OpenBitFun",
+   "summary_en": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development. https://openbitfun.com English · 中文 Built to keep going. OpenBitFun is a highly customizable, open-source agent workspace that keeps work moving your way. Four powerful Agent Harness modes · Cross-device remote control · Customization from Mini Apps to source If this is the kind of agent workspace you want, ⭐ Star OpenBitFun and help more people discover it. Download Desktop ·…",
+   "title_mn": "GCWing/OpenBitFun: Өөрчлөн тохируулах боломжтой нээлттэй эх сурвалжтай агент ажлын орчин",
+   "summary_mn": "OpenBitFun 1.0.0 нь олон төхөөрөмж хоорондын удирдлага, 4 төрлийн Agent Harness горим бүхий Rust хэлээр бүтээгдсэн AI агент ажлын орчин юм.",
+   "body_mn": "GCWing/OpenBitFun нь ажлын урсгалыг хүссэнээрээ удирдах боломжийг олгодог, өндөр түвшинд тохируулах боломжтой нээлттэй эх сурвалжтай агент ажлын орчин юм. Шинэ 1.0.0 хувилбар нь шинэчлэгдсэн интерфейс, олон төхөөрөмж хоорондын удирдлага болон 4 төрлийн Agent Harness горимыг санал болгож байна.\n\nRust хэлээр бичигдсэн Agent Runtime нь сессийн төлөв, контекст болон хэрэгслийн гүйцэтгэлийг найдвартай удирддаг бөгөөд хэрэглэгчид ширээний компьютер, гар утас болон браузераар дамжуулан ажлаа үргэлжлүүлэх боломжтой. Мөн Mini Apps болон Mini App Marketplace ашиглан өөрийн хэрэгцээт багаж хэрэгслийг хялбархан бүтээх боломжтой.\n\nУг төсөл нь DeepSWE v1.1 үнэлгээнд өндөр амжилт үзүүлсэн бөгөөд агентын удирдлага, алсын холболт шаарддаг хөгжүүлэгчдэд зориулагдсан болно.",
+   "published": "2026-10-18T06:13:15Z",
+   "added": "2026-10-18T06:13:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
   }
  }
 ]

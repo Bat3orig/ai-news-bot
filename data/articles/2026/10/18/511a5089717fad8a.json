@@ -1,0 +1,17 @@
+{
+ "id": "511a5089717fad8a",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/yt-dlp/yt-dlp",
+ "image": "https://repository-images.githubusercontent.com/307260205/b6a8d716-9c7b-40ec-bc44-6422d8b741a0",
+ "title": "yt-dlp/yt-dlp",
+ "summary_en": "A feature-rich command-line audio/video downloader https://discord.gg/H5MNcFW63r yt-dlp is a feature-rich command-line audio/video downloader with support for thousands of sites . The project is a fork of youtube-dl based on the now inactive youtube-dlc . INSTALLATION Detailed instructions Release Files Update Dependencies Compile USAGE AND OPTIONS General Options Network Options Geo-restriction Video Selection Download Options Filesystem Options Thumbnail Options Internet Shortcut Options Verbosity and Simulation Options Workarounds Video Format Options Subtitle Options Authentication…",
+ "title_mn": "yt-dlp/yt-dlp: Олон мянган сайтын видео татах команд мөрийн хэрэгсэл",
+ "summary_mn": "yt-dlp нь youtube-dl төслөөс салбарласан, олон мянган сайтын видео болон аудиог татах өргөн боломжтой команд мөрийн хэрэгсэл юм.",
+ "body_mn": "yt-dlp/yt-dlp нь интернэт дэх олон мянган вэбсайтаас видео болон аудио татаж авах зориулалттай, өргөн боломжтой команд мөрийн хэрэгсэл юм. Уг төсөл нь youtube-dl болон youtube-dlc төслүүдэд суурилсан бөгөөд идэвхтэй шинэчлэгддэгээрээ алдартай.\n\nХөгжүүлэгчид үүнийг Python pip, binaries эсвэл гуравдагч талын багц удирдагч ашиглан суулгах боломжтой. Python 3.10+ хувилбаруудыг дэмждэг ба видео болон аудио файлуудыг нэгтгэхэд ffmpeg, мөн YouTube-ийн бүрэн дэмжлэгт yt-dlp-ejs болон JavaScript engine (Deno, Node.js гэх мэт) шаардлагатай.\n\nТөсөл нь Unlicense болонрим GPLv3+ лифценцүүдийн дор хөгжүүлэгддэг бөгөөд stable, nightly болон master сувгуудаар дамжуулан шинэчлэлтээ хүргэдэг.",
+ "published": "2026-10-18T06:13:15Z",
+ "added": "2026-10-18T06:13:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

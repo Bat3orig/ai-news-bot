@@ -1,0 +1,17 @@
+{
+ "id": "b6bd2783a916c52e",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/zed-industries/zed",
+ "image": "https://opengraph.githubassets.com/8ce5af12c27dc6c999bbd8ee80e840c1d7bfacff28a15e651bd389559cd76955/zed-industries/zed",
+ "title": "zed-industries/zed",
+ "summary_en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. https://zed.dev Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter . Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager ( macOS / Linux / Windows ). Other platforms are not yet available: Web ( tracking discussion ) Developing Zed Building Zed for macOS Building Zed for Linux Building Zed for Windows Contributing See CONTRIBUTING.md for ways you can…",
+ "title_mn": "zed-industries/zed: Өндөр бүтээмжтэй, олон хэрэглэгчийн кодын редактор",
+ "summary_mn": "Zed нь Atom болон Tree-sitter бүтээгчдийн хөгжүүлсэн, macOS, Linux, Windows үйлдвэрлэлийн системд зориулсан өндөр хурдтай кодын редактор юм.",
+ "body_mn": "zed-industries/zed нь програм хангамж хөгжүүлэгчдэд зориулсан өндөр гүйцэтгэлтэй, олон хэрэглэгчийн хамтын ажиллагааг дэмждэг орчин үеийн кодын редактор юм. Энэхүү төслийг алдартай Atom редактор болон Tree-sitter бүтээгчид санаачлан хөгжүүлжээ.\n\nУг редактор нь macOS, Linux болон Windows үйлдвэрлэлийн системүүдэд шууд татаж авах болон багц удирдагчаар дамжуулан суулгах боломжтой байдлаар бүтээгдсэн байна. Гол код нь GPL-3.0-or-later лицензтэй бөгөөд зарим хэсэг нь Apache-2.0 лицензтэй байдаг.\n\nХурд болон хөнгөн байдлыг эрхэмлэдэг хөгжүүлэгчдэд зориулсан уг редактор нь нээлттэй эх сурвалжтай бөгөөд олон нийтийн оролцоотойгоор тогтмол сайжирч байна.",
+ "published": "2026-10-18T06:13:15Z",
+ "added": "2026-10-18T06:13:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
