@@ -1,0 +1,17 @@
+{
+ "id": "6bc06177a5a6461d",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.35.1",
+ "image": "https://opengraph.githubassets.com/5ec8fec8931bca2ef20edf3a66083743e4f838fa4873e2c0a3f84b16819711af/openai/openai-python/releases/tag/v3.35.1",
+ "title": "openai-python v3.35.1",
+ "summary_en": "3.35.1 (2026-10-18) Bug Fixes preserve beta Realtime byte reads on websockets 13 ( #4102 ) ( 5766349 )",
+ "title_mn": "openai-python v3.35.1 хувилбар гарав",
+ "summary_mn": "Python хэлний OpenAI албан ёсны сангийн v3.35.1 хувилбар гарч, Realtime WebSocket холболтын алдааг заслаа.",
+ "body_mn": "OpenAI python сангийн v3.35.1 засварын хувилбар олон нийтийн хүртээл боллоо. Энэхүү шинэчлэлт нь WebSocket холболт дээрх beta Realtime byte reads үйл ажиллагааг зөв хадгалж үлдэх чухал засварыг багтаасан байна.\n\nPython хэл ашиглан OpenAI-ийн бодит цагийн Realtime API болон WebSocket үйлчилгээг хөгжүүлэлтдээ ашиглаж буй хөгжүүлэгчдийн хувьд энэхүү алдаа засалт нь холболтын тогтвортой байдлыг хангахад чухал ач холбогдолтой юм.",
+ "published": "2026-10-18T01:05:46Z",
+ "added": "2026-10-18T01:18:54Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "80f7d46d93c2c75c",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7BIu1uOKc0Yg5PAdei0JZG/f167bea4aae659810c31d92237eee05f/vercel_builds_hydrogen_with_shopify_og_card.jpg",
-   "title": "Vercel and Shopify make agents first-class shoppers",
-   "summary_en": "Agents already shop on the web, but they often use pages and tools originally built for people and search engines. Building a better shopping experience for agents means treating them as first-class shoppers, with product information they can read directly and tools designed for agents to shop. Today, Vercel Shop , our open source Next.js storefront template for Shopify , is generally available. Teams can launch storefronts optimized for how people, search engines, and agents interact with them. Vercel Shop is built on Shopify’s Hydrogen SDK . The SDK gives teams access to the store’s…",
-   "title_mn": "Vercel болон Shopify агентуудад зориулсан Vercel Shop темплэйтийг танилцууллаа",
-   "summary_mn": "Vercel компани Shopify-тай хамтран хиймэл оюуны агентуудад зориулсан Vercel Shop нээлттэй эхийн Next.js темплэйтийг бүрэн танилцууллаа. Уг шийдэл нь дахин шинэчлэгдсэн Hydrogen SDK болон UCP стандартаар дамжуулан агентуудад саадгүй худалдан авалт хийх боломжийг олгож байна.",
-   "body_mn": "Vercel болон Shopify компаниуд хиймэл оюуны агентуудыг нэгдүгээр зэрэглэлийн хэрэглэгч гэж үзэх шинэ хандлагыг нэвтрүүлж, Next.js дээр суурилсан Vercel Shop нээлттэй эхийн дэлгүүрийн темплэйтийг нийтийн хүртээл болголоо. Энэхүү темплэйт нь энгийн хэрэглэгч, хайлтын систем болон AI агентуудад зэрэг зориулагдсан архитектуртай юм.\n\nТөсөл нь Shopify-ийн шинэчлэгдсэн Hydrogen SDK дээр үндэслэсэн бөгөөд бүтээгдэхүүний мэдээлэл, сагс, төлбөрийн урсгалыг бүрэн агуулсан. Нэг хуудасны хаяг нь хүнд визуал байдлаар харагдахаас гадна агентуудад зориулсан бүтцийн өгөгдлийг машинаар унших боломжтойгоор үзүүлдэг.\n\nТүүнчлэн Universal Commerce Protocol (UCP) болон MCP (Model Context Protocol)-ийг дэмждэг тул агентууд сайт дундуур төөрөлгүйгээр өөрийн домэйноос бараа хайж, сагсанд нэмэх боломжтой болсон нь цахим худалдааны хөгжүүлэлтэд шинэ шат авчирч байна.",
-   "published": "2026-10-16T07:00:00Z",
-   "added": "2026-10-16T18:36:20Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7bafe933a7338a39",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "MIXED Reality News",
-   "url": "https://mixed-news.com/en/compliance-api-instructions-for-claude-account-level-every-organisation/",
-   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/0127845de9b30f0146d7d45c49049be8b749b158.jpg",
-   "title": "The instructions you typed into Claude can now be pulled by every organisation you belong to",
-   "summary_en": "Anthropic’s Compliance API can now return the text each member of a Claude Enterprise organisation typed into Instructions for Claude in claude.ai, and",
-   "title_mn": "Anthropic байгууллагуудад хэрэглэгчийн тохиргоог татах Compliance API гаргав",
-   "summary_mn": "Anthropic-ийн Claude Enterprise байгууллагуудад зориулсан шинэ Compliance API гарлаа. Тус эндпойнтоор дамжуулан ажилтнуудын claude.ai дээр оруулсан хувийн заавруудыг тухайн ажилтны харьяалагдах байгууллагын админууд татан шалгах боломжтой болжээ.",
-   "body_mn": "Anthropic өөрийн Claude Enterprise хэрэглэгчдэд зориулан Compliance API-даа шинэ бэта эндпойнт нэмлээ. Энэхүү эндпойнт нь байгууллагын гишүүдийн claude.ai тохиргоондоо бичсэн Instructions for Claude болон Cowork-ийн Global instructions өгөгдлийг эзэмшигчдэд унших боломжийг олгож байна.\n\nШинэ GET /v1/compliance/organizations/{org_uuid}/user_preferences эндпойнт нь read:compliance_user_data эрхтэй Compliance Access Key шаарддаг. Хэрэглэгчийн зааварчилгаа нь байгууллагын бус хувийн бүртгэлийн түвшний тохиргоо тул нэг ажилтны бичсэн заавар түүний харьяалагдах бүх байгууллагын тайланд нэгэн зэрэг харагдах онцлогтой юм.\n\nAnthropic уг түлхүүрийг үйлдвэрлэлийн өгөгдлийн сангийн нууц үгтэй адилтган маш нарийн хамгаалахыг анхааруулсан бөгөөд уг боломж зөвхөн Enterprise төлөвлөгөөтэй хэрэглэгчдэд хамаарч, хувийн Pro, Max болон Free хэрэглэгчдэд хамаарахгүй.",
-   "published": "2026-10-16T07:03:49Z",
-   "added": "2026-10-16T18:36:20Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3d0a92e9ce80b290",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "Slator",
-   "url": "https://slator.com/spacexai-updates-grok-voice/",
-   "image": "https://slator.com/assets/2026/10/velora-fd8d27ac88f139f1.png",
-   "title": "SpaceXAI Updates Speech-to-Speech Model",
-   "summary_en": "SpaceXAI launches Grok Voice 3.0, handling 20K Starlink customer calls daily.",
-   "title_mn": "SpaceXAI компани Grok Voice 3.0 загвараа танилцууллаа",
-   "summary_mn": "SpaceXAI компани бодит цагийн ярианы агентудад зориулсан шинэчилсэн Grok Voice 3.0 загвараа гаргалаа. Уг загвар нь Artificial Analysis индекст тэргүүлж, Starlink болон Tesla-ийн хэрэглэгчийн үйлчилгээний дуудлагыг амжилттай удирдаж байна.",
-   "body_mn": "Elon Musk-ийн удирддаг SpaceXAI компани Grok Voice 3.0 хэмээх бодит цагийн ярианаас ярианд (speech-to-speech) шилжих шинэ загвараа албан ёсоор танилцууллаа. Тус компани шинэ загвараа Starlink-ийн олон хэл дээрх хэрэглэгчийн дэмжлэг үзүүлэх дуудлагыг хүний оролцоогүйгээр амжилттай удирдаж эхэлснийг мэдэгдэв. API баримт бичигт дурдсанаар уг загвар нь 20 гаруй хэл болон аялгаар чөлөөтэй ярих чадвартай ажээ.\n\nArtificial Analysis хэмээх бенчмарк компани Grok Voice 3.0 загварыг Speech-to-Speech индекстээ OpenAI болон Google-ийн загваруудыг ардаа орхин нэгдүгээрт эрэмбэлсэн байна. Тус загварын даалгавар гүйцэтгэх амжилт нь 94.8%-д хүрчээ. SpaceXAI-ийн мэдээлснээр Starlink болон Tesla компаниудын хэмжээнд өдөрт сая сая яриаг энэхүү систем хангаж байгаа бөгөөд дуудлагын 70 орчим хувийг хүний оролцоогүйгээр бүрэн шийдвэрлэж байна.\n\nШинэ загвар нь мөн Tesla машинд болон Grok Bot-ын дуудлагын горимд ашиглагдаж байгаа бөгөөд хэрэглэгчид гар утсаа ашиглахгүйгээр хуваарь шалгах, захиалга өгөх зэрэг олон төрлийн үйлдлийг хийх боломжтой болжээ. Grok Voice 3.0 нь хөгжүүлэгчдэд зориулсан API-римээр дамжуулан минут нь 0.08 ам.долларын үнэтэйгээр ашиглагдах юм.",
-   "published": "2026-10-16T10:04:17Z",
-   "added": "2026-10-16T18:36:20Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "fb4846301b13c103",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/big-tech/article/3371203/alibaba-embed-ai-throughout-taobao-tmall-merchant-operations-2027-executive",
-   "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/16/48d941f7-1ac9-475c-88f1-3dd8100aada1_e01c8940.jpg?itok=7Ur4gvb7&v=1792157856",
-   "title": "Alibaba to embed AI throughout Taobao, Tmall merchant operations in 2027",
-   "summary_en": "The plans include Qwen Work-powered tools for merchants and AI-driven product discovery for consumers.",
-   "title_mn": "Alibaba компани Qwen Work туслахыг Taobao болон Tmall платформд нэвтрүүлнэ",
-   "summary_mn": "Alibaba Group ирэх жилээс өөрийн цахим худалдааны Taobao, Tmall платформ дээрх худалдагчдын үйл ажиллагаанд Qwen Work хиймэл оюун ухааныг бүрэн нэвтрүүлэхээр төлөвлөжээ.",
-   "body_mn": "Alibaba Group Holding-ийн дотоодын цахим худалдааны гол платформ болох Taobao болон Tmall компаниуд ирэх жилээс эхлэн худалдагчдын үйл ажиллагаанд хиймэл оюун ухааныг өргөнөөр ашиглахаар төлөвлөж байна. Энэ талаар Tmall-ын ерөнхийлөгч Liu Bo Singles’ Day хэвлэлийн хурлын үеэр мэдэгджээ.\n\nЭнэхүү өргөжүүлэлтийн гол хөдөлгөгч хүч нь Alibaba-гийн байгууллагын хиймэл оюун ухааны туслах болох Qwen Work байх ажээ. Олон платформоор бараа бүтээгдэхүүн борлуулдаг худалдагчдад зориулсан энэхүү хэрэгслийн туршилт энэ долоо хоног эхэлсэн бөгөөд ирэх жилээс ажлын урсгалд бүрэн нэвтрэх юм.\n\nӨнгөрсөн жилийн хугацаанд Taobao болон Tmall платформ дээр хиймэл оюун ухааныг ашигласан туршилт хүлээлтээс давсан үр дүнтэй байсныг удирдлагууд онцолжээ. Худалдагчид бүтээгдэхүүн гаргах, сурталчилгаа хийх, харилцагчийн үйлчилгээ үзүүлэх зэрэгт platform-level AI хэрэгслүүдийг хэдийнэ өргөнөөр ашиглаж байна.",
-   "published": "2026-10-16T13:37:50Z",
-   "added": "2026-10-16T18:36:20Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d8439d8d82dd840c",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "MIXED Reality News",
-   "url": "https://mixed-news.com/en/claude-code-2-1-301-model-switch-summary-usage-credits/",
-   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/f66071070c4701ea2c37fc01b3c0f83623cf29d3.jpg",
-   "title": "Claude Code could spend your credits on a summary by the model you were leaving, until 2.1.301",
-   "summary_en": "Switching Claude Code to a model with a smaller context window could spend your usage credits on a summary written by the model you were leaving, without",
-   "title_mn": "Anthropic компани Claude Code 2.1.301 хувилбарыг гаргаж, кредит болон контекстийн алдааг заслаа",
-   "summary_mn": "Claude Code 2.1.301 шинэчлэлтээр бага контекст цонхтой загварт шилжих үед хэрэглэгчийн зөвшөөрөлгүйгээр кредит зарцуулдаг байсан алдааг заслаа. Мөн загварын хувилбар солих болон API гарцтай холбоотой зарим чухал засуудыг оруулжээ.",
-   "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ 2.1.301 хувилбарийг npm реэстрид байршуулж, хөгжүүлэгчдийн тулгарч байсан зарим чухал алдаануудыг зассан байна. Хамгийн гол засалт нь хэрэглэгч Claude Code-г илүү жижиг контекст цонхтой загварт шилжүүлэх үед өмнөх загварын бичсэн хураангуй ярианд ашиглагдах кредит ямар нэгэн сануулгагүйгээр хасагддаг байсан алдааг залруулжээ.\n\nУг шинэчлэлтээр мөн олон төрлийн техникийн алдааг зассан байна. Тухайлбал, LLM gateway ашиглах үед хүсэлт давтагдаж алдаа гардаг байсан нөхцөл, мөн AWS Bedrock ашиглаагүй байхад awsAuthRefresh команд ажиллаж загвар солих үйл явцыг удаашруулдаг байсан асуудлыг шийдвэрлэжээ. Түүнчлэн 'fable' нэршилтэй холбоотойгоор зарим байгууллагад шинэ загвар байхгүй үед алдаа заадаг байсныг өмнөх хувилбар руу автоматаар шилжих замаар зассан байна.\n\nХөгжүүлэгчид үйл ажиллагаагаа илүү хялбар удирдах үүднээс шинээр CLAUDE_CODE_RETRY_WATCHZ_MAX_USAGE_LIMIT_WAIT_MS тохиргоог нэмж өгсөн бөгөөд энэ нь хэрэглээний хязгаарлалтад хүрсэн үед хүсэлтийг зогсоох боломжийг олгодог. Гэсэн хэдий ч тогтвортой (stable) сувгийг ашиглаж байгаа хэрэглэгчдэд энэ шинэчлэлт шууд хүрэхгүй бөгөөд одоогоор 2.1.292 хувилбар хэвээр байгаа ажээ.",
-   "published": "2026-10-16T13:40:08Z",
-   "added": "2026-10-16T18:36:20Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7ae1f290b8cbe5ea",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/perplexity-decider-v1-2-models-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6SjEqDjCsv4dSU7FtQbFrp/74915dc350a65095c7f5ee524fa5bbf8/Vercel_x_Perplexity.png",
-   "title": "Perplexity's Decider V1.2 models now available on AI Gateway",
-   "summary_en": "Perplexity Decider V1.2 27B and Decider Flash V1.2 4B are now available on AI Gateway . Both are multimodal decision models for classifying content, routing requests, and scoring text, structured records, and images. The models answer typed questions with probabilities. Boolean questions return the likelihood of yes, Choice questions select from categories you define, and Score questions assess content against an ordered rubric. Your application can use those results to route a support ticket, flag a damaged product, or send an uncertain decision for human review. Multiple questions can…",
-   "title_mn": "Perplexity-ийн Decider V1.2 шийдвэр гаргагч загварууд Vercel AI Gateway-д нэмэгдлээ",
-   "summary_mn": "Vercel-ийн AI Gateway платформд Perplexity-ийн Decider V1.2 27B болон Flash V1.2 4B мультимодал загварууд нэмэгдлээ. Хөгжүүлэгчид контент ангилах, хүсэлт чиглүүлэх болон оноо өгөх үйлдлийг хялбар гүйцэтгэх боломжтой.",
-   "body_mn": "Vercel компани AI Gateway дээрээ Perplexity Decider V1.2 27B болон Decider Flash V1.2 4B загваруудыг албан ёсоор дэмжиж эхэлснээ зарлалаа. Эдгээр нь текст, бүтэцлэгдсэн өгөгдөл болон зургийг шинжлэн контент ангилах, хүсэлт чиглүүлэхэд зориулагдсан мультимодал шийдвэр гаргагч загварууд юм.\n\nDecider V1.2 загварууд нь асуултад магадлалын хэлбэрээр хариулдаг. Тухайлбал, тийм/үгүй төрлийн Boolean хариулт, хөгжүүлэгчийн тодорхойлсон ангиллаас сонгох Choice хариулт, мөн шалгуурын дагуу үнэлэх Score хариултыг нэг хүсэлтээр олон асуултад нэгэн зэрэг буцааж чадна. Үүнийг дэмжлэгийн хүсэлтийг чиглүүлэх, гэмтэлтэй барааны зургийг илрүүлэх зэрэгт шууд ашиглаж болно.\n\nХөгжүүлэгчид эдгээр загварыг Vercel AI SDK, Decisions API эсвэл TypeSafe-тэй нийцтэй API-аар дамжуулан дуудах боломжтой. AI Gateway-ийн нэг API түлхүүрээр бүх зардал, логуудыг нэг дор хянаж, үйлчилгээ үзүүлэгчийн үндсэн үнээр ямар ч нэмэлт шимтгэлгүй ашиглах боломжтой юм.",
-   "published": "2026-10-16T00:00:00Z",
-   "added": "2026-10-16T21:51:37Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a39e7daa0f724775",
-   "subtopic": "vibe-coding",
-   "source": "Cursor Changelog",
-   "source_label": "Cursor Changelog",
-   "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
-   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
-   "title": "Cloud Agent Canvases and Environment Improvements",
-   "summary_en": "Cloud agents can now build and share interactive canvases. The Environments API is available in beta, environments support up to 300 repos, and large environments load 5x faster.",
-   "title_mn": "Cursor Cloud Agents интерактив Canvas болон орчны шинэ боломжуудтай боллоо",
-   "summary_mn": "Cursor-ийн Cloud Agents одоо ажлынхаа үр дүнг интерактив Canvas байдлаар үүсгэж, багийнхантайгаа холбоосоор хуваалцах боломжтой боллоо. Мөн орчныг программчлан удирдах Environments API болон 300 хүртэлх репозитор дэмждэг болжээ.",
-   "body_mn": "Cursor хөгжүүлэлтийн хэрэгсэл Cloud Agents-дээ интерактив Canvas болон клауд орчны томоохон шинэчлэлтүүдийг танилцууллаа. Одоо хиймэл оюуны агент нь код бичихээс гадна интерактив canvas үүсгэх чадвартай болсон бөгөөд хөгжүүлэгчид үүнийг холбоос хэлбэрээр багийн бусад гишүүдэд илгээж шууд харуулах боломжтой.\n\nТүүнчлэн агентуудын ажиллах клауд орчныг кодоор автоматаар үүсгэж, удирдах зориулалттай Environments API бета туршилтаар нээгдлээ. Энэ нь төслийн орчныг автоматаар бэлдэх, CI/CD болон автоматжуулалтын урсгалд агентуудыг нэгтгэхэд практик давуу тал олгож байна.\n\nКлауд агентын орчны хүчин чадлыг эрс тэлж, нэгэн зэрэг 300 хүртэлх кодын репозитортой ажиллах боломжтой болгожээ. Мөн олон репозитор бүхий том төслүүдийн ачааллах хурдыг 5 дахин сайжруулснаар агент том системүүд дээр хурдан ажиллах нөхцөл бүрдсэн байна.",
-   "published": "2026-10-16T00:00:00Z",
-   "added": "2026-10-16T21:51:37Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9b446f087c38409b",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Cybernews",
-   "url": "https://cybernews.com/security/claude-code-preview-pane-secret-leak-flaw/",
-   "image": "https://media.cybernews.com/images/featured-big/2026/09/claude-logo-nur-photo-phonre.jpg",
-   "title": "Claude Code's preview pane could leak your secrets",
-   "summary_en": "8.7-rated Claude Code vulnerability could let malicious HTML steal SSH keys and tokens via its preview pane. See which risks developers face",
-   "title_mn": "Claude Code Desktop-ийн цонхоор нууц түлхүүрүүд алдагдах эрсдэл илэрч, засагджээ",
-   "summary_mn": "Claude Code Desktop-ийн HTML preview цонхны SneakPeek цоорхойг ашиглан хөгжүүлэгчийн SSH, AWS түлхүүр зэрэг нууц мэдээллийг зөвшөөрөлгүй хулгайлах боломжтой байжээ. Anthropic уг 8.7 үнэлгээтэй ноцтой алдааг v1.30096.1 хувилбарт зассан байна.",
-   "body_mn": "Noma Labs-ийн аюулгүй байдлын шинжээчид Anthropic компанийн Claude Code Desktop аппликейшнд SneakPeek нэртэй эмзэг байдал илрүүлсэн байна. Энэхүү цоорхой нь CVSS v4.0 системээр 8.7 оноо авсан ноцтой алдаанд тооцогдож байгаа бөгөөд халдагчид хөгжүүлэгчийн төхөөрөмж дээрх нууц файлуудыг алсаас хулгайлах эрсдэлийг үүсгэж байжээ.\n\nХалдлага нь код шалгалтын тайлан нэртэй хортой JavaScript агуулсан HTML файлыг олон нийтийн репозиторт оруулахаас эхэлдэг байна. Хөгжүүлэгч уг төслийг татаж аваад Claude Code-оор тайланг шалгуулах үед апп доторх preview цонх HTML-ийг уншиж, хэрэглэгчээс ямар нэгэн зөвшөөрөл асуулгүй хортой кодыг ажиллуулдаг байжээ. Тухайлбал 256KB-аас дээш хэмжээтэй HTML файлууд CSP болон локал файлын хязгаарлалтыг тойрч гарч байсан аж.\n\nҮүний үр дүнд халдагчид SSH хувийн түлхүүр, AWS хандалтын нууц, npm болон GitHub токеныг гаднын сервер рүү нууцаар илгээх боломжтой байв. Anthropic уг алдааг Claude Code Desktop v1.30096.1 хувилбарт бүрэн зассан тул хөгжүүлэгчдийг аппаа нэн даруй шинэчлэхийг зөвлөж байна.",
-   "published": "2026-10-16T13:49:20Z",
-   "added": "2026-10-16T21:51:37Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d756fb6808ffacf1",
-   "subtopic": "kimi",
-   "source": "Kimi (Google News)",
-   "source_label": "Intelligent Living",
-   "url": "https://www.intelligentliving.co/muse-spark-open-vs-kimi-k3-five-points/",
-   "image": "https://www.intelligentliving.co/wp-content/uploads/2026/10/muse-spark-open-vs-kimi-k3-size-gap.jpg",
-   "title": "Muse Spark Open vs Kimi K3: Five Points Smarter, Three Times the Cost",
-   "summary_en": "Muse Spark Open vs Kimi K3: the US model scores 39 to Kimi's 44 but costs less than half as much to run and is 2.5x faster.",
-   "title_mn": "Muse Spark Open болон Kimi K3: Нээлттэй том загваруудын харьцуулалт",
-   "summary_mn": "Meta-ийн 816 тэрбум параметртэй шинэ Muse Spark Open загварыг Moonshot AI-ийн 2.8 их наяд параметртэй Kimi K3 загвартай харьцуулжээ. Kimi K3 нь ерөнхий чадварын индексээр тэргүүлж байгаа бол Muse Spark Open нь агентын багаж ашиглалт болон хурд, өртгийн хувьд давуу талтай байна.",
-   "body_mn": "Meta компани 816 тэрбум параметртэй Muse Spark Open нээлттэй жинтэй загвараа танилцуулснаар Moonshot AI-ийн Kimi K3 загвартай шууд өрсөлдөх боллоо. Artificial Analysis-ийн үнэлгээгээр Kimi K3 нь чадварын оноогоор Muse Spark Open-оос илүү гарч байгаа хэдий ч загваруудын хэмжээ болон зориулалт харилцан адилгүй байна.\n\nMoonshot AI-ийн Kimi K3 нь 2.8 их наяд параметртэй бөгөөд урт дараалалтай өгөгдөл, кодчилол болон гүнзгий эргэцүүлэл хийхэд зориулсан том бүтэцтэй юм. Харин Meta-ийн Muse Spark Open нь харьцангуй авсаархан MoE архитектуртай бөгөөд хөгжүүлэгчид өөрсдөө сервер дээрээ ажиллуулах, fine-tune хийхэд тохиромжтой, илүү хурдан бөгөөд ажиллах зардал багатайгаараа ялгарч байна.\n\nТүүнчлэн Muse Spark Open нь агент түвшний багаж ашиглах даалгавар дээр илүү сайн гүйцэтгэл үзүүлж, хийсвэрлэх магадлал бага байгааг харьцуулалт харуулжээ. Гэхдээ эдгээр нээлттэй загваруудын аль аль нь Claude Opus зэрэг салбартаа тэргүүлэгч хаалттай загваруудын түвшинд хараахан хүрээгүй байна.",
-   "published": "2026-10-16T05:30:49Z",
-   "added": "2026-10-17T00:04:50Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "cf80280130ab47d4",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Defiant",
-   "url": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
-   "image": "https://cdn.sanity.io/images/6oftkxoa/production/65693db1236ff83e2954b3e8721da229bb5556b6-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
-   "title": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
-   "summary_en": "Anthropic says Claude reconstructed NIST elliptic-curve seed origins using a timestamp-seeded generator, without finding a weakness in the curves.",
-   "title_mn": "Claude NIST-ийн эллиптик муруйн эх үүсгэлийг 1990-ээд оны цагийн тэмдэглэгээтэй холбон тогтоов",
-   "summary_mn": "Anthropic-ийн мэдэгдсэнээр Claude загвар NIST эллиптик муруйн анхны утгуудыг цагийн тэмдэглэгээнд суурилсан генератор ашиглан сэргээсэн байна. Энэ нь муруйн аюулгүй байдлыг эвдээгүй ч криптографийн судалгаанд чухал ач холбогдолтой юм.",
-   "body_mn": "Anthropic компани өөрсдийн Claude загвар нь NIST-ийн алдартай эллиптик муруйн (elliptic curve) эхлэл утгуудыг (seeds) 1990-ээд оны цагийн тэмдэглэгээнээс (timestamp) үүссэн болохыг амжилттай тодорхойлж сэргээсэн тухай зарлалаа. Энэхүү судалгааны хүрээнд prime муруйн тав, binary муруйн дөрвөн утгыг хамарсан кодоо нийтэлжээ.\n\nСудлаачдын онцолсноор энэхүү ололт нь NIST эллиптик муруйн криптограф хамгаалалт, аюулгүй байдлыг эвдсэн хэрэг биш юм. Харин олон жилийн турш тодорхойгүй байсан санамсаргүй утгуудын үүслийг хиймэл оюуны тусламжтайгаар тайлж, бүрэн детерминистик аргаар дахин бүтээж болсныг харуулсан байна.\n\nКриптограф болон аюулгүй байдлын системүүдийг хөгжүүлэгчдийн хувьд энэ нь томоохон хэлний загварууд (LLM) код болон математикийн түүхэн өгөгдөлд гүнзгий задлан шинжилгээ хийж, нарийн учир холбогдлыг илрүүлэх боломжтойг баталсан сонирхолтой жишээ болж байна.",
-   "published": "2026-10-15T07:00:00Z",
-   "added": "2026-10-17T04:46:02Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "b81a488a1b8178eb",
    "subtopic": "kimi",
    "source": "Kimi (Google News)",
@@ -857,6 +657,46 @@
    "added": "2026-10-17T23:15:51Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "643fe715760a86ef",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc0",
+   "image": "https://opengraph.githubassets.com/92eda86ad7115345e1982b6857fbff367800dc0066524c9a78d892c19c19c82e/ollama/ollama/releases/tag/v0.40.7-rc0",
+   "title": "ollama v0.40.7",
+   "summary_en": "What's Changed openai: allow Responses effort on non-thinking models by @hoyyeva in #19010 llama-server: let llama-server infer the draft speculative type by @dhiltgen in #19064 mlx: add PPLX Decider v1.2 support by @dhiltgen in #19072 Full Changelog : v0.40.6...v0.40.7-rc0",
+   "title_mn": "Ollama v0.40.7 хувилбар гарлаа",
+   "summary_mn": "Ollama v0.40.7 шинэ хувилбар гарч, OpenAI-ийн зарим боломжууд болон llama-server дээр сайжруулалт хийгдл.",
+   "body_mn": "Ollama төсөл v0.40.7 шинэ хувилбараа албан ёсоор гаргалаа. Энэхүү хувилбараар дамжуулан хөгжүүлэгчид OpenAI-ийн thinking биш загварууд дээр Responses effort тохиргоог ашиглах боломжтой болж байна.\n\nМөн llama-server хэсэгт draft speculative төрлийг автоматаар таньж тодорхойлох боломжийг нэмжээ. Түүнчлэн MLX backend дээр PPLX Decider v1.2 загварын дэмжлэгийг нэмж оруулсан нь орон нутгийн хиймэл оюуны хэрэглээг илүү өргөжүүлж байна.\n\nЭнэхүү шинэчлэлт нь локал орчинд LLM загваруудыг ажиллуулж туршиж буй хөгжүүлэгчдэд илүү хурдан бөгөөд уян хатан орчныг бүрдүүлж өгч байгаагаараа чухал юм.",
+   "published": "2026-10-18T00:28:57Z",
+   "added": "2026-10-18T01:18:54Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6bc06177a5a6461d",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.35.1",
+   "image": "https://opengraph.githubassets.com/5ec8fec8931bca2ef20edf3a66083743e4f838fa4873e2c0a3f84b16819711af/openai/openai-python/releases/tag/v3.35.1",
+   "title": "openai-python v3.35.1",
+   "summary_en": "3.35.1 (2026-10-18) Bug Fixes preserve beta Realtime byte reads on websockets 13 ( #4102 ) ( 5766349 )",
+   "title_mn": "openai-python v3.35.1 хувилбар гарав",
+   "summary_mn": "Python хэлний OpenAI албан ёсны сангийн v3.35.1 хувилбар гарч, Realtime WebSocket холболтын алдааг заслаа.",
+   "body_mn": "OpenAI python сангийн v3.35.1 засварын хувилбар олон нийтийн хүртээл боллоо. Энэхүү шинэчлэлт нь WebSocket холболт дээрх beta Realtime byte reads үйл ажиллагааг зөв хадгалж үлдэх чухал засварыг багтаасан байна.\n\nPython хэл ашиглан OpenAI-ийн бодит цагийн Realtime API болон WebSocket үйлчилгээг хөгжүүлэлтдээ ашиглаж буй хөгжүүлэгчдийн хувьд энэхүү алдаа засалт нь холболтын тогтвортой байдлыг хангахад чухал ач холбогдолтой юм.",
+   "published": "2026-10-18T01:05:46Z",
+   "added": "2026-10-18T01:18:54Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
   }
  }
 ]

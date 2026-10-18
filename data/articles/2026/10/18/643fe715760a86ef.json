@@ -1,0 +1,17 @@
+{
+ "id": "643fe715760a86ef",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc0",
+ "image": "https://opengraph.githubassets.com/92eda86ad7115345e1982b6857fbff367800dc0066524c9a78d892c19c19c82e/ollama/ollama/releases/tag/v0.40.7-rc0",
+ "title": "ollama v0.40.7",
+ "summary_en": "What's Changed openai: allow Responses effort on non-thinking models by @hoyyeva in #19010 llama-server: let llama-server infer the draft speculative type by @dhiltgen in #19064 mlx: add PPLX Decider v1.2 support by @dhiltgen in #19072 Full Changelog : v0.40.6...v0.40.7-rc0",
+ "title_mn": "Ollama v0.40.7 хувилбар гарлаа",
+ "summary_mn": "Ollama v0.40.7 шинэ хувилбар гарч, OpenAI-ийн зарим боломжууд болон llama-server дээр сайжруулалт хийгдл.",
+ "body_mn": "Ollama төсөл v0.40.7 шинэ хувилбараа албан ёсоор гаргалаа. Энэхүү хувилбараар дамжуулан хөгжүүлэгчид OpenAI-ийн thinking биш загварууд дээр Responses effort тохиргоог ашиглах боломжтой болж байна.\n\nМөн llama-server хэсэгт draft speculative төрлийг автоматаар таньж тодорхойлох боломжийг нэмжээ. Түүнчлэн MLX backend дээр PPLX Decider v1.2 загварын дэмжлэгийг нэмж оруулсан нь орон нутгийн хиймэл оюуны хэрэглээг илүү өргөжүүлж байна.\n\nЭнэхүү шинэчлэлт нь локал орчинд LLM загваруудыг ажиллуулж туршиж буй хөгжүүлэгчдэд илүү хурдан бөгөөд уян хатан орчныг бүрдүүлж өгч байгаагаараа чухал юм.",
+ "published": "2026-10-18T00:28:57Z",
+ "added": "2026-10-18T01:18:54Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
