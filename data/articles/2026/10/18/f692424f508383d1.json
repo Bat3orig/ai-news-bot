@@ -1,0 +1,17 @@
+{
+ "id": "f692424f508383d1",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+ "title": "Websites are closing their doors to AI agents",
+ "summary_en": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 108 # Comments: 88",
+ "title_mn": "Томоохон вэб сайтууд хиймэл оюуны бие даасан агентуудын хандалтыг хааж эхэллээ",
+ "summary_mn": "Yelp, Delta, Amazon болон томоохон банкнууд хэрэглэгчийн өмнөөс автоматаар захиалга хийж, мэдээлэл цуглуулдаг OpenAI, Meta, xAI-ийн агентуудын хандалтыг хааж байна.",
+ "body_mn": "OpenAI, Meta, Google зэрэг компаниуд хэрэглэгчийн өмнөөс вэбээр аялж, худалдан авалт хийх эсвэл цаг товлох чадвартай бие даасан AI агентуудыг эрчимтэй танилцуулж байгаа ч интернэтийн томоохон платформууд тэднийг хааж эхэллээ. Тухайлбал Yelp зөвхөн төлбөртэй дата лицензтэй агентуудыг зөвшөөрч байгаа бол Delta Air Lines болон JPMorgan Chase зэрэг банк, нислэгийн байгууллагууд аюулгүй байдлын үүднээс агентуудын хандалтыг хязгаарлажээ.\n\nAmazon өмнө нь Perplexity-ийн автомат худалдан авалтын функцийг хааж, шүүхэд өгч байсан бөгөөд одоо Meta Muse, xAI Grok болон OpenAI Dots зэрэг бусад агентуудыг мөн платформоосоо блок хийж эхэлсэн байна. Вэб үйлчилгээ эрхлэгчдийн үзэж байгаагаар автомат агентууд сурталчилгааны урсгалыг бууруулж, үйлчилгээний нөхцөлийг зөрчиж байна.\n\nЭнэхүү ботын эсрэг хамгаалалтууд чангарч байгаа нь вэб хуудсаар дамжин даалгавар гүйцэтгэдэг AI агентууд бүтээж буй хөгжүүлэгчдэд томоохон сорилт болж байна. Албан ёсны API болон төлбөрт дата түншлэлгүйгээр бие даасан агент бүтээх нь бодит орчинд ажиллах чадваргүй болох эрсдэл үүсгэж байна.",
+ "published": "2026-10-18T14:58:10Z",
+ "added": "2026-10-18T17:41:51Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}
