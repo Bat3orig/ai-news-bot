@@ -1,0 +1,17 @@
+{
+ "id": "85a78078f3d81687",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://sphinx-six-theta.vercel.app/",
+ "image": "",
+ "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+ "summary_en": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 146 # Comments: 44",
+ "title_mn": "Sphinx: Хиймэл оюуны бичсэн кодыг ойлгосон эсэхийг шалгадаг Git hook",
+ "summary_mn": "Sphinx нэртэй шинэ Git hook нь код илгээхээс өмнө хиймэл оюуны үүсгэсэн өөрчлөлтийн талаар хөгжүүлэгчээс асуулт асууж, кодоо ойлгосон эсэхийг шалгадаг.",
+ "body_mn": "Хиймэл оюунт туслахууд кодын сангуудад хурдацтай өөрчлөлт оруулж байгаа өнөө үед хөгжүүлэгчид кодын бодит логикийг бүрэн уншиж танилцахгүйгээр push хийх тохиолдол ихэсч байна. Sphinx төсөл нь энэ асуудлыг шийдвэрлэх зорилготой нээлттэй эхийн Git hook хэрэгсэл юм.\n\nКодыг репозитор руу илгээхээс өмнө Sphinx тухайн diff дээр үндэслэн онцгой тохиолдлууд, алдаа гарахад систем хэрхэн ажиллах тухай богино хэмжээний асуулт тавьдаг. Хөгжүүлэгч зөв хариулсан тохиолдолд push үйлдэл үргэлжлэх бөгөөд хэрэв алдаатай хариулбал юун дээр алдсаныг тайлбарлан өөр нөхцөлтэй асуулт дэвшүүлдэг байна.\n\nЭнэхүү хэрэгсэл нь Codex, Claude Code, Cursor, OpenCode зэрэг ямар ч агент болон ердийн Git дээр ажиллах боломжтой. Түүнчлэн нууц түлхүүрүүд болон .env файлуудыг уншихгүй байхаар тохируулагдсан бөгөөд яаралтай үед шалгалтыг алгасах тушаалтай ажээ.",
+ "published": "2026-10-18T04:33:49Z",
+ "added": "2026-10-18T11:29:36Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

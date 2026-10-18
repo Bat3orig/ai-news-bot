@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "2527a2533cad5399",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/XjRrN5hZhlEhKtaKK82HX/21cb9a2fc8061a972c50e795f492248a/Vercel_x_DeepSeek.png",
-   "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
-   "summary_en": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-step automation. With images, the model reads charts and handles visual reasoning more accurately when it can call tools. DeepSeek V4.1 Flash 1017 also finishes tasks faster and with shorter outputs than the previous snapshot, so agent runs tend to take less time and use fewer…",
-   "title_mn": "DeepSeek V4.1 Flash 1017 модель Vercel AI Gateway-д нэмэгдлээ",
-   "summary_mn": "Vercel AI Gateway платформд DeepSeek V4.1 Flash 1017 шинэчлэл орлоо. Загвар нь логик дүгнэлт, код бичих болон олон шатлалт агентын даалгавруудыг илүү хурдан, цөөн токеноор гүйцэтгэдэг болжээ.",
-   "body_mn": "Vercel компани DeepSeek V4.1 Flash 1017 загварыг өөрийн AI Gateway үйлчилгээндээ нэмлээ. Энэхүү шинэчлэл нь DeepSeek V4.1 Flash загварын сайжруулсан хувилбар бөгөөд логик сэтгэлгээ, кодчилол, агентын ажлууд болон зургийн өгөгдлийг таньж дүгнэх чадварыг эрс сайжруулсан байна.\n\nТус загвар нь терминал дээр ажиллах, төслийн репозиторыг бүтнээр нь үүсгэх, засахад өндөр үр дүн үзүүлж байгаагаас гадна олон алхамт автоматжуулалтыг чанартай гүйцэтгэдэг болжээ. Түүнчлэн график унших болон багаж хэрэгсэл (tool calling) ашиглан зураг дээр визуал дүгнэлт гаргах нарийвчлал нь өссөн байна.\n\nDeepSeek V4.1 Flash 1017 нь өмнөх хувилбараасаа илүү хурдан ажиллаж, даалгаврыг цөөн токеноор илэрхийлэн дуусгадаг болсон тул агентуудын ажиллах хугацаа болон зардал багасах давуу талтай. Хөгжүүлэгчид deepseek/deepseek-v4.1-flash-1017 нэршлээр Claude Code, Codex, Cursor зэрэг дэмжигдсэн орчинд Vercel CLI-ээр тохируулан ашиглах боломжтой.",
-   "published": "2026-10-17T00:00:00Z",
-   "added": "2026-10-17T12:40:52Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d080742bf703cfec",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.33.0",
-   "image": "https://opengraph.githubassets.com/0bc0a5802c7e96faf0068d1812750db630a2aaeb2c9693ed380759bbee8c18f0/openai/openai-python/releases/tag/v3.33.0",
-   "title": "openai-python v3.33.0",
-   "summary_en": "3.33.0 (2026-10-16) Features api: add safety identifiers to image requests and responses ( #4093 ) ( c969e32 ) api: share Decisions cache breakpoint parameter type ( #4092 ) ( f7cefda )",
-   "title_mn": "openai-python v3.33.0 хувилбар гарлаа",
-   "summary_mn": "OpenAI-ийн албан ёсны Python санд зургийн хүсэлт, хариунд аюулгүй байдлын танигч нэмж, кэшийн параметрийн төрлийг шинэчиллээ.",
-   "body_mn": "OpenAI албан ёсны Python SDK-ийнхөө v3.33.0 хувилбарыг нийтэллээ. Энэ удаагийн шинэчлэлтээр зургийн API хүсэлт болон хариунд аюулгүй байдлын танигчдыг (safety identifiers) дамжуулах боломжийг оруулсан байна.\n\nМөн Decisions кэшийн breakpoint параметрийн төрлийг хуваалцах (share) хэлбэрт шилжүүлж, санг ашиглан хөгжүүлэлт хийж буй системүүдийн төрөл шалгалтыг сайжруулжээ.\n\nЭдгээр өөрчлөлт нь OpenAI API ашиглан multimodal болон зураг боловсруулах аппликейшн бүтээж буй инженерүүдэд аюулгүй байдлын шалгалтыг хянах, кэш ашиглалтыг зөв тохируулахад туслах юм.",
-   "published": "2026-10-17T00:29:04Z",
-   "added": "2026-10-17T12:40:52Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e8f33c4d48d5b6a0",
-   "subtopic": "ai-devtools",
-   "source": "ollama/ollama",
-   "source_label": "ollama/ollama",
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
-   "image": "https://opengraph.githubassets.com/7dc71177e3507b1b962e2c8417e2c0a7545787cd089f37dfaf4d488ad88115ac/ollama/ollama/releases/tag/v0.40.6",
-   "title": "ollama v0.40.6",
-   "summary_en": "What's Changed win: prevent orphaned runners by @dhiltgen in #18500 gguf: add the q2_0 tensor and file types by @jmorganca in #18967 Launch clef in Ollama's cloud by @jberg5 in #19036 use identifiers for --ask mode question keys by @jberg5 in #19041 Full Changelog : v0.40.5...v0.40.6-rc0",
-   "title_mn": "Ollama v0.40.6 хувилбар гарлаа",
-   "summary_mn": "Ollama 0.40.6 хувилбарт Windows дээрх салангид процессуудыг зогсоох засвар орж, GGUF q2_0 төрлийг дэмжиж эхэллээ.",
-   "body_mn": "Орон нутгийн LLM ажиллуулах түгээмэл хэрэгсэл болох Ollama-ийн v0.40.6 хувилбар гарлаа. Шинэ хувилбарт Windows үйлдлийн систем дээр арын процессууд өнчирч үлдэх (orphaned runners) асуудлыг бүрэн зассан байна.\n\nМөн GGUF форматад q2_0 тензор болон файлын төрлийн дэмжлэгийг нэмсэн бөгөөд Ollama Cloud дээр clef ажиллуулах боломжийг суулгажээ. Үүнээс гадна --ask горим дахь асуултын түлхүүрүүдэд танигч (identifiers) ашигладаг болсон байна.\n\nЭнэхүү шинэчлэл нь бага санах ойтой төхөөрөмжүүдэд квантчлагдсан жижиг загваруудыг ажиллуулах болон Windows хөгжүүлэгчдийн системийн тогтвортой байдлыг хангахад чухал нөлөөтэй.",
-   "published": "2026-10-17T00:58:39Z",
-   "added": "2026-10-17T12:40:52Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "042fdf052f85d7cf",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Startup Fortune",
-   "url": "https://startupfortune.com/claude-opus-55-beats-a-human-baseline-and-ai-researchers-move-up-their-self-improvement-clock/",
-   "image": "https://startupfortune.com/wp-content/uploads/2026/10/vals-ai-rayan-krishnan-claude-opus-5-5.jpg",
-   "title": "Claude Opus 5.5 beats a human baseline and AI researchers move up their self improvement clock",
-   "summary_en": "Vals AI moved its full recursive self-improvement forecast to July 2027 after Claude Opus 5.5 beat a human baseline on its RSI Index benchmark.",
-   "title_mn": "Claude Opus 5.5 хөгжүүлэгчийн түвшнийг давж, RSI төлөвлөгөө урагшиллаа",
-   "summary_mn": "Vals AI-ийн шинжилгээгээр Opus 5.5 загвар хэлний загвар сургах даалгаварт хүний суурь түвшнийг давж, бүрэн RSI таамгийг 2027 оны 7 сар болголоо.",
-   "body_mn": "Хиймэл оюуны туршилтын бие даасан Vals AI компани өөрсдийн Recursive Self-Improvement (RSI) индексээ шинэчилж, загварууд өөрсдийгөө сайжруулах хугацааг 2027 оны 7 сар болгон нэг сараар урагшлууллаа. Ингэх болсон гол шалтгаан нь саяхан туршсан Claude Opus 5.5 загварын үр дүн байв.\n\nТус загвар 24 цагийн тооцооллын лимитийн хүрээнд жижиг хэлний загварыг эхнээс нь сургах даалгаварт 0.8308 bits per byte (BPB) оноо авч, судлаачдын тогтоосон хүний суурь хэмжүүр болох 0.85 BPB-ийг анх удаа давжээ. Индексийн нийт 5 даалгавраас 4-ийг нь тэргүүлж, ерөнхий дунджаар 0.46 авсан нь Gemini 4 Argon (0.29) болон GPT-6 Astra (0.27)-оос хол давсан үзүүлэлт болсон байна.\n\nГэсэн хэдий ч тестийн багц угсрах буюу harness engineering ангилалд Opus 5.5 ердөө 0.15 оноо авсан бөгөөд энэ чиглэлд хүний мэргэжилтнүүд 93.6%-ийн оновчлолтойгоор давамгайлсан хэвээр байгааг судалгаа харуулжээ.",
-   "published": "2026-10-17T03:56:04Z",
-   "added": "2026-10-17T12:40:52Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "46b877b468355580",
-   "subtopic": "ai-devtools",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://llmspeed.dev/",
-   "image": "https://llmspeed.dev/og.png",
-   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-   "summary_en": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 114 # Comments: 41",
-   "title_mn": "Llmspeed: Төхөөрөмж худалдаж авахаас өмнө орон нутгийн LLM-ийн хурдыг тооцоолох хэрэгсэл",
-   "summary_mn": "Llmspeed нээлттэй эхийн төсөл нь таны техник хангамж дээр төрөл бүрийн хэлний загварууд ямар хурдтай ажиллахыг урьдчилан тооцоолдог.",
-   "body_mn": "Орон нутгийн төхөөрөмж дээр том хэлний загварууд ажиллуулах сонирхолтой хөгжүүлэгчдэд зориулсан Llmspeed нэртэй нээлттэй эхийн шинэ хэрэгсэл Hacker News дээр танилцуулагдлаа.\n\nЭнэхүү хэрэгсэл нь r/LocalLLaMA болон localscore.ai зэрэг нийгэмлэгийн бодит жишиг тестүүдэд тулгуурлан тодорхой график карт, процессор бүхий системүүд дээр өгөгдсөн загвар ямар хурдтай ажиллахыг тооцоолж өгдөг байна. Хэмжигдээгүй шинэ төхөөрөмжүүдийн хувьд үзүүлэлт дээр үндэслэн таамаглал дэвшүүлдэг аж.\n\nОрон нутгийн LLM орчин бүрдүүлэхээр техник хангамж шинээр худалдан авахаар төлөвлөж буй инженерүүдэд хэрэгцээгүй зардал гаргахаас сэргийлэхэд туслах хэрэгсэл болжээ.",
-   "published": "2026-10-17T04:36:53Z",
-   "added": "2026-10-17T12:40:52Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8a7ce5c1e7243f72",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v44.9.0",
-   "image": "https://opengraph.githubassets.com/6ee1c153632dd6f65ca20b12db6e5be4200c15a865690b22d515e923ec8b5757/electron/electron/releases/tag/v44.9.0",
-   "title": "electron v44.9.0",
-   "summary_en": "Release Notes for v44.9.0 Features Added app shims on macOS to show windows under another app's Dock icon. #55073 (Also in 45 ) Fixes Fixed link-opened windows not using the opener's session and webPreferences . #55048 (Also in 42 , 43 , 45 ) Fixed setCertificateVerifyProc occasionally not being applied to a request issued concurrently with the first request to a host. #55046 (Also in 42 , 43 , 45 )",
-   "title_mn": "Electron v44.9.0 хувилбар гарлаа",
-   "summary_mn": "Electron v44.9.0-д macOS-д зориулсан шинэ боломж нэмэгдэж, холбоосоор нээгдсэн цонхны session алдааг заслаа.",
-   "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн Electron фрэймворкийн v44.9.0 хувилбар гарлаа. Энэхүү хувилбараар macOS дээр бусад аппликейшны Dock дүрс дор цонх харуулах боломж олгодог app shims дэмжлэгийг нэмсэн байна.\n\nМөн холбоосоор нээгдсэн цонхнууд эх цонхны session болон webPreferences тохиргоог авч ашиглахгүй байсан ноцтой алдааг зассан бөгөөд энэ засвар хуучин 42, 43, 45 хувилбаруудад мөн суусан байна.\n\nТүүнчлэн нэг хост руу зэрэгцэн хийгдсэн анхны хүсэлтүүд дээр setCertificateVerifyProc функц хааяа ажиллахгүй өнгөрдөг сүлжээний алдааг засварлажээ.",
-   "published": "2026-10-17T04:57:22Z",
-   "added": "2026-10-17T12:40:52Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "14842105a8e9957f",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Notebookcheck",
-   "url": "https://www.notebookcheck.net/Claude-Haiku-4-5-leaves-the-model-selector-on-October-29.1426214.0.html",
-   "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/claude-haiku-45-abschied-teaser.jpg",
-   "title": "Claude Haiku 4.5 leaves the model selector on October 29",
-   "summary_en": "Anthropic is removing Claude Haiku 4.5 from the model selector on October 29. The change affects the Free, Pro and Max plans in chat, Claude Cowork and Claude Design. Your old chats are kept, and Haiku 5.5 answers when you continue them. Here is who is exempt and what to check before the switch.",
-   "title_mn": "Claude Haiku 4.5 загвар 10-р сарын 29-нөөс сонголтоос хасагдана",
-   "summary_mn": "Anthropic 10-р сарын 29-нөөс Claude Haiku 4.5 хувилбарыг Free, Pro, Max багцуудын сонголтын цэснээс хасаж, Haiku 5.5 загвараар орлуулахаар боллоо. API болон Claude Code хэрэглэгчдэд энэ өөрчлөлт нөлөөлөхгүй.",
-   "body_mn": "Anthropic компани Claude чатын загвар сонгох цэснээс Claude Haiku 4.5 хувилбарыг 10-р сарын 29-нөөс эхлэн албан ёсоор хасахаар болсноо мэдэгдлээ. Түүний оронд 10-р сарын эхээр үнэгүй багцад гарсан шинэ Claude Haiku 5.5 загвар үндсэн сонголт болох юм.\n\nЭнэхүү өөрчлөлт нь Claude-ийн Free, Pro болон Max төлөвлөгөөний вэб, десктоп, мобайл апп дээрх чат, Claude Cowork, Claude Design зэрэг хэрэгслүүдэд хамаарна. Харин Team, Enterprise хэрэглэгчид болон Claude Code ашиглаж буй хөгжүүлэгчид өртөхгүй. Мөн Anthropic API-аар дамжуулан Haiku 4.5-ыг дуудаж байгаа системүүдэд ямар нэгэн өөрчлөлт орохгүй хэвийн ажиллана.\n\nХэрэглэгчдийн өмнө нь Haiku 4.5 дээр хийсэн хуучин чатууд хэвээр хадгалагдах бөгөөд 10-р сарын 29-нөөс хойш тухайн чатдаа үргэлжлүүлэн бичвэл шинэ Haiku 5.5 загвар хариулна. Хэрэв та Haiku 4.5 дээр тодорхой prompt, автоматжуулалт тогтмол ашигладаг бол уг хугацаанаас өмнө Haiku 5.5 дээр туршиж тохиргоогоо шалгахыг зөвлөж байна.",
-   "published": "2026-10-17T07:10:00Z",
-   "added": "2026-10-17T12:40:52Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "68075b827dd9c2b0",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_s1iz7fs1iz.2e16d0ba.fill-1200x600.jpg",
-   "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
-   "summary_en": "Google OAuth Platform now supports DPoP (Demonstrating Proof-of-Possession) to sender-constrain refresh tokens, neutralizing Infostealer malware and adversary-in-the-middle attacks. By cryptographically binding long-lived refresh tokens while maintaining short-lived access tokens as standard Bearer tokens, developers achieve robust credential security without incurring high-QPS API performance overhead. Additionally, developers integrating multi-agent or Model Context Protocol (MCP) workloads can use Google Cloud Secure Token Service (STS) to handle secure token delegation across agent chains.",
-   "title_mn": "Google OAuth системд DPoP дэмжлэг нэмэгдэж refresh token-ийг хамгаална",
-   "summary_mn": "Google өөрийн OAuth 2.0 платформдоо RFC 9449 DPoP протоколыг нэвтрүүлж, зөвхөн refresh token-ийг криптограф түлхүүртэй уяхаар шийдвэрлэжээ. Энэ нь API-ийн ачааллыг нэмэгдүүлэлгүйгээр токен хулгайлагдахаас сэргийлнэ.",
-   "body_mn": "Google компани өөрийн Identity болон OAuth платформдоо RFC 9449 стандартын дагуу DPoP (Demonstrating Proof-of-Possession) дэмжлэгийг нэвтрүүлснээ зарлалаа. Уламжлалт Bearer токен нь хэн эзэмшиж байгаад үл хамааран ажилладаг тул хортой код болон хөндлөнгийн халдлагаар хулгайлагдсан үед хэрэглэгчийг дуурайх эрсдэл дагуулдаг билээ.\n\nDPoP нь токенийг клиент талд үүсгэсэн асимметр криптограф түлхүүртэй баталгаажуулан холбодог тул токен алдагдсан ч тухайн хувийн түлхүүргүйгээр ашиглагдах боломжгүй юм. Google энэхүү хамгаалалтыг инженерийн ухаалаг шийдэл болгон зөвхөн урт настай refresh token дээр заавал шаардахаар зохион байгуулжээ. Харин өндөр QPS ачаалалтай ажилладаг resource API-уудын богино настай access token-ийг хэвээр үлдээж, системд криптограф шалгалтын хоцрогдол үүсэхээс сэргийлсэн байна.\n\nЭнэхүү шинэчлэл нь Google Workspace Context-Aware Access болон Gemini Enterprise Agent платформууд дээрх агентуудын аюулгүй байдлыг бэхжүүлэхэд чухал үүрэг гүйцэтгэх бөгөөд сүүлийн үеийн Model Context Protocol (MCP) зэрэг агентын дэд бүтцүүдэд HTTP толгой түвшинд найдвартай хамгаалалт болж өгнө.",
-   "published": "2026-10-17T16:03:26Z",
-   "added": "2026-10-17T16:03:26Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a50d216def4cada3",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending TypeScript",
-   "source_label": "GitHub Trending TypeScript",
-   "url": "https://github.com/cursor/plugins",
-   "image": "https://opengraph.githubassets.com/871cf357f97bd536322170664c245e0ec7aed52a6fe203ea297a720e1cf90003/cursor/plugins",
-   "title": "cursor/plugins",
-   "summary_en": "Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) teaching Teaching Cursor Utilities Skill mapping, practice plans, and learning retrospectives. continual-learning Continual Learning Eric Zakariasson Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only…",
-   "title_mn": "cursor/plugins: Cursor-т зориулсан албан ёсны плагины сан",
-   "summary_mn": "Cursor код засварлагчийн албан ёсны плагинуудыг нэгтгэсэн олон плагинт сан нээгдэв. Түгээмэл хөгжүүлэлтийн хэрэгсэл, сангууд болон SaaS үйлчилгээнүүдтэй ажиллах өргөтгөлүүдийг стандартын дагуу агуулжээ.",
-   "body_mn": "cursor/plugins нь Cursor хиймэл оюунт код засварлагчид зориулсан албан ёсны өргөтгөл, плагинуудыг төвлөрүүлсэн нээлттэй сан юм. Энэхүү сангаас хөгжүүлэгчид өдөр тутмын ажилдаа түгээмэл ашигладаг фрэймворк, хөгжүүлэлтийн хэрэгслүүд болон үүлэн SaaS үйлчилгээнүүдийг Cursor-той шууд уялдуулан ажиллуулах плагинуудыг татан авах боломжтой.\n\nТөслийн бүтэц нь multi-plugin marketplace загвараар хийгдсэн бөгөөд үндсэн root хавтсанд байрлах .cursor-plugin/marketplace.json файлд бүх плагинуудыг бүртгэж өгсөн байна. Харин өргөтгөл бүр нь бие даасан хавтастай бөгөөд өөрийн гэсэн .cursor-plugin/plugin.json тохиргооны манифест файлтай байхаар зохион байгуулагджээ.\n\nTypeScript болон JSON бүтэц дээр суурилсан уг репозиторыг сонирхсон хөгжүүлэгчид Cursor-т зориулан өөрсдийн плагиныг стандарт форматын дагуу бүтээх эсвэл бэлэн байгаа плагинуудыг өөрийн орчиндоо туршин үзэх замаар ашиглах бүрэн боломжтой юм.",
-   "published": "2026-10-17T16:03:26Z",
-   "added": "2026-10-17T16:03:26Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0f81bb6effed789a",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending TypeScript",
-   "source_label": "GitHub Trending TypeScript",
-   "url": "https://github.com/desktop/desktop",
-   "image": "https://repository-images.githubusercontent.com/58559694/aeae5400-6102-11e9-980d-dc74185ed41d",
-   "title": "desktop/desktop",
-   "summary_en": "Focus on what matters instead of fighting with Git. https://github.com/apps/desktop GitHub Desktop GitHub Desktop is an open-source Electron -based GitHub app. It is written in TypeScript and uses React . Where can I get it? Download the official installer for your operating system: macOS macOS (Apple silicon) Windows Windows machine-wide install Linux is not officially supported; however, you can find installers created for Linux from a fork of GitHub Desktop in the Community Releases section. Beta Channel Want to test out new features and get fixes before everyone else? Install the beta…",
-   "title_mn": "desktop/desktop: GitHub-ийн албан ёсны Electron болон React desktop апп",
-   "summary_mn": "GitHub-ийн десктоп клиент нь TypeScript, React болон Electron дээр суурилсан нээлттэй эхийн апп юм. Git-ийн коммандтай шууд зууралдалгүйгээр кодоо цэгцтэй удирдах боломжийг хөгжүүлэгчдэд олгодог.",
-   "body_mn": "desktop/desktop нь хөгжүүлэгчдийн өдөр тутамдаа ашигладаг GitHub Desktop програмын үндсэн нээлттэй эхийн репозитор юм. Уг аппликейшн нь хөгжүүлэгчдийг Git-ийн нарийн төвөгтэй коммандуудаас чөлөөлж, визуал интерфэйсээр дамжуулан хувилбарын хяналтаа хялбар удирдах боломжоор хангадаг.\n\nТөслийн технологийн стек нь TypeScript, React болон Electron хүрээн дээр суурилсан тул веб технологи ашиглан десктоп апп бүтээх туршлага судлахыг хүссэн инженерүүдэд маш сайн суурь жишээ болж чаддаг. Төсөл нь албан ёсоор macOS болон Windows үйлдлийн системийг дэмждэг бөгөөд Линукс үйлдлийн системд зориулсан форк болон олон нийтийн багцууд ч бий.\n\nХөгжүүлэгчид desktop.github.com хаягаас суулгацын файлыг татаж шууд хэрэглэх боломжтойгоос гадна төслийн setup.md зааврын дагуу өөрийн машин дээрээ локалаар ажиллуулан, open source хөгжүүлэлтэд нь хувь нэмрээ оруулах боломжтой.",
-   "published": "2026-10-17T16:03:26Z",
-   "added": "2026-10-17T16:03:26Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "57ecd5833b895331",
    "subtopic": "gh-js",
    "source": "GitHub Trending JavaScript",
@@ -716,6 +516,26 @@
    "published": "2026-10-18T06:13:15Z",
    "added": "2026-10-18T06:13:15Z",
    "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "85a78078f3d81687",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://sphinx-six-theta.vercel.app/",
+   "image": "",
+   "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+   "summary_en": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 146 # Comments: 44",
+   "title_mn": "Sphinx: Хиймэл оюуны бичсэн кодыг ойлгосон эсэхийг шалгадаг Git hook",
+   "summary_mn": "Sphinx нэртэй шинэ Git hook нь код илгээхээс өмнө хиймэл оюуны үүсгэсэн өөрчлөлтийн талаар хөгжүүлэгчээс асуулт асууж, кодоо ойлгосон эсэхийг шалгадаг.",
+   "body_mn": "Хиймэл оюунт туслахууд кодын сангуудад хурдацтай өөрчлөлт оруулж байгаа өнөө үед хөгжүүлэгчид кодын бодит логикийг бүрэн уншиж танилцахгүйгээр push хийх тохиолдол ихэсч байна. Sphinx төсөл нь энэ асуудлыг шийдвэрлэх зорилготой нээлттэй эхийн Git hook хэрэгсэл юм.\n\nКодыг репозитор руу илгээхээс өмнө Sphinx тухайн diff дээр үндэслэн онцгой тохиолдлууд, алдаа гарахад систем хэрхэн ажиллах тухай богино хэмжээний асуулт тавьдаг. Хөгжүүлэгч зөв хариулсан тохиолдолд push үйлдэл үргэлжлэх бөгөөд хэрэв алдаатай хариулбал юун дээр алдсаныг тайлбарлан өөр нөхцөлтэй асуулт дэвшүүлдэг байна.\n\nЭнэхүү хэрэгсэл нь Codex, Claude Code, Cursor, OpenCode зэрэг ямар ч агент болон ердийн Git дээр ажиллах боломжтой. Түүнчлэн нууц түлхүүрүүд болон .env файлуудыг уншихгүй байхаар тохируулагдсан бөгөөд яаралтай үед шалгалтыг алгасах тушаалтай ажээ.",
+   "published": "2026-10-18T04:33:49Z",
+   "added": "2026-10-18T11:29:36Z",
+   "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
  }
