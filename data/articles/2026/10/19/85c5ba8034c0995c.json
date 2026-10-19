@@ -1,0 +1,17 @@
+{
+ "id": "85c5ba8034c0995c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "36Kr",
+ "url": "https://eu.36kr.com/en/p/4030759952781702",
+ "image": "https://img.36krcdn.com/hsossms/20261019/v2_b5a89202185844458ee7a60c0b1dcddb@5091053@ai_oswg780187oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+ "title": "Anthropic Unveils Next-Gen Multi-Agent Orchestration Architecture: Claude Now Generates Self-Written Programs to Manage AI Agents",
+ "summary_en": "In the evolving landscape of multi-agent systems, the core bottleneck restricting efficient cross-agent cooperation is gradually shifting away from traditional communication and task allocation mechanisms to two critical dimensions: intelligent workflow orchestration and standardized result acceptance. This transition highlights that as foundational interaction capabilities between distributed agents become increasingly mature, the primary challenge for high-performance multi-agent collaboration now lies in building flexible, robust orchestration frameworks to coordinate complex agent…",
+ "title_mn": "Anthropic олон агентыг зохицуулах Dynamic Workflows бүтцийг танилцууллаа",
+ "summary_mn": "Anthropic олон агентыг кодоор удирдах Dynamic Workflows бүтцийг зарлав. Энэ горимд Claude тусгай зохицуулагч программ үүсгэж, агентуудын ажлыг сервер талд автоматаар удирддаг болжээ.",
+ "body_mn": "Anthropic компани олон агенттай (multi-agent) системийг зохицуулах Dynamic Workflows хэмээх шинэ бүтцийг Claude Managed Agents-д зориулан бета хувилбараар танилцууллаа. Энэхүү механизмыг Нью-Йорк хотноо болсон AI Engineer чуулганы үеэр тус компанийн инженерүүд дэлгэрэнгүй танилцуулсан байна.\n\nУламжлалт multi-agent бүтцэд төв агент суб-агентуудад үүрэг хуваарилж, хариу ирэх бүрт өөрөө дахин дүгнэлт хийн дараагийн алхмыг шийддэг тул контекст цонх (context window) завсрын өгөгдлөөр дүүрч, хурд удааширдаг сул талтай байв. Харин Dynamic Workflows горимд Claude даалгаврын дагуу зохицуулах программ (orchestration program) бичдэг болжээ. Уг программ нь сервер дээр ажиллаж, суб-агентуудыг зэрэг дуудах, завсрын үр дүнг дамжуулах, алдаа гарвал дахин ажиллуулах логикийг бие даан гүйцэтгэдэг байна.\n\nИнгэснээр үндсэн агент үе шат бүрт заавал гар бие оролцох шаардлагагүй болж, контекстийн зардлыг хэмнэхийн сацуу автоматжуулалтыг илүү найдвартай ажиллуулах боломж бүрдэж байна. Программистуудын хувьд агентын урсгалыг кодоор удирдах илүү үр ашигтай архитектурын суурь болж байна.",
+ "published": "2026-10-19T05:12:55Z",
+ "added": "2026-10-19T11:01:39Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

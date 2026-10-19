@@ -1,0 +1,17 @@
+{
+ "id": "93ea8605cabf9674",
+ "subtopic": "motion",
+ "source": "motiondivision/motion",
+ "source_label": "motiondivision/motion",
+ "url": "https://github.com/motiondivision/motion/releases/tag/v14.3.1",
+ "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+ "title": "motion v14.3.1",
+ "summary_en": "v14.3.1",
+ "title_mn": "Motion v14.3.1 хувилбар гарлаа",
+ "summary_mn": "React болон орчин үеийн вэб аппликейшнд зориулсан алдартай хөдөлгөөнт дүрслэлийн сан болох Motion-ий v14.3.1 засварын хувилбар нийтлэгдлээ.",
+ "body_mn": "React болон орчин үеийн вэб хөгжүүлэлтийн хамгийн өргөн хэрэглэгддэг хөдөлгөөнт дүрслэлийн сангуудын нэг Motion (хуучнаар Framer Motion) v14.3.1 хувилбараа гаргалаа.\n\nЭнэхүү шинэчлэл нь өмнөх v14.3.0 хувилбарын дараах алдаа засалт болон тогтвортой ажиллагааны сайжруулалтыг багтаасан засварын хувилбар юм. Хөгжүүлэгчид npm болон бусад багц удирдагчаар дамжуулан уг шинэчлэлийг шууд татаж авах боломжтой.",
+ "published": "2026-10-19T07:27:05Z",
+ "added": "2026-10-19T11:01:39Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

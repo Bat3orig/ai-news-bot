@@ -1,0 +1,17 @@
+{
+ "id": "a8e8149c3fbd1085",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Netz Trends",
+ "url": "https://www.netz-trends.de/claude-max-20x-90-extra-usage-gone-within-hours-anthropic-billing-transparency/",
+ "image": "https://www.netz-trends.de/wp-content/uploads/2026/10/Claude-Max_-90-Dollar-Zusatznutzung.png",
+ "title": "Claude Max 20x: $90 Extra Usage Gone Within Hours – NETZ-TRENDS Questions Anthropic’s Billing Transparency",
+ "summary_en": "NETZ-TRENDS paid €214.20 per month for Claude Max 20x. After the weekly limit was reached, $90 in Extra Usage was exhausted within hours although our established editorial workflow had not materially changed.",
+ "title_mn": "Claude Max 20x: Агент ажлын урсгалын төлбөрийн ил тод байдал шүүмжлэлд өртлөө",
+ "summary_mn": "Германы NETZ-TRENDS хэвлэл Claude Max 20x багцын $90-ийн нэмэлт лимит хэдхэн цагийн дотор дууссаны дараа Anthropic-оос агентын даалгавар тус бүрийн зардлыг тодорхой тайлагнахыг шаардав.",
+ "body_mn": "Германы NETZ-TRENDS онлайн хэвлэл Anthropic компанийн Claude системийн нэмэлт төлбөр болон лимитийн тооцооллын ил тод байдалд эргэлзэж буйгаа илэрхийллээ. Тус байгууллага сарын 214.20 еврогийн үнэтэй Claude Max 20x багцыг ашигладаг бөгөөд долоо хоногийн хязгаар дууссаны дараа 90 ам.долларын Extra Usage худалдан авсан боловч ердийн ажлын горимд хэдхэн цагийн дотор бүрэн дуусчээ.\n\nШалтгааныг шалгахад редакцийн автоматжуулсан ажлын урсгал давхцан ажилласан нь лог бүртгэлээс харагдсан байна. Тодруулбал, нэг процессын хүрээнд суб-агентууд болон судалгааны хэрэгслүүдийг дуудаж, дараа нь давхардсан сэдвийг цуцалсан хэдий ч төлбөр тусдаа тооцогдсон эсэх, ямар үйлдэл хэдэн доллар зарцуулсан нь хэрэглэгчийн хянах самбарт нарийвчлан харагдахгүй байгаа юм.\n\nAnthropic-ийн тайлбарласнаар үндсэн багцын лимит дуусмагц API-ийн ердийн тариф үйлчилж эхэлдэг аж. Хөгжүүлэгчид болон байгууллагуудын хувьд олон агент бүхий цогц системүүд богино хугацаанд их хэмжээний зардал гаргах эрсдэлтэй тул даалгавар тус бүрийн түвшинд зардлыг хянах, тодорхой лог харах боломж дутагдаж байгааг энэ кейс харуулж байна.",
+ "published": "2026-10-19T04:57:46Z",
+ "added": "2026-10-19T11:01:39Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "ea4891340f50adb0",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/finereli/whatsapp-mcp",
+ "image": "https://opengraph.githubassets.com/7f57c1c3715c7e40bf954d65deea46a4a420c799d80eaf26b7e3eb49aea8c1ed/finereli/whatsapp-mcp",
+ "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+ "summary_en": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly. This is a single user install because it's both gray area and very private - so point your agent at the repo and…",
+ "title_mn": "Cloudflare дээр ажиллах нээлттэй эх бүхий WhatsApp MCP сервер танилцуулагдлаа",
+ "summary_mn": "Хөгжүүлэгчид өөрийн Cloudflare бүртгэл дээр WhatsApp мессежийг уншиж хайх боломжтой нээлттэй эхийн MCP сервер ажиллуулах боломжтой боллоо. Claude Code зэрэг MCP дэмждэг ямар ч агенттай холбогдоно.",
+ "body_mn": "Hacker News дээр WhatsApp мессежүүдийг AI агентаар дамжуулан уншиж, хайлт хийх боломжийг олгодог нээлттэй эхийн шинэ MCP (Model Context Protocol) сервер танилцуулагдлаа. Энэхүү сервер нь хэрэглэгчийн Cloudflare аккаунт дотор Durable Objects болон SQLite ашиглан бие даан ажиллах бөгөөд зөвхөн мессеж унших зориулалттай тул аливаа мессеж илгээх үйлдэл хийхгүй.\n\nУг серверийг Claude Code, Claude Desktop эсвэл MCP протоколыг дэмждэг бусад ямар ч клиенттэй холбож болно. Холболт хийхдээ WhatsApp Web-тэй ижил зарчмаар QR код уншуулах бөгөөд мессежийн өгөгдөл зөвхөн хэрэглэгчийн өөрийн Cloudflare сан дотор хадгалагдах тул гадны сервер рүү хувийн чат алдагдах эрсдэлгүйгээрээ онцлогтой.\n\nЭнэ нь WhatsApp-ийн албан ёсны API-г ашиглаагүй, нээлттэй эхийн Baileys сангаар дамжуулан холбогдож буй тул зөвхөн хувийн хэрэгцээндээ нэг хэрэглэгч ажиллуулахад зориулагдсан байна. Архивын түүхийг бүрэн татахын тулд Cloudflare Workers-ийн төлбөртэй хувилбар (CPU лимит нэмэгдүүлэх шаардлагатай) болон Node 20+ шаардагдана.",
+ "published": "2026-10-18T21:36:10Z",
+ "added": "2026-10-19T11:01:39Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

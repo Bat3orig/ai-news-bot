@@ -1,0 +1,17 @@
+{
+ "id": "03380fa134fc44d6",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Innovation Village",
+ "url": "https://innovation-village.com/replit-makes-openai-its-default-ai-partner/",
+ "image": "https://innovation-village.com/wp-content/uploads/2026/10/replit.png",
+ "title": "Replit Makes OpenAI Its Default AI Partner",
+ "summary_en": "Replit names OpenAI its preferred AI partner over Anthropic, citing model performance, cost and partnership strength while keeping Claude available to users.",
+ "title_mn": "Replit үндсэн загвар нийлүүлэгчээрээ Anthropic-ийн оронд OpenAI-ийг сонголоо",
+ "summary_mn": "Replit платформ өөрийн Replit Agent-ийн үндсэн тохиргоот загвараар Claude-ийн оронд OpenAI-ийг сонгожээ. Хэдийгээр Claude болон бусад загварууд сонголтоор хэвээр үлдэх ч өртөг болон гүйцэтгэлийн шалтгаанаар OpenAI-д давуу эрх өгсөн байна.",
+ "body_mn": "Онлайн кодингийн Replit платформ өөрийн AI код бичигч Replit Agent-ийн үндсэн загвар нийлүүлэгчээрээ OpenAI-ийг сонгож, өмнө нь голлон ашиглаж байсан Anthropic-ийг өөрчиллөө. Тус компанийн гүйцэтгэх захирал Амжад Масад уг шийдвэрийг загваруудын гүйцэтгэл, ашиглалтын өртөг болон OpenAI-тай байгуулсан хамтын ажиллагааны давуу талуудтай холбон тайлбарласан байна.\n\nМасадын хэлснээр Replit дотоод болон нийтэд нээлттэй бенчмаркаар загваруудыг харьцуулж үздэг бөгөөд ялангуяа байгалийн хэлээр програм угсрах (vibe coding) үед OpenAI-ийн загварууд программыг эхнээс нь бүтээхэд одоогоор илүү сайн ажиллаж байна гэж дүгнэжээ. Гэсэн хэдий ч Replit нь олон загварыг дэмжсэн хэвээр байх бөгөөд хэрэглэгчид Anthropic-ийн Claude загваруудыг гараар сонгон ашиглах боломж нээлттэй үлдэх аж.\n\nХэдийгээр Claude-ийг шууд унтраагаагүй ч анхдагч тохиргоо (default) өөрчлөгдсөн нь нийт хэрэглэгчдийн дийлэнх урсгал OpenAI руу шилжихэд хүргэнэ. Replit өмнө нь Anthropic-ийн хамгийн том таван харилцагчийн нэг байсан тул уг шийдвэр нь хөгжүүлэгчийн зах зээл дэх загвар нийлүүлэгчдийн өрсөлдөөнд мэдэгдэхүйц нөлөө үзүүлэхээр байна.",
+ "published": "2026-10-18T17:56:09Z",
+ "added": "2026-10-19T11:01:39Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}
