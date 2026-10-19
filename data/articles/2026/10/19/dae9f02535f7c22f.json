@@ -1,0 +1,17 @@
+{
+ "id": "dae9f02535f7c22f",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/addyosmani/agent-skills",
+ "image": "https://opengraph.githubassets.com/fb058c41bab66a85641dfdb8eb898a6969ad250564143b7c11be1df463c66d4b/addyosmani/agent-skills",
+ "title": "addyosmani/agent-skills",
+ "summary_en": "Production-grade engineering skills for AI coding agents. https://skills.addy.ie Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. DEFINE PLAN BUILD VERIFY REVIEW SHIP ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ │ Idea │ ───▶ │ Spec │ ───▶ │ Code │ ───▶ │ Test │ ───▶ │ QA │ ───▶ │ Go │ │Refine│ │ PRD │ │ Impl │ │Debug │ │ Gate │ │ Live │ └──────┘ └──────┘…",
+ "title_mn": "addyosmani/agent-skills: AI кодинг агентуудад зориулсан инженерийн шилдэг туршлагуудын багц",
+ "summary_mn": "Addy Osmani ахлах инженерүүдийн ажлын арга барил, чанарын хяналтыг AI агентуудад эзэмшүүлэх agent-skills хэмээх нээлттэй сан хөгжүүлжээ.",
+ "body_mn": "Google-ийн нэрт инженер Addy Osmani-ийн гаргасан agent-skills төсөл нь AI кодинг агентуудыг үйлдвэрлэлийн түвшний стандартын дагуу ажиллахад сургах зориулалттай ур чадваруудын багц юм. Туршлагатай инженерүүдийн ашигладаг ажлын урсгал, архитектурын шийдвэр, чанарын шалгууруудыг энд нэгтгэн системчилжээ.\n\nЭнэхүү санд хөгжүүлэлтийн бүхий л мөчлөгт тохирох 9 үндсэн slash командыг багтаасан байна. Жишээлбэл, /build команд нь төлөвлөгөөг боловсруулан автоматаар бүх даалгаврыг туршилт дээр суурилж (test-driven) нэг бүрчлэн коммит хийдэг бөгөөд ямар нэгэн эрсдэл эсвэл алдаа гармагц түр зогсож хяналтыг хүнд шилжүүлдэг.\n\nУг сан нь JavaScript болон нээлттэй ур чадварын стандартууд дээр тулгуурласан бөгөөд Claude Code, Cursor, Codex, Copilot, Cline зэрэг 70 гаруй төрлийн хөгжүүлэлтийн агентуудтай шууд зохицон ажиллах боломжтой.\n\nХөгжүүлэгчид өөрсдийн ашигладаг агентад npx командыг ашиглан ганцхан үйлдлээр уг ур чадваруудыг суулган төсөлдөө нэвтрүүлэх боломжтой юм.",
+ "published": "2026-10-19T21:53:46Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

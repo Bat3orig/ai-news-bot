@@ -1,0 +1,17 @@
+{
+ "id": "28029a2140443bcb",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/starship/starship",
+ "image": "https://repository-images.githubusercontent.com/178991158/17096280-8d4d-11e9-97e9-7fed5f61d6bf",
+ "title": "starship/starship",
+ "summary_en": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! https://starship.rs Website · Installation · Configuration The minimal, blazing-fast, and infinitely customizable prompt for any shell! Fast: it's fast – really really fast! 🚀 Customizable: configure every aspect of your prompt. Universal: works on any shell, on any operating system. Intelligent: shows relevant information at a glance. Feature rich: support for all your favorite tools. Easy: quick to install – start using it in minutes. Explore the Starship docs ▶ 🚀 Installation Prerequisites A Nerd Font…",
+ "title_mn": "starship/starship: Ямар ч shell-д зориулсан хурдан, уян хатан prompt",
+ "summary_mn": "Rust хэл дээр бичигдсэн Starship нь Bash, Zsh, Fish, PowerShell зэрэг бараг бүх shell дээр ажилладаг, маш хурдан бөгөөд уян хатан тохиргоо бүхий нээлттэй эхийн CLI prompt юм.",
+ "body_mn": "Starship нь аль ч үйлдлийн систем болон төрөл бүрийн shell дээр нэгэн жигд ажилладаг, минимал бөгөөд маш хурдан prompt хэрэгсэл юм. Уг төслийг Rust хэл дээр хөгжүүлсэн нь терминалын хариу үйлдлийг саатуулахгүй, хамгийн бага хугацаанд ажиллах боломжийг олгодог.\n\nЭнэхүү хэрэгсэл нь Bash, Zsh, Fish, PowerShell, Nushell, Elvish зэрэг өргөн хэрэглэгддэг бүх shell-ийг дэмждэг. Түүнчлэн Git салбар болон төлөв, идэвхтэй ашиглагдаж буй Node.js, Python, Rust зэрэг хэлний хувилбарууд, үүлэн үйлчилгээний context зэрэг хөгжүүлэгчид нэн чухал мэдээллийг тухайн агшинд ухаалгаар харуулдаг онцлогтой.\n\nХөгжүүлэгчид Starship-ийг төрөл бүрийн package manager-ээр хялбархан суулгаж, өөрийн shell-ийн тохиргооны файлд (жишээ нь ~/.bashrc эсвэл ~/.zshrc) ганц мөр код нэмээд л ашиглах боломжтой. Өөрийн хэв маягт тохируулан preset загварууд ашиглах эсвэл тохиргооны файлаар бүрэн өөрчлөх боломжтой тул олон төрлийн орчинд ажилладаг хөгжүүлэгчдэд нэн тохиромжтой.",
+ "published": "2026-10-19T21:53:46Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

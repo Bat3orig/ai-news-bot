@@ -1,0 +1,17 @@
+{
+ "id": "c079900c920f7a1c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "KDnuggets",
+ "url": "https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows",
+ "image": "https://www.kdnuggets.com/wp-content/uploads/KDN-Shittu-Claude-Haiku-5.5-Whats-New-and-How-to-Use-It-for-Fast-Cheap-AI-Workflows-scaled.png",
+ "title": "Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows",
+ "summary_en": "Anthropic released Claude Haiku 5.5 on October 7, 2026, and calls it its cheapest, fastest, and most capable small model. The API model ID is claude-haiku-5-5, and prompts up to 100,000 tokens cost $0.10 per million input tokens and $0.50 per million output tokens.",
+ "title_mn": "Claude Haiku 5.5 гарлаа: Үнэ нь хямдарч, контекст цонх нь томров",
+ "summary_mn": "Anthropic компани Claude Haiku 5.5 загвараа гаргаж, үнийг нь 90 хувиар бууруулан, 1 сая токен бүхий контекст цонх болон адаптив сэтгэлгээний боломжийг нэмжээ.",
+ "body_mn": "Anthropic компани өөрийн хамгийн хямд, хурдан бөгөөд авсаархан загвар болох Claude Haiku 5.5-ыг албан ёosan танилцууллаа. API хувилбарын ID нь claude-haiku-5-5 бөгөөд 100,000 хүртэлх токен бүхий промптод оролт болон гаралтад өмнөхөөсөө илүү хямд үнээр үйлчлэх юм. Шинэ загвар нь Amazon Web Services, Google Cloud, Microsoft Azure болон Claude Platform дээр ашиглах боломжтой болжээ.\n\nЭнэхүү шинэ хувилбар нь их хэмжээний өгөгдөл боловсруулах, хураангуйлах, мэдээллийн сангийн асуулга болон ангилал хийх зэрэг ажлуудад илүү тохиромжтой байхаар бүтээгдсэн байна. Гэхдээ шинэ токенчлолын систем ашигладаг тул ижил текпийн токен тоо ойролцоогоор 30 хувиар илүү гарч болохыг анхаарах хэрэгтэй. Хэдий тийм боловч нийт зардал дунджаар 75 хувиар хэмнэгдэнэ гэж тооцоолжээ.\n\nХөгжүүлэгчдийн хувьд өмнөх Haiku 4.5 хувилбарын кодод зарим нэг эвдрэл гарч болзошгүйг анхааруулж байна. Тухайлбал temperature, top_p, top_k утгуудыг илгээхэд алдаа заах бөгөөд адаптив сэтгэлгээний горим автоматаар идэвхждэг болсон байна. Python SDK ашиглан ангилал болон дата олборлох ажлуудад шинэ JSON output боломжийг ашиглан хялбархан нэгтгэх боломжтой.",
+ "published": "2026-10-19T16:17:48Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

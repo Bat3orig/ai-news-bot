@@ -1,0 +1,17 @@
+{
+ "id": "626a5e4fcb233d8d",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/TauricResearch/TradingAgents",
+ "image": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1",
+ "title": "TauricResearch/TradingAgents",
+ "summary_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework https://arxiv.org/pdf/2412.20138 Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 TradingAgents: Multi-Agents LLM Financial Trading Framework News [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored from the first close after each decision, a note at start-up when a newer release is out, and a wheel attached to each GitHub release. [2026-10] TradingAgents v0.6.0 released with reports saved as one HTML page, a provider per model tier so the managers and analysts…",
+ "title_mn": "TauricResearch/TradingAgents: Санхүүгийн арилжааны олон агентийн нээлттэй систем",
+ "summary_mn": "TradingAgents нь бодит хөрөнгө оруулалтын компаниудын бүтцийг дуурайлган, зах зээлийн шинжилгээ болон арилжааны шийдвэр гаргадаг олон агентийн систем юм.",
+ "body_mn": "TauricResearch багаас хөрөнгө оруулалт, санхүүгийн арилжааны даалгавруудыг гүйцэтгэхэд зориулагдсан TradingAgents нээлттэй эхийн системийг танилцууллаа. Энэхүү фрэймворк нь бодит арилжааны фирмүүдийн ажиллах зарчмыг загварчлан бүтээгдсэнээрээ онцлогтой.\n\nСистем нь суурь шинжилгээний шинжээч, зах зээлийн мэдрэмжийн мэргэжилтэн, техникийн шинжээч, арилжаач болон эрсдэлийн удирдлагын баг зэрэг төрөлжсөн LLM агентуудыг зэрэг ажиллуулдаг. Эдгээр агентууд зах зээлийн нөхцөл байдалд өөр өөрийн үүргээр дүн шинжилгээ хийж, хамтран мэтгэлцэх замаар оновчтой стратегийг тодорхойлдог байна.\n\nТөсөл нь Python 3.11+ дээр суурилсан бөгөөд OpenAI, Azure OpenAI, AWS Bedrock зэрэг төлбөрт загваруудаас гадна Ollama, vLLM, LM Studio ашиглан дотооддоо ажилладаг локал загваруудыг дэмждэг. Санхүүгийн технологи, автоматжуулсан арилжаа болон AI агентуудын хамтын ажиллагааг судалдаг мэргэжилтнүүдэд зориулагдсан.\n\nТуршиж үзэхийн тулд виртуал орчин үүсгээд pip ашиглан багцыг суулгах эсвэл Docker Compose-оор шууд ажиллуулж, өөрийн LLM-ийн түлхүүрүүдээ тохируулан ашиглах боломжтой.",
+ "published": "2026-10-19T21:53:46Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

@@ -278,5 +278,285 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c079900c920f7a1c",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "KDnuggets",
+   "url": "https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows",
+   "image": "https://www.kdnuggets.com/wp-content/uploads/KDN-Shittu-Claude-Haiku-5.5-Whats-New-and-How-to-Use-It-for-Fast-Cheap-AI-Workflows-scaled.png",
+   "title": "Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows",
+   "summary_en": "Anthropic released Claude Haiku 5.5 on October 7, 2026, and calls it its cheapest, fastest, and most capable small model. The API model ID is claude-haiku-5-5, and prompts up to 100,000 tokens cost $0.10 per million input tokens and $0.50 per million output tokens.",
+   "title_mn": "Claude Haiku 5.5 гарлаа: Үнэ нь хямдарч, контекст цонх нь томров",
+   "summary_mn": "Anthropic компани Claude Haiku 5.5 загвараа гаргаж, үнийг нь 90 хувиар бууруулан, 1 сая токен бүхий контекст цонх болон адаптив сэтгэлгээний боломжийг нэмжээ.",
+   "body_mn": "Anthropic компани өөрийн хамгийн хямд, хурдан бөгөөд авсаархан загвар болох Claude Haiku 5.5-ыг албан ёosan танилцууллаа. API хувилбарын ID нь claude-haiku-5-5 бөгөөд 100,000 хүртэлх токен бүхий промптод оролт болон гаралтад өмнөхөөсөө илүү хямд үнээр үйлчлэх юм. Шинэ загвар нь Amazon Web Services, Google Cloud, Microsoft Azure болон Claude Platform дээр ашиглах боломжтой болжээ.\n\nЭнэхүү шинэ хувилбар нь их хэмжээний өгөгдөл боловсруулах, хураангуйлах, мэдээллийн сангийн асуулга болон ангилал хийх зэрэг ажлуудад илүү тохиромжтой байхаар бүтээгдсэн байна. Гэхдээ шинэ токенчлолын систем ашигладаг тул ижил текпийн токен тоо ойролцоогоор 30 хувиар илүү гарч болохыг анхаарах хэрэгтэй. Хэдий тийм боловч нийт зардал дунджаар 75 хувиар хэмнэгдэнэ гэж тооцоолжээ.\n\nХөгжүүлэгчдийн хувьд өмнөх Haiku 4.5 хувилбарын кодод зарим нэг эвдрэл гарч болзошгүйг анхааруулж байна. Тухайлбал temperature, top_p, top_k утгуудыг илгээхэд алдаа заах бөгөөд адаптив сэтгэлгээний горим автоматаар идэвхждэг болсон байна. Python SDK ашиглан ангилал болон дата олборлох ажлуудад шинэ JSON output боломжийг ашиглан хялбархан нэгтгэх боломжтой.",
+   "published": "2026-10-19T16:17:48Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e51e135e52206fa4",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "MIXED Reality News",
+   "url": "https://mixed-news.com/en/claude-code-2-1-302-prompt-suggestions-usage-credits-stable-2-1-292/",
+   "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/27fbaaaad054e76728f21d5349c429349a817927-1920x1080-1.png",
+   "title": "Claude Code stops prompt suggestions spending your credits, and stable has neither fix",
+   "summary_en": "Claude Code was spending usage credits on its own prompt suggestions, the follow-up prompts it offers after a reply, whenever the model in use is one a",
+   "title_mn": "Claude Code v2.1.302 шинэчлэлт: Кредит зарцуулдаг алдааг засварлав",
+   "summary_mn": "Anthropic компани Claude Code хэрэгслийнхээ 2.1.302 хувилбарыг гаргаж, хэрэглэгчийн хүсэлтгүйгээр кредитээс төлбөр суутгадаг байсан алдааг заслаа.",
+   "body_mn": "Claude Code хэрэгслийн шинэчилсэн 2.1.302 хувилбар гарч, хэрэглэгчийн зөвшөөрөлгүйгээр ашиглалтын кредитээс мөнгө хасдаг байсан алдааг амжилттай засварлалаа. Өмнөх хувилбаруудад модель хариу өгсний дараа автоматаар гарч ирдэг санал болгох промптууд нь зөвхөн кредит ашиглан төлбөрөө төлдөг хэрэглэгчдийн үлдэгдлээс тодорхой хэмжээний кредитийг автоматаар суутгадаг байсан юм. Шинэ хувилбараар энэ асуудлыг бүрэн шийдвэрлэжээ.\n\nЭнэхүү шинэчлэлт нь пуужин шиг хурдацтай гарсан бөгөөд өмнөх 2.1.301 хувилбар гарснаас хойш ердөө 26 цагийн дараа олон нийтэд хүрсэн байна. Мөн plugin ачаалах хурдыг сайжруулж, файлын системийн хандалтын тоог цөөлснөөр олон plugin идэвхжүүлсэн үед ачаалах хугацааг эрс хурдасгасан байна.\n\nХөгжүүлэгчид энэхүү шинэчлэлтийг хийснээр хүсээгүй төлбөр гарахаас сэргийлж, API түлхүүр болон бусад тохиргоонуудыг илүү найдвартай удирдах боломжтой болж байна. Claude Code-ийн хувьд сесс эхлэх болон бусад командуудыг гүйцэтгэхэд гардаг жижиг саад бэрхшээлүүдийг үе шаттайгаар зассаар байна.",
+   "published": "2026-10-19T18:33:57Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9d60322d2e5e538a",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service",
+   "image": "https://vercel.com/api/dynamic-og?title=Updates%20to%20Hobby%20and%20Pro%20Terms%20of%20Service&format=changelog",
+   "title": "Updates to Hobby and Pro Terms of Service",
+   "summary_en": "We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and credits, and reflect applicable legal requirements, including certain cancellation and service-change rights for eligible consumers in the UK and EU. Credits and billing A new section sets out how credits work: plan-included credits expire at the end of the subscription term and purchased credits expire one year after purchase unless stated otherwise. Credits can only be used to pay Vercel fees…",
+   "title_mn": "Vercel платформ Hobby болон Pro үйлчилгээний нөхцөлөө шинэчиллээ",
+   "summary_mn": "Vercel компани Hobby болон Pro хэрэглэгчдэд зориулсан үйлчилгээний нөхцөлийг шинэчилж, кредит ашиглалт болон хугацааны талаарх зохицуулалтыг тодорхой болголоо.",
+   "body_mn": "Vercel платформ нь 2026 оны 10 дугаар сарын 19-ний өдрөөс эхлэн Hobby болон Pro хэрэглэгчдэд зориулсан үйлчилгээний нөхцөлөө (Terms of Service) шинэчлэн хэрэгжүүлж эхэллээ. Энэхүү шинэчлэлтээр кредитийн зарцуулалт, менежменттэй багууд болон хэрэглэгчийн эрх зүйн шаардлагуудыг илүү тодорхой болгосон байна.\n\nШинэ нөхцөлийн дагуу багцын хүрээнд олгогдсон кредитүүд нь тухайн захиалгын хугацаа дуусахад хүчингүй болох бөгөөд худалдаж авсан кредитүүд нь тусгайлан заагаагүй бол худалдаж авснаас хойш нэг жилийн дараа дуусах аж. Эдгээр кредитүүд нь зөвхөн Vercel-ийн хураамжийг төлөхөд зориулагдсан бөгөөд бэлэн мөнгө болгох болон бусдад шилжүүлэх боломжгүй юм.\n\nMөн Их Британи болон Европын Холбооны оршин суугч хэрэглэгчдэд үйлчилгээний өөрчлөлтөөс шалтгаалан захиалгаа цуцлах, буцаан олголт авах эрхтэй холбоотой зохицуулалтуудыг нарийвчлан тусгажээ. Хэрэглэгчид өөрийн бүртгэлийн тохиргоо болон дэмжлэгийн хэсгээр дамжуулан автоматаар сунгагдах тохиргоог удирдах боломжтой хэвээр байна.",
+   "published": "2026-10-19T18:39:47Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ca07548f6acfab72",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Blog",
+   "source_label": "GitHub Blog",
+   "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+   "image": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-3.11.02-PM.png",
+   "title": "How to continue a GitHub Copilot app session in VS Code",
+   "summary_en": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.",
+   "title_mn": "GitHub Copilot апп дахь сессийн ажлыг VS Code руу шууд шилжүүлэх боломжтой боллоо",
+   "summary_mn": "Та GitHub Copilot апп дотор хийсэн ажлаа ямар ч хуулбарлалтгүйгээр Visual Studio Code рүү шууд шижүүлж үргэлжлүүлэн шалгах, засварлах боломжтой боллоо.",
+   "body_mn": "GitHub Copilot апп ашиглан кодын өөрчлөлт хийж дууссаны дараа тухайн ажлыг орон нутгийн орчинд турших, нарийн ширийн зүйлсийг нь гараар шалгах шаардлага гардаг. Тэгвэл энэ үйл явцыг хялбарчилж, Copilot апп дээрх сесс болон ярианы түүхийг алдалгүйгээр Visual Studio Code рүү шууд нээж үргэлжлүүлэх боломжтой болжээ.\n\nЭнэ нь хөгжүүлэгчдэд Copilot-ын хийсэн ажлын төлөвлөгөө, ярианы түүх болон өөрчлөгдсөн файлуудын контекстийг алдахгүйгээр VS Code доторх Source Control болон хажуугийн самбараар дамжуулан нарийвчлан хянах боломжийг олгож байна. Та хуучин кодоо шинэ цонхонд дахин бичих эсвэл файлыг хуулж зөөх шаардлагагүйгээр шууд үргэлжлүүлэн засварлах боломжтой.\n\nVS Code дотор сессийг нээсний дараа өөрчлөлтүүдийг мөр мөрөөр нь шалгаж, шаардлагатай бол нэмэлт зааварчилгаа өгөх эсвэл өөрөө гараар засвар хийх боломжтой. Мөн терминал ашиглан төслийн тестийг ажиллуулж, browser дээр үр дүнг шууд шалгах боломжтой юм.",
+   "published": "2026-10-19T18:47:22Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0f333d6652dcf50a",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.304",
+   "image": "https://opengraph.githubassets.com/3ff3f9cbe72ac999e8c7a9ebc27fd95fb47a98253de2beee336521f03bd71c64/anthropics/claude-code/releases/tag/v2.1.304",
+   "title": "claude-code v2.1.304",
+   "summary_en": "What's changed Added a transcript line when a plugin that runs first skips one of your mod's hooks, naming the event and the plugin Added decider: \"person\" to a mod's tool.check answer: only the permission dialog or a host's callback can approve the ask, and it is refused with the mod's reason where nobody can be asked Added e.isReadOnly to a mod's tool.check event, set when the tool call is read-only Added /auto-mode-setup : a guided setup that reads your project and recent sessions to teach auto mode about your environment, now also available on Bedrock, Vertex, Foundry, Claude apps…",
+   "title_mn": "Claude Code v2.1.304 шинэчлэлт гарлаа",
+   "summary_mn": "Claude Code v2.1.304 хувилбар гарч, автомат горимын тохиргоо, транскрипт болон плагины удирдлагын шинэ боломжууд нэмэгдлээ.",
+   "body_mn": "Claude Code хэрэгслийн 2.1.304 шинэ хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон шинэ боломж болон алдаа засваруудыг багтаалаа. Тухайлбал, автоматаар ажиллах горимыг төсөл болон сүүлийн үеийн сессүүдэд үндэслэн зааварчилгаа өгөх шинэ /auto-mode-setup команд нэмэгдсэн байна.\n\nШинэ хувилбарт плагинууд болон горимуудын аюулгүй байдлын шалгалтыг сайжруулж, tool.check үйл явдалд e.isReadOnly болон person шинэ утгуудыг нэмжээ. Мөн Bedrock, Vertex, Foundry болон Claude apps gateway зэрэг орчинд автомат горимын тохиргоог дэмждэг болсон байна.\n\nТүүнчлэн Linux болон бусад үйлдлийн систем дээр sandbox команд ажиллах үед гардаг байсан зарим файлын системийн алдааг засварлаж, транскрипт болон санах ойн менежментийг илүү тогтвортой болгожээ.",
+   "published": "2026-10-19T21:34:39Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "afef75d2fc43212b",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/LibreChat-AI/LibreChat",
+   "image": "https://opengraph.githubassets.com/f0ef75ffec1c3de42b7d12f134b2127dbbdfe480973d7f5cb40fd7ba7522e95d/LibreChat-AI/LibreChat",
+   "title": "LibreChat-AI/LibreChat",
+   "summary_en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active https://librechat.ai/ LibreChat English · 中文 🚀 What's New in v0.8.8 Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identities…",
+   "title_mn": "LibreChat-AI/LibreChat: Олон AI загварыг нэгтгэсэн нээлттэй эх бүхий чат платформ",
+   "summary_mn": "LibreChat нь OpenAI, Anthropic, Gemini зэрэг бүх томоохон AI үйлчилгээнүүдийг нэг дор төвлөрүүлж, өөрийн сервер дээр бие даан ажиллуулах боломжтой нээлттэй эх бүхий хэрэглэгчийн интерфэйс юм.",
+   "body_mn": "LibreChat төсөл нь ChatGPT-ийн интерфэйсээс санаа авсан бөгөөд нууцлалыг дээдэлсэн, өөрийн сервер дээр (self-hosted) ажиллах боломжтой систем юм. Уг систем нь OpenAI, Anthropic, Google Gemini, AWS Bedrock, DeepSeek, Groq болон бусад олон тооны үйлчилгээ үзүүлэгчдийг нэг платформд нэгтгэдгээрээ онцлогтой.\n\nЭнгийн чатаас гадна AI агентууд, Model Context Protocol (MCP) протокол, Artifacts, Code Interpreter, зураг үүсгэгч DALL-E-3 болон OpenAPI actions зэрэг олон төрлийн өргөтгөсөн боломжуудыг дэмждэг. Түүнчлэн олон хэрэглэгчийн бүртгэл, хандалтын эрхийн удирдлага зэрэг байгууллагын түвшний шаардлагуудыг хангасан шийдлүүдийг багтаасан байна.\n\nТехнологийн хувьд TypeScript болон Node.js экосистем дээр бүтээгдсэн бөгөөд дата бааз, кэшлэх системийг өөртөө агуулдаг. Байгууллагынхаа дотоод сүлжээнд хиймэл оюун ухааны шийдлийг аюулгүй байршуулахыг хүссэн хөгжүүлэгчид болон багуудад нэн тохиромжтой.\n\nХөгжүүлэгчид уг платформыг туршиж үзэхийн тулд төслийн GitHub сангаас Docker Compose ашиглан маш хурдан хугацаанд өөрийн орчинд асааж ашиглах боломжтой юм.",
+   "published": "2026-10-19T21:53:46Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9c15e014464735eb",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "image": "https://opengraph.githubassets.com/d4ee78fca44b6a02bfcce5d7f16d45e8f7e0d3aa3f651ba4139bc8178b93da4a/cloudflare/security-audit-skill",
+   "title": "cloudflare/security-audit-skill",
+   "summary_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in Build your own vulnerability harness . The harness grew into a multi-stage, fleet-wide system; this skill is the single-repo starting…",
+   "title_mn": "cloudflare/security-audit-skill: AI кодинг агентуудад зориулсан аюулгүй байдлын аудитын ур чадвар",
+   "summary_mn": "Cloudflare компани кодын санд автомат аюулгүй байдлын шинжилгээ хийх чадвартай coding agent skill-ийг нээлттэй эхээр зарлалаа.",
+   "body_mn": "Cloudflare өөрийн дотоод системд эмзэг байдал илрүүлэх зорилгоор ашигладаг аргачлал, загвараасаа үндэслэн security-audit-skill төслийг олон нийтэд нээлттэй болголоо. Энэхүү хэрэгсэл нь ердийн AI кодинг агентуудыг аюулгүй байдлын аудит хийх тусгай мэргэжилтэн болгон хувиргадаг ур чадварын модуль юм.\n\nУг хэрэгсэл нь аудитыг зургаан үе шаттай зохион байгуулж, тусгаарлагдсан агентуудын тусламжтайгаар кодтой танилцах, эмзэг байдлын сэжигтэй хэсгүүдийг хайх, тэдгээрийг бодитоор баталгаажуулах зэрэг үйлдлийг шат дараатай хийдэг. Аудитын үр дүнг confirmed, needs_validation, rejected гэсэн тодорхой статус бүхий машинд уншигдахуйц бүтцээр гаргадаг байна.\n\nТөсөл нь JavaScript болон Node.js дээр суурилсан бөгөөд npx командын тусламжтайгаар шууд хэрэглэгчийн глобал түвшинд суулгах боломжтой. Код дээрээ пен-тест хийх эсвэл ерөнхий аюулгүй байдлын аудит гүйцэтгүүлэхийг хүссэн програм хангамжийн багуудад зориулагдсан.\n\nАшиглахын тулд кодын сангаа нээгээд дэмжигдсэн кодинг агентаасаа аудитын хүсэлт тавихад уг ур чадвар автоматаар идэвхжиж ажиллаж эхэлнэ.",
+   "published": "2026-10-19T21:53:46Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dae9f02535f7c22f",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/addyosmani/agent-skills",
+   "image": "https://opengraph.githubassets.com/fb058c41bab66a85641dfdb8eb898a6969ad250564143b7c11be1df463c66d4b/addyosmani/agent-skills",
+   "title": "addyosmani/agent-skills",
+   "summary_en": "Production-grade engineering skills for AI coding agents. https://skills.addy.ie Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. DEFINE PLAN BUILD VERIFY REVIEW SHIP ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ │ Idea │ ───▶ │ Spec │ ───▶ │ Code │ ───▶ │ Test │ ───▶ │ QA │ ───▶ │ Go │ │Refine│ │ PRD │ │ Impl │ │Debug │ │ Gate │ │ Live │ └──────┘ └──────┘…",
+   "title_mn": "addyosmani/agent-skills: AI кодинг агентуудад зориулсан инженерийн шилдэг туршлагуудын багц",
+   "summary_mn": "Addy Osmani ахлах инженерүүдийн ажлын арга барил, чанарын хяналтыг AI агентуудад эзэмшүүлэх agent-skills хэмээх нээлттэй сан хөгжүүлжээ.",
+   "body_mn": "Google-ийн нэрт инженер Addy Osmani-ийн гаргасан agent-skills төсөл нь AI кодинг агентуудыг үйлдвэрлэлийн түвшний стандартын дагуу ажиллахад сургах зориулалттай ур чадваруудын багц юм. Туршлагатай инженерүүдийн ашигладаг ажлын урсгал, архитектурын шийдвэр, чанарын шалгууруудыг энд нэгтгэн системчилжээ.\n\nЭнэхүү санд хөгжүүлэлтийн бүхий л мөчлөгт тохирох 9 үндсэн slash командыг багтаасан байна. Жишээлбэл, /build команд нь төлөвлөгөөг боловсруулан автоматаар бүх даалгаврыг туршилт дээр суурилж (test-driven) нэг бүрчлэн коммит хийдэг бөгөөд ямар нэгэн эрсдэл эсвэл алдаа гармагц түр зогсож хяналтыг хүнд шилжүүлдэг.\n\nУг сан нь JavaScript болон нээлттэй ур чадварын стандартууд дээр тулгуурласан бөгөөд Claude Code, Cursor, Codex, Copilot, Cline зэрэг 70 гаруй төрлийн хөгжүүлэлтийн агентуудтай шууд зохицон ажиллах боломжтой.\n\nХөгжүүлэгчид өөрсдийн ашигладаг агентад npx командыг ашиглан ганцхан үйлдлээр уг ур чадваруудыг суулган төсөлдөө нэвтрүүлэх боломжтой юм.",
+   "published": "2026-10-19T21:53:46Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a25698ef8fddf33a",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/Kruk2/jasna",
+   "image": "https://opengraph.githubassets.com/1ed59c4ee406fc2befc24bb5367dee4e904767e070fbcdf2371e513ac4f11e1a/Kruk2/jasna",
+   "title": "Kruk2/jasna",
+   "summary_en": "Video restoration tool The only places to get a genuine License code for the supporter models are Buy Me a Coffee , Unifans , and for China the seller in the Chinese README . 支持者模型的正版许可证码只能通过 Buy Me a Coffee 、 Unifans 或 闲鱼 获取。 English | 日本語 | 中文 Jasna Jasna restores mosaics in videos and images. It is free, has a simple app and a command line, and runs on your GPU. Contents Start here What Jasna does What you need Quick start Help and community Supporting the project (supporter models) Advanced How Jasna works Command line All guides Benchmarks Licensing Acknowledgments What Jasna does Finds…",
+   "title_mn": "Kruk2/jasna: Видео болон зургийн мозайк арилгах GPU суурьтай нээлттэй хэрэгсэл",
+   "summary_mn": "Jasna нь видео болон зураг дээрх мозайк эффектийг хиймэл оюуны тусламжтайгаар сэргээж тодруулдаг нээлттэй эх бүхий Python төсөл юм.",
+   "body_mn": "Jasna төсөл нь зураг болон дүрс бичлэг дээр тавигдсан мозайкийг сэргээж, анхны нарийн деталь хэсгүүдийг хиймэл оюуны загваруудын тусламжтайгаар гаргаж авах зориулалттай хэрэгсэл юм. Уг систем нь графикийн интерфэйс (GUI) болон команд мөрийн (CLI) хувилбартай бөгөөд өөрийн төхөөрөмж дээр бие даан ажиллах боломжийг олгодог.\n\nБүх тооцоолол видеог уншихаас эхлээд хадгалах хүртэл бүхэлдээ хэрэглэгчийн график карт (GPU) дээр хийгддэг. Систем нь BasicVSR++, UNet болон LTX зэрэг диффузийн загваруудыг дэмждэг бөгөөд анхны удаа ажиллахдаа хэрэглэгчийн NVIDIA картны бүтцэд тохируулан загваруудыг урьдчилан бэлтгэдэг байна.\n\nТөслийн үндсэн код нь Python хэл дээр бичигдсэн бөгөөд AGPL-3.0 лицензтэй нээлттэй эх бүхий програм хангамж юм. Видео боловсруулалт, дүрс сэргээх алгоритм болон компьютерийн харааны чиглэлээр ажилладаг судлаачид, хөгжүүлэгчдэд туршилт хийхэд тохиромжтой.\n\nТөслийг GitHub-аас татаж аваад өөрийн GPU орчинд тохируулан ажиллуулж болох ба суурилуулсан CLI интерфэйсийг ашиглан автоматжуулсан дамжлагад нэгтгэх боломжтой.",
+   "published": "2026-10-19T21:53:46Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "32faae70661994ba",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/Comfy-Org/ComfyUI",
+   "image": "https://repository-images.githubusercontent.com/589831718/8894dcc0-5f53-4f3c-97f0-50d820b7779b",
+   "title": "Comfy-Org/ComfyUI",
+   "summary_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. https://www.comfy.org/ ComfyUI The most powerful and modular AI engine for content creation. ComfyUI is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output. Its powerful and modular node graph interface empowers creatives to generate images, videos, 3D models, audio, and more... ComfyUI natively supports the latest open-source state of the art models. It is by far the most optimized…",
+   "title_mn": "Comfy-Org/ComfyUI: Модульчлагдсан график интерфэйс бүхий AI контент бүтээх систем",
+   "summary_mn": "ComfyUI нь зураг, видео, аудио болон 3D контент үүсгэх загваруудыг зангилаат (node-graph) бүтцээр бүрэн хянах боломжийг олгодог хамгийн хүчирхэг нээлттэй платформ юм.",
+   "body_mn": "ComfyUI нь сүүлийн үеийн диффузийн загваруудыг хамгийн нарийн тохируулга, хяналттайгаар ажиллуулах боломжийг олгодог график интерфэйс бүхий нээлттэй систем юм. Хэрэглэгчид зангилаат бүтцийг (node graph) холбох замаар өөрийн хүссэн үе шатуудыг бүрдүүлж, зураг, видео, 3D модель болон аудио үүсгэх бүрэн автомат процессуудыг үүсгэдэг.\n\nУг төсөл нь NVIDIA, AMD ROCm, Apple Silicon, Intel болон Ascend зэрэг бараг бүх төрлийн график карт, үйлдлийн систем дээр ажиллах бүрэн чадвартай. Түүнчлэн энгийн хэрэглэгчдэд зориулсан desktop аппликейшн, хөгжүүлэгчдэд зориулсан comfy-cli болон төрөл бүрийн бие даасан багцуудыг байнга шинэчлэн гаргадаг.\n\nТехнологийн хувьд Python болон PyTorch дээр суурилсан бөгөөд маш өргөн нэмэлт нод (custom nodes) экосистемтэй. AI бүтээгдэхүүн хөгжүүлэгчид өөрсдийн автомат дамжлагыг API хэлбэрээр дуудаж backend системүүддээ ашиглахад маш тохиромжтой юм.\n\nШинээр ашиглаж буй хэрэглэгчид албан ёсны desktop аппликейшныг татаж авах эсвэл Python орчинд pip ашиглан уг хэрэгслийг хялбархан суулгаж туршиж болно.",
+   "published": "2026-10-19T21:53:46Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "626a5e4fcb233d8d",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/TauricResearch/TradingAgents",
+   "image": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1",
+   "title": "TauricResearch/TradingAgents",
+   "summary_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework https://arxiv.org/pdf/2412.20138 Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 TradingAgents: Multi-Agents LLM Financial Trading Framework News [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored from the first close after each decision, a note at start-up when a newer release is out, and a wheel attached to each GitHub release. [2026-10] TradingAgents v0.6.0 released with reports saved as one HTML page, a provider per model tier so the managers and analysts…",
+   "title_mn": "TauricResearch/TradingAgents: Санхүүгийн арилжааны олон агентийн нээлттэй систем",
+   "summary_mn": "TradingAgents нь бодит хөрөнгө оруулалтын компаниудын бүтцийг дуурайлган, зах зээлийн шинжилгээ болон арилжааны шийдвэр гаргадаг олон агентийн систем юм.",
+   "body_mn": "TauricResearch багаас хөрөнгө оруулалт, санхүүгийн арилжааны даалгавруудыг гүйцэтгэхэд зориулагдсан TradingAgents нээлттэй эхийн системийг танилцууллаа. Энэхүү фрэймворк нь бодит арилжааны фирмүүдийн ажиллах зарчмыг загварчлан бүтээгдсэнээрээ онцлогтой.\n\nСистем нь суурь шинжилгээний шинжээч, зах зээлийн мэдрэмжийн мэргэжилтэн, техникийн шинжээч, арилжаач болон эрсдэлийн удирдлагын баг зэрэг төрөлжсөн LLM агентуудыг зэрэг ажиллуулдаг. Эдгээр агентууд зах зээлийн нөхцөл байдалд өөр өөрийн үүргээр дүн шинжилгээ хийж, хамтран мэтгэлцэх замаар оновчтой стратегийг тодорхойлдог байна.\n\nТөсөл нь Python 3.11+ дээр суурилсан бөгөөд OpenAI, Azure OpenAI, AWS Bedrock зэрэг төлбөрт загваруудаас гадна Ollama, vLLM, LM Studio ашиглан дотооддоо ажилладаг локал загваруудыг дэмждэг. Санхүүгийн технологи, автоматжуулсан арилжаа болон AI агентуудын хамтын ажиллагааг судалдаг мэргэжилтнүүдэд зориулагдсан.\n\nТуршиж үзэхийн тулд виртуал орчин үүсгээд pip ашиглан багцыг суулгах эсвэл Docker Compose-оор шууд ажиллуулж, өөрийн LLM-ийн түлхүүрүүдээ тохируулан ашиглах боломжтой.",
+   "published": "2026-10-19T21:53:46Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ea87debe34dc2d35",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/rubys/roundhouse",
+   "image": "https://opengraph.githubassets.com/45115b3a14ad99ed5790ee11d3b30f32b2ecaf285f08f0bf6374be65c7e8d1ff/rubys/roundhouse",
+   "title": "rubys/roundhouse",
+   "summary_en": "Rails as a specification; the deployment target is a build flag https://rubys.github.io/roundhouse/ Roundhouse Rails as a specification; deployment is a build flag. Roundhouse reads Ruby source — specifically, Rails applications — and produces standalone projects in other target languages. The deployment target (Rust or Swift binary, TypeScript bundle, Crystal or Go service, Elixir OTP app, Kotlin/JVM or C#/.NET service, Python project, browser bundle, or Spinel-compiled Ruby) becomes a compiler flag rather than a runtime choice. A roundhouse is the circular hub in a rail yard where engines…",
+   "title_mn": "rubys/roundhouse: Ruby on Rails төслийг бусад програмчлалын хэл рүү хөрвүүлэгч",
+   "summary_mn": "Roundhouse нь Rails аппликейшныг код болон өгөгдлийн баазыг нь асаахгүйгээр бүтнээр шинжилж, Rust, TypeScript, Go зэрэг хэлүүд рүү хөрвүүлдэг шинэ хэрэгсэл юм.",
+   "body_mn": "Roundhouse төсөл нь Ruby on Rails фрэймворкийг програмчлалын үзүүлэлт буюу техникийн тодорхойлолт болгон ашиглаж, хөгжүүлсэн кодоос бие даасан өөр хэлний төслүүдийг гарган авах зарчмыг хэрэгжүүлсэн хөрвүүлэгч юм. Хөгжүүлэгчид байршуулалтын орчноосоо хамааран Rust, TypeScript, Go, Elixir, Swift, Kotlin, C# эсвэл Python хэл рүү хөрвүүлэх тугийг тохируулахад л хангалттай.\n\nУг хэрэгсэл нь кодод ямар нэгэн төрлийн аннотаци бичихийг шаарддаггүй бөгөөд төслийн холбоос, өгөгдлийн моделиудын шинж чанарыг кодын сангаас бүрэн автомат маягаар (whole-program inference) тооцоолж гаргадаг. Тухайлбал, Mastodon-ийн 1100 гаруй файлуудыг өгөгдлийн сан болон серверийг асаалгүйгээр 1.5 секундийн дотор бүрэн шинжилж чаддаг байна.\n\nСистемийн үндсэн цөм нь Rust хэл дээр бичигдсэн тул асар хурдтай бөгөөд LSP серверийн дэмжлэг, MCP серверийн чадамжтай. Rails-ийн экосистемд байгаа төслүүдээ өндөр хурд шаардсан системийн түвшний хэлүүд рүү шилжүүлэх эсвэл урьдчилан хөрвүүлж (AOT) ажиллуулах хүсэлтэй инженерүүдэд нэн тустай.\n\nХөгжүүлэгчид roundhouse командыг ашиглан өөрийн Rails төсөл дээр статик шалгалт (check) хийж үзэх эсвэл заасан хэл рүүгээ шууд хөрвүүлж турших боломжтой юм.",
+   "published": "2026-10-19T21:53:46Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9820260cab2ea9a8",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/claration/impactor",
+   "image": "https://opengraph.githubassets.com/df7a9432ed5fd0fbe49429a03d0fd752d588196f274da0fb260c3b50b45d2ca5/claration/impactor",
+   "title": "claration/impactor",
+   "summary_en": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor. Impactor Open-source, cross-platform, and feature rich iOS sideloading application. Supporting macOS, Linux [1] , and Windows [2] . Features User friendly and clean UI. Supports installing SideStore and LiveContainer properly. Supports Linux. Sign and sideload applications on iOS 9.0+ & Mac with your Apple ID. Installing with AppSync is supported. Installing with ipatool gotten ipa's is supported. Automatically disables updates from the App Store. Simple customization options for the app…",
+   "title_mn": "claration/impactor: iOS аппликейшнуудыг суулгах зориулалттай нээлттэй эх бүхий хэрэгсэл",
+   "summary_mn": "Impactor нь macOS, Linux болон Windows үйлдлийн системүүдээс Apple төхөөрөмж дээр аппликейшн суулгах (sideloading) боломж олгодог нээлттэй хэрэгсэл юм.",
+   "body_mn": "Impactor төсөл нь Apple-ийн Xcode хэрэгслийн ажиллах зарчмыг дуурайлган, гуравдагч этгээдийн iOS аппликейшнуудыг төхөөрөмж дээр бие даан гаднаас суулгах (sideloading) зориулалттай хөндлөн платформ програм юм. macOS, Linux болон Windows системүүдийг бүгдийг нь дэмждэгээрээ онцлогтой.\n\nУг програм нь хэрэглэгчийн Apple бүртгэлийг ашиглан хөгжүүлэгчийн гэрчилгээ үүсгэх, төхөөрөмжийг бүртгэх, тохирох provisioning profile татаж авах үйл ажиллагааг автоматаар зохицуулдаг. Дараа нь apple-codesign-rs санг ашиглан програмын багцад шаардлагатай эрх, засваруудыг хийж тоон гарын үсэг зурж суулгадаг байна.\n\nТөслийн гол хэсэг нь Rust хэл дээр бүтээгдсэн тул найдвартай ажиллагаатай, авсаархан хэмжээтэй бөгөөд MIT лицензтэйгээр бүрэн нээлттэй хөгжүүлэгдэж байна. iOS төхөөрөмжөө туршилтын зорилгоор ашигладаг, албан бус өөрчлөлттэй аппликейшн турших хүсэлтэй хөгжүүлэгчид болон сонирхогчдод тохиромжтой шийдэл юм.\n\nХэрэглэгчид GitHub-ийн releases хуудаснаас өөрийн үйлдлийн системд таарах хувилбарыг шууд татаж аваад гар утсаа кабелиар холбон ашиглах боломжтой.",
+   "published": "2026-10-19T21:53:46Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "28029a2140443bcb",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/starship/starship",
+   "image": "https://repository-images.githubusercontent.com/178991158/17096280-8d4d-11e9-97e9-7fed5f61d6bf",
+   "title": "starship/starship",
+   "summary_en": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! https://starship.rs Website · Installation · Configuration The minimal, blazing-fast, and infinitely customizable prompt for any shell! Fast: it's fast – really really fast! 🚀 Customizable: configure every aspect of your prompt. Universal: works on any shell, on any operating system. Intelligent: shows relevant information at a glance. Feature rich: support for all your favorite tools. Easy: quick to install – start using it in minutes. Explore the Starship docs ▶ 🚀 Installation Prerequisites A Nerd Font…",
+   "title_mn": "starship/starship: Ямар ч shell-д зориулсан хурдан, уян хатан prompt",
+   "summary_mn": "Rust хэл дээр бичигдсэн Starship нь Bash, Zsh, Fish, PowerShell зэрэг бараг бүх shell дээр ажилладаг, маш хурдан бөгөөд уян хатан тохиргоо бүхий нээлттэй эхийн CLI prompt юм.",
+   "body_mn": "Starship нь аль ч үйлдлийн систем болон төрөл бүрийн shell дээр нэгэн жигд ажилладаг, минимал бөгөөд маш хурдан prompt хэрэгсэл юм. Уг төслийг Rust хэл дээр хөгжүүлсэн нь терминалын хариу үйлдлийг саатуулахгүй, хамгийн бага хугацаанд ажиллах боломжийг олгодог.\n\nЭнэхүү хэрэгсэл нь Bash, Zsh, Fish, PowerShell, Nushell, Elvish зэрэг өргөн хэрэглэгддэг бүх shell-ийг дэмждэг. Түүнчлэн Git салбар болон төлөв, идэвхтэй ашиглагдаж буй Node.js, Python, Rust зэрэг хэлний хувилбарууд, үүлэн үйлчилгээний context зэрэг хөгжүүлэгчид нэн чухал мэдээллийг тухайн агшинд ухаалгаар харуулдаг онцлогтой.\n\nХөгжүүлэгчид Starship-ийг төрөл бүрийн package manager-ээр хялбархан суулгаж, өөрийн shell-ийн тохиргооны файлд (жишээ нь ~/.bashrc эсвэл ~/.zshrc) ганц мөр код нэмээд л ашиглах боломжтой. Өөрийн хэв маягт тохируулан preset загварууд ашиглах эсвэл тохиргооны файлаар бүрэн өөрчлөх боломжтой тул олон төрлийн орчинд ажилладаг хөгжүүлэгчдэд нэн тохиромжтой.",
+   "published": "2026-10-19T21:53:46Z",
+   "added": "2026-10-19T21:53:46Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
  }
 ]

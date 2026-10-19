@@ -1,0 +1,17 @@
+{
+ "id": "9c15e014464735eb",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/cloudflare/security-audit-skill",
+ "image": "https://opengraph.githubassets.com/d4ee78fca44b6a02bfcce5d7f16d45e8f7e0d3aa3f651ba4139bc8178b93da4a/cloudflare/security-audit-skill",
+ "title": "cloudflare/security-audit-skill",
+ "summary_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in Build your own vulnerability harness . The harness grew into a multi-stage, fleet-wide system; this skill is the single-repo starting…",
+ "title_mn": "cloudflare/security-audit-skill: AI кодинг агентуудад зориулсан аюулгүй байдлын аудитын ур чадвар",
+ "summary_mn": "Cloudflare компани кодын санд автомат аюулгүй байдлын шинжилгээ хийх чадвартай coding agent skill-ийг нээлттэй эхээр зарлалаа.",
+ "body_mn": "Cloudflare өөрийн дотоод системд эмзэг байдал илрүүлэх зорилгоор ашигладаг аргачлал, загвараасаа үндэслэн security-audit-skill төслийг олон нийтэд нээлттэй болголоо. Энэхүү хэрэгсэл нь ердийн AI кодинг агентуудыг аюулгүй байдлын аудит хийх тусгай мэргэжилтэн болгон хувиргадаг ур чадварын модуль юм.\n\nУг хэрэгсэл нь аудитыг зургаан үе шаттай зохион байгуулж, тусгаарлагдсан агентуудын тусламжтайгаар кодтой танилцах, эмзэг байдлын сэжигтэй хэсгүүдийг хайх, тэдгээрийг бодитоор баталгаажуулах зэрэг үйлдлийг шат дараатай хийдэг. Аудитын үр дүнг confirmed, needs_validation, rejected гэсэн тодорхой статус бүхий машинд уншигдахуйц бүтцээр гаргадаг байна.\n\nТөсөл нь JavaScript болон Node.js дээр суурилсан бөгөөд npx командын тусламжтайгаар шууд хэрэглэгчийн глобал түвшинд суулгах боломжтой. Код дээрээ пен-тест хийх эсвэл ерөнхий аюулгүй байдлын аудит гүйцэтгүүлэхийг хүссэн програм хангамжийн багуудад зориулагдсан.\n\nАшиглахын тулд кодын сангаа нээгээд дэмжигдсэн кодинг агентаасаа аудитын хүсэлт тавихад уг ур чадвар автоматаар идэвхжиж ажиллаж эхэлнэ.",
+ "published": "2026-10-19T21:53:46Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

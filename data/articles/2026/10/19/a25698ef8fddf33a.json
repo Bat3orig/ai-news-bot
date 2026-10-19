@@ -1,0 +1,17 @@
+{
+ "id": "a25698ef8fddf33a",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/Kruk2/jasna",
+ "image": "https://opengraph.githubassets.com/1ed59c4ee406fc2befc24bb5367dee4e904767e070fbcdf2371e513ac4f11e1a/Kruk2/jasna",
+ "title": "Kruk2/jasna",
+ "summary_en": "Video restoration tool The only places to get a genuine License code for the supporter models are Buy Me a Coffee , Unifans , and for China the seller in the Chinese README . 支持者模型的正版许可证码只能通过 Buy Me a Coffee 、 Unifans 或 闲鱼 获取。 English | 日本語 | 中文 Jasna Jasna restores mosaics in videos and images. It is free, has a simple app and a command line, and runs on your GPU. Contents Start here What Jasna does What you need Quick start Help and community Supporting the project (supporter models) Advanced How Jasna works Command line All guides Benchmarks Licensing Acknowledgments What Jasna does Finds…",
+ "title_mn": "Kruk2/jasna: Видео болон зургийн мозайк арилгах GPU суурьтай нээлттэй хэрэгсэл",
+ "summary_mn": "Jasna нь видео болон зураг дээрх мозайк эффектийг хиймэл оюуны тусламжтайгаар сэргээж тодруулдаг нээлттэй эх бүхий Python төсөл юм.",
+ "body_mn": "Jasna төсөл нь зураг болон дүрс бичлэг дээр тавигдсан мозайкийг сэргээж, анхны нарийн деталь хэсгүүдийг хиймэл оюуны загваруудын тусламжтайгаар гаргаж авах зориулалттай хэрэгсэл юм. Уг систем нь графикийн интерфэйс (GUI) болон команд мөрийн (CLI) хувилбартай бөгөөд өөрийн төхөөрөмж дээр бие даан ажиллах боломжийг олгодог.\n\nБүх тооцоолол видеог уншихаас эхлээд хадгалах хүртэл бүхэлдээ хэрэглэгчийн график карт (GPU) дээр хийгддэг. Систем нь BasicVSR++, UNet болон LTX зэрэг диффузийн загваруудыг дэмждэг бөгөөд анхны удаа ажиллахдаа хэрэглэгчийн NVIDIA картны бүтцэд тохируулан загваруудыг урьдчилан бэлтгэдэг байна.\n\nТөслийн үндсэн код нь Python хэл дээр бичигдсэн бөгөөд AGPL-3.0 лицензтэй нээлттэй эх бүхий програм хангамж юм. Видео боловсруулалт, дүрс сэргээх алгоритм болон компьютерийн харааны чиглэлээр ажилладаг судлаачид, хөгжүүлэгчдэд туршилт хийхэд тохиромжтой.\n\nТөслийг GitHub-аас татаж аваад өөрийн GPU орчинд тохируулан ажиллуулж болох ба суурилуулсан CLI интерфэйсийг ашиглан автоматжуулсан дамжлагад нэгтгэх боломжтой.",
+ "published": "2026-10-19T21:53:46Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "ca07548f6acfab72",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+ "image": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-3.11.02-PM.png",
+ "title": "How to continue a GitHub Copilot app session in VS Code",
+ "summary_en": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.",
+ "title_mn": "GitHub Copilot апп дахь сессийн ажлыг VS Code руу шууд шилжүүлэх боломжтой боллоо",
+ "summary_mn": "Та GitHub Copilot апп дотор хийсэн ажлаа ямар ч хуулбарлалтгүйгээр Visual Studio Code рүү шууд шижүүлж үргэлжлүүлэн шалгах, засварлах боломжтой боллоо.",
+ "body_mn": "GitHub Copilot апп ашиглан кодын өөрчлөлт хийж дууссаны дараа тухайн ажлыг орон нутгийн орчинд турших, нарийн ширийн зүйлсийг нь гараар шалгах шаардлага гардаг. Тэгвэл энэ үйл явцыг хялбарчилж, Copilot апп дээрх сесс болон ярианы түүхийг алдалгүйгээр Visual Studio Code рүү шууд нээж үргэлжлүүлэх боломжтой болжээ.\n\nЭнэ нь хөгжүүлэгчдэд Copilot-ын хийсэн ажлын төлөвлөгөө, ярианы түүх болон өөрчлөгдсөн файлуудын контекстийг алдахгүйгээр VS Code доторх Source Control болон хажуугийн самбараар дамжуулан нарийвчлан хянах боломжийг олгож байна. Та хуучин кодоо шинэ цонхонд дахин бичих эсвэл файлыг хуулж зөөх шаардлагагүйгээр шууд үргэлжлүүлэн засварлах боломжтой.\n\nVS Code дотор сессийг нээсний дараа өөрчлөлтүүдийг мөр мөрөөр нь шалгаж, шаардлагатай бол нэмэлт зааварчилгаа өгөх эсвэл өөрөө гараар засвар хийх боломжтой. Мөн терминал ашиглан төслийн тестийг ажиллуулж, browser дээр үр дүнг шууд шалгах боломжтой юм.",
+ "published": "2026-10-19T18:47:22Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

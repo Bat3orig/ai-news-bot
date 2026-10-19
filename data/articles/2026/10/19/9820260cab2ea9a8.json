@@ -1,0 +1,17 @@
+{
+ "id": "9820260cab2ea9a8",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/claration/impactor",
+ "image": "https://opengraph.githubassets.com/df7a9432ed5fd0fbe49429a03d0fd752d588196f274da0fb260c3b50b45d2ca5/claration/impactor",
+ "title": "claration/impactor",
+ "summary_en": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor. Impactor Open-source, cross-platform, and feature rich iOS sideloading application. Supporting macOS, Linux [1] , and Windows [2] . Features User friendly and clean UI. Supports installing SideStore and LiveContainer properly. Supports Linux. Sign and sideload applications on iOS 9.0+ & Mac with your Apple ID. Installing with AppSync is supported. Installing with ipatool gotten ipa's is supported. Automatically disables updates from the App Store. Simple customization options for the app…",
+ "title_mn": "claration/impactor: iOS аппликейшнуудыг суулгах зориулалттай нээлттэй эх бүхий хэрэгсэл",
+ "summary_mn": "Impactor нь macOS, Linux болон Windows үйлдлийн системүүдээс Apple төхөөрөмж дээр аппликейшн суулгах (sideloading) боломж олгодог нээлттэй хэрэгсэл юм.",
+ "body_mn": "Impactor төсөл нь Apple-ийн Xcode хэрэгслийн ажиллах зарчмыг дуурайлган, гуравдагч этгээдийн iOS аппликейшнуудыг төхөөрөмж дээр бие даан гаднаас суулгах (sideloading) зориулалттай хөндлөн платформ програм юм. macOS, Linux болон Windows системүүдийг бүгдийг нь дэмждэгээрээ онцлогтой.\n\nУг програм нь хэрэглэгчийн Apple бүртгэлийг ашиглан хөгжүүлэгчийн гэрчилгээ үүсгэх, төхөөрөмжийг бүртгэх, тохирох provisioning profile татаж авах үйл ажиллагааг автоматаар зохицуулдаг. Дараа нь apple-codesign-rs санг ашиглан програмын багцад шаардлагатай эрх, засваруудыг хийж тоон гарын үсэг зурж суулгадаг байна.\n\nТөслийн гол хэсэг нь Rust хэл дээр бүтээгдсэн тул найдвартай ажиллагаатай, авсаархан хэмжээтэй бөгөөд MIT лицензтэйгээр бүрэн нээлттэй хөгжүүлэгдэж байна. iOS төхөөрөмжөө туршилтын зорилгоор ашигладаг, албан бус өөрчлөлттэй аппликейшн турших хүсэлтэй хөгжүүлэгчид болон сонирхогчдод тохиромжтой шийдэл юм.\n\nХэрэглэгчид GitHub-ийн releases хуудаснаас өөрийн үйлдлийн системд таарах хувилбарыг шууд татаж аваад гар утсаа кабелиар холбон ашиглах боломжтой.",
+ "published": "2026-10-19T21:53:46Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

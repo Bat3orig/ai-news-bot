@@ -1,0 +1,17 @@
+{
+ "id": "32faae70661994ba",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/Comfy-Org/ComfyUI",
+ "image": "https://repository-images.githubusercontent.com/589831718/8894dcc0-5f53-4f3c-97f0-50d820b7779b",
+ "title": "Comfy-Org/ComfyUI",
+ "summary_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. https://www.comfy.org/ ComfyUI The most powerful and modular AI engine for content creation. ComfyUI is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output. Its powerful and modular node graph interface empowers creatives to generate images, videos, 3D models, audio, and more... ComfyUI natively supports the latest open-source state of the art models. It is by far the most optimized…",
+ "title_mn": "Comfy-Org/ComfyUI: Модульчлагдсан график интерфэйс бүхий AI контент бүтээх систем",
+ "summary_mn": "ComfyUI нь зураг, видео, аудио болон 3D контент үүсгэх загваруудыг зангилаат (node-graph) бүтцээр бүрэн хянах боломжийг олгодог хамгийн хүчирхэг нээлттэй платформ юм.",
+ "body_mn": "ComfyUI нь сүүлийн үеийн диффузийн загваруудыг хамгийн нарийн тохируулга, хяналттайгаар ажиллуулах боломжийг олгодог график интерфэйс бүхий нээлттэй систем юм. Хэрэглэгчид зангилаат бүтцийг (node graph) холбох замаар өөрийн хүссэн үе шатуудыг бүрдүүлж, зураг, видео, 3D модель болон аудио үүсгэх бүрэн автомат процессуудыг үүсгэдэг.\n\nУг төсөл нь NVIDIA, AMD ROCm, Apple Silicon, Intel болон Ascend зэрэг бараг бүх төрлийн график карт, үйлдлийн систем дээр ажиллах бүрэн чадвартай. Түүнчлэн энгийн хэрэглэгчдэд зориулсан desktop аппликейшн, хөгжүүлэгчдэд зориулсан comfy-cli болон төрөл бүрийн бие даасан багцуудыг байнга шинэчлэн гаргадаг.\n\nТехнологийн хувьд Python болон PyTorch дээр суурилсан бөгөөд маш өргөн нэмэлт нод (custom nodes) экосистемтэй. AI бүтээгдэхүүн хөгжүүлэгчид өөрсдийн автомат дамжлагыг API хэлбэрээр дуудаж backend системүүддээ ашиглахад маш тохиромжтой юм.\n\nШинээр ашиглаж буй хэрэглэгчид албан ёсны desktop аппликейшныг татаж авах эсвэл Python орчинд pip ашиглан уг хэрэгслийг хялбархан суулгаж туршиж болно.",
+ "published": "2026-10-19T21:53:46Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

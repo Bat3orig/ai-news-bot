@@ -1,0 +1,17 @@
+{
+ "id": "afef75d2fc43212b",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/LibreChat-AI/LibreChat",
+ "image": "https://opengraph.githubassets.com/f0ef75ffec1c3de42b7d12f134b2127dbbdfe480973d7f5cb40fd7ba7522e95d/LibreChat-AI/LibreChat",
+ "title": "LibreChat-AI/LibreChat",
+ "summary_en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active https://librechat.ai/ LibreChat English · 中文 🚀 What's New in v0.8.8 Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identities…",
+ "title_mn": "LibreChat-AI/LibreChat: Олон AI загварыг нэгтгэсэн нээлттэй эх бүхий чат платформ",
+ "summary_mn": "LibreChat нь OpenAI, Anthropic, Gemini зэрэг бүх томоохон AI үйлчилгээнүүдийг нэг дор төвлөрүүлж, өөрийн сервер дээр бие даан ажиллуулах боломжтой нээлттэй эх бүхий хэрэглэгчийн интерфэйс юм.",
+ "body_mn": "LibreChat төсөл нь ChatGPT-ийн интерфэйсээс санаа авсан бөгөөд нууцлалыг дээдэлсэн, өөрийн сервер дээр (self-hosted) ажиллах боломжтой систем юм. Уг систем нь OpenAI, Anthropic, Google Gemini, AWS Bedrock, DeepSeek, Groq болон бусад олон тооны үйлчилгээ үзүүлэгчдийг нэг платформд нэгтгэдгээрээ онцлогтой.\n\nЭнгийн чатаас гадна AI агентууд, Model Context Protocol (MCP) протокол, Artifacts, Code Interpreter, зураг үүсгэгч DALL-E-3 болон OpenAPI actions зэрэг олон төрлийн өргөтгөсөн боломжуудыг дэмждэг. Түүнчлэн олон хэрэглэгчийн бүртгэл, хандалтын эрхийн удирдлага зэрэг байгууллагын түвшний шаардлагуудыг хангасан шийдлүүдийг багтаасан байна.\n\nТехнологийн хувьд TypeScript болон Node.js экосистем дээр бүтээгдсэн бөгөөд дата бааз, кэшлэх системийг өөртөө агуулдаг. Байгууллагынхаа дотоод сүлжээнд хиймэл оюун ухааны шийдлийг аюулгүй байршуулахыг хүссэн хөгжүүлэгчид болон багуудад нэн тохиромжтой.\n\nХөгжүүлэгчид уг платформыг туршиж үзэхийн тулд төслийн GitHub сангаас Docker Compose ашиглан маш хурдан хугацаанд өөрийн орчинд асааж ашиглах боломжтой юм.",
+ "published": "2026-10-19T21:53:46Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

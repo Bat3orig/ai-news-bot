@@ -1,0 +1,17 @@
+{
+ "id": "0f333d6652dcf50a",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.304",
+ "image": "https://opengraph.githubassets.com/3ff3f9cbe72ac999e8c7a9ebc27fd95fb47a98253de2beee336521f03bd71c64/anthropics/claude-code/releases/tag/v2.1.304",
+ "title": "claude-code v2.1.304",
+ "summary_en": "What's changed Added a transcript line when a plugin that runs first skips one of your mod's hooks, naming the event and the plugin Added decider: \"person\" to a mod's tool.check answer: only the permission dialog or a host's callback can approve the ask, and it is refused with the mod's reason where nobody can be asked Added e.isReadOnly to a mod's tool.check event, set when the tool call is read-only Added /auto-mode-setup : a guided setup that reads your project and recent sessions to teach auto mode about your environment, now also available on Bedrock, Vertex, Foundry, Claude apps…",
+ "title_mn": "Claude Code v2.1.304 шинэчлэлт гарлаа",
+ "summary_mn": "Claude Code v2.1.304 хувилбар гарч, автомат горимын тохиргоо, транскрипт болон плагины удирдлагын шинэ боломжууд нэмэгдлээ.",
+ "body_mn": "Claude Code хэрэгслийн 2.1.304 шинэ хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон шинэ боломж болон алдаа засваруудыг багтаалаа. Тухайлбал, автоматаар ажиллах горимыг төсөл болон сүүлийн үеийн сессүүдэд үндэслэн зааварчилгаа өгөх шинэ /auto-mode-setup команд нэмэгдсэн байна.\n\nШинэ хувилбарт плагинууд болон горимуудын аюулгүй байдлын шалгалтыг сайжруулж, tool.check үйл явдалд e.isReadOnly болон person шинэ утгуудыг нэмжээ. Мөн Bedrock, Vertex, Foundry болон Claude apps gateway зэрэг орчинд автомат горимын тохиргоог дэмждэг болсон байна.\n\nТүүнчлэн Linux болон бусад үйлдлийн систем дээр sandbox команд ажиллах үед гардаг байсан зарим файлын системийн алдааг засварлаж, транскрипт болон санах ойн менежментийг илүү тогтвортой болгожээ.",
+ "published": "2026-10-19T21:34:39Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

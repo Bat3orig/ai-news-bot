@@ -1,0 +1,17 @@
+{
+ "id": "ea87debe34dc2d35",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/rubys/roundhouse",
+ "image": "https://opengraph.githubassets.com/45115b3a14ad99ed5790ee11d3b30f32b2ecaf285f08f0bf6374be65c7e8d1ff/rubys/roundhouse",
+ "title": "rubys/roundhouse",
+ "summary_en": "Rails as a specification; the deployment target is a build flag https://rubys.github.io/roundhouse/ Roundhouse Rails as a specification; deployment is a build flag. Roundhouse reads Ruby source — specifically, Rails applications — and produces standalone projects in other target languages. The deployment target (Rust or Swift binary, TypeScript bundle, Crystal or Go service, Elixir OTP app, Kotlin/JVM or C#/.NET service, Python project, browser bundle, or Spinel-compiled Ruby) becomes a compiler flag rather than a runtime choice. A roundhouse is the circular hub in a rail yard where engines…",
+ "title_mn": "rubys/roundhouse: Ruby on Rails төслийг бусад програмчлалын хэл рүү хөрвүүлэгч",
+ "summary_mn": "Roundhouse нь Rails аппликейшныг код болон өгөгдлийн баазыг нь асаахгүйгээр бүтнээр шинжилж, Rust, TypeScript, Go зэрэг хэлүүд рүү хөрвүүлдэг шинэ хэрэгсэл юм.",
+ "body_mn": "Roundhouse төсөл нь Ruby on Rails фрэймворкийг програмчлалын үзүүлэлт буюу техникийн тодорхойлолт болгон ашиглаж, хөгжүүлсэн кодоос бие даасан өөр хэлний төслүүдийг гарган авах зарчмыг хэрэгжүүлсэн хөрвүүлэгч юм. Хөгжүүлэгчид байршуулалтын орчноосоо хамааран Rust, TypeScript, Go, Elixir, Swift, Kotlin, C# эсвэл Python хэл рүү хөрвүүлэх тугийг тохируулахад л хангалттай.\n\nУг хэрэгсэл нь кодод ямар нэгэн төрлийн аннотаци бичихийг шаарддаггүй бөгөөд төслийн холбоос, өгөгдлийн моделиудын шинж чанарыг кодын сангаас бүрэн автомат маягаар (whole-program inference) тооцоолж гаргадаг. Тухайлбал, Mastodon-ийн 1100 гаруй файлуудыг өгөгдлийн сан болон серверийг асаалгүйгээр 1.5 секундийн дотор бүрэн шинжилж чаддаг байна.\n\nСистемийн үндсэн цөм нь Rust хэл дээр бичигдсэн тул асар хурдтай бөгөөд LSP серверийн дэмжлэг, MCP серверийн чадамжтай. Rails-ийн экосистемд байгаа төслүүдээ өндөр хурд шаардсан системийн түвшний хэлүүд рүү шилжүүлэх эсвэл урьдчилан хөрвүүлж (AOT) ажиллуулах хүсэлтэй инженерүүдэд нэн тустай.\n\nХөгжүүлэгчид roundhouse командыг ашиглан өөрийн Rails төсөл дээр статик шалгалт (check) хийж үзэх эсвэл заасан хэл рүүгээ шууд хөрвүүлж турших боломжтой юм.",
+ "published": "2026-10-19T21:53:46Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

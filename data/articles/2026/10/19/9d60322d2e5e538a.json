@@ -1,0 +1,17 @@
+{
+ "id": "9d60322d2e5e538a",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service",
+ "image": "https://vercel.com/api/dynamic-og?title=Updates%20to%20Hobby%20and%20Pro%20Terms%20of%20Service&format=changelog",
+ "title": "Updates to Hobby and Pro Terms of Service",
+ "summary_en": "We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and credits, and reflect applicable legal requirements, including certain cancellation and service-change rights for eligible consumers in the UK and EU. Credits and billing A new section sets out how credits work: plan-included credits expire at the end of the subscription term and purchased credits expire one year after purchase unless stated otherwise. Credits can only be used to pay Vercel fees…",
+ "title_mn": "Vercel платформ Hobby болон Pro үйлчилгээний нөхцөлөө шинэчиллээ",
+ "summary_mn": "Vercel компани Hobby болон Pro хэрэглэгчдэд зориулсан үйлчилгээний нөхцөлийг шинэчилж, кредит ашиглалт болон хугацааны талаарх зохицуулалтыг тодорхой болголоо.",
+ "body_mn": "Vercel платформ нь 2026 оны 10 дугаар сарын 19-ний өдрөөс эхлэн Hobby болон Pro хэрэглэгчдэд зориулсан үйлчилгээний нөхцөлөө (Terms of Service) шинэчлэн хэрэгжүүлж эхэллээ. Энэхүү шинэчлэлтээр кредитийн зарцуулалт, менежменттэй багууд болон хэрэглэгчийн эрх зүйн шаардлагуудыг илүү тодорхой болгосон байна.\n\nШинэ нөхцөлийн дагуу багцын хүрээнд олгогдсон кредитүүд нь тухайн захиалгын хугацаа дуусахад хүчингүй болох бөгөөд худалдаж авсан кредитүүд нь тусгайлан заагаагүй бол худалдаж авснаас хойш нэг жилийн дараа дуусах аж. Эдгээр кредитүүд нь зөвхөн Vercel-ийн хураамжийг төлөхөд зориулагдсан бөгөөд бэлэн мөнгө болгох болон бусдад шилжүүлэх боломжгүй юм.\n\nMөн Их Британи болон Европын Холбооны оршин суугч хэрэглэгчдэд үйлчилгээний өөрчлөлтөөс шалтгаалан захиалгаа цуцлах, буцаан олголт авах эрхтэй холбоотой зохицуулалтуудыг нарийвчлан тусгажээ. Хэрэглэгчид өөрийн бүртгэлийн тохиргоо болон дэмжлэгийн хэсгээр дамжуулан автоматаар сунгагдах тохиргоог удирдах боломжтой хэвээр байна.",
+ "published": "2026-10-19T18:39:47Z",
+ "added": "2026-10-19T21:53:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
