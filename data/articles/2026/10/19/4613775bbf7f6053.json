@@ -1,0 +1,17 @@
+{
+ "id": "4613775bbf7f6053",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+ "image": "https://opengraph.githubassets.com/4767d9905959f94d4d452a1eccb99eec0101bbd3def805ff5621603a1436379a/IsuruMaduranga/harness-engineering-101",
+ "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+ "summary_en": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 126 # Comments: 61",
+ "title_mn": "Harness Engineering 101: LLM-ийн харьцаа ба AI агентуудыг нэг давталтаас барих арга",
+ "summary_mn": "Hacker News-д нийтлэгдсэн Harness Engineering 101 нь AI агент бүтээх сэдвээр 16 бүлэгтэй нээлттэй ном юм. Энэ нь API-ийн stateless шинж чанар болон harness-ийн үүргийг тайлбарлаж, Python дээр ~300 мөрийн жишээ агент бүтээдэг.",
+ "body_mn": "Harness Engineering 101 ном нь LLM-ийг тархи, harness-ийг бие гэж үздэг. LLM API нь stateless тул хэлэлцүүлгийн бүх массивыг илгээж, текст хариу авдаг. Harness бол энэ массивыг бүтээж, хадгалж, хамгаалдаг программ юм. Номын зохиогч бүх «агент» гэгдэх системүүд энэ нэг давталтын дээр хийгдсэн засваруудаас бүрдэнэ гэж үзжээ.\n\nНоман дахь бүлэг бүр нэг алдааг, түүнд хэрэглэх хамгийн бага засварыг, засварын зардлыг тайлбарладаг. Жишээ агентыг Python дээр ~300 мөрөөр бүтээж, алхам алхмаар өргөжүүлдэг. Зохиогч мөн өөрийн нээлттэй эхтэй кодын агент One Code-ийг pi дээр бүтээсэн гэдгээ дурджээ.\n\nХөгжүүлэгчдэд энэ нь агент системийг хэрхэн бүтээх, контекст удирдлага, алдаа засах зарчмуудыг ойлгоход тустай материал юм. Ном нь онлайн хэлбэрээр илүү сайн уншигдахаар бүтээгдсэн тул холбоосоор нь орж үзэхийг зөвлөж байна.",
+ "published": "2026-10-19T12:07:41Z",
+ "added": "2026-10-19T17:37:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

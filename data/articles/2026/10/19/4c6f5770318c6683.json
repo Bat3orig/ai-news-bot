@@ -1,0 +1,17 @@
+{
+ "id": "4c6f5770318c6683",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+ "image": "https://crystl.dev/og.png?v=3",
+ "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+ "summary_en": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 130 # Comments: 91",
+ "title_mn": "tmux болон Claude Code: session, send-keys, хязгаар",
+ "summary_mn": "tmux нь AI код бичих агентуудыг нэрлэсэн, салгаж болдог session-д ажиллуулах боломж олгоно. Claude Code-ийн --worktree --tmux флаг нь нэг агентэд хялбар session үүсгэдэг.",
+ "body_mn": "tmux нь AI код бичих агентуудыг нэрлэгдсэн, салгаж болох session-д ажиллуулах боломжийг олгоно. Терминал хаагдсан эсвэл SSH холболт тасарсан ч агент үргэлжлүүлэн ажилладаг. Нэг цонхонд олон агент байрлуулж, send-keys-ээр скриптээс бичиж, capture-pane-ээр дэлгэцийг уншиж болно.\n\nClaude Code нь нэг агент, нэг салбарт зориулсан --worktree болон --tmux флагуудыг дэмждэг. Гэхдээ --tmux нь --worktree-гүйгээр ажиллахгүй, iTerm2 дээр tmux биш native pane ашигладаг. Скриптээр удирдахад --tmux=classic сонгох хэрэгтэй.\n\nЗөвлөмж нь нэг repo-д нэг tmux session байх явдал юм. Агент бүрт цонх, олон агентыг нэгэн зэрэг харахад pane ашиглана. Pane-ийн шинэ директорыг #{pane_current_path}-аар заах нь чухал. Энэ гарын авлага нь SSH дээрх удирдлагыг мөн тайлбарлана.",
+ "published": "2026-10-19T05:55:31Z",
+ "added": "2026-10-19T17:37:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

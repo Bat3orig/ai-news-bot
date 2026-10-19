@@ -118,5 +118,165 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "797342f077d61dba",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/mercury-3-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20uKR2jzsglng2QIeliEe4/b4c0ae5af7a1ff5fbd9e4283ac2aedde/image.png",
+   "title": "Mercury 3 now available on AI Gateway",
+   "summary_en": "Mercury 3 from Inception is now available on AI Gateway with 50% off launch pricing. Inception reports strong results across a range of benchmarks, with generation speeds above 1,000 tokens per second. Mercury 3 uses diffusion to generate text through parallel refinement. It brings improved reasoning to latency-sensitive workloads such as browser agents, real-time search, interactive education, and customer support. A 1M-token context window gives those applications room for long documents and extended conversation histories. Set AI_GATEWAY_API_KEY in your environment. Use…",
+   "title_mn": "Mercury 3 загвар Vercel AI Gateway дээр боломжтой боллоо",
+   "summary_mn": "Inception-ийн Mercury 3 загвар Vercel AI Gateway дээр launch үнийн 50 хувийн хөнгөлөлттэйгээр орлоо. Загвар секундэд 1000-аас дээш токен гаргана гэж мэдээлэгдсэн.",
+   "body_mn": "Vercel-ийн AI Gateway дээр Inception-ийн Mercury 3 загвар нэмэгдлээ. Launch үнийн 50 хувийн хөнгөлөлт бий. Inception нь олон төрлийн benchmark дээр сайн үр дүн гарсныг мэдээлж, генерацийн хурд секундэд 1000 токеноос давсан гэжээ.\n\nMercury 3 нь текстийг диффузээр, параллель шүүлтүүрээр үүсгэдэг. Энэ нь browser agent, бодit хугацааны хайлт, интерактив боловсрол, харилцагчийн дэмжлэг зэрэг хоцрогдолд мэдрэмтгий ажлын ачааллад зориулагдсан. 1 сая токены context window нь урт баримт бичиг болон удаан үргэлжилсэн яриаг боловсруулах боломжийг олгоно.\n\nХөгжүүлэгчид AI_GATEWAY_API_KEY орчны хувьсагч тохируулж, inception/mercury-3 загварын нэрийг ашиглана. Claude Code, Codex, Cursor зэрэг агентуудад Vercel CLI-ээр тохируулах боломжтой. AI Gateway нь үйлчилгээний үнийг нэмэлтгүйгээр тусгана.",
+   "published": "2026-10-19T00:00:00Z",
+   "added": "2026-10-19T17:37:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a765c1add20e6e3f",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20yZQiIRVIrL4Y5mvQlsTe/3c8935388762292ca142432e205b9b9f/Vercel_x_MiniMax.png",
+   "title": "MiniMax M3.1 Flash now available on AI Gateway for free",
+   "summary_en": "MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash improves on complex agentic tasks, coding, and cybersecurity. On the agent side, that covers multi-step business processes and computer use that carries a task from one application to the next. For coding, MiniMax reports its best results on application development, particularly frontend…",
+   "title_mn": "MiniMax M3.1 Flash загвар Vercel AI Gateway дээр 10-р сарын 22 хүртэл үнэгүй боллоо",
+   "summary_mn": "MiniMax M3.1 Flash нээлттэй жинтэй мультимодаль загвар AI Gateway дээр 10-р сарын 22 хүртэл үнэгүйгээр ашиглах боломжтой. Загвар код бичих болон agent ажилд зориулагдсан.",
+   "body_mn": "Vercel AI Gateway дээр MiniMax M3.1 Flash загвар 10-р сарын 22 хүртэл үнэгүйгээр ашиглах боломжтой боллоо. Энэ нь нээлттэй жинтэй, мультимодаль загвар бөгөөд код бичих болон agent ажилд зориулагдсан. 1 сая токены context window-тэй.\n\nMiniMax-ийн мэдээлснээр өмнөх загваруудтай харьцуулахад олон алхамтай agent ажил, компьютер ашиглалт, frontend интерактив, bug засвар болон component тестэнд илүү сайн болсон байна.\n\nҮнэгүй хэрэглээ зөвхөн MiniMax загварыг үйлчилгээ үзүүлэх үед хамаарна. Тиймээс gateway provider options-оор order тохируулах шаардлагатай. Хугацаа дууссаны дараа стандарт үнээр тооцогдоно. AI SDK, Chat Completions, Responses болон Anthropic Messages API-аар дуудаж болно. Загварын нэр нь minimax/minimax-m3.1-flash.",
+   "published": "2026-10-19T00:00:00Z",
+   "added": "2026-10-19T17:37:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4c6f5770318c6683",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+   "image": "https://crystl.dev/og.png?v=3",
+   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+   "summary_en": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 130 # Comments: 91",
+   "title_mn": "tmux болон Claude Code: session, send-keys, хязгаар",
+   "summary_mn": "tmux нь AI код бичих агентуудыг нэрлэсэн, салгаж болдог session-д ажиллуулах боломж олгоно. Claude Code-ийн --worktree --tmux флаг нь нэг агентэд хялбар session үүсгэдэг.",
+   "body_mn": "tmux нь AI код бичих агентуудыг нэрлэгдсэн, салгаж болох session-д ажиллуулах боломжийг олгоно. Терминал хаагдсан эсвэл SSH холболт тасарсан ч агент үргэлжлүүлэн ажилладаг. Нэг цонхонд олон агент байрлуулж, send-keys-ээр скриптээс бичиж, capture-pane-ээр дэлгэцийг уншиж болно.\n\nClaude Code нь нэг агент, нэг салбарт зориулсан --worktree болон --tmux флагуудыг дэмждэг. Гэхдээ --tmux нь --worktree-гүйгээр ажиллахгүй, iTerm2 дээр tmux биш native pane ашигладаг. Скриптээр удирдахад --tmux=classic сонгох хэрэгтэй.\n\nЗөвлөмж нь нэг repo-д нэг tmux session байх явдал юм. Агент бүрт цонх, олон агентыг нэгэн зэрэг харахад pane ашиглана. Pane-ийн шинэ директорыг #{pane_current_path}-аар заах нь чухал. Энэ гарын авлага нь SSH дээрх удирдлагыг мөн тайлбарлана.",
+   "published": "2026-10-19T05:55:31Z",
+   "added": "2026-10-19T17:37:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "699f9fd60e89c513",
+   "subtopic": "nestjs",
+   "source": "nestjs/nest",
+   "source_label": "nestjs/nest",
+   "url": "https://github.com/nestjs/nest/releases/tag/v12.2.0",
+   "image": "https://opengraph.githubassets.com/242dae173c8b34903081a16b05942951ccb58dca8b158804ae1feb3d5f2f4605/nestjs/nest/releases/tag/v12.2.0",
+   "title": "nest v12.2.0",
+   "summary_en": "v12.2.0 (2026-10-19) Notable changes New options @Sse({ maxPendingDataLength }) sets how many characters of event data may wait for a client that is not reading its events (4M by default; 0 or Infinity lifts the limit) – 2f05ad954e IoAdapter and WsAdapter take maxConcurrentMessages , the number of a client's messages handled at once (1000 by default; Infinity lifts it) – 0bd0810ed7 ValidationPipe takes maxErrorMessagesLength (1,000,000 characters by default); messages past it are replaced by a \"Further validation errors were omitted\" entry – 086c1c514f Kafka: parser.maxMessageSize (16 MiB…",
+   "title_mn": "NestJS v12.2.0 гарлаа: SSE, WebSocket болон ValidationPipe-ийн шинэ тохиргоонууд",
+   "summary_mn": "NestJS v12.2.0 хувилбар гарсан бөгөөд SSE-ийн хүлээлтийн өгөгдлийн хязгаар, WebSocket-ийн зэрэгцээ мессежийн хязгаар зэрэг шинэ тохиргоонууд нэмэгдсэн. Мөн ValidationPipe болон FileTypeValidator-ийн зарим анхдагч утгууд өөрчлөгдсөн тул шилжих үед анхаарах хэрэгтэй.",
+   "body_mn": "NestJS v12.2.0 хувилбарт @Sse({ maxPendingDataLength }) тохиргоо нэмэгдсэн бөгөөд уншаагүй үйлчлүүлэгчид хүлээх өгөгдлийн хэмжээ анхдагчаар 4М тэмдэгт байна. IoAdapter болон WsAdapter-т maxConcurrentMessages нэмэгдэж, нэг үйлчлүүлэгчийн зэрэг боловсруулах мессежийн тоо анхдагчаар 1000 болсон. ValidationPipe-т maxErrorMessagesLength нэмэгдсэн бөгөөд анхдагч хязгаар нь 1,000,000 тэмдэгт юм. Kafka-ийн parser.maxMessageSize анхдагчаар 16 MiB байна.\n\nАнхдагч утгуудын өөрчлөлтүүд шууд нөлөөлнө. @nestjs/platform-express болон @nestjs/platform-fastify-д fieldNestingDepth 32, fieldArrayIndexLimit 1000 болсон. ValidationPipe нь validationError.target-ийг анхдагчаар false болгосон тул exceptionFactory доторх error.target уншдаг кодыг шалгах шаардлагатай. FileTypeValidator нь font/woff төрлөөр font/woff2-ийг зөвшөөрөхөө больсон. MQTT серверийн reconnectOnConnackError анхдагчаар идэвхжсэн.\n\nМөн ValidationPipe массив эсвэл энгийн утга илгээхэд одоо 400 алдаа буцаана. Төслөө шинэчлэхдээ эдгээр өөрчлөлтүүдийг шалгаж, шаардлагатай бол өмнөх зан төлөвийг буцаах тохиргоог ашиглана уу.\n\nNestJS-ийн хэрэглэгчдэд энэ хувилбар нь ихээхэн тохиргооны өөрчлөлттэй тул шилжилтийн үед тестийг ажиллуулахыг зөвлөж байна.",
+   "published": "2026-10-19T10:50:46Z",
+   "added": "2026-10-19T17:37:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4613775bbf7f6053",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+   "image": "https://opengraph.githubassets.com/4767d9905959f94d4d452a1eccb99eec0101bbd3def805ff5621603a1436379a/IsuruMaduranga/harness-engineering-101",
+   "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+   "summary_en": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 126 # Comments: 61",
+   "title_mn": "Harness Engineering 101: LLM-ийн харьцаа ба AI агентуудыг нэг давталтаас барих арга",
+   "summary_mn": "Hacker News-д нийтлэгдсэн Harness Engineering 101 нь AI агент бүтээх сэдвээр 16 бүлэгтэй нээлттэй ном юм. Энэ нь API-ийн stateless шинж чанар болон harness-ийн үүргийг тайлбарлаж, Python дээр ~300 мөрийн жишээ агент бүтээдэг.",
+   "body_mn": "Harness Engineering 101 ном нь LLM-ийг тархи, harness-ийг бие гэж үздэг. LLM API нь stateless тул хэлэлцүүлгийн бүх массивыг илгээж, текст хариу авдаг. Harness бол энэ массивыг бүтээж, хадгалж, хамгаалдаг программ юм. Номын зохиогч бүх «агент» гэгдэх системүүд энэ нэг давталтын дээр хийгдсэн засваруудаас бүрдэнэ гэж үзжээ.\n\nНоман дахь бүлэг бүр нэг алдааг, түүнд хэрэглэх хамгийн бага засварыг, засварын зардлыг тайлбарладаг. Жишээ агентыг Python дээр ~300 мөрөөр бүтээж, алхам алхмаар өргөжүүлдэг. Зохиогч мөн өөрийн нээлттэй эхтэй кодын агент One Code-ийг pi дээр бүтээсэн гэдгээ дурджээ.\n\nХөгжүүлэгчдэд энэ нь агент системийг хэрхэн бүтээх, контекст удирдлага, алдаа засах зарчмуудыг ойлгоход тустай материал юм. Ном нь онлайн хэлбэрээр илүү сайн уншигдахаар бүтээгдсэн тул холбоосоор нь орж үзэхийг зөвлөж байна.",
+   "published": "2026-10-19T12:07:41Z",
+   "added": "2026-10-19T17:37:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8978d97abe0c7ec0",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/option4_minimal_flow_diagram_1600.2e16d0ba.fill-1200x600.png",
+   "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
+   "summary_en": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress updates or background execution patterns to keep conversations fluid during long-running backend queries. Additionally, configuring response scheduling behaviors such as WHEN_IDLE, INTERRUPT, or SILENT gives developers precise control over when and how tool results are delivered into the conversation.",
+   "title_mn": "Google ADK: Түгжрэлгүй дуут туслах хөгжүүлэх гарын авлага гарлаа",
+   "summary_mn": "Google Agent Development Kit (ADK) болон gemini-3.8-live ашиглан удаан ажилладаг tool-үүдийн үед дуут харилцаа тасалдахгүй байх non-blocking хөгжүүлэлтийн загварыг танилцууллаа.",
+   "body_mn": "Бодит цагийн дуут туслахтай харилцах үед өгөгдлийн сангийн хүсэлт эсвэл RAG процесс удаашрахад хэрэглэгчид дуудлага тасарсан мэт сэтгэгдэл төрүүлдэг чимээгүй зай (dead air) үүсдэг. Google-ээс гаргасан шинэ гарын авлагад ADK болон gemini-3.8-live ашиглан удаан ажилладаг функцуудыг харилцан яриаг түгжихгүйгээр (non-blocking) Python хэл дээр хэрхэн зохион байгуулахыг тайлбарлажээ.\n\nХөгжүүлэгчид return-ийн оронд yield ашиглан AsyncGenerator хэлбэрээр функцээ зарласнаар ADK түүнийг автоматаар non-blocking горимд шилжүүлж, загварт шууд төлөвийн хариу илгээдэг байна. Ингэснээр Gemini тухайн даалгаврыг ард хийж байх зуур хэрэглэгчтэй яриагаа үргэлжлүүлэн явцыг тайлбарлах эсвэл түр хүлээнэ үү гэж хариулаад үр дүн бэлэн болоход мэдээлэх боломжтой болжээ.\n\nТуршилтаар уг архитектурыг ашигласнаар агент анхны хариу үгээ хэлэх хүртэлх хугацаа 14.4 секунд байснаас 1.2 секунд болж буурсан байна. Энэ шийдэл нь дуут AI агент бүтээж буй инженерүүдэд хэрэглэгчийн туршлагыг (UX) эрс сайжруулах бэлэн архитектурын шийдлийг санал болгож байна.",
+   "published": "2026-10-19T17:37:39Z",
+   "added": "2026-10-19T17:37:39Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "732285c665a6011f",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_bguxwvbgux.2e16d0ba.fill-1200x600.jpg",
+   "title": "Native Model Authoring for Edge with LiteRT Tensor API",
+   "summary_en": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
+   "title_mn": "Google LiteRT Tensor API-г танилцууллаа: Төхөөрөмж дээрх AI загварыг C++ дээр бүтээх шинэ шийдэл",
+   "summary_mn": "Google edge төхөөрөмжүүдэд зориулсан загваруудыг C++ дээр op тус бүрээр нь уян хатан угсарч, CPU, GPU болон NPU дээр хөрвүүлэлтгүй ажиллуулах LiteRT Tensor API-г гаргалаа.",
+   "body_mn": "Мобайл болон edge төхөөрөмж дээр AI загваруудыг ажиллуулахад санах ой болон хурдны хатуу шаардлагууд тавигддаг. Одоогоор PyTorch загварыг LiteRT Torch-оор хөрвүүлэх нь нийтлэг арга боловч загварын архитектур болон оптимизацийг нарийн удирдахын тулд төхөөрөмж бүрд зориулан C++ болон shader кодоор дахин бичих шаардлага гардаг байв.\n\nЭнэхүү асуудлыг шийдэхээр Google LiteRT Tensor API-г танилцууллаа. Энэхүү шинэ API нь хөгжүүлэгчдэд тооцооллын графыг C++ хэл дээр op бүрээр нь нарийн угсрах боломж олгохын зэрэгцээ нэг бичсэн кодыг CPU, GPU (ML Drift-ээр дамжуулан) болон NPU дээр шууд ажиллуулах давуу талтай. Мөн оролт гаралтын өгөгдлийг хурдасгуурын дундын санах ойд (shared buffer) дамжуулснаар CPU-ээр дамжин өнгөрөх илүүдэл зардлыг арилгажээ.\n\nҮүний бодит жишээ болгож Meta-ийн SAM 2 (Segment Anything Model 2) загварыг уг API-аар бүрэн C++ дээр хэрэгжүүлж, Gemma 4 E2B-ээр удирдуулан WebGPU дээр браузер дотор секундэд 30-аас дээш фрэймийн хурдтай ажиллуулж үзүүлсэн байна. Уг сан нь мөн AI coding agent-ууд тооцооллын графыг автоматаар өөрчлөх суурь болж чадах бөгөөд жишээ кодыг нээлттэй байршуулжээ.",
+   "published": "2026-10-19T17:37:39Z",
+   "added": "2026-10-19T17:37:39Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "640c0c8e1a4569c1",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/DmNote-App/DmNote",
+   "image": "https://opengraph.githubassets.com/2ffcd86baf908523f217484092fcb0329c9f0998b14635a52dbe227c4daf895a/DmNote-App/DmNote",
+   "title": "DmNote-App/DmNote",
+   "summary_en": "Make it yours. A customizable key viewer for DJMAX RESPECT V and any game. https://DmNote.app 한국어 | English | 中文 DM Note Make it yours 나만의 스타일로 완성하는 키뷰어 개요 DM Note 는 DJMAX RESPECT V에서 사용하기 위해 만들어진 키뷰어입니다. 다른 게임에서도 자유롭게 사용할 수 있고 설정이 간단해서 스트리밍이나 플레이 영상에 키 입력을 바로 띄울 수 있습니다. 지원 환경 · Windows 10/11 · macOS 리눅스 환경이라면 커뮤니티 포크 버전 을 사용해 보시는 것을 추천합니다. DM NOTE v2.0.2 다운로드 Code signing policy 주요 기능 입력과 표시 : 실시간 시각화 · 키 매핑 · 노트 효과 · 키 카운터 · KPS 통계와 그래프 · 키음 꾸미기 : 그리드에서 키 편집 · 키마다 이미지 지정 · 사용자 정의 CSS · 플러그인 · 프리셋 오버레이 : 항상 위에 표시 · 위치 고정 · 리사이즈 기준점 · OBS 브라우저 소스 그 밖에 다국어 5종, 단축키, 설정 초기화, 자동 업데이트를 지원합니다. 자세한…",
+   "title_mn": "DmNote-App/DmNote: Тоглоом болон стримингэд зориулсан тохируулга өндөртэй key viewer",
+   "summary_mn": "DJMAX RESPECT V болон бусад тоглоомуудын товчлуурын даралтыг шууд дэлгэц болон OBS дээр харуулдаг Tauri болон вэб технологи дээр суурилсан нээлттэй эхтэй key viewer төсөл.",
+   "body_mn": "DmNote-App/DmNote нь тоглоом тоглох үед товчлуурын даралтуудыг бодит цаг хугацаанд дэлгэц болон шууд дамжуулалт (streaming) дээр визуал хэлбэрээр харуулахад зориулагдсан нээлттэй эхтэй төсөл юм. Анх DJMAX RESPECT V тоглоомд зориулагдсан боловч хялбар тохиргооны тусламжтайгаар ямар ч тоглоомтой хамт ашиглах боломжтой.\n\nУг хэрэгсэл нь товчлуурын даралтын бодит цагийн эффект, KPS (keys per second) статистик ба график, товч бүрийн зураг тохируулах боломж, мөн хэрэглэгчийн CSS-ээр интерфэйсийг өөрчлөх боломжуудыг агуулдаг. Түүнчлэн олон дэлгэц болон тусдаа стриминг компьютертой хүмүүст зориулан OBS Browser Source горимыг бүрэн дэмждэг.\n\nТехнологийн хувьд уг аппликейшн нь Tauri фрэймворк (Rust + TypeScript/JS) дээр суурилсан бөгөөд Windows дээр дууны latency-г багасгах зорилгоор Steinberg ASIO SDK-г дэмждэг. Үүнийг туршиж үзэхийн тулд GitHub дээрх хувилбараас татан авч шууд ажиллуулах боломжтой бол хөгжүүлэгчид npm болон cargo ашиглан өөрсдөө билд хийх боломжтой.",
+   "published": "2026-10-19T17:37:39Z",
+   "added": "2026-10-19T17:37:39Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
  }
 ]

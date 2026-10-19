@@ -1,0 +1,17 @@
+{
+ "id": "640c0c8e1a4569c1",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/DmNote-App/DmNote",
+ "image": "https://opengraph.githubassets.com/2ffcd86baf908523f217484092fcb0329c9f0998b14635a52dbe227c4daf895a/DmNote-App/DmNote",
+ "title": "DmNote-App/DmNote",
+ "summary_en": "Make it yours. A customizable key viewer for DJMAX RESPECT V and any game. https://DmNote.app 한국어 | English | 中文 DM Note Make it yours 나만의 스타일로 완성하는 키뷰어 개요 DM Note 는 DJMAX RESPECT V에서 사용하기 위해 만들어진 키뷰어입니다. 다른 게임에서도 자유롭게 사용할 수 있고 설정이 간단해서 스트리밍이나 플레이 영상에 키 입력을 바로 띄울 수 있습니다. 지원 환경 · Windows 10/11 · macOS 리눅스 환경이라면 커뮤니티 포크 버전 을 사용해 보시는 것을 추천합니다. DM NOTE v2.0.2 다운로드 Code signing policy 주요 기능 입력과 표시 : 실시간 시각화 · 키 매핑 · 노트 효과 · 키 카운터 · KPS 통계와 그래프 · 키음 꾸미기 : 그리드에서 키 편집 · 키마다 이미지 지정 · 사용자 정의 CSS · 플러그인 · 프리셋 오버레이 : 항상 위에 표시 · 위치 고정 · 리사이즈 기준점 · OBS 브라우저 소스 그 밖에 다국어 5종, 단축키, 설정 초기화, 자동 업데이트를 지원합니다. 자세한…",
+ "title_mn": "DmNote-App/DmNote: Тоглоом болон стримингэд зориулсан тохируулга өндөртэй key viewer",
+ "summary_mn": "DJMAX RESPECT V болон бусад тоглоомуудын товчлуурын даралтыг шууд дэлгэц болон OBS дээр харуулдаг Tauri болон вэб технологи дээр суурилсан нээлттэй эхтэй key viewer төсөл.",
+ "body_mn": "DmNote-App/DmNote нь тоглоом тоглох үед товчлуурын даралтуудыг бодит цаг хугацаанд дэлгэц болон шууд дамжуулалт (streaming) дээр визуал хэлбэрээр харуулахад зориулагдсан нээлттэй эхтэй төсөл юм. Анх DJMAX RESPECT V тоглоомд зориулагдсан боловч хялбар тохиргооны тусламжтайгаар ямар ч тоглоомтой хамт ашиглах боломжтой.\n\nУг хэрэгсэл нь товчлуурын даралтын бодит цагийн эффект, KPS (keys per second) статистик ба график, товч бүрийн зураг тохируулах боломж, мөн хэрэглэгчийн CSS-ээр интерфэйсийг өөрчлөх боломжуудыг агуулдаг. Түүнчлэн олон дэлгэц болон тусдаа стриминг компьютертой хүмүүст зориулан OBS Browser Source горимыг бүрэн дэмждэг.\n\nТехнологийн хувьд уг аппликейшн нь Tauri фрэймворк (Rust + TypeScript/JS) дээр суурилсан бөгөөд Windows дээр дууны latency-г багасгах зорилгоор Steinberg ASIO SDK-г дэмждэг. Үүнийг туршиж үзэхийн тулд GitHub дээрх хувилбараас татан авч шууд ажиллуулах боломжтой бол хөгжүүлэгчид npm болон cargo ашиглан өөрсдөө билд хийх боломжтой.",
+ "published": "2026-10-19T17:37:39Z",
+ "added": "2026-10-19T17:37:39Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

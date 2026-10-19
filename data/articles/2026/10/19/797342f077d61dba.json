@@ -1,0 +1,17 @@
+{
+ "id": "797342f077d61dba",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/mercury-3-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20uKR2jzsglng2QIeliEe4/b4c0ae5af7a1ff5fbd9e4283ac2aedde/image.png",
+ "title": "Mercury 3 now available on AI Gateway",
+ "summary_en": "Mercury 3 from Inception is now available on AI Gateway with 50% off launch pricing. Inception reports strong results across a range of benchmarks, with generation speeds above 1,000 tokens per second. Mercury 3 uses diffusion to generate text through parallel refinement. It brings improved reasoning to latency-sensitive workloads such as browser agents, real-time search, interactive education, and customer support. A 1M-token context window gives those applications room for long documents and extended conversation histories. Set AI_GATEWAY_API_KEY in your environment. Use…",
+ "title_mn": "Mercury 3 загвар Vercel AI Gateway дээр боломжтой боллоо",
+ "summary_mn": "Inception-ийн Mercury 3 загвар Vercel AI Gateway дээр launch үнийн 50 хувийн хөнгөлөлттэйгээр орлоо. Загвар секундэд 1000-аас дээш токен гаргана гэж мэдээлэгдсэн.",
+ "body_mn": "Vercel-ийн AI Gateway дээр Inception-ийн Mercury 3 загвар нэмэгдлээ. Launch үнийн 50 хувийн хөнгөлөлт бий. Inception нь олон төрлийн benchmark дээр сайн үр дүн гарсныг мэдээлж, генерацийн хурд секундэд 1000 токеноос давсан гэжээ.\n\nMercury 3 нь текстийг диффузээр, параллель шүүлтүүрээр үүсгэдэг. Энэ нь browser agent, бодit хугацааны хайлт, интерактив боловсрол, харилцагчийн дэмжлэг зэрэг хоцрогдолд мэдрэмтгий ажлын ачааллад зориулагдсан. 1 сая токены context window нь урт баримт бичиг болон удаан үргэлжилсэн яриаг боловсруулах боломжийг олгоно.\n\nХөгжүүлэгчид AI_GATEWAY_API_KEY орчны хувьсагч тохируулж, inception/mercury-3 загварын нэрийг ашиглана. Claude Code, Codex, Cursor зэрэг агентуудад Vercel CLI-ээр тохируулах боломжтой. AI Gateway нь үйлчилгээний үнийг нэмэлтгүйгээр тусгана.",
+ "published": "2026-10-19T00:00:00Z",
+ "added": "2026-10-19T17:37:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

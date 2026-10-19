@@ -1,0 +1,17 @@
+{
+ "id": "a765c1add20e6e3f",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20yZQiIRVIrL4Y5mvQlsTe/3c8935388762292ca142432e205b9b9f/Vercel_x_MiniMax.png",
+ "title": "MiniMax M3.1 Flash now available on AI Gateway for free",
+ "summary_en": "MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash improves on complex agentic tasks, coding, and cybersecurity. On the agent side, that covers multi-step business processes and computer use that carries a task from one application to the next. For coding, MiniMax reports its best results on application development, particularly frontend…",
+ "title_mn": "MiniMax M3.1 Flash загвар Vercel AI Gateway дээр 10-р сарын 22 хүртэл үнэгүй боллоо",
+ "summary_mn": "MiniMax M3.1 Flash нээлттэй жинтэй мультимодаль загвар AI Gateway дээр 10-р сарын 22 хүртэл үнэгүйгээр ашиглах боломжтой. Загвар код бичих болон agent ажилд зориулагдсан.",
+ "body_mn": "Vercel AI Gateway дээр MiniMax M3.1 Flash загвар 10-р сарын 22 хүртэл үнэгүйгээр ашиглах боломжтой боллоо. Энэ нь нээлттэй жинтэй, мультимодаль загвар бөгөөд код бичих болон agent ажилд зориулагдсан. 1 сая токены context window-тэй.\n\nMiniMax-ийн мэдээлснээр өмнөх загваруудтай харьцуулахад олон алхамтай agent ажил, компьютер ашиглалт, frontend интерактив, bug засвар болон component тестэнд илүү сайн болсон байна.\n\nҮнэгүй хэрэглээ зөвхөн MiniMax загварыг үйлчилгээ үзүүлэх үед хамаарна. Тиймээс gateway provider options-оор order тохируулах шаардлагатай. Хугацаа дууссаны дараа стандарт үнээр тооцогдоно. AI SDK, Chat Completions, Responses болон Anthropic Messages API-аар дуудаж болно. Загварын нэр нь minimax/minimax-m3.1-flash.",
+ "published": "2026-10-19T00:00:00Z",
+ "added": "2026-10-19T17:37:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

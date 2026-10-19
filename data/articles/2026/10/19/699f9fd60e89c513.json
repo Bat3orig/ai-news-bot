@@ -1,0 +1,17 @@
+{
+ "id": "699f9fd60e89c513",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.2.0",
+ "image": "https://opengraph.githubassets.com/242dae173c8b34903081a16b05942951ccb58dca8b158804ae1feb3d5f2f4605/nestjs/nest/releases/tag/v12.2.0",
+ "title": "nest v12.2.0",
+ "summary_en": "v12.2.0 (2026-10-19) Notable changes New options @Sse({ maxPendingDataLength }) sets how many characters of event data may wait for a client that is not reading its events (4M by default; 0 or Infinity lifts the limit) – 2f05ad954e IoAdapter and WsAdapter take maxConcurrentMessages , the number of a client's messages handled at once (1000 by default; Infinity lifts it) – 0bd0810ed7 ValidationPipe takes maxErrorMessagesLength (1,000,000 characters by default); messages past it are replaced by a \"Further validation errors were omitted\" entry – 086c1c514f Kafka: parser.maxMessageSize (16 MiB…",
+ "title_mn": "NestJS v12.2.0 гарлаа: SSE, WebSocket болон ValidationPipe-ийн шинэ тохиргоонууд",
+ "summary_mn": "NestJS v12.2.0 хувилбар гарсан бөгөөд SSE-ийн хүлээлтийн өгөгдлийн хязгаар, WebSocket-ийн зэрэгцээ мессежийн хязгаар зэрэг шинэ тохиргоонууд нэмэгдсэн. Мөн ValidationPipe болон FileTypeValidator-ийн зарим анхдагч утгууд өөрчлөгдсөн тул шилжих үед анхаарах хэрэгтэй.",
+ "body_mn": "NestJS v12.2.0 хувилбарт @Sse({ maxPendingDataLength }) тохиргоо нэмэгдсэн бөгөөд уншаагүй үйлчлүүлэгчид хүлээх өгөгдлийн хэмжээ анхдагчаар 4М тэмдэгт байна. IoAdapter болон WsAdapter-т maxConcurrentMessages нэмэгдэж, нэг үйлчлүүлэгчийн зэрэг боловсруулах мессежийн тоо анхдагчаар 1000 болсон. ValidationPipe-т maxErrorMessagesLength нэмэгдсэн бөгөөд анхдагч хязгаар нь 1,000,000 тэмдэгт юм. Kafka-ийн parser.maxMessageSize анхдагчаар 16 MiB байна.\n\nАнхдагч утгуудын өөрчлөлтүүд шууд нөлөөлнө. @nestjs/platform-express болон @nestjs/platform-fastify-д fieldNestingDepth 32, fieldArrayIndexLimit 1000 болсон. ValidationPipe нь validationError.target-ийг анхдагчаар false болгосон тул exceptionFactory доторх error.target уншдаг кодыг шалгах шаардлагатай. FileTypeValidator нь font/woff төрлөөр font/woff2-ийг зөвшөөрөхөө больсон. MQTT серверийн reconnectOnConnackError анхдагчаар идэвхжсэн.\n\nМөн ValidationPipe массив эсвэл энгийн утга илгээхэд одоо 400 алдаа буцаана. Төслөө шинэчлэхдээ эдгээр өөрчлөлтүүдийг шалгаж, шаардлагатай бол өмнөх зан төлөвийг буцаах тохиргоог ашиглана уу.\n\nNestJS-ийн хэрэглэгчдэд энэ хувилбар нь ихээхэн тохиргооны өөрчлөлттэй тул шилжилтийн үед тестийг ажиллуулахыг зөвлөж байна.",
+ "published": "2026-10-19T10:50:46Z",
+ "added": "2026-10-19T17:37:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

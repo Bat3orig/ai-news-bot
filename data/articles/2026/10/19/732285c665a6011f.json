@@ -1,0 +1,17 @@
+{
+ "id": "732285c665a6011f",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_bguxwvbgux.2e16d0ba.fill-1200x600.jpg",
+ "title": "Native Model Authoring for Edge with LiteRT Tensor API",
+ "summary_en": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
+ "title_mn": "Google LiteRT Tensor API-г танилцууллаа: Төхөөрөмж дээрх AI загварыг C++ дээр бүтээх шинэ шийдэл",
+ "summary_mn": "Google edge төхөөрөмжүүдэд зориулсан загваруудыг C++ дээр op тус бүрээр нь уян хатан угсарч, CPU, GPU болон NPU дээр хөрвүүлэлтгүй ажиллуулах LiteRT Tensor API-г гаргалаа.",
+ "body_mn": "Мобайл болон edge төхөөрөмж дээр AI загваруудыг ажиллуулахад санах ой болон хурдны хатуу шаардлагууд тавигддаг. Одоогоор PyTorch загварыг LiteRT Torch-оор хөрвүүлэх нь нийтлэг арга боловч загварын архитектур болон оптимизацийг нарийн удирдахын тулд төхөөрөмж бүрд зориулан C++ болон shader кодоор дахин бичих шаардлага гардаг байв.\n\nЭнэхүү асуудлыг шийдэхээр Google LiteRT Tensor API-г танилцууллаа. Энэхүү шинэ API нь хөгжүүлэгчдэд тооцооллын графыг C++ хэл дээр op бүрээр нь нарийн угсрах боломж олгохын зэрэгцээ нэг бичсэн кодыг CPU, GPU (ML Drift-ээр дамжуулан) болон NPU дээр шууд ажиллуулах давуу талтай. Мөн оролт гаралтын өгөгдлийг хурдасгуурын дундын санах ойд (shared buffer) дамжуулснаар CPU-ээр дамжин өнгөрөх илүүдэл зардлыг арилгажээ.\n\nҮүний бодит жишээ болгож Meta-ийн SAM 2 (Segment Anything Model 2) загварыг уг API-аар бүрэн C++ дээр хэрэгжүүлж, Gemma 4 E2B-ээр удирдуулан WebGPU дээр браузер дотор секундэд 30-аас дээш фрэймийн хурдтай ажиллуулж үзүүлсэн байна. Уг сан нь мөн AI coding agent-ууд тооцооллын графыг автоматаар өөрчлөх суурь болж чадах бөгөөд жишээ кодыг нээлттэй байршуулжээ.",
+ "published": "2026-10-19T17:37:39Z",
+ "added": "2026-10-19T17:37:39Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

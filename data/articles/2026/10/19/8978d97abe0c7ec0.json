@@ -1,0 +1,17 @@
+{
+ "id": "8978d97abe0c7ec0",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/option4_minimal_flow_diagram_1600.2e16d0ba.fill-1200x600.png",
+ "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
+ "summary_en": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress updates or background execution patterns to keep conversations fluid during long-running backend queries. Additionally, configuring response scheduling behaviors such as WHEN_IDLE, INTERRUPT, or SILENT gives developers precise control over when and how tool results are delivered into the conversation.",
+ "title_mn": "Google ADK: Түгжрэлгүй дуут туслах хөгжүүлэх гарын авлага гарлаа",
+ "summary_mn": "Google Agent Development Kit (ADK) болон gemini-3.8-live ашиглан удаан ажилладаг tool-үүдийн үед дуут харилцаа тасалдахгүй байх non-blocking хөгжүүлэлтийн загварыг танилцууллаа.",
+ "body_mn": "Бодит цагийн дуут туслахтай харилцах үед өгөгдлийн сангийн хүсэлт эсвэл RAG процесс удаашрахад хэрэглэгчид дуудлага тасарсан мэт сэтгэгдэл төрүүлдэг чимээгүй зай (dead air) үүсдэг. Google-ээс гаргасан шинэ гарын авлагад ADK болон gemini-3.8-live ашиглан удаан ажилладаг функцуудыг харилцан яриаг түгжихгүйгээр (non-blocking) Python хэл дээр хэрхэн зохион байгуулахыг тайлбарлажээ.\n\nХөгжүүлэгчид return-ийн оронд yield ашиглан AsyncGenerator хэлбэрээр функцээ зарласнаар ADK түүнийг автоматаар non-blocking горимд шилжүүлж, загварт шууд төлөвийн хариу илгээдэг байна. Ингэснээр Gemini тухайн даалгаврыг ард хийж байх зуур хэрэглэгчтэй яриагаа үргэлжлүүлэн явцыг тайлбарлах эсвэл түр хүлээнэ үү гэж хариулаад үр дүн бэлэн болоход мэдээлэх боломжтой болжээ.\n\nТуршилтаар уг архитектурыг ашигласнаар агент анхны хариу үгээ хэлэх хүртэлх хугацаа 14.4 секунд байснаас 1.2 секунд болж буурсан байна. Энэ шийдэл нь дуут AI агент бүтээж буй инженерүүдэд хэрэглэгчийн туршлагыг (UX) эрс сайжруулах бэлэн архитектурын шийдлийг санал болгож байна.",
+ "published": "2026-10-19T17:37:39Z",
+ "added": "2026-10-19T17:37:39Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
