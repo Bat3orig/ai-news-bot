@@ -1,0 +1,17 @@
+{
+ "id": "bffd02e617967c7a",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.303",
+ "image": "https://opengraph.githubassets.com/aa07475b3f0160fb2a6c528ab1dddcab2cefa33f6cdc8d86250c04f9ef341ce6/anthropics/claude-code/releases/tag/v2.1.303",
+ "title": "claude-code v2.1.303",
+ "summary_en": "What's changed Bug fixes and reliability improvements",
+ "title_mn": "claude-code v2.1.303 хувилбар гарлаа",
+ "summary_mn": "Anthropic компани Claude Code хэрэгслийнхээ шинэ v2.1.303 хувилбарыг гаргаж, алдаа засан, найдвартай ажиллагааг сайжрууллаа.",
+ "body_mn": "Anthropic компани хөгжүүлэгчдэд зориулсан Claude Code хэрэгслийнхээ шинэчилсэн v2.1.303 хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэ хувилбарт голчлон программ хангамжийн алдаануудыг засаж, ерөнхий найдвартай ажиллагаа болон гүйцэтгэлийг сайжруулахад анхаарсан байна.\n\nХөгжүүлэгчид энэхүү шинэчлэлтийг суулгаснаар өдөр тутмын код бичих болон агентын үйл ажиллагааг илүү тогтвортой байдлаар ашиглах боломжтой болно. AI кодын хэрэгслүүдийг ашигладаг инженерүүдэд энэ мэт жижиг засварууд тогтвортой ажиллахад чухал үүрэгтэй.",
+ "published": "2026-10-18T22:26:54Z",
+ "added": "2026-10-19T00:19:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
