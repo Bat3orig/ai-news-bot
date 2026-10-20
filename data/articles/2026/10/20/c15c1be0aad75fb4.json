@@ -1,0 +1,17 @@
+{
+ "id": "c15c1be0aad75fb4",
+ "subtopic": "css-web",
+ "source": "Smashing Magazine",
+ "source_label": "Smashing Magazine",
+ "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+ "image": "https://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
+ "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+ "summary_en": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
+ "title_mn": "CSS random() функц Safari-д гарч, Chrome 156-д нэвтрэх гэж байна",
+ "summary_mn": "Native CSS random() функц Safari-д хэрэгжсэн бөгөөд Chrome 156-д нэвтэрч байна. Firefox-ийн талаар Mozilla эерэг дохио өгсөн гэж тайлбарлагдсан. Дизайн системд санамсаргүй байдлыг хэрхэн ашиглах талаар Smashing Magazine нийтлэл бичжээ.",
+ "body_mn": "CSS Values and Units Level 5 спецификацид орсон random() функц нь JavaScript эсвэл Sass-ийн build-time давталтгүйгээр CSS дотроос санамсаргүй утга үүсгэх боломж олгоно. Энэ функц Safari-д аль хэдийн хэрэгжсэн бөгөөд Chrome 156-д гарах шатандаа байна.\n\nНийтлэлийн зохиолч дизайн инженер хүний хувьд тогтвортой байдал, grid, өнгөний token-уудыг хамгаалдаг ч физик ертөгцөд бүх зүйл яг тэгш байдаггүйг сануулсан. Letterpress хэвлэл, санамсаргүй байрлалтай Polaroid зураг зэрэг жишээгээр санамсаргүй байдал дизайнд амьд мэдрэмж өгч чадна гэж үзэж байна.\n\nЗохиолч CodePen дээр органик типографи, үсрэх үсэг, тараасан карт, punk fanzine зэрэг туршилтууд хийжээ. Гол зарчим бол санамсаргүй байдлыг бүхэл дизайн системийг эвдэх биш, жижиг хазайлт, тоглоомын мэдрэмж нэмэх хэрэгсэл гэж ойлгох явдал юм.\n\nХөгжүүлэгчдэд энэ нь фронтенд дээр JavaScript-гүйгээр хялбар санамсаргүй утга авах боломж тул UI-ийн стилийг илүү амьд болгох шинэ арга юм. Гэхдээ тогтвортой байдал шаардлагатай хэсэгт хэрэглэхгүй байх нь чухал.",
+ "published": "2026-10-20T10:00:00Z",
+ "added": "2026-10-20T15:30:51Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

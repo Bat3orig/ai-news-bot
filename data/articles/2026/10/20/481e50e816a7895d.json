@@ -1,0 +1,17 @@
+{
+ "id": "481e50e816a7895d",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "MIXED Reality News",
+ "url": "https://mixed-news.com/en/anthropic-claude-output-half-work-week-meta-work/",
+ "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/042b829f8c8850b596dfb6feaa323d1e911b21bb-1920x1080-1.png",
+ "title": "Reading all of Claude's output would take half an Anthropic worker's week",
+ "summary_en": "Reading everything their Claude agents write would take Anthropic's non-technical employees more than half their working week, and the company has",
+ "title_mn": "Anthropic-ийн ажилтнууд Claude-ийн гаралтыг уншихад долоо хоногийн хагас зарцуулна",
+ "summary_mn": "Anthropic-ийн судалгаагаар interactive Claude session-ууд нь технik бус ажилтнуудад ч долоо хоногийн хагасаас илүү хэмжээний контент гаргадаг. Session-ийн 80 орчим хувь нь хүний оролтыг хүлээж idle байдаг гэж мэдээлсэн.",
+ "body_mn": "Anthropic-ийн судалгааны нийтлэлд техник бус ажилтнууд Claude агентуудын бичсэн бүх гаралтыг уншвал долоо хоногийн ажлын цагийн хагасаас илүү зарцуулна гэж тооцсон байна. Энэ тооцоо нь токеныг үг болгон хөрвүүлж, 0.75 үг/токен, минутад 250 үг уншина гэсэн таамаглалд тулгуурласан бодит цаг хугацааны хэмжилт биш юм.\n\nМөн telemetry-ээс харахад Claude session-уудын дараах 80 орчим хувь нь хүний оролтыг хүлээж idle байдалд байна. Нэг инженер хүмүүс агентуудыг саатуулж байна гэж хэлсэн байна. 2026 оны 3-р сард хүний болон агентуудын ажлын нийт цаг анх удаа давсан гэж тайлагнасан.\n\nМета-ажил гэж нэрлэгдсэн хэсэг буюу visibility хэрэгсэл бүтээх, agent pipeline хянах ажил 2025 оны намраас 2026 оны хавар хүртэл interactive session-ын 10 хувиас 22 хувь болсон. Агентуудад зориулсан бичмэл заавар 2025 оны 7-р сараас хойш жилийн дотор бараг 8500 болж өссөн гэдгийг мөн дурджээ.\n\nХөгжүүлэгчдэд энэ нь агентуудыг олон хэрэглэх үед хүний шалгалт, хяналт, спец бичих ажил гол саадын нэг болж байгааг харуулж байна.",
+ "published": "2026-10-20T11:58:57Z",
+ "added": "2026-10-20T15:30:51Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

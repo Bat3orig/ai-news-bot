@@ -358,5 +358,105 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c15c1be0aad75fb4",
+   "subtopic": "css-web",
+   "source": "Smashing Magazine",
+   "source_label": "Smashing Magazine",
+   "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+   "image": "https://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
+   "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+   "summary_en": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
+   "title_mn": "CSS random() функц Safari-д гарч, Chrome 156-д нэвтрэх гэж байна",
+   "summary_mn": "Native CSS random() функц Safari-д хэрэгжсэн бөгөөд Chrome 156-д нэвтэрч байна. Firefox-ийн талаар Mozilla эерэг дохио өгсөн гэж тайлбарлагдсан. Дизайн системд санамсаргүй байдлыг хэрхэн ашиглах талаар Smashing Magazine нийтлэл бичжээ.",
+   "body_mn": "CSS Values and Units Level 5 спецификацид орсон random() функц нь JavaScript эсвэл Sass-ийн build-time давталтгүйгээр CSS дотроос санамсаргүй утга үүсгэх боломж олгоно. Энэ функц Safari-д аль хэдийн хэрэгжсэн бөгөөд Chrome 156-д гарах шатандаа байна.\n\nНийтлэлийн зохиолч дизайн инженер хүний хувьд тогтвортой байдал, grid, өнгөний token-уудыг хамгаалдаг ч физик ертөгцөд бүх зүйл яг тэгш байдаггүйг сануулсан. Letterpress хэвлэл, санамсаргүй байрлалтай Polaroid зураг зэрэг жишээгээр санамсаргүй байдал дизайнд амьд мэдрэмж өгч чадна гэж үзэж байна.\n\nЗохиолч CodePen дээр органик типографи, үсрэх үсэг, тараасан карт, punk fanzine зэрэг туршилтууд хийжээ. Гол зарчим бол санамсаргүй байдлыг бүхэл дизайн системийг эвдэх биш, жижиг хазайлт, тоглоомын мэдрэмж нэмэх хэрэгсэл гэж ойлгох явдал юм.\n\nХөгжүүлэгчдэд энэ нь фронтенд дээр JavaScript-гүйгээр хялбар санамсаргүй утга авах боломж тул UI-ийн стилийг илүү амьд болгох шинэ арга юм. Гэхдээ тогтвортой байдал шаардлагатай хэсэгт хэрэглэхгүй байх нь чухал.",
+   "published": "2026-10-20T10:00:00Z",
+   "added": "2026-10-20T15:30:51Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "481e50e816a7895d",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "MIXED Reality News",
+   "url": "https://mixed-news.com/en/anthropic-claude-output-half-work-week-meta-work/",
+   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/042b829f8c8850b596dfb6feaa323d1e911b21bb-1920x1080-1.png",
+   "title": "Reading all of Claude's output would take half an Anthropic worker's week",
+   "summary_en": "Reading everything their Claude agents write would take Anthropic's non-technical employees more than half their working week, and the company has",
+   "title_mn": "Anthropic-ийн ажилтнууд Claude-ийн гаралтыг уншихад долоо хоногийн хагас зарцуулна",
+   "summary_mn": "Anthropic-ийн судалгаагаар interactive Claude session-ууд нь технik бус ажилтнуудад ч долоо хоногийн хагасаас илүү хэмжээний контент гаргадаг. Session-ийн 80 орчим хувь нь хүний оролтыг хүлээж idle байдаг гэж мэдээлсэн.",
+   "body_mn": "Anthropic-ийн судалгааны нийтлэлд техник бус ажилтнууд Claude агентуудын бичсэн бүх гаралтыг уншвал долоо хоногийн ажлын цагийн хагасаас илүү зарцуулна гэж тооцсон байна. Энэ тооцоо нь токеныг үг болгон хөрвүүлж, 0.75 үг/токен, минутад 250 үг уншина гэсэн таамаглалд тулгуурласан бодит цаг хугацааны хэмжилт биш юм.\n\nМөн telemetry-ээс харахад Claude session-уудын дараах 80 орчим хувь нь хүний оролтыг хүлээж idle байдалд байна. Нэг инженер хүмүүс агентуудыг саатуулж байна гэж хэлсэн байна. 2026 оны 3-р сард хүний болон агентуудын ажлын нийт цаг анх удаа давсан гэж тайлагнасан.\n\nМета-ажил гэж нэрлэгдсэн хэсэг буюу visibility хэрэгсэл бүтээх, agent pipeline хянах ажил 2025 оны намраас 2026 оны хавар хүртэл interactive session-ын 10 хувиас 22 хувь болсон. Агентуудад зориулсан бичмэл заавар 2025 оны 7-р сараас хойш жилийн дотор бараг 8500 болж өссөн гэдгийг мөн дурджээ.\n\nХөгжүүлэгчдэд энэ нь агентуудыг олон хэрэглэх үед хүний шалгалт, хяналт, спец бичих ажил гол саадын нэг болж байгааг харуулж байна.",
+   "published": "2026-10-20T11:58:57Z",
+   "added": "2026-10-20T15:30:51Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "16b2e39b8e94699f",
+   "subtopic": "motion",
+   "source": "motiondivision/motion",
+   "source_label": "motiondivision/motion",
+   "url": "https://github.com/motiondivision/motion/releases/tag/v14.5.0",
+   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+   "title": "motion v14.5.0",
+   "summary_en": "v14.5.0",
+   "title_mn": "Motion v14.5.0 гарлаа",
+   "summary_mn": "Motion animation сангийн v14.5.0 хувилбар гарсан байна. Дэлгэрэнгүй өөрчлөлтийн мэдээлэл эх текстэд байхгүй байна.",
+   "body_mn": "Motion (өмнө Framer Motion) animation сангийн шинэ v14.5.0 хувилбар гарсан тухай GitHub release-д мэдээлсэн байна. Энэ нь харилцан үйлчлэлтэй UI animation хийдэг хөгжүүлэгчдэд шинэ хувилбар шалгах шаардлагатай гэсэн үг юм.\n\nЭнэ мэдээнд хувилбарын дэлгэрэнгүй тайлбар, шинэ функц эсвэл breaking change-ийн жагсаалт байхгүй тул аль функц нэмэгдсэн, аль нь өөрчлөгдсөнийг текстээс баталгаажуулах боломжгүй байна. Хэрэглэгчид changelog болон release notes-оо шууд эх сурвалжаас шалгахыг зөвлөж байна.",
+   "published": "2026-10-20T12:57:14Z",
+   "added": "2026-10-20T15:30:51Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a2a1cb68d8f4555e",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/blog-header-image.2e16d0ba.fill-1200x600.jpg",
+   "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
+   "summary_en": "Google Research has completed the 32-bit open-source Coral NPU RISC-V architecture with the introduction of its Matrix Execution Unit, which delivers up to 1 TOPS while targeting 10 mW average power for edge inference. Alongside this architecture, the release of the v1.0 open-source IREE/MLIR compiler allows developers to take models from JAX, PyTorch, and TensorFlow straight to Coral NPU hardware without writing custom assembly. Developers can now prototype and deploy these multimodal edge applications using new hardware options like the Synaptics Astra SR200 MCU series and globally…",
+   "title_mn": "Coral NPU нээлттэй стандарт болж, Matrix Execution Unit хувилбар гарлаа",
+   "summary_mn": "Google Coral NPU-ийн 32-bit архитектур Milestone 4 буюу Matrix Execution Unit-оор бүрэн болсон гэж зарласан. Нээлттэй RISC-V архитектур болон toxchain-ээр edge AI моделиудыг нэг удаа оновчилж олон төхөөрөмжид ажиллуулах боломж олгоно.",
+   "body_mn": "Google Research-ийн Coral NPU нь edge AI төхөөрөмжүүдийн хоорондох фрагментацийг багасгах зорилготой нээлттэй hardware болон software стандарт юм. Компани энэ сарын хувилбараар Matrix Execution Unit (Milestone 4)-ийг гаргаж, 32-bit архитектурыг бүрэн болгосон гэжээ.\n\nNPU нь C-программчлах боломжтой RISC-V scalar фронтэнд, RVV v1.0 vector co-processor, tightly coupled memory болон floating point дэмжлэгтэй. Matrix Execution Unit нь RISC-V VME спецификацид тулгуурласан, GEMM болон GEMV тооцоололд зориулсан outer-product MAC хөдөлгүүр ашигладаг.\n\nХөгжүүлэгчдэд зорилго нь моделийг нэг удаа оновчлоод олон SoC дээр ажиллуулах боломжийг хангах явдал юм. Нийтлэлд тодорхой benchmark тоо өгөөгүй тул гүйцэтгэлийн талаар дэлгэрэнгүй баталгаа байхгүй байна.",
+   "published": "2026-10-20T15:30:51Z",
+   "added": "2026-10-20T15:30:51Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c4fb1696f6ba9f0e",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Torch_Titan_Header_Image.2e16d0ba.fill-1200x600.jpg",
+   "title": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+   "summary_en": "TorchTPU integrates a native torch.device(\"tpu\") backend directly into PyTorch, allowing developers to train large-scale models on Google Cloud TPUs without rewriting code in JAX. The TorchTitan TPU fork enhances this with production-grade scaling primitives like SimpleFSDP, Graph Trainer, and custom Pallas kernels that achieve high Model Flops Utilization (MFU) across dense and MoE architectures. Developers can leverage these battle-tested optimization playbooks, recipes, and the Hugging Face modeling backend to efficiently scale their own workloads on TPU infrastructure.",
+   "title_mn": "TorchTitan-ийг TPU дээр ажиллуулах TorchTPU интеграци гарлаа",
+   "summary_mn": "Google болон Meta хамтран TorchTitan-ийг Cloud TPU дээр ажиллуулах fork гаргасан. TorchTPU нь torch.device(\"tpu\") native backend-ээр PyTorch-ийн цөмд нэгдсэн гэж мэдээлсэн.",
+   "body_mn": "TorchTitan нь PyTorch екосистемийн том загвар сургалтын reference платформ юм. Одоо TorchTPU-ээр Cloud TPU нь torch.device(\"tpu\") native backend-тай болж, сургалтын скрипт зөвхөн device эхлүүлэх хэсгээ бага зэрэг өөрчилснөөр TPU дээр ажиллах боломжтой болжээ.\n\nTorchTitan TPU нь Meta-гийн TorchTitan-ийн fork бөгөөд Llama 3, Qwen 3, FLUX зэрэг загваруудын рецептийг TPU дээр дэмжинэ. Attention-ийг Splash Attention, cross-entropy-г fused Pallas kernel, MoE-г grouped Pallas kernel-ээр солих зэргээр гүйцэтгэлийг сайжруулдаг.\n\nЭнэ нь TPU дээр PyTorch сургалт хийх хүсэлтэй хөгжүүлэгчдэд JAX руу бүрэн дахин бичих шаардлагагүй болгож байна.",
+   "published": "2026-10-20T15:30:51Z",
+   "added": "2026-10-20T15:30:51Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]

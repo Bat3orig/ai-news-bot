@@ -1,0 +1,17 @@
+{
+ "id": "16b2e39b8e94699f",
+ "subtopic": "motion",
+ "source": "motiondivision/motion",
+ "source_label": "motiondivision/motion",
+ "url": "https://github.com/motiondivision/motion/releases/tag/v14.5.0",
+ "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+ "title": "motion v14.5.0",
+ "summary_en": "v14.5.0",
+ "title_mn": "Motion v14.5.0 гарлаа",
+ "summary_mn": "Motion animation сангийн v14.5.0 хувилбар гарсан байна. Дэлгэрэнгүй өөрчлөлтийн мэдээлэл эх текстэд байхгүй байна.",
+ "body_mn": "Motion (өмнө Framer Motion) animation сангийн шинэ v14.5.0 хувилбар гарсан тухай GitHub release-д мэдээлсэн байна. Энэ нь харилцан үйлчлэлтэй UI animation хийдэг хөгжүүлэгчдэд шинэ хувилбар шалгах шаардлагатай гэсэн үг юм.\n\nЭнэ мэдээнд хувилбарын дэлгэрэнгүй тайлбар, шинэ функц эсвэл breaking change-ийн жагсаалт байхгүй тул аль функц нэмэгдсэн, аль нь өөрчлөгдсөнийг текстээс баталгаажуулах боломжгүй байна. Хэрэглэгчид changelog болон release notes-оо шууд эх сурвалжаас шалгахыг зөвлөж байна.",
+ "published": "2026-10-20T12:57:14Z",
+ "added": "2026-10-20T15:30:51Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
