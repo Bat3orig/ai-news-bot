@@ -1,0 +1,17 @@
+{
+ "id": "8c9468d831620132",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v42.11.16",
+ "image": "https://opengraph.githubassets.com/c799226b8852dcdea0357be6d6264c0b9f51755d8eae34609a2e5e67b387cf86/electron/electron",
+ "title": "electron v42.11.16",
+ "summary_en": "v42.11.16",
+ "title_mn": "Electron v42.11.16 хувилбар гарлаа",
+ "summary_mn": "Electron фрэймворкийн v42 салбарын тогтвортой байдлыг хангах ээлжит засвар бүхий v42.11.16 хувилбар гарлаа.",
+ "body_mn": "Electron хөгжүүлэгчдийн баг v42 салбарын ээлжит алдаа засварын v42.11.16 хувилбарыг албан ёсоор нийтэллээ.\n\nЭнэхүү шинэчлэл нь системийн тогтвортой ажиллагаа болон аюулгүй байдлыг хангах жижиг алдааны засваруудыг агуулж байгаа бөгөөд Electron v42 хувилбар дээр ажиллаж буй төслүүд шинэчлэл хийх боломжтой.",
+ "published": "2026-10-20T00:49:20Z",
+ "added": "2026-10-20T00:51:14Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "e7cfd6296f489540",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v43.8.1",
+ "image": "https://opengraph.githubassets.com/c799226b8852dcdea0357be6d6264c0b9f51755d8eae34609a2e5e67b387cf86/electron/electron",
+ "title": "electron v43.8.1",
+ "summary_en": "v43.8.1",
+ "title_mn": "Electron v43.8.1 хувилбар гарлаа",
+ "summary_mn": "Electron төслийн 43 дахь хувилбарын засварын дугаар бүхий v43.8.1 хувилбар гарлаа.",
+ "body_mn": "Electron баг хуучин тогтвортой салбар болох v43-ын ээлжит алдааны засвар, сайжруулалтыг багтаасан v43.8.1 хувилбарыг нийтэллээ.\n\nУг хувилбарт v43 салбарыг ашиглаж буй хөгжүүлэгчдэд зориулсан тогтвортой байдлын засварууд багтсан байна.",
+ "published": "2026-10-20T00:49:10Z",
+ "added": "2026-10-20T00:51:14Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

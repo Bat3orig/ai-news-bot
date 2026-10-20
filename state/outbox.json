@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "03380fa134fc44d6",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Innovation Village",
-   "url": "https://innovation-village.com/replit-makes-openai-its-default-ai-partner/",
-   "image": "https://innovation-village.com/wp-content/uploads/2026/10/replit.png",
-   "title": "Replit Makes OpenAI Its Default AI Partner",
-   "summary_en": "Replit names OpenAI its preferred AI partner over Anthropic, citing model performance, cost and partnership strength while keeping Claude available to users.",
-   "title_mn": "Replit үндсэн загвар нийлүүлэгчээрээ Anthropic-ийн оронд OpenAI-ийг сонголоо",
-   "summary_mn": "Replit платформ өөрийн Replit Agent-ийн үндсэн тохиргоот загвараар Claude-ийн оронд OpenAI-ийг сонгожээ. Хэдийгээр Claude болон бусад загварууд сонголтоор хэвээр үлдэх ч өртөг болон гүйцэтгэлийн шалтгаанаар OpenAI-д давуу эрх өгсөн байна.",
-   "body_mn": "Онлайн кодингийн Replit платформ өөрийн AI код бичигч Replit Agent-ийн үндсэн загвар нийлүүлэгчээрээ OpenAI-ийг сонгож, өмнө нь голлон ашиглаж байсан Anthropic-ийг өөрчиллөө. Тус компанийн гүйцэтгэх захирал Амжад Масад уг шийдвэрийг загваруудын гүйцэтгэл, ашиглалтын өртөг болон OpenAI-тай байгуулсан хамтын ажиллагааны давуу талуудтай холбон тайлбарласан байна.\n\nМасадын хэлснээр Replit дотоод болон нийтэд нээлттэй бенчмаркаар загваруудыг харьцуулж үздэг бөгөөд ялангуяа байгалийн хэлээр програм угсрах (vibe coding) үед OpenAI-ийн загварууд программыг эхнээс нь бүтээхэд одоогоор илүү сайн ажиллаж байна гэж дүгнэжээ. Гэсэн хэдий ч Replit нь олон загварыг дэмжсэн хэвээр байх бөгөөд хэрэглэгчид Anthropic-ийн Claude загваруудыг гараар сонгон ашиглах боломж нээлттэй үлдэх аж.\n\nХэдийгээр Claude-ийг шууд унтраагаагүй ч анхдагч тохиргоо (default) өөрчлөгдсөн нь нийт хэрэглэгчдийн дийлэнх урсгал OpenAI руу шилжихэд хүргэнэ. Replit өмнө нь Anthropic-ийн хамгийн том таван харилцагчийн нэг байсан тул уг шийдвэр нь хөгжүүлэгчийн зах зээл дэх загвар нийлүүлэгчдийн өрсөлдөөнд мэдэгдэхүйц нөлөө үзүүлэхээр байна.",
-   "published": "2026-10-18T17:56:09Z",
-   "added": "2026-10-19T11:01:39Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ea4891340f50adb0",
-   "subtopic": "ai-devtools",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://github.com/finereli/whatsapp-mcp",
-   "image": "https://opengraph.githubassets.com/7f57c1c3715c7e40bf954d65deea46a4a420c799d80eaf26b7e3eb49aea8c1ed/finereli/whatsapp-mcp",
-   "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-   "summary_en": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly. This is a single user install because it's both gray area and very private - so point your agent at the repo and…",
-   "title_mn": "Cloudflare дээр ажиллах нээлттэй эх бүхий WhatsApp MCP сервер танилцуулагдлаа",
-   "summary_mn": "Хөгжүүлэгчид өөрийн Cloudflare бүртгэл дээр WhatsApp мессежийг уншиж хайх боломжтой нээлттэй эхийн MCP сервер ажиллуулах боломжтой боллоо. Claude Code зэрэг MCP дэмждэг ямар ч агенттай холбогдоно.",
-   "body_mn": "Hacker News дээр WhatsApp мессежүүдийг AI агентаар дамжуулан уншиж, хайлт хийх боломжийг олгодог нээлттэй эхийн шинэ MCP (Model Context Protocol) сервер танилцуулагдлаа. Энэхүү сервер нь хэрэглэгчийн Cloudflare аккаунт дотор Durable Objects болон SQLite ашиглан бие даан ажиллах бөгөөд зөвхөн мессеж унших зориулалттай тул аливаа мессеж илгээх үйлдэл хийхгүй.\n\nУг серверийг Claude Code, Claude Desktop эсвэл MCP протоколыг дэмждэг бусад ямар ч клиенттэй холбож болно. Холболт хийхдээ WhatsApp Web-тэй ижил зарчмаар QR код уншуулах бөгөөд мессежийн өгөгдөл зөвхөн хэрэглэгчийн өөрийн Cloudflare сан дотор хадгалагдах тул гадны сервер рүү хувийн чат алдагдах эрсдэлгүйгээрээ онцлогтой.\n\nЭнэ нь WhatsApp-ийн албан ёсны API-г ашиглаагүй, нээлттэй эхийн Baileys сангаар дамжуулан холбогдож буй тул зөвхөн хувийн хэрэгцээндээ нэг хэрэглэгч ажиллуулахад зориулагдсан байна. Архивын түүхийг бүрэн татахын тулд Cloudflare Workers-ийн төлбөртэй хувилбар (CPU лимит нэмэгдүүлэх шаардлагатай) болон Node 20+ шаардагдана.",
-   "published": "2026-10-18T21:36:10Z",
-   "added": "2026-10-19T11:01:39Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a8e8149c3fbd1085",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Netz Trends",
-   "url": "https://www.netz-trends.de/claude-max-20x-90-extra-usage-gone-within-hours-anthropic-billing-transparency/",
-   "image": "https://www.netz-trends.de/wp-content/uploads/2026/10/Claude-Max_-90-Dollar-Zusatznutzung.png",
-   "title": "Claude Max 20x: $90 Extra Usage Gone Within Hours – NETZ-TRENDS Questions Anthropic’s Billing Transparency",
-   "summary_en": "NETZ-TRENDS paid €214.20 per month for Claude Max 20x. After the weekly limit was reached, $90 in Extra Usage was exhausted within hours although our established editorial workflow had not materially changed.",
-   "title_mn": "Claude Max 20x: Агент ажлын урсгалын төлбөрийн ил тод байдал шүүмжлэлд өртлөө",
-   "summary_mn": "Германы NETZ-TRENDS хэвлэл Claude Max 20x багцын $90-ийн нэмэлт лимит хэдхэн цагийн дотор дууссаны дараа Anthropic-оос агентын даалгавар тус бүрийн зардлыг тодорхой тайлагнахыг шаардав.",
-   "body_mn": "Германы NETZ-TRENDS онлайн хэвлэл Anthropic компанийн Claude системийн нэмэлт төлбөр болон лимитийн тооцооллын ил тод байдалд эргэлзэж буйгаа илэрхийллээ. Тус байгууллага сарын 214.20 еврогийн үнэтэй Claude Max 20x багцыг ашигладаг бөгөөд долоо хоногийн хязгаар дууссаны дараа 90 ам.долларын Extra Usage худалдан авсан боловч ердийн ажлын горимд хэдхэн цагийн дотор бүрэн дуусчээ.\n\nШалтгааныг шалгахад редакцийн автоматжуулсан ажлын урсгал давхцан ажилласан нь лог бүртгэлээс харагдсан байна. Тодруулбал, нэг процессын хүрээнд суб-агентууд болон судалгааны хэрэгслүүдийг дуудаж, дараа нь давхардсан сэдвийг цуцалсан хэдий ч төлбөр тусдаа тооцогдсон эсэх, ямар үйлдэл хэдэн доллар зарцуулсан нь хэрэглэгчийн хянах самбарт нарийвчлан харагдахгүй байгаа юм.\n\nAnthropic-ийн тайлбарласнаар үндсэн багцын лимит дуусмагц API-ийн ердийн тариф үйлчилж эхэлдэг аж. Хөгжүүлэгчид болон байгууллагуудын хувьд олон агент бүхий цогц системүүд богино хугацаанд их хэмжээний зардал гаргах эрсдэлтэй тул даалгавар тус бүрийн түвшинд зардлыг хянах, тодорхой лог харах боломж дутагдаж байгааг энэ кейс харуулж байна.",
-   "published": "2026-10-19T04:57:46Z",
-   "added": "2026-10-19T11:01:39Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "85c5ba8034c0995c",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "36Kr",
-   "url": "https://eu.36kr.com/en/p/4030759952781702",
-   "image": "https://img.36krcdn.com/hsossms/20261019/v2_b5a89202185844458ee7a60c0b1dcddb@5091053@ai_oswg780187oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-   "title": "Anthropic Unveils Next-Gen Multi-Agent Orchestration Architecture: Claude Now Generates Self-Written Programs to Manage AI Agents",
-   "summary_en": "In the evolving landscape of multi-agent systems, the core bottleneck restricting efficient cross-agent cooperation is gradually shifting away from traditional communication and task allocation mechanisms to two critical dimensions: intelligent workflow orchestration and standardized result acceptance. This transition highlights that as foundational interaction capabilities between distributed agents become increasingly mature, the primary challenge for high-performance multi-agent collaboration now lies in building flexible, robust orchestration frameworks to coordinate complex agent…",
-   "title_mn": "Anthropic олон агентыг зохицуулах Dynamic Workflows бүтцийг танилцууллаа",
-   "summary_mn": "Anthropic олон агентыг кодоор удирдах Dynamic Workflows бүтцийг зарлав. Энэ горимд Claude тусгай зохицуулагч программ үүсгэж, агентуудын ажлыг сервер талд автоматаар удирддаг болжээ.",
-   "body_mn": "Anthropic компани олон агенттай (multi-agent) системийг зохицуулах Dynamic Workflows хэмээх шинэ бүтцийг Claude Managed Agents-д зориулан бета хувилбараар танилцууллаа. Энэхүү механизмыг Нью-Йорк хотноо болсон AI Engineer чуулганы үеэр тус компанийн инженерүүд дэлгэрэнгүй танилцуулсан байна.\n\nУламжлалт multi-agent бүтцэд төв агент суб-агентуудад үүрэг хуваарилж, хариу ирэх бүрт өөрөө дахин дүгнэлт хийн дараагийн алхмыг шийддэг тул контекст цонх (context window) завсрын өгөгдлөөр дүүрч, хурд удааширдаг сул талтай байв. Харин Dynamic Workflows горимд Claude даалгаврын дагуу зохицуулах программ (orchestration program) бичдэг болжээ. Уг программ нь сервер дээр ажиллаж, суб-агентуудыг зэрэг дуудах, завсрын үр дүнг дамжуулах, алдаа гарвал дахин ажиллуулах логикийг бие даан гүйцэтгэдэг байна.\n\nИнгэснээр үндсэн агент үе шат бүрт заавал гар бие оролцох шаардлагагүй болж, контекстийн зардлыг хэмнэхийн сацуу автоматжуулалтыг илүү найдвартай ажиллуулах боломж бүрдэж байна. Программистуудын хувьд агентын урсгалыг кодоор удирдах илүү үр ашигтай архитектурын суурь болж байна.",
-   "published": "2026-10-19T05:12:55Z",
-   "added": "2026-10-19T11:01:39Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "93ea8605cabf9674",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.3.1",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.3.1",
-   "summary_en": "v14.3.1",
-   "title_mn": "Motion v14.3.1 хувилбар гарлаа",
-   "summary_mn": "React болон орчин үеийн вэб аппликейшнд зориулсан алдартай хөдөлгөөнт дүрслэлийн сан болох Motion-ий v14.3.1 засварын хувилбар нийтлэгдлээ.",
-   "body_mn": "React болон орчин үеийн вэб хөгжүүлэлтийн хамгийн өргөн хэрэглэгддэг хөдөлгөөнт дүрслэлийн сангуудын нэг Motion (хуучнаар Framer Motion) v14.3.1 хувилбараа гаргалаа.\n\nЭнэхүү шинэчлэл нь өмнөх v14.3.0 хувилбарын дараах алдаа засалт болон тогтвортой ажиллагааны сайжруулалтыг багтаасан засварын хувилбар юм. Хөгжүүлэгчид npm болон бусад багц удирдагчаар дамжуулан уг шинэчлэлийг шууд татаж авах боломжтой.",
-   "published": "2026-10-19T07:27:05Z",
-   "added": "2026-10-19T11:01:39Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9a63d469fbafe89b",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.4.0",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.4.0",
-   "summary_en": "v14.4.0",
-   "title_mn": "Motion v14.4.0 хувилбар гарлаа",
-   "summary_mn": "Вэб анимэйшны алдартай сан болох Motion төслийн шинэ v14.4.0 хувилбар албан ёсоор нийтлэгдлээ.",
-   "body_mn": "Вэб интерфэйсийн хөдөлгөөнт дүрслэл, анимэйшны түгээмэл сан болох Motion (хуучнаар Framer Motion) төслийн v14.4.0 хувилбар гарлаа.\n\nХөгжүүлэгчид өөрсдийн React болон вэб төслүүд дэх хамаарлаа шинэ хувилбар луу шинэчлэн ашиглах боломжтой бөгөөд нарийвчилсан өөрчлөлтийн жагсаалтыг GitHub репозиторын release хуудаснаас харах боломжтой юм.",
-   "published": "2026-10-19T08:33:15Z",
-   "added": "2026-10-19T11:01:39Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "797342f077d61dba",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/mercury-3-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20uKR2jzsglng2QIeliEe4/b4c0ae5af7a1ff5fbd9e4283ac2aedde/image.png",
-   "title": "Mercury 3 now available on AI Gateway",
-   "summary_en": "Mercury 3 from Inception is now available on AI Gateway with 50% off launch pricing. Inception reports strong results across a range of benchmarks, with generation speeds above 1,000 tokens per second. Mercury 3 uses diffusion to generate text through parallel refinement. It brings improved reasoning to latency-sensitive workloads such as browser agents, real-time search, interactive education, and customer support. A 1M-token context window gives those applications room for long documents and extended conversation histories. Set AI_GATEWAY_API_KEY in your environment. Use…",
-   "title_mn": "Mercury 3 загвар Vercel AI Gateway дээр боломжтой боллоо",
-   "summary_mn": "Inception-ийн Mercury 3 загвар Vercel AI Gateway дээр launch үнийн 50 хувийн хөнгөлөлттэйгээр орлоо. Загвар секундэд 1000-аас дээш токен гаргана гэж мэдээлэгдсэн.",
-   "body_mn": "Vercel-ийн AI Gateway дээр Inception-ийн Mercury 3 загвар нэмэгдлээ. Launch үнийн 50 хувийн хөнгөлөлт бий. Inception нь олон төрлийн benchmark дээр сайн үр дүн гарсныг мэдээлж, генерацийн хурд секундэд 1000 токеноос давсан гэжээ.\n\nMercury 3 нь текстийг диффузээр, параллель шүүлтүүрээр үүсгэдэг. Энэ нь browser agent, бодit хугацааны хайлт, интерактив боловсрол, харилцагчийн дэмжлэг зэрэг хоцрогдолд мэдрэмтгий ажлын ачааллад зориулагдсан. 1 сая токены context window нь урт баримт бичиг болон удаан үргэлжилсэн яриаг боловсруулах боломжийг олгоно.\n\nХөгжүүлэгчид AI_GATEWAY_API_KEY орчны хувьсагч тохируулж, inception/mercury-3 загварын нэрийг ашиглана. Claude Code, Codex, Cursor зэрэг агентуудад Vercel CLI-ээр тохируулах боломжтой. AI Gateway нь үйлчилгээний үнийг нэмэлтгүйгээр тусгана.",
-   "published": "2026-10-19T00:00:00Z",
-   "added": "2026-10-19T17:37:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a765c1add20e6e3f",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20yZQiIRVIrL4Y5mvQlsTe/3c8935388762292ca142432e205b9b9f/Vercel_x_MiniMax.png",
-   "title": "MiniMax M3.1 Flash now available on AI Gateway for free",
-   "summary_en": "MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash improves on complex agentic tasks, coding, and cybersecurity. On the agent side, that covers multi-step business processes and computer use that carries a task from one application to the next. For coding, MiniMax reports its best results on application development, particularly frontend…",
-   "title_mn": "MiniMax M3.1 Flash загвар Vercel AI Gateway дээр 10-р сарын 22 хүртэл үнэгүй боллоо",
-   "summary_mn": "MiniMax M3.1 Flash нээлттэй жинтэй мультимодаль загвар AI Gateway дээр 10-р сарын 22 хүртэл үнэгүйгээр ашиглах боломжтой. Загвар код бичих болон agent ажилд зориулагдсан.",
-   "body_mn": "Vercel AI Gateway дээр MiniMax M3.1 Flash загвар 10-р сарын 22 хүртэл үнэгүйгээр ашиглах боломжтой боллоо. Энэ нь нээлттэй жинтэй, мультимодаль загвар бөгөөд код бичих болон agent ажилд зориулагдсан. 1 сая токены context window-тэй.\n\nMiniMax-ийн мэдээлснээр өмнөх загваруудтай харьцуулахад олон алхамтай agent ажил, компьютер ашиглалт, frontend интерактив, bug засвар болон component тестэнд илүү сайн болсон байна.\n\nҮнэгүй хэрэглээ зөвхөн MiniMax загварыг үйлчилгээ үзүүлэх үед хамаарна. Тиймээс gateway provider options-оор order тохируулах шаардлагатай. Хугацаа дууссаны дараа стандарт үнээр тооцогдоно. AI SDK, Chat Completions, Responses болон Anthropic Messages API-аар дуудаж болно. Загварын нэр нь minimax/minimax-m3.1-flash.",
-   "published": "2026-10-19T00:00:00Z",
-   "added": "2026-10-19T17:37:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4c6f5770318c6683",
-   "subtopic": "ai-devtools",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-   "image": "https://crystl.dev/og.png?v=3",
-   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-   "summary_en": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 130 # Comments: 91",
-   "title_mn": "tmux болон Claude Code: session, send-keys, хязгаар",
-   "summary_mn": "tmux нь AI код бичих агентуудыг нэрлэсэн, салгаж болдог session-д ажиллуулах боломж олгоно. Claude Code-ийн --worktree --tmux флаг нь нэг агентэд хялбар session үүсгэдэг.",
-   "body_mn": "tmux нь AI код бичих агентуудыг нэрлэгдсэн, салгаж болох session-д ажиллуулах боломжийг олгоно. Терминал хаагдсан эсвэл SSH холболт тасарсан ч агент үргэлжлүүлэн ажилладаг. Нэг цонхонд олон агент байрлуулж, send-keys-ээр скриптээс бичиж, capture-pane-ээр дэлгэцийг уншиж болно.\n\nClaude Code нь нэг агент, нэг салбарт зориулсан --worktree болон --tmux флагуудыг дэмждэг. Гэхдээ --tmux нь --worktree-гүйгээр ажиллахгүй, iTerm2 дээр tmux биш native pane ашигладаг. Скриптээр удирдахад --tmux=classic сонгох хэрэгтэй.\n\nЗөвлөмж нь нэг repo-д нэг tmux session байх явдал юм. Агент бүрт цонх, олон агентыг нэгэн зэрэг харахад pane ашиглана. Pane-ийн шинэ директорыг #{pane_current_path}-аар заах нь чухал. Энэ гарын авлага нь SSH дээрх удирдлагыг мөн тайлбарлана.",
-   "published": "2026-10-19T05:55:31Z",
-   "added": "2026-10-19T17:37:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "699f9fd60e89c513",
-   "subtopic": "nestjs",
-   "source": "nestjs/nest",
-   "source_label": "nestjs/nest",
-   "url": "https://github.com/nestjs/nest/releases/tag/v12.2.0",
-   "image": "https://opengraph.githubassets.com/242dae173c8b34903081a16b05942951ccb58dca8b158804ae1feb3d5f2f4605/nestjs/nest/releases/tag/v12.2.0",
-   "title": "nest v12.2.0",
-   "summary_en": "v12.2.0 (2026-10-19) Notable changes New options @Sse({ maxPendingDataLength }) sets how many characters of event data may wait for a client that is not reading its events (4M by default; 0 or Infinity lifts the limit) – 2f05ad954e IoAdapter and WsAdapter take maxConcurrentMessages , the number of a client's messages handled at once (1000 by default; Infinity lifts it) – 0bd0810ed7 ValidationPipe takes maxErrorMessagesLength (1,000,000 characters by default); messages past it are replaced by a \"Further validation errors were omitted\" entry – 086c1c514f Kafka: parser.maxMessageSize (16 MiB…",
-   "title_mn": "NestJS v12.2.0 гарлаа: SSE, WebSocket болон ValidationPipe-ийн шинэ тохиргоонууд",
-   "summary_mn": "NestJS v12.2.0 хувилбар гарсан бөгөөд SSE-ийн хүлээлтийн өгөгдлийн хязгаар, WebSocket-ийн зэрэгцээ мессежийн хязгаар зэрэг шинэ тохиргоонууд нэмэгдсэн. Мөн ValidationPipe болон FileTypeValidator-ийн зарим анхдагч утгууд өөрчлөгдсөн тул шилжих үед анхаарах хэрэгтэй.",
-   "body_mn": "NestJS v12.2.0 хувилбарт @Sse({ maxPendingDataLength }) тохиргоо нэмэгдсэн бөгөөд уншаагүй үйлчлүүлэгчид хүлээх өгөгдлийн хэмжээ анхдагчаар 4М тэмдэгт байна. IoAdapter болон WsAdapter-т maxConcurrentMessages нэмэгдэж, нэг үйлчлүүлэгчийн зэрэг боловсруулах мессежийн тоо анхдагчаар 1000 болсон. ValidationPipe-т maxErrorMessagesLength нэмэгдсэн бөгөөд анхдагч хязгаар нь 1,000,000 тэмдэгт юм. Kafka-ийн parser.maxMessageSize анхдагчаар 16 MiB байна.\n\nАнхдагч утгуудын өөрчлөлтүүд шууд нөлөөлнө. @nestjs/platform-express болон @nestjs/platform-fastify-д fieldNestingDepth 32, fieldArrayIndexLimit 1000 болсон. ValidationPipe нь validationError.target-ийг анхдагчаар false болгосон тул exceptionFactory доторх error.target уншдаг кодыг шалгах шаардлагатай. FileTypeValidator нь font/woff төрлөөр font/woff2-ийг зөвшөөрөхөө больсон. MQTT серверийн reconnectOnConnackError анхдагчаар идэвхжсэн.\n\nМөн ValidationPipe массив эсвэл энгийн утга илгээхэд одоо 400 алдаа буцаана. Төслөө шинэчлэхдээ эдгээр өөрчлөлтүүдийг шалгаж, шаардлагатай бол өмнөх зан төлөвийг буцаах тохиргоог ашиглана уу.\n\nNestJS-ийн хэрэглэгчдэд энэ хувилбар нь ихээхэн тохиргооны өөрчлөлттэй тул шилжилтийн үед тестийг ажиллуулахыг зөвлөж байна.",
-   "published": "2026-10-19T10:50:46Z",
-   "added": "2026-10-19T17:37:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "4613775bbf7f6053",
    "subtopic": "ai-devtools",
    "source": "Hacker News",
@@ -557,6 +357,146 @@
    "added": "2026-10-19T21:53:46Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1dbe22633003a2af",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/low-resource-programming-languages",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/1wQpFFie9sKfVWvApPYyn5/db28adb6a2dfdfdef39fb548fca8913d/low_resource_programming__SEO_Card__3_.png?w=1600&h=900&fit=fill",
+   "title": "Advancing coding in low‑resource programming languages",
+   "summary_en": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+   "title_mn": "OpenAI: Шинэ загварууд COBOL, Fortran зэрэг хэлүүдийг хөрвүүлэх чадвараа ахиуллаа",
+   "summary_mn": "OpenAI бага нөөцтэй COBOL, Fortran, Visual Basic зэрэг програмчлалын хэлүүдийг шинэчлэх, хөрвүүлэх чиглэлд загваруудынхаа чадварыг эрс сайжруулснаа зарлалаа.",
+   "body_mn": "OpenAI компани сургалтын өгөгдөл багатай COBOL, Fortran болон Visual Basic зэрэг хуучны програмчлалын хэлүүд дээр ажиллах загваруудынхаа чадварыг эрс ахиулснаа танилцууллаа. Эдгээр хэлүүд нь орчин үеийн хэлүүдтэй харьцуулахад баримтжуулалт хомс ч онлайн банкны системүүдийн 40 гаруй хувь, АТМ гүйлгээний 95 хувь, цөмийн реакторын аюулгүй байдлын шинжилгээ зэрэг чухал дэд бүтцүүдийг хангадаг байна.\n\nКомпани ахиц дэвшлийг хэмжих зорилгоор хоёр шинэ үнэлгээний тест (evaluation) гаргажээ. 20 өөр хэл дээр SQLite-тэй нийцтэй өгөгдлийн сангийн хөдөлгүүр шинээр бүтээх MultiLangBench тест дээр GPT-6 Astra загвар 87.4 хувийн амжилт үзүүлсэн нь өмнөх GPT-5.6 Sol-ийн 26.8 хувиас мэдэгдэхүйц өссөн үзүүлэлт юм. Мөн GPT-6 Luna загвар 40.3 хувийн амжилт үзүүлсэн бөгөөд API зардал нь 78 хувиар бага гарчээ.\n\nТүүнчлэн COBOL кодыг өөр хэл рүү хөрвүүлэх тест дээр GPT-6.1 Sol загвар өндөр reasoning горимд 97.9 хувийн оновчтой ажилласан байна. Энэхүү сайжруулалт нь банк санхүү, дэд бүтцийн томоохон байгууллагуудад хуучин легаси системээ найдвартай шинэчлэх, өөр технологи руу хөрвүүлэх зардлыг үлэмж хэмжээгээр хэмнэх боломжийг олгож байна.",
+   "published": "2026-10-19T12:00:00Z",
+   "added": "2026-10-20T00:51:14Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c4d5caa9ca539eec",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+   "image": "https://github.blog/wp-content/uploads/2026/10/675076555-e8b71783-0511-4913-b6f3-dca3cf564538.jpg",
+   "title": "GitHub Copilot models deprecated on October 19, 2026",
+   "summary_en": "As of today, October 19, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). These…",
+   "title_mn": "GitHub Copilot зарим хуучин загваруудаа албан ёсоор халлаа",
+   "summary_mn": "GitHub өмнө нь зарласан хуваарийн дагуу 2026 оны 10-р сарын 19-нөөс эхлэн Copilot-ийн зарим загварын дэмжлэгийг бүрэн зогсоосноо мэдэгдлээ.",
+   "body_mn": "GitHub компани өнгөрсөн 9-р сарын 18-нд зарласан хуваарийн дагуу 2026 оны 10-р сарын 19-ний өдрөөс эхлэн зарим загваруудаа албан ёсоор deprecate хийж, үйлчилгээнээс гаргалаа. Үүнд Copilot Chat, inline edits, ask болон agent горимууд, түүнчлэн код автоматаар нөхөх үйлдлүүд хамаарч байна.\n\nХөгжүүлэгчид болон байгууллагын админууд өөрсдийн ажлын урсгал, интеграцуудаа одоогоор дэмжигдэж буй шинэ загварууд руу шилжүүлэх шаардлагатай. Copilot Enterprise админуудын хувьд удирдлагын тохиргооноос зөвшөөрөгдсөн загварын бодлогыг идэвхжүүлснээр VS Code болон github.com дээрх сонголтод шинэ загварууд гарч ирнэ.\n\nАшиглалтаас гарсан загваруудыг гараар устгах эсвэл хасах шаардлагагүй бөгөөд системээс автоматаар хасагдах юм.",
+   "published": "2026-10-19T21:27:10Z",
+   "added": "2026-10-20T00:51:14Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ed64890568349a4e",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "title": "Copilot model policy API for enterprise, orgs, and teams",
+   "summary_en": "You can now use the REST API to retrieve and update Copilot model policies for enterprises, enterprise teams, enterprise apps, and organizations. What’s new GET and PATCH endpoints are now…",
+   "title_mn": "GitHub: Copilot загварын бодлогыг удирдах REST API гарлаа",
+   "summary_mn": "GitHub Copilot-ийн загваруудыг байгууллага, баг, аппын түвшинд удирдах зориулалттай GET болон PATCH бүхий REST API ерөнхий хэрэглээнд нэвтэрлээ.",
+   "body_mn": "GitHub компани enterprise, байгууллага, баг болон аппликейшнуудын түвшинд Copilot-ийн ашиглах загваруудыг удирдах REST API төгсгөлийн цэгүүдийг (endpoints) ерөнхий хэрэглээнд (GA) гаргалаа.\n\nЭнэхүү шинэчлэлтээр GET болон PATCH үйлдлүүд бүхий дөрвөн түвшний endpoint нээгдсэн бөгөөд томоохон байгууллагууд аль баг, аль аппликейшн ямар хиймэл оюуны загвар ашиглаж болохыг кодоор дамжуулан автоматжуулан удирдах боломжтой болж байна.\n\nАдминууд загварын эрхийг бүхэлд нь төвлөрсөн байдлаар удирдах эсвэл дэд багууддаа эрхийг шилжүүлэх бодлогыг API-аар дамжуулан уян хатан тохируулах боломжтой боллоо.",
+   "published": "2026-10-19T21:32:18Z",
+   "added": "2026-10-20T00:51:14Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "da9ee5ccfac7bfbe",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Amazon Web Services (AWS)",
+   "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+   "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-22211-featured-image.png",
+   "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+   "summary_en": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom parsing, retry logic, or post-processing, using JSON Schema output format and strict tool use.",
+   "title_mn": "Amazon Bedrock дээрх Claude загварууд Structured Outputs дэмждэг боллоо",
+   "summary_mn": "Amazon Bedrock дахь бүх Claude загварт схемийн дагуу JSON үр дүн найдвартай буцаах Structured Outputs боломж албан ёсоор нэмэгдлээ.",
+   "body_mn": "Amazon Bedrock платформ дээрх Anthropic Claude-ийн бүх загварууд structured outputs буюу бүтцэд баригдсан өгөгдөл гаргах боломжийг дэмждэг боллоо. Энэхүү боломж нь bedrock-runtime болон bedrock-mantle төгсгөлийн цэгүүдэд нэгэн зэрэг нэвтэрсэн байна.\n\nХөгжүүлэгчид Boto3 эсвэл Messages API ашиглахдаа урьдчилан тодорхойлсон JSON схемийг дамжуулснаар загвар generation хийх явцдаа хязгаарлалт тавьж (constrained decoding), зөвхөн схемд нийцэх бүтцийг баталгаатай үүсгэнэ. Ингэснээр загварын хариуг JSON.parse() хийх үеийн алдаа арилж, дахин оролдлого (retry) хийх эсвэл тусгай задлагч бичих шаардлагагүй болж байна.\n\nЭнэхүү механизм нь шаардлагагүй нэмэлт токен үүсгэхээс сэргийлж зардлыг хэмнэх бөгөөд граммарын кэшийг 24 цагийн хугацаатай хадгалснаар эхний хүсэлтийн дараах дуудлагууд хамгийн бага сааталтай ажиллах давуу талтай.",
+   "published": "2026-10-19T23:32:19Z",
+   "added": "2026-10-20T00:51:14Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f79d674d86a4cf51",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v44.9.1",
+   "image": "https://opengraph.githubassets.com/c799226b8852dcdea0357be6d6264c0b9f51755d8eae34609a2e5e67b387cf86/electron/electron",
+   "title": "electron v44.9.1",
+   "summary_en": "v44.9.1",
+   "title_mn": "Electron v44.9.1 хувилбар гарлаа",
+   "summary_mn": "Electron десктоп аппликейшн хөгжүүлэлтийн сангийн 44.9.1 засварын хувилбар нийтлэгдлээ.",
+   "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн Electron фрэймворкийн v44 салбарын шинэ засварын хувилбар болох v44.9.1 гарлаа.\n\nЭнэхүү хувилбараар өмнөх хувилбаруудад гарсан алдааны засварууд болон тогтвортой ажиллагааны сайжруулалтууд багтсан байна.",
+   "published": "2026-10-20T00:48:55Z",
+   "added": "2026-10-20T00:51:14Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e7cfd6296f489540",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v43.8.1",
+   "image": "https://opengraph.githubassets.com/c799226b8852dcdea0357be6d6264c0b9f51755d8eae34609a2e5e67b387cf86/electron/electron",
+   "title": "electron v43.8.1",
+   "summary_en": "v43.8.1",
+   "title_mn": "Electron v43.8.1 хувилбар гарлаа",
+   "summary_mn": "Electron төслийн 43 дахь хувилбарын засварын дугаар бүхий v43.8.1 хувилбар гарлаа.",
+   "body_mn": "Electron баг хуучин тогтвортой салбар болох v43-ын ээлжит алдааны засвар, сайжруулалтыг багтаасан v43.8.1 хувилбарыг нийтэллээ.\n\nУг хувилбарт v43 салбарыг ашиглаж буй хөгжүүлэгчдэд зориулсан тогтвортой байдлын засварууд багтсан байна.",
+   "published": "2026-10-20T00:49:10Z",
+   "added": "2026-10-20T00:51:14Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8c9468d831620132",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v42.11.16",
+   "image": "https://opengraph.githubassets.com/c799226b8852dcdea0357be6d6264c0b9f51755d8eae34609a2e5e67b387cf86/electron/electron",
+   "title": "electron v42.11.16",
+   "summary_en": "v42.11.16",
+   "title_mn": "Electron v42.11.16 хувилбар гарлаа",
+   "summary_mn": "Electron фрэймворкийн v42 салбарын тогтвортой байдлыг хангах ээлжит засвар бүхий v42.11.16 хувилбар гарлаа.",
+   "body_mn": "Electron хөгжүүлэгчдийн баг v42 салбарын ээлжит алдаа засварын v42.11.16 хувилбарыг албан ёсоор нийтэллээ.\n\nЭнэхүү шинэчлэл нь системийн тогтвортой ажиллагаа болон аюулгүй байдлыг хангах жижиг алдааны засваруудыг агуулж байгаа бөгөөд Electron v42 хувилбар дээр ажиллаж буй төслүүд шинэчлэл хийх боломжтой.",
+   "published": "2026-10-20T00:49:20Z",
+   "added": "2026-10-20T00:51:14Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
   }
  }
 ]

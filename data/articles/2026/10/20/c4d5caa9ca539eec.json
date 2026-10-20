@@ -1,0 +1,17 @@
+{
+ "id": "c4d5caa9ca539eec",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+ "image": "https://github.blog/wp-content/uploads/2026/10/675076555-e8b71783-0511-4913-b6f3-dca3cf564538.jpg",
+ "title": "GitHub Copilot models deprecated on October 19, 2026",
+ "summary_en": "As of today, October 19, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). These…",
+ "title_mn": "GitHub Copilot зарим хуучин загваруудаа албан ёсоор халлаа",
+ "summary_mn": "GitHub өмнө нь зарласан хуваарийн дагуу 2026 оны 10-р сарын 19-нөөс эхлэн Copilot-ийн зарим загварын дэмжлэгийг бүрэн зогсоосноо мэдэгдлээ.",
+ "body_mn": "GitHub компани өнгөрсөн 9-р сарын 18-нд зарласан хуваарийн дагуу 2026 оны 10-р сарын 19-ний өдрөөс эхлэн зарим загваруудаа албан ёсоор deprecate хийж, үйлчилгээнээс гаргалаа. Үүнд Copilot Chat, inline edits, ask болон agent горимууд, түүнчлэн код автоматаар нөхөх үйлдлүүд хамаарч байна.\n\nХөгжүүлэгчид болон байгууллагын админууд өөрсдийн ажлын урсгал, интеграцуудаа одоогоор дэмжигдэж буй шинэ загварууд руу шилжүүлэх шаардлагатай. Copilot Enterprise админуудын хувьд удирдлагын тохиргооноос зөвшөөрөгдсөн загварын бодлогыг идэвхжүүлснээр VS Code болон github.com дээрх сонголтод шинэ загварууд гарч ирнэ.\n\nАшиглалтаас гарсан загваруудыг гараар устгах эсвэл хасах шаардлагагүй бөгөөд системээс автоматаар хасагдах юм.",
+ "published": "2026-10-19T21:27:10Z",
+ "added": "2026-10-20T00:51:14Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

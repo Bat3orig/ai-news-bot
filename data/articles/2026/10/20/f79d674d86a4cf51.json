@@ -1,0 +1,17 @@
+{
+ "id": "f79d674d86a4cf51",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v44.9.1",
+ "image": "https://opengraph.githubassets.com/c799226b8852dcdea0357be6d6264c0b9f51755d8eae34609a2e5e67b387cf86/electron/electron",
+ "title": "electron v44.9.1",
+ "summary_en": "v44.9.1",
+ "title_mn": "Electron v44.9.1 хувилбар гарлаа",
+ "summary_mn": "Electron десктоп аппликейшн хөгжүүлэлтийн сангийн 44.9.1 засварын хувилбар нийтлэгдлээ.",
+ "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн Electron фрэймворкийн v44 салбарын шинэ засварын хувилбар болох v44.9.1 гарлаа.\n\nЭнэхүү хувилбараар өмнөх хувилбаруудад гарсан алдааны засварууд болон тогтвортой ажиллагааны сайжруулалтууд багтсан байна.",
+ "published": "2026-10-20T00:48:55Z",
+ "added": "2026-10-20T00:51:14Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

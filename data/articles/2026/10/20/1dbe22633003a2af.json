@@ -1,0 +1,17 @@
+{
+ "id": "1dbe22633003a2af",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/low-resource-programming-languages",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/1wQpFFie9sKfVWvApPYyn5/db28adb6a2dfdfdef39fb548fca8913d/low_resource_programming__SEO_Card__3_.png?w=1600&h=900&fit=fill",
+ "title": "Advancing coding in low‑resource programming languages",
+ "summary_en": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+ "title_mn": "OpenAI: Шинэ загварууд COBOL, Fortran зэрэг хэлүүдийг хөрвүүлэх чадвараа ахиуллаа",
+ "summary_mn": "OpenAI бага нөөцтэй COBOL, Fortran, Visual Basic зэрэг програмчлалын хэлүүдийг шинэчлэх, хөрвүүлэх чиглэлд загваруудынхаа чадварыг эрс сайжруулснаа зарлалаа.",
+ "body_mn": "OpenAI компани сургалтын өгөгдөл багатай COBOL, Fortran болон Visual Basic зэрэг хуучны програмчлалын хэлүүд дээр ажиллах загваруудынхаа чадварыг эрс ахиулснаа танилцууллаа. Эдгээр хэлүүд нь орчин үеийн хэлүүдтэй харьцуулахад баримтжуулалт хомс ч онлайн банкны системүүдийн 40 гаруй хувь, АТМ гүйлгээний 95 хувь, цөмийн реакторын аюулгүй байдлын шинжилгээ зэрэг чухал дэд бүтцүүдийг хангадаг байна.\n\nКомпани ахиц дэвшлийг хэмжих зорилгоор хоёр шинэ үнэлгээний тест (evaluation) гаргажээ. 20 өөр хэл дээр SQLite-тэй нийцтэй өгөгдлийн сангийн хөдөлгүүр шинээр бүтээх MultiLangBench тест дээр GPT-6 Astra загвар 87.4 хувийн амжилт үзүүлсэн нь өмнөх GPT-5.6 Sol-ийн 26.8 хувиас мэдэгдэхүйц өссөн үзүүлэлт юм. Мөн GPT-6 Luna загвар 40.3 хувийн амжилт үзүүлсэн бөгөөд API зардал нь 78 хувиар бага гарчээ.\n\nТүүнчлэн COBOL кодыг өөр хэл рүү хөрвүүлэх тест дээр GPT-6.1 Sol загвар өндөр reasoning горимд 97.9 хувийн оновчтой ажилласан байна. Энэхүү сайжруулалт нь банк санхүү, дэд бүтцийн томоохон байгууллагуудад хуучин легаси системээ найдвартай шинэчлэх, өөр технологи руу хөрвүүлэх зардлыг үлэмж хэмжээгээр хэмнэх боломжийг олгож байна.",
+ "published": "2026-10-19T12:00:00Z",
+ "added": "2026-10-20T00:51:14Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

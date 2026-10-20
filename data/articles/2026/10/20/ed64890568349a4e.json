@@ -1,0 +1,17 @@
+{
+ "id": "ed64890568349a4e",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+ "title": "Copilot model policy API for enterprise, orgs, and teams",
+ "summary_en": "You can now use the REST API to retrieve and update Copilot model policies for enterprises, enterprise teams, enterprise apps, and organizations. What’s new GET and PATCH endpoints are now…",
+ "title_mn": "GitHub: Copilot загварын бодлогыг удирдах REST API гарлаа",
+ "summary_mn": "GitHub Copilot-ийн загваруудыг байгууллага, баг, аппын түвшинд удирдах зориулалттай GET болон PATCH бүхий REST API ерөнхий хэрэглээнд нэвтэрлээ.",
+ "body_mn": "GitHub компани enterprise, байгууллага, баг болон аппликейшнуудын түвшинд Copilot-ийн ашиглах загваруудыг удирдах REST API төгсгөлийн цэгүүдийг (endpoints) ерөнхий хэрэглээнд (GA) гаргалаа.\n\nЭнэхүү шинэчлэлтээр GET болон PATCH үйлдлүүд бүхий дөрвөн түвшний endpoint нээгдсэн бөгөөд томоохон байгууллагууд аль баг, аль аппликейшн ямар хиймэл оюуны загвар ашиглаж болохыг кодоор дамжуулан автоматжуулан удирдах боломжтой болж байна.\n\nАдминууд загварын эрхийг бүхэлд нь төвлөрсөн байдлаар удирдах эсвэл дэд багууддаа эрхийг шилжүүлэх бодлогыг API-аар дамжуулан уян хатан тохируулах боломжтой боллоо.",
+ "published": "2026-10-19T21:32:18Z",
+ "added": "2026-10-20T00:51:14Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

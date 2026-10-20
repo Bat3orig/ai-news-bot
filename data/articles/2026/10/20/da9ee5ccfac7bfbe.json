@@ -1,0 +1,17 @@
+{
+ "id": "da9ee5ccfac7bfbe",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Amazon Web Services (AWS)",
+ "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+ "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-22211-featured-image.png",
+ "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+ "summary_en": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom parsing, retry logic, or post-processing, using JSON Schema output format and strict tool use.",
+ "title_mn": "Amazon Bedrock дээрх Claude загварууд Structured Outputs дэмждэг боллоо",
+ "summary_mn": "Amazon Bedrock дахь бүх Claude загварт схемийн дагуу JSON үр дүн найдвартай буцаах Structured Outputs боломж албан ёсоор нэмэгдлээ.",
+ "body_mn": "Amazon Bedrock платформ дээрх Anthropic Claude-ийн бүх загварууд structured outputs буюу бүтцэд баригдсан өгөгдөл гаргах боломжийг дэмждэг боллоо. Энэхүү боломж нь bedrock-runtime болон bedrock-mantle төгсгөлийн цэгүүдэд нэгэн зэрэг нэвтэрсэн байна.\n\nХөгжүүлэгчид Boto3 эсвэл Messages API ашиглахдаа урьдчилан тодорхойлсон JSON схемийг дамжуулснаар загвар generation хийх явцдаа хязгаарлалт тавьж (constrained decoding), зөвхөн схемд нийцэх бүтцийг баталгаатай үүсгэнэ. Ингэснээр загварын хариуг JSON.parse() хийх үеийн алдаа арилж, дахин оролдлого (retry) хийх эсвэл тусгай задлагч бичих шаардлагагүй болж байна.\n\nЭнэхүү механизм нь шаардлагагүй нэмэлт токен үүсгэхээс сэргийлж зардлыг хэмнэх бөгөөд граммарын кэшийг 24 цагийн хугацаатай хадгалснаар эхний хүсэлтийн дараах дуудлагууд хамгийн бага сааталтай ажиллах давуу талтай.",
+ "published": "2026-10-19T23:32:19Z",
+ "added": "2026-10-20T00:51:14Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}
