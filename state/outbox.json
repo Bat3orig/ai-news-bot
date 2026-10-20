@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "9c15e014464735eb",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending JavaScript",
-   "source_label": "GitHub Trending JavaScript",
-   "url": "https://github.com/cloudflare/security-audit-skill",
-   "image": "https://opengraph.githubassets.com/d4ee78fca44b6a02bfcce5d7f16d45e8f7e0d3aa3f651ba4139bc8178b93da4a/cloudflare/security-audit-skill",
-   "title": "cloudflare/security-audit-skill",
-   "summary_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in Build your own vulnerability harness . The harness grew into a multi-stage, fleet-wide system; this skill is the single-repo starting…",
-   "title_mn": "cloudflare/security-audit-skill: AI кодинг агентуудад зориулсан аюулгүй байдлын аудитын ур чадвар",
-   "summary_mn": "Cloudflare компани кодын санд автомат аюулгүй байдлын шинжилгээ хийх чадвартай coding agent skill-ийг нээлттэй эхээр зарлалаа.",
-   "body_mn": "Cloudflare өөрийн дотоод системд эмзэг байдал илрүүлэх зорилгоор ашигладаг аргачлал, загвараасаа үндэслэн security-audit-skill төслийг олон нийтэд нээлттэй болголоо. Энэхүү хэрэгсэл нь ердийн AI кодинг агентуудыг аюулгүй байдлын аудит хийх тусгай мэргэжилтэн болгон хувиргадаг ур чадварын модуль юм.\n\nУг хэрэгсэл нь аудитыг зургаан үе шаттай зохион байгуулж, тусгаарлагдсан агентуудын тусламжтайгаар кодтой танилцах, эмзэг байдлын сэжигтэй хэсгүүдийг хайх, тэдгээрийг бодитоор баталгаажуулах зэрэг үйлдлийг шат дараатай хийдэг. Аудитын үр дүнг confirmed, needs_validation, rejected гэсэн тодорхой статус бүхий машинд уншигдахуйц бүтцээр гаргадаг байна.\n\nТөсөл нь JavaScript болон Node.js дээр суурилсан бөгөөд npx командын тусламжтайгаар шууд хэрэглэгчийн глобал түвшинд суулгах боломжтой. Код дээрээ пен-тест хийх эсвэл ерөнхий аюулгүй байдлын аудит гүйцэтгүүлэхийг хүссэн програм хангамжийн багуудад зориулагдсан.\n\nАшиглахын тулд кодын сангаа нээгээд дэмжигдсэн кодинг агентаасаа аудитын хүсэлт тавихад уг ур чадвар автоматаар идэвхжиж ажиллаж эхэлнэ.",
-   "published": "2026-10-19T21:53:46Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dae9f02535f7c22f",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending JavaScript",
-   "source_label": "GitHub Trending JavaScript",
-   "url": "https://github.com/addyosmani/agent-skills",
-   "image": "https://opengraph.githubassets.com/fb058c41bab66a85641dfdb8eb898a6969ad250564143b7c11be1df463c66d4b/addyosmani/agent-skills",
-   "title": "addyosmani/agent-skills",
-   "summary_en": "Production-grade engineering skills for AI coding agents. https://skills.addy.ie Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. DEFINE PLAN BUILD VERIFY REVIEW SHIP ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ │ Idea │ ───▶ │ Spec │ ───▶ │ Code │ ───▶ │ Test │ ───▶ │ QA │ ───▶ │ Go │ │Refine│ │ PRD │ │ Impl │ │Debug │ │ Gate │ │ Live │ └──────┘ └──────┘…",
-   "title_mn": "addyosmani/agent-skills: AI кодинг агентуудад зориулсан инженерийн шилдэг туршлагуудын багц",
-   "summary_mn": "Addy Osmani ахлах инженерүүдийн ажлын арга барил, чанарын хяналтыг AI агентуудад эзэмшүүлэх agent-skills хэмээх нээлттэй сан хөгжүүлжээ.",
-   "body_mn": "Google-ийн нэрт инженер Addy Osmani-ийн гаргасан agent-skills төсөл нь AI кодинг агентуудыг үйлдвэрлэлийн түвшний стандартын дагуу ажиллахад сургах зориулалттай ур чадваруудын багц юм. Туршлагатай инженерүүдийн ашигладаг ажлын урсгал, архитектурын шийдвэр, чанарын шалгууруудыг энд нэгтгэн системчилжээ.\n\nЭнэхүү санд хөгжүүлэлтийн бүхий л мөчлөгт тохирох 9 үндсэн slash командыг багтаасан байна. Жишээлбэл, /build команд нь төлөвлөгөөг боловсруулан автоматаар бүх даалгаврыг туршилт дээр суурилж (test-driven) нэг бүрчлэн коммит хийдэг бөгөөд ямар нэгэн эрсдэл эсвэл алдаа гармагц түр зогсож хяналтыг хүнд шилжүүлдэг.\n\nУг сан нь JavaScript болон нээлттэй ур чадварын стандартууд дээр тулгуурласан бөгөөд Claude Code, Cursor, Codex, Copilot, Cline зэрэг 70 гаруй төрлийн хөгжүүлэлтийн агентуудтай шууд зохицон ажиллах боломжтой.\n\nХөгжүүлэгчид өөрсдийн ашигладаг агентад npx командыг ашиглан ганцхан үйлдлээр уг ур чадваруудыг суулган төсөлдөө нэвтрүүлэх боломжтой юм.",
-   "published": "2026-10-19T21:53:46Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a25698ef8fddf33a",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/Kruk2/jasna",
-   "image": "https://opengraph.githubassets.com/1ed59c4ee406fc2befc24bb5367dee4e904767e070fbcdf2371e513ac4f11e1a/Kruk2/jasna",
-   "title": "Kruk2/jasna",
-   "summary_en": "Video restoration tool The only places to get a genuine License code for the supporter models are Buy Me a Coffee , Unifans , and for China the seller in the Chinese README . 支持者模型的正版许可证码只能通过 Buy Me a Coffee 、 Unifans 或 闲鱼 获取。 English | 日本語 | 中文 Jasna Jasna restores mosaics in videos and images. It is free, has a simple app and a command line, and runs on your GPU. Contents Start here What Jasna does What you need Quick start Help and community Supporting the project (supporter models) Advanced How Jasna works Command line All guides Benchmarks Licensing Acknowledgments What Jasna does Finds…",
-   "title_mn": "Kruk2/jasna: Видео болон зургийн мозайк арилгах GPU суурьтай нээлттэй хэрэгсэл",
-   "summary_mn": "Jasna нь видео болон зураг дээрх мозайк эффектийг хиймэл оюуны тусламжтайгаар сэргээж тодруулдаг нээлттэй эх бүхий Python төсөл юм.",
-   "body_mn": "Jasna төсөл нь зураг болон дүрс бичлэг дээр тавигдсан мозайкийг сэргээж, анхны нарийн деталь хэсгүүдийг хиймэл оюуны загваруудын тусламжтайгаар гаргаж авах зориулалттай хэрэгсэл юм. Уг систем нь графикийн интерфэйс (GUI) болон команд мөрийн (CLI) хувилбартай бөгөөд өөрийн төхөөрөмж дээр бие даан ажиллах боломжийг олгодог.\n\nБүх тооцоолол видеог уншихаас эхлээд хадгалах хүртэл бүхэлдээ хэрэглэгчийн график карт (GPU) дээр хийгддэг. Систем нь BasicVSR++, UNet болон LTX зэрэг диффузийн загваруудыг дэмждэг бөгөөд анхны удаа ажиллахдаа хэрэглэгчийн NVIDIA картны бүтцэд тохируулан загваруудыг урьдчилан бэлтгэдэг байна.\n\nТөслийн үндсэн код нь Python хэл дээр бичигдсэн бөгөөд AGPL-3.0 лицензтэй нээлттэй эх бүхий програм хангамж юм. Видео боловсруулалт, дүрс сэргээх алгоритм болон компьютерийн харааны чиглэлээр ажилладаг судлаачид, хөгжүүлэгчдэд туршилт хийхэд тохиромжтой.\n\nТөслийг GitHub-аас татаж аваад өөрийн GPU орчинд тохируулан ажиллуулж болох ба суурилуулсан CLI интерфэйсийг ашиглан автоматжуулсан дамжлагад нэгтгэх боломжтой.",
-   "published": "2026-10-19T21:53:46Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "32faae70661994ba",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/Comfy-Org/ComfyUI",
-   "image": "https://repository-images.githubusercontent.com/589831718/8894dcc0-5f53-4f3c-97f0-50d820b7779b",
-   "title": "Comfy-Org/ComfyUI",
-   "summary_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. https://www.comfy.org/ ComfyUI The most powerful and modular AI engine for content creation. ComfyUI is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output. Its powerful and modular node graph interface empowers creatives to generate images, videos, 3D models, audio, and more... ComfyUI natively supports the latest open-source state of the art models. It is by far the most optimized…",
-   "title_mn": "Comfy-Org/ComfyUI: Модульчлагдсан график интерфэйс бүхий AI контент бүтээх систем",
-   "summary_mn": "ComfyUI нь зураг, видео, аудио болон 3D контент үүсгэх загваруудыг зангилаат (node-graph) бүтцээр бүрэн хянах боломжийг олгодог хамгийн хүчирхэг нээлттэй платформ юм.",
-   "body_mn": "ComfyUI нь сүүлийн үеийн диффузийн загваруудыг хамгийн нарийн тохируулга, хяналттайгаар ажиллуулах боломжийг олгодог график интерфэйс бүхий нээлттэй систем юм. Хэрэглэгчид зангилаат бүтцийг (node graph) холбох замаар өөрийн хүссэн үе шатуудыг бүрдүүлж, зураг, видео, 3D модель болон аудио үүсгэх бүрэн автомат процессуудыг үүсгэдэг.\n\nУг төсөл нь NVIDIA, AMD ROCm, Apple Silicon, Intel болон Ascend зэрэг бараг бүх төрлийн график карт, үйлдлийн систем дээр ажиллах бүрэн чадвартай. Түүнчлэн энгийн хэрэглэгчдэд зориулсан desktop аппликейшн, хөгжүүлэгчдэд зориулсан comfy-cli болон төрөл бүрийн бие даасан багцуудыг байнга шинэчлэн гаргадаг.\n\nТехнологийн хувьд Python болон PyTorch дээр суурилсан бөгөөд маш өргөн нэмэлт нод (custom nodes) экосистемтэй. AI бүтээгдэхүүн хөгжүүлэгчид өөрсдийн автомат дамжлагыг API хэлбэрээр дуудаж backend системүүддээ ашиглахад маш тохиромжтой юм.\n\nШинээр ашиглаж буй хэрэглэгчид албан ёсны desktop аппликейшныг татаж авах эсвэл Python орчинд pip ашиглан уг хэрэгслийг хялбархан суулгаж туршиж болно.",
-   "published": "2026-10-19T21:53:46Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "626a5e4fcb233d8d",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/TauricResearch/TradingAgents",
-   "image": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1",
-   "title": "TauricResearch/TradingAgents",
-   "summary_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework https://arxiv.org/pdf/2412.20138 Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 TradingAgents: Multi-Agents LLM Financial Trading Framework News [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored from the first close after each decision, a note at start-up when a newer release is out, and a wheel attached to each GitHub release. [2026-10] TradingAgents v0.6.0 released with reports saved as one HTML page, a provider per model tier so the managers and analysts…",
-   "title_mn": "TauricResearch/TradingAgents: Санхүүгийн арилжааны олон агентийн нээлттэй систем",
-   "summary_mn": "TradingAgents нь бодит хөрөнгө оруулалтын компаниудын бүтцийг дуурайлган, зах зээлийн шинжилгээ болон арилжааны шийдвэр гаргадаг олон агентийн систем юм.",
-   "body_mn": "TauricResearch багаас хөрөнгө оруулалт, санхүүгийн арилжааны даалгавруудыг гүйцэтгэхэд зориулагдсан TradingAgents нээлттэй эхийн системийг танилцууллаа. Энэхүү фрэймворк нь бодит арилжааны фирмүүдийн ажиллах зарчмыг загварчлан бүтээгдсэнээрээ онцлогтой.\n\nСистем нь суурь шинжилгээний шинжээч, зах зээлийн мэдрэмжийн мэргэжилтэн, техникийн шинжээч, арилжаач болон эрсдэлийн удирдлагын баг зэрэг төрөлжсөн LLM агентуудыг зэрэг ажиллуулдаг. Эдгээр агентууд зах зээлийн нөхцөл байдалд өөр өөрийн үүргээр дүн шинжилгээ хийж, хамтран мэтгэлцэх замаар оновчтой стратегийг тодорхойлдог байна.\n\nТөсөл нь Python 3.11+ дээр суурилсан бөгөөд OpenAI, Azure OpenAI, AWS Bedrock зэрэг төлбөрт загваруудаас гадна Ollama, vLLM, LM Studio ашиглан дотооддоо ажилладаг локал загваруудыг дэмждэг. Санхүүгийн технологи, автоматжуулсан арилжаа болон AI агентуудын хамтын ажиллагааг судалдаг мэргэжилтнүүдэд зориулагдсан.\n\nТуршиж үзэхийн тулд виртуал орчин үүсгээд pip ашиглан багцыг суулгах эсвэл Docker Compose-оор шууд ажиллуулж, өөрийн LLM-ийн түлхүүрүүдээ тохируулан ашиглах боломжтой.",
-   "published": "2026-10-19T21:53:46Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ea87debe34dc2d35",
-   "subtopic": "gh-rust",
-   "source": "GitHub Trending Rust",
-   "source_label": "GitHub Trending Rust",
-   "url": "https://github.com/rubys/roundhouse",
-   "image": "https://opengraph.githubassets.com/45115b3a14ad99ed5790ee11d3b30f32b2ecaf285f08f0bf6374be65c7e8d1ff/rubys/roundhouse",
-   "title": "rubys/roundhouse",
-   "summary_en": "Rails as a specification; the deployment target is a build flag https://rubys.github.io/roundhouse/ Roundhouse Rails as a specification; deployment is a build flag. Roundhouse reads Ruby source — specifically, Rails applications — and produces standalone projects in other target languages. The deployment target (Rust or Swift binary, TypeScript bundle, Crystal or Go service, Elixir OTP app, Kotlin/JVM or C#/.NET service, Python project, browser bundle, or Spinel-compiled Ruby) becomes a compiler flag rather than a runtime choice. A roundhouse is the circular hub in a rail yard where engines…",
-   "title_mn": "rubys/roundhouse: Ruby on Rails төслийг бусад програмчлалын хэл рүү хөрвүүлэгч",
-   "summary_mn": "Roundhouse нь Rails аппликейшныг код болон өгөгдлийн баазыг нь асаахгүйгээр бүтнээр шинжилж, Rust, TypeScript, Go зэрэг хэлүүд рүү хөрвүүлдэг шинэ хэрэгсэл юм.",
-   "body_mn": "Roundhouse төсөл нь Ruby on Rails фрэймворкийг програмчлалын үзүүлэлт буюу техникийн тодорхойлолт болгон ашиглаж, хөгжүүлсэн кодоос бие даасан өөр хэлний төслүүдийг гарган авах зарчмыг хэрэгжүүлсэн хөрвүүлэгч юм. Хөгжүүлэгчид байршуулалтын орчноосоо хамааран Rust, TypeScript, Go, Elixir, Swift, Kotlin, C# эсвэл Python хэл рүү хөрвүүлэх тугийг тохируулахад л хангалттай.\n\nУг хэрэгсэл нь кодод ямар нэгэн төрлийн аннотаци бичихийг шаарддаггүй бөгөөд төслийн холбоос, өгөгдлийн моделиудын шинж чанарыг кодын сангаас бүрэн автомат маягаар (whole-program inference) тооцоолж гаргадаг. Тухайлбал, Mastodon-ийн 1100 гаруй файлуудыг өгөгдлийн сан болон серверийг асаалгүйгээр 1.5 секундийн дотор бүрэн шинжилж чаддаг байна.\n\nСистемийн үндсэн цөм нь Rust хэл дээр бичигдсэн тул асар хурдтай бөгөөд LSP серверийн дэмжлэг, MCP серверийн чадамжтай. Rails-ийн экосистемд байгаа төслүүдээ өндөр хурд шаардсан системийн түвшний хэлүүд рүү шилжүүлэх эсвэл урьдчилан хөрвүүлж (AOT) ажиллуулах хүсэлтэй инженерүүдэд нэн тустай.\n\nХөгжүүлэгчид roundhouse командыг ашиглан өөрийн Rails төсөл дээр статик шалгалт (check) хийж үзэх эсвэл заасан хэл рүүгээ шууд хөрвүүлж турших боломжтой юм.",
-   "published": "2026-10-19T21:53:46Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9820260cab2ea9a8",
-   "subtopic": "gh-rust",
-   "source": "GitHub Trending Rust",
-   "source_label": "GitHub Trending Rust",
-   "url": "https://github.com/claration/impactor",
-   "image": "https://opengraph.githubassets.com/df7a9432ed5fd0fbe49429a03d0fd752d588196f274da0fb260c3b50b45d2ca5/claration/impactor",
-   "title": "claration/impactor",
-   "summary_en": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor. Impactor Open-source, cross-platform, and feature rich iOS sideloading application. Supporting macOS, Linux [1] , and Windows [2] . Features User friendly and clean UI. Supports installing SideStore and LiveContainer properly. Supports Linux. Sign and sideload applications on iOS 9.0+ & Mac with your Apple ID. Installing with AppSync is supported. Installing with ipatool gotten ipa's is supported. Automatically disables updates from the App Store. Simple customization options for the app…",
-   "title_mn": "claration/impactor: iOS аппликейшнуудыг суулгах зориулалттай нээлттэй эх бүхий хэрэгсэл",
-   "summary_mn": "Impactor нь macOS, Linux болон Windows үйлдлийн системүүдээс Apple төхөөрөмж дээр аппликейшн суулгах (sideloading) боломж олгодог нээлттэй хэрэгсэл юм.",
-   "body_mn": "Impactor төсөл нь Apple-ийн Xcode хэрэгслийн ажиллах зарчмыг дуурайлган, гуравдагч этгээдийн iOS аппликейшнуудыг төхөөрөмж дээр бие даан гаднаас суулгах (sideloading) зориулалттай хөндлөн платформ програм юм. macOS, Linux болон Windows системүүдийг бүгдийг нь дэмждэгээрээ онцлогтой.\n\nУг програм нь хэрэглэгчийн Apple бүртгэлийг ашиглан хөгжүүлэгчийн гэрчилгээ үүсгэх, төхөөрөмжийг бүртгэх, тохирох provisioning profile татаж авах үйл ажиллагааг автоматаар зохицуулдаг. Дараа нь apple-codesign-rs санг ашиглан програмын багцад шаардлагатай эрх, засваруудыг хийж тоон гарын үсэг зурж суулгадаг байна.\n\nТөслийн гол хэсэг нь Rust хэл дээр бүтээгдсэн тул найдвартай ажиллагаатай, авсаархан хэмжээтэй бөгөөд MIT лицензтэйгээр бүрэн нээлттэй хөгжүүлэгдэж байна. iOS төхөөрөмжөө туршилтын зорилгоор ашигладаг, албан бус өөрчлөлттэй аппликейшн турших хүсэлтэй хөгжүүлэгчид болон сонирхогчдод тохиромжтой шийдэл юм.\n\nХэрэглэгчид GitHub-ийн releases хуудаснаас өөрийн үйлдлийн системд таарах хувилбарыг шууд татаж аваад гар утсаа кабелиар холбон ашиглах боломжтой.",
-   "published": "2026-10-19T21:53:46Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "28029a2140443bcb",
-   "subtopic": "gh-rust",
-   "source": "GitHub Trending Rust",
-   "source_label": "GitHub Trending Rust",
-   "url": "https://github.com/starship/starship",
-   "image": "https://repository-images.githubusercontent.com/178991158/17096280-8d4d-11e9-97e9-7fed5f61d6bf",
-   "title": "starship/starship",
-   "summary_en": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! https://starship.rs Website · Installation · Configuration The minimal, blazing-fast, and infinitely customizable prompt for any shell! Fast: it's fast – really really fast! 🚀 Customizable: configure every aspect of your prompt. Universal: works on any shell, on any operating system. Intelligent: shows relevant information at a glance. Feature rich: support for all your favorite tools. Easy: quick to install – start using it in minutes. Explore the Starship docs ▶ 🚀 Installation Prerequisites A Nerd Font…",
-   "title_mn": "starship/starship: Ямар ч shell-д зориулсан хурдан, уян хатан prompt",
-   "summary_mn": "Rust хэл дээр бичигдсэн Starship нь Bash, Zsh, Fish, PowerShell зэрэг бараг бүх shell дээр ажилладаг, маш хурдан бөгөөд уян хатан тохиргоо бүхий нээлттэй эхийн CLI prompt юм.",
-   "body_mn": "Starship нь аль ч үйлдлийн систем болон төрөл бүрийн shell дээр нэгэн жигд ажилладаг, минимал бөгөөд маш хурдан prompt хэрэгсэл юм. Уг төслийг Rust хэл дээр хөгжүүлсэн нь терминалын хариу үйлдлийг саатуулахгүй, хамгийн бага хугацаанд ажиллах боломжийг олгодог.\n\nЭнэхүү хэрэгсэл нь Bash, Zsh, Fish, PowerShell, Nushell, Elvish зэрэг өргөн хэрэглэгддэг бүх shell-ийг дэмждэг. Түүнчлэн Git салбар болон төлөв, идэвхтэй ашиглагдаж буй Node.js, Python, Rust зэрэг хэлний хувилбарууд, үүлэн үйлчилгээний context зэрэг хөгжүүлэгчид нэн чухал мэдээллийг тухайн агшинд ухаалгаар харуулдаг онцлогтой.\n\nХөгжүүлэгчид Starship-ийг төрөл бүрийн package manager-ээр хялбархан суулгаж, өөрийн shell-ийн тохиргооны файлд (жишээ нь ~/.bashrc эсвэл ~/.zshrc) ганц мөр код нэмээд л ашиглах боломжтой. Өөрийн хэв маягт тохируулан preset загварууд ашиглах эсвэл тохиргооны файлаар бүрэн өөрчлөх боломжтой тул олон төрлийн орчинд ажилладаг хөгжүүлэгчдэд нэн тохиромжтой.",
-   "published": "2026-10-19T21:53:46Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "1dbe22633003a2af",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/low-resource-programming-languages",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/1wQpFFie9sKfVWvApPYyn5/db28adb6a2dfdfdef39fb548fca8913d/low_resource_programming__SEO_Card__3_.png?w=1600&h=900&fit=fill",
-   "title": "Advancing coding in low‑resource programming languages",
-   "summary_en": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-   "title_mn": "OpenAI: Шинэ загварууд COBOL, Fortran зэрэг хэлүүдийг хөрвүүлэх чадвараа ахиуллаа",
-   "summary_mn": "OpenAI бага нөөцтэй COBOL, Fortran, Visual Basic зэрэг програмчлалын хэлүүдийг шинэчлэх, хөрвүүлэх чиглэлд загваруудынхаа чадварыг эрс сайжруулснаа зарлалаа.",
-   "body_mn": "OpenAI компани сургалтын өгөгдөл багатай COBOL, Fortran болон Visual Basic зэрэг хуучны програмчлалын хэлүүд дээр ажиллах загваруудынхаа чадварыг эрс ахиулснаа танилцууллаа. Эдгээр хэлүүд нь орчин үеийн хэлүүдтэй харьцуулахад баримтжуулалт хомс ч онлайн банкны системүүдийн 40 гаруй хувь, АТМ гүйлгээний 95 хувь, цөмийн реакторын аюулгүй байдлын шинжилгээ зэрэг чухал дэд бүтцүүдийг хангадаг байна.\n\nКомпани ахиц дэвшлийг хэмжих зорилгоор хоёр шинэ үнэлгээний тест (evaluation) гаргажээ. 20 өөр хэл дээр SQLite-тэй нийцтэй өгөгдлийн сангийн хөдөлгүүр шинээр бүтээх MultiLangBench тест дээр GPT-6 Astra загвар 87.4 хувийн амжилт үзүүлсэн нь өмнөх GPT-5.6 Sol-ийн 26.8 хувиас мэдэгдэхүйц өссөн үзүүлэлт юм. Мөн GPT-6 Luna загвар 40.3 хувийн амжилт үзүүлсэн бөгөөд API зардал нь 78 хувиар бага гарчээ.\n\nТүүнчлэн COBOL кодыг өөр хэл рүү хөрвүүлэх тест дээр GPT-6.1 Sol загвар өндөр reasoning горимд 97.9 хувийн оновчтой ажилласан байна. Энэхүү сайжруулалт нь банк санхүү, дэд бүтцийн томоохон байгууллагуудад хуучин легаси системээ найдвартай шинэчлэх, өөр технологи руу хөрвүүлэх зардлыг үлэмж хэмжээгээр хэмнэх боломжийг олгож байна.",
-   "published": "2026-10-19T12:00:00Z",
-   "added": "2026-10-20T00:51:14Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c4d5caa9ca539eec",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
-   "image": "https://github.blog/wp-content/uploads/2026/10/675076555-e8b71783-0511-4913-b6f3-dca3cf564538.jpg",
-   "title": "GitHub Copilot models deprecated on October 19, 2026",
-   "summary_en": "As of today, October 19, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). These…",
-   "title_mn": "GitHub Copilot зарим хуучин загваруудаа албан ёсоор халлаа",
-   "summary_mn": "GitHub өмнө нь зарласан хуваарийн дагуу 2026 оны 10-р сарын 19-нөөс эхлэн Copilot-ийн зарим загварын дэмжлэгийг бүрэн зогсоосноо мэдэгдлээ.",
-   "body_mn": "GitHub компани өнгөрсөн 9-р сарын 18-нд зарласан хуваарийн дагуу 2026 оны 10-р сарын 19-ний өдрөөс эхлэн зарим загваруудаа албан ёсоор deprecate хийж, үйлчилгээнээс гаргалаа. Үүнд Copilot Chat, inline edits, ask болон agent горимууд, түүнчлэн код автоматаар нөхөх үйлдлүүд хамаарч байна.\n\nХөгжүүлэгчид болон байгууллагын админууд өөрсдийн ажлын урсгал, интеграцуудаа одоогоор дэмжигдэж буй шинэ загварууд руу шилжүүлэх шаардлагатай. Copilot Enterprise админуудын хувьд удирдлагын тохиргооноос зөвшөөрөгдсөн загварын бодлогыг идэвхжүүлснээр VS Code болон github.com дээрх сонголтод шинэ загварууд гарч ирнэ.\n\nАшиглалтаас гарсан загваруудыг гараар устгах эсвэл хасах шаардлагагүй бөгөөд системээс автоматаар хасагдах юм.",
-   "published": "2026-10-19T21:27:10Z",
-   "added": "2026-10-20T00:51:14Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "ed64890568349a4e",
    "subtopic": "ai-devtools",
    "source": "GitHub Changelog",
@@ -317,6 +117,246 @@
    "added": "2026-10-20T05:35:33Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7acb9b065192473f",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Geeky Gadgets",
+   "url": "https://www.geeky-gadgets.com/microsoft-copilot-new-features-october/",
+   "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/10/copilot-premium-models-e1792483725446.jpg",
+   "title": "Microsoft Copilot Adds OpenAI GPT 6.1 and Anthropic Claude Opus 5.5",
+   "summary_en": "Microsoft Copilot introduces eight new features this October, including access to GPT 6.1 and Claude 5.5 models for Copilot Premium subscribers.",
+   "title_mn": "Microsoft Copilot нь Anthropic Claude Opus 5.5 болон OpenAI GPT 6.1 загваруудыг нэгтгэлээ",
+   "summary_mn": "Microsoft Copilot үйлчилгээнд Claude Opus 5.5 болон GPT 6.1 загварууд нэмэгдэж, хэрэглэгчдэд илүү дэвшилтэт боломжуудыг санал болгож байна.",
+   "body_mn": "Microsoft Copilot ажилтнуудын бүтээмжийг дээшлүүлэх, тохиргоог сайжруулах зорилгоор аравдугаар сарын шинэчлэлтээ гаргалаа. Энэхүү шинэчлэлтийн хүрээнд Anthropic-ийн Claude Opus 5.5 болон OpenAI-ийн GPT 6.1 зэрэг хамгийн сүүлийн үеийн хиймэл оюуны загваруудыг нэгтгэсэн байна. Эдгээр загварууд нь Copilot-д нарийн төвөгтэй асуултуудыг боловсруулах, өндөр чанартай контент бүтээхэд илүү өндөр түвшний туслалцаа үзүүлэх боломжийг олгож байна.\n\nШинэчлэлт нь зөвхөн хиймэл оюуны сайжруулалтаар хязгаарлагдахгүй бөгөөд PowerPoint програмын интерактив хяналтын самбар, Outlook-ийн имэйлийг чучлахаар эрэмбэлэх тохиргоо, Excel-ийн бодит цагийн өгөгдөл дүрслэх HTML самбарууд зэрэг олон шинэ боломжуудыг багтаажээ. Copilot Premium захиалгатай хэрэглэгчид Эдгээр дэвшилтэт боломжуудыг бүрэн ашиглах боломжтой юм.\n\nТүүнчлэн SharePoint болон OneDrive файл менежментийн шинэчлэлтүүд хийгдэж, багийн хамтын ажиллагааг илүү хялбар болгосон байна. Microsoft-ын энэхүү алхам нь Copilot-ийг хувь хүн болон багийн түвшинд ашиглах хамгийн олон талт туслах хэрэгсэл болгох зорилготой юм.",
+   "published": "2026-10-20T08:32:22Z",
+   "added": "2026-10-20T10:44:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5d1022c41923f4a4",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Healthcare Digital",
+   "url": "https://healthcare-digital.com/news/waters-integrating-anthropic-ai-into-laboratory-workflows",
+   "image": "https://assets.bizclikmedia.net/1200/b5accc6f151cfe82cbcdf90639ac9c80:27001e2628407d3d600a637ee7398f40/waters-lab.jpg.jpg",
+   "title": "Waters: Integrating Anthropic AI Into Laboratory Workflows",
+   "summary_en": "Waters Corporation’s Dave Leitham, Vice President of Informatics, says the “big win for scientists” from AI-enabled, automated lab workflows “is time”",
+   "title_mn": "Waters компани лабораторийн үйл ажиллагаандаа Anthropic-ийн AI технологиуд болон MCP-г нэгтгэлээ",
+   "summary_mn": "Waters Corporation компани Claude болон Model Context Protocol-ийг ашиглан лабораторийн багаж төхөөрөмжийг хиймэл оюунаар удирдах боломжийг олголоо.",
+   "body_mn": "Амьдралын шинжлэх ухаан болон оношилгооны салбарын тэргүүлэгч Waters Corporation компани хиймэл оюуныг лабораторийн багаж төхөөрөмжтэй шууд холбож, судлаачдад хүний оролцоо багатай туршилт хийх боломжийг бүрдүүлж эхэллээ. Үүний тулд тэд waters_connect мэдээллийн платформдоо Anthropic-ийн Model Context Protocol (MCP) стандартыг нэвтрүүлсэн Waters AI Link хэрэгслийг танилцууллаа.\n\nЭнэхүү интеграцийн тусламжтайгаар эрдэмтэд байгалийн хэл ашиглан Claude болон Claude Science агентуудаар дамжуулан Waters багаж төхөөрөмжийг удирдах, ажлын урсгалыг зохион байгуулах боломжтой болж байна. AI Link нь аргачлал боловсруулах, өгөгдөл боловсруулах, дээж бэлтгэх системүүдийг хооронд нь уялдуулах зэрэг олон төрлийн ажлыг гүйцэтгэх чадвартай юм. Энэ нь тооцооллын судалгаа болон бодит туршилтын хоорондох зайг ойртуулах зорилготой ажээ.\n\nMөн Waters компани нь хиймэл оюуны агентуудад физик лабораторийн тоног төхөөрөмжийг аюулгүйгээр удирдах боломжийг олгох зорилготой Anthropic-ийн Model Hardware Standard (MHS) судалгааны хөтөлбөрт нэгджээ. Энэхүү шинэ технологи нь эм зүйн судалгаа болон чанарын хяналтын үйл явцыг хурдасгахад чухал хувь нэмэр оруулах юм.",
+   "published": "2026-10-20T10:00:46Z",
+   "added": "2026-10-20T10:44:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0b22ca37fd3884c9",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/anthropics/claude-code-action",
+   "image": "https://opengraph.githubassets.com/6c69b9c442d908322ae06263244173c10d318c6a18304a02379bcad1f782564b/anthropics/claude-code-action",
+   "title": "anthropics/claude-code-action",
+   "summary_en": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether responding to @claude mentions, issue assignments, or executing automation tasks with explicit prompts. It supports multiple authentication methods including Anthropic direct API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features 🎯 Intelligent Mode Detection : Automatically selects the appropriate execution mode…",
+   "title_mn": "anthropics/claude-code-action: GitHub PR болон issue-д зориулсан Claude Code үйлдлийн хэрэгсэл",
+   "summary_mn": "GitHub дээр Claude Code ашиглан PR болон issue-д автомат хариулт өгөх, код өөрчлөх үйлдэл хийх GitHub Action төсөл.",
+   "body_mn": "Энэхүү төсөл нь GitHub-ийн pull request болон issue-д код бичих өөрчлөлт оруулах, асуултад хариулах зорилготой Claude Code үйлдлийн хэрэгсэл юм. @claude гэж дурдах, issue оноох эсвэл автоматжуулалтын даалгавар өгөх үед автоматаар ажиллах чадвартай.\n\nЭнэхүү хэрэгсэл нь Anthropic API key, Amazon Bedrock, Google Vertex AI болон Microsoft Foundry зэрэг олон төрлийн баталгаажуулалтын аргуудыг дэмждэг. Terminal дээр claude ажиллуулаад /install-github-app команчаар хялбархан тохируулах боломжтой.\n\nTypeScript болон GitHub Actions ашиглан бүтээгдсэн энэхүү төсөл нь хөгжүүлэгчдийн ажлын урсгалыг автоматжуулах, код хянах процессыг хурдасгахад чиглэгдсэн бөгөөд MIT лицензтэйгээр нээлттэй хөгжиж байна.",
+   "published": "2026-10-20T10:44:38Z",
+   "added": "2026-10-20T10:44:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5fce3c914fe93bcc",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/koala73/worldmonitor",
+   "image": "https://repository-images.githubusercontent.com/1130564872/59ff0927-deb4-4941-8cbc-b68cbe060417",
+   "title": "koala73/worldmonitor",
+   "summary_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface https://worldmonitor.app World Monitor 简体中文 | 日本語 | Русский Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. Documentation · Releases · Contributing Ways to Use It Surface Get it Docs Web app worldmonitor.app and the tech, finance, commodity, happy and energy variants Getting Started Desktop app (Tauri)…",
+   "title_mn": "koala73/worldmonitor: Хиймэл оюунаар ажилладаг бодит цагийн дэлхийн мэдээллийн хяналтын самбар",
+   "summary_mn": "Геополитик, санхүү, дэд бүтцийн мэдээллийг бодит цаг хугацаанд нэгтгэн харуулах AI суурьтай хяналтын самбар болон CLI хэрэгсэл.",
+   "body_mn": "WorldMonitor нь дэлхий дахины мэдээ мэдээлэл, геополитикийн мониторинг, зах зээл, зөрчилдөөн болон дэд бүтцийн өөрчлөлтийг нэг дор цуглуулж харуулдаг хиймэл оюун ухаант хяналтын самбар юм. Веб интерфэйсээс гадна terminal дээр шууд ажиллах боломжтой бөгөөд газрын зураг, санхүүгийн зах зээл, нислэгийн мэдээлэл зэргийг API түлхүүргүйгээр харуулдаг.\n\nЭнэхүү төсөл нь агентууд болон скриптүүдэд зориулсан MCP сервер (Streamable HTTP), REST API, албан ёсны npm багц болон Python, Ruby, Go хэлний SDK-уудыг дэмждэг. Мөн Wingbits-ийн нислэгийн өгөгдлийг ашиглан дэлхийн нислэгийн хөдөлгөөнийг хянах боломжтой.\n\nTypeScript болон орчин үеийн веб технологиор бүтээгдсэн уг хэрэгсэл нь мэдээллийн нэгдсэн санал болгодог бөгөөд AGPL-3.0 лицензтэйгээр нээлттэй хөгжүүлэгдэж байна.",
+   "published": "2026-10-20T10:44:38Z",
+   "added": "2026-10-20T10:44:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "26de699d3e5c651e",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/tt-a1i/archify",
+   "image": "https://repository-images.githubusercontent.com/1211139949/3452b694-f45d-465c-9ef4-9632ea5582c9",
+   "title": "tt-a1i/archify",
+   "summary_en": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. https://archify.si Turn anything you want to understand, plan, or share into an interactive visual. Official channels： archify.si · GitHub Archify is free and open source. Third-party online services and paid plans are operated by their respective providers and do not represent Archify. Service details → Start with an idea, a question, or a plan. Describe it to your AI agent, and Archify turns it into an interactive HTML you can explore, customize, and share. From travel…",
+   "title_mn": "tt-a1i/archify: AI агентын тусламжтайгаар кодын санг интерактив архитектурын зураглал болгох хэрэгсэл",
+   "summary_mn": "Хиймэл оюуны агентаар дамжуулан дурын кодын санг харилцан үйлдэл бүхий интерактив HTML архитектурын зураглал болгон хувиргах хэрэгсэл.",
+   "body_mn": "Archify нь санаа болон কোдын санг AI агентын тусламжтайгаар интерактив HTML архитектурын зураглал болгон хөрвүүлдэг нээлттэй эх сурвалжтай хэрэгсэл юм. Cursor, Claude Code, Codex CLI зэрэг хэрэгслүүдтэй хамтран ажиллах чадвартай бөгөөд ганц өгүүлбэрээр системээ зураглах боломжийг олгодог.\n\nЭнэхүү хэрэгсэл нь зөвхөн зураглал хийхээс гадна асуултад хариулах хуудас үүсгэх, дараалсан алхмууд болон код холбох боломжтой. Kimi Work болон бусад платформ дээр plugin хэлбэрээр ашиглах боломжтой бөгөөд үр дүн нь бие даасан HTML файл хэлбэрээр хадгалагддаг.\n\nJavaScript болон орчин үеийн веб технологиор бүтээгдсэн уг төсөл нь хөгжүүлэгчдэд системийн архитектурыг хялбархан ойлгох, баг хамт олноороо хэлэлцэхэд зориулагдсан болно.",
+   "published": "2026-10-20T10:44:38Z",
+   "added": "2026-10-20T10:44:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bf0e69460c663887",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/YuJunZhiXue/dsh-purge",
+   "image": "https://opengraph.githubassets.com/1a26759403790f520c8a647704b16a38b99cf076858a9ed1c4399c4b1552d6db/YuJunZhiXue/dsh-purge",
+   "title": "YuJunZhiXue/dsh-purge",
+   "summary_en": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 ⚔️ DeepSeek Harness 网络安全红队工具（dsh-purge） Version 1.1.71 DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 中文 · English 我直说。 我被裁了。现在彻底没工作，也没有稳定收入。这个仓库一直是我业余在写。后面为了吃饭，我可能得去跑外卖，不一定还能天天改这个。 从今天起到 2026 年 10 月 26 日，我征集七天。 想留、想骂、想投广告、想赞助，写到 Issue #130 。我会看。不保证每条都回。 10 月 27 日起，我把这个仓库关上。 GitHub 上我不再发新版本。后面的包我只发在这个频道： t.me/LLM_PoJia/271 。你们手里已经下过的旧版本还能用。协议我也改了，现在是商业许可，下面有写。 官方 Web…",
+   "title_mn": "YuJunZhiXue/dsh-purge: DeepSeek Harness-д зориулсан халдлагаас хамгаалах болон профайл цэвэрлэх залгаас",
+   "summary_mn": "YuJunZhiXue/dsh-purge нь DeepSeek Harness-д зориулсан торлог аюулгүй байдлын улаан багийн үнэлгээ хийх залгаас юм. Энэ нь албан ёсны Web болон ширээний EXE хувилбарыг дэмждэг.",
+   "body_mn": "YuJunZhiXue/dsh-purge нь DeepSeek Harness хэрэгсэлд зориулагдсан сүлжээний аюулгүй байдлын улаан багийн үнэлгээ хийх тусгай залгаас юм. Энэхүү хэрэгсэл нь албан ёсны Web болон ширээний клиент (EXE) хувилбаруудыг хоёуланг нь дэмжиж, prompt болон тохиргоог хянах боломжийг олгодог.\n\nГол онцлогууд нь Harness-ийн ажиллах явц дахь prompt, зөвшөөрлийн цонх, сав болон сессийн форматыг өөрчилж, модель болон хост хоорондын ялгааг салгаж шалгахад тусална. Уг төсөл нь Node.js (≥18 эсвэл Windows дээр ≥22) шаардах бөгөөд npm дээр байршаагүй тул GitHub архиваас суулгах шаардлагатай.\n\nУг залгаас нь хөгжүүлэгчдэд өөрсдийн суулгасан DeepSeek орчиндоо хяналттай үнэлгээ хийх, бодлогын хэрэгжилтийг шалгах боломжийг олгодогоороо онцлогтой. Зохиогч уг кодыг коммерциал тусгай лицензэд шилжүүлж байгаагаа мэдэгджээ.",
+   "published": "2026-10-20T10:44:38Z",
+   "added": "2026-10-20T10:44:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "668711a6e1072822",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/headroomlabs-ai/headroom",
+   "image": "https://opengraph.githubassets.com/966147e65b6465ce4683e18b6d52164710ddb8b5eb74ae3aa3567cba134be3d0/headroomlabs-ai/headroom",
+   "title": "headroomlabs-ai/headroom",
+   "summary_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. https://docs.headroomlabs.ai/docs Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the live index · full docs blob . Headroom compresses everything your AI agent reads — tool outputs, logs, RAG chunks, files, and conversation history — before it reaches the LLM. Same answers, fraction of the tokens. Compression runs on your…",
+   "title_mn": "headroomlabs-ai/headroom: AI агент болон LLM-ийн токенийг хэмнэх шахагч прокси",
+   "summary_mn": "headroomlabs-ai/headroom нь AI агентуудын унших мэдээллийг LLM-д хүрэхээс нь өмнө шахдаг орон нутгийн прокси хэрэгсэл юм. Ингэснээр үр дүнгээ алдалгүйгээр токений зарцуулалтыг эрс бууруулна.",
+   "body_mn": "headroomlabs-ai/headroom нь хөгжүүлэгчдэд зориулсан AI агент болон LLM-үүдийн хэрэглээг оновчлох зорилготой орон нутгийн прокси хэрэгсэл юм. Энэхүү хэрэгсэл нь агентын унших бүх өгөгдөл болох хэрэгслийн үр дүн, лог, RAG хэсэг, файлууд болон ярианы түүхийг LLM руу илгээхээс өмнө шахаж багасгадаг.\n\nГол боломжуудаас дурдвал: шахалт нь бүрэн таны компьютер дээр ажиллах тул ямар нэгэн файл эсвэл промпт гадагшаа алдагдахгүй; Claude Code-д зориулсан Serena код чиглүүлэгчийг дэмждэг; Anthropic болон OpenAI-ийн API хүсэлтүүдтэй бүрэн нийцдэг. Мөн Python PyPI багцаар дамжуулан хялбархан суулгаж ашиглах боломжтой.\n\nЭнэ нь токен хэмнэх шаардлагатай хөгжүүлэгчид болон том хэмжээний AI агент ажиллуулдаг багуудад API зарцуулалтыг бууруулах чухал шийдэл болж өгдөг.",
+   "published": "2026-10-20T10:44:38Z",
+   "added": "2026-10-20T10:44:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6ea9960b31645056",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/shiyu-coder/Kronos",
+   "image": "https://opengraph.githubassets.com/04b1d757ea745e8779243387705d21f425c8ce464f3e3cece07866358292b39d/shiyu-coder/Kronos",
+   "title": "shiyu-coder/Kronos",
+   "summary_en": "Kronos: A Foundation Model for the Language of Financial Markets Kronos: A Foundation Model for the Language of Financial Markets Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from over 45 global exchanges . 📰 News 🚩 [2025.11.10] Kronos has been accpeted by AAAI 2026. 🚩 [2025.08.17] We have released the scripts for fine-tuning! Check them out to adapt Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv ! 📜 Introduction Kronos is a family of…",
+   "title_mn": "shiyu-coder/Kronos: Санхүүгийн лааны суурьт суурилсан анхны нээлттэй эх үүсвэртэй суурь модель",
+   "summary_mn": "shiyu-coder/Kronos нь дэлхийн 48 гаруй биржийн өгөгдлөөр сургагдсан, санхүүгийн зах зээлийн K-шугамд зориулсан анхны нээлттэй эх үүсвэртэй суурь модель юм.",
+   "body_mn": "shiyu-coder/Kronos нь санхүүгийн зах зээлийн өвөрмөц, өндөр чимээ шуугиантай шинж чанаруудыг зохицуулахад зориулагдсан decoder-only төрлийн суурь загваруудын гэр бүл юм. Энэ нь ерөнхий зориулалтын цаг хугацааны цувааны загваруудаас ялгаатай нь санхүүгийн мэдээллийн онцлог хэлбэрийг боловсруулахын тулд шинэ хоёр үе шаттай тогтолцоог ашигладаг.\n\nГол онцлогуудад Hugging Face Hub дээрээс хялбархан авах боломжтой урьдчилан сургагдсан загварууд, KronosPredictor ашиглан хэдхэн мөр код бичин урьдчилан таамаглал хийх боломж, мөн олон багц өгөгдлийг GPU ашиглан зэрэг боловсруулах чадвар багтана. Хөгжүүлэгчид өөрсдийн өгөгдөл дээр модельд нарийвчилсан сургалт (finetuning) хийх бүрэн дамжлагыг ашиглах боломжтой.\n\nЭнэхүү төсөл нь санхүүгийн технологын салбарт квантитэйтив судалгаа хийж буй хөгжүүлэгч болон судлаачдад зориулагдсан бөгөөд загварын таамаглах үр дүнг хянах шууд демо хувилбартай юм.",
+   "published": "2026-10-20T10:44:38Z",
+   "added": "2026-10-20T10:44:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c7c9684abfb72529",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/usestrix/strix",
+   "image": "https://opengraph.githubassets.com/46950911cc632ca8a58be4152c4d1740b196ffde8555d56020fe7d31a4e1509d/usestrix/strix",
+   "title": "usestrix/strix",
+   "summary_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. https://strix.ai Strix The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities. Tip New! Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - Get started with no setup required . Strix Overview Strix are autonomous AI penetration testing agents that act just like real hackers - they run your code dynamically, find vulnerabilities…",
+   "title_mn": "usestrix/strix: Автоматжуулсан халдлага турших бие даасан AI агентууд",
+   "summary_mn": "usestrix/strix нь хөгжүүлэгчид болон аюулгүй байдлын багуудад зориулсан, кодонд динамикаар туршилт хийж эмзэг байдлыг илрүүлдэг бие даасан AI pentesting агент юм.",
+   "body_mn": "usestrix/strix нь жинхэнэ хакерууд шиг ажиллаж, кодыг динамикаар ажиллуулан эмзэг байдлыг олж, бодит нотолгоогоор баталгаажуулдаг бие даасан AI нэвтрэлтийн туршилтын агентууд юм. Энэ нь GitHub Actions болон CI/CD дамжлагуудтай нягт интеграцчилснаар бүтээгдэхүүнийг хэрэглэгчдэд хүрэхээс нь өмнө аюулгүй байдлыг автоматаар шалгах боломжийг олгодог.\n\nГол боломж ба хэрэгслүүд: OWASP Top 10 болон бусад олон төрлийн эмзэг байдлыг илрүүлэх дэвшилтэт олон агентын зохион байгуулалт; Claude Code, Cursor, Codex зэрэг агентуудад шууд суулгаж ашиглах боломжтой SKILL.md дэмжлэг; орон нутгийн хяналтын самбар (dashboard) болон CLI интерфейс.\n\nЭнэхүү хэрэгсэл нь гараар pentest хийх цагийг хэмнэж, код болон веб аппликейшнуудынхаа аюулгүй байдлыг тасралтгүй хангах хүсэлтэй хөгжүүлэгчдэд төгс тохирно.",
+   "published": "2026-10-20T10:44:38Z",
+   "added": "2026-10-20T10:44:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "93f819ca4f0c622b",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/smg-project/smg",
+   "image": "https://opengraph.githubassets.com/69705cecbebdfc661da5a2c415d28bac83799e5138f8cfb0dd00392a0c8633d6/smg-project/smg",
+   "title": "smg-project/smg",
+   "summary_en": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth. https://lightseek.org/smg Shepherd Model Gateway Engine-agnostic, high-performance model-routing gateway for large-scale LLM deployments. SMG centralizes worker lifecycle management, balances traffic across self-hosted engines and cloud providers, and gives you enterprise-grade control over…",
+   "title_mn": "smg-project/smg: Өндөр бүтээмжтэй, хөдөлгүүр хамааралгүй LLM чиглүүлэлтийн шлюз",
+   "summary_mn": "smg-project/smg нь том хэмжээний LLM суурилуулалтад зориулсан, ачаалал хуваарилах өндөр хурдтай, хөдөлгүүр хамааралгүй загвар чиглүүлэлтийн шлюз юм.",
+   "body_mn": "smg-project/smg нь Rust хэл дээр бичигдсэн бөгөөд vLLM, TRT-LLM, SGLang, OpenAI, Gemini зэрэг олон төрлийн LLM хөдөлгүүрүүдтэй бүрэн нийцдэг ачаалал хуваарилах шлюз юм. Энэ нь ажилчдын амьдралын мөчлөгийг төвлөрсөн байдлаар удирдах, олон түрээслэгчийн аюулгүй байдал, чатын түүх хадгалах болон ажиглах боломжийг нэг цэгээс олгодог.\n\nГол боломжуудад OpenAI болон Anthropic API-ийн бүрэн дэмжлэг, салбартаа анхдагч gRPC дамжлага, KV cache-д суурилсан ухаалаг чиглүүлэлт, MCP хэрэгслийг зөвшөөрлийн бодлоготойгоор гүйцэтгэх чадвар багтана. Мөн хөгжүүлэгчид WebSocket болон WebRTC протоколоор дамжуулан бодит цагийн аудио болон чатын хүсэлтүүдийг удирдах боломжтой.\n\nЭнэхүү төсөл нь өөрсдийн серверийн дэд бүтцэд олон LLM загваруудыг зэрэг ажиллуулж, ачааллыг тэнцвэржүүлэх шаардлагатай байгууллага болон инженерүүдэд нэн тохиромжтой шийдэл юм.",
+   "published": "2026-10-20T10:44:38Z",
+   "added": "2026-10-20T10:44:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1f8d61fe04f2cb52",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/oven-sh/bun",
+   "image": "https://opengraph.githubassets.com/c4664e4de6726078d0d685316078db9437d144060386e93a9349be627eba0534/oven-sh/bun",
+   "title": "oven-sh/bun",
+   "summary_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one https://bun.com Bun Documentation • Discord • Issues • Roadmap Read the docs → What is Bun? Bun is an all-in-one toolkit for JavaScript and TypeScript apps. It ships as a single executable called bun . At its core is the Bun runtime , a fast JavaScript runtime designed as a drop-in replacement for Node.js . It's written in Rust and powered by JavaScriptCore under the hood, dramatically reducing startup times and memory usage. bun run index.tsx # TS and JSX supported out-of-the-box The bun command-line…",
+   "title_mn": "oven-sh/bun: JavaScript болон TypeScript-д зориулсан хурдан бүхнийг нэг дор багтаасан хэрэгсэл",
+   "summary_mn": "oven-sh/bun нь JavaScript/TypeScript хөгжүүлэлтэд зориулсан маш хурдан ажиллах орчин, багц менежер, тест ажиллуулагч бүхий нэгдмэл хэрэгсэл юм.",
+   "body_mn": "oven-sh/bun нь Node.js-ийн оронд шууд ашиглаж болох, Rust хэл дээр бичигдсэн JavaScript болон TypeScript-ийн өндөр хурдтай ажиллах орчин юм. Энэ нь JavaScriptCore хөдөлгүүрийг ашигладаг тул аппликейшн эхлэх хугацааг эрс багасгаж, санах ойн зарцуулалтыг оновчтой болгодог.\n\nУг хэрэгсэл нь зөвхөн ажиллах орчин төдийгүй тест ажиллуулагч, скрипт удирдагч, мөн Node.js-тэй нийцтэй багц менежерийг өөртөө нэгтгэсэн байдаг. Хөгжүүлэгчид олон мянган node_modules санд найдахгүйгээр Bun-ийн суурилуулсан хурдан хэрэгслүүдийг ашиглан төслөө хөгжүүлэх боломжтой.\n\nBun нь Linux, macOS, болон Windows үйлдлийн системүүдийг дэмждэг бөгөөд вэб хөгжүүлэлтийн бүтээмжийг эрс дээшлүүлэх зорилготойгоор бүтээгдсэн.",
+   "published": "2026-10-20T10:44:38Z",
+   "added": "2026-10-20T10:44:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "adfee1574336a2e8",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/leepokai/Codync",
+   "image": "https://repository-images.githubusercontent.com/1185223752/66ad7f0e-c25f-4a32-8f51-48915983be54",
+   "title": "leepokai/Codync",
+   "summary_en": "The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust. https://www.codync.dev Codync The open-source Grok Bot alternative. Your coding agents, as teammates you can message. Website · Compare · Launch film Free, open source, no paid tier. A ⭐ is how others find it. macOS: Apple Silicon + Intel (DMG) · Windows: x64 installer · Linux: AppImage · All downloads Codync turns the coding agents on your computer — Claude Code…",
+   "title_mn": "leepokai/Codync: AI код бичих агентуудыг багийн гишүүн шиг холбох нээлттэй эх үүсвэртэй хэрэгсэл",
+   "summary_mn": "leepokai/Codync нь Claude Code, Cursor, Codex зэрэг кодын агентуудыг гар утас болон компьютерээсээ мессеж бичиж удирдах боломжийг олгодог нээлттэй эх үүсвэртэй хэрэгсэл юм.",
+   "body_mn": "leepokai/Codync нь хөгжүүлэгчдийн компьютер дээр ажилладаг Claude Code, Codex, Cursor, Gemini болон бусад олон арван AI агентуудыг утсаараа эсвэл алсаас мессеж бичиж хамтран ажиллах багийн гишүүн шиг удирдах боломжийг олгодог нээлттэй эх үүсвэртэй төсөл юм. Энэ нь ямар нэгэн төлбөргүйгээр бүрэн үнэ төлбөргүй ажиллана.\n\nГол боломжуудад macOS, Windows, Linux системүүдэд зориулсан rust дээр суурилсан хост апп; iPhone болон бусад төхөөрөмжөөс QR код уун холбогдох боломж; агентууд айнаа дуусгах эсвэл зөвшөөрөл хүсэх үед мэдэгдэл илгээх систем багтана. Мөн Cloudflare relay-ээр дамжуулан төгсгөл хоорондын шифрлэлттэйгээр алсаас аюулгүй холбогдох боломжтой.\n\nЭнэхүү хэрэгсэл нь AI кодын агентуудыг байнга хянаж, гар утаснаасаа даалгавар өгч ажлаа хөнгөвчлөх хүсэлтэй хөгжүүлэгчдэд нэн тохиромжтой шийдэл юм.",
+   "published": "2026-10-20T10:44:38Z",
+   "added": "2026-10-20T10:44:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]

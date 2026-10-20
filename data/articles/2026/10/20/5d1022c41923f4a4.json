@@ -1,0 +1,17 @@
+{
+ "id": "5d1022c41923f4a4",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Healthcare Digital",
+ "url": "https://healthcare-digital.com/news/waters-integrating-anthropic-ai-into-laboratory-workflows",
+ "image": "https://assets.bizclikmedia.net/1200/b5accc6f151cfe82cbcdf90639ac9c80:27001e2628407d3d600a637ee7398f40/waters-lab.jpg.jpg",
+ "title": "Waters: Integrating Anthropic AI Into Laboratory Workflows",
+ "summary_en": "Waters Corporation’s Dave Leitham, Vice President of Informatics, says the “big win for scientists” from AI-enabled, automated lab workflows “is time”",
+ "title_mn": "Waters компани лабораторийн үйл ажиллагаандаа Anthropic-ийн AI технологиуд болон MCP-г нэгтгэлээ",
+ "summary_mn": "Waters Corporation компани Claude болон Model Context Protocol-ийг ашиглан лабораторийн багаж төхөөрөмжийг хиймэл оюунаар удирдах боломжийг олголоо.",
+ "body_mn": "Амьдралын шинжлэх ухаан болон оношилгооны салбарын тэргүүлэгч Waters Corporation компани хиймэл оюуныг лабораторийн багаж төхөөрөмжтэй шууд холбож, судлаачдад хүний оролцоо багатай туршилт хийх боломжийг бүрдүүлж эхэллээ. Үүний тулд тэд waters_connect мэдээллийн платформдоо Anthropic-ийн Model Context Protocol (MCP) стандартыг нэвтрүүлсэн Waters AI Link хэрэгслийг танилцууллаа.\n\nЭнэхүү интеграцийн тусламжтайгаар эрдэмтэд байгалийн хэл ашиглан Claude болон Claude Science агентуудаар дамжуулан Waters багаж төхөөрөмжийг удирдах, ажлын урсгалыг зохион байгуулах боломжтой болж байна. AI Link нь аргачлал боловсруулах, өгөгдөл боловсруулах, дээж бэлтгэх системүүдийг хооронд нь уялдуулах зэрэг олон төрлийн ажлыг гүйцэтгэх чадвартай юм. Энэ нь тооцооллын судалгаа болон бодит туршилтын хоорондох зайг ойртуулах зорилготой ажээ.\n\nMөн Waters компани нь хиймэл оюуны агентуудад физик лабораторийн тоног төхөөрөмжийг аюулгүйгээр удирдах боломжийг олгох зорилготой Anthropic-ийн Model Hardware Standard (MHS) судалгааны хөтөлбөрт нэгджээ. Энэхүү шинэ технологи нь эм зүйн судалгаа болон чанарын хяналтын үйл явцыг хурдасгахад чухал хувь нэмэр оруулах юм.",
+ "published": "2026-10-20T10:00:46Z",
+ "added": "2026-10-20T10:44:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

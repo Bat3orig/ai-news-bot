@@ -1,0 +1,17 @@
+{
+ "id": "26de699d3e5c651e",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/tt-a1i/archify",
+ "image": "https://repository-images.githubusercontent.com/1211139949/3452b694-f45d-465c-9ef4-9632ea5582c9",
+ "title": "tt-a1i/archify",
+ "summary_en": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. https://archify.si Turn anything you want to understand, plan, or share into an interactive visual. Official channels： archify.si · GitHub Archify is free and open source. Third-party online services and paid plans are operated by their respective providers and do not represent Archify. Service details → Start with an idea, a question, or a plan. Describe it to your AI agent, and Archify turns it into an interactive HTML you can explore, customize, and share. From travel…",
+ "title_mn": "tt-a1i/archify: AI агентын тусламжтайгаар кодын санг интерактив архитектурын зураглал болгох хэрэгсэл",
+ "summary_mn": "Хиймэл оюуны агентаар дамжуулан дурын кодын санг харилцан үйлдэл бүхий интерактив HTML архитектурын зураглал болгон хувиргах хэрэгсэл.",
+ "body_mn": "Archify нь санаа болон কোдын санг AI агентын тусламжтайгаар интерактив HTML архитектурын зураглал болгон хөрвүүлдэг нээлттэй эх сурвалжтай хэрэгсэл юм. Cursor, Claude Code, Codex CLI зэрэг хэрэгслүүдтэй хамтран ажиллах чадвартай бөгөөд ганц өгүүлбэрээр системээ зураглах боломжийг олгодог.\n\nЭнэхүү хэрэгсэл нь зөвхөн зураглал хийхээс гадна асуултад хариулах хуудас үүсгэх, дараалсан алхмууд болон код холбох боломжтой. Kimi Work болон бусад платформ дээр plugin хэлбэрээр ашиглах боломжтой бөгөөд үр дүн нь бие даасан HTML файл хэлбэрээр хадгалагддаг.\n\nJavaScript болон орчин үеийн веб технологиор бүтээгдсэн уг төсөл нь хөгжүүлэгчдэд системийн архитектурыг хялбархан ойлгох, баг хамт олноороо хэлэлцэхэд зориулагдсан болно.",
+ "published": "2026-10-20T10:44:38Z",
+ "added": "2026-10-20T10:44:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

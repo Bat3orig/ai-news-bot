@@ -1,0 +1,17 @@
+{
+ "id": "5fce3c914fe93bcc",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/koala73/worldmonitor",
+ "image": "https://repository-images.githubusercontent.com/1130564872/59ff0927-deb4-4941-8cbc-b68cbe060417",
+ "title": "koala73/worldmonitor",
+ "summary_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface https://worldmonitor.app World Monitor 简体中文 | 日本語 | Русский Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. Documentation · Releases · Contributing Ways to Use It Surface Get it Docs Web app worldmonitor.app and the tech, finance, commodity, happy and energy variants Getting Started Desktop app (Tauri)…",
+ "title_mn": "koala73/worldmonitor: Хиймэл оюунаар ажилладаг бодит цагийн дэлхийн мэдээллийн хяналтын самбар",
+ "summary_mn": "Геополитик, санхүү, дэд бүтцийн мэдээллийг бодит цаг хугацаанд нэгтгэн харуулах AI суурьтай хяналтын самбар болон CLI хэрэгсэл.",
+ "body_mn": "WorldMonitor нь дэлхий дахины мэдээ мэдээлэл, геополитикийн мониторинг, зах зээл, зөрчилдөөн болон дэд бүтцийн өөрчлөлтийг нэг дор цуглуулж харуулдаг хиймэл оюун ухаант хяналтын самбар юм. Веб интерфэйсээс гадна terminal дээр шууд ажиллах боломжтой бөгөөд газрын зураг, санхүүгийн зах зээл, нислэгийн мэдээлэл зэргийг API түлхүүргүйгээр харуулдаг.\n\nЭнэхүү төсөл нь агентууд болон скриптүүдэд зориулсан MCP сервер (Streamable HTTP), REST API, албан ёсны npm багц болон Python, Ruby, Go хэлний SDK-уудыг дэмждэг. Мөн Wingbits-ийн нислэгийн өгөгдлийг ашиглан дэлхийн нислэгийн хөдөлгөөнийг хянах боломжтой.\n\nTypeScript болон орчин үеийн веб технологиор бүтээгдсэн уг хэрэгсэл нь мэдээллийн нэгдсэн санал болгодог бөгөөд AGPL-3.0 лицензтэйгээр нээлттэй хөгжүүлэгдэж байна.",
+ "published": "2026-10-20T10:44:38Z",
+ "added": "2026-10-20T10:44:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

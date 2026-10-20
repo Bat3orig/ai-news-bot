@@ -1,0 +1,17 @@
+{
+ "id": "0b22ca37fd3884c9",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/anthropics/claude-code-action",
+ "image": "https://opengraph.githubassets.com/6c69b9c442d908322ae06263244173c10d318c6a18304a02379bcad1f782564b/anthropics/claude-code-action",
+ "title": "anthropics/claude-code-action",
+ "summary_en": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether responding to @claude mentions, issue assignments, or executing automation tasks with explicit prompts. It supports multiple authentication methods including Anthropic direct API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features 🎯 Intelligent Mode Detection : Automatically selects the appropriate execution mode…",
+ "title_mn": "anthropics/claude-code-action: GitHub PR болон issue-д зориулсан Claude Code үйлдлийн хэрэгсэл",
+ "summary_mn": "GitHub дээр Claude Code ашиглан PR болон issue-д автомат хариулт өгөх, код өөрчлөх үйлдэл хийх GitHub Action төсөл.",
+ "body_mn": "Энэхүү төсөл нь GitHub-ийн pull request болон issue-д код бичих өөрчлөлт оруулах, асуултад хариулах зорилготой Claude Code үйлдлийн хэрэгсэл юм. @claude гэж дурдах, issue оноох эсвэл автоматжуулалтын даалгавар өгөх үед автоматаар ажиллах чадвартай.\n\nЭнэхүү хэрэгсэл нь Anthropic API key, Amazon Bedrock, Google Vertex AI болон Microsoft Foundry зэрэг олон төрлийн баталгаажуулалтын аргуудыг дэмждэг. Terminal дээр claude ажиллуулаад /install-github-app команчаар хялбархан тохируулах боломжтой.\n\nTypeScript болон GitHub Actions ашиглан бүтээгдсэн энэхүү төсөл нь хөгжүүлэгчдийн ажлын урсгалыг автоматжуулах, код хянах процессыг хурдасгахад чиглэгдсэн бөгөөд MIT лицензтэйгээр нээлттэй хөгжиж байна.",
+ "published": "2026-10-20T10:44:38Z",
+ "added": "2026-10-20T10:44:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "bf0e69460c663887",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/YuJunZhiXue/dsh-purge",
+ "image": "https://opengraph.githubassets.com/1a26759403790f520c8a647704b16a38b99cf076858a9ed1c4399c4b1552d6db/YuJunZhiXue/dsh-purge",
+ "title": "YuJunZhiXue/dsh-purge",
+ "summary_en": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 ⚔️ DeepSeek Harness 网络安全红队工具（dsh-purge） Version 1.1.71 DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 中文 · English 我直说。 我被裁了。现在彻底没工作，也没有稳定收入。这个仓库一直是我业余在写。后面为了吃饭，我可能得去跑外卖，不一定还能天天改这个。 从今天起到 2026 年 10 月 26 日，我征集七天。 想留、想骂、想投广告、想赞助，写到 Issue #130 。我会看。不保证每条都回。 10 月 27 日起，我把这个仓库关上。 GitHub 上我不再发新版本。后面的包我只发在这个频道： t.me/LLM_PoJia/271 。你们手里已经下过的旧版本还能用。协议我也改了，现在是商业许可，下面有写。 官方 Web…",
+ "title_mn": "YuJunZhiXue/dsh-purge: DeepSeek Harness-д зориулсан халдлагаас хамгаалах болон профайл цэвэрлэх залгаас",
+ "summary_mn": "YuJunZhiXue/dsh-purge нь DeepSeek Harness-д зориулсан торлог аюулгүй байдлын улаан багийн үнэлгээ хийх залгаас юм. Энэ нь албан ёсны Web болон ширээний EXE хувилбарыг дэмждэг.",
+ "body_mn": "YuJunZhiXue/dsh-purge нь DeepSeek Harness хэрэгсэлд зориулагдсан сүлжээний аюулгүй байдлын улаан багийн үнэлгээ хийх тусгай залгаас юм. Энэхүү хэрэгсэл нь албан ёсны Web болон ширээний клиент (EXE) хувилбаруудыг хоёуланг нь дэмжиж, prompt болон тохиргоог хянах боломжийг олгодог.\n\nГол онцлогууд нь Harness-ийн ажиллах явц дахь prompt, зөвшөөрлийн цонх, сав болон сессийн форматыг өөрчилж, модель болон хост хоорондын ялгааг салгаж шалгахад тусална. Уг төсөл нь Node.js (≥18 эсвэл Windows дээр ≥22) шаардах бөгөөд npm дээр байршаагүй тул GitHub архиваас суулгах шаардлагатай.\n\nУг залгаас нь хөгжүүлэгчдэд өөрсдийн суулгасан DeepSeek орчиндоо хяналттай үнэлгээ хийх, бодлогын хэрэгжилтийг шалгах боломжийг олгодогоороо онцлогтой. Зохиогч уг кодыг коммерциал тусгай лицензэд шилжүүлж байгаагаа мэдэгджээ.",
+ "published": "2026-10-20T10:44:38Z",
+ "added": "2026-10-20T10:44:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

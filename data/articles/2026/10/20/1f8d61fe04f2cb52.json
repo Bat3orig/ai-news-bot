@@ -1,0 +1,17 @@
+{
+ "id": "1f8d61fe04f2cb52",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/oven-sh/bun",
+ "image": "https://opengraph.githubassets.com/c4664e4de6726078d0d685316078db9437d144060386e93a9349be627eba0534/oven-sh/bun",
+ "title": "oven-sh/bun",
+ "summary_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one https://bun.com Bun Documentation • Discord • Issues • Roadmap Read the docs → What is Bun? Bun is an all-in-one toolkit for JavaScript and TypeScript apps. It ships as a single executable called bun . At its core is the Bun runtime , a fast JavaScript runtime designed as a drop-in replacement for Node.js . It's written in Rust and powered by JavaScriptCore under the hood, dramatically reducing startup times and memory usage. bun run index.tsx # TS and JSX supported out-of-the-box The bun command-line…",
+ "title_mn": "oven-sh/bun: JavaScript болон TypeScript-д зориулсан хурдан бүхнийг нэг дор багтаасан хэрэгсэл",
+ "summary_mn": "oven-sh/bun нь JavaScript/TypeScript хөгжүүлэлтэд зориулсан маш хурдан ажиллах орчин, багц менежер, тест ажиллуулагч бүхий нэгдмэл хэрэгсэл юм.",
+ "body_mn": "oven-sh/bun нь Node.js-ийн оронд шууд ашиглаж болох, Rust хэл дээр бичигдсэн JavaScript болон TypeScript-ийн өндөр хурдтай ажиллах орчин юм. Энэ нь JavaScriptCore хөдөлгүүрийг ашигладаг тул аппликейшн эхлэх хугацааг эрс багасгаж, санах ойн зарцуулалтыг оновчтой болгодог.\n\nУг хэрэгсэл нь зөвхөн ажиллах орчин төдийгүй тест ажиллуулагч, скрипт удирдагч, мөн Node.js-тэй нийцтэй багц менежерийг өөртөө нэгтгэсэн байдаг. Хөгжүүлэгчид олон мянган node_modules санд найдахгүйгээр Bun-ийн суурилуулсан хурдан хэрэгслүүдийг ашиглан төслөө хөгжүүлэх боломжтой.\n\nBun нь Linux, macOS, болон Windows үйлдлийн системүүдийг дэмждэг бөгөөд вэб хөгжүүлэлтийн бүтээмжийг эрс дээшлүүлэх зорилготойгоор бүтээгдсэн.",
+ "published": "2026-10-20T10:44:38Z",
+ "added": "2026-10-20T10:44:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

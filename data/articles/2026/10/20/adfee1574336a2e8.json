@@ -1,0 +1,17 @@
+{
+ "id": "adfee1574336a2e8",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/leepokai/Codync",
+ "image": "https://repository-images.githubusercontent.com/1185223752/66ad7f0e-c25f-4a32-8f51-48915983be54",
+ "title": "leepokai/Codync",
+ "summary_en": "The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust. https://www.codync.dev Codync The open-source Grok Bot alternative. Your coding agents, as teammates you can message. Website · Compare · Launch film Free, open source, no paid tier. A ⭐ is how others find it. macOS: Apple Silicon + Intel (DMG) · Windows: x64 installer · Linux: AppImage · All downloads Codync turns the coding agents on your computer — Claude Code…",
+ "title_mn": "leepokai/Codync: AI код бичих агентуудыг багийн гишүүн шиг холбох нээлттэй эх үүсвэртэй хэрэгсэл",
+ "summary_mn": "leepokai/Codync нь Claude Code, Cursor, Codex зэрэг кодын агентуудыг гар утас болон компьютерээсээ мессеж бичиж удирдах боломжийг олгодог нээлттэй эх үүсвэртэй хэрэгсэл юм.",
+ "body_mn": "leepokai/Codync нь хөгжүүлэгчдийн компьютер дээр ажилладаг Claude Code, Codex, Cursor, Gemini болон бусад олон арван AI агентуудыг утсаараа эсвэл алсаас мессеж бичиж хамтран ажиллах багийн гишүүн шиг удирдах боломжийг олгодог нээлттэй эх үүсвэртэй төсөл юм. Энэ нь ямар нэгэн төлбөргүйгээр бүрэн үнэ төлбөргүй ажиллана.\n\nГол боломжуудад macOS, Windows, Linux системүүдэд зориулсан rust дээр суурилсан хост апп; iPhone болон бусад төхөөрөмжөөс QR код уун холбогдох боломж; агентууд айнаа дуусгах эсвэл зөвшөөрөл хүсэх үед мэдэгдэл илгээх систем багтана. Мөн Cloudflare relay-ээр дамжуулан төгсгөл хоорондын шифрлэлттэйгээр алсаас аюулгүй холбогдох боломжтой.\n\nЭнэхүү хэрэгсэл нь AI кодын агентуудыг байнга хянаж, гар утаснаасаа даалгавар өгч ажлаа хөнгөвчлөх хүсэлтэй хөгжүүлэгчдэд нэн тохиромжтой шийдэл юм.",
+ "published": "2026-10-20T10:44:38Z",
+ "added": "2026-10-20T10:44:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

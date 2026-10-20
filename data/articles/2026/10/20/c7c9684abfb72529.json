@@ -1,0 +1,17 @@
+{
+ "id": "c7c9684abfb72529",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/usestrix/strix",
+ "image": "https://opengraph.githubassets.com/46950911cc632ca8a58be4152c4d1740b196ffde8555d56020fe7d31a4e1509d/usestrix/strix",
+ "title": "usestrix/strix",
+ "summary_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. https://strix.ai Strix The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities. Tip New! Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - Get started with no setup required . Strix Overview Strix are autonomous AI penetration testing agents that act just like real hackers - they run your code dynamically, find vulnerabilities…",
+ "title_mn": "usestrix/strix: Автоматжуулсан халдлага турших бие даасан AI агентууд",
+ "summary_mn": "usestrix/strix нь хөгжүүлэгчид болон аюулгүй байдлын багуудад зориулсан, кодонд динамикаар туршилт хийж эмзэг байдлыг илрүүлдэг бие даасан AI pentesting агент юм.",
+ "body_mn": "usestrix/strix нь жинхэнэ хакерууд шиг ажиллаж, кодыг динамикаар ажиллуулан эмзэг байдлыг олж, бодит нотолгоогоор баталгаажуулдаг бие даасан AI нэвтрэлтийн туршилтын агентууд юм. Энэ нь GitHub Actions болон CI/CD дамжлагуудтай нягт интеграцчилснаар бүтээгдэхүүнийг хэрэглэгчдэд хүрэхээс нь өмнө аюулгүй байдлыг автоматаар шалгах боломжийг олгодог.\n\nГол боломж ба хэрэгслүүд: OWASP Top 10 болон бусад олон төрлийн эмзэг байдлыг илрүүлэх дэвшилтэт олон агентын зохион байгуулалт; Claude Code, Cursor, Codex зэрэг агентуудад шууд суулгаж ашиглах боломжтой SKILL.md дэмжлэг; орон нутгийн хяналтын самбар (dashboard) болон CLI интерфейс.\n\nЭнэхүү хэрэгсэл нь гараар pentest хийх цагийг хэмнэж, код болон веб аппликейшнуудынхаа аюулгүй байдлыг тасралтгүй хангах хүсэлтэй хөгжүүлэгчдэд төгс тохирно.",
+ "published": "2026-10-20T10:44:38Z",
+ "added": "2026-10-20T10:44:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

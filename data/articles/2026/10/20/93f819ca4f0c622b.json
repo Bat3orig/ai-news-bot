@@ -1,0 +1,17 @@
+{
+ "id": "93f819ca4f0c622b",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/smg-project/smg",
+ "image": "https://opengraph.githubassets.com/69705cecbebdfc661da5a2c415d28bac83799e5138f8cfb0dd00392a0c8633d6/smg-project/smg",
+ "title": "smg-project/smg",
+ "summary_en": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth. https://lightseek.org/smg Shepherd Model Gateway Engine-agnostic, high-performance model-routing gateway for large-scale LLM deployments. SMG centralizes worker lifecycle management, balances traffic across self-hosted engines and cloud providers, and gives you enterprise-grade control over…",
+ "title_mn": "smg-project/smg: Өндөр бүтээмжтэй, хөдөлгүүр хамааралгүй LLM чиглүүлэлтийн шлюз",
+ "summary_mn": "smg-project/smg нь том хэмжээний LLM суурилуулалтад зориулсан, ачаалал хуваарилах өндөр хурдтай, хөдөлгүүр хамааралгүй загвар чиглүүлэлтийн шлюз юм.",
+ "body_mn": "smg-project/smg нь Rust хэл дээр бичигдсэн бөгөөд vLLM, TRT-LLM, SGLang, OpenAI, Gemini зэрэг олон төрлийн LLM хөдөлгүүрүүдтэй бүрэн нийцдэг ачаалал хуваарилах шлюз юм. Энэ нь ажилчдын амьдралын мөчлөгийг төвлөрсөн байдлаар удирдах, олон түрээслэгчийн аюулгүй байдал, чатын түүх хадгалах болон ажиглах боломжийг нэг цэгээс олгодог.\n\nГол боломжуудад OpenAI болон Anthropic API-ийн бүрэн дэмжлэг, салбартаа анхдагч gRPC дамжлага, KV cache-д суурилсан ухаалаг чиглүүлэлт, MCP хэрэгслийг зөвшөөрлийн бодлоготойгоор гүйцэтгэх чадвар багтана. Мөн хөгжүүлэгчид WebSocket болон WebRTC протоколоор дамжуулан бодит цагийн аудио болон чатын хүсэлтүүдийг удирдах боломжтой.\n\nЭнэхүү төсөл нь өөрсдийн серверийн дэд бүтцэд олон LLM загваруудыг зэрэг ажиллуулж, ачааллыг тэнцвэржүүлэх шаардлагатай байгууллага болон инженерүүдэд нэн тохиромжтой шийдэл юм.",
+ "published": "2026-10-20T10:44:38Z",
+ "added": "2026-10-20T10:44:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

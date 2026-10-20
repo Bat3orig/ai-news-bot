@@ -1,0 +1,17 @@
+{
+ "id": "6ea9960b31645056",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/shiyu-coder/Kronos",
+ "image": "https://opengraph.githubassets.com/04b1d757ea745e8779243387705d21f425c8ce464f3e3cece07866358292b39d/shiyu-coder/Kronos",
+ "title": "shiyu-coder/Kronos",
+ "summary_en": "Kronos: A Foundation Model for the Language of Financial Markets Kronos: A Foundation Model for the Language of Financial Markets Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from over 45 global exchanges . 📰 News 🚩 [2025.11.10] Kronos has been accpeted by AAAI 2026. 🚩 [2025.08.17] We have released the scripts for fine-tuning! Check them out to adapt Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv ! 📜 Introduction Kronos is a family of…",
+ "title_mn": "shiyu-coder/Kronos: Санхүүгийн лааны суурьт суурилсан анхны нээлттэй эх үүсвэртэй суурь модель",
+ "summary_mn": "shiyu-coder/Kronos нь дэлхийн 48 гаруй биржийн өгөгдлөөр сургагдсан, санхүүгийн зах зээлийн K-шугамд зориулсан анхны нээлттэй эх үүсвэртэй суурь модель юм.",
+ "body_mn": "shiyu-coder/Kronos нь санхүүгийн зах зээлийн өвөрмөц, өндөр чимээ шуугиантай шинж чанаруудыг зохицуулахад зориулагдсан decoder-only төрлийн суурь загваруудын гэр бүл юм. Энэ нь ерөнхий зориулалтын цаг хугацааны цувааны загваруудаас ялгаатай нь санхүүгийн мэдээллийн онцлог хэлбэрийг боловсруулахын тулд шинэ хоёр үе шаттай тогтолцоог ашигладаг.\n\nГол онцлогуудад Hugging Face Hub дээрээс хялбархан авах боломжтой урьдчилан сургагдсан загварууд, KronosPredictor ашиглан хэдхэн мөр код бичин урьдчилан таамаглал хийх боломж, мөн олон багц өгөгдлийг GPU ашиглан зэрэг боловсруулах чадвар багтана. Хөгжүүлэгчид өөрсдийн өгөгдөл дээр модельд нарийвчилсан сургалт (finetuning) хийх бүрэн дамжлагыг ашиглах боломжтой.\n\nЭнэхүү төсөл нь санхүүгийн технологын салбарт квантитэйтив судалгаа хийж буй хөгжүүлэгч болон судлаачдад зориулагдсан бөгөөд загварын таамаглах үр дүнг хянах шууд демо хувилбартай юм.",
+ "published": "2026-10-20T10:44:38Z",
+ "added": "2026-10-20T10:44:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

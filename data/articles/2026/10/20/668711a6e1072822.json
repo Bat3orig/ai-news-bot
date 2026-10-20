@@ -1,0 +1,17 @@
+{
+ "id": "668711a6e1072822",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/headroomlabs-ai/headroom",
+ "image": "https://opengraph.githubassets.com/966147e65b6465ce4683e18b6d52164710ddb8b5eb74ae3aa3567cba134be3d0/headroomlabs-ai/headroom",
+ "title": "headroomlabs-ai/headroom",
+ "summary_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. https://docs.headroomlabs.ai/docs Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the live index · full docs blob . Headroom compresses everything your AI agent reads — tool outputs, logs, RAG chunks, files, and conversation history — before it reaches the LLM. Same answers, fraction of the tokens. Compression runs on your…",
+ "title_mn": "headroomlabs-ai/headroom: AI агент болон LLM-ийн токенийг хэмнэх шахагч прокси",
+ "summary_mn": "headroomlabs-ai/headroom нь AI агентуудын унших мэдээллийг LLM-д хүрэхээс нь өмнө шахдаг орон нутгийн прокси хэрэгсэл юм. Ингэснээр үр дүнгээ алдалгүйгээр токений зарцуулалтыг эрс бууруулна.",
+ "body_mn": "headroomlabs-ai/headroom нь хөгжүүлэгчдэд зориулсан AI агент болон LLM-үүдийн хэрэглээг оновчлох зорилготой орон нутгийн прокси хэрэгсэл юм. Энэхүү хэрэгсэл нь агентын унших бүх өгөгдөл болох хэрэгслийн үр дүн, лог, RAG хэсэг, файлууд болон ярианы түүхийг LLM руу илгээхээс өмнө шахаж багасгадаг.\n\nГол боломжуудаас дурдвал: шахалт нь бүрэн таны компьютер дээр ажиллах тул ямар нэгэн файл эсвэл промпт гадагшаа алдагдахгүй; Claude Code-д зориулсан Serena код чиглүүлэгчийг дэмждэг; Anthropic болон OpenAI-ийн API хүсэлтүүдтэй бүрэн нийцдэг. Мөн Python PyPI багцаар дамжуулан хялбархан суулгаж ашиглах боломжтой.\n\nЭнэ нь токен хэмнэх шаардлагатай хөгжүүлэгчид болон том хэмжээний AI агент ажиллуулдаг багуудад API зарцуулалтыг бууруулах чухал шийдэл болж өгдөг.",
+ "published": "2026-10-20T10:44:38Z",
+ "added": "2026-10-20T10:44:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

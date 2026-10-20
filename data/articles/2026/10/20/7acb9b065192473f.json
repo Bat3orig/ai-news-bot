@@ -1,0 +1,17 @@
+{
+ "id": "7acb9b065192473f",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Geeky Gadgets",
+ "url": "https://www.geeky-gadgets.com/microsoft-copilot-new-features-october/",
+ "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/10/copilot-premium-models-e1792483725446.jpg",
+ "title": "Microsoft Copilot Adds OpenAI GPT 6.1 and Anthropic Claude Opus 5.5",
+ "summary_en": "Microsoft Copilot introduces eight new features this October, including access to GPT 6.1 and Claude 5.5 models for Copilot Premium subscribers.",
+ "title_mn": "Microsoft Copilot нь Anthropic Claude Opus 5.5 болон OpenAI GPT 6.1 загваруудыг нэгтгэлээ",
+ "summary_mn": "Microsoft Copilot үйлчилгээнд Claude Opus 5.5 болон GPT 6.1 загварууд нэмэгдэж, хэрэглэгчдэд илүү дэвшилтэт боломжуудыг санал болгож байна.",
+ "body_mn": "Microsoft Copilot ажилтнуудын бүтээмжийг дээшлүүлэх, тохиргоог сайжруулах зорилгоор аравдугаар сарын шинэчлэлтээ гаргалаа. Энэхүү шинэчлэлтийн хүрээнд Anthropic-ийн Claude Opus 5.5 болон OpenAI-ийн GPT 6.1 зэрэг хамгийн сүүлийн үеийн хиймэл оюуны загваруудыг нэгтгэсэн байна. Эдгээр загварууд нь Copilot-д нарийн төвөгтэй асуултуудыг боловсруулах, өндөр чанартай контент бүтээхэд илүү өндөр түвшний туслалцаа үзүүлэх боломжийг олгож байна.\n\nШинэчлэлт нь зөвхөн хиймэл оюуны сайжруулалтаар хязгаарлагдахгүй бөгөөд PowerPoint програмын интерактив хяналтын самбар, Outlook-ийн имэйлийг чучлахаар эрэмбэлэх тохиргоо, Excel-ийн бодит цагийн өгөгдөл дүрслэх HTML самбарууд зэрэг олон шинэ боломжуудыг багтаажээ. Copilot Premium захиалгатай хэрэглэгчид Эдгээр дэвшилтэт боломжуудыг бүрэн ашиглах боломжтой юм.\n\nТүүнчлэн SharePoint болон OneDrive файл менежментийн шинэчлэлтүүд хийгдэж, багийн хамтын ажиллагааг илүү хялбар болгосон байна. Microsoft-ын энэхүү алхам нь Copilot-ийг хувь хүн болон багийн түвшинд ашиглах хамгийн олон талт туслах хэрэгсэл болгох зорилготой юм.",
+ "published": "2026-10-20T08:32:22Z",
+ "added": "2026-10-20T10:44:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
