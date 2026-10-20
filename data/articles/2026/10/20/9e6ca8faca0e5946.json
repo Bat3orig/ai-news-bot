@@ -1,0 +1,17 @@
+{
+ "id": "9e6ca8faca0e5946",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v43.8.2",
+ "image": "https://opengraph.githubassets.com/f754ec5c3ededb9e23840602de600cb559546ee989a418782db1248691d2e03f/electron/electron/releases/tag/v43.8.2",
+ "title": "electron v43.8.2",
+ "summary_en": "Release Notes for v43.8.2",
+ "title_mn": "Electron v43.8.2 хувилбар гарлаа",
+ "summary_mn": "Electron төслийн зүгээс v43 салбарын ээлжит алдаа засвар болон тогтвортой байдлын сайжруулалтыг багтаасан v43.8.2 хувилбарыг нийтэллээ.",
+ "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн түгээмэл фрэймворк болох Electron төсөл албан ёсны v43.8.2 хувилбараа гаргалаа.\n\nЭнэхүү шинэчлэл нь 43.x хувилбарын тогтвортой байдлыг хангах, дотоод бүрэлдэхүүн хэсгүүдийн алдааг засах зорилготой ээлжит засвар юм. Хөгжүүлэгчид өөрсдийн Electron аппликейшнээ хамгийн сүүлийн хувилбар луу шинэчлэн ашиглах боломжтой.",
+ "published": "2026-10-20T17:34:05Z",
+ "added": "2026-10-20T19:46:08Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

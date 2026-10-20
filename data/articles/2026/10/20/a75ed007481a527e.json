@@ -1,0 +1,17 @@
+{
+ "id": "a75ed007481a527e",
+ "subtopic": "packages",
+ "source": "JavaScript Weekly",
+ "source_label": "JavaScript Weekly",
+ "url": "https://javascriptweekly.com/issues/807",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nuezexh7haulvsllbugt.jpg",
+ "title": "The up to 8x faster Rust port of TypeScript",
+ "summary_en": "#​807 — October 20, 2026 Read on the Web JavaScript Weekly tsrs: Cloudflare and VoidZero's Rust Port of TypeScript — A Rust port of the Go-based TypeScript 7 compiler, built with some input from the TypeScript team and heading into Oxc . Benchmarks claim up to 8x the speed of TypeScript 7.0 and it runs in WebAssembly. Experimental, but npx tsrs works. Chen, Mitropoulos and Nakazawa (Cloudflare / VoidZero) 💡 Max Schwenk started the port with agents writing the code, and tells the full tale here , including how it took his company's typecheck from 80 seconds to 7. Send Webhooks from Your…",
+ "title_mn": "TypeScript-ийг 8 дахин хурдасгах tsrs, Next.js-ийн RCE засвар болон Node.js шинэчлэлтүүд",
+ "summary_mn": "Cloudflare болон VoidZero нар TypeScript 7-г Rust руу хөрвүүлсэн tsrs хэрэгслийг танилцуулсан нь шалгалтын хурдыг 8 дахин нэмэгдүүлж байна. Мөн Next.js хоёр чухал RCE цоорхойг зассан хувилбар гаргасан бол Node.js v26.12.0 болон v24.22.0 хувилбарууд нийтлэгдлээ.",
+ "body_mn": "JavaScript экосистемийн ээлжит дугаарт хэд хэдэн анхаарал татахуйц шинэчлэлтүүд гарлаа. Cloudflare болон VoidZero нар хамтран Go-д суурилсан TypeScript 7 хөрвүүлэгчийг Rust руу хөрвүүлсэн tsrs төслийг танилцуулав. Туршилтуудаар энэ нь стандарт TypeScript 7.0-оос 8 дахин хурдан ажиллаж, төрөл шалгах хугацааг 80 секундээс 7 болгон бууруулсан бөгөөд WebAssembly дээр ажиллах боломжтой. Одоогоор npx tsrs командаар ашиглаж болно.\n\nАюулгүй байдлын хувьд Next.js системдээ нэн ноцтой хоёр RCE (алсын зайнаас код ажиллуулах) эмзэг байдлыг зассан байна. Үүнд React Server Components-тэй холбоотой use cache болон зургийн оптимизацийн SVG боловсруулалтад гарсан цоорхойнууд багтаж байгаа тул хөгжүүлэгчдийг 16.4.1 эсвэл 15.5.28 хувилбар руу яаралтай шинэчлэхийг зөвлөжээ.\n\nТүүнчлэн Node.js v26.12.0 хувилбарт ES модулиудыг синхроноор ачаалах боломжийг нэмж тохиргооны файлыг stable болгосон бол LTS хувилбар болох v24.22.0-д util.throttle болон util.debounce функцууд албан ёсоор нэмэгдлээ. Мөн Astro 7.4-т параллель prerendering боломж, Vite-ийн багийн Void фулл-стэк платформ нээлттэй эхтэй болсон зэрэг олон шинэчлэлт багтсан байна.",
+ "published": "2026-10-20T00:00:00Z",
+ "added": "2026-10-20T19:46:08Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

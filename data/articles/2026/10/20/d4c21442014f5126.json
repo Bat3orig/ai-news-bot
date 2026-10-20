@@ -1,0 +1,17 @@
+{
+ "id": "d4c21442014f5126",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+ "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo.png",
+ "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+ "summary_en": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results.",
+ "title_mn": "Java Champions мэргэжилтнүүд GitHub Copilot-ийг хэрхэн үр дүнтэй ашигладаг вэ",
+ "summary_mn": "Арвин туршлагатай Java мэргэжилтнүүд GitHub Copilot-ийг кодын чанар, архитектурт хэрхэн нөлөөлдөг тухай туршлагаасаа хуваалцлаа. Тэд даалгаврын цар хүрээнээс хамаарч Opus зэрэг тохирох загварыг сонгох болон өөрийн бичлэгийн хэв маягийг суулгах арга барилыг онцолсон байна.",
+ "body_mn": "GitHub-аас 10 гаруй жилийн туршлагатай гурван Java Champion зэрэгтэй хөгжүүлэгчтэй ярилцаж, тэдний бодит төсөл болон нээлттэй эх дээр GitHub Copilot-ийг ашигладаг практик аргуудыг нийтэлжээ. Тэд хиймэл оюуны үүсгэсэн кодод шууд найдах бус контекст өгөх, үр дүнг нягтлах зарчмыг баримталдаг байна.\n\nТухайлбал Hypersistence санг хөгжүүлэгч өмнө нь хэдэн долоо хоног зарцуулдаг байсан Optimizer хэрэгслийн веб интерфейсийг хоёрхон өдрийн дотор Copilot-ийн тусламжтай прототайп хийж дуусгажээ. Тэрээр IntelliJ IDEA дотор Copilot-ийг кодын судалгаа болон дибаг хийхэд туслах ажилтан мэт ашигладаг гэдгээ дурдсан байна.\n\nТүүнчлэн даалгаврын шинж чанараас хамааран загвараа сонгох арга барилыг онцолжээ. Гүнзгий төлөвлөлт, нарийн сэтгэхүй шаардсан үед 1 сая контекст бүхий Claude Opus загварыг өндөр reasoning тохиргоотойгоор ашигладаг бол баримтжуулалт, репорт бэлтгэх зэрэг энгийн ажлуудад цөөн токен зарцуулдаг хөнгөн загваруудыг сонгох нь бүтээмжид тустай гэжээ.",
+ "published": "2026-10-20T16:05:03Z",
+ "added": "2026-10-20T19:46:08Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

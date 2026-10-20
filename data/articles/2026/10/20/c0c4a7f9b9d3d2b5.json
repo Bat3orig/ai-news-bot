@@ -1,0 +1,17 @@
+{
+ "id": "c0c4a7f9b9d3d2b5",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_8zpqf88zpq.2e16d0ba.fill-1200x600.jpg",
+ "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
+ "summary_en": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can leverage hierarchical graph visualization, split-pane views, and per-node trace overlays to catch export regressions and verify hardware delegation. These tools enable engineering teams to transparently debug execution graphs and pinpoint cycle-level latency bottlenecks locally.",
+ "title_mn": "Google AI Edge Model Explorer хэрэгсэлд Arm компани визуал график дебаг хийх боломж нэмжээ",
+ "summary_mn": "Arm компани Google AI Edge Model Explorer хэрэгсэлд зориулсан шинэ адаптеруудыг гаргаснаар хөгжүүлэгчид edge төхөөрөмж дээрх ML загварын гүйцэтгэлийг дүрслэн харах, NPU шилжүүлэлт болон саатлыг хянах боломжтой боллоо. Энэ нь хөгжүүлэгчдэд төхөөрөмж дээр ажиллах загваруудыг оновчлоход ихээхэн тусална.",
+ "body_mn": "Машины сургалтын загваруудыг edge төхөөрөмжүүд дээр үр дүнтэй ажиллуулахын тулд квантчилал, график бууруулах, аппарат хангамжийн делегат зэрэг хөрвүүлэлтийн шат дамжлагууд зайлшгүй шаардлагатай байдаг. Arm компани Google AI Edge Model Explorer хэрэгслийн залгаас архитектурыг ашиглан TOSA, VGF, PTE зэрэг олон загварын форматыг дэмжих нээлттэй эх сурвалж бүхий адаптеруудыг бүтээжээ. Үүний тусламжтайгаар инженерүүд экспортолсон шугаман хоолойг баталгаажуулж, хурдасгуур руу шилжүүлж буй байдлыг шалгах боломжтой болж байна.\n\nШинэ шийдлийн тусламжтайгаар багууд хуваагдмал цонхны харагдац ашиглан CPU болон NPU дээр ажиллах графикуудыг зэрэгцүүлэн харьцуулах боломжтой болсон. Тухайлбал, YOLO загварыг шалгах явцад дэмжигдээгүй операторуудыг хялбархан илрүүлж байв. Мөн Arm Ethos-U85 NPU дээрх саатлыг олж тогтоохын тулд загвараа виртуал платформ дээр ажиллуулж, Model Explorer-ийн өгөгдлийн залгаасаар дамжуулан гүйцэтгэлийн мэдээллийг график дээр өнгөөр ялган харуулжээ.\n\nЭнэхүү хэрэгсэл нь хөгжүүлэгчдэд түүхий лог файлуудыг гараар шалгах шаардлагагүйгээр загварын зангилаа бүрийг нарийвчлан шинжлэх боломж олгодог. Ингэснээр edge төхөөрөмжид зориулсан хиймэл оюун ухааны загваруудыг оновчлох, алдааг олж засварлах үйл явц эрс хялбар болж байгаа юм. Сонирхсон хөгжүүлэгчид Google AI Edge Model Explorer болон Arm-ын адаптеруудыг PyPI болон GitHub-аар дамжуулан ашиглаж эхлэх боломжтой.",
+ "published": "2026-10-20T19:46:08Z",
+ "added": "2026-10-20T19:46:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

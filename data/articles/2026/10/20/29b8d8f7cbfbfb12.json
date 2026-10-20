@@ -1,0 +1,17 @@
+{
+ "id": "29b8d8f7cbfbfb12",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+ "image": "https://framerusercontent.com/images/g61nppL2S0T51TuBYG0bTxac2U.png?width=2150&height=1126",
+ "title": "Publish fake stats, get cited in LLMs",
+ "summary_en": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 267 # Comments: 148",
+ "title_mn": "Хуурамч статистик нийтэлж LLM загваруудын ишлэлд орох боломжтойг туршилтаар нотлов",
+ "summary_mn": "Судлаач GPT-4.1 ашиглан 50,000 зохиомол тоон үзүүлэлт бүхий вэбсайт үүсгэхэд Google хайлтын индексээс хассан ч ChatGPT тус хуурамч мэдээллүүдийг иш татан хариултандаа ашигласаар байгааг харуулжээ.",
+ "body_mn": "Хиймэл оюуны хайлтын системүүд (GEO - Generative Engine Optimization) мэдээллийг хэрхэн цуглуулж буйг шалгах зорилгоор нэгэн судлаач 50 ам.долларын өртгөөр 50,000 хуурамч статистик бүхий stateglobe.com сайтыг GPT-4.1 ашиглан автоматаар үүсгэсэн туршилт хийжээ.\n\nХэдийгээр Google систем уг хуурамч хуудсуудыг алгоритмаараа илрүүлж өөрийн хайлтаас хассан боловч ChatGPT болон бусад LLM загварууд тухайн тоо баримтуудыг бодит эх сурвалж шиг иш татсаар байгааг тэрээр онцолсон байна. Тус зохиомол тоонууд цаашлаад 330 гаруй том домэйн, эрдэм шинжилгээний өгүүлэл, банкны хөрөнгө оруулалтын тайланд хүртэл хуулагдан оржээ.\n\nЭнэхүү туршилт нь одоогийн LLM-үүд баримт шалгах, эх сурвалжийг найдвартай шүүх тал дээр эмзэг байгааг харуулж байгаа бөгөөд хиймэл оюунд суурилсан хайлтын системүүдийг мэдээллийн эх сурвалжаа нягтлахад ихээхэн анхаарах шаардлагатайг сануулж байна.",
+ "published": "2026-10-20T13:06:22Z",
+ "added": "2026-10-20T19:46:08Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

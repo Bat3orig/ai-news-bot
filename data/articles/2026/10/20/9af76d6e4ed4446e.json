@@ -1,0 +1,17 @@
+{
+ "id": "9af76d6e4ed4446e",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v42.11.17",
+ "image": "https://opengraph.githubassets.com/dbc51a844b4f9b68975d18df9f795aab9a96bb47580eeb40d724991b313a6e68/electron/electron/releases/tag/v42.11.17",
+ "title": "electron v42.11.17",
+ "summary_en": "Release Notes for v42.11.17 Warning Electron 42.x.y has reached end-of-support as per the project's support policy . Developers and applications are encouraged to upgrade to a newer version of Electron.",
+ "title_mn": "Electron v42.11.17 гарч, 42.x хувилбарын дэмжлэг албан ёсоор дуусав",
+ "summary_mn": "Electron 42.x салбарын хамгийн сүүлийн v42.11.17 хувилбар гарсан бөгөөд уг салбарын албан ёсны дэмжлэг хугацаа дууссаныг төслийн баг анхаарууллаа.",
+ "body_mn": "Electron төслөөс v42.11.17 хувилбарыг нийтэлсэн бөгөөд үүнтэй зэрэгцэн төслийн дэмжлэгийн бодлогын дагуу Electron 42.x.y салбарын дэмжлэг бүрэн дууссаныг зарлалаа.\n\nДэмжлэгийн хугацаа дууссан тул хөгжүүлэгчид болон багуудыг аюулгүй байдал, шинэ боломжуудыг ашиглахын тулд аппликейшнүүдээ Electron-ийн илүү шинэ тогтвортой хувилбарууд руу шилжүүлэхийг зөвлөж байна.",
+ "published": "2026-10-20T17:35:15Z",
+ "added": "2026-10-20T19:46:08Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

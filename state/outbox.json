@@ -458,5 +458,165 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a75ed007481a527e",
+   "subtopic": "packages",
+   "source": "JavaScript Weekly",
+   "source_label": "JavaScript Weekly",
+   "url": "https://javascriptweekly.com/issues/807",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nuezexh7haulvsllbugt.jpg",
+   "title": "The up to 8x faster Rust port of TypeScript",
+   "summary_en": "#​807 — October 20, 2026 Read on the Web JavaScript Weekly tsrs: Cloudflare and VoidZero's Rust Port of TypeScript — A Rust port of the Go-based TypeScript 7 compiler, built with some input from the TypeScript team and heading into Oxc . Benchmarks claim up to 8x the speed of TypeScript 7.0 and it runs in WebAssembly. Experimental, but npx tsrs works. Chen, Mitropoulos and Nakazawa (Cloudflare / VoidZero) 💡 Max Schwenk started the port with agents writing the code, and tells the full tale here , including how it took his company's typecheck from 80 seconds to 7. Send Webhooks from Your…",
+   "title_mn": "TypeScript-ийг 8 дахин хурдасгах tsrs, Next.js-ийн RCE засвар болон Node.js шинэчлэлтүүд",
+   "summary_mn": "Cloudflare болон VoidZero нар TypeScript 7-г Rust руу хөрвүүлсэн tsrs хэрэгслийг танилцуулсан нь шалгалтын хурдыг 8 дахин нэмэгдүүлж байна. Мөн Next.js хоёр чухал RCE цоорхойг зассан хувилбар гаргасан бол Node.js v26.12.0 болон v24.22.0 хувилбарууд нийтлэгдлээ.",
+   "body_mn": "JavaScript экосистемийн ээлжит дугаарт хэд хэдэн анхаарал татахуйц шинэчлэлтүүд гарлаа. Cloudflare болон VoidZero нар хамтран Go-д суурилсан TypeScript 7 хөрвүүлэгчийг Rust руу хөрвүүлсэн tsrs төслийг танилцуулав. Туршилтуудаар энэ нь стандарт TypeScript 7.0-оос 8 дахин хурдан ажиллаж, төрөл шалгах хугацааг 80 секундээс 7 болгон бууруулсан бөгөөд WebAssembly дээр ажиллах боломжтой. Одоогоор npx tsrs командаар ашиглаж болно.\n\nАюулгүй байдлын хувьд Next.js системдээ нэн ноцтой хоёр RCE (алсын зайнаас код ажиллуулах) эмзэг байдлыг зассан байна. Үүнд React Server Components-тэй холбоотой use cache болон зургийн оптимизацийн SVG боловсруулалтад гарсан цоорхойнууд багтаж байгаа тул хөгжүүлэгчдийг 16.4.1 эсвэл 15.5.28 хувилбар руу яаралтай шинэчлэхийг зөвлөжээ.\n\nТүүнчлэн Node.js v26.12.0 хувилбарт ES модулиудыг синхроноор ачаалах боломжийг нэмж тохиргооны файлыг stable болгосон бол LTS хувилбар болох v24.22.0-д util.throttle болон util.debounce функцууд албан ёсоор нэмэгдлээ. Мөн Astro 7.4-т параллель prerendering боломж, Vite-ийн багийн Void фулл-стэк платформ нээлттэй эхтэй болсон зэрэг олон шинэчлэлт багтсан байна.",
+   "published": "2026-10-20T00:00:00Z",
+   "added": "2026-10-20T19:46:08Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "29b8d8f7cbfbfb12",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+   "image": "https://framerusercontent.com/images/g61nppL2S0T51TuBYG0bTxac2U.png?width=2150&height=1126",
+   "title": "Publish fake stats, get cited in LLMs",
+   "summary_en": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 267 # Comments: 148",
+   "title_mn": "Хуурамч статистик нийтэлж LLM загваруудын ишлэлд орох боломжтойг туршилтаар нотлов",
+   "summary_mn": "Судлаач GPT-4.1 ашиглан 50,000 зохиомол тоон үзүүлэлт бүхий вэбсайт үүсгэхэд Google хайлтын индексээс хассан ч ChatGPT тус хуурамч мэдээллүүдийг иш татан хариултандаа ашигласаар байгааг харуулжээ.",
+   "body_mn": "Хиймэл оюуны хайлтын системүүд (GEO - Generative Engine Optimization) мэдээллийг хэрхэн цуглуулж буйг шалгах зорилгоор нэгэн судлаач 50 ам.долларын өртгөөр 50,000 хуурамч статистик бүхий stateglobe.com сайтыг GPT-4.1 ашиглан автоматаар үүсгэсэн туршилт хийжээ.\n\nХэдийгээр Google систем уг хуурамч хуудсуудыг алгоритмаараа илрүүлж өөрийн хайлтаас хассан боловч ChatGPT болон бусад LLM загварууд тухайн тоо баримтуудыг бодит эх сурвалж шиг иш татсаар байгааг тэрээр онцолсон байна. Тус зохиомол тоонууд цаашлаад 330 гаруй том домэйн, эрдэм шинжилгээний өгүүлэл, банкны хөрөнгө оруулалтын тайланд хүртэл хуулагдан оржээ.\n\nЭнэхүү туршилт нь одоогийн LLM-үүд баримт шалгах, эх сурвалжийг найдвартай шүүх тал дээр эмзэг байгааг харуулж байгаа бөгөөд хиймэл оюунд суурилсан хайлтын системүүдийг мэдээллийн эх сурвалжаа нягтлахад ихээхэн анхаарах шаардлагатайг сануулж байна.",
+   "published": "2026-10-20T13:06:22Z",
+   "added": "2026-10-20T19:46:08Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d4c21442014f5126",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Blog",
+   "source_label": "GitHub Blog",
+   "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+   "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo.png",
+   "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+   "summary_en": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results.",
+   "title_mn": "Java Champions мэргэжилтнүүд GitHub Copilot-ийг хэрхэн үр дүнтэй ашигладаг вэ",
+   "summary_mn": "Арвин туршлагатай Java мэргэжилтнүүд GitHub Copilot-ийг кодын чанар, архитектурт хэрхэн нөлөөлдөг тухай туршлагаасаа хуваалцлаа. Тэд даалгаврын цар хүрээнээс хамаарч Opus зэрэг тохирох загварыг сонгох болон өөрийн бичлэгийн хэв маягийг суулгах арга барилыг онцолсон байна.",
+   "body_mn": "GitHub-аас 10 гаруй жилийн туршлагатай гурван Java Champion зэрэгтэй хөгжүүлэгчтэй ярилцаж, тэдний бодит төсөл болон нээлттэй эх дээр GitHub Copilot-ийг ашигладаг практик аргуудыг нийтэлжээ. Тэд хиймэл оюуны үүсгэсэн кодод шууд найдах бус контекст өгөх, үр дүнг нягтлах зарчмыг баримталдаг байна.\n\nТухайлбал Hypersistence санг хөгжүүлэгч өмнө нь хэдэн долоо хоног зарцуулдаг байсан Optimizer хэрэгслийн веб интерфейсийг хоёрхон өдрийн дотор Copilot-ийн тусламжтай прототайп хийж дуусгажээ. Тэрээр IntelliJ IDEA дотор Copilot-ийг кодын судалгаа болон дибаг хийхэд туслах ажилтан мэт ашигладаг гэдгээ дурдсан байна.\n\nТүүнчлэн даалгаврын шинж чанараас хамааран загвараа сонгох арга барилыг онцолжээ. Гүнзгий төлөвлөлт, нарийн сэтгэхүй шаардсан үед 1 сая контекст бүхий Claude Opus загварыг өндөр reasoning тохиргоотойгоор ашигладаг бол баримтжуулалт, репорт бэлтгэх зэрэг энгийн ажлуудад цөөн токен зарцуулдаг хөнгөн загваруудыг сонгох нь бүтээмжид тустай гэжээ.",
+   "published": "2026-10-20T16:05:03Z",
+   "added": "2026-10-20T19:46:08Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9e6ca8faca0e5946",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v43.8.2",
+   "image": "https://opengraph.githubassets.com/f754ec5c3ededb9e23840602de600cb559546ee989a418782db1248691d2e03f/electron/electron/releases/tag/v43.8.2",
+   "title": "electron v43.8.2",
+   "summary_en": "Release Notes for v43.8.2",
+   "title_mn": "Electron v43.8.2 хувилбар гарлаа",
+   "summary_mn": "Electron төслийн зүгээс v43 салбарын ээлжит алдаа засвар болон тогтвортой байдлын сайжруулалтыг багтаасан v43.8.2 хувилбарыг нийтэллээ.",
+   "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн түгээмэл фрэймворк болох Electron төсөл албан ёсны v43.8.2 хувилбараа гаргалаа.\n\nЭнэхүү шинэчлэл нь 43.x хувилбарын тогтвортой байдлыг хангах, дотоод бүрэлдэхүүн хэсгүүдийн алдааг засах зорилготой ээлжит засвар юм. Хөгжүүлэгчид өөрсдийн Electron аппликейшнээ хамгийн сүүлийн хувилбар луу шинэчлэн ашиглах боломжтой.",
+   "published": "2026-10-20T17:34:05Z",
+   "added": "2026-10-20T19:46:08Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9af76d6e4ed4446e",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v42.11.17",
+   "image": "https://opengraph.githubassets.com/dbc51a844b4f9b68975d18df9f795aab9a96bb47580eeb40d724991b313a6e68/electron/electron/releases/tag/v42.11.17",
+   "title": "electron v42.11.17",
+   "summary_en": "Release Notes for v42.11.17 Warning Electron 42.x.y has reached end-of-support as per the project's support policy . Developers and applications are encouraged to upgrade to a newer version of Electron.",
+   "title_mn": "Electron v42.11.17 гарч, 42.x хувилбарын дэмжлэг албан ёсоор дуусав",
+   "summary_mn": "Electron 42.x салбарын хамгийн сүүлийн v42.11.17 хувилбар гарсан бөгөөд уг салбарын албан ёсны дэмжлэг хугацаа дууссаныг төслийн баг анхаарууллаа.",
+   "body_mn": "Electron төслөөс v42.11.17 хувилбарыг нийтэлсэн бөгөөд үүнтэй зэрэгцэн төслийн дэмжлэгийн бодлогын дагуу Electron 42.x.y салбарын дэмжлэг бүрэн дууссаныг зарлалаа.\n\nДэмжлэгийн хугацаа дууссан тул хөгжүүлэгчид болон багуудыг аюулгүй байдал, шинэ боломжуудыг ашиглахын тулд аппликейшнүүдээ Electron-ийн илүү шинэ тогтвортой хувилбарууд руу шилжүүлэхийг зөвлөж байна.",
+   "published": "2026-10-20T17:35:15Z",
+   "added": "2026-10-20T19:46:08Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7a6e0063e12000db",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v44.9.2",
+   "image": "https://opengraph.githubassets.com/792ce9ffea59b41be1ea30299e3277f914567d1f917d8663fb30f1d8fbca4552/electron/electron/releases/tag/v44.9.2",
+   "title": "electron v44.9.2",
+   "summary_en": "Release Notes for v44.9.2",
+   "title_mn": "Electron v44.9.2 хувилбар нийтлэгдлээ",
+   "summary_mn": "Electron v44 салбарын ээлжит тогтвортой байдлын засваруудыг агуулсан v44.9.2 хувилбар хөгжүүлэгчдэд хүрэв.",
+   "body_mn": "Electron десктоп фрэймворкийн v44 салбарын ээлжит v44.9.2 хувилбар гарлаа.\n\nУг шинэчлэлтэд системийн тогтвортой ажиллагаа, дотоод бүрэлдэхүүн хэсгүүдийн алдаа засварууд багтсан тул хөгжүүлэгчид төслөө шинэчлэх боломжтой.",
+   "published": "2026-10-20T17:44:18Z",
+   "added": "2026-10-20T19:46:08Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7fa30abfca2c7ff1",
+   "subtopic": "vibe-coding",
+   "source": "Simon Willison",
+   "source_label": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+   "image": "https://static.simonwillison.net/static/2026/battle-drones-card.webp",
+   "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+   "summary_en": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more fun\". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built this v1: the initial prototype v2: full sprites v3: varied terrain v4: the fun update v5: Battle…",
+   "title_mn": "Claude Code ашиглан аудио холболттой RTS тоглоом бүтээсэн туршлага",
+   "summary_mn": "Саймон Уиллисон Claude Code болон загваруудыг ашиглан бараг код бичилгүйгээр дуугаар холбогддог Command & Conquer маягийн хөтөч тоглоом бүтээсэн арга туршлагаа хуваалцлаа.",
+   "body_mn": "Нээлттэй эхийн хөгжүүлэгч Саймон Уиллисон гар утас болон хөтөч дээр тоглох боломжтой Battle Drones нэртэй RTS төрлийн тоглоомыг Claude Code болон Claude загваруудаар код бичүүлэн бүтээжээ. Тоглоом нь хоёр төхөөрөмж микрофоны дуугаар өгөгдөл синхрончлон олон тоглогчийн горимоор тоглох сонирхолтой чадвартай.\n\nТэрээр нийт 12 томоохон давталт, 321 commit хийсэн бөгөөд кодыг нь өөрөө бараг шалгаагүй, урьд өмнө төдийлөн ашиглаж байгаагүй TypeScript болон Phaser фрэймворк дээр хийлгэсэн байна. Спрайт болон дүрслэлийн хувьд Claude Code-д OpenAI-ийн Image Generation API түлхүүрийг орчны хувьсагчаар дамжуулан холбож, автомат зураг үүсгэх командыг өгчээ.\n\nХөгжүүлэгчид өөрсдийн санааг хэрэгжүүлэхдээ тодорхой зорилготой prompt ашиглах, график болон тоглоомын явцыг сайжруулахыг Claude Opus 5.5 зэрэг дэвшилтэт моделиудад үе шаттай даалгах замаар бүрэн ажиллагаатай төслийг хурдан босгох боломжтойг уг туршилт харуулж байна.",
+   "published": "2026-10-20T19:34:19Z",
+   "added": "2026-10-20T19:46:08Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c0c4a7f9b9d3d2b5",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_8zpqf88zpq.2e16d0ba.fill-1200x600.jpg",
+   "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
+   "summary_en": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can leverage hierarchical graph visualization, split-pane views, and per-node trace overlays to catch export regressions and verify hardware delegation. These tools enable engineering teams to transparently debug execution graphs and pinpoint cycle-level latency bottlenecks locally.",
+   "title_mn": "Google AI Edge Model Explorer хэрэгсэлд Arm компани визуал график дебаг хийх боломж нэмжээ",
+   "summary_mn": "Arm компани Google AI Edge Model Explorer хэрэгсэлд зориулсан шинэ адаптеруудыг гаргаснаар хөгжүүлэгчид edge төхөөрөмж дээрх ML загварын гүйцэтгэлийг дүрслэн харах, NPU шилжүүлэлт болон саатлыг хянах боломжтой боллоо. Энэ нь хөгжүүлэгчдэд төхөөрөмж дээр ажиллах загваруудыг оновчлоход ихээхэн тусална.",
+   "body_mn": "Машины сургалтын загваруудыг edge төхөөрөмжүүд дээр үр дүнтэй ажиллуулахын тулд квантчилал, график бууруулах, аппарат хангамжийн делегат зэрэг хөрвүүлэлтийн шат дамжлагууд зайлшгүй шаардлагатай байдаг. Arm компани Google AI Edge Model Explorer хэрэгслийн залгаас архитектурыг ашиглан TOSA, VGF, PTE зэрэг олон загварын форматыг дэмжих нээлттэй эх сурвалж бүхий адаптеруудыг бүтээжээ. Үүний тусламжтайгаар инженерүүд экспортолсон шугаман хоолойг баталгаажуулж, хурдасгуур руу шилжүүлж буй байдлыг шалгах боломжтой болж байна.\n\nШинэ шийдлийн тусламжтайгаар багууд хуваагдмал цонхны харагдац ашиглан CPU болон NPU дээр ажиллах графикуудыг зэрэгцүүлэн харьцуулах боломжтой болсон. Тухайлбал, YOLO загварыг шалгах явцад дэмжигдээгүй операторуудыг хялбархан илрүүлж байв. Мөн Arm Ethos-U85 NPU дээрх саатлыг олж тогтоохын тулд загвараа виртуал платформ дээр ажиллуулж, Model Explorer-ийн өгөгдлийн залгаасаар дамжуулан гүйцэтгэлийн мэдээллийг график дээр өнгөөр ялган харуулжээ.\n\nЭнэхүү хэрэгсэл нь хөгжүүлэгчдэд түүхий лог файлуудыг гараар шалгах шаардлагагүйгээр загварын зангилаа бүрийг нарийвчлан шинжлэх боломж олгодог. Ингэснээр edge төхөөрөмжид зориулсан хиймэл оюун ухааны загваруудыг оновчлох, алдааг олж засварлах үйл явц эрс хялбар болж байгаа юм. Сонирхсон хөгжүүлэгчид Google AI Edge Model Explorer болон Arm-ын адаптеруудыг PyPI болон GitHub-аар дамжуулан ашиглаж эхлэх боломжтой.",
+   "published": "2026-10-20T19:46:08Z",
+   "added": "2026-10-20T19:46:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "7fa30abfca2c7ff1",
+ "subtopic": "vibe-coding",
+ "source": "Simon Willison",
+ "source_label": "Simon Willison",
+ "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+ "image": "https://static.simonwillison.net/static/2026/battle-drones-card.webp",
+ "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+ "summary_en": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more fun\". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built this v1: the initial prototype v2: full sprites v3: varied terrain v4: the fun update v5: Battle…",
+ "title_mn": "Claude Code ашиглан аудио холболттой RTS тоглоом бүтээсэн туршлага",
+ "summary_mn": "Саймон Уиллисон Claude Code болон загваруудыг ашиглан бараг код бичилгүйгээр дуугаар холбогддог Command & Conquer маягийн хөтөч тоглоом бүтээсэн арга туршлагаа хуваалцлаа.",
+ "body_mn": "Нээлттэй эхийн хөгжүүлэгч Саймон Уиллисон гар утас болон хөтөч дээр тоглох боломжтой Battle Drones нэртэй RTS төрлийн тоглоомыг Claude Code болон Claude загваруудаар код бичүүлэн бүтээжээ. Тоглоом нь хоёр төхөөрөмж микрофоны дуугаар өгөгдөл синхрончлон олон тоглогчийн горимоор тоглох сонирхолтой чадвартай.\n\nТэрээр нийт 12 томоохон давталт, 321 commit хийсэн бөгөөд кодыг нь өөрөө бараг шалгаагүй, урьд өмнө төдийлөн ашиглаж байгаагүй TypeScript болон Phaser фрэймворк дээр хийлгэсэн байна. Спрайт болон дүрслэлийн хувьд Claude Code-д OpenAI-ийн Image Generation API түлхүүрийг орчны хувьсагчаар дамжуулан холбож, автомат зураг үүсгэх командыг өгчээ.\n\nХөгжүүлэгчид өөрсдийн санааг хэрэгжүүлэхдээ тодорхой зорилготой prompt ашиглах, график болон тоглоомын явцыг сайжруулахыг Claude Opus 5.5 зэрэг дэвшилтэт моделиудад үе шаттай даалгах замаар бүрэн ажиллагаатай төслийг хурдан босгох боломжтойг уг туршилт харуулж байна.",
+ "published": "2026-10-20T19:34:19Z",
+ "added": "2026-10-20T19:46:08Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
