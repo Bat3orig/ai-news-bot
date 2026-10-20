@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "4613775bbf7f6053",
-   "subtopic": "ai-devtools",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
-   "image": "https://opengraph.githubassets.com/4767d9905959f94d4d452a1eccb99eec0101bbd3def805ff5621603a1436379a/IsuruMaduranga/harness-engineering-101",
-   "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-   "summary_en": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 126 # Comments: 61",
-   "title_mn": "Harness Engineering 101: LLM-ийн харьцаа ба AI агентуудыг нэг давталтаас барих арга",
-   "summary_mn": "Hacker News-д нийтлэгдсэн Harness Engineering 101 нь AI агент бүтээх сэдвээр 16 бүлэгтэй нээлттэй ном юм. Энэ нь API-ийн stateless шинж чанар болон harness-ийн үүргийг тайлбарлаж, Python дээр ~300 мөрийн жишээ агент бүтээдэг.",
-   "body_mn": "Harness Engineering 101 ном нь LLM-ийг тархи, harness-ийг бие гэж үздэг. LLM API нь stateless тул хэлэлцүүлгийн бүх массивыг илгээж, текст хариу авдаг. Harness бол энэ массивыг бүтээж, хадгалж, хамгаалдаг программ юм. Номын зохиогч бүх «агент» гэгдэх системүүд энэ нэг давталтын дээр хийгдсэн засваруудаас бүрдэнэ гэж үзжээ.\n\nНоман дахь бүлэг бүр нэг алдааг, түүнд хэрэглэх хамгийн бага засварыг, засварын зардлыг тайлбарладаг. Жишээ агентыг Python дээр ~300 мөрөөр бүтээж, алхам алхмаар өргөжүүлдэг. Зохиогч мөн өөрийн нээлттэй эхтэй кодын агент One Code-ийг pi дээр бүтээсэн гэдгээ дурджээ.\n\nХөгжүүлэгчдэд энэ нь агент системийг хэрхэн бүтээх, контекст удирдлага, алдаа засах зарчмуудыг ойлгоход тустай материал юм. Ном нь онлайн хэлбэрээр илүү сайн уншигдахаар бүтээгдсэн тул холбоосоор нь орж үзэхийг зөвлөж байна.",
-   "published": "2026-10-19T12:07:41Z",
-   "added": "2026-10-19T17:37:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8978d97abe0c7ec0",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/option4_minimal_flow_diagram_1600.2e16d0ba.fill-1200x600.png",
-   "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
-   "summary_en": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress updates or background execution patterns to keep conversations fluid during long-running backend queries. Additionally, configuring response scheduling behaviors such as WHEN_IDLE, INTERRUPT, or SILENT gives developers precise control over when and how tool results are delivered into the conversation.",
-   "title_mn": "Google ADK: Түгжрэлгүй дуут туслах хөгжүүлэх гарын авлага гарлаа",
-   "summary_mn": "Google Agent Development Kit (ADK) болон gemini-3.8-live ашиглан удаан ажилладаг tool-үүдийн үед дуут харилцаа тасалдахгүй байх non-blocking хөгжүүлэлтийн загварыг танилцууллаа.",
-   "body_mn": "Бодит цагийн дуут туслахтай харилцах үед өгөгдлийн сангийн хүсэлт эсвэл RAG процесс удаашрахад хэрэглэгчид дуудлага тасарсан мэт сэтгэгдэл төрүүлдэг чимээгүй зай (dead air) үүсдэг. Google-ээс гаргасан шинэ гарын авлагад ADK болон gemini-3.8-live ашиглан удаан ажилладаг функцуудыг харилцан яриаг түгжихгүйгээр (non-blocking) Python хэл дээр хэрхэн зохион байгуулахыг тайлбарлажээ.\n\nХөгжүүлэгчид return-ийн оронд yield ашиглан AsyncGenerator хэлбэрээр функцээ зарласнаар ADK түүнийг автоматаар non-blocking горимд шилжүүлж, загварт шууд төлөвийн хариу илгээдэг байна. Ингэснээр Gemini тухайн даалгаврыг ард хийж байх зуур хэрэглэгчтэй яриагаа үргэлжлүүлэн явцыг тайлбарлах эсвэл түр хүлээнэ үү гэж хариулаад үр дүн бэлэн болоход мэдээлэх боломжтой болжээ.\n\nТуршилтаар уг архитектурыг ашигласнаар агент анхны хариу үгээ хэлэх хүртэлх хугацаа 14.4 секунд байснаас 1.2 секунд болж буурсан байна. Энэ шийдэл нь дуут AI агент бүтээж буй инженерүүдэд хэрэглэгчийн туршлагыг (UX) эрс сайжруулах бэлэн архитектурын шийдлийг санал болгож байна.",
-   "published": "2026-10-19T17:37:39Z",
-   "added": "2026-10-19T17:37:39Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "732285c665a6011f",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_bguxwvbgux.2e16d0ba.fill-1200x600.jpg",
-   "title": "Native Model Authoring for Edge with LiteRT Tensor API",
-   "summary_en": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
-   "title_mn": "Google LiteRT Tensor API-г танилцууллаа: Төхөөрөмж дээрх AI загварыг C++ дээр бүтээх шинэ шийдэл",
-   "summary_mn": "Google edge төхөөрөмжүүдэд зориулсан загваруудыг C++ дээр op тус бүрээр нь уян хатан угсарч, CPU, GPU болон NPU дээр хөрвүүлэлтгүй ажиллуулах LiteRT Tensor API-г гаргалаа.",
-   "body_mn": "Мобайл болон edge төхөөрөмж дээр AI загваруудыг ажиллуулахад санах ой болон хурдны хатуу шаардлагууд тавигддаг. Одоогоор PyTorch загварыг LiteRT Torch-оор хөрвүүлэх нь нийтлэг арга боловч загварын архитектур болон оптимизацийг нарийн удирдахын тулд төхөөрөмж бүрд зориулан C++ болон shader кодоор дахин бичих шаардлага гардаг байв.\n\nЭнэхүү асуудлыг шийдэхээр Google LiteRT Tensor API-г танилцууллаа. Энэхүү шинэ API нь хөгжүүлэгчдэд тооцооллын графыг C++ хэл дээр op бүрээр нь нарийн угсрах боломж олгохын зэрэгцээ нэг бичсэн кодыг CPU, GPU (ML Drift-ээр дамжуулан) болон NPU дээр шууд ажиллуулах давуу талтай. Мөн оролт гаралтын өгөгдлийг хурдасгуурын дундын санах ойд (shared buffer) дамжуулснаар CPU-ээр дамжин өнгөрөх илүүдэл зардлыг арилгажээ.\n\nҮүний бодит жишээ болгож Meta-ийн SAM 2 (Segment Anything Model 2) загварыг уг API-аар бүрэн C++ дээр хэрэгжүүлж, Gemma 4 E2B-ээр удирдуулан WebGPU дээр браузер дотор секундэд 30-аас дээш фрэймийн хурдтай ажиллуулж үзүүлсэн байна. Уг сан нь мөн AI coding agent-ууд тооцооллын графыг автоматаар өөрчлөх суурь болж чадах бөгөөд жишээ кодыг нээлттэй байршуулжээ.",
-   "published": "2026-10-19T17:37:39Z",
-   "added": "2026-10-19T17:37:39Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "640c0c8e1a4569c1",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending TypeScript",
-   "source_label": "GitHub Trending TypeScript",
-   "url": "https://github.com/DmNote-App/DmNote",
-   "image": "https://opengraph.githubassets.com/2ffcd86baf908523f217484092fcb0329c9f0998b14635a52dbe227c4daf895a/DmNote-App/DmNote",
-   "title": "DmNote-App/DmNote",
-   "summary_en": "Make it yours. A customizable key viewer for DJMAX RESPECT V and any game. https://DmNote.app 한국어 | English | 中文 DM Note Make it yours 나만의 스타일로 완성하는 키뷰어 개요 DM Note 는 DJMAX RESPECT V에서 사용하기 위해 만들어진 키뷰어입니다. 다른 게임에서도 자유롭게 사용할 수 있고 설정이 간단해서 스트리밍이나 플레이 영상에 키 입력을 바로 띄울 수 있습니다. 지원 환경 · Windows 10/11 · macOS 리눅스 환경이라면 커뮤니티 포크 버전 을 사용해 보시는 것을 추천합니다. DM NOTE v2.0.2 다운로드 Code signing policy 주요 기능 입력과 표시 : 실시간 시각화 · 키 매핑 · 노트 효과 · 키 카운터 · KPS 통계와 그래프 · 키음 꾸미기 : 그리드에서 키 편집 · 키마다 이미지 지정 · 사용자 정의 CSS · 플러그인 · 프리셋 오버레이 : 항상 위에 표시 · 위치 고정 · 리사이즈 기준점 · OBS 브라우저 소스 그 밖에 다국어 5종, 단축키, 설정 초기화, 자동 업데이트를 지원합니다. 자세한…",
-   "title_mn": "DmNote-App/DmNote: Тоглоом болон стримингэд зориулсан тохируулга өндөртэй key viewer",
-   "summary_mn": "DJMAX RESPECT V болон бусад тоглоомуудын товчлуурын даралтыг шууд дэлгэц болон OBS дээр харуулдаг Tauri болон вэб технологи дээр суурилсан нээлттэй эхтэй key viewer төсөл.",
-   "body_mn": "DmNote-App/DmNote нь тоглоом тоглох үед товчлуурын даралтуудыг бодит цаг хугацаанд дэлгэц болон шууд дамжуулалт (streaming) дээр визуал хэлбэрээр харуулахад зориулагдсан нээлттэй эхтэй төсөл юм. Анх DJMAX RESPECT V тоглоомд зориулагдсан боловч хялбар тохиргооны тусламжтайгаар ямар ч тоглоомтой хамт ашиглах боломжтой.\n\nУг хэрэгсэл нь товчлуурын даралтын бодит цагийн эффект, KPS (keys per second) статистик ба график, товч бүрийн зураг тохируулах боломж, мөн хэрэглэгчийн CSS-ээр интерфэйсийг өөрчлөх боломжуудыг агуулдаг. Түүнчлэн олон дэлгэц болон тусдаа стриминг компьютертой хүмүүст зориулан OBS Browser Source горимыг бүрэн дэмждэг.\n\nТехнологийн хувьд уг аппликейшн нь Tauri фрэймворк (Rust + TypeScript/JS) дээр суурилсан бөгөөд Windows дээр дууны latency-г багасгах зорилгоор Steinberg ASIO SDK-г дэмждэг. Үүнийг туршиж үзэхийн тулд GitHub дээрх хувилбараас татан авч шууд ажиллуулах боломжтой бол хөгжүүлэгчид npm болон cargo ашиглан өөрсдөө билд хийх боломжтой.",
-   "published": "2026-10-19T17:37:39Z",
-   "added": "2026-10-19T17:37:39Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c079900c920f7a1c",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "KDnuggets",
-   "url": "https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows",
-   "image": "https://www.kdnuggets.com/wp-content/uploads/KDN-Shittu-Claude-Haiku-5.5-Whats-New-and-How-to-Use-It-for-Fast-Cheap-AI-Workflows-scaled.png",
-   "title": "Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows",
-   "summary_en": "Anthropic released Claude Haiku 5.5 on October 7, 2026, and calls it its cheapest, fastest, and most capable small model. The API model ID is claude-haiku-5-5, and prompts up to 100,000 tokens cost $0.10 per million input tokens and $0.50 per million output tokens.",
-   "title_mn": "Claude Haiku 5.5 гарлаа: Үнэ нь хямдарч, контекст цонх нь томров",
-   "summary_mn": "Anthropic компани Claude Haiku 5.5 загвараа гаргаж, үнийг нь 90 хувиар бууруулан, 1 сая токен бүхий контекст цонх болон адаптив сэтгэлгээний боломжийг нэмжээ.",
-   "body_mn": "Anthropic компани өөрийн хамгийн хямд, хурдан бөгөөд авсаархан загвар болох Claude Haiku 5.5-ыг албан ёosan танилцууллаа. API хувилбарын ID нь claude-haiku-5-5 бөгөөд 100,000 хүртэлх токен бүхий промптод оролт болон гаралтад өмнөхөөсөө илүү хямд үнээр үйлчлэх юм. Шинэ загвар нь Amazon Web Services, Google Cloud, Microsoft Azure болон Claude Platform дээр ашиглах боломжтой болжээ.\n\nЭнэхүү шинэ хувилбар нь их хэмжээний өгөгдөл боловсруулах, хураангуйлах, мэдээллийн сангийн асуулга болон ангилал хийх зэрэг ажлуудад илүү тохиромжтой байхаар бүтээгдсэн байна. Гэхдээ шинэ токенчлолын систем ашигладаг тул ижил текпийн токен тоо ойролцоогоор 30 хувиар илүү гарч болохыг анхаарах хэрэгтэй. Хэдий тийм боловч нийт зардал дунджаар 75 хувиар хэмнэгдэнэ гэж тооцоолжээ.\n\nХөгжүүлэгчдийн хувьд өмнөх Haiku 4.5 хувилбарын кодод зарим нэг эвдрэл гарч болзошгүйг анхааруулж байна. Тухайлбал temperature, top_p, top_k утгуудыг илгээхэд алдаа заах бөгөөд адаптив сэтгэлгээний горим автоматаар идэвхждэг болсон байна. Python SDK ашиглан ангилал болон дата олборлох ажлуудад шинэ JSON output боломжийг ашиглан хялбархан нэгтгэх боломжтой.",
-   "published": "2026-10-19T16:17:48Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e51e135e52206fa4",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "MIXED Reality News",
-   "url": "https://mixed-news.com/en/claude-code-2-1-302-prompt-suggestions-usage-credits-stable-2-1-292/",
-   "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/27fbaaaad054e76728f21d5349c429349a817927-1920x1080-1.png",
-   "title": "Claude Code stops prompt suggestions spending your credits, and stable has neither fix",
-   "summary_en": "Claude Code was spending usage credits on its own prompt suggestions, the follow-up prompts it offers after a reply, whenever the model in use is one a",
-   "title_mn": "Claude Code v2.1.302 шинэчлэлт: Кредит зарцуулдаг алдааг засварлав",
-   "summary_mn": "Anthropic компани Claude Code хэрэгслийнхээ 2.1.302 хувилбарыг гаргаж, хэрэглэгчийн хүсэлтгүйгээр кредитээс төлбөр суутгадаг байсан алдааг заслаа.",
-   "body_mn": "Claude Code хэрэгслийн шинэчилсэн 2.1.302 хувилбар гарч, хэрэглэгчийн зөвшөөрөлгүйгээр ашиглалтын кредитээс мөнгө хасдаг байсан алдааг амжилттай засварлалаа. Өмнөх хувилбаруудад модель хариу өгсний дараа автоматаар гарч ирдэг санал болгох промптууд нь зөвхөн кредит ашиглан төлбөрөө төлдөг хэрэглэгчдийн үлдэгдлээс тодорхой хэмжээний кредитийг автоматаар суутгадаг байсан юм. Шинэ хувилбараар энэ асуудлыг бүрэн шийдвэрлэжээ.\n\nЭнэхүү шинэчлэлт нь пуужин шиг хурдацтай гарсан бөгөөд өмнөх 2.1.301 хувилбар гарснаас хойш ердөө 26 цагийн дараа олон нийтэд хүрсэн байна. Мөн plugin ачаалах хурдыг сайжруулж, файлын системийн хандалтын тоог цөөлснөөр олон plugin идэвхжүүлсэн үед ачаалах хугацааг эрс хурдасгасан байна.\n\nХөгжүүлэгчид энэхүү шинэчлэлтийг хийснээр хүсээгүй төлбөр гарахаас сэргийлж, API түлхүүр болон бусад тохиргоонуудыг илүү найдвартай удирдах боломжтой болж байна. Claude Code-ийн хувьд сесс эхлэх болон бусад командуудыг гүйцэтгэхэд гардаг жижиг саад бэрхшээлүүдийг үе шаттайгаар зассаар байна.",
-   "published": "2026-10-19T18:33:57Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9d60322d2e5e538a",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service",
-   "image": "https://vercel.com/api/dynamic-og?title=Updates%20to%20Hobby%20and%20Pro%20Terms%20of%20Service&format=changelog",
-   "title": "Updates to Hobby and Pro Terms of Service",
-   "summary_en": "We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and credits, and reflect applicable legal requirements, including certain cancellation and service-change rights for eligible consumers in the UK and EU. Credits and billing A new section sets out how credits work: plan-included credits expire at the end of the subscription term and purchased credits expire one year after purchase unless stated otherwise. Credits can only be used to pay Vercel fees…",
-   "title_mn": "Vercel платформ Hobby болон Pro үйлчилгээний нөхцөлөө шинэчиллээ",
-   "summary_mn": "Vercel компани Hobby болон Pro хэрэглэгчдэд зориулсан үйлчилгээний нөхцөлийг шинэчилж, кредит ашиглалт болон хугацааны талаарх зохицуулалтыг тодорхой болголоо.",
-   "body_mn": "Vercel платформ нь 2026 оны 10 дугаар сарын 19-ний өдрөөс эхлэн Hobby болон Pro хэрэглэгчдэд зориулсан үйлчилгээний нөхцөлөө (Terms of Service) шинэчлэн хэрэгжүүлж эхэллээ. Энэхүү шинэчлэлтээр кредитийн зарцуулалт, менежменттэй багууд болон хэрэглэгчийн эрх зүйн шаардлагуудыг илүү тодорхой болгосон байна.\n\nШинэ нөхцөлийн дагуу багцын хүрээнд олгогдсон кредитүүд нь тухайн захиалгын хугацаа дуусахад хүчингүй болох бөгөөд худалдаж авсан кредитүүд нь тусгайлан заагаагүй бол худалдаж авснаас хойш нэг жилийн дараа дуусах аж. Эдгээр кредитүүд нь зөвхөн Vercel-ийн хураамжийг төлөхөд зориулагдсан бөгөөд бэлэн мөнгө болгох болон бусдад шилжүүлэх боломжгүй юм.\n\nMөн Их Британи болон Европын Холбооны оршин суугч хэрэглэгчдэд үйлчилгээний өөрчлөлтөөс шалтгаалан захиалгаа цуцлах, буцаан олголт авах эрхтэй холбоотой зохицуулалтуудыг нарийвчлан тусгажээ. Хэрэглэгчид өөрийн бүртгэлийн тохиргоо болон дэмжлэгийн хэсгээр дамжуулан автоматаар сунгагдах тохиргоог удирдах боломжтой хэвээр байна.",
-   "published": "2026-10-19T18:39:47Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ca07548f6acfab72",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Blog",
-   "source_label": "GitHub Blog",
-   "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-   "image": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-3.11.02-PM.png",
-   "title": "How to continue a GitHub Copilot app session in VS Code",
-   "summary_en": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.",
-   "title_mn": "GitHub Copilot апп дахь сессийн ажлыг VS Code руу шууд шилжүүлэх боломжтой боллоо",
-   "summary_mn": "Та GitHub Copilot апп дотор хийсэн ажлаа ямар ч хуулбарлалтгүйгээр Visual Studio Code рүү шууд шижүүлж үргэлжлүүлэн шалгах, засварлах боломжтой боллоо.",
-   "body_mn": "GitHub Copilot апп ашиглан кодын өөрчлөлт хийж дууссаны дараа тухайн ажлыг орон нутгийн орчинд турших, нарийн ширийн зүйлсийг нь гараар шалгах шаардлага гардаг. Тэгвэл энэ үйл явцыг хялбарчилж, Copilot апп дээрх сесс болон ярианы түүхийг алдалгүйгээр Visual Studio Code рүү шууд нээж үргэлжлүүлэх боломжтой болжээ.\n\nЭнэ нь хөгжүүлэгчдэд Copilot-ын хийсэн ажлын төлөвлөгөө, ярианы түүх болон өөрчлөгдсөн файлуудын контекстийг алдахгүйгээр VS Code доторх Source Control болон хажуугийн самбараар дамжуулан нарийвчлан хянах боломжийг олгож байна. Та хуучин кодоо шинэ цонхонд дахин бичих эсвэл файлыг хуулж зөөх шаардлагагүйгээр шууд үргэлжлүүлэн засварлах боломжтой.\n\nVS Code дотор сессийг нээсний дараа өөрчлөлтүүдийг мөр мөрөөр нь шалгаж, шаардлагатай бол нэмэлт зааварчилгаа өгөх эсвэл өөрөө гараар засвар хийх боломжтой. Мөн терминал ашиглан төслийн тестийг ажиллуулж, browser дээр үр дүнг шууд шалгах боломжтой юм.",
-   "published": "2026-10-19T18:47:22Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0f333d6652dcf50a",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.304",
-   "image": "https://opengraph.githubassets.com/3ff3f9cbe72ac999e8c7a9ebc27fd95fb47a98253de2beee336521f03bd71c64/anthropics/claude-code/releases/tag/v2.1.304",
-   "title": "claude-code v2.1.304",
-   "summary_en": "What's changed Added a transcript line when a plugin that runs first skips one of your mod's hooks, naming the event and the plugin Added decider: \"person\" to a mod's tool.check answer: only the permission dialog or a host's callback can approve the ask, and it is refused with the mod's reason where nobody can be asked Added e.isReadOnly to a mod's tool.check event, set when the tool call is read-only Added /auto-mode-setup : a guided setup that reads your project and recent sessions to teach auto mode about your environment, now also available on Bedrock, Vertex, Foundry, Claude apps…",
-   "title_mn": "Claude Code v2.1.304 шинэчлэлт гарлаа",
-   "summary_mn": "Claude Code v2.1.304 хувилбар гарч, автомат горимын тохиргоо, транскрипт болон плагины удирдлагын шинэ боломжууд нэмэгдлээ.",
-   "body_mn": "Claude Code хэрэгслийн 2.1.304 шинэ хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон шинэ боломж болон алдаа засваруудыг багтаалаа. Тухайлбал, автоматаар ажиллах горимыг төсөл болон сүүлийн үеийн сессүүдэд үндэслэн зааварчилгаа өгөх шинэ /auto-mode-setup команд нэмэгдсэн байна.\n\nШинэ хувилбарт плагинууд болон горимуудын аюулгүй байдлын шалгалтыг сайжруулж, tool.check үйл явдалд e.isReadOnly болон person шинэ утгуудыг нэмжээ. Мөн Bedrock, Vertex, Foundry болон Claude apps gateway зэрэг орчинд автомат горимын тохиргоог дэмждэг болсон байна.\n\nТүүнчлэн Linux болон бусад үйлдлийн систем дээр sandbox команд ажиллах үед гардаг байсан зарим файлын системийн алдааг засварлаж, транскрипт болон санах ойн менежментийг илүү тогтвортой болгожээ.",
-   "published": "2026-10-19T21:34:39Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "afef75d2fc43212b",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending TypeScript",
-   "source_label": "GitHub Trending TypeScript",
-   "url": "https://github.com/LibreChat-AI/LibreChat",
-   "image": "https://opengraph.githubassets.com/f0ef75ffec1c3de42b7d12f134b2127dbbdfe480973d7f5cb40fd7ba7522e95d/LibreChat-AI/LibreChat",
-   "title": "LibreChat-AI/LibreChat",
-   "summary_en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active https://librechat.ai/ LibreChat English · 中文 🚀 What's New in v0.8.8 Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identities…",
-   "title_mn": "LibreChat-AI/LibreChat: Олон AI загварыг нэгтгэсэн нээлттэй эх бүхий чат платформ",
-   "summary_mn": "LibreChat нь OpenAI, Anthropic, Gemini зэрэг бүх томоохон AI үйлчилгээнүүдийг нэг дор төвлөрүүлж, өөрийн сервер дээр бие даан ажиллуулах боломжтой нээлттэй эх бүхий хэрэглэгчийн интерфэйс юм.",
-   "body_mn": "LibreChat төсөл нь ChatGPT-ийн интерфэйсээс санаа авсан бөгөөд нууцлалыг дээдэлсэн, өөрийн сервер дээр (self-hosted) ажиллах боломжтой систем юм. Уг систем нь OpenAI, Anthropic, Google Gemini, AWS Bedrock, DeepSeek, Groq болон бусад олон тооны үйлчилгээ үзүүлэгчдийг нэг платформд нэгтгэдгээрээ онцлогтой.\n\nЭнгийн чатаас гадна AI агентууд, Model Context Protocol (MCP) протокол, Artifacts, Code Interpreter, зураг үүсгэгч DALL-E-3 болон OpenAPI actions зэрэг олон төрлийн өргөтгөсөн боломжуудыг дэмждэг. Түүнчлэн олон хэрэглэгчийн бүртгэл, хандалтын эрхийн удирдлага зэрэг байгууллагын түвшний шаардлагуудыг хангасан шийдлүүдийг багтаасан байна.\n\nТехнологийн хувьд TypeScript болон Node.js экосистем дээр бүтээгдсэн бөгөөд дата бааз, кэшлэх системийг өөртөө агуулдаг. Байгууллагынхаа дотоод сүлжээнд хиймэл оюун ухааны шийдлийг аюулгүй байршуулахыг хүссэн хөгжүүлэгчид болон багуудад нэн тохиромжтой.\n\nХөгжүүлэгчид уг платформыг туршиж үзэхийн тулд төслийн GitHub сангаас Docker Compose ашиглан маш хурдан хугацаанд өөрийн орчинд асааж ашиглах боломжтой юм.",
-   "published": "2026-10-19T21:53:46Z",
-   "added": "2026-10-19T21:53:46Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "9c15e014464735eb",
    "subtopic": "gh-js",
    "source": "GitHub Trending JavaScript",
@@ -495,6 +295,26 @@
    "body_mn": "Electron хөгжүүлэгчдийн баг v42 салбарын ээлжит алдаа засварын v42.11.16 хувилбарыг албан ёсоор нийтэллээ.\n\nЭнэхүү шинэчлэл нь системийн тогтвортой ажиллагаа болон аюулгүй байдлыг хангах жижиг алдааны засваруудыг агуулж байгаа бөгөөд Electron v42 хувилбар дээр ажиллаж буй төслүүд шинэчлэл хийх боломжтой.",
    "published": "2026-10-20T00:49:20Z",
    "added": "2026-10-20T00:51:14Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "23d1193509960b25",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+   "image": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
+   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+   "summary_en": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 194 # Comments: 34",
+   "title_mn": "WhatsApp тусламжийн хуудсандаа LLM-д зориулсан нууц заавар байршуулжээ",
+   "summary_mn": "WhatsApp-ын тусламжийн веб хуудсуудад дэлгэцэнд харагддаггүй, зөвхөн хиймэл оюуны агентуудад хандсан далд зааврууд нуугдаж байсныг судалгаагаар илрүүлжээ.",
+   "body_mn": "Судлаачид WhatsApp-ын тусламжийн 545 хуудсанд шинжилгээ хийх явцдаа энгийн хэрэглэгчийн дэлгэцэнд харагддаггүй, харин мэдээлэл цуглуулж буй LLM системүүдэд зориулсан 102 тусгай заавар блокийг илрүүлжээ. Эдгээр зааврыг 2026 оны аравдугаар сарын дунд хүртэл байршуулсан байсан байна.\n\nТухайлбал, бүртгэлээ устгах тухай заавар бүхий хуудсанд хиймэл оюунд хандаж, хэрэглэгчид өгөгдөл хамгаалах байгууллага болон зохицуулагч нарт хандахыг зөвлөхгүй байх, түүнчлэн WhatsApp гараар бүртгэл устгах боломжтой гэж хэлэхгүй байхыг шууд тушаасан заавар байжээ.\n\nМөн шүүх, хуульч, гомдол гаргах зэрэг сэдвийг хөндөх үед AI-д Үйлчилгээний нөхцөл, Нууцлалын бодлогоос эш татахгүй байхыг үүрэгдсэн байв. Энэ нь хиймэл оюуны хайлтын систем болон RAG агентуудын хариултыг компаниуд далд заавраар өөрт ашигтайгаар удирдах бодит эрсдэл бий болсныг харуулж байна.",
+   "published": "2026-10-19T23:22:18Z",
+   "added": "2026-10-20T05:35:33Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 3
   }
