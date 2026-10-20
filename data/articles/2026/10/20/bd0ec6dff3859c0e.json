@@ -1,0 +1,17 @@
+{
+ "id": "bd0ec6dff3859c0e",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/websocket-support-is-now-generally-available",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7c4auyHqkLdgm8XogbfO8K/c09171a482d1b84ba3114b103984b4dd/image__47_.png",
+ "title": "WebSocket support is now generally available",
+ "summary_en": "WebSocket support in Vercel Functions is now generally available. Since the public beta launched in late June , Vercel CDN has served 300 million WebSocket connections, and now serves 15 million per day. Customers use WebSockets for AI chat, streaming, and realtime multiplayer apps. WebSockets also power AI Gateway's realtime models . WebSocket connections follow the same limits and pricing as other Function invocations. With Active CPU pricing , CPU is billed only for the time spent processing messages. Get started at the documentation . Read more",
+ "title_mn": "Vercel Functions дээр WebSocket дэмжлэг бүрэн нэвтэрлээ",
+ "summary_mn": "Vercel Functions дээр WebSocket протокол албан ёсоор GA болж, бодит цагийн AI чат болон стриминг аппуудад Active CPU төлбөрийн нөхцөлтэй ашиглагдахаар гарлаа.",
+ "body_mn": "Vercel тавцан өөрийн serverless Functions орчинд WebSocket дэмжлэгийг бүрэн нэвтрүүлж (GA) зах зээлд гаргалаа. Өнгөрсөн зургаадугаар сард бета хувилбар гарснаас хойш Vercel CDN нийт 300 сая WebSocket холболт гүйцэтгэсэн бөгөөд өдөрт дунджаар 15 сая холболт хүлээн авч байна.\n\nХөгжүүлэгчид энэхүү дэмжлэгийг ашиглан AI чат, стриминг болон олон хэрэглэгчийн бодит цагийн (realtime multiplayer) аппликейшнуудыг хөгжүүлж буй бөгөөд AI Gateway-ийн realtime загварууд ч мөн энэ суурь дээр ажиллаж байна.\n\nТөлбөрийн хувьд ердийн Functions-тэй адил дүрэм үйлчлэх ба Active CPU pricing моделийн ачаар сервер зөвхөн мессеж боловсруулах идэвхтэй хугацаанд л тооцогдож, сул зогссон үед хэт зардал гарахгүй байхаар шийджээ.",
+ "published": "2026-10-20T20:00:00Z",
+ "added": "2026-10-20T22:51:43Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

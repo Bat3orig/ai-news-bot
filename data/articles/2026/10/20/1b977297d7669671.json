@@ -1,0 +1,17 @@
+{
+ "id": "1b977297d7669671",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/deepseek-v4-1-flash-is-now-available-in-token-pass",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3AZR3NtzCWP6v0OwTd1gAI/5c65b1f32d3aa739b0503ae4a739696e/image.png",
+ "title": "DeepSeek V4.1 Flash is now available in Token Pass",
+ "summary_en": "Token Pass now includes DeepSeek V4.1 Flash, alongside Kimi K3 and GLM 5.3, each accessed through its preferred provider, with more models to come. The DeepSeek model uses the latest weights (1017). Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gateway . Use it with any coding agent such as fx , Pi , Cline , Command Code etc. or build your own with the AI SDK, with Zero Data Retention enabled by default. Add DeepSeek V4.1 Flash from the Token Pass page in your team's AI Gateway dashboard, or read the Token Pass documentation for…",
+ "title_mn": "Vercel Token Pass үйлчилгээндээ DeepSeek V4.1 Flash загварыг нэмлээ",
+ "summary_mn": "Vercel-ийн сарын 30 ам.долларын Token Pass багцад DeepSeek V4.1 Flash загвар нэмэгдэж, AI Gateway болон хөгжүүлэгчийн agent-уудад ашиглахад бэлэн боллоо.",
+ "body_mn": "Vercel компани Token Pass үйлчилгээндээ DeepSeek V4.1 Flash (1017 жин бүхий) загварыг албан ёсоор нэмлээ. Өмнө нь AI Gateway-д орсон уг загвар одоо Kimi K3 болон GLM 5.3-тай хамт Token Pass багцын хүрээнд шууд ашиглах боломжтой болж байна.\n\nToken Pass нь Pro багийн хэрэглэгчдэд зориулсан сарын 30 ам.долларын захиалга бөгөөд 80 ам.долларын үнэ бүхий credit олгодог. Үүнийг fx, Pi, Cline, Command Code зэрэг төрөл бүрийн кодчиллын агент болон AI SDK ашиглан хийсэн өөрсдийн системд хэрэглэх боломжтой.\n\nУг загвар нь AI Gateway-ээр дамжих бөгөөд анхдагчаар Zero Data Retention буюу хэрэглэгчийн өгөгдлийг хадгалахгүй горим идэвхжсэнээрээ аюулгүй байдлын давуу талтай юм.",
+ "published": "2026-10-20T00:01:00Z",
+ "added": "2026-10-20T22:51:43Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

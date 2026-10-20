@@ -1,0 +1,17 @@
+{
+ "id": "974b525b99ba8217",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/making-every-harness-durable",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/30zZgLs8jb3Rb8g9jfx6cq/df68e6cab0350e919a36a21f605232cb/image.png",
+ "title": "Making every harness durable",
+ "summary_en": "Developers are familiar with running coding agents locally through harnesses like Pi, Claude Code, and others. They are reliable daily drivers for generating code, but keeping agents running around the clock requires your computer to be on and awake, which led to the laptop lid memes and Mac mini demand spike. Running harnesses in the cloud Harness workloads are moving to the cloud. Individual developers are deploying always-on coding agent workflows, projects like OpenWork and HanaAgent use open-source harnesses as the engines behind the apps, and engineers are building their own harness…",
+ "title_mn": "Vercel аливаа кодчиллын agent-ийг алдаанд тэсвэртэй ажиллуулах durable-harness сан гаргалаа",
+ "summary_mn": "Vercel компани Claude Code, Pi, Codex зэрэг код бичигч agent-уудыг үүлэн орчинд сааталгүй, алдаанд тэсвэртэй ажиллуулах нээлттэй эхийн durable-harness санг танилцууллаа. Энэ нь функц тасрах үед ажлыг дундаас нь үргэлжлүүлнэ.",
+ "body_mn": "Хөгжүүлэгчид Claude Code, Codex зэрэг код бичигч agent-уудыг дотооддоо ажиллуулах үед компьютер унтрах эсвэл сүлжээ тасрахад ажил тасалддаг асуудал тулгардаг. Vercel энэхүү асуудлыг шийдэх зорилгоор Claude Code, Pi, Codex зэрэг ямар ч harness-ийг үүлэн дэд бүтцэд найдвартай ажиллуулах боломж олгодог нээлттэй эхийн durable-harness багцыг зарлалаа.\n\nЭнэхүү сан нь Vercel-ийн Workflow SDK-ийн дэд бүтцэд тулгуурлан agent-ийн алхам бүрийг логт тэмдэглэдэг. Ингэснээр функц timeout болж тасрах эсвэл сервер гацах үед дараагийн функц нь лог уншиж ажлыг зогссон цэгээс нь шууд үргэлжлүүлнэ. Өмнө нь амжилттай дууссан model call болон tool call-уудыг дахин ажиллуулахгүй тул хөгжүүлэгчид давхар зардал төлөхгүй давуу талтай.\n\nМөн хөгжүүлэгчид өөрсдийн Postgres дээр уг harness-ийг өөрсдөө host хийх боломжтой бөгөөд бүх даалгаврыг тусдаа sandbox дотор хийх шаардлагагүйгээр санхүүгийн болон API нууц түлхүүрүүдийг аюулгүй хадгалах бүтцийг бүрдүүлсэн байна.",
+ "published": "2026-10-19T13:00:00Z",
+ "added": "2026-10-20T22:51:43Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}
