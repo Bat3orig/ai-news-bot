@@ -1,0 +1,17 @@
+{
+ "id": "e8a7d399fdede511",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/sickn33/agentic-awesome-skills",
+ "image": "https://opengraph.githubassets.com/9109560a315f49d938f0fe63fd116300222054c9abe22cfe8a95a7521387bd3d/sickn33/agentic-awesome-skills",
+ "title": "sickn33/agentic-awesome-skills",
+ "summary_en": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. https://aaskills.tech/ AAS Core — Agentic Awesome Skills Find reusable instructions for your project, inspect their complete files, and keep an exact skill set you can review and reuse. Agentic Awesome Skills is a library of 2,724+ installable SKILL.md playbooks. AAS Core helps Codex or Claude search the complete local catalog, record the skills the agent chooses, and…",
+ "title_mn": "sickn33/agentic-awesome-skills: AI агентүүдад зориулсан дахин ашиглах заавар",
+ "summary_mn": "Энэхүү сан нь Codex эсвэл Claude агентуудад зориулсан 2,737 гаруй суулгаж болох SKILL.md зааварчилгааг агуулдаг. AAS Core нь орон нутгийн каталогийг шалгаж, агентын сонгосон ур чадварыг урьдчилан харах боломжийг олгодог.",
+ "body_mn": "Agentic Awesome Skills нь хиймэл оюун ухааны агентуудад зориулсан дахин ашиглах боломжтой сургалтын болон ажлын урсгалын заавруудын томоохон каталог юм. AAS Core хэрэгсэл нь Codex эсвэл Claude-тай хамтран ажиллаж, төслийн бүтцийг шалган тохирох ур чадваруудыг сонгоход тусалдаг.\n\nХөгжүүлэгчид орон нутгийн MCP-г тохируулан агентад төслөө шалгуулж, шаардлагатай навыкуудыг сонгуулах боломжтой. Compose_stack хэрэгсэл нь сонгосон ID болон бүтцийг санах ойд шалгаж, баталгаажуулалтын тайланг гаргаж өгдөг.\n\nЭнэ нь бие даасан олон нийтийн төсөл бөгөөд хиймэл оюун ухааны агентуудын чадамжийг өргөжүүлэх, код бичих явцыг илүү системтэй болгоход чиглэсэн сонирхолтой шийдэл юм.",
+ "published": "2026-10-21T12:08:14Z",
+ "added": "2026-10-21T12:08:14Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

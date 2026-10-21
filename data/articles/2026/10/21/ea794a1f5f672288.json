@@ -1,0 +1,17 @@
+{
+ "id": "ea794a1f5f672288",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/nodejs/node",
+ "image": "https://opengraph.githubassets.com/a1bcb683b050bf7877ba1dae44b2110b31ceb19ddd85b3b3971e8eb53b73b97d/nodejs/node",
+ "title": "nodejs/node",
+ "summary_en": "Node.js JavaScript runtime ✨🐢🚀✨ https://nodejs.org Node.js Node.js is an open-source, cross-platform JavaScript runtime environment. For information on using Node.js, see the Node.js website . The Node.js project uses an open governance model . The OpenJS Foundation provides support for the project. Contributors are expected to act in a collaborative manner to move the project forward. We encourage the constructive exchange of contrary opinions and compromise. The TSC reserves the right to limit or block contributors who repeatedly act in ways that discourage, exhaust, or otherwise…",
+ "title_mn": "nodejs/node: Node.js программ хангамжийн ажиллах орчин",
+ "summary_mn": "Node.js нь JavaScript хэлийг хөтөчөөс гадна ажиллуулах боломжийг олгодог нээлттэй эх сурвалжтай, кросс-платформ орчин юм. Энэхүү төсөл нь OpenJS сангийн дэмжлэгтэйгээр нээлттэй засаглалын загвараар хөгждөг.",
+ "body_mn": "Node.js бол JavaScript хэлийг сервер талд болон бусад орчинд ажиллуулах боломжийг олгодог өргөн хэрэглэгддэг платформ юм. Уг төсөл нь хувилбар гаргах тогтсон хуваарьтай бөгөөд хөгжүүлэгчид албан ёсны вэб сайтаас хоёртын файл, суулгагч болон эх кодыг татаж авах боломжтой.\n\nТөслийн хувилбарын директорууд болон файлууд нь хувилбарын дугаар, огноо, мөн commit SHA мэдээллийг агуулдаг. Current болон LTS (Long Term Support) хувилбарууд нь тусдаа зам болон зориулалттайгаар хөгжүүлэгддэг бөгөөд энэ нь бүтээгдэхүүний тогтвортой байдлыг хангахад чухал үүрэгтэй.\n\nБаримт бичиг болон API-ийн дэлгэрэнгүй мэдээллийг албан ёсны сайтаас үзэх боломжтой бөгөөд татаж авсан файлуудын бүрэн бүтэн байдлыг шалгахын тулд PGP түлхүүр болон SHA checksum ашигладаг. Аюулгүй байдлын асуудал болон эмзэг байдлыг мэдээлэх журам нь төслийн агуулах дахь тусгай баримтуудад тодорхойлогдсон байдаг.",
+ "published": "2026-10-21T12:08:14Z",
+ "added": "2026-10-21T12:08:14Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "2d6ba8fc0269fd52",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/anthropics/knowledge-work-plugins",
+ "image": "https://opengraph.githubassets.com/a39cb9b0ded0c1adb98f8336eef853f77f5cd020e264eb3c0ffb4dfcc280aa1f/anthropics/knowledge-work-plugins",
+ "title": "anthropics/knowledge-work-plugins",
+ "summary_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code . Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the…",
+ "title_mn": "anthropics/knowledge-work-plugins: Claude-ийг мэргэжилтэн болгох залгамж",
+ "summary_mn": "Энэхүү нээлттэй эх сурвалжтай репозитори нь Claude-ийг тухайн үүрэг, баг болон компанид зориулсан мэргэжилтэн болгох залгаасуудыг агуулдаг. Claude Cowork болон Claude Code-той бүрэн нийцдэг.",
+ "body_mn": "Anthropic компаниас гаргасан энэхүү төсөл нь хэрэглэгчдэд Claude-ийг өөрсдийн ажлын урсгал, хэрэгсэл, терминологид тохируулан өөрчлөх боломжийг олгодог. Залгаасууд нь тухайн ажлын байранд шаардлагатай навык, холбогч, slash командууд болон дэд агентуудыг нэг дор багцалсан байдаг.\n\nБүх бүрэлдэхүүн хэсгүүд нь энгийн markdown болон JSON файлаас бүрдэх тул ямар нэгэн код бичих, дэд бүтэц босгох шаардлагагүйгээр шууд ажиллана. Компаниуд эдгээр суурь залгаасыг өөрсдийн хэрэгцээнд тааруулан өөрчилж, багийнхаа бүтээмжийг нэмэгдүүлэх боломжтой.\n\nНээлттэй эх сурвалжийн зарчмаар хөгжиж буй энэхүү төсөлд хөгжүүлэгчид өөрсдийн залгаасыг нэмж, GitHub дээр хувь нэмрээ оруулах боломжтой юм.",
+ "published": "2026-10-21T12:08:14Z",
+ "added": "2026-10-21T12:08:14Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

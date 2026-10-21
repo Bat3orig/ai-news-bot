@@ -1,0 +1,17 @@
+{
+ "id": "8cee69dc02d2b993",
+ "subtopic": "tauri",
+ "source": "tauri-apps/tauri",
+ "source_label": "tauri-apps/tauri",
+ "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v2.12.5",
+ "image": "https://opengraph.githubassets.com/6b018cc9721473523e25d399ee44580b8e026e8e03707a03e2fa97e106ea8230/tauri-apps/tauri/releases/tag/tauri-v2.12.5",
+ "title": "tauri v2.12.5",
+ "summary_en": "Cargo Audit Fetching advisory database from `https://github.com/RustSec/advisory-db.git` Loaded 1348 security advisories (from /home/runner/.cargo/advisory-db) Updating crates.io index Scanning Cargo.lock for vulnerabilities (1044 crate dependencies) Crate: fxhash Version: 0.2.1 Warning: unmaintained Title: fxhash - no longer maintained Date: 2025-09-05 ID: RUSTSEC-2025-0057 URL: https://rustsec.org/advisories/RUSTSEC-2025-0057 Crate: paste Version: 1.0.15 Warning: unmaintained Title: paste - no longer maintained Date: 2024-10-07 ID: RUSTSEC-2024-0436 URL…",
+ "title_mn": "Tauri v2.12.5 хувилбар алдаа засвартайгаар гарлаа",
+ "summary_mn": "Tauri хүрээний v2.12.5 хувилбар гарч, NSIS суулгагчийн алдааг засаж, хамааралтай сангуудаа шинэчиллээ.",
+ "body_mn": "Tauri desktop болон mobile аппликейшн хөгжүүлэх хүрээний шинэ v2.12.5 хувилбар албан ёсоор цацагдлаа. Энэхүү хувилбарт голчлон хөгжүүлэгчдийн тулгардаг суулгагчийн алдаануудыг зассан байна.\n\nТодруулбал, NSIS суулгагчийн алдаатай бичигдсэн choowHowToInstall хэлний мөрийг chooseHowToInstall болгон зөв болгож өөрчилжээ. Мөн MSI суулгагчаар хийгдсэн шинэ суулгалтын дээрээс NSIS суулгагч хуучин хувилбар руу бууруулах (downgrade) үйлдлийг буруугаар блоکлох асуудлыг зассан байна.\n\nҮүнээс гадна tauri-build, tauri-runtime-wry болон tauri-macros зэрэг дотоод хамааралтай сангуудаа шинэчилсэн бөгөөд хөгжүүлэгчид төслөө шинэчлэхэд хялбар болжээ.",
+ "published": "2026-10-21T11:54:49Z",
+ "added": "2026-10-21T12:08:14Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

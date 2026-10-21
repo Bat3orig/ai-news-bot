@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "16b2e39b8e94699f",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.5.0",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.5.0",
-   "summary_en": "v14.5.0",
-   "title_mn": "Motion v14.5.0 гарлаа",
-   "summary_mn": "Motion animation сангийн v14.5.0 хувилбар гарсан байна. Дэлгэрэнгүй өөрчлөлтийн мэдээлэл эх текстэд байхгүй байна.",
-   "body_mn": "Motion (өмнө Framer Motion) animation сангийн шинэ v14.5.0 хувилбар гарсан тухай GitHub release-д мэдээлсэн байна. Энэ нь харилцан үйлчлэлтэй UI animation хийдэг хөгжүүлэгчдэд шинэ хувилбар шалгах шаардлагатай гэсэн үг юм.\n\nЭнэ мэдээнд хувилбарын дэлгэрэнгүй тайлбар, шинэ функц эсвэл breaking change-ийн жагсаалт байхгүй тул аль функц нэмэгдсэн, аль нь өөрчлөгдсөнийг текстээс баталгаажуулах боломжгүй байна. Хэрэглэгчид changelog болон release notes-оо шууд эх сурвалжаас шалгахыг зөвлөж байна.",
-   "published": "2026-10-20T12:57:14Z",
-   "added": "2026-10-20T15:30:51Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a2a1cb68d8f4555e",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/blog-header-image.2e16d0ba.fill-1200x600.jpg",
-   "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
-   "summary_en": "Google Research has completed the 32-bit open-source Coral NPU RISC-V architecture with the introduction of its Matrix Execution Unit, which delivers up to 1 TOPS while targeting 10 mW average power for edge inference. Alongside this architecture, the release of the v1.0 open-source IREE/MLIR compiler allows developers to take models from JAX, PyTorch, and TensorFlow straight to Coral NPU hardware without writing custom assembly. Developers can now prototype and deploy these multimodal edge applications using new hardware options like the Synaptics Astra SR200 MCU series and globally…",
-   "title_mn": "Coral NPU нээлттэй стандарт болж, Matrix Execution Unit хувилбар гарлаа",
-   "summary_mn": "Google Coral NPU-ийн 32-bit архитектур Milestone 4 буюу Matrix Execution Unit-оор бүрэн болсон гэж зарласан. Нээлттэй RISC-V архитектур болон toxchain-ээр edge AI моделиудыг нэг удаа оновчилж олон төхөөрөмжид ажиллуулах боломж олгоно.",
-   "body_mn": "Google Research-ийн Coral NPU нь edge AI төхөөрөмжүүдийн хоорондох фрагментацийг багасгах зорилготой нээлттэй hardware болон software стандарт юм. Компани энэ сарын хувилбараар Matrix Execution Unit (Milestone 4)-ийг гаргаж, 32-bit архитектурыг бүрэн болгосон гэжээ.\n\nNPU нь C-программчлах боломжтой RISC-V scalar фронтэнд, RVV v1.0 vector co-processor, tightly coupled memory болон floating point дэмжлэгтэй. Matrix Execution Unit нь RISC-V VME спецификацид тулгуурласан, GEMM болон GEMV тооцоололд зориулсан outer-product MAC хөдөлгүүр ашигладаг.\n\nХөгжүүлэгчдэд зорилго нь моделийг нэг удаа оновчлоод олон SoC дээр ажиллуулах боломжийг хангах явдал юм. Нийтлэлд тодорхой benchmark тоо өгөөгүй тул гүйцэтгэлийн талаар дэлгэрэнгүй баталгаа байхгүй байна.",
-   "published": "2026-10-20T15:30:51Z",
-   "added": "2026-10-20T15:30:51Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c4fb1696f6ba9f0e",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Torch_Titan_Header_Image.2e16d0ba.fill-1200x600.jpg",
-   "title": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
-   "summary_en": "TorchTPU integrates a native torch.device(\"tpu\") backend directly into PyTorch, allowing developers to train large-scale models on Google Cloud TPUs without rewriting code in JAX. The TorchTitan TPU fork enhances this with production-grade scaling primitives like SimpleFSDP, Graph Trainer, and custom Pallas kernels that achieve high Model Flops Utilization (MFU) across dense and MoE architectures. Developers can leverage these battle-tested optimization playbooks, recipes, and the Hugging Face modeling backend to efficiently scale their own workloads on TPU infrastructure.",
-   "title_mn": "TorchTitan-ийг TPU дээр ажиллуулах TorchTPU интеграци гарлаа",
-   "summary_mn": "Google болон Meta хамтран TorchTitan-ийг Cloud TPU дээр ажиллуулах fork гаргасан. TorchTPU нь torch.device(\"tpu\") native backend-ээр PyTorch-ийн цөмд нэгдсэн гэж мэдээлсэн.",
-   "body_mn": "TorchTitan нь PyTorch екосистемийн том загвар сургалтын reference платформ юм. Одоо TorchTPU-ээр Cloud TPU нь torch.device(\"tpu\") native backend-тай болж, сургалтын скрипт зөвхөн device эхлүүлэх хэсгээ бага зэрэг өөрчилснөөр TPU дээр ажиллах боломжтой болжээ.\n\nTorchTitan TPU нь Meta-гийн TorchTitan-ийн fork бөгөөд Llama 3, Qwen 3, FLUX зэрэг загваруудын рецептийг TPU дээр дэмжинэ. Attention-ийг Splash Attention, cross-entropy-г fused Pallas kernel, MoE-г grouped Pallas kernel-ээр солих зэргээр гүйцэтгэлийг сайжруулдаг.\n\nЭнэ нь TPU дээр PyTorch сургалт хийх хүсэлтэй хөгжүүлэгчдэд JAX руу бүрэн дахин бичих шаардлагагүй болгож байна.",
-   "published": "2026-10-20T15:30:51Z",
-   "added": "2026-10-20T15:30:51Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a75ed007481a527e",
-   "subtopic": "packages",
-   "source": "JavaScript Weekly",
-   "source_label": "JavaScript Weekly",
-   "url": "https://javascriptweekly.com/issues/807",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nuezexh7haulvsllbugt.jpg",
-   "title": "The up to 8x faster Rust port of TypeScript",
-   "summary_en": "#​807 — October 20, 2026 Read on the Web JavaScript Weekly tsrs: Cloudflare and VoidZero's Rust Port of TypeScript — A Rust port of the Go-based TypeScript 7 compiler, built with some input from the TypeScript team and heading into Oxc . Benchmarks claim up to 8x the speed of TypeScript 7.0 and it runs in WebAssembly. Experimental, but npx tsrs works. Chen, Mitropoulos and Nakazawa (Cloudflare / VoidZero) 💡 Max Schwenk started the port with agents writing the code, and tells the full tale here , including how it took his company's typecheck from 80 seconds to 7. Send Webhooks from Your…",
-   "title_mn": "TypeScript-ийг 8 дахин хурдасгах tsrs, Next.js-ийн RCE засвар болон Node.js шинэчлэлтүүд",
-   "summary_mn": "Cloudflare болон VoidZero нар TypeScript 7-г Rust руу хөрвүүлсэн tsrs хэрэгслийг танилцуулсан нь шалгалтын хурдыг 8 дахин нэмэгдүүлж байна. Мөн Next.js хоёр чухал RCE цоорхойг зассан хувилбар гаргасан бол Node.js v26.12.0 болон v24.22.0 хувилбарууд нийтлэгдлээ.",
-   "body_mn": "JavaScript экосистемийн ээлжит дугаарт хэд хэдэн анхаарал татахуйц шинэчлэлтүүд гарлаа. Cloudflare болон VoidZero нар хамтран Go-д суурилсан TypeScript 7 хөрвүүлэгчийг Rust руу хөрвүүлсэн tsrs төслийг танилцуулав. Туршилтуудаар энэ нь стандарт TypeScript 7.0-оос 8 дахин хурдан ажиллаж, төрөл шалгах хугацааг 80 секундээс 7 болгон бууруулсан бөгөөд WebAssembly дээр ажиллах боломжтой. Одоогоор npx tsrs командаар ашиглаж болно.\n\nАюулгүй байдлын хувьд Next.js системдээ нэн ноцтой хоёр RCE (алсын зайнаас код ажиллуулах) эмзэг байдлыг зассан байна. Үүнд React Server Components-тэй холбоотой use cache болон зургийн оптимизацийн SVG боловсруулалтад гарсан цоорхойнууд багтаж байгаа тул хөгжүүлэгчдийг 16.4.1 эсвэл 15.5.28 хувилбар руу яаралтай шинэчлэхийг зөвлөжээ.\n\nТүүнчлэн Node.js v26.12.0 хувилбарт ES модулиудыг синхроноор ачаалах боломжийг нэмж тохиргооны файлыг stable болгосон бол LTS хувилбар болох v24.22.0-д util.throttle болон util.debounce функцууд албан ёсоор нэмэгдлээ. Мөн Astro 7.4-т параллель prerendering боломж, Vite-ийн багийн Void фулл-стэк платформ нээлттэй эхтэй болсон зэрэг олон шинэчлэлт багтсан байна.",
-   "published": "2026-10-20T00:00:00Z",
-   "added": "2026-10-20T19:46:08Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "29b8d8f7cbfbfb12",
-   "subtopic": "ai-devtools",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-   "image": "https://framerusercontent.com/images/g61nppL2S0T51TuBYG0bTxac2U.png?width=2150&height=1126",
-   "title": "Publish fake stats, get cited in LLMs",
-   "summary_en": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 267 # Comments: 148",
-   "title_mn": "Хуурамч статистик нийтэлж LLM загваруудын ишлэлд орох боломжтойг туршилтаар нотлов",
-   "summary_mn": "Судлаач GPT-4.1 ашиглан 50,000 зохиомол тоон үзүүлэлт бүхий вэбсайт үүсгэхэд Google хайлтын индексээс хассан ч ChatGPT тус хуурамч мэдээллүүдийг иш татан хариултандаа ашигласаар байгааг харуулжээ.",
-   "body_mn": "Хиймэл оюуны хайлтын системүүд (GEO - Generative Engine Optimization) мэдээллийг хэрхэн цуглуулж буйг шалгах зорилгоор нэгэн судлаач 50 ам.долларын өртгөөр 50,000 хуурамч статистик бүхий stateglobe.com сайтыг GPT-4.1 ашиглан автоматаар үүсгэсэн туршилт хийжээ.\n\nХэдийгээр Google систем уг хуурамч хуудсуудыг алгоритмаараа илрүүлж өөрийн хайлтаас хассан боловч ChatGPT болон бусад LLM загварууд тухайн тоо баримтуудыг бодит эх сурвалж шиг иш татсаар байгааг тэрээр онцолсон байна. Тус зохиомол тоонууд цаашлаад 330 гаруй том домэйн, эрдэм шинжилгээний өгүүлэл, банкны хөрөнгө оруулалтын тайланд хүртэл хуулагдан оржээ.\n\nЭнэхүү туршилт нь одоогийн LLM-үүд баримт шалгах, эх сурвалжийг найдвартай шүүх тал дээр эмзэг байгааг харуулж байгаа бөгөөд хиймэл оюунд суурилсан хайлтын системүүдийг мэдээллийн эх сурвалжаа нягтлахад ихээхэн анхаарах шаардлагатайг сануулж байна.",
-   "published": "2026-10-20T13:06:22Z",
-   "added": "2026-10-20T19:46:08Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d4c21442014f5126",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Blog",
-   "source_label": "GitHub Blog",
-   "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
-   "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo.png",
-   "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-   "summary_en": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results.",
-   "title_mn": "Java Champions мэргэжилтнүүд GitHub Copilot-ийг хэрхэн үр дүнтэй ашигладаг вэ",
-   "summary_mn": "Арвин туршлагатай Java мэргэжилтнүүд GitHub Copilot-ийг кодын чанар, архитектурт хэрхэн нөлөөлдөг тухай туршлагаасаа хуваалцлаа. Тэд даалгаврын цар хүрээнээс хамаарч Opus зэрэг тохирох загварыг сонгох болон өөрийн бичлэгийн хэв маягийг суулгах арга барилыг онцолсон байна.",
-   "body_mn": "GitHub-аас 10 гаруй жилийн туршлагатай гурван Java Champion зэрэгтэй хөгжүүлэгчтэй ярилцаж, тэдний бодит төсөл болон нээлттэй эх дээр GitHub Copilot-ийг ашигладаг практик аргуудыг нийтэлжээ. Тэд хиймэл оюуны үүсгэсэн кодод шууд найдах бус контекст өгөх, үр дүнг нягтлах зарчмыг баримталдаг байна.\n\nТухайлбал Hypersistence санг хөгжүүлэгч өмнө нь хэдэн долоо хоног зарцуулдаг байсан Optimizer хэрэгслийн веб интерфейсийг хоёрхон өдрийн дотор Copilot-ийн тусламжтай прототайп хийж дуусгажээ. Тэрээр IntelliJ IDEA дотор Copilot-ийг кодын судалгаа болон дибаг хийхэд туслах ажилтан мэт ашигладаг гэдгээ дурдсан байна.\n\nТүүнчлэн даалгаврын шинж чанараас хамааран загвараа сонгох арга барилыг онцолжээ. Гүнзгий төлөвлөлт, нарийн сэтгэхүй шаардсан үед 1 сая контекст бүхий Claude Opus загварыг өндөр reasoning тохиргоотойгоор ашигладаг бол баримтжуулалт, репорт бэлтгэх зэрэг энгийн ажлуудад цөөн токен зарцуулдаг хөнгөн загваруудыг сонгох нь бүтээмжид тустай гэжээ.",
-   "published": "2026-10-20T16:05:03Z",
-   "added": "2026-10-20T19:46:08Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9e6ca8faca0e5946",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v43.8.2",
-   "image": "https://opengraph.githubassets.com/f754ec5c3ededb9e23840602de600cb559546ee989a418782db1248691d2e03f/electron/electron/releases/tag/v43.8.2",
-   "title": "electron v43.8.2",
-   "summary_en": "Release Notes for v43.8.2",
-   "title_mn": "Electron v43.8.2 хувилбар гарлаа",
-   "summary_mn": "Electron төслийн зүгээс v43 салбарын ээлжит алдаа засвар болон тогтвортой байдлын сайжруулалтыг багтаасан v43.8.2 хувилбарыг нийтэллээ.",
-   "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн түгээмэл фрэймворк болох Electron төсөл албан ёсны v43.8.2 хувилбараа гаргалаа.\n\nЭнэхүү шинэчлэл нь 43.x хувилбарын тогтвортой байдлыг хангах, дотоод бүрэлдэхүүн хэсгүүдийн алдааг засах зорилготой ээлжит засвар юм. Хөгжүүлэгчид өөрсдийн Electron аппликейшнээ хамгийн сүүлийн хувилбар луу шинэчлэн ашиглах боломжтой.",
-   "published": "2026-10-20T17:34:05Z",
-   "added": "2026-10-20T19:46:08Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9af76d6e4ed4446e",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v42.11.17",
-   "image": "https://opengraph.githubassets.com/dbc51a844b4f9b68975d18df9f795aab9a96bb47580eeb40d724991b313a6e68/electron/electron/releases/tag/v42.11.17",
-   "title": "electron v42.11.17",
-   "summary_en": "Release Notes for v42.11.17 Warning Electron 42.x.y has reached end-of-support as per the project's support policy . Developers and applications are encouraged to upgrade to a newer version of Electron.",
-   "title_mn": "Electron v42.11.17 гарч, 42.x хувилбарын дэмжлэг албан ёсоор дуусав",
-   "summary_mn": "Electron 42.x салбарын хамгийн сүүлийн v42.11.17 хувилбар гарсан бөгөөд уг салбарын албан ёсны дэмжлэг хугацаа дууссаныг төслийн баг анхаарууллаа.",
-   "body_mn": "Electron төслөөс v42.11.17 хувилбарыг нийтэлсэн бөгөөд үүнтэй зэрэгцэн төслийн дэмжлэгийн бодлогын дагуу Electron 42.x.y салбарын дэмжлэг бүрэн дууссаныг зарлалаа.\n\nДэмжлэгийн хугацаа дууссан тул хөгжүүлэгчид болон багуудыг аюулгүй байдал, шинэ боломжуудыг ашиглахын тулд аппликейшнүүдээ Electron-ийн илүү шинэ тогтвортой хувилбарууд руу шилжүүлэхийг зөвлөж байна.",
-   "published": "2026-10-20T17:35:15Z",
-   "added": "2026-10-20T19:46:08Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7a6e0063e12000db",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v44.9.2",
-   "image": "https://opengraph.githubassets.com/792ce9ffea59b41be1ea30299e3277f914567d1f917d8663fb30f1d8fbca4552/electron/electron/releases/tag/v44.9.2",
-   "title": "electron v44.9.2",
-   "summary_en": "Release Notes for v44.9.2",
-   "title_mn": "Electron v44.9.2 хувилбар нийтлэгдлээ",
-   "summary_mn": "Electron v44 салбарын ээлжит тогтвортой байдлын засваруудыг агуулсан v44.9.2 хувилбар хөгжүүлэгчдэд хүрэв.",
-   "body_mn": "Electron десктоп фрэймворкийн v44 салбарын ээлжит v44.9.2 хувилбар гарлаа.\n\nУг шинэчлэлтэд системийн тогтвортой ажиллагаа, дотоод бүрэлдэхүүн хэсгүүдийн алдаа засварууд багтсан тул хөгжүүлэгчид төслөө шинэчлэх боломжтой.",
-   "published": "2026-10-20T17:44:18Z",
-   "added": "2026-10-20T19:46:08Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7fa30abfca2c7ff1",
-   "subtopic": "vibe-coding",
-   "source": "Simon Willison",
-   "source_label": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-   "image": "https://static.simonwillison.net/static/2026/battle-drones-card.webp",
-   "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-   "summary_en": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more fun\". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built this v1: the initial prototype v2: full sprites v3: varied terrain v4: the fun update v5: Battle…",
-   "title_mn": "Claude Code ашиглан аудио холболттой RTS тоглоом бүтээсэн туршлага",
-   "summary_mn": "Саймон Уиллисон Claude Code болон загваруудыг ашиглан бараг код бичилгүйгээр дуугаар холбогддог Command & Conquer маягийн хөтөч тоглоом бүтээсэн арга туршлагаа хуваалцлаа.",
-   "body_mn": "Нээлттэй эхийн хөгжүүлэгч Саймон Уиллисон гар утас болон хөтөч дээр тоглох боломжтой Battle Drones нэртэй RTS төрлийн тоглоомыг Claude Code болон Claude загваруудаар код бичүүлэн бүтээжээ. Тоглоом нь хоёр төхөөрөмж микрофоны дуугаар өгөгдөл синхрончлон олон тоглогчийн горимоор тоглох сонирхолтой чадвартай.\n\nТэрээр нийт 12 томоохон давталт, 321 commit хийсэн бөгөөд кодыг нь өөрөө бараг шалгаагүй, урьд өмнө төдийлөн ашиглаж байгаагүй TypeScript болон Phaser фрэймворк дээр хийлгэсэн байна. Спрайт болон дүрслэлийн хувьд Claude Code-д OpenAI-ийн Image Generation API түлхүүрийг орчны хувьсагчаар дамжуулан холбож, автомат зураг үүсгэх командыг өгчээ.\n\nХөгжүүлэгчид өөрсдийн санааг хэрэгжүүлэхдээ тодорхой зорилготой prompt ашиглах, график болон тоглоомын явцыг сайжруулахыг Claude Opus 5.5 зэрэг дэвшилтэт моделиудад үе шаттай даалгах замаар бүрэн ажиллагаатай төслийг хурдан босгох боломжтойг уг туршилт харуулж байна.",
-   "published": "2026-10-20T19:34:19Z",
-   "added": "2026-10-20T19:46:08Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "c0c4a7f9b9d3d2b5",
    "subtopic": "gemini",
    "source": "Google Developers Blog",
@@ -456,6 +256,206 @@
    "published": "2026-10-21T06:13:36Z",
    "added": "2026-10-21T06:13:36Z",
    "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f041806265259e01",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "India Today",
+   "url": "https://www.indiatoday.in/technology/news/story/anthropic-is-struggling-to-get-compute-from-aws-google-and-microsoft-3021835-2026-10-21",
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/the-move-comes-months-after-federal-officials-placed-two-of-anthropics-most-advanced-models-under-s-170055171-16x9_0.jpg?VersionId=4ACuif9cwh30AjKnP.lQN_8ExZF_SIMJ",
+   "title": "Anthropic is struggling to get compute from AWS, Google and Microsoft",
+   "summary_en": "Anthropic says AWS, Google and Microsoft are not offering all the computing capacity it needs. The shortage is pushing the Claude maker towards leased data centres and smaller operators.",
+   "title_mn": "Anthropic үүлэн үйлчилгээний хомсдолтой тулгарч, Claude-ийн дүрэмд өөрчлөлт оруулав",
+   "summary_mn": "Anthropic компани AWS, Google, Microsoft-оос хангалттай тооцоолох хүчин чадал авахад хүндрэл учирч байгааг мэдэгдлээ. Мөн хэрэглэгчид Claude загвартай зүй бусаар харьцвал яриаг зогсоох боломжтой болсон байна.",
+   "body_mn": "Claude загварыг хөгжүүлэгч Anthropic компани Amazon Web Services (AWS), Google болон Microsoft-оос шаардлагатай тооцоолох хүчин чадлыг бүрэн авч чадахгүй байгаагаа мэдэгдлээ. Эдгээр том технологийн компаниуд өөрсдөө AI салбарт өрсөлдөж байгаа тул Anthropic-ийн хүссэн хэмжээний дэд бүтцийг нийлүүлэхгүй байгаатай холбоотой юм.\n\nКомпани ирэх 7-10 жилийн хугацаанд үүлэн тооцоололд зориулж 450 тэрбум долларын гэрээ хийсэн бөгөөд энэ дүн цаашид 750 тэрбум давах магадлалтай байна. Томоохон нийлүүлэгчдийн хүчин чадал хүрэлцэхгүй байгаагаас шалтгаалан Anthropic жижиг дата төвүүдтэй хамтарч эхэлсэн ч тэдгээрийн найдвартай ажиллагаа эрсдэл дагуулж болзошгүйг сануулжээ.\n\nҮүний зэрэгцээ Anthropic хэрэглээний журмандаа шинэчлэл оруулж, хэрэглэгчид байнга шалтгаангүйгээр бүдүүлэг, зүй бус хандвал Claude яриаг шууд таслах эрхтэй болсон байна. Энэхүү өөрчлөлт нь энгийн шүүмжлэл эсвэл тест хийхэд хамаарахгүй бөгөөд зөвхөн хэт давтагдсан бүдүүлэг харилцаанд үйлчлэх аж.",
+   "published": "2026-10-21T07:36:31Z",
+   "added": "2026-10-21T12:08:14Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "53a7fe1efa1a0e63",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/release/v22.23.4",
+   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2022.23.4%20(LTS)",
+   "title": "Node.js 22.23.4 (LTS)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "title_mn": "Node.js 22.23.4 (LTS) хувилбар гарлаа",
+   "summary_mn": "Node.js 22 хувилбарын шинэ LTS шинэчлэлт болох v22.23.4 хувилбар бүх платформд зориулагдан гарлаа.",
+   "body_mn": "Node.js платформын 22-р цувралын шинэ засварын хувилбар болох Node.js 22.23.4 (LTS) албан ёсоор цацагдлаа. Энэхүү хувилбарт Windows, macOS болон Linux үйлдвэрийн системүүдэд зориулсан суулгагчид багтсан болно.\n\nLTS буюу урт хугацааны дэмжлэгтэй энэхүү хувилбар нь тогтвортой байдал болон аюулгүй байдлын сайжруулалтуудыг авчирдаг. Хөгжүүлэгчид албан ёсны вэб сайтаас өөрийн системд тохирох багцыг татаж авч ашиглах боломжтой.",
+   "published": "2026-10-21T10:39:12Z",
+   "added": "2026-10-21T12:08:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ac833d2d8f2f038e",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/release/v24.22.1",
+   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.1%20(LTS)",
+   "title": "Node.js 24.22.1 (LTS)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "title_mn": "Node.js 24.22.1 (LTS) хувилбар гарлаа",
+   "summary_mn": "Node.js 24 хувилбарын LTS шинэчлэлт болох v24.22.1 хувилбар бэлэн боллоо.",
+   "body_mn": "Node.js платформын 24-р цувралын шинэ хувилбар болох Node.js 24.22.1 (LTS) албан ёсоор гарлаа. Энэхүү шинэчлэлтээр төрөл бүрийн үйлдлийн системд зориулсан суулгагч багцууд шинэчлэгдэн орсон байна.\n\nТогтвортой ажиллагааг эрхэмлэдэг төслүүдэд зориулсан энэхүү хувилбар нь алдаа засваруудыг багтаадаг бөгөөд хөгжүүлэгчид шинэчлэн суулгах боломжтой.",
+   "published": "2026-10-21T10:39:14Z",
+   "added": "2026-10-21T12:08:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2093dcd854b28bec",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/release/v26.12.1",
+   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.12.1%20(Current)",
+   "title": "Node.js 26.12.1 (Current)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "title_mn": "Node.js 26.12.1 (Current) хувилбар гарлаа",
+   "summary_mn": "Node.js төслийн хамгийн сүүлийн үеийн боломжуудыг агуулсан v26.12.1 (Current) хувилбар цацагдлаа.",
+   "body_mn": "Node.js платформын хамгийн сүүлийн үеийн боломжуудыг багтаасан Node.js 26.12.1 (Current) хувилбар бэлэн боллоо. Энэхүү хувилбар нь шинэ боломжуудыг туршиж үзэх хүсэлтэй хөгжүүлэгчдэд зориулагдсан юм.\n\nДэмжигдсэн платформд зориулсан файлууд болон эх код албан ёсны эх сурвалжид байршсан байна.",
+   "published": "2026-10-21T10:39:20Z",
+   "added": "2026-10-21T12:08:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8cee69dc02d2b993",
+   "subtopic": "tauri",
+   "source": "tauri-apps/tauri",
+   "source_label": "tauri-apps/tauri",
+   "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v2.12.5",
+   "image": "https://opengraph.githubassets.com/6b018cc9721473523e25d399ee44580b8e026e8e03707a03e2fa97e106ea8230/tauri-apps/tauri/releases/tag/tauri-v2.12.5",
+   "title": "tauri v2.12.5",
+   "summary_en": "Cargo Audit Fetching advisory database from `https://github.com/RustSec/advisory-db.git` Loaded 1348 security advisories (from /home/runner/.cargo/advisory-db) Updating crates.io index Scanning Cargo.lock for vulnerabilities (1044 crate dependencies) Crate: fxhash Version: 0.2.1 Warning: unmaintained Title: fxhash - no longer maintained Date: 2025-09-05 ID: RUSTSEC-2025-0057 URL: https://rustsec.org/advisories/RUSTSEC-2025-0057 Crate: paste Version: 1.0.15 Warning: unmaintained Title: paste - no longer maintained Date: 2024-10-07 ID: RUSTSEC-2024-0436 URL…",
+   "title_mn": "Tauri v2.12.5 хувилбар алдаа засвартайгаар гарлаа",
+   "summary_mn": "Tauri хүрээний v2.12.5 хувилбар гарч, NSIS суулгагчийн алдааг засаж, хамааралтай сангуудаа шинэчиллээ.",
+   "body_mn": "Tauri desktop болон mobile аппликейшн хөгжүүлэх хүрээний шинэ v2.12.5 хувилбар албан ёсоор цацагдлаа. Энэхүү хувилбарт голчлон хөгжүүлэгчдийн тулгардаг суулгагчийн алдаануудыг зассан байна.\n\nТодруулбал, NSIS суулгагчийн алдаатай бичигдсэн choowHowToInstall хэлний мөрийг chooseHowToInstall болгон зөв болгож өөрчилжээ. Мөн MSI суулгагчаар хийгдсэн шинэ суулгалтын дээрээс NSIS суулгагч хуучин хувилбар руу бууруулах (downgrade) үйлдлийг буруугаар блоکлох асуудлыг зассан байна.\n\nҮүнээс гадна tauri-build, tauri-runtime-wry болон tauri-macros зэрэг дотоод хамааралтай сангуудаа шинэчилсэн бөгөөд хөгжүүлэгчид төслөө шинэчлэхэд хялбар болжээ.",
+   "published": "2026-10-21T11:54:49Z",
+   "added": "2026-10-21T12:08:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b9cdeba46112f10c",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/mifi/lossless-cut",
+   "image": "https://opengraph.githubassets.com/e0b6f56fd96a5d0802fb246eb75da71c9d9967b1da6db0020c0991c14357aff7/mifi/lossless-cut",
+   "title": "mifi/lossless-cut",
+   "summary_en": "The swiss army knife of lossless video/audio editing https://losslesscut.app/ LosslessCut The swiss army knife of lossless video/audio editing Thanks to my supporters and everyone who purchased LosslessCut! LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files. The main feature is lossless trimming and cutting of video and audio files, which is great for saving space by rough-cutting your large video files taken from a video camera, GoPro, drone, etc. It lets you quickly extract the…",
+   "title_mn": "mifi/lossless-cut: FFmpeg дээр суурилсан дүрс болон дуу авиаг чанар алдагдуулахгүйгээр тайрах хэрэгсэл",
+   "summary_mn": "LosslessCut бол видео болон аудио файлуудыг удаан хугацаагаар дахин кодлохгүйгээр маш хурдан бөгөөд чанар алдагдуулахгүйгээр тайрах, хуваах боломжийг олгодог нээлттэй эх сурвалжтай програм юм.",
+   "body_mn": "LosslessCut бол хөгжүүлэгчид болон контент бүтээгчдэд зориулсан FFmpeg дээр суурилсан зураг, дүрс болон дуу авианы файлыг чанар алдагдуулахгүйгээр маш хурдан тайрах хэрэгсэл юм. GoPro, дрон болон утсаар авсан том хэмжээтэй видеонуудын хэрэгцээгүй хэсгийг хасч зай хэмнэхэд голчлон ашиглагддаг.\n\nГол онцлогууд:\n- Видео болон аудио файлуудыг дахин кодлох шаардлагагүйгээр шууд өгөгдлийг хуулж тайрдаг тул маш хурдан ажилладаг.\n- MP4, MOV, WebM, Matroska, OGG, WAV формат болон H.264, AV1, VP9, H.265 зэрэг олон төрлийн кодекийг дэмждэг.\n- Хэрэв дэмжигдээгүй формат байвал програмын цэснээс шууд хөрвүүлж ашиглах боломжтой.\n\nТехнологийн стек:\n- Chromium хөтөчийн HTML5 видео тоглуулагч дээр суурилсан бөгөөд суурь ачааллыг FFmpeg гүйцэтгэдэг.\n\nХэнд зориулсан бөгөөд хэрхэн турших вэ:\nВидео файлуудыг хурдан бөгөөд чанарын алдагдалгүйгээр боловсруулах шаардлагатай хөгжүүлэгчид болон энгийн хэрэглэгчдэд зориулагдсан. Энэхүү төслийг GitHub дээрээс (mifi/lossless-cut) татан авч үнэ төлбөргүй туршиж үзэх боломжтой.",
+   "published": "2026-10-21T12:08:14Z",
+   "added": "2026-10-21T12:08:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ea794a1f5f672288",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/nodejs/node",
+   "image": "https://opengraph.githubassets.com/a1bcb683b050bf7877ba1dae44b2110b31ceb19ddd85b3b3971e8eb53b73b97d/nodejs/node",
+   "title": "nodejs/node",
+   "summary_en": "Node.js JavaScript runtime ✨🐢🚀✨ https://nodejs.org Node.js Node.js is an open-source, cross-platform JavaScript runtime environment. For information on using Node.js, see the Node.js website . The Node.js project uses an open governance model . The OpenJS Foundation provides support for the project. Contributors are expected to act in a collaborative manner to move the project forward. We encourage the constructive exchange of contrary opinions and compromise. The TSC reserves the right to limit or block contributors who repeatedly act in ways that discourage, exhaust, or otherwise…",
+   "title_mn": "nodejs/node: Node.js программ хангамжийн ажиллах орчин",
+   "summary_mn": "Node.js нь JavaScript хэлийг хөтөчөөс гадна ажиллуулах боломжийг олгодог нээлттэй эх сурвалжтай, кросс-платформ орчин юм. Энэхүү төсөл нь OpenJS сангийн дэмжлэгтэйгээр нээлттэй засаглалын загвараар хөгждөг.",
+   "body_mn": "Node.js бол JavaScript хэлийг сервер талд болон бусад орчинд ажиллуулах боломжийг олгодог өргөн хэрэглэгддэг платформ юм. Уг төсөл нь хувилбар гаргах тогтсон хуваарьтай бөгөөд хөгжүүлэгчид албан ёсны вэб сайтаас хоёртын файл, суулгагч болон эх кодыг татаж авах боломжтой.\n\nТөслийн хувилбарын директорууд болон файлууд нь хувилбарын дугаар, огноо, мөн commit SHA мэдээллийг агуулдаг. Current болон LTS (Long Term Support) хувилбарууд нь тусдаа зам болон зориулалттайгаар хөгжүүлэгддэг бөгөөд энэ нь бүтээгдэхүүний тогтвортой байдлыг хангахад чухал үүрэгтэй.\n\nБаримт бичиг болон API-ийн дэлгэрэнгүй мэдээллийг албан ёсны сайтаас үзэх боломжтой бөгөөд татаж авсан файлуудын бүрэн бүтэн байдлыг шалгахын тулд PGP түлхүүр болон SHA checksum ашигладаг. Аюулгүй байдлын асуудал болон эмзэг байдлыг мэдээлэх журам нь төслийн агуулах дахь тусгай баримтуудад тодорхойлогдсон байдаг.",
+   "published": "2026-10-21T12:08:14Z",
+   "added": "2026-10-21T12:08:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fdafcfb7d7e67acd",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/WorldFlowAI/everything-claude-code",
+   "image": "https://opengraph.githubassets.com/d14d2ee851791b851a9af82873f92dc3e5f5cfc73e3da9cc9cd46b1c533d0671/WorldFlowAI/everything-claude-code",
+   "title": "WorldFlowAI/everything-claude-code",
+   "summary_en": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development Everything Claude Code The complete collection of Claude Code configs from an Anthropic hackathon winner. Production-ready agents, skills, hooks, commands, rules, and MCP configurations evolved over 10+ months of intensive daily use building real products. The Guides This repo is the raw code only. The guides explain everything. Shorthand Guide Setup, foundations, philosophy. Read this first. Longform Guide Token optimization, memory persistence, evals, parallelization. Topic What You'll…",
+   "title_mn": "WorldFlowAI/everything-claude-code: Claude Code-д зориулсан хэрэгслүүд",
+   "summary_mn": "Энэхүү төсөл нь Anthropic-ийн хакатоноос шалгарсан бүтээгдэхүүн бөгөөд Claude Code-д зориулсан агент, навык, hook болон MCP тохиргоог багтаасан цогц цуглуулга юм. Бүх hook болон скриптүүдийг Node.js дээр дахин бичсэн тул Windows, macOS, Linux дээр бүрэн ажиллана.",
+   "body_mn": "Энэхүү репозитори нь бодит бүтээгдэхүүн хөгжүүлэх явцад олон сарын турш сайжруулагдсан Claude Code тохиргоонуудыг нэг дор цуглуулсан болно. Хөгжүүлэгчид үүнийг шууд Claude Code plugin хэлбэрээр эсвэл ~/.claude/settings.json файлаар дамжуулан суулгаж ашиглах боломжтой.\n\nГол онцлогууд нь пакет менежерийг (npm, pnpm, yarn, bun) автоматаар илрүүлэх, даалгавраа хуваарилах дэд агентууд, тодорхой үйл явдлын үед ажилладаг hook-ууд болон MCP серверүүдийг багтаадаг. Гэхдээ хэт олон MCP идэвхжүүлэх нь контекстийг багасгаж болзошгүй тул шаардлагатайг нь сонгож ашиглахыг зөвлөдөг.\n\nЭнэхүү хэрэгсэл нь хиймэл оюун ухааны тусламжтайгаар програм хангамж хөгжүүлж буй хөгжүүлэгчдийн бүтээмжийг нэмэгдүүлэхэд чиглэсэн бөгөөд MIT лицензтэйгээр чөлөөтэй ашиглах боломжтой.",
+   "published": "2026-10-21T12:08:14Z",
+   "added": "2026-10-21T12:08:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2d6ba8fc0269fd52",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/anthropics/knowledge-work-plugins",
+   "image": "https://opengraph.githubassets.com/a39cb9b0ded0c1adb98f8336eef853f77f5cd020e264eb3c0ffb4dfcc280aa1f/anthropics/knowledge-work-plugins",
+   "title": "anthropics/knowledge-work-plugins",
+   "summary_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code . Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the…",
+   "title_mn": "anthropics/knowledge-work-plugins: Claude-ийг мэргэжилтэн болгох залгамж",
+   "summary_mn": "Энэхүү нээлттэй эх сурвалжтай репозитори нь Claude-ийг тухайн үүрэг, баг болон компанид зориулсан мэргэжилтэн болгох залгаасуудыг агуулдаг. Claude Cowork болон Claude Code-той бүрэн нийцдэг.",
+   "body_mn": "Anthropic компаниас гаргасан энэхүү төсөл нь хэрэглэгчдэд Claude-ийг өөрсдийн ажлын урсгал, хэрэгсэл, терминологид тохируулан өөрчлөх боломжийг олгодог. Залгаасууд нь тухайн ажлын байранд шаардлагатай навык, холбогч, slash командууд болон дэд агентуудыг нэг дор багцалсан байдаг.\n\nБүх бүрэлдэхүүн хэсгүүд нь энгийн markdown болон JSON файлаас бүрдэх тул ямар нэгэн код бичих, дэд бүтэц босгох шаардлагагүйгээр шууд ажиллана. Компаниуд эдгээр суурь залгаасыг өөрсдийн хэрэгцээнд тааруулан өөрчилж, багийнхаа бүтээмжийг нэмэгдүүлэх боломжтой.\n\nНээлттэй эх сурвалжийн зарчмаар хөгжиж буй энэхүү төсөлд хөгжүүлэгчид өөрсдийн залгаасыг нэмж, GitHub дээр хувь нэмрээ оруулах боломжтой юм.",
+   "published": "2026-10-21T12:08:14Z",
+   "added": "2026-10-21T12:08:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e8a7d399fdede511",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/sickn33/agentic-awesome-skills",
+   "image": "https://opengraph.githubassets.com/9109560a315f49d938f0fe63fd116300222054c9abe22cfe8a95a7521387bd3d/sickn33/agentic-awesome-skills",
+   "title": "sickn33/agentic-awesome-skills",
+   "summary_en": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. https://aaskills.tech/ AAS Core — Agentic Awesome Skills Find reusable instructions for your project, inspect their complete files, and keep an exact skill set you can review and reuse. Agentic Awesome Skills is a library of 2,724+ installable SKILL.md playbooks. AAS Core helps Codex or Claude search the complete local catalog, record the skills the agent chooses, and…",
+   "title_mn": "sickn33/agentic-awesome-skills: AI агентүүдад зориулсан дахин ашиглах заавар",
+   "summary_mn": "Энэхүү сан нь Codex эсвэл Claude агентуудад зориулсан 2,737 гаруй суулгаж болох SKILL.md зааварчилгааг агуулдаг. AAS Core нь орон нутгийн каталогийг шалгаж, агентын сонгосон ур чадварыг урьдчилан харах боломжийг олгодог.",
+   "body_mn": "Agentic Awesome Skills нь хиймэл оюун ухааны агентуудад зориулсан дахин ашиглах боломжтой сургалтын болон ажлын урсгалын заавруудын томоохон каталог юм. AAS Core хэрэгсэл нь Codex эсвэл Claude-тай хамтран ажиллаж, төслийн бүтцийг шалган тохирох ур чадваруудыг сонгоход тусалдаг.\n\nХөгжүүлэгчид орон нутгийн MCP-г тохируулан агентад төслөө шалгуулж, шаардлагатай навыкуудыг сонгуулах боломжтой. Compose_stack хэрэгсэл нь сонгосон ID болон бүтцийг санах ойд шалгаж, баталгаажуулалтын тайланг гаргаж өгдөг.\n\nЭнэ нь бие даасан олон нийтийн төсөл бөгөөд хиймэл оюун ухааны агентуудын чадамжийг өргөжүүлэх, код бичих явцыг илүү системтэй болгоход чиглэсэн сонирхолтой шийдэл юм.",
+   "published": "2026-10-21T12:08:14Z",
+   "added": "2026-10-21T12:08:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
  }

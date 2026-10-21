@@ -1,0 +1,17 @@
+{
+ "id": "f041806265259e01",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "India Today",
+ "url": "https://www.indiatoday.in/technology/news/story/anthropic-is-struggling-to-get-compute-from-aws-google-and-microsoft-3021835-2026-10-21",
+ "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/the-move-comes-months-after-federal-officials-placed-two-of-anthropics-most-advanced-models-under-s-170055171-16x9_0.jpg?VersionId=4ACuif9cwh30AjKnP.lQN_8ExZF_SIMJ",
+ "title": "Anthropic is struggling to get compute from AWS, Google and Microsoft",
+ "summary_en": "Anthropic says AWS, Google and Microsoft are not offering all the computing capacity it needs. The shortage is pushing the Claude maker towards leased data centres and smaller operators.",
+ "title_mn": "Anthropic үүлэн үйлчилгээний хомсдолтой тулгарч, Claude-ийн дүрэмд өөрчлөлт оруулав",
+ "summary_mn": "Anthropic компани AWS, Google, Microsoft-оос хангалттай тооцоолох хүчин чадал авахад хүндрэл учирч байгааг мэдэгдлээ. Мөн хэрэглэгчид Claude загвартай зүй бусаар харьцвал яриаг зогсоох боломжтой болсон байна.",
+ "body_mn": "Claude загварыг хөгжүүлэгч Anthropic компани Amazon Web Services (AWS), Google болон Microsoft-оос шаардлагатай тооцоолох хүчин чадлыг бүрэн авч чадахгүй байгаагаа мэдэгдлээ. Эдгээр том технологийн компаниуд өөрсдөө AI салбарт өрсөлдөж байгаа тул Anthropic-ийн хүссэн хэмжээний дэд бүтцийг нийлүүлэхгүй байгаатай холбоотой юм.\n\nКомпани ирэх 7-10 жилийн хугацаанд үүлэн тооцоололд зориулж 450 тэрбум долларын гэрээ хийсэн бөгөөд энэ дүн цаашид 750 тэрбум давах магадлалтай байна. Томоохон нийлүүлэгчдийн хүчин чадал хүрэлцэхгүй байгаагаас шалтгаалан Anthropic жижиг дата төвүүдтэй хамтарч эхэлсэн ч тэдгээрийн найдвартай ажиллагаа эрсдэл дагуулж болзошгүйг сануулжээ.\n\nҮүний зэрэгцээ Anthropic хэрэглээний журмандаа шинэчлэл оруулж, хэрэглэгчид байнга шалтгаангүйгээр бүдүүлэг, зүй бус хандвал Claude яриаг шууд таслах эрхтэй болсон байна. Энэхүү өөрчлөлт нь энгийн шүүмжлэл эсвэл тест хийхэд хамаарахгүй бөгөөд зөвхөн хэт давтагдсан бүдүүлэг харилцаанд үйлчлэх аж.",
+ "published": "2026-10-21T07:36:31Z",
+ "added": "2026-10-21T12:08:14Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

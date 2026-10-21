@@ -1,0 +1,17 @@
+{
+ "id": "b9cdeba46112f10c",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/mifi/lossless-cut",
+ "image": "https://opengraph.githubassets.com/e0b6f56fd96a5d0802fb246eb75da71c9d9967b1da6db0020c0991c14357aff7/mifi/lossless-cut",
+ "title": "mifi/lossless-cut",
+ "summary_en": "The swiss army knife of lossless video/audio editing https://losslesscut.app/ LosslessCut The swiss army knife of lossless video/audio editing Thanks to my supporters and everyone who purchased LosslessCut! LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files. The main feature is lossless trimming and cutting of video and audio files, which is great for saving space by rough-cutting your large video files taken from a video camera, GoPro, drone, etc. It lets you quickly extract the…",
+ "title_mn": "mifi/lossless-cut: FFmpeg дээр суурилсан дүрс болон дуу авиаг чанар алдагдуулахгүйгээр тайрах хэрэгсэл",
+ "summary_mn": "LosslessCut бол видео болон аудио файлуудыг удаан хугацаагаар дахин кодлохгүйгээр маш хурдан бөгөөд чанар алдагдуулахгүйгээр тайрах, хуваах боломжийг олгодог нээлттэй эх сурвалжтай програм юм.",
+ "body_mn": "LosslessCut бол хөгжүүлэгчид болон контент бүтээгчдэд зориулсан FFmpeg дээр суурилсан зураг, дүрс болон дуу авианы файлыг чанар алдагдуулахгүйгээр маш хурдан тайрах хэрэгсэл юм. GoPro, дрон болон утсаар авсан том хэмжээтэй видеонуудын хэрэгцээгүй хэсгийг хасч зай хэмнэхэд голчлон ашиглагддаг.\n\nГол онцлогууд:\n- Видео болон аудио файлуудыг дахин кодлох шаардлагагүйгээр шууд өгөгдлийг хуулж тайрдаг тул маш хурдан ажилладаг.\n- MP4, MOV, WebM, Matroska, OGG, WAV формат болон H.264, AV1, VP9, H.265 зэрэг олон төрлийн кодекийг дэмждэг.\n- Хэрэв дэмжигдээгүй формат байвал програмын цэснээс шууд хөрвүүлж ашиглах боломжтой.\n\nТехнологийн стек:\n- Chromium хөтөчийн HTML5 видео тоглуулагч дээр суурилсан бөгөөд суурь ачааллыг FFmpeg гүйцэтгэдэг.\n\nХэнд зориулсан бөгөөд хэрхэн турших вэ:\nВидео файлуудыг хурдан бөгөөд чанарын алдагдалгүйгээр боловсруулах шаардлагатай хөгжүүлэгчид болон энгийн хэрэглэгчдэд зориулагдсан. Энэхүү төслийг GitHub дээрээс (mifi/lossless-cut) татан авч үнэ төлбөргүй туршиж үзэх боломжтой.",
+ "published": "2026-10-21T12:08:14Z",
+ "added": "2026-10-21T12:08:14Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

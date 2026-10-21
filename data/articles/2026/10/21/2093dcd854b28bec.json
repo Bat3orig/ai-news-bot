@@ -1,0 +1,17 @@
+{
+ "id": "2093dcd854b28bec",
+ "subtopic": "node",
+ "source": "Node.js Blog",
+ "source_label": "Node.js Blog",
+ "url": "https://nodejs.org/en/blog/release/v26.12.1",
+ "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.12.1%20(Current)",
+ "title": "Node.js 26.12.1 (Current)",
+ "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+ "title_mn": "Node.js 26.12.1 (Current) хувилбар гарлаа",
+ "summary_mn": "Node.js төслийн хамгийн сүүлийн үеийн боломжуудыг агуулсан v26.12.1 (Current) хувилбар цацагдлаа.",
+ "body_mn": "Node.js платформын хамгийн сүүлийн үеийн боломжуудыг багтаасан Node.js 26.12.1 (Current) хувилбар бэлэн боллоо. Энэхүү хувилбар нь шинэ боломжуудыг туршиж үзэх хүсэлтэй хөгжүүлэгчдэд зориулагдсан юм.\n\nДэмжигдсэн платформд зориулсан файлууд болон эх код албан ёсны эх сурвалжид байршсан байна.",
+ "published": "2026-10-21T10:39:20Z",
+ "added": "2026-10-21T12:08:14Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

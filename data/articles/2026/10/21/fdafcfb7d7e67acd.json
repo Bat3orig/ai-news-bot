@@ -1,0 +1,17 @@
+{
+ "id": "fdafcfb7d7e67acd",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/WorldFlowAI/everything-claude-code",
+ "image": "https://opengraph.githubassets.com/d14d2ee851791b851a9af82873f92dc3e5f5cfc73e3da9cc9cd46b1c533d0671/WorldFlowAI/everything-claude-code",
+ "title": "WorldFlowAI/everything-claude-code",
+ "summary_en": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development Everything Claude Code The complete collection of Claude Code configs from an Anthropic hackathon winner. Production-ready agents, skills, hooks, commands, rules, and MCP configurations evolved over 10+ months of intensive daily use building real products. The Guides This repo is the raw code only. The guides explain everything. Shorthand Guide Setup, foundations, philosophy. Read this first. Longform Guide Token optimization, memory persistence, evals, parallelization. Topic What You'll…",
+ "title_mn": "WorldFlowAI/everything-claude-code: Claude Code-д зориулсан хэрэгслүүд",
+ "summary_mn": "Энэхүү төсөл нь Anthropic-ийн хакатоноос шалгарсан бүтээгдэхүүн бөгөөд Claude Code-д зориулсан агент, навык, hook болон MCP тохиргоог багтаасан цогц цуглуулга юм. Бүх hook болон скриптүүдийг Node.js дээр дахин бичсэн тул Windows, macOS, Linux дээр бүрэн ажиллана.",
+ "body_mn": "Энэхүү репозитори нь бодит бүтээгдэхүүн хөгжүүлэх явцад олон сарын турш сайжруулагдсан Claude Code тохиргоонуудыг нэг дор цуглуулсан болно. Хөгжүүлэгчид үүнийг шууд Claude Code plugin хэлбэрээр эсвэл ~/.claude/settings.json файлаар дамжуулан суулгаж ашиглах боломжтой.\n\nГол онцлогууд нь пакет менежерийг (npm, pnpm, yarn, bun) автоматаар илрүүлэх, даалгавраа хуваарилах дэд агентууд, тодорхой үйл явдлын үед ажилладаг hook-ууд болон MCP серверүүдийг багтаадаг. Гэхдээ хэт олон MCP идэвхжүүлэх нь контекстийг багасгаж болзошгүй тул шаардлагатайг нь сонгож ашиглахыг зөвлөдөг.\n\nЭнэхүү хэрэгсэл нь хиймэл оюун ухааны тусламжтайгаар програм хангамж хөгжүүлж буй хөгжүүлэгчдийн бүтээмжийг нэмэгдүүлэхэд чиглэсэн бөгөөд MIT лицензтэйгээр чөлөөтэй ашиглах боломжтой.",
+ "published": "2026-10-21T12:08:14Z",
+ "added": "2026-10-21T12:08:14Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
