@@ -1,0 +1,17 @@
+{
+ "id": "ea92da5c121ecb45",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/building-chatgpt-ad-stack",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/GsY5RrFvT4ZOnPC3oZUya/e3168194d55c5d9c8060ce5c5ba6c3ed/building-chatgpt-ad-stack-social.png?w=1600&h=900&fit=fill",
+ "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+ "summary_en": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+ "title_mn": "OpenAI ChatGPT-ийн реклам системээ хэрхэн бүтээсэн тухай",
+ "summary_mn": "OpenAI ChatGPT-ийн зарын системийг хүний ярианы утга зорилгод суурилсан тусгай стек хэлбэрээр бүтээсэн гэдгээ тайлбарлав. ChatGPT Ads нь эхлэснээс хойш 200 хоногоос бага хугацаанд жилийн 1 тэрбум долларын орлогын түвшинд хүрчээ.",
+ "body_mn": "OpenAI ChatGPT-д зориулсан зарын системийг уламжлалт хайлт болон вэб хуудасны үзэлтэд суурилсан зарын системээс ялгаатай байдлаар бүтээжээ. Хэрэглэгчийн зорилго яриа явцад аажмаар тодордог тул систем нэг мессежээр биш, олон удаагийн яриагаар нь ойлгох шаардлагатай байв.\n\nСистем гурван гол шийдэлд тулгуурлана. Нэгдүгээрт, яриаг дамжуулан мэдээллийг санах төлөвт зарын сессийг ашиглана. Хоёрдугаарт, зарын урьдчилсан сонголт, эрэмбэлэлт, үнэлгээ, дуудлагад тусгайлан сургасан LLM tool call-аар хийгдэнэ. Гуравдугаарт, зарын шийдвэр ChatGPT-ийн хариулт үүсгэхээс тусдаа үйлчилгээнд явагдана, ингэснээр зар хариултад нөлөөлөхгүй байхыг хангана.\n\nТайланд дурдсанаар ChatGPT Ads нь эхлэснээс хойш 200 хоногоос бага хугацаанд жилийн 1 тэрбум долларын орлогын түвшинд хүрч, 100,000-аас олон рекламодагч зар байрлуулжээ. Хөгжүүлэгчдэд энэ нь LLM-д суурилсан тусгай системийг хэрхэн архитектурлаж байгаагийн жишээ болно.",
+ "published": "2026-10-21T07:00:00Z",
+ "added": "2026-10-21T17:28:45Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

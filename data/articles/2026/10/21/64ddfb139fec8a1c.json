@@ -1,0 +1,17 @@
+{
+ "id": "64ddfb139fec8a1c",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/5Uhfx9LWwXWN8zKg7a6aNi/021edebfedf0c6f9638f929ba23900ab/scaling-ai-biological-data-social.png?w=1600&h=900&fit=fill",
+ "title": "Using thousands of AI agents to uncover new leads in biological data",
+ "summary_en": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+ "title_mn": "OpenAI, PerturbAI болон Scripps Research тархины эсийн өгөгдлийг шинжлэхэд олон мянган AI агент ашиглав",
+ "summary_mn": "OpenAI, PerturbAI болон Scripps Research хамтран GPT‑Rosalind загварт суурилсан олон мянган AI агентыг зэрэг ажиллуулж, хулганы тархины эсийн биологийн өгөгдлийг ердөө 32 минутад шинژлжээ.",
+ "body_mn": "OpenAI компани PerturbAI болон Scripps Research байгууллагуудтай хамтран том хэмжээний биологийн туршилтын өгөгдөлд дүн шинжилгээ хийх зорилгоор олон мянган хиймэл оюуны агентуудыг зэрэг ажиллуулснаа зарлалаа. GPT‑Rosalind загвараар ажилладаг эдгээр агентууд хулганы тархины эсийн CRISPR атлас өгөгдлийг боловсруулж, генийн өөрчлөлт болон эсийн хариу үйлдлийн хоорондын холбоог шинжлэв.\n\nУг шинжилгээг хийхэд хүнээс сар эсвэл жилийн хугацаа шаардагдах байсан бол тархсан биологийн үндэслэл (distributed biological reasoning) бүхий энэхүү аргаар ердөө 32 минутад гүйцэтгэжээ. Агентууд хүний шинжээчдийн гаргасан дүгнэлттэй дүйцэхүйц үр дүнд хүрснээс гадна Альцгеймер, Паркинсоны өвчин судлалд тус болохуйц шинэ сэжүүрүүдийг илрүүлсэн байна.\n\nЭнэхүү судалгааны үр дүнг бусад судлаачид ашиглах боломжтой бөгөөд генийн өөрчлөлтүүд болон эсийн хариу урвалуудыг харьцуулах боломжтой шинэ мэдээллийн сан нээгджээ. Энэ нь шинжлэх ухааны салбарт том өгөгдлийг боловсруулах, эмчилгээний шинэ чиглэл тогтооход AI агентуудын гүйцэтгэх үүргийг эрс нэмэгдүүлж байна.",
+ "published": "2026-10-21T04:50:00Z",
+ "added": "2026-10-21T17:28:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

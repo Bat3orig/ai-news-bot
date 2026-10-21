@@ -1,0 +1,17 @@
+{
+ "id": "c9580501c52142a9",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "MIXED Reality News",
+ "url": "https://mixed-news.com/en/claude-code-warns-old-chat-five-hour-limit-2-1-304/",
+ "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/e6c18d30f931ae76d4b600558f5a11377306f1d9-2000x1125-1.jpg",
+ "title": "Claude Code now warns you before an old chat eats into your 5-hour limit",
+ "summary_en": "Claude Code now warns Pro and Max subscribers before they resume an old conversation that would use a noticeable share of their 5-hour usage limit. The",
+ "title_mn": "Claude Code хуучин чат лимит хэтрүүлэхээс урьдчилан сануулдаг боллоо",
+ "summary_mn": "Claude Code 2.1.304 хувилбар гарч, хэрэглэгчдийг 5 цагийн хязгаарлалтад нөлөөлөхүйц хуучин ярианд буцаж орохоос өмнө сануулдаг болжээ.",
+ "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ 2.1.304 болон дараагийн шинэчлэлтүүдийг гаргалаа. Шинэ хувилбараар Pro болон Max хэрэглэгчид хуучин ярианд буцаж орох үед 5 цагийн хэрэглээний лимитэд хэрхэн нөлөөлөхийг урьдчилан сануулах функц нэмэгдсэн байна.\n\nМөн авто горимын тохиргоог хялбарчлах /auto-mode-setup команд нэмэгдсэн бөгөөд Bedrock, Vertex болон Foundry орчинд мөн ажилладаг болжээ. Үүнээс гадна файлын систем дэх чухал хавтас болон дискүүдийг санамсаргүйгээр устгахаас сэргийлсэн аюулгүй байдлын анхааруулга сайжирсан байна.\n\nДараагийн 2.1.305 болон 2.1.306 засварууд нь Vertex болон Bedrock дээрх хэрэгслийн хайлттай холбоотой алдаануудыг засаж, үүлэн сессүүд дэх нэвтрэлтийн мэдээлэл алдагдах асуудлыг шийдвэрлэжээ.",
+ "published": "2026-10-21T12:18:58Z",
+ "added": "2026-10-21T17:28:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

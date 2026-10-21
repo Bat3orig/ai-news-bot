@@ -1,0 +1,17 @@
+{
+ "id": "5727b04f30d31660",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "EIN News",
+ "url": "https://www.einnews.com/pr_news/951037254/viirtue-mcp-adds-google-gemini-and-xai-grok-so-businesses-can-talk-to-their-ai-voice-platform",
+ "image": "",
+ "title": "Viirtue MCP Adds Google Gemini and xAI Grok, So Businesses Can Talk to Their AI Voice Platform",
+ "summary_en": "",
+ "title_mn": "Viirtue MCP платформд Google Gemini болон xAI Grok нэмэгдлээ",
+ "summary_mn": "Viirtue компани өөрийн AI дуут платформдоо Google Gemini болон xAI Grok загваруудыг нэгтгэснээр бизнесүүдэд илүү өргөн сонголт олгож байна.",
+ "body_mn": "Viirtue MCP платформ нь хиймэл оюун ухааны дуут системүүддээ Google Gemini болон xAI Grok загваруудыг албан ёсоор нэмжээ. Энэхүү интеграцийн тусламжтайгаар бизнесүүд болон хөгжүүлэгчид дуут харилцааны шийдлүүддээ дэвшилтэт LLM загваруудыг чөлөөтэй холбож ашиглах боломжтой болж байна.\n\nУг шинэчлэл нь хэрэглэгчдэд өөрсдийн дуут платформ болон AI агент хоорондын харилцан үйлчлэлийг сайжруулах, илүү байгалийн бөгөөд ухаалаг хариу үйлдэл үзүүлэх боломжийг бүрдүүлж байгаа юм.\n\nХөгжүүлэгчид үйлчлүүлэгчдийнхээ хэрэгцээ шаардлагад нийцүүлэн янз бүрийн хиймэл оюун ухааны загваруудыг дуут үйлчилгээндээ хялбархан суулгах боломжтой боллоо.",
+ "published": "2026-10-21T13:00:00Z",
+ "added": "2026-10-21T17:28:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

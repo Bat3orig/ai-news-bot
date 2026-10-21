@@ -1,0 +1,17 @@
+{
+ "id": "95dedf578de78f3e",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/openai-models-google-cloud",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/659u0DsrtDQd9LxI8L4J9M/0b95908d6a9ed46ffe20b23d081574b4/openai-models-coming-to-google-cloud-social.png?w=1600&h=900&fit=fill",
+ "title": "OpenAI models are coming to Google Cloud",
+ "summary_en": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+ "title_mn": "OpenAI загварууд Google Cloud платфортод нэвтэрнэ",
+ "summary_mn": "OpenAI болон Google Cloud хамтран ажиллаж, OpenAI-ийн загварууд болон Codex агент ажлын урсгалыг Google Cloud Model Garden-д нэмэхээр боллоо.",
+ "body_mn": "OpenAI компани Google Cloud-той стратеги хамтын ажиллагаа зарлаж, өөрсдийн тэргүүлэх загварууд болон Codex агент ажлын урсгалуудыг Google Cloud-ын Model Garden платформд албан ёсоор нэвтрүүлэхээр болжээ. Энэхүү интеграцийн үр дүнд хөгжүүлэгчид болон дата судлаачид өөрсдийн ажлын орчноос гарахгүйгээр OpenAI-ийн дэвшилтэт загваруудыг ашиглах боломжтой болж байна.\n\nБайгууллагын түвшний хэрэглэгчид өгөгдлийн аюулгүй байдал, хандалтын хяналт болон өндөр хүчин чадалтай дэд бүтцийг хослуулан ашиглах бөгөөд Google Cloud Marketplace дээрээс худалдан авалт хийх боломжтой аж. Мөн Google Cloud дээрх төсвөөсөө эдгээр худалдан авалтыг санхүүжүүлэх боломжтой юм.\n\nЭнэхүү алхам нь хөгжүүлэгчдэд ямар загварыг аль төсөлд ашиглах сонголтын эрхийг нэмэгдүүлж байгаагаараа онцлог бөгөөд ерөнхий хүртээмжтэй байдал ойрын хэдэн долоо хоногт албан ёсоор нээгдэнэ.",
+ "published": "2026-10-21T12:00:00Z",
+ "added": "2026-10-21T17:28:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

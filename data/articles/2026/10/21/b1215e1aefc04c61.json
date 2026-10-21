@@ -1,0 +1,17 @@
+{
+ "id": "b1215e1aefc04c61",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/6Fq2uj7xCpKHENjyeojn9c/d3771e7cecdfb77c28c7560de9413de1/chatgpt-ads-expands-26-new-countries-social.png?w=1600&h=900&fit=fill",
+ "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+ "summary_en": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+ "title_mn": "ChatGPT зар сурталчилгаа 26 шинэ улсад өргөжлөө",
+ "summary_mn": "ChatGPT Ads үйлчилгээ дэлхий даяар 89 улсад хүрч өргөжсөн бөгөөд одоогоор 100,000 гаруй сурталчилгаа эрхлэгч ашиглаж байна.",
+ "body_mn": "OpenAI компани ChatGPT дээрх зар сурталчилгааны үйлчилгээгээ дахин 26 шинэ улсад нэмж, нийт 89 улсад хүргэж буйгаа зарлалаа. Энэхүү өргөжүүлэлт нь Латин Америк, Европ, Ази болон Ойрхи Дорнодын орнуудыг хамарч байна.\n\nЗар сурталчилгаа нь зөвхөн Free болон Go үнэгүй эсвэл хямд төлөвлөгөө ашигладаг хэрэглэгчдэд харагдах бөгөөд Plus, Pro болон Enterprise хэрэглэгчид ямар ч зар сурталчилгаагүйгээр ашиглахаараа үлдэх юм. OpenAI хэрэглэгчдийн нууцлалыг хатуу хамгаалж, харилцан ярианы өгөгдлийг сурталчилгаа эрхлэгчдэд худалдахгүй гэдгээ онцолжээ.\n\nЭнэхүү хөгжүүлэлт нь хиймэл оюун ухааныг үнэ төлбөргүй болон хүртээмжтэй байдлаар олон нийтэд хүргэх санхүүгийн тогтвортой загвар бүтээх зорилготой аж.",
+ "published": "2026-10-21T13:00:00Z",
+ "added": "2026-10-21T17:28:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

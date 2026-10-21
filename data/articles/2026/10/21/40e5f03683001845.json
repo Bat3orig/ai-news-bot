@@ -1,0 +1,17 @@
+{
+ "id": "40e5f03683001845",
+ "subtopic": "packages",
+ "source": "Frontend Focus",
+ "source_label": "Frontend Focus",
+ "url": "https://frontendfoc.us/issues/763",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1792580550/hxa80wdvuurmobkzyw5x.png",
+ "title": "Ten CSS features worth voting for",
+ "summary_en": "🚀 Frontend Focus #​763 — October 21, 2026 | Read on the web Everyone's Interop 2027 Wishlists Last week we shared that you can now rank the Interop web platform proposals for 2027 . Since then, plenty of folks have shared their own rankings and explained their choices: ⭐ Josh Comeau's The Future of CSS – Josh's top ten, from CSS functions and corner-shape to anchored container queries and scroll-triggered animations, each with live demos, current browser support, and tips you can use today. A particularly good place to start. 🔎 Sara Soueidan's picks put accessibility first. It's a privilege…",
+ "title_mn": "Frontend Focus сонин: CSS-ийн ирээдүй, Chrome 157 болон PHP-ийн шинэчлэл",
+ "summary_mn": "Frontend Focus мэдээллийн товхимолд 2027 оны Interop санал хураалт, Safari-ийн хяналтын эсрэг хамгаалалт, PHP-ийн аюулгүй байдлын чухал засварууд болон Chrome 157-ын шинэ боломжуудыг онцоллоо.",
+ "body_mn": "Энэ долоо хоногийн Frontend Focus сонин хөгжүүлэгчдийн анхаарлыг татсан олон сонирхолтой мэдээллийг хүргэснээс CSS болон вэб платформ руу чиглэсэн хэлэлцүүлгүүд голлолоо. Тухайлбал, Josh Comeau болон Sara Soueidan нар 2027 оны Interop вэб платформын санал хураалтад дэвшүүлж буй чухал CSS болон хүртээмжийн шинэ боломжуудаа хуваалцжээ.\n\nҮүнээс гадна Safari хөтөч гуравдагч талын маягтын имэйл цуглуулж хянах үйл ажиллагааг домэйн түвшинд хориглож эхэлсэн байна. Мөн PHP хэлний 8.5.12, 8.4.27, 8.3.36 болон 8.2.35 хувилбарууд алсын зайнаас код ажиллуулах ноцтой эмзэг байдлыг зассан тул хөгжүүлэгчдийг яаралтай шинэчлэхыг сануулжээ.\n\nChrome 157 хувилбар бета шатанд шилжиж corner shorthands болон anchor-valid боломжуудыг нэмсэн бол, Chrome 156 тогтвортой хувилбартаа CSS random() функцийг авчирлаа. Мөн unload эвент бүрэн deprecate болж дууссан тул pagehide эсвэл visibilitychange ашиглахыг зөвлөж байна.",
+ "published": "2026-10-21T00:00:00Z",
+ "added": "2026-10-21T17:28:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

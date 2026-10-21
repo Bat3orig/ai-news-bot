@@ -458,5 +458,285 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "62b196023aed654c",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2baD4s8r5p3SnOpcA1NM6P/5c0c09a93028b23c5fddce7a888a26f0/image.png",
+   "title": "Skipped monorepo deployments no longer count against limits",
+   "summary_en": "Deployments that Vercel automatically skips in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits. Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using Turborepo 's package graph and lockfile analysis to determine which projects a commit affects. Skipping is enabled by default for new monorepo projects. You can turn it on for existing projects under Build and Deployment in the project's settings . Learn more about skipping unaffected projects and deployment…",
+   "title_mn": "Vercel: Monorepo байршуулалтын хязгаарлалтад өөрчлөлт орлоо",
+   "summary_mn": "Vercel платформ монорепозитори дахь автоматаар алгассан байршуулалтуудыг лимитээс хасахгүй байхаар шийдвэрлэлээ. Энэ нь багуудад ижил лимитээр илүү олон байршуулалт хийх боломж олгож байна.",
+   "body_mn": "Vercel компани монорепозиторийн төслүүдэд зориулсан байршуулалтын шинэ боломжийг нэвтрүүлж, Turborepo-ийн багцын граф болон түгжээний файлыг ашиглан код өөрчлөгдөөгүй төслүүдийн байршуулалтыг автоматаар алгасах боломжтой болголоо. Ингэснээр алгассан байршуулалтууд хэрэглэгчийн сарын байршуулалтын хязгаарлалтад тооцогдохгүй юм.\n\nЭнэхүү функц нь шинээр үүсгэж буй монорепозитори төслүүдэд анхдагчаар идэвхжсэн байх ба хуучин төслүүдийн хувьд тохиргооны Build and Deployment хэсгээс гараар асаах боломжтой. Хөгжүүлэгчид үүний тусламжтайгаар нөөцөө илүү үр дүнтэй зарцуулж, кодын өөрчлөлт ороогүй үед давхар лимит шавхахаас сэргийлэх юм.",
+   "published": "2026-10-21T00:00:00Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "40e5f03683001845",
+   "subtopic": "packages",
+   "source": "Frontend Focus",
+   "source_label": "Frontend Focus",
+   "url": "https://frontendfoc.us/issues/763",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1792580550/hxa80wdvuurmobkzyw5x.png",
+   "title": "Ten CSS features worth voting for",
+   "summary_en": "🚀 Frontend Focus #​763 — October 21, 2026 | Read on the web Everyone's Interop 2027 Wishlists Last week we shared that you can now rank the Interop web platform proposals for 2027 . Since then, plenty of folks have shared their own rankings and explained their choices: ⭐ Josh Comeau's The Future of CSS – Josh's top ten, from CSS functions and corner-shape to anchored container queries and scroll-triggered animations, each with live demos, current browser support, and tips you can use today. A particularly good place to start. 🔎 Sara Soueidan's picks put accessibility first. It's a privilege…",
+   "title_mn": "Frontend Focus сонин: CSS-ийн ирээдүй, Chrome 157 болон PHP-ийн шинэчлэл",
+   "summary_mn": "Frontend Focus мэдээллийн товхимолд 2027 оны Interop санал хураалт, Safari-ийн хяналтын эсрэг хамгаалалт, PHP-ийн аюулгүй байдлын чухал засварууд болон Chrome 157-ын шинэ боломжуудыг онцоллоо.",
+   "body_mn": "Энэ долоо хоногийн Frontend Focus сонин хөгжүүлэгчдийн анхаарлыг татсан олон сонирхолтой мэдээллийг хүргэснээс CSS болон вэб платформ руу чиглэсэн хэлэлцүүлгүүд голлолоо. Тухайлбал, Josh Comeau болон Sara Soueidan нар 2027 оны Interop вэб платформын санал хураалтад дэвшүүлж буй чухал CSS болон хүртээмжийн шинэ боломжуудаа хуваалцжээ.\n\nҮүнээс гадна Safari хөтөч гуравдагч талын маягтын имэйл цуглуулж хянах үйл ажиллагааг домэйн түвшинд хориглож эхэлсэн байна. Мөн PHP хэлний 8.5.12, 8.4.27, 8.3.36 болон 8.2.35 хувилбарууд алсын зайнаас код ажиллуулах ноцтой эмзэг байдлыг зассан тул хөгжүүлэгчдийг яаралтай шинэчлэхыг сануулжээ.\n\nChrome 157 хувилбар бета шатанд шилжиж corner shorthands болон anchor-valid боломжуудыг нэмсэн бол, Chrome 156 тогтвортой хувилбартаа CSS random() функцийг авчирлаа. Мөн unload эвент бүрэн deprecate болж дууссан тул pagehide эсвэл visibilitychange ашиглахыг зөвлөж байна.",
+   "published": "2026-10-21T00:00:00Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3f6af2e4cd938eba",
+   "subtopic": "anthropic",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://www.anthropic.com/research/attack-surface-reduction",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "title": "Using Claude to reduce the attack surface of code",
+   "summary_en": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 113 # Comments: 74",
+   "title_mn": "Anthropic: Claude загварыг кодын аюулгүй байдлын эмзэг байдлыг багасгахад ашиглах нь",
+   "summary_mn": "Anthropic компани AI загваруудыг ашиглан програм хангамжийн хүрэхэд хялбар хэсгүүдийг хумих буюу attack surface-ийг багасгах судалгааны үр дүнгээ танилцууллаа.",
+   "body_mn": "Anthropic компани хиймэл оюун ухааны загварууд зөвхөн цоорхой олж илрүүлэхээс гадна програм хангамжийн аюулгүй байдлыг бэхжүүлэхэд хэрхэн тусалж болох талаар шинэ судалгаа гаргажээ. Тэд Claude загварыг ашиглан 25 томоохон нээлттэй эх сурвалжтай төслүүдэд автомат дүн шинжилгээ хийж, кодын хүртээмжтэй байдлыг хязгаарлах замаар эмзэг байдлын цар хүрээг хумих аргачлалыг туршсан байна.\n\nСудалгааны явцад Claude 5 сая гаруй мөр код бүхий төслүүдээс 17 мянга гаруй тохиргооны сонголтыг шалгаж, аюулгүй байдалд нөлөөлөхүйц 493 асуудлыг илрүүлжээ. Програм хангамж хөгжихийн хэрээр илүү төвөгтэй болж, анхны төлөвлөснөөс өөрөөр ажиллах эрсдэлтэй байдаг тул шаардлагагүй код болон функцүүдэд хандах хандалтыг хязгаарлах нь болзошгүй халдлагаас хамгаалах үр дүнтэй арга юм.\n\nХөгжүүлэгчид энэхүү аргыг ашиглан кодынхоо архитектурыг сайжруулж, нэвтрэх эрхийн түвшинг өөрчлөх болон аюулгүй байдлын хяналтыг чангатгах боломжтой. Энэ нь цоорхой бүрийг нэг бүрчлэн хайж олон засахаас илүү хурдан бөгөөд масштаб сайтай хамгаалалтын арга хэмжээ болж байна.",
+   "published": "2026-10-21T03:36:43Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "64ddfb139fec8a1c",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/5Uhfx9LWwXWN8zKg7a6aNi/021edebfedf0c6f9638f929ba23900ab/scaling-ai-biological-data-social.png?w=1600&h=900&fit=fill",
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "summary_en": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+   "title_mn": "OpenAI, PerturbAI болон Scripps Research тархины эсийн өгөгдлийг шинжлэхэд олон мянган AI агент ашиглав",
+   "summary_mn": "OpenAI, PerturbAI болон Scripps Research хамтран GPT‑Rosalind загварт суурилсан олон мянган AI агентыг зэрэг ажиллуулж, хулганы тархины эсийн биологийн өгөгдлийг ердөө 32 минутад шинژлжээ.",
+   "body_mn": "OpenAI компани PerturbAI болон Scripps Research байгууллагуудтай хамтран том хэмжээний биологийн туршилтын өгөгдөлд дүн шинжилгээ хийх зорилгоор олон мянган хиймэл оюуны агентуудыг зэрэг ажиллуулснаа зарлалаа. GPT‑Rosalind загвараар ажилладаг эдгээр агентууд хулганы тархины эсийн CRISPR атлас өгөгдлийг боловсруулж, генийн өөрчлөлт болон эсийн хариу үйлдлийн хоорондын холбоог шинжлэв.\n\nУг шинжилгээг хийхэд хүнээс сар эсвэл жилийн хугацаа шаардагдах байсан бол тархсан биологийн үндэслэл (distributed biological reasoning) бүхий энэхүү аргаар ердөө 32 минутад гүйцэтгэжээ. Агентууд хүний шинжээчдийн гаргасан дүгнэлттэй дүйцэхүйц үр дүнд хүрснээс гадна Альцгеймер, Паркинсоны өвчин судлалд тус болохуйц шинэ сэжүүрүүдийг илрүүлсэн байна.\n\nЭнэхүү судалгааны үр дүнг бусад судлаачид ашиглах боломжтой бөгөөд генийн өөрчлөлтүүд болон эсийн хариу урвалуудыг харьцуулах боломжтой шинэ мэдээллийн сан нээгджээ. Энэ нь шинжлэх ухааны салбарт том өгөгдлийг боловсруулах, эмчилгээний шинэ чиглэл тогтооход AI агентуудын гүйцэтгэх үүргийг эрс нэмэгдүүлж байна.",
+   "published": "2026-10-21T04:50:00Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "de9db6f384cbc788",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/xq2rRszwLvIAxOynZi2qa/b1cf094a0d095f67821bf4b8cfaba0b9/coordinated-disclosure-of-critical-vulnerabilities-social.png?w=1600&h=900&fit=fill",
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "summary_en": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+   "title_mn": "OpenAI болон түншүүд PHP хэлний ноцтой эмзэг байдлыг илрүүлж засварлалаа",
+   "summary_mn": "OpenAI-ийн Patch the Planet санаачилгын хүрээнд GPT‑5.6 Sol загварыг ашиглан вэб хөгжүүлэлтэд өргөн ашиглагддаг PHP хэлний ноцтой эмзэг байдлыг илрүүлж, засвар хийлээ.",
+   "body_mn": "OpenAI компани болон аюулгүй байдлын судлаачдын хамтран хэрэгжүүлж буй Patch the Planet санаачилгын хүрээнд вэб сайтуудын үндэс болсон PHP програмчлалын хэлний ноцтой эмзэг байдлыг илрүүлж амжилттай засав. OpenAI-ийн GPT‑5.6 Sol загвар болон Wiz компани уг ноцтой алдааг бие даан илрүүлж, PHP хэлний засварлагчдад хугацаанаас нь өмнө мэдэгдсэн байна.\n\nЭнэхүү эмзэг байдал нь интернэтийн хэмжээнд олон сайт болон серверүүдэд нөлөөлөхүйц өндөр эрсдэлтэй байсан бөгөөд хиймэл оюун ухаан хакеруудаас түрүүлж аюулгүй байдлын цоорхойг илрүүлж чадахыг харуулсан томоохон жишээ болжээ. Үүнтэй холбоотойгоор OpenAI мөн хөгжүүлэгчдэд зориулсан PHP хувилбар шалгах Codex скиллийг олон нийтэд хүргэсэн байна.\n\nҮүнээс гадна аюулгүй байдлын эрсдэлтэй тэмцэхэд чиглэсэн 1 тэрбум ам.долларын санхүүжилт бүхий Daybreak for Frontline Defenders хөтөлбөрийг зарлаж, чухал дэд бүтцийг хамгаалдаг байгууллагуудад туслахаар болжээ. Мөн цаашид AI эрин үед програм хангамжийн эмзэг байдалд хэрхэн шуурхай хариу арга хэмжээ авах талаар салбарын мэргэжилтнүүдэд хандан хамтын ажиллагааны шинэ хүрээг санал болгож байна.",
+   "published": "2026-10-21T07:00:00Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ea92da5c121ecb45",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/building-chatgpt-ad-stack",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/GsY5RrFvT4ZOnPC3oZUya/e3168194d55c5d9c8060ce5c5ba6c3ed/building-chatgpt-ad-stack-social.png?w=1600&h=900&fit=fill",
+   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+   "summary_en": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+   "title_mn": "OpenAI ChatGPT-ийн реклам системээ хэрхэн бүтээсэн тухай",
+   "summary_mn": "OpenAI ChatGPT-ийн зарын системийг хүний ярианы утга зорилгод суурилсан тусгай стек хэлбэрээр бүтээсэн гэдгээ тайлбарлав. ChatGPT Ads нь эхлэснээс хойш 200 хоногоос бага хугацаанд жилийн 1 тэрбум долларын орлогын түвшинд хүрчээ.",
+   "body_mn": "OpenAI ChatGPT-д зориулсан зарын системийг уламжлалт хайлт болон вэб хуудасны үзэлтэд суурилсан зарын системээс ялгаатай байдлаар бүтээжээ. Хэрэглэгчийн зорилго яриа явцад аажмаар тодордог тул систем нэг мессежээр биш, олон удаагийн яриагаар нь ойлгох шаардлагатай байв.\n\nСистем гурван гол шийдэлд тулгуурлана. Нэгдүгээрт, яриаг дамжуулан мэдээллийг санах төлөвт зарын сессийг ашиглана. Хоёрдугаарт, зарын урьдчилсан сонголт, эрэмбэлэлт, үнэлгээ, дуудлагад тусгайлан сургасан LLM tool call-аар хийгдэнэ. Гуравдугаарт, зарын шийдвэр ChatGPT-ийн хариулт үүсгэхээс тусдаа үйлчилгээнд явагдана, ингэснээр зар хариултад нөлөөлөхгүй байхыг хангана.\n\nТайланд дурдсанаар ChatGPT Ads нь эхлэснээс хойш 200 хоногоос бага хугацаанд жилийн 1 тэрбум долларын орлогын түвшинд хүрч, 100,000-аас олон рекламодагч зар байрлуулжээ. Хөгжүүлэгчдэд энэ нь LLM-д суурилсан тусгай системийг хэрхэн архитектурлаж байгаагийн жишээ болно.",
+   "published": "2026-10-21T07:00:00Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "36749a4f23d81e0b",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Technology Org",
+   "url": "https://www.technology.org/2026/10/21/claude-scorpion-toxin-protein-binders-anthropic/",
+   "image": "",
+   "title": "Claude Designs Protein Binders Against Scorpion Toxins",
+   "summary_en": "",
+   "title_mn": "Claude хилэнцэт хорхойн хорны эсрэг уураг бүтээв",
+   "summary_mn": "Anthropic компанийн Claude загвар хилэнцэт хорхойн хорны эсрэг үйлчилгээтэй уургийн холбогчдыг амжилттай зохион бүтээжээ.",
+   "body_mn": "Anthropic компанийн хөгжүүлсэн Claude загвар нь биологийн салбарт шинэ амжилт гаргаж, хилэнцэт хорхойн хорыг саармагжуулах уургийн холбогчдыг зохион бүтээсэн байна. Энэхүү судалгаа нь хиймэл оюун ухааныг эм зүй болон биоинженерийн чиглэлд бодит үр дүнтэй ашиглаж болохыг харуулсан чухал алхам юм.\n\nУураг зохион бүтээх үйл явц нь нарийн төвөгтэй бөгөөд олон туршилт шаарддаг бөгөөд Claude уг ажлыг хурдасгахад чухал үүрэг гүйцэтгэжээ. Хөгжүүлэгчид болон судлаачид уг технологийн тусламжтайгаар шинэ эм, эмчилгээний аргуудыг илүү хурдан хугацаанд туршиж, боловсруулах боломжтой болж байна.\n\nЭнэхүү ололт нь хиймэл оюун ухаан зөвхөн программ хангамж бичих төдийгүй амь шинжлэх ухаан, эмийн нээлтэд хэрхэн хувь нэмэр оруулж буйн тод жишээ юм.",
+   "published": "2026-10-21T11:54:00Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "95dedf578de78f3e",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/659u0DsrtDQd9LxI8L4J9M/0b95908d6a9ed46ffe20b23d081574b4/openai-models-coming-to-google-cloud-social.png?w=1600&h=900&fit=fill",
+   "title": "OpenAI models are coming to Google Cloud",
+   "summary_en": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+   "title_mn": "OpenAI загварууд Google Cloud платфортод нэвтэрнэ",
+   "summary_mn": "OpenAI болон Google Cloud хамтран ажиллаж, OpenAI-ийн загварууд болон Codex агент ажлын урсгалыг Google Cloud Model Garden-д нэмэхээр боллоо.",
+   "body_mn": "OpenAI компани Google Cloud-той стратеги хамтын ажиллагаа зарлаж, өөрсдийн тэргүүлэх загварууд болон Codex агент ажлын урсгалуудыг Google Cloud-ын Model Garden платформд албан ёсоор нэвтрүүлэхээр болжээ. Энэхүү интеграцийн үр дүнд хөгжүүлэгчид болон дата судлаачид өөрсдийн ажлын орчноос гарахгүйгээр OpenAI-ийн дэвшилтэт загваруудыг ашиглах боломжтой болж байна.\n\nБайгууллагын түвшний хэрэглэгчид өгөгдлийн аюулгүй байдал, хандалтын хяналт болон өндөр хүчин чадалтай дэд бүтцийг хослуулан ашиглах бөгөөд Google Cloud Marketplace дээрээс худалдан авалт хийх боломжтой аж. Мөн Google Cloud дээрх төсвөөсөө эдгээр худалдан авалтыг санхүүжүүлэх боломжтой юм.\n\nЭнэхүү алхам нь хөгжүүлэгчдэд ямар загварыг аль төсөлд ашиглах сонголтын эрхийг нэмэгдүүлж байгаагаараа онцлог бөгөөд ерөнхий хүртээмжтэй байдал ойрын хэдэн долоо хоногт албан ёсоор нээгдэнэ.",
+   "published": "2026-10-21T12:00:00Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c9580501c52142a9",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "MIXED Reality News",
+   "url": "https://mixed-news.com/en/claude-code-warns-old-chat-five-hour-limit-2-1-304/",
+   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/e6c18d30f931ae76d4b600558f5a11377306f1d9-2000x1125-1.jpg",
+   "title": "Claude Code now warns you before an old chat eats into your 5-hour limit",
+   "summary_en": "Claude Code now warns Pro and Max subscribers before they resume an old conversation that would use a noticeable share of their 5-hour usage limit. The",
+   "title_mn": "Claude Code хуучин чат лимит хэтрүүлэхээс урьдчилан сануулдаг боллоо",
+   "summary_mn": "Claude Code 2.1.304 хувилбар гарч, хэрэглэгчдийг 5 цагийн хязгаарлалтад нөлөөлөхүйц хуучин ярианд буцаж орохоос өмнө сануулдаг болжээ.",
+   "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ 2.1.304 болон дараагийн шинэчлэлтүүдийг гаргалаа. Шинэ хувилбараар Pro болон Max хэрэглэгчид хуучин ярианд буцаж орох үед 5 цагийн хэрэглээний лимитэд хэрхэн нөлөөлөхийг урьдчилан сануулах функц нэмэгдсэн байна.\n\nМөн авто горимын тохиргоог хялбарчлах /auto-mode-setup команд нэмэгдсэн бөгөөд Bedrock, Vertex болон Foundry орчинд мөн ажилладаг болжээ. Үүнээс гадна файлын систем дэх чухал хавтас болон дискүүдийг санамсаргүйгээр устгахаас сэргийлсэн аюулгүй байдлын анхааруулга сайжирсан байна.\n\nДараагийн 2.1.305 болон 2.1.306 засварууд нь Vertex болон Bedrock дээрх хэрэгслийн хайлттай холбоотой алдаануудыг засаж, үүлэн сессүүд дэх нэвтрэлтийн мэдээлэл алдагдах асуудлыг шийдвэрлэжээ.",
+   "published": "2026-10-21T12:18:58Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b1215e1aefc04c61",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/6Fq2uj7xCpKHENjyeojn9c/d3771e7cecdfb77c28c7560de9413de1/chatgpt-ads-expands-26-new-countries-social.png?w=1600&h=900&fit=fill",
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "summary_en": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+   "title_mn": "ChatGPT зар сурталчилгаа 26 шинэ улсад өргөжлөө",
+   "summary_mn": "ChatGPT Ads үйлчилгээ дэлхий даяар 89 улсад хүрч өргөжсөн бөгөөд одоогоор 100,000 гаруй сурталчилгаа эрхлэгч ашиглаж байна.",
+   "body_mn": "OpenAI компани ChatGPT дээрх зар сурталчилгааны үйлчилгээгээ дахин 26 шинэ улсад нэмж, нийт 89 улсад хүргэж буйгаа зарлалаа. Энэхүү өргөжүүлэлт нь Латин Америк, Европ, Ази болон Ойрхи Дорнодын орнуудыг хамарч байна.\n\nЗар сурталчилгаа нь зөвхөн Free болон Go үнэгүй эсвэл хямд төлөвлөгөө ашигладаг хэрэглэгчдэд харагдах бөгөөд Plus, Pro болон Enterprise хэрэглэгчид ямар ч зар сурталчилгаагүйгээр ашиглахаараа үлдэх юм. OpenAI хэрэглэгчдийн нууцлалыг хатуу хамгаалж, харилцан ярианы өгөгдлийг сурталчилгаа эрхлэгчдэд худалдахгүй гэдгээ онцолжээ.\n\nЭнэхүү хөгжүүлэлт нь хиймэл оюун ухааныг үнэ төлбөргүй болон хүртээмжтэй байдлаар олон нийтэд хүргэх санхүүгийн тогтвортой загвар бүтээх зорилготой аж.",
+   "published": "2026-10-21T13:00:00Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5727b04f30d31660",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "EIN News",
+   "url": "https://www.einnews.com/pr_news/951037254/viirtue-mcp-adds-google-gemini-and-xai-grok-so-businesses-can-talk-to-their-ai-voice-platform",
+   "image": "",
+   "title": "Viirtue MCP Adds Google Gemini and xAI Grok, So Businesses Can Talk to Their AI Voice Platform",
+   "summary_en": "",
+   "title_mn": "Viirtue MCP платформд Google Gemini болон xAI Grok нэмэгдлээ",
+   "summary_mn": "Viirtue компани өөрийн AI дуут платформдоо Google Gemini болон xAI Grok загваруудыг нэгтгэснээр бизнесүүдэд илүү өргөн сонголт олгож байна.",
+   "body_mn": "Viirtue MCP платформ нь хиймэл оюун ухааны дуут системүүддээ Google Gemini болон xAI Grok загваруудыг албан ёсоор нэмжээ. Энэхүү интеграцийн тусламжтайгаар бизнесүүд болон хөгжүүлэгчид дуут харилцааны шийдлүүддээ дэвшилтэт LLM загваруудыг чөлөөтэй холбож ашиглах боломжтой болж байна.\n\nУг шинэчлэл нь хэрэглэгчдэд өөрсдийн дуут платформ болон AI агент хоорондын харилцан үйлчлэлийг сайжруулах, илүү байгалийн бөгөөд ухаалаг хариу үйлдэл үзүүлэх боломжийг бүрдүүлж байгаа юм.\n\nХөгжүүлэгчид үйлчлүүлэгчдийнхээ хэрэгцээ шаардлагад нийцүүлэн янз бүрийн хиймэл оюун ухааны загваруудыг дуут үйлчилгээндээ хялбархан суулгах боломжтой боллоо.",
+   "published": "2026-10-21T13:00:00Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a2e20b6bd72d74ea",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "MIXED Reality News",
+   "url": "https://mixed-news.com/en/claude-api-user-profiles-ban-one-customer-not-whole-account/",
+   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/47d7f15e3a1a7ee8c9303a801582d2eaeb183fb6.png",
+   "title": "Claude API resellers can now get one customer banned instead of their whole account",
+   "summary_en": "Companies that resell Claude or build apps on it can now tell Anthropic which end customer each request belongs to. If one customer breaks the rules, a",
+   "title_mn": "Claude API хэрэглэгчдийг тусгай профайлтай болгосноор дансаараа хориг авахаас сэргийлнэ",
+   "summary_mn": "Anthropic компани API хөгжүүлэгчдэд эцсийн хэрэглэгч бүрээр профайл үүсгэх боломж олгосноор нэг хэрэглэгчийн алдаанаас болж бүтэн байгууллагын данс хоригдохоос хамгаалжээ.",
+   "body_mn": "Anthropic компани Claude API болон платформ хөгжүүлэгчдэд зориулсан шинэ боломжийг танилцууллаа. Одооноос эхлэн API реселлерүүд болон апп хөгжүүлэгчид хүсэлт бүрийг аль эцсийн хэрэглэгч илгээснийг тодорхойлох профайл ID ашиглах боломжтой болсон байна.\n\nӨмнө нь ямар нэгэн дүрэм зөрчсөн тохиолдолд тухайн платформ эсвэл компани бүтнээрээ хориг авах эрсдэлтэй байсан бол шинэ өөрчлөлтөөр зөвхөн зөрчил гаргасан тухайн эцсийн хэрэглэгчийн профайлыг л хязгаарлах юм. Энэ нь бусад энгийн хэрэглэгчдийн урсгалд ямар нэгэн нөлөө үзүүлэхгүй.\n\nМөн энэхүү шинэчлэлттэй хамт байгууллагын түвшний вебхүүгүүд бета хэлбэрээр нээгдэж, хэрэглэгчийн профайл хоригдсон эсвэл сэргээгдсэн тухай мэдээллийг шууд хүлээж авах боломжтой болжээ.",
+   "published": "2026-10-21T13:53:58Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3e0804c196a1075d",
+   "subtopic": "packages",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "image": "https://safedep.io/images/litellm-pypi-compromise-credential-stealer-backdoor-banner.jpg",
+   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+   "summary_en": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 158 # Comments: 60",
+   "title_mn": "LiteLLM сав баглаа боодлын PyPI дээрх хувилбараас хортой код илрэв",
+   "summary_mn": "PyPI дээр байршсан LiteLLM 1.107.0 хувилбар нь хэрэглэгчийн нууц мэдээлэл хулгайлах болон системд нэвтрэх backdoor суулгадаг хортой код агуулсан байжээ.",
+   "body_mn": "Python хэлний PyPI репозитор дээр байршсан LiteLLM сангийн 1.107.0 хувилбар нь системийн эрх авах болон нууц мэдээлэл хулгайлах хортой код агуулсан болох нь тогтоогджээ. Linux, macOS болон Windows үйлдлийн системд зориулсан уг хувилбарыг суулгахад Python процесс асах бүрт автоматаар ажилладаг файлууд сууж байсан байна.\n\nАлбан ёсны GitHub эх код дээр энэхүү хортой өөрчлөлт байхгүй бөгөөд PyPI дээр байрших явцдаа буюу гаргагчийн дамжлага (release pipeline) хакердсаны улмаас хортой код нэмэгдсэн байж магадгүй гэж аюулгүй байдлын шинжээчид үзэж байна. Тус хортой файл нь эхлүүлэгч скрипт ашиглан гадны сервертэй холбогдох оролдлого хийдэг байжээ.\n\nPyPI уг хувилбарыг аль хэдийн устгасан бөгөөд хөгжүүлэгчид өөрсдийн төслүүд дэх LiteLLM сангийн хувилбарыг шалгаж, шаардлагатай бол аюулгүй хувилбар руу яаралтай шилжихийг зөвлөж байна.",
+   "published": "2026-10-21T14:00:26Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "57b073d84edee03f",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.36.0",
+   "image": "https://opengraph.githubassets.com/1d3a3619c924397086220246fccc5a256c259f6e3354b02c8922ad8a4f8b6094/openai/openai-python/releases/tag/v3.36.0",
+   "title": "openai-python v3.36.0",
+   "summary_en": "3.36.0 (2026-10-21) Features add Vertex AI support for the Responses API ( #4139 ) ( 3e63d33 ) api: add 30-minute cache-write usage counts ( #4111 ) ( 5589146 ) api: add compaction trigger IDs ( #4122 ) ( 0e5794d ) api: add custom voice consent management ( #4135 ) ( de6d70d ) types: prepare native synchronous WebSocket option type ( #4118 ) ( 90c0bac ) Bug Fixes api: accept canonical batch responses in strict mode ( #4106 ) ( 6eaa90e ) clean up failed WebSocket setup and honor native options ( #4121 ) ( b1a1a10 ) end sync WebSocket recovery when an attempt is interrupted ( #4129 ) ( 337769b…",
+   "title_mn": "openai-python v3.36.0 хувилбар гарлаа",
+   "summary_mn": "OpenAI Python сангийн v3.36.0 шинэ хувилбар гарч, Vertex AI дэмжлэг, WebSocket сонголтууд болон бусад шинэ боломжуудыг нэмжээ.",
+   "body_mn": "OpenAI-ийн Python хөгжүүлэлтийн сангийн v3.36.0 шинэ хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр Responses API-д Vertex AI дэмжлэг нэмэгдэж, 30 минутын кэш бичих хэрэглээний тоолуур болон компакт төлөвийн ID-ууд шинээр оржээ. Мөн мэдээллийн сан болон WebSocket тохиргоотой холбоотой зарим алдаануудыг зассан байна.\n\nХөгжүүлэгчдэд зориулж уугуул синхрон WebSocket сонголтын төрлүүдийг бэлтгэж, захиалгат дуу хоолойны зөвшөөрлийн удирдлагыг сайжруулсан байна. Энэ нь OpenAI API-ийг өөрийн төслүүд болон үүлэн дэд бүтцэд ашиглаж буй хөгжүүлэгчдэд илүү өргөн боломж олгож байна.",
+   "published": "2026-10-21T15:53:22Z",
+   "added": "2026-10-21T17:28:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "57b073d84edee03f",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.36.0",
+ "image": "https://opengraph.githubassets.com/1d3a3619c924397086220246fccc5a256c259f6e3354b02c8922ad8a4f8b6094/openai/openai-python/releases/tag/v3.36.0",
+ "title": "openai-python v3.36.0",
+ "summary_en": "3.36.0 (2026-10-21) Features add Vertex AI support for the Responses API ( #4139 ) ( 3e63d33 ) api: add 30-minute cache-write usage counts ( #4111 ) ( 5589146 ) api: add compaction trigger IDs ( #4122 ) ( 0e5794d ) api: add custom voice consent management ( #4135 ) ( de6d70d ) types: prepare native synchronous WebSocket option type ( #4118 ) ( 90c0bac ) Bug Fixes api: accept canonical batch responses in strict mode ( #4106 ) ( 6eaa90e ) clean up failed WebSocket setup and honor native options ( #4121 ) ( b1a1a10 ) end sync WebSocket recovery when an attempt is interrupted ( #4129 ) ( 337769b…",
+ "title_mn": "openai-python v3.36.0 хувилбар гарлаа",
+ "summary_mn": "OpenAI Python сангийн v3.36.0 шинэ хувилбар гарч, Vertex AI дэмжлэг, WebSocket сонголтууд болон бусад шинэ боломжуудыг нэмжээ.",
+ "body_mn": "OpenAI-ийн Python хөгжүүлэлтийн сангийн v3.36.0 шинэ хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр Responses API-д Vertex AI дэмжлэг нэмэгдэж, 30 минутын кэш бичих хэрэглээний тоолуур болон компакт төлөвийн ID-ууд шинээр оржээ. Мөн мэдээллийн сан болон WebSocket тохиргоотой холбоотой зарим алдаануудыг зассан байна.\n\nХөгжүүлэгчдэд зориулж уугуул синхрон WebSocket сонголтын төрлүүдийг бэлтгэж, захиалгат дуу хоолойны зөвшөөрлийн удирдлагыг сайжруулсан байна. Энэ нь OpenAI API-ийг өөрийн төслүүд болон үүлэн дэд бүтцэд ашиглаж буй хөгжүүлэгчдэд илүү өргөн боломж олгож байна.",
+ "published": "2026-10-21T15:53:22Z",
+ "added": "2026-10-21T17:28:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

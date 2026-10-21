@@ -1,0 +1,17 @@
+{
+ "id": "3e0804c196a1075d",
+ "subtopic": "packages",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+ "image": "https://safedep.io/images/litellm-pypi-compromise-credential-stealer-backdoor-banner.jpg",
+ "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+ "summary_en": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 158 # Comments: 60",
+ "title_mn": "LiteLLM сав баглаа боодлын PyPI дээрх хувилбараас хортой код илрэв",
+ "summary_mn": "PyPI дээр байршсан LiteLLM 1.107.0 хувилбар нь хэрэглэгчийн нууц мэдээлэл хулгайлах болон системд нэвтрэх backdoor суулгадаг хортой код агуулсан байжээ.",
+ "body_mn": "Python хэлний PyPI репозитор дээр байршсан LiteLLM сангийн 1.107.0 хувилбар нь системийн эрх авах болон нууц мэдээлэл хулгайлах хортой код агуулсан болох нь тогтоогджээ. Linux, macOS болон Windows үйлдлийн системд зориулсан уг хувилбарыг суулгахад Python процесс асах бүрт автоматаар ажилладаг файлууд сууж байсан байна.\n\nАлбан ёсны GitHub эх код дээр энэхүү хортой өөрчлөлт байхгүй бөгөөд PyPI дээр байрших явцдаа буюу гаргагчийн дамжлага (release pipeline) хакердсаны улмаас хортой код нэмэгдсэн байж магадгүй гэж аюулгүй байдлын шинжээчид үзэж байна. Тус хортой файл нь эхлүүлэгч скрипт ашиглан гадны сервертэй холбогдох оролдлого хийдэг байжээ.\n\nPyPI уг хувилбарыг аль хэдийн устгасан бөгөөд хөгжүүлэгчид өөрсдийн төслүүд дэх LiteLLM сангийн хувилбарыг шалгаж, шаардлагатай бол аюулгүй хувилбар руу яаралтай шилжихийг зөвлөж байна.",
+ "published": "2026-10-21T14:00:26Z",
+ "added": "2026-10-21T17:28:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "a2e20b6bd72d74ea",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "MIXED Reality News",
+ "url": "https://mixed-news.com/en/claude-api-user-profiles-ban-one-customer-not-whole-account/",
+ "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/47d7f15e3a1a7ee8c9303a801582d2eaeb183fb6.png",
+ "title": "Claude API resellers can now get one customer banned instead of their whole account",
+ "summary_en": "Companies that resell Claude or build apps on it can now tell Anthropic which end customer each request belongs to. If one customer breaks the rules, a",
+ "title_mn": "Claude API хэрэглэгчдийг тусгай профайлтай болгосноор дансаараа хориг авахаас сэргийлнэ",
+ "summary_mn": "Anthropic компани API хөгжүүлэгчдэд эцсийн хэрэглэгч бүрээр профайл үүсгэх боломж олгосноор нэг хэрэглэгчийн алдаанаас болж бүтэн байгууллагын данс хоригдохоос хамгаалжээ.",
+ "body_mn": "Anthropic компани Claude API болон платформ хөгжүүлэгчдэд зориулсан шинэ боломжийг танилцууллаа. Одооноос эхлэн API реселлерүүд болон апп хөгжүүлэгчид хүсэлт бүрийг аль эцсийн хэрэглэгч илгээснийг тодорхойлох профайл ID ашиглах боломжтой болсон байна.\n\nӨмнө нь ямар нэгэн дүрэм зөрчсөн тохиолдолд тухайн платформ эсвэл компани бүтнээрээ хориг авах эрсдэлтэй байсан бол шинэ өөрчлөлтөөр зөвхөн зөрчил гаргасан тухайн эцсийн хэрэглэгчийн профайлыг л хязгаарлах юм. Энэ нь бусад энгийн хэрэглэгчдийн урсгалд ямар нэгэн нөлөө үзүүлэхгүй.\n\nМөн энэхүү шинэчлэлттэй хамт байгууллагын түвшний вебхүүгүүд бета хэлбэрээр нээгдэж, хэрэглэгчийн профайл хоригдсон эсвэл сэргээгдсэн тухай мэдээллийг шууд хүлээж авах боломжтой болжээ.",
+ "published": "2026-10-21T13:53:58Z",
+ "added": "2026-10-21T17:28:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

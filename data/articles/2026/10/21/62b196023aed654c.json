@@ -1,0 +1,17 @@
+{
+ "id": "62b196023aed654c",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2baD4s8r5p3SnOpcA1NM6P/5c0c09a93028b23c5fddce7a888a26f0/image.png",
+ "title": "Skipped monorepo deployments no longer count against limits",
+ "summary_en": "Deployments that Vercel automatically skips in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits. Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using Turborepo 's package graph and lockfile analysis to determine which projects a commit affects. Skipping is enabled by default for new monorepo projects. You can turn it on for existing projects under Build and Deployment in the project's settings . Learn more about skipping unaffected projects and deployment…",
+ "title_mn": "Vercel: Monorepo байршуулалтын хязгаарлалтад өөрчлөлт орлоо",
+ "summary_mn": "Vercel платформ монорепозитори дахь автоматаар алгассан байршуулалтуудыг лимитээс хасахгүй байхаар шийдвэрлэлээ. Энэ нь багуудад ижил лимитээр илүү олон байршуулалт хийх боломж олгож байна.",
+ "body_mn": "Vercel компани монорепозиторийн төслүүдэд зориулсан байршуулалтын шинэ боломжийг нэвтрүүлж, Turborepo-ийн багцын граф болон түгжээний файлыг ашиглан код өөрчлөгдөөгүй төслүүдийн байршуулалтыг автоматаар алгасах боломжтой болголоо. Ингэснээр алгассан байршуулалтууд хэрэглэгчийн сарын байршуулалтын хязгаарлалтад тооцогдохгүй юм.\n\nЭнэхүү функц нь шинээр үүсгэж буй монорепозитори төслүүдэд анхдагчаар идэвхжсэн байх ба хуучин төслүүдийн хувьд тохиргооны Build and Deployment хэсгээс гараар асаах боломжтой. Хөгжүүлэгчид үүний тусламжтайгаар нөөцөө илүү үр дүнтэй зарцуулж, кодын өөрчлөлт ороогүй үед давхар лимит шавхахаас сэргийлэх юм.",
+ "published": "2026-10-21T00:00:00Z",
+ "added": "2026-10-21T17:28:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

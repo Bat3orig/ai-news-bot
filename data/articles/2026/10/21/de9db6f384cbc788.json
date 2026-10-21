@@ -1,0 +1,17 @@
+{
+ "id": "de9db6f384cbc788",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/xq2rRszwLvIAxOynZi2qa/b1cf094a0d095f67821bf4b8cfaba0b9/coordinated-disclosure-of-critical-vulnerabilities-social.png?w=1600&h=900&fit=fill",
+ "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+ "summary_en": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+ "title_mn": "OpenAI болон түншүүд PHP хэлний ноцтой эмзэг байдлыг илрүүлж засварлалаа",
+ "summary_mn": "OpenAI-ийн Patch the Planet санаачилгын хүрээнд GPT‑5.6 Sol загварыг ашиглан вэб хөгжүүлэлтэд өргөн ашиглагддаг PHP хэлний ноцтой эмзэг байдлыг илрүүлж, засвар хийлээ.",
+ "body_mn": "OpenAI компани болон аюулгүй байдлын судлаачдын хамтран хэрэгжүүлж буй Patch the Planet санаачилгын хүрээнд вэб сайтуудын үндэс болсон PHP програмчлалын хэлний ноцтой эмзэг байдлыг илрүүлж амжилттай засав. OpenAI-ийн GPT‑5.6 Sol загвар болон Wiz компани уг ноцтой алдааг бие даан илрүүлж, PHP хэлний засварлагчдад хугацаанаас нь өмнө мэдэгдсэн байна.\n\nЭнэхүү эмзэг байдал нь интернэтийн хэмжээнд олон сайт болон серверүүдэд нөлөөлөхүйц өндөр эрсдэлтэй байсан бөгөөд хиймэл оюун ухаан хакеруудаас түрүүлж аюулгүй байдлын цоорхойг илрүүлж чадахыг харуулсан томоохон жишээ болжээ. Үүнтэй холбоотойгоор OpenAI мөн хөгжүүлэгчдэд зориулсан PHP хувилбар шалгах Codex скиллийг олон нийтэд хүргэсэн байна.\n\nҮүнээс гадна аюулгүй байдлын эрсдэлтэй тэмцэхэд чиглэсэн 1 тэрбум ам.долларын санхүүжилт бүхий Daybreak for Frontline Defenders хөтөлбөрийг зарлаж, чухал дэд бүтцийг хамгаалдаг байгууллагуудад туслахаар болжээ. Мөн цаашид AI эрин үед програм хангамжийн эмзэг байдалд хэрхэн шуурхай хариу арга хэмжээ авах талаар салбарын мэргэжилтнүүдэд хандан хамтын ажиллагааны шинэ хүрээг санал болгож байна.",
+ "published": "2026-10-21T07:00:00Z",
+ "added": "2026-10-21T17:28:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
