@@ -1,0 +1,17 @@
+{
+ "id": "5d82b2240c23d29c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-opens-claude-duet-research-preview-to-us-pro-and-max-users/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-opens-claude-duet-research-preview-to-us-pro-and-max-users.jpg",
+ "title": "Anthropic Opens Claude Duet Research Preview to US Pro and Max Users",
+ "summary_en": "Anthropic on October 21, 2026 opened a research preview of Claude Duet, an app the company said turns Claude into a proactive agent that surfaces items needing attention, completes requested tasks, keeps working when use...",
+ "title_mn": "Anthropic Claude Duet судалгааны урьдчилсан хувилбарыг АНУ-ын Pro ба Max хэрэглэгчдэд нээлээ",
+ "summary_mn": "Anthropic 10-р сарын 21-нд Claude Duet проактив агент аппыг судалгааны урьдчилсан хувилбараар нээсэн. Хандалт waitlist-ээр, эхлээд АНУ-ын Pro ба Max хэрэглэгчдэд олгогдоно.",
+ "body_mn": "Anthropic Claude Duet аппыг судалгааны урьдчилсан хувилбараар нээлээ. Аппыг Claude-ийг идэвхтэй агент болгох зорилготой бөгөөд хэрэглэгчийн анхаарал шаардсан зүйлсийг илрүүлж, даалгавар гүйцэтгэж, хэрэглэгч алслагдсан үед ч ажилладаг. Хандалт waitlist-ээр явагдаж, эхлээд Pro ба Max-ийн АНУ-ын хэрэглэгчид оролцоно. iOS, Android болон claude.ai дээр ашиглах боломжтой.\n\nСудалгааны явцад аппыг Pro ба Max багцад нэмэлт төлбөргүйгээр оруулсан бөгөөд хэрэглээний лимит нь Claude-ийнхтэй адил байна. Аппын үндэс нь Claude Opus 5.5 загвар юм. Өглөө бүр товч тойм илгээж, өдрийн турш холбосон аппуудыг шалгаж, шаардлагатай үед л мэдэгдэнэ. Холбосон аппуудыг бие даан хянах тул хэрэглэгчийн компьютер, утас асаалттай байх шаардлагагүй.\n\nАюулгүй байдлын талаар, мессеж илгээх, төлбөр хийх, гарын үсэг зурах, устгах үйлдлийн өмнө апп юу хийхээ харуулж, зөвшөөрөл хүлээнэ. Арилжаа болон мөнгө шилжүүлэх зэрэг зарим үйлдэл огт хориотой. Claude Marketplace-ийн 6000-аас дээш коннектор дэмжинэ.\n\nБизнесийн хэрэглээнд Stripe-ийн Link болон Shopify-ийн Shop Pay-аар худалдан авалт хийх боломжтой бөгөөд ирээдүйд 1Password-ийн нэвтрэлтийг ашиглах зорилттой гэжээ.\n\nЭнэ нь хөгжүүлэгчдэд шууд API өөрчлөлт биш ч агентын бүтээгдэхүүний чиглэлийг харуулж байна.\n\nSource: Unite.AI",
+ "published": "2026-10-21T19:23:12Z",
+ "added": "2026-10-21T23:50:59Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "566171f32f5348f9",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/64IlzA0rza7fJkJGDTwC6w/cf81d01d188db99a9e385dc44a8f5484/image.png",
+ "title": "Baseten's Mammoth-1 and Elephant-1 now available on AI Gateway for free",
+ "summary_en": "Mammoth-1 and Elephant-1 from Baseten are now available for free on AI Gateway for one week. Free access is available through October 27. These decision models classify text, route requests, and score content against criteria you define. Mammoth-1 is the larger, 27B model, while Elephant-1 is a smaller, 9B option. Mammoth-1 is #1 on the Jev Decision Index and Elephant-1 is tied for #1 on the Artificial Analysis Decision Index. Both support a 16k-token context window and return choices, probabilities, and scores. Ask several questions about the same input in one request: select a support team…",
+ "title_mn": "Baseten-ийн Mammoth-1 ба Elephant-1 загварууд AI Gateway дээр үнэгүй боломжтой боллоо",
+ "summary_mn": "Baseten-ийн Mammoth-1 (27B) ба Elephant-1 (9B) decision загварууд Vercel AI Gateway дээр 10-р сарын 27 хүртэл үнэгүй ашиглagдах боломжтой боллоо. Загварууд текст ангилах, чиглүүлэх, агууламжийг оноолох зориулалттай.",
+ "body_mn": "Vercel-ийн AI Gateway дээр Baseten-ийн хоёр decision загвар нэмэгдлээ. Mammoth-1 нь 27B параметртэй том загвар, Elephant-1 нь 9B параметртэй жижиг хувилбар юм. Mammoth-1 Jev Decision Index-д №1, Elephant-1 Artificial Analysis Decision Index-д хамт №1 байрт орсон гэж мэдээлсэн.\n\nХоёр загвар 16k токений контекст цонхтой бөгөөд сонголт, магадлал, оноо буцаана. Нэг хүсэлтэд хэд хэдэн асуулт зэрэг илгээх боломжтой: жишээлбэл Choice асуултаар дэмжлэгийн багийг сонгох, Boolean асуултаар буцаалтын хүсэлт байгаа эсэхийг шалгах, Score асуултаар яаралтай байдлыг үнэлэх. Магадлалын босгыг аппликейшн өөрөө тохируулж, автоматаар үйлдэл хийх эсвэл хянахаар илгээх шийдийг гаргана.\n\nЗагварын нэрийг baseten/mammoth-1 эсвэл baseten/elephant-1 гэж ашиглана. AI Gateway нь загварууд болон ашиглалт, зардлыг хянах нэгдсэн API санал болгодог. Decision дуудлагууд логт харагдаж, бусад загварын хүсэлтийн хамт төсөвт тооцогдоно.\n\nГоль ойлголт нь энгийн чатаас илүү классификаци, маршрутчлал зэрэг даалгаварт зориулсан жижиг загварууд хөгжүүлэгчдэд бэлэн сонголт болж буйд оршино. Дэлгэрэнгүй хэрэглээний заавар decision models баримт бичигт байна.\n\nSource: Vercel",
+ "published": "2026-10-21T00:00:00Z",
+ "added": "2026-10-21T23:50:59Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
