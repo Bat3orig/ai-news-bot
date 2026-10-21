@@ -1,0 +1,17 @@
+{
+ "id": "373e12d0d3cb182e",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v42.11.18",
+ "image": "https://opengraph.githubassets.com/b2ac02621e278de546eabac561a2997ecfaa0a9697a973f137b92f355cd1681c/electron/electron/releases/tag/v42.11.18",
+ "title": "electron v42.11.18",
+ "summary_en": "Release Notes for v42.11.18 Warning Electron 42.x.y has reached end-of-support as per the project's support policy . Developers and applications are encouraged to upgrade to a newer version of Electron. Other Changes Backported fixes from upstream ANGLE, Chromium, PDFium, Skia and V8. #55148",
+ "title_mn": "Electron v42.11.18 гарлаа: 42.x хувилбарын албан ёсны дэмжлэг дуусав",
+ "summary_mn": "Electron баг v42.11.18 хувилбарыг гаргаж, төслийн дэмжлэгийн бодлогын дагуу 42.x салбарын хугацаа албан ёсоор дууссаныг зарлалаа.",
+ "body_mn": "Electron хөгжүүлэгчдийн баг v42.11.18 хувилбарыг албан ёсоор гаргалаа. Энэхүү хувилбарт ANGLE, Chromium, PDFium, Skia болон V8-аас хийгдсэн сүүлийн үеийн засваруудыг оруулсан байна.\n\nҮүний зэрэгцээ төслийн дэмжих бодлогын дагуу Electron 42.x хувилбарын дэмжлэгийн хугацаа (end-of-support) бүрэн дууссаныг зарлав. Хөгжүүлэгчдийг аюулгүй байдал, шинэ боломжуудыг авахын тулд аппликейшнээ Electron-ийн илүү шинэ хувилбар луу яаралтай шилжүүлэхийг зөвлөж байна.",
+ "published": "2026-10-21T04:53:30Z",
+ "added": "2026-10-21T06:13:36Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

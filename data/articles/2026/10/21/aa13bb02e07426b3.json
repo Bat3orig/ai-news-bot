@@ -1,0 +1,17 @@
+{
+ "id": "aa13bb02e07426b3",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v43.8.3",
+ "image": "https://opengraph.githubassets.com/7dcc6eb1f17dc49e6d50901628de94cbbc3d1af0608f7d401d81d68baeed973d/electron/electron/releases/tag/v43.8.3",
+ "title": "electron v43.8.3",
+ "summary_en": "Release Notes for v43.8.3 Other Changes Backported fixes from upstream ANGLE, Chromium, PDFium, Skia and V8. #55147",
+ "title_mn": "Electron v43.8.3 хувилбар гарлаа",
+ "summary_mn": "Electron фрэймворкийн v43.8.3 засварын хувилбар гарч, Chromium, V8, Skia зэрэг суурь сангуудаас алдааны засваруудыг нөхөж орууллаа.",
+ "body_mn": "Electron хөгжүүлэгчдийн баг v43.8.3 хувилбарыг нийтэллээ. Энэхүү засварын хувилбарт Chromium, V8, Skia, PDFium болон ANGLE зэрэг суурь төслүүдийн сүүлийн үеийн алдааны засваруудыг нөхөн оруулсан байна.\n\nЭдгээр өөрчлөлтүүд нь десктоп аппликейшнуудын тогтвортой ажиллагаа, график дүрслэл болон аюулгүй байдлыг сайжруулахад чиглэгджээ. Хөгжүүлэгчид өөрсдийн төслийн хамаарлыг шинэчлэн ашиглах боломжтой.",
+ "published": "2026-10-21T03:05:05Z",
+ "added": "2026-10-21T06:13:36Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

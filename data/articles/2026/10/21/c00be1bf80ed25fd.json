@@ -1,0 +1,17 @@
+{
+ "id": "c00be1bf80ed25fd",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v44.9.3",
+ "image": "https://opengraph.githubassets.com/c4307823d943e6cdef5135fb001010db12842092a9fb23f85ba060d31edd8611/electron/electron/releases/tag/v44.9.3",
+ "title": "electron v44.9.3",
+ "summary_en": "Release Notes for v44.9.3 Other Changes Backported fixes from upstream ANGLE, Chromium, PDFium, Skia and V8. #55149",
+ "title_mn": "Electron v44.9.3 хувилбарыг нийтэллээ",
+ "summary_mn": "Electron баг v44.9.3 хувилбарыг гаргаж, Chromium, Skia, V8 болон ANGLE сангуудын сүүлийн үеийн засваруудыг backport хийн нэгтгэлээ.",
+ "body_mn": "Electron фрэймворкийн 44 дэх хувилбарын ээлжит жижиг шинэчлэлт болох v44.9.3 албан ёсоор гарлаа.\n\nТус хувилбарт upstream түвшний ANGLE, Chromium, PDFium, Skia болон V8 хөдөлгүүрүүдэд хийгдсэн сүүлийн үеийн алдааны засваруудыг нэгтгэн оруулсан байна. Десктоп аппликейшн хөгжүүлэгчид системийн тогтвортой байдлыг хангах үүднээс шинэ хувилбар руу шинэчлэхийг зөвлөж байна.",
+ "published": "2026-10-21T03:27:21Z",
+ "added": "2026-10-21T06:13:36Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "bba5c2c0747901fc",
+ "subtopic": "css-web",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://www.joshwcomeau.com/css/interop-2027/",
+ "image": "https://www.joshwcomeau.com/images/og-interop-2027.png",
+ "title": "The Future of CSS",
+ "summary_en": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 183 # Comments: 61",
+ "title_mn": "CSS-ийн ирээдүй: @function болон corner-shape боломжуудын тойм",
+ "summary_mn": "Interop төслийн хүрээнд хөтчүүдэд нэвтэрч буй CSS-ийн шинэ боломжууд, тухайлбал захиалгат @function функц болон өнцөг засах corner-shape шинж чанаруудыг танилцууллаа.",
+ "body_mn": "Веб хөтөч хөгжүүлэгч томоохон байгууллагууд хамтран хэрэгжүүлдэг Interop санаачилгын үр дүнд CSS технологи асар хурдацтай сайжирч байна. Сүүлийн жилүүдэд Subgrid гэх мэт шинж чанарууд бүх хөтөч дээр бүрэн нэвтэрсэн бол одоо Interop 2027-д зориулсан шинэ боломжуудын санал хураалт эхэлжээ.\n\nХамгийн их хүлээлт үүсгэж буй боломжуудын нэг нь CSS дотор код шиг өөрийн функц зарлах @function дүрэм юм. Энэ нь polar болон cartesian координатуудын хооронд шилжүүлэг хийх зэрэг нарийн тооцооллыг цэвэр CSS дээр гүйцэтгэх боломж олгох бөгөөд Chromium хөтөч дээр аль хэдийн туршилтын түвшинд хэрэгжиж эхэлжээ.\n\nТүүнчлэн одоогийн border-radius-ээс илүү олон янзын хэлбэр үүсгэх corner-shape шинж чанар орж ирж байна. Энэ нь Apple-ийн өргөн ашигладаг squircle болон видео тоглоомын интерфэйс бүтээхэд тохиромжтой bevel өнцгүүдийг клип хийхгүйгээр, шууд хүрээ болон сүүдэртэй нь зөв хослуулан ашиглах боломжийг бүрдүүлж байна.",
+ "published": "2026-10-21T01:47:28Z",
+ "added": "2026-10-21T06:13:36Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

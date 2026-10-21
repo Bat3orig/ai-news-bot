@@ -1,0 +1,17 @@
+{
+ "id": "14219fca5037833f",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v45.0.0",
+ "image": "https://opengraph.githubassets.com/5a9b88e431df5acd54e03a531d18fae24da950691a01dc088793f93e3052b883/electron/electron/releases/tag/v45.0.0",
+ "title": "electron v45.0.0",
+ "summary_en": "Release Notes for v45.0.0 Stack Upgrades Chromium 156.0.8078.48 New in 156 New in 155 New in 154 New in 153 Node v24.22.0 Node 24.22.0 blog post V8 15.6 Breaking Changes Reduced sandboxed renderer startup work for preload scripts that do not use Buffer . #54048 Removed the events , timers and url modules and the Buffer , setImmediate and clearImmediate globals from sandboxed preload scripts; use a polyfill. Made sandboxed renderers without a preload script start faster. Made sandboxed preload scripts start faster; Electron no longer evaluates a JavaScript bundle of its own in sandboxed…",
+ "title_mn": "Electron 45.0.0 хувилбар гарлаа: Chromium 156 болон Node.js 24 дэмжлэг",
+ "summary_mn": "Electron 45.0.0 хувилбарт Chromium 156, Node.js 24.22.0, V8 15.6 шинэчлэлтүүд багтаж, sandboxed preload скриптийн хурд болон аюулгүй байдалд томоохон өөрчлөлт орлоо.",
+ "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн Electron фрэймворкийн ээлжит томоохон хувилбар болох v45.0.0 албан ёсоор гарлаа. Энэхүү хувилбарт Chromium 156.0.8078.48, Node.js v24.22.0 болон V8 15.6 хувилбаруудыг нэгтгэн шинэчилсэн байна.\n\nЭнэ хувилбарт sandboxed renderer болон preload скриптүүдийн ачаалах хурдыг мэдэгдэхүйц сайжруулсан бөгөөд олон нийтийн хэрэглэдэггүй модулиудыг preload орчноос танажээ. Тухайлбал, sandboxed preload скриптүүдээс events, timers, url модулиуд болон Buffer, setImmediate, clearImmediate зэрэг глобал хувьсагчдыг хассан тул хөгжүүлэгчид шаардлагатай бол polyfill ашиглах хэрэгтэй болж байна.\n\nМөн ASAR архив доторх файлуудыг fs.open болон түүнтэй төстэй функцүүдээр уншихад өмнө нь түр зуурын файл үүсгэдэг байсныг зогсоож, шууд архиваас уншдаг болгосон нь хурд, санах ойн хэрэглээг оновчилжээ. Түүнчлэн дэлгэц болон цонх бичих хүсэлтүүдийг setPermissionRequestHandler-д media биш display-capture төрлөөр дамжуулдаг болсон байна.",
+ "published": "2026-10-21T05:22:39Z",
+ "added": "2026-10-21T06:13:36Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

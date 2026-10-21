@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "26de699d3e5c651e",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending JavaScript",
-   "source_label": "GitHub Trending JavaScript",
-   "url": "https://github.com/tt-a1i/archify",
-   "image": "https://repository-images.githubusercontent.com/1211139949/3452b694-f45d-465c-9ef4-9632ea5582c9",
-   "title": "tt-a1i/archify",
-   "summary_en": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. https://archify.si Turn anything you want to understand, plan, or share into an interactive visual. Official channels： archify.si · GitHub Archify is free and open source. Third-party online services and paid plans are operated by their respective providers and do not represent Archify. Service details → Start with an idea, a question, or a plan. Describe it to your AI agent, and Archify turns it into an interactive HTML you can explore, customize, and share. From travel…",
-   "title_mn": "tt-a1i/archify: AI агентын тусламжтайгаар кодын санг интерактив архитектурын зураглал болгох хэрэгсэл",
-   "summary_mn": "Хиймэл оюуны агентаар дамжуулан дурын кодын санг харилцан үйлдэл бүхий интерактив HTML архитектурын зураглал болгон хувиргах хэрэгсэл.",
-   "body_mn": "Archify нь санаа болон কোдын санг AI агентын тусламжтайгаар интерактив HTML архитектурын зураглал болгон хөрвүүлдэг нээлттэй эх сурвалжтай хэрэгсэл юм. Cursor, Claude Code, Codex CLI зэрэг хэрэгслүүдтэй хамтран ажиллах чадвартай бөгөөд ганц өгүүлбэрээр системээ зураглах боломжийг олгодог.\n\nЭнэхүү хэрэгсэл нь зөвхөн зураглал хийхээс гадна асуултад хариулах хуудас үүсгэх, дараалсан алхмууд болон код холбох боломжтой. Kimi Work болон бусад платформ дээр plugin хэлбэрээр ашиглах боломжтой бөгөөд үр дүн нь бие даасан HTML файл хэлбэрээр хадгалагддаг.\n\nJavaScript болон орчин үеийн веб технологиор бүтээгдсэн уг төсөл нь хөгжүүлэгчдэд системийн архитектурыг хялбархан ойлгох, баг хамт олноороо хэлэлцэхэд зориулагдсан болно.",
-   "published": "2026-10-20T10:44:38Z",
-   "added": "2026-10-20T10:44:38Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "bf0e69460c663887",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending JavaScript",
-   "source_label": "GitHub Trending JavaScript",
-   "url": "https://github.com/YuJunZhiXue/dsh-purge",
-   "image": "https://opengraph.githubassets.com/1a26759403790f520c8a647704b16a38b99cf076858a9ed1c4399c4b1552d6db/YuJunZhiXue/dsh-purge",
-   "title": "YuJunZhiXue/dsh-purge",
-   "summary_en": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 ⚔️ DeepSeek Harness 网络安全红队工具（dsh-purge） Version 1.1.71 DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 中文 · English 我直说。 我被裁了。现在彻底没工作，也没有稳定收入。这个仓库一直是我业余在写。后面为了吃饭，我可能得去跑外卖，不一定还能天天改这个。 从今天起到 2026 年 10 月 26 日，我征集七天。 想留、想骂、想投广告、想赞助，写到 Issue #130 。我会看。不保证每条都回。 10 月 27 日起，我把这个仓库关上。 GitHub 上我不再发新版本。后面的包我只发在这个频道： t.me/LLM_PoJia/271 。你们手里已经下过的旧版本还能用。协议我也改了，现在是商业许可，下面有写。 官方 Web…",
-   "title_mn": "YuJunZhiXue/dsh-purge: DeepSeek Harness-д зориулсан халдлагаас хамгаалах болон профайл цэвэрлэх залгаас",
-   "summary_mn": "YuJunZhiXue/dsh-purge нь DeepSeek Harness-д зориулсан торлог аюулгүй байдлын улаан багийн үнэлгээ хийх залгаас юм. Энэ нь албан ёсны Web болон ширээний EXE хувилбарыг дэмждэг.",
-   "body_mn": "YuJunZhiXue/dsh-purge нь DeepSeek Harness хэрэгсэлд зориулагдсан сүлжээний аюулгүй байдлын улаан багийн үнэлгээ хийх тусгай залгаас юм. Энэхүү хэрэгсэл нь албан ёсны Web болон ширээний клиент (EXE) хувилбаруудыг хоёуланг нь дэмжиж, prompt болон тохиргоог хянах боломжийг олгодог.\n\nГол онцлогууд нь Harness-ийн ажиллах явц дахь prompt, зөвшөөрлийн цонх, сав болон сессийн форматыг өөрчилж, модель болон хост хоорондын ялгааг салгаж шалгахад тусална. Уг төсөл нь Node.js (≥18 эсвэл Windows дээр ≥22) шаардах бөгөөд npm дээр байршаагүй тул GitHub архиваас суулгах шаардлагатай.\n\nУг залгаас нь хөгжүүлэгчдэд өөрсдийн суулгасан DeepSeek орчиндоо хяналттай үнэлгээ хийх, бодлогын хэрэгжилтийг шалгах боломжийг олгодогоороо онцлогтой. Зохиогч уг кодыг коммерциал тусгай лицензэд шилжүүлж байгаагаа мэдэгджээ.",
-   "published": "2026-10-20T10:44:38Z",
-   "added": "2026-10-20T10:44:38Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "668711a6e1072822",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/headroomlabs-ai/headroom",
-   "image": "https://opengraph.githubassets.com/966147e65b6465ce4683e18b6d52164710ddb8b5eb74ae3aa3567cba134be3d0/headroomlabs-ai/headroom",
-   "title": "headroomlabs-ai/headroom",
-   "summary_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. https://docs.headroomlabs.ai/docs Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the live index · full docs blob . Headroom compresses everything your AI agent reads — tool outputs, logs, RAG chunks, files, and conversation history — before it reaches the LLM. Same answers, fraction of the tokens. Compression runs on your…",
-   "title_mn": "headroomlabs-ai/headroom: AI агент болон LLM-ийн токенийг хэмнэх шахагч прокси",
-   "summary_mn": "headroomlabs-ai/headroom нь AI агентуудын унших мэдээллийг LLM-д хүрэхээс нь өмнө шахдаг орон нутгийн прокси хэрэгсэл юм. Ингэснээр үр дүнгээ алдалгүйгээр токений зарцуулалтыг эрс бууруулна.",
-   "body_mn": "headroomlabs-ai/headroom нь хөгжүүлэгчдэд зориулсан AI агент болон LLM-үүдийн хэрэглээг оновчлох зорилготой орон нутгийн прокси хэрэгсэл юм. Энэхүү хэрэгсэл нь агентын унших бүх өгөгдөл болох хэрэгслийн үр дүн, лог, RAG хэсэг, файлууд болон ярианы түүхийг LLM руу илгээхээс өмнө шахаж багасгадаг.\n\nГол боломжуудаас дурдвал: шахалт нь бүрэн таны компьютер дээр ажиллах тул ямар нэгэн файл эсвэл промпт гадагшаа алдагдахгүй; Claude Code-д зориулсан Serena код чиглүүлэгчийг дэмждэг; Anthropic болон OpenAI-ийн API хүсэлтүүдтэй бүрэн нийцдэг. Мөн Python PyPI багцаар дамжуулан хялбархан суулгаж ашиглах боломжтой.\n\nЭнэ нь токен хэмнэх шаардлагатай хөгжүүлэгчид болон том хэмжээний AI агент ажиллуулдаг багуудад API зарцуулалтыг бууруулах чухал шийдэл болж өгдөг.",
-   "published": "2026-10-20T10:44:38Z",
-   "added": "2026-10-20T10:44:38Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6ea9960b31645056",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/shiyu-coder/Kronos",
-   "image": "https://opengraph.githubassets.com/04b1d757ea745e8779243387705d21f425c8ce464f3e3cece07866358292b39d/shiyu-coder/Kronos",
-   "title": "shiyu-coder/Kronos",
-   "summary_en": "Kronos: A Foundation Model for the Language of Financial Markets Kronos: A Foundation Model for the Language of Financial Markets Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from over 45 global exchanges . 📰 News 🚩 [2025.11.10] Kronos has been accpeted by AAAI 2026. 🚩 [2025.08.17] We have released the scripts for fine-tuning! Check them out to adapt Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv ! 📜 Introduction Kronos is a family of…",
-   "title_mn": "shiyu-coder/Kronos: Санхүүгийн лааны суурьт суурилсан анхны нээлттэй эх үүсвэртэй суурь модель",
-   "summary_mn": "shiyu-coder/Kronos нь дэлхийн 48 гаруй биржийн өгөгдлөөр сургагдсан, санхүүгийн зах зээлийн K-шугамд зориулсан анхны нээлттэй эх үүсвэртэй суурь модель юм.",
-   "body_mn": "shiyu-coder/Kronos нь санхүүгийн зах зээлийн өвөрмөц, өндөр чимээ шуугиантай шинж чанаруудыг зохицуулахад зориулагдсан decoder-only төрлийн суурь загваруудын гэр бүл юм. Энэ нь ерөнхий зориулалтын цаг хугацааны цувааны загваруудаас ялгаатай нь санхүүгийн мэдээллийн онцлог хэлбэрийг боловсруулахын тулд шинэ хоёр үе шаттай тогтолцоог ашигладаг.\n\nГол онцлогуудад Hugging Face Hub дээрээс хялбархан авах боломжтой урьдчилан сургагдсан загварууд, KronosPredictor ашиглан хэдхэн мөр код бичин урьдчилан таамаглал хийх боломж, мөн олон багц өгөгдлийг GPU ашиглан зэрэг боловсруулах чадвар багтана. Хөгжүүлэгчид өөрсдийн өгөгдөл дээр модельд нарийвчилсан сургалт (finetuning) хийх бүрэн дамжлагыг ашиглах боломжтой.\n\nЭнэхүү төсөл нь санхүүгийн технологын салбарт квантитэйтив судалгаа хийж буй хөгжүүлэгч болон судлаачдад зориулагдсан бөгөөд загварын таамаглах үр дүнг хянах шууд демо хувилбартай юм.",
-   "published": "2026-10-20T10:44:38Z",
-   "added": "2026-10-20T10:44:38Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c7c9684abfb72529",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/usestrix/strix",
-   "image": "https://opengraph.githubassets.com/46950911cc632ca8a58be4152c4d1740b196ffde8555d56020fe7d31a4e1509d/usestrix/strix",
-   "title": "usestrix/strix",
-   "summary_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. https://strix.ai Strix The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities. Tip New! Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - Get started with no setup required . Strix Overview Strix are autonomous AI penetration testing agents that act just like real hackers - they run your code dynamically, find vulnerabilities…",
-   "title_mn": "usestrix/strix: Автоматжуулсан халдлага турших бие даасан AI агентууд",
-   "summary_mn": "usestrix/strix нь хөгжүүлэгчид болон аюулгүй байдлын багуудад зориулсан, кодонд динамикаар туршилт хийж эмзэг байдлыг илрүүлдэг бие даасан AI pentesting агент юм.",
-   "body_mn": "usestrix/strix нь жинхэнэ хакерууд шиг ажиллаж, кодыг динамикаар ажиллуулан эмзэг байдлыг олж, бодит нотолгоогоор баталгаажуулдаг бие даасан AI нэвтрэлтийн туршилтын агентууд юм. Энэ нь GitHub Actions болон CI/CD дамжлагуудтай нягт интеграцчилснаар бүтээгдэхүүнийг хэрэглэгчдэд хүрэхээс нь өмнө аюулгүй байдлыг автоматаар шалгах боломжийг олгодог.\n\nГол боломж ба хэрэгслүүд: OWASP Top 10 болон бусад олон төрлийн эмзэг байдлыг илрүүлэх дэвшилтэт олон агентын зохион байгуулалт; Claude Code, Cursor, Codex зэрэг агентуудад шууд суулгаж ашиглах боломжтой SKILL.md дэмжлэг; орон нутгийн хяналтын самбар (dashboard) болон CLI интерфейс.\n\nЭнэхүү хэрэгсэл нь гараар pentest хийх цагийг хэмнэж, код болон веб аппликейшнуудынхаа аюулгүй байдлыг тасралтгүй хангах хүсэлтэй хөгжүүлэгчдэд төгс тохирно.",
-   "published": "2026-10-20T10:44:38Z",
-   "added": "2026-10-20T10:44:38Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "93f819ca4f0c622b",
-   "subtopic": "gh-rust",
-   "source": "GitHub Trending Rust",
-   "source_label": "GitHub Trending Rust",
-   "url": "https://github.com/smg-project/smg",
-   "image": "https://opengraph.githubassets.com/69705cecbebdfc661da5a2c415d28bac83799e5138f8cfb0dd00392a0c8633d6/smg-project/smg",
-   "title": "smg-project/smg",
-   "summary_en": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth. https://lightseek.org/smg Shepherd Model Gateway Engine-agnostic, high-performance model-routing gateway for large-scale LLM deployments. SMG centralizes worker lifecycle management, balances traffic across self-hosted engines and cloud providers, and gives you enterprise-grade control over…",
-   "title_mn": "smg-project/smg: Өндөр бүтээмжтэй, хөдөлгүүр хамааралгүй LLM чиглүүлэлтийн шлюз",
-   "summary_mn": "smg-project/smg нь том хэмжээний LLM суурилуулалтад зориулсан, ачаалал хуваарилах өндөр хурдтай, хөдөлгүүр хамааралгүй загвар чиглүүлэлтийн шлюз юм.",
-   "body_mn": "smg-project/smg нь Rust хэл дээр бичигдсэн бөгөөд vLLM, TRT-LLM, SGLang, OpenAI, Gemini зэрэг олон төрлийн LLM хөдөлгүүрүүдтэй бүрэн нийцдэг ачаалал хуваарилах шлюз юм. Энэ нь ажилчдын амьдралын мөчлөгийг төвлөрсөн байдлаар удирдах, олон түрээслэгчийн аюулгүй байдал, чатын түүх хадгалах болон ажиглах боломжийг нэг цэгээс олгодог.\n\nГол боломжуудад OpenAI болон Anthropic API-ийн бүрэн дэмжлэг, салбартаа анхдагч gRPC дамжлага, KV cache-д суурилсан ухаалаг чиглүүлэлт, MCP хэрэгслийг зөвшөөрлийн бодлоготойгоор гүйцэтгэх чадвар багтана. Мөн хөгжүүлэгчид WebSocket болон WebRTC протоколоор дамжуулан бодит цагийн аудио болон чатын хүсэлтүүдийг удирдах боломжтой.\n\nЭнэхүү төсөл нь өөрсдийн серверийн дэд бүтцэд олон LLM загваруудыг зэрэг ажиллуулж, ачааллыг тэнцвэржүүлэх шаардлагатай байгууллага болон инженерүүдэд нэн тохиромжтой шийдэл юм.",
-   "published": "2026-10-20T10:44:38Z",
-   "added": "2026-10-20T10:44:38Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "1f8d61fe04f2cb52",
-   "subtopic": "gh-rust",
-   "source": "GitHub Trending Rust",
-   "source_label": "GitHub Trending Rust",
-   "url": "https://github.com/oven-sh/bun",
-   "image": "https://opengraph.githubassets.com/c4664e4de6726078d0d685316078db9437d144060386e93a9349be627eba0534/oven-sh/bun",
-   "title": "oven-sh/bun",
-   "summary_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one https://bun.com Bun Documentation • Discord • Issues • Roadmap Read the docs → What is Bun? Bun is an all-in-one toolkit for JavaScript and TypeScript apps. It ships as a single executable called bun . At its core is the Bun runtime , a fast JavaScript runtime designed as a drop-in replacement for Node.js . It's written in Rust and powered by JavaScriptCore under the hood, dramatically reducing startup times and memory usage. bun run index.tsx # TS and JSX supported out-of-the-box The bun command-line…",
-   "title_mn": "oven-sh/bun: JavaScript болон TypeScript-д зориулсан хурдан бүхнийг нэг дор багтаасан хэрэгсэл",
-   "summary_mn": "oven-sh/bun нь JavaScript/TypeScript хөгжүүлэлтэд зориулсан маш хурдан ажиллах орчин, багц менежер, тест ажиллуулагч бүхий нэгдмэл хэрэгсэл юм.",
-   "body_mn": "oven-sh/bun нь Node.js-ийн оронд шууд ашиглаж болох, Rust хэл дээр бичигдсэн JavaScript болон TypeScript-ийн өндөр хурдтай ажиллах орчин юм. Энэ нь JavaScriptCore хөдөлгүүрийг ашигладаг тул аппликейшн эхлэх хугацааг эрс багасгаж, санах ойн зарцуулалтыг оновчтой болгодог.\n\nУг хэрэгсэл нь зөвхөн ажиллах орчин төдийгүй тест ажиллуулагч, скрипт удирдагч, мөн Node.js-тэй нийцтэй багц менежерийг өөртөө нэгтгэсэн байдаг. Хөгжүүлэгчид олон мянган node_modules санд найдахгүйгээр Bun-ийн суурилуулсан хурдан хэрэгслүүдийг ашиглан төслөө хөгжүүлэх боломжтой.\n\nBun нь Linux, macOS, болон Windows үйлдлийн системүүдийг дэмждэг бөгөөд вэб хөгжүүлэлтийн бүтээмжийг эрс дээшлүүлэх зорилготойгоор бүтээгдсэн.",
-   "published": "2026-10-20T10:44:38Z",
-   "added": "2026-10-20T10:44:38Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "adfee1574336a2e8",
-   "subtopic": "gh-rust",
-   "source": "GitHub Trending Rust",
-   "source_label": "GitHub Trending Rust",
-   "url": "https://github.com/leepokai/Codync",
-   "image": "https://repository-images.githubusercontent.com/1185223752/66ad7f0e-c25f-4a32-8f51-48915983be54",
-   "title": "leepokai/Codync",
-   "summary_en": "The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust. https://www.codync.dev Codync The open-source Grok Bot alternative. Your coding agents, as teammates you can message. Website · Compare · Launch film Free, open source, no paid tier. A ⭐ is how others find it. macOS: Apple Silicon + Intel (DMG) · Windows: x64 installer · Linux: AppImage · All downloads Codync turns the coding agents on your computer — Claude Code…",
-   "title_mn": "leepokai/Codync: AI код бичих агентуудыг багийн гишүүн шиг холбох нээлттэй эх үүсвэртэй хэрэгсэл",
-   "summary_mn": "leepokai/Codync нь Claude Code, Cursor, Codex зэрэг кодын агентуудыг гар утас болон компьютерээсээ мессеж бичиж удирдах боломжийг олгодог нээлттэй эх үүсвэртэй хэрэгсэл юм.",
-   "body_mn": "leepokai/Codync нь хөгжүүлэгчдийн компьютер дээр ажилладаг Claude Code, Codex, Cursor, Gemini болон бусад олон арван AI агентуудыг утсаараа эсвэл алсаас мессеж бичиж хамтран ажиллах багийн гишүүн шиг удирдах боломжийг олгодог нээлттэй эх үүсвэртэй төсөл юм. Энэ нь ямар нэгэн төлбөргүйгээр бүрэн үнэ төлбөргүй ажиллана.\n\nГол боломжуудад macOS, Windows, Linux системүүдэд зориулсан rust дээр суурилсан хост апп; iPhone болон бусад төхөөрөмжөөс QR код уун холбогдох боломж; агентууд айнаа дуусгах эсвэл зөвшөөрөл хүсэх үед мэдэгдэл илгээх систем багтана. Мөн Cloudflare relay-ээр дамжуулан төгсгөл хоорондын шифрлэлттэйгээр алсаас аюулгүй холбогдох боломжтой.\n\nЭнэхүү хэрэгсэл нь AI кодын агентуудыг байнга хянаж, гар утаснаасаа даалгавар өгч ажлаа хөнгөвчлөх хүсэлтэй хөгжүүлэгчдэд нэн тохиромжтой шийдэл юм.",
-   "published": "2026-10-20T10:44:38Z",
-   "added": "2026-10-20T10:44:38Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c15c1be0aad75fb4",
-   "subtopic": "css-web",
-   "source": "Smashing Magazine",
-   "source_label": "Smashing Magazine",
-   "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
-   "image": "https://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
-   "title": "Embracing Playful Imperfection With The CSS `random()` Function",
-   "summary_en": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
-   "title_mn": "CSS random() функц Safari-д гарч, Chrome 156-д нэвтрэх гэж байна",
-   "summary_mn": "Native CSS random() функц Safari-д хэрэгжсэн бөгөөд Chrome 156-д нэвтэрч байна. Firefox-ийн талаар Mozilla эерэг дохио өгсөн гэж тайлбарлагдсан. Дизайн системд санамсаргүй байдлыг хэрхэн ашиглах талаар Smashing Magazine нийтлэл бичжээ.",
-   "body_mn": "CSS Values and Units Level 5 спецификацид орсон random() функц нь JavaScript эсвэл Sass-ийн build-time давталтгүйгээр CSS дотроос санамсаргүй утга үүсгэх боломж олгоно. Энэ функц Safari-д аль хэдийн хэрэгжсэн бөгөөд Chrome 156-д гарах шатандаа байна.\n\nНийтлэлийн зохиолч дизайн инженер хүний хувьд тогтвортой байдал, grid, өнгөний token-уудыг хамгаалдаг ч физик ертөгцөд бүх зүйл яг тэгш байдаггүйг сануулсан. Letterpress хэвлэл, санамсаргүй байрлалтай Polaroid зураг зэрэг жишээгээр санамсаргүй байдал дизайнд амьд мэдрэмж өгч чадна гэж үзэж байна.\n\nЗохиолч CodePen дээр органик типографи, үсрэх үсэг, тараасан карт, punk fanzine зэрэг туршилтууд хийжээ. Гол зарчим бол санамсаргүй байдлыг бүхэл дизайн системийг эвдэх биш, жижиг хазайлт, тоглоомын мэдрэмж нэмэх хэрэгсэл гэж ойлгох явдал юм.\n\nХөгжүүлэгчдэд энэ нь фронтенд дээр JavaScript-гүйгээр хялбар санамсаргүй утга авах боломж тул UI-ийн стилийг илүү амьд болгох шинэ арга юм. Гэхдээ тогтвортой байдал шаардлагатай хэсэгт хэрэглэхгүй байх нь чухал.",
-   "published": "2026-10-20T10:00:00Z",
-   "added": "2026-10-20T15:30:51Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "481e50e816a7895d",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "MIXED Reality News",
-   "url": "https://mixed-news.com/en/anthropic-claude-output-half-work-week-meta-work/",
-   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/042b829f8c8850b596dfb6feaa323d1e911b21bb-1920x1080-1.png",
-   "title": "Reading all of Claude's output would take half an Anthropic worker's week",
-   "summary_en": "Reading everything their Claude agents write would take Anthropic's non-technical employees more than half their working week, and the company has",
-   "title_mn": "Anthropic-ийн ажилтнууд Claude-ийн гаралтыг уншихад долоо хоногийн хагас зарцуулна",
-   "summary_mn": "Anthropic-ийн судалгаагаар interactive Claude session-ууд нь технik бус ажилтнуудад ч долоо хоногийн хагасаас илүү хэмжээний контент гаргадаг. Session-ийн 80 орчим хувь нь хүний оролтыг хүлээж idle байдаг гэж мэдээлсэн.",
-   "body_mn": "Anthropic-ийн судалгааны нийтлэлд техник бус ажилтнууд Claude агентуудын бичсэн бүх гаралтыг уншвал долоо хоногийн ажлын цагийн хагасаас илүү зарцуулна гэж тооцсон байна. Энэ тооцоо нь токеныг үг болгон хөрвүүлж, 0.75 үг/токен, минутад 250 үг уншина гэсэн таамаглалд тулгуурласан бодит цаг хугацааны хэмжилт биш юм.\n\nМөн telemetry-ээс харахад Claude session-уудын дараах 80 орчим хувь нь хүний оролтыг хүлээж idle байдалд байна. Нэг инженер хүмүүс агентуудыг саатуулж байна гэж хэлсэн байна. 2026 оны 3-р сард хүний болон агентуудын ажлын нийт цаг анх удаа давсан гэж тайлагнасан.\n\nМета-ажил гэж нэрлэгдсэн хэсэг буюу visibility хэрэгсэл бүтээх, agent pipeline хянах ажил 2025 оны намраас 2026 оны хавар хүртэл interactive session-ын 10 хувиас 22 хувь болсон. Агентуудад зориулсан бичмэл заавар 2025 оны 7-р сараас хойш жилийн дотор бараг 8500 болж өссөн гэдгийг мөн дурджээ.\n\nХөгжүүлэгчдэд энэ нь агентуудыг олон хэрэглэх үед хүний шалгалт, хяналт, спец бичих ажил гол саадын нэг болж байгааг харуулж байна.",
-   "published": "2026-10-20T11:58:57Z",
-   "added": "2026-10-20T15:30:51Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "16b2e39b8e94699f",
    "subtopic": "motion",
    "source": "motiondivision/motion",
@@ -495,6 +295,166 @@
    "body_mn": "Anthropic-ийн хөгжүүлэгчийн хэрэгсэл Claude Code-ийн 2.1.305 хувилбар гарч, олон тооны алдааны засвар болон тохиргооны шинэчлэлүүд хийгдлээ. Тухайлбал, Linux дээр Chromium эсвэл rootless podman ажиллуулахад зориулан sandbox.allowNestedUserNamespaces тохиргоо нэмэгдэж, хэрэглэгчийн namespace үүсгэх боломжтой болсон байна.\n\nӨмнөх 2.1.304 хувилбарт үүссэн регрессийг засаж, Vertex болон Bedrock зэрэг үйлчилгээнүүд tool search-ийг зөвшөөрөхгүй үед Claude Code түүнгүйгээр дахин туршилт хийдэг болсон. Мөн Workflow resume хийхэд өмнө нь амжилттай дууссан pipeline болон parallel agent-уудыг дахин ажиллуулалгүй журналаас уншдаг болгожээ.\n\nҮүнээс гадна диск дүүрсэн үеийн bash алдааны мэдээллийг тодорхой болгох, bare репозитор дахь git worktree-ийн цэвэрлэгээг сайжруулах, MCP server болон терминалын дэлгэц уншигчийн тохиргоонуудыг зассан байна.",
    "published": "2026-10-20T20:46:50Z",
    "added": "2026-10-20T22:51:43Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4387a557c94c2875",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Hunterbrook",
+   "url": "https://hntrbrk.com/investigations/antivenom",
+   "image": "https://hntrbrk.com/wf-assets/69f87c29a4609f27f1b8c8f8/6ad6c17c343fd57b2d7c184b_screen-vid_8.gif",
+   "title": "Claude Unshackled: AI Designs Experimental Antivenom",
+   "summary_en": "Hunterbrook joined Citrini to visit Anthropic and test an unreleased AI model on designing scorpion antivenom.",
+   "title_mn": "Anthropic-ийн Claude хилэнцэтийн хорыг холбох уургийн молекулуудыг зохион бүтээв",
+   "summary_mn": "Anthropic компани био-хамгаалалтын хязгаарлалтгүй Claude загвараар хилэнцэтийн хорын токсиныг холбох 211 уургийн загварыг гаргаж, лабораторийн туршилтаар амжилттай баталгаажуулжээ.",
+   "body_mn": "Anthropic компанийн судалгааны баг хилэнцэтийн хорны эсрэг туршилтын уураг гарган авах төсөл дээр ажиллаж, өөрсдийн хараахан нийтэд цацаагүй Claude загварыг био-аюулгүй байдлын хязгаарлалтгүйгээр ашиглан туршилт явуулжээ. Уг туршилтын үр дүнд хиймэл оюун ухаан лабораторид нийлэгжүүлж турших боломжтой 211 шинэ молекулын загварыг боловсруулсан байна.\n\nЛабораторийн туршилтаар эдгээр загварууд нь пробирка дотор токсинуудыг амжилттай холбож байгааг тогтоосон ч олон төрлийн хорыг нэгэн зэрэг саармагжуулах зорилтод хараахан бүрэн хүрээгүй байна. Хиймэл оюун ухаан молекулын бүтцийг төлөвлөх ажлыг үлэмж хурдасгасан боловч бодит хими, биологийн туршилтууд болон нийлүүлэлтийн сүлжээний хугацаа гол саад хэвээр байгааг судалгаа харууллаа.\n\nЭнэхүү судалгааны тайлан нь био-технологийн салбарт хилийн чанад дахь хүчирхэг хиймэл оюун ухааны загваруудыг тусгай хамгаалалт, удирдамжийн дор эмийн судалгаа, молекул дизайн боловсруулахад бодитоор ашиглаж болохыг харуулсан чухал алхам болж байна.",
+   "published": "2026-10-20T14:16:00Z",
+   "added": "2026-10-21T06:13:36Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bba5c2c0747901fc",
+   "subtopic": "css-web",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://www.joshwcomeau.com/css/interop-2027/",
+   "image": "https://www.joshwcomeau.com/images/og-interop-2027.png",
+   "title": "The Future of CSS",
+   "summary_en": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 183 # Comments: 61",
+   "title_mn": "CSS-ийн ирээдүй: @function болон corner-shape боломжуудын тойм",
+   "summary_mn": "Interop төслийн хүрээнд хөтчүүдэд нэвтэрч буй CSS-ийн шинэ боломжууд, тухайлбал захиалгат @function функц болон өнцөг засах corner-shape шинж чанаруудыг танилцууллаа.",
+   "body_mn": "Веб хөтөч хөгжүүлэгч томоохон байгууллагууд хамтран хэрэгжүүлдэг Interop санаачилгын үр дүнд CSS технологи асар хурдацтай сайжирч байна. Сүүлийн жилүүдэд Subgrid гэх мэт шинж чанарууд бүх хөтөч дээр бүрэн нэвтэрсэн бол одоо Interop 2027-д зориулсан шинэ боломжуудын санал хураалт эхэлжээ.\n\nХамгийн их хүлээлт үүсгэж буй боломжуудын нэг нь CSS дотор код шиг өөрийн функц зарлах @function дүрэм юм. Энэ нь polar болон cartesian координатуудын хооронд шилжүүлэг хийх зэрэг нарийн тооцооллыг цэвэр CSS дээр гүйцэтгэх боломж олгох бөгөөд Chromium хөтөч дээр аль хэдийн туршилтын түвшинд хэрэгжиж эхэлжээ.\n\nТүүнчлэн одоогийн border-radius-ээс илүү олон янзын хэлбэр үүсгэх corner-shape шинж чанар орж ирж байна. Энэ нь Apple-ийн өргөн ашигладаг squircle болон видео тоглоомын интерфэйс бүтээхэд тохиромжтой bevel өнцгүүдийг клип хийхгүйгээр, шууд хүрээ болон сүүдэртэй нь зөв хослуулан ашиглах боломжийг бүрдүүлж байна.",
+   "published": "2026-10-21T01:47:28Z",
+   "added": "2026-10-21T06:13:36Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "aa13bb02e07426b3",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v43.8.3",
+   "image": "https://opengraph.githubassets.com/7dcc6eb1f17dc49e6d50901628de94cbbc3d1af0608f7d401d81d68baeed973d/electron/electron/releases/tag/v43.8.3",
+   "title": "electron v43.8.3",
+   "summary_en": "Release Notes for v43.8.3 Other Changes Backported fixes from upstream ANGLE, Chromium, PDFium, Skia and V8. #55147",
+   "title_mn": "Electron v43.8.3 хувилбар гарлаа",
+   "summary_mn": "Electron фрэймворкийн v43.8.3 засварын хувилбар гарч, Chromium, V8, Skia зэрэг суурь сангуудаас алдааны засваруудыг нөхөж орууллаа.",
+   "body_mn": "Electron хөгжүүлэгчдийн баг v43.8.3 хувилбарыг нийтэллээ. Энэхүү засварын хувилбарт Chromium, V8, Skia, PDFium болон ANGLE зэрэг суурь төслүүдийн сүүлийн үеийн алдааны засваруудыг нөхөн оруулсан байна.\n\nЭдгээр өөрчлөлтүүд нь десктоп аппликейшнуудын тогтвортой ажиллагаа, график дүрслэл болон аюулгүй байдлыг сайжруулахад чиглэгджээ. Хөгжүүлэгчид өөрсдийн төслийн хамаарлыг шинэчлэн ашиглах боломжтой.",
+   "published": "2026-10-21T03:05:05Z",
+   "added": "2026-10-21T06:13:36Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b22118d63ee72ccc",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.306",
+   "image": "https://opengraph.githubassets.com/1cd75e454cacc7cc7c044d841d051eb36ba5921f34dcce2a40e99e9928103d95/anthropics/claude-code/releases/tag/v2.1.306",
+   "title": "claude-code v2.1.306",
+   "summary_en": "What's changed Fixed claude -p inside cloud sessions reporting \"Not logged in\" when started without the session's environment variables Fixed an API error being replaced by \"prompt is too long\", and an unneeded compaction, in sessions with many MCP tools",
+   "title_mn": "Claude Code v2.1.306 хувилбарт MCP болон cloud сессийн алдааг засав",
+   "summary_mn": "Claude Code v2.1.306 хувилбараар үүлэн сесс доторх нэвтрэлтийн алдаа болон олон MCP хэрэгсэлтэй үед гардаг буруу анхааруулга, шаардлагагүй хураангуйлалтыг заслаа.",
+   "body_mn": "Anthropic-ийн хөгжүүлэгчдийн баг терминалын туслах Claude Code-ийн v2.1.306 шинэчлэлтийг гаргалаа. Энэ удаагийн хувилбарт хөгжүүлэгчдийн ажлын явцад саад болдог байсан хоёр чухал алдааг засварласан байна.\n\nНэгдүгээрт, сессийн орчны хувьсагчгүйгээр ажиллах үед cloud сесс дотор claude -p команд нь нэвтрээгүй буюу \"Not logged in\" гэсэн алдаа заадаг байсныг арилгажээ. Ингэснээр үүлэн орчинд CLI горимоор ажиллахад илүү найдвартай болж байна.\n\nХоёрдугаарт, олон тооны MCP хэрэгсэл ашигласан сессүүдэд API-ийн алдаа нь \"prompt is too long\" гэсэн анхааруулгаар солигдон гарч, улмаар шаардлагагүй контекст хураангуйлалт (compaction) хийгддэг байсан асуудлыг бүрэн зассан байна.",
+   "published": "2026-10-21T03:16:31Z",
+   "added": "2026-10-21T06:13:36Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c00be1bf80ed25fd",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v44.9.3",
+   "image": "https://opengraph.githubassets.com/c4307823d943e6cdef5135fb001010db12842092a9fb23f85ba060d31edd8611/electron/electron/releases/tag/v44.9.3",
+   "title": "electron v44.9.3",
+   "summary_en": "Release Notes for v44.9.3 Other Changes Backported fixes from upstream ANGLE, Chromium, PDFium, Skia and V8. #55149",
+   "title_mn": "Electron v44.9.3 хувилбарыг нийтэллээ",
+   "summary_mn": "Electron баг v44.9.3 хувилбарыг гаргаж, Chromium, Skia, V8 болон ANGLE сангуудын сүүлийн үеийн засваруудыг backport хийн нэгтгэлээ.",
+   "body_mn": "Electron фрэймворкийн 44 дэх хувилбарын ээлжит жижиг шинэчлэлт болох v44.9.3 албан ёсоор гарлаа.\n\nТус хувилбарт upstream түвшний ANGLE, Chromium, PDFium, Skia болон V8 хөдөлгүүрүүдэд хийгдсэн сүүлийн үеийн алдааны засваруудыг нэгтгэн оруулсан байна. Десктоп аппликейшн хөгжүүлэгчид системийн тогтвортой байдлыг хангах үүднээс шинэ хувилбар руу шинэчлэхийг зөвлөж байна.",
+   "published": "2026-10-21T03:27:21Z",
+   "added": "2026-10-21T06:13:36Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "373e12d0d3cb182e",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v42.11.18",
+   "image": "https://opengraph.githubassets.com/b2ac02621e278de546eabac561a2997ecfaa0a9697a973f137b92f355cd1681c/electron/electron/releases/tag/v42.11.18",
+   "title": "electron v42.11.18",
+   "summary_en": "Release Notes for v42.11.18 Warning Electron 42.x.y has reached end-of-support as per the project's support policy . Developers and applications are encouraged to upgrade to a newer version of Electron. Other Changes Backported fixes from upstream ANGLE, Chromium, PDFium, Skia and V8. #55148",
+   "title_mn": "Electron v42.11.18 гарлаа: 42.x хувилбарын албан ёсны дэмжлэг дуусав",
+   "summary_mn": "Electron баг v42.11.18 хувилбарыг гаргаж, төслийн дэмжлэгийн бодлогын дагуу 42.x салбарын хугацаа албан ёсоор дууссаныг зарлалаа.",
+   "body_mn": "Electron хөгжүүлэгчдийн баг v42.11.18 хувилбарыг албан ёсоор гаргалаа. Энэхүү хувилбарт ANGLE, Chromium, PDFium, Skia болон V8-аас хийгдсэн сүүлийн үеийн засваруудыг оруулсан байна.\n\nҮүний зэрэгцээ төслийн дэмжих бодлогын дагуу Electron 42.x хувилбарын дэмжлэгийн хугацаа (end-of-support) бүрэн дууссаныг зарлав. Хөгжүүлэгчдийг аюулгүй байдал, шинэ боломжуудыг авахын тулд аппликейшнээ Electron-ийн илүү шинэ хувилбар луу яаралтай шилжүүлэхийг зөвлөж байна.",
+   "published": "2026-10-21T04:53:30Z",
+   "added": "2026-10-21T06:13:36Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "14219fca5037833f",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v45.0.0",
+   "image": "https://opengraph.githubassets.com/5a9b88e431df5acd54e03a531d18fae24da950691a01dc088793f93e3052b883/electron/electron/releases/tag/v45.0.0",
+   "title": "electron v45.0.0",
+   "summary_en": "Release Notes for v45.0.0 Stack Upgrades Chromium 156.0.8078.48 New in 156 New in 155 New in 154 New in 153 Node v24.22.0 Node 24.22.0 blog post V8 15.6 Breaking Changes Reduced sandboxed renderer startup work for preload scripts that do not use Buffer . #54048 Removed the events , timers and url modules and the Buffer , setImmediate and clearImmediate globals from sandboxed preload scripts; use a polyfill. Made sandboxed renderers without a preload script start faster. Made sandboxed preload scripts start faster; Electron no longer evaluates a JavaScript bundle of its own in sandboxed…",
+   "title_mn": "Electron 45.0.0 хувилбар гарлаа: Chromium 156 болон Node.js 24 дэмжлэг",
+   "summary_mn": "Electron 45.0.0 хувилбарт Chromium 156, Node.js 24.22.0, V8 15.6 шинэчлэлтүүд багтаж, sandboxed preload скриптийн хурд болон аюулгүй байдалд томоохон өөрчлөлт орлоо.",
+   "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн Electron фрэймворкийн ээлжит томоохон хувилбар болох v45.0.0 албан ёсоор гарлаа. Энэхүү хувилбарт Chromium 156.0.8078.48, Node.js v24.22.0 болон V8 15.6 хувилбаруудыг нэгтгэн шинэчилсэн байна.\n\nЭнэ хувилбарт sandboxed renderer болон preload скриптүүдийн ачаалах хурдыг мэдэгдэхүйц сайжруулсан бөгөөд олон нийтийн хэрэглэдэггүй модулиудыг preload орчноос танажээ. Тухайлбал, sandboxed preload скриптүүдээс events, timers, url модулиуд болон Buffer, setImmediate, clearImmediate зэрэг глобал хувьсагчдыг хассан тул хөгжүүлэгчид шаардлагатай бол polyfill ашиглах хэрэгтэй болж байна.\n\nМөн ASAR архив доторх файлуудыг fs.open болон түүнтэй төстэй функцүүдээр уншихад өмнө нь түр зуурын файл үүсгэдэг байсныг зогсоож, шууд архиваас уншдаг болгосон нь хурд, санах ойн хэрэглээг оновчилжээ. Түүнчлэн дэлгэц болон цонх бичих хүсэлтүүдийг setPermissionRequestHandler-д media биш display-capture төрлөөр дамжуулдаг болсон байна.",
+   "published": "2026-10-21T05:22:39Z",
+   "added": "2026-10-21T06:13:36Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f85420144f9bd8b3",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/emdash-cms/emdash",
+   "image": "https://repository-images.githubusercontent.com/1198246700/81f7c898-4db5-44ee-aff0-983d8fb5c20d",
+   "title": "emdash-cms/emdash",
+   "summary_en": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress https://emdashcms.com EmDash A full-stack TypeScript CMS built on Astro . EmDash takes the ideas that made WordPress dominant -- extensibility, admin UX, a plugin ecosystem -- and rebuilds them on serverless, type-safe foundations. Plugins run in sandboxed Worker isolates, solving the fundamental security problem with WordPress's plugin architecture. Get Started npm create emdash@latest Or deploy directly to your Cloudflare account: EmDash runs on Cloudflare (D1 + R2 + Workers) or any Node.js server…",
+   "title_mn": "emdash: Astro дээр суурилсан, аюулгүй залгаасуудтай TypeScript CMS",
+   "summary_mn": "EmDash нь WordPress-ийн экосистемийн давуу талыг орчин үеийн Astro болон Cloudflare Workers серверless дэд бүтэц дээр дахин бүтээсэн бүрэн хэмжээний TypeScript CMS юм.",
+   "body_mn": "Нээлттэй эхийн emdash төсөл нь уламжлалт WordPress платформын өргөтгөх боломж, админ удирдлагын системийг орчин үеийн TypeScript болон серверless технологийн суурин дээр шинээр загварчилсан бүтэн стек CMS юм. WordPress-ийн нийт аюулгүй байдлын эмзэг байдлын 96% нь нэмэлт залгаасуудаас (plugin) үүдэлтэй байдгийг шийдэхийн тулд EmDash бүх залгаасуудаа тусгаарлагдсан Worker sandbox орчинд зөвшөөрлийн хязгаартай ажиллуулдаг байна.\n\nТөслийн гол технологийн суурь нь Astro фрэймворк бөгөөд контентыг сериалчилсан HTML биш бүтэцлэгдсэн Portable Text JSON форматаар хадгалдаг. Өгөгдлийн санд Kysely ашиглан SQLite, Cloudflare D1, Turso, PostgreSQL зэрэг сангуудтай ажиллах боломжтой бөгөөд Cloudflare R2 эсвэл S3 дээр медиа файлуудыг хадгалдаг тул түгжигдэх эрсдэлгүй, олон төрлийн дэд бүтцэд байршуулах боломжтой.\n\nТүүнчлэн EmDash нь орчин үеийн хиймэл оюун ухааны агентуудад зориулагдсан бөгөөд Claude болон ChatGPT-тэй шууд харилцаж контент удирдах боломжтой суурилуулсан MCP серверийг агуулсан байна. Хөгжүүлэгчид үүнийг Astro төсөлдөө нэгтгэн шууд ашиглах боломжтой бөгөөд Passkey дэмжлэгтэй хэрэглэгчийн удирдлага, TipTap засварлагч зэрэг бэлэн шийдлүүдийг санал болгодог.",
+   "published": "2026-10-21T06:13:36Z",
+   "added": "2026-10-21T06:13:36Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }

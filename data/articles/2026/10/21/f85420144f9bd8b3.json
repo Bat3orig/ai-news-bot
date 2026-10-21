@@ -1,0 +1,17 @@
+{
+ "id": "f85420144f9bd8b3",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/emdash-cms/emdash",
+ "image": "https://repository-images.githubusercontent.com/1198246700/81f7c898-4db5-44ee-aff0-983d8fb5c20d",
+ "title": "emdash-cms/emdash",
+ "summary_en": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress https://emdashcms.com EmDash A full-stack TypeScript CMS built on Astro . EmDash takes the ideas that made WordPress dominant -- extensibility, admin UX, a plugin ecosystem -- and rebuilds them on serverless, type-safe foundations. Plugins run in sandboxed Worker isolates, solving the fundamental security problem with WordPress's plugin architecture. Get Started npm create emdash@latest Or deploy directly to your Cloudflare account: EmDash runs on Cloudflare (D1 + R2 + Workers) or any Node.js server…",
+ "title_mn": "emdash: Astro дээр суурилсан, аюулгүй залгаасуудтай TypeScript CMS",
+ "summary_mn": "EmDash нь WordPress-ийн экосистемийн давуу талыг орчин үеийн Astro болон Cloudflare Workers серверless дэд бүтэц дээр дахин бүтээсэн бүрэн хэмжээний TypeScript CMS юм.",
+ "body_mn": "Нээлттэй эхийн emdash төсөл нь уламжлалт WordPress платформын өргөтгөх боломж, админ удирдлагын системийг орчин үеийн TypeScript болон серверless технологийн суурин дээр шинээр загварчилсан бүтэн стек CMS юм. WordPress-ийн нийт аюулгүй байдлын эмзэг байдлын 96% нь нэмэлт залгаасуудаас (plugin) үүдэлтэй байдгийг шийдэхийн тулд EmDash бүх залгаасуудаа тусгаарлагдсан Worker sandbox орчинд зөвшөөрлийн хязгаартай ажиллуулдаг байна.\n\nТөслийн гол технологийн суурь нь Astro фрэймворк бөгөөд контентыг сериалчилсан HTML биш бүтэцлэгдсэн Portable Text JSON форматаар хадгалдаг. Өгөгдлийн санд Kysely ашиглан SQLite, Cloudflare D1, Turso, PostgreSQL зэрэг сангуудтай ажиллах боломжтой бөгөөд Cloudflare R2 эсвэл S3 дээр медиа файлуудыг хадгалдаг тул түгжигдэх эрсдэлгүй, олон төрлийн дэд бүтцэд байршуулах боломжтой.\n\nТүүнчлэн EmDash нь орчин үеийн хиймэл оюун ухааны агентуудад зориулагдсан бөгөөд Claude болон ChatGPT-тэй шууд харилцаж контент удирдах боломжтой суурилуулсан MCP серверийг агуулсан байна. Хөгжүүлэгчид үүнийг Astro төсөлдөө нэгтгэн шууд ашиглах боломжтой бөгөөд Passkey дэмжлэгтэй хэрэглэгчийн удирдлага, TipTap засварлагч зэрэг бэлэн шийдлүүдийг санал болгодог.",
+ "published": "2026-10-21T06:13:36Z",
+ "added": "2026-10-21T06:13:36Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
