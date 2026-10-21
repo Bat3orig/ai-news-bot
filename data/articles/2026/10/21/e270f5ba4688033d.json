@@ -1,0 +1,17 @@
+{
+ "id": "e270f5ba4688033d",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/empowering-cyber-defenders",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/4fQCOyqbS5WVftYzLdd8UX/260b8061c6c8641dd0102042cb1acc32/empowering-cyber-defenders-social.png?w=1600&h=900&fit=fill",
+ "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+ "summary_en": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+ "title_mn": "OpenAI: Кибер хамгаалагчдыг дэмжих шинэ стратеги ба аюулгүй байдлын төлөвлөгөө",
+ "summary_mn": "OpenAI компани дэвшилтэт хиймэл оюуныг кибер хамгаалалтад ашиглах, эрсдэлээс урьдчилан сэргийлэх шинэ загвар, төлөвлөгөөг танилцууллаа.",
+ "body_mn": "OpenAI компани хиймэл оюун ухааны хурд, цар хүрээ кибер аюулгүй байдалд хэрхэн нөлөөлж байгаа талаар шинэ тайлан, удирдамж нийтэлжээ. Энэхүү баримт бичигт кибер хамгаалагчдад дэвшилтэт хиймэл оюуныг олгож, хорлон сйтгэгчдээс түрүүлж хамгаалалтаа сайжруулахын чухлыг онцолсон байна.\n\nТөлөвлөгөөнд дэвшилтэт загвар болон агент системүүдийн аюулгүй байдлыг сайжруулах, аюултай үйлдлийг эрт илрүүлэх, мөн найдвартай унтраах хяналтыг бий болгохыг уриалжээ. Мөн тагнуулын болон мэдээллийн эрин үеийн кибер аюулгүй байдлыг шинэчилж, чухал дэд бүтцийг хамгаалахад онцгойлон анхаарсан байна.\n\nЗасгийн газар болон технологийн салбарынхан хамтран ажиллаж, бие даасан техникийн үнэлгээ хийх, осол зөрчлийг мэдээлэх стандарт тогтоох хэрэгтэйг тус компани санууллаа. Энэ нь хөгжүүлэгчид болон аюулгүй байдлын инженерүүдэд системээ илүү найдвартай болгоход туслах юм.",
+ "published": "2026-10-21T00:00:00Z",
+ "added": "2026-10-21T20:49:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

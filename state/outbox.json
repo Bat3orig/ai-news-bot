@@ -738,5 +738,145 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e270f5ba4688033d",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/empowering-cyber-defenders",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/4fQCOyqbS5WVftYzLdd8UX/260b8061c6c8641dd0102042cb1acc32/empowering-cyber-defenders-social.png?w=1600&h=900&fit=fill",
+   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+   "summary_en": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+   "title_mn": "OpenAI: Кибер хамгаалагчдыг дэмжих шинэ стратеги ба аюулгүй байдлын төлөвлөгөө",
+   "summary_mn": "OpenAI компани дэвшилтэт хиймэл оюуныг кибер хамгаалалтад ашиглах, эрсдэлээс урьдчилан сэргийлэх шинэ загвар, төлөвлөгөөг танилцууллаа.",
+   "body_mn": "OpenAI компани хиймэл оюун ухааны хурд, цар хүрээ кибер аюулгүй байдалд хэрхэн нөлөөлж байгаа талаар шинэ тайлан, удирдамж нийтэлжээ. Энэхүү баримт бичигт кибер хамгаалагчдад дэвшилтэт хиймэл оюуныг олгож, хорлон сйтгэгчдээс түрүүлж хамгаалалтаа сайжруулахын чухлыг онцолсон байна.\n\nТөлөвлөгөөнд дэвшилтэт загвар болон агент системүүдийн аюулгүй байдлыг сайжруулах, аюултай үйлдлийг эрт илрүүлэх, мөн найдвартай унтраах хяналтыг бий болгохыг уриалжээ. Мөн тагнуулын болон мэдээллийн эрин үеийн кибер аюулгүй байдлыг шинэчилж, чухал дэд бүтцийг хамгаалахад онцгойлон анхаарсан байна.\n\nЗасгийн газар болон технологийн салбарынхан хамтран ажиллаж, бие даасан техникийн үнэлгээ хийх, осол зөрчлийг мэдээлэх стандарт тогтоох хэрэгтэйг тус компани санууллаа. Энэ нь хөгжүүлэгчид болон аюулгүй байдлын инженерүүдэд системээ илүү найдвартай болгоход туслах юм.",
+   "published": "2026-10-21T00:00:00Z",
+   "added": "2026-10-21T20:49:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e8fe1ada10da4b76",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
+   "image": "https://opengraph.githubassets.com/645edff1377b3e02b068ecbfca0954c97d4b864d8253a8524ce92bf452d2a01d/ollama/ollama",
+   "title": "ollama v0.40.8: mlx: add Flint model support (#19181)",
+   "summary_en": "Preserve source tool JSON alongside decoded API values so Flint can retain numeric types and schema order in prompts. Existing API marshaling is unchanged. Assemble ModelOpt expert banks during safetensors import, and reject direct Flint NVFP4 creation before conversion. Other models retain their existing import and quantization paths. Add optional learned sinks and device causal masks to shared MLX attention. Existing callers retain the no-sink and host-mask paths; Flint opts into the new behavior.",
+   "title_mn": "Ollama v0.40.8 гарлаа: Flint загварын дэмжлэг болон бусад сайжруулалт",
+   "summary_mn": "Ollama v0.40.8 хувилбар гарч, Flint загварын дэмжлэг, тоон төрлийг хадгалах болон MLX анхаарлын механизмын сайжруулалтуудыг нэмжээ.",
+   "body_mn": "Ollama төсөл v0.40.8 шинэ хувилзраа гаргасан бөгөөд энэ удаад Apple-ийн MLX дээр суурилсан Flint загварын дэмжлэгийг нэмсэн байна. Энэ нь загварт тоон төрөл болон схемүүдийг сануулах боломжийг олгох бөгөөд API дамжуулалтад өөрчлөлт оруулахгүйгээр ажиллана.\n\nШинэ хувилбарт Safetensors импортлох явцад ModelOpt эксперт банкнуудыг угсрах боломжтой болж, хөрвүүлэлт хийхгүйгээр Flint NVFP4 үүсгэх оролдлогыг хаажээ. Мөн хуваалцсан MLX анхаарлын механизмд нэмэлт төхөөрөмжийн шалтгаант маскуудыг суулгасан байна.\n\nЛокалавчлагдсан LLM болон локал орчинд туршилт хийдэг хөгжүүлэгчдэд энэхүү шинэчлэлт нь загварын ажиллагааг сайжруулах чухал засвар болж байна.",
+   "published": "2026-10-21T14:45:50Z",
+   "added": "2026-10-21T20:49:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0ce38a182e587662",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Blog",
+   "source_label": "GitHub Blog",
+   "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+   "image": "https://github.blog/wp-content/uploads/2026/01/generic-mona-github.png?fit=1920%2C1080",
+   "title": "The bridge to agent-scale Git infrastructure",
+   "summary_en": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.",
+   "title_mn": "GitHub: Дэлхийн хэмжээний агентуудад зориулсан Git дэд бүтцийг шинэчилж байна",
+   "summary_mn": "GitHub платформ Git ачааллыг даах, дата төв болон Azure үүлэн орчныг хослуулан ажиллах шинэ архитектурын шилжилтээ танилцууллаа.",
+   "body_mn": "Сүүлийн нэг жилийн хугацаанд GitHub дээрх Git урсгал асар хурдацтай өсөж, хадгалах сангуудын дийлэнх нь өөрсдийн дата төв болон Microsoft Azure хооронд хуваарилагдан ажиллаж байна. Гэсэн хэдий ч хамיйн завгүй сангуудын хувьд 25 миллисекундын сүлжээний хоцролт нь том сорилт болж байгаа аж.\n\nЭнэхүү асуудлыг шийдвэрлэхийн тулд GitHub дата болон үйлчилгээг Azure руу эхлүүлэн зөөвөрлөж, урсгалыг оновчтой чиглүүлэх preferential routing аргыг ашиглаж эхэлжээ. Одоогоор ихэнх хадгалах сангууд Azure дээр хуулбартай болж, нийт Git урсгалын тал хувийг уг үүлэн орчноос амжилттай үйлчилж байна.\n\nХөгжүүлэгчдийн хувьд энэ нь өндөр ачаалалтай үед ч репозиторуудын хурдыг алдагдуулахгүй байх, агентад суурилсан хөгжүүлэлтийн хэрэгслүүдийн өсөлтийг найдвартай даах суурь дэд бүтцийг бүрдүүлж байгаагаараа чухал юм.",
+   "published": "2026-10-21T16:00:00Z",
+   "added": "2026-10-21T20:49:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0098e0bdcb294121",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/routing-middleware-now-supports-python",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4giPCUqtvtLRTx9ZZMIeqC/67a02a8b478aba2fc54a010d296c1b95/image__48_.png",
+   "title": "Routing Middleware now supports Python",
+   "summary_en": "You can now write routing middleware in Python for FastAPI, Flask, Django, and other Python frameworks. It runs before requests reach your app, and can rewrite, redirect, or answer them. To set it up, point the proxy entrypoint in vercel.toml at your proxy: Your middleware is an ASGI or WSGI app that runs separately from your main app, with only the packages in the vercel.proxy dependency group of your pyproject.toml . Add the packages your middleware imports to that group: The vercel-proxy package provides utilities for writing routing middleware on Vercel, including a Proxy app that routes…",
+   "title_mn": "Vercel Routing Middleware одоо Python хэлийг дэмждэг боллоо",
+   "summary_mn": "Vercel платформын Routing Middleware хэрэгсэл Python (FastAPI, Flask, Django гэх мэт) хэлийг дэмждэг болсноор хүсэлтийг шууд удирдах боломжтой боллоо.",
+   "body_mn": "Vercel дээр хөгжүүлэгчид одоо Routing Middleware-ийг Python хэл ашиглан FastAPI, Flask, Django болон бусад фреймворкуудад зориулан бичих боломжтой боллоо. Энэхүү middleware нь хүсэлт таны үндсэн аппликейшнд хүрэхээс өмнө ажиллаж, хүсэлтийг дахин чиглүүлэх, өөрчлөх эсвэл шууд хариу өгөх үүрэгтэй.\n\nҮүнийг тохируулахын тулд `vercel.toml` файл доторх proxy entrypoint-ийг зааж өгөх шаардлагатай бөгөөд `pyproject.toml` файлын `vercel.proxy` хамаарлын хэсэгт шаардлагатай багцуудыг нэмнэ. `vercel-proxy` багц нь замаар хүсэлтийг чиглүүлэхэд хэрэгтэй Proxy аппликейшнийг хангадаг байна.\n\nЯмар нэгэн замтай таараагүй хүсэлтүүд өөрчлөлтгүйгээр үндсэн аппликейшн руу дамжигдах бөгөөд Python хэл дээр backend хөгжүүлдэг хөгжүүлэгчдэд маш хэрэгтэй боломж нээгдэж байна.",
+   "published": "2026-10-21T17:00:00Z",
+   "added": "2026-10-21T20:49:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4576df7817ec3709",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/anthropic-adds-continuous-scanning-and-fix-tracking-to-claude-security/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-adds-continuous-scanning-and-fix-tracking-to-claude-security.jpg",
+   "title": "Anthropic Adds Continuous Scanning and Fix Tracking to Claude Security",
+   "summary_en": "Anthropic on October 21, 2026 released an updated version of Claude Security in public beta for Claude Enterprise customers, adding continuous scanning that follows code changes, automatic fix tracking, per-project threa...",
+   "title_mn": "Anthropic компани Claude Security системдээ тасралтгүй сканердах боломж нэмл",
+   "summary_mn": "Anthropic Claude Enterprise хэрэглэгчдэд зориулсан Claude Security шинэчилсэн хувилбарыг олон нийтийн beta туршилтад гаргалаа. Энэ нь кодын өөрчлөлтийг даган тасралтгүй сканердах болон автоматаар алдаа хянах боломжийг олгож байна.",
+   "body_mn": "Anthropic компани Claude Security хэрэгслийнхээ шинэчилсэн хувилбарыг Enterprise хэрэглэгчдэд зориулан танилцууллаа. Энэхүү шинэчлэлтээр кодын өөрчлөлтийг алдалгүй хянах тасралтгүй сканердах горим, автомат алдаа хяналт, төсөл тус бүрийн аюул заалтын загвар (threat model) зэрэг боломжууд нэмэгджээ.\n\nХөгжүүлэгчид Claude GitHub апп эсвэл GitLab болон бусад Git үйлчилгээ үзүүлэгчдийн эрхээр дамжуулан репозиторуудаа холбож, салбар болон хүрээгээ сонгох боломжтой. Claude эхлээд суурь гүнзгий сканердалт хийх ба үүний дараа кодын эрсдэл, түвшнээс хамааран байнгын шалгалтуудыг гүйцэтгэдэг байна.\n\nШинэ систем нь олон репозитор бүхий төслүүдийг дэмждэг бөгөөд үйлчилгээ хоорондын уялдаа холбооноос үүсэх нууцлалын сул талуудыг илрүүлэхэд тусалдаг. Мөн багууд төслийнхөө мэдлэгийн сан болон аюул заалтын загварыг өөрсдөө хянаж, засварлах боломжтойгоороо давуу талтай юм.",
+   "published": "2026-10-21T17:59:04Z",
+   "added": "2026-10-21T20:49:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c9a29f90405fc309",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0",
+   "image": "https://opengraph.githubassets.com/ff0ab235f411389e9e1b2d0a28123baae523bf53b42447905f1d59d34f951c6b/ollama/ollama/releases/tag/v0.40.8-rc0",
+   "title": "ollama v0.40.8",
+   "summary_en": "Recursive Flint Flint brings Recursive's coding model to Ollama. It is designed for the work coding agents do across a repository: understanding unfamiliar code, tracing bugs, implementing features, and adding tests. Reasoning, multi-turn tool use, and a 262K-token context window support longer tasks across files and tool interactions. Flint is an Apache 2.0-licensed, 40B-parameter mixture-of-experts model with approximately 2.5B parameters active per token. In its release evaluations , Recursive reports 54.9% on Terminal-Bench 2.1 and 74.2% on SWE-bench Verified. ollama run flint Note…",
+   "title_mn": "Ollama v0.40.8 хувилбар гарч, Recursive Flint кодыг дэмждэг боллоо",
+   "summary_mn": "Ollama v0.40.8 шинэ хувилбар гарч, Recursive компанийн 40 тэрбум параметртэй Flint кодын загварыг албан ёсоор дэмждэг боллоо. Энэ нь 262K токенийн контекст цонхтой бөгөөд программ хангамж хөгжүүлэхэд зориулагдсан.",
+   "body_mn": "Ollama төсөл шинэ v0.40.8 хувилргаа гаргалаа. Энэхүү шинэчлэлтийн гол онцлох зүйл нь Recursive компанийн кодын зориулалттай Flint загварыг Ollama дээр ажиллуулах боломжтой болсон явдал юм.\n\nFlint нь репозитор даяар ажиллах, алдаа мөр мөрөөр нь хөөх, шинэ боломж нэмэх болон тест бичихэд зориулагдсан 40 тэрбум параметртэй mixture-of-experts загвар юм. Уг загвар нь 262K-токенийн том контекст цонхтой бөгөөд олон алхамт хэрэгслүүдийг ашиглан удаан хугацааны даалгавруудыг гүйцэтгэх чадвартай.\n\nОдоогоор Flint загвар нь MacOS систем дээр ажиллах ба бусад GPU дэмжлэгийг удахгүй гарах хувилбаруудад нэмэхээр төлөвлөжээ. Хөгжүүлэгчид терминал дээрээ ollama run flint команчаар шууд туршиж үзэх боломжтой.",
+   "published": "2026-10-21T18:32:27Z",
+   "added": "2026-10-21T20:49:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bcaa8ab88e246578",
+   "subtopic": "anthropic",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://claude.com/product/claude-duet",
+   "image": "https://claude.com/static/claude-duet/og.jpg",
+   "title": "Claude Duet",
+   "summary_en": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 136 # Comments: 127",
+   "title_mn": "Anthropic компани Claude Duet проактив агентаа танилцууллаа",
+   "summary_mn": "Anthropic компани Opus 5.5 загвараар ажилладаг, хэрэглэгчийн өмнөөс ажиллаж, өглөө бүр товч мэдээлэл өгдөг Claude Duet агентыг зарлалаа.",
+   "body_mn": "Anthropic компани Pro болон Max хэрэглэгчдэд зориулсан Claude Duet хэмээх шинэ проактив агентаа танилцууллаа. Энэхүү агент нь хэрэглэгчийн өмнөөс даалгавар гүйцэтгэж, цаана нь ажиллаад чухал шийдвэр гаргах үед л зөвшөөрөл хүсдэг байна.\n\nClaude Duet нь өглөө бүр хэрэглэгчдэд хийх ажлын товч танилцуулга бэлдэж, дараагийн алхмуудыг төлөвлөдөг. Мөн аппликейшн болон санах ойн мэдээллийг нэг урсгалд нэгтгэснээр уулзалт товлох, дашборд бүтээх зэрэг олон төрлийн ажлыг автоматаар гүйцэтгэх чадвартай.\n\nАюулгүй байдлын үүднээс мөнгө төлөх эсвэл мессеж илгээх зэрэг эмзэг үйлдлүүдийг хийхээсээ өмнө хэрэглэгчээс заавал зөвшөөрөл авдаг бөгөөд үйл ажиллагаа нь үүлэн дэх тусгай орчинд ажилладаг ажээ.",
+   "published": "2026-10-21T19:14:01Z",
+   "added": "2026-10-21T20:49:16Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "4576df7817ec3709",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-adds-continuous-scanning-and-fix-tracking-to-claude-security/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-adds-continuous-scanning-and-fix-tracking-to-claude-security.jpg",
+ "title": "Anthropic Adds Continuous Scanning and Fix Tracking to Claude Security",
+ "summary_en": "Anthropic on October 21, 2026 released an updated version of Claude Security in public beta for Claude Enterprise customers, adding continuous scanning that follows code changes, automatic fix tracking, per-project threa...",
+ "title_mn": "Anthropic компани Claude Security системдээ тасралтгүй сканердах боломж нэмл",
+ "summary_mn": "Anthropic Claude Enterprise хэрэглэгчдэд зориулсан Claude Security шинэчилсэн хувилбарыг олон нийтийн beta туршилтад гаргалаа. Энэ нь кодын өөрчлөлтийг даган тасралтгүй сканердах болон автоматаар алдаа хянах боломжийг олгож байна.",
+ "body_mn": "Anthropic компани Claude Security хэрэгслийнхээ шинэчилсэн хувилбарыг Enterprise хэрэглэгчдэд зориулан танилцууллаа. Энэхүү шинэчлэлтээр кодын өөрчлөлтийг алдалгүй хянах тасралтгүй сканердах горим, автомат алдаа хяналт, төсөл тус бүрийн аюул заалтын загвар (threat model) зэрэг боломжууд нэмэгджээ.\n\nХөгжүүлэгчид Claude GitHub апп эсвэл GitLab болон бусад Git үйлчилгээ үзүүлэгчдийн эрхээр дамжуулан репозиторуудаа холбож, салбар болон хүрээгээ сонгох боломжтой. Claude эхлээд суурь гүнзгий сканердалт хийх ба үүний дараа кодын эрсдэл, түвшнээс хамааран байнгын шалгалтуудыг гүйцэтгэдэг байна.\n\nШинэ систем нь олон репозитор бүхий төслүүдийг дэмждэг бөгөөд үйлчилгээ хоорондын уялдаа холбооноос үүсэх нууцлалын сул талуудыг илрүүлэхэд тусалдаг. Мөн багууд төслийнхөө мэдлэгийн сан болон аюул заалтын загварыг өөрсдөө хянаж, засварлах боломжтойгоороо давуу талтай юм.",
+ "published": "2026-10-21T17:59:04Z",
+ "added": "2026-10-21T20:49:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

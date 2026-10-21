@@ -1,0 +1,17 @@
+{
+ "id": "e8fe1ada10da4b76",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
+ "image": "https://opengraph.githubassets.com/645edff1377b3e02b068ecbfca0954c97d4b864d8253a8524ce92bf452d2a01d/ollama/ollama",
+ "title": "ollama v0.40.8: mlx: add Flint model support (#19181)",
+ "summary_en": "Preserve source tool JSON alongside decoded API values so Flint can retain numeric types and schema order in prompts. Existing API marshaling is unchanged. Assemble ModelOpt expert banks during safetensors import, and reject direct Flint NVFP4 creation before conversion. Other models retain their existing import and quantization paths. Add optional learned sinks and device causal masks to shared MLX attention. Existing callers retain the no-sink and host-mask paths; Flint opts into the new behavior.",
+ "title_mn": "Ollama v0.40.8 гарлаа: Flint загварын дэмжлэг болон бусад сайжруулалт",
+ "summary_mn": "Ollama v0.40.8 хувилбар гарч, Flint загварын дэмжлэг, тоон төрлийг хадгалах болон MLX анхаарлын механизмын сайжруулалтуудыг нэмжээ.",
+ "body_mn": "Ollama төсөл v0.40.8 шинэ хувилзраа гаргасан бөгөөд энэ удаад Apple-ийн MLX дээр суурилсан Flint загварын дэмжлэгийг нэмсэн байна. Энэ нь загварт тоон төрөл болон схемүүдийг сануулах боломжийг олгох бөгөөд API дамжуулалтад өөрчлөлт оруулахгүйгээр ажиллана.\n\nШинэ хувилбарт Safetensors импортлох явцад ModelOpt эксперт банкнуудыг угсрах боломжтой болж, хөрвүүлэлт хийхгүйгээр Flint NVFP4 үүсгэх оролдлогыг хаажээ. Мөн хуваалцсан MLX анхаарлын механизмд нэмэлт төхөөрөмжийн шалтгаант маскуудыг суулгасан байна.\n\nЛокалавчлагдсан LLM болон локал орчинд туршилт хийдэг хөгжүүлэгчдэд энэхүү шинэчлэлт нь загварын ажиллагааг сайжруулах чухал засвар болж байна.",
+ "published": "2026-10-21T14:45:50Z",
+ "added": "2026-10-21T20:49:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

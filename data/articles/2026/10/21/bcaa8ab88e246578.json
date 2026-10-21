@@ -1,0 +1,17 @@
+{
+ "id": "bcaa8ab88e246578",
+ "subtopic": "anthropic",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://claude.com/product/claude-duet",
+ "image": "https://claude.com/static/claude-duet/og.jpg",
+ "title": "Claude Duet",
+ "summary_en": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 136 # Comments: 127",
+ "title_mn": "Anthropic компани Claude Duet проактив агентаа танилцууллаа",
+ "summary_mn": "Anthropic компани Opus 5.5 загвараар ажилладаг, хэрэглэгчийн өмнөөс ажиллаж, өглөө бүр товч мэдээлэл өгдөг Claude Duet агентыг зарлалаа.",
+ "body_mn": "Anthropic компани Pro болон Max хэрэглэгчдэд зориулсан Claude Duet хэмээх шинэ проактив агентаа танилцууллаа. Энэхүү агент нь хэрэглэгчийн өмнөөс даалгавар гүйцэтгэж, цаана нь ажиллаад чухал шийдвэр гаргах үед л зөвшөөрөл хүсдэг байна.\n\nClaude Duet нь өглөө бүр хэрэглэгчдэд хийх ажлын товч танилцуулга бэлдэж, дараагийн алхмуудыг төлөвлөдөг. Мөн аппликейшн болон санах ойн мэдээллийг нэг урсгалд нэгтгэснээр уулзалт товлох, дашборд бүтээх зэрэг олон төрлийн ажлыг автоматаар гүйцэтгэх чадвартай.\n\nАюулгүй байдлын үүднээс мөнгө төлөх эсвэл мессеж илгээх зэрэг эмзэг үйлдлүүдийг хийхээсээ өмнө хэрэглэгчээс заавал зөвшөөрөл авдаг бөгөөд үйл ажиллагаа нь үүлэн дэх тусгай орчинд ажилладаг ажээ.",
+ "published": "2026-10-21T19:14:01Z",
+ "added": "2026-10-21T20:49:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

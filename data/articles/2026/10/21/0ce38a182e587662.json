@@ -1,0 +1,17 @@
+{
+ "id": "0ce38a182e587662",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+ "image": "https://github.blog/wp-content/uploads/2026/01/generic-mona-github.png?fit=1920%2C1080",
+ "title": "The bridge to agent-scale Git infrastructure",
+ "summary_en": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.",
+ "title_mn": "GitHub: Дэлхийн хэмжээний агентуудад зориулсан Git дэд бүтцийг шинэчилж байна",
+ "summary_mn": "GitHub платформ Git ачааллыг даах, дата төв болон Azure үүлэн орчныг хослуулан ажиллах шинэ архитектурын шилжилтээ танилцууллаа.",
+ "body_mn": "Сүүлийн нэг жилийн хугацаанд GitHub дээрх Git урсгал асар хурдацтай өсөж, хадгалах сангуудын дийлэнх нь өөрсдийн дата төв болон Microsoft Azure хооронд хуваарилагдан ажиллаж байна. Гэсэн хэдий ч хамיйн завгүй сангуудын хувьд 25 миллисекундын сүлжээний хоцролт нь том сорилт болж байгаа аж.\n\nЭнэхүү асуудлыг шийдвэрлэхийн тулд GitHub дата болон үйлчилгээг Azure руу эхлүүлэн зөөвөрлөж, урсгалыг оновчтой чиглүүлэх preferential routing аргыг ашиглаж эхэлжээ. Одоогоор ихэнх хадгалах сангууд Azure дээр хуулбартай болж, нийт Git урсгалын тал хувийг уг үүлэн орчноос амжилттай үйлчилж байна.\n\nХөгжүүлэгчдийн хувьд энэ нь өндөр ачаалалтай үед ч репозиторуудын хурдыг алдагдуулахгүй байх, агентад суурилсан хөгжүүлэлтийн хэрэгслүүдийн өсөлтийг найдвартай даах суурь дэд бүтцийг бүрдүүлж байгаагаараа чухал юм.",
+ "published": "2026-10-21T16:00:00Z",
+ "added": "2026-10-21T20:49:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
