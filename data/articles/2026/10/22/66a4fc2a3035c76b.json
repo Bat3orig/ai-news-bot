@@ -1,0 +1,17 @@
+{
+ "id": "66a4fc2a3035c76b",
+ "subtopic": "openai",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/openai/openai-cli",
+ "image": "https://opengraph.githubassets.com/44a876bc8662f68a8ae3f93925bc88301083a9c810640a603af69e15a2037b60/openai/openai-cli",
+ "title": "OpenAI CLI",
+ "summary_en": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 173 # Comments: 85",
+ "title_mn": "OpenAI албан ёсны CLI хэрэгслээ танилцууллаа",
+ "summary_mn": "OpenAI компани REST API-ийг терминалаас удирдах, Go хэл дээр бичигдсэн албан ёсны CLI хэрэгслийг гаргалаа.",
+ "body_mn": "OpenAI өөрийн REST API-тай шууд терминалаас харилцах зориулалттай албан ёсны CLI хэрэгслийг танилцууллаа. Энэхүү хэрэгслийг ашиглахад Go 1.26 буюу түүнээс дээш хувилбар шаардлагатай бөгөөд Homebrew эсвэл go install ашиглан суулгах боломжтой юм.\n\nШинэ CLI нь нөөцөд суурилсан (resource-based) бүтэцтэй тул openai admin эсвэл openai admin organization гэх мэт тушаалуудаар үйлчилгээ болон админ үйлдлүүдийг удирдах боломж олгодог. Мөн стандарт JSON болон JSONL форматыг дэмждэг учир бүрхүүл скрипт (shell scripts) болон автоматжуулалтын пайплайнд хялбар нэгтгэгдэнэ.\n\nҮүнээс гадна Bash, zsh болон fish бүрхүүлд зориулсан автоматаар гүйцээх (Tab completion) ухаалаг функц, зураг сонгогч, зөвлөмж хайх зэрэг хөгжүүлэгчдэд ээлтэй олон төрлийн дэвшилтэт боломжуудыг нэгтгэжээ.",
+ "published": "2026-10-22T05:23:11Z",
+ "added": "2026-10-22T13:58:16Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

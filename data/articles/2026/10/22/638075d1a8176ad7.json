@@ -1,0 +1,17 @@
+{
+ "id": "638075d1a8176ad7",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.36.1",
+ "image": "https://opengraph.githubassets.com/5b6b266b5487833bcfc9381c3b1e069867fb961ad5c381362c5fb00d310fe296/openai/openai-python/releases/tag/v3.36.1",
+ "title": "openai-python v3.36.1",
+ "summary_en": "3.36.1 (2026-10-22) Bug Fixes api: honor per-call WebSocket query settings ( #4138 ) ( d40a5e1 ) examples: stop microphone capture between recordings ( #4143 ) ( 26e5d92 ) validate browser calls before reading driver state ( #4142 ) ( 2bfe460 ) Chores api: clarify service-account API key deletion ( #4151 ) ( 6ed945e ) Refactors prepare handwritten chunked upload runtime ( #4146 ) ( 2d58e82 ) prepare handwritten vector-store polling runtime ( #4148 ) ( 7cd7028 )",
+ "title_mn": "openai-python v3.36.1 гарлаа",
+ "summary_mn": "OpenAI Python SDK-ийн 3.36.1 хувилбарт WebSocket дуудлагын тохиргоог зөв хадгалах болон микрофон, хөтчийн төлөвтэй холбоотой алдаануудыг засав.",
+ "body_mn": "OpenAI-ийн албан ёсны Python сангийн v3.36.1 шинэчлэлт нийтлэгдлээ. Энэхүү хувилбараар хэд хэдэн чухал алдаа засагдсаны дотор дуудлага бүрийн түвшинд тохируулсан WebSocket query settings-ийг зөв тооцох боломж багтжээ.\n\nМөн жишээ кодуудад бичлэг хооронд микрофоны ажиллагааг зогсоох, драйверын төлөвийг уншихаас өмнө хөтчийн дуудлагуудыг шалгах зохицуулалтууд орсон байна. Түүнчлэн service-account API түлхүүр устгах үйл явцыг илүү тодорхой болгожээ.\n\nХөгжүүлэгчдийн хувьд хэсэгчлэн байршуулах (chunked upload) болон vector-store polling-ийн ажиллах орчныг бэлтгэх бүтцийн өөрчлөлтүүд (refactor) орсон тул API ашиглан өгөгдөл, вектор сангуудтай ажиллахад зориулагдсан суурь сайжирч байна.",
+ "published": "2026-10-22T03:32:31Z",
+ "added": "2026-10-22T13:58:16Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

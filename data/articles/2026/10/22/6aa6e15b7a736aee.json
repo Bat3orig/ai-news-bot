@@ -1,0 +1,17 @@
+{
+ "id": "6aa6e15b7a736aee",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9-rc1",
+ "image": "https://opengraph.githubassets.com/0fd433da3ac9707f354087642637e533b0474bae24af9f034abcdb9db94f82f2/ollama/ollama/releases/tag/v0.40.9-rc1",
+ "title": "ollama v0.40.9",
+ "summary_en": "What's Changed llama.cpp update Full Changelog : v0.40.8...v0.40.9-rc0",
+ "title_mn": "Ollama v0.40.9 хувилбар гарлаа",
+ "summary_mn": "Нээлттэй эхийн хэлний загваруудыг локал орчинд ажиллуулах Ollama хэрэгслийн v0.40.9 хувилбар гарч, llama.cpp санг шинэчиллээ.",
+ "body_mn": "Хиймэл оюуны загваруудыг өөрийн төхөөрөмж дээр ажиллуулах зориулалттай нээлттэй эхийн Ollama хэрэгслийн v0.40.9 хувилбар хэрэглээнд гарлаа.\n\nЭнэхүү шинэчлэлтээр загваруудыг ажиллуулах үндсэн суурь болох llama.cpp санг хамгийн сүүлийн хувилбар хүртэл шинэчилж, холбогдох алдаа засваруудыг багтаасан байна.\n\nЛокал орчинд LLM загварууд ашиглан систем хөгжүүлж буй хөгжүүлэгчид шинэчлэгдсэн суурь сангаар дамжуулан илүү найдвартай ажиллагааг авах боломжтой юм.",
+ "published": "2026-10-22T01:33:10Z",
+ "added": "2026-10-22T13:58:16Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}
