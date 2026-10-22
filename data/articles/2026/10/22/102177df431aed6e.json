@@ -1,0 +1,17 @@
+{
+ "id": "102177df431aed6e",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Help Net Security",
+ "url": "https://www.helpnetsecurity.com/2026/10/22/anthropic-attack-surface-reduction-open-source/",
+ "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/07102628/anthropic-computer-1500.webp",
+ "title": "Anthropic finds 94 cases where open-source projects drop security controls without warning",
+ "summary_en": "Anthropic explores attack surface reduction with Claude to limit unnecessary code exposure and identify weakened security controls.",
+ "title_mn": "Anthropic: Нээлттэй эх сурвалжтай 25 төслөөс аюулгүй байдлын хяналтыг алөгдүүлсэн 493 асуудал илрүүллээ",
+ "summary_mn": "Anthropic компанийн Frontier Red Team баг Claude ашиглан нээлттэй эх сурвалжтай 25 төсөлд дүн шинжилгээ хийж, баталгаажилтгүй хэрэглэгчдэд функцүүд ил гарсан болон тохиргооны зөрчилтэй 493 асуудал илрүүлжээ.",
+ "body_mn": "Anthropic компанийн аюулгүй байдлын Frontier Red Team баг Claude загварыг ашиглан алдартай 25 нээлттэй эх сурвалжтай програм хангамжийн төслүүдэд кодын аудитын судалгаа хийсэн байна. Судалгаагаар шаардлагагүй функцууд идэвхтэй байх, тохиргоонууд хоорондоо зөрчилдөх, аюулгүй байдлын шалгалт хийгдэхээс өмнө код ажиллах зэрэг нийт 493 асуудлыг илрүүлжээ.\n\nТухайлбал, хэрэглэгчийн баталгаажилт шаардах ёстой бүх 11 төсөлд баталгаажилт хийгдэхээс өмнө хандах боломжтой кодын хэсгүүд байсан нь тогтоогджээ. Мөн тохиргооны зохицлоос үүдэн аюулгүй байдлын хамгаалалт чимээгүйгээр идэвхгүй болсон 94 тохиолдол бүртгэгдсэн байна. Жишээлбэл, OpenSSH систем дээр квантын дараах шилдэг криптографийн код хэрэглэгчийн хүсэлтээр зөвшөөрөлгүйгээр ажиллах боломжтой байсныг Claude илрүүлж, maintainer-үүдтэй хамтран засварлажээ.\n\nЭнэхүү судалгаа нь программ хангамжийн довтолгооны талбарыг (attack surface) багасгах, аюулгүй байдлын шалгалтыг кодын боловсруулалтаас өмнө байрлуулахын чухлыг харуулж байна. Anthropic болон холбогдох төслийн хөгжүүлэгчид эдгээр эмзэг байдлыг засварлаж, шинэ хувилбаруудаа гаргасан байна.",
+ "published": "2026-10-22T09:10:55Z",
+ "added": "2026-10-22T18:20:04Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

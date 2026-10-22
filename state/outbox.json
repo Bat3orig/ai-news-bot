@@ -678,5 +678,105 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "eda525050cea8fce",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/5Ggg0KhDALourCX7MklMBY/c7f06d5982895ca0867ed21a0b95d422/uber-brings-chatgpt-work-to-all-employees-seo.png?w=1600&h=900&fit=fill",
+   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+   "summary_en": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+   "title_mn": "Uber компани ChatGPT Work-ийг бүх ажилтнууддаа нэвтрүүлж эхэллээ",
+   "summary_mn": "Uber 30,000 гаруй ажилтандаа ChatGPT Work платформыг нэвтрүүлж, GPT-6.1 Sol загварыг үндсэн чадавх болгохоор болжээ.",
+   "body_mn": "Uber компани дэлхий даяарх 30,000 гаруй ажилтандаа ChatGPT Work агентыг компани даяар ашиглаж эхлэхээ зарлалаа. Энэхүү өргөжүүлэлт нь анх 1,000 ажилтныг хамарсан туршилтаас эхэлсэн бөгөөд мэдлэгийн ажилд зориулсан олон шаттай цогц ажлуудыг гүйцэтгэх зорилготой юм.\n\nChatGPT Work нь Google Drive, Gmail, Google Calendar, Slack зэрэг өдөр тутмын хэрэглээний хэрэгслүүдтэй холбогдож, мэдээлэл хайх, хурлын тэмдэглэл бэлтгэх, танилцуулга хийх болон өгөгдөл задлан шинжлэх боломжийг олгодог. Үүнд OpenAI-ын frontier загварууд, тэр дундаа GPT-6.1 Sol загварыг анхдагч чадавх болгон ашиглах аж.\n\nНэмж дурдахад хэрэглэгчид дуу хоолой болон дүрс үүсгэх чадваруудыг ашиглах боломжтой бөгөөд Uber-ийн програм хангамжийн багууд хөгжүүлэлтийн явцыг хурдасгахын тулд Codex хэрэгслийг үргэлжлүүлэн ашиглах юм байна.",
+   "published": "2026-10-22T00:00:00Z",
+   "added": "2026-10-22T18:20:04Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3f7e5be4f5970593",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/technology/claude-duet-anthropic-announces-personal-ai-agent-to-compete-with-metas-muse-and-openais-dots-enn26102203220",
+   "image": "https://imgs.etvbharat.com/etvbharat/prod-images/22-10-2026/1200-675-27930435-thumbnail-16x9-eclau.jpg",
+   "title": "Claude Duet: Anthropic Announces Personal AI Agent To Compete With Meta's Muse & OpenAI's Dots",
+   "summary_en": "Anthropic's Claude Duet is currently under research preview and available to access via a waitlist for Pro and Max subscribers in the US.",
+   "title_mn": "Anthropic Claude Duet хувийн AI агентыг зарлалаа",
+   "summary_mn": "Anthropic компани Pro болон Max хэрэглэгчдэд зориулсан Claude Duet хувийн AI агентыг судалгааны хувилбараар гаргалаа.",
+   "body_mn": "Anthropic компани өөрийн шинэ Claude Duet хувийн хиймэл оюун ухааны агентыг зарлалаа. Энэ нь Meta-ийн Muse, xAI-ын Grok Bot, OpenAI-ын Dots зэрэг агентуудтай өрсөлдөх зорилготой бөгөөд мэргэжилтнүүд болон жижиг бизнесүүдэд зориулагдсан байна.\n\nClaude Opus 5.5 загвараар ажилладаг энэхүү агент нь хэрэглэгчдэд өдөр тутмын товч мэдээлэл хүргэх, уулзалт товлох, санхүүгийн урьдчилсан тооцоо хийх зэрэг олон төрлийн ажлыг бие даан гүйцэтгэх чадвартай. Клоуд дээр ажилладаг тул апп хаалттай байсан ч үүргээ гүйцэтгэсээр байдаг аж.\n\nАгент нь хэрэглэгчийн зөвшөөрөлгүйгээр мессеж илгээх, төлбөр хийх, баримт бичигт гарын үсэг зурахгүй байхаар бүтээгдсэн байна. Одоогоор АНУ дахь Pro болон Max хэрэглэгчдэд хүлээлийн жагсаалтаар нэвтрүүлж эхлээд байна.",
+   "published": "2026-10-22T08:40:52Z",
+   "added": "2026-10-22T18:20:04Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fad71b0ab1bed1fd",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Android Central",
+   "url": "https://www.androidcentral.com/apps-software/ai/anthropics-claude-duet-wants-to-do-your-job-while-youre-offline",
+   "image": "https://cdn.mos.cms.futurecdn.net/Rh57RaYVNTZXvboUHowSAC-854-80.jpg",
+   "title": "Anthropic’s Claude Duet wants to do your job while you’re offline",
+   "summary_en": "Claude Duet isn’t just another chatbot — it’s an AI agent that actually gets work done.",
+   "title_mn": "Anthropic компани Claude Duet хувийн AI агент системийг танилцууллаа",
+   "summary_mn": "Anthropic компани хэрэглэгчдийн өмнөөс ажил гүйцэтгэх чадвартай Claude Duet шинэ AI агентыг танилцууллаа. Энэхүү агент нь Claude Opus 5.5 загварт суурилсан бөгөөд фондоор ажиллаж, өглөөний тайлан бэлтгэх боломжтой юм.",
+   "body_mn": "Anthropic компани мэргэжилтнүүд болон жижиг бизнес эрхлэгчдэд зориулсан шинэ Claude Duet хиймэл оюун ухааны агентаа зарлалаа. Энэхүү агент нь уламжлалт чатботуудаас ялгаатай нь таныг офлайн эсвэл завгүй байхад ч арын горимд ажиллаж, холбогдсон аппуудаас чухал мэдээллийг цуглуулан өглөө бүр товч танилцуулга хүргэдэг байна.\n\nClaude Duet нь Anthropic-ийн хамгийн хүчирхэг Claude Opus 5.5 загварт суурилсан бөгөөд хуваарь гаргах, санхүүгийн болон борлуулалтын урьдчилсан тооцоо хийх, вэб апп протатип бүтээх зэрэг олон төрлийн даалгаврыг бие даан гүйцэтгэх чадвартай. Тус систем нь тусгай виртуал машин дотор ажилладаг тул хэрэглэгчдэд байнгын харилцан яриа өрнүүлэх шаардлагагүйгээр өөрийн хүсэлтээр үүрэг даалгавар өгөх боломжийг олгодог.\n\nНууцлал болон аюулгүй байдлын хувьд Claude Duet нь нууц үг болон нэвтрэх токеныг шууд ашиглахгүй бөгөөд зээлийн карт, хувийн үнэмлэх зэрэг маш нууц мэдээллийг зөвшөөрөлгүйгээр хуваалцахаас сэргийлсэн шүүлтүүртэй юм. Одоогийн байдлаар энэхүү судалгааны урьдчилсан хувилбар нь US бүс нутгийн Claude Pro болон Max хэрэглэгчдэд зориулагдсан хүлээлгийн жагсаалтаар нээлттэй байна.",
+   "published": "2026-10-22T08:54:41Z",
+   "added": "2026-10-22T18:20:04Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ad2d03f2e90c5678",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Business Insider",
+   "url": "https://www.businessinsider.com/anthropic-katelyn-lesse-team-shifted-to-ai-coding-entirely-2026-10",
+   "image": "https://i.insider.com/6ad914142a1b5bc156b1ab69?width=1200&format=jpeg",
+   "title": "Anthropic's top engineer reveals just how far her team has gone with AI coding",
+   "summary_en": "At Grafana Labs' ObservabilityCON, Anthropic engineering leader Katelyn Lesse says that Claude Code has completely replaced human coding on her team.",
+   "title_mn": "Anthropic компани платформ инженерийн багийнхаа кодыг бүрэн Claude бичиж байгааг зарлав",
+   "summary_mn": "Anthropic компанийн платформ инженерийн багийн ахлагч Кателин Лессе тэдний үндсэн үйлчилгээ болон дэд бүтцийн код бүхэлдээ Claude агентуудаар бичигдэж байгааг мэдээллээ. Энэ нь програм хангамж хөгжүүлэлтийн явцыг бүрэн автоматжуулах шинэ үе шатыг харуулж байна.",
+   "body_mn": "Anthropic компанийн платформ инженерийн багийг удирддаг Кателин Лессе саяхан болсон арга хэмжээний үеэр тус компанийн үндсэн дэд бүтцийн кодыг бүхэлдээ Claude Code ашиглан бичиж байгааг зарлажээ. Түүний удирдлага дор ажилладаг 200 орчим хүний бүрэлдэхүүнтэй багийн хувьд хүний гараар код бичих үе шат нэгэнт ард хоцорсон байна.\n\nИнженерүүд системийн архитектур болон баталгаажуулалтыг зохион бүтээж, харин бодит код бичих, хянах болон засварлах ажлыг хиймэл оюун ухааны агентуудад бүрэн шилжүүлжээ. Тухайлбал, томоохон кодын санг Python хэлнээс Rust рүү шилжүүлэх явцад агентууд гол ажлыг гүйцэтгэсэн бөгөөд хөгжүүлэгчид зөвхөн үр дүнг шалгах үүрэгтэй оролцсон байна. Anthropic компани энэхүү хандлагаа бүтээгдэхүүний хөгжүүлэлтэд өргөнөөр нэвтрүүлж байгаа аж.\n\nЭнэхүү туршлага нь технологийн салбарт хиймэл оюун ухаан хөгжүүлэлтийн явцыг хэрхэн өөрчилж байгааг тод харуулж байна. Компанийн зүгээс агентууд тест алдааг бие даан засварлах боломжийг аль хэдийн олгосон бөгөөд цаашид кодын санд шууд өөрчлөлт оруулах тал дээр болгоомжтой бөгөөд дэвшилттэй алхмуудыг хийж байна.",
+   "published": "2026-10-22T09:00:00Z",
+   "added": "2026-10-22T18:20:04Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "102177df431aed6e",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Help Net Security",
+   "url": "https://www.helpnetsecurity.com/2026/10/22/anthropic-attack-surface-reduction-open-source/",
+   "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/07102628/anthropic-computer-1500.webp",
+   "title": "Anthropic finds 94 cases where open-source projects drop security controls without warning",
+   "summary_en": "Anthropic explores attack surface reduction with Claude to limit unnecessary code exposure and identify weakened security controls.",
+   "title_mn": "Anthropic: Нээлттэй эх сурвалжтай 25 төслөөс аюулгүй байдлын хяналтыг алөгдүүлсэн 493 асуудал илрүүллээ",
+   "summary_mn": "Anthropic компанийн Frontier Red Team баг Claude ашиглан нээлттэй эх сурвалжтай 25 төсөлд дүн шинжилгээ хийж, баталгаажилтгүй хэрэглэгчдэд функцүүд ил гарсан болон тохиргооны зөрчилтэй 493 асуудал илрүүлжээ.",
+   "body_mn": "Anthropic компанийн аюулгүй байдлын Frontier Red Team баг Claude загварыг ашиглан алдартай 25 нээлттэй эх сурвалжтай програм хангамжийн төслүүдэд кодын аудитын судалгаа хийсэн байна. Судалгаагаар шаардлагагүй функцууд идэвхтэй байх, тохиргоонууд хоорондоо зөрчилдөх, аюулгүй байдлын шалгалт хийгдэхээс өмнө код ажиллах зэрэг нийт 493 асуудлыг илрүүлжээ.\n\nТухайлбал, хэрэглэгчийн баталгаажилт шаардах ёстой бүх 11 төсөлд баталгаажилт хийгдэхээс өмнө хандах боломжтой кодын хэсгүүд байсан нь тогтоогджээ. Мөн тохиргооны зохицлоос үүдэн аюулгүй байдлын хамгаалалт чимээгүйгээр идэвхгүй болсон 94 тохиолдол бүртгэгдсэн байна. Жишээлбэл, OpenSSH систем дээр квантын дараах шилдэг криптографийн код хэрэглэгчийн хүсэлтээр зөвшөөрөлгүйгээр ажиллах боломжтой байсныг Claude илрүүлж, maintainer-үүдтэй хамтран засварлажээ.\n\nЭнэхүү судалгаа нь программ хангамжийн довтолгооны талбарыг (attack surface) багасгах, аюулгүй байдлын шалгалтыг кодын боловсруулалтаас өмнө байрлуулахын чухлыг харуулж байна. Anthropic болон холбогдох төслийн хөгжүүлэгчид эдгээр эмзэг байдлыг засварлаж, шинэ хувилбаруудаа гаргасан байна.",
+   "published": "2026-10-22T09:10:55Z",
+   "added": "2026-10-22T18:20:04Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

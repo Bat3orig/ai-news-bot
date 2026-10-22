@@ -1,0 +1,17 @@
+{
+ "id": "3f7e5be4f5970593",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "ETV Bharat",
+ "url": "https://www.etvbharat.com/en/technology/claude-duet-anthropic-announces-personal-ai-agent-to-compete-with-metas-muse-and-openais-dots-enn26102203220",
+ "image": "https://imgs.etvbharat.com/etvbharat/prod-images/22-10-2026/1200-675-27930435-thumbnail-16x9-eclau.jpg",
+ "title": "Claude Duet: Anthropic Announces Personal AI Agent To Compete With Meta's Muse & OpenAI's Dots",
+ "summary_en": "Anthropic's Claude Duet is currently under research preview and available to access via a waitlist for Pro and Max subscribers in the US.",
+ "title_mn": "Anthropic Claude Duet хувийн AI агентыг зарлалаа",
+ "summary_mn": "Anthropic компани Pro болон Max хэрэглэгчдэд зориулсан Claude Duet хувийн AI агентыг судалгааны хувилбараар гаргалаа.",
+ "body_mn": "Anthropic компани өөрийн шинэ Claude Duet хувийн хиймэл оюун ухааны агентыг зарлалаа. Энэ нь Meta-ийн Muse, xAI-ын Grok Bot, OpenAI-ын Dots зэрэг агентуудтай өрсөлдөх зорилготой бөгөөд мэргэжилтнүүд болон жижиг бизнесүүдэд зориулагдсан байна.\n\nClaude Opus 5.5 загвараар ажилладаг энэхүү агент нь хэрэглэгчдэд өдөр тутмын товч мэдээлэл хүргэх, уулзалт товлох, санхүүгийн урьдчилсан тооцоо хийх зэрэг олон төрлийн ажлыг бие даан гүйцэтгэх чадвартай. Клоуд дээр ажилладаг тул апп хаалттай байсан ч үүргээ гүйцэтгэсээр байдаг аж.\n\nАгент нь хэрэглэгчийн зөвшөөрөлгүйгээр мессеж илгээх, төлбөр хийх, баримт бичигт гарын үсэг зурахгүй байхаар бүтээгдсэн байна. Одоогоор АНУ дахь Pro болон Max хэрэглэгчдэд хүлээлийн жагсаалтаар нэвтрүүлж эхлээд байна.",
+ "published": "2026-10-22T08:40:52Z",
+ "added": "2026-10-22T18:20:04Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

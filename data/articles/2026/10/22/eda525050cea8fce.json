@@ -1,0 +1,17 @@
+{
+ "id": "eda525050cea8fce",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/5Ggg0KhDALourCX7MklMBY/c7f06d5982895ca0867ed21a0b95d422/uber-brings-chatgpt-work-to-all-employees-seo.png?w=1600&h=900&fit=fill",
+ "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+ "summary_en": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+ "title_mn": "Uber компани ChatGPT Work-ийг бүх ажилтнууддаа нэвтрүүлж эхэллээ",
+ "summary_mn": "Uber 30,000 гаруй ажилтандаа ChatGPT Work платформыг нэвтрүүлж, GPT-6.1 Sol загварыг үндсэн чадавх болгохоор болжээ.",
+ "body_mn": "Uber компани дэлхий даяарх 30,000 гаруй ажилтандаа ChatGPT Work агентыг компани даяар ашиглаж эхлэхээ зарлалаа. Энэхүү өргөжүүлэлт нь анх 1,000 ажилтныг хамарсан туршилтаас эхэлсэн бөгөөд мэдлэгийн ажилд зориулсан олон шаттай цогц ажлуудыг гүйцэтгэх зорилготой юм.\n\nChatGPT Work нь Google Drive, Gmail, Google Calendar, Slack зэрэг өдөр тутмын хэрэглээний хэрэгслүүдтэй холбогдож, мэдээлэл хайх, хурлын тэмдэглэл бэлтгэх, танилцуулга хийх болон өгөгдөл задлан шинжлэх боломжийг олгодог. Үүнд OpenAI-ын frontier загварууд, тэр дундаа GPT-6.1 Sol загварыг анхдагч чадавх болгон ашиглах аж.\n\nНэмж дурдахад хэрэглэгчид дуу хоолой болон дүрс үүсгэх чадваруудыг ашиглах боломжтой бөгөөд Uber-ийн програм хангамжийн багууд хөгжүүлэлтийн явцыг хурдасгахын тулд Codex хэрэгслийг үргэлжлүүлэн ашиглах юм байна.",
+ "published": "2026-10-22T00:00:00Z",
+ "added": "2026-10-22T18:20:04Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
