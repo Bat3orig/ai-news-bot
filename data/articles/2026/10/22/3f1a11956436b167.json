@@ -1,0 +1,17 @@
+{
+ "id": "3f1a11956436b167",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/broad-access-through-consistent-standards",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/7hrvP09oiCE5WV3cXxae4u/7154e71ae6c6e9d4c8306c4d1843e5bf/broad-access-through-consistent-standards-social.png?w=1600&h=900&fit=fill",
+ "title": "Broad access through consistent standards",
+ "summary_en": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+ "title_mn": "OpenAI аюулгүй байдлын бологоо болон хэрэглээний дүрэм шинэчиллээ",
+ "summary_mn": "OpenAI компани үйлчилгээ үзүүлэгч түншүүд болон хөгжүүлэгчдэд зориулсан аюулгүй байдлын стандартаа нэгтгэн, хэрэглээний дүрэмдээ шинэчлэлт хийлээ.",
+ "body_mn": "OpenAI компани хөгжүүлэгчид болон түншүүдэд зориулсан аюулгүй байдлын бодлогоо шинэчилж, загваруудыг гуравдагч талын үйлчилгээ болон реселлерүүдээр дамжуулан ашиглах стандартыг тодорхой болголоо. Шинэчилсэн дүрэм нь 2026 оны 11 дүгээр сарын 20-ноос эхлэн хэрэгжих юм.\n\nЭнэхүү шинэчлэлтээр загварын чиглүүлэгч болон хиймэл оюун ухааны гарц (AI gateway) үйлчилгээ үзүүлдэг түншүүд OpenAI-ийн аюулгүй байдлын стандартыг чанд мөрдөх шаардлагатай болж байна. Мөн хэрэглэгчдийн нууцлалыг хангах үүднээс SafetyIDs системийг нэвтрүүлж байна.\n\nХөгжүүлэгчдийн хувьд энэ нь API болон загваруудыг ашиглахад тавигдах аюулгүй байдлын шаардлага илүү тогтвортой, нэгдсэн стандартад шилжиж байгааг илтгэж байна.",
+ "published": "2026-10-21T21:00:00Z",
+ "added": "2026-10-22T08:10:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

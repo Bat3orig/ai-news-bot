@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "373e12d0d3cb182e",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v42.11.18",
-   "image": "https://opengraph.githubassets.com/b2ac02621e278de546eabac561a2997ecfaa0a9697a973f137b92f355cd1681c/electron/electron/releases/tag/v42.11.18",
-   "title": "electron v42.11.18",
-   "summary_en": "Release Notes for v42.11.18 Warning Electron 42.x.y has reached end-of-support as per the project's support policy . Developers and applications are encouraged to upgrade to a newer version of Electron. Other Changes Backported fixes from upstream ANGLE, Chromium, PDFium, Skia and V8. #55148",
-   "title_mn": "Electron v42.11.18 гарлаа: 42.x хувилбарын албан ёсны дэмжлэг дуусав",
-   "summary_mn": "Electron баг v42.11.18 хувилбарыг гаргаж, төслийн дэмжлэгийн бодлогын дагуу 42.x салбарын хугацаа албан ёсоор дууссаныг зарлалаа.",
-   "body_mn": "Electron хөгжүүлэгчдийн баг v42.11.18 хувилбарыг албан ёсоор гаргалаа. Энэхүү хувилбарт ANGLE, Chromium, PDFium, Skia болон V8-аас хийгдсэн сүүлийн үеийн засваруудыг оруулсан байна.\n\nҮүний зэрэгцээ төслийн дэмжих бодлогын дагуу Electron 42.x хувилбарын дэмжлэгийн хугацаа (end-of-support) бүрэн дууссаныг зарлав. Хөгжүүлэгчдийг аюулгүй байдал, шинэ боломжуудыг авахын тулд аппликейшнээ Electron-ийн илүү шинэ хувилбар луу яаралтай шилжүүлэхийг зөвлөж байна.",
-   "published": "2026-10-21T04:53:30Z",
-   "added": "2026-10-21T06:13:36Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "14219fca5037833f",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v45.0.0",
-   "image": "https://opengraph.githubassets.com/5a9b88e431df5acd54e03a531d18fae24da950691a01dc088793f93e3052b883/electron/electron/releases/tag/v45.0.0",
-   "title": "electron v45.0.0",
-   "summary_en": "Release Notes for v45.0.0 Stack Upgrades Chromium 156.0.8078.48 New in 156 New in 155 New in 154 New in 153 Node v24.22.0 Node 24.22.0 blog post V8 15.6 Breaking Changes Reduced sandboxed renderer startup work for preload scripts that do not use Buffer . #54048 Removed the events , timers and url modules and the Buffer , setImmediate and clearImmediate globals from sandboxed preload scripts; use a polyfill. Made sandboxed renderers without a preload script start faster. Made sandboxed preload scripts start faster; Electron no longer evaluates a JavaScript bundle of its own in sandboxed…",
-   "title_mn": "Electron 45.0.0 хувилбар гарлаа: Chromium 156 болон Node.js 24 дэмжлэг",
-   "summary_mn": "Electron 45.0.0 хувилбарт Chromium 156, Node.js 24.22.0, V8 15.6 шинэчлэлтүүд багтаж, sandboxed preload скриптийн хурд болон аюулгүй байдалд томоохон өөрчлөлт орлоо.",
-   "body_mn": "Десктоп аппликейшн хөгжүүлэлтийн Electron фрэймворкийн ээлжит томоохон хувилбар болох v45.0.0 албан ёсоор гарлаа. Энэхүү хувилбарт Chromium 156.0.8078.48, Node.js v24.22.0 болон V8 15.6 хувилбаруудыг нэгтгэн шинэчилсэн байна.\n\nЭнэ хувилбарт sandboxed renderer болон preload скриптүүдийн ачаалах хурдыг мэдэгдэхүйц сайжруулсан бөгөөд олон нийтийн хэрэглэдэггүй модулиудыг preload орчноос танажээ. Тухайлбал, sandboxed preload скриптүүдээс events, timers, url модулиуд болон Buffer, setImmediate, clearImmediate зэрэг глобал хувьсагчдыг хассан тул хөгжүүлэгчид шаардлагатай бол polyfill ашиглах хэрэгтэй болж байна.\n\nМөн ASAR архив доторх файлуудыг fs.open болон түүнтэй төстэй функцүүдээр уншихад өмнө нь түр зуурын файл үүсгэдэг байсныг зогсоож, шууд архиваас уншдаг болгосон нь хурд, санах ойн хэрэглээг оновчилжээ. Түүнчлэн дэлгэц болон цонх бичих хүсэлтүүдийг setPermissionRequestHandler-д media биш display-capture төрлөөр дамжуулдаг болсон байна.",
-   "published": "2026-10-21T05:22:39Z",
-   "added": "2026-10-21T06:13:36Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f85420144f9bd8b3",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending TypeScript",
-   "source_label": "GitHub Trending TypeScript",
-   "url": "https://github.com/emdash-cms/emdash",
-   "image": "https://repository-images.githubusercontent.com/1198246700/81f7c898-4db5-44ee-aff0-983d8fb5c20d",
-   "title": "emdash-cms/emdash",
-   "summary_en": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress https://emdashcms.com EmDash A full-stack TypeScript CMS built on Astro . EmDash takes the ideas that made WordPress dominant -- extensibility, admin UX, a plugin ecosystem -- and rebuilds them on serverless, type-safe foundations. Plugins run in sandboxed Worker isolates, solving the fundamental security problem with WordPress's plugin architecture. Get Started npm create emdash@latest Or deploy directly to your Cloudflare account: EmDash runs on Cloudflare (D1 + R2 + Workers) or any Node.js server…",
-   "title_mn": "emdash: Astro дээр суурилсан, аюулгүй залгаасуудтай TypeScript CMS",
-   "summary_mn": "EmDash нь WordPress-ийн экосистемийн давуу талыг орчин үеийн Astro болон Cloudflare Workers серверless дэд бүтэц дээр дахин бүтээсэн бүрэн хэмжээний TypeScript CMS юм.",
-   "body_mn": "Нээлттэй эхийн emdash төсөл нь уламжлалт WordPress платформын өргөтгөх боломж, админ удирдлагын системийг орчин үеийн TypeScript болон серверless технологийн суурин дээр шинээр загварчилсан бүтэн стек CMS юм. WordPress-ийн нийт аюулгүй байдлын эмзэг байдлын 96% нь нэмэлт залгаасуудаас (plugin) үүдэлтэй байдгийг шийдэхийн тулд EmDash бүх залгаасуудаа тусгаарлагдсан Worker sandbox орчинд зөвшөөрлийн хязгаартай ажиллуулдаг байна.\n\nТөслийн гол технологийн суурь нь Astro фрэймворк бөгөөд контентыг сериалчилсан HTML биш бүтэцлэгдсэн Portable Text JSON форматаар хадгалдаг. Өгөгдлийн санд Kysely ашиглан SQLite, Cloudflare D1, Turso, PostgreSQL зэрэг сангуудтай ажиллах боломжтой бөгөөд Cloudflare R2 эсвэл S3 дээр медиа файлуудыг хадгалдаг тул түгжигдэх эрсдэлгүй, олон төрлийн дэд бүтцэд байршуулах боломжтой.\n\nТүүнчлэн EmDash нь орчин үеийн хиймэл оюун ухааны агентуудад зориулагдсан бөгөөд Claude болон ChatGPT-тэй шууд харилцаж контент удирдах боломжтой суурилуулсан MCP серверийг агуулсан байна. Хөгжүүлэгчид үүнийг Astro төсөлдөө нэгтгэн шууд ашиглах боломжтой бөгөөд Passkey дэмжлэгтэй хэрэглэгчийн удирдлага, TipTap засварлагч зэрэг бэлэн шийдлүүдийг санал болгодог.",
-   "published": "2026-10-21T06:13:36Z",
-   "added": "2026-10-21T06:13:36Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f041806265259e01",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "India Today",
-   "url": "https://www.indiatoday.in/technology/news/story/anthropic-is-struggling-to-get-compute-from-aws-google-and-microsoft-3021835-2026-10-21",
-   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/the-move-comes-months-after-federal-officials-placed-two-of-anthropics-most-advanced-models-under-s-170055171-16x9_0.jpg?VersionId=4ACuif9cwh30AjKnP.lQN_8ExZF_SIMJ",
-   "title": "Anthropic is struggling to get compute from AWS, Google and Microsoft",
-   "summary_en": "Anthropic says AWS, Google and Microsoft are not offering all the computing capacity it needs. The shortage is pushing the Claude maker towards leased data centres and smaller operators.",
-   "title_mn": "Anthropic үүлэн үйлчилгээний хомсдолтой тулгарч, Claude-ийн дүрэмд өөрчлөлт оруулав",
-   "summary_mn": "Anthropic компани AWS, Google, Microsoft-оос хангалттай тооцоолох хүчин чадал авахад хүндрэл учирч байгааг мэдэгдлээ. Мөн хэрэглэгчид Claude загвартай зүй бусаар харьцвал яриаг зогсоох боломжтой болсон байна.",
-   "body_mn": "Claude загварыг хөгжүүлэгч Anthropic компани Amazon Web Services (AWS), Google болон Microsoft-оос шаардлагатай тооцоолох хүчин чадлыг бүрэн авч чадахгүй байгаагаа мэдэгдлээ. Эдгээр том технологийн компаниуд өөрсдөө AI салбарт өрсөлдөж байгаа тул Anthropic-ийн хүссэн хэмжээний дэд бүтцийг нийлүүлэхгүй байгаатай холбоотой юм.\n\nКомпани ирэх 7-10 жилийн хугацаанд үүлэн тооцоололд зориулж 450 тэрбум долларын гэрээ хийсэн бөгөөд энэ дүн цаашид 750 тэрбум давах магадлалтай байна. Томоохон нийлүүлэгчдийн хүчин чадал хүрэлцэхгүй байгаагаас шалтгаалан Anthropic жижиг дата төвүүдтэй хамтарч эхэлсэн ч тэдгээрийн найдвартай ажиллагаа эрсдэл дагуулж болзошгүйг сануулжээ.\n\nҮүний зэрэгцээ Anthropic хэрэглээний журмандаа шинэчлэл оруулж, хэрэглэгчид байнга шалтгаангүйгээр бүдүүлэг, зүй бус хандвал Claude яриаг шууд таслах эрхтэй болсон байна. Энэхүү өөрчлөлт нь энгийн шүүмжлэл эсвэл тест хийхэд хамаарахгүй бөгөөд зөвхөн хэт давтагдсан бүдүүлэг харилцаанд үйлчлэх аж.",
-   "published": "2026-10-21T07:36:31Z",
-   "added": "2026-10-21T12:08:14Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "53a7fe1efa1a0e63",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v22.23.4",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2022.23.4%20(LTS)",
-   "title": "Node.js 22.23.4 (LTS)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 22.23.4 (LTS) хувилбар гарлаа",
-   "summary_mn": "Node.js 22 хувилбарын шинэ LTS шинэчлэлт болох v22.23.4 хувилбар бүх платформд зориулагдан гарлаа.",
-   "body_mn": "Node.js платформын 22-р цувралын шинэ засварын хувилбар болох Node.js 22.23.4 (LTS) албан ёсоор цацагдлаа. Энэхүү хувилбарт Windows, macOS болон Linux үйлдвэрийн системүүдэд зориулсан суулгагчид багтсан болно.\n\nLTS буюу урт хугацааны дэмжлэгтэй энэхүү хувилбар нь тогтвортой байдал болон аюулгүй байдлын сайжруулалтуудыг авчирдаг. Хөгжүүлэгчид албан ёсны вэб сайтаас өөрийн системд тохирох багцыг татаж авч ашиглах боломжтой.",
-   "published": "2026-10-21T10:39:12Z",
-   "added": "2026-10-21T12:08:14Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ac833d2d8f2f038e",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v24.22.1",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.1%20(LTS)",
-   "title": "Node.js 24.22.1 (LTS)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 24.22.1 (LTS) хувилбар гарлаа",
-   "summary_mn": "Node.js 24 хувилбарын LTS шинэчлэлт болох v24.22.1 хувилбар бэлэн боллоо.",
-   "body_mn": "Node.js платформын 24-р цувралын шинэ хувилбар болох Node.js 24.22.1 (LTS) албан ёсоор гарлаа. Энэхүү шинэчлэлтээр төрөл бүрийн үйлдлийн системд зориулсан суулгагч багцууд шинэчлэгдэн орсон байна.\n\nТогтвортой ажиллагааг эрхэмлэдэг төслүүдэд зориулсан энэхүү хувилбар нь алдаа засваруудыг багтаадаг бөгөөд хөгжүүлэгчид шинэчлэн суулгах боломжтой.",
-   "published": "2026-10-21T10:39:14Z",
-   "added": "2026-10-21T12:08:14Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2093dcd854b28bec",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v26.12.1",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.12.1%20(Current)",
-   "title": "Node.js 26.12.1 (Current)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 26.12.1 (Current) хувилбар гарлаа",
-   "summary_mn": "Node.js төслийн хамгийн сүүлийн үеийн боломжуудыг агуулсан v26.12.1 (Current) хувилбар цацагдлаа.",
-   "body_mn": "Node.js платформын хамгийн сүүлийн үеийн боломжуудыг багтаасан Node.js 26.12.1 (Current) хувилбар бэлэн боллоо. Энэхүү хувилбар нь шинэ боломжуудыг туршиж үзэх хүсэлтэй хөгжүүлэгчдэд зориулагдсан юм.\n\nДэмжигдсэн платформд зориулсан файлууд болон эх код албан ёсны эх сурвалжид байршсан байна.",
-   "published": "2026-10-21T10:39:20Z",
-   "added": "2026-10-21T12:08:14Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8cee69dc02d2b993",
-   "subtopic": "tauri",
-   "source": "tauri-apps/tauri",
-   "source_label": "tauri-apps/tauri",
-   "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v2.12.5",
-   "image": "https://opengraph.githubassets.com/6b018cc9721473523e25d399ee44580b8e026e8e03707a03e2fa97e106ea8230/tauri-apps/tauri/releases/tag/tauri-v2.12.5",
-   "title": "tauri v2.12.5",
-   "summary_en": "Cargo Audit Fetching advisory database from `https://github.com/RustSec/advisory-db.git` Loaded 1348 security advisories (from /home/runner/.cargo/advisory-db) Updating crates.io index Scanning Cargo.lock for vulnerabilities (1044 crate dependencies) Crate: fxhash Version: 0.2.1 Warning: unmaintained Title: fxhash - no longer maintained Date: 2025-09-05 ID: RUSTSEC-2025-0057 URL: https://rustsec.org/advisories/RUSTSEC-2025-0057 Crate: paste Version: 1.0.15 Warning: unmaintained Title: paste - no longer maintained Date: 2024-10-07 ID: RUSTSEC-2024-0436 URL…",
-   "title_mn": "Tauri v2.12.5 хувилбар алдаа засвартайгаар гарлаа",
-   "summary_mn": "Tauri хүрээний v2.12.5 хувилбар гарч, NSIS суулгагчийн алдааг засаж, хамааралтай сангуудаа шинэчиллээ.",
-   "body_mn": "Tauri desktop болон mobile аппликейшн хөгжүүлэх хүрээний шинэ v2.12.5 хувилбар албан ёсоор цацагдлаа. Энэхүү хувилбарт голчлон хөгжүүлэгчдийн тулгардаг суулгагчийн алдаануудыг зассан байна.\n\nТодруулбал, NSIS суулгагчийн алдаатай бичигдсэн choowHowToInstall хэлний мөрийг chooseHowToInstall болгон зөв болгож өөрчилжээ. Мөн MSI суулгагчаар хийгдсэн шинэ суулгалтын дээрээс NSIS суулгагч хуучин хувилбар руу бууруулах (downgrade) үйлдлийг буруугаар блоکлох асуудлыг зассан байна.\n\nҮүнээс гадна tauri-build, tauri-runtime-wry болон tauri-macros зэрэг дотоод хамааралтай сангуудаа шинэчилсэн бөгөөд хөгжүүлэгчид төслөө шинэчлэхэд хялбар болжээ.",
-   "published": "2026-10-21T11:54:49Z",
-   "added": "2026-10-21T12:08:14Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b9cdeba46112f10c",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending TypeScript",
-   "source_label": "GitHub Trending TypeScript",
-   "url": "https://github.com/mifi/lossless-cut",
-   "image": "https://opengraph.githubassets.com/e0b6f56fd96a5d0802fb246eb75da71c9d9967b1da6db0020c0991c14357aff7/mifi/lossless-cut",
-   "title": "mifi/lossless-cut",
-   "summary_en": "The swiss army knife of lossless video/audio editing https://losslesscut.app/ LosslessCut The swiss army knife of lossless video/audio editing Thanks to my supporters and everyone who purchased LosslessCut! LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files. The main feature is lossless trimming and cutting of video and audio files, which is great for saving space by rough-cutting your large video files taken from a video camera, GoPro, drone, etc. It lets you quickly extract the…",
-   "title_mn": "mifi/lossless-cut: FFmpeg дээр суурилсан дүрс болон дуу авиаг чанар алдагдуулахгүйгээр тайрах хэрэгсэл",
-   "summary_mn": "LosslessCut бол видео болон аудио файлуудыг удаан хугацаагаар дахин кодлохгүйгээр маш хурдан бөгөөд чанар алдагдуулахгүйгээр тайрах, хуваах боломжийг олгодог нээлттэй эх сурвалжтай програм юм.",
-   "body_mn": "LosslessCut бол хөгжүүлэгчид болон контент бүтээгчдэд зориулсан FFmpeg дээр суурилсан зураг, дүрс болон дуу авианы файлыг чанар алдагдуулахгүйгээр маш хурдан тайрах хэрэгсэл юм. GoPro, дрон болон утсаар авсан том хэмжээтэй видеонуудын хэрэгцээгүй хэсгийг хасч зай хэмнэхэд голчлон ашиглагддаг.\n\nГол онцлогууд:\n- Видео болон аудио файлуудыг дахин кодлох шаардлагагүйгээр шууд өгөгдлийг хуулж тайрдаг тул маш хурдан ажилладаг.\n- MP4, MOV, WebM, Matroska, OGG, WAV формат болон H.264, AV1, VP9, H.265 зэрэг олон төрлийн кодекийг дэмждэг.\n- Хэрэв дэмжигдээгүй формат байвал програмын цэснээс шууд хөрвүүлж ашиглах боломжтой.\n\nТехнологийн стек:\n- Chromium хөтөчийн HTML5 видео тоглуулагч дээр суурилсан бөгөөд суурь ачааллыг FFmpeg гүйцэтгэдэг.\n\nХэнд зориулсан бөгөөд хэрхэн турших вэ:\nВидео файлуудыг хурдан бөгөөд чанарын алдагдалгүйгээр боловсруулах шаардлагатай хөгжүүлэгчид болон энгийн хэрэглэгчдэд зориулагдсан. Энэхүү төслийг GitHub дээрээс (mifi/lossless-cut) татан авч үнэ төлбөргүй туршиж үзэх боломжтой.",
-   "published": "2026-10-21T12:08:14Z",
-   "added": "2026-10-21T12:08:14Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ea794a1f5f672288",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending JavaScript",
-   "source_label": "GitHub Trending JavaScript",
-   "url": "https://github.com/nodejs/node",
-   "image": "https://opengraph.githubassets.com/a1bcb683b050bf7877ba1dae44b2110b31ceb19ddd85b3b3971e8eb53b73b97d/nodejs/node",
-   "title": "nodejs/node",
-   "summary_en": "Node.js JavaScript runtime ✨🐢🚀✨ https://nodejs.org Node.js Node.js is an open-source, cross-platform JavaScript runtime environment. For information on using Node.js, see the Node.js website . The Node.js project uses an open governance model . The OpenJS Foundation provides support for the project. Contributors are expected to act in a collaborative manner to move the project forward. We encourage the constructive exchange of contrary opinions and compromise. The TSC reserves the right to limit or block contributors who repeatedly act in ways that discourage, exhaust, or otherwise…",
-   "title_mn": "nodejs/node: Node.js программ хангамжийн ажиллах орчин",
-   "summary_mn": "Node.js нь JavaScript хэлийг хөтөчөөс гадна ажиллуулах боломжийг олгодог нээлттэй эх сурвалжтай, кросс-платформ орчин юм. Энэхүү төсөл нь OpenJS сангийн дэмжлэгтэйгээр нээлттэй засаглалын загвараар хөгждөг.",
-   "body_mn": "Node.js бол JavaScript хэлийг сервер талд болон бусад орчинд ажиллуулах боломжийг олгодог өргөн хэрэглэгддэг платформ юм. Уг төсөл нь хувилбар гаргах тогтсон хуваарьтай бөгөөд хөгжүүлэгчид албан ёсны вэб сайтаас хоёртын файл, суулгагч болон эх кодыг татаж авах боломжтой.\n\nТөслийн хувилбарын директорууд болон файлууд нь хувилбарын дугаар, огноо, мөн commit SHA мэдээллийг агуулдаг. Current болон LTS (Long Term Support) хувилбарууд нь тусдаа зам болон зориулалттайгаар хөгжүүлэгддэг бөгөөд энэ нь бүтээгдэхүүний тогтвортой байдлыг хангахад чухал үүрэгтэй.\n\nБаримт бичиг болон API-ийн дэлгэрэнгүй мэдээллийг албан ёсны сайтаас үзэх боломжтой бөгөөд татаж авсан файлуудын бүрэн бүтэн байдлыг шалгахын тулд PGP түлхүүр болон SHA checksum ашигладаг. Аюулгүй байдлын асуудал болон эмзэг байдлыг мэдээлэх журам нь төслийн агуулах дахь тусгай баримтуудад тодорхойлогдсон байдаг.",
-   "published": "2026-10-21T12:08:14Z",
-   "added": "2026-10-21T12:08:14Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "fdafcfb7d7e67acd",
    "subtopic": "gh-js",
    "source": "GitHub Trending JavaScript",
@@ -737,6 +537,46 @@
    "added": "2026-10-22T02:42:42Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3f1a11956436b167",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/broad-access-through-consistent-standards",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/7hrvP09oiCE5WV3cXxae4u/7154e71ae6c6e9d4c8306c4d1843e5bf/broad-access-through-consistent-standards-social.png?w=1600&h=900&fit=fill",
+   "title": "Broad access through consistent standards",
+   "summary_en": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+   "title_mn": "OpenAI аюулгүй байдлын бологоо болон хэрэглээний дүрэм шинэчиллээ",
+   "summary_mn": "OpenAI компани үйлчилгээ үзүүлэгч түншүүд болон хөгжүүлэгчдэд зориулсан аюулгүй байдлын стандартаа нэгтгэн, хэрэглээний дүрэмдээ шинэчлэлт хийлээ.",
+   "body_mn": "OpenAI компани хөгжүүлэгчид болон түншүүдэд зориулсан аюулгүй байдлын бодлогоо шинэчилж, загваруудыг гуравдагч талын үйлчилгээ болон реселлерүүдээр дамжуулан ашиглах стандартыг тодорхой болголоо. Шинэчилсэн дүрэм нь 2026 оны 11 дүгээр сарын 20-ноос эхлэн хэрэгжих юм.\n\nЭнэхүү шинэчлэлтээр загварын чиглүүлэгч болон хиймэл оюун ухааны гарц (AI gateway) үйлчилгээ үзүүлдэг түншүүд OpenAI-ийн аюулгүй байдлын стандартыг чанд мөрдөх шаардлагатай болж байна. Мөн хэрэглэгчдийн нууцлалыг хангах үүднээс SafetyIDs системийг нэвтрүүлж байна.\n\nХөгжүүлэгчдийн хувьд энэ нь API болон загваруудыг ашиглахад тавигдах аюулгүй байдлын шаардлага илүү тогтвортой, нэгдсэн стандартад шилжиж байгааг илтгэж байна.",
+   "published": "2026-10-21T21:00:00Z",
+   "added": "2026-10-22T08:10:26Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "297cde9d5ed73a03",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.307",
+   "image": "https://opengraph.githubassets.com/5883b35b28246294c2eeef6473aaa5d8511eae7fd80ff51d91cec12e4362dac8/anthropics/claude-code/releases/tag/v2.1.307",
+   "title": "claude-code v2.1.307",
+   "summary_en": "What's changed Added /claude-api api-version to move Claude API code to API version 2026-10-21 Added the claude_code.safety_event OpenTelemetry event for each tool call a permission rule, auto mode, a safety check, a hook or the sandbox stopped, prompted or sent back Fixed requests failing with a model-not-found error when CLAUDE_CODE_DISABLE_1M_CONTEXT is set and the model is an alias with the [1m] suffix, such as opus[1m] Fixed the prompt-caching-scope beta header being sent behind custom ANTHROPIC_BASE_URL gateways and on Foundry, where it has no effect Fixed MCP servers showing \"needs…",
+   "title_mn": "claude-code v2.1.307 хувилбар гарлаа",
+   "summary_mn": "Claude Code v2.1.307 хувилбарт API 2026-10-21 дэмжлэг, OpenTelemetry аюулгүй байдлын эвент, MCP хэрэгслүүдийн алдааны засварууд болон хэрэгсэл дуудалтыг дахин оролдох сайжруулалтууд орлоо.",
+   "body_mn": "Anthropic компанийн терминал хэрэгсэл claude-code v2.1.307 хувилбараа гаргалаа. Шинэ хувилбарт кодыг шинэ 2026-10-21 хувилбар луу шилжүүлэх /claude-api api-version команд нэмэгдсэн байна. Мөн аюулгүй байдлын шалгалт, автомат горим, сэндбокс эсвэл hook-оор хязгаарлагдсан үйлдэл бүрийг бүртгэх claude_code.safety_event OpenTelemetry эвент нэмэгджээ.\n\nЭнэ хувилбараар Model Context Protocol (MCP) холбогчтой холбоотой олон чухал алдааг засварласан байна. Тухайлбал, macOS дээр keychain түгжигдсэн үед claude -p горимд MCP серверийн төлөвийг зөв мэдээлэх, систем унтах горимд шилжихэд headless ажиллагаа гацахгүй байх сайжруулалтууд оржээ. Мөн холболт салсан үед HTTP MCP хэрэгслүүдийн хувьд зөвхөн унших болон идемпотент үйлдлүүдийг давтан дуудах логикийг тохируулсан байна.\n\nҮүнээс гадна задлан ялгах боломжгүй (unparseable) хэрэгслийн дуудалтуудыг алдаа заахаас өмнө 2 удаа автоматаар давтан оролдох механизм нэмэгдэж, Agent SDK-ийн setModel() дуудлагын хүлээх хугацааг 15 секунд болгон уртасгажээ.",
+   "published": "2026-10-21T22:17:02Z",
+   "added": "2026-10-22T08:10:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
   }
  }
 ]

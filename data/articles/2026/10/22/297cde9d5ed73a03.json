@@ -1,0 +1,17 @@
+{
+ "id": "297cde9d5ed73a03",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.307",
+ "image": "https://opengraph.githubassets.com/5883b35b28246294c2eeef6473aaa5d8511eae7fd80ff51d91cec12e4362dac8/anthropics/claude-code/releases/tag/v2.1.307",
+ "title": "claude-code v2.1.307",
+ "summary_en": "What's changed Added /claude-api api-version to move Claude API code to API version 2026-10-21 Added the claude_code.safety_event OpenTelemetry event for each tool call a permission rule, auto mode, a safety check, a hook or the sandbox stopped, prompted or sent back Fixed requests failing with a model-not-found error when CLAUDE_CODE_DISABLE_1M_CONTEXT is set and the model is an alias with the [1m] suffix, such as opus[1m] Fixed the prompt-caching-scope beta header being sent behind custom ANTHROPIC_BASE_URL gateways and on Foundry, where it has no effect Fixed MCP servers showing \"needs…",
+ "title_mn": "claude-code v2.1.307 хувилбар гарлаа",
+ "summary_mn": "Claude Code v2.1.307 хувилбарт API 2026-10-21 дэмжлэг, OpenTelemetry аюулгүй байдлын эвент, MCP хэрэгслүүдийн алдааны засварууд болон хэрэгсэл дуудалтыг дахин оролдох сайжруулалтууд орлоо.",
+ "body_mn": "Anthropic компанийн терминал хэрэгсэл claude-code v2.1.307 хувилбараа гаргалаа. Шинэ хувилбарт кодыг шинэ 2026-10-21 хувилбар луу шилжүүлэх /claude-api api-version команд нэмэгдсэн байна. Мөн аюулгүй байдлын шалгалт, автомат горим, сэндбокс эсвэл hook-оор хязгаарлагдсан үйлдэл бүрийг бүртгэх claude_code.safety_event OpenTelemetry эвент нэмэгджээ.\n\nЭнэ хувилбараар Model Context Protocol (MCP) холбогчтой холбоотой олон чухал алдааг засварласан байна. Тухайлбал, macOS дээр keychain түгжигдсэн үед claude -p горимд MCP серверийн төлөвийг зөв мэдээлэх, систем унтах горимд шилжихэд headless ажиллагаа гацахгүй байх сайжруулалтууд оржээ. Мөн холболт салсан үед HTTP MCP хэрэгслүүдийн хувьд зөвхөн унших болон идемпотент үйлдлүүдийг давтан дуудах логикийг тохируулсан байна.\n\nҮүнээс гадна задлан ялгах боломжгүй (unparseable) хэрэгслийн дуудалтуудыг алдаа заахаас өмнө 2 удаа автоматаар давтан оролдох механизм нэмэгдэж, Agent SDK-ийн setModel() дуудлагын хүлээх хугацааг 15 секунд болгон уртасгажээ.",
+ "published": "2026-10-21T22:17:02Z",
+ "added": "2026-10-22T08:10:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}
