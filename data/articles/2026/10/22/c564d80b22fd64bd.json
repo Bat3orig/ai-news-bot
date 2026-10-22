@@ -1,0 +1,17 @@
+{
+ "id": "c564d80b22fd64bd",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Verge",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GettyImages-2202529068_415155.jpg?quality=90&strip=all&crop=0%2C10.476337131711%2C100%2C79.047325736577&w=1200",
+ "title": "Claude did not invent scorpion antivenom",
+ "summary_en": "Citrini takes a stab at drug development.",
+ "title_mn": "Citrini Research болон Anthropic-ийн scorpion antivenom туршилт амжилтгүй болжээ",
+ "summary_mn": "Хөрөнгө оруулалтын Citrini Research компани Anthropic-ийн тусгайлан гаргасан Claude загварыг ашиглан скорпионы хорны эсрэг эм (antivenom) гаргаж авах туршилт хийсэн боловч үндсэн эмчилгээ болох хэмжээний үр дүнд хүрсэнгүй.",
+ "body_mn": "AI технологи эмийн үйлдвэрлэлийг хувьсгал хийж чадах эсэхийг шалгахаар Citrini Research фирм Anthropic-тэй хамтран ажиллажээ. Тэд Claude-ийн тусгай хувилбарыг ашиглан скорпионы хорны токсинуудтай холбогдох чадвартай уураг зохион бүтээх даалгавар өгсөн байна. 64 цагийн турш үргэлжилсэн уг процессор Claude 320,000 орчим хувилбар үүсгэж, шүүсээр 180 дизайн гаргаж авжээ.\n\nҮүний дараа Швейцарийн Adaptyv Bio болон АНУ-ын Twist Biosciences лабораториудад уг уургуудыг туршиж үзэхэд 17 уураг нь зорилтот токсинуудтай холбогдож чадсан байна. Гэсэн хэдий ч эдгээр нь нэгээс олон токсинтой холбогдож чадаагүй бөгөөд бодит эмчилгээний түвшинд хүрэхэд маш хол байгааг мэргэжилтнүүд онцолжээ.\n\nЭнэхүү туршилт нь өнөөгийн LLM загварууд шинжлэх ухааны болон биотехнологийн нарийн төвөгтэй салбарт бодитоор эм бүтээхэд тодорхой хязгаарлалттай болохыг харуулсан бодитой жишээ болсон юм. Гэсэн хэдий ч AI нь эхлэх цэг болон ирээдүйтэй санааг хайж олоход туслах чадвартайг уг туршилт харуулжээ.",
+ "published": "2026-10-22T12:21:07Z",
+ "added": "2026-10-22T21:49:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

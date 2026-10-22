@@ -778,5 +778,145 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "81ce6b7313b7ef26",
+   "subtopic": "electron",
+   "source": "Electron Blog",
+   "source_label": "Electron Blog",
+   "url": "https://electronjs.org/blog/electron-45-0",
+   "image": "https://www.electronjs.org/blog/electron-45-0/og-image.png",
+   "title": "Electron 45",
+   "summary_en": "Electron 45 has been released! It includes upgrades to Chromium 156.0.8078.48, V8 15.6, and Node v24.22.0.",
+   "title_mn": "Electron 45 хувилбар Chromium 156 болон Node v24-тэй гарлаа",
+   "summary_mn": "Electron 45 шинэ хувилбар Chromium 156, V8 15.6, Node v24.22.0 шинэчлэлтүүд болон гүйцэтгэлийн сайжруулалттайгаар гарлаа. Энэ хувилбарт санах ойн хэмнэлт, cold-launch хурдыг сайжруулахаас гадна туршилтын Local AI Handler болон платформ passkey дэмжлэг нэмэгджээ.",
+   "body_mn": "Electron 45 албан ёсоор гарсан бөгөөд npm суулгуураар дамжуулан шинэчлэх боломжтой. Энэхүү хувилбар нь Chromium 156.0.8078.48, V8 15.6, Node v24.22.0 зэрэг үндсэн сангуудын шинэ хувилбаруудыг багтаасан байна. Sandbox горим дахь renderer ачааллыг багасгаж, macOS үйлдлийн систем дээрх cold-launch хугацааг эрс сайжруулжээ.\n\nХөгжүүлэгчдийн хувьд дэлгэц болон цонх хуваалцах үйлдэл session.setPermissionRequestHandler() руу display-capture зөвшөөрлөөр дамжих болсон нь томоохон өөрчлөлт юм. Өмнө нь энэ нь хоосон media төрөл хэлбэрээр ирдэг байсан тул камер, микрофоноос ялгах боломжгүй байжээ. Үүнтэй холбоотойгоор зөвшөөрлийн логикоо шинэчлэх шаардлагатай.\n\nШинэ хувилбарт Chromium Prompt API-г локал загвартай холбох туршилтын localAIHandler модулийг нэмсэн нь анхаарал татаж байна. Мөн macOS систем дээр app.configureWebAuthn() ашиглан платформ passkey дэмжих боломжтой болсон ба ASAR архив доторх файлуудыг түр хуулбарлахгүйгээр шууд унших болсноор том файлын cold read хурд 100 дахин хурдассан байна.",
+   "published": "2026-10-21T00:00:00Z",
+   "added": "2026-10-22T21:49:01Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bbe499adb8d1d958",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "O'Reilly Media",
+   "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/",
+   "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/The-latest-Anthropic-Claude-models-contain-AI-text-watermarks-1600x1244.jpg",
+   "title": "The Latest Anthropic Claude Models Contain AI Text Watermarks: What Does This Mean for You?",
+   "summary_en": "If you’re an instructor for the O’Reilly live training platform, you’ve got to be prepared for the unexpected. As a developer I think we all can understand the",
+   "title_mn": "Anthropic-ийн шинэ Claude загварууд AI текст усан тэмдэглэгээтэй болно",
+   "summary_mn": "Anthropic компани Европын Холбооны AI хууль тогтоомжид нийцүүлэхийн тулд Claude загваруудын гаргаж буй текст бүрт усан тэмдэглэгээ (watermark) суулгаж эхэллээ. Энэ нь Claude оролцсон эсэхийг тодорхойлох боломжийг олгох бөгөөд кодыг ч мөн хамарна.",
+   "body_mn": "Anthropic компани Европын Холбооны AI тухай хуулийн шаардлагыг биелүүлэх зорилгоор ирээдүйн бүх Claude загваруудын текстэн гаралтад усан тэмдэглэгээ (watermark) байрлуулахаа мэдэгдсэн. Уг өөрчлөлт нь Claude Desktop, Claude Code эсвэл API аль ашиглахаас үл хамааран бүх генерацид үйлчлэх юм.\n\nХөгжүүлэгчдийн хувьд энэ нь Claude ашиглан бичсэн код, имэйл, нийтлэл болон бусад контент ямар нэгэн AI watermark илрүүлэгч багажаар шалгахад AI үүсгэвэр болох нь шууд мэдэгдэнэ гэсэн үг юм. Уг технологи нь криптографи биш харин стеганограф буюу өгөгдлийг далд хэлбэрээр шингээх арга дээр суурилдаг.\n\nЭнэхүү зохицуулалт нь зөвхөн Anthropic төдийгүй зах зээл дээр үйл ажиллагаа явуулж буй бусад томоохон AI компаниудад ч мөн хамааралтай бөгөөд Европын зах зээлд үйлчилж буй AI провайдеруудад хуулиар шаардагдаж байгаа болно.",
+   "published": "2026-10-22T10:55:45Z",
+   "added": "2026-10-22T21:49:01Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d9a0e74556bf7734",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Mashable",
+   "url": "https://mashable.com/tech/anthropic-claude-duet-announced",
+   "image": "https://helios-i.mashable.com/imagery/articles/02pJCqh9ZqzRctUMNZ1zpy8/hero-image.fill.size_1200x675.v1792664374.jpg",
+   "title": "Meet Claude Duet, the latest AI agent intended to lighten your workload",
+   "summary_en": "Part assistant, part proxy, Claude Duet is designed to do a lot of work on your behalf.",
+   "title_mn": "Anthropic компани Claude Duet нэртэй хувийн AI агентаа танилцууллаа",
+   "summary_mn": "Anthropic компани мэргэжилтнүүд болон жижиг бизнесүүдэд зориулсан Claude Duet агентаа танилцууллаа. Энэхүү агентууд нь өөрийн виртуал машин дээр ажиллаж, хэрэглэгчийн өмнөөс Slack, Gmail, Stripe зэрэг апп дээрх ажлыг автоматжуулах чадвартай.",
+   "body_mn": "Meta-ийн Muse болон OpenAI-ийн Dots агентуудтай өрсөлдөх зорилгоор Anthropic компани Claude Duet хэмээх шинэ агентаа зарлалаа. Claude Opus 5.5 загвар дээр суурилсан уг агентууд нь хэрэглэгчийн зурвас, даалгавруудыг хянаж, шаардлагатай үйлдлийг цаана нь гүйцэтгэх чадвартай юм.\n\nClaude Duet нь хэрэглэгчийн компьютер, утас унтарсан байсан ч виртуал машин дээр ажилладаг бөгөөд Gmail, Slack, QuickBooks, Stripe болон LinkedIn зэрэг олон төрлийн үйлчилгээтэй холбогдож ажиллана. Жишээлбэл, ирүүлсэн мессежид хариу бичих, нэхэмжлэхийг шалгах, ажилд орох зар нийтлэх зэрэг ажлыг хийнэ.\n\nAюулгүй байдлын үүднээс Claude Duet нь мөнгө шилжүүлэх, үнэт цаас арилжаалах, баримт бичиг гарын үсэг зурах, мессеж илгээхээсээ өмнө хэрэглэгчээс заавал зөвшөөрөл авах юм. Одоогоор US Pro болон Max төлөвлөгөө хэрэглэгчдэд research preview хэлбэрээр нээлттэй байна.",
+   "published": "2026-10-22T11:13:35Z",
+   "added": "2026-10-22T21:49:01Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c564d80b22fd64bd",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GettyImages-2202529068_415155.jpg?quality=90&strip=all&crop=0%2C10.476337131711%2C100%2C79.047325736577&w=1200",
+   "title": "Claude did not invent scorpion antivenom",
+   "summary_en": "Citrini takes a stab at drug development.",
+   "title_mn": "Citrini Research болон Anthropic-ийн scorpion antivenom туршилт амжилтгүй болжээ",
+   "summary_mn": "Хөрөнгө оруулалтын Citrini Research компани Anthropic-ийн тусгайлан гаргасан Claude загварыг ашиглан скорпионы хорны эсрэг эм (antivenom) гаргаж авах туршилт хийсэн боловч үндсэн эмчилгээ болох хэмжээний үр дүнд хүрсэнгүй.",
+   "body_mn": "AI технологи эмийн үйлдвэрлэлийг хувьсгал хийж чадах эсэхийг шалгахаар Citrini Research фирм Anthropic-тэй хамтран ажиллажээ. Тэд Claude-ийн тусгай хувилбарыг ашиглан скорпионы хорны токсинуудтай холбогдох чадвартай уураг зохион бүтээх даалгавар өгсөн байна. 64 цагийн турш үргэлжилсэн уг процессор Claude 320,000 орчим хувилбар үүсгэж, шүүсээр 180 дизайн гаргаж авжээ.\n\nҮүний дараа Швейцарийн Adaptyv Bio болон АНУ-ын Twist Biosciences лабораториудад уг уургуудыг туршиж үзэхэд 17 уураг нь зорилтот токсинуудтай холбогдож чадсан байна. Гэсэн хэдий ч эдгээр нь нэгээс олон токсинтой холбогдож чадаагүй бөгөөд бодит эмчилгээний түвшинд хүрэхэд маш хол байгааг мэргэжилтнүүд онцолжээ.\n\nЭнэхүү туршилт нь өнөөгийн LLM загварууд шинжлэх ухааны болон биотехнологийн нарийн төвөгтэй салбарт бодитоор эм бүтээхэд тодорхой хязгаарлалттай болохыг харуулсан бодитой жишээ болсон юм. Гэсэн хэдий ч AI нь эхлэх цэг болон ирээдүйтэй санааг хайж олоход туслах чадвартайг уг туршилт харуулжээ.",
+   "published": "2026-10-22T12:21:07Z",
+   "added": "2026-10-22T21:49:01Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ac241f22da607b93",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Spear's Magazine",
+   "url": "https://spearswms.com/wealth/wealth-management/anthropic-plans-additional-waves-of-claude-for-financial-advisers/",
+   "image": "",
+   "title": "Anthropic plans ‘additional waves’ of Claude for financial advisers",
+   "summary_en": "",
+   "title_mn": "Anthropic санхүүгийн зөвлөхүүдэд зориулсан Claude-ын нэмэлт долгионуудыг төлөвлөж байна",
+   "summary_mn": "Spear's Magazine-ийн мэдээлснээр Anthropic санхүүгийн зөвлөхүүдэд зориулсан Claude-ын «нэмэлт долгион»-уудыг төлөвлөж байна. Дэлгэрэнгүй мэдээлэл тодорхойгүй байна.",
+   "body_mn": "Spear's Magazine Anthropic санхүүгийн зөвлөхүүдэд зориулсан Claude-ын нэмэлт долгион буюу шат дараатай нэвтрүүлэлтийг төлөвлөж байгааг мэдээлжээ. Энэ нь компанийн Claude-ыг тодорхой салбарын мэргэжилтнүүдэд чиглэсэн бүтээгдэхүүн болгон өргөжүүлэх хандлагыг харуулж байна.\n\nЭх сурвалжид хэдэн долгион гарах, аль функц эхэлж нэвтрэх, хэзээ гарах талаар тодорхой мэдээлэл байхгүй. Тиймээс техникийн нарийвчилсан өөрчлөлт, API-ийн шинэчлэлийн талаар одоогоор баталгаатай зүйл хэлэх боломжгүй байна.\n\nХөгжүүлэгчдэд энэ нь салбарын шийдэл бүтээх, Claude-ыг тусгай домайнд нэвтрүүлэх хандлага нэмэгдэж байгааг харуулсан дохио юм. Дараагийн мэдээллийг хүлээх нь зүйтэй.",
+   "published": "2026-10-22T13:12:23Z",
+   "added": "2026-10-22T21:49:01Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "301925b8adfcebab",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w1200-h630-n-nu-rw",
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "summary_en": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+   "title_mn": "Google DeepMind ой модны төрлийг 10 метрийн нарийвчлалтай зураглах ForTy 2020-ийг танилцуулав",
+   "summary_mn": "Google DeepMind болон WRI ой модны төрлийг 10 метрийн нягтаршилтайгаар ялгах ForTy 2020 дэлхийн зураглал болон 2017-2025 оны өөрчлөлтийн цувралыг нийтэллээ.",
+   "body_mn": "Google DeepMind, Google Research, Дэлхийн нөөцийн хүрээлэн (WRI) болон IIASA хамтран Forest Typology (ForTy) 2020 газрын зургийг гаргалаа. Уг дэлхийн зураглал нь дэлхийн гадаргын 10х10 метрийн цэг бүрийг байгалийн болон таримал ой, газар тариалан зэрэг зургаан ангилалд хуваан харуулдаг.\n\nҮүний зэрэгцээ 2017 оноос 2025 он хүртэлх ой модны өөрчлөлтийг хянасан цаг хугацааны өгөгдлийг хамт нийтэлсэн байна. Энэ нь хэрэглэгчдэд зөвхөн ойн хорогдлыг төдийгүй тухайн талбайд байгалийн ойн оронд мод үржүүлэг, таримал мод эсвэл бусад зориулалттай талбай үүссэн эсэхийг жил жилээр нь 10 метрийн нарийвчлалтай харах боломж олгодог.\n\nЭнэхүү шийдэл нь Европын Холбооны ой тайралтын эсрэг зохицуулалт (EUDR) болон олон улсын байгаль орчны дүрэм журмыг мөрдөхөд компаниуд, хөгжүүлэгчдэд чухал дата мэдээлэл болж байна. Хөгжүүлэгчид уг өгөгдлийг Google Earth Engine аппликэйшнээр дамжуулан нарийвчлан шинжлэх боломжтой юм.",
+   "published": "2026-10-22T14:30:24Z",
+   "added": "2026-10-22T21:49:01Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "78bc7a5dd81399e4",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "xAI",
+   "url": "https://x.ai/news/partnernetworkannouncement",
+   "image": "https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png",
+   "title": "Introducing the SpaceX Super Intelligence Partner Network",
+   "summary_en": "Our official program for companies building products, solutions, and services with Grok for our joint prospects and customers.",
+   "title_mn": "xAI байгууллагуудад зориулсан SpaceX Super Intelligence Partner Network-ийг зарлалаа",
+   "summary_mn": "xAI компани Grok загвар дээр тулгуурлан бүтээгдэхүүн, үйлчилгээ хөгжүүлж буй компаниудад зориулан SpaceX Super Intelligence Partner Network хөтөлбөрийг эхлүүлэв.",
+   "body_mn": "xAI компани Grok загваруудыг ашиглан бүтээгдэхүүн, шийдэл, үйлчилгээ хөгжүүлж буй компаниудад дэмжлэг үзүүлэх SpaceX Super Intelligence Partner Network албан ёсны хөтөлбөрөө зарлалаа. Энэхүү сүлжээ нь Transformation болон Marketplace гэсэн хоёр төрлийн түншүүдийг нэгтгэж байна.\n\nХөтөлбөрийн урьдчилсан шатанд 130 гаруй байгууллага оролцсон бөгөөд Forward Deployed Engineer магадлан итгэмжлэлийн хөтөлбөрөөр дамжуулан 30 гаруй байгууллагын инженерүүдийг бэлтгэжээ. Сүлжээний түншүүдэд Bain, Snowflake, Booz Allen, Langfuse, MongoDB, Zscaler зэрэг стартапуудаас эхлээд томоохон технологийн компаниуд багтаж байна.\n\nТүншүүд Grok дээр суурилсан шийдлүүдийг зах зээлд нэвтрүүлэхэд шаардлагатай багаж хэрэгсэл, сургалт, техникийн шууд дэмжлэг авах юм. Энэ нь байгууллагын түвшний хиймэл оюуны экосистемийг Grok загваруудын эргэн тойронд өргөжүүлэх xAI-ийн томоохон алхам болж байна.",
+   "published": "2026-10-22T14:42:30Z",
+   "added": "2026-10-22T21:49:01Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
  }
 ]

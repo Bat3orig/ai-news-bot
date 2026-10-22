@@ -1,0 +1,17 @@
+{
+ "id": "ac241f22da607b93",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Spear's Magazine",
+ "url": "https://spearswms.com/wealth/wealth-management/anthropic-plans-additional-waves-of-claude-for-financial-advisers/",
+ "image": "",
+ "title": "Anthropic plans ‘additional waves’ of Claude for financial advisers",
+ "summary_en": "",
+ "title_mn": "Anthropic санхүүгийн зөвлөхүүдэд зориулсан Claude-ын нэмэлт долгионуудыг төлөвлөж байна",
+ "summary_mn": "Spear's Magazine-ийн мэдээлснээр Anthropic санхүүгийн зөвлөхүүдэд зориулсан Claude-ын «нэмэлт долгион»-уудыг төлөвлөж байна. Дэлгэрэнгүй мэдээлэл тодорхойгүй байна.",
+ "body_mn": "Spear's Magazine Anthropic санхүүгийн зөвлөхүүдэд зориулсан Claude-ын нэмэлт долгион буюу шат дараатай нэвтрүүлэлтийг төлөвлөж байгааг мэдээлжээ. Энэ нь компанийн Claude-ыг тодорхой салбарын мэргэжилтнүүдэд чиглэсэн бүтээгдэхүүн болгон өргөжүүлэх хандлагыг харуулж байна.\n\nЭх сурвалжид хэдэн долгион гарах, аль функц эхэлж нэвтрэх, хэзээ гарах талаар тодорхой мэдээлэл байхгүй. Тиймээс техникийн нарийвчилсан өөрчлөлт, API-ийн шинэчлэлийн талаар одоогоор баталгаатай зүйл хэлэх боломжгүй байна.\n\nХөгжүүлэгчдэд энэ нь салбарын шийдэл бүтээх, Claude-ыг тусгай домайнд нэвтрүүлэх хандлага нэмэгдэж байгааг харуулсан дохио юм. Дараагийн мэдээллийг хүлээх нь зүйтэй.",
+ "published": "2026-10-22T13:12:23Z",
+ "added": "2026-10-22T21:49:01Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

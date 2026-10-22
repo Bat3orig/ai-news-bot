@@ -1,0 +1,17 @@
+{
+ "id": "bbe499adb8d1d958",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "O'Reilly Media",
+ "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/",
+ "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/The-latest-Anthropic-Claude-models-contain-AI-text-watermarks-1600x1244.jpg",
+ "title": "The Latest Anthropic Claude Models Contain AI Text Watermarks: What Does This Mean for You?",
+ "summary_en": "If you’re an instructor for the O’Reilly live training platform, you’ve got to be prepared for the unexpected. As a developer I think we all can understand the",
+ "title_mn": "Anthropic-ийн шинэ Claude загварууд AI текст усан тэмдэглэгээтэй болно",
+ "summary_mn": "Anthropic компани Европын Холбооны AI хууль тогтоомжид нийцүүлэхийн тулд Claude загваруудын гаргаж буй текст бүрт усан тэмдэглэгээ (watermark) суулгаж эхэллээ. Энэ нь Claude оролцсон эсэхийг тодорхойлох боломжийг олгох бөгөөд кодыг ч мөн хамарна.",
+ "body_mn": "Anthropic компани Европын Холбооны AI тухай хуулийн шаардлагыг биелүүлэх зорилгоор ирээдүйн бүх Claude загваруудын текстэн гаралтад усан тэмдэглэгээ (watermark) байрлуулахаа мэдэгдсэн. Уг өөрчлөлт нь Claude Desktop, Claude Code эсвэл API аль ашиглахаас үл хамааран бүх генерацид үйлчлэх юм.\n\nХөгжүүлэгчдийн хувьд энэ нь Claude ашиглан бичсэн код, имэйл, нийтлэл болон бусад контент ямар нэгэн AI watermark илрүүлэгч багажаар шалгахад AI үүсгэвэр болох нь шууд мэдэгдэнэ гэсэн үг юм. Уг технологи нь криптографи биш харин стеганограф буюу өгөгдлийг далд хэлбэрээр шингээх арга дээр суурилдаг.\n\nЭнэхүү зохицуулалт нь зөвхөн Anthropic төдийгүй зах зээл дээр үйл ажиллагаа явуулж буй бусад томоохон AI компаниудад ч мөн хамааралтай бөгөөд Европын зах зээлд үйлчилж буй AI провайдеруудад хуулиар шаардагдаж байгаа болно.",
+ "published": "2026-10-22T10:55:45Z",
+ "added": "2026-10-22T21:49:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

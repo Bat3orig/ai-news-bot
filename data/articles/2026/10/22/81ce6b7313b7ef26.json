@@ -1,0 +1,17 @@
+{
+ "id": "81ce6b7313b7ef26",
+ "subtopic": "electron",
+ "source": "Electron Blog",
+ "source_label": "Electron Blog",
+ "url": "https://electronjs.org/blog/electron-45-0",
+ "image": "https://www.electronjs.org/blog/electron-45-0/og-image.png",
+ "title": "Electron 45",
+ "summary_en": "Electron 45 has been released! It includes upgrades to Chromium 156.0.8078.48, V8 15.6, and Node v24.22.0.",
+ "title_mn": "Electron 45 хувилбар Chromium 156 болон Node v24-тэй гарлаа",
+ "summary_mn": "Electron 45 шинэ хувилбар Chromium 156, V8 15.6, Node v24.22.0 шинэчлэлтүүд болон гүйцэтгэлийн сайжруулалттайгаар гарлаа. Энэ хувилбарт санах ойн хэмнэлт, cold-launch хурдыг сайжруулахаас гадна туршилтын Local AI Handler болон платформ passkey дэмжлэг нэмэгджээ.",
+ "body_mn": "Electron 45 албан ёсоор гарсан бөгөөд npm суулгуураар дамжуулан шинэчлэх боломжтой. Энэхүү хувилбар нь Chromium 156.0.8078.48, V8 15.6, Node v24.22.0 зэрэг үндсэн сангуудын шинэ хувилбаруудыг багтаасан байна. Sandbox горим дахь renderer ачааллыг багасгаж, macOS үйлдлийн систем дээрх cold-launch хугацааг эрс сайжруулжээ.\n\nХөгжүүлэгчдийн хувьд дэлгэц болон цонх хуваалцах үйлдэл session.setPermissionRequestHandler() руу display-capture зөвшөөрлөөр дамжих болсон нь томоохон өөрчлөлт юм. Өмнө нь энэ нь хоосон media төрөл хэлбэрээр ирдэг байсан тул камер, микрофоноос ялгах боломжгүй байжээ. Үүнтэй холбоотойгоор зөвшөөрлийн логикоо шинэчлэх шаардлагатай.\n\nШинэ хувилбарт Chromium Prompt API-г локал загвартай холбох туршилтын localAIHandler модулийг нэмсэн нь анхаарал татаж байна. Мөн macOS систем дээр app.configureWebAuthn() ашиглан платформ passkey дэмжих боломжтой болсон ба ASAR архив доторх файлуудыг түр хуулбарлахгүйгээр шууд унших болсноор том файлын cold read хурд 100 дахин хурдассан байна.",
+ "published": "2026-10-21T00:00:00Z",
+ "added": "2026-10-22T21:49:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

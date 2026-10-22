@@ -1,0 +1,17 @@
+{
+ "id": "301925b8adfcebab",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+ "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w1200-h630-n-nu-rw",
+ "title": "Beyond tree cover: mapping the world’s forest types",
+ "summary_en": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+ "title_mn": "Google DeepMind ой модны төрлийг 10 метрийн нарийвчлалтай зураглах ForTy 2020-ийг танилцуулав",
+ "summary_mn": "Google DeepMind болон WRI ой модны төрлийг 10 метрийн нягтаршилтайгаар ялгах ForTy 2020 дэлхийн зураглал болон 2017-2025 оны өөрчлөлтийн цувралыг нийтэллээ.",
+ "body_mn": "Google DeepMind, Google Research, Дэлхийн нөөцийн хүрээлэн (WRI) болон IIASA хамтран Forest Typology (ForTy) 2020 газрын зургийг гаргалаа. Уг дэлхийн зураглал нь дэлхийн гадаргын 10х10 метрийн цэг бүрийг байгалийн болон таримал ой, газар тариалан зэрэг зургаан ангилалд хуваан харуулдаг.\n\nҮүний зэрэгцээ 2017 оноос 2025 он хүртэлх ой модны өөрчлөлтийг хянасан цаг хугацааны өгөгдлийг хамт нийтэлсэн байна. Энэ нь хэрэглэгчдэд зөвхөн ойн хорогдлыг төдийгүй тухайн талбайд байгалийн ойн оронд мод үржүүлэг, таримал мод эсвэл бусад зориулалттай талбай үүссэн эсэхийг жил жилээр нь 10 метрийн нарийвчлалтай харах боломж олгодог.\n\nЭнэхүү шийдэл нь Европын Холбооны ой тайралтын эсрэг зохицуулалт (EUDR) болон олон улсын байгаль орчны дүрэм журмыг мөрдөхөд компаниуд, хөгжүүлэгчдэд чухал дата мэдээлэл болж байна. Хөгжүүлэгчид уг өгөгдлийг Google Earth Engine аппликэйшнээр дамжуулан нарийвчлан шинжлэх боломжтой юм.",
+ "published": "2026-10-22T14:30:24Z",
+ "added": "2026-10-22T21:49:01Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

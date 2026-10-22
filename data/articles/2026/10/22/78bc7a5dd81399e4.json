@@ -1,0 +1,17 @@
+{
+ "id": "78bc7a5dd81399e4",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "xAI",
+ "url": "https://x.ai/news/partnernetworkannouncement",
+ "image": "https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png",
+ "title": "Introducing the SpaceX Super Intelligence Partner Network",
+ "summary_en": "Our official program for companies building products, solutions, and services with Grok for our joint prospects and customers.",
+ "title_mn": "xAI байгууллагуудад зориулсан SpaceX Super Intelligence Partner Network-ийг зарлалаа",
+ "summary_mn": "xAI компани Grok загвар дээр тулгуурлан бүтээгдэхүүн, үйлчилгээ хөгжүүлж буй компаниудад зориулан SpaceX Super Intelligence Partner Network хөтөлбөрийг эхлүүлэв.",
+ "body_mn": "xAI компани Grok загваруудыг ашиглан бүтээгдэхүүн, шийдэл, үйлчилгээ хөгжүүлж буй компаниудад дэмжлэг үзүүлэх SpaceX Super Intelligence Partner Network албан ёсны хөтөлбөрөө зарлалаа. Энэхүү сүлжээ нь Transformation болон Marketplace гэсэн хоёр төрлийн түншүүдийг нэгтгэж байна.\n\nХөтөлбөрийн урьдчилсан шатанд 130 гаруй байгууллага оролцсон бөгөөд Forward Deployed Engineer магадлан итгэмжлэлийн хөтөлбөрөөр дамжуулан 30 гаруй байгууллагын инженерүүдийг бэлтгэжээ. Сүлжээний түншүүдэд Bain, Snowflake, Booz Allen, Langfuse, MongoDB, Zscaler зэрэг стартапуудаас эхлээд томоохон технологийн компаниуд багтаж байна.\n\nТүншүүд Grok дээр суурилсан шийдлүүдийг зах зээлд нэвтрүүлэхэд шаардлагатай багаж хэрэгсэл, сургалт, техникийн шууд дэмжлэг авах юм. Энэ нь байгууллагын түвшний хиймэл оюуны экосистемийг Grok загваруудын эргэн тойронд өргөжүүлэх xAI-ийн томоохон алхам болж байна.",
+ "published": "2026-10-22T14:42:30Z",
+ "added": "2026-10-22T21:49:01Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

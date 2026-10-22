@@ -1,0 +1,17 @@
+{
+ "id": "d9a0e74556bf7734",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Mashable",
+ "url": "https://mashable.com/tech/anthropic-claude-duet-announced",
+ "image": "https://helios-i.mashable.com/imagery/articles/02pJCqh9ZqzRctUMNZ1zpy8/hero-image.fill.size_1200x675.v1792664374.jpg",
+ "title": "Meet Claude Duet, the latest AI agent intended to lighten your workload",
+ "summary_en": "Part assistant, part proxy, Claude Duet is designed to do a lot of work on your behalf.",
+ "title_mn": "Anthropic компани Claude Duet нэртэй хувийн AI агентаа танилцууллаа",
+ "summary_mn": "Anthropic компани мэргэжилтнүүд болон жижиг бизнесүүдэд зориулсан Claude Duet агентаа танилцууллаа. Энэхүү агентууд нь өөрийн виртуал машин дээр ажиллаж, хэрэглэгчийн өмнөөс Slack, Gmail, Stripe зэрэг апп дээрх ажлыг автоматжуулах чадвартай.",
+ "body_mn": "Meta-ийн Muse болон OpenAI-ийн Dots агентуудтай өрсөлдөх зорилгоор Anthropic компани Claude Duet хэмээх шинэ агентаа зарлалаа. Claude Opus 5.5 загвар дээр суурилсан уг агентууд нь хэрэглэгчийн зурвас, даалгавруудыг хянаж, шаардлагатай үйлдлийг цаана нь гүйцэтгэх чадвартай юм.\n\nClaude Duet нь хэрэглэгчийн компьютер, утас унтарсан байсан ч виртуал машин дээр ажилладаг бөгөөд Gmail, Slack, QuickBooks, Stripe болон LinkedIn зэрэг олон төрлийн үйлчилгээтэй холбогдож ажиллана. Жишээлбэл, ирүүлсэн мессежид хариу бичих, нэхэмжлэхийг шалгах, ажилд орох зар нийтлэх зэрэг ажлыг хийнэ.\n\nAюулгүй байдлын үүднээс Claude Duet нь мөнгө шилжүүлэх, үнэт цаас арилжаалах, баримт бичиг гарын үсэг зурах, мессеж илгээхээсээ өмнө хэрэглэгчээс заавал зөвшөөрөл авах юм. Одоогоор US Pro болон Max төлөвлөгөө хэрэглэгчдэд research preview хэлбэрээр нээлттэй байна.",
+ "published": "2026-10-22T11:13:35Z",
+ "added": "2026-10-22T21:49:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
