@@ -1,0 +1,17 @@
+{
+ "id": "a4bb74987cb2a91a",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
+ "image": "https://opengraph.githubassets.com/bee1aa92e21b63812e9b480ed18e7dbb603f613bea9fb7b974de0575a4b41bd2/anthropics/claude-code/releases/tag/v2.1.309",
+ "title": "claude-code v2.1.309",
+ "summary_en": "What's changed Fixed sandboxed Bash commands on macOS and Linux running the shell's startup files outside the sandbox before each command Fixed macOS sandbox denyWrite glob patterns not applying at a path's real location when the pattern's folder is reached through a symlink Fixed sandboxed commands and auto-accepted edits being able to modify the MCP config file passed with --mcp-config Fixed a disabled MCP server being reconnected by a later permission prompt in print and SDK sessions Fixed the Bash permission check trusting a variable set by a command whose redirect can fail to open Fixed…",
+ "title_mn": "Claude Code v2.1.309 гарлаа: Sandbox болон MCP аюулгүй байдлын олон алдааг засав",
+ "summary_mn": "Claude Code v2.1.309 шинэчлэлтээр macOS болон Linux sandbox-ийн бүрхүүлээс гадуур файл унших, MCP тохиргоог зөвшөөрөлгүй өөрчлөх зэрэг аюулгүй байдлын чухал алдаануудыг заслаа.",
+ "body_mn": "Anthropic компани хөгжүүлэгчдийн терминалд ажилладаг Claude Code хэрэгслийнхээ v2.1.309 хувилбарыг гаргалаа. Энэхүү хувилбарт бүрхүүл (sandbox) болон зөвшөөрлийн хяналттай холбоотой ноцтой асуудлуудыг шийдвэрлэсэн байна.\n\nТухайлбал, macOS болон Linux дээр тусгаарлагдсан Bash командуудыг ажиллуулах үед бүрхүүлийн эхлэлийн файлуудыг сэндбоксоос гадуур дууддаг байсныг зассан байна. Мөн symlink-ээр дамжин өнгөрөхөд denyWrite дүрмүүд ажиллахгүй байсан, автоматаар зөвшөөрөгдсөн засварууд --mcp-config файлд өөрчлөлт оруулах боломжтой байсан зэрэг цоорхойг арилгажээ.\n\nҮүнээс гадна маш том хэмжээтэй үүрлэсэн CLAUDE.md файлуудаас болж сесс тасралтгүй хураангуйлагдах, ctrl+enter товчны үйлдлийн дараалал алдагдах, зэрэгцээ ажиллаж буй агентуудын дэлгэцэнд хүлээгдэж буй зурвасууд харагдахгүй байсан зэрэг хэрэглэгчийн туршлагатай холбоотой олон алдааг засварласан байна.",
+ "published": "2026-10-22T22:18:57Z",
+ "added": "2026-10-23T10:19:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

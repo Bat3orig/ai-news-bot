@@ -1,0 +1,17 @@
+{
+ "id": "ced79e7c80af82e8",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Anthropic",
+ "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+ "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/633e51e2d75a5c14022fa48961b886553d41ce9d-1200x630.jpg",
+ "title": "Open call for guest investigators in the life sciences",
+ "summary_en": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+ "title_mn": "Anthropic амьдрах ухааны болон биологийн судалгааны зочин судлаачдын нээлттэй сонгон шалгаруулалт зарлалаа",
+ "summary_mn": "Anthropic компани академик хүрээлэн, төрийн бус болон эрдэм шинжилгээний байгууллагуудын судлаачдад Claude загваруудыг ашиглан биологи, анагаах ухааны судалгаа хийх боломжийг олгох хөтөлбөр эхлүүллээ.",
+ "body_mn": "Anthropic компани амьдрах ухааны (life sciences) салбарын эрдэмтэн судлаачдад зориулсан тусгай төслүүдийн хамтын ажиллагааны өргөн хүрээний урилгыг зарлалаа. Академик институт, ТББ болон засгийн газрын лабораторийн үндсэн судлаачид хүн судлалын биологи, молекул биологи, эмийн хими болон эм судлалын чиглэлээр Claude загваруудыг ашиглах боломжтой юм.\n\nСонгогдсон судлаачид 8-12 долоо хоногийн турш Anthropic-ийн судлаачидтай шууд хамтран ажиллах бөгөөд загварын хэрэглээний зардлыг Anthropic компани хариуцах ажээ. Оролцогчид өөрсдийн мэдээллийн эрхийг бүрэн хадгалах ба судалгааны үр дүнг нээлттэй эх сурвалж болгон хэвлэн гаргах юм.\n\nЭнэхүү санаачилга нь Life Sciences Verification Program болон AI for Science хөтөлбөрүүдийн үргэлжлэл бөгөөд эрдэм шинжилгээний салбарт хиймэл оюун ухааныг гүнзгийрүүлэн нэвтрүүлэх зорилготой юм.",
+ "published": "2026-10-22T22:03:06Z",
+ "added": "2026-10-23T10:19:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

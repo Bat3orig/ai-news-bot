@@ -1,0 +1,17 @@
+{
+ "id": "767a7f383549ba64",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+ "image": "https://github.blog/wp-content/uploads/2026/10/658446301-3cc026e6-3fe9-4cf3-8d6c-36d90d6c665a.jpeg",
+ "title": "Global default for Copilot features generally available",
+ "summary_en": "In September, we announced a global default policy for generally available GitHub Copilot features and supported client capabilities on Copilot Business and Copilot Enterprise plans. Starting today, we’re gradually rolling…",
+ "title_mn": "GitHub Copilot болон MCP серверүүдийн глобал үндсэн бодлого албан ёсоор хэрэгжиж эхэллээ",
+ "summary_mn": "GitHub Copilot Enterprise болон Business хэрэглэгчдэд зориулсан ерөнхий бодлого болон 'Features & clients' тохиргоог аажмаар нэвтрүүлж байна.",
+ "body_mn": "GitHub компани өнгөрсөн есдүгээр сард зарласан GitHub Copilot-ын ерөнхий бодлогыг Business болон Enterprise багцуудад аажмаар хэрэгжүүлж эхэлснээ зарлалаа. Уг шинэ журам нь нийтэд нээлттэй болсон Copilot функцууд болон дэмжигдсэн клиент чадамжуудад үйлчлэх ажээ.\n\nАдминууд 'Features & clients' болон 'MCP servers in Copilot' тохиргоонуудыг AI Controls цэсээр дамжуулан удирдах боломжтой бөгөөд хэрэв тодорхой сонголт хийгээгүй бол глобал үндсэн бодлого автоматаар үйлчилнэ. Энэхүү өөрчлөлт нь байгууллагын түвшинд хөгжүүлэгчдийн ашиглах AI хэрэгслүүдийн бодлогыг нэгдсэн байдлаар удирдах боломжийг олгож байна.",
+ "published": "2026-10-22T20:44:28Z",
+ "added": "2026-10-23T10:19:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

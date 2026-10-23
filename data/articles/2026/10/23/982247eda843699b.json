@@ -1,0 +1,17 @@
+{
+ "id": "982247eda843699b",
+ "subtopic": "packages",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://jank-lang.org/",
+ "image": "https://jank-lang.org/img/logo-text-dark.png",
+ "title": "Jank – The native Clojure dialect with seamless C++ interop",
+ "summary_en": "Article URL: https://jank-lang.org/ Comments URL: https://news.ycombinator.com/item?id=50202762 Points: 104 # Comments: 11",
+ "title_mn": "Jank: C++ хэлтэй шууд холбогддог шинэ Clojure диалект",
+ "summary_mn": "Jank нь өгөгдлийн хувиршгүй (immutable) шинж чанар болон REPL хөгжүүлэлтийг санал болгодог, ямар ч нэмэлт bridge-гүйгээр C++ кодыг шууд дуудах боломжтой Clojure диалект юм.",
+ "body_mn": "Тоглоом болон өндөр бүтээмж шаардсан системүүдийг хөгжүүлэхэд зориулагдсан Jank хэмээх шинэ Clojure диалект танилцуулагдлаа. Энэхүү төсөл нь функциональ програмчлалын давуу талуудыг C++ хэлний хурдтай шууд уялдуулснаараа онцлог юм.\n\nХөгжүүлэгчид ямар нэгэн тусгай холбогч код (bridge), төрөл бүртгэх шаардлагагүйгээр C++ сангууд болон санах ойн түвшний функцуудыг шууд Clojure синтакс дотроос дуудаж ашиглах боломжтой. Жишээ нь GLFW болон ImGui сангуудыг кодондоо шууд хавсарган график интерфэйсийг бичих боломжийг олгож байна.\n\nҮүнээс гадна Jank нь шууд хөгжүүлэлтийн явцад туршилт хийхэд тохиромжтой REPL горимтой төдийгүй эцсийн бүтээгдэхүүнийг хурдан бөгөөд авсаархан хэмжээтэй машиний код болгон AOT (Ahead-of-Time) хөрвүүлэх боломжийг бүрдүүлжээ.",
+ "published": "2026-10-22T23:56:36Z",
+ "added": "2026-10-23T10:19:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

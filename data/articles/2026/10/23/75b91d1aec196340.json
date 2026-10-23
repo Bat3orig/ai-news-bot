@@ -1,0 +1,17 @@
+{
+ "id": "75b91d1aec196340",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Google Cloud",
+ "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud",
+ "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog_Headers_-_Cloudstyle_3.0_11.max-2500x2500.png",
+ "title": "Expanding Claude availability and deployment choice on Google Cloud",
+ "summary_en": "Today, we’re announcing the general availability of an Anthropic-managed deployment option for Claude Models on Google Cloud. This gives developers more choice in how they run their models, helping them consolidate AI workloads on Google Cloud by pairing direct access to Anthropic’s platform alongside our existing, in-boundary Google-managed deployment option.",
+ "title_mn": "Google Cloud дээр Anthropic-ийн удирдлагатай Claude загваруудыг байршуулах боломжтой боллоо",
+ "summary_mn": "Google Cloud үйлчилгээнд Anthropic-ийн удирдлага дор ажиллах Claude загваруудын шинэ сонголт нэмэгдсэнээр хөгжүүлэгчид Claude Managed Agents зэрэг платформын шинэ боломжуудыг ашиглах боломжтой боллоо.",
+ "body_mn": "Google Cloud компани хөгжүүлэгчдэд зориулсан загварын сонголт болон архитектурын уян хатан байдлыг нэмэгдүүлэх зорилгоор Anthropic-ийн удирдлагатай Claude загваруудыг байршуулах шинэ сонголтыг албан ёсоор нээлээ. Өмнө нь байсан Google-ийн удирдлагатай сонголттой зэрэгцэн ажиллах энэхүү шийдэл нь хэрэглэгчдэд илүү өргөн боломж олгож байна.\n\nAnthropic-managed сонголт нь Claude Managed Agents (beta), төрөл бүрийн ур чадвар болон код ажиллуулах зэрэг шинэ платформын боломжуудад шууд хандах эрх өгөх бөгөөд Anthropic дата боловсруулагчаар ажилладаг. Харин Google-managed сонголт нь хатуу засаглал, датаны байршил (US, EU, APAC) болон CMEK зэрэг аюулгүй байдлын шаардлага хангасан хэвээр байх болно.\n\nХөгжүүлэгчид Claude Fable 5.1, Sonnet 5.5, Haiku 5.5 болон Opus 5.5 зэрэг хамгийн сүүлийн үеийн загваруудыг Google Cloud IAM болон Marketplace төлбөр тооцооны системтэй хослуулан ашиглах боломж бүрдлээ.",
+ "published": "2026-10-22T21:19:39Z",
+ "added": "2026-10-23T10:19:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

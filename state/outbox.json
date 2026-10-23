@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "0098e0bdcb294121",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/routing-middleware-now-supports-python",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4giPCUqtvtLRTx9ZZMIeqC/67a02a8b478aba2fc54a010d296c1b95/image__48_.png",
-   "title": "Routing Middleware now supports Python",
-   "summary_en": "You can now write routing middleware in Python for FastAPI, Flask, Django, and other Python frameworks. It runs before requests reach your app, and can rewrite, redirect, or answer them. To set it up, point the proxy entrypoint in vercel.toml at your proxy: Your middleware is an ASGI or WSGI app that runs separately from your main app, with only the packages in the vercel.proxy dependency group of your pyproject.toml . Add the packages your middleware imports to that group: The vercel-proxy package provides utilities for writing routing middleware on Vercel, including a Proxy app that routes…",
-   "title_mn": "Vercel Routing Middleware одоо Python хэлийг дэмждэг боллоо",
-   "summary_mn": "Vercel платформын Routing Middleware хэрэгсэл Python (FastAPI, Flask, Django гэх мэт) хэлийг дэмждэг болсноор хүсэлтийг шууд удирдах боломжтой боллоо.",
-   "body_mn": "Vercel дээр хөгжүүлэгчид одоо Routing Middleware-ийг Python хэл ашиглан FastAPI, Flask, Django болон бусад фреймворкуудад зориулан бичих боломжтой боллоо. Энэхүү middleware нь хүсэлт таны үндсэн аппликейшнд хүрэхээс өмнө ажиллаж, хүсэлтийг дахин чиглүүлэх, өөрчлөх эсвэл шууд хариу өгөх үүрэгтэй.\n\nҮүнийг тохируулахын тулд `vercel.toml` файл доторх proxy entrypoint-ийг зааж өгөх шаардлагатай бөгөөд `pyproject.toml` файлын `vercel.proxy` хамаарлын хэсэгт шаардлагатай багцуудыг нэмнэ. `vercel-proxy` багц нь замаар хүсэлтийг чиглүүлэхэд хэрэгтэй Proxy аппликейшнийг хангадаг байна.\n\nЯмар нэгэн замтай таараагүй хүсэлтүүд өөрчлөлтгүйгээр үндсэн аппликейшн руу дамжигдах бөгөөд Python хэл дээр backend хөгжүүлдэг хөгжүүлэгчдэд маш хэрэгтэй боломж нээгдэж байна.",
-   "published": "2026-10-21T17:00:00Z",
-   "added": "2026-10-21T20:49:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4576df7817ec3709",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Unite.AI",
-   "url": "https://www.unite.ai/anthropic-adds-continuous-scanning-and-fix-tracking-to-claude-security/",
-   "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-adds-continuous-scanning-and-fix-tracking-to-claude-security.jpg",
-   "title": "Anthropic Adds Continuous Scanning and Fix Tracking to Claude Security",
-   "summary_en": "Anthropic on October 21, 2026 released an updated version of Claude Security in public beta for Claude Enterprise customers, adding continuous scanning that follows code changes, automatic fix tracking, per-project threa...",
-   "title_mn": "Anthropic компани Claude Security системдээ тасралтгүй сканердах боломж нэмл",
-   "summary_mn": "Anthropic Claude Enterprise хэрэглэгчдэд зориулсан Claude Security шинэчилсэн хувилбарыг олон нийтийн beta туршилтад гаргалаа. Энэ нь кодын өөрчлөлтийг даган тасралтгүй сканердах болон автоматаар алдаа хянах боломжийг олгож байна.",
-   "body_mn": "Anthropic компани Claude Security хэрэгслийнхээ шинэчилсэн хувилбарыг Enterprise хэрэглэгчдэд зориулан танилцууллаа. Энэхүү шинэчлэлтээр кодын өөрчлөлтийг алдалгүй хянах тасралтгүй сканердах горим, автомат алдаа хяналт, төсөл тус бүрийн аюул заалтын загвар (threat model) зэрэг боломжууд нэмэгджээ.\n\nХөгжүүлэгчид Claude GitHub апп эсвэл GitLab болон бусад Git үйлчилгээ үзүүлэгчдийн эрхээр дамжуулан репозиторуудаа холбож, салбар болон хүрээгээ сонгох боломжтой. Claude эхлээд суурь гүнзгий сканердалт хийх ба үүний дараа кодын эрсдэл, түвшнээс хамааран байнгын шалгалтуудыг гүйцэтгэдэг байна.\n\nШинэ систем нь олон репозитор бүхий төслүүдийг дэмждэг бөгөөд үйлчилгээ хоорондын уялдаа холбооноос үүсэх нууцлалын сул талуудыг илрүүлэхэд тусалдаг. Мөн багууд төслийнхөө мэдлэгийн сан болон аюул заалтын загварыг өөрсдөө хянаж, засварлах боломжтойгоороо давуу талтай юм.",
-   "published": "2026-10-21T17:59:04Z",
-   "added": "2026-10-21T20:49:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c9a29f90405fc309",
-   "subtopic": "ai-devtools",
-   "source": "ollama/ollama",
-   "source_label": "ollama/ollama",
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8-rc0",
-   "image": "https://opengraph.githubassets.com/ff0ab235f411389e9e1b2d0a28123baae523bf53b42447905f1d59d34f951c6b/ollama/ollama/releases/tag/v0.40.8-rc0",
-   "title": "ollama v0.40.8",
-   "summary_en": "Recursive Flint Flint brings Recursive's coding model to Ollama. It is designed for the work coding agents do across a repository: understanding unfamiliar code, tracing bugs, implementing features, and adding tests. Reasoning, multi-turn tool use, and a 262K-token context window support longer tasks across files and tool interactions. Flint is an Apache 2.0-licensed, 40B-parameter mixture-of-experts model with approximately 2.5B parameters active per token. In its release evaluations , Recursive reports 54.9% on Terminal-Bench 2.1 and 74.2% on SWE-bench Verified. ollama run flint Note…",
-   "title_mn": "Ollama v0.40.8 хувилбар гарч, Recursive Flint кодыг дэмждэг боллоо",
-   "summary_mn": "Ollama v0.40.8 шинэ хувилбар гарч, Recursive компанийн 40 тэрбум параметртэй Flint кодын загварыг албан ёсоор дэмждэг боллоо. Энэ нь 262K токенийн контекст цонхтой бөгөөд программ хангамж хөгжүүлэхэд зориулагдсан.",
-   "body_mn": "Ollama төсөл шинэ v0.40.8 хувилргаа гаргалаа. Энэхүү шинэчлэлтийн гол онцлох зүйл нь Recursive компанийн кодын зориулалттай Flint загварыг Ollama дээр ажиллуулах боломжтой болсон явдал юм.\n\nFlint нь репозитор даяар ажиллах, алдаа мөр мөрөөр нь хөөх, шинэ боломж нэмэх болон тест бичихэд зориулагдсан 40 тэрбум параметртэй mixture-of-experts загвар юм. Уг загвар нь 262K-токенийн том контекст цонхтой бөгөөд олон алхамт хэрэгслүүдийг ашиглан удаан хугацааны даалгавруудыг гүйцэтгэх чадвартай.\n\nОдоогоор Flint загвар нь MacOS систем дээр ажиллах ба бусад GPU дэмжлэгийг удахгүй гарах хувилбаруудад нэмэхээр төлөвлөжээ. Хөгжүүлэгчид терминал дээрээ ollama run flint команчаар шууд туршиж үзэх боломжтой.",
-   "published": "2026-10-21T18:32:27Z",
-   "added": "2026-10-21T20:49:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "bcaa8ab88e246578",
-   "subtopic": "anthropic",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://claude.com/product/claude-duet",
-   "image": "https://claude.com/static/claude-duet/og.jpg",
-   "title": "Claude Duet",
-   "summary_en": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 136 # Comments: 127",
-   "title_mn": "Anthropic компани Claude Duet проактив агентаа танилцууллаа",
-   "summary_mn": "Anthropic компани Opus 5.5 загвараар ажилладаг, хэрэглэгчийн өмнөөс ажиллаж, өглөө бүр товч мэдээлэл өгдөг Claude Duet агентыг зарлалаа.",
-   "body_mn": "Anthropic компани Pro болон Max хэрэглэгчдэд зориулсан Claude Duet хэмээх шинэ проактив агентаа танилцууллаа. Энэхүү агент нь хэрэглэгчийн өмнөөс даалгавар гүйцэтгэж, цаана нь ажиллаад чухал шийдвэр гаргах үед л зөвшөөрөл хүсдэг байна.\n\nClaude Duet нь өглөө бүр хэрэглэгчдэд хийх ажлын товч танилцуулга бэлдэж, дараагийн алхмуудыг төлөвлөдөг. Мөн аппликейшн болон санах ойн мэдээллийг нэг урсгалд нэгтгэснээр уулзалт товлох, дашборд бүтээх зэрэг олон төрлийн ажлыг автоматаар гүйцэтгэх чадвартай.\n\nАюулгүй байдлын үүднээс мөнгө төлөх эсвэл мессеж илгээх зэрэг эмзэг үйлдлүүдийг хийхээсээ өмнө хэрэглэгчээс заавал зөвшөөрөл авдаг бөгөөд үйл ажиллагаа нь үүлэн дэх тусгай орчинд ажилладаг ажээ.",
-   "published": "2026-10-21T19:14:01Z",
-   "added": "2026-10-21T20:49:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "566171f32f5348f9",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/64IlzA0rza7fJkJGDTwC6w/cf81d01d188db99a9e385dc44a8f5484/image.png",
-   "title": "Baseten's Mammoth-1 and Elephant-1 now available on AI Gateway for free",
-   "summary_en": "Mammoth-1 and Elephant-1 from Baseten are now available for free on AI Gateway for one week. Free access is available through October 27. These decision models classify text, route requests, and score content against criteria you define. Mammoth-1 is the larger, 27B model, while Elephant-1 is a smaller, 9B option. Mammoth-1 is #1 on the Jev Decision Index and Elephant-1 is tied for #1 on the Artificial Analysis Decision Index. Both support a 16k-token context window and return choices, probabilities, and scores. Ask several questions about the same input in one request: select a support team…",
-   "title_mn": "Baseten-ийн Mammoth-1 ба Elephant-1 загварууд AI Gateway дээр үнэгүй боломжтой боллоо",
-   "summary_mn": "Baseten-ийн Mammoth-1 (27B) ба Elephant-1 (9B) decision загварууд Vercel AI Gateway дээр 10-р сарын 27 хүртэл үнэгүй ашиглagдах боломжтой боллоо. Загварууд текст ангилах, чиглүүлэх, агууламжийг оноолох зориулалттай.",
-   "body_mn": "Vercel-ийн AI Gateway дээр Baseten-ийн хоёр decision загвар нэмэгдлээ. Mammoth-1 нь 27B параметртэй том загвар, Elephant-1 нь 9B параметртэй жижиг хувилбар юм. Mammoth-1 Jev Decision Index-д №1, Elephant-1 Artificial Analysis Decision Index-д хамт №1 байрт орсон гэж мэдээлсэн.\n\nХоёр загвар 16k токений контекст цонхтой бөгөөд сонголт, магадлал, оноо буцаана. Нэг хүсэлтэд хэд хэдэн асуулт зэрэг илгээх боломжтой: жишээлбэл Choice асуултаар дэмжлэгийн багийг сонгох, Boolean асуултаар буцаалтын хүсэлт байгаа эсэхийг шалгах, Score асуултаар яаралтай байдлыг үнэлэх. Магадлалын босгыг аппликейшн өөрөө тохируулж, автоматаар үйлдэл хийх эсвэл хянахаар илгээх шийдийг гаргана.\n\nЗагварын нэрийг baseten/mammoth-1 эсвэл baseten/elephant-1 гэж ашиглана. AI Gateway нь загварууд болон ашиглалт, зардлыг хянах нэгдсэн API санал болгодог. Decision дуудлагууд логт харагдаж, бусад загварын хүсэлтийн хамт төсөвт тооцогдоно.\n\nГоль ойлголт нь энгийн чатаас илүү классификаци, маршрутчлал зэрэг даалгаварт зориулсан жижиг загварууд хөгжүүлэгчдэд бэлэн сонголт болж буйд оршино. Дэлгэрэнгүй хэрэглээний заавар decision models баримт бичигт байна.\n\nSource: Vercel",
-   "published": "2026-10-21T00:00:00Z",
-   "added": "2026-10-21T23:50:59Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5d82b2240c23d29c",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Unite.AI",
-   "url": "https://www.unite.ai/anthropic-opens-claude-duet-research-preview-to-us-pro-and-max-users/",
-   "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-opens-claude-duet-research-preview-to-us-pro-and-max-users.jpg",
-   "title": "Anthropic Opens Claude Duet Research Preview to US Pro and Max Users",
-   "summary_en": "Anthropic on October 21, 2026 opened a research preview of Claude Duet, an app the company said turns Claude into a proactive agent that surfaces items needing attention, completes requested tasks, keeps working when use...",
-   "title_mn": "Anthropic Claude Duet судалгааны урьдчилсан хувилбарыг АНУ-ын Pro ба Max хэрэглэгчдэд нээлээ",
-   "summary_mn": "Anthropic 10-р сарын 21-нд Claude Duet проактив агент аппыг судалгааны урьдчилсан хувилбараар нээсэн. Хандалт waitlist-ээр, эхлээд АНУ-ын Pro ба Max хэрэглэгчдэд олгогдоно.",
-   "body_mn": "Anthropic Claude Duet аппыг судалгааны урьдчилсан хувилбараар нээлээ. Аппыг Claude-ийг идэвхтэй агент болгох зорилготой бөгөөд хэрэглэгчийн анхаарал шаардсан зүйлсийг илрүүлж, даалгавар гүйцэтгэж, хэрэглэгч алслагдсан үед ч ажилладаг. Хандалт waitlist-ээр явагдаж, эхлээд Pro ба Max-ийн АНУ-ын хэрэглэгчид оролцоно. iOS, Android болон claude.ai дээр ашиглах боломжтой.\n\nСудалгааны явцад аппыг Pro ба Max багцад нэмэлт төлбөргүйгээр оруулсан бөгөөд хэрэглээний лимит нь Claude-ийнхтэй адил байна. Аппын үндэс нь Claude Opus 5.5 загвар юм. Өглөө бүр товч тойм илгээж, өдрийн турш холбосон аппуудыг шалгаж, шаардлагатай үед л мэдэгдэнэ. Холбосон аппуудыг бие даан хянах тул хэрэглэгчийн компьютер, утас асаалттай байх шаардлагагүй.\n\nАюулгүй байдлын талаар, мессеж илгээх, төлбөр хийх, гарын үсэг зурах, устгах үйлдлийн өмнө апп юу хийхээ харуулж, зөвшөөрөл хүлээнэ. Арилжаа болон мөнгө шилжүүлэх зэрэг зарим үйлдэл огт хориотой. Claude Marketplace-ийн 6000-аас дээш коннектор дэмжинэ.\n\nБизнесийн хэрэглээнд Stripe-ийн Link болон Shopify-ийн Shop Pay-аар худалдан авалт хийх боломжтой бөгөөд ирээдүйд 1Password-ийн нэвтрэлтийг ашиглах зорилттой гэжээ.\n\nЭнэ нь хөгжүүлэгчдэд шууд API өөрчлөлт биш ч агентын бүтээгдэхүүний чиглэлийг харуулж байна.\n\nSource: Unite.AI",
-   "published": "2026-10-21T19:23:12Z",
-   "added": "2026-10-21T23:50:59Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4aff8bd70df5b8d6",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
-   "image": "https://github.blog/wp-content/uploads/2026/10/protect_endpoint_social.jpeg",
-   "title": "GitHub package firewall in public preview",
-   "summary_en": "Editor’s note (October 21, 2026): Rewrote the changelog for clarity and added imagery. There’s been a recent flood of malware attacks that exploit systems at package installation time. Agents and…",
-   "title_mn": "GitHub пакетийн түвшний сүлжээний хамгаалалтыг (firewall) танилцууллаа",
-   "summary_mn": "GitHub агентууд болон CI/CD орчныг хортой багцуудаас хамгаалах зориулалттай Package Firewall шийдлээ нийтийн туршилтын хувилбараар гаргалаа. Энэхүү систем нь багц татах үед мета өгөгдлийг шалгаж, халдлагаас сэргийлдэг бөгөөд одоогоор зөвхөн npm сангуудыг дэмжиж байна.",
-   "body_mn": "Програм хангамжийн багц суулгах үед системд халдварладаг хортой кодын дайралт сүүлийн үед эрс нэмэгдэж байна. Ялангуяа хиймэл оюун ухаант кодын агентууд болон CI/CD ажиллуулдаг системүүд хүний шууд оролцоогүйгээр хамаарлуудыг автоматаар татаж суулгадаг тул ийм төрлийн халдлагад хамгийн их өртдөг байна.\n\nҮүнийг шийдвэрлэхийн тулд GitHub компани GitHub Enterprise Cloud хэрэглэгчдэд зориулан Package Firewall шийдлээ public preview хэлбэрээр танилцууллаа. Энэхүү хамгаалалтын давхарга нь дотоод серверүүд болон төв багцын сан хооронд ажиллаж, багцын мета өгөгдөл болон бодит таталтыг бодит хугацаанд шалгаж хортой үйлдэл байгаа эсэхийг хянадаг. Системийн админууд өөрсдийн бодлого, дүрэмд тохируулан тохируулга хийх боломжтой юм.\n\nОдоогоор уг систем зөвхөн npm багцуудыг дэмжиж байгаа бөгөөд туршилтын хугацаанд үнэ төлбөргүй ашиглагдана. Бүрэн хувилбар (GA) гарах үед GitHub Actions-ийн төлбөрийн зарчмын адил ашиглалтаас хамаарсан төлбөртэй болох ажээ.",
-   "published": "2026-10-20T16:11:53Z",
-   "added": "2026-10-22T02:42:42Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3f1a11956436b167",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/broad-access-through-consistent-standards",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/7hrvP09oiCE5WV3cXxae4u/7154e71ae6c6e9d4c8306c4d1843e5bf/broad-access-through-consistent-standards-social.png?w=1600&h=900&fit=fill",
-   "title": "Broad access through consistent standards",
-   "summary_en": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-   "title_mn": "OpenAI аюулгүй байдлын бологоо болон хэрэглээний дүрэм шинэчиллээ",
-   "summary_mn": "OpenAI компани үйлчилгээ үзүүлэгч түншүүд болон хөгжүүлэгчдэд зориулсан аюулгүй байдлын стандартаа нэгтгэн, хэрэглээний дүрэмдээ шинэчлэлт хийлээ.",
-   "body_mn": "OpenAI компани хөгжүүлэгчид болон түншүүдэд зориулсан аюулгүй байдлын бодлогоо шинэчилж, загваруудыг гуравдагч талын үйлчилгээ болон реселлерүүдээр дамжуулан ашиглах стандартыг тодорхой болголоо. Шинэчилсэн дүрэм нь 2026 оны 11 дүгээр сарын 20-ноос эхлэн хэрэгжих юм.\n\nЭнэхүү шинэчлэлтээр загварын чиглүүлэгч болон хиймэл оюун ухааны гарц (AI gateway) үйлчилгээ үзүүлдэг түншүүд OpenAI-ийн аюулгүй байдлын стандартыг чанд мөрдөх шаардлагатай болж байна. Мөн хэрэглэгчдийн нууцлалыг хангах үүднээс SafetyIDs системийг нэвтрүүлж байна.\n\nХөгжүүлэгчдийн хувьд энэ нь API болон загваруудыг ашиглахад тавигдах аюулгүй байдлын шаардлага илүү тогтвортой, нэгдсэн стандартад шилжиж байгааг илтгэж байна.",
-   "published": "2026-10-21T21:00:00Z",
-   "added": "2026-10-22T08:10:26Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "297cde9d5ed73a03",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.307",
-   "image": "https://opengraph.githubassets.com/5883b35b28246294c2eeef6473aaa5d8511eae7fd80ff51d91cec12e4362dac8/anthropics/claude-code/releases/tag/v2.1.307",
-   "title": "claude-code v2.1.307",
-   "summary_en": "What's changed Added /claude-api api-version to move Claude API code to API version 2026-10-21 Added the claude_code.safety_event OpenTelemetry event for each tool call a permission rule, auto mode, a safety check, a hook or the sandbox stopped, prompted or sent back Fixed requests failing with a model-not-found error when CLAUDE_CODE_DISABLE_1M_CONTEXT is set and the model is an alias with the [1m] suffix, such as opus[1m] Fixed the prompt-caching-scope beta header being sent behind custom ANTHROPIC_BASE_URL gateways and on Foundry, where it has no effect Fixed MCP servers showing \"needs…",
-   "title_mn": "claude-code v2.1.307 хувилбар гарлаа",
-   "summary_mn": "Claude Code v2.1.307 хувилбарт API 2026-10-21 дэмжлэг, OpenTelemetry аюулгүй байдлын эвент, MCP хэрэгслүүдийн алдааны засварууд болон хэрэгсэл дуудалтыг дахин оролдох сайжруулалтууд орлоо.",
-   "body_mn": "Anthropic компанийн терминал хэрэгсэл claude-code v2.1.307 хувилбараа гаргалаа. Шинэ хувилбарт кодыг шинэ 2026-10-21 хувилбар луу шилжүүлэх /claude-api api-version команд нэмэгдсэн байна. Мөн аюулгүй байдлын шалгалт, автомат горим, сэндбокс эсвэл hook-оор хязгаарлагдсан үйлдэл бүрийг бүртгэх claude_code.safety_event OpenTelemetry эвент нэмэгджээ.\n\nЭнэ хувилбараар Model Context Protocol (MCP) холбогчтой холбоотой олон чухал алдааг засварласан байна. Тухайлбал, macOS дээр keychain түгжигдсэн үед claude -p горимд MCP серверийн төлөвийг зөв мэдээлэх, систем унтах горимд шилжихэд headless ажиллагаа гацахгүй байх сайжруулалтууд оржээ. Мөн холболт салсан үед HTTP MCP хэрэгслүүдийн хувьд зөвхөн унших болон идемпотент үйлдлүүдийг давтан дуудах логикийг тохируулсан байна.\n\nҮүнээс гадна задлан ялгах боломжгүй (unparseable) хэрэгслийн дуудалтуудыг алдаа заахаас өмнө 2 удаа автоматаар давтан оролдох механизм нэмэгдэж, Agent SDK-ийн setModel() дуудлагын хүлээх хугацааг 15 секунд болгон уртасгажээ.",
-   "published": "2026-10-21T22:17:02Z",
-   "added": "2026-10-22T08:10:26Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6aa6e15b7a736aee",
-   "subtopic": "ai-devtools",
-   "source": "ollama/ollama",
-   "source_label": "ollama/ollama",
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9-rc1",
-   "image": "https://opengraph.githubassets.com/0fd433da3ac9707f354087642637e533b0474bae24af9f034abcdb9db94f82f2/ollama/ollama/releases/tag/v0.40.9-rc1",
-   "title": "ollama v0.40.9",
-   "summary_en": "What's Changed llama.cpp update Full Changelog : v0.40.8...v0.40.9-rc0",
-   "title_mn": "Ollama v0.40.9 хувилбар гарлаа",
-   "summary_mn": "Нээлттэй эхийн хэлний загваруудыг локал орчинд ажиллуулах Ollama хэрэгслийн v0.40.9 хувилбар гарч, llama.cpp санг шинэчиллээ.",
-   "body_mn": "Хиймэл оюуны загваруудыг өөрийн төхөөрөмж дээр ажиллуулах зориулалттай нээлттэй эхийн Ollama хэрэгслийн v0.40.9 хувилбар хэрэглээнд гарлаа.\n\nЭнэхүү шинэчлэлтээр загваруудыг ажиллуулах үндсэн суурь болох llama.cpp санг хамгийн сүүлийн хувилбар хүртэл шинэчилж, холбогдох алдаа засваруудыг багтаасан байна.\n\nЛокал орчинд LLM загварууд ашиглан систем хөгжүүлж буй хөгжүүлэгчид шинэчлэгдсэн суурь сангаар дамжуулан илүү найдвартай ажиллагааг авах боломжтой юм.",
-   "published": "2026-10-22T01:33:10Z",
-   "added": "2026-10-22T13:58:16Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "638075d1a8176ad7",
    "subtopic": "ai-devtools",
    "source": "openai/openai-python",
@@ -637,6 +437,186 @@
    "added": "2026-10-23T05:07:43Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b90ba82044df1b44",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
+   "title": "Claude Duet app is Anthropic’s bet on agents",
+   "summary_en": "Claude Duet is available through waitlist for Pro and Max plan users.",
+   "title_mn": "Anthropic компани хувийн болон бизнесийн агентуудын зах зээлд өрсөлдөх Claude Duet аппыг танилцууллаа",
+   "summary_mn": "Anthropic компани Claude Opus 5.5 загварт суурилсан, хэрэглэгчийн өдөр тутмын ажлыг автоматжуулах Claude Duet хувийн агентыг зарлалаа. Энэхүү апп нь Stripe Link болон Shopify Shop Pay ашиглан онлайн худалдан авалт хийх чадвартай.",
+   "body_mn": "AI зах зээлд хувийн туслахууд болон агентуудын өрсөлдөөн ширүүсч буй энэ үед Anthropic компани Claude Duet нэртэй шинэ аппаа албан ёсоор танилцууллаа. Энэхүү агент нь мэргэжилтнүүд болон жижиг бизнесүүдэд зориулагдсан бөгөөд өдөр тутмын товч мэдээлэл бэлтгэх, самбар үүсгэх, хэрэглэгчийн өгөгдөлд үндэслэн үйлдлүүдийг санал болгох үүрэгтэй.\n\nClaude Duet нь Claude Opus 5.5 загварт тулгуурласан бөгөөд Claude Marketplace дахь 6,000 гаруй холбогч, залгаасуудтай холбогдох боломжтой юм. Мөн хэрэглэгчийн өмнөөс Stripe Link болон Shopify Shop Pay дижитал хэтэвч ашиглан онлайн худалдан авалт хийх чадвартай хэдий ч мөнгөн гуйвуулга хийх эсвэл үнэт цаас арилжаалах боломжгүй ажээ.\n\nАюулгүй байдлын үүднээс хэрэглэгчийн мэдээлэл алдагдахаас сэргийлсэн ангилагчийг суурилуулсан бөгөөд зээлийн картын дугаар, төрийн байгууллагын үнэмлэхтэй холбоотой хүсэлтийг автоматаар татгалзах юм. Уг апп нь одоогоор iOS, Android дээр болон Claude.ai вэб хувилбараар дамжин Про болон Макс хэрэглэгчдэд судалгааны урьдчилсан байдлаар хүлээлгийн жагсаалтаар нээлттэй байна.",
+   "published": "2026-10-22T13:53:26Z",
+   "added": "2026-10-23T10:19:26Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "767a7f383549ba64",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+   "image": "https://github.blog/wp-content/uploads/2026/10/658446301-3cc026e6-3fe9-4cf3-8d6c-36d90d6c665a.jpeg",
+   "title": "Global default for Copilot features generally available",
+   "summary_en": "In September, we announced a global default policy for generally available GitHub Copilot features and supported client capabilities on Copilot Business and Copilot Enterprise plans. Starting today, we’re gradually rolling…",
+   "title_mn": "GitHub Copilot болон MCP серверүүдийн глобал үндсэн бодлого албан ёсоор хэрэгжиж эхэллээ",
+   "summary_mn": "GitHub Copilot Enterprise болон Business хэрэглэгчдэд зориулсан ерөнхий бодлого болон 'Features & clients' тохиргоог аажмаар нэвтрүүлж байна.",
+   "body_mn": "GitHub компани өнгөрсөн есдүгээр сард зарласан GitHub Copilot-ын ерөнхий бодлогыг Business болон Enterprise багцуудад аажмаар хэрэгжүүлж эхэлснээ зарлалаа. Уг шинэ журам нь нийтэд нээлттэй болсон Copilot функцууд болон дэмжигдсэн клиент чадамжуудад үйлчлэх ажээ.\n\nАдминууд 'Features & clients' болон 'MCP servers in Copilot' тохиргоонуудыг AI Controls цэсээр дамжуулан удирдах боломжтой бөгөөд хэрэв тодорхой сонголт хийгээгүй бол глобал үндсэн бодлого автоматаар үйлчилнэ. Энэхүү өөрчлөлт нь байгууллагын түвшинд хөгжүүлэгчдийн ашиглах AI хэрэгслүүдийн бодлогыг нэгдсэн байдлаар удирдах боломжийг олгож байна.",
+   "published": "2026-10-22T20:44:28Z",
+   "added": "2026-10-23T10:19:26Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "75b91d1aec196340",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Google Cloud",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog_Headers_-_Cloudstyle_3.0_11.max-2500x2500.png",
+   "title": "Expanding Claude availability and deployment choice on Google Cloud",
+   "summary_en": "Today, we’re announcing the general availability of an Anthropic-managed deployment option for Claude Models on Google Cloud. This gives developers more choice in how they run their models, helping them consolidate AI workloads on Google Cloud by pairing direct access to Anthropic’s platform alongside our existing, in-boundary Google-managed deployment option.",
+   "title_mn": "Google Cloud дээр Anthropic-ийн удирдлагатай Claude загваруудыг байршуулах боломжтой боллоо",
+   "summary_mn": "Google Cloud үйлчилгээнд Anthropic-ийн удирдлага дор ажиллах Claude загваруудын шинэ сонголт нэмэгдсэнээр хөгжүүлэгчид Claude Managed Agents зэрэг платформын шинэ боломжуудыг ашиглах боломжтой боллоо.",
+   "body_mn": "Google Cloud компани хөгжүүлэгчдэд зориулсан загварын сонголт болон архитектурын уян хатан байдлыг нэмэгдүүлэх зорилгоор Anthropic-ийн удирдлагатай Claude загваруудыг байршуулах шинэ сонголтыг албан ёсоор нээлээ. Өмнө нь байсан Google-ийн удирдлагатай сонголттой зэрэгцэн ажиллах энэхүү шийдэл нь хэрэглэгчдэд илүү өргөн боломж олгож байна.\n\nAnthropic-managed сонголт нь Claude Managed Agents (beta), төрөл бүрийн ур чадвар болон код ажиллуулах зэрэг шинэ платформын боломжуудад шууд хандах эрх өгөх бөгөөд Anthropic дата боловсруулагчаар ажилладаг. Харин Google-managed сонголт нь хатуу засаглал, датаны байршил (US, EU, APAC) болон CMEK зэрэг аюулгүй байдлын шаардлага хангасан хэвээр байх болно.\n\nХөгжүүлэгчид Claude Fable 5.1, Sonnet 5.5, Haiku 5.5 болон Opus 5.5 зэрэг хамгийн сүүлийн үеийн загваруудыг Google Cloud IAM болон Marketplace төлбөр тооцооны системтэй хослуулан ашиглах боломж бүрдлээ.",
+   "published": "2026-10-22T21:19:39Z",
+   "added": "2026-10-23T10:19:26Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ced79e7c80af82e8",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Anthropic",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/633e51e2d75a5c14022fa48961b886553d41ce9d-1200x630.jpg",
+   "title": "Open call for guest investigators in the life sciences",
+   "summary_en": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+   "title_mn": "Anthropic амьдрах ухааны болон биологийн судалгааны зочин судлаачдын нээлттэй сонгон шалгаруулалт зарлалаа",
+   "summary_mn": "Anthropic компани академик хүрээлэн, төрийн бус болон эрдэм шинжилгээний байгууллагуудын судлаачдад Claude загваруудыг ашиглан биологи, анагаах ухааны судалгаа хийх боломжийг олгох хөтөлбөр эхлүүллээ.",
+   "body_mn": "Anthropic компани амьдрах ухааны (life sciences) салбарын эрдэмтэн судлаачдад зориулсан тусгай төслүүдийн хамтын ажиллагааны өргөн хүрээний урилгыг зарлалаа. Академик институт, ТББ болон засгийн газрын лабораторийн үндсэн судлаачид хүн судлалын биологи, молекул биологи, эмийн хими болон эм судлалын чиглэлээр Claude загваруудыг ашиглах боломжтой юм.\n\nСонгогдсон судлаачид 8-12 долоо хоногийн турш Anthropic-ийн судлаачидтай шууд хамтран ажиллах бөгөөд загварын хэрэглээний зардлыг Anthropic компани хариуцах ажээ. Оролцогчид өөрсдийн мэдээллийн эрхийг бүрэн хадгалах ба судалгааны үр дүнг нээлттэй эх сурвалж болгон хэвлэн гаргах юм.\n\nЭнэхүү санаачилга нь Life Sciences Verification Program болон AI for Science хөтөлбөрүүдийн үргэлжлэл бөгөөд эрдэм шинжилгээний салбарт хиймэл оюун ухааныг гүнзгийрүүлэн нэвтрүүлэх зорилготой юм.",
+   "published": "2026-10-22T22:03:06Z",
+   "added": "2026-10-23T10:19:26Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "93a92e7dc8c37ced",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Kingy AI",
+   "url": "https://kingy.ai/blog/anthropic-formal-verification-claude-proofs/",
+   "image": "https://kingy.ai/wp-content/uploads/2026/10/formal-verification-cover.png",
+   "title": "Anthropic Formal Verification: Claude’s Proofs and Their Limits",
+   "summary_en": "A close reading of Anthropic and Theorem’s formal-verification research: released proofs, security guarantees, termination limits, costs and deployment gaps.",
+   "title_mn": "Anthropic Claude-оор 123 нээлттэй санд албан ёсны математик баталгаажуулалт хийв",
+   "summary_mn": "Anthropic болон Theorem нар Claude загварыг ашиглан 123 нээлттэй эхийн сангийн 239 fuzzing цэгт Rocq хэл дээр албан ёсны баталгаа үүсгэсэн байна. Гэхдээ энэ нь програмууд заавал зогсолтгүй ажиллана гэсэн баталгааг өгөхгүй аж.",
+   "body_mn": "Anthropic компани Theorem-тэй хамтран хийсэн шинэ судалгаагаа танилцууллаа. Энэхүү ажлын хүрээнд Claude загвар нь 123 нээлттэй эхийн сангийн 239 fuzzing цэгт зориулж математик аргаар шалгах боломжтой албан ёсны баталгааг гаргаж авсан байна. Ингэхдээ 180 сая мөр Rocq баталгааны код амжилттай үүсгэжээ.\n\nЭнэхүү баталгаажуулалт нь cJSON, simdjson, OpenSSL, zstd зэрэг өргөн хэрэглэгддэг сангуудын тодорхой эхлэлийн цэгүүдийг хамарсан байна. Шалгалтыг 64 MiB хүртэлх хэмжээтэй өгөгдөл дээр алдаа зааж унахгүй, assertion алдахгүй байх нөхцөлийг тодорхойлж гүйцэтгэсэн боловч програмууд ямар ч үед заавал дуусна гэдгийг (termination) бүрэн батлахгүй гэдгийг судалгаанд тэмдэглэжээ.\n\nХөгжүүлэгчдийн хувьд энэхүү туршилт нь том хэлний загварыг зөвхөн код бичихэд бус, нарийн төвөгтэй системүүдийн аюулгүй байдлыг албан ёсны математик шалгуураар баталгаажуулахад практикт ашиглаж болохыг харуулсан чухал алхам болж байна.",
+   "published": "2026-10-22T22:17:28Z",
+   "added": "2026-10-23T10:19:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a4bb74987cb2a91a",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
+   "image": "https://opengraph.githubassets.com/bee1aa92e21b63812e9b480ed18e7dbb603f613bea9fb7b974de0575a4b41bd2/anthropics/claude-code/releases/tag/v2.1.309",
+   "title": "claude-code v2.1.309",
+   "summary_en": "What's changed Fixed sandboxed Bash commands on macOS and Linux running the shell's startup files outside the sandbox before each command Fixed macOS sandbox denyWrite glob patterns not applying at a path's real location when the pattern's folder is reached through a symlink Fixed sandboxed commands and auto-accepted edits being able to modify the MCP config file passed with --mcp-config Fixed a disabled MCP server being reconnected by a later permission prompt in print and SDK sessions Fixed the Bash permission check trusting a variable set by a command whose redirect can fail to open Fixed…",
+   "title_mn": "Claude Code v2.1.309 гарлаа: Sandbox болон MCP аюулгүй байдлын олон алдааг засав",
+   "summary_mn": "Claude Code v2.1.309 шинэчлэлтээр macOS болон Linux sandbox-ийн бүрхүүлээс гадуур файл унших, MCP тохиргоог зөвшөөрөлгүй өөрчлөх зэрэг аюулгүй байдлын чухал алдаануудыг заслаа.",
+   "body_mn": "Anthropic компани хөгжүүлэгчдийн терминалд ажилладаг Claude Code хэрэгслийнхээ v2.1.309 хувилбарыг гаргалаа. Энэхүү хувилбарт бүрхүүл (sandbox) болон зөвшөөрлийн хяналттай холбоотой ноцтой асуудлуудыг шийдвэрлэсэн байна.\n\nТухайлбал, macOS болон Linux дээр тусгаарлагдсан Bash командуудыг ажиллуулах үед бүрхүүлийн эхлэлийн файлуудыг сэндбоксоос гадуур дууддаг байсныг зассан байна. Мөн symlink-ээр дамжин өнгөрөхөд denyWrite дүрмүүд ажиллахгүй байсан, автоматаар зөвшөөрөгдсөн засварууд --mcp-config файлд өөрчлөлт оруулах боломжтой байсан зэрэг цоорхойг арилгажээ.\n\nҮүнээс гадна маш том хэмжээтэй үүрлэсэн CLAUDE.md файлуудаас болж сесс тасралтгүй хураангуйлагдах, ctrl+enter товчны үйлдлийн дараалал алдагдах, зэрэгцээ ажиллаж буй агентуудын дэлгэцэнд хүлээгдэж буй зурвасууд харагдахгүй байсан зэрэг хэрэглэгчийн туршлагатай холбоотой олон алдааг засварласан байна.",
+   "published": "2026-10-22T22:18:57Z",
+   "added": "2026-10-23T10:19:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dea8ba729eb28582",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+   "image": "https://github.blog/wp-content/uploads/2026/10/681211665-c6d29dfe-e754-4848-b5f0-729765a433e7.jpeg",
+   "title": "Custom skills, agents, and MCP servers in usage metrics API",
+   "summary_en": "Copilot usage metrics now show the names of the skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins that your organization creates, instead of grouping them under…",
+   "title_mn": "GitHub Copilot метрикийн API-д байгууллагын MCP сервэр, агентуудын нэрс нэмэгдлээ",
+   "summary_mn": "Copilot usage metrics API одоо байгууллагын өөрсдийн үүсгэсэн skill, agent, MCP сервэрүүдийг 'other' гэж нэгтгэхгүйгээр тус бүрийнх нь нэрээр статистик гаргаж харуулдаг боллоо.",
+   "body_mn": "GitHub байгууллагын админуудад зориулан Copilot хэрэглээний статистик гаргадаг API-даа шинэ боломж нэмжээ. Одооноос эхлэн байгууллагын дотооддоо хөгжүүлсэн skill, тусгай агентууд (custom agents), Model Context Protocol (MCP) сервэрүүд, slash командууд болон залгаасуудын нэрс тусдаа тодорхой харагдах болсон байна.\n\nӨмнө нь эдгээр тусгай тохиргоонуудыг нийтэд нь 'other' эсвэл 'custom' гэсэн ерөнхий бүлэгт нэгтгэн харуулдаг байсан нь хөгжүүлэгчдийн бодит хэрэглээг хянахад хүндрэл учруулдаг байв.\n\nШинэчлэлтийн үр дүнд байгууллагууд өөрсдийн багуудад зориулан бүтээсэн хиймэл оюуны хэрэгслүүд болон MCP сервэрүүдийг инженерүүд хэр их ашиглаж буйг бодитоор хэмжих, хэрэглээг дэмжихэд шаардлагатай арга хэмжээг төлөвлөх боломжтой болж байна.",
+   "published": "2026-10-22T22:19:17Z",
+   "added": "2026-10-23T10:19:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0c86033b29fb2277",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/eight-more-tlds-now-eligible-for-a-free-domain-with-pro",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3xGudGxhsURfzv2GCCExnT/681cf9201e4b4bd24f83793aa83dfa3d/image__52_.png",
+   "title": "Eight more TLDs now eligible for a free domain with Pro",
+   "summary_en": "Every Pro team can claim a free domain for one year. That offer now includes .co , .studio , .company , .info , .pro , .live , .digital , and .agency , bringing the eligible TLDs to sixteen. The offer still covers one domain per team, and premium domains are not eligible. After the first year, your domain will renew automatically at the regular price shown at checkout when you claim it. Claim yours at vercel.com/domains , and see the free domain FAQ for the full list of eligible TLDs and terms. Read more",
+   "title_mn": "Vercel Pro багуудад үнэгүй өгөх домэйны жагсаалтад 8 шинэ TLD нэмэгдэв",
+   "summary_mn": "Vercel Pro багууд жилийн үнэгүй домэйн авах боломжтой TLD-ийн тоо 16 болж өргөжлөө. Шинээр .co, .studio, .digital зэрэг төгсгөлүүд нэмэгдсэн байна.",
+   "body_mn": "Vercel платформ Pro багцын хэрэглэгчдэдээ нэг жилийн хугацаатай үнэгүй олгодог домэйны сонголтоо өргөтгөж, найман шинэ TLD (дээд түвшний домэйн) нэмснээ зарлалаа.\n\nШинээр нэмэгдсэн TLD-үүдэд .co, .studio, .company, .info, .pro, .live, .digital, .agency багтаж байгаа бөгөөд нийт сонгох боломжтой домэйны төрөл 16 хүрсэн байна. Уг урамшуулал нь нэг багт зөвхөн нэг домэйнд хамаарах бөгөөд premium зэрэглэлийн домэйнуудад хамаарахгүй юм.\n\nЭхний нэг жилийн дараа уг домэйнууд худалдан авах үеийн ердийн үнэ тарифын дагуу автоматаар сунгагдах нөхцөлтэй тул хөгжүүлэгчид vercel.com/domains хуудсаар орж шалгах боломжтой.",
+   "published": "2026-10-22T22:28:00Z",
+   "added": "2026-10-23T10:19:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "982247eda843699b",
+   "subtopic": "packages",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://jank-lang.org/",
+   "image": "https://jank-lang.org/img/logo-text-dark.png",
+   "title": "Jank – The native Clojure dialect with seamless C++ interop",
+   "summary_en": "Article URL: https://jank-lang.org/ Comments URL: https://news.ycombinator.com/item?id=50202762 Points: 104 # Comments: 11",
+   "title_mn": "Jank: C++ хэлтэй шууд холбогддог шинэ Clojure диалект",
+   "summary_mn": "Jank нь өгөгдлийн хувиршгүй (immutable) шинж чанар болон REPL хөгжүүлэлтийг санал болгодог, ямар ч нэмэлт bridge-гүйгээр C++ кодыг шууд дуудах боломжтой Clojure диалект юм.",
+   "body_mn": "Тоглоом болон өндөр бүтээмж шаардсан системүүдийг хөгжүүлэхэд зориулагдсан Jank хэмээх шинэ Clojure диалект танилцуулагдлаа. Энэхүү төсөл нь функциональ програмчлалын давуу талуудыг C++ хэлний хурдтай шууд уялдуулснаараа онцлог юм.\n\nХөгжүүлэгчид ямар нэгэн тусгай холбогч код (bridge), төрөл бүртгэх шаардлагагүйгээр C++ сангууд болон санах ойн түвшний функцуудыг шууд Clojure синтакс дотроос дуудаж ашиглах боломжтой. Жишээ нь GLFW болон ImGui сангуудыг кодондоо шууд хавсарган график интерфэйсийг бичих боломжийг олгож байна.\n\nҮүнээс гадна Jank нь шууд хөгжүүлэлтийн явцад туршилт хийхэд тохиромжтой REPL горимтой төдийгүй эцсийн бүтээгдэхүүнийг хурдан бөгөөд авсаархан хэмжээтэй машиний код болгон AOT (Ahead-of-Time) хөрвүүлэх боломжийг бүрдүүлжээ.",
+   "published": "2026-10-22T23:56:36Z",
+   "added": "2026-10-23T10:19:26Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
   }
  }
 ]

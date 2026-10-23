@@ -1,0 +1,17 @@
+{
+ "id": "dea8ba729eb28582",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+ "image": "https://github.blog/wp-content/uploads/2026/10/681211665-c6d29dfe-e754-4848-b5f0-729765a433e7.jpeg",
+ "title": "Custom skills, agents, and MCP servers in usage metrics API",
+ "summary_en": "Copilot usage metrics now show the names of the skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins that your organization creates, instead of grouping them under…",
+ "title_mn": "GitHub Copilot метрикийн API-д байгууллагын MCP сервэр, агентуудын нэрс нэмэгдлээ",
+ "summary_mn": "Copilot usage metrics API одоо байгууллагын өөрсдийн үүсгэсэн skill, agent, MCP сервэрүүдийг 'other' гэж нэгтгэхгүйгээр тус бүрийнх нь нэрээр статистик гаргаж харуулдаг боллоо.",
+ "body_mn": "GitHub байгууллагын админуудад зориулан Copilot хэрэглээний статистик гаргадаг API-даа шинэ боломж нэмжээ. Одооноос эхлэн байгууллагын дотооддоо хөгжүүлсэн skill, тусгай агентууд (custom agents), Model Context Protocol (MCP) сервэрүүд, slash командууд болон залгаасуудын нэрс тусдаа тодорхой харагдах болсон байна.\n\nӨмнө нь эдгээр тусгай тохиргоонуудыг нийтэд нь 'other' эсвэл 'custom' гэсэн ерөнхий бүлэгт нэгтгэн харуулдаг байсан нь хөгжүүлэгчдийн бодит хэрэглээг хянахад хүндрэл учруулдаг байв.\n\nШинэчлэлтийн үр дүнд байгууллагууд өөрсдийн багуудад зориулан бүтээсэн хиймэл оюуны хэрэгслүүд болон MCP сервэрүүдийг инженерүүд хэр их ашиглаж буйг бодитоор хэмжих, хэрэглээг дэмжихэд шаардлагатай арга хэмжээг төлөвлөх боломжтой болж байна.",
+ "published": "2026-10-22T22:19:17Z",
+ "added": "2026-10-23T10:19:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

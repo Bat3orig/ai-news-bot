@@ -1,0 +1,17 @@
+{
+ "id": "0c86033b29fb2277",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/eight-more-tlds-now-eligible-for-a-free-domain-with-pro",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3xGudGxhsURfzv2GCCExnT/681cf9201e4b4bd24f83793aa83dfa3d/image__52_.png",
+ "title": "Eight more TLDs now eligible for a free domain with Pro",
+ "summary_en": "Every Pro team can claim a free domain for one year. That offer now includes .co , .studio , .company , .info , .pro , .live , .digital , and .agency , bringing the eligible TLDs to sixteen. The offer still covers one domain per team, and premium domains are not eligible. After the first year, your domain will renew automatically at the regular price shown at checkout when you claim it. Claim yours at vercel.com/domains , and see the free domain FAQ for the full list of eligible TLDs and terms. Read more",
+ "title_mn": "Vercel Pro багуудад үнэгүй өгөх домэйны жагсаалтад 8 шинэ TLD нэмэгдэв",
+ "summary_mn": "Vercel Pro багууд жилийн үнэгүй домэйн авах боломжтой TLD-ийн тоо 16 болж өргөжлөө. Шинээр .co, .studio, .digital зэрэг төгсгөлүүд нэмэгдсэн байна.",
+ "body_mn": "Vercel платформ Pro багцын хэрэглэгчдэдээ нэг жилийн хугацаатай үнэгүй олгодог домэйны сонголтоо өргөтгөж, найман шинэ TLD (дээд түвшний домэйн) нэмснээ зарлалаа.\n\nШинээр нэмэгдсэн TLD-үүдэд .co, .studio, .company, .info, .pro, .live, .digital, .agency багтаж байгаа бөгөөд нийт сонгох боломжтой домэйны төрөл 16 хүрсэн байна. Уг урамшуулал нь нэг багт зөвхөн нэг домэйнд хамаарах бөгөөд premium зэрэглэлийн домэйнуудад хамаарахгүй юм.\n\nЭхний нэг жилийн дараа уг домэйнууд худалдан авах үеийн ердийн үнэ тарифын дагуу автоматаар сунгагдах нөхцөлтэй тул хөгжүүлэгчид vercel.com/domains хуудсаар орж шалгах боломжтой.",
+ "published": "2026-10-22T22:28:00Z",
+ "added": "2026-10-23T10:19:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

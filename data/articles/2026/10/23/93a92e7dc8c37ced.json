@@ -1,0 +1,17 @@
+{
+ "id": "93a92e7dc8c37ced",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Kingy AI",
+ "url": "https://kingy.ai/blog/anthropic-formal-verification-claude-proofs/",
+ "image": "https://kingy.ai/wp-content/uploads/2026/10/formal-verification-cover.png",
+ "title": "Anthropic Formal Verification: Claude’s Proofs and Their Limits",
+ "summary_en": "A close reading of Anthropic and Theorem’s formal-verification research: released proofs, security guarantees, termination limits, costs and deployment gaps.",
+ "title_mn": "Anthropic Claude-оор 123 нээлттэй санд албан ёсны математик баталгаажуулалт хийв",
+ "summary_mn": "Anthropic болон Theorem нар Claude загварыг ашиглан 123 нээлттэй эхийн сангийн 239 fuzzing цэгт Rocq хэл дээр албан ёсны баталгаа үүсгэсэн байна. Гэхдээ энэ нь програмууд заавал зогсолтгүй ажиллана гэсэн баталгааг өгөхгүй аж.",
+ "body_mn": "Anthropic компани Theorem-тэй хамтран хийсэн шинэ судалгаагаа танилцууллаа. Энэхүү ажлын хүрээнд Claude загвар нь 123 нээлттэй эхийн сангийн 239 fuzzing цэгт зориулж математик аргаар шалгах боломжтой албан ёсны баталгааг гаргаж авсан байна. Ингэхдээ 180 сая мөр Rocq баталгааны код амжилттай үүсгэжээ.\n\nЭнэхүү баталгаажуулалт нь cJSON, simdjson, OpenSSL, zstd зэрэг өргөн хэрэглэгддэг сангуудын тодорхой эхлэлийн цэгүүдийг хамарсан байна. Шалгалтыг 64 MiB хүртэлх хэмжээтэй өгөгдөл дээр алдаа зааж унахгүй, assertion алдахгүй байх нөхцөлийг тодорхойлж гүйцэтгэсэн боловч програмууд ямар ч үед заавал дуусна гэдгийг (termination) бүрэн батлахгүй гэдгийг судалгаанд тэмдэглэжээ.\n\nХөгжүүлэгчдийн хувьд энэхүү туршилт нь том хэлний загварыг зөвхөн код бичихэд бус, нарийн төвөгтэй системүүдийн аюулгүй байдлыг албан ёсны математик шалгуураар баталгаажуулахад практикт ашиглаж болохыг харуулсан чухал алхам болж байна.",
+ "published": "2026-10-22T22:17:28Z",
+ "added": "2026-10-23T10:19:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
