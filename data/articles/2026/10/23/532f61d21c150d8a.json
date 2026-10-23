@@ -1,0 +1,17 @@
+{
+ "id": "532f61d21c150d8a",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/kimi-k3-1-pro-and-kimi-k3-1-pro-highspeed-are-available-now-in-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/225AWAIWv2RMha71Mbfsw/edfbfcc4a6f9ff01d4be571d03d672f4/Vercel_x_Moonshot.png",
+ "title": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway",
+ "summary_en": "Kimi K3.1 Pro from Moonshot AI is now available on AI Gateway , along with Kimi K3.1 Pro Highspeed , a faster version for interactive use. K3.1 Pro is the first model in Moonshot's K3.1 series. It builds on Kimi K3 with improvements in coding, 3D modeling, financial analysis, and agentic tasks, and keeps the 1M-token context window and image input. For coding, K3.1 Pro handles work ranging from small fixes in an existing codebase to building a full project, including long agent runs with many steps. It builds front-end pages and interactive scenes with stronger typography and animation than…",
+ "title_mn": "Kimi K3.1 Pro загварууд Vercel AI Gateway платформд нэмэгдлээ",
+ "summary_mn": "Moonshot AI компанийн Kimi K3.1 Pro болон K3.1 Pro Highspeed загварууд Vercel AI Gateway дээр ашиглахад бэлэн боллоо. 1 сая контекст бүхий эдгээр загварыг AI SDK болон Cursor, Claude Code зэрэг агентуудад шууд холбон ашиглах боломжтой.",
+ "body_mn": "Moonshot AI компанийн шинэ үеийн Kimi K3.1 цувралын эхний загварууд болох Kimi K3.1 Pro болон хурдтай ажиллагаанд зориулсан Kimi K3.1 Pro Highspeed загварууд Vercel AI Gateway платформ дээр албан ёсоор гарлаа. Энэхүү хувилбар нь өмнөх Kimi K3-тай харьцуулахад код бичих чадвар, 3D загварчлал, санхүүгийн шинжилгээ болон бие даасан агентын даалгавруудыг гүйцэтгэхдээ илүү сайжирсан бөгөөд 1 сая токены контекст цонх болон зураг боловсруулах боломжоо хэвээр хадгалсан байна.\n\nКод бичих тал дээр K3.1 Pro нь одоо байгаа төслийн алдаа засахаас эхлээд бүрэн хэмжээний төслийг олон алхамт агентаар дамжуулан бичих чадвартай болжээ. Тухайлбал, фронтенд хуудас болон интерактив орчныг өмнөх загваруудаас илүү сайн типографи, хөдөлгөөнт анимэйшнтэйгээр угсардаг болсон байна. Түүнчлэн санхүүгийн баримтуудад тулгуурласан судалгаа бичих, параметрүүдийг өөрчилж болох санхүүгийн загварчлал гаргах зэрэг нарийн даалгаврыг эхнээс нь дуустал гүйцэтгэх чадвар нь сайжирчээ.\n\nХөгжүүлэгчид эдгээр загваруудыг AI SDK, Chat Completions, Anthropic Messages зэрэг стандартуудаар дамжуулан шууд дуудах боломжтой. Мөн Claude Code, Codex, Cursor зэрэг код бичих агентуудад хамгийн сүүлийн үеийн Vercel CLI ашиглан нэгтгэх заавар нийтлэгдсэн байна. AI Gateway нь загвар нийлүүлэгчдийн үндсэн үнэ дээр нэмэлт шимтгэл авдаггүй тул хөгжүүлэгчид хурдан, найдвартай дэд бүтцээр дамжуулан хямд зардлаар ашиглах боломжтой.",
+ "published": "2026-10-23T00:00:00Z",
+ "added": "2026-10-23T19:24:15Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

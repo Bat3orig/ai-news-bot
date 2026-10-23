@@ -1,0 +1,17 @@
+{
+ "id": "54916109fefa0330",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/send-feedback-from-vercel-cli",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/23yMoXDKGwhfc8YOBBbzhS/a38e0630703b6d3ccd2d3afcdc4c4435/image__55_.png",
+ "title": "Send feedback from the Vercel CLI",
+ "summary_en": "The Vercel CLI now includes vercel feedback , which sends bugs, friction reports, and feature requests to the Vercel team from your terminal. Coding agents can also send feedback when they run into issues. Use vercel feedback with -f or --field to include structured context as key=value pairs. Repeat the flag to describe the task, expected behavior, and what went wrong. Update to the latest Vercel CLI and read the vercel feedback documentation to get started. Read more",
+ "title_mn": "Vercel CLI-д санал хүсэлт, алдаа мэдээлэх feedback команд нэмэгдэв",
+ "summary_mn": "Vercel CLI хэрэгсэлд terminal-аас шууд алдаа болон санал хүсэлт илгээх vercel feedback команд шинээр нэмэгдлээ. Энэхүү командыг хөгжүүлэлтийн AI агентууд ч алдаа гарсан үед бүтцэт өгөгдөлтэйгээр ашиглах боломжтой юм.",
+ "body_mn": "Vercel өөрийн консолын удирдлагын хэрэгсэл болох Vercel CLI-д vercel feedback шинэ командыг нэмснээ зарлалаа. Энэхүү командын тусламжтайгаар хөгжүүлэгчид өөрсдийн терминал дээрээс платформын алдаа, тулгарсан бэрхшээл болон хүсэж буй шинэ боломжуудын талаарх саналаа Vercel-ийн багт шууд илгээх боломжтой болов.\n\nҮүнээс гадна уг командыг код бичигч AI агентууд автоматаар дуудахад тохиромжтойгоор загварчилсан байна. Код угсрах, байршуулах явцад ямар нэгэн системийн алдаа гарахад агент өөрөө -f эсвэл --field тугийг түлхүүр-утга (key=value) хэлбэрээр ашиглан шаардлагатай контекстийг бүтэцтэйгээр бүрдүүлж илгээх боломжтой.\n\nЭнэхүү шинэ боломж нь хөгжүүлэгчид болон агентууд платформын асуудлыг хөтөч рүү шилжих шаардлагагүйгээр тухайн орчноосоо шууд мэдээлэх үйл явцыг хялбарчилж байна. Хөгжүүлэгчид Vercel CLI хэрэгслийнхээ сүүлийн хувилбарыг суулган энэхүү командыг ашиглаж эхлэх боломжтой.",
+ "published": "2026-10-23T02:00:00Z",
+ "added": "2026-10-23T19:24:15Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}
