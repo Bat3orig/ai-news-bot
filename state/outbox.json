@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "fdafcfb7d7e67acd",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending JavaScript",
-   "source_label": "GitHub Trending JavaScript",
-   "url": "https://github.com/WorldFlowAI/everything-claude-code",
-   "image": "https://opengraph.githubassets.com/d14d2ee851791b851a9af82873f92dc3e5f5cfc73e3da9cc9cd46b1c533d0671/WorldFlowAI/everything-claude-code",
-   "title": "WorldFlowAI/everything-claude-code",
-   "summary_en": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development Everything Claude Code The complete collection of Claude Code configs from an Anthropic hackathon winner. Production-ready agents, skills, hooks, commands, rules, and MCP configurations evolved over 10+ months of intensive daily use building real products. The Guides This repo is the raw code only. The guides explain everything. Shorthand Guide Setup, foundations, philosophy. Read this first. Longform Guide Token optimization, memory persistence, evals, parallelization. Topic What You'll…",
-   "title_mn": "WorldFlowAI/everything-claude-code: Claude Code-д зориулсан хэрэгслүүд",
-   "summary_mn": "Энэхүү төсөл нь Anthropic-ийн хакатоноос шалгарсан бүтээгдэхүүн бөгөөд Claude Code-д зориулсан агент, навык, hook болон MCP тохиргоог багтаасан цогц цуглуулга юм. Бүх hook болон скриптүүдийг Node.js дээр дахин бичсэн тул Windows, macOS, Linux дээр бүрэн ажиллана.",
-   "body_mn": "Энэхүү репозитори нь бодит бүтээгдэхүүн хөгжүүлэх явцад олон сарын турш сайжруулагдсан Claude Code тохиргоонуудыг нэг дор цуглуулсан болно. Хөгжүүлэгчид үүнийг шууд Claude Code plugin хэлбэрээр эсвэл ~/.claude/settings.json файлаар дамжуулан суулгаж ашиглах боломжтой.\n\nГол онцлогууд нь пакет менежерийг (npm, pnpm, yarn, bun) автоматаар илрүүлэх, даалгавраа хуваарилах дэд агентууд, тодорхой үйл явдлын үед ажилладаг hook-ууд болон MCP серверүүдийг багтаадаг. Гэхдээ хэт олон MCP идэвхжүүлэх нь контекстийг багасгаж болзошгүй тул шаардлагатайг нь сонгож ашиглахыг зөвлөдөг.\n\nЭнэхүү хэрэгсэл нь хиймэл оюун ухааны тусламжтайгаар програм хангамж хөгжүүлж буй хөгжүүлэгчдийн бүтээмжийг нэмэгдүүлэхэд чиглэсэн бөгөөд MIT лицензтэйгээр чөлөөтэй ашиглах боломжтой.",
-   "published": "2026-10-21T12:08:14Z",
-   "added": "2026-10-21T12:08:14Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2d6ba8fc0269fd52",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/anthropics/knowledge-work-plugins",
-   "image": "https://opengraph.githubassets.com/a39cb9b0ded0c1adb98f8336eef853f77f5cd020e264eb3c0ffb4dfcc280aa1f/anthropics/knowledge-work-plugins",
-   "title": "anthropics/knowledge-work-plugins",
-   "summary_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code . Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the…",
-   "title_mn": "anthropics/knowledge-work-plugins: Claude-ийг мэргэжилтэн болгох залгамж",
-   "summary_mn": "Энэхүү нээлттэй эх сурвалжтай репозитори нь Claude-ийг тухайн үүрэг, баг болон компанид зориулсан мэргэжилтэн болгох залгаасуудыг агуулдаг. Claude Cowork болон Claude Code-той бүрэн нийцдэг.",
-   "body_mn": "Anthropic компаниас гаргасан энэхүү төсөл нь хэрэглэгчдэд Claude-ийг өөрсдийн ажлын урсгал, хэрэгсэл, терминологид тохируулан өөрчлөх боломжийг олгодог. Залгаасууд нь тухайн ажлын байранд шаардлагатай навык, холбогч, slash командууд болон дэд агентуудыг нэг дор багцалсан байдаг.\n\nБүх бүрэлдэхүүн хэсгүүд нь энгийн markdown болон JSON файлаас бүрдэх тул ямар нэгэн код бичих, дэд бүтэц босгох шаардлагагүйгээр шууд ажиллана. Компаниуд эдгээр суурь залгаасыг өөрсдийн хэрэгцээнд тааруулан өөрчилж, багийнхаа бүтээмжийг нэмэгдүүлэх боломжтой.\n\nНээлттэй эх сурвалжийн зарчмаар хөгжиж буй энэхүү төсөлд хөгжүүлэгчид өөрсдийн залгаасыг нэмж, GitHub дээр хувь нэмрээ оруулах боломжтой юм.",
-   "published": "2026-10-21T12:08:14Z",
-   "added": "2026-10-21T12:08:14Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e8a7d399fdede511",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/sickn33/agentic-awesome-skills",
-   "image": "https://opengraph.githubassets.com/9109560a315f49d938f0fe63fd116300222054c9abe22cfe8a95a7521387bd3d/sickn33/agentic-awesome-skills",
-   "title": "sickn33/agentic-awesome-skills",
-   "summary_en": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. https://aaskills.tech/ AAS Core — Agentic Awesome Skills Find reusable instructions for your project, inspect their complete files, and keep an exact skill set you can review and reuse. Agentic Awesome Skills is a library of 2,724+ installable SKILL.md playbooks. AAS Core helps Codex or Claude search the complete local catalog, record the skills the agent chooses, and…",
-   "title_mn": "sickn33/agentic-awesome-skills: AI агентүүдад зориулсан дахин ашиглах заавар",
-   "summary_mn": "Энэхүү сан нь Codex эсвэл Claude агентуудад зориулсан 2,737 гаруй суулгаж болох SKILL.md зааварчилгааг агуулдаг. AAS Core нь орон нутгийн каталогийг шалгаж, агентын сонгосон ур чадварыг урьдчилан харах боломжийг олгодог.",
-   "body_mn": "Agentic Awesome Skills нь хиймэл оюун ухааны агентуудад зориулсан дахин ашиглах боломжтой сургалтын болон ажлын урсгалын заавруудын томоохон каталог юм. AAS Core хэрэгсэл нь Codex эсвэл Claude-тай хамтран ажиллаж, төслийн бүтцийг шалган тохирох ур чадваруудыг сонгоход тусалдаг.\n\nХөгжүүлэгчид орон нутгийн MCP-г тохируулан агентад төслөө шалгуулж, шаардлагатай навыкуудыг сонгуулах боломжтой. Compose_stack хэрэгсэл нь сонгосон ID болон бүтцийг санах ойд шалгаж, баталгаажуулалтын тайланг гаргаж өгдөг.\n\nЭнэ нь бие даасан олон нийтийн төсөл бөгөөд хиймэл оюун ухааны агентуудын чадамжийг өргөжүүлэх, код бичих явцыг илүү системтэй болгоход чиглэсэн сонирхолтой шийдэл юм.",
-   "published": "2026-10-21T12:08:14Z",
-   "added": "2026-10-21T12:08:14Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "62b196023aed654c",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2baD4s8r5p3SnOpcA1NM6P/5c0c09a93028b23c5fddce7a888a26f0/image.png",
-   "title": "Skipped monorepo deployments no longer count against limits",
-   "summary_en": "Deployments that Vercel automatically skips in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits. Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using Turborepo 's package graph and lockfile analysis to determine which projects a commit affects. Skipping is enabled by default for new monorepo projects. You can turn it on for existing projects under Build and Deployment in the project's settings . Learn more about skipping unaffected projects and deployment…",
-   "title_mn": "Vercel: Monorepo байршуулалтын хязгаарлалтад өөрчлөлт орлоо",
-   "summary_mn": "Vercel платформ монорепозитори дахь автоматаар алгассан байршуулалтуудыг лимитээс хасахгүй байхаар шийдвэрлэлээ. Энэ нь багуудад ижил лимитээр илүү олон байршуулалт хийх боломж олгож байна.",
-   "body_mn": "Vercel компани монорепозиторийн төслүүдэд зориулсан байршуулалтын шинэ боломжийг нэвтрүүлж, Turborepo-ийн багцын граф болон түгжээний файлыг ашиглан код өөрчлөгдөөгүй төслүүдийн байршуулалтыг автоматаар алгасах боломжтой болголоо. Ингэснээр алгассан байршуулалтууд хэрэглэгчийн сарын байршуулалтын хязгаарлалтад тооцогдохгүй юм.\n\nЭнэхүү функц нь шинээр үүсгэж буй монорепозитори төслүүдэд анхдагчаар идэвхжсэн байх ба хуучин төслүүдийн хувьд тохиргооны Build and Deployment хэсгээс гараар асаах боломжтой. Хөгжүүлэгчид үүний тусламжтайгаар нөөцөө илүү үр дүнтэй зарцуулж, кодын өөрчлөлт ороогүй үед давхар лимит шавхахаас сэргийлэх юм.",
-   "published": "2026-10-21T00:00:00Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "40e5f03683001845",
-   "subtopic": "packages",
-   "source": "Frontend Focus",
-   "source_label": "Frontend Focus",
-   "url": "https://frontendfoc.us/issues/763",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1792580550/hxa80wdvuurmobkzyw5x.png",
-   "title": "Ten CSS features worth voting for",
-   "summary_en": "🚀 Frontend Focus #​763 — October 21, 2026 | Read on the web Everyone's Interop 2027 Wishlists Last week we shared that you can now rank the Interop web platform proposals for 2027 . Since then, plenty of folks have shared their own rankings and explained their choices: ⭐ Josh Comeau's The Future of CSS – Josh's top ten, from CSS functions and corner-shape to anchored container queries and scroll-triggered animations, each with live demos, current browser support, and tips you can use today. A particularly good place to start. 🔎 Sara Soueidan's picks put accessibility first. It's a privilege…",
-   "title_mn": "Frontend Focus сонин: CSS-ийн ирээдүй, Chrome 157 болон PHP-ийн шинэчлэл",
-   "summary_mn": "Frontend Focus мэдээллийн товхимолд 2027 оны Interop санал хураалт, Safari-ийн хяналтын эсрэг хамгаалалт, PHP-ийн аюулгүй байдлын чухал засварууд болон Chrome 157-ын шинэ боломжуудыг онцоллоо.",
-   "body_mn": "Энэ долоо хоногийн Frontend Focus сонин хөгжүүлэгчдийн анхаарлыг татсан олон сонирхолтой мэдээллийг хүргэснээс CSS болон вэб платформ руу чиглэсэн хэлэлцүүлгүүд голлолоо. Тухайлбал, Josh Comeau болон Sara Soueidan нар 2027 оны Interop вэб платформын санал хураалтад дэвшүүлж буй чухал CSS болон хүртээмжийн шинэ боломжуудаа хуваалцжээ.\n\nҮүнээс гадна Safari хөтөч гуравдагч талын маягтын имэйл цуглуулж хянах үйл ажиллагааг домэйн түвшинд хориглож эхэлсэн байна. Мөн PHP хэлний 8.5.12, 8.4.27, 8.3.36 болон 8.2.35 хувилбарууд алсын зайнаас код ажиллуулах ноцтой эмзэг байдлыг зассан тул хөгжүүлэгчдийг яаралтай шинэчлэхыг сануулжээ.\n\nChrome 157 хувилбар бета шатанд шилжиж corner shorthands болон anchor-valid боломжуудыг нэмсэн бол, Chrome 156 тогтвортой хувилбартаа CSS random() функцийг авчирлаа. Мөн unload эвент бүрэн deprecate болж дууссан тул pagehide эсвэл visibilitychange ашиглахыг зөвлөж байна.",
-   "published": "2026-10-21T00:00:00Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3f6af2e4cd938eba",
-   "subtopic": "anthropic",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://www.anthropic.com/research/attack-surface-reduction",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-   "title": "Using Claude to reduce the attack surface of code",
-   "summary_en": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 113 # Comments: 74",
-   "title_mn": "Anthropic: Claude загварыг кодын аюулгүй байдлын эмзэг байдлыг багасгахад ашиглах нь",
-   "summary_mn": "Anthropic компани AI загваруудыг ашиглан програм хангамжийн хүрэхэд хялбар хэсгүүдийг хумих буюу attack surface-ийг багасгах судалгааны үр дүнгээ танилцууллаа.",
-   "body_mn": "Anthropic компани хиймэл оюун ухааны загварууд зөвхөн цоорхой олж илрүүлэхээс гадна програм хангамжийн аюулгүй байдлыг бэхжүүлэхэд хэрхэн тусалж болох талаар шинэ судалгаа гаргажээ. Тэд Claude загварыг ашиглан 25 томоохон нээлттэй эх сурвалжтай төслүүдэд автомат дүн шинжилгээ хийж, кодын хүртээмжтэй байдлыг хязгаарлах замаар эмзэг байдлын цар хүрээг хумих аргачлалыг туршсан байна.\n\nСудалгааны явцад Claude 5 сая гаруй мөр код бүхий төслүүдээс 17 мянга гаруй тохиргооны сонголтыг шалгаж, аюулгүй байдалд нөлөөлөхүйц 493 асуудлыг илрүүлжээ. Програм хангамж хөгжихийн хэрээр илүү төвөгтэй болж, анхны төлөвлөснөөс өөрөөр ажиллах эрсдэлтэй байдаг тул шаардлагагүй код болон функцүүдэд хандах хандалтыг хязгаарлах нь болзошгүй халдлагаас хамгаалах үр дүнтэй арга юм.\n\nХөгжүүлэгчид энэхүү аргыг ашиглан кодынхоо архитектурыг сайжруулж, нэвтрэх эрхийн түвшинг өөрчлөх болон аюулгүй байдлын хяналтыг чангатгах боломжтой. Энэ нь цоорхой бүрийг нэг бүрчлэн хайж олон засахаас илүү хурдан бөгөөд масштаб сайтай хамгаалалтын арга хэмжээ болж байна.",
-   "published": "2026-10-21T03:36:43Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "64ddfb139fec8a1c",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/5Uhfx9LWwXWN8zKg7a6aNi/021edebfedf0c6f9638f929ba23900ab/scaling-ai-biological-data-social.png?w=1600&h=900&fit=fill",
-   "title": "Using thousands of AI agents to uncover new leads in biological data",
-   "summary_en": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-   "title_mn": "OpenAI, PerturbAI болон Scripps Research тархины эсийн өгөгдлийг шинжлэхэд олон мянган AI агент ашиглав",
-   "summary_mn": "OpenAI, PerturbAI болон Scripps Research хамтран GPT‑Rosalind загварт суурилсан олон мянган AI агентыг зэрэг ажиллуулж, хулганы тархины эсийн биологийн өгөгдлийг ердөө 32 минутад шинژлжээ.",
-   "body_mn": "OpenAI компани PerturbAI болон Scripps Research байгууллагуудтай хамтран том хэмжээний биологийн туршилтын өгөгдөлд дүн шинжилгээ хийх зорилгоор олон мянган хиймэл оюуны агентуудыг зэрэг ажиллуулснаа зарлалаа. GPT‑Rosalind загвараар ажилладаг эдгээр агентууд хулганы тархины эсийн CRISPR атлас өгөгдлийг боловсруулж, генийн өөрчлөлт болон эсийн хариу үйлдлийн хоорондын холбоог шинжлэв.\n\nУг шинжилгээг хийхэд хүнээс сар эсвэл жилийн хугацаа шаардагдах байсан бол тархсан биологийн үндэслэл (distributed biological reasoning) бүхий энэхүү аргаар ердөө 32 минутад гүйцэтгэжээ. Агентууд хүний шинжээчдийн гаргасан дүгнэлттэй дүйцэхүйц үр дүнд хүрснээс гадна Альцгеймер, Паркинсоны өвчин судлалд тус болохуйц шинэ сэжүүрүүдийг илрүүлсэн байна.\n\nЭнэхүү судалгааны үр дүнг бусад судлаачид ашиглах боломжтой бөгөөд генийн өөрчлөлтүүд болон эсийн хариу урвалуудыг харьцуулах боломжтой шинэ мэдээллийн сан нээгджээ. Энэ нь шинжлэх ухааны салбарт том өгөгдлийг боловсруулах, эмчилгээний шинэ чиглэл тогтооход AI агентуудын гүйцэтгэх үүргийг эрс нэмэгдүүлж байна.",
-   "published": "2026-10-21T04:50:00Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "de9db6f384cbc788",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/xq2rRszwLvIAxOynZi2qa/b1cf094a0d095f67821bf4b8cfaba0b9/coordinated-disclosure-of-critical-vulnerabilities-social.png?w=1600&h=900&fit=fill",
-   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-   "summary_en": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-   "title_mn": "OpenAI болон түншүүд PHP хэлний ноцтой эмзэг байдлыг илрүүлж засварлалаа",
-   "summary_mn": "OpenAI-ийн Patch the Planet санаачилгын хүрээнд GPT‑5.6 Sol загварыг ашиглан вэб хөгжүүлэлтэд өргөн ашиглагддаг PHP хэлний ноцтой эмзэг байдлыг илрүүлж, засвар хийлээ.",
-   "body_mn": "OpenAI компани болон аюулгүй байдлын судлаачдын хамтран хэрэгжүүлж буй Patch the Planet санаачилгын хүрээнд вэб сайтуудын үндэс болсон PHP програмчлалын хэлний ноцтой эмзэг байдлыг илрүүлж амжилттай засав. OpenAI-ийн GPT‑5.6 Sol загвар болон Wiz компани уг ноцтой алдааг бие даан илрүүлж, PHP хэлний засварлагчдад хугацаанаас нь өмнө мэдэгдсэн байна.\n\nЭнэхүү эмзэг байдал нь интернэтийн хэмжээнд олон сайт болон серверүүдэд нөлөөлөхүйц өндөр эрсдэлтэй байсан бөгөөд хиймэл оюун ухаан хакеруудаас түрүүлж аюулгүй байдлын цоорхойг илрүүлж чадахыг харуулсан томоохон жишээ болжээ. Үүнтэй холбоотойгоор OpenAI мөн хөгжүүлэгчдэд зориулсан PHP хувилбар шалгах Codex скиллийг олон нийтэд хүргэсэн байна.\n\nҮүнээс гадна аюулгүй байдлын эрсдэлтэй тэмцэхэд чиглэсэн 1 тэрбум ам.долларын санхүүжилт бүхий Daybreak for Frontline Defenders хөтөлбөрийг зарлаж, чухал дэд бүтцийг хамгаалдаг байгууллагуудад туслахаар болжээ. Мөн цаашид AI эрин үед програм хангамжийн эмзэг байдалд хэрхэн шуурхай хариу арга хэмжээ авах талаар салбарын мэргэжилтнүүдэд хандан хамтын ажиллагааны шинэ хүрээг санал болгож байна.",
-   "published": "2026-10-21T07:00:00Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ea92da5c121ecb45",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/building-chatgpt-ad-stack",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/GsY5RrFvT4ZOnPC3oZUya/e3168194d55c5d9c8060ce5c5ba6c3ed/building-chatgpt-ad-stack-social.png?w=1600&h=900&fit=fill",
-   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-   "summary_en": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-   "title_mn": "OpenAI ChatGPT-ийн реклам системээ хэрхэн бүтээсэн тухай",
-   "summary_mn": "OpenAI ChatGPT-ийн зарын системийг хүний ярианы утга зорилгод суурилсан тусгай стек хэлбэрээр бүтээсэн гэдгээ тайлбарлав. ChatGPT Ads нь эхлэснээс хойш 200 хоногоос бага хугацаанд жилийн 1 тэрбум долларын орлогын түвшинд хүрчээ.",
-   "body_mn": "OpenAI ChatGPT-д зориулсан зарын системийг уламжлалт хайлт болон вэб хуудасны үзэлтэд суурилсан зарын системээс ялгаатай байдлаар бүтээжээ. Хэрэглэгчийн зорилго яриа явцад аажмаар тодордог тул систем нэг мессежээр биш, олон удаагийн яриагаар нь ойлгох шаардлагатай байв.\n\nСистем гурван гол шийдэлд тулгуурлана. Нэгдүгээрт, яриаг дамжуулан мэдээллийг санах төлөвт зарын сессийг ашиглана. Хоёрдугаарт, зарын урьдчилсан сонголт, эрэмбэлэлт, үнэлгээ, дуудлагад тусгайлан сургасан LLM tool call-аар хийгдэнэ. Гуравдугаарт, зарын шийдвэр ChatGPT-ийн хариулт үүсгэхээс тусдаа үйлчилгээнд явагдана, ингэснээр зар хариултад нөлөөлөхгүй байхыг хангана.\n\nТайланд дурдсанаар ChatGPT Ads нь эхлэснээс хойш 200 хоногоос бага хугацаанд жилийн 1 тэрбум долларын орлогын түвшинд хүрч, 100,000-аас олон рекламодагч зар байрлуулжээ. Хөгжүүлэгчдэд энэ нь LLM-д суурилсан тусгай системийг хэрхэн архитектурлаж байгаагийн жишээ болно.",
-   "published": "2026-10-21T07:00:00Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "36749a4f23d81e0b",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Technology Org",
-   "url": "https://www.technology.org/2026/10/21/claude-scorpion-toxin-protein-binders-anthropic/",
-   "image": "",
-   "title": "Claude Designs Protein Binders Against Scorpion Toxins",
-   "summary_en": "",
-   "title_mn": "Claude хилэнцэт хорхойн хорны эсрэг уураг бүтээв",
-   "summary_mn": "Anthropic компанийн Claude загвар хилэнцэт хорхойн хорны эсрэг үйлчилгээтэй уургийн холбогчдыг амжилттай зохион бүтээжээ.",
-   "body_mn": "Anthropic компанийн хөгжүүлсэн Claude загвар нь биологийн салбарт шинэ амжилт гаргаж, хилэнцэт хорхойн хорыг саармагжуулах уургийн холбогчдыг зохион бүтээсэн байна. Энэхүү судалгаа нь хиймэл оюун ухааныг эм зүй болон биоинженерийн чиглэлд бодит үр дүнтэй ашиглаж болохыг харуулсан чухал алхам юм.\n\nУураг зохион бүтээх үйл явц нь нарийн төвөгтэй бөгөөд олон туршилт шаарддаг бөгөөд Claude уг ажлыг хурдасгахад чухал үүрэг гүйцэтгэжээ. Хөгжүүлэгчид болон судлаачид уг технологийн тусламжтайгаар шинэ эм, эмчилгээний аргуудыг илүү хурдан хугацаанд туршиж, боловсруулах боломжтой болж байна.\n\nЭнэхүү ололт нь хиймэл оюун ухаан зөвхөн программ хангамж бичих төдийгүй амь шинжлэх ухаан, эмийн нээлтэд хэрхэн хувь нэмэр оруулж буйн тод жишээ юм.",
-   "published": "2026-10-21T11:54:00Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "95dedf578de78f3e",
    "subtopic": "openai",
    "source": "OpenAI News",
@@ -917,6 +717,26 @@
    "added": "2026-10-22T21:49:01Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c46b92f3bb80db56",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/death-to-long-lived-static-credentials",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4uDkSSA0pg2MjjoecBZkEn/13267551d5cc5dde67b857df686ab474/eliminating_long-lived_static_credentials_og_card.jpg",
+   "title": "Death to long-lived static credentials",
+   "summary_en": "Fifteen years ago, TLS was something you'd use to protect the most sensitive areas of your app. Then Google, Let's Encrypt, the EFF, and others led the push for HTTPS everywhere, making encryption the default for every request. Without it, anyone between the browser and server can read and tamper with the traffic. OAuth, OIDC, DBSC, and related standards already provide building blocks for secure authentication, but standards alone do not make secure methods the norm. HTTPS needed tooling that made encryption easy and a sustained push that made it expected. Machine-to-machine authentication…",
+   "title_mn": "Vercel статик нууц үг, түлхүүрээс татгалзаж, OIDC баталгаажуулалтыг нэвтрүүлж байна",
+   "summary_mn": "Vercel хугацаагүй статик API түлхүүрүүдийн эрсдэлийг бууруулахын тулд OIDC баталгаажуулалтыг өргөжүүлж байна. Мөн хөгжүүлэгчдэд зориулан shadcn/ui дээр суурилсан OIDC UI санг танилцууллаа.",
+   "body_mn": "Хөгжүүлэлтийн явцад ашиглагддаг урт хугацааны статик API түлхүүр, мэдээллийн сангийн нууц үгнүүд кодын санд алдагдах эсвэл халдлагад өртөх өндөр эрсдэл дагуулдаг. Vercel энэхүү асуудлыг шийдэхийн тулд machine-to-machine харилцаанд түр зуурын, найдвартай токен ашигладаг OpenID Connect (OIDC) стандартыг үндсэн шийдэл болгож байна.\n\nТус компани Blob, AI Gateway болон Sandbox зэрэг өөрийн үйлчилгээнүүддээ OIDC дэмжлэгийг бүрэн нэвтрүүлсэн бөгөөд Vercel дээр ажиллаж буй аппликейшнууд AWS, Google Cloud, Azure зэрэг үүлэн платформуудаас түр хугацааны эрх хүлээн авах боломжтой болжээ. Үүнээс гадна Marketplace-ийн хамтрагчдад зориулан shadcn/ui бүрэлдэхүүн хэсгүүдэд түшиглэсэн OIDC UI репозиторыг гаргасан байна.\n\nЭнэхүү шинэчлэл нь байнгын түлхүүрүүдийг гар аргаар шинэчлэх, солих шаардлагагүй болгож, хиймэл оюун ухааны агентууд болон систем хоорондын интеграцын аюулгүй байдлыг эрс сайжруулах ач холбогдолтой юм.",
+   "published": "2026-10-22T04:00:00Z",
+   "added": "2026-10-23T00:17:42Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
   }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "c46b92f3bb80db56",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/death-to-long-lived-static-credentials",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4uDkSSA0pg2MjjoecBZkEn/13267551d5cc5dde67b857df686ab474/eliminating_long-lived_static_credentials_og_card.jpg",
+ "title": "Death to long-lived static credentials",
+ "summary_en": "Fifteen years ago, TLS was something you'd use to protect the most sensitive areas of your app. Then Google, Let's Encrypt, the EFF, and others led the push for HTTPS everywhere, making encryption the default for every request. Without it, anyone between the browser and server can read and tamper with the traffic. OAuth, OIDC, DBSC, and related standards already provide building blocks for secure authentication, but standards alone do not make secure methods the norm. HTTPS needed tooling that made encryption easy and a sustained push that made it expected. Machine-to-machine authentication…",
+ "title_mn": "Vercel статик нууц үг, түлхүүрээс татгалзаж, OIDC баталгаажуулалтыг нэвтрүүлж байна",
+ "summary_mn": "Vercel хугацаагүй статик API түлхүүрүүдийн эрсдэлийг бууруулахын тулд OIDC баталгаажуулалтыг өргөжүүлж байна. Мөн хөгжүүлэгчдэд зориулан shadcn/ui дээр суурилсан OIDC UI санг танилцууллаа.",
+ "body_mn": "Хөгжүүлэлтийн явцад ашиглагддаг урт хугацааны статик API түлхүүр, мэдээллийн сангийн нууц үгнүүд кодын санд алдагдах эсвэл халдлагад өртөх өндөр эрсдэл дагуулдаг. Vercel энэхүү асуудлыг шийдэхийн тулд machine-to-machine харилцаанд түр зуурын, найдвартай токен ашигладаг OpenID Connect (OIDC) стандартыг үндсэн шийдэл болгож байна.\n\nТус компани Blob, AI Gateway болон Sandbox зэрэг өөрийн үйлчилгээнүүддээ OIDC дэмжлэгийг бүрэн нэвтрүүлсэн бөгөөд Vercel дээр ажиллаж буй аппликейшнууд AWS, Google Cloud, Azure зэрэг үүлэн платформуудаас түр хугацааны эрх хүлээн авах боломжтой болжээ. Үүнээс гадна Marketplace-ийн хамтрагчдад зориулан shadcn/ui бүрэлдэхүүн хэсгүүдэд түшиглэсэн OIDC UI репозиторыг гаргасан байна.\n\nЭнэхүү шинэчлэл нь байнгын түлхүүрүүдийг гар аргаар шинэчлэх, солих шаардлагагүй болгож, хиймэл оюун ухааны агентууд болон систем хоорондын интеграцын аюулгүй байдлыг эрс сайжруулах ач холбогдолтой юм.",
+ "published": "2026-10-22T04:00:00Z",
+ "added": "2026-10-23T00:17:42Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
