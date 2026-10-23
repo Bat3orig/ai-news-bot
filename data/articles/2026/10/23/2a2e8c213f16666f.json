@@ -1,0 +1,17 @@
+{
+ "id": "2a2e8c213f16666f",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v11.2.8",
+ "image": "https://opengraph.githubassets.com/541988f8c35dd3fa1ab62a7fb24be5492e44e653e2aeedbd36cec5ff2ac00427/nestjs/nest/releases/tag/v11.2.8",
+ "title": "nest v11.2.8",
+ "summary_en": "What's changed @nestjs/common fix(common): reject non-numeric items in ParseArrayPipe with items Number — backport of #17876 fix(common): reject arrays nested in ParseArrayPipe items — backport of #18073 fix(common): skip array holes when stripping prototype keys fix(common): copy array and object defaults in DefaultValuePipe fix(common): cut json log records short past a million characters fix(common): strip a falsy constructor key from request data fix(common): validate parsed array items one at a time fix(common): stop copying nested validation errors for each level fix(common): reject…",
+ "title_mn": "NestJS v11.2.8 гарлаа: Аюулгүй байдал болон middleware-ийн засварууд",
+ "summary_mn": "NestJS v11.2.8 засварын хувилбар гарч, ParseArrayPipe, StreamableFile, SSE болон middleware чиглүүлэлттэй холбоотой олон алдааг заслаа.",
+ "body_mn": "NestJS фреймворкийн v11 салбарын ээлжит v11.2.8 хувилбар гарлаа. Энэхүү хувилбараар @nestjs/common болон @nestjs/core багцуудад илэрсэн олон тооны алдаа засвар болон сайжруулалтуудыг нэвтрүүлсэн байна. Тухайлбал, v12 хувилбараас зарим чухал засваруудыг буцаан нийцүүлж (backport) оруулжээ.\n\nГол өөрчлөлтүүдээс дурдвал ParseArrayPipe дотор тоон бус өгөгдөл болон давхар массив орох үед татгалзах, DefaultValuePipe-д массив болон объектын анхны утгыг хуулах, валидацийн алдааны мэдээлэл дунд шалгасан объектыг ил гаргахгүй байх зэрэг аюулгүй байдалтай холбоотой засварууд багтсан байна. Мөн StreamableFile алдаа заасан тохиолдолд хариуг дундаас нь цуцлах, серверийн дотоод алдааны текстийг хэрэглэгчид ил харуулахгүй байхаар хамгаалжээ.\n\nҮүнээс гадна Fastify болон Express дээр middleware замуудыг хасах, холбох логикийг засаж, хэрэглэгч холболтоо тасалсан үед Observable үйлдлийг зогсоох болон SSE холболтын зохицуулалтыг сайжруулсан байна. Хөгжүүлэгчид v11 салбарын тогтвортой байдлыг хангахын тулд энэхүү шинэчлэлийг татаж авахыг зөвлөж байна.",
+ "published": "2026-10-23T12:40:58Z",
+ "added": "2026-10-23T15:17:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

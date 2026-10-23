@@ -1,0 +1,17 @@
+{
+ "id": "b8d862d35515844d",
+ "subtopic": "packages",
+ "source": "React Status",
+ "source_label": "React Status",
+ "url": "https://react.statuscode.com/issues/494",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ejihjkazanj4b02abevr.jpg",
+ "title": "TanStack Start is finally stable",
+ "summary_en": "#​494 — October 23, 2026 Read on the Web React Status TanStack Start Reaches 1.0 After a year as a release candidate, TanStack Start 1.0 is officially stable . Tanner Linsley explains how it grew out of TanStack Router , and is candid about RSC, which felt like \"this box we had to check to be taken seriously as a React framework\" , and which tanstack.com itself no longer uses. Plus: 📊 The same app in Start and Next.js 16.4, benchmarked – Start handled 2.9x-8.6x more dynamic requests and built ~1.7x faster with type-checking included. 🚚 Moving over? There are official guides for migrating…",
+ "title_mn": "TanStack Start 1.0 албан ёсоор тогтвортой хувилбартаа хүрч, Expo SDK 58 гарлаа",
+ "summary_mn": "TanStack Start 1.0 хувилбар тогтвортой болж, Expo SDK 58 болон React Server Components шинэчлэлүүд гарлаа.",
+ "body_mn": "Энэ долоо хоногийн вэб хөгжүүлэлтийн мэдээллээр TanStack Start 1.0 хувилбар нэг жил үргэлжилсэн хувилбар кандидатаас хойш албан ёсоор тогтвортой боллоо. Энэхүү фреймворк нь Next.js-тэй харьцуулахад динамик хүсэлтийг хурдан боловсруулж, төрөл шалгалтыг амжилттай хийдэг байна.\n\nҮүнээс гадна React Native 0.88 хувилбарыг ашигладаг Expo SDK 58 албан ёсоор гарсан бөгөөд гар утасны хөгжүүлэгчдэд шинэ боломжуудыг санал болгож байна. Мөн Next.js-ийн чухал эмзэг байдлуудыг засварласан тул хөгжүүлэгчид хувилбараа яаралтай шинэчлэх шаардлагатай.\n\nTypeScript 7.1 хувилбар бета шатанд орж, код шалгах хурдыг мэдэгдэхүйц сайжруулсан бол терминал дээр графикийг төгс дүрслэх Pixel зэрэг шинэ сонирхолтой сангууд гарсан нь хөгжүүлэгчдийн анхаарлыг татаж байна.",
+ "published": "2026-10-23T00:00:00Z",
+ "added": "2026-10-23T15:17:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

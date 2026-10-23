@@ -1,0 +1,17 @@
+{
+ "id": "6ba3a7b92151149f",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9",
+ "image": "https://opengraph.githubassets.com/1eb9106659ba4f970416d2752c8a90bab1f113a7aefbcd9a5d8e4a1c57b4613f/ollama/ollama/releases/tag/v0.40.9",
+ "title": "ollama v0.40.9",
+ "summary_en": "Speech Ollama can now generate speech with Phonon on Apple Silicon. ollama run plays text or a chat model's reply aloud as the audio is generated, and apps can stream audio through the OpenAI-compatible /v1/audio/speech endpoint. ollama run phonon \" Hello from Ollama. \" d3 decision models d3 brings vLLM Semantic Router's decision models to Ollama. Give a model text, structured state, or an image, and ask it to classify, answer yes or no, or score options with probabilities. The family includes 2B, 4B, 9B, and 27B sizes. ollama run d3 \" A customer says their card was charged twice. \" --ask \"…",
+ "title_mn": "Ollama v0.40.9 хувилбар гарч, Phonon дуу хоолой болон d3 шийдвэрийн загваруудыг нэмлээ",
+ "summary_mn": "Ollama v0.40.9 шинэчлэлтээр Apple Silicon дээр Phonon дуу хоолой үүсгэх, vLLM d3 шийдвэрийн загварууд болон Flint дэмжлэг нэмэгдлээ.",
+ "body_mn": "Ollama хэрэгслийн шинэ v0.40.9 хувилбар гарч хөгжүүлэгчдэд олон чухал боломжуудыг авчирлаа. Тухайлбал, Apple Silicon дээр Phonon ашиглан дуу хоолой үүсгэх боломжтой болсон бөгөөд хэрэглэгчид OpenAI-тай нийцтэй /v1/audio/speech төгсгөлөөр дамжуулан аудио стрим хийх боломжтой болжээ.\n\nМөн vLLM Semantic Router-ийн d3 шийдвэрийн загварууд Ollama-д нэмэгдсэн байна. Энэ нь 2B-ээс 27B хүртэлх хэмжээтэй загваруудыг ашиглан текст, зураг болон бүтцийн өгөгдлийг ангилах, тийм эсвэл үгүй гэж хариулах боломжийг олгоно. Дээр нь Flint хөдөлгүүр нь macOS-оос гадна Linux болон Windows үйлдлийн системүүдэд дэмжигдэж эхэлжээ.\n\nХөгжүүлэгчдэд зориулж стриминг алдаа боловсруулалт сайжирч, OpenAI болон Anthropic хүсэлтүүдийн алдааг илүү тодорхой мэдээлдэг болсон нь хөгжүүлэлтийн явцыг хөнгөвчилж байна.",
+ "published": "2026-10-23T02:12:47Z",
+ "added": "2026-10-23T15:17:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

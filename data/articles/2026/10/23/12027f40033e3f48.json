@@ -1,0 +1,17 @@
+{
+ "id": "12027f40033e3f48",
+ "subtopic": "ai-devtools",
+ "source": "openai/codex",
+ "source_label": "openai/codex",
+ "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0",
+ "image": "https://opengraph.githubassets.com/ba656cc0bd038b25cbe4a796df2128ddddc2d520420582c4622037575b17a466/openai/codex/releases/tag/rust-v0.164.0",
+ "title": "codex 0.164.0",
+ "summary_en": "New Features Save reusable prompts and slash commands in ten numbered /presets slots, with a keyboard menu for quick access. ( #54380 , #54381 ) Set model, reasoning effort, speed, and permission profiles directly with inline /model and /permissions arguments. ( #54378 , #54383 ) Preview viewed and generated images in the fullscreen transcript on terminals supporting Kitty or Sixel graphics. ( #54216 ) Authenticate enterprise MCP connections using eligible Codex account grants or dedicated sign-in, including OAuth clients requiring secrets. ( #55334 , #55859 , #56001 ) Mask credentials…",
+ "title_mn": "Codex 0.164.0 хувилбар шинэ preset болон тохиргооны боломжуудтайгаар гарлаа",
+ "summary_mn": "Codex v0.164.0 хувилбараар дахин ашиглах боломжтой preset-үүд, /model болон /permissions шууд тохиргоо нэмэгдлээ.",
+ "body_mn": "Codex хэрэгслийн шинэ 0.164.0 хувилбар гарч, хөгжүүлэгчдийн ажлын явцыг хөнгөвчөх олон шинэ функцүүдийг нэмсэн байна. Тухайлбал, дахин ашиглах боломжтой prompt болон slash команд хадгалах 10 дугаарлагдсан /presets слоттой болжээ.\n\nMөн inline байдлаар /model болон /permissions аргументуудыг ашиглан загвар, судалгааны түвшин, хурд зэргийг шууд өөрчлөх боломжтой болсон нь хөгжүүлэгчдэд маш ээлтэй байна. Терминал дотор зураг урьдчилан харах, Amazon Bedrock тохиргооны шидтэн анхдагчаар идэвхжих зэрэг шинэчлэлтүүд багтжээ.\n\nАлдаа засах болон гүйцэтгэлийн хувьд санах ойн хэрэглээг багасгаж, фононд ажиллах комьютешн болон сесс сэргээх механизмуудыг сайжруулсан нь хэрэгслийн тогтвортой байдлыг эрс дээшлүүлсэн байна.",
+ "published": "2026-10-23T04:50:58Z",
+ "added": "2026-10-23T15:17:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

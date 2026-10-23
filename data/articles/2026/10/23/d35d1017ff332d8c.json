@@ -1,0 +1,17 @@
+{
+ "id": "d35d1017ff332d8c",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
+ "title": "How to put your design system to work with the Figma agent",
+ "summary_en": "Your design system can help the Figma agent understand the principles and guidelines that define your product. Here’s how to make that context useful to the agent.",
+ "title_mn": "Figma агент дээр дизайн системээ хэрхэн үр дүнтэй ашиглах вэ",
+ "summary_mn": "Uber, Atlassian зэрэг компаниуд Figma агентийг дизайн системтэйгээ холбож чанартай бүтээгдэхүүн хурдан гаргаж байна.",
+ "body_mn": "Figma агент албан ёсоор нээгдсэнтэй холбогдуулан багууд дизайн системээ уг агентад хэрхэн зөв ойлгуулах талаар зөвлөмжүүд гарлаа. Дизайн систем нь агент бүтээгдэхүүний зарчим, бүрэлдэхүүн хэсгүүдийг танихад чухал үүрэг гүйцэтгэдэг байна.\n\nХөгжүүлэгч болон дизайнерууд нийтэлсэн библиотекоо агенттай холбосноор уг агент бэлэн компонент, өнгө, хэмжээний хувьсагчдыг ашиглан загвар угсрах боломжтой болно. Мөн тусгай удирдамж (guidelines) файлыг байршуулж, агентийн шийдвэр гаргах түвшинд тодорхой дүрэм тогтоох боломжтой ажээ.\n\nЖишээлбэл, тодорхой товчлуурыг ямар үед ашиглахыг удирдамжаар зааж өгснөөр Figma агент зорилгодоо илүү нийцсэн UI дизайн гаргах юм. Энэ нь дизайны багуудын бүтээмжийг нэмэгдүүлж, бүтээгдэхүүний өнгө төрхийг нэгдмэл байлгахад тусална.",
+ "published": "2026-10-23T02:27:00Z",
+ "added": "2026-10-23T15:17:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

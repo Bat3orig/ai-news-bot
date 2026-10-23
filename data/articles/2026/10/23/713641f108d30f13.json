@@ -1,0 +1,17 @@
+{
+ "id": "713641f108d30f13",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "AiThority",
+ "url": "https://aithority.com/machine-learning/qlik-brings-governed-business-context-and-analytics-workflows-to-claude/",
+ "image": "https://aithority.com/wp-content/uploads/2026/10/7xm.xyz737495.jpg",
+ "title": "Qlik Brings Governed Business Context and Analytics Workflows to Claude",
+ "summary_en": "Qlik announced the availability of its Model Context Protocol (MCP) server through Anthropic’s Claude Directory, giving Claude users a simpler way to connect governed Qlik data, analytical logic, and selected analytics and data workflows to Claude.",
+ "title_mn": "Qlik өөрийн MCP серверийг Claude Directory санд нэвтрүүллээ",
+ "summary_mn": "Qlik компани Model Context Protocol (MCP) серверийг Claude-ийн албан ёсны санд нэмснээр хөгжүүлэгчид байгууллагынхаа өгөгдөл, бизнесийн логикийг загвартайгаа шууд холбох боломжтой боллоо.",
+ "body_mn": "Өгөгдлийн шинжилгээний чиглэлээр тэргүүлэгч Qlik компани Anthropic-ийн нээлттэй стандарт болох Model Context Protocol (MCP)-д суурилсан өөрийн серверийг Claude Directory санд нэмснээ зарлалаа. Ингэснээр хэрэглэгчид болон байгууллагууд Qlik дээрх баталгаажсан өгөгдөл, шинжилгээний логик, тооцооллуудыг Claude системд шууд холбох боломж бүрдэж байна.\n\nБайгууллагууд хиймэл оюуныг ажлын урсгалдаа нэвтрүүлэхэд түүхий өгөгдөл бус, харин өгөгдлийн уялдаа холбоо, нарийн метрикүүд болон компанийн дотоод логик хамгийн чухал байдаг. MCP стандартын ачаар Claude нь тухайн компанийн дүрэм журамд нийцсэн өгөгдлийг контекст болгон ашиглаж, илүү үнэн зөв хариулт өгөх нөхцөл бүрдэж байна.\n\nЭнэхүү алхам нь байгууллагын өгөгдлийн сангуудыг хиймэл оюуны агентуудтай найдвартай залгаж, аналитик автоматжуулалт хийх хөгжүүлэгчдийн ажлыг мэдэгдэхүйц хөнгөвчилж байна.",
+ "published": "2026-10-23T10:33:27Z",
+ "added": "2026-10-23T15:17:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

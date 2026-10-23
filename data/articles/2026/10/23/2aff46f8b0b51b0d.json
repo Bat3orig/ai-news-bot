@@ -1,0 +1,17 @@
+{
+ "id": "2aff46f8b0b51b0d",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "TestingCatalog AI News",
+ "url": "https://www.testingcatalog.com/kimi-k3-1-spotted-testing-arena/",
+ "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/10/K3.1_-Orbital-Blue-Horizon-1.webp",
+ "title": "Kimi K3.1 is prepared for upcoming release after Arena testing",
+ "summary_en": "A mystery model called Kibitz has turned up on Arena, and testers believe it's Moonshot AI's Kimi K3.1. Early outputs look strong, especially for 3D work, and a launch may be days away.",
+ "title_mn": "Moonshot AI шинэ Kimi K3.1 загвараа Arena платформ дээр нууцаар туршиж байна",
+ "summary_mn": "LMSYS Arena дээр Kibitz нэртэй шинэ нууцлаг загвар гарч ирсэн нь удахгүй нээлттэй эхээр цацагдах Kimi K3.1 байх магадлалтай байна. Уг загвар нь кодчилол болон 3D график үүсгэх чадвараараа өндөр үнэлгээ авч байна.",
+ "body_mn": "Хиймэл оюуны загваруудыг харьцуулдаг LMSYS Arena талбарт Kibitz нэртэй шинэ загвар нууцаар туршигдаж эхэллээ. Салбарын шинжээчид болон хөгжүүлэгчид үүнийг Moonshot AI компанийн дараагийн томоохон хувилбар болох Kimi K3.1 хэмээн таамаглаж байгаа бөгөөд тус компани ч K3.1 загварын талаарх анхны богино бичлэгүүдээ нийтэлж эхэлжээ.\n\nТуршилтын үр дүнгээс үзэхэд Kibitz нь JavaScript хэл дээр дүрслэл хийх, 3D загварчлал боловсруулах даалгавруудыг өндөр хурдтай, чанартай гүйцэтгэж байгаа аж. Жишээлбэл, хөөрөлт болон газардалтын бүрэн хөдөлгөөнтэй, олон горим бүхий 3D нисдэг тэрэгний загварыг 15 хүрэхгүй минутын дотор үүсгэсэн байна.\n\nХөгжүүлэгчдийн хуваалцсан мэдээллээр Kimi K3.1 нь ирэх долоо хоногийн эхээр нээлттэй эхийн (open-source) лицензтэйгээр албан ёсоор цацагдах төлөвтэй байна. Түүнчлэн тооцооллын өртгийн хувьд өрсөлдөгч коммерийн загваруудаас мэдэгдэхүйц хямд байх магадлалтай байна.",
+ "published": "2026-10-23T09:03:03Z",
+ "added": "2026-10-23T15:17:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

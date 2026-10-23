@@ -1,0 +1,17 @@
+{
+ "id": "5087d59f95d05d29",
+ "subtopic": "nextjs",
+ "source": "vercel/next.js",
+ "source_label": "vercel/next.js",
+ "url": "https://github.com/vercel/next.js/releases/tag/v16.4.3",
+ "image": "https://opengraph.githubassets.com/771e453f73e1c5bd2760d591d890fb60b9403c69ed232d7e467296a0d537b57d/vercel/next.js/releases/tag/v16.4.3",
+ "title": "next.js v16.4.3",
+ "summary_en": "Note This release is backporting bug fixes. It does not include all pending features/changes on canary. Core Changes v16.4.2 [lts-active] Fix extensionless Google font URLs in both bundlers ( #100277 ) [lts-active] Don't load the app-page runtime in proxy.ts ( #100423 ) [lts-active] Revert \"Turbopack: loader change invalidation ( #95732 )\" ( #100438 ) [lts-active][cd] Gate release bot credentials behind GitHub environments ( #100123 ) [lts-active] test: Pin react-virtualized ( #100545 ) [lts-active][cd] Move release un-draft to a follow-up job in bot-autonomous ( #100572 ) [lts-active] Keep…",
+ "title_mn": "Next.js v16.4.3 гарлаа: Turbopack болон OpenTelemetry-ийн алдааг засав",
+ "summary_mn": "Next.js 16.4.3 хувилбар гарч Google font, Turbopack кэш болон OpenTelemetry tracing-тэй холбоотой асуудлуудыг заслаа.",
+ "body_mn": "Next.js фреймворкийн тогтвортой салбарт зориулсан v16.4.3 засварын хувилбар гарлаа. Энэхүү хувилбар нь canary салбар дахь шинэ функцуудыг багтаагаагүй бөгөөд зөвхөн LTS салбарын чухал алдаануудыг нөхөх (backport) зорилготой юм.\n\nШинэчлэлтээр өргөтгөлгүй Google font-ийн URL хаягууд хоёр багцлагч (bundler) дээр зөв ажилладаг болсон ба Turbopack дээрх loader өөрчлөлтийг хүчингүй болгох тохиргоог буцаан сэргээсэн байна. Түүнчлэн OpenTelemetry-ийн хүсэлт хянах (tracing) бүртгэлүүдийг нэгтгэн хадгалах логикийг засаж, серверийг эхлүүлэх үед standalone React-ийг илүүц ачаалахаас сэргийлжээ.\n\nNext.js v16.4 ашиглаж буй төслүүдийн хувьд эдгээр нь аппликэйшны ажиллагаа, ялангуяа мониторинг болон бүтээх (build) үйл явцын тогтвортой байдалд чухал нөлөө үзүүлэх засварууд юм.",
+ "published": "2026-10-23T13:32:31Z",
+ "added": "2026-10-23T15:17:26Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

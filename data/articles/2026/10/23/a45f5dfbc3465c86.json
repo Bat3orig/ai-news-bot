@@ -1,0 +1,17 @@
+{
+ "id": "a45f5dfbc3465c86",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
+ "title": "GitHub Copilot in Visual Studio — September update",
+ "summary_en": "September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags…",
+ "title_mn": "Visual Studio-д зориулсан GitHub Copilot-ийн есдүгээр сарын шинэчлэлт",
+ "summary_mn": "GitHub Copilot in Visual Studio шинэчлэлтээр chat дотроос pull request шалгах болон эмзэг сангуудтай ажиллах боломжтой боллоо.",
+ "body_mn": "Visual Studio-д зориулсан GitHub Copilot-ийн есдүгээр сарын шинэчлэлт гарч, хөгжүүлэгчдэд ажлын явцаа илүү хянах боломжийг олгож байна. Шинэ хувилбараар хөгжүүлэгчид чат интерфейсээс гаралгүйгээр pull request-үүдийг судлах боломжтой болжээ.\n\nМөн багийнхаа итгэж болох AI загварыг ашиглах, Visual Studio анхааруулга өгөх үед эмзэг сан болон пакетуудыг шууд засварлах боломжтой болсон нь онцлох зүйл юм. Энэхүү шинэчлэлт нь Copilot Free, Pro, Business, Enterprise зэрэг бүх багцын хэрэглэгчдэд нээлттэй байна.\n\nХөгжүүлэгчид Visual Studio 2026 орчинг шинэчилснээр Эдгээр шинэ боломжуудыг шууд ашиглаж эхлэх бөгөөд Insiders сувгаар дамжуулан хамгийн сүүлийн үеийн сайжруулалтуудыг турших боломжтой юм.",
+ "published": "2026-10-23T00:17:51Z",
+ "added": "2026-10-23T15:17:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

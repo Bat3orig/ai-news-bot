@@ -1,0 +1,17 @@
+{
+ "id": "568a3d543ed58276",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "CNET",
+ "url": "https://www.cnet.com/tech/services-and-software/anthropic-claude-duet-ai-agent-app-professional/",
+ "image": "https://www.cnet.com/wp-content/uploads/sites/2/Claude-Duet-Press-03.png",
+ "title": "Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals",
+ "summary_en": "It’s nothing we haven’t seen before, but it's hyper specificity toward business owners and professionals.",
+ "title_mn": "Anthropic компани мэргэжилтнүүдэд зориулсан Claude Duet агентийг танилцууллаа",
+ "summary_mn": "Anthropic компани Opus 5.5 дээр суурилсан, хэрэглэгчийн ажлыг автоматжуулах Claude Duet хувийн AI агентийг зарлалаа.",
+ "body_mn": "Anthropic компани мэргэжилтнүүд болон бизнес эрхлэгчдэд зориулсан шинэ агентийн хэрэгсэл болох Claude Duet-ийг албан ёсоор танилцууллаа. Энэхүү аппликейшн нь Opus 5.5 загвар дээр суурилсан бөгөөд Gmail, календарь, Slack зэрэг ажлын хэрэгслүүдтэй холбогдон таны өдөр тутмын үйл ажиллагааг хялбарчлах юм.\n\nDuet нь идэвхтэй туслахын хувьд таны ажлын аппликейшнуудыг шалгаж, чухал болон анхаарал хандуулах шаардлагатай зүйлсийг эрэмбэлж өгөх чадвартай. Мөн хэрэглэгчийн хувийн нууцлалыг хамгаалах үүднээс кредит карт, иргэний үнэмлэх зэрэг өндөр мэдрэмтгий мэдээллийг автоматаар шүүж татгалздаг.\n\nОдоогоор уг хэрэгсэл нь судалгааны хувилбар (research preview) байдлаар зөвхөн Pro болон Max эрхтэй хэрэглэгчдэд хүлээлгийн жагсаалтаар олгогдож эхлээд байна. Энэ нь хөгжүүлэгчид болон бизнесүүдэд ажлын урсгалаа автоматжуулах шинэ боломжийг олгож байна.",
+ "published": "2026-10-22T21:19:09Z",
+ "added": "2026-10-23T15:17:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
