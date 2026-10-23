@@ -1,0 +1,17 @@
+{
+ "id": "891b7e0bbf66f86d",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/decisions-api",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/2oP82PTDAPhlalF1TRNt8Q/af6bb8e886e29d6e0880c75a0de781f8/build-more-responsive-apps-with-the-decisions-api-social.png?w=1600&h=900&fit=fill",
+ "title": "Build more responsive apps with the Decisions API",
+ "summary_en": "Fast, focused, low-cost decisions for any application.",
+ "title_mn": "OpenAI бага хоцролттой шийдвэр гаргах Decisions API-аа нийтийн хэрэглээнд гаргалаа",
+ "summary_mn": "OpenAI GPT-6 Luna загварт суурилсан Decisions API-аа албан ёсоор танилцууллаа. Энэ нь өгөгдлийг ангилах, чиглүүлэх зэрэг үйлдлийг 10 дахин хурдан, хямд гүйцэтгэх боломжтой.",
+ "body_mn": "OpenAI системүүд болон хиймэл оюуны агентуудад зориулсан Decisions API-аа ерөнхий хэрэглээнд (GA) гаргалаа. GPT-6 Luna загвар дээр суурилсан уг API нь хязгаарлагдмал хариулттай асуултуудад төвлөрч, Responses API-тай харьцуулахад бараг 10 дахин хурдан бөгөөд бага зардлаар шийдвэр гаргадаг байна.\n\nБета хувилбараас хойш уг үйлчилгээнд GPT-Live шууд интеграц, давтан контекстод зориулсан prompt caching, АНУ болон ЕХ-ны бүсэд тооцоолол хийх сонголт нэмэгджээ. Хөгжүүлэгчид төрөлх JSON өгөгдөл, зураг дамжуулах боломжтой ба нэг хүсэлтээр 400 хүртэлх асуултыг нэг дор шийдвэрлүүлэх боломжтой болсон байна.\n\nDecisions API нь магадлал (probability), сонголт (choice), оноо (score) гэсэн гурван төрлийн хариу буцаадаг. Ингэснээр дуут туслахын харилцан ярианы дундуур хэрэглэгчийн хүсэлтийг чиглүүлэх, агентын дараагийн алхмыг тодорхойлох болон агуулгыг ангилахад маш бага хоцролттойгоор ашиглагдах давуу талтай.",
+ "published": "2026-10-22T19:00:00Z",
+ "added": "2026-10-23T05:07:43Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

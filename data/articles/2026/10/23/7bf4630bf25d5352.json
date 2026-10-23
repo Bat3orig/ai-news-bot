@@ -1,0 +1,17 @@
+{
+ "id": "7bf4630bf25d5352",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+ "image": "https://github.blog/wp-content/uploads/2026/10/681207257-5993c03c-c523-44d2-b2bf-8ac57818dd74.jpg",
+ "title": "Industry comparisons in the Copilot impact dashboard",
+ "summary_en": "The Copilot impact dashboard now includes an “Industry comparison” section. Enterprises, and organizations that aren’t owned by an enterprise, can compare their Copilot agentic adoption and leverage with aggregated benchmarks…",
+ "title_mn": "GitHub Copilot хяналтын самбарт салбарын харьцуулалт нэмэгдлээ",
+ "summary_mn": "GitHub Copilot хяналтын самбарт байгууллагууд өөрсдийн ашиглалтын түвшинг бусад ижил төстэй компаниудтай харьцуулах боломжтой шинэ хэсэг нэмэгдлээ.",
+ "body_mn": "GitHub Copilot нөлөөллийн хяналтын самбарт “Industry comparison” буюу салбарын харьцуулалт гэсэн шинэ хэсэг нэмэгдлээ. Ингэснээр аж ахуйн нэгж болон байгууллагууд Copilot агент болон хэрэгслүүдийг хэрхэн ашиглаж байгаагаа бусад оролцогч байгууллагуудын нэгтгэсэн дундаж үзүүлэлттэй харьцуулан харж болох юм.\n\nЭнэхүү боломж нь анхдагчаар идэвхжээгүй байх бөгөөд байгууллагууд өөрсдөө сонгож оролцох боломжтойгоор хийгджээ. Удирдлагууд энэхүү салбарын жишиг мэдээллийг ашиглан өөрсдийн хөгжүүлэлтийн явцыг хэмжих, зорилтоо зөв тодорхойлох боломжтой болж байна.",
+ "published": "2026-10-22T16:28:24Z",
+ "added": "2026-10-23T05:07:43Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

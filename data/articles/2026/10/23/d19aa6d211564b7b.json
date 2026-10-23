@@ -1,0 +1,17 @@
+{
+ "id": "d19aa6d211564b7b",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.37.0",
+ "image": "https://opengraph.githubassets.com/afe89a8e332b6adf01393ba063c84f06aef1579ab08f641c37d5cc4ead4b56ff/openai/openai-python/releases/tag/v3.37.0",
+ "title": "openai-python v3.37.0",
+ "summary_en": "3.37.0 (2026-10-22) ⚠ BREAKING CHANGES api: This minor release includes a breaking change to Decisions types. In Live response models, question instructions can now be a string or a list of structured text, image, or JSON parts; check isinstance(question.instructions, str) before using string operations and handle the structured form. Decisions request input types also include additional message roles and tool-history items, so update exhaustive type checks accordingly. Existing string instructions and DecisionInputMessageParam user-message inputs remain supported. Features api: expand…",
+ "title_mn": "openai-python v3.37.0 гарлаа: Decisions API-д зориулсан нийцэл эвдэх өөрчлөлтүүд",
+ "summary_mn": "OpenAI албан ёсны Python сангаа v3.37.0 болгон шинэчилж, Decisions төрлүүдэд бүтцийн хувьд нийцэл эвдэх өөрчлөлтүүд (breaking changes) оруулав.",
+ "body_mn": "OpenAI өөрийн Python SDK сангийн v3.37.0 хувилбарыг нийтэллээ. Энэхүү дэд хувилбарт Decisions API-ийн төрөлтэй холбоотой өмнөх кодын нийцлийг эвдэх (breaking change) өөрчлөлт орсон тул хөгжүүлэгчид кодоо шинэчлэх шаардлагатай болж байна.\n\nLive хариуны загваруудад question.instructions нь зөвхөн текст төдийгүй бүтэцлэгдсэн текст, зураг, эсвэл JSON хэсгүүдийн жагсаалт байх боломжтой болжээ. Иймд string функцуудыг дуудахаас өмнө isinstance(question.instructions, str) шалгалтыг заавал хийхийг зөвлөж байна. Мөн Decisions хүсэлтийн оролтын төрөлд мессежийн нэмэлт үүргүүд болон tool-history элементүүд нэмэгдсэн тул хатуу хэвшил (exhaustive type checks) шалгадаг хөгжүүлэгчид үүнийг тооцох хэрэгтэй.\n\nҮүнээс гадна файлын болон видеоны статус шалгах туслах функцууд (polling helpers), Live холболтын үндсэн тохиргоонуудыг хадгалан сайжруулж, setup-uv хамаарлыг 10.3.0 хувилбар руу ахиулсан байна.",
+ "published": "2026-10-22T20:03:54Z",
+ "added": "2026-10-23T05:07:43Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

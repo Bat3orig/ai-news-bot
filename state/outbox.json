@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "95dedf578de78f3e",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/openai-models-google-cloud",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/659u0DsrtDQd9LxI8L4J9M/0b95908d6a9ed46ffe20b23d081574b4/openai-models-coming-to-google-cloud-social.png?w=1600&h=900&fit=fill",
-   "title": "OpenAI models are coming to Google Cloud",
-   "summary_en": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-   "title_mn": "OpenAI загварууд Google Cloud платфортод нэвтэрнэ",
-   "summary_mn": "OpenAI болон Google Cloud хамтран ажиллаж, OpenAI-ийн загварууд болон Codex агент ажлын урсгалыг Google Cloud Model Garden-д нэмэхээр боллоо.",
-   "body_mn": "OpenAI компани Google Cloud-той стратеги хамтын ажиллагаа зарлаж, өөрсдийн тэргүүлэх загварууд болон Codex агент ажлын урсгалуудыг Google Cloud-ын Model Garden платформд албан ёсоор нэвтрүүлэхээр болжээ. Энэхүү интеграцийн үр дүнд хөгжүүлэгчид болон дата судлаачид өөрсдийн ажлын орчноос гарахгүйгээр OpenAI-ийн дэвшилтэт загваруудыг ашиглах боломжтой болж байна.\n\nБайгууллагын түвшний хэрэглэгчид өгөгдлийн аюулгүй байдал, хандалтын хяналт болон өндөр хүчин чадалтай дэд бүтцийг хослуулан ашиглах бөгөөд Google Cloud Marketplace дээрээс худалдан авалт хийх боломжтой аж. Мөн Google Cloud дээрх төсвөөсөө эдгээр худалдан авалтыг санхүүжүүлэх боломжтой юм.\n\nЭнэхүү алхам нь хөгжүүлэгчдэд ямар загварыг аль төсөлд ашиглах сонголтын эрхийг нэмэгдүүлж байгаагаараа онцлог бөгөөд ерөнхий хүртээмжтэй байдал ойрын хэдэн долоо хоногт албан ёсоор нээгдэнэ.",
-   "published": "2026-10-21T12:00:00Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c9580501c52142a9",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "MIXED Reality News",
-   "url": "https://mixed-news.com/en/claude-code-warns-old-chat-five-hour-limit-2-1-304/",
-   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/e6c18d30f931ae76d4b600558f5a11377306f1d9-2000x1125-1.jpg",
-   "title": "Claude Code now warns you before an old chat eats into your 5-hour limit",
-   "summary_en": "Claude Code now warns Pro and Max subscribers before they resume an old conversation that would use a noticeable share of their 5-hour usage limit. The",
-   "title_mn": "Claude Code хуучин чат лимит хэтрүүлэхээс урьдчилан сануулдаг боллоо",
-   "summary_mn": "Claude Code 2.1.304 хувилбар гарч, хэрэглэгчдийг 5 цагийн хязгаарлалтад нөлөөлөхүйц хуучин ярианд буцаж орохоос өмнө сануулдаг болжээ.",
-   "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ 2.1.304 болон дараагийн шинэчлэлтүүдийг гаргалаа. Шинэ хувилбараар Pro болон Max хэрэглэгчид хуучин ярианд буцаж орох үед 5 цагийн хэрэглээний лимитэд хэрхэн нөлөөлөхийг урьдчилан сануулах функц нэмэгдсэн байна.\n\nМөн авто горимын тохиргоог хялбарчлах /auto-mode-setup команд нэмэгдсэн бөгөөд Bedrock, Vertex болон Foundry орчинд мөн ажилладаг болжээ. Үүнээс гадна файлын систем дэх чухал хавтас болон дискүүдийг санамсаргүйгээр устгахаас сэргийлсэн аюулгүй байдлын анхааруулга сайжирсан байна.\n\nДараагийн 2.1.305 болон 2.1.306 засварууд нь Vertex болон Bedrock дээрх хэрэгслийн хайлттай холбоотой алдаануудыг засаж, үүлэн сессүүд дэх нэвтрэлтийн мэдээлэл алдагдах асуудлыг шийдвэрлэжээ.",
-   "published": "2026-10-21T12:18:58Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b1215e1aefc04c61",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/6Fq2uj7xCpKHENjyeojn9c/d3771e7cecdfb77c28c7560de9413de1/chatgpt-ads-expands-26-new-countries-social.png?w=1600&h=900&fit=fill",
-   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "summary_en": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-   "title_mn": "ChatGPT зар сурталчилгаа 26 шинэ улсад өргөжлөө",
-   "summary_mn": "ChatGPT Ads үйлчилгээ дэлхий даяар 89 улсад хүрч өргөжсөн бөгөөд одоогоор 100,000 гаруй сурталчилгаа эрхлэгч ашиглаж байна.",
-   "body_mn": "OpenAI компани ChatGPT дээрх зар сурталчилгааны үйлчилгээгээ дахин 26 шинэ улсад нэмж, нийт 89 улсад хүргэж буйгаа зарлалаа. Энэхүү өргөжүүлэлт нь Латин Америк, Европ, Ази болон Ойрхи Дорнодын орнуудыг хамарч байна.\n\nЗар сурталчилгаа нь зөвхөн Free болон Go үнэгүй эсвэл хямд төлөвлөгөө ашигладаг хэрэглэгчдэд харагдах бөгөөд Plus, Pro болон Enterprise хэрэглэгчид ямар ч зар сурталчилгаагүйгээр ашиглахаараа үлдэх юм. OpenAI хэрэглэгчдийн нууцлалыг хатуу хамгаалж, харилцан ярианы өгөгдлийг сурталчилгаа эрхлэгчдэд худалдахгүй гэдгээ онцолжээ.\n\nЭнэхүү хөгжүүлэлт нь хиймэл оюун ухааныг үнэ төлбөргүй болон хүртээмжтэй байдлаар олон нийтэд хүргэх санхүүгийн тогтвортой загвар бүтээх зорилготой аж.",
-   "published": "2026-10-21T13:00:00Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5727b04f30d31660",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "EIN News",
-   "url": "https://www.einnews.com/pr_news/951037254/viirtue-mcp-adds-google-gemini-and-xai-grok-so-businesses-can-talk-to-their-ai-voice-platform",
-   "image": "",
-   "title": "Viirtue MCP Adds Google Gemini and xAI Grok, So Businesses Can Talk to Their AI Voice Platform",
-   "summary_en": "",
-   "title_mn": "Viirtue MCP платформд Google Gemini болон xAI Grok нэмэгдлээ",
-   "summary_mn": "Viirtue компани өөрийн AI дуут платформдоо Google Gemini болон xAI Grok загваруудыг нэгтгэснээр бизнесүүдэд илүү өргөн сонголт олгож байна.",
-   "body_mn": "Viirtue MCP платформ нь хиймэл оюун ухааны дуут системүүддээ Google Gemini болон xAI Grok загваруудыг албан ёсоор нэмжээ. Энэхүү интеграцийн тусламжтайгаар бизнесүүд болон хөгжүүлэгчид дуут харилцааны шийдлүүддээ дэвшилтэт LLM загваруудыг чөлөөтэй холбож ашиглах боломжтой болж байна.\n\nУг шинэчлэл нь хэрэглэгчдэд өөрсдийн дуут платформ болон AI агент хоорондын харилцан үйлчлэлийг сайжруулах, илүү байгалийн бөгөөд ухаалаг хариу үйлдэл үзүүлэх боломжийг бүрдүүлж байгаа юм.\n\nХөгжүүлэгчид үйлчлүүлэгчдийнхээ хэрэгцээ шаардлагад нийцүүлэн янз бүрийн хиймэл оюун ухааны загваруудыг дуут үйлчилгээндээ хялбархан суулгах боломжтой боллоо.",
-   "published": "2026-10-21T13:00:00Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a2e20b6bd72d74ea",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "MIXED Reality News",
-   "url": "https://mixed-news.com/en/claude-api-user-profiles-ban-one-customer-not-whole-account/",
-   "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/47d7f15e3a1a7ee8c9303a801582d2eaeb183fb6.png",
-   "title": "Claude API resellers can now get one customer banned instead of their whole account",
-   "summary_en": "Companies that resell Claude or build apps on it can now tell Anthropic which end customer each request belongs to. If one customer breaks the rules, a",
-   "title_mn": "Claude API хэрэглэгчдийг тусгай профайлтай болгосноор дансаараа хориг авахаас сэргийлнэ",
-   "summary_mn": "Anthropic компани API хөгжүүлэгчдэд эцсийн хэрэглэгч бүрээр профайл үүсгэх боломж олгосноор нэг хэрэглэгчийн алдаанаас болж бүтэн байгууллагын данс хоригдохоос хамгаалжээ.",
-   "body_mn": "Anthropic компани Claude API болон платформ хөгжүүлэгчдэд зориулсан шинэ боломжийг танилцууллаа. Одооноос эхлэн API реселлерүүд болон апп хөгжүүлэгчид хүсэлт бүрийг аль эцсийн хэрэглэгч илгээснийг тодорхойлох профайл ID ашиглах боломжтой болсон байна.\n\nӨмнө нь ямар нэгэн дүрэм зөрчсөн тохиолдолд тухайн платформ эсвэл компани бүтнээрээ хориг авах эрсдэлтэй байсан бол шинэ өөрчлөлтөөр зөвхөн зөрчил гаргасан тухайн эцсийн хэрэглэгчийн профайлыг л хязгаарлах юм. Энэ нь бусад энгийн хэрэглэгчдийн урсгалд ямар нэгэн нөлөө үзүүлэхгүй.\n\nМөн энэхүү шинэчлэлттэй хамт байгууллагын түвшний вебхүүгүүд бета хэлбэрээр нээгдэж, хэрэглэгчийн профайл хоригдсон эсвэл сэргээгдсэн тухай мэдээллийг шууд хүлээж авах боломжтой болжээ.",
-   "published": "2026-10-21T13:53:58Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3e0804c196a1075d",
-   "subtopic": "packages",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-   "image": "https://safedep.io/images/litellm-pypi-compromise-credential-stealer-backdoor-banner.jpg",
-   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-   "summary_en": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 158 # Comments: 60",
-   "title_mn": "LiteLLM сав баглаа боодлын PyPI дээрх хувилбараас хортой код илрэв",
-   "summary_mn": "PyPI дээр байршсан LiteLLM 1.107.0 хувилбар нь хэрэглэгчийн нууц мэдээлэл хулгайлах болон системд нэвтрэх backdoor суулгадаг хортой код агуулсан байжээ.",
-   "body_mn": "Python хэлний PyPI репозитор дээр байршсан LiteLLM сангийн 1.107.0 хувилбар нь системийн эрх авах болон нууц мэдээлэл хулгайлах хортой код агуулсан болох нь тогтоогджээ. Linux, macOS болон Windows үйлдлийн системд зориулсан уг хувилбарыг суулгахад Python процесс асах бүрт автоматаар ажилладаг файлууд сууж байсан байна.\n\nАлбан ёсны GitHub эх код дээр энэхүү хортой өөрчлөлт байхгүй бөгөөд PyPI дээр байрших явцдаа буюу гаргагчийн дамжлага (release pipeline) хакердсаны улмаас хортой код нэмэгдсэн байж магадгүй гэж аюулгүй байдлын шинжээчид үзэж байна. Тус хортой файл нь эхлүүлэгч скрипт ашиглан гадны сервертэй холбогдох оролдлого хийдэг байжээ.\n\nPyPI уг хувилбарыг аль хэдийн устгасан бөгөөд хөгжүүлэгчид өөрсдийн төслүүд дэх LiteLLM сангийн хувилбарыг шалгаж, шаардлагатай бол аюулгүй хувилбар руу яаралтай шилжихийг зөвлөж байна.",
-   "published": "2026-10-21T14:00:26Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "57b073d84edee03f",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.36.0",
-   "image": "https://opengraph.githubassets.com/1d3a3619c924397086220246fccc5a256c259f6e3354b02c8922ad8a4f8b6094/openai/openai-python/releases/tag/v3.36.0",
-   "title": "openai-python v3.36.0",
-   "summary_en": "3.36.0 (2026-10-21) Features add Vertex AI support for the Responses API ( #4139 ) ( 3e63d33 ) api: add 30-minute cache-write usage counts ( #4111 ) ( 5589146 ) api: add compaction trigger IDs ( #4122 ) ( 0e5794d ) api: add custom voice consent management ( #4135 ) ( de6d70d ) types: prepare native synchronous WebSocket option type ( #4118 ) ( 90c0bac ) Bug Fixes api: accept canonical batch responses in strict mode ( #4106 ) ( 6eaa90e ) clean up failed WebSocket setup and honor native options ( #4121 ) ( b1a1a10 ) end sync WebSocket recovery when an attempt is interrupted ( #4129 ) ( 337769b…",
-   "title_mn": "openai-python v3.36.0 хувилбар гарлаа",
-   "summary_mn": "OpenAI Python сангийн v3.36.0 шинэ хувилбар гарч, Vertex AI дэмжлэг, WebSocket сонголтууд болон бусад шинэ боломжуудыг нэмжээ.",
-   "body_mn": "OpenAI-ийн Python хөгжүүлэлтийн сангийн v3.36.0 шинэ хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр Responses API-д Vertex AI дэмжлэг нэмэгдэж, 30 минутын кэш бичих хэрэглээний тоолуур болон компакт төлөвийн ID-ууд шинээр оржээ. Мөн мэдээллийн сан болон WebSocket тохиргоотой холбоотой зарим алдаануудыг зассан байна.\n\nХөгжүүлэгчдэд зориулж уугуул синхрон WebSocket сонголтын төрлүүдийг бэлтгэж, захиалгат дуу хоолойны зөвшөөрлийн удирдлагыг сайжруулсан байна. Энэ нь OpenAI API-ийг өөрийн төслүүд болон үүлэн дэд бүтцэд ашиглаж буй хөгжүүлэгчдэд илүү өргөн боломж олгож байна.",
-   "published": "2026-10-21T15:53:22Z",
-   "added": "2026-10-21T17:28:45Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e270f5ba4688033d",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/empowering-cyber-defenders",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/4fQCOyqbS5WVftYzLdd8UX/260b8061c6c8641dd0102042cb1acc32/empowering-cyber-defenders-social.png?w=1600&h=900&fit=fill",
-   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-   "summary_en": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-   "title_mn": "OpenAI: Кибер хамгаалагчдыг дэмжих шинэ стратеги ба аюулгүй байдлын төлөвлөгөө",
-   "summary_mn": "OpenAI компани дэвшилтэт хиймэл оюуныг кибер хамгаалалтад ашиглах, эрсдэлээс урьдчилан сэргийлэх шинэ загвар, төлөвлөгөөг танилцууллаа.",
-   "body_mn": "OpenAI компани хиймэл оюун ухааны хурд, цар хүрээ кибер аюулгүй байдалд хэрхэн нөлөөлж байгаа талаар шинэ тайлан, удирдамж нийтэлжээ. Энэхүү баримт бичигт кибер хамгаалагчдад дэвшилтэт хиймэл оюуныг олгож, хорлон сйтгэгчдээс түрүүлж хамгаалалтаа сайжруулахын чухлыг онцолсон байна.\n\nТөлөвлөгөөнд дэвшилтэт загвар болон агент системүүдийн аюулгүй байдлыг сайжруулах, аюултай үйлдлийг эрт илрүүлэх, мөн найдвартай унтраах хяналтыг бий болгохыг уриалжээ. Мөн тагнуулын болон мэдээллийн эрин үеийн кибер аюулгүй байдлыг шинэчилж, чухал дэд бүтцийг хамгаалахад онцгойлон анхаарсан байна.\n\nЗасгийн газар болон технологийн салбарынхан хамтран ажиллаж, бие даасан техникийн үнэлгээ хийх, осол зөрчлийг мэдээлэх стандарт тогтоох хэрэгтэйг тус компани санууллаа. Энэ нь хөгжүүлэгчид болон аюулгүй байдлын инженерүүдэд системээ илүү найдвартай болгоход туслах юм.",
-   "published": "2026-10-21T00:00:00Z",
-   "added": "2026-10-21T20:49:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e8fe1ada10da4b76",
-   "subtopic": "ai-devtools",
-   "source": "ollama/ollama",
-   "source_label": "ollama/ollama",
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
-   "image": "https://opengraph.githubassets.com/645edff1377b3e02b068ecbfca0954c97d4b864d8253a8524ce92bf452d2a01d/ollama/ollama",
-   "title": "ollama v0.40.8: mlx: add Flint model support (#19181)",
-   "summary_en": "Preserve source tool JSON alongside decoded API values so Flint can retain numeric types and schema order in prompts. Existing API marshaling is unchanged. Assemble ModelOpt expert banks during safetensors import, and reject direct Flint NVFP4 creation before conversion. Other models retain their existing import and quantization paths. Add optional learned sinks and device causal masks to shared MLX attention. Existing callers retain the no-sink and host-mask paths; Flint opts into the new behavior.",
-   "title_mn": "Ollama v0.40.8 гарлаа: Flint загварын дэмжлэг болон бусад сайжруулалт",
-   "summary_mn": "Ollama v0.40.8 хувилбар гарч, Flint загварын дэмжлэг, тоон төрлийг хадгалах болон MLX анхаарлын механизмын сайжруулалтуудыг нэмжээ.",
-   "body_mn": "Ollama төсөл v0.40.8 шинэ хувилзраа гаргасан бөгөөд энэ удаад Apple-ийн MLX дээр суурилсан Flint загварын дэмжлэгийг нэмсэн байна. Энэ нь загварт тоон төрөл болон схемүүдийг сануулах боломжийг олгох бөгөөд API дамжуулалтад өөрчлөлт оруулахгүйгээр ажиллана.\n\nШинэ хувилбарт Safetensors импортлох явцад ModelOpt эксперт банкнуудыг угсрах боломжтой болж, хөрвүүлэлт хийхгүйгээр Flint NVFP4 үүсгэх оролдлогыг хаажээ. Мөн хуваалцсан MLX анхаарлын механизмд нэмэлт төхөөрөмжийн шалтгаант маскуудыг суулгасан байна.\n\nЛокалавчлагдсан LLM болон локал орчинд туршилт хийдэг хөгжүүлэгчдэд энэхүү шинэчлэлт нь загварын ажиллагааг сайжруулах чухал засвар болж байна.",
-   "published": "2026-10-21T14:45:50Z",
-   "added": "2026-10-21T20:49:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0ce38a182e587662",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Blog",
-   "source_label": "GitHub Blog",
-   "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-   "image": "https://github.blog/wp-content/uploads/2026/01/generic-mona-github.png?fit=1920%2C1080",
-   "title": "The bridge to agent-scale Git infrastructure",
-   "summary_en": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.",
-   "title_mn": "GitHub: Дэлхийн хэмжээний агентуудад зориулсан Git дэд бүтцийг шинэчилж байна",
-   "summary_mn": "GitHub платформ Git ачааллыг даах, дата төв болон Azure үүлэн орчныг хослуулан ажиллах шинэ архитектурын шилжилтээ танилцууллаа.",
-   "body_mn": "Сүүлийн нэг жилийн хугацаанд GitHub дээрх Git урсгал асар хурдацтай өсөж, хадгалах сангуудын дийлэнх нь өөрсдийн дата төв болон Microsoft Azure хооронд хуваарилагдан ажиллаж байна. Гэсэн хэдий ч хамיйн завгүй сангуудын хувьд 25 миллисекундын сүлжээний хоцролт нь том сорилт болж байгаа аж.\n\nЭнэхүү асуудлыг шийдвэрлэхийн тулд GitHub дата болон үйлчилгээг Azure руу эхлүүлэн зөөвөрлөж, урсгалыг оновчтой чиглүүлэх preferential routing аргыг ашиглаж эхэлжээ. Одоогоор ихэнх хадгалах сангууд Azure дээр хуулбартай болж, нийт Git урсгалын тал хувийг уг үүлэн орчноос амжилттай үйлчилж байна.\n\nХөгжүүлэгчдийн хувьд энэ нь өндөр ачаалалтай үед ч репозиторуудын хурдыг алдагдуулахгүй байх, агентад суурилсан хөгжүүлэлтийн хэрэгслүүдийн өсөлтийг найдвартай даах суурь дэд бүтцийг бүрдүүлж байгаагаараа чухал юм.",
-   "published": "2026-10-21T16:00:00Z",
-   "added": "2026-10-21T20:49:16Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "0098e0bdcb294121",
    "subtopic": "vercel-cloud",
    "source": "Vercel",
@@ -737,6 +537,106 @@
    "added": "2026-10-23T00:17:42Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7bf4630bf25d5352",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+   "image": "https://github.blog/wp-content/uploads/2026/10/681207257-5993c03c-c523-44d2-b2bf-8ac57818dd74.jpg",
+   "title": "Industry comparisons in the Copilot impact dashboard",
+   "summary_en": "The Copilot impact dashboard now includes an “Industry comparison” section. Enterprises, and organizations that aren’t owned by an enterprise, can compare their Copilot agentic adoption and leverage with aggregated benchmarks…",
+   "title_mn": "GitHub Copilot хяналтын самбарт салбарын харьцуулалт нэмэгдлээ",
+   "summary_mn": "GitHub Copilot хяналтын самбарт байгууллагууд өөрсдийн ашиглалтын түвшинг бусад ижил төстэй компаниудтай харьцуулах боломжтой шинэ хэсэг нэмэгдлээ.",
+   "body_mn": "GitHub Copilot нөлөөллийн хяналтын самбарт “Industry comparison” буюу салбарын харьцуулалт гэсэн шинэ хэсэг нэмэгдлээ. Ингэснээр аж ахуйн нэгж болон байгууллагууд Copilot агент болон хэрэгслүүдийг хэрхэн ашиглаж байгаагаа бусад оролцогч байгууллагуудын нэгтгэсэн дундаж үзүүлэлттэй харьцуулан харж болох юм.\n\nЭнэхүү боломж нь анхдагчаар идэвхжээгүй байх бөгөөд байгууллагууд өөрсдөө сонгож оролцох боломжтойгоор хийгджээ. Удирдлагууд энэхүү салбарын жишиг мэдээллийг ашиглан өөрсдийн хөгжүүлэлтийн явцыг хэмжих, зорилтоо зөв тодорхойлох боломжтой болж байна.",
+   "published": "2026-10-22T16:28:24Z",
+   "added": "2026-10-23T05:07:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a3f440eb159e057c",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "image": "https://opengraph.githubassets.com/3bf955b406225e317de8648d6408bb9a978602380b8b26fb41ce37519ec669d8/NVIDIA/OpenShell",
+   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+   "summary_en": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 342 # Comments: 181",
+   "title_mn": "OpenShell 0.1 хувилбар: Хиймэл оюун ухааны агентуудад зориулсан аюулгүй орчин",
+   "summary_mn": "Бие даасан хиймэл оюун ухааны агентуудыг аюулгүй ажиллуулах OpenShell 0.1 хувилбар шинэ боломж, API-уудтайгаар гарлаа.",
+   "body_mn": "Бие даасан хиймэл оюун ухааны агентуудын флотод зориулсан аюулгүй, хувийн орчин болох OpenShell 0.1 хувилбар гарлаа. Энэхүү хувилбар нь тогтвортой шинэчлэлтийн мөчлөг, тусгаарлалтын шинэ аргууд болон өргөтгөсөн API боломжуудыг санал болгож байна.\n\nАгентууд нь файлуудыг унших, багц суулгах, API дуудах эрх хэрэгтэй байдаг ч энэ нь аюулгүй байдлын эрсдэл дагуулдаг. OpenShell нь кернелийг удирдах замаар файл болон сүлжээний холболт бүрийг бодит цаг хугацаанд хянаж, тогтоосон бодлогын дагуу хязгаарладаг тул хөгжүүлэгчид агентуудыг аюулгүйгээр турших боломжтой болж байна.\n\nЭнэхүү хэрэгсэл нь Linux, macOS (Apple Silicon) болон WSL 2 дээр ажиллах ба Docker эсвэл Podman дэмждэг. Хөгжүүлэгчид өөрсдийн кодын агентуудыг суулган аюулгүй байдлын бодлого бичиж турших боломжтой юм.",
+   "published": "2026-10-22T17:44:06Z",
+   "added": "2026-10-23T05:07:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "42b2201e14ba0002",
+   "subtopic": "vibe-coding",
+   "source": "Builder.io Blog",
+   "source_label": "Builder.io Blog",
+   "url": "https://www.builder.io/blog/ai-agent-actions",
+   "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5f1fc60e96244a54a127e9e35a704560?width=1200",
+   "title": "Why are we still building apps just for humans?",
+   "summary_en": "If your UI blocks an edit, your AI agent shouldn’t be able to make it. Here’s how AI agent actions keep one set of rules for every caller.",
+   "title_mn": "Хиймэл оюун ухааны эрин үед аппликейшнийг хэрхэн зохиох вэ?",
+   "summary_mn": "Зөвхөн хүмүүст буюу хэрэглэгчийн интерфейст зориулж апп бүтээх хандлага өөрчлөгдөж, хиймэл оюун ухааны агентуудад зориулсан архитектурын шийдлүүдийн талаар өгүүлжээ.",
+   "body_mn": "Бид хэрэглэгчийн интерфэйстэй ажиллахын зэрэгцээ хиймэл оюун ухааны агентуудад даалгавар өгдөг болсон энэ үед уламжлалт хөгжүүлэлтийн арга барил сорилттой тулгарч байна. Жишээ нь, хэрэглэгч веб хуудсаар дамжуулан зардал шинэчлэх хүсэлт явуулахад UI дээрх шалгуур үйлчилдэг бол агент шууд өөр замаар хандаж тухайн шалгуурыг тойрч гарах эрсдэлтэй байдаг.\n\nҮүнийг шийдхийн тулд хөгжүүлэгчид зөвхөн UI руу чиглэсэн архитектураас татгалзаж, бизнесийн логик болон үйлдэл бүрийг төвлөрүүлсэн Agent-Native арга барилд шилжих шаардлагатай болж байна. Өөрөөр хэлбэл, тухайн үйлдлийг хийх логик нэг газарт байршиж, UI, агент, CLI эсвэл HTTP хүсэлтүүд аль нь ч байсан яг ижил дүрэм, зөвшөөрлийн шалгуурыг давдаг байхаар зохион байгуулах нь чухал юм.\n\nЭнэ нь агентуудад найдвартай эрх олгох, үйл ажиллагааны зөрүү гаргахгүй байх боломжийг олгох бөгөөд орчин үеийн аппликейшн хөгжүүлэлтэд анхаарах ёстой гол зарчмуудын нэг болж байна.",
+   "published": "2026-10-22T18:00:00Z",
+   "added": "2026-10-23T05:07:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "891b7e0bbf66f86d",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/decisions-api",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/2oP82PTDAPhlalF1TRNt8Q/af6bb8e886e29d6e0880c75a0de781f8/build-more-responsive-apps-with-the-decisions-api-social.png?w=1600&h=900&fit=fill",
+   "title": "Build more responsive apps with the Decisions API",
+   "summary_en": "Fast, focused, low-cost decisions for any application.",
+   "title_mn": "OpenAI бага хоцролттой шийдвэр гаргах Decisions API-аа нийтийн хэрэглээнд гаргалаа",
+   "summary_mn": "OpenAI GPT-6 Luna загварт суурилсан Decisions API-аа албан ёсоор танилцууллаа. Энэ нь өгөгдлийг ангилах, чиглүүлэх зэрэг үйлдлийг 10 дахин хурдан, хямд гүйцэтгэх боломжтой.",
+   "body_mn": "OpenAI системүүд болон хиймэл оюуны агентуудад зориулсан Decisions API-аа ерөнхий хэрэглээнд (GA) гаргалаа. GPT-6 Luna загвар дээр суурилсан уг API нь хязгаарлагдмал хариулттай асуултуудад төвлөрч, Responses API-тай харьцуулахад бараг 10 дахин хурдан бөгөөд бага зардлаар шийдвэр гаргадаг байна.\n\nБета хувилбараас хойш уг үйлчилгээнд GPT-Live шууд интеграц, давтан контекстод зориулсан prompt caching, АНУ болон ЕХ-ны бүсэд тооцоолол хийх сонголт нэмэгджээ. Хөгжүүлэгчид төрөлх JSON өгөгдөл, зураг дамжуулах боломжтой ба нэг хүсэлтээр 400 хүртэлх асуултыг нэг дор шийдвэрлүүлэх боломжтой болсон байна.\n\nDecisions API нь магадлал (probability), сонголт (choice), оноо (score) гэсэн гурван төрлийн хариу буцаадаг. Ингэснээр дуут туслахын харилцан ярианы дундуур хэрэглэгчийн хүсэлтийг чиглүүлэх, агентын дараагийн алхмыг тодорхойлох болон агуулгыг ангилахад маш бага хоцролттойгоор ашиглагдах давуу талтай.",
+   "published": "2026-10-22T19:00:00Z",
+   "added": "2026-10-23T05:07:43Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d19aa6d211564b7b",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.37.0",
+   "image": "https://opengraph.githubassets.com/afe89a8e332b6adf01393ba063c84f06aef1579ab08f641c37d5cc4ead4b56ff/openai/openai-python/releases/tag/v3.37.0",
+   "title": "openai-python v3.37.0",
+   "summary_en": "3.37.0 (2026-10-22) ⚠ BREAKING CHANGES api: This minor release includes a breaking change to Decisions types. In Live response models, question instructions can now be a string or a list of structured text, image, or JSON parts; check isinstance(question.instructions, str) before using string operations and handle the structured form. Decisions request input types also include additional message roles and tool-history items, so update exhaustive type checks accordingly. Existing string instructions and DecisionInputMessageParam user-message inputs remain supported. Features api: expand…",
+   "title_mn": "openai-python v3.37.0 гарлаа: Decisions API-д зориулсан нийцэл эвдэх өөрчлөлтүүд",
+   "summary_mn": "OpenAI албан ёсны Python сангаа v3.37.0 болгон шинэчилж, Decisions төрлүүдэд бүтцийн хувьд нийцэл эвдэх өөрчлөлтүүд (breaking changes) оруулав.",
+   "body_mn": "OpenAI өөрийн Python SDK сангийн v3.37.0 хувилбарыг нийтэллээ. Энэхүү дэд хувилбарт Decisions API-ийн төрөлтэй холбоотой өмнөх кодын нийцлийг эвдэх (breaking change) өөрчлөлт орсон тул хөгжүүлэгчид кодоо шинэчлэх шаардлагатай болж байна.\n\nLive хариуны загваруудад question.instructions нь зөвхөн текст төдийгүй бүтэцлэгдсэн текст, зураг, эсвэл JSON хэсгүүдийн жагсаалт байх боломжтой болжээ. Иймд string функцуудыг дуудахаас өмнө isinstance(question.instructions, str) шалгалтыг заавал хийхийг зөвлөж байна. Мөн Decisions хүсэлтийн оролтын төрөлд мессежийн нэмэлт үүргүүд болон tool-history элементүүд нэмэгдсэн тул хатуу хэвшил (exhaustive type checks) шалгадаг хөгжүүлэгчид үүнийг тооцох хэрэгтэй.\n\nҮүнээс гадна файлын болон видеоны статус шалгах туслах функцууд (polling helpers), Live холболтын үндсэн тохиргоонуудыг хадгалан сайжруулж, setup-uv хамаарлыг 10.3.0 хувилбар руу ахиулсан байна.",
+   "published": "2026-10-22T20:03:54Z",
+   "added": "2026-10-23T05:07:43Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
   }
  }
 ]

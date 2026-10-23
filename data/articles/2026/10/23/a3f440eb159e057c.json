@@ -1,0 +1,17 @@
+{
+ "id": "a3f440eb159e057c",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/NVIDIA/OpenShell",
+ "image": "https://opengraph.githubassets.com/3bf955b406225e317de8648d6408bb9a978602380b8b26fb41ce37519ec669d8/NVIDIA/OpenShell",
+ "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+ "summary_en": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 342 # Comments: 181",
+ "title_mn": "OpenShell 0.1 хувилбар: Хиймэл оюун ухааны агентуудад зориулсан аюулгүй орчин",
+ "summary_mn": "Бие даасан хиймэл оюун ухааны агентуудыг аюулгүй ажиллуулах OpenShell 0.1 хувилбар шинэ боломж, API-уудтайгаар гарлаа.",
+ "body_mn": "Бие даасан хиймэл оюун ухааны агентуудын флотод зориулсан аюулгүй, хувийн орчин болох OpenShell 0.1 хувилбар гарлаа. Энэхүү хувилбар нь тогтвортой шинэчлэлтийн мөчлөг, тусгаарлалтын шинэ аргууд болон өргөтгөсөн API боломжуудыг санал болгож байна.\n\nАгентууд нь файлуудыг унших, багц суулгах, API дуудах эрх хэрэгтэй байдаг ч энэ нь аюулгүй байдлын эрсдэл дагуулдаг. OpenShell нь кернелийг удирдах замаар файл болон сүлжээний холболт бүрийг бодит цаг хугацаанд хянаж, тогтоосон бодлогын дагуу хязгаарладаг тул хөгжүүлэгчид агентуудыг аюулгүйгээр турших боломжтой болж байна.\n\nЭнэхүү хэрэгсэл нь Linux, macOS (Apple Silicon) болон WSL 2 дээр ажиллах ба Docker эсвэл Podman дэмждэг. Хөгжүүлэгчид өөрсдийн кодын агентуудыг суулган аюулгүй байдлын бодлого бичиж турших боломжтой юм.",
+ "published": "2026-10-22T17:44:06Z",
+ "added": "2026-10-23T05:07:43Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
