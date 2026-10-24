@@ -1,0 +1,17 @@
+{
+ "id": "897c316905b32628",
+ "subtopic": "gemini",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+ "image": "https://bottlecapai.com/assets/thinkingcap-gemma-4-26b/press-thinkingcap-gemma-4-26b.jpg",
+ "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+ "summary_en": "Article URL: https://bottlecapai.com/post/thinkingcap-gemma-4-26b/ Comments URL: https://news.ycombinator.com/item?id=50209907 Points: 103 # Comments: 19",
+ "title_mn": "BottleCap AI: Gemma-4-26B-A4B-ийн бодох хугацааг нарийвчлалыг нь алдуулахгүйгээр 39% бууруулжээ",
+ "summary_mn": "BottleCap AI баг ThinkingCap цувралын хүрээнд Google-ийн Gemma-4-26B-A4B-it загварын бодох токенийг 38.9%-иар бууруулсан үр дүнгээ танилцууллаа. Энэ нь загварын нарийвчлалд бараг нөлөөлөхгүйгээр инференсийн зардлыг хэмнэх боломжтойг харуулжээ.",
+ "body_mn": "BottleCap AI компани ThinkingCap цувралынхаа тав дахь загварыг танилцууллаа. Тэд Google-ийн Gemma-4-26B-A4B-it sparse mixture-of-experts (MoE) загварыг оновчилж, хариултын нарийвчлалыг нь хадгалахын зэрэгцээ бодох токений (thinking tokens) хэмжээг дунджаар 38.9%-иар бууруулсан байна. Тус загвар нь нийт 26 тэрбум параметртэй бөгөөд нэг токенд 4 тэрбум нь идэвхждэг бүтэцтэй юм.\n\nТуршилтаар 12 төрлийн бенчмарк дээр шалгахад нийт нарийвчлалын бууралт ердөө 0.15 хувийн нэгж байсан бөгөөд ихэнх даалгаварт үр дүнгийн зөрүү статистик алдааны хязгаар дотор багтжээ. Тэр дундаа даалгавар биелүүлэх (instruction following) болон агент чадвар нь 0.65 хувиар, математикийн чадвар 0.39 хувиар сайжирсан бол код бичих чадвар өөрчлөгдөөгүй байна. Бодох токений бууралт LongBench v2 дээр хамгийн өндөр буюу 69.1% хүрсэн бол мэдлэг ба учир шалтгааны даалгаварт 44.4%-иар багасчээ.\n\nХөгжүүлэгчдийн хувьд энэхүү оновчлол нь том хэмжээний inference ажиллуулахад гарах зардлыг шууд хэмнэж, хэрэглэгчдэд хариу буцаах хугацааг (latency) эрс богиносгох давуу талтай юм. BottleCap өмнө нь Qwen болон NVIDIA Nemotron загваруудад энэ аргыг амжилттай хэрэгжүүлсэн бөгөөд enterprise түвшинд 62% хүртэл токен хэмнэх боломжтой PRO хувилбарыг санал болгож байна.",
+ "published": "2026-10-23T14:43:02Z",
+ "added": "2026-10-24T00:56:01Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

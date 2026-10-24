@@ -1,0 +1,17 @@
+{
+ "id": "ee4c22366ef7e7ab",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/1p8WL4wct7MU8nnw6609WL/6ae794fe4cc93d37cc095d4d45730669/scaling-storage-one-billion-users-part-two-social.png?w=1600&h=900&fit=fill",
+ "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+ "summary_en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+ "title_mn": "OpenAI 1 тэрбум хэрэглэгчийн санах байгууламжийг Cosmos DB-ээр хэрхэн өргөтгөсөн тухайгаа хуваалцлаа",
+ "summary_mn": "OpenAI 1 тэрбум гаруй хэрэглэгчтэй ChatGPT-ийн өгөгдлийг найдвартай хадгалах Habitat платформынхоо хүрээнд Azure Cosmos DB-г хэрхэн өргөтгөж, олон түрээслэгчийн (multi-tenancy) архитектурт шилжүүлснээ нийтэллээ.",
+ "body_mn": "OpenAI өөрийн бүтээгдэхүүнүүдийн өгөгдөл хадгалах үндсэн суурь болох Habitat платформын хөгжүүлэлтийн туршлагаа цуврал нийтлэлээр танилцуулж байна. Нийт 40 гаруй бүс нутагт тархсан, 1 тэрбум гаруй хэрэглэгчийн 500 петабайт өгөгдлийг миллисекундын дотор уншиж хариулах үүрэгтэй уг системийн хоёрдугаар хэсэгт Azure Cosmos DB-ийг хэрхэн масштабжуулсан тухайгаа тайлбарлажээ.\n\nИнженерийн баг системээ өргөтгөхдөө single-tenant болон multi-tenant бүтцийн давуу, сул талуудыг олон дахин туршиж үзсэн байна. Эхэндээ баг бүр өөрийн тусдаа контейнер хариуцах нь тусгаарлалтын хувьд сайн байсан ч хэт их нөөц үр ашиггүй хуваарилахад (over-provisioning) хүргэсэн тул төвлөрсөн санг удирдах multi-tenant загвар руу шилжжээ. Үүний үр дүнд хүчин чадлыг хамтран удирддаг (co-managed containers) бүтэц бий болгосон байна.\n\nЭнэхүү нийтлэл нь асар том хэмжээний дата бааз, өндөр ачаалалтай NoSQL систем зохион бүтээж буй систем архитекторууд болон бэкенд хөгжүүлэгчдэд зориулсан үнэтэй туршлага болж байна. OpenAI нь Azure Cosmos DB-ийн бэлэн эх хэрэгслүүдийг оновчтой ашигласнаар хөгжүүлэгчдийн ажлын хурдыг сааруулахгүйгээр дэлхийн хэмжээний өндөр унших хурд (read performance)-ийг хангаж чадсанаа онцолжээ.",
+ "published": "2026-10-23T17:00:00Z",
+ "added": "2026-10-24T00:56:01Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "638075d1a8176ad7",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.36.1",
-   "image": "https://opengraph.githubassets.com/5b6b266b5487833bcfc9381c3b1e069867fb961ad5c381362c5fb00d310fe296/openai/openai-python/releases/tag/v3.36.1",
-   "title": "openai-python v3.36.1",
-   "summary_en": "3.36.1 (2026-10-22) Bug Fixes api: honor per-call WebSocket query settings ( #4138 ) ( d40a5e1 ) examples: stop microphone capture between recordings ( #4143 ) ( 26e5d92 ) validate browser calls before reading driver state ( #4142 ) ( 2bfe460 ) Chores api: clarify service-account API key deletion ( #4151 ) ( 6ed945e ) Refactors prepare handwritten chunked upload runtime ( #4146 ) ( 2d58e82 ) prepare handwritten vector-store polling runtime ( #4148 ) ( 7cd7028 )",
-   "title_mn": "openai-python v3.36.1 гарлаа",
-   "summary_mn": "OpenAI Python SDK-ийн 3.36.1 хувилбарт WebSocket дуудлагын тохиргоог зөв хадгалах болон микрофон, хөтчийн төлөвтэй холбоотой алдаануудыг засав.",
-   "body_mn": "OpenAI-ийн албан ёсны Python сангийн v3.36.1 шинэчлэлт нийтлэгдлээ. Энэхүү хувилбараар хэд хэдэн чухал алдаа засагдсаны дотор дуудлага бүрийн түвшинд тохируулсан WebSocket query settings-ийг зөв тооцох боломж багтжээ.\n\nМөн жишээ кодуудад бичлэг хооронд микрофоны ажиллагааг зогсоох, драйверын төлөвийг уншихаас өмнө хөтчийн дуудлагуудыг шалгах зохицуулалтууд орсон байна. Түүнчлэн service-account API түлхүүр устгах үйл явцыг илүү тодорхой болгожээ.\n\nХөгжүүлэгчдийн хувьд хэсэгчлэн байршуулах (chunked upload) болон vector-store polling-ийн ажиллах орчныг бэлтгэх бүтцийн өөрчлөлтүүд (refactor) орсон тул API ашиглан өгөгдөл, вектор сангуудтай ажиллахад зориулагдсан суурь сайжирч байна.",
-   "published": "2026-10-22T03:32:31Z",
-   "added": "2026-10-22T13:58:16Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "08b95b6666142e02",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.308",
-   "image": "https://opengraph.githubassets.com/6561fb64edb8a9b4f54d59829154601e665f1223f5add27442243561bb61c06b/anthropics/claude-code/releases/tag/v2.1.308",
-   "title": "claude-code v2.1.308",
-   "summary_en": "What's changed Bug fixes and reliability improvements",
-   "title_mn": "claude-code v2.1.308 хувилбар гарлаа",
-   "summary_mn": "Anthropic-ийн албан ёсны терминал агент claude-code-ийн v2.1.308 хувилбарт найдвартай ажиллагааны сайжруулалт болон алдааны засварууд багтжээ.",
-   "body_mn": "Anthropic компани хөгжүүлэгчдийн терминалаас шууд код бичих, засах боломж олгодог Claude Code хэрэгслийнхээ v2.1.308 хувилбарыг нийтэллээ.\n\nУг шинэ хувилбараар системийн найдвартай ажиллагааг дээшлүүлж, ерөнхий алдаа засваруудыг оруулсан байна.\n\nClaude Code хэрэглэгчид npm-ээр дамжуулан хамгийн сүүлийн хувилбар луу шинэчлэн агент хэрэгслийн тогтвортой байдлыг сайжруулах боломжтой.",
-   "published": "2026-10-22T04:34:55Z",
-   "added": "2026-10-22T13:58:16Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "66a4fc2a3035c76b",
-   "subtopic": "openai",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://github.com/openai/openai-cli",
-   "image": "https://opengraph.githubassets.com/44a876bc8662f68a8ae3f93925bc88301083a9c810640a603af69e15a2037b60/openai/openai-cli",
-   "title": "OpenAI CLI",
-   "summary_en": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 173 # Comments: 85",
-   "title_mn": "OpenAI албан ёсны CLI хэрэгслээ танилцууллаа",
-   "summary_mn": "OpenAI компани REST API-ийг терминалаас удирдах, Go хэл дээр бичигдсэн албан ёсны CLI хэрэгслийг гаргалаа.",
-   "body_mn": "OpenAI өөрийн REST API-тай шууд терминалаас харилцах зориулалттай албан ёсны CLI хэрэгслийг танилцууллаа. Энэхүү хэрэгслийг ашиглахад Go 1.26 буюу түүнээс дээш хувилбар шаардлагатай бөгөөд Homebrew эсвэл go install ашиглан суулгах боломжтой юм.\n\nШинэ CLI нь нөөцөд суурилсан (resource-based) бүтэцтэй тул openai admin эсвэл openai admin organization гэх мэт тушаалуудаар үйлчилгээ болон админ үйлдлүүдийг удирдах боломж олгодог. Мөн стандарт JSON болон JSONL форматыг дэмждэг учир бүрхүүл скрипт (shell scripts) болон автоматжуулалтын пайплайнд хялбар нэгтгэгдэнэ.\n\nҮүнээс гадна Bash, zsh болон fish бүрхүүлд зориулсан автоматаар гүйцээх (Tab completion) ухаалаг функц, зураг сонгогч, зөвлөмж хайх зэрэг хөгжүүлэгчдэд ээлтэй олон төрлийн дэвшилтэт боломжуудыг нэгтгэжээ.",
-   "published": "2026-10-22T05:23:11Z",
-   "added": "2026-10-22T13:58:16Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "24e11e3b34854171",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.6.0",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.6.0",
-   "summary_en": "v14.6.0",
-   "title_mn": "Motion сангаас v14.6.0 хувилбарыг гаргалаа",
-   "summary_mn": "Вэб хөдөлгөөнт дүрслэл, анимацийн алдартай Motion сангийн шинэ v14.6.0 хувилбар албан ёсоор нийтлэгдлээ.",
-   "body_mn": "Вэб хөгжүүлэлтийн анимацийн түгээмэл шийдэл болох Motion сангийн v14.6.0 хувилбар шинээр гарлаа.\n\nЭнэхүү шинэчлэлийн дэлгэрэнгүй жагсаалт хараахан бүрэн гараагүй байгаа ч өмнөх хувилбаруудын сайжруулалт, засваруудыг үргэлжлүүлж байгаа юм.",
-   "published": "2026-10-22T07:43:26Z",
-   "added": "2026-10-22T13:58:16Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "eda525050cea8fce",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/5Ggg0KhDALourCX7MklMBY/c7f06d5982895ca0867ed21a0b95d422/uber-brings-chatgpt-work-to-all-employees-seo.png?w=1600&h=900&fit=fill",
-   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-   "summary_en": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-   "title_mn": "Uber компани ChatGPT Work-ийг бүх ажилтнууддаа нэвтрүүлж эхэллээ",
-   "summary_mn": "Uber 30,000 гаруй ажилтандаа ChatGPT Work платформыг нэвтрүүлж, GPT-6.1 Sol загварыг үндсэн чадавх болгохоор болжээ.",
-   "body_mn": "Uber компани дэлхий даяарх 30,000 гаруй ажилтандаа ChatGPT Work агентыг компани даяар ашиглаж эхлэхээ зарлалаа. Энэхүү өргөжүүлэлт нь анх 1,000 ажилтныг хамарсан туршилтаас эхэлсэн бөгөөд мэдлэгийн ажилд зориулсан олон шаттай цогц ажлуудыг гүйцэтгэх зорилготой юм.\n\nChatGPT Work нь Google Drive, Gmail, Google Calendar, Slack зэрэг өдөр тутмын хэрэглээний хэрэгслүүдтэй холбогдож, мэдээлэл хайх, хурлын тэмдэглэл бэлтгэх, танилцуулга хийх болон өгөгдөл задлан шинжлэх боломжийг олгодог. Үүнд OpenAI-ын frontier загварууд, тэр дундаа GPT-6.1 Sol загварыг анхдагч чадавх болгон ашиглах аж.\n\nНэмж дурдахад хэрэглэгчид дуу хоолой болон дүрс үүсгэх чадваруудыг ашиглах боломжтой бөгөөд Uber-ийн програм хангамжийн багууд хөгжүүлэлтийн явцыг хурдасгахын тулд Codex хэрэгслийг үргэлжлүүлэн ашиглах юм байна.",
-   "published": "2026-10-22T00:00:00Z",
-   "added": "2026-10-22T18:20:04Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3f7e5be4f5970593",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "ETV Bharat",
-   "url": "https://www.etvbharat.com/en/technology/claude-duet-anthropic-announces-personal-ai-agent-to-compete-with-metas-muse-and-openais-dots-enn26102203220",
-   "image": "https://imgs.etvbharat.com/etvbharat/prod-images/22-10-2026/1200-675-27930435-thumbnail-16x9-eclau.jpg",
-   "title": "Claude Duet: Anthropic Announces Personal AI Agent To Compete With Meta's Muse & OpenAI's Dots",
-   "summary_en": "Anthropic's Claude Duet is currently under research preview and available to access via a waitlist for Pro and Max subscribers in the US.",
-   "title_mn": "Anthropic Claude Duet хувийн AI агентыг зарлалаа",
-   "summary_mn": "Anthropic компани Pro болон Max хэрэглэгчдэд зориулсан Claude Duet хувийн AI агентыг судалгааны хувилбараар гаргалаа.",
-   "body_mn": "Anthropic компани өөрийн шинэ Claude Duet хувийн хиймэл оюун ухааны агентыг зарлалаа. Энэ нь Meta-ийн Muse, xAI-ын Grok Bot, OpenAI-ын Dots зэрэг агентуудтай өрсөлдөх зорилготой бөгөөд мэргэжилтнүүд болон жижиг бизнесүүдэд зориулагдсан байна.\n\nClaude Opus 5.5 загвараар ажилладаг энэхүү агент нь хэрэглэгчдэд өдөр тутмын товч мэдээлэл хүргэх, уулзалт товлох, санхүүгийн урьдчилсан тооцоо хийх зэрэг олон төрлийн ажлыг бие даан гүйцэтгэх чадвартай. Клоуд дээр ажилладаг тул апп хаалттай байсан ч үүргээ гүйцэтгэсээр байдаг аж.\n\nАгент нь хэрэглэгчийн зөвшөөрөлгүйгээр мессеж илгээх, төлбөр хийх, баримт бичигт гарын үсэг зурахгүй байхаар бүтээгдсэн байна. Одоогоор АНУ дахь Pro болон Max хэрэглэгчдэд хүлээлийн жагсаалтаар нэвтрүүлж эхлээд байна.",
-   "published": "2026-10-22T08:40:52Z",
-   "added": "2026-10-22T18:20:04Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "fad71b0ab1bed1fd",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Android Central",
-   "url": "https://www.androidcentral.com/apps-software/ai/anthropics-claude-duet-wants-to-do-your-job-while-youre-offline",
-   "image": "https://cdn.mos.cms.futurecdn.net/Rh57RaYVNTZXvboUHowSAC-854-80.jpg",
-   "title": "Anthropic’s Claude Duet wants to do your job while you’re offline",
-   "summary_en": "Claude Duet isn’t just another chatbot — it’s an AI agent that actually gets work done.",
-   "title_mn": "Anthropic компани Claude Duet хувийн AI агент системийг танилцууллаа",
-   "summary_mn": "Anthropic компани хэрэглэгчдийн өмнөөс ажил гүйцэтгэх чадвартай Claude Duet шинэ AI агентыг танилцууллаа. Энэхүү агент нь Claude Opus 5.5 загварт суурилсан бөгөөд фондоор ажиллаж, өглөөний тайлан бэлтгэх боломжтой юм.",
-   "body_mn": "Anthropic компани мэргэжилтнүүд болон жижиг бизнес эрхлэгчдэд зориулсан шинэ Claude Duet хиймэл оюун ухааны агентаа зарлалаа. Энэхүү агент нь уламжлалт чатботуудаас ялгаатай нь таныг офлайн эсвэл завгүй байхад ч арын горимд ажиллаж, холбогдсон аппуудаас чухал мэдээллийг цуглуулан өглөө бүр товч танилцуулга хүргэдэг байна.\n\nClaude Duet нь Anthropic-ийн хамгийн хүчирхэг Claude Opus 5.5 загварт суурилсан бөгөөд хуваарь гаргах, санхүүгийн болон борлуулалтын урьдчилсан тооцоо хийх, вэб апп протатип бүтээх зэрэг олон төрлийн даалгаврыг бие даан гүйцэтгэх чадвартай. Тус систем нь тусгай виртуал машин дотор ажилладаг тул хэрэглэгчдэд байнгын харилцан яриа өрнүүлэх шаардлагагүйгээр өөрийн хүсэлтээр үүрэг даалгавар өгөх боломжийг олгодог.\n\nНууцлал болон аюулгүй байдлын хувьд Claude Duet нь нууц үг болон нэвтрэх токеныг шууд ашиглахгүй бөгөөд зээлийн карт, хувийн үнэмлэх зэрэг маш нууц мэдээллийг зөвшөөрөлгүйгээр хуваалцахаас сэргийлсэн шүүлтүүртэй юм. Одоогийн байдлаар энэхүү судалгааны урьдчилсан хувилбар нь US бүс нутгийн Claude Pro болон Max хэрэглэгчдэд зориулагдсан хүлээлгийн жагсаалтаар нээлттэй байна.",
-   "published": "2026-10-22T08:54:41Z",
-   "added": "2026-10-22T18:20:04Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ad2d03f2e90c5678",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Business Insider",
-   "url": "https://www.businessinsider.com/anthropic-katelyn-lesse-team-shifted-to-ai-coding-entirely-2026-10",
-   "image": "https://i.insider.com/6ad914142a1b5bc156b1ab69?width=1200&format=jpeg",
-   "title": "Anthropic's top engineer reveals just how far her team has gone with AI coding",
-   "summary_en": "At Grafana Labs' ObservabilityCON, Anthropic engineering leader Katelyn Lesse says that Claude Code has completely replaced human coding on her team.",
-   "title_mn": "Anthropic компани платформ инженерийн багийнхаа кодыг бүрэн Claude бичиж байгааг зарлав",
-   "summary_mn": "Anthropic компанийн платформ инженерийн багийн ахлагч Кателин Лессе тэдний үндсэн үйлчилгээ болон дэд бүтцийн код бүхэлдээ Claude агентуудаар бичигдэж байгааг мэдээллээ. Энэ нь програм хангамж хөгжүүлэлтийн явцыг бүрэн автоматжуулах шинэ үе шатыг харуулж байна.",
-   "body_mn": "Anthropic компанийн платформ инженерийн багийг удирддаг Кателин Лессе саяхан болсон арга хэмжээний үеэр тус компанийн үндсэн дэд бүтцийн кодыг бүхэлдээ Claude Code ашиглан бичиж байгааг зарлажээ. Түүний удирдлага дор ажилладаг 200 орчим хүний бүрэлдэхүүнтэй багийн хувьд хүний гараар код бичих үе шат нэгэнт ард хоцорсон байна.\n\nИнженерүүд системийн архитектур болон баталгаажуулалтыг зохион бүтээж, харин бодит код бичих, хянах болон засварлах ажлыг хиймэл оюун ухааны агентуудад бүрэн шилжүүлжээ. Тухайлбал, томоохон кодын санг Python хэлнээс Rust рүү шилжүүлэх явцад агентууд гол ажлыг гүйцэтгэсэн бөгөөд хөгжүүлэгчид зөвхөн үр дүнг шалгах үүрэгтэй оролцсон байна. Anthropic компани энэхүү хандлагаа бүтээгдэхүүний хөгжүүлэлтэд өргөнөөр нэвтрүүлж байгаа аж.\n\nЭнэхүү туршлага нь технологийн салбарт хиймэл оюун ухаан хөгжүүлэлтийн явцыг хэрхэн өөрчилж байгааг тод харуулж байна. Компанийн зүгээс агентууд тест алдааг бие даан засварлах боломжийг аль хэдийн олгосон бөгөөд цаашид кодын санд шууд өөрчлөлт оруулах тал дээр болгоомжтой бөгөөд дэвшилттэй алхмуудыг хийж байна.",
-   "published": "2026-10-22T09:00:00Z",
-   "added": "2026-10-22T18:20:04Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "102177df431aed6e",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Help Net Security",
-   "url": "https://www.helpnetsecurity.com/2026/10/22/anthropic-attack-surface-reduction-open-source/",
-   "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/07102628/anthropic-computer-1500.webp",
-   "title": "Anthropic finds 94 cases where open-source projects drop security controls without warning",
-   "summary_en": "Anthropic explores attack surface reduction with Claude to limit unnecessary code exposure and identify weakened security controls.",
-   "title_mn": "Anthropic: Нээлттэй эх сурвалжтай 25 төслөөс аюулгүй байдлын хяналтыг алөгдүүлсэн 493 асуудал илрүүллээ",
-   "summary_mn": "Anthropic компанийн Frontier Red Team баг Claude ашиглан нээлттэй эх сурвалжтай 25 төсөлд дүн шинжилгээ хийж, баталгаажилтгүй хэрэглэгчдэд функцүүд ил гарсан болон тохиргооны зөрчилтэй 493 асуудал илрүүлжээ.",
-   "body_mn": "Anthropic компанийн аюулгүй байдлын Frontier Red Team баг Claude загварыг ашиглан алдартай 25 нээлттэй эх сурвалжтай програм хангамжийн төслүүдэд кодын аудитын судалгаа хийсэн байна. Судалгаагаар шаардлагагүй функцууд идэвхтэй байх, тохиргоонууд хоорондоо зөрчилдөх, аюулгүй байдлын шалгалт хийгдэхээс өмнө код ажиллах зэрэг нийт 493 асуудлыг илрүүлжээ.\n\nТухайлбал, хэрэглэгчийн баталгаажилт шаардах ёстой бүх 11 төсөлд баталгаажилт хийгдэхээс өмнө хандах боломжтой кодын хэсгүүд байсан нь тогтоогджээ. Мөн тохиргооны зохицлоос үүдэн аюулгүй байдлын хамгаалалт чимээгүйгээр идэвхгүй болсон 94 тохиолдол бүртгэгдсэн байна. Жишээлбэл, OpenSSH систем дээр квантын дараах шилдэг криптографийн код хэрэглэгчийн хүсэлтээр зөвшөөрөлгүйгээр ажиллах боломжтой байсныг Claude илрүүлж, maintainer-үүдтэй хамтран засварлажээ.\n\nЭнэхүү судалгаа нь программ хангамжийн довтолгооны талбарыг (attack surface) багасгах, аюулгүй байдлын шалгалтыг кодын боловсруулалтаас өмнө байрлуулахын чухлыг харуулж байна. Anthropic болон холбогдох төслийн хөгжүүлэгчид эдгээр эмзэг байдлыг засварлаж, шинэ хувилбаруудаа гаргасан байна.",
-   "published": "2026-10-22T09:10:55Z",
-   "added": "2026-10-22T18:20:04Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "81ce6b7313b7ef26",
-   "subtopic": "electron",
-   "source": "Electron Blog",
-   "source_label": "Electron Blog",
-   "url": "https://electronjs.org/blog/electron-45-0",
-   "image": "https://www.electronjs.org/blog/electron-45-0/og-image.png",
-   "title": "Electron 45",
-   "summary_en": "Electron 45 has been released! It includes upgrades to Chromium 156.0.8078.48, V8 15.6, and Node v24.22.0.",
-   "title_mn": "Electron 45 хувилбар Chromium 156 болон Node v24-тэй гарлаа",
-   "summary_mn": "Electron 45 шинэ хувилбар Chromium 156, V8 15.6, Node v24.22.0 шинэчлэлтүүд болон гүйцэтгэлийн сайжруулалттайгаар гарлаа. Энэ хувилбарт санах ойн хэмнэлт, cold-launch хурдыг сайжруулахаас гадна туршилтын Local AI Handler болон платформ passkey дэмжлэг нэмэгджээ.",
-   "body_mn": "Electron 45 албан ёсоор гарсан бөгөөд npm суулгуураар дамжуулан шинэчлэх боломжтой. Энэхүү хувилбар нь Chromium 156.0.8078.48, V8 15.6, Node v24.22.0 зэрэг үндсэн сангуудын шинэ хувилбаруудыг багтаасан байна. Sandbox горим дахь renderer ачааллыг багасгаж, macOS үйлдлийн систем дээрх cold-launch хугацааг эрс сайжруулжээ.\n\nХөгжүүлэгчдийн хувьд дэлгэц болон цонх хуваалцах үйлдэл session.setPermissionRequestHandler() руу display-capture зөвшөөрлөөр дамжих болсон нь томоохон өөрчлөлт юм. Өмнө нь энэ нь хоосон media төрөл хэлбэрээр ирдэг байсан тул камер, микрофоноос ялгах боломжгүй байжээ. Үүнтэй холбоотойгоор зөвшөөрлийн логикоо шинэчлэх шаардлагатай.\n\nШинэ хувилбарт Chromium Prompt API-г локал загвартай холбох туршилтын localAIHandler модулийг нэмсэн нь анхаарал татаж байна. Мөн macOS систем дээр app.configureWebAuthn() ашиглан платформ passkey дэмжих боломжтой болсон ба ASAR архив доторх файлуудыг түр хуулбарлахгүйгээр шууд унших болсноор том файлын cold read хурд 100 дахин хурдассан байна.",
-   "published": "2026-10-21T00:00:00Z",
-   "added": "2026-10-22T21:49:01Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "bbe499adb8d1d958",
    "subtopic": "anthropic",
    "source": "Anthropic (Google News)",
@@ -897,6 +697,66 @@
    "added": "2026-10-23T19:24:15Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "897c316905b32628",
+   "subtopic": "gemini",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+   "image": "https://bottlecapai.com/assets/thinkingcap-gemma-4-26b/press-thinkingcap-gemma-4-26b.jpg",
+   "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+   "summary_en": "Article URL: https://bottlecapai.com/post/thinkingcap-gemma-4-26b/ Comments URL: https://news.ycombinator.com/item?id=50209907 Points: 103 # Comments: 19",
+   "title_mn": "BottleCap AI: Gemma-4-26B-A4B-ийн бодох хугацааг нарийвчлалыг нь алдуулахгүйгээр 39% бууруулжээ",
+   "summary_mn": "BottleCap AI баг ThinkingCap цувралын хүрээнд Google-ийн Gemma-4-26B-A4B-it загварын бодох токенийг 38.9%-иар бууруулсан үр дүнгээ танилцууллаа. Энэ нь загварын нарийвчлалд бараг нөлөөлөхгүйгээр инференсийн зардлыг хэмнэх боломжтойг харуулжээ.",
+   "body_mn": "BottleCap AI компани ThinkingCap цувралынхаа тав дахь загварыг танилцууллаа. Тэд Google-ийн Gemma-4-26B-A4B-it sparse mixture-of-experts (MoE) загварыг оновчилж, хариултын нарийвчлалыг нь хадгалахын зэрэгцээ бодох токений (thinking tokens) хэмжээг дунджаар 38.9%-иар бууруулсан байна. Тус загвар нь нийт 26 тэрбум параметртэй бөгөөд нэг токенд 4 тэрбум нь идэвхждэг бүтэцтэй юм.\n\nТуршилтаар 12 төрлийн бенчмарк дээр шалгахад нийт нарийвчлалын бууралт ердөө 0.15 хувийн нэгж байсан бөгөөд ихэнх даалгаварт үр дүнгийн зөрүү статистик алдааны хязгаар дотор багтжээ. Тэр дундаа даалгавар биелүүлэх (instruction following) болон агент чадвар нь 0.65 хувиар, математикийн чадвар 0.39 хувиар сайжирсан бол код бичих чадвар өөрчлөгдөөгүй байна. Бодох токений бууралт LongBench v2 дээр хамгийн өндөр буюу 69.1% хүрсэн бол мэдлэг ба учир шалтгааны даалгаварт 44.4%-иар багасчээ.\n\nХөгжүүлэгчдийн хувьд энэхүү оновчлол нь том хэмжээний inference ажиллуулахад гарах зардлыг шууд хэмнэж, хэрэглэгчдэд хариу буцаах хугацааг (latency) эрс богиносгох давуу талтай юм. BottleCap өмнө нь Qwen болон NVIDIA Nemotron загваруудад энэ аргыг амжилттай хэрэгжүүлсэн бөгөөд enterprise түвшинд 62% хүртэл токен хэмнэх боломжтой PRO хувилбарыг санал болгож байна.",
+   "published": "2026-10-23T14:43:02Z",
+   "added": "2026-10-24T00:56:01Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ee4c22366ef7e7ab",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/1p8WL4wct7MU8nnw6609WL/6ae794fe4cc93d37cc095d4d45730669/scaling-storage-one-billion-users-part-two-social.png?w=1600&h=900&fit=fill",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "summary_en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+   "title_mn": "OpenAI 1 тэрбум хэрэглэгчийн санах байгууламжийг Cosmos DB-ээр хэрхэн өргөтгөсөн тухайгаа хуваалцлаа",
+   "summary_mn": "OpenAI 1 тэрбум гаруй хэрэглэгчтэй ChatGPT-ийн өгөгдлийг найдвартай хадгалах Habitat платформынхоо хүрээнд Azure Cosmos DB-г хэрхэн өргөтгөж, олон түрээслэгчийн (multi-tenancy) архитектурт шилжүүлснээ нийтэллээ.",
+   "body_mn": "OpenAI өөрийн бүтээгдэхүүнүүдийн өгөгдөл хадгалах үндсэн суурь болох Habitat платформын хөгжүүлэлтийн туршлагаа цуврал нийтлэлээр танилцуулж байна. Нийт 40 гаруй бүс нутагт тархсан, 1 тэрбум гаруй хэрэглэгчийн 500 петабайт өгөгдлийг миллисекундын дотор уншиж хариулах үүрэгтэй уг системийн хоёрдугаар хэсэгт Azure Cosmos DB-ийг хэрхэн масштабжуулсан тухайгаа тайлбарлажээ.\n\nИнженерийн баг системээ өргөтгөхдөө single-tenant болон multi-tenant бүтцийн давуу, сул талуудыг олон дахин туршиж үзсэн байна. Эхэндээ баг бүр өөрийн тусдаа контейнер хариуцах нь тусгаарлалтын хувьд сайн байсан ч хэт их нөөц үр ашиггүй хуваарилахад (over-provisioning) хүргэсэн тул төвлөрсөн санг удирдах multi-tenant загвар руу шилжжээ. Үүний үр дүнд хүчин чадлыг хамтран удирддаг (co-managed containers) бүтэц бий болгосон байна.\n\nЭнэхүү нийтлэл нь асар том хэмжээний дата бааз, өндөр ачаалалтай NoSQL систем зохион бүтээж буй систем архитекторууд болон бэкенд хөгжүүлэгчдэд зориулсан үнэтэй туршлага болж байна. OpenAI нь Azure Cosmos DB-ийн бэлэн эх хэрэгслүүдийг оновчтой ашигласнаар хөгжүүлэгчдийн ажлын хурдыг сааруулахгүйгээр дэлхийн хэмжээний өндөр унших хурд (read performance)-ийг хангаж чадсанаа онцолжээ.",
+   "published": "2026-10-23T17:00:00Z",
+   "added": "2026-10-24T00:56:01Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3eb20557c1902666",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-connect-adds-managed-stripe-api-keys",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2LbnsC2Wg0YUHbvUO0lqcl/47adfabad64ec91f06365dda9914b5f2/image__50_.png",
+   "title": "Vercel Connect adds managed Stripe API keys",
+   "summary_en": "Vercel Connect can now create a separate restricted Stripe API key for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. Vercel creates the key in your Stripe account, limited to the permissions you pick. The existing MCP and bring-your-own API key methods are unchanged. type: embedded-entry-inline id: 3rOuKp0F4Nk80dMYJ5QX6U Most apps and agents run on Stripe’s default secret key, which has full access to the account. With per-agent keys, each agent gets only the access its job needs. For example, a daily revenue report agent…",
+   "title_mn": "Vercel Connect тусгаарлагдсан эрхтэй Stripe API түлхүүрүүдийг автоматаар удирдах боломжтой боллоо",
+   "summary_mn": "Vercel Connect шинэ боломж нэвтрүүлж, агент болон даалгавар тус бүрд зориулсан хязгаарлагдмал эрхтэй Stripe API түлхүүрийг автоматаар үүсгэж, удирдах тохиргоог нэмлээ.",
+   "body_mn": "Vercel Connect үйлчилгээнд Managed API Key сонголт нэмэгдлээ. Хөгжүүлэгчид одоо төслийнхөө агент эсвэл даалгавар бүрд зориулан тусгайлан хязгаарласан эрх бүхий Stripe API түлхүүр үүсгэх боломжтой болж байна. Энэ нь өмнөх бүрэн эрхтэй Secret Key ашиглах эрсдэлийг арилгах зорилготой юм.\n\nЭнэхүү шинэчлэлтээр жишээлбэл орлогын тайлан гаргадаг агентад зөвхөн төлбөрийн мэдээлэл унших (read-only) эрх өгөх, харин шинэ хэрэглэгч бүртгэх агентад зөвхөн харилцагчийн мэдээлэл үүсгэх (write) эрх олгох зэргээр зарчмын хувьд хамгийн бага шаардлагатай эрхийг (least privilege) хуваарилж болно. Түлхүүрийг Vercel өөрөө найдвартай үүсгэж хадгалах тул хөгжүүлэгч ямар нэг түлхүүр код хуулж тавих шаардлагагүй болжээ.\n\nМөн төслийг дахин deploy хийх шаардлагагүйгээр connector тохиргооноос түлхүүрийг rotate хийх боломжтой бөгөөд шилжилтийн үед хуучин түлхүүр нь 24 цагийн турш хүчинтэй хэвээр хадгалагдана. Хөгжүүлэгчид Vercel CLI болон Connectors цэснээс уг тохиргоог идэвхжүүлж, runtime үед getToken функцээр дамжуулан холбогдох боломжтой.",
+   "published": "2026-10-23T17:00:00Z",
+   "added": "2026-10-24T00:56:01Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
   }
  }
 ]

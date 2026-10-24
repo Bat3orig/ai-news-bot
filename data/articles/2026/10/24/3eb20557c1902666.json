@@ -1,0 +1,17 @@
+{
+ "id": "3eb20557c1902666",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-connect-adds-managed-stripe-api-keys",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2LbnsC2Wg0YUHbvUO0lqcl/47adfabad64ec91f06365dda9914b5f2/image__50_.png",
+ "title": "Vercel Connect adds managed Stripe API keys",
+ "summary_en": "Vercel Connect can now create a separate restricted Stripe API key for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. Vercel creates the key in your Stripe account, limited to the permissions you pick. The existing MCP and bring-your-own API key methods are unchanged. type: embedded-entry-inline id: 3rOuKp0F4Nk80dMYJ5QX6U Most apps and agents run on Stripe’s default secret key, which has full access to the account. With per-agent keys, each agent gets only the access its job needs. For example, a daily revenue report agent…",
+ "title_mn": "Vercel Connect тусгаарлагдсан эрхтэй Stripe API түлхүүрүүдийг автоматаар удирдах боломжтой боллоо",
+ "summary_mn": "Vercel Connect шинэ боломж нэвтрүүлж, агент болон даалгавар тус бүрд зориулсан хязгаарлагдмал эрхтэй Stripe API түлхүүрийг автоматаар үүсгэж, удирдах тохиргоог нэмлээ.",
+ "body_mn": "Vercel Connect үйлчилгээнд Managed API Key сонголт нэмэгдлээ. Хөгжүүлэгчид одоо төслийнхөө агент эсвэл даалгавар бүрд зориулан тусгайлан хязгаарласан эрх бүхий Stripe API түлхүүр үүсгэх боломжтой болж байна. Энэ нь өмнөх бүрэн эрхтэй Secret Key ашиглах эрсдэлийг арилгах зорилготой юм.\n\nЭнэхүү шинэчлэлтээр жишээлбэл орлогын тайлан гаргадаг агентад зөвхөн төлбөрийн мэдээлэл унших (read-only) эрх өгөх, харин шинэ хэрэглэгч бүртгэх агентад зөвхөн харилцагчийн мэдээлэл үүсгэх (write) эрх олгох зэргээр зарчмын хувьд хамгийн бага шаардлагатай эрхийг (least privilege) хуваарилж болно. Түлхүүрийг Vercel өөрөө найдвартай үүсгэж хадгалах тул хөгжүүлэгч ямар нэг түлхүүр код хуулж тавих шаардлагагүй болжээ.\n\nМөн төслийг дахин deploy хийх шаардлагагүйгээр connector тохиргооноос түлхүүрийг rotate хийх боломжтой бөгөөд шилжилтийн үед хуучин түлхүүр нь 24 цагийн турш хүчинтэй хэвээр хадгалагдана. Хөгжүүлэгчид Vercel CLI болон Connectors цэснээс уг тохиргоог идэвхжүүлж, runtime үед getToken функцээр дамжуулан холбогдох боломжтой.",
+ "published": "2026-10-23T17:00:00Z",
+ "added": "2026-10-24T00:56:01Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
