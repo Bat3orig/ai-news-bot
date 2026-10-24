@@ -1,0 +1,17 @@
+{
+ "id": "91a94db5530cb0a8",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Streaming_feature_in__API_Gateway.2e16d0ba.fill-1200x600.jpg",
+ "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
+ "summary_en": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management.",
+ "title_mn": "Google API Gateway стриминг дэмждэг боллоо",
+ "summary_mn": "Google Cloud-ийн API Gateway нийтийн туршилтын (Public Preview) хүрээнд стриминг горимыг дэмжиж эхэллээ. Ингэснээр API бүтцээ өөрчлөхгүйгээр Gemini зэрэг хиймэл оюуны моделиудаас бодит цагт токен стриминг хүлээн авах боломжтой боллоо.",
+ "body_mn": "Сүүлийн жилүүдэд уламжлалт API-ууд хүсэлт аваад бүтэн хариу буцаадаг загвартай байсан бол LLM болон агент ажилладаг системүүд үр дүнгээ бодит цагт, токен тус бүрээр стриминг хийх шаардлагатай болсон. Өмнө нь хөгжүүлэгчид API Gateway ашиглахдаа стримингээс татгалзах, эсвэл хамгаалалт, квот шалгалтын системээ тойруулан тусдаа зам үүсгэхэд хүрдэг байв.\n\nAPI Gateway-ийн стриминг дэмжлэг Public Preview хувилбараар нээгдсэнээр Gemini, Claude, мөн Gemini platform дээрх нээлттэй моделиудын стриминг хариуг gateway-ийн ард найдвартай байршуулах боломжтой боллоо. Холболт 1 цаг хүртэл тасралтгүй үргэлжлэх боломжтой бөгөөд API-ийн тодорхойлолт, бүтцэд нэмэлт тохиргоо хийх шаардлагагүй.\n\nМөн шинэчлэлтээр deterministic буюу урьдчилан таамаглах боломжтой тогтмол домэйн нэрийн бүтэц нэмэгджээ. Ингэснээр gateway бүрэн үүсэхээс өмнө түүний хаягийг тодорхойлж Terraform, CI/CD болон харилцагчийн тохиргоонд шууд оруулах боломжтой болж байна.",
+ "published": "2026-10-24T17:07:56Z",
+ "added": "2026-10-24T17:07:56Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

@@ -738,5 +738,125 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2320ca819a4c372e",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Kotaku",
+   "url": "https://kotaku.com/claudes-reverse-engineering-capabilities-used-to-recompile-games-may-have-been-quietly-nerfed-2000749320",
+   "image": "https://kotaku.com/app/uploads/2026/10/Claude-Opus-5.5-official-image-Anthropic.jpg",
+   "title": "Claude’s Reverse Engineering Capabilities Used To Recompile Games May Have Been Quietly Nerfed",
+   "summary_en": "Claude Opus 5.5 users are reporting that Anthropic’s AI suddenly seems to be a lot worse at stealing people's intellectual property",
+   "title_mn": "Claude Opus 5.5-ийн кодод урвуу инженерчлэл хийх чадварыг хязгаарласан байж болзошгүй",
+   "summary_mn": "Claude Opus 5.5 загвараар тоглоом, программын код задлах үед аюулгүй байдлын систем дундуур нь таслах тохиолдол олноор гарах болсныг хөгжүүлэгчид мэдээлж байна.",
+   "body_mn": "Anthropic компанийн Claude Opus 5.5 загварыг программ болон тоглоомын кодод урвуу инженерчлэл хийх (reverse engineering), кодыг задлан сэргээхэд өргөнөөр ашиглаж байсан билээ. Гэвч тус загварын энэхүү чадварыг албан ёсны зарлалгүйгээр хязгаарласан буюу \"nerf\" хийсэн байж болзошгүй талаар хөгжүүлэгчид Reddit болон сошиал сүлжээгээр мэдээлж эхэллээ.\n\nХэрэглэгчдийн мэдээлж буйгаар аливаа оюуны өмч бүхий программ хангамжийн кодод урвуу инженерчлэл хийхийг хүсэхэд Claude хариултынхаа дундуур аюулгүй байдлын шалгалт (safety guardrail) тулган ажиллахаа больдог болжээ. Систем хариултаа таслан, аюулгүй байдлын шалтгаанаар тухайн даалгаврыг дахин гүйцэтгэх боломжгүй гэсэн анхааруулга өгч байгаа аж.\n\nAnthropic компани хувилбарын тэмдэглэлдээ дурдалгүйгээр загварынхаа зан төлөв, хяналтын шүүлтүүрийг өөрчлөх тохиолдол өмнө нь гарч байсан. Зарим хөгжүүлэгчдийн үзэж буйгаар хэрэглэгчид хуучин тоглоомуудыг вэб хөтөч рүү хөрвүүлэх, мөн бусад хаалттай программуудыг задлах үйлдэл эрс нэмэгдсэнтэй холбоотойгоор ийм хамгаалалт чангатгасан байж магадгүй байна.\n\nЭнэхүү өөрчлөлт нь кодын бүтэц шинжлэх, хуучин системийг шинэчлэх зэрэг ажилд Opus 5.5-ийг ашиглаж буй хөгжүүлэгчдийн ажлын урсгалд мэдэгдэхүйц нөлөөлж байна.",
+   "published": "2026-10-24T16:48:26Z",
+   "added": "2026-10-24T17:07:56Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "91a94db5530cb0a8",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Streaming_feature_in__API_Gateway.2e16d0ba.fill-1200x600.jpg",
+   "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
+   "summary_en": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management.",
+   "title_mn": "Google API Gateway стриминг дэмждэг боллоо",
+   "summary_mn": "Google Cloud-ийн API Gateway нийтийн туршилтын (Public Preview) хүрээнд стриминг горимыг дэмжиж эхэллээ. Ингэснээр API бүтцээ өөрчлөхгүйгээр Gemini зэрэг хиймэл оюуны моделиудаас бодит цагт токен стриминг хүлээн авах боломжтой боллоо.",
+   "body_mn": "Сүүлийн жилүүдэд уламжлалт API-ууд хүсэлт аваад бүтэн хариу буцаадаг загвартай байсан бол LLM болон агент ажилладаг системүүд үр дүнгээ бодит цагт, токен тус бүрээр стриминг хийх шаардлагатай болсон. Өмнө нь хөгжүүлэгчид API Gateway ашиглахдаа стримингээс татгалзах, эсвэл хамгаалалт, квот шалгалтын системээ тойруулан тусдаа зам үүсгэхэд хүрдэг байв.\n\nAPI Gateway-ийн стриминг дэмжлэг Public Preview хувилбараар нээгдсэнээр Gemini, Claude, мөн Gemini platform дээрх нээлттэй моделиудын стриминг хариуг gateway-ийн ард найдвартай байршуулах боломжтой боллоо. Холболт 1 цаг хүртэл тасралтгүй үргэлжлэх боломжтой бөгөөд API-ийн тодорхойлолт, бүтцэд нэмэлт тохиргоо хийх шаардлагагүй.\n\nМөн шинэчлэлтээр deterministic буюу урьдчилан таамаглах боломжтой тогтмол домэйн нэрийн бүтэц нэмэгджээ. Ингэснээр gateway бүрэн үүсэхээс өмнө түүний хаягийг тодорхойлж Terraform, CI/CD болон харилцагчийн тохиргоонд шууд оруулах боломжтой болж байна.",
+   "published": "2026-10-24T17:07:56Z",
+   "added": "2026-10-24T17:07:56Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6571e04e2f5e5c8c",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_g9d0nag9d0.2e16d0ba.fill-1200x600.jpg",
+   "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
+   "summary_en": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization, and OPA) to build governed, self-evolving AI agents that remediate live production outages in 1.8 seconds.",
+   "title_mn": "Google Cloud өөрийгөө хөгжүүлдэг SRE агентын архитектурыг танилцуулав",
+   "summary_mn": "Google Cloud дэд бүтцийн саатлыг бие даан илрүүлж засах чадвартай Project Chrysalis архитектурын судалгааг танилцууллаа. Gemini болон ADK дээр суурилсан уг систем саатлыг засах хугацааг 1.8 секунд болгон бууруулжээ.",
+   "body_mn": "Системийн өндөр ачааллын үед микросервисүүдийн гинжин саатал үүсэхэд уламжлалт бэлэн зааварчилгаа (runbook) хангалтгүй байдаг. Хөгжүүлэгчдийн хувьд энгийн зөвлөгөө өгөх бус, шууд бодит орчинд арга хэмжээ авч, асуудлыг найдвартай засах бие даасан систем шаардлагатай байдаг тул Google Cloud-аас Project Chrysalis нэртэй эталон архитектурыг гаргажээ.\n\nЭнэхүү систем нь Gemini platform болон Agent Development Kit (ADK) дээр тулгуурладаг бөгөөд туршилтын үед эвдрэлийг засах хугацааг 15-45 минутаас 1.8 секунд хүртэл богиносгож чадсан байна. Мөн алдааны түвшнийг 80 хувиас 0 хувь болгон бууруулж, P99 хоцролтыг 18.2 миллисекунд болгожээ.\n\nАгент өөрөө код зохион, бие даан шийдвэр гаргахдаа Model Armor, Cloud KMS, Binary Authorization зэрэг хамгаалалтын системүүдээр хянагдах бөгөөд эцсийн чухал шийдвэрүүдэд хүний зөвшөөрөл (Human-in-the-Loop) шаардагдах хяналтын механизмыг багтаасан байна.",
+   "published": "2026-10-24T17:07:56Z",
+   "added": "2026-10-24T17:07:56Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a868202567c6c878",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/1_2.2e16d0ba.fill-1200x600.png",
+   "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
+   "summary_en": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party LangChain template that scaffolds, runs, and deploys agents without requiring the Agent Development Kit (ADK). Additionally, it demonstrates how platform teams can author custom extensions to enforce policies such as automated software bill of materials (SBOM) scans during deployment.",
+   "title_mn": "Agents CLI өргөтгөлийн системээр дамжуулан LangChain-ийг дэмжиж эхэллээ",
+   "summary_mn": "Google Cloud-ийн Agents CLI хэрэгсэлд Extension System нэмэгдэж, зөвхөн ADK гэлтгүй LangChain зэрэг гуравдагч сангуудыг дэмжих боломжтой боллоо. Ингэснээр байгууллагууд өөрсдийн аюулгүй байдал, байршуулалтын бодлогыг хялбар удирдах боломжтой болж байна.",
+   "body_mn": "Google Cloud өмнө нь Agent Development Kit (ADK)-д зориулсан Agents CLI хэрэгслийг гаргаж, агентуудыг богино хугацаанд үүсгэж Cloud Run дээр байршуулах боломж олгож байсан. Гэвч багууд LangChain, LangGraph болон бусад дотоод фрэймворкуудыг өргөн ашигладаг тул CLI-ийг илүү уян хатан болгох шаардлага үүсжээ.\n\nAgents CLI 1.5.0 хувилбараас эхлэн Extension System нэмэгдсэн бөгөөд 1.8.0 хувилбараар анхны албан ёсны LangChain өргөтгөлийг гаргалаа. Энэ нь агентын үндсэн хөгжүүлэлтийн циклийг өөрчлөхгүйгээр өөр өөр фрэймворкийг Agents CLI-ийн байршуулалт, мониторинг системтэй шууд холбох боломж бүрдүүлж байна.\n\nҮүнээс гадна байгууллагын платформын багууд өөрсдийн дүрэм журмыг суулгасан жижиг өргөтгөл бичиж, deploy команд дуудагдах бүрд SBOM аудит хийлгэх гэх мэт хамгаалалтын тусгай шалгууруудыг нэвтрүүлэх боломжтой боллоо.",
+   "published": "2026-10-24T17:07:56Z",
+   "added": "2026-10-24T17:07:56Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3cb2b485f02c0e6c",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/Renhuai123/ziwei-doushu",
+   "image": "https://opengraph.githubassets.com/ca69fa749487c950b5c6d64815d4472e9bac957e69646e626a8066f4ee1a05ba/Renhuai123/ziwei-doushu",
+   "title": "Renhuai123/ziwei-doushu",
+   "summary_en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 https://metisziwei.com/?from=gh-about 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念 ：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信： 算法是公开的传统智慧，不应该被锁在围墙里 。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息 ：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整排盘算法、四化系统、格局知识库、古籍原文数据，以及一套完整开源的紫微斗数解读数据： v4.0 解读数据集——67.5 万张命盘 × 13 维 = 877 万段解读，正文约 204 亿字，解压后 56.6 GB （2026-10-15 发布）。 数据集 命盘 解读段数 解压后 覆盖年份 每张盘解读字数 v4.0 解读数据集 （2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026 （只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983…",
+   "title_mn": "ziwei-doushu: Зурхайн тооцоолол, тайлбар хийх TypeScript сан ба датасет",
+   "summary_mn": "Хятадын уламжлалт зурхайн арга барилд суурилсан нээлттэй эхийн ziwei-doushu төсөл нь алгоритм, тайлбар үүсгэгч бүхий өргөн хэмжээний датасетийг хөгжүүлэгчдэд санал болгож байна.",
+   "body_mn": "Renhuai123/ziwei-doushu нь Хятадын уламжлалт Ziwei Doushu зурхайн тооцооллыг кодчилсон нээлттэй эхийн TypeScript төсөл юм. Энэхүү сан нь тухайн зурхайн системийн алгоритм, дүрэм болон 50 гаруй гигабайт хэмжээтэй бэлэн тайлбарын өгөгдлийг багтаасан байна.\n\nТөслийн v4.0 шинэчлэлтээр 674 мянга гаруй зурхайн өгөгдлийг 13 хэмжигдэхүүнээр боловсруулж, түүхэн эх сурвалжуудад нийцүүлэн засварласан байна. Мөн Next.js 16 болон төрөл бүрийн хамаарлуудыг шинэчилж, аюулгүй байдлын шалгууруудыг хангасан байна.\n\nХөгжүүлэгчид уг санг соёлын өв, дорнын зурхайн логикийг судлах, олон нийтийн болон хувийн хэрэгцээндээ ашиглах зорилгоор туршиж үзэх боломжтой.",
+   "published": "2026-10-24T17:07:56Z",
+   "added": "2026-10-24T17:07:56Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1ef7aa5952e1a733",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/SehajveerSingh2005/bloom",
+   "image": "https://opengraph.githubassets.com/23a3276918a7ba651ffd83c5f3fa0e6bef379b1f641f238d6c924bbd361fc338/SehajveerSingh2005/bloom",
+   "title": "SehajveerSingh2005/bloom",
+   "summary_en": "Bloom is a desktop companion that reimagines how you interact with Windows. It moves away from static, rigid interfaces and introduces a workspace that feels natural, fluid, and responsive. https://bloom.sehaz.space Bloom Bloom makes your Windows desktop feel alive. Every transition is a physics simulation. Every element responds to touch. Every pixel is in motion. Your desktop has been asleep for years. This wakes it up. The Island A notch at the top of your screen that adapts to what you're doing. Scroll or swipe to switch modes. Watch it transform. Music — album art, track info, playback…",
+   "title_mn": "Bloom: Windows-ийн интерфэйсийг шинэчилсэн динамик Taskbar ба Notch",
+   "summary_mn": "Windows-ийн taskbar-ийг орлох зориулалттай, физик хөдөлгөөнт дүрслэл бүхий нээлттэй эхийн Bloom төсөл гарлаа. Энэхүү систем нь уян хатан notch болон шинэчлэгдсэн хяналтын самбарыг хэрэглэгчдэд олгодог.",
+   "body_mn": "Bloom нь Windows үйлдлийн системийн уламжлалт хөшүүн интерфэйсийг шинэчилж, физик хуулиар анимейшн хийгддэг, мэдрэгчтэй дэлгэцэнд нийцтэй удирдлагын хэрэгсэл болгох зорилготой нээлттэй эхийн төсөл юм. Дэлгэцийн дээд хэсэгт динамик notch байрлуулж, доод хэсэгт taskbar-ийг орлох dock ажиллуулдаг.\n\nАрын алба нь Rust хэл дээр бичигдсэн бөгөөд Windows үйлдлийн системийн үндсэн shell, WASAPI аудио систем, COM болон WMI технологитой шууд харилцан ажилладаг. Дэлгэц дээр хөгжмийн тоглуулагчийн өгөгдөлд хариу үйлдэл үзүүлэх визуализатор, Wi-Fi, дууны тохиргоо зэрэг Command Center болон Pomodoro цаг хэмжигч багтжээ.\n\nСистемийн нөөцийг хэмнэх үүднээс дэлгэцэнд харагдаагүй үед эсвэл дуу тоглоогүй үед процессыг автоматаар унтраадаг бүтэцтэй. Хөгжүүлэгчид болон хэрэглэгчид GitHub сангаас төслийг татаж аван турших боломжтой ба нээлттэй хэлбэрээр хувь нэмрээ оруулахыг урьж байна.",
+   "published": "2026-10-24T17:07:56Z",
+   "added": "2026-10-24T17:07:56Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
  }
 ]

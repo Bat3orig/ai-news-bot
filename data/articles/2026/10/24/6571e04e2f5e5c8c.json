@@ -1,0 +1,17 @@
+{
+ "id": "6571e04e2f5e5c8c",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_g9d0nag9d0.2e16d0ba.fill-1200x600.jpg",
+ "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
+ "summary_en": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization, and OPA) to build governed, self-evolving AI agents that remediate live production outages in 1.8 seconds.",
+ "title_mn": "Google Cloud өөрийгөө хөгжүүлдэг SRE агентын архитектурыг танилцуулав",
+ "summary_mn": "Google Cloud дэд бүтцийн саатлыг бие даан илрүүлж засах чадвартай Project Chrysalis архитектурын судалгааг танилцууллаа. Gemini болон ADK дээр суурилсан уг систем саатлыг засах хугацааг 1.8 секунд болгон бууруулжээ.",
+ "body_mn": "Системийн өндөр ачааллын үед микросервисүүдийн гинжин саатал үүсэхэд уламжлалт бэлэн зааварчилгаа (runbook) хангалтгүй байдаг. Хөгжүүлэгчдийн хувьд энгийн зөвлөгөө өгөх бус, шууд бодит орчинд арга хэмжээ авч, асуудлыг найдвартай засах бие даасан систем шаардлагатай байдаг тул Google Cloud-аас Project Chrysalis нэртэй эталон архитектурыг гаргажээ.\n\nЭнэхүү систем нь Gemini platform болон Agent Development Kit (ADK) дээр тулгуурладаг бөгөөд туршилтын үед эвдрэлийг засах хугацааг 15-45 минутаас 1.8 секунд хүртэл богиносгож чадсан байна. Мөн алдааны түвшнийг 80 хувиас 0 хувь болгон бууруулж, P99 хоцролтыг 18.2 миллисекунд болгожээ.\n\nАгент өөрөө код зохион, бие даан шийдвэр гаргахдаа Model Armor, Cloud KMS, Binary Authorization зэрэг хамгаалалтын системүүдээр хянагдах бөгөөд эцсийн чухал шийдвэрүүдэд хүний зөвшөөрөл (Human-in-the-Loop) шаардагдах хяналтын механизмыг багтаасан байна.",
+ "published": "2026-10-24T17:07:56Z",
+ "added": "2026-10-24T17:07:56Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

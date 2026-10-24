@@ -1,0 +1,17 @@
+{
+ "id": "a868202567c6c878",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/1_2.2e16d0ba.fill-1200x600.png",
+ "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
+ "summary_en": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party LangChain template that scaffolds, runs, and deploys agents without requiring the Agent Development Kit (ADK). Additionally, it demonstrates how platform teams can author custom extensions to enforce policies such as automated software bill of materials (SBOM) scans during deployment.",
+ "title_mn": "Agents CLI өргөтгөлийн системээр дамжуулан LangChain-ийг дэмжиж эхэллээ",
+ "summary_mn": "Google Cloud-ийн Agents CLI хэрэгсэлд Extension System нэмэгдэж, зөвхөн ADK гэлтгүй LangChain зэрэг гуравдагч сангуудыг дэмжих боломжтой боллоо. Ингэснээр байгууллагууд өөрсдийн аюулгүй байдал, байршуулалтын бодлогыг хялбар удирдах боломжтой болж байна.",
+ "body_mn": "Google Cloud өмнө нь Agent Development Kit (ADK)-д зориулсан Agents CLI хэрэгслийг гаргаж, агентуудыг богино хугацаанд үүсгэж Cloud Run дээр байршуулах боломж олгож байсан. Гэвч багууд LangChain, LangGraph болон бусад дотоод фрэймворкуудыг өргөн ашигладаг тул CLI-ийг илүү уян хатан болгох шаардлага үүсжээ.\n\nAgents CLI 1.5.0 хувилбараас эхлэн Extension System нэмэгдсэн бөгөөд 1.8.0 хувилбараар анхны албан ёсны LangChain өргөтгөлийг гаргалаа. Энэ нь агентын үндсэн хөгжүүлэлтийн циклийг өөрчлөхгүйгээр өөр өөр фрэймворкийг Agents CLI-ийн байршуулалт, мониторинг системтэй шууд холбох боломж бүрдүүлж байна.\n\nҮүнээс гадна байгууллагын платформын багууд өөрсдийн дүрэм журмыг суулгасан жижиг өргөтгөл бичиж, deploy команд дуудагдах бүрд SBOM аудит хийлгэх гэх мэт хамгаалалтын тусгай шалгууруудыг нэвтрүүлэх боломжтой боллоо.",
+ "published": "2026-10-24T17:07:56Z",
+ "added": "2026-10-24T17:07:56Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
