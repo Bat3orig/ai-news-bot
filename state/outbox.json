@@ -678,5 +678,65 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e6639c1ddc65382f",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://corgi.computer/",
+   "image": "",
+   "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+   "summary_en": "Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their activity. There's also a simple shortcut (F1) to go to the next unread agent. I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi. Theres some careful ergonomics there: fast search and resume over sessions, inline usage tracking etc. Many small quality of life…",
+   "title_mn": "Show HN: Corgi — Олон агентуудыг нэгэн зэрэг удирдах terminal multiplexer",
+   "summary_mn": "Corgi нь tmux-тэй төстэй бөгөөд олон AI агент, процессуудыг ард ажиллуулж, консолоос хянах боломжийг олгодог нээлттэй хэрэгсэл юм.",
+   "body_mn": "Хөгжүүлэгчдэд зориулсан Corgi нэртэй шинэ терминал multiplexer танилцуулагдлаа. Энэхүү хэрэгсэл нь tmux-ийн адилаар AI агентууд болон арын процессуудыг зогсолтгүй ажиллуулах бөгөөд ямар агент юу хийж байгааг нэг дороос хянах боломж олгодог.\n\nCorgi нь ⌘V товчоор зураг хуулж тавих (paste) боломжийг шууд дэмждэг бөгөөд интернэт холболт удаан үед ч найдвартай ажиллахаар зохион байгуулагджээ. Мөн corgi --skill коммандаар агентуудад шинэ ур чадвар зааж өгөх дэмжлэгтэй.\n\nТөрөл бүрийн терминалаас удирдаж болдог уг төсөл нь код бичих олон агентуудыг зэрэг удирдан ажиллуулдаг vibecoding болон агент систем хөгжүүлэгчдэд нэн тохиромжтой шийдэл болж байна.",
+   "published": "2026-10-23T19:46:38Z",
+   "added": "2026-10-24T13:45:30Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7a9e3c6628c1100b",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Yahoo",
+   "url": "https://www.yahoo.com/news/articles/moonshot-curbs-hacking-ability-kimi-042516641.html",
+   "image": "https://s.yimg.com/lo/mysterio/api/ba3f2a6d608e1e2d5a86b84b6a04790830b308c1db54252a95cf52deb06c2895/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F2f0ac4c7cb3f6d8a2f6e58bfab73e58d.jpg",
+   "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
+   "summary_en": "BEIJING, Oct 24 (Reuters) - Moonshot AI has reduced the cyber-offensive capabilities of its newest model, the Chinese startup said on Saturday, as fears grow that increasingly ‌autonomous AI could tur...",
+   "title_mn": "Moonshot кибер халдлагын эрсдэлээс сэргийлж Kimi K3.1 Pro-ийн хакердах чадварыг хязгаарлав",
+   "summary_mn": "Moonshot AI Kimi K3.1 Pro загварын нээлттэй жинг 11-р сарын 4-нд нийтлэхийн өмнө кибер халдлагад ашиглагдах боломжтой өгөгдлийг сургалтын сангаас хасжээ.",
+   "body_mn": "Хятадын Moonshot AI стартап шинэ Kimi K3.1 Pro загварынхаа кибер довтолгоонд ашиглагдаж болзошгүй чадваруудыг зориуд хязгаарласан болохоо зарлалаа. Компани загварын жинг 11 дүгээр сарын 4 гэхэд олон нийтэд нээлттэй нийтлэхээр төлөвлөж байгаатай холбогдуулан уг шийдвэрийг гаргасан байна.\n\nСургалтын корпус болон reinforcement learning орчноос программ хангамжийн эмзэг байдлыг илрүүлэх, мөлжихтэй холбоотой өгөгдлийг шүүж авснаар дотоод кибер тестийн оноо нь 90.5%-аас 81.0% болж буурсан гэж компани мэдээлэв. Гэхдээ ерөнхий код бичих чадварыг хэвээр хадгалсан байна.\n\nНээлттэй жинтэй загварууд нь олон нийтэд тарсны дараа төвлөрсөн байдлаар хандалтыг хязгаарлах боломжгүй байдаг тул сүүлийн үед хиймэл оюуны хортой кодын сургалтыг хязгаарлах шаардлага олон улсад өндөр тавигдаж байгаа юм.",
+   "published": "2026-10-24T04:25:00Z",
+   "added": "2026-10-24T13:45:30Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3f641abe2f229ad5",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Pandaily",
+   "url": "https://pandaily.com/qwen-go-my-apps-no-code-shareable-apps-alibaba-cloud-meoo-invite-beta",
+   "image": "https://cms-image.pandaily.com/1/qwengo_2a26f64f13.png",
+   "title": "Qwen Go! Adds My Apps, Letting Users Build Shareable Apps by Description With Alibaba Cloud Meoo",
+   "summary_en": "Qwen Go! now lets users build long-lasting, shareable apps just by describing them. The My Apps feature runs on Alibaba Cloud's Meoo, which handles building, databases and deployment.",
+   "title_mn": "Qwen Go! тайлбараар апп бүтээн хуваалцах My Apps функцийг нэвтрүүллээ",
+   "summary_mn": "Qwen Go! платформ хэрэглэгчийн бичвэр тайлбараар аппликейшн шууд үүсгэн хуваалцах боломжтой My Apps функцийг танилцууллаа. Уг систем нь Alibaba Cloud-ийн Meoo дэд бүтцэд тулгуурлан ажилладаг.",
+   "body_mn": "Qwen Go! платформын хэрэглэгчид ердөө энгийн тайлбар бичих замаар бие даасан, бүрэн ажиллагаатай вэб аппликейшн бүтээж, бусадтай хуваалцах боломжийг олгодог My Apps функцийг танилцууллаа.\n\nЭнэхүү шийдэл нь аппликейшн угсралт, өгөгдлийн сан болон серверийн байршуулалтыг (deployment) автоматаар зохицуулдаг Alibaba Cloud-ийн Meoo платформ дээр суурилж байна. Хөгжүүлэгчид болон хэрэглэгчид дэд бүтцийн тохиргоонд санаа зоволгүйгээр шууд санаагаа ажиллах апп болгон хувиргах боломж бүрдлээ.\n\nКод бичих шаардлагагүйгээр бодит хэрэглээний программ бүтээх уг чиг хандлага нь AI агент болон автоматжуулсан үүлэн тооцооллын холбоосыг улам бүр нягтруулж байна.",
+   "published": "2026-10-24T07:12:45Z",
+   "added": "2026-10-24T13:45:30Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
  }
 ]

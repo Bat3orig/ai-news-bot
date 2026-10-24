@@ -1,0 +1,17 @@
+{
+ "id": "e6639c1ddc65382f",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://corgi.computer/",
+ "image": "",
+ "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+ "summary_en": "Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their activity. There's also a simple shortcut (F1) to go to the next unread agent. I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi. Theres some careful ergonomics there: fast search and resume over sessions, inline usage tracking etc. Many small quality of life…",
+ "title_mn": "Show HN: Corgi — Олон агентуудыг нэгэн зэрэг удирдах terminal multiplexer",
+ "summary_mn": "Corgi нь tmux-тэй төстэй бөгөөд олон AI агент, процессуудыг ард ажиллуулж, консолоос хянах боломжийг олгодог нээлттэй хэрэгсэл юм.",
+ "body_mn": "Хөгжүүлэгчдэд зориулсан Corgi нэртэй шинэ терминал multiplexer танилцуулагдлаа. Энэхүү хэрэгсэл нь tmux-ийн адилаар AI агентууд болон арын процессуудыг зогсолтгүй ажиллуулах бөгөөд ямар агент юу хийж байгааг нэг дороос хянах боломж олгодог.\n\nCorgi нь ⌘V товчоор зураг хуулж тавих (paste) боломжийг шууд дэмждэг бөгөөд интернэт холболт удаан үед ч найдвартай ажиллахаар зохион байгуулагджээ. Мөн corgi --skill коммандаар агентуудад шинэ ур чадвар зааж өгөх дэмжлэгтэй.\n\nТөрөл бүрийн терминалаас удирдаж болдог уг төсөл нь код бичих олон агентуудыг зэрэг удирдан ажиллуулдаг vibecoding болон агент систем хөгжүүлэгчдэд нэн тохиромжтой шийдэл болж байна.",
+ "published": "2026-10-23T19:46:38Z",
+ "added": "2026-10-24T13:45:30Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

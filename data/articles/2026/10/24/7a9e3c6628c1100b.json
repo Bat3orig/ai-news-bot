@@ -1,0 +1,17 @@
+{
+ "id": "7a9e3c6628c1100b",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Yahoo",
+ "url": "https://www.yahoo.com/news/articles/moonshot-curbs-hacking-ability-kimi-042516641.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/ba3f2a6d608e1e2d5a86b84b6a04790830b308c1db54252a95cf52deb06c2895/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F2f0ac4c7cb3f6d8a2f6e58bfab73e58d.jpg",
+ "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
+ "summary_en": "BEIJING, Oct 24 (Reuters) - Moonshot AI has reduced the cyber-offensive capabilities of its newest model, the Chinese startup said on Saturday, as fears grow that increasingly ‌autonomous AI could tur...",
+ "title_mn": "Moonshot кибер халдлагын эрсдэлээс сэргийлж Kimi K3.1 Pro-ийн хакердах чадварыг хязгаарлав",
+ "summary_mn": "Moonshot AI Kimi K3.1 Pro загварын нээлттэй жинг 11-р сарын 4-нд нийтлэхийн өмнө кибер халдлагад ашиглагдах боломжтой өгөгдлийг сургалтын сангаас хасжээ.",
+ "body_mn": "Хятадын Moonshot AI стартап шинэ Kimi K3.1 Pro загварынхаа кибер довтолгоонд ашиглагдаж болзошгүй чадваруудыг зориуд хязгаарласан болохоо зарлалаа. Компани загварын жинг 11 дүгээр сарын 4 гэхэд олон нийтэд нээлттэй нийтлэхээр төлөвлөж байгаатай холбогдуулан уг шийдвэрийг гаргасан байна.\n\nСургалтын корпус болон reinforcement learning орчноос программ хангамжийн эмзэг байдлыг илрүүлэх, мөлжихтэй холбоотой өгөгдлийг шүүж авснаар дотоод кибер тестийн оноо нь 90.5%-аас 81.0% болж буурсан гэж компани мэдээлэв. Гэхдээ ерөнхий код бичих чадварыг хэвээр хадгалсан байна.\n\nНээлттэй жинтэй загварууд нь олон нийтэд тарсны дараа төвлөрсөн байдлаар хандалтыг хязгаарлах боломжгүй байдаг тул сүүлийн үед хиймэл оюуны хортой кодын сургалтыг хязгаарлах шаардлага олон улсад өндөр тавигдаж байгаа юм.",
+ "published": "2026-10-24T04:25:00Z",
+ "added": "2026-10-24T13:45:30Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

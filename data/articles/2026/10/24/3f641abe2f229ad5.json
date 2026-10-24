@@ -1,0 +1,17 @@
+{
+ "id": "3f641abe2f229ad5",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Pandaily",
+ "url": "https://pandaily.com/qwen-go-my-apps-no-code-shareable-apps-alibaba-cloud-meoo-invite-beta",
+ "image": "https://cms-image.pandaily.com/1/qwengo_2a26f64f13.png",
+ "title": "Qwen Go! Adds My Apps, Letting Users Build Shareable Apps by Description With Alibaba Cloud Meoo",
+ "summary_en": "Qwen Go! now lets users build long-lasting, shareable apps just by describing them. The My Apps feature runs on Alibaba Cloud's Meoo, which handles building, databases and deployment.",
+ "title_mn": "Qwen Go! тайлбараар апп бүтээн хуваалцах My Apps функцийг нэвтрүүллээ",
+ "summary_mn": "Qwen Go! платформ хэрэглэгчийн бичвэр тайлбараар аппликейшн шууд үүсгэн хуваалцах боломжтой My Apps функцийг танилцууллаа. Уг систем нь Alibaba Cloud-ийн Meoo дэд бүтцэд тулгуурлан ажилладаг.",
+ "body_mn": "Qwen Go! платформын хэрэглэгчид ердөө энгийн тайлбар бичих замаар бие даасан, бүрэн ажиллагаатай вэб аппликейшн бүтээж, бусадтай хуваалцах боломжийг олгодог My Apps функцийг танилцууллаа.\n\nЭнэхүү шийдэл нь аппликейшн угсралт, өгөгдлийн сан болон серверийн байршуулалтыг (deployment) автоматаар зохицуулдаг Alibaba Cloud-ийн Meoo платформ дээр суурилж байна. Хөгжүүлэгчид болон хэрэглэгчид дэд бүтцийн тохиргоонд санаа зоволгүйгээр шууд санаагаа ажиллах апп болгон хувиргах боломж бүрдлээ.\n\nКод бичих шаардлагагүйгээр бодит хэрэглээний программ бүтээх уг чиг хандлага нь AI агент болон автоматжуулсан үүлэн тооцооллын холбоосыг улам бүр нягтруулж байна.",
+ "published": "2026-10-24T07:12:45Z",
+ "added": "2026-10-24T13:45:30Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
