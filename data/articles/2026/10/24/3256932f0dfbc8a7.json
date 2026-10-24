@@ -1,0 +1,17 @@
+{
+ "id": "3256932f0dfbc8a7",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "MarkTechPost",
+ "url": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+ "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-31-scaled.png",
+ "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
+ "summary_en": "Moonshot AI’s Kimi K3.1 Pro is a 2.8T-parameter open-weight model with 1M context, scoring 65.7% on Terminal-Bench 4.0.",
+ "title_mn": "Moonshot AI компани 1 сая токенийн контексттэй Kimi K3.1 Pro загварыг танилцууллаа",
+ "summary_mn": "Moonshot AI компани K3.1 цувралын анхны загвар болох Kimi K3.1 Pro-г албан ёсоор гаргалаа. Уг загвар нь 2.8T нийт / 104B идэвхтэй параметртэй, 1 сая токенийн контекст цонхтой бөгөөд API болон вэб хувилбараар ашиглах боломжтой.",
+ "body_mn": "Moonshot AI компани хиймэл оюун ухааны зах зээлд өөрийн Kimi K3.1 Pro загвараа танилцууллаа. Энэ нь 3T хүрээний нээлттэй жинтэй (open-weights) байхаар төлөвлөгдсөн бөгөөд 1 сая токенийн өргөн контекст цонхыг дэмждэг МоE (Mixture of Experts) архитектуртай загвар юм. Компанийн зүгээс үүнийг код бичих, агент хэлбэрээр ажиллах болон мэдлэгийн сорилтуудад тэргүүлэгч загваруудтай өрсөлдөхүйц хэмээн байр суурь эзлүүлжээ.\n\nKimi K3.1 Pro нь Kimi K3 загварын сайжруулсан хувилбар бөгөөд сургалтын дараах тооцооллыг маш өргөн хүрээнд хийж гүйцэтгэжээ. Архитектурын хувьд Kimi Delta Attention (KDA) болон Attention Residuals (AttnRes) технологиудыг ашиглаж, 896 шинжээчээс 16-г нь Stable LatentMoE хүрээнд идэвхжүүлдэг байна. Мөн хөгжүүлэгчдэд зориулж 2-3 дахин хурдан ажиллах Kimi K3.1 Pro Highspeed хувилбарыг давхар гаргажээ.\n\nAPI үнийн хувьд K3.1 Pro нь 1 сая оролтын токен тутамд $2.00, гаралтын токен тутамд $10.00 байхаар тогтоогдсон нь өмнөх үеийн загваруудаас хямд бөгөөд OpenAI-тай нийцтэй төгсгөлийн цэгээр (endpoint) дамжин ажиллах боломжтой юм. Нээлттэй жингийн файлууд нь 11 сард олон нийтэд хүрэхээр хүлээгдэж байна.",
+ "published": "2026-10-23T22:52:40Z",
+ "added": "2026-10-24T09:41:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

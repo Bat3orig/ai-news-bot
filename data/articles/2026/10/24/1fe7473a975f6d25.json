@@ -1,0 +1,17 @@
+{
+ "id": "1fe7473a975f6d25",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0",
+ "image": "https://opengraph.githubassets.com/36badc59bc5cc05c1aa66276fa806bb6f3470b07ca2cc3f30055fedef1489722/ollama/ollama/releases/tag/v0.40.11-rc0",
+ "title": "ollama v0.40.11",
+ "summary_en": "What's Changed qwen3coder: preserve literal function closing tags in parameters by @hoyyeva in #19228 launch: use allocated context for OpenCode by @hoyyeva in #19193 decision: allow empty state for vllm-d3 by @SynapShift in #19173 llama.cpp: version bump b11845 by @dhiltgen in #19250 mlxrunner: spell out symbols, numbers and links for Phonon by @jmorganca in #19234 voice: add voice catalog for Phonon by @jmorganca in #19242 New Contributors @SynapShift made their first contribution in #19173 Full Changelog : v0.40.10...v0.40.11-rc0",
+ "title_mn": "Ollama v0.40.11 хувилбар шинэчлэгдлээ",
+ "summary_mn": "Ollama v0.40.11 хувилбар гарч, qwen3coder болон OpenCode-д зориулсан контекстийн шинэчлэлтүүд, мөн llama.cpp шинэ хувилбарыг багтаалаа.",
+ "body_mn": "Ollama төсөл v0.40.11 хувилбараа гаргаж, хиймэл оюун ухааны загваруудыг дотоод орчинд ажиллуулах чадамжаа сайжрууллаа. Энэхүү хувилбарт qwen3coder загварын параметр дэх функц хаах шошгуудыг хэвээр хадгалах сайжруулалт хийгджээ.\n\nMөн OpenCode хэрэгсэлд зориулж хуваарилагдсан контекстийг ашиглах боломжийг бүрдүүлсэн бөгөөд llama.cpp санг b11845 хувилбар хүртэл шинэчилсэн байна. Дээр нь mlxrunner болон дуу хоолойтой холбоотой шинэ каталог нэмэгдсэн нь локал орчинд хиймэл оюун ухаан ажиллуулж буй хөгжүүлэгчдэд илүү өргөн боломжийг олгож байна.",
+ "published": "2026-10-24T00:30:13Z",
+ "added": "2026-10-24T09:41:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

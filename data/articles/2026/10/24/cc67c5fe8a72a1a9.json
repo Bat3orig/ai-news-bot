@@ -1,0 +1,17 @@
+{
+ "id": "cc67c5fe8a72a1a9",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5zUPDbfsi6JNUM6IRgNFRQ/d3a2f741d6d947709a347712fc2ce8ee/vercel-mcp-feedback-og.png",
+ "title": "Send feedback from the Vercel MCP",
+ "summary_en": "Vercel MCP now includes submit_feedback , a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness. Ask your agent to give feedback in plain language: Send Vercel feedback that the deployment error didn't explain which environment variable was missing. Your assistant can attach structured context that describes the task, the expected behavior, and what went wrong: The tool requires sign-in, and it sends feedback only when you ask your agent to share it. Connect your agent to Vercel MCP and read the submit_feedback…",
+ "title_mn": "Vercel MCP ашиглан санал хүсэлт илгээх боломжтой боллоо",
+ "summary_mn": "Vercel MCP хэрэгсэлд submit_feedback функц нэмэгдсэнээр хөгжүүлэгчид агентаараа дамжуулан алдааны тайлан болон шинэ боломжийн саналаа шууд илгээх боломжтой болжээ.",
+ "body_mn": "Vercel MCP (Model Context Protocol) хэрэгсэлд шинээр submit_feedback функц нэмэгдлээ. Энэ нь хөгжүүлэгчдэд өөрсдийн ашиглаж буй агент болон системээс шууд Vercel баг руу алдааны тайлан, санал хүсэлт, шинэ боломжийн хүсэлтээ илгээх боломжийг олгож байна.\n\nХөгжүүлэгчид энгийн ярианы хэлээр агентандаа хандан санал хүсэлтээ өгөх боломжтой бөгөөд систем шаардлагатай бүтцийн мэдээлэл болон контекстийг автоматаар хавсаргадаг. Энэхүү хэрэгсэл нь нэвтрэлт шаардах бөгөөд зөвхөн хэрэглэгчийн хүссэн үед л мэдээллийг дамжуулдаг байна.",
+ "published": "2026-10-23T20:53:00Z",
+ "added": "2026-10-24T09:41:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

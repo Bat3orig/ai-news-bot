@@ -1,0 +1,17 @@
+{
+ "id": "718f749ed7ff6f24",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/6-ways-teams-are-experimenting-with-code-layers/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/ae1c3c193908deb3921d2061f39ffd17878e4240-10835x6095.png?w=1200&q=70&fit=max&auto=format",
+ "title": "6 ways teams are experimenting with code layers",
+ "summary_en": "Now that code layers is in open beta, you can bring code to the canvas. Here’s how six teams are using it to experiment, get stakeholders aligned, and move faster.",
+ "title_mn": "Figma code layers нээлттэй бета хувилбартаа орлоо",
+ "summary_mn": "Figma дээр code layers буюу код давхарга нээлттэй бета хувилбартаа шилжлээ. Багууд дизайн болон кодыг нэг canvas дээр холбож, интерактив прототип бүтээхэд Figma агентыг хэрхэн ашиглаж буй туршлагаасаа хуваалцав.",
+ "body_mn": "Figma платформын шинэ code layers боломж нээлттэй бета хувилбартаа албан ёсоор шилжсэнээр дизайнерууд болон хөгжүүлэгчид код дээр суурилсан интерактив прототипийг canvas дээр шууд бүтээх боломжтой боллоо. Uber, Granola, Atlassian зэрэг томоохон компаниудын багууд үүнийг ашиглан ажилдаа хэрхэн хурд нэмж байгаагаа танилцуулав.\n\nТухайлбал, хөгжүүлэгчид болон бүтээгдэхүүний менежерүүд Figma агентын тусламжтайгаар нарийн төвөгтэй HTML болон скрипт прототипийг үе шаттайгаар бүтээж байна. Нэг удаад бүх зүйлийг үүсгэхийн оронд гүйлгэх (scroll) болон товчлуурын үйлдлүүдийг нэг бүрчлэн нэмж, гарсан алдааг нэг тодорхой prompt-оор засуулах боломжтой болжээ. Энэ нь бусад багийн гишүүд болон бизнес оролцогч талуудад загварыг ойлгомжтойгоор харуулахад маш өндөр үр дүнтэй байна.\n\nМөн хувилбар бүрийг canvas дээр хажуу зэрэгцүүлэн хадгалж, хувилбарын түүх рүү шилжих шаардлагагүйгээр хувилбаруудыг шууд харьцуулах боломжийг бүрдүүлсэн юм. Энэ нь дизайн систем болон код хоорондын уялдааг сайжруулаад зогсохгүй бүтээгдэхүүн хөгжүүлэлтийн явцыг хэд дахин хурдасгаж байна.",
+ "published": "2026-10-23T22:43:00Z",
+ "added": "2026-10-24T09:41:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

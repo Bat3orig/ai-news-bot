@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "891b7e0bbf66f86d",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/decisions-api",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/2oP82PTDAPhlalF1TRNt8Q/af6bb8e886e29d6e0880c75a0de781f8/build-more-responsive-apps-with-the-decisions-api-social.png?w=1600&h=900&fit=fill",
-   "title": "Build more responsive apps with the Decisions API",
-   "summary_en": "Fast, focused, low-cost decisions for any application.",
-   "title_mn": "OpenAI бага хоцролттой шийдвэр гаргах Decisions API-аа нийтийн хэрэглээнд гаргалаа",
-   "summary_mn": "OpenAI GPT-6 Luna загварт суурилсан Decisions API-аа албан ёсоор танилцууллаа. Энэ нь өгөгдлийг ангилах, чиглүүлэх зэрэг үйлдлийг 10 дахин хурдан, хямд гүйцэтгэх боломжтой.",
-   "body_mn": "OpenAI системүүд болон хиймэл оюуны агентуудад зориулсан Decisions API-аа ерөнхий хэрэглээнд (GA) гаргалаа. GPT-6 Luna загвар дээр суурилсан уг API нь хязгаарлагдмал хариулттай асуултуудад төвлөрч, Responses API-тай харьцуулахад бараг 10 дахин хурдан бөгөөд бага зардлаар шийдвэр гаргадаг байна.\n\nБета хувилбараас хойш уг үйлчилгээнд GPT-Live шууд интеграц, давтан контекстод зориулсан prompt caching, АНУ болон ЕХ-ны бүсэд тооцоолол хийх сонголт нэмэгджээ. Хөгжүүлэгчид төрөлх JSON өгөгдөл, зураг дамжуулах боломжтой ба нэг хүсэлтээр 400 хүртэлх асуултыг нэг дор шийдвэрлүүлэх боломжтой болсон байна.\n\nDecisions API нь магадлал (probability), сонголт (choice), оноо (score) гэсэн гурван төрлийн хариу буцаадаг. Ингэснээр дуут туслахын харилцан ярианы дундуур хэрэглэгчийн хүсэлтийг чиглүүлэх, агентын дараагийн алхмыг тодорхойлох болон агуулгыг ангилахад маш бага хоцролттойгоор ашиглагдах давуу талтай.",
-   "published": "2026-10-22T19:00:00Z",
-   "added": "2026-10-23T05:07:43Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d19aa6d211564b7b",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.37.0",
-   "image": "https://opengraph.githubassets.com/afe89a8e332b6adf01393ba063c84f06aef1579ab08f641c37d5cc4ead4b56ff/openai/openai-python/releases/tag/v3.37.0",
-   "title": "openai-python v3.37.0",
-   "summary_en": "3.37.0 (2026-10-22) ⚠ BREAKING CHANGES api: This minor release includes a breaking change to Decisions types. In Live response models, question instructions can now be a string or a list of structured text, image, or JSON parts; check isinstance(question.instructions, str) before using string operations and handle the structured form. Decisions request input types also include additional message roles and tool-history items, so update exhaustive type checks accordingly. Existing string instructions and DecisionInputMessageParam user-message inputs remain supported. Features api: expand…",
-   "title_mn": "openai-python v3.37.0 гарлаа: Decisions API-д зориулсан нийцэл эвдэх өөрчлөлтүүд",
-   "summary_mn": "OpenAI албан ёсны Python сангаа v3.37.0 болгон шинэчилж, Decisions төрлүүдэд бүтцийн хувьд нийцэл эвдэх өөрчлөлтүүд (breaking changes) оруулав.",
-   "body_mn": "OpenAI өөрийн Python SDK сангийн v3.37.0 хувилбарыг нийтэллээ. Энэхүү дэд хувилбарт Decisions API-ийн төрөлтэй холбоотой өмнөх кодын нийцлийг эвдэх (breaking change) өөрчлөлт орсон тул хөгжүүлэгчид кодоо шинэчлэх шаардлагатай болж байна.\n\nLive хариуны загваруудад question.instructions нь зөвхөн текст төдийгүй бүтэцлэгдсэн текст, зураг, эсвэл JSON хэсгүүдийн жагсаалт байх боломжтой болжээ. Иймд string функцуудыг дуудахаас өмнө isinstance(question.instructions, str) шалгалтыг заавал хийхийг зөвлөж байна. Мөн Decisions хүсэлтийн оролтын төрөлд мессежийн нэмэлт үүргүүд болон tool-history элементүүд нэмэгдсэн тул хатуу хэвшил (exhaustive type checks) шалгадаг хөгжүүлэгчид үүнийг тооцох хэрэгтэй.\n\nҮүнээс гадна файлын болон видеоны статус шалгах туслах функцууд (polling helpers), Live холболтын үндсэн тохиргоонуудыг хадгалан сайжруулж, setup-uv хамаарлыг 10.3.0 хувилбар руу ахиулсан байна.",
-   "published": "2026-10-22T20:03:54Z",
-   "added": "2026-10-23T05:07:43Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b90ba82044df1b44",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
-   "title": "Claude Duet app is Anthropic’s bet on agents",
-   "summary_en": "Claude Duet is available through waitlist for Pro and Max plan users.",
-   "title_mn": "Anthropic компани хувийн болон бизнесийн агентуудын зах зээлд өрсөлдөх Claude Duet аппыг танилцууллаа",
-   "summary_mn": "Anthropic компани Claude Opus 5.5 загварт суурилсан, хэрэглэгчийн өдөр тутмын ажлыг автоматжуулах Claude Duet хувийн агентыг зарлалаа. Энэхүү апп нь Stripe Link болон Shopify Shop Pay ашиглан онлайн худалдан авалт хийх чадвартай.",
-   "body_mn": "AI зах зээлд хувийн туслахууд болон агентуудын өрсөлдөөн ширүүсч буй энэ үед Anthropic компани Claude Duet нэртэй шинэ аппаа албан ёсоор танилцууллаа. Энэхүү агент нь мэргэжилтнүүд болон жижиг бизнесүүдэд зориулагдсан бөгөөд өдөр тутмын товч мэдээлэл бэлтгэх, самбар үүсгэх, хэрэглэгчийн өгөгдөлд үндэслэн үйлдлүүдийг санал болгох үүрэгтэй.\n\nClaude Duet нь Claude Opus 5.5 загварт тулгуурласан бөгөөд Claude Marketplace дахь 6,000 гаруй холбогч, залгаасуудтай холбогдох боломжтой юм. Мөн хэрэглэгчийн өмнөөс Stripe Link болон Shopify Shop Pay дижитал хэтэвч ашиглан онлайн худалдан авалт хийх чадвартай хэдий ч мөнгөн гуйвуулга хийх эсвэл үнэт цаас арилжаалах боломжгүй ажээ.\n\nАюулгүй байдлын үүднээс хэрэглэгчийн мэдээлэл алдагдахаас сэргийлсэн ангилагчийг суурилуулсан бөгөөд зээлийн картын дугаар, төрийн байгууллагын үнэмлэхтэй холбоотой хүсэлтийг автоматаар татгалзах юм. Уг апп нь одоогоор iOS, Android дээр болон Claude.ai вэб хувилбараар дамжин Про болон Макс хэрэглэгчдэд судалгааны урьдчилсан байдлаар хүлээлгийн жагсаалтаар нээлттэй байна.",
-   "published": "2026-10-22T13:53:26Z",
-   "added": "2026-10-23T10:19:26Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "767a7f383549ba64",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-   "image": "https://github.blog/wp-content/uploads/2026/10/658446301-3cc026e6-3fe9-4cf3-8d6c-36d90d6c665a.jpeg",
-   "title": "Global default for Copilot features generally available",
-   "summary_en": "In September, we announced a global default policy for generally available GitHub Copilot features and supported client capabilities on Copilot Business and Copilot Enterprise plans. Starting today, we’re gradually rolling…",
-   "title_mn": "GitHub Copilot болон MCP серверүүдийн глобал үндсэн бодлого албан ёсоор хэрэгжиж эхэллээ",
-   "summary_mn": "GitHub Copilot Enterprise болон Business хэрэглэгчдэд зориулсан ерөнхий бодлого болон 'Features & clients' тохиргоог аажмаар нэвтрүүлж байна.",
-   "body_mn": "GitHub компани өнгөрсөн есдүгээр сард зарласан GitHub Copilot-ын ерөнхий бодлогыг Business болон Enterprise багцуудад аажмаар хэрэгжүүлж эхэлснээ зарлалаа. Уг шинэ журам нь нийтэд нээлттэй болсон Copilot функцууд болон дэмжигдсэн клиент чадамжуудад үйлчлэх ажээ.\n\nАдминууд 'Features & clients' болон 'MCP servers in Copilot' тохиргоонуудыг AI Controls цэсээр дамжуулан удирдах боломжтой бөгөөд хэрэв тодорхой сонголт хийгээгүй бол глобал үндсэн бодлого автоматаар үйлчилнэ. Энэхүү өөрчлөлт нь байгууллагын түвшинд хөгжүүлэгчдийн ашиглах AI хэрэгслүүдийн бодлогыг нэгдсэн байдлаар удирдах боломжийг олгож байна.",
-   "published": "2026-10-22T20:44:28Z",
-   "added": "2026-10-23T10:19:26Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "75b91d1aec196340",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Google Cloud",
-   "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Blog_Headers_-_Cloudstyle_3.0_11.max-2500x2500.png",
-   "title": "Expanding Claude availability and deployment choice on Google Cloud",
-   "summary_en": "Today, we’re announcing the general availability of an Anthropic-managed deployment option for Claude Models on Google Cloud. This gives developers more choice in how they run their models, helping them consolidate AI workloads on Google Cloud by pairing direct access to Anthropic’s platform alongside our existing, in-boundary Google-managed deployment option.",
-   "title_mn": "Google Cloud дээр Anthropic-ийн удирдлагатай Claude загваруудыг байршуулах боломжтой боллоо",
-   "summary_mn": "Google Cloud үйлчилгээнд Anthropic-ийн удирдлага дор ажиллах Claude загваруудын шинэ сонголт нэмэгдсэнээр хөгжүүлэгчид Claude Managed Agents зэрэг платформын шинэ боломжуудыг ашиглах боломжтой боллоо.",
-   "body_mn": "Google Cloud компани хөгжүүлэгчдэд зориулсан загварын сонголт болон архитектурын уян хатан байдлыг нэмэгдүүлэх зорилгоор Anthropic-ийн удирдлагатай Claude загваруудыг байршуулах шинэ сонголтыг албан ёсоор нээлээ. Өмнө нь байсан Google-ийн удирдлагатай сонголттой зэрэгцэн ажиллах энэхүү шийдэл нь хэрэглэгчдэд илүү өргөн боломж олгож байна.\n\nAnthropic-managed сонголт нь Claude Managed Agents (beta), төрөл бүрийн ур чадвар болон код ажиллуулах зэрэг шинэ платформын боломжуудад шууд хандах эрх өгөх бөгөөд Anthropic дата боловсруулагчаар ажилладаг. Харин Google-managed сонголт нь хатуу засаглал, датаны байршил (US, EU, APAC) болон CMEK зэрэг аюулгүй байдлын шаардлага хангасан хэвээр байх болно.\n\nХөгжүүлэгчид Claude Fable 5.1, Sonnet 5.5, Haiku 5.5 болон Opus 5.5 зэрэг хамгийн сүүлийн үеийн загваруудыг Google Cloud IAM болон Marketplace төлбөр тооцооны системтэй хослуулан ашиглах боломж бүрдлээ.",
-   "published": "2026-10-22T21:19:39Z",
-   "added": "2026-10-23T10:19:26Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ced79e7c80af82e8",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Anthropic",
-   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/633e51e2d75a5c14022fa48961b886553d41ce9d-1200x630.jpg",
-   "title": "Open call for guest investigators in the life sciences",
-   "summary_en": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
-   "title_mn": "Anthropic амьдрах ухааны болон биологийн судалгааны зочин судлаачдын нээлттэй сонгон шалгаруулалт зарлалаа",
-   "summary_mn": "Anthropic компани академик хүрээлэн, төрийн бус болон эрдэм шинжилгээний байгууллагуудын судлаачдад Claude загваруудыг ашиглан биологи, анагаах ухааны судалгаа хийх боломжийг олгох хөтөлбөр эхлүүллээ.",
-   "body_mn": "Anthropic компани амьдрах ухааны (life sciences) салбарын эрдэмтэн судлаачдад зориулсан тусгай төслүүдийн хамтын ажиллагааны өргөн хүрээний урилгыг зарлалаа. Академик институт, ТББ болон засгийн газрын лабораторийн үндсэн судлаачид хүн судлалын биологи, молекул биологи, эмийн хими болон эм судлалын чиглэлээр Claude загваруудыг ашиглах боломжтой юм.\n\nСонгогдсон судлаачид 8-12 долоо хоногийн турш Anthropic-ийн судлаачидтай шууд хамтран ажиллах бөгөөд загварын хэрэглээний зардлыг Anthropic компани хариуцах ажээ. Оролцогчид өөрсдийн мэдээллийн эрхийг бүрэн хадгалах ба судалгааны үр дүнг нээлттэй эх сурвалж болгон хэвлэн гаргах юм.\n\nЭнэхүү санаачилга нь Life Sciences Verification Program болон AI for Science хөтөлбөрүүдийн үргэлжлэл бөгөөд эрдэм шинжилгээний салбарт хиймэл оюун ухааныг гүнзгийрүүлэн нэвтрүүлэх зорилготой юм.",
-   "published": "2026-10-22T22:03:06Z",
-   "added": "2026-10-23T10:19:26Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "93a92e7dc8c37ced",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Kingy AI",
-   "url": "https://kingy.ai/blog/anthropic-formal-verification-claude-proofs/",
-   "image": "https://kingy.ai/wp-content/uploads/2026/10/formal-verification-cover.png",
-   "title": "Anthropic Formal Verification: Claude’s Proofs and Their Limits",
-   "summary_en": "A close reading of Anthropic and Theorem’s formal-verification research: released proofs, security guarantees, termination limits, costs and deployment gaps.",
-   "title_mn": "Anthropic Claude-оор 123 нээлттэй санд албан ёсны математик баталгаажуулалт хийв",
-   "summary_mn": "Anthropic болон Theorem нар Claude загварыг ашиглан 123 нээлттэй эхийн сангийн 239 fuzzing цэгт Rocq хэл дээр албан ёсны баталгаа үүсгэсэн байна. Гэхдээ энэ нь програмууд заавал зогсолтгүй ажиллана гэсэн баталгааг өгөхгүй аж.",
-   "body_mn": "Anthropic компани Theorem-тэй хамтран хийсэн шинэ судалгаагаа танилцууллаа. Энэхүү ажлын хүрээнд Claude загвар нь 123 нээлттэй эхийн сангийн 239 fuzzing цэгт зориулж математик аргаар шалгах боломжтой албан ёсны баталгааг гаргаж авсан байна. Ингэхдээ 180 сая мөр Rocq баталгааны код амжилттай үүсгэжээ.\n\nЭнэхүү баталгаажуулалт нь cJSON, simdjson, OpenSSL, zstd зэрэг өргөн хэрэглэгддэг сангуудын тодорхой эхлэлийн цэгүүдийг хамарсан байна. Шалгалтыг 64 MiB хүртэлх хэмжээтэй өгөгдөл дээр алдаа зааж унахгүй, assertion алдахгүй байх нөхцөлийг тодорхойлж гүйцэтгэсэн боловч програмууд ямар ч үед заавал дуусна гэдгийг (termination) бүрэн батлахгүй гэдгийг судалгаанд тэмдэглэжээ.\n\nХөгжүүлэгчдийн хувьд энэхүү туршилт нь том хэлний загварыг зөвхөн код бичихэд бус, нарийн төвөгтэй системүүдийн аюулгүй байдлыг албан ёсны математик шалгуураар баталгаажуулахад практикт ашиглаж болохыг харуулсан чухал алхам болж байна.",
-   "published": "2026-10-22T22:17:28Z",
-   "added": "2026-10-23T10:19:26Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a4bb74987cb2a91a",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
-   "image": "https://opengraph.githubassets.com/bee1aa92e21b63812e9b480ed18e7dbb603f613bea9fb7b974de0575a4b41bd2/anthropics/claude-code/releases/tag/v2.1.309",
-   "title": "claude-code v2.1.309",
-   "summary_en": "What's changed Fixed sandboxed Bash commands on macOS and Linux running the shell's startup files outside the sandbox before each command Fixed macOS sandbox denyWrite glob patterns not applying at a path's real location when the pattern's folder is reached through a symlink Fixed sandboxed commands and auto-accepted edits being able to modify the MCP config file passed with --mcp-config Fixed a disabled MCP server being reconnected by a later permission prompt in print and SDK sessions Fixed the Bash permission check trusting a variable set by a command whose redirect can fail to open Fixed…",
-   "title_mn": "Claude Code v2.1.309 гарлаа: Sandbox болон MCP аюулгүй байдлын олон алдааг засав",
-   "summary_mn": "Claude Code v2.1.309 шинэчлэлтээр macOS болон Linux sandbox-ийн бүрхүүлээс гадуур файл унших, MCP тохиргоог зөвшөөрөлгүй өөрчлөх зэрэг аюулгүй байдлын чухал алдаануудыг заслаа.",
-   "body_mn": "Anthropic компани хөгжүүлэгчдийн терминалд ажилладаг Claude Code хэрэгслийнхээ v2.1.309 хувилбарыг гаргалаа. Энэхүү хувилбарт бүрхүүл (sandbox) болон зөвшөөрлийн хяналттай холбоотой ноцтой асуудлуудыг шийдвэрлэсэн байна.\n\nТухайлбал, macOS болон Linux дээр тусгаарлагдсан Bash командуудыг ажиллуулах үед бүрхүүлийн эхлэлийн файлуудыг сэндбоксоос гадуур дууддаг байсныг зассан байна. Мөн symlink-ээр дамжин өнгөрөхөд denyWrite дүрмүүд ажиллахгүй байсан, автоматаар зөвшөөрөгдсөн засварууд --mcp-config файлд өөрчлөлт оруулах боломжтой байсан зэрэг цоорхойг арилгажээ.\n\nҮүнээс гадна маш том хэмжээтэй үүрлэсэн CLAUDE.md файлуудаас болж сесс тасралтгүй хураангуйлагдах, ctrl+enter товчны үйлдлийн дараалал алдагдах, зэрэгцээ ажиллаж буй агентуудын дэлгэцэнд хүлээгдэж буй зурвасууд харагдахгүй байсан зэрэг хэрэглэгчийн туршлагатай холбоотой олон алдааг засварласан байна.",
-   "published": "2026-10-22T22:18:57Z",
-   "added": "2026-10-23T10:19:26Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dea8ba729eb28582",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-   "image": "https://github.blog/wp-content/uploads/2026/10/681211665-c6d29dfe-e754-4848-b5f0-729765a433e7.jpeg",
-   "title": "Custom skills, agents, and MCP servers in usage metrics API",
-   "summary_en": "Copilot usage metrics now show the names of the skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins that your organization creates, instead of grouping them under…",
-   "title_mn": "GitHub Copilot метрикийн API-д байгууллагын MCP сервэр, агентуудын нэрс нэмэгдлээ",
-   "summary_mn": "Copilot usage metrics API одоо байгууллагын өөрсдийн үүсгэсэн skill, agent, MCP сервэрүүдийг 'other' гэж нэгтгэхгүйгээр тус бүрийнх нь нэрээр статистик гаргаж харуулдаг боллоо.",
-   "body_mn": "GitHub байгууллагын админуудад зориулан Copilot хэрэглээний статистик гаргадаг API-даа шинэ боломж нэмжээ. Одооноос эхлэн байгууллагын дотооддоо хөгжүүлсэн skill, тусгай агентууд (custom agents), Model Context Protocol (MCP) сервэрүүд, slash командууд болон залгаасуудын нэрс тусдаа тодорхой харагдах болсон байна.\n\nӨмнө нь эдгээр тусгай тохиргоонуудыг нийтэд нь 'other' эсвэл 'custom' гэсэн ерөнхий бүлэгт нэгтгэн харуулдаг байсан нь хөгжүүлэгчдийн бодит хэрэглээг хянахад хүндрэл учруулдаг байв.\n\nШинэчлэлтийн үр дүнд байгууллагууд өөрсдийн багуудад зориулан бүтээсэн хиймэл оюуны хэрэгслүүд болон MCP сервэрүүдийг инженерүүд хэр их ашиглаж буйг бодитоор хэмжих, хэрэглээг дэмжихэд шаардлагатай арга хэмжээг төлөвлөх боломжтой болж байна.",
-   "published": "2026-10-22T22:19:17Z",
-   "added": "2026-10-23T10:19:26Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0c86033b29fb2277",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/eight-more-tlds-now-eligible-for-a-free-domain-with-pro",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3xGudGxhsURfzv2GCCExnT/681cf9201e4b4bd24f83793aa83dfa3d/image__52_.png",
-   "title": "Eight more TLDs now eligible for a free domain with Pro",
-   "summary_en": "Every Pro team can claim a free domain for one year. That offer now includes .co , .studio , .company , .info , .pro , .live , .digital , and .agency , bringing the eligible TLDs to sixteen. The offer still covers one domain per team, and premium domains are not eligible. After the first year, your domain will renew automatically at the regular price shown at checkout when you claim it. Claim yours at vercel.com/domains , and see the free domain FAQ for the full list of eligible TLDs and terms. Read more",
-   "title_mn": "Vercel Pro багуудад үнэгүй өгөх домэйны жагсаалтад 8 шинэ TLD нэмэгдэв",
-   "summary_mn": "Vercel Pro багууд жилийн үнэгүй домэйн авах боломжтой TLD-ийн тоо 16 болж өргөжлөө. Шинээр .co, .studio, .digital зэрэг төгсгөлүүд нэмэгдсэн байна.",
-   "body_mn": "Vercel платформ Pro багцын хэрэглэгчдэдээ нэг жилийн хугацаатай үнэгүй олгодог домэйны сонголтоо өргөтгөж, найман шинэ TLD (дээд түвшний домэйн) нэмснээ зарлалаа.\n\nШинээр нэмэгдсэн TLD-үүдэд .co, .studio, .company, .info, .pro, .live, .digital, .agency багтаж байгаа бөгөөд нийт сонгох боломжтой домэйны төрөл 16 хүрсэн байна. Уг урамшуулал нь нэг багт зөвхөн нэг домэйнд хамаарах бөгөөд premium зэрэглэлийн домэйнуудад хамаарахгүй юм.\n\nЭхний нэг жилийн дараа уг домэйнууд худалдан авах үеийн ердийн үнэ тарифын дагуу автоматаар сунгагдах нөхцөлтэй тул хөгжүүлэгчид vercel.com/domains хуудсаар орж шалгах боломжтой.",
-   "published": "2026-10-22T22:28:00Z",
-   "added": "2026-10-23T10:19:26Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "982247eda843699b",
    "subtopic": "packages",
    "source": "Hacker News",
@@ -697,6 +497,186 @@
    "added": "2026-10-24T05:18:04Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d91d3fc9b564d6b5",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cafef5b99ad121eaf5b0cc65/542ff0db971f92dcc52edc05eba0320a/how_vercel_agent_ensures_safe_access_to_production_og_card.jpg",
+   "title": "How Vercel Agent accesses production safely",
+   "summary_en": "An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve individual actions before they know how the agent intends to solve the problem. Repeated prompts can turn that review into a habit of clicking approve. Vercel Agent starts by investigating the problem, then proposes a plan showing what it would do and what access it would need…",
+   "title_mn": "Vercel Agent продюшн системд хэрхэн аюулгүйгээр хандах вэ",
+   "summary_mn": "Vercel Agent хөгжүүлэгчдийн зөвшөөрөлтэйгээр бүтээгдэхүүний орчинд аюулгүй ажиллах шинэ боломжийг танилцууллаа. Энэ нь төлөвлөгөө боловсруулж, шаардлагатай эрхийг урьдчилан хянаж баталгаажуулах боломжийг олгоно.",
+   "body_mn": "Продюшн систем дээр ажиллаж буй хиймэл оюун ухааны агент нь системд нэвтрэх болон өөрчлөлт оруулахын тулд тодорхой зөвшөөрөл шаарддаг. Хэрэв ямар ч хяналтгүйгээр өргөн эрх оговол санамсаргүй байдлаар бусад нөөцөд нөлөөлөх эрсдэлтэй байдаг бол алхам тутамд нь зөвшөөрөл авах нь хөгжүүлэгчдэд төвөгтэй байдаг.\n\nVercel Agent энэ асуудлыг шийдэхийн тулд эхлээд асуудлыг судалж, юу хийх гэж буйгаа харуулсан төлөвлөгөөг хэрэглэгчид санал болгодог. Уг төлөвлөгөөг зөвшөөрснөөр зөвхөн тухайн ажилд шаардлагатай эрхүүд идэвхжиж, алдааг засах болон redeploy хийх үйлдлүүдийг аюулгүйгээр гүйцэтгэх боломжтой болдог байна.",
+   "published": "2026-10-23T20:29:00Z",
+   "added": "2026-10-24T09:41:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cc67c5fe8a72a1a9",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5zUPDbfsi6JNUM6IRgNFRQ/d3a2f741d6d947709a347712fc2ce8ee/vercel-mcp-feedback-og.png",
+   "title": "Send feedback from the Vercel MCP",
+   "summary_en": "Vercel MCP now includes submit_feedback , a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness. Ask your agent to give feedback in plain language: Send Vercel feedback that the deployment error didn't explain which environment variable was missing. Your assistant can attach structured context that describes the task, the expected behavior, and what went wrong: The tool requires sign-in, and it sends feedback only when you ask your agent to share it. Connect your agent to Vercel MCP and read the submit_feedback…",
+   "title_mn": "Vercel MCP ашиглан санал хүсэлт илгээх боломжтой боллоо",
+   "summary_mn": "Vercel MCP хэрэгсэлд submit_feedback функц нэмэгдсэнээр хөгжүүлэгчид агентаараа дамжуулан алдааны тайлан болон шинэ боломжийн саналаа шууд илгээх боломжтой болжээ.",
+   "body_mn": "Vercel MCP (Model Context Protocol) хэрэгсэлд шинээр submit_feedback функц нэмэгдлээ. Энэ нь хөгжүүлэгчдэд өөрсдийн ашиглаж буй агент болон системээс шууд Vercel баг руу алдааны тайлан, санал хүсэлт, шинэ боломжийн хүсэлтээ илгээх боломжийг олгож байна.\n\nХөгжүүлэгчид энгийн ярианы хэлээр агентандаа хандан санал хүсэлтээ өгөх боломжтой бөгөөд систем шаардлагатай бүтцийн мэдээлэл болон контекстийг автоматаар хавсаргадаг. Энэхүү хэрэгсэл нь нэвтрэлт шаардах бөгөөд зөвхөн хэрэглэгчийн хүссэн үед л мэдээллийг дамжуулдаг байна.",
+   "published": "2026-10-23T20:53:00Z",
+   "added": "2026-10-24T09:41:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "400d918642962961",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+   "image": "https://github.blog/wp-content/uploads/2026/10/Issue_notification_social.jpeg",
+   "title": "Turn notifications into code with GitHub Copilot in Teams",
+   "summary_en": "The new GitHub app in Teams brings notifications and Copilot together, helping teams turn issues into fixes and ship code faster without leaving the conversation. Get notified in channels, group…",
+   "title_mn": "Microsoft Teams дахь GitHub Copilot-оор асуудлыг код болгон хувиргаарай",
+   "summary_mn": "Microsoft Teams-д зориулсан шинэ GitHub апп нь мэдэгдэл болон Copilot-ийг нэгтгэснээр багуудад чарнаас гарахгүйгээр кодыг хурдан засварлах боломжийг олгож байна.",
+   "body_mn": "Microsoft Teams орчинд ажилладаг шинэ GitHub апп нь мэдэгдлүүдийг GitHub Copilot-той хослуулан хөгжүүлэгчдийн ажлыг хөнгөвчлөхөөр болжээ. Хөгжүүлэгчид апп дотроос мэдэгдэл хүлээн авч, @mention хийснээр тухайн асуудлыг шууд шийдвэрлэх боломжтой болж байна.\n\nХуучин GitHub мэдэгдлийн апп ашиглаж буй хэрэглэгчид шинэчлэгдсэн нэгдсэн апп рүү шилжих шаардлагатай бөгөөд хуучин хувилбар нь арваннэгдүгээр сарын 16-нд хаагдах юм. Энэхүү интеграци нь багуудад харилцан ярианаас гарахгүйгээр репозиторитой холбогдож ажиллах боломжийг олгоно.",
+   "published": "2026-10-23T21:29:58Z",
+   "added": "2026-10-24T09:41:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2d33ef1ca08dbea8",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-cli-adds-spend-management",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/48w79bmU1b46BZolJx9kRu/dcbb67baf09aa4d2e8dad2f9c3c04431/image__53_.png",
+   "title": "Vercel CLI adds Spend Management",
+   "summary_en": "You can now view and manage your team's Spend Management budget from the Vercel CLI. Run vercel budgets and you, or the scripts and agents you run, get back your current spend and the active budget. View, set, and remove a budget This is the same On-Demand Budget shown in your team's billing settings. Setting a budget does not stop usage on its own. The --pause flag pauses production deployments of all projects when spend reaches 100%. List budget alert history You can now see your budget alert history. Run vercel budgets alerts for the full log, filtered with --since , --until , --limit…",
+   "title_mn": "Vercel CLI дээр Spend Management боломж нэмэгдлээ",
+   "summary_mn": "Vercel CLI хэрэгсэлд багийнхаа төсөв болон зарцуулалтыг хянах Spend Management боломж албан ёсоор нэмэгдлээ. Хөгжүүлэгчид терминалаас шууд vercel budgets командыг ашиглан өөрсдийн гүйлгээний мэдээлэл болон анхааруулгыг шалгах боломжтой боллоо.",
+   "body_mn": "Vercel платформын хөгжүүлэгчид CLI хэрэгсэл дээрээ Spend Management буюу зарцуулалтын удирдлагын шинэ функцийг нэмсэн байна. Ингэснээр хөгжүүлэгчид болон автоматаар ажилладаг скрипт, агентууд терминалаас vercel budgets командыг ашиглан одоогийн зарцуулалт болон идэвхтэй төсвөө шууд шалгах боломжтой боллоо.\n\nШинэ функц нь вэб интерфэйс дээр харагддаг On-Demand Budget-тэй яг ижилхэн ажиллах ба хэрэглээ 100% хүрэхэд бүх төслийн production деплойментыг автоматаар түр зогсоох --pause тугийг дэмждэг байна. Мөн vercel budgets alerts командыг ашиглан өнгөрсөн хугацааны зарцуулалтын анхааруулгын түүхийг шүүж харах боломжтой.\n\nЭнэхүү боломж нь Pro болон Enterprise багийн хэрэглэгчдэд ямар нэгэн нэмэлт төлбөргүйгээр ашиглагдах бөгөөд багийн эзэн (Owner) эсвэл санхүүгийн эрхтэй (Billing) хэрэглэгчид удирдах боломжтой юм. Дэлгэрэнгүй лавлах болон зааврыг Vercel-ийн албан ёсны CLI баримтжуулалтаас харж болно.",
+   "published": "2026-10-23T21:44:00Z",
+   "added": "2026-10-24T09:41:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "718f749ed7ff6f24",
+   "subtopic": "design-systems",
+   "source": "Figma Blog",
+   "source_label": "Figma Blog",
+   "url": "https://www.figma.com/blog/6-ways-teams-are-experimenting-with-code-layers/",
+   "image": "https://cdn.sanity.io/images/599r6htc/regionalized/ae1c3c193908deb3921d2061f39ffd17878e4240-10835x6095.png?w=1200&q=70&fit=max&auto=format",
+   "title": "6 ways teams are experimenting with code layers",
+   "summary_en": "Now that code layers is in open beta, you can bring code to the canvas. Here’s how six teams are using it to experiment, get stakeholders aligned, and move faster.",
+   "title_mn": "Figma code layers нээлттэй бета хувилбартаа орлоо",
+   "summary_mn": "Figma дээр code layers буюу код давхарга нээлттэй бета хувилбартаа шилжлээ. Багууд дизайн болон кодыг нэг canvas дээр холбож, интерактив прототип бүтээхэд Figma агентыг хэрхэн ашиглаж буй туршлагаасаа хуваалцав.",
+   "body_mn": "Figma платформын шинэ code layers боломж нээлттэй бета хувилбартаа албан ёсоор шилжсэнээр дизайнерууд болон хөгжүүлэгчид код дээр суурилсан интерактив прототипийг canvas дээр шууд бүтээх боломжтой боллоо. Uber, Granola, Atlassian зэрэг томоохон компаниудын багууд үүнийг ашиглан ажилдаа хэрхэн хурд нэмж байгаагаа танилцуулав.\n\nТухайлбал, хөгжүүлэгчид болон бүтээгдэхүүний менежерүүд Figma агентын тусламжтайгаар нарийн төвөгтэй HTML болон скрипт прототипийг үе шаттайгаар бүтээж байна. Нэг удаад бүх зүйлийг үүсгэхийн оронд гүйлгэх (scroll) болон товчлуурын үйлдлүүдийг нэг бүрчлэн нэмж, гарсан алдааг нэг тодорхой prompt-оор засуулах боломжтой болжээ. Энэ нь бусад багийн гишүүд болон бизнес оролцогч талуудад загварыг ойлгомжтойгоор харуулахад маш өндөр үр дүнтэй байна.\n\nМөн хувилбар бүрийг canvas дээр хажуу зэрэгцүүлэн хадгалж, хувилбарын түүх рүү шилжих шаардлагагүйгээр хувилбаруудыг шууд харьцуулах боломжийг бүрдүүлсэн юм. Энэ нь дизайн систем болон код хоорондын уялдааг сайжруулаад зогсохгүй бүтээгдэхүүн хөгжүүлэлтийн явцыг хэд дахин хурдасгаж байна.",
+   "published": "2026-10-23T22:43:00Z",
+   "added": "2026-10-24T09:41:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3256932f0dfbc8a7",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "MarkTechPost",
+   "url": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-31-scaled.png",
+   "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
+   "summary_en": "Moonshot AI’s Kimi K3.1 Pro is a 2.8T-parameter open-weight model with 1M context, scoring 65.7% on Terminal-Bench 4.0.",
+   "title_mn": "Moonshot AI компани 1 сая токенийн контексттэй Kimi K3.1 Pro загварыг танилцууллаа",
+   "summary_mn": "Moonshot AI компани K3.1 цувралын анхны загвар болох Kimi K3.1 Pro-г албан ёсоор гаргалаа. Уг загвар нь 2.8T нийт / 104B идэвхтэй параметртэй, 1 сая токенийн контекст цонхтой бөгөөд API болон вэб хувилбараар ашиглах боломжтой.",
+   "body_mn": "Moonshot AI компани хиймэл оюун ухааны зах зээлд өөрийн Kimi K3.1 Pro загвараа танилцууллаа. Энэ нь 3T хүрээний нээлттэй жинтэй (open-weights) байхаар төлөвлөгдсөн бөгөөд 1 сая токенийн өргөн контекст цонхыг дэмждэг МоE (Mixture of Experts) архитектуртай загвар юм. Компанийн зүгээс үүнийг код бичих, агент хэлбэрээр ажиллах болон мэдлэгийн сорилтуудад тэргүүлэгч загваруудтай өрсөлдөхүйц хэмээн байр суурь эзлүүлжээ.\n\nKimi K3.1 Pro нь Kimi K3 загварын сайжруулсан хувилбар бөгөөд сургалтын дараах тооцооллыг маш өргөн хүрээнд хийж гүйцэтгэжээ. Архитектурын хувьд Kimi Delta Attention (KDA) болон Attention Residuals (AttnRes) технологиудыг ашиглаж, 896 шинжээчээс 16-г нь Stable LatentMoE хүрээнд идэвхжүүлдэг байна. Мөн хөгжүүлэгчдэд зориулж 2-3 дахин хурдан ажиллах Kimi K3.1 Pro Highspeed хувилбарыг давхар гаргажээ.\n\nAPI үнийн хувьд K3.1 Pro нь 1 сая оролтын токен тутамд $2.00, гаралтын токен тутамд $10.00 байхаар тогтоогдсон нь өмнөх үеийн загваруудаас хямд бөгөөд OpenAI-тай нийцтэй төгсгөлийн цэгээр (endpoint) дамжин ажиллах боломжтой юм. Нээлттэй жингийн файлууд нь 11 сард олон нийтэд хүрэхээр хүлээгдэж байна.",
+   "published": "2026-10-23T22:52:40Z",
+   "added": "2026-10-24T09:41:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "937db13be0970c3a",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
+   "image": "https://opengraph.githubassets.com/29a5b054b8870aa16af5ee813a1120bb15f4e1ff9da30bfe5a52778a7481673a/anthropics/claude-code/releases/tag/v2.1.310",
+   "title": "claude-code v2.1.310",
+   "summary_en": "What's changed Added the Monitor tool and plugin monitors on Bedrock, Vertex, and Foundry, and when telemetry or nonessential traffic is disabled; long foreground sleeps are now blocked there too Fixed requests failing behind some gateways and compatible servers that reject the effort-2025-11-24 beta value or mid-conversation system messages; Claude Code now retries without them Fixed background cleanup deleting some recent files, such as pasted images, when cleanupPeriodDays is set to a very large value Fixed compaction after a \"Prompt is too long\" error keeping too much of a conversation…",
+   "title_mn": "Claude Code v2.1.310 хувилбар шинэчлэгдлээ",
+   "summary_mn": "Claude Code v2.1.310 шинэ хувилбар гарч, олон төрлийн платформуудад Monitor хэрэгсэл нэмэгдэж, Background cleanup болон compaction алдаанууд засварлагдлаа.",
+   "body_mn": "Claude Code хөгжүүлэлтийн хэрэгслийн v2.1.310 шинэ хувилбар албан ёosan гарч, хөгжүүлэгчдэд зориулсан олон чухал сайжруулалт болон алдааны засваруудыг багтаалаа. Тухайлбал, Bedrock, Vertex, болон Foundry орчинд Monitor хэрэгсэл болон залгаас мониторууд нэмэгдсэн байна.\n\nШинэ хувилбарт зарим шлюз болон серверүүд дээр хүсэлт амжилтгүй болдог байсан асуудлыг засаж, Claude Code шаардлагагүй тохиргоог автоматаар алгасах боломжтой болжээ. Мөн фонов цэвэрлэгээ (background cleanup) хийх явцад pasted image зэрэг сүүлийн үеийн файлууд устдаг байсан алдааг зассан байна. Үүнээс гадна VS Code болон Cloud sessions хэсэгт үүсдэг байсан хэд хэдэн UI болон хандалтын алдааг сайжруулжээ.\n\nLinux болон Windows үйлдлийн системүүдийг ашиглагчдад зориулсан sandbox тохиргоо, зааварчилгаа сайжирсан бөгөөд Enterprise хэрэглэгчдэд Cloud sessions болон Remote Control эрхийг тусгай дүрээр удирдах боломжтой болсон нь багийн аюулгүй байдлыг хангах чухал алхам болжээ.",
+   "published": "2026-10-23T23:39:00Z",
+   "added": "2026-10-24T09:41:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dc1ed52c8837fe68",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+   "image": "https://github.blog/wp-content/uploads/2026/10/682164468-bde58abd-ebed-4a21-983d-e7ea362b9ed5.jpeg",
+   "title": "Usage metrics API adds usage from tools like OpenCode",
+   "summary_en": "The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.…",
+   "title_mn": "GitHub Copilot usage metrics API дээр OpenCode зэрэг хэрэгслүүдийн мэдээлэл нэмэгдлээ",
+   "summary_mn": "GitHub Copilot хэрэглээний метрик API нь OpenCode зэрэг IDE-гээс гадуур ажилладаг хэрэгслүүдийн загварын хэрэглээг давхар бүртгэдэг боллоо.",
+   "body_mn": "GitHub Copilot ашиглалтын метрик API нь хөгжүүлэгчдийн ашигладаг OpenCode зэрэг төрөл бүрийн хэрэгслүүдийн загварын хэрэглээг нарийвчлан тайлагнах боломжтой болж шинэчлэгдлээ. Enterprise болон байгууллагын тайлангууд дээр шинээр totals_by_client массивыг нэмж өгсөн байна.\n\nШинэ нэмэгдсэн client тус бүрээр хүсэлтийн тоо болон токенийн хэрэглээг нарийн хянах боломжтой бөгөөд энэ нь IDE-гээс гадуур ажиллаж буй хэрэгслүүдийн сервер талын траффикийг илүү бодитоор харах боломжийг олгож байна. Өмнө нь редакторуудын телеметр илгээдэггүй хэрэгслүүдийн хэрэглээ статистикт харагддаггүй байсан бол энэхүү шинэчлэлтээр уг зайг нөхөж чаджээ.\n\nЭнэхүү боломж нь агент апп-уудын идэвхжүүлэлтээс ялгаатай бөгөөд зөвхөн Copilot загварыг ашиглаж буй аливаа хэрэгслийн хүсэлт болон токенийн хэрэглээг хэмждэг байна. Байгууллагууд үүнийг ашиглан ямар хэрэгслүүд илүү их ачаалал үүсгэж байгааг хянаж, зардлын болон дэмжлэгийн шийдвэр гаргахад илүү дөхөм болж байна.",
+   "published": "2026-10-23T23:42:03Z",
+   "added": "2026-10-24T09:41:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1fe7473a975f6d25",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0",
+   "image": "https://opengraph.githubassets.com/36badc59bc5cc05c1aa66276fa806bb6f3470b07ca2cc3f30055fedef1489722/ollama/ollama/releases/tag/v0.40.11-rc0",
+   "title": "ollama v0.40.11",
+   "summary_en": "What's Changed qwen3coder: preserve literal function closing tags in parameters by @hoyyeva in #19228 launch: use allocated context for OpenCode by @hoyyeva in #19193 decision: allow empty state for vllm-d3 by @SynapShift in #19173 llama.cpp: version bump b11845 by @dhiltgen in #19250 mlxrunner: spell out symbols, numbers and links for Phonon by @jmorganca in #19234 voice: add voice catalog for Phonon by @jmorganca in #19242 New Contributors @SynapShift made their first contribution in #19173 Full Changelog : v0.40.10...v0.40.11-rc0",
+   "title_mn": "Ollama v0.40.11 хувилбар шинэчлэгдлээ",
+   "summary_mn": "Ollama v0.40.11 хувилбар гарч, qwen3coder болон OpenCode-д зориулсан контекстийн шинэчлэлтүүд, мөн llama.cpp шинэ хувилбарыг багтаалаа.",
+   "body_mn": "Ollama төсөл v0.40.11 хувилбараа гаргаж, хиймэл оюун ухааны загваруудыг дотоод орчинд ажиллуулах чадамжаа сайжрууллаа. Энэхүү хувилбарт qwen3coder загварын параметр дэх функц хаах шошгуудыг хэвээр хадгалах сайжруулалт хийгджээ.\n\nMөн OpenCode хэрэгсэлд зориулж хуваарилагдсан контекстийг ашиглах боломжийг бүрдүүлсэн бөгөөд llama.cpp санг b11845 хувилбар хүртэл шинэчилсэн байна. Дээр нь mlxrunner болон дуу хоолойтой холбоотой шинэ каталог нэмэгдсэн нь локал орчинд хиймэл оюун ухаан ажиллуулж буй хөгжүүлэгчдэд илүү өргөн боломжийг олгож байна.",
+   "published": "2026-10-24T00:30:13Z",
+   "added": "2026-10-24T09:41:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
   }
  }
 ]

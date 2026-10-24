@@ -1,0 +1,17 @@
+{
+ "id": "dc1ed52c8837fe68",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+ "image": "https://github.blog/wp-content/uploads/2026/10/682164468-bde58abd-ebed-4a21-983d-e7ea362b9ed5.jpeg",
+ "title": "Usage metrics API adds usage from tools like OpenCode",
+ "summary_en": "The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.…",
+ "title_mn": "GitHub Copilot usage metrics API дээр OpenCode зэрэг хэрэгслүүдийн мэдээлэл нэмэгдлээ",
+ "summary_mn": "GitHub Copilot хэрэглээний метрик API нь OpenCode зэрэг IDE-гээс гадуур ажилладаг хэрэгслүүдийн загварын хэрэглээг давхар бүртгэдэг боллоо.",
+ "body_mn": "GitHub Copilot ашиглалтын метрик API нь хөгжүүлэгчдийн ашигладаг OpenCode зэрэг төрөл бүрийн хэрэгслүүдийн загварын хэрэглээг нарийвчлан тайлагнах боломжтой болж шинэчлэгдлээ. Enterprise болон байгууллагын тайлангууд дээр шинээр totals_by_client массивыг нэмж өгсөн байна.\n\nШинэ нэмэгдсэн client тус бүрээр хүсэлтийн тоо болон токенийн хэрэглээг нарийн хянах боломжтой бөгөөд энэ нь IDE-гээс гадуур ажиллаж буй хэрэгслүүдийн сервер талын траффикийг илүү бодитоор харах боломжийг олгож байна. Өмнө нь редакторуудын телеметр илгээдэггүй хэрэгслүүдийн хэрэглээ статистикт харагддаггүй байсан бол энэхүү шинэчлэлтээр уг зайг нөхөж чаджээ.\n\nЭнэхүү боломж нь агент апп-уудын идэвхжүүлэлтээс ялгаатай бөгөөд зөвхөн Copilot загварыг ашиглаж буй аливаа хэрэгслийн хүсэлт болон токенийн хэрэглээг хэмждэг байна. Байгууллагууд үүнийг ашиглан ямар хэрэгслүүд илүү их ачаалал үүсгэж байгааг хянаж, зардлын болон дэмжлэгийн шийдвэр гаргахад илүү дөхөм болж байна.",
+ "published": "2026-10-23T23:42:03Z",
+ "added": "2026-10-24T09:41:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

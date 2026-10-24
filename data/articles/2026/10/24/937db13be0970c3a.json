@@ -1,0 +1,17 @@
+{
+ "id": "937db13be0970c3a",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
+ "image": "https://opengraph.githubassets.com/29a5b054b8870aa16af5ee813a1120bb15f4e1ff9da30bfe5a52778a7481673a/anthropics/claude-code/releases/tag/v2.1.310",
+ "title": "claude-code v2.1.310",
+ "summary_en": "What's changed Added the Monitor tool and plugin monitors on Bedrock, Vertex, and Foundry, and when telemetry or nonessential traffic is disabled; long foreground sleeps are now blocked there too Fixed requests failing behind some gateways and compatible servers that reject the effort-2025-11-24 beta value or mid-conversation system messages; Claude Code now retries without them Fixed background cleanup deleting some recent files, such as pasted images, when cleanupPeriodDays is set to a very large value Fixed compaction after a \"Prompt is too long\" error keeping too much of a conversation…",
+ "title_mn": "Claude Code v2.1.310 хувилбар шинэчлэгдлээ",
+ "summary_mn": "Claude Code v2.1.310 шинэ хувилбар гарч, олон төрлийн платформуудад Monitor хэрэгсэл нэмэгдэж, Background cleanup болон compaction алдаанууд засварлагдлаа.",
+ "body_mn": "Claude Code хөгжүүлэлтийн хэрэгслийн v2.1.310 шинэ хувилбар албан ёosan гарч, хөгжүүлэгчдэд зориулсан олон чухал сайжруулалт болон алдааны засваруудыг багтаалаа. Тухайлбал, Bedrock, Vertex, болон Foundry орчинд Monitor хэрэгсэл болон залгаас мониторууд нэмэгдсэн байна.\n\nШинэ хувилбарт зарим шлюз болон серверүүд дээр хүсэлт амжилтгүй болдог байсан асуудлыг засаж, Claude Code шаардлагагүй тохиргоог автоматаар алгасах боломжтой болжээ. Мөн фонов цэвэрлэгээ (background cleanup) хийх явцад pasted image зэрэг сүүлийн үеийн файлууд устдаг байсан алдааг зассан байна. Үүнээс гадна VS Code болон Cloud sessions хэсэгт үүсдэг байсан хэд хэдэн UI болон хандалтын алдааг сайжруулжээ.\n\nLinux болон Windows үйлдлийн системүүдийг ашиглагчдад зориулсан sandbox тохиргоо, зааварчилгаа сайжирсан бөгөөд Enterprise хэрэглэгчдэд Cloud sessions болон Remote Control эрхийг тусгай дүрээр удирдах боломжтой болсон нь багийн аюулгүй байдлыг хангах чухал алхам болжээ.",
+ "published": "2026-10-23T23:39:00Z",
+ "added": "2026-10-24T09:41:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "400d918642962961",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+ "image": "https://github.blog/wp-content/uploads/2026/10/Issue_notification_social.jpeg",
+ "title": "Turn notifications into code with GitHub Copilot in Teams",
+ "summary_en": "The new GitHub app in Teams brings notifications and Copilot together, helping teams turn issues into fixes and ship code faster without leaving the conversation. Get notified in channels, group…",
+ "title_mn": "Microsoft Teams дахь GitHub Copilot-оор асуудлыг код болгон хувиргаарай",
+ "summary_mn": "Microsoft Teams-д зориулсан шинэ GitHub апп нь мэдэгдэл болон Copilot-ийг нэгтгэснээр багуудад чарнаас гарахгүйгээр кодыг хурдан засварлах боломжийг олгож байна.",
+ "body_mn": "Microsoft Teams орчинд ажилладаг шинэ GitHub апп нь мэдэгдлүүдийг GitHub Copilot-той хослуулан хөгжүүлэгчдийн ажлыг хөнгөвчлөхөөр болжээ. Хөгжүүлэгчид апп дотроос мэдэгдэл хүлээн авч, @mention хийснээр тухайн асуудлыг шууд шийдвэрлэх боломжтой болж байна.\n\nХуучин GitHub мэдэгдлийн апп ашиглаж буй хэрэглэгчид шинэчлэгдсэн нэгдсэн апп рүү шилжих шаардлагатай бөгөөд хуучин хувилбар нь арваннэгдүгээр сарын 16-нд хаагдах юм. Энэхүү интеграци нь багуудад харилцан ярианаас гарахгүйгээр репозиторитой холбогдож ажиллах боломжийг олгоно.",
+ "published": "2026-10-23T21:29:58Z",
+ "added": "2026-10-24T09:41:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "2d33ef1ca08dbea8",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-cli-adds-spend-management",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/48w79bmU1b46BZolJx9kRu/dcbb67baf09aa4d2e8dad2f9c3c04431/image__53_.png",
+ "title": "Vercel CLI adds Spend Management",
+ "summary_en": "You can now view and manage your team's Spend Management budget from the Vercel CLI. Run vercel budgets and you, or the scripts and agents you run, get back your current spend and the active budget. View, set, and remove a budget This is the same On-Demand Budget shown in your team's billing settings. Setting a budget does not stop usage on its own. The --pause flag pauses production deployments of all projects when spend reaches 100%. List budget alert history You can now see your budget alert history. Run vercel budgets alerts for the full log, filtered with --since , --until , --limit…",
+ "title_mn": "Vercel CLI дээр Spend Management боломж нэмэгдлээ",
+ "summary_mn": "Vercel CLI хэрэгсэлд багийнхаа төсөв болон зарцуулалтыг хянах Spend Management боломж албан ёсоор нэмэгдлээ. Хөгжүүлэгчид терминалаас шууд vercel budgets командыг ашиглан өөрсдийн гүйлгээний мэдээлэл болон анхааруулгыг шалгах боломжтой боллоо.",
+ "body_mn": "Vercel платформын хөгжүүлэгчид CLI хэрэгсэл дээрээ Spend Management буюу зарцуулалтын удирдлагын шинэ функцийг нэмсэн байна. Ингэснээр хөгжүүлэгчид болон автоматаар ажилладаг скрипт, агентууд терминалаас vercel budgets командыг ашиглан одоогийн зарцуулалт болон идэвхтэй төсвөө шууд шалгах боломжтой боллоо.\n\nШинэ функц нь вэб интерфэйс дээр харагддаг On-Demand Budget-тэй яг ижилхэн ажиллах ба хэрэглээ 100% хүрэхэд бүх төслийн production деплойментыг автоматаар түр зогсоох --pause тугийг дэмждэг байна. Мөн vercel budgets alerts командыг ашиглан өнгөрсөн хугацааны зарцуулалтын анхааруулгын түүхийг шүүж харах боломжтой.\n\nЭнэхүү боломж нь Pro болон Enterprise багийн хэрэглэгчдэд ямар нэгэн нэмэлт төлбөргүйгээр ашиглагдах бөгөөд багийн эзэн (Owner) эсвэл санхүүгийн эрхтэй (Billing) хэрэглэгчид удирдах боломжтой юм. Дэлгэрэнгүй лавлах болон зааврыг Vercel-ийн албан ёсны CLI баримтжуулалтаас харж болно.",
+ "published": "2026-10-23T21:44:00Z",
+ "added": "2026-10-24T09:41:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

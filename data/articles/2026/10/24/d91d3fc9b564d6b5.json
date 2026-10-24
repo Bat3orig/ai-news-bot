@@ -1,0 +1,17 @@
+{
+ "id": "d91d3fc9b564d6b5",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cafef5b99ad121eaf5b0cc65/542ff0db971f92dcc52edc05eba0320a/how_vercel_agent_ensures_safe_access_to_production_og_card.jpg",
+ "title": "How Vercel Agent accesses production safely",
+ "summary_en": "An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve individual actions before they know how the agent intends to solve the problem. Repeated prompts can turn that review into a habit of clicking approve. Vercel Agent starts by investigating the problem, then proposes a plan showing what it would do and what access it would need…",
+ "title_mn": "Vercel Agent продюшн системд хэрхэн аюулгүйгээр хандах вэ",
+ "summary_mn": "Vercel Agent хөгжүүлэгчдийн зөвшөөрөлтэйгээр бүтээгдэхүүний орчинд аюулгүй ажиллах шинэ боломжийг танилцууллаа. Энэ нь төлөвлөгөө боловсруулж, шаардлагатай эрхийг урьдчилан хянаж баталгаажуулах боломжийг олгоно.",
+ "body_mn": "Продюшн систем дээр ажиллаж буй хиймэл оюун ухааны агент нь системд нэвтрэх болон өөрчлөлт оруулахын тулд тодорхой зөвшөөрөл шаарддаг. Хэрэв ямар ч хяналтгүйгээр өргөн эрх оговол санамсаргүй байдлаар бусад нөөцөд нөлөөлөх эрсдэлтэй байдаг бол алхам тутамд нь зөвшөөрөл авах нь хөгжүүлэгчдэд төвөгтэй байдаг.\n\nVercel Agent энэ асуудлыг шийдэхийн тулд эхлээд асуудлыг судалж, юу хийх гэж буйгаа харуулсан төлөвлөгөөг хэрэглэгчид санал болгодог. Уг төлөвлөгөөг зөвшөөрснөөр зөвхөн тухайн ажилд шаардлагатай эрхүүд идэвхжиж, алдааг засах болон redeploy хийх үйлдлүүдийг аюулгүйгээр гүйцэтгэх боломжтой болдог байна.",
+ "published": "2026-10-23T20:29:00Z",
+ "added": "2026-10-24T09:41:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
