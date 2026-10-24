@@ -1,0 +1,17 @@
+{
+ "id": "ee086be60817d97c",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Asianet Newsable",
+ "url": "https://newsable.asianetnews.com/business/moonshot-ai-unveils-kimi-k3-1-pro-3-trillion-parameter-ai-model-articleshow-fraubne",
+ "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-6796ba32-d289-41cf-9625-2efdc998fbed.jpg",
+ "title": "Moonshot AI Unveils Kimi K3.1 Pro 3-Trillion-Parameter AI Model",
+ "summary_en": "Moonshot AI has introduced the Kimi K3.1 Pro, a powerful 3-trillion-parameter model with a 1-million-token context window, offering advanced coding and financial workflow capabilities alongside a high-speed variant for responsive performance.",
+ "title_mn": "Moonshot AI компани Kimi K3.1 Pro загvar болон Open-Weight хувилбараа зарлалаа",
+ "summary_mn": "Moonshot AI 3 триллион параметр бүхий Kimi K3.1 Pro загвар болон Highspeed хувилбараа танилцууллаа. Энэхүү загвар нь 1 сая токенийн контекст цонхтой бөгөөд код бичих, санхүүгийн судалгаанд эрс сайжирсан байна.",
+ "body_mn": "Хятадын хиймэл оюун ухааны Moonshot AI компани Kimi K3.1 Pro загвараа албан ёсоор танилцууллаа. Энэхүү шинэ загвар нь 3 триллион орчим параметр бүхий open-weight систем бөгөөд 1 сая токенийн контекст цонхтойгоороо онцлог юм. Тус компани мөн илүү хурдан хариу өгөх Kimi K3.1 Pro Highspeed хувилбарыг гаргажээ.\n\nШинэ загвар нь код бичих, 3D бүтээх, санхүүгийн судалгаа хийх зэрэг олон чиглэлд өмнөх Kimi K3 загвараас эрс сайжирсан байна. Ялангуяа програм хангамжийн бодит даалгавруудыг үнэлдэг Terminal-Bench 4.0 тестэд 65.7 хувийн амжилт үзүүлж, өрсөлдөгч зарим загваруудыг ардаа орхижээ. Кode Bench 3.0 Long-horizon тестээр мөн 61.2 хувийн гүйцэтгэл үзүүлсэн байна.\n\nKimi K3.1 Pro болон Highspeed хувилбарууд нь одоогоор Kimi.ai, Kimi Work, Kimi Code болон API-аар дамжуулан хэрэглэгчдэд хүрч эхэлсэн байна. Moonshot AI компани бүрэн жинтэй open-weight файлуудыг арваннэгдүгээр сарын 4 гэхэд олон нийтэд нээлттэй болгохоор төлөвлөжээ.",
+ "published": "2026-10-24T05:11:35Z",
+ "added": "2026-10-24T19:37:21Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

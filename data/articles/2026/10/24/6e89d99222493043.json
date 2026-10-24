@@ -1,0 +1,17 @@
+{
+ "id": "6e89d99222493043",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Crypto Briefing",
+ "url": "https://cryptobriefing.com/moonshot-ai-kimi-k3-1-pro-hacking-curbs/",
+ "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/24024852/library-moonshot-ai-curbs-hacking-ability-in-kimi-k3-1-pro-model-800x450.png",
+ "title": "Moonshot AI curbs hacking ability in Kimi K3.1 Pro model",
+ "summary_en": "Moonshot AI filtered cyber data from Kimi K3.1 Pro, cutting its exploit score to 81.0% from 90.5% ahead of an open-weight release by November 4.",
+ "title_mn": "Moonshot AI компани Kimi K3.1 Pro загварынхаа хакердах чадварыг хязгаарлав",
+ "summary_mn": "Moonshot AI аюулгүй байдлын үүднээс шинэ Kimi K3.1 Pro загвараасаа кибер халдлагатай холбоотой сургалтын өгөгдлийг хасчээ. Ингэснээр загварын offensive чадвар буурсан ч код бичих чанар нь хэвээр үлдсэн байна.",
+ "body_mn": "Хятадын Moonshot AI компани шинээр гаргаж буй Kimi K3.1 Pro загварынхаа кибер халдлага үйлдэх буюу offensive чадварыг зориудаар хязгаарласнаа мэдэгдлээ. Хиймэл оюун ухааны системүүд хэт бие дааж, хорлон сүйтгэх код бичих вий гэсэн болгоомжлол нэмэгдэж буй энэ үед тус компани уг алхмыг хийжээ.\n\nКомпани загвараа олон нийтэд нээлттэй болгохын өмнө сургалтын өгөгдлийн багц болон reinforcement learning орчноос кибер аюулгүй байдалтай холбоотой мэдээллүүдийг шүүж хассан байна. Үүний үр дүнд дотоод exploit тестэд шүүлтүүргүй хувилбар нь 90.5 хувь авч байсан бол шүүлтүүртэй хувилбар нь 81.0 хувийн үр дүн үзүүлжээ. Гэсэн хэдий ч энэ нь өмнөх үеийн Kimi K3 загвараас илүү хэвээр байгаа аж.\n\nЭнэхүү шийдвэр нь open-weight загваруудын аюулгүй байдлын талаарх маргааныг шинэ түвшинд гаргаж байна. Жинхэнэ файлуудыг татаж аваад өөрийн сервер дээр ажиллуулах боломжтой open-weight загварын хувьд дараа нь хянах боломжгүй байдаг тул эх үүсвэр дээр нь шүүлт хийх нь илүү найдвартай арга хэмжээ болж байна.",
+ "published": "2026-10-24T07:34:29Z",
+ "added": "2026-10-24T19:37:21Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "1fc167c5beb53f55",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Startup Fortune",
+ "url": "https://startupfortune.com/github-pull-requests-point-to-alibabas-next-open-qwen-model-nearing-release/",
+ "image": "https://startupfortune.com/wp-content/uploads/2026/10/qwen4-alibaba-moonshot-ai.jpg",
+ "title": "GitHub pull requests point to Alibaba's next open Qwen model nearing release",
+ "summary_en": "GitHub PRs in llama.cpp, vLLM and Transformers reveal Alibaba's Qwen4-Exp architecture ahead of the open-weight Qwen4 27B model's unconfirmed release date.",
+ "title_mn": "GitHub дээрх код Alibaba-гийн шинэ Qwen загварууд гарах дөхсөнийг харуулж байна",
+ "summary_mn": "Transformers, llama.cpp, vLLM зэрэг inference санд Qwen4-Exp болон Qwen3.8-Flash-Next архитектурын дэмжлэг нэмэгджээ. Энэ нь Alibaba-гийн дараагийн үеийн загварууд удахгүй гарна гэсэн үг юм.",
+ "body_mn": "Hugging Face-ийн Transformers болон llama.cpp, vLLM зэрэг гол inference сангуудад Qwen4-Exp болон Qwen3.8-Flash-Next архитектурыг дэмжих pull request-үүд цувраад орж эхэлжээ. Энэ нь Alibaba компани шинээр гаргахаар бэлтгэж буй Qwen4 цувралын бэлтгэл ажил open-source хөгжүүлэгчдийн дунд өрнөж буйг гэрчилж байна.\n\nAlibaba өмнө нь Апсара бага хурлын үеэр Qwen4 цувралдаа Max, Plus, Flash болон 27B зэрэг хувилбаруудыг багтаахаа зарлаж байсан юм. Хэдийгээр албан ёсны огноог зарлаагүй байгаа ч open-source экосистем аль хэдийн шинэ архитектурыг хүлээж авахад бэлэн болж байна. Ялангуяа 27B нягтаршилтай загвар нь ганцхан хэрэглэгчийн GPU дээр ажиллах чадвартай тул хөгжүүлэгчдэд маш чухал юм.\n\nЭнэхүү хөгжүүлэлт нь хөгжүүлэгчдэд API-аар дамжуулан түрээслэх бус, өөрсдийн төхөөрөмж дээр шууд ажиллуулах боломжтой open-weight загваруудыг ойрхон байгааг харуулж байна.",
+ "published": "2026-10-24T09:44:55Z",
+ "added": "2026-10-24T19:37:21Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

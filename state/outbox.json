@@ -858,5 +858,65 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ee086be60817d97c",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Asianet Newsable",
+   "url": "https://newsable.asianetnews.com/business/moonshot-ai-unveils-kimi-k3-1-pro-3-trillion-parameter-ai-model-articleshow-fraubne",
+   "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-6796ba32-d289-41cf-9625-2efdc998fbed.jpg",
+   "title": "Moonshot AI Unveils Kimi K3.1 Pro 3-Trillion-Parameter AI Model",
+   "summary_en": "Moonshot AI has introduced the Kimi K3.1 Pro, a powerful 3-trillion-parameter model with a 1-million-token context window, offering advanced coding and financial workflow capabilities alongside a high-speed variant for responsive performance.",
+   "title_mn": "Moonshot AI компани Kimi K3.1 Pro загvar болон Open-Weight хувилбараа зарлалаа",
+   "summary_mn": "Moonshot AI 3 триллион параметр бүхий Kimi K3.1 Pro загвар болон Highspeed хувилбараа танилцууллаа. Энэхүү загвар нь 1 сая токенийн контекст цонхтой бөгөөд код бичих, санхүүгийн судалгаанд эрс сайжирсан байна.",
+   "body_mn": "Хятадын хиймэл оюун ухааны Moonshot AI компани Kimi K3.1 Pro загвараа албан ёсоор танилцууллаа. Энэхүү шинэ загвар нь 3 триллион орчим параметр бүхий open-weight систем бөгөөд 1 сая токенийн контекст цонхтойгоороо онцлог юм. Тус компани мөн илүү хурдан хариу өгөх Kimi K3.1 Pro Highspeed хувилбарыг гаргажээ.\n\nШинэ загвар нь код бичих, 3D бүтээх, санхүүгийн судалгаа хийх зэрэг олон чиглэлд өмнөх Kimi K3 загвараас эрс сайжирсан байна. Ялангуяа програм хангамжийн бодит даалгавруудыг үнэлдэг Terminal-Bench 4.0 тестэд 65.7 хувийн амжилт үзүүлж, өрсөлдөгч зарим загваруудыг ардаа орхижээ. Кode Bench 3.0 Long-horizon тестээр мөн 61.2 хувийн гүйцэтгэл үзүүлсэн байна.\n\nKimi K3.1 Pro болон Highspeed хувилбарууд нь одоогоор Kimi.ai, Kimi Work, Kimi Code болон API-аар дамжуулан хэрэглэгчдэд хүрч эхэлсэн байна. Moonshot AI компани бүрэн жинтэй open-weight файлуудыг арваннэгдүгээр сарын 4 гэхэд олон нийтэд нээлттэй болгохоор төлөвлөжээ.",
+   "published": "2026-10-24T05:11:35Z",
+   "added": "2026-10-24T19:37:21Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6e89d99222493043",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/moonshot-ai-kimi-k3-1-pro-hacking-curbs/",
+   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/24024852/library-moonshot-ai-curbs-hacking-ability-in-kimi-k3-1-pro-model-800x450.png",
+   "title": "Moonshot AI curbs hacking ability in Kimi K3.1 Pro model",
+   "summary_en": "Moonshot AI filtered cyber data from Kimi K3.1 Pro, cutting its exploit score to 81.0% from 90.5% ahead of an open-weight release by November 4.",
+   "title_mn": "Moonshot AI компани Kimi K3.1 Pro загварынхаа хакердах чадварыг хязгаарлав",
+   "summary_mn": "Moonshot AI аюулгүй байдлын үүднээс шинэ Kimi K3.1 Pro загвараасаа кибер халдлагатай холбоотой сургалтын өгөгдлийг хасчээ. Ингэснээр загварын offensive чадвар буурсан ч код бичих чанар нь хэвээр үлдсэн байна.",
+   "body_mn": "Хятадын Moonshot AI компани шинээр гаргаж буй Kimi K3.1 Pro загварынхаа кибер халдлага үйлдэх буюу offensive чадварыг зориудаар хязгаарласнаа мэдэгдлээ. Хиймэл оюун ухааны системүүд хэт бие дааж, хорлон сүйтгэх код бичих вий гэсэн болгоомжлол нэмэгдэж буй энэ үед тус компани уг алхмыг хийжээ.\n\nКомпани загвараа олон нийтэд нээлттэй болгохын өмнө сургалтын өгөгдлийн багц болон reinforcement learning орчноос кибер аюулгүй байдалтай холбоотой мэдээллүүдийг шүүж хассан байна. Үүний үр дүнд дотоод exploit тестэд шүүлтүүргүй хувилбар нь 90.5 хувь авч байсан бол шүүлтүүртэй хувилбар нь 81.0 хувийн үр дүн үзүүлжээ. Гэсэн хэдий ч энэ нь өмнөх үеийн Kimi K3 загвараас илүү хэвээр байгаа аж.\n\nЭнэхүү шийдвэр нь open-weight загваруудын аюулгүй байдлын талаарх маргааныг шинэ түвшинд гаргаж байна. Жинхэнэ файлуудыг татаж аваад өөрийн сервер дээр ажиллуулах боломжтой open-weight загварын хувьд дараа нь хянах боломжгүй байдаг тул эх үүсвэр дээр нь шүүлт хийх нь илүү найдвартай арга хэмжээ болж байна.",
+   "published": "2026-10-24T07:34:29Z",
+   "added": "2026-10-24T19:37:21Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1fc167c5beb53f55",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Startup Fortune",
+   "url": "https://startupfortune.com/github-pull-requests-point-to-alibabas-next-open-qwen-model-nearing-release/",
+   "image": "https://startupfortune.com/wp-content/uploads/2026/10/qwen4-alibaba-moonshot-ai.jpg",
+   "title": "GitHub pull requests point to Alibaba's next open Qwen model nearing release",
+   "summary_en": "GitHub PRs in llama.cpp, vLLM and Transformers reveal Alibaba's Qwen4-Exp architecture ahead of the open-weight Qwen4 27B model's unconfirmed release date.",
+   "title_mn": "GitHub дээрх код Alibaba-гийн шинэ Qwen загварууд гарах дөхсөнийг харуулж байна",
+   "summary_mn": "Transformers, llama.cpp, vLLM зэрэг inference санд Qwen4-Exp болон Qwen3.8-Flash-Next архитектурын дэмжлэг нэмэгджээ. Энэ нь Alibaba-гийн дараагийн үеийн загварууд удахгүй гарна гэсэн үг юм.",
+   "body_mn": "Hugging Face-ийн Transformers болон llama.cpp, vLLM зэрэг гол inference сангуудад Qwen4-Exp болон Qwen3.8-Flash-Next архитектурыг дэмжих pull request-үүд цувраад орж эхэлжээ. Энэ нь Alibaba компани шинээр гаргахаар бэлтгэж буй Qwen4 цувралын бэлтгэл ажил open-source хөгжүүлэгчдийн дунд өрнөж буйг гэрчилж байна.\n\nAlibaba өмнө нь Апсара бага хурлын үеэр Qwen4 цувралдаа Max, Plus, Flash болон 27B зэрэг хувилбаруудыг багтаахаа зарлаж байсан юм. Хэдийгээр албан ёсны огноог зарлаагүй байгаа ч open-source экосистем аль хэдийн шинэ архитектурыг хүлээж авахад бэлэн болж байна. Ялангуяа 27B нягтаршилтай загвар нь ганцхан хэрэглэгчийн GPU дээр ажиллах чадвартай тул хөгжүүлэгчдэд маш чухал юм.\n\nЭнэхүү хөгжүүлэлт нь хөгжүүлэгчдэд API-аар дамжуулан түрээслэх бус, өөрсдийн төхөөрөмж дээр шууд ажиллуулах боломжтой open-weight загваруудыг ойрхон байгааг харуулж байна.",
+   "published": "2026-10-24T09:44:55Z",
+   "added": "2026-10-24T19:37:21Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]
