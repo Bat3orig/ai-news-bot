@@ -1,0 +1,17 @@
+{
+ "id": "63c07133f099fa90",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
+ "image": "https://opengraph.githubassets.com/230b9956d8a47505cbd7c1a735e64cdd9b1105a3d63e01d91c49b2490b6fe327/ollama/ollama/releases/tag/v0.40.10",
+ "title": "ollama v0.40.10",
+ "summary_en": "NVIDIA Nemotron 3.5 Bolt E4B Nemotron 3.5 Bolt E4B is NVIDIA’s smaller, Gemma 4-based vision-language model for fast local conversations, image understanding, and tool use. It supports a 128K-token context window. The model includes a DFlash draft for speculative decoding. ollama run nemotron-3.5-bolt:e4b Full Changelog : v0.40.9...v0.40.10",
+ "title_mn": "Ollama v0.40.10 хувилбар гарч, NVIDIA Nemotron 3.5 загварыг дэмждэг боллоо",
+ "summary_mn": "Ollama-ийн шинэ хувилбар NVIDIA-ийн Gemma 4 архитектур дээр суурилсан Nemotron 3.5 Bolt E4B загварыг албан ёсоор дэмждэг болжээ.",
+ "body_mn": "Ollama хэрэгслийн v0.40.10 шинэ хувилбар гарч, хөгжүүлэгчдэд локал орчинд хиймэл оюун ухаан ашиглах өргөн боломжийг оллоо. Энэхүү шинэчлэлтээр NVIDIA-ийн Nemotron 3.5 Bolt E4B загварыг нэмсэн байна.\n\nNemotron 3.5 Bolt E4B нь Gemma 4 архитектур дээр суурилсан, зураг ойлгох болон багаж хэрэгсэл ашиглах чадвартай хөнгөн загвар юм. Энэ нь 128K токенийн контекц цонхыг дэмжихээс гадна DFlash draft технологийг ашиглан хурдан ажиллах боломжтой.\n\nХөгжүүлэгчид терминалаасаа шууд ollama run nemotron-3.5-bolt:e4b тушаалаар уг загварыг татаж ажиллуулах боломжтой болжээ.",
+ "published": "2026-10-23T17:17:19Z",
+ "added": "2026-10-24T05:18:04Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

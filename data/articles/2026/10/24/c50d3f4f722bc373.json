@@ -1,0 +1,17 @@
+{
+ "id": "c50d3f4f722bc373",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/deploy-without-an-account-using-vercel-cli",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/42GEbXjC8L96Oizgv5VDxj/c651604b1b4582c4036421c37c134058/deploy_without_account_vercel_cli_og.png",
+ "title": "Deploy without an account using Vercel CLI",
+ "summary_en": "You can now deploy apps to Vercel without an account using Vercel CLI . Share prototypes faster with a live URL before signing in to claim your project. From a project directory that isn't linked to Vercel, run: The CLI builds your project locally when needed and returns a deployment URL you can share. Temporary deployments use the dedicated tmp.now domain, separate from vercel.app , and expire after one hour unless claimed. To keep your project live, open the claim link in the CLI output and sign in or create an account. Keep this link private. Read the Vercel CLI documentation to get…",
+ "title_mn": "Vercel CLI: Бүртгэлгүйгээр апп байршуулах боломжтой боллоо",
+ "summary_mn": "Хөгжүүлэгчид Vercel CLI ашиглан ямар нэгэн бүртгэлгүйгээр аппликейшнээ шууд байршуулж, түр хугацааны URL үүсгэн хуваалцах боломжтой боллоо.",
+ "body_mn": "Vercel компани хөгжүүлэгчдэд зориулсан шинэ боломжийг нэвтрүүлж, Vercel CLI ашиглан бүртгэлгүйгээр шууд апп байршуулах боломжтой болсныг зарлалаа. Энэ нь төслүүдээ хурдан туршиж, амьд холбоосоор хуваалцах ажлыг ихээхэн хөнгөвчилж байна.\n\nХолбогдоогүй төслийн хавтсаас тушаал ажиллуулснаар CLI нь төслийг локал орчинд бүтээж, хуваалцах боломжтой байршуулалтын холбоосыг буцаана. Ийм түр зуурын байршуулалтууд нь vercel.app-аас тусдаа tmp.now домэйныг ашиглах ба нэг цагийн дараа хугацаа нь дуусах юм.\n\nХэрэв та төслөө үргэлжлүүлэн ажиллуулахыг хүсвэл CLI-ийн үр дүн дээр гарч ирэх холбоосоор орж нэвтрэх эсвэл шинэ бүртгэл үүсгэн төслөө баталгаажуулах шаардлагатай. Энэ нь ялангуяа прототип боловсруулж буй хөгжүүлэгчдэд цаг хэмнэсэн чухал шинэчлэл болжээ.",
+ "published": "2026-10-22T00:00:00Z",
+ "added": "2026-10-24T05:18:04Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

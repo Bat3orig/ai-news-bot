@@ -1,0 +1,17 @@
+{
+ "id": "ba1a3f55d8d210bb",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/10/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series.jpg",
+ "title": "Moonshot AI Releases Kimi K3.1 Pro, First Model in New K3.1 Series",
+ "summary_en": "Moonshot AI introduced Kimi K3.1 Pro on October 24, 2026, the first model in its new K3.1 series, alongside a faster companion variant called Kimi K3.1 Pro Highspeed. The company describes K3.1 Pro as its most capable 3T...",
+ "title_mn": "Moonshot AI компани Kimi K3.1 Pro загварыг худалдаанд гаргалаа",
+ "summary_mn": "Moonshot AI компани 1 сая токенийн контекцтэй, шинэ үеийн Kimi K3.1 Pro болон Highspeed загваруудыг албан ёсоор танилцууллаа.",
+ "body_mn": "Moonshot AI компани өөрийн шинэ K3.1 цувралын анхны загвар болох Kimi K3.1 Pro болон илүү хурдан ажиллах Kimi K3.1 Pro Highspeed хувилбаруудыг худалдаанд гаргалаа. Уг загвар нь 1 сая токенийн контекц цонхтой бөгөөд нээлттэй жинтэй загваруудын дунд хамгийн өндөр үзүүлэлттэй байна.\n\nШинэ загвар нь код бичих, 3D загварчлал хийх, санхүүгийн өгөгдөл боловсруулах зэрэг олон чиглэлд өмнөх хувилбараасаа эрс сайжирсан байна. Тухайлбал, Terminal-Bench 4.0 болон бусад дотоод тестүүдэд өндөр оноо авсан бөгөөд хиймэл оюун ухааны алдаа гаргах хувь нь мэдэгдэхүйц буурчээ.\n\nХөгжүүлэгчид уг загварыг Kimi API, Kimi Code болон гар утасны аппликейшнүүдээр дамжуулан ашиглах боломжтой бөгөөд Enterprise хэрэглэгчид байгууллагаараа дамжуулан идэвхжүүлэх боломжтой юм.",
+ "published": "2026-10-23T17:26:02Z",
+ "added": "2026-10-24T05:18:04Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

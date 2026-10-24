@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "bbe499adb8d1d958",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "O'Reilly Media",
-   "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/",
-   "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/The-latest-Anthropic-Claude-models-contain-AI-text-watermarks-1600x1244.jpg",
-   "title": "The Latest Anthropic Claude Models Contain AI Text Watermarks: What Does This Mean for You?",
-   "summary_en": "If you’re an instructor for the O’Reilly live training platform, you’ve got to be prepared for the unexpected. As a developer I think we all can understand the",
-   "title_mn": "Anthropic-ийн шинэ Claude загварууд AI текст усан тэмдэглэгээтэй болно",
-   "summary_mn": "Anthropic компани Европын Холбооны AI хууль тогтоомжид нийцүүлэхийн тулд Claude загваруудын гаргаж буй текст бүрт усан тэмдэглэгээ (watermark) суулгаж эхэллээ. Энэ нь Claude оролцсон эсэхийг тодорхойлох боломжийг олгох бөгөөд кодыг ч мөн хамарна.",
-   "body_mn": "Anthropic компани Европын Холбооны AI тухай хуулийн шаардлагыг биелүүлэх зорилгоор ирээдүйн бүх Claude загваруудын текстэн гаралтад усан тэмдэглэгээ (watermark) байрлуулахаа мэдэгдсэн. Уг өөрчлөлт нь Claude Desktop, Claude Code эсвэл API аль ашиглахаас үл хамааран бүх генерацид үйлчлэх юм.\n\nХөгжүүлэгчдийн хувьд энэ нь Claude ашиглан бичсэн код, имэйл, нийтлэл болон бусад контент ямар нэгэн AI watermark илрүүлэгч багажаар шалгахад AI үүсгэвэр болох нь шууд мэдэгдэнэ гэсэн үг юм. Уг технологи нь криптографи биш харин стеганограф буюу өгөгдлийг далд хэлбэрээр шингээх арга дээр суурилдаг.\n\nЭнэхүү зохицуулалт нь зөвхөн Anthropic төдийгүй зах зээл дээр үйл ажиллагаа явуулж буй бусад томоохон AI компаниудад ч мөн хамааралтай бөгөөд Европын зах зээлд үйлчилж буй AI провайдеруудад хуулиар шаардагдаж байгаа болно.",
-   "published": "2026-10-22T10:55:45Z",
-   "added": "2026-10-22T21:49:01Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d9a0e74556bf7734",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Mashable",
-   "url": "https://mashable.com/tech/anthropic-claude-duet-announced",
-   "image": "https://helios-i.mashable.com/imagery/articles/02pJCqh9ZqzRctUMNZ1zpy8/hero-image.fill.size_1200x675.v1792664374.jpg",
-   "title": "Meet Claude Duet, the latest AI agent intended to lighten your workload",
-   "summary_en": "Part assistant, part proxy, Claude Duet is designed to do a lot of work on your behalf.",
-   "title_mn": "Anthropic компани Claude Duet нэртэй хувийн AI агентаа танилцууллаа",
-   "summary_mn": "Anthropic компани мэргэжилтнүүд болон жижиг бизнесүүдэд зориулсан Claude Duet агентаа танилцууллаа. Энэхүү агентууд нь өөрийн виртуал машин дээр ажиллаж, хэрэглэгчийн өмнөөс Slack, Gmail, Stripe зэрэг апп дээрх ажлыг автоматжуулах чадвартай.",
-   "body_mn": "Meta-ийн Muse болон OpenAI-ийн Dots агентуудтай өрсөлдөх зорилгоор Anthropic компани Claude Duet хэмээх шинэ агентаа зарлалаа. Claude Opus 5.5 загвар дээр суурилсан уг агентууд нь хэрэглэгчийн зурвас, даалгавруудыг хянаж, шаардлагатай үйлдлийг цаана нь гүйцэтгэх чадвартай юм.\n\nClaude Duet нь хэрэглэгчийн компьютер, утас унтарсан байсан ч виртуал машин дээр ажилладаг бөгөөд Gmail, Slack, QuickBooks, Stripe болон LinkedIn зэрэг олон төрлийн үйлчилгээтэй холбогдож ажиллана. Жишээлбэл, ирүүлсэн мессежид хариу бичих, нэхэмжлэхийг шалгах, ажилд орох зар нийтлэх зэрэг ажлыг хийнэ.\n\nAюулгүй байдлын үүднээс Claude Duet нь мөнгө шилжүүлэх, үнэт цаас арилжаалах, баримт бичиг гарын үсэг зурах, мессеж илгээхээсээ өмнө хэрэглэгчээс заавал зөвшөөрөл авах юм. Одоогоор US Pro болон Max төлөвлөгөө хэрэглэгчдэд research preview хэлбэрээр нээлттэй байна.",
-   "published": "2026-10-22T11:13:35Z",
-   "added": "2026-10-22T21:49:01Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c564d80b22fd64bd",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GettyImages-2202529068_415155.jpg?quality=90&strip=all&crop=0%2C10.476337131711%2C100%2C79.047325736577&w=1200",
-   "title": "Claude did not invent scorpion antivenom",
-   "summary_en": "Citrini takes a stab at drug development.",
-   "title_mn": "Citrini Research болон Anthropic-ийн scorpion antivenom туршилт амжилтгүй болжээ",
-   "summary_mn": "Хөрөнгө оруулалтын Citrini Research компани Anthropic-ийн тусгайлан гаргасан Claude загварыг ашиглан скорпионы хорны эсрэг эм (antivenom) гаргаж авах туршилт хийсэн боловч үндсэн эмчилгээ болох хэмжээний үр дүнд хүрсэнгүй.",
-   "body_mn": "AI технологи эмийн үйлдвэрлэлийг хувьсгал хийж чадах эсэхийг шалгахаар Citrini Research фирм Anthropic-тэй хамтран ажиллажээ. Тэд Claude-ийн тусгай хувилбарыг ашиглан скорпионы хорны токсинуудтай холбогдох чадвартай уураг зохион бүтээх даалгавар өгсөн байна. 64 цагийн турш үргэлжилсэн уг процессор Claude 320,000 орчим хувилбар үүсгэж, шүүсээр 180 дизайн гаргаж авжээ.\n\nҮүний дараа Швейцарийн Adaptyv Bio болон АНУ-ын Twist Biosciences лабораториудад уг уургуудыг туршиж үзэхэд 17 уураг нь зорилтот токсинуудтай холбогдож чадсан байна. Гэсэн хэдий ч эдгээр нь нэгээс олон токсинтой холбогдож чадаагүй бөгөөд бодит эмчилгээний түвшинд хүрэхэд маш хол байгааг мэргэжилтнүүд онцолжээ.\n\nЭнэхүү туршилт нь өнөөгийн LLM загварууд шинжлэх ухааны болон биотехнологийн нарийн төвөгтэй салбарт бодитоор эм бүтээхэд тодорхой хязгаарлалттай болохыг харуулсан бодитой жишээ болсон юм. Гэсэн хэдий ч AI нь эхлэх цэг болон ирээдүйтэй санааг хайж олоход туслах чадвартайг уг туршилт харуулжээ.",
-   "published": "2026-10-22T12:21:07Z",
-   "added": "2026-10-22T21:49:01Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ac241f22da607b93",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Spear's Magazine",
-   "url": "https://spearswms.com/wealth/wealth-management/anthropic-plans-additional-waves-of-claude-for-financial-advisers/",
-   "image": "",
-   "title": "Anthropic plans ‘additional waves’ of Claude for financial advisers",
-   "summary_en": "",
-   "title_mn": "Anthropic санхүүгийн зөвлөхүүдэд зориулсан Claude-ын нэмэлт долгионуудыг төлөвлөж байна",
-   "summary_mn": "Spear's Magazine-ийн мэдээлснээр Anthropic санхүүгийн зөвлөхүүдэд зориулсан Claude-ын «нэмэлт долгион»-уудыг төлөвлөж байна. Дэлгэрэнгүй мэдээлэл тодорхойгүй байна.",
-   "body_mn": "Spear's Magazine Anthropic санхүүгийн зөвлөхүүдэд зориулсан Claude-ын нэмэлт долгион буюу шат дараатай нэвтрүүлэлтийг төлөвлөж байгааг мэдээлжээ. Энэ нь компанийн Claude-ыг тодорхой салбарын мэргэжилтнүүдэд чиглэсэн бүтээгдэхүүн болгон өргөжүүлэх хандлагыг харуулж байна.\n\nЭх сурвалжид хэдэн долгион гарах, аль функц эхэлж нэвтрэх, хэзээ гарах талаар тодорхой мэдээлэл байхгүй. Тиймээс техникийн нарийвчилсан өөрчлөлт, API-ийн шинэчлэлийн талаар одоогоор баталгаатай зүйл хэлэх боломжгүй байна.\n\nХөгжүүлэгчдэд энэ нь салбарын шийдэл бүтээх, Claude-ыг тусгай домайнд нэвтрүүлэх хандлага нэмэгдэж байгааг харуулсан дохио юм. Дараагийн мэдээллийг хүлээх нь зүйтэй.",
-   "published": "2026-10-22T13:12:23Z",
-   "added": "2026-10-22T21:49:01Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "301925b8adfcebab",
-   "subtopic": "gemini",
-   "source": "Google DeepMind",
-   "source_label": "Google DeepMind",
-   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-   "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w1200-h630-n-nu-rw",
-   "title": "Beyond tree cover: mapping the world’s forest types",
-   "summary_en": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-   "title_mn": "Google DeepMind ой модны төрлийг 10 метрийн нарийвчлалтай зураглах ForTy 2020-ийг танилцуулав",
-   "summary_mn": "Google DeepMind болон WRI ой модны төрлийг 10 метрийн нягтаршилтайгаар ялгах ForTy 2020 дэлхийн зураглал болон 2017-2025 оны өөрчлөлтийн цувралыг нийтэллээ.",
-   "body_mn": "Google DeepMind, Google Research, Дэлхийн нөөцийн хүрээлэн (WRI) болон IIASA хамтран Forest Typology (ForTy) 2020 газрын зургийг гаргалаа. Уг дэлхийн зураглал нь дэлхийн гадаргын 10х10 метрийн цэг бүрийг байгалийн болон таримал ой, газар тариалан зэрэг зургаан ангилалд хуваан харуулдаг.\n\nҮүний зэрэгцээ 2017 оноос 2025 он хүртэлх ой модны өөрчлөлтийг хянасан цаг хугацааны өгөгдлийг хамт нийтэлсэн байна. Энэ нь хэрэглэгчдэд зөвхөн ойн хорогдлыг төдийгүй тухайн талбайд байгалийн ойн оронд мод үржүүлэг, таримал мод эсвэл бусад зориулалттай талбай үүссэн эсэхийг жил жилээр нь 10 метрийн нарийвчлалтай харах боломж олгодог.\n\nЭнэхүү шийдэл нь Европын Холбооны ой тайралтын эсрэг зохицуулалт (EUDR) болон олон улсын байгаль орчны дүрэм журмыг мөрдөхөд компаниуд, хөгжүүлэгчдэд чухал дата мэдээлэл болж байна. Хөгжүүлэгчид уг өгөгдлийг Google Earth Engine аппликэйшнээр дамжуулан нарийвчлан шинжлэх боломжтой юм.",
-   "published": "2026-10-22T14:30:24Z",
-   "added": "2026-10-22T21:49:01Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "78bc7a5dd81399e4",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "xAI",
-   "url": "https://x.ai/news/partnernetworkannouncement",
-   "image": "https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png",
-   "title": "Introducing the SpaceX Super Intelligence Partner Network",
-   "summary_en": "Our official program for companies building products, solutions, and services with Grok for our joint prospects and customers.",
-   "title_mn": "xAI байгууллагуудад зориулсан SpaceX Super Intelligence Partner Network-ийг зарлалаа",
-   "summary_mn": "xAI компани Grok загвар дээр тулгуурлан бүтээгдэхүүн, үйлчилгээ хөгжүүлж буй компаниудад зориулан SpaceX Super Intelligence Partner Network хөтөлбөрийг эхлүүлэв.",
-   "body_mn": "xAI компани Grok загваруудыг ашиглан бүтээгдэхүүн, шийдэл, үйлчилгээ хөгжүүлж буй компаниудад дэмжлэг үзүүлэх SpaceX Super Intelligence Partner Network албан ёсны хөтөлбөрөө зарлалаа. Энэхүү сүлжээ нь Transformation болон Marketplace гэсэн хоёр төрлийн түншүүдийг нэгтгэж байна.\n\nХөтөлбөрийн урьдчилсан шатанд 130 гаруй байгууллага оролцсон бөгөөд Forward Deployed Engineer магадлан итгэмжлэлийн хөтөлбөрөөр дамжуулан 30 гаруй байгууллагын инженерүүдийг бэлтгэжээ. Сүлжээний түншүүдэд Bain, Snowflake, Booz Allen, Langfuse, MongoDB, Zscaler зэрэг стартапуудаас эхлээд томоохон технологийн компаниуд багтаж байна.\n\nТүншүүд Grok дээр суурилсан шийдлүүдийг зах зээлд нэвтрүүлэхэд шаардлагатай багаж хэрэгсэл, сургалт, техникийн шууд дэмжлэг авах юм. Энэ нь байгууллагын түвшний хиймэл оюуны экосистемийг Grok загваруудын эргэн тойронд өргөжүүлэх xAI-ийн томоохон алхам болж байна.",
-   "published": "2026-10-22T14:42:30Z",
-   "added": "2026-10-22T21:49:01Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c46b92f3bb80db56",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/death-to-long-lived-static-credentials",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4uDkSSA0pg2MjjoecBZkEn/13267551d5cc5dde67b857df686ab474/eliminating_long-lived_static_credentials_og_card.jpg",
-   "title": "Death to long-lived static credentials",
-   "summary_en": "Fifteen years ago, TLS was something you'd use to protect the most sensitive areas of your app. Then Google, Let's Encrypt, the EFF, and others led the push for HTTPS everywhere, making encryption the default for every request. Without it, anyone between the browser and server can read and tamper with the traffic. OAuth, OIDC, DBSC, and related standards already provide building blocks for secure authentication, but standards alone do not make secure methods the norm. HTTPS needed tooling that made encryption easy and a sustained push that made it expected. Machine-to-machine authentication…",
-   "title_mn": "Vercel статик нууц үг, түлхүүрээс татгалзаж, OIDC баталгаажуулалтыг нэвтрүүлж байна",
-   "summary_mn": "Vercel хугацаагүй статик API түлхүүрүүдийн эрсдэлийг бууруулахын тулд OIDC баталгаажуулалтыг өргөжүүлж байна. Мөн хөгжүүлэгчдэд зориулан shadcn/ui дээр суурилсан OIDC UI санг танилцууллаа.",
-   "body_mn": "Хөгжүүлэлтийн явцад ашиглагддаг урт хугацааны статик API түлхүүр, мэдээллийн сангийн нууц үгнүүд кодын санд алдагдах эсвэл халдлагад өртөх өндөр эрсдэл дагуулдаг. Vercel энэхүү асуудлыг шийдэхийн тулд machine-to-machine харилцаанд түр зуурын, найдвартай токен ашигладаг OpenID Connect (OIDC) стандартыг үндсэн шийдэл болгож байна.\n\nТус компани Blob, AI Gateway болон Sandbox зэрэг өөрийн үйлчилгээнүүддээ OIDC дэмжлэгийг бүрэн нэвтрүүлсэн бөгөөд Vercel дээр ажиллаж буй аппликейшнууд AWS, Google Cloud, Azure зэрэг үүлэн платформуудаас түр хугацааны эрх хүлээн авах боломжтой болжээ. Үүнээс гадна Marketplace-ийн хамтрагчдад зориулан shadcn/ui бүрэлдэхүүн хэсгүүдэд түшиглэсэн OIDC UI репозиторыг гаргасан байна.\n\nЭнэхүү шинэчлэл нь байнгын түлхүүрүүдийг гар аргаар шинэчлэх, солих шаардлагагүй болгож, хиймэл оюун ухааны агентууд болон систем хоорондын интеграцын аюулгүй байдлыг эрс сайжруулах ач холбогдолтой юм.",
-   "published": "2026-10-22T04:00:00Z",
-   "added": "2026-10-23T00:17:42Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7bf4630bf25d5352",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-   "image": "https://github.blog/wp-content/uploads/2026/10/681207257-5993c03c-c523-44d2-b2bf-8ac57818dd74.jpg",
-   "title": "Industry comparisons in the Copilot impact dashboard",
-   "summary_en": "The Copilot impact dashboard now includes an “Industry comparison” section. Enterprises, and organizations that aren’t owned by an enterprise, can compare their Copilot agentic adoption and leverage with aggregated benchmarks…",
-   "title_mn": "GitHub Copilot хяналтын самбарт салбарын харьцуулалт нэмэгдлээ",
-   "summary_mn": "GitHub Copilot хяналтын самбарт байгууллагууд өөрсдийн ашиглалтын түвшинг бусад ижил төстэй компаниудтай харьцуулах боломжтой шинэ хэсэг нэмэгдлээ.",
-   "body_mn": "GitHub Copilot нөлөөллийн хяналтын самбарт “Industry comparison” буюу салбарын харьцуулалт гэсэн шинэ хэсэг нэмэгдлээ. Ингэснээр аж ахуйн нэгж болон байгууллагууд Copilot агент болон хэрэгслүүдийг хэрхэн ашиглаж байгаагаа бусад оролцогч байгууллагуудын нэгтгэсэн дундаж үзүүлэлттэй харьцуулан харж болох юм.\n\nЭнэхүү боломж нь анхдагчаар идэвхжээгүй байх бөгөөд байгууллагууд өөрсдөө сонгож оролцох боломжтойгоор хийгджээ. Удирдлагууд энэхүү салбарын жишиг мэдээллийг ашиглан өөрсдийн хөгжүүлэлтийн явцыг хэмжих, зорилтоо зөв тодорхойлох боломжтой болж байна.",
-   "published": "2026-10-22T16:28:24Z",
-   "added": "2026-10-23T05:07:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a3f440eb159e057c",
-   "subtopic": "ai-devtools",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://github.com/NVIDIA/OpenShell",
-   "image": "https://opengraph.githubassets.com/3bf955b406225e317de8648d6408bb9a978602380b8b26fb41ce37519ec669d8/NVIDIA/OpenShell",
-   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-   "summary_en": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 342 # Comments: 181",
-   "title_mn": "OpenShell 0.1 хувилбар: Хиймэл оюун ухааны агентуудад зориулсан аюулгүй орчин",
-   "summary_mn": "Бие даасан хиймэл оюун ухааны агентуудыг аюулгүй ажиллуулах OpenShell 0.1 хувилбар шинэ боломж, API-уудтайгаар гарлаа.",
-   "body_mn": "Бие даасан хиймэл оюун ухааны агентуудын флотод зориулсан аюулгүй, хувийн орчин болох OpenShell 0.1 хувилбар гарлаа. Энэхүү хувилбар нь тогтвортой шинэчлэлтийн мөчлөг, тусгаарлалтын шинэ аргууд болон өргөтгөсөн API боломжуудыг санал болгож байна.\n\nАгентууд нь файлуудыг унших, багц суулгах, API дуудах эрх хэрэгтэй байдаг ч энэ нь аюулгүй байдлын эрсдэл дагуулдаг. OpenShell нь кернелийг удирдах замаар файл болон сүлжээний холболт бүрийг бодит цаг хугацаанд хянаж, тогтоосон бодлогын дагуу хязгаарладаг тул хөгжүүлэгчид агентуудыг аюулгүйгээр турших боломжтой болж байна.\n\nЭнэхүү хэрэгсэл нь Linux, macOS (Apple Silicon) болон WSL 2 дээр ажиллах ба Docker эсвэл Podman дэмждэг. Хөгжүүлэгчид өөрсдийн кодын агентуудыг суулган аюулгүй байдлын бодлого бичиж турших боломжтой юм.",
-   "published": "2026-10-22T17:44:06Z",
-   "added": "2026-10-23T05:07:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "42b2201e14ba0002",
-   "subtopic": "vibe-coding",
-   "source": "Builder.io Blog",
-   "source_label": "Builder.io Blog",
-   "url": "https://www.builder.io/blog/ai-agent-actions",
-   "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5f1fc60e96244a54a127e9e35a704560?width=1200",
-   "title": "Why are we still building apps just for humans?",
-   "summary_en": "If your UI blocks an edit, your AI agent shouldn’t be able to make it. Here’s how AI agent actions keep one set of rules for every caller.",
-   "title_mn": "Хиймэл оюун ухааны эрин үед аппликейшнийг хэрхэн зохиох вэ?",
-   "summary_mn": "Зөвхөн хүмүүст буюу хэрэглэгчийн интерфейст зориулж апп бүтээх хандлага өөрчлөгдөж, хиймэл оюун ухааны агентуудад зориулсан архитектурын шийдлүүдийн талаар өгүүлжээ.",
-   "body_mn": "Бид хэрэглэгчийн интерфэйстэй ажиллахын зэрэгцээ хиймэл оюун ухааны агентуудад даалгавар өгдөг болсон энэ үед уламжлалт хөгжүүлэлтийн арга барил сорилттой тулгарч байна. Жишээ нь, хэрэглэгч веб хуудсаар дамжуулан зардал шинэчлэх хүсэлт явуулахад UI дээрх шалгуур үйлчилдэг бол агент шууд өөр замаар хандаж тухайн шалгуурыг тойрч гарах эрсдэлтэй байдаг.\n\nҮүнийг шийдхийн тулд хөгжүүлэгчид зөвхөн UI руу чиглэсэн архитектураас татгалзаж, бизнесийн логик болон үйлдэл бүрийг төвлөрүүлсэн Agent-Native арга барилд шилжих шаардлагатай болж байна. Өөрөөр хэлбэл, тухайн үйлдлийг хийх логик нэг газарт байршиж, UI, агент, CLI эсвэл HTTP хүсэлтүүд аль нь ч байсан яг ижил дүрэм, зөвшөөрлийн шалгуурыг давдаг байхаар зохион байгуулах нь чухал юм.\n\nЭнэ нь агентуудад найдвартай эрх олгох, үйл ажиллагааны зөрүү гаргахгүй байх боломжийг олгох бөгөөд орчин үеийн аппликейшн хөгжүүлэлтэд анхаарах ёстой гол зарчмуудын нэг болж байна.",
-   "published": "2026-10-22T18:00:00Z",
-   "added": "2026-10-23T05:07:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "891b7e0bbf66f86d",
    "subtopic": "openai",
    "source": "OpenAI News",
@@ -755,6 +555,146 @@
    "body_mn": "Vercel Connect үйлчилгээнд Managed API Key сонголт нэмэгдлээ. Хөгжүүлэгчид одоо төслийнхөө агент эсвэл даалгавар бүрд зориулан тусгайлан хязгаарласан эрх бүхий Stripe API түлхүүр үүсгэх боломжтой болж байна. Энэ нь өмнөх бүрэн эрхтэй Secret Key ашиглах эрсдэлийг арилгах зорилготой юм.\n\nЭнэхүү шинэчлэлтээр жишээлбэл орлогын тайлан гаргадаг агентад зөвхөн төлбөрийн мэдээлэл унших (read-only) эрх өгөх, харин шинэ хэрэглэгч бүртгэх агентад зөвхөн харилцагчийн мэдээлэл үүсгэх (write) эрх олгох зэргээр зарчмын хувьд хамгийн бага шаардлагатай эрхийг (least privilege) хуваарилж болно. Түлхүүрийг Vercel өөрөө найдвартай үүсгэж хадгалах тул хөгжүүлэгч ямар нэг түлхүүр код хуулж тавих шаардлагагүй болжээ.\n\nМөн төслийг дахин deploy хийх шаардлагагүйгээр connector тохиргооноос түлхүүрийг rotate хийх боломжтой бөгөөд шилжилтийн үед хуучин түлхүүр нь 24 цагийн турш хүчинтэй хэвээр хадгалагдана. Хөгжүүлэгчид Vercel CLI болон Connectors цэснээс уг тохиргоог идэвхжүүлж, runtime үед getToken функцээр дамжуулан холбогдох боломжтой.",
    "published": "2026-10-23T17:00:00Z",
    "added": "2026-10-24T00:56:01Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c50d3f4f722bc373",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/deploy-without-an-account-using-vercel-cli",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/42GEbXjC8L96Oizgv5VDxj/c651604b1b4582c4036421c37c134058/deploy_without_account_vercel_cli_og.png",
+   "title": "Deploy without an account using Vercel CLI",
+   "summary_en": "You can now deploy apps to Vercel without an account using Vercel CLI . Share prototypes faster with a live URL before signing in to claim your project. From a project directory that isn't linked to Vercel, run: The CLI builds your project locally when needed and returns a deployment URL you can share. Temporary deployments use the dedicated tmp.now domain, separate from vercel.app , and expire after one hour unless claimed. To keep your project live, open the claim link in the CLI output and sign in or create an account. Keep this link private. Read the Vercel CLI documentation to get…",
+   "title_mn": "Vercel CLI: Бүртгэлгүйгээр апп байршуулах боломжтой боллоо",
+   "summary_mn": "Хөгжүүлэгчид Vercel CLI ашиглан ямар нэгэн бүртгэлгүйгээр аппликейшнээ шууд байршуулж, түр хугацааны URL үүсгэн хуваалцах боломжтой боллоо.",
+   "body_mn": "Vercel компани хөгжүүлэгчдэд зориулсан шинэ боломжийг нэвтрүүлж, Vercel CLI ашиглан бүртгэлгүйгээр шууд апп байршуулах боломжтой болсныг зарлалаа. Энэ нь төслүүдээ хурдан туршиж, амьд холбоосоор хуваалцах ажлыг ихээхэн хөнгөвчилж байна.\n\nХолбогдоогүй төслийн хавтсаас тушаал ажиллуулснаар CLI нь төслийг локал орчинд бүтээж, хуваалцах боломжтой байршуулалтын холбоосыг буцаана. Ийм түр зуурын байршуулалтууд нь vercel.app-аас тусдаа tmp.now домэйныг ашиглах ба нэг цагийн дараа хугацаа нь дуусах юм.\n\nХэрэв та төслөө үргэлжлүүлэн ажиллуулахыг хүсвэл CLI-ийн үр дүн дээр гарч ирэх холбоосоор орж нэвтрэх эсвэл шинэ бүртгэл үүсгэн төслөө баталгаажуулах шаардлагатай. Энэ нь ялангуяа прототип боловсруулж буй хөгжүүлэгчдэд цаг хэмнэсэн чухал шинэчлэл болжээ.",
+   "published": "2026-10-22T00:00:00Z",
+   "added": "2026-10-24T05:18:04Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2a7ac4724f46e823",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Intelligent Living",
+   "url": "https://www.intelligentliving.co/kimi-k3-1-pro-debuts-fourth-globally/",
+   "image": "https://www.intelligentliving.co/wp-content/uploads/2026/10/kimi-k31-pro-global-rank.jpg",
+   "title": "Kimi K3.1 Pro Debuts Fourth Globally, Three Points Off the Lead",
+   "summary_en": "Kimi K3.1 Pro ranks fourth among all models worldwide on the Artificial Analysis Intelligence Index, three points behind Claude Opus 5.5.",
+   "title_mn": "Kimi K3.1 Pro загвар дэлхийн жагсаалтын дөрөвдүгээрт бичигдлээ",
+   "summary_mn": "Moonshot AI компани шинэ K3.1 цувралын хамгийн хүчирхэг Kimi K3.1 Pro загварыг танилцуулж, дэлхийн хэмжээнд эхний дөрөвт эрэмбэлэгдлээ.",
+   "body_mn": "Moonshot AI компани өөрийн шинэ K3.1 цувралын анхны загвар болох Kimi K3.1 Pro-г танилцууллаа. Artificial Analysis индексийн үнэлгээгээр уг загвар дэлхийн 215 загвараас дөрөвдүгээрт бичигдсэн байна.\n\nУг загвар нь 2.8 триллион нийт параметр болон нэг сая токенийн контекц цонхтой бөгөөд K3 загвараас 11 оноогоор илүү гарчээ. Платформын мэдээлснээр уг загварын жинг 11 дүгээр сарын 4-нд олон нийтэд нээлттэй болгох бөгөөд энэ нь нээлттэй жинтэй загваруудын дунд хамгийн өндөр оноотой нь болох юм.\n\nМөн илүү хурдан хариу өгөх зориулалттай Kimi K3.1 Pro Highspeed хувилбарыг хамт гаргасан байна. Хөгжүүлэгчид болон API хэрэглэгчид уг загварыг төрөл бүрийн орчинд ашиглах боломжтой болжээ.",
+   "published": "2026-10-23T07:56:38Z",
+   "added": "2026-10-24T05:18:04Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "20f9f3f5d6b16ab5",
+   "subtopic": "vibe-coding",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
+   "image": "https://david.lequin.dev/og/bi-software-is-dead.png?v=1tlpj36",
+   "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+   "summary_en": "Article URL: https://david.lequin.dev/blog/bi-software-is-dead/ Comments URL: https://news.ycombinator.com/item?id=50212320 Points: 123 # Comments: 73",
+   "title_mn": "Байгууллагын үнэтэй BI хэрэгслийг энгийн HTML файлуудаар сольсон нь",
+   "summary_mn": "Компанийн инженерүүд Claude Code ашиглан өгөгдлийн шинжилгээний үнэтэй системүүдийг орлох хөнгөн шийдлийг богино хугацаанд бүтээжээ.",
+   "body_mn": "Компаниуд өгөгдөл шинжилгээний үнэтэй хэрэгслүүдэд их хэмжээний мөнгө зарцуулдаг ч зарим инженерүүд хиймэл оюун ухааны тусламжтайгаар үүнийг хялбархан шийдэж байна. Claude Code болон Opus загваруудын тусламжтайгаар хөгжүүлэгчид өгөгдлийн тайлан гаргах HTML файлуудыг автоматаар үүсгэх болжээ.\n\nЭнэхүү аргын гол давуу тал нь тусгайлан зөвшөөрлийн систем зохиох шаардлагагүй бөгөөд Snowflake зэрэг мэдээллийн сангийн аль хэдийнэ бэлэн болсон хандалтын эрхийг ашигладаг явдал юм. Хөгжүүлэгчид энгийн Python скрипт болон Claude залгаас ашиглан хүссэн тайлангаа вэб хуудас хэлбэрээр дотоод сүлжээндээ байршуулж байна.\n\nЭнэ нь хиймэл оюун ухааны хэрэгслүүдийг ашиглан программ хангамж бүтээх болон ажлын урсгалаа хөнгөвчлөх шинэ хандлагыг бий болгож байгааг харуулж байна.",
+   "published": "2026-10-23T17:15:03Z",
+   "added": "2026-10-24T05:18:04Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "63c07133f099fa90",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
+   "image": "https://opengraph.githubassets.com/230b9956d8a47505cbd7c1a735e64cdd9b1105a3d63e01d91c49b2490b6fe327/ollama/ollama/releases/tag/v0.40.10",
+   "title": "ollama v0.40.10",
+   "summary_en": "NVIDIA Nemotron 3.5 Bolt E4B Nemotron 3.5 Bolt E4B is NVIDIA’s smaller, Gemma 4-based vision-language model for fast local conversations, image understanding, and tool use. It supports a 128K-token context window. The model includes a DFlash draft for speculative decoding. ollama run nemotron-3.5-bolt:e4b Full Changelog : v0.40.9...v0.40.10",
+   "title_mn": "Ollama v0.40.10 хувилбар гарч, NVIDIA Nemotron 3.5 загварыг дэмждэг боллоо",
+   "summary_mn": "Ollama-ийн шинэ хувилбар NVIDIA-ийн Gemma 4 архитектур дээр суурилсан Nemotron 3.5 Bolt E4B загварыг албан ёсоор дэмждэг болжээ.",
+   "body_mn": "Ollama хэрэгслийн v0.40.10 шинэ хувилбар гарч, хөгжүүлэгчдэд локал орчинд хиймэл оюун ухаан ашиглах өргөн боломжийг оллоо. Энэхүү шинэчлэлтээр NVIDIA-ийн Nemotron 3.5 Bolt E4B загварыг нэмсэн байна.\n\nNemotron 3.5 Bolt E4B нь Gemma 4 архитектур дээр суурилсан, зураг ойлгох болон багаж хэрэгсэл ашиглах чадвартай хөнгөн загвар юм. Энэ нь 128K токенийн контекц цонхыг дэмжихээс гадна DFlash draft технологийг ашиглан хурдан ажиллах боломжтой.\n\nХөгжүүлэгчид терминалаасаа шууд ollama run nemotron-3.5-bolt:e4b тушаалаар уг загварыг татаж ажиллуулах боломжтой болжээ.",
+   "published": "2026-10-23T17:17:19Z",
+   "added": "2026-10-24T05:18:04Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ba1a3f55d8d210bb",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/10/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series.jpg",
+   "title": "Moonshot AI Releases Kimi K3.1 Pro, First Model in New K3.1 Series",
+   "summary_en": "Moonshot AI introduced Kimi K3.1 Pro on October 24, 2026, the first model in its new K3.1 series, alongside a faster companion variant called Kimi K3.1 Pro Highspeed. The company describes K3.1 Pro as its most capable 3T...",
+   "title_mn": "Moonshot AI компани Kimi K3.1 Pro загварыг худалдаанд гаргалаа",
+   "summary_mn": "Moonshot AI компани 1 сая токенийн контекцтэй, шинэ үеийн Kimi K3.1 Pro болон Highspeed загваруудыг албан ёсоор танилцууллаа.",
+   "body_mn": "Moonshot AI компани өөрийн шинэ K3.1 цувралын анхны загвар болох Kimi K3.1 Pro болон илүү хурдан ажиллах Kimi K3.1 Pro Highspeed хувилбаруудыг худалдаанд гаргалаа. Уг загвар нь 1 сая токенийн контекц цонхтой бөгөөд нээлттэй жинтэй загваруудын дунд хамгийн өндөр үзүүлэлттэй байна.\n\nШинэ загвар нь код бичих, 3D загварчлал хийх, санхүүгийн өгөгдөл боловсруулах зэрэг олон чиглэлд өмнөх хувилбараасаа эрс сайжирсан байна. Тухайлбал, Terminal-Bench 4.0 болон бусад дотоод тестүүдэд өндөр оноо авсан бөгөөд хиймэл оюун ухааны алдаа гаргах хувь нь мэдэгдэхүйц буурчээ.\n\nХөгжүүлэгчид уг загварыг Kimi API, Kimi Code болон гар утасны аппликейшнүүдээр дамжуулан ашиглах боломжтой бөгөөд Enterprise хэрэглэгчид байгууллагаараа дамжуулан идэвхжүүлэх боломжтой юм.",
+   "published": "2026-10-23T17:26:02Z",
+   "added": "2026-10-24T05:18:04Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "265bf75c579460ae",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "FourWeekMBA",
+   "url": "https://fourweekmba.com/ai-moonshot-prices-kimi-k3-1-pro-at-half-of-claude-opus-5-5/",
+   "image": "",
+   "title": "Moonshot Prices Kimi K3.1 Pro at Half of Claude Opus 5.5",
+   "summary_en": "",
+   "title_mn": "Kimi K3.1 Pro загварын үнэ Claude Opus 5.5 загварын хагас үнэтэй байна",
+   "summary_mn": "Moonshot AI-ийн шинээр гаргасан Kimi K3.1 Pro загварын үнэ тогтолцоо Claude Opus 5.5 загвартай харьцуулахад хамаагүй хямд байна.",
+   "body_mn": "Moonshot AI компани өөрийн шинэ flagship загвар болох Kimi K3.1 Pro-ийн үнийг зах зээлд өрсөлдөхүйц байдлаар тогтоожээ. Мэдээллээр уг загварын ашиглалтын үнэ Claude Opus 5.5 загварын үнийн тал хувьтай тэнцүү байна.\n\nЭнэ нь хөгжүүлэгчид болон байгууллагуудад өндөр хүчин чадалтай хиймэл оюун ухааныг илүү хямд зардлаар ашиглах боломжийг олгож байна. OpenAI болон Anthropic компаниудтай өрсөлдөхүйц түвшний гүйцэтгэлийг илүү хямд үнээр санал болгож байгаа нь зах зээлд томоохон нөлөө үзүүлэх төлөвтэй байна.",
+   "published": "2026-10-23T18:18:19Z",
+   "added": "2026-10-24T05:18:04Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9a3815c4d8adf63c",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/deployments-now-show-build-cache-size",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6mXxqs5DZnil5hHVwF2uJ4/c086032d748cc671342877c6f5cadb3c/image__54_.png",
+   "title": "Deployments now show build cache size",
+   "summary_en": "Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its build machine . The same information is in the CLI with vercel inspect on version 65.1.0 or newer, and in the get-deployment REST API endpoint . Uploading the build cache is billable build time, and a cache that goes over the limit is discarded, so the next build starts without one. This is on by default on all plans for deployments built on or after October 21. See the maximum build cache size for each build machine in the docs. Read more",
+   "title_mn": "Vercel байршуулалтуудад build cache-ийн хэмжээг харуулдаг боллоо",
+   "summary_mn": "Vercel-ийн байршуулалтын дэлгэрэнгүй болон CLI дээр build cache-ийн хэмжээ, серверийн хязгаарт хэр ойртсоныг харуулдаг боллоо. Хязгаар хэтэрсэн кэшийг устгадаг тул дараагийн build эхнээсээ бүтээгддэг.",
+   "body_mn": "Vercel платформын байршуулалтын тайлан цэсэнд төсөл бүрийн хадгалсан build cache-ийн хэмжээ болон тухайн build серверийн дээд хязгаарт хэр ойртсоныг харуулдаг боллоо. Энэхүү мэдээллийг vercel inspect командыг ашиглан Vercel CLI-ийн 65.1.0 болон түүнээс дээш хувилбараас, мөн get-deployment REST API-аар дамжуулан авах боломжтой.\n\nBuild cache-ийг сервер рүү илгээх хугацаа нь төлбөртэй build хугацаанд шууд тооцогддог. Хэрэв кэшийн хэмжээ тогтоосон дээд хязгаараас хэтэрвэл уг кэшийг автоматаар устгадаг тул дараагийн удаа байршуулах үед бүх зүйл эхнээсээ бүтээгдэх эрсдэл үүсдэг байна.\n\nЭнэхүү боломж нь 10 дугаар сарын 21-нээс эхлэн бүх төрлийн төлөвлөгөөнд автоматаар идэвхжсэн байна. Хөгжүүлэгчид сервер бүрийн зөвшөөрөгдөх дээд хэмжээг баримт бичгээс шалгаж, төслийнхөө бүтээх хугацааг оновчлох боломжтой юм.",
+   "published": "2026-10-23T19:00:00Z",
+   "added": "2026-10-24T05:18:04Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }

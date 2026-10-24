@@ -1,0 +1,17 @@
+{
+ "id": "2a7ac4724f46e823",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Intelligent Living",
+ "url": "https://www.intelligentliving.co/kimi-k3-1-pro-debuts-fourth-globally/",
+ "image": "https://www.intelligentliving.co/wp-content/uploads/2026/10/kimi-k31-pro-global-rank.jpg",
+ "title": "Kimi K3.1 Pro Debuts Fourth Globally, Three Points Off the Lead",
+ "summary_en": "Kimi K3.1 Pro ranks fourth among all models worldwide on the Artificial Analysis Intelligence Index, three points behind Claude Opus 5.5.",
+ "title_mn": "Kimi K3.1 Pro загвар дэлхийн жагсаалтын дөрөвдүгээрт бичигдлээ",
+ "summary_mn": "Moonshot AI компани шинэ K3.1 цувралын хамгийн хүчирхэг Kimi K3.1 Pro загварыг танилцуулж, дэлхийн хэмжээнд эхний дөрөвт эрэмбэлэгдлээ.",
+ "body_mn": "Moonshot AI компани өөрийн шинэ K3.1 цувралын анхны загвар болох Kimi K3.1 Pro-г танилцууллаа. Artificial Analysis индексийн үнэлгээгээр уг загвар дэлхийн 215 загвараас дөрөвдүгээрт бичигдсэн байна.\n\nУг загвар нь 2.8 триллион нийт параметр болон нэг сая токенийн контекц цонхтой бөгөөд K3 загвараас 11 оноогоор илүү гарчээ. Платформын мэдээлснээр уг загварын жинг 11 дүгээр сарын 4-нд олон нийтэд нээлттэй болгох бөгөөд энэ нь нээлттэй жинтэй загваруудын дунд хамгийн өндөр оноотой нь болох юм.\n\nМөн илүү хурдан хариу өгөх зориулалттай Kimi K3.1 Pro Highspeed хувилбарыг хамт гаргасан байна. Хөгжүүлэгчид болон API хэрэглэгчид уг загварыг төрөл бүрийн орчинд ашиглах боломжтой болжээ.",
+ "published": "2026-10-23T07:56:38Z",
+ "added": "2026-10-24T05:18:04Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

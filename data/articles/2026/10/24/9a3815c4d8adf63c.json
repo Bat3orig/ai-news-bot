@@ -1,0 +1,17 @@
+{
+ "id": "9a3815c4d8adf63c",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/deployments-now-show-build-cache-size",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6mXxqs5DZnil5hHVwF2uJ4/c086032d748cc671342877c6f5cadb3c/image__54_.png",
+ "title": "Deployments now show build cache size",
+ "summary_en": "Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its build machine . The same information is in the CLI with vercel inspect on version 65.1.0 or newer, and in the get-deployment REST API endpoint . Uploading the build cache is billable build time, and a cache that goes over the limit is discarded, so the next build starts without one. This is on by default on all plans for deployments built on or after October 21. See the maximum build cache size for each build machine in the docs. Read more",
+ "title_mn": "Vercel байршуулалтуудад build cache-ийн хэмжээг харуулдаг боллоо",
+ "summary_mn": "Vercel-ийн байршуулалтын дэлгэрэнгүй болон CLI дээр build cache-ийн хэмжээ, серверийн хязгаарт хэр ойртсоныг харуулдаг боллоо. Хязгаар хэтэрсэн кэшийг устгадаг тул дараагийн build эхнээсээ бүтээгддэг.",
+ "body_mn": "Vercel платформын байршуулалтын тайлан цэсэнд төсөл бүрийн хадгалсан build cache-ийн хэмжээ болон тухайн build серверийн дээд хязгаарт хэр ойртсоныг харуулдаг боллоо. Энэхүү мэдээллийг vercel inspect командыг ашиглан Vercel CLI-ийн 65.1.0 болон түүнээс дээш хувилбараас, мөн get-deployment REST API-аар дамжуулан авах боломжтой.\n\nBuild cache-ийг сервер рүү илгээх хугацаа нь төлбөртэй build хугацаанд шууд тооцогддог. Хэрэв кэшийн хэмжээ тогтоосон дээд хязгаараас хэтэрвэл уг кэшийг автоматаар устгадаг тул дараагийн удаа байршуулах үед бүх зүйл эхнээсээ бүтээгдэх эрсдэл үүсдэг байна.\n\nЭнэхүү боломж нь 10 дугаар сарын 21-нээс эхлэн бүх төрлийн төлөвлөгөөнд автоматаар идэвхжсэн байна. Хөгжүүлэгчид сервер бүрийн зөвшөөрөгдөх дээд хэмжээг баримт бичгээс шалгаж, төслийнхөө бүтээх хугацааг оновчлох боломжтой юм.",
+ "published": "2026-10-23T19:00:00Z",
+ "added": "2026-10-24T05:18:04Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
