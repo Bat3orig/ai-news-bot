@@ -678,5 +678,45 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2d1d1823fe268f88",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Basic Tutorials",
+   "url": "https://basic-tutorials.com/news/claude-duet-anthropics-proactive-ai-agent-for-the-job/",
+   "image": "https://basic-tutorials.de/wp-content/uploads/2026/10/bandung-indonesia-may-2026-photo-Depositphotos_883905902_XL-scaled.jpg",
+   "title": "Claude Duet: Anthropic’s Proactive AI Agent for the Job",
+   "summary_en": "Claude Duet is Anthropic's new AI agent: He monitors your emails and calendar, sends you a morning briefing, and keeps working even when your computer is off. All the details.",
+   "title_mn": "Anthropic компани Claude Duet бие даасан хиймэл оюуны агентлаа танилцууллаа",
+   "summary_mn": "Anthropic компани хэрэглэгчийн өмнөөс өөрөө санаачилга гаргаж ажилладаг Claude Duet агентийг танилцууллаа. Энэхүү шинэ агентийг одоогоор АНУ-ын Pro болон Max хэрэглэгчдэд Research Preview байдлаар туршиж байна.",
+   "body_mn": "Anthropic компани хэрэглэгчийн өмнөөс бие даан ажиллах чадвартай Claude Duet нэртэй шинэ хиймэл оюуны агентийг олон нийтэд зарлалаа. Уг агент нь зөвхөн тушаал хүлээх бус өглөөний мэдээг нэгтгэх, хуваарь болон имэйл хянах, зөөврийн компьютер унтарсан үед ч даалгаврыг үргэлжлүүлэн гүйцэтгэх чадвартай юм. Хэрэглэгчид үүнтэй дуу хоолой болон текстаар багийн гишүүн шиг харилцах боломжтой бөгөөд нэг трэйдэд бүх яриа хадгалагддаг.\n\nClaude Duet нь Gmail, Slack, Stripe, QuickBooks зэрэг 6,000 гаруй апп болон Google Docs, Sheets, Slides системүүдтэй шууд холбогдож ажилладаг. Агент нь санхүүгийн урьдчилсан тооцоо хийх, вэб апп боловсруулах, хуваарь гаргах зэрэг олон төрлийн үүрэг гүйцэтгэх бөгөөд гарсан үр дүнг баримт бичиг хэлбэрээр танилцуулдаг.\n\nАюулгүй байдлын үүднээс Claude Duet нь мөнгө шилжүүлэх, баримт бичиг гарын үсэг зурах, мессеж илгээхээс өмнө заавал хэрэглэгчээс зөвшөөрөл авдаг байна. Stripe-ийн Link үйлчилгээг ашиглан оффисын хэрэгсэл захиалах зэрэг худалдан авалт хийх боломжтой боловч хэрэглэгчийн жинхэнэ карт руу ханддаггүй.\n\nУг шинэ боломж нь Pro болон Max багцуудад нэмэлт төлбөргүйгээр багтаж байгаа боловч цаанаа хэрэглэгчийн хязгаараас зарцуулдаг. Team болон Enterprise хэрэглэгчид одоогоор үүнд хамрагдахгүй бөгөөд OpenAI болон xAI компаниудын ижил төрлийн агентлаг бүтээгдэхүүнүүдтэй өрсөлдөхөөр гарч ирж байна.",
+   "published": "2026-10-25T16:32:05Z",
+   "added": "2026-10-25T22:42:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a89b0563972316a1",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Startup Fortune",
+   "url": "https://startupfortune.com/anthropic-quietly-separates-claude-agent-sdk-usage-from-subscription-limits/",
+   "image": "https://startupfortune.com/wp-content/uploads/2026/10/anthropic-claude-max-agent-sdk.jpg",
+   "title": "Anthropic quietly separates Claude Agent SDK usage from subscription limits",
+   "summary_en": "Anthropic added monthly API credits for Claude Agent SDK and claude -p on Max and Team plans October 7, reviving a billing split it paused in June.",
+   "title_mn": "Anthropic компани Claude Agent SDK ашиглалтын эрхийг захиалгын хязгаараас тусгаарлалаа",
+   "summary_mn": "Anthropic компани Max болон Team захиалга эзэмшигчдэд Agent SDK ажлыг гүйцэтгэхэд зориулж сар бүр API кредит олгохоор шийдвэрлэлээ.",
+   "body_mn": "Anthropic компани Claude Agent SDK болон холбогдох хэрэгслүүдийг ашиглах хэрэглэгчдэд зориулсан шинэ тарифын нөхцөлийг танилцууллаа. Өмнө нь хүлээлт үүсгэж байсан уг өөрчлөлтөөр Max 5x захиалагчид сар бүр 100 доллар, Max 20x захиалагчид 200 долларын API кредит авах бол Team багцууд суудал тус бүрээс бүрдсэн 500 ам долларын нийт хязгаартай кредиттэй болов.\n\nЭнэхүү өөрчлөлт нь хөгжүүлэгчдэд CI шугам хоолой болон автоматжуулалтын ажлуудаа илүү тодорхой тооцоолох боломжийг олгож байна. Өмнө нь хөгжүүлэгчид хувийн захиалгын хязгаараа ашиглан API орцыг орлуулан ажилладаг байсан нь зардлын хувьд хамаагүй хямд байсан юм. Харин шинэ кредитийн систем хэрэгжсэнээр сарын подписк болон API үйлчилгээний хил хязгаар илүү бодитой болж байна.\n\nЖижиг багуудад зориулсан Team багцын хувьд кредитийн нэгдсэн санг бий болгосон бөгөөд тогтоосон хязгаараас хэтэрсэн тохиолдолд нэмэлт кредит худалдаж авах эсвэл автоматаар цэнэглэх тохиргоог хийх шаардлагатай ажээ. Энэхүү зохицуулалт нь хөгжүүлэгчдэд Claude платформыг өөрсдийн бүтээгдэхүүн, агентлаг шугамд илүү урт хугацаанд тогтвортой холбох боломж олгоно.",
+   "published": "2026-10-25T20:01:48Z",
+   "added": "2026-10-25T22:42:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

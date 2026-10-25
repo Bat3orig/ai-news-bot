@@ -1,0 +1,17 @@
+{
+ "id": "2d1d1823fe268f88",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Basic Tutorials",
+ "url": "https://basic-tutorials.com/news/claude-duet-anthropics-proactive-ai-agent-for-the-job/",
+ "image": "https://basic-tutorials.de/wp-content/uploads/2026/10/bandung-indonesia-may-2026-photo-Depositphotos_883905902_XL-scaled.jpg",
+ "title": "Claude Duet: Anthropic’s Proactive AI Agent for the Job",
+ "summary_en": "Claude Duet is Anthropic's new AI agent: He monitors your emails and calendar, sends you a morning briefing, and keeps working even when your computer is off. All the details.",
+ "title_mn": "Anthropic компани Claude Duet бие даасан хиймэл оюуны агентлаа танилцууллаа",
+ "summary_mn": "Anthropic компани хэрэглэгчийн өмнөөс өөрөө санаачилга гаргаж ажилладаг Claude Duet агентийг танилцууллаа. Энэхүү шинэ агентийг одоогоор АНУ-ын Pro болон Max хэрэглэгчдэд Research Preview байдлаар туршиж байна.",
+ "body_mn": "Anthropic компани хэрэглэгчийн өмнөөс бие даан ажиллах чадвартай Claude Duet нэртэй шинэ хиймэл оюуны агентийг олон нийтэд зарлалаа. Уг агент нь зөвхөн тушаал хүлээх бус өглөөний мэдээг нэгтгэх, хуваарь болон имэйл хянах, зөөврийн компьютер унтарсан үед ч даалгаврыг үргэлжлүүлэн гүйцэтгэх чадвартай юм. Хэрэглэгчид үүнтэй дуу хоолой болон текстаар багийн гишүүн шиг харилцах боломжтой бөгөөд нэг трэйдэд бүх яриа хадгалагддаг.\n\nClaude Duet нь Gmail, Slack, Stripe, QuickBooks зэрэг 6,000 гаруй апп болон Google Docs, Sheets, Slides системүүдтэй шууд холбогдож ажилладаг. Агент нь санхүүгийн урьдчилсан тооцоо хийх, вэб апп боловсруулах, хуваарь гаргах зэрэг олон төрлийн үүрэг гүйцэтгэх бөгөөд гарсан үр дүнг баримт бичиг хэлбэрээр танилцуулдаг.\n\nАюулгүй байдлын үүднээс Claude Duet нь мөнгө шилжүүлэх, баримт бичиг гарын үсэг зурах, мессеж илгээхээс өмнө заавал хэрэглэгчээс зөвшөөрөл авдаг байна. Stripe-ийн Link үйлчилгээг ашиглан оффисын хэрэгсэл захиалах зэрэг худалдан авалт хийх боломжтой боловч хэрэглэгчийн жинхэнэ карт руу ханддаггүй.\n\nУг шинэ боломж нь Pro болон Max багцуудад нэмэлт төлбөргүйгээр багтаж байгаа боловч цаанаа хэрэглэгчийн хязгаараас зарцуулдаг. Team болон Enterprise хэрэглэгчид одоогоор үүнд хамрагдахгүй бөгөөд OpenAI болон xAI компаниудын ижил төрлийн агентлаг бүтээгдэхүүнүүдтэй өрсөлдөхөөр гарч ирж байна.",
+ "published": "2026-10-25T16:32:05Z",
+ "added": "2026-10-25T22:42:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
