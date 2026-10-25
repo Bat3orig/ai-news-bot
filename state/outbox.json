@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "20f9f3f5d6b16ab5",
-   "subtopic": "vibe-coding",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
-   "image": "https://david.lequin.dev/og/bi-software-is-dead.png?v=1tlpj36",
-   "title": "Can we replace a $150k Looker with a bucket of HTML files?",
-   "summary_en": "Article URL: https://david.lequin.dev/blog/bi-software-is-dead/ Comments URL: https://news.ycombinator.com/item?id=50212320 Points: 123 # Comments: 73",
-   "title_mn": "Байгууллагын үнэтэй BI хэрэгслийг энгийн HTML файлуудаар сольсон нь",
-   "summary_mn": "Компанийн инженерүүд Claude Code ашиглан өгөгдлийн шинжилгээний үнэтэй системүүдийг орлох хөнгөн шийдлийг богино хугацаанд бүтээжээ.",
-   "body_mn": "Компаниуд өгөгдөл шинжилгээний үнэтэй хэрэгслүүдэд их хэмжээний мөнгө зарцуулдаг ч зарим инженерүүд хиймэл оюун ухааны тусламжтайгаар үүнийг хялбархан шийдэж байна. Claude Code болон Opus загваруудын тусламжтайгаар хөгжүүлэгчид өгөгдлийн тайлан гаргах HTML файлуудыг автоматаар үүсгэх болжээ.\n\nЭнэхүү аргын гол давуу тал нь тусгайлан зөвшөөрлийн систем зохиох шаардлагагүй бөгөөд Snowflake зэрэг мэдээллийн сангийн аль хэдийнэ бэлэн болсон хандалтын эрхийг ашигладаг явдал юм. Хөгжүүлэгчид энгийн Python скрипт болон Claude залгаас ашиглан хүссэн тайлангаа вэб хуудас хэлбэрээр дотоод сүлжээндээ байршуулж байна.\n\nЭнэ нь хиймэл оюун ухааны хэрэгслүүдийг ашиглан программ хангамж бүтээх болон ажлын урсгалаа хөнгөвчлөх шинэ хандлагыг бий болгож байгааг харуулж байна.",
-   "published": "2026-10-23T17:15:03Z",
-   "added": "2026-10-24T05:18:04Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "63c07133f099fa90",
-   "subtopic": "ai-devtools",
-   "source": "ollama/ollama",
-   "source_label": "ollama/ollama",
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
-   "image": "https://opengraph.githubassets.com/230b9956d8a47505cbd7c1a735e64cdd9b1105a3d63e01d91c49b2490b6fe327/ollama/ollama/releases/tag/v0.40.10",
-   "title": "ollama v0.40.10",
-   "summary_en": "NVIDIA Nemotron 3.5 Bolt E4B Nemotron 3.5 Bolt E4B is NVIDIA’s smaller, Gemma 4-based vision-language model for fast local conversations, image understanding, and tool use. It supports a 128K-token context window. The model includes a DFlash draft for speculative decoding. ollama run nemotron-3.5-bolt:e4b Full Changelog : v0.40.9...v0.40.10",
-   "title_mn": "Ollama v0.40.10 хувилбар гарч, NVIDIA Nemotron 3.5 загварыг дэмждэг боллоо",
-   "summary_mn": "Ollama-ийн шинэ хувилбар NVIDIA-ийн Gemma 4 архитектур дээр суурилсан Nemotron 3.5 Bolt E4B загварыг албан ёсоор дэмждэг болжээ.",
-   "body_mn": "Ollama хэрэгслийн v0.40.10 шинэ хувилбар гарч, хөгжүүлэгчдэд локал орчинд хиймэл оюун ухаан ашиглах өргөн боломжийг оллоо. Энэхүү шинэчлэлтээр NVIDIA-ийн Nemotron 3.5 Bolt E4B загварыг нэмсэн байна.\n\nNemotron 3.5 Bolt E4B нь Gemma 4 архитектур дээр суурилсан, зураг ойлгох болон багаж хэрэгсэл ашиглах чадвартай хөнгөн загвар юм. Энэ нь 128K токенийн контекц цонхыг дэмжихээс гадна DFlash draft технологийг ашиглан хурдан ажиллах боломжтой.\n\nХөгжүүлэгчид терминалаасаа шууд ollama run nemotron-3.5-bolt:e4b тушаалаар уг загварыг татаж ажиллуулах боломжтой болжээ.",
-   "published": "2026-10-23T17:17:19Z",
-   "added": "2026-10-24T05:18:04Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ba1a3f55d8d210bb",
-   "subtopic": "kimi",
-   "source": "Kimi (Google News)",
-   "source_label": "Unite.AI",
-   "url": "https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series/",
-   "image": "https://www.unite.ai/wp-content/uploads/2026/10/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series.jpg",
-   "title": "Moonshot AI Releases Kimi K3.1 Pro, First Model in New K3.1 Series",
-   "summary_en": "Moonshot AI introduced Kimi K3.1 Pro on October 24, 2026, the first model in its new K3.1 series, alongside a faster companion variant called Kimi K3.1 Pro Highspeed. The company describes K3.1 Pro as its most capable 3T...",
-   "title_mn": "Moonshot AI компани Kimi K3.1 Pro загварыг худалдаанд гаргалаа",
-   "summary_mn": "Moonshot AI компани 1 сая токенийн контекцтэй, шинэ үеийн Kimi K3.1 Pro болон Highspeed загваруудыг албан ёсоор танилцууллаа.",
-   "body_mn": "Moonshot AI компани өөрийн шинэ K3.1 цувралын анхны загвар болох Kimi K3.1 Pro болон илүү хурдан ажиллах Kimi K3.1 Pro Highspeed хувилбаруудыг худалдаанд гаргалаа. Уг загвар нь 1 сая токенийн контекц цонхтой бөгөөд нээлттэй жинтэй загваруудын дунд хамгийн өндөр үзүүлэлттэй байна.\n\nШинэ загвар нь код бичих, 3D загварчлал хийх, санхүүгийн өгөгдөл боловсруулах зэрэг олон чиглэлд өмнөх хувилбараасаа эрс сайжирсан байна. Тухайлбал, Terminal-Bench 4.0 болон бусад дотоод тестүүдэд өндөр оноо авсан бөгөөд хиймэл оюун ухааны алдаа гаргах хувь нь мэдэгдэхүйц буурчээ.\n\nХөгжүүлэгчид уг загварыг Kimi API, Kimi Code болон гар утасны аппликейшнүүдээр дамжуулан ашиглах боломжтой бөгөөд Enterprise хэрэглэгчид байгууллагаараа дамжуулан идэвхжүүлэх боломжтой юм.",
-   "published": "2026-10-23T17:26:02Z",
-   "added": "2026-10-24T05:18:04Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "265bf75c579460ae",
-   "subtopic": "kimi",
-   "source": "Kimi (Google News)",
-   "source_label": "FourWeekMBA",
-   "url": "https://fourweekmba.com/ai-moonshot-prices-kimi-k3-1-pro-at-half-of-claude-opus-5-5/",
-   "image": "",
-   "title": "Moonshot Prices Kimi K3.1 Pro at Half of Claude Opus 5.5",
-   "summary_en": "",
-   "title_mn": "Kimi K3.1 Pro загварын үнэ Claude Opus 5.5 загварын хагас үнэтэй байна",
-   "summary_mn": "Moonshot AI-ийн шинээр гаргасан Kimi K3.1 Pro загварын үнэ тогтолцоо Claude Opus 5.5 загвартай харьцуулахад хамаагүй хямд байна.",
-   "body_mn": "Moonshot AI компани өөрийн шинэ flagship загвар болох Kimi K3.1 Pro-ийн үнийг зах зээлд өрсөлдөхүйц байдлаар тогтоожээ. Мэдээллээр уг загварын ашиглалтын үнэ Claude Opus 5.5 загварын үнийн тал хувьтай тэнцүү байна.\n\nЭнэ нь хөгжүүлэгчид болон байгууллагуудад өндөр хүчин чадалтай хиймэл оюун ухааныг илүү хямд зардлаар ашиглах боломжийг олгож байна. OpenAI болон Anthropic компаниудтай өрсөлдөхүйц түвшний гүйцэтгэлийг илүү хямд үнээр санал болгож байгаа нь зах зээлд томоохон нөлөө үзүүлэх төлөвтэй байна.",
-   "published": "2026-10-23T18:18:19Z",
-   "added": "2026-10-24T05:18:04Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9a3815c4d8adf63c",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/deployments-now-show-build-cache-size",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6mXxqs5DZnil5hHVwF2uJ4/c086032d748cc671342877c6f5cadb3c/image__54_.png",
-   "title": "Deployments now show build cache size",
-   "summary_en": "Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its build machine . The same information is in the CLI with vercel inspect on version 65.1.0 or newer, and in the get-deployment REST API endpoint . Uploading the build cache is billable build time, and a cache that goes over the limit is discarded, so the next build starts without one. This is on by default on all plans for deployments built on or after October 21. See the maximum build cache size for each build machine in the docs. Read more",
-   "title_mn": "Vercel байршуулалтуудад build cache-ийн хэмжээг харуулдаг боллоо",
-   "summary_mn": "Vercel-ийн байршуулалтын дэлгэрэнгүй болон CLI дээр build cache-ийн хэмжээ, серверийн хязгаарт хэр ойртсоныг харуулдаг боллоо. Хязгаар хэтэрсэн кэшийг устгадаг тул дараагийн build эхнээсээ бүтээгддэг.",
-   "body_mn": "Vercel платформын байршуулалтын тайлан цэсэнд төсөл бүрийн хадгалсан build cache-ийн хэмжээ болон тухайн build серверийн дээд хязгаарт хэр ойртсоныг харуулдаг боллоо. Энэхүү мэдээллийг vercel inspect командыг ашиглан Vercel CLI-ийн 65.1.0 болон түүнээс дээш хувилбараас, мөн get-deployment REST API-аар дамжуулан авах боломжтой.\n\nBuild cache-ийг сервер рүү илгээх хугацаа нь төлбөртэй build хугацаанд шууд тооцогддог. Хэрэв кэшийн хэмжээ тогтоосон дээд хязгаараас хэтэрвэл уг кэшийг автоматаар устгадаг тул дараагийн удаа байршуулах үед бүх зүйл эхнээсээ бүтээгдэх эрсдэл үүсдэг байна.\n\nЭнэхүү боломж нь 10 дугаар сарын 21-нээс эхлэн бүх төрлийн төлөвлөгөөнд автоматаар идэвхжсэн байна. Хөгжүүлэгчид сервер бүрийн зөвшөөрөгдөх дээд хэмжээг баримт бичгээс шалгаж, төслийнхөө бүтээх хугацааг оновчлох боломжтой юм.",
-   "published": "2026-10-23T19:00:00Z",
-   "added": "2026-10-24T05:18:04Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d91d3fc9b564d6b5",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cafef5b99ad121eaf5b0cc65/542ff0db971f92dcc52edc05eba0320a/how_vercel_agent_ensures_safe_access_to_production_og_card.jpg",
-   "title": "How Vercel Agent accesses production safely",
-   "summary_en": "An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve individual actions before they know how the agent intends to solve the problem. Repeated prompts can turn that review into a habit of clicking approve. Vercel Agent starts by investigating the problem, then proposes a plan showing what it would do and what access it would need…",
-   "title_mn": "Vercel Agent продюшн системд хэрхэн аюулгүйгээр хандах вэ",
-   "summary_mn": "Vercel Agent хөгжүүлэгчдийн зөвшөөрөлтэйгээр бүтээгдэхүүний орчинд аюулгүй ажиллах шинэ боломжийг танилцууллаа. Энэ нь төлөвлөгөө боловсруулж, шаардлагатай эрхийг урьдчилан хянаж баталгаажуулах боломжийг олгоно.",
-   "body_mn": "Продюшн систем дээр ажиллаж буй хиймэл оюун ухааны агент нь системд нэвтрэх болон өөрчлөлт оруулахын тулд тодорхой зөвшөөрөл шаарддаг. Хэрэв ямар ч хяналтгүйгээр өргөн эрх оговол санамсаргүй байдлаар бусад нөөцөд нөлөөлөх эрсдэлтэй байдаг бол алхам тутамд нь зөвшөөрөл авах нь хөгжүүлэгчдэд төвөгтэй байдаг.\n\nVercel Agent энэ асуудлыг шийдэхийн тулд эхлээд асуудлыг судалж, юу хийх гэж буйгаа харуулсан төлөвлөгөөг хэрэглэгчид санал болгодог. Уг төлөвлөгөөг зөвшөөрснөөр зөвхөн тухайн ажилд шаардлагатай эрхүүд идэвхжиж, алдааг засах болон redeploy хийх үйлдлүүдийг аюулгүйгээр гүйцэтгэх боломжтой болдог байна.",
-   "published": "2026-10-23T20:29:00Z",
-   "added": "2026-10-24T09:41:08Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "cc67c5fe8a72a1a9",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5zUPDbfsi6JNUM6IRgNFRQ/d3a2f741d6d947709a347712fc2ce8ee/vercel-mcp-feedback-og.png",
-   "title": "Send feedback from the Vercel MCP",
-   "summary_en": "Vercel MCP now includes submit_feedback , a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness. Ask your agent to give feedback in plain language: Send Vercel feedback that the deployment error didn't explain which environment variable was missing. Your assistant can attach structured context that describes the task, the expected behavior, and what went wrong: The tool requires sign-in, and it sends feedback only when you ask your agent to share it. Connect your agent to Vercel MCP and read the submit_feedback…",
-   "title_mn": "Vercel MCP ашиглан санал хүсэлт илгээх боломжтой боллоо",
-   "summary_mn": "Vercel MCP хэрэгсэлд submit_feedback функц нэмэгдсэнээр хөгжүүлэгчид агентаараа дамжуулан алдааны тайлан болон шинэ боломжийн саналаа шууд илгээх боломжтой болжээ.",
-   "body_mn": "Vercel MCP (Model Context Protocol) хэрэгсэлд шинээр submit_feedback функц нэмэгдлээ. Энэ нь хөгжүүлэгчдэд өөрсдийн ашиглаж буй агент болон системээс шууд Vercel баг руу алдааны тайлан, санал хүсэлт, шинэ боломжийн хүсэлтээ илгээх боломжийг олгож байна.\n\nХөгжүүлэгчид энгийн ярианы хэлээр агентандаа хандан санал хүсэлтээ өгөх боломжтой бөгөөд систем шаардлагатай бүтцийн мэдээлэл болон контекстийг автоматаар хавсаргадаг. Энэхүү хэрэгсэл нь нэвтрэлт шаардах бөгөөд зөвхөн хэрэглэгчийн хүссэн үед л мэдээллийг дамжуулдаг байна.",
-   "published": "2026-10-23T20:53:00Z",
-   "added": "2026-10-24T09:41:08Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "400d918642962961",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-   "image": "https://github.blog/wp-content/uploads/2026/10/Issue_notification_social.jpeg",
-   "title": "Turn notifications into code with GitHub Copilot in Teams",
-   "summary_en": "The new GitHub app in Teams brings notifications and Copilot together, helping teams turn issues into fixes and ship code faster without leaving the conversation. Get notified in channels, group…",
-   "title_mn": "Microsoft Teams дахь GitHub Copilot-оор асуудлыг код болгон хувиргаарай",
-   "summary_mn": "Microsoft Teams-д зориулсан шинэ GitHub апп нь мэдэгдэл болон Copilot-ийг нэгтгэснээр багуудад чарнаас гарахгүйгээр кодыг хурдан засварлах боломжийг олгож байна.",
-   "body_mn": "Microsoft Teams орчинд ажилладаг шинэ GitHub апп нь мэдэгдлүүдийг GitHub Copilot-той хослуулан хөгжүүлэгчдийн ажлыг хөнгөвчлөхөөр болжээ. Хөгжүүлэгчид апп дотроос мэдэгдэл хүлээн авч, @mention хийснээр тухайн асуудлыг шууд шийдвэрлэх боломжтой болж байна.\n\nХуучин GitHub мэдэгдлийн апп ашиглаж буй хэрэглэгчид шинэчлэгдсэн нэгдсэн апп рүү шилжих шаардлагатай бөгөөд хуучин хувилбар нь арваннэгдүгээр сарын 16-нд хаагдах юм. Энэхүү интеграци нь багуудад харилцан ярианаас гарахгүйгээр репозиторитой холбогдож ажиллах боломжийг олгоно.",
-   "published": "2026-10-23T21:29:58Z",
-   "added": "2026-10-24T09:41:08Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2d33ef1ca08dbea8",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-cli-adds-spend-management",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/48w79bmU1b46BZolJx9kRu/dcbb67baf09aa4d2e8dad2f9c3c04431/image__53_.png",
-   "title": "Vercel CLI adds Spend Management",
-   "summary_en": "You can now view and manage your team's Spend Management budget from the Vercel CLI. Run vercel budgets and you, or the scripts and agents you run, get back your current spend and the active budget. View, set, and remove a budget This is the same On-Demand Budget shown in your team's billing settings. Setting a budget does not stop usage on its own. The --pause flag pauses production deployments of all projects when spend reaches 100%. List budget alert history You can now see your budget alert history. Run vercel budgets alerts for the full log, filtered with --since , --until , --limit…",
-   "title_mn": "Vercel CLI дээр Spend Management боломж нэмэгдлээ",
-   "summary_mn": "Vercel CLI хэрэгсэлд багийнхаа төсөв болон зарцуулалтыг хянах Spend Management боломж албан ёсоор нэмэгдлээ. Хөгжүүлэгчид терминалаас шууд vercel budgets командыг ашиглан өөрсдийн гүйлгээний мэдээлэл болон анхааруулгыг шалгах боломжтой боллоо.",
-   "body_mn": "Vercel платформын хөгжүүлэгчид CLI хэрэгсэл дээрээ Spend Management буюу зарцуулалтын удирдлагын шинэ функцийг нэмсэн байна. Ингэснээр хөгжүүлэгчид болон автоматаар ажилладаг скрипт, агентууд терминалаас vercel budgets командыг ашиглан одоогийн зарцуулалт болон идэвхтэй төсвөө шууд шалгах боломжтой боллоо.\n\nШинэ функц нь вэб интерфэйс дээр харагддаг On-Demand Budget-тэй яг ижилхэн ажиллах ба хэрэглээ 100% хүрэхэд бүх төслийн production деплойментыг автоматаар түр зогсоох --pause тугийг дэмждэг байна. Мөн vercel budgets alerts командыг ашиглан өнгөрсөн хугацааны зарцуулалтын анхааруулгын түүхийг шүүж харах боломжтой.\n\nЭнэхүү боломж нь Pro болон Enterprise багийн хэрэглэгчдэд ямар нэгэн нэмэлт төлбөргүйгээр ашиглагдах бөгөөд багийн эзэн (Owner) эсвэл санхүүгийн эрхтэй (Billing) хэрэглэгчид удирдах боломжтой юм. Дэлгэрэнгүй лавлах болон зааврыг Vercel-ийн албан ёсны CLI баримтжуулалтаас харж болно.",
-   "published": "2026-10-23T21:44:00Z",
-   "added": "2026-10-24T09:41:08Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "718f749ed7ff6f24",
-   "subtopic": "design-systems",
-   "source": "Figma Blog",
-   "source_label": "Figma Blog",
-   "url": "https://www.figma.com/blog/6-ways-teams-are-experimenting-with-code-layers/",
-   "image": "https://cdn.sanity.io/images/599r6htc/regionalized/ae1c3c193908deb3921d2061f39ffd17878e4240-10835x6095.png?w=1200&q=70&fit=max&auto=format",
-   "title": "6 ways teams are experimenting with code layers",
-   "summary_en": "Now that code layers is in open beta, you can bring code to the canvas. Here’s how six teams are using it to experiment, get stakeholders aligned, and move faster.",
-   "title_mn": "Figma code layers нээлттэй бета хувилбартаа орлоо",
-   "summary_mn": "Figma дээр code layers буюу код давхарга нээлттэй бета хувилбартаа шилжлээ. Багууд дизайн болон кодыг нэг canvas дээр холбож, интерактив прототип бүтээхэд Figma агентыг хэрхэн ашиглаж буй туршлагаасаа хуваалцав.",
-   "body_mn": "Figma платформын шинэ code layers боломж нээлттэй бета хувилбартаа албан ёсоор шилжсэнээр дизайнерууд болон хөгжүүлэгчид код дээр суурилсан интерактив прототипийг canvas дээр шууд бүтээх боломжтой боллоо. Uber, Granola, Atlassian зэрэг томоохон компаниудын багууд үүнийг ашиглан ажилдаа хэрхэн хурд нэмж байгаагаа танилцуулав.\n\nТухайлбал, хөгжүүлэгчид болон бүтээгдэхүүний менежерүүд Figma агентын тусламжтайгаар нарийн төвөгтэй HTML болон скрипт прототипийг үе шаттайгаар бүтээж байна. Нэг удаад бүх зүйлийг үүсгэхийн оронд гүйлгэх (scroll) болон товчлуурын үйлдлүүдийг нэг бүрчлэн нэмж, гарсан алдааг нэг тодорхой prompt-оор засуулах боломжтой болжээ. Энэ нь бусад багийн гишүүд болон бизнес оролцогч талуудад загварыг ойлгомжтойгоор харуулахад маш өндөр үр дүнтэй байна.\n\nМөн хувилбар бүрийг canvas дээр хажуу зэрэгцүүлэн хадгалж, хувилбарын түүх рүү шилжих шаардлагагүйгээр хувилбаруудыг шууд харьцуулах боломжийг бүрдүүлсэн юм. Энэ нь дизайн систем болон код хоорондын уялдааг сайжруулаад зогсохгүй бүтээгдэхүүн хөгжүүлэлтийн явцыг хэд дахин хурдасгаж байна.",
-   "published": "2026-10-23T22:43:00Z",
-   "added": "2026-10-24T09:41:08Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "3256932f0dfbc8a7",
    "subtopic": "kimi",
    "source": "Kimi (Google News)",
@@ -695,6 +495,146 @@
    "body_mn": "HEX нь хэрэглэгчийн яриаг шууд төхөөрөмж дээр нь боловсруулж, текст хэлбэрээр тухайн ажиллаж буй цонхонд оруулдаг local-first зарчимтай нээлттэй хэрэгсэл юм. Системийг бүхэлд нь Rust хэл дээр дахин бичиж, өндөр гүйцэтгэл болон нууцлалыг хангажээ.\n\nХэрэглэгч тусгай товчлуур дээр даран яриад тавихад төхөөрөмжид суулгасан загвар (Whisper болон Parakeet зэрэг) яриаг таньж бичвэр болгон буулгана. macOS системд зориулсан хувилбар гарсан бөгөөд Windows болон Linux үйлдлийн системүүдийн бета шатанд ашиглах боломжтой байна.\n\nТөсөл нь мөн TypeScript SDK-г хамт нийлүүлдэг тул хөгжүүлэгчид өөрсдийн төсөлд уг танилтын шийдлийг нэгтгэх боломжтой. Байгууллагын орчинд автоматаар шинэчлэгдэх тохиргоог Group Policy эсвэл тохиргооны профайлаар удирдах боломжуудыг олгосон байна.",
    "published": "2026-10-25T05:02:07Z",
    "added": "2026-10-25T05:02:07Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "24684c1ecca249c0",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/google-gemini/gemini-cli",
+   "image": "https://repository-images.githubusercontent.com/968197216/8522a757-5632-4fa4-8d01-fcc121390cb1",
+   "title": "google-gemini/gemini-cli",
+   "summary_en": "An open-source AI agent that brings the power of Gemini directly into your terminal. https://geminicli.com Note Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity CLI on June 18th, 2026. To learn more, see our blog post . Gemini CLI has not been optimized for Gemini 4 Argon. To use Gemini 4 Argon, please use Antigravity. Gemini CLI Note Gemini CLI is not optimized for the latest Gemini models. For the best coding experience with Gemini models use Antigravity CLI Gemini CLI is an open-source AI agent that brings the power of Gemini directly into your terminal. It…",
+   "title_mn": "google-gemini/gemini-cli: Терминалаас Gemini загваруудтай ажиллах нээлттэй хэрэгсэл",
+   "summary_mn": "Gemini CLI нь Google-ийн хэлний загваруудыг команд мөрнөөс шууд дуудаж, скрипт бичих болон MCP серверийг холбох боломж олгодог нээлттэй төсөл юм.",
+   "body_mn": "google-gemini/gemini-cli нь терминалын орчинд шууд Gemini загваруудтай харилцах боломжийг олгодог нээлттэй эхийн (Apache 2.0) хэрэгсэл юм. Хөгжүүлэгчид өөрсдийн терминал дахь ажлын урсгалаас гаралгүйгээр шуурхай хүсэлт явуулах, код үүсгүүлэх болон автоматжуулалт хийхэд энэхүү CLI туслах зориулалттай.\n\nТус сан нь бүтцэд оруулсан хариу авах `--output-format json` болон бодит цагийн урсгалыг хянах `--output-format stream-json` тугуудыг дэмждэг тул скрипт болон CI/CD дамжлагад холбоход хялбар юм. Мөн `~/.gemini/settings.json` тохиргооны файлын тусламжтай Model Context Protocol (MCP) серверүүдийг холбож, загварт өөрийн хүссэн тусгай хэрэгсэл, өгөгдлийн санг өгөх боломжтой.\n\nХөгжүүлэгчид өөрсдийн Gemini API түлхүүрээр нэвтрэн хялбархан ашиглаж эхлэх боломжтой. Төслийн баримт бичигт Gemini 4 Argon зэрэг сүүлийн үеийн загваруудад Antigravity CLI-ийг зөвлөж байгаа ч терминалаас шууд хөнгөн байдлаар ажиллах, MCP серверийн интеграц туршихад энэхүү төсөл маш тохиромжтой хэрэгсэл хэвээр байна.",
+   "published": "2026-10-25T09:58:42Z",
+   "added": "2026-10-25T09:58:42Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a012a4c93429343e",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/makecindy/cindy",
+   "image": "https://opengraph.githubassets.com/aebf380b8472ff51687cd163f887674ca897d80db04f593c9e4e091519e3b560/makecindy/cindy",
+   "title": "makecindy/cindy",
+   "summary_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 https://cindy.app English · 简体中文 🌐 cindy.app · ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Ready from day one, yours to shape over time. Cindy runs locally on your own machine, using your real files and logged-in apps. The first supported harnesses are Claude Code and Codex — more are being added, and a native harness is in the works. Models and harnesses…",
+   "title_mn": "makecindy/cindy: Олон загвар, хэрэгслийг нэгтгэсэн нээлттэй эхтэй хиймэл оюуны агент",
+   "summary_mn": "Cindy нь Claude Code болон Codex зэрэг платформуудыг нэгтгэн, хэрэглэгчийн компьютер дээр шууд ажилладаг нээлттэй эх бүхий AI агент юм. Даалгаврын дундуур загвар хооронд шилжих боломжтой бөгөөд Apache-2.0 лицензтэй.",
+   "body_mn": "Cindy нь хэрэглэгчийн компьютер дээр локал байдлаар ажиллаж, бодит файлууд болон холбогдсон аппуудтай харьцдаг нээлттэй эхтэй AI агент юм. Одоогоор Claude Code болон Codex платформуудыг дэмжиж байгаа бөгөөд цаашид өөрийн гэсэн үндсэн орчныг (native harness) нэмэхээр хөгжүүлж байна.\n\nЭнэхүү системийн гол онцлог нь нэг даалгаврыг гүйцэтгэх явцдаа өөр өөр модел, платформуудын хооронд шилжих чадвар юм. Ажлын санах ой, тохиргоо болон хэрэгслүүд нь хэвээр үлдэх тул төлөвлөлт, зэрэгцээ гүйцэтгэл болон кодын хяналтыг өөр өөр загвараар хийлгэх уян хатан боломжтой.\n\nУг репозитор нь pnpm monorepo бүтэцтэй, десктоп болон гар утасны аппуудыг багтаасан Apache-2.0 лицензтэй нээлттэй эх бүхий үйлчлүүлэгч (client) тал юм. Хөгжүүлэгчид өөрсдийн API түлхүүр эсвэл локал загваруудыг холбон үнэгүй ашиглах боломжтой.",
+   "published": "2026-10-25T09:58:42Z",
+   "added": "2026-10-25T09:58:42Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "05b853ba300b6a89",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/louislam/uptime-kuma",
+   "image": "https://repository-images.githubusercontent.com/382496361/f21b61f5-693a-4925-9f1f-fea237ade223",
+   "title": "louislam/uptime-kuma",
+   "summary_en": "A fancy self-hosted monitoring tool https://uptime.kuma.pet Uptime Kuma Uptime Kuma is an easy-to-use self-hosted monitoring tool. 🥔 Live Demo Try it! Demo Server (Location: Frankfurt - Germany): https://demo.kuma.pet/start-demo It is a temporary live demo, all data will be deleted after 10 minutes. Sponsored by Uptime Kuma Sponsors . ⭐ Features Monitoring uptime for HTTP(s) / TCP / HTTP(s) Keyword / HTTP(s) Json Query / Websocket / Ping / DNS Record / Push / Steam Game Server / Docker Containers Fancy, Reactive, Fast UI/UX Notifications via Telegram, Discord, Gotify, Slack, Pushover, Email…",
+   "title_mn": "louislam/uptime-kuma: Өөрийн сервер дээр байршуулах боломжтой хяналтын систем",
+   "summary_mn": "Uptime Kuma нь вэб сайт, серверүүдийн найдвартай ажиллагааг (uptime) хянах зориулалттай, суурилуулахад хялбар нээлттэй эхтэй хэрэгсэл юм. Uptime Robot-той төстэй бөгөөд Docker болон Node.js орчинд шууд ажиллана.",
+   "body_mn": "Uptime Kuma нь хэрэглэгчийн хувийн сервер дээр бүрэн ажиллах боломжтой, нээлттэй эх бүхий серверийн мониторингийн систем юм. Энэ нь ашиглахад төвөгтэй бусад том шийдлүүдийг бодвол маш хялбар, ойлгомжтой интерфэйстэйгээрээ онцлогтой.\n\nУг хэрэгсэл нь HTTP(s), TCP, Ping, DNS зэрэг олон төрлийн протоколыг шалгах боломж олгодог бөгөөд серверийн уналт саатлын үед олон төрлийн сувгаар (Telegram, Discord, имэйл гэх мэт) мэдэгдэл илгээдэг. Систем нь ямар нэг гуравдагч үүлэн үйлчилгээнээс хамааралгүйгээр локал порт дээр шууд ажиллана.\n\nХөгжүүлэгчид болон системийн админууд Uptime Kuma-г Docker ашиглан ганц коммандаар хялбархан асааж, өөрийн үйлчилгээнүүдийн хүртээмжийг бодит цаг хугацаанд хянах боломжтой.",
+   "published": "2026-10-25T09:58:42Z",
+   "added": "2026-10-25T09:58:42Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e46cce35e10205c2",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/OpenWhispr/openwhispr",
+   "image": "https://repository-images.githubusercontent.com/1004647857/4bc04d99-18c9-4667-b11f-9cd497d2bc63",
+   "title": "OpenWhispr/openwhispr",
+   "summary_en": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. https://openwhispr.com OpenWhispr The open-source and free alternative to WisprFlow and Granola. Privacy-first voice-to-text dictation with AI agents, meeting transcription, and notes. Cross-platform for macOS, Windows, and Linux. Website · Docs · Download · API · Changelog OpenWhispr turns your voice into text, notes, and actions from your desktop. Press a hotkey, speak, and your words appear at your cursor. Choose between fully private offline transcription…",
+   "title_mn": "OpenWhispr/openwhispr: Дууг текст болгох нууцлал өндөртэй нээлттэй платформ",
+   "summary_mn": "OpenWhispr нь WisprFlow болон Granola-ийн нээлттэй хувилбар бөгөөд дуу хоолойг локал моделоор дамжуулан бичвэр болгодог кросс-платформ апп юм. React 19, TypeScript, Electron 41 болон whisper.cpp ашиглан бүтээгджээ.",
+   "body_mn": "OpenWhispr нь компьютерын дэлгэц дээр дурын товчлуур даран ярих замаар дуу хоолойг бодит цагт текст, тэмдэглэл болгон хөрвүүлдэг нээлттэй эх бүхий программ юм. Энэ нь хувийн нууцлалыг чандлан хамгаалж, аудио бичлэгийг гадагш дамжуулалгүйгээр хэрэглэгчийн төхөөрөмж дээр бүрэн боловсруулдаг.\n\nСистем нь Whisper, NVIDIA Parakeet зэрэг локал загваруудаас гадна хурд чухал тохиолдолд үүлэн холболтоор ажиллах боломжийг санал болгодог. Уулзалтын тэмдэглэл хөтлөх, яриаг сийрүүлэх зэрэгт телеметр болон нууц мэдээлэл цуглуулах ямар ч кодоо агуулаагүйгээрээ давуу талтай.\n\nТөслийн технологийн стек нь React 19, TypeScript, Tailwind CSS v4, Electron 41, whisper.cpp болон shadcn/ui дээр суурилсан. Хөгжүүлэгчид Node.js 24+ орчинд эх кодыг татан ажиллуулах эсвэл Homebrew-ээр шууд суулган турших боломжтой бөгөөд гар утасны хувилбарыг Expo дээр тусад нь хөгжүүлж байна.",
+   "published": "2026-10-25T09:58:42Z",
+   "added": "2026-10-25T09:58:42Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e55244f18ef5829b",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/pollen-robotics/microduck_rl",
+   "image": "https://opengraph.githubassets.com/ecadf9228961ef1cc4a2ab466c912bf536bd9f2f984178508eb05f7256fb7d9a/pollen-robotics/microduck_rl",
+   "title": "pollen-robotics/microduck_rl",
+   "summary_en": "RL training environments for Microduck (mjlab) https://pollen-robotics.com/microduck Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime in pollen-robotics/microduck . https://github.com/user-attachments/assets/50c3d537-8db2-4005-9d9c-3472faeec4d0 The repo encodes the full sim2real recipe: BAM actuator physics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md…",
+   "title_mn": "pollen-robotics/microduck_rl: Microduck хоёр хөлт роботод зориулсан сургалтын орчин",
+   "summary_mn": "Pollen Robotics-ийн 800 грамм жинтэй Microduck роботын PPO алгоритмтай бэхжүүлэлтийн сургалтын орчин нээлттэй гарлаа. MuJoCo Warp дээр ажиллаж, загваруудаа шууд ONNX хэлбэрээр экспортолдог.",
+   "body_mn": "Pollen Robotics компани Microduck нэртэй жижиг хэмжээтэй (800 грамм, 25 см өндөр) хоёр хөлт роботод зориулсан бэхжүүлэлтийн сургалтын (RL) нээлттэй эх бүхий орчныг танилцууллаа. Систем нь MuJoCo Warp болон mjlab санг ашиглан PPO (Proximal Policy Optimization) алгоритмаар 50 Гц давтамжтай бодлогуудыг сургадаг.\n\nТөслийн гол онцлог нь симуляцаас бодит байдалд шилжүүлэх (sim2real) нарийн тооцоолол юм. Энэ нь серво моторын хүчдэл, үрэлт, арааны сааралт (backlash)-ийг физикийн түвшинд бодитоор загварчлан сургадаг тул сургасан бодлогууд жинхэнэ робот дээр шууд алхах, тэнцвэрээ олох, суух босох үйлдлийг саадгүй хийж чаддаг.\n\nСургасан бодлогуудыг ONNX формат руу хөрвүүлж, Hugging Face Hub-д байршуулах эсвэл роботын үйлдлийн систем дээр шууд залгаж ашиглах боломжтой. Хөгжүүлэгчид CUDA дэмжлэгтэй график карт болон Python uv менежер ашиглан сургалтыг локал болон Hugging Face Jobs дээр ажиллуулах бүрэн заавартай.",
+   "published": "2026-10-25T09:58:42Z",
+   "added": "2026-10-25T09:58:42Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "48dbbdd8fd0d3029",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/agentskills/agentskills",
+   "image": "https://opengraph.githubassets.com/55135b965d8b5c205c32204d7a93db92d274a3e848f90a9c1171016033cff2df/agentskills/agentskills",
+   "title": "agentskills/agentskills",
+   "summary_en": "Specification and documentation for Agent Skills https://agentskills.io Agent Skills A standardized way to give AI agents new capabilities and expertise. What are Agent Skills? Agent Skills are a lightweight, open format for extending AI agent capabilities with specialized knowledge and workflows. At its core, a skill is a folder containing a SKILL.md file. This file includes metadata ( name and description , at minimum) and instructions that tell an agent how to perform a specific task. Skills can also bundle scripts, reference materials, templates, and other resources. my-skill/ ├──…",
+   "title_mn": "agentskills/agentskills: AI агентуудад шинэ ур чадвар олгох нээлттэй стандарт",
+   "summary_mn": "Anthropic-ийн эхлүүлсэн Agent Skills нээлттэй форматын стандарт болон техникийн баримт бичиг гарлаа. Энэ нь агент бүтээгчдэд SKILL.md файлаар дамжуулан нарийн мэдлэг, кодыг хэрэгцээтэй үед нь дуудах боломж олгодог.",
+   "body_mn": "Agent Skills нь хиймэл оюуны агентуудад төрөл бүрийн тусгай чадвар, ажлын урсгалыг зааж өгөхөд зориулагдсан хөнгөн бөгөөд нээлттэй стандарт юм. Үндсэн бүтэц нь тухайн ур чадварын нэр, заавар, скриптүүдийг агуулсан SKILL.md бүхий хавтас байдлаар зохион байгуулагддаг.\n\nУг стандартын гол давуу тал нь прогрессив танилцуулга (progressive disclosure) зарчим юм. Энэ нь эхэндээ зөвхөн тайлбарыг ачаалж, агент уг чадварыг ашиглах шаардлагатай болсон үед л бүрэн заавар болон кодуудыг санах ойд оруулдаг тул контекстийн цонхыг (context window) хэмнэж, агентыг илүү үр дүнтэй ажиллахад тусалдаг.\n\nАнх Anthropic-оос боловсруулсан энэхүү форматыг Apache 2.0 болон CC-BY-4.0 лицензээр нийтийн хүртээл болгосон бөгөөд олон төрлийн агент хэрэгслүүд дэмжиж ажиллаж байна. Хөгжүүлэгчид өөрсдийн агентад зориулсан ур чадварыг хувилбарын удирдлагатайгаар системтэйгээр бэлтгэх боломж бүрдлээ.",
+   "published": "2026-10-25T09:58:42Z",
+   "added": "2026-10-25T09:58:42Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bcd431aebc6bbefd",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/CapSoftware/Cap",
+   "image": "https://opengraph.githubassets.com/a244ac4379a81798a87b51d4de0029cb0a040ccf76576e1d20539163819fe409/CapSoftware/Cap",
+   "title": "CapSoftware/Cap",
+   "summary_en": "Open source Loom alternative. Beautiful, shareable screen recordings. https://cap.so Cap Beautiful, shareable screen recordings. Open source, fast, and built for teams that want to own their data. Website | Download | Docs | Pricing | Discord Cap is the open source alternative to Loom. It gives you fast screen recording, polished local editing, instant share links, comments, transcripts, analytics, team workspaces, custom domains, custom S3 storage, and full self-hosting when you need complete control. Use Cap for product demos, bug reports, onboarding, tutorials, design reviews, engineering…",
+   "title_mn": "CapSoftware/Cap: Дэлгэцийн бичлэг хийх нээлттэй эхтэй шийдэл",
+   "summary_mn": "Cap нь Loom үйлчилгээний нээлттэй эх бүхий хувилбар бөгөөд дэлгэц бичих, засах, шууд хуваалцах боломжийг олгодог. Rust болон Tauri дээр суурилсан бөгөөд өөрийн сервер дээр Docker ашиглан хялбар суулгах боломжтой.",
+   "body_mn": "Cap нь хөгжүүлэгчид болон багуудад зориулагдсан, Loom үйлчилгээг орлох нээлттэй эхтэй дэлгэцийн бичлэгийн платформ юм. Дэлгэцийн бичлэг хийх, локал түвшинд засварлах, шуурхай холбоосоор хуваалцах, коммент үлдээх зэрэг багийн хамтын ажиллагааны бүхий л боломжуудыг өөртөө агуулжээ.\n\nТөслийн чухал давуу тал нь хэрэглэгчид өөрсдийн дата болон бичлэгүүдийг бүрэн хянах боломжийг олгодогт оршино. Docker Compose ашиглан өөрийн хувийн сервер эсвэл S3 дэд бүтэц дээр хэдхэн минутын дотор байршуулах бүрэн боломжтой бөгөөд байгууллагын түвшний нууцлалыг хангадаг.\n\nТехнологийн хувьд Cap нь Turborepo монорепо бүтэцтэй, Rust, Tauri, TypeScript, Next.js, SolidStart болон Tailwind CSS-ийг хослуулан бүтээгдсэн. Дэлгэцийн дүрс бичих, кодчилох (rendering) зэрэг хүнд процессуудыг Rust дээр хэрэгжүүлсэн нь системийн өндөр хурд, найдвартай ажиллагааг баталгаажуулж байна.",
+   "published": "2026-10-25T09:58:42Z",
+   "added": "2026-10-25T09:58:42Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }

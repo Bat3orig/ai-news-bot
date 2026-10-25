@@ -1,0 +1,17 @@
+{
+ "id": "05b853ba300b6a89",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/louislam/uptime-kuma",
+ "image": "https://repository-images.githubusercontent.com/382496361/f21b61f5-693a-4925-9f1f-fea237ade223",
+ "title": "louislam/uptime-kuma",
+ "summary_en": "A fancy self-hosted monitoring tool https://uptime.kuma.pet Uptime Kuma Uptime Kuma is an easy-to-use self-hosted monitoring tool. 🥔 Live Demo Try it! Demo Server (Location: Frankfurt - Germany): https://demo.kuma.pet/start-demo It is a temporary live demo, all data will be deleted after 10 minutes. Sponsored by Uptime Kuma Sponsors . ⭐ Features Monitoring uptime for HTTP(s) / TCP / HTTP(s) Keyword / HTTP(s) Json Query / Websocket / Ping / DNS Record / Push / Steam Game Server / Docker Containers Fancy, Reactive, Fast UI/UX Notifications via Telegram, Discord, Gotify, Slack, Pushover, Email…",
+ "title_mn": "louislam/uptime-kuma: Өөрийн сервер дээр байршуулах боломжтой хяналтын систем",
+ "summary_mn": "Uptime Kuma нь вэб сайт, серверүүдийн найдвартай ажиллагааг (uptime) хянах зориулалттай, суурилуулахад хялбар нээлттэй эхтэй хэрэгсэл юм. Uptime Robot-той төстэй бөгөөд Docker болон Node.js орчинд шууд ажиллана.",
+ "body_mn": "Uptime Kuma нь хэрэглэгчийн хувийн сервер дээр бүрэн ажиллах боломжтой, нээлттэй эх бүхий серверийн мониторингийн систем юм. Энэ нь ашиглахад төвөгтэй бусад том шийдлүүдийг бодвол маш хялбар, ойлгомжтой интерфэйстэйгээрээ онцлогтой.\n\nУг хэрэгсэл нь HTTP(s), TCP, Ping, DNS зэрэг олон төрлийн протоколыг шалгах боломж олгодог бөгөөд серверийн уналт саатлын үед олон төрлийн сувгаар (Telegram, Discord, имэйл гэх мэт) мэдэгдэл илгээдэг. Систем нь ямар нэг гуравдагч үүлэн үйлчилгээнээс хамааралгүйгээр локал порт дээр шууд ажиллана.\n\nХөгжүүлэгчид болон системийн админууд Uptime Kuma-г Docker ашиглан ганц коммандаар хялбархан асааж, өөрийн үйлчилгээнүүдийн хүртээмжийг бодит цаг хугацаанд хянах боломжтой.",
+ "published": "2026-10-25T09:58:42Z",
+ "added": "2026-10-25T09:58:42Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

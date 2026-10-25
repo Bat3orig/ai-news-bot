@@ -1,0 +1,17 @@
+{
+ "id": "48dbbdd8fd0d3029",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/agentskills/agentskills",
+ "image": "https://opengraph.githubassets.com/55135b965d8b5c205c32204d7a93db92d274a3e848f90a9c1171016033cff2df/agentskills/agentskills",
+ "title": "agentskills/agentskills",
+ "summary_en": "Specification and documentation for Agent Skills https://agentskills.io Agent Skills A standardized way to give AI agents new capabilities and expertise. What are Agent Skills? Agent Skills are a lightweight, open format for extending AI agent capabilities with specialized knowledge and workflows. At its core, a skill is a folder containing a SKILL.md file. This file includes metadata ( name and description , at minimum) and instructions that tell an agent how to perform a specific task. Skills can also bundle scripts, reference materials, templates, and other resources. my-skill/ ├──…",
+ "title_mn": "agentskills/agentskills: AI агентуудад шинэ ур чадвар олгох нээлттэй стандарт",
+ "summary_mn": "Anthropic-ийн эхлүүлсэн Agent Skills нээлттэй форматын стандарт болон техникийн баримт бичиг гарлаа. Энэ нь агент бүтээгчдэд SKILL.md файлаар дамжуулан нарийн мэдлэг, кодыг хэрэгцээтэй үед нь дуудах боломж олгодог.",
+ "body_mn": "Agent Skills нь хиймэл оюуны агентуудад төрөл бүрийн тусгай чадвар, ажлын урсгалыг зааж өгөхөд зориулагдсан хөнгөн бөгөөд нээлттэй стандарт юм. Үндсэн бүтэц нь тухайн ур чадварын нэр, заавар, скриптүүдийг агуулсан SKILL.md бүхий хавтас байдлаар зохион байгуулагддаг.\n\nУг стандартын гол давуу тал нь прогрессив танилцуулга (progressive disclosure) зарчим юм. Энэ нь эхэндээ зөвхөн тайлбарыг ачаалж, агент уг чадварыг ашиглах шаардлагатай болсон үед л бүрэн заавар болон кодуудыг санах ойд оруулдаг тул контекстийн цонхыг (context window) хэмнэж, агентыг илүү үр дүнтэй ажиллахад тусалдаг.\n\nАнх Anthropic-оос боловсруулсан энэхүү форматыг Apache 2.0 болон CC-BY-4.0 лицензээр нийтийн хүртээл болгосон бөгөөд олон төрлийн агент хэрэгслүүд дэмжиж ажиллаж байна. Хөгжүүлэгчид өөрсдийн агентад зориулсан ур чадварыг хувилбарын удирдлагатайгаар системтэйгээр бэлтгэх боломж бүрдлээ.",
+ "published": "2026-10-25T09:58:42Z",
+ "added": "2026-10-25T09:58:42Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

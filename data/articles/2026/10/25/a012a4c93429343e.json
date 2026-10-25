@@ -1,0 +1,17 @@
+{
+ "id": "a012a4c93429343e",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/makecindy/cindy",
+ "image": "https://opengraph.githubassets.com/aebf380b8472ff51687cd163f887674ca897d80db04f593c9e4e091519e3b560/makecindy/cindy",
+ "title": "makecindy/cindy",
+ "summary_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 https://cindy.app English · 简体中文 🌐 cindy.app · ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Ready from day one, yours to shape over time. Cindy runs locally on your own machine, using your real files and logged-in apps. The first supported harnesses are Claude Code and Codex — more are being added, and a native harness is in the works. Models and harnesses…",
+ "title_mn": "makecindy/cindy: Олон загвар, хэрэгслийг нэгтгэсэн нээлттэй эхтэй хиймэл оюуны агент",
+ "summary_mn": "Cindy нь Claude Code болон Codex зэрэг платформуудыг нэгтгэн, хэрэглэгчийн компьютер дээр шууд ажилладаг нээлттэй эх бүхий AI агент юм. Даалгаврын дундуур загвар хооронд шилжих боломжтой бөгөөд Apache-2.0 лицензтэй.",
+ "body_mn": "Cindy нь хэрэглэгчийн компьютер дээр локал байдлаар ажиллаж, бодит файлууд болон холбогдсон аппуудтай харьцдаг нээлттэй эхтэй AI агент юм. Одоогоор Claude Code болон Codex платформуудыг дэмжиж байгаа бөгөөд цаашид өөрийн гэсэн үндсэн орчныг (native harness) нэмэхээр хөгжүүлж байна.\n\nЭнэхүү системийн гол онцлог нь нэг даалгаврыг гүйцэтгэх явцдаа өөр өөр модел, платформуудын хооронд шилжих чадвар юм. Ажлын санах ой, тохиргоо болон хэрэгслүүд нь хэвээр үлдэх тул төлөвлөлт, зэрэгцээ гүйцэтгэл болон кодын хяналтыг өөр өөр загвараар хийлгэх уян хатан боломжтой.\n\nУг репозитор нь pnpm monorepo бүтэцтэй, десктоп болон гар утасны аппуудыг багтаасан Apache-2.0 лицензтэй нээлттэй эх бүхий үйлчлүүлэгч (client) тал юм. Хөгжүүлэгчид өөрсдийн API түлхүүр эсвэл локал загваруудыг холбон үнэгүй ашиглах боломжтой.",
+ "published": "2026-10-25T09:58:42Z",
+ "added": "2026-10-25T09:58:42Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "bcd431aebc6bbefd",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/CapSoftware/Cap",
+ "image": "https://opengraph.githubassets.com/a244ac4379a81798a87b51d4de0029cb0a040ccf76576e1d20539163819fe409/CapSoftware/Cap",
+ "title": "CapSoftware/Cap",
+ "summary_en": "Open source Loom alternative. Beautiful, shareable screen recordings. https://cap.so Cap Beautiful, shareable screen recordings. Open source, fast, and built for teams that want to own their data. Website | Download | Docs | Pricing | Discord Cap is the open source alternative to Loom. It gives you fast screen recording, polished local editing, instant share links, comments, transcripts, analytics, team workspaces, custom domains, custom S3 storage, and full self-hosting when you need complete control. Use Cap for product demos, bug reports, onboarding, tutorials, design reviews, engineering…",
+ "title_mn": "CapSoftware/Cap: Дэлгэцийн бичлэг хийх нээлттэй эхтэй шийдэл",
+ "summary_mn": "Cap нь Loom үйлчилгээний нээлттэй эх бүхий хувилбар бөгөөд дэлгэц бичих, засах, шууд хуваалцах боломжийг олгодог. Rust болон Tauri дээр суурилсан бөгөөд өөрийн сервер дээр Docker ашиглан хялбар суулгах боломжтой.",
+ "body_mn": "Cap нь хөгжүүлэгчид болон багуудад зориулагдсан, Loom үйлчилгээг орлох нээлттэй эхтэй дэлгэцийн бичлэгийн платформ юм. Дэлгэцийн бичлэг хийх, локал түвшинд засварлах, шуурхай холбоосоор хуваалцах, коммент үлдээх зэрэг багийн хамтын ажиллагааны бүхий л боломжуудыг өөртөө агуулжээ.\n\nТөслийн чухал давуу тал нь хэрэглэгчид өөрсдийн дата болон бичлэгүүдийг бүрэн хянах боломжийг олгодогт оршино. Docker Compose ашиглан өөрийн хувийн сервер эсвэл S3 дэд бүтэц дээр хэдхэн минутын дотор байршуулах бүрэн боломжтой бөгөөд байгууллагын түвшний нууцлалыг хангадаг.\n\nТехнологийн хувьд Cap нь Turborepo монорепо бүтэцтэй, Rust, Tauri, TypeScript, Next.js, SolidStart болон Tailwind CSS-ийг хослуулан бүтээгдсэн. Дэлгэцийн дүрс бичих, кодчилох (rendering) зэрэг хүнд процессуудыг Rust дээр хэрэгжүүлсэн нь системийн өндөр хурд, найдвартай ажиллагааг баталгаажуулж байна.",
+ "published": "2026-10-25T09:58:42Z",
+ "added": "2026-10-25T09:58:42Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

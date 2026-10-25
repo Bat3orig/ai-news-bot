@@ -1,0 +1,17 @@
+{
+ "id": "24684c1ecca249c0",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/google-gemini/gemini-cli",
+ "image": "https://repository-images.githubusercontent.com/968197216/8522a757-5632-4fa4-8d01-fcc121390cb1",
+ "title": "google-gemini/gemini-cli",
+ "summary_en": "An open-source AI agent that brings the power of Gemini directly into your terminal. https://geminicli.com Note Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity CLI on June 18th, 2026. To learn more, see our blog post . Gemini CLI has not been optimized for Gemini 4 Argon. To use Gemini 4 Argon, please use Antigravity. Gemini CLI Note Gemini CLI is not optimized for the latest Gemini models. For the best coding experience with Gemini models use Antigravity CLI Gemini CLI is an open-source AI agent that brings the power of Gemini directly into your terminal. It…",
+ "title_mn": "google-gemini/gemini-cli: Терминалаас Gemini загваруудтай ажиллах нээлттэй хэрэгсэл",
+ "summary_mn": "Gemini CLI нь Google-ийн хэлний загваруудыг команд мөрнөөс шууд дуудаж, скрипт бичих болон MCP серверийг холбох боломж олгодог нээлттэй төсөл юм.",
+ "body_mn": "google-gemini/gemini-cli нь терминалын орчинд шууд Gemini загваруудтай харилцах боломжийг олгодог нээлттэй эхийн (Apache 2.0) хэрэгсэл юм. Хөгжүүлэгчид өөрсдийн терминал дахь ажлын урсгалаас гаралгүйгээр шуурхай хүсэлт явуулах, код үүсгүүлэх болон автоматжуулалт хийхэд энэхүү CLI туслах зориулалттай.\n\nТус сан нь бүтцэд оруулсан хариу авах `--output-format json` болон бодит цагийн урсгалыг хянах `--output-format stream-json` тугуудыг дэмждэг тул скрипт болон CI/CD дамжлагад холбоход хялбар юм. Мөн `~/.gemini/settings.json` тохиргооны файлын тусламжтай Model Context Protocol (MCP) серверүүдийг холбож, загварт өөрийн хүссэн тусгай хэрэгсэл, өгөгдлийн санг өгөх боломжтой.\n\nХөгжүүлэгчид өөрсдийн Gemini API түлхүүрээр нэвтрэн хялбархан ашиглаж эхлэх боломжтой. Төслийн баримт бичигт Gemini 4 Argon зэрэг сүүлийн үеийн загваруудад Antigravity CLI-ийг зөвлөж байгаа ч терминалаас шууд хөнгөн байдлаар ажиллах, MCP серверийн интеграц туршихад энэхүү төсөл маш тохиромжтой хэрэгсэл хэвээр байна.",
+ "published": "2026-10-25T09:58:42Z",
+ "added": "2026-10-25T09:58:42Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "e55244f18ef5829b",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/pollen-robotics/microduck_rl",
+ "image": "https://opengraph.githubassets.com/ecadf9228961ef1cc4a2ab466c912bf536bd9f2f984178508eb05f7256fb7d9a/pollen-robotics/microduck_rl",
+ "title": "pollen-robotics/microduck_rl",
+ "summary_en": "RL training environments for Microduck (mjlab) https://pollen-robotics.com/microduck Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime in pollen-robotics/microduck . https://github.com/user-attachments/assets/50c3d537-8db2-4005-9d9c-3472faeec4d0 The repo encodes the full sim2real recipe: BAM actuator physics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md…",
+ "title_mn": "pollen-robotics/microduck_rl: Microduck хоёр хөлт роботод зориулсан сургалтын орчин",
+ "summary_mn": "Pollen Robotics-ийн 800 грамм жинтэй Microduck роботын PPO алгоритмтай бэхжүүлэлтийн сургалтын орчин нээлттэй гарлаа. MuJoCo Warp дээр ажиллаж, загваруудаа шууд ONNX хэлбэрээр экспортолдог.",
+ "body_mn": "Pollen Robotics компани Microduck нэртэй жижиг хэмжээтэй (800 грамм, 25 см өндөр) хоёр хөлт роботод зориулсан бэхжүүлэлтийн сургалтын (RL) нээлттэй эх бүхий орчныг танилцууллаа. Систем нь MuJoCo Warp болон mjlab санг ашиглан PPO (Proximal Policy Optimization) алгоритмаар 50 Гц давтамжтай бодлогуудыг сургадаг.\n\nТөслийн гол онцлог нь симуляцаас бодит байдалд шилжүүлэх (sim2real) нарийн тооцоолол юм. Энэ нь серво моторын хүчдэл, үрэлт, арааны сааралт (backlash)-ийг физикийн түвшинд бодитоор загварчлан сургадаг тул сургасан бодлогууд жинхэнэ робот дээр шууд алхах, тэнцвэрээ олох, суух босох үйлдлийг саадгүй хийж чаддаг.\n\nСургасан бодлогуудыг ONNX формат руу хөрвүүлж, Hugging Face Hub-д байршуулах эсвэл роботын үйлдлийн систем дээр шууд залгаж ашиглах боломжтой. Хөгжүүлэгчид CUDA дэмжлэгтэй график карт болон Python uv менежер ашиглан сургалтыг локал болон Hugging Face Jobs дээр ажиллуулах бүрэн заавартай.",
+ "published": "2026-10-25T09:58:42Z",
+ "added": "2026-10-25T09:58:42Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

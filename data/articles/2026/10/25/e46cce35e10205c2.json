@@ -1,0 +1,17 @@
+{
+ "id": "e46cce35e10205c2",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/OpenWhispr/openwhispr",
+ "image": "https://repository-images.githubusercontent.com/1004647857/4bc04d99-18c9-4667-b11f-9cd497d2bc63",
+ "title": "OpenWhispr/openwhispr",
+ "summary_en": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. https://openwhispr.com OpenWhispr The open-source and free alternative to WisprFlow and Granola. Privacy-first voice-to-text dictation with AI agents, meeting transcription, and notes. Cross-platform for macOS, Windows, and Linux. Website · Docs · Download · API · Changelog OpenWhispr turns your voice into text, notes, and actions from your desktop. Press a hotkey, speak, and your words appear at your cursor. Choose between fully private offline transcription…",
+ "title_mn": "OpenWhispr/openwhispr: Дууг текст болгох нууцлал өндөртэй нээлттэй платформ",
+ "summary_mn": "OpenWhispr нь WisprFlow болон Granola-ийн нээлттэй хувилбар бөгөөд дуу хоолойг локал моделоор дамжуулан бичвэр болгодог кросс-платформ апп юм. React 19, TypeScript, Electron 41 болон whisper.cpp ашиглан бүтээгджээ.",
+ "body_mn": "OpenWhispr нь компьютерын дэлгэц дээр дурын товчлуур даран ярих замаар дуу хоолойг бодит цагт текст, тэмдэглэл болгон хөрвүүлдэг нээлттэй эх бүхий программ юм. Энэ нь хувийн нууцлалыг чандлан хамгаалж, аудио бичлэгийг гадагш дамжуулалгүйгээр хэрэглэгчийн төхөөрөмж дээр бүрэн боловсруулдаг.\n\nСистем нь Whisper, NVIDIA Parakeet зэрэг локал загваруудаас гадна хурд чухал тохиолдолд үүлэн холболтоор ажиллах боломжийг санал болгодог. Уулзалтын тэмдэглэл хөтлөх, яриаг сийрүүлэх зэрэгт телеметр болон нууц мэдээлэл цуглуулах ямар ч кодоо агуулаагүйгээрээ давуу талтай.\n\nТөслийн технологийн стек нь React 19, TypeScript, Tailwind CSS v4, Electron 41, whisper.cpp болон shadcn/ui дээр суурилсан. Хөгжүүлэгчид Node.js 24+ орчинд эх кодыг татан ажиллуулах эсвэл Homebrew-ээр шууд суулган турших боломжтой бөгөөд гар утасны хувилбарыг Expo дээр тусад нь хөгжүүлж байна.",
+ "published": "2026-10-25T09:58:42Z",
+ "added": "2026-10-25T09:58:42Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
