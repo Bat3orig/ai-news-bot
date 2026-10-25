@@ -1,0 +1,17 @@
+{
+ "id": "bf1d6b099489b991",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/stalwartlabs/stalwart",
+ "image": "https://opengraph.githubassets.com/f4fbea45c3380d7ea77389ef83f9f1a32b223ab3eb08afb45d9691cbbbd36f50/stalwartlabs/stalwart",
+ "title": "stalwartlabs/stalwart",
+ "summary_en": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). https://stalw.art Secure, scalable mail & collaboration server with comprehensive protocol support 🛡️ (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV) Features Stalwart is an open-source mail & collaboration server with JMAP, IMAP4, POP3, SMTP, CalDAV, CardDAV and WebDAV support and a wide range of modern features. It is written in Rust and designed to be secure, fast, robust and scalable. Key features: Email server with complete protocol support: JMAP: JMAP for Mail…",
+ "title_mn": "Stalwart: Rust хэл дээр бүтээгдсэн бүрэн боломжит, орчин үеийн майл сервер",
+ "summary_mn": "Stalwart нь JMAP, IMAP4, SMTP болон CalDAV протоколуудыг дэмждэг Rust дээр бичигдсэн нээлттэй эхийн майл сервер юм. Төслийн үндсэн боломжууд бүрэн бэлэн болж, 1.0 хувилбарын бэлтгэл үе шатандаа оржээ.",
+ "body_mn": "Stalwart нь аюулгүй байдал, өндөр хурд болон найдвартай ажиллагааг эрхэмлэсэн, Rust дээр бичигдсэн шуудангийн болон хамтын ажиллагааны нээлттэй сервер юм. Энэ нь JMAP, IMAP4, POP3, SMTP, CalDAV, CardDAV зэрэг орчин үеийн бүхий л стандарт протоколыг бүрэн дэмждэг.\n\nТөслийн хөгжүүлэлтийн баг Stalwart-ийг үйлдэл-бүрэн (feature complete) шатанд хүрснийг мэдэгдлээ. Цаашид мэдээллийн баазын схемийг эцэслэн цэгцлэх, гүйцэтгэлийг оновчлох чиглэлд төвлөрч, улмаар албан ёсны 1.0 хувилбарыг гаргахаар төлөвлөж байна.\n\nУг сервер нь AGPL-3.0 болон Stalwart Enterprise License гэсэн хосолсон лицензтэйгээр нийлүүлэгддэг. Системийн админууд болон дэд бүтцийн хөгжүүлэгчид stalw.art/docs зааврын дагуу өөрсдийн сервер дээр суурилуулан ашиглах бүрэн боломжтой.",
+ "published": "2026-10-25T05:02:07Z",
+ "added": "2026-10-25T05:02:07Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

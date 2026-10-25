@@ -1,0 +1,17 @@
+{
+ "id": "f9f25a22ad4d5719",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/mailcow/mailcow-dockerized",
+ "image": "https://opengraph.githubassets.com/3386ecb2c35030127949062e343e89571d9336c0858f67cada842b9054945790/mailcow/mailcow-dockerized",
+ "title": "mailcow/mailcow-dockerized",
+ "summary_en": "mailcow: dockerized - 🐮 + 🐋 = 💕 https://mailcow.email mailcow: dockerized - 🐮 + 🐋 = 💕 Want to support mailcow? Please consider a support contract with Servercow to support further development. We support you while you support us . 😃 You can also get a SAL which is a one-time payment with no liabilities or returning fees. Or just spread the word: moo. Many thanks to our GitHub Sponsors ❤️ A big thank you to everyone supporting us on GitHub Sponsors—your contributions mean the world to us! Special thanks to the following amazing supporters: 100$/Month Sponsors 50$/Month Sponsors Info…",
+ "title_mn": "mailcow/mailcow-dockerized: Docker дээр ажиллах нээлттэй имэйлийн цогц сервер",
+ "summary_mn": "Docker савлагаа ашиглан хувийн мэйл серверийг хялбар тохируулах боломж олгодог, spamfilter болон вэбмэйл багтсан нээлттэй эхийн шийдэл тренд болж байна.",
+ "body_mn": "mailcow-dockerized нь бүрэн хэмжээний имэйл серверийн дэд бүтцийг Docker контейнерууд ашиглан маш хялбар аргаар өөрийн сервер дээр (self-hosted) байрлуулах боломжийг олгодог нээлттэй эхийн төсөл юм. Уг төслийг The Infrastructure Company компани удирдан хөгжүүлдэг бөгөөд GPL-3.0 лицензтэй.\n\nЭнэхүү шийдэл нь Postfix, Dovecot, SOGo (вэбмэйл болон хуанли), Rspamd (спам шүүлтүүр), ClamAV (вирусийн эсрэг) зэрэг өндөр найдвартай технологиудыг урьдчилан бэлтгэж нэгтгэсэн байдаг. Бүх үйлчилгээ хоорондоо тусгаарлагдсан Docker контейнеруудад ажилладаг тул тохиргоо хийх, шинэчлэх, нөөц хуулбар хийх ажиллагаа маш энгийн болдог.\n\nГуравдагч байгууллагуудаас хараат бус байж, өөрийн байгууллагын имэйлийн нууцлал, хяналтыг гартаа байлгахыг хүссэн DevOps инженерүүд болон системийн админуудад уг шийдэл онцгой ач холбогдолтой юм. Суулгахын тулд серверийн албан ёсны баримт бичгийг ашиглан docker-compose тушаалаар хэдхэн минутад асаах боломжтой.",
+ "published": "2026-10-25T05:02:07Z",
+ "added": "2026-10-25T05:02:07Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

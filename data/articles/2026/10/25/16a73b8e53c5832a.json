@@ -1,0 +1,17 @@
+{
+ "id": "16a73b8e53c5832a",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/virgiliojr94/book-to-skill",
+ "image": "https://opengraph.githubassets.com/61275fef923b354a3f0c617956d44557f1c9f3042931a81f49f334b458f67cd0/virgiliojr94/book-to-skill",
+ "title": "virgiliojr94/book-to-skill",
+ "summary_en": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. book-to-skill English · Русский · 简体中文 Turn any technical book, document folder, or collection of sources into a unified agent skill — ready to study, reference, and use while you work in GitHub Copilot CLI, Amp, Claude Code, Codex, Hermes Agent, OpenCode, or OpenClaw. Why · What it generates · Beyond books · How it works · Usage · Install · FAQ · Performance · Architecture · Changelog 24×–51× fewer tokens than dumping the book into context to answer one question, measured on real books…",
+ "title_mn": "book-to-skill: Техникийн ном, баримтыг AI агентын ур чадвар болгон хөрвүүлэх сан",
+ "summary_mn": "virgiliojr94 хэрэглэгчийн book-to-skill төсөл нь техникийн ном болон баримт бичгүүдийг Claude Code, Copilot, Codex агентуудад зориулсан ур чадвар болгон хөрвүүлдэг. Энэ нь контекст цонхонд баримтыг бүтнээр нь оруулахаас 24–51 дахин бага токен ашиглана.",
+ "body_mn": "book-to-skill нь аливаа техникийн ном, PDF болон баримтын санг AI агентуудад зориулсан модульчлагдсан ур чадвар (skill) болгон хөрвүүлдэг Python хэрэгсэл юм. Ингэснээр GitHub Copilot CLI, Claude Code, Codex зэрэг агентууд тухайн баримтаас шаардлагатай мэдээллийг онож унших боломжтой болно.\n\nТөслийн гол давуу тал нь токены зарцуулалтыг эрс бууруулсанд оршино. Номыг тэр чигт нь контекстэд чихэж хариулт хайхын оронд бүтцэд оруулсан бүлгүүдийг хэрэгцээний дагуу дууддаг тул токен зарцуулалт 24-өөс 51 дахин багасдаг аж.\n\nХөрвүүлэлтийг ~/.agents/skills/ хавтсанд хийх бөгөөд хөгжүүлэгч /book-to-skill командаар PDF-ээ боловсруулж, дараа нь агентынхаа тусламжтай номын агуулгыг галлюцинацигүйгээр лавлан асууж ажлынхаа урсгалд нэвтрүүлэх боломжтой.",
+ "published": "2026-10-25T05:02:07Z",
+ "added": "2026-10-25T05:02:07Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

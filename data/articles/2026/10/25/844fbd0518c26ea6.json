@@ -1,0 +1,17 @@
+{
+ "id": "844fbd0518c26ea6",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/macro-inc/macro",
+ "image": "https://opengraph.githubassets.com/14a27b4ad787c50d2d924efb5cedf33c934ae462af2a60cf4f6eea453fbb1d64/macro-inc/macro",
+ "title": "macro-inc/macro",
+ "summary_en": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. https://macro.com Sign up · Docs · Book demo · Website · Feature requests · Contribute · Hiring Macro is the all-in-one workspace for you and your team. It unifies email + messages + docs + tasks + agents + CRM into a single fast interface with shared team-level memory. Everything in your workspace is @linked and searchable so your team (and your agents) never have to switch tools. Why Macro We built Macro because we wanted a single operating system for our…",
+ "title_mn": "Macro: Rust болон SolidJS дээр суурилсан багийн нэгдсэн ажлын платформ",
+ "summary_mn": "Macro төсөл нь имэйл, чат, баримт бичиг болон даалгавруудыг нэг дор нэгтгэсэн шинэ ажлын платформыг нээлттэй эхээр танилцууллаа. Уг систем нь Rust болон SolidJS дээр бичигдсэн бөгөөд хурд, найдвартай ажиллагааг эрхэмлэдэг.",
+ "body_mn": "Macro нь Slack, Notion, Linear зэрэг тусдаа үйлчилгээнүүдийн оронд имэйл, мессеж, баримт бичиг, таск болон CRM-ийг нэг интерфэйс дотор нэгтгэсэн шийдэл юм. Багийн гишүүд болон AI агентууд нэгдсэн санах ойг хуваалцаж, багаж солих шаардлагагүйгээр ажиллахад зориулагджээ.\n\nУг системийг SolidJS болон Rust хэл дээр бичсэн бөгөөд дата бүтцийг хоёр талын холбоост граф хэлбэрээр хадгалдаг. Ингэснээр баримт бичиг дотроос имэйлийг @ хаяглан дуудах, захианаас шууд таск үүсгэх зэрэг уян хатан байдлыг хангаж өгсөн байна.\n\nЭнэхүү төсөл нь гарааны бизнесүүд болон жижиг багуудад зориулагдсан үйлдлийн систем маягаар ажиллах ба хөгжүүлэгчид өөрсдийн сервер дээр байршуулах эсвэл хувь нэмрээ оруулах боломжтой нээлттэй эхийн төсөл юм.",
+ "published": "2026-10-25T05:02:07Z",
+ "added": "2026-10-25T05:02:07Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

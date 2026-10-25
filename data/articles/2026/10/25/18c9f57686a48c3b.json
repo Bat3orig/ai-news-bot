@@ -1,0 +1,17 @@
+{
+ "id": "18c9f57686a48c3b",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/anomalyco/hex",
+ "image": "https://opengraph.githubassets.com/270f1971674834ce72263ec9fbb7e664fa4134c6d838a8149e2d9df8fd6efcd1/anomalyco/hex",
+ "title": "anomalyco/hex",
+ "summary_en": "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta. https://hex.kitlangton.com/ HEX Speak. It appears. Local-first voice dictation, built in Rust. Download for Mac, Windows, or Linux · Windows beta · Linux beta · TypeScript SDK · Contributing HEX is local-first voice dictation for Apple silicon Macs running macOS 15 or newer. Hold a shortcut, speak, and release. HEX transcribes on your Mac and pastes the result into the app you are using. On-device transcription. Download a local speech model…",
+ "title_mn": "HEX: Төхөөрөмж дээрээ ажилладаг, Rust дээр бичигдсэн дуу хоолойгоор бичих апп",
+ "summary_mn": "HEX нь гадаад сүлжээнд өгөгдөл илгээхгүйгээр компьютертээ шууд дуу хоолойг текст болгон буулгах local-first шийдлийг танилцууллаа. Rust дээр бичигдсэн уг хэрэгсэл нь macOS болон Windows, Linux дээр ажиллана.",
+ "body_mn": "HEX нь хэрэглэгчийн яриаг шууд төхөөрөмж дээр нь боловсруулж, текст хэлбэрээр тухайн ажиллаж буй цонхонд оруулдаг local-first зарчимтай нээлттэй хэрэгсэл юм. Системийг бүхэлд нь Rust хэл дээр дахин бичиж, өндөр гүйцэтгэл болон нууцлалыг хангажээ.\n\nХэрэглэгч тусгай товчлуур дээр даран яриад тавихад төхөөрөмжид суулгасан загвар (Whisper болон Parakeet зэрэг) яриаг таньж бичвэр болгон буулгана. macOS системд зориулсан хувилбар гарсан бөгөөд Windows болон Linux үйлдлийн системүүдийн бета шатанд ашиглах боломжтой байна.\n\nТөсөл нь мөн TypeScript SDK-г хамт нийлүүлдэг тул хөгжүүлэгчид өөрсдийн төсөлд уг танилтын шийдлийг нэгтгэх боломжтой. Байгууллагын орчинд автоматаар шинэчлэгдэх тохиргоог Group Policy эсвэл тохиргооны профайлаар удирдах боломжуудыг олгосон байна.",
+ "published": "2026-10-25T05:02:07Z",
+ "added": "2026-10-25T05:02:07Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

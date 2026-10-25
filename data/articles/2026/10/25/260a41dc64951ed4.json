@@ -1,0 +1,17 @@
+{
+ "id": "260a41dc64951ed4",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/SnailSploit/Claude-Red",
+ "image": "https://opengraph.githubassets.com/89e3985e8c06c507b8777258ddb0cb0f6c876c99abacbbd3396667b9e1858481/SnailSploit/Claude-Red",
+ "title": "SnailSploit/Claude-Red",
+ "summary_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overview • Quickstart • Categories • Skill Index • Roadmap • Contributing Overview claude-red is a curated library of offensive security skills for the Claude Skills system . Each skill…",
+ "title_mn": "Claude-Red: Claude-д зориулсан халдлагын аюулгүй байдлын ур чадварын сан",
+ "summary_mn": "Claude-Red төсөл нь Claude моделийг red team болон кибер аюулгүй байдлын мэргэжилтэн шиг ажиллуулах бэлэн SKILL.md сан бүхий нээлттэй эхийн шийдлийг гаргалаа. Ур чадварууд контекстод зөвхөн хэрэгцээтэй үед дуудагддаг.",
+ "body_mn": "Claude-Red нь Anthropic Claude-ийн ур чадварын системд зориулсан халдлагын аюулгүй байдлын (offensive security) багц сан юм. Төсөл нь бүтцэд оруулсан SKILL.md файлуудаас бүрдэх бөгөөд Claude-д SQL injection, shellcode, EDR тойрох, ADCS ашиглах зэрэг төрөл бүрийн халдлагын аргачлалыг зааж өгдөг.\n\nЭнэхүү сангийн гол онцлог нь харилцан ярианы контекстоос хамааран шаардлагатай ур чадварыг автоматаар ачаалдагт оршино. Ингэснээр ашиглаагүй ур чадварт токен зарцуулагдахгүй бөгөөд контекстийн хязгаарыг хэмнэдэг. Нийт 23 ангиллын 130 орчим ур чадварыг багтаахаар зорьж байна.\n\nУг төсөл нь зөвшөөрөгдсөн red team шалгалт, bug bounty болон CTF тэмцээнд бэлтгэж буй аюулгүй байдлын инженерүүдэд зориулагдсан. MIT лицензтэй бөгөөд SKILL.md файлын агуулгыг системийн зааварт оруулах эсвэл Claude төслийн санд нэмж шууд ашиглах боломжтой.",
+ "published": "2026-10-25T05:02:07Z",
+ "added": "2026-10-25T05:02:07Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

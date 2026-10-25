@@ -1,0 +1,17 @@
+{
+ "id": "07e527921e4c149f",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/projectdiscovery/nuclei-templates",
+ "image": "https://opengraph.githubassets.com/23899ab8c7064eba0b0a328fdb544c31924dc63ac7b73387447a0781e1e02481/projectdiscovery/nuclei-templates",
+ "title": "projectdiscovery/nuclei-templates",
+ "summary_en": "Community curated list of templates for the nuclei engine to find security vulnerabilities. https://github.com/projectdiscovery/nuclei Nuclei Templates Community curated list of templates for the nuclei engine to find security vulnerabilities in applications. Documentation • Contributions • Discussion • Community • FAQs • Join Discord Templates are the core of the nuclei scanner which powers the actual scanning engine. This repository stores and houses various templates for the scanner provided by our team, as well as contributed by the community. We hope that you also contribute by sending…",
+ "title_mn": "projectdiscovery/nuclei-templates: Аюулгүй байдлын эмзэг байдал илрүүлэх бэлэн загварууд",
+ "summary_mn": "Nuclei хөдөлгүүрт зориулсан олон нийтийн боловсруулсан сүлжээ, веб системийн аюулгүй байдлын алдааг шалгах YAML загваруудын сан GitHub дээр өндөр хандалт авч байна.",
+ "body_mn": "projectdiscovery/nuclei-templates нь хөгжүүлэгчид болон кибер аюулгүй байдлын инженерүүдийн дунд өргөн ашиглагддаг Nuclei сканерт зориулсан бэлэн темплэйтүүдийн албан ёсны нээлттэй сан юм. Энэхүү санд нийгэмлэгийн гишүүд болон ProjectDiscovery багийн бэлтгэсэн олон мянган шалгалтын загвар хадгалагддаг.\n\nТус сангийн гол онцлог нь бодит орчинд идэвхтэй ашиглагдаж буй (KEV буюу Known Exploited Vulnerabilities) эмзэг байдлуудыг шуурхай илрүүлэх 1,400 гаруй тусгай загвартай. Хөгжүүлэгчид nuclei командын мөрнөөс '-tags kev,vkev' сонголтыг ашиглан өөрсдийн систем болон вэб үйлчилгээг түгээмэл халдлагын эрсдэлтэй эсэхийг хялбархан шалгах боломжтой.\n\nЗагварууд нь уншиж бичихэд хялбар YAML форматаар бичигдсэн байдаг тул багууд өөрсдийн дотоод шалгалт, CI/CD автоматжуулалтдаа тохируулан өөрчлөх эсвэл шинээр загвар бичиж баяжуулахад тун тохиромжтой. Системийнхээ аюулгүй байдлыг сайжруулахыг хүссэн хэн бүхэн тус санг татан авч шууд ашиглах боломжтой юм.",
+ "published": "2026-10-25T05:02:07Z",
+ "added": "2026-10-25T05:02:07Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

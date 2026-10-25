@@ -1,0 +1,17 @@
+{
+ "id": "88c7f9147afded8f",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/Mailu/Mailu",
+ "image": "https://opengraph.githubassets.com/0ea1f74c55ef4de63313c3fc5b854fb5cfdd3a8b747a986778b94b6d8e6b9dc0/Mailu/Mailu",
+ "title": "Mailu/Mailu",
+ "summary_en": "Insular email distribution - mail server as Docker images https://mailu.io Mailu is a simple yet full-featured mail server as a set of Docker images. It is free software (both as in free beer and as in free speech), open to suggestions and external contributions. The project aims at providing people with an easily setup, easily maintained and full-featured mail server while not shipping proprietary software nor unrelated features often found in popular groupware. Most of the documentation is available on our Website . You can also try our demo server before setting up your own. Features Main…",
+ "title_mn": "Mailu: Docker суурьтай, тохируулахад хялбар нээлттэй эхийн майл сервер",
+ "summary_mn": "Mailu төсөл нь Docker контейнер дээр суурилсан, шаардлагагүй нэмэлтүүдгүй бүрэн хэмжээний майл серверийг нээлттэй эхээр санал болгож байна. Хөгжүүлэгчид өөрсдийн серверийг бие даан удирдах боломжтой.",
+ "body_mn": "Mailu нь Docker контейнеруудаас бүрдсэн, суурилуулах болон удирдахад хялбар шуудангийн бүрэн хэмжээний сервер юм. Төсөл нь арилжааны хаалттай системүүд болон нүсэр groupware шийдлүүдийн шаардлагагүй функцүүдээс ангид байхаар бүтээгджээ.\n\nБүх эд ангиуд болон Dockerfile, тохиргоонууд нь чөлөөт програм хангамжийн стандарттай нийцтэй бөгөөд MIT лицензтэйгээр түгээгдэж байна. Систем нь имэйл хүлээн авах, илгээх үндсэн протоколууд болон удирдлагын цэвэр интерфэйсийг багтаадаг.\n\nӨөрийн серверийг бие даан байршуулах хүсэлтэй хөгжүүлэгчид, админуудад тохиромжтой бөгөөд албан ёсны вэбсайт дээрх зааврын дагуу тохируулах эсвэл бэлэн демо хувилбарыг туршиж үзэх боломжтой.",
+ "published": "2026-10-25T05:02:07Z",
+ "added": "2026-10-25T05:02:07Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
