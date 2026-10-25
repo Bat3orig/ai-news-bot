@@ -1,0 +1,17 @@
+{
+ "id": "576c6507cbdd1cf3",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/herdrdev/herdr",
+ "image": "https://opengraph.githubassets.com/0574e84aa23700d96df1c789da734914b5e5770d2b7c582b77a5f41531d09d25/herdrdev/herdr",
+ "title": "herdrdev/herdr",
+ "summary_en": "the runtime your coding agents live on https://herdr.dev herdr herdr.dev · install · quick start · docs English · 简体中文 https://github.com/user-attachments/assets/043ec09f-4bdd-41d5-aee0-8fda6b83e267 the runtime your coding agents live on. detach without stopping work — herdr keeps terminals running in a background server when you close the client or lose your SSH connection. after a server or machine restart, herdr restores the saved layout and can resume supported agent sessions; the original processes do not survive. session state → several machines, one window — keep local work and saved…",
+ "title_mn": "herdr: AI агентуудыг удирдаж салгах боломжтой терминалын multiplexer",
+ "summary_mn": "Rust хэл дээр бичигдсэн herdr төсөл нь AI агентуудыг терминал дээр зэрэг ажиллуулах, салгах болон эргүүлэн холбох боломж олгодог multiplexer хэрэгсэл юм.",
+ "body_mn": "GitHub дээр herdr нэртэй Rust хэлээр бүтээгдсэн нээлттэй эхийн шинэ терминалын multiplexer олны анхаарлыг татаж байна. Уг хэрэгсэл нь олон AI агентуудыг терминалын pane-үүдэд зэрэг хуваан ажиллуулж, ctrl+b q товчлуураар сессийг салган (detach) дараа нь эргэн холбогдох (reattach) боломжийг олгодог.\n\nТөсөл нь алсын холболт, socket API, плагины систем болон янз бүрийн AI агентуудыг нэгтгэх тусгай дэмжлэгтэйгээр бүтээгдсэн. Хөгжүүлэгчид өөрсдийн бичсэн агентад herdr-ийн дэмжлэгийг нэмэх бүрэн баримтжуулалт болон заавартай.\n\nHerdr нь Apache 2.0 лицензтэй бөгөөд Homebrew, mise болон Windows PowerShell скриптээр шууд суулган туршиж үзэх боломжтой юм.",
+ "published": "2026-10-25T14:08:48Z",
+ "added": "2026-10-25T14:08:48Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

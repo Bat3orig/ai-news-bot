@@ -1,0 +1,17 @@
+{
+ "id": "8782e21ebeda898a",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/aaif-goose/goose",
+ "image": "https://opengraph.githubassets.com/632a105d5aabe563078e4a710f79499e9791bfdb7fd6bc7ed559ec75920ce488/aaif-goose/goose",
+ "title": "aaif-goose/goose",
+ "summary_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM https://goose-docs.ai/ goose your native open source AI agent — desktop app, CLI, and API — for code, workflows, and everything in between goose is a general-purpose AI agent that runs on your machine. Not just for code — use it for research, writing, automation, data analysis, or anything you need to get done. A native desktop app for macOS, Linux, and Windows. A full CLI for terminal workflows. An API to embed it anywhere. Built in Rust for performance and portability…",
+ "title_mn": "goose: Rust хэл дээр бүтээгдсэн нээлттэй эхийн автоматжуулалтын AI агент",
+ "summary_mn": "Linux Foundation-ий AAIF төслийн хүрээнд хөгжүүлэгдэж буй goose нь Rust дээр бичигдсэн десктоп апп, CLI болон API бүхий нээлттэй эхийн AI агент юм.",
+ "body_mn": "Linux Foundation-ий Agentic AI Foundation (AAIF)-ийн бүрэлдэхүүнд багтдаг goose төсөл нь бүх төрлийн даалгавар, ажлын урсгалыг автоматжуулах зориулалттай нээлттэй эхийн AI агент юм. Rust хэлээр бичигдсэн уг төсөл нь өндөр гүйцэтгэлтэй, macOS, Linux болон Windows дээр ажиллах десктоп апп, бүрэн хэмжээний CLI болон системд нэгтгэх API-г санал болгодог.\n\nGoose нь зөвхөн код бичих төдийгүй судалгаа хийх, өгөгдлийн шинжилгээ, кодоо өөрөө ажиллуулан тестлэх зэрэг өргөн боломжтой. Түүнчлэн Anthropic, OpenAI, Google, Ollama, OpenRouter зэрэг 15 гаруй провайдертай шууд ажиллахаас гадна одоо байгаа ChatGPT эсвэл Claude эрхээ ACP протоколоор ашиглахыг дэмждэг.\n\nМөн Model Context Protocol (MCP) нээлттэй стандартыг дэмждэг тул 70 гаруй нэмэлт өргөтгөл, хэрэгслүүдтэй шууд холбогдон ажиллах боломжтой давуу талтай.",
+ "published": "2026-10-25T14:08:48Z",
+ "added": "2026-10-25T14:08:48Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
