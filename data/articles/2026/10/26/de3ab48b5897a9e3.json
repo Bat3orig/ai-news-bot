@@ -1,0 +1,17 @@
+{
+ "id": "de3ab48b5897a9e3",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "PYMNTS.com",
+ "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users/",
+ "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Claude-chat-and-cowork-1.jpg",
+ "title": "Anthropic Merges Claude Chat and Cowork for Enterprise Users",
+ "summary_en": "Anthropic says it has unified Claude chat and Cowork for its enterprise customers. The new offering combines chat and Cowork on web, desktop and mobile,",
+ "title_mn": "Anthropic Claude chat болон Cowork-ийг Enterprise хэрэглэгчдэд нэгтгэв",
+ "summary_mn": "Anthropic chat болон Cowork горимыг нэг нэгдсэн туршлага болгон Enterprise төлөвлөгөөнд нэвтрүүлжээ. Даалгавар код ажиллуулах шаардлагатай үед хэрэглэгч автоматаар cloud sandbox руу шилжинэ.",
+ "body_mn": "Anthropic chat болон Cowork-ийг нэгтгэсэн \"unified Claude experience\" гэх шинэ туршлагыг Enterprise төлөвлөгөөний хэрэглэгчдэд танилцуулжээ. Хэрэглэгч эхлээд chat-аар эхэлж, код ажиллуулах эсвэл файлтай ажиллах шаардлагатай үед яриа Anthropic-ийн удирддаг изоляцлагдсан cloud sandbox руу шилжинэ.\n\nДаалгавар дууссаны дараа үр дүн буцаж ирч хянах боломжтой болно. Харин шаардлагагүй үед яриа дахин chat горимд буцдаг. Админы тохиргоонд \"Chat and Cowork unified\" гэж харагдана.\n\nЭнэ өөрчлөлт нь одоогийн байгаа байгууллагуудад анхдагчаар унтраалттай байх бөгөөд 11-р сарын 16-нд автоматаар асна. Администраторууд энэ огноог анхаарах хэрэгтэй.\n\nХөгжүүлэгчдэд энэ нь агент ажлын урсгал болон ажил үүргийн хяналтын тохиргоонд нөлөөлөх тул мэдээлэл авах нь чухал.",
+ "published": "2026-10-25T22:59:45Z",
+ "added": "2026-10-26T05:39:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

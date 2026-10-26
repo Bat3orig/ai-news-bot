@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "a868202567c6c878",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/1_2.2e16d0ba.fill-1200x600.png",
-   "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
-   "summary_en": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party LangChain template that scaffolds, runs, and deploys agents without requiring the Agent Development Kit (ADK). Additionally, it demonstrates how platform teams can author custom extensions to enforce policies such as automated software bill of materials (SBOM) scans during deployment.",
-   "title_mn": "Agents CLI өргөтгөлийн системээр дамжуулан LangChain-ийг дэмжиж эхэллээ",
-   "summary_mn": "Google Cloud-ийн Agents CLI хэрэгсэлд Extension System нэмэгдэж, зөвхөн ADK гэлтгүй LangChain зэрэг гуравдагч сангуудыг дэмжих боломжтой боллоо. Ингэснээр байгууллагууд өөрсдийн аюулгүй байдал, байршуулалтын бодлогыг хялбар удирдах боломжтой болж байна.",
-   "body_mn": "Google Cloud өмнө нь Agent Development Kit (ADK)-д зориулсан Agents CLI хэрэгслийг гаргаж, агентуудыг богино хугацаанд үүсгэж Cloud Run дээр байршуулах боломж олгож байсан. Гэвч багууд LangChain, LangGraph болон бусад дотоод фрэймворкуудыг өргөн ашигладаг тул CLI-ийг илүү уян хатан болгох шаардлага үүсжээ.\n\nAgents CLI 1.5.0 хувилбараас эхлэн Extension System нэмэгдсэн бөгөөд 1.8.0 хувилбараар анхны албан ёсны LangChain өргөтгөлийг гаргалаа. Энэ нь агентын үндсэн хөгжүүлэлтийн циклийг өөрчлөхгүйгээр өөр өөр фрэймворкийг Agents CLI-ийн байршуулалт, мониторинг системтэй шууд холбох боломж бүрдүүлж байна.\n\nҮүнээс гадна байгууллагын платформын багууд өөрсдийн дүрэм журмыг суулгасан жижиг өргөтгөл бичиж, deploy команд дуудагдах бүрд SBOM аудит хийлгэх гэх мэт хамгаалалтын тусгай шалгууруудыг нэвтрүүлэх боломжтой боллоо.",
-   "published": "2026-10-24T17:07:56Z",
-   "added": "2026-10-24T17:07:56Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3cb2b485f02c0e6c",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending TypeScript",
-   "source_label": "GitHub Trending TypeScript",
-   "url": "https://github.com/Renhuai123/ziwei-doushu",
-   "image": "https://opengraph.githubassets.com/ca69fa749487c950b5c6d64815d4472e9bac957e69646e626a8066f4ee1a05ba/Renhuai123/ziwei-doushu",
-   "title": "Renhuai123/ziwei-doushu",
-   "summary_en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 https://metisziwei.com/?from=gh-about 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念 ：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信： 算法是公开的传统智慧，不应该被锁在围墙里 。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息 ：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整排盘算法、四化系统、格局知识库、古籍原文数据，以及一套完整开源的紫微斗数解读数据： v4.0 解读数据集——67.5 万张命盘 × 13 维 = 877 万段解读，正文约 204 亿字，解压后 56.6 GB （2026-10-15 发布）。 数据集 命盘 解读段数 解压后 覆盖年份 每张盘解读字数 v4.0 解读数据集 （2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026 （只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983…",
-   "title_mn": "ziwei-doushu: Зурхайн тооцоолол, тайлбар хийх TypeScript сан ба датасет",
-   "summary_mn": "Хятадын уламжлалт зурхайн арга барилд суурилсан нээлттэй эхийн ziwei-doushu төсөл нь алгоритм, тайлбар үүсгэгч бүхий өргөн хэмжээний датасетийг хөгжүүлэгчдэд санал болгож байна.",
-   "body_mn": "Renhuai123/ziwei-doushu нь Хятадын уламжлалт Ziwei Doushu зурхайн тооцооллыг кодчилсон нээлттэй эхийн TypeScript төсөл юм. Энэхүү сан нь тухайн зурхайн системийн алгоритм, дүрэм болон 50 гаруй гигабайт хэмжээтэй бэлэн тайлбарын өгөгдлийг багтаасан байна.\n\nТөслийн v4.0 шинэчлэлтээр 674 мянга гаруй зурхайн өгөгдлийг 13 хэмжигдэхүүнээр боловсруулж, түүхэн эх сурвалжуудад нийцүүлэн засварласан байна. Мөн Next.js 16 болон төрөл бүрийн хамаарлуудыг шинэчилж, аюулгүй байдлын шалгууруудыг хангасан байна.\n\nХөгжүүлэгчид уг санг соёлын өв, дорнын зурхайн логикийг судлах, олон нийтийн болон хувийн хэрэгцээндээ ашиглах зорилгоор туршиж үзэх боломжтой.",
-   "published": "2026-10-24T17:07:56Z",
-   "added": "2026-10-24T17:07:56Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "1ef7aa5952e1a733",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending TypeScript",
-   "source_label": "GitHub Trending TypeScript",
-   "url": "https://github.com/SehajveerSingh2005/bloom",
-   "image": "https://opengraph.githubassets.com/23a3276918a7ba651ffd83c5f3fa0e6bef379b1f641f238d6c924bbd361fc338/SehajveerSingh2005/bloom",
-   "title": "SehajveerSingh2005/bloom",
-   "summary_en": "Bloom is a desktop companion that reimagines how you interact with Windows. It moves away from static, rigid interfaces and introduces a workspace that feels natural, fluid, and responsive. https://bloom.sehaz.space Bloom Bloom makes your Windows desktop feel alive. Every transition is a physics simulation. Every element responds to touch. Every pixel is in motion. Your desktop has been asleep for years. This wakes it up. The Island A notch at the top of your screen that adapts to what you're doing. Scroll or swipe to switch modes. Watch it transform. Music — album art, track info, playback…",
-   "title_mn": "Bloom: Windows-ийн интерфэйсийг шинэчилсэн динамик Taskbar ба Notch",
-   "summary_mn": "Windows-ийн taskbar-ийг орлох зориулалттай, физик хөдөлгөөнт дүрслэл бүхий нээлттэй эхийн Bloom төсөл гарлаа. Энэхүү систем нь уян хатан notch болон шинэчлэгдсэн хяналтын самбарыг хэрэглэгчдэд олгодог.",
-   "body_mn": "Bloom нь Windows үйлдлийн системийн уламжлалт хөшүүн интерфэйсийг шинэчилж, физик хуулиар анимейшн хийгддэг, мэдрэгчтэй дэлгэцэнд нийцтэй удирдлагын хэрэгсэл болгох зорилготой нээлттэй эхийн төсөл юм. Дэлгэцийн дээд хэсэгт динамик notch байрлуулж, доод хэсэгт taskbar-ийг орлох dock ажиллуулдаг.\n\nАрын алба нь Rust хэл дээр бичигдсэн бөгөөд Windows үйлдлийн системийн үндсэн shell, WASAPI аудио систем, COM болон WMI технологитой шууд харилцан ажилладаг. Дэлгэц дээр хөгжмийн тоглуулагчийн өгөгдөлд хариу үйлдэл үзүүлэх визуализатор, Wi-Fi, дууны тохиргоо зэрэг Command Center болон Pomodoro цаг хэмжигч багтжээ.\n\nСистемийн нөөцийг хэмнэх үүднээс дэлгэцэнд харагдаагүй үед эсвэл дуу тоглоогүй үед процессыг автоматаар унтраадаг бүтэцтэй. Хөгжүүлэгчид болон хэрэглэгчид GitHub сангаас төслийг татаж аван турших боломжтой ба нээлттэй хэлбэрээр хувь нэмрээ оруулахыг урьж байна.",
-   "published": "2026-10-24T17:07:56Z",
-   "added": "2026-10-24T17:07:56Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ee086be60817d97c",
-   "subtopic": "kimi",
-   "source": "Kimi (Google News)",
-   "source_label": "Asianet Newsable",
-   "url": "https://newsable.asianetnews.com/business/moonshot-ai-unveils-kimi-k3-1-pro-3-trillion-parameter-ai-model-articleshow-fraubne",
-   "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-6796ba32-d289-41cf-9625-2efdc998fbed.jpg",
-   "title": "Moonshot AI Unveils Kimi K3.1 Pro 3-Trillion-Parameter AI Model",
-   "summary_en": "Moonshot AI has introduced the Kimi K3.1 Pro, a powerful 3-trillion-parameter model with a 1-million-token context window, offering advanced coding and financial workflow capabilities alongside a high-speed variant for responsive performance.",
-   "title_mn": "Moonshot AI компани Kimi K3.1 Pro загvar болон Open-Weight хувилбараа зарлалаа",
-   "summary_mn": "Moonshot AI 3 триллион параметр бүхий Kimi K3.1 Pro загвар болон Highspeed хувилбараа танилцууллаа. Энэхүү загвар нь 1 сая токенийн контекст цонхтой бөгөөд код бичих, санхүүгийн судалгаанд эрс сайжирсан байна.",
-   "body_mn": "Хятадын хиймэл оюун ухааны Moonshot AI компани Kimi K3.1 Pro загвараа албан ёсоор танилцууллаа. Энэхүү шинэ загвар нь 3 триллион орчим параметр бүхий open-weight систем бөгөөд 1 сая токенийн контекст цонхтойгоороо онцлог юм. Тус компани мөн илүү хурдан хариу өгөх Kimi K3.1 Pro Highspeed хувилбарыг гаргажээ.\n\nШинэ загвар нь код бичих, 3D бүтээх, санхүүгийн судалгаа хийх зэрэг олон чиглэлд өмнөх Kimi K3 загвараас эрс сайжирсан байна. Ялангуяа програм хангамжийн бодит даалгавруудыг үнэлдэг Terminal-Bench 4.0 тестэд 65.7 хувийн амжилт үзүүлж, өрсөлдөгч зарим загваруудыг ардаа орхижээ. Кode Bench 3.0 Long-horizon тестээр мөн 61.2 хувийн гүйцэтгэл үзүүлсэн байна.\n\nKimi K3.1 Pro болон Highspeed хувилбарууд нь одоогоор Kimi.ai, Kimi Work, Kimi Code болон API-аар дамжуулан хэрэглэгчдэд хүрч эхэлсэн байна. Moonshot AI компани бүрэн жинтэй open-weight файлуудыг арваннэгдүгээр сарын 4 гэхэд олон нийтэд нээлттэй болгохоор төлөвлөжээ.",
-   "published": "2026-10-24T05:11:35Z",
-   "added": "2026-10-24T19:37:21Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6e89d99222493043",
-   "subtopic": "kimi",
-   "source": "Kimi (Google News)",
-   "source_label": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/moonshot-ai-kimi-k3-1-pro-hacking-curbs/",
-   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/24024852/library-moonshot-ai-curbs-hacking-ability-in-kimi-k3-1-pro-model-800x450.png",
-   "title": "Moonshot AI curbs hacking ability in Kimi K3.1 Pro model",
-   "summary_en": "Moonshot AI filtered cyber data from Kimi K3.1 Pro, cutting its exploit score to 81.0% from 90.5% ahead of an open-weight release by November 4.",
-   "title_mn": "Moonshot AI компани Kimi K3.1 Pro загварынхаа хакердах чадварыг хязгаарлав",
-   "summary_mn": "Moonshot AI аюулгүй байдлын үүднээс шинэ Kimi K3.1 Pro загвараасаа кибер халдлагатай холбоотой сургалтын өгөгдлийг хасчээ. Ингэснээр загварын offensive чадвар буурсан ч код бичих чанар нь хэвээр үлдсэн байна.",
-   "body_mn": "Хятадын Moonshot AI компани шинээр гаргаж буй Kimi K3.1 Pro загварынхаа кибер халдлага үйлдэх буюу offensive чадварыг зориудаар хязгаарласнаа мэдэгдлээ. Хиймэл оюун ухааны системүүд хэт бие дааж, хорлон сүйтгэх код бичих вий гэсэн болгоомжлол нэмэгдэж буй энэ үед тус компани уг алхмыг хийжээ.\n\nКомпани загвараа олон нийтэд нээлттэй болгохын өмнө сургалтын өгөгдлийн багц болон reinforcement learning орчноос кибер аюулгүй байдалтай холбоотой мэдээллүүдийг шүүж хассан байна. Үүний үр дүнд дотоод exploit тестэд шүүлтүүргүй хувилбар нь 90.5 хувь авч байсан бол шүүлтүүртэй хувилбар нь 81.0 хувийн үр дүн үзүүлжээ. Гэсэн хэдий ч энэ нь өмнөх үеийн Kimi K3 загвараас илүү хэвээр байгаа аж.\n\nЭнэхүү шийдвэр нь open-weight загваруудын аюулгүй байдлын талаарх маргааныг шинэ түвшинд гаргаж байна. Жинхэнэ файлуудыг татаж аваад өөрийн сервер дээр ажиллуулах боломжтой open-weight загварын хувьд дараа нь хянах боломжгүй байдаг тул эх үүсвэр дээр нь шүүлт хийх нь илүү найдвартай арга хэмжээ болж байна.",
-   "published": "2026-10-24T07:34:29Z",
-   "added": "2026-10-24T19:37:21Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "1fc167c5beb53f55",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "Startup Fortune",
-   "url": "https://startupfortune.com/github-pull-requests-point-to-alibabas-next-open-qwen-model-nearing-release/",
-   "image": "https://startupfortune.com/wp-content/uploads/2026/10/qwen4-alibaba-moonshot-ai.jpg",
-   "title": "GitHub pull requests point to Alibaba's next open Qwen model nearing release",
-   "summary_en": "GitHub PRs in llama.cpp, vLLM and Transformers reveal Alibaba's Qwen4-Exp architecture ahead of the open-weight Qwen4 27B model's unconfirmed release date.",
-   "title_mn": "GitHub дээрх код Alibaba-гийн шинэ Qwen загварууд гарах дөхсөнийг харуулж байна",
-   "summary_mn": "Transformers, llama.cpp, vLLM зэрэг inference санд Qwen4-Exp болон Qwen3.8-Flash-Next архитектурын дэмжлэг нэмэгджээ. Энэ нь Alibaba-гийн дараагийн үеийн загварууд удахгүй гарна гэсэн үг юм.",
-   "body_mn": "Hugging Face-ийн Transformers болон llama.cpp, vLLM зэрэг гол inference сангуудад Qwen4-Exp болон Qwen3.8-Flash-Next архитектурыг дэмжих pull request-үүд цувраад орж эхэлжээ. Энэ нь Alibaba компани шинээр гаргахаар бэлтгэж буй Qwen4 цувралын бэлтгэл ажил open-source хөгжүүлэгчдийн дунд өрнөж буйг гэрчилж байна.\n\nAlibaba өмнө нь Апсара бага хурлын үеэр Qwen4 цувралдаа Max, Plus, Flash болон 27B зэрэг хувилбаруудыг багтаахаа зарлаж байсан юм. Хэдийгээр албан ёсны огноог зарлаагүй байгаа ч open-source экосистем аль хэдийн шинэ архитектурыг хүлээж авахад бэлэн болж байна. Ялангуяа 27B нягтаршилтай загвар нь ганцхан хэрэглэгчийн GPU дээр ажиллах чадвартай тул хөгжүүлэгчдэд маш чухал юм.\n\nЭнэхүү хөгжүүлэлт нь хөгжүүлэгчдэд API-аар дамжуулан түрээслэх бус, өөрсдийн төхөөрөмж дээр шууд ажиллуулах боломжтой open-weight загваруудыг ойрхон байгааг харуулж байна.",
-   "published": "2026-10-24T09:44:55Z",
-   "added": "2026-10-24T19:37:21Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "1fbe23a2e2cac57e",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "Startup Fortune",
-   "url": "https://startupfortune.com/traders-are-letting-xais-grok-bot-run-unsupervised-and-it-already-lost-money/",
-   "image": "https://startupfortune.com/wp-content/uploads/2026/10/xai-grok-bot-elon-musk-mvn1x1a5.jpg",
-   "title": "Traders Are Letting xAI's Grok Bot Run Unsupervised, and It Already Lost Money",
-   "summary_en": "xAI's Grok Bot now runs trades unsupervised after an Interactive Brokers tie-up, but a May 2026 Morse code hack already drained $200,000 from its wallet.",
-   "title_mn": "Grok Bot-ийг хяналтгүй ажиллуулсан арилжаачид хөрөнгөө алдаж эхэлжээ",
-   "summary_mn": "xAI-ийн Grok Bot суурьтай автомат арилжааны систем prompt injection халдлагад өртөж 200,000 доллар алдсан нь агентуудыг хяналтгүй ашиглах эрсдэлийг харууллаа.",
-   "body_mn": "xAI компани Grok-ийг үүлэн орчинд бие даан ажилладаг броузер, файлын систем бүхий агент болгон хөгжүүлж байгаа ч хяналтгүй автомат арилжаанд ашигласан хэрэглэгчид санхүүгийн хохирол амсаж эхэлжээ. Тухайлбал, Grok дээр суурилсан Bankrbot хэмээх арилжааны агент Морз кодоор нуусан prompt injection халдлагад өртөж, 200,000 ам.долларын DRB токеныг зөвшөөрөлгүй хэтэвч рүү шилжүүлсэн байна.\n\nХалдагч этгээд Bankr Club гишүүнчлэлийн NFT-д тусгай кодоор заавар шингээн Grok-оор орчуулуулснаар загвар түүнийг энгийн хүсэлт мэт хүлээн авч, Base сүлжээнд шилжүүлэг хийх командыг гүйцэтгэсэн нь тогтоогджээ. Энэ нь хиймэл оюунд санхүүгийн бодит гүйлгээ хийх, тушаал өгөх эрх олгох нь ямар том цоорхой үүсгэдгийг харуулж байна.\n\nИлон Маск өмнө нь хэрэглэгчдэд хандан \"Grok Bot алдаа гаргавал бид хохирлыг бүрэн төлнө\" хэмээн мэдэгдэж байсан ч компанийн албан ёсны үйлчилгээний нөхцөлд хариуцлагын хязгаарыг ердөө төлсөн төлбөр эсвэл 100 доллараар хязгаарласан нь эрсдэлийг улам нэмэгдүүлж байна. Мөн Grok Build хэрэгсэл хөгжүүлэгчдийн код баазыг нууц түлхүүрүүдийн хамт сүлжээнд хадгалдаг зэрэг асуудлууд яригдаж эхэллээ.",
-   "published": "2026-10-24T23:49:57Z",
-   "added": "2026-10-25T05:02:07Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "07e527921e4c149f",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending JavaScript",
-   "source_label": "GitHub Trending JavaScript",
-   "url": "https://github.com/projectdiscovery/nuclei-templates",
-   "image": "https://opengraph.githubassets.com/23899ab8c7064eba0b0a328fdb544c31924dc63ac7b73387447a0781e1e02481/projectdiscovery/nuclei-templates",
-   "title": "projectdiscovery/nuclei-templates",
-   "summary_en": "Community curated list of templates for the nuclei engine to find security vulnerabilities. https://github.com/projectdiscovery/nuclei Nuclei Templates Community curated list of templates for the nuclei engine to find security vulnerabilities in applications. Documentation • Contributions • Discussion • Community • FAQs • Join Discord Templates are the core of the nuclei scanner which powers the actual scanning engine. This repository stores and houses various templates for the scanner provided by our team, as well as contributed by the community. We hope that you also contribute by sending…",
-   "title_mn": "projectdiscovery/nuclei-templates: Аюулгүй байдлын эмзэг байдал илрүүлэх бэлэн загварууд",
-   "summary_mn": "Nuclei хөдөлгүүрт зориулсан олон нийтийн боловсруулсан сүлжээ, веб системийн аюулгүй байдлын алдааг шалгах YAML загваруудын сан GitHub дээр өндөр хандалт авч байна.",
-   "body_mn": "projectdiscovery/nuclei-templates нь хөгжүүлэгчид болон кибер аюулгүй байдлын инженерүүдийн дунд өргөн ашиглагддаг Nuclei сканерт зориулсан бэлэн темплэйтүүдийн албан ёсны нээлттэй сан юм. Энэхүү санд нийгэмлэгийн гишүүд болон ProjectDiscovery багийн бэлтгэсэн олон мянган шалгалтын загвар хадгалагддаг.\n\nТус сангийн гол онцлог нь бодит орчинд идэвхтэй ашиглагдаж буй (KEV буюу Known Exploited Vulnerabilities) эмзэг байдлуудыг шуурхай илрүүлэх 1,400 гаруй тусгай загвартай. Хөгжүүлэгчид nuclei командын мөрнөөс '-tags kev,vkev' сонголтыг ашиглан өөрсдийн систем болон вэб үйлчилгээг түгээмэл халдлагын эрсдэлтэй эсэхийг хялбархан шалгах боломжтой.\n\nЗагварууд нь уншиж бичихэд хялбар YAML форматаар бичигдсэн байдаг тул багууд өөрсдийн дотоод шалгалт, CI/CD автоматжуулалтдаа тохируулан өөрчлөх эсвэл шинээр загвар бичиж баяжуулахад тун тохиромжтой. Системийнхээ аюулгүй байдлыг сайжруулахыг хүссэн хэн бүхэн тус санг татан авч шууд ашиглах боломжтой юм.",
-   "published": "2026-10-25T05:02:07Z",
-   "added": "2026-10-25T05:02:07Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f9f25a22ad4d5719",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending JavaScript",
-   "source_label": "GitHub Trending JavaScript",
-   "url": "https://github.com/mailcow/mailcow-dockerized",
-   "image": "https://opengraph.githubassets.com/3386ecb2c35030127949062e343e89571d9336c0858f67cada842b9054945790/mailcow/mailcow-dockerized",
-   "title": "mailcow/mailcow-dockerized",
-   "summary_en": "mailcow: dockerized - 🐮 + 🐋 = 💕 https://mailcow.email mailcow: dockerized - 🐮 + 🐋 = 💕 Want to support mailcow? Please consider a support contract with Servercow to support further development. We support you while you support us . 😃 You can also get a SAL which is a one-time payment with no liabilities or returning fees. Or just spread the word: moo. Many thanks to our GitHub Sponsors ❤️ A big thank you to everyone supporting us on GitHub Sponsors—your contributions mean the world to us! Special thanks to the following amazing supporters: 100$/Month Sponsors 50$/Month Sponsors Info…",
-   "title_mn": "mailcow/mailcow-dockerized: Docker дээр ажиллах нээлттэй имэйлийн цогц сервер",
-   "summary_mn": "Docker савлагаа ашиглан хувийн мэйл серверийг хялбар тохируулах боломж олгодог, spamfilter болон вэбмэйл багтсан нээлттэй эхийн шийдэл тренд болж байна.",
-   "body_mn": "mailcow-dockerized нь бүрэн хэмжээний имэйл серверийн дэд бүтцийг Docker контейнерууд ашиглан маш хялбар аргаар өөрийн сервер дээр (self-hosted) байрлуулах боломжийг олгодог нээлттэй эхийн төсөл юм. Уг төслийг The Infrastructure Company компани удирдан хөгжүүлдэг бөгөөд GPL-3.0 лицензтэй.\n\nЭнэхүү шийдэл нь Postfix, Dovecot, SOGo (вэбмэйл болон хуанли), Rspamd (спам шүүлтүүр), ClamAV (вирусийн эсрэг) зэрэг өндөр найдвартай технологиудыг урьдчилан бэлтгэж нэгтгэсэн байдаг. Бүх үйлчилгээ хоорондоо тусгаарлагдсан Docker контейнеруудад ажилладаг тул тохиргоо хийх, шинэчлэх, нөөц хуулбар хийх ажиллагаа маш энгийн болдог.\n\nГуравдагч байгууллагуудаас хараат бус байж, өөрийн байгууллагын имэйлийн нууцлал, хяналтыг гартаа байлгахыг хүссэн DevOps инженерүүд болон системийн админуудад уг шийдэл онцгой ач холбогдолтой юм. Суулгахын тулд серверийн албан ёсны баримт бичгийг ашиглан docker-compose тушаалаар хэдхэн минутад асаах боломжтой.",
-   "published": "2026-10-25T05:02:07Z",
-   "added": "2026-10-25T05:02:07Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "260a41dc64951ed4",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/SnailSploit/Claude-Red",
-   "image": "https://opengraph.githubassets.com/89e3985e8c06c507b8777258ddb0cb0f6c876c99abacbbd3396667b9e1858481/SnailSploit/Claude-Red",
-   "title": "SnailSploit/Claude-Red",
-   "summary_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overview • Quickstart • Categories • Skill Index • Roadmap • Contributing Overview claude-red is a curated library of offensive security skills for the Claude Skills system . Each skill…",
-   "title_mn": "Claude-Red: Claude-д зориулсан халдлагын аюулгүй байдлын ур чадварын сан",
-   "summary_mn": "Claude-Red төсөл нь Claude моделийг red team болон кибер аюулгүй байдлын мэргэжилтэн шиг ажиллуулах бэлэн SKILL.md сан бүхий нээлттэй эхийн шийдлийг гаргалаа. Ур чадварууд контекстод зөвхөн хэрэгцээтэй үед дуудагддаг.",
-   "body_mn": "Claude-Red нь Anthropic Claude-ийн ур чадварын системд зориулсан халдлагын аюулгүй байдлын (offensive security) багц сан юм. Төсөл нь бүтцэд оруулсан SKILL.md файлуудаас бүрдэх бөгөөд Claude-д SQL injection, shellcode, EDR тойрох, ADCS ашиглах зэрэг төрөл бүрийн халдлагын аргачлалыг зааж өгдөг.\n\nЭнэхүү сангийн гол онцлог нь харилцан ярианы контекстоос хамааран шаардлагатай ур чадварыг автоматаар ачаалдагт оршино. Ингэснээр ашиглаагүй ур чадварт токен зарцуулагдахгүй бөгөөд контекстийн хязгаарыг хэмнэдэг. Нийт 23 ангиллын 130 орчим ур чадварыг багтаахаар зорьж байна.\n\nУг төсөл нь зөвшөөрөгдсөн red team шалгалт, bug bounty болон CTF тэмцээнд бэлтгэж буй аюулгүй байдлын инженерүүдэд зориулагдсан. MIT лицензтэй бөгөөд SKILL.md файлын агуулгыг системийн зааварт оруулах эсвэл Claude төслийн санд нэмж шууд ашиглах боломжтой.",
-   "published": "2026-10-25T05:02:07Z",
-   "added": "2026-10-25T05:02:07Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "88c7f9147afded8f",
    "subtopic": "gh-python",
    "source": "GitHub Trending Python",
@@ -597,6 +397,66 @@
    "added": "2026-10-26T00:54:44Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "de3ab48b5897a9e3",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "PYMNTS.com",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users/",
+   "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Claude-chat-and-cowork-1.jpg",
+   "title": "Anthropic Merges Claude Chat and Cowork for Enterprise Users",
+   "summary_en": "Anthropic says it has unified Claude chat and Cowork for its enterprise customers. The new offering combines chat and Cowork on web, desktop and mobile,",
+   "title_mn": "Anthropic Claude chat болон Cowork-ийг Enterprise хэрэглэгчдэд нэгтгэв",
+   "summary_mn": "Anthropic chat болон Cowork горимыг нэг нэгдсэн туршлага болгон Enterprise төлөвлөгөөнд нэвтрүүлжээ. Даалгавар код ажиллуулах шаардлагатай үед хэрэглэгч автоматаар cloud sandbox руу шилжинэ.",
+   "body_mn": "Anthropic chat болон Cowork-ийг нэгтгэсэн \"unified Claude experience\" гэх шинэ туршлагыг Enterprise төлөвлөгөөний хэрэглэгчдэд танилцуулжээ. Хэрэглэгч эхлээд chat-аар эхэлж, код ажиллуулах эсвэл файлтай ажиллах шаардлагатай үед яриа Anthropic-ийн удирддаг изоляцлагдсан cloud sandbox руу шилжинэ.\n\nДаалгавар дууссаны дараа үр дүн буцаж ирч хянах боломжтой болно. Харин шаардлагагүй үед яриа дахин chat горимд буцдаг. Админы тохиргоонд \"Chat and Cowork unified\" гэж харагдана.\n\nЭнэ өөрчлөлт нь одоогийн байгаа байгууллагуудад анхдагчаар унтраалттай байх бөгөөд 11-р сарын 16-нд автоматаар асна. Администраторууд энэ огноог анхаарах хэрэгтэй.\n\nХөгжүүлэгчдэд энэ нь агент ажлын урсгал болон ажил үүргийн хяналтын тохиргоонд нөлөөлөх тул мэдээлэл авах нь чухал.",
+   "published": "2026-10-25T22:59:45Z",
+   "added": "2026-10-26T05:39:50Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d476da510f5f7ffa",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Pandaily",
+   "url": "https://pandaily.com/kimi-apologizes-k3-1-pro-rate-limits-resets-25-percent-monthly-quota-fewer-sub-agent-calls",
+   "image": "https://cms-image.pandaily.com/1/kimi_381314a029.png",
+   "title": "Kimi Apologizes for K3.1 Pro Rate Limits, Resets 25% of Members' Monthly Quota and Trims Sub-Agents",
+   "summary_en": "Two days after launching K3.1 Pro, Moonshot AI's Kimi apologized for rate limits and wasted quota, gave every paid member back 25% of their monthly allowance and cut unneeded sub-agent calls.",
+   "title_mn": "Kimi K3.1 Pro-ийн rate limit асуудлын дараа Moonshot хэрэглэгчдэд 25% квот буцаав",
+   "summary_mn": "Moonshot AI K3.1 Pro загвар гарсны дараа rate limit болон алдагдсан квотын талаар уучлал гуйж, төлбөртэй гишүүн бүрт сарын квотын 25%-ийг буцаажээ. Мөн шаардлагагүй sub-agent дуудалтыг багасгана.",
+   "body_mn": "Moonshot AI-ийн Kimi K3.1 Pro загвар гарснаас хойш хоёр хоногийн дараа компани rate limit асуудал болон алдагдсан квотын талаар уучлал гуйлаа. Төлбөртэй гишүүн бүр сарын квотынхоо 25%-ийг буцааж авах боломжтой болжээ.\n\nМөн Kimi шаардлагагүй sub-agent дуудалтуудыг багасгаж, хэрэглээг хянах арга хэмжээ авна гэж мэдэгджээ. Энэ нь агент загваруудыг API-гаар ашигладаг хөгжүүлэгчдэд токен болон дуудалтын зардлыг хянах шаардлагатайг сануулж байна.\n\nМэдээнд дэлгэрэнгүй тоо, шинэ rate limit-ийн хязгаар тодорхой дурдагдаагүй тул хэрэглэгчид албан ёсны баримт бичгийг шалгах хэрэгтэй.",
+   "published": "2026-10-26T01:56:56Z",
+   "added": "2026-10-26T05:39:50Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e7e6d9fdf01da6b9",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Basic Tutorials",
+   "url": "https://basic-tutorials.com/news/kimi-k3-1-pro-moonshots-new-ai-model-at-a-competitive-price/",
+   "image": "https://basic-tutorials.de/wp-content/uploads/2026/10/kimi-31pro.jpg",
+   "title": "Kimi K3.1 Pro: Moonshot’s New AI Model at a Competitive Price",
+   "summary_en": "Moonshot AI Introduces Kimi K3.1 Pro: 1 million tokens of context, more affordable than Kimi K3, and open weights starting in November 2026.",
+   "title_mn": "Moonshot AI Kimi K3.1 Pro загвараа нээжээ",
+   "summary_mn": "Moonshot AI компани 2.8 их наяд нийт параметр бүхий Kimi K3.1 Pro загвараа гаргалаа. Уг загвар нь 1 сая токенийн контекст цонхтой бөгөөд өмнөх хувилбараасаа хямд үнэтэй байна.",
+   "body_mn": "Moonshot AI компани Kimi K3.1 Pro болон илүү хурдан хариу өгөх зориулалттай Kimi K3.1 Pro Highspeed хувилбаруудаа албан ёсоор танилцууллаа. Энэхүү загвар нь шинэ архитектуртай бус харин Kimi K3 загварыг дахин сургаж, олон зуун даалгаврын хүрээнд бэхжүүлсэн сургалтад хамруулснаараа онцлог юм.\n\nТус загвар нь Mixture-of-Experts (MoE) бүтцийг ашигладаг бөгөөд нийт 2.8 их наяд параметрлэгээс нэг токенийн хувьд 104 тэрбум параметр идэвхждэг. Мөн 1 сая хүртэлх токенийг боловсруулах чадвартай тул том хэмжээний код суурь болон баримт бичгүүдийг нэг дор унших боломжтой.\n\nҮнийн хувьд Moonshot компани өмнөх хувилбараас бараг гуравны нэгээр хямдруулсан бөгөөд Anthropic Claude Opus 5.5-ын тал үнэтэй тэнцэж байна. AI Index үнэлгээнд 4 дүгээр байрт жагссан энэхүү загварын жинг удахгүй нээлттэй болгох ажээ.",
+   "published": "2026-10-26T03:07:20Z",
+   "added": "2026-10-26T05:39:50Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]

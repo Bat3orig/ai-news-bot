@@ -1,0 +1,17 @@
+{
+ "id": "d476da510f5f7ffa",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Pandaily",
+ "url": "https://pandaily.com/kimi-apologizes-k3-1-pro-rate-limits-resets-25-percent-monthly-quota-fewer-sub-agent-calls",
+ "image": "https://cms-image.pandaily.com/1/kimi_381314a029.png",
+ "title": "Kimi Apologizes for K3.1 Pro Rate Limits, Resets 25% of Members' Monthly Quota and Trims Sub-Agents",
+ "summary_en": "Two days after launching K3.1 Pro, Moonshot AI's Kimi apologized for rate limits and wasted quota, gave every paid member back 25% of their monthly allowance and cut unneeded sub-agent calls.",
+ "title_mn": "Kimi K3.1 Pro-ийн rate limit асуудлын дараа Moonshot хэрэглэгчдэд 25% квот буцаав",
+ "summary_mn": "Moonshot AI K3.1 Pro загвар гарсны дараа rate limit болон алдагдсан квотын талаар уучлал гуйж, төлбөртэй гишүүн бүрт сарын квотын 25%-ийг буцаажээ. Мөн шаардлагагүй sub-agent дуудалтыг багасгана.",
+ "body_mn": "Moonshot AI-ийн Kimi K3.1 Pro загвар гарснаас хойш хоёр хоногийн дараа компани rate limit асуудал болон алдагдсан квотын талаар уучлал гуйлаа. Төлбөртэй гишүүн бүр сарын квотынхоо 25%-ийг буцааж авах боломжтой болжээ.\n\nМөн Kimi шаардлагагүй sub-agent дуудалтуудыг багасгаж, хэрэглээг хянах арга хэмжээ авна гэж мэдэгджээ. Энэ нь агент загваруудыг API-гаар ашигладаг хөгжүүлэгчдэд токен болон дуудалтын зардлыг хянах шаардлагатайг сануулж байна.\n\nМэдээнд дэлгэрэнгүй тоо, шинэ rate limit-ийн хязгаар тодорхой дурдагдаагүй тул хэрэглэгчид албан ёсны баримт бичгийг шалгах хэрэгтэй.",
+ "published": "2026-10-26T01:56:56Z",
+ "added": "2026-10-26T05:39:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

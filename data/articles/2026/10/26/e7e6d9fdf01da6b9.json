@@ -1,0 +1,17 @@
+{
+ "id": "e7e6d9fdf01da6b9",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Basic Tutorials",
+ "url": "https://basic-tutorials.com/news/kimi-k3-1-pro-moonshots-new-ai-model-at-a-competitive-price/",
+ "image": "https://basic-tutorials.de/wp-content/uploads/2026/10/kimi-31pro.jpg",
+ "title": "Kimi K3.1 Pro: Moonshot’s New AI Model at a Competitive Price",
+ "summary_en": "Moonshot AI Introduces Kimi K3.1 Pro: 1 million tokens of context, more affordable than Kimi K3, and open weights starting in November 2026.",
+ "title_mn": "Moonshot AI Kimi K3.1 Pro загвараа нээжээ",
+ "summary_mn": "Moonshot AI компани 2.8 их наяд нийт параметр бүхий Kimi K3.1 Pro загвараа гаргалаа. Уг загвар нь 1 сая токенийн контекст цонхтой бөгөөд өмнөх хувилбараасаа хямд үнэтэй байна.",
+ "body_mn": "Moonshot AI компани Kimi K3.1 Pro болон илүү хурдан хариу өгөх зориулалттай Kimi K3.1 Pro Highspeed хувилбаруудаа албан ёсоор танилцууллаа. Энэхүү загвар нь шинэ архитектуртай бус харин Kimi K3 загварыг дахин сургаж, олон зуун даалгаврын хүрээнд бэхжүүлсэн сургалтад хамруулснаараа онцлог юм.\n\nТус загвар нь Mixture-of-Experts (MoE) бүтцийг ашигладаг бөгөөд нийт 2.8 их наяд параметрлэгээс нэг токенийн хувьд 104 тэрбум параметр идэвхждэг. Мөн 1 сая хүртэлх токенийг боловсруулах чадвартай тул том хэмжээний код суурь болон баримт бичгүүдийг нэг дор унших боломжтой.\n\nҮнийн хувьд Moonshot компани өмнөх хувилбараас бараг гуравны нэгээр хямдруулсан бөгөөд Anthropic Claude Opus 5.5-ын тал үнэтэй тэнцэж байна. AI Index үнэлгээнд 4 дүгээр байрт жагссан энэхүү загварын жинг удахгүй нээлттэй болгох ажээ.",
+ "published": "2026-10-26T03:07:20Z",
+ "added": "2026-10-26T05:39:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
