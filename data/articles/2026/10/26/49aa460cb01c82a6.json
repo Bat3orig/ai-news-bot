@@ -1,0 +1,17 @@
+{
+ "id": "49aa460cb01c82a6",
+ "subtopic": "gh-rust",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+ "image": "https://opengraph.githubassets.com/0fd8e14ac5345a3c359f2a01a7a2aa3a760dfbb720c49018a4be98a99f4cceb0/KrushnaVardhanReddy/PaperPilot",
+ "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+ "summary_en": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 220 # Comments: 77",
+ "title_mn": "PaperPilot: WASM болон MCP дэмждэг Rust хэлээр бичигдсэн PDF хэрэгсэл",
+ "summary_mn": "Ямар нэгэн үүлэн үйлчилгээ болон C++ ашиглахгүйгээр дотоод орчинд ажилладаг, Rust хэлээр бичигдсэн PaperPilot PDF хэрэгсэл гарлаа.",
+ "body_mn": "PaperPilot нь бүрэн Rust хэлээр бичигдсэн, ямар нэгэн Chromium болон C++ runtime шаардахгүйгээр дотоод систем дээр ажилладаг PDF болон бичиг баримтын хэрэгсэл юм. Энэхүү хэрэгсэл нь мөн Claude Code болон бусад агентуудтай холбогдох боломжтой Model Context Protocol (MCP) дэмждэг.\n\nХөгжүүлэгчид уг хэрэгслийг ашиглан файл алдагдах эрсдэлгүйгээр дотоод орчинд PDF нэгтгэх, хуваах, OCR хийх болон бусад олон үйлдлийг хийх боломжтой. Мөн уг төсөл нь WASM технологийн тусламжтайгаар хөтөч дээр шууд ажиллах чадвартай байна.\n\nЭнэхүү нээлттэй эх сурвалжтай төсөл нь хөгжүүлэгчдэд болон хиймэл оюун ухааны агентуудад PDF баримт бичигтэй аюулгүй бөгөөд хурдан ажиллах шинэ боломжийг олгож байна.",
+ "published": "2026-10-26T03:29:05Z",
+ "added": "2026-10-26T18:29:27Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

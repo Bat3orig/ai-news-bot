@@ -1,0 +1,17 @@
+{
+ "id": "f681354c3c7af92b",
+ "subtopic": "nextjs",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+ "image": "https://cdn.bloffy.blog/korindiehacker/articles/469/1792976193085-aneuvk",
+ "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+ "summary_en": "Article URL: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category Comments URL: https://news.ycombinator.com/item?id=50237712 Points: 189 # Comments: 118",
+ "title_mn": "Next.js-ийг болиулж блогынхоо хурдыг 100 хувьд хүргэсэн нь",
+ "summary_mn": "Хөгжүүлэгч өөрийн блогыг илүү хурдан болгохын тулд Next.js фрэймворкийг орхиж, статик байдлаар Cloudflare дээр байршуулснаар бүх үзүүлэлтээр 100 оноо авчээ.",
+ "body_mn": "Нэгэн хөгжүүлэгч өөрийн блогынхоо гүйцэтгэлийг сайжруулах зорилгоор өргөн ашигладаг Next.js фрэймворкийг халж, статик сайт болгон өөрчилсөн туршлагаасаа хуваалцжээ. Тэрээр Next.js-ийн кэшлэх систем болон Vercel үйлчилгээ нь хэдийгээр тохиромжтой боловч зарим тохиолдолд илүүдэл төвөгтэй байдал үүсгэж байгааг онцолсон байна.\n\nТуршилтын үр дүнд блогын хуудас ачаалагдах хурд болон Lighthouse оноо бүх ангилалд 100 болж сайжирсан байна. Хөгжүүлэгч нь сервер талын тооцоолол шаардлагагүй энгийн блогт Cloudflare зэрэг энгийн CDN болон статик файлууд илүү үр дүнтэй болохыг тогтоожээ.\n\nЭнэхүү туршлага нь үргэлж хамгийн сүүлийн үеийн хүнд фрэймворк ашиглах шаардлагагүй бөгөөд төслийн цар хүрээнээс шалтгаалан хөнгөн шийдэл сонгох нь ямар чухал болохыг харуулж байна.",
+ "published": "2026-10-26T01:03:39Z",
+ "added": "2026-10-26T18:29:27Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

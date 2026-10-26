@@ -1,0 +1,17 @@
+{
+ "id": "7e73eebe3e909303",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/4HesvKzyeH10Tdn3X9RNpq/28039b261753134c4addc73a90aa3103/fanatics-seo-image.png?w=1600&h=900&fit=fill",
+ "title": "How Fanatics and OpenAI streamline the fan experience",
+ "summary_en": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+ "title_mn": "Fanatics болон OpenAI хамтран спорт сонирхогчдод зориулсан шинэ боломж нээв",
+ "summary_mn": "Fanatics болон OpenAI компаниуд хамтран OpenAI загваруудад суурилсан Shop the Look цахим худалдааны шинэ боломжийг хэрэглэгчдэд хүргэлээ.",
+ "body_mn": "Дэлхийн дижитал спортын платформ Fanatics болон OpenAI компаниуд хамтран спортын хувцас захиалгыг илүү хялбар болгох зорилготой Shop the Look шинэ функсийг албан ёсоор нээлээ. Энэхүү шийдэл нь хэрэглэгчдэд дуртай багийнхаа өмсгөлд тохирсон бусад бүтээгдэхүүнийг автоматаар санал болгох юм.\n\nFanatics компани өөрийн үйл ажиллагаандаа ChatGPT Work болон Codex хэрэгслүүдийг өргөнөөр ашигладаг бөгөөд энэхүү шинэ рекомендацийн системийг хөгжүүлэгчдийнхээ багтай хамтран ердөө хэдхэн хоногийн дотор бүтээжээ. OpenAI-ийн загварууд нь бараа бүтээгдэхүүний дата болон багийн мэдээлэлд дүн шинжилгээ хийж, хэрэглэгчийн сонирхолд нийцсэн хувцасны хослолыг өдөр бүр шинэчлэн санал болгодог байна.\n\nТуршилтын явцад уг шинэ боломж нь өмнөх хувилбараасаа 10 хувиар өндөр харилцаа холбоо, оролцоог үзүүлсэн бөгөөд одоо NFL, NBA, MLB болон NHL албан ёсны дэлгүүрүүдэд амжилттай ажиллаж байна.",
+ "published": "2026-10-26T07:00:00Z",
+ "added": "2026-10-26T18:29:27Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "6a2151a9f69bf968",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-sandbox-commands-now-support-stdin",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5dY5BlQlLCIwHCWYtjuBJf/8069d2dead7219f677f7336638a54f65/stdin_sandbox.png",
+ "title": "Vercel Sandbox commands now support stdin",
+ "summary_en": "Vercel Sandbox now lets you send input to running commands through standard input (stdin). Use it to exchange messages with stdio MCP servers such as agent-browser , or send data to other command-line programs while they run. In the TypeScript SDK, set stdin: true and detached: true in runCommand() . Use writeStdin() to send input and closeStdin() when you’re done: You can also set stdin to a Node.js readable stream, such as process.stdin . The SDK forwards the stream’s data and closes the command’s standard input when the stream ends. In the Python SDK, set stdin=subprocess.PIPE and send…",
+ "title_mn": "Vercel Sandbox команд стандарт оролтын (stdin) дэмжлэгтэй боллоо",
+ "summary_mn": "Vercel Sandbox нь ажиллаж буй командууд руу стандарт оролтоор (stdin) өгөгдөл илгээх боломжтой болж шинэчлэгдлээ.",
+ "body_mn": "Vercel Sandbox нь хөгжүүлэгчдэд ажиллаж буй команд болон серверүүд рүү стандарт оролтын (stdin) тусламжтайгаар шууд өгөгдөл илгээх боломжийг олгож эхэллээ. Энэхүү шинэчлэлтийн тусламжтайгаар agent-browser зэрэг stdio MCP серверүүд болон бусад тушаалын мөрний програмуудтай харилцах боломжтой болж байна.\n\nTypeScript болон Python SDK-ийн аль алинд нь энэхүү боломж нэмэгдсэн бөгөөд хөгжүүлэгчид runCommand болон холбогдох функцуудыг ашиглан процесстой өгөгдөл солилцох, stdin урсгалыг удирдах боломжтой болжээ.\n\nЭнэ нь үүлэн орчинд ажиллаж буй агентууд болон автоматжуулалтын хэрэгслүүдийн хоорондын харилцааг илүү уян хатан болгож байна.",
+ "published": "2026-10-26T06:00:00Z",
+ "added": "2026-10-26T18:29:27Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
