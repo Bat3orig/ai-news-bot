@@ -1,0 +1,17 @@
+{
+ "id": "970522b96a1d3892",
+ "subtopic": "anthropic",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://minimaxir.com/2026/10/cheap-llms/",
+ "image": "https://minimaxir.com/2026/10/cheap-llms/vercel.png",
+ "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+ "summary_en": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 111 # Comments: 132",
+ "title_mn": "OpenAI болон Anthropic LLM загваруудынхаа үнийг хэрхэн бууруулсан бэ?",
+ "summary_mn": "OpenAI болон Anthropic компаниуд сүүлийн саруудад хэл ярианы загваруудынхаа үнийг 80 хүртэл хувиар бууруулсны шалтгаан болон үнийн өөрчлөлтийн тойм.",
+ "body_mn": "Сүүлийн саруудад OpenAI болон Anthropic компаниуд өөрсдийн том хэл ярианы загваруудын үнийг эрс буурууллаа. OpenAI компани GPT-5.6 Luna загварынхаа үнийг 80 хувиар хямдруулж, оролт болон гаралт, кэш училтын төлбөрийг эрс багасгасан бол Anthropic мөн Claude Sonnet болон Opus загваруудынхаа үнийг бууруулсан байна.\n\nЯлангуяа кодын агент боловсруулалтад кэш училтын зардал нийт токений зарцуулалтын дийлэнх хэсгийг эзэлдэг тул кэш училтын үнийг 75 хувиар бууруулсан нь хөгжүүлэгчдэд шууд нөлөөлөхүйц том өөрчлөлт юм. Энэ нь хиймэл оюун ухааны зах зээл дэх өрсөлдөөн хэрхэн хурцдаж, хөгжүүлэгчдэд ямар хэмнэлт авчирч байгааг харуулж байна.",
+ "published": "2026-10-25T21:11:31Z",
+ "added": "2026-10-26T00:54:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

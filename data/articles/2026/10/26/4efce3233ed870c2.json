@@ -1,0 +1,17 @@
+{
+ "id": "4efce3233ed870c2",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "OpenTools",
+ "url": "https://opentools.ai/news/anthropic-life-sciences-guest-investigator-program-applications-data",
+ "image": "https://imagedelivery.net/FCiXvK7dG4mSm_W_033WNA/editorial-news-56c20c6b99551d0413b706870f792d9bfd577240439396da5da1f9ce4fb1d173/editorialhero",
+ "title": "Anthropic invites life-science labs to propose short research collaborations with Claude",
+ "summary_en": "Anthropic’s life-science guest-investigator program offers selected labs 8–12-week collaborations. Here are the proposal, data and timing limits.",
+ "title_mn": "Anthropic амьдрал судлалын лабораториудад Claude-тай хамтран ажиллах урилга хүргүүллээ",
+ "summary_mn": "Anthropic компани амьдрал судлалын эрдэмтэн судлаачдад Claude загварыг ашиглан 8-12 долоо хоногийн турш хамтран ажиллах боломжийг олгож байна.",
+ "body_mn": "Anthropic компани биологийн ухаан, эмийн нээлт болон клиник шинжлэх ухааны чиглэлээр ажилладаг эрдэмтэн судлаачдад зориулсан зочин-судлаачийн хөтөлбөр зарлалаа. Энэхүү хөтөлбөр нь сонгогдсон судалгааны багуудад Anthropic-ийн судлаачидтай хамтран ажиллаж, тэдний модель болон хэрэгслүүдийг ямар ч төлбөргүйгээр ашиглах боломжийг олгох юм.\n\nОролцогчид 8-12 долоо хоногийн хугацаанд тодорхой үр дүнд хүрэхүйц төслийн санаа дэвшүүлэх ёстой бөгөөд урьдчилсан нотолгоо гаргах эсвэл нээлттэй өгөгдлийн сан үүсгэх зорилготой байна. Судлаачид зөвхөн олон нийтэд нээлттэй мэдээллийг ашиглах ба өөрсдийн өгөгдлийн эрхээ бүрэн хадгалан үлдэх ажээ. Энэ нь шинжлэх ухааны судалгаанд хиймэл оюун ухааныг гүнзгийрүүлэн нэвтрүүлэхэд чухал алхам юм.",
+ "published": "2026-10-25T21:59:38Z",
+ "added": "2026-10-26T00:54:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

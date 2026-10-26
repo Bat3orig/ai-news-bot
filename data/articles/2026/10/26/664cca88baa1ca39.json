@@ -1,0 +1,17 @@
+{
+ "id": "664cca88baa1ca39",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "OpenTools",
+ "url": "https://opentools.ai/news/claude-google-cloud-anthropic-managed-processor-billing-regions",
+ "image": "https://imagedelivery.net/FCiXvK7dG4mSm_W_033WNA/editorial-news-9e82dd87908002c82c100178b5ccb22494e5c3cad941f85b2febb7aba59b6079/editorialhero",
+ "title": "Claude adds an Anthropic-managed Google Cloud route with different processor and feature choices",
+ "summary_en": "Claude’s Anthropic-managed Google Cloud service is generally available. Compare processor, endpoints, IAM, billing, beta features and discount requirements.",
+ "title_mn": "Anthropic-ийн удирдах Google Cloud дамжлагаар Claude Platform боломжтой боллоо",
+ "summary_mn": "Google Cloud хэрэглэгчид одоо Claude Platform-ийн бүх боломжийг өөрсдийн Google Cloud эрх болон нэхэмжлэхээр ашиглах боломжтой боллоо.",
+ "body_mn": "Google Cloud дээрх Claude загварууд (Anthropic удирдлагатай) албан ёсоор нээлттэй болсноор хэрэглэгчид Google Cloud баталгаажуулалт болон тооцооны системийг ашиглан Claude Platform-д хандах боломжтой боллоо. Энэхүү үйлчилгээ нь Claude API-ийн бүх боломжийг багтаасан бөгөөд шинэ шинэчлэлтүүд болон бета хувилбарууд native платформтой яг нэг өдөр гарч байхаар зохион байгуулжээ.\n\nЭнэхүү шинэ сонголт нь байгууллагуудад Google Cloud IAM болон дансны системээр дамжуулан үйлчилгээ авах боломж олгож байгаа бөгөөд Anthropic нь үйлчилгээг бие даан гүйцэтгэгч байдлаар ажиллана. Гэсэн хэдий ч бүс нутгийн дата хадгалалтын хатуу шаардлагатай эсвэл Model Armor зэрэг Google-ийн нэгдсэн үйлчилгээг ашиглах шаардлагатай багууд хуучин Google-ээр удирдуулсан зам сонгох боломжтой хэвээр үлджээ.",
+ "published": "2026-10-25T22:24:48Z",
+ "added": "2026-10-26T00:54:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
