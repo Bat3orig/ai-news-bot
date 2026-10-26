@@ -1,0 +1,17 @@
+{
+ "id": "052948909863f2b4",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "XDA",
+ "url": "https://www.xda-developers.com/users-report-that-anthropic-blocked-claude-from-reverse-engineering-tvs/",
+ "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/macbook-air-in-chrome-showing-the-claude-code-product-page-with-a-download-for-macos-button.jpeg?w=1600&h=900&fit=crop",
+ "title": "Users report that Anthropic blocked Claude from reverse-engineering TVs",
+ "summary_en": "Too much of a good thing?",
+ "title_mn": "Anthropic компани Claude загвараар ухаалаг зурагт задлахыг хориглосон бололтой",
+ "summary_mn": "Хэрэглэгчдийн мэдээлж буйгаар Anthropic компани Claude Code болон Opus 5.5 загваруудын хамгаалалтын системд өөрчлөлт оруулж, ухаалаг зурагтны үйлдлийн систем задлах хүсэлтүүдийг блоклож эхэлжээ.",
+ "body_mn": "Өнгөрсөн долоо хоногт хөгжүүлэгчид Claude Code ашиглан ухаалаг зурагтны үйлдлийн систем (жишээ нь Samsung-ийн Tizen OS)-ийг задлах, зар сурталчилгааг арилгах зэрэг сонирхолтой туршилтуудыг хийж байсан билээ. Гэвч энэ байдал удаан үргэлжилсэнгүй бололтой.\n\nClaudeAI Reddit болон бусад платформ дээрх хэрэглэгчдийн мэдээлж буйгаар, Claude Opus 5.5 загвар ухаалаг зурагт задлах хүсэлт ирэхэд хамгаалалт (guardrail) асаж, уг үйлдлийг гүйцэтгэхээс татгалзах болжээ. Сонирхолтой нь, ижил төстэй аргуудыг видео тоглоом задлахад ашиглахад ямар нэгэн хориг саад гарахгүй хэвээр байгаа аж.\n\nЭнэ нь Anthropic компани ухаалаг зурагтны jailbreak хийх явдлыг таслан зогсоохын тулд аюулгүй байдิйн дүрэмдээ өөрчлөлт оруулсныг илтгэж байна. Хэдийгээр албан ёсны баталгаа хацуухан байгаа ч ийм хязгаарлалт нь хөгжүүлэгчдийг өөр бусад хиймэл оюун ухааны загварууд эсвэл нээлттэй эх үүсвэртэй шийдлүүдийг ашиглахад түлхэж болзошгүй юм.",
+ "published": "2026-10-26T07:20:31Z",
+ "added": "2026-10-26T11:59:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

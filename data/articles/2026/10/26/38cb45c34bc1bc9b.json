@@ -1,0 +1,17 @@
+{
+ "id": "38cb45c34bc1bc9b",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "머니투데이",
+ "url": "https://www.mt.co.kr/en/tech/2026/10/26/2026102613571459761",
+ "image": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1118,fit=cover,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026102613571459761_1.jpg",
+ "title": "\"Gap with South Korea Too Wide\"... Emergency Response as China's Moonshot AI Unveils 'Kimi' Performance",
+ "summary_en": "Performance Comparison of Major Global AI Models / Graphic by Kim Hyeon-jeong As a Chinese artificial intelligence (AI) company unveiled an ultra-large-scale AI model boasting GPT-6-level",
+ "title_mn": "Хятадын Moonshot AI компанийн шинэ Kimi загвар зах зээлд томоохон түгшүүр төрүүллээ",
+ "summary_mn": "Хятадын Moonshot AI компани GPT-6 түвшний гүйцэтгэлтэй Kimi K3.1 Pro загвараа гаргасан нь дэлхийн хиймэл оюун уулын зах зээлд, ялангуяа Азийн орнуудад томоохон хэлэлцүүлэг өрнүүлж байна. Энэ загвар нь код бичих болон үнийн хувьд өндөр өрсөлдөх чадвартай юм.",
+ "body_mn": "Хятадын хиймэл оюун уулын стартап Moonshot AI компани саяхан танилцуулсан Kimi K3.1 Pro загвараараа AI салбарт шинэ шуурга тарилаа. Уг загвар нь 2.8 триллион нийт параметр болон MoE архитектурыг ашигладаг бөгөөд нэг сая токеныг нэг дор боловсруулах чадвартай. Artificial Analysis үнэлгээгээр энэхүү загвар нь OpenAI болон бусад тэргүүлэгчдийн загваруудтай өрсөлдөхүйц түвшинд хүрсэн байна.\n\nKimi K3.1 Pro нь код бичих болон терминалын даалгавруудад (TerminalBench 4.0) өндөр оноо авсан бөгөөд API ашиглалтын үнэ нь Claude Opus 5.5 загвартай харьцуулахад хоёр дахин хямд байгаа юм. Энэ нь программ хангамж хөгжүүлэгчид болон компаниудад хямд өртгөөр өндөр хүчин чадалтай LLM ашиглах боломжийг олгож байна.\n\nГэсэн хэдий ч энэхүү дэвшил нь Өмнөд Солонгос зэрэг орны технологийн салбарт томоохон түгшүүр төрүүлж, үндэсний хэмжээний хиймэл оюун уулын төслүүд болон нөөц бололцоогоо дахин нягтлах шаардлагатайг мэргэжилтнүүд сануулж байна. Moonshot AI ирэх сард загварынхаа жинг нээлттэй болгохоор төлөвлөжээ.",
+ "published": "2026-10-26T05:28:41Z",
+ "added": "2026-10-26T11:59:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "f3ab16cd49d1ff1d",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/faster-pnpm-installs",
+ "image": "https://vercel.com/api/dynamic-og?title=Faster%20pnpm%20installs&format=changelog",
+ "title": "Faster pnpm installs",
+ "summary_en": "pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build. For Pro deployments with restored build cache, we observed 14% lower average install times with the optimization enabled. Vercel now reuses successful dependency verification across deployments. In the best case, when dependencies are unchanged and the previous verification can be reused, installs can complete in milliseconds. Before: type: embedded-entry-inline id: 4AGN257WKPLKtImRHWI6pR After: type: embedded-entry-inline id: 7khPGeUapv18SPPoDw6Wq4 This improvement is available on all…",
+ "title_mn": "Vercel дээр pnpm ашиглан сан суулгах хугацааг илүү хурдан болголоо",
+ "summary_mn": "Vercel платфор дээр pnpm ашиглан хамааралтай сангуудыг суулгах явц хурдасч, дунджаар 14%-иар бага хугацаа шаардагдах боллоо. Өмнөх амжилттай шалгалтуудыг дахин ашигласнаар build хийх хугацааг мэдэгдэхүйц багасгасан байна.",
+ "body_mn": "Vercel систем дээр pnpm ашиглан сан суулгах (install) процессыг оновчтой болгосноор build хийхээс өмнө зарцуулагдах хугацааг багасгажээ. Ялангуяа Pro түвшний хэрэглэгчдийн хувьд build cache сэргээгдсэн үед сан суулгах дундаж хугацаа 14%-иар буурсан байна.\n\nШинэчлэлтийн хүрээнд Vercel нь сангуудын баталгаажуулалтын үр дүнг өмнөх deployments хооронд дахин ашиглах боломжтой болгожээ. Хэрэв сангууд ямар нэгэн өөрчлөлтгүй байвал өмнөх баталгаажуулалтыг шууд ашиглаж, суурилуулалт хэдхэн миллисекундэд дуусах боломжтой болж байна.\n\nЭнэхүү сайжруулалт нь ямар нэгэн тусгай тохиргоо хийх шаардлагагүйгээр бүх багц дээр автоматаар хэрэгжиж байгаа бөгөөд вебапп хөгжүүлэгчдийн хүлээх хугацааг багасгахад чухал нөлөө үзүүлнэ.",
+ "published": "2026-10-26T00:00:00Z",
+ "added": "2026-10-26T11:59:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

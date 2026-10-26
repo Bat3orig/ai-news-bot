@@ -1,0 +1,17 @@
+{
+ "id": "fdcbad05d0a74299",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Tekedia",
+ "url": "https://www.tekedia.com/chinas-moonshot-ai-restricts-kimi-k3-1-pros-cyber-capabilities-ahead-of-open-weight-release/",
+ "image": "https://www.tekedia.com/wp-content/uploads/2026/07/kimi.jpg",
+ "title": "China’s Moonshot AI Restricts Kimi K3.1 Pro’s Cyber Capabilities Ahead of Open-Weight Release",
+ "summary_en": "Chinese artificial intelligence startup Moonshot AI has reduced the cyber-offensive capabilities of its latest model ahead of its planned open-weight release, highlighting growing efforts to balance the benefits of powerful AI systems with concerns that they could make sophisticated cyberattacks easier to execute. Beijing-based Moonshot announced the safeguards on Saturday alongside the introduction of Kimi […]",
+ "title_mn": "Moonshot AI компани Kimi K3.1 Pro загварынхаа кибер аюулгүй байдлын боломжийг хязгаарлав",
+ "summary_mn": "Хятадын Moonshot AI компани шинээр гаргахаар зэхэж буй Kimi K3.1 Pro нээлттэй жинтэй (open-weight) загварынхаа кибер халдлага үйлдэх чадварыг албаар хязгаарлажээ.",
+ "body_mn": "Хятадын хиймэл оюун ухааны стартап Moonshot AI шинээр танилцуулж буй Kimi K3.1 Pro загвараа олон нийтэд нээлттэй жинтэйгээр гаргахаас өмнө түүний кибер халдлагын чадварыг бууруулжээ. Энэ нь хүчирхэг хиймэл оюун ухааны системүүд хорлон сүйтгэх кибер халдлагад ашиглагдахаас урьдчилан сэргийлэх зорилготой юм.\n\nБээжин хотод төвтэй Moonshot компани уг загварынхаа сургалтын болон бататгах сургалтын (reinforcement-learning) орчноос кибер аюулгүй байдалтай холбоотой өгөгдлийг хассан байна. Үүний үр дүнд уг загварын дотоод кибер тестийн оноо 90.5 хувиас 81.0 хувь болж буурсан ч хөгжүүлэгчдэд зориулсан ерөнхий программчлалын боломж нь хэвээр үлджээ.\n\nЭнэхүү шийдвэр нь хөгжүүлэгчид болон судлаачдад загварын жинг өөрийн дэд бүтцэд татаж ашиглах боломжийг олгохын зэрэгцээ аюулгүй байдлын эрсдэлийг бууруулах чухал алхам болж байна. Moonshot компани загварын жинг November 4 гэхэд олон нийтэд хүргэхээр төлөвлөж байна.",
+ "published": "2026-10-26T07:28:51Z",
+ "added": "2026-10-26T11:59:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

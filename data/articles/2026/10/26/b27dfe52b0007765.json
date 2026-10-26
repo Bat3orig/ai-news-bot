@@ -1,0 +1,17 @@
+{
+ "id": "b27dfe52b0007765",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "VentureBeat",
+ "url": "https://venturebeat.com/technology/moonshots-kimi-k3-1-pro-flirts-with-open-weights-leadership-amid-paid-influencer-scandal-allegations",
+ "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6lorlthsS18MxWgX6qwNXC/d3057bde73c4db96b1aaafaa94e3a417/16c656f7-12bd-4168-9757-7ccb8d9e96ac.png?w=800&q=75",
+ "title": "Moonshot's Kimi K3.1 Pro flirts with open weights leadership amid paid influencer scandal allegations",
+ "summary_en": "The model excels at complex coding, financial analysis, 3D creation, and software-security work, showing particularly large improvements in tasks requiring repeated coding, tool use, debugging, and revision.",
+ "title_mn": "Moonshot AI компани Kimi K3.1 Pro загвараа танилцуулж, нээлттэй жинтэй хувилбараа гаргахаа зарлалаа",
+ "summary_mn": "Хятадын Moonshot AI компани 2.8 триллион параметр бүхий Kimi K3.1 Pro загвараа албан ёсоор танилцууллаа. Энэхүү загвар нь код бичих болон агентын даалгаврын гүйцэтгэлээрээ дэлхийн шилдэг загваруудын эгнээнд багтаж байгаа бөгөөд арваннэгдүгээр сарын 4-нд жингээ нээлттэй болгоно.",
+ "body_mn": "Хятадын AI стартап Moonshot AI өөрийн хамгийн дэвшилтэт том хэлний загвар болох Kimi K3.1 Pro-г танилцууллаа. Уг загвар нь нийт 2.8 триллион параметр бүхий MoE (Mixture of Experts) архитектуртай бөгөөд нэг сая токены контекст цонхыг боловсруулах чадвартай юм. Гүйцэтгэлийн хувьд уг загвар нь өмнөх хувилбаруудаасаа эрс сайжирч, гуравдагч талын benchmark шалгууруудад дээд амжилт тогтоож эхэлжээ.\n\nArtificial Analysis платформын үнэлгээгээр Kimi K3.1 Pro нь код бичих, санхүүгийн шинжилгээ хийх, дибаг хийх болон олон алхамт агентын ажлуудад онцгой өндөр оноо авсан байна. Ялангуяа терминалын болон хөгжүүлэлтийн даалгавруудад бусад өрсөлдөгчөөсөө давуу болохоо харуулжээ. API ашиглалтын үнийн хувьд Claude Opus 5.5 загварын тал үнэтэй байгаа нь хөгжүүлэгчдэд санхүүгийн хувьд өндөр хэмнэлттэй хувилбар болж байна.\n\nКомпани уг загварынхаа жинг (weights) ирэх арваннэгдүгээр сарын 4-нд нээлттэй лицензээр олон нийтэд гаргахаа зарласан нь хөгжүүлэгчдэд өөрсдийн сервер дээр ажиллуулах эсвэл нэмэлт сургалт хийх боломжийг олгох юм. Гэсэн хэдий ч уг загварын гаргасан амжилтын эргэн тойронд цахим орчинд нөлөөлөгчдийн дуулиан шуугиан дэгдээд байгаа аж.",
+ "published": "2026-10-25T03:32:18Z",
+ "added": "2026-10-26T11:59:26Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
