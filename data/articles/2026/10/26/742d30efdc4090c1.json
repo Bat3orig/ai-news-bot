@@ -1,0 +1,17 @@
+{
+ "id": "742d30efdc4090c1",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/openai-cut-incident-investigation",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/6H0c65mearAtOzTfg4UZNj/28cc9c689c98e9bd68ca92f8c40d9818/oai-ultrafast-series-og-2048.png?w=1600&h=900&fit=fill",
+ "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+ "summary_en": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+ "title_mn": "OpenAI компани дотооддоо Ultrafast горимыг хэрхэн ашиглаж байгаа талаар хуваалцлаа",
+ "summary_mn": "OpenAI компани Codex хэрэгслийн Ultrafast горимыг ашиглан системийн осол болон алдааг шалгах хугацааг хэдэн цагаас хэдхэн минут болгон бууруулсан туршлагаасаа хуваалцлаа.",
+ "body_mn": "OpenAI компани өөрсдийн инженерүүд Codex хэрэгслийн өндөр хурдны горим болох Ultrafast-ийг ашиглан системийн осол болон аюулгүй байдлын асуудлыг хэрхэн шуурхай шийдвэрлэж буй талаар мэдээллээ. Өмнө нь хэдэн цаг зарцуулдаг байсан мэдээлэл цуглуулах, дүн шинжилгээ хийх ажлууд одоо хэдхэн минут эсвэл бодит цаг хугацаанд хийгддэг болжээ.\n\nИнженерүүдийн хувьд энэхүү хурд нь олон боломжит шалтгааруудыг нэгэн зэрэг шалгах, Slack болон бусад эх сурвалжаас холбогдох мэдээллийг шуурхай олох боломжийг олгож байна. Үүний үр дүнд инженерүүдийн анхаарэл сарниж цаг алдах явдал багасч, техникийн өрийг барагдуулах болон код шинэчлэх ажлууд эрс хурдассан байна.\n\nMөн зарим инженерүүд Codex-ийг өдөр тутмын хуваарь болон мартсан зурвасуудаа сануулах туслах байдлаар ашиглаж эхэлжээ.",
+ "published": "2026-10-26T07:00:00Z",
+ "added": "2026-10-26T22:49:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "8f5082d843e3a2e0",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/customizable-widgets-for-project-cards",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2YAEANPjhATfsdXhkTAjWa/613806200c6759ddb96a9652b63775fd/widgets-dark-og.png",
+ "title": "Customizable widgets for project cards",
+ "summary_en": "The Overview tab in the dashboard now lets you choose which metric appears on each project card. Project cards used to show a fixed Real Experience Score in the top right, but not everyone on your team watches the same signal. You can now swap that slot for whichever metric matters for that project. A security-sensitive project can show firewall activity, while a marketing site project shows traffic. Available widgets Firewall: allowed requests, denied requests Observability: alerts, edge requests, function invocations, error rate Speed Insights: Real Experience Score, LCP, CLS Web…",
+ "title_mn": "Vercel: Төслийн картуудад зориулсан өөрчлөх боломжтой виджетүүд",
+ "summary_mn": "Vercel платформын хяналтын самбар дээрх төслийн картуудад хэрэглэгчид өөрсдийн хүссэн метрик болон виджетээ сонгон байрлуулах боломжтой боллоо.",
+ "body_mn": "Vercel компани хөгжүүлэгчдэд зориулсан хяналтын самбарынхаа Overview таб дээр шинэ боломж нэмснээр төслийн карт бүр дээр ямар метрик харагдахыг өөрчлөх боломжтой болжээ.\n\nӨмнө нь төслийн картуудын баруун дээд булан тогтмол үзүүлэлттэй байсан бол одоо баг бүр өөрсдийн анхаар хандуулдаг гол сигналыг сонгох боломжтой болсон байна. Тухайлбал, аюулгүй байдлын төсөлд галт хананы үйл ажиллагааг харуулах бол маркетинг сайтын хувьд траффикийн мэдээллийг харуулах юм.\n\nЭнэхүү тохиргоог төслийн картын баруун дээд булан дахь цэснээс хийх бөгөөд сонгосон утга нь хэрэглэгчийн аккаунтад хадгалагдаж, төхөөрөмж болон шинэчлэлтүүдийн хооронд хадгалагдах ажээ.",
+ "published": "2026-10-26T00:00:00Z",
+ "added": "2026-10-26T22:49:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

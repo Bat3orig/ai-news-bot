@@ -1,0 +1,17 @@
+{
+ "id": "e9e2786bc9918264",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "The Rundown AI",
+ "url": "https://www.therundown.ai/articles/kimi-continues-to-challenge-the-frontier-with-k3-1-pro",
+ "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5f605675-e7a0-4e53-9106-2fa501f45ea0/kimik31pro.png?t=1792967869",
+ "title": "Kimi continues to challenge the frontier with K3.1 Pro",
+ "summary_en": "Moonshot's Kimi K3.1 Pro challenges the AI frontier, closing in on top models from Anthropic and Meta. Plus: learn how to let AI sign in without sharing your…",
+ "title_mn": "Moonshot AI K3.1 Pro загвараа танилцуулж, салбарын хэмжээнд өрсөлдөж байна",
+ "summary_mn": "Moonshot AI компани K3.1 Pro загвараа танилцуулсан нь гол үнэлгээгээр дэлхийн шилдэг загваруудын эгнээнд бичигдэхэд хүргэлээ. Тус загварын нээлттэй жингүүд удахгүй гарах төлөвтэй байна.",
+ "body_mn": "Хятадын Moonshot AI лаборатори K3.1 Pro загвараа олон нийтэд зарласан нь хиймэл оюун ухааны салбарт томоохон шуугиан тариад байна. Artificial Analysis үнэлгээгээр уг загвар Intelligence Index-ийн 4 дүгээрт бичигдэж, OpenAI болон бусад томоохон компаниудын загваруудтай өрсөлдөхүйц түвшинд хүрснийг харуулжээ.\n\nКомпанийн зүгээс уг загвар нь цаг үргэлжилсэн код бичих төслүүд, мэргэжлийн академик судалгаа болон баримт бичиг боловсруулахад өндөр үзүүлэлттэй байгааг тэмдэглэсэн байна. Мөн кибер хамгаалалтын чиглэлээр сайн үр дүн үзүүлж байгаа нь аюулгүй байдлын шалгууруудад эерэгээр нөлөөлж байна.\n\nЭнэхүү шинэ загвар нь API хэрэглэгчдийн хувьд боломжийн үнэтэй хэдий ч token зарцуулалтын хурдаараа анхаарал хандуулах шаардлагатайг мэргэжилтнүүд онцолж байна. Ирэх сард нээлттэй жингүүд нь гарснаар open-source болон open-weight зах зээлд томоохон өөрчлөлт авчирна гэж хүлээгдэж байна.",
+ "published": "2026-10-26T12:00:30Z",
+ "added": "2026-10-26T22:49:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

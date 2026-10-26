@@ -1,0 +1,17 @@
+{
+ "id": "6dcabc6911defa4f",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/create-custom-monitors-in-vercel-observability",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6XwJcOfZBMXtJa240qupsL/e60fa83be853491ca85f79e971051ed6/custom_monitors_final_og_2.png",
+ "title": "Create custom monitors in Vercel Observability",
+ "summary_en": "You can now create custom monitors to get alerts based on your Vercel Observability query results. For example, you can track signals such as AI Gateway costs, Core Web Vitals and other performance metrics, Workflow and external API failure rates, or Vercel Sandbox CPU time. Each monitor tracks a single metric, such as response time, or a ratio of two metrics, such as errors divided by total requests. Choose statistical anomaly detection or a fixed threshold, then configure the detection window, filters, and grouping. To create a monitor, inspect a chart’s query in Observability, start from…",
+ "title_mn": "Vercel Observability хэсэгт дурын монитор үүсгэх боломжтой боллоо",
+ "summary_mn": "Vercel Observability үйлчилгээнд хөгжүүлэгчид өөрсдийн хүссэн метрик болон API зардлыг хянах тусгай монитор үүсгэж, сэрүүлэг авах боломжтой болжээ.",
+ "body_mn": "Vercel платформ нь Observability хэрэгсэлдээ хэрэглэгчийн хүссэн шалгуураар сэрүүлэг илгээх тусгай монитор үүсгэх боломжийг нэмлээ. Ингэснээр хөгжүүлэгчид AI Gateway-ийн зардал, вэб сайтын гүйцэтгэлийн үзүүлэлт болон гадаад API-ийн алдааны хувь хэмжээг хянах боломжтой болж байна.\n\nМонитор бүр нь тодорхой хариу өгөх хугацаа эсвэл алдааны харьцаа зэрэг сигналыг хянах бөгөөд гажиг илрүүлэх эсвэл тогтмол босго утга тогтоох замаар ажилладаг. Мөн JSON файл ашиглан Vercel CLI хэрэгслээс монитор үүсгэх боломжтой юм.\n\nСэрүүлгийн мэдээллийг Slack, имэйл болон webhook хэлбэрээр хүлээн авах ба Observability Plus багц хэрэглэгчдэд энэхүү боломж нээлттэй байна.",
+ "published": "2026-10-26T06:00:00Z",
+ "added": "2026-10-26T22:49:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

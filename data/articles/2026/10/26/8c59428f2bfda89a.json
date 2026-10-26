@@ -1,0 +1,17 @@
+{
+ "id": "8c59428f2bfda89a",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-agent-can-now-validate-alerts-before-paging-you",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5g6l4zT6778Ca72lPuhffr/433b6abd9a406a6780145217260ed3ec/agent_o11y_alerts.png",
+ "title": "Vercel Agent can now validate alerts before paging",
+ "summary_en": "Vercel Agent can now investigate alerts from Vercel monitors before they reach your paging system. With validation enabled for a webhook destination, only alerts Agent classifies as Critical are sent to it. To enable validation: Open a monitor’s notification settings and create or link a webhook destination for your paging system, such as incident.io. Select Critical Only next to that destination. You can also configure notification destinations with the Vercel CLI using vercel monitors notifications . Add --critical-only when linking or updating a webhook destination. Agent checks logs and…",
+ "title_mn": "Vercel Agent сэрүүлгийг шалгаж баталгаажуулдаг боллоо",
+ "summary_mn": "Vercel Agent нь мониторын сэрүүлгүүдийг алдаа хяналтын системд хүрэхээс өмнө шалгаж, зөвхөн чухал асуудлуудыг мэдэгддэг боллоо.",
+ "body_mn": "Vercel платформын шинэчлэлтээр Vercel Agent нь сэрүүлгийн мэдэгдлүүдийг бодит байдалд нөлөөлөх эсэхэд урьдчилан дүн шинжилгээ хийх боломжтой болжээ. Хэрэв вэбhook чиглүүлэлт дээр Critical Only тохиргоог идэвхжүүлсэн бол зөвхөн агентын чухал гэж үнэлсэн асуудлууд л хяналтын систем рүү илгээгдэнэ.\n\nЭнэхүү агент нь лог болон метрикүүдийг шалгаж хэрэглэгчдэд бодитойгоор нөлөөлж буй эсэхийг тодорхойлдог. Тухайлбал, үйлчлүүлэгчдэд нөлөөлөхгүй эрүүл мэндийн шалгалтын алдааг ялгаж салгах боломжтой юм.\n\nЭнэхүү боломж нь Pro болон Enterprise багц дахь Observability Plus үйлчилгээний хүрээнд ажиллах ба хөгжүүлэгчдэд системийн доголдлыг илүү хурдан бөгөөд оновчтой олж тогтооход тусална.",
+ "published": "2026-10-26T06:00:00Z",
+ "added": "2026-10-26T22:49:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

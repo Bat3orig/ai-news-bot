@@ -1,0 +1,17 @@
+{
+ "id": "66c29e84d3f59e2f",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/gpt-6-1-terra-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2SwiRCJ2yQI6jiStpqx4n4/f327115564457532b4d646d8b597a55f/Vercel_x_OpenAI.png",
+ "title": "GPT-6.1 Terra now available on AI Gateway",
+ "summary_en": "GPT-6.1 Terra from OpenAI is now available on AI Gateway . GPT-6.1 Terra is a fast model for visual reasoning, computer use, and writing, and it improves on the previous Terra model in visual reasoning, factual accuracy, and coding. It suits high-volume work in documents and desktop apps, such as filling out forms, interpreting technical drawings, or entering invoice details into accounting software. OpenAI still recommends its larger GPT-6 models for the most complex coding tasks. The model accepts text and images and returns text, with a context window of more than 1M tokens. It supports…",
+ "title_mn": "GPT-6.1 Terra загвар Vercel AI Gateway дээр ашиглагдах боломжтой боллоо",
+ "summary_mn": "OpenAI компанийн шинээр гаргасан GPT-6.1 Terra загварыг одоо Vercel AI Gateway платформоор дамжуулан хөгжүүлэгчид ашиглах боломжтой боллоо.",
+ "body_mn": "OpenAI компанийн танилцуулсан визуаль дүгнэлт болон кодын өндөр чадвартай GPT-6.1 Terra загвар Vercel AI Gateway дээр албан ёсоор нэмэгдлээ. Энэхүү загвар нь баримт бичиг боловсруулах, компьютерийн хэрэглээний даалгавруудыг гүйцэтгэхэд онцгой тохиромжтой юм.\n\nЭнэхүү загвар нь 1 сая гаруй токенийн контекст цонхтой бөгөөд бүтэцлэгдсэн гаралт, хэрэгсэл дуудах чадвар болон санах ойн оновчлолыг дэмждэг. Мөн түргэн шуурхай ажиллах шаардлагатай үед openai/gpt-6.1-terra-fast горимыг ашиглах боломжтой ажээ.\n\nХөгжүүлэгчид AI SDK болон OpenAI-тай нийцтэй Chat Completions API ашиглан уг загварт хандах боломжтой бөгөөд AI Gateway нь үйлчилгээ үзүүлэгчийн үнийг ямар нэгэн нэмэгдэлгүйгээр шууд хүргэдэг байна.",
+ "published": "2026-10-26T00:00:00Z",
+ "added": "2026-10-26T22:49:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
