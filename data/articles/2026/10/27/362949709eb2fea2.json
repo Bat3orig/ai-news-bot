@@ -1,0 +1,17 @@
+{
+ "id": "362949709eb2fea2",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.38.0",
+ "image": "https://opengraph.githubassets.com/4791cc2f583154d1070eaf48ec1ebbb5da75aa80dfb868f9f160ab4521772bcd/openai/openai-python/releases/tag/v3.38.0",
+ "title": "openai-python v3.38.0",
+ "summary_en": "3.38.0 (2026-10-25) Features api: add delegation controls and prompt cache lifetimes ( #4169 ) ( 43045fc ) api: expand Live Decision item and question types ( #4175 ) ( 5d72315 ) Bug Fixes agents: clarify result schema warnings ( #4165 ) ( cfa0a79 ) format API status errors using the server message ( #4161 ) ( 6ce5f05 ) preserve fallback parsing for PEP 604 unions ( #4160 ) ( 05dfea0 ) responses: resolve function arguments within their namespace ( #4166 ) ( 81792ff ) responses: validate tool namespaces before runner dispatch ( #4167 ) ( 56a55f2 ) Chores api: preserve client and resource…",
+ "title_mn": "openai-python v3.38.0 шинэчлэлт гарлаа",
+ "summary_mn": "openai-python сангийн 3.38.0 хувилбар нь API делегатжуулалтын удирдлага, санах ойн хугацаа болон Live Decision шинэ төрлүүдийг нэмжээ.",
+ "body_mn": "OpenAI python албан ёсны сангийн 3.38.0 хувилбар гарч, хөгжүүлэгчдэд зориулсан оებлон шинэ боломжуудыг нэмсэн байна. Энэхүү шинэчлэлтээр API дээр төлөөлөн удирдах буюу делегатжуулалтын хяналт болон санах ойн хугацааны тохиргоонуудыг нэмжээ.\n\nМөн Live Decision хэсгийн элемент болон асуултын төрлүүдийг өргөжүүлсэн бөгөөд агентуудтай холбоотой анхааруулга, сервер мессежийн алдааны боловсруулалтыг сайжруулсан байна. Засварууд болон хөгжүүлэгчийн хэрэглээг дэмжсэн техникийн шинэчлэлтүүд багтжээ.",
+ "published": "2026-10-26T16:35:03Z",
+ "added": "2026-10-27T01:45:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

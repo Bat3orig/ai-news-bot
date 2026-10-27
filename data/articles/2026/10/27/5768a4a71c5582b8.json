@@ -1,0 +1,17 @@
+{
+ "id": "5768a4a71c5582b8",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Euronews.com",
+ "url": "https://www.euronews.com/2026/10/26/swedish-government-blocks-chatgpt-and-claude-heres-why",
+ "image": "https://static.euronews.com/articles/stories/08/40/56/14/1200x675_cmsv2_8aa6ac45-6312-55a8-89e2-1d6690c4b8b6-8405614.jpg",
+ "title": "Swedish government blocks ChatGPT and Claude. Here’s why",
+ "summary_en": "The ban on employees using browser-based versions of ChatGPT and Claude took effect on Monday 26 October amid security concerns over data processing.",
+ "title_mn": "Швед улс мэдээллийн аюулгүй байдлын үүднээс ChatGPT болон Claude-ийг хориглов",
+ "summary_mn": "Шведийн Загийн газар ажилтнууддаа ChatGPT болон Claude-ийг албан компьютер дээрээ ашиглахыг хориглов. Нууц мэдээлэл алдагдах эрсдэлээс сэргийлж уг арга хэмжээг авсан байна.",
+ "body_mn": "Шведийн төрийн албан хаагчид ажлын компьютер дээрээ OpenAI-ийн ChatGPT болон Anthropic-ийн Claude хэрэгслүүдийн вэб хувилбарыг ашиглахыг хориглолоо. Энэхүү шийдвэр нь Шведийн тээврийн удирдлагын ажилтнуудын AI хэрэгслийн хэрэглээг шалгасны дараа гарсан бөгөөд нууц мэдээллийг зохих хамгаалалтгүйгээр оруулснаар загварыг сургахад ашиглагдах эрсдэлтэй гэж үзжээ.\n\nАлбан ёсны хамгаалалтын гэрээгүйгээр платформ ашиглах нь мэдээллийн аюулгүй байдалд ноцтой үр дагавар авчирч болзошгүйг албаныхан онцолсон байна. Тус улсын татварын алба болон бусад байгууллагууд ч мөн ижил төстэй хязгаарлалт тогтоожээ.\n\nҮүний оронд АНУ-ын компанитай аюулгүй байдлын гэрээ байгуулсан Microsoft-ын Copilot-ыг ашиглахыг зөвлөж байгаа аж. Мөн шведийн эрх баригчдын хөгжүүлсэн тусгай платформоор дамжуулан цөөн тооны ажилтан л AI туслах ашиглах боломжтой хэвээр үлджээ.",
+ "published": "2026-10-26T15:18:02Z",
+ "added": "2026-10-27T01:45:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

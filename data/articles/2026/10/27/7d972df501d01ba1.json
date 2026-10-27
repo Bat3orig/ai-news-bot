@@ -1,0 +1,17 @@
+{
+ "id": "7d972df501d01ba1",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/1ksgDNZQ7aw2uHUY6xbaVm/0ffd141428e2cea70f4dcbf67ccd6245/gpt-6-1-sol-helps-coderabbit-strengthen-security-across-complex-codebases-social.png?w=1600&h=900&fit=fill",
+ "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+ "summary_en": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+ "title_mn": "CodeRabbit аюулгүй байдлыг сайжруулахад GPT-6.1 Sol загварыг ашиглаж эхэлжээ",
+ "summary_mn": "CodeRabbit платформын аюулгүй байдлын агент нь кодын сан дахь эрсдэлийг илрүүлэх зорилгоор GPT-6.1 Sol загварыг үндсэн хөдөлгүүрээрээ ашиглаж эхэллээ.",
+ "body_mn": "Програм хангамж хөгжүүлэлт хурдассаар байгаа энэ үед CodeRabbit баг код дахь эмзэг байдлыг илрүүлэх, шалгах ажлыг сайжруулахын тулд GPT-6.1 Sol загварыг ашиглаж эхэлснээ зарлав. Энэхүү загвар нь хөгжүүлэгчдэд нарийн төвөгтэй кодын сангуудын хоорондын хамаарал болон болзошгүй эрсдэлийг олж харж туслах аж.\n\nPull request буюу кодын өөрчлөлтийг хянах явцад Sol нь хуваалцсан сангууд, хамаарлууд болон хамгаалалтууд хэрхэн нөлөөлж байгааг шинжилдэг. Deep Scan горим нь багуудад холбогдох сангуудын уялдаа холбоог шалгаж, системд хэрхэн нөлөөлж болохыг ойлгоход тусалдаг байна. Мөн CodeRabbit Secure нь тусгаарлагдсан орчинд туршилт хийж, зөвшөөрөгдсөн асуудлуудад зориулж засвар бэлтгэх боломжтой.\n\nЭнэхүү шийдэл нь хиймэл оюун ухааны дэвшилтэт чадавхыг програм хангамжийн аюулгүй байдалд хэрхэн ашиглаж болохыг харуулж байна. Хөгжүүлэгчид болон инженерүүд эцсийн байдлаар ямар өөрчлөлт оруулахыг өөрсдөө хянан шийдвэрлэх боломжтой хэвээр үлдэж байгаа юм.",
+ "published": "2026-10-26T13:45:00Z",
+ "added": "2026-10-27T01:45:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

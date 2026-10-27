@@ -1,0 +1,17 @@
+{
+ "id": "8eb6001a836a6e50",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/5HKwJOTURosg0IoKJA21s8/88eefd210a578266fca1a9d9454daadc/from-ai-results-to-scientific-understanding-social.png?w=1600&h=900&fit=fill",
+ "title": "Working with academic communities to build scientific understanding",
+ "summary_en": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+ "title_mn": "OpenAI математик, компьютер судлал, физикийн чиглэлээр шинэ нээлтүүд зарлалаа",
+ "summary_mn": "OpenAI математик, тооцоолох шинжлэх ухаан, квант физикийн чиглэлээр хийсэн гурван шинэ нээлтээ зарлаж, эрдэм шинжилгээний хамт олонтой хамтран ажиллах шинэ арга барилыг туршиж байна.",
+ "body_mn": "OpenAI компани гармоникийн шинжилгээ, нийлмэл байдлын онол, квант орны физикийн чиглэлээр хийсэн гурван чухал нээлтээ зарлалаа. Эдгээр ололтуудыг шинжлэх ухааны ойлголт болгон хувиргахын тулд тэд гадны мэргэжилтнүүдтэй хамтран ажиллах шинэ туршилт хийж байгаа аж.\n\nМатематикийн хувьд 1991 онд дэвшүүлсэн локал гөлрүүлэх таамаглалтай холбоотой үр дүнгүүдийг AI гаргасан бөгөөд судалгааны багууд үүнийг бие даан судлах боломжтой болгожээ. Компьютер судлалын үр дүнгийн хувьд байгалийн хэл дээрх нотолгоо болон Lean албан ёсны хэлбэрийг шууд олон нийтэд GitHub дээр нээлттэй болгосон байна.\n\nЭнэхүү хамтын ажиллагаа нь ил тод байдал, бие даасан байдал, оролцогчдод зохих хүндэтгэл үзүүлэх зарчмууд дээр тулгуурлаж байна. OpenAI дотоод загваруудынхаа бүтээсэн нээлтүүдэд эрдэм шинжилгээний хувь нэмэр нэхэхгүй бөгөөд судлаачид өөрсдийн дүгнэлтийг чөлөөтэй хэлэлцэх боломжтой юм.",
+ "published": "2026-10-26T14:30:00Z",
+ "added": "2026-10-27T01:45:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "fd3354db454590ed",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/FrigadeHQ/hob",
+ "image": "https://repository-images.githubusercontent.com/1419901875/bef3a5ac-8f6b-4f29-8f2a-30f31c1771d7",
+ "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+ "summary_en": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses open-weight models (currently Gemma 4 and gpt-oss). All your chats and files never leave your system. The only things that go online are web search (can be turned off in settings) and any MCP connectors you add yourself. Main features: - Automatically finds the best open-weight model for your hardware…",
+ "title_mn": "Hob: Claude Cowork болон ChatGPT-ийн төхөөрөмж дээр ажиллах нээлттэй эх сурвалжтай хувилбар",
+ "summary_mn": "Hob нь хэрэглэгчийн компьютер дээр офлайн горимд ажилладаг, хувийн нууцлалыг хамгаалдаг үнэгүй бөгөөд нээлттэй эх сурвалжтай хиймэл оюун ухааны хэрэгсэл юм. Gemma болон gpt-oss зэрэг загваруудыг дэмждэг.",
+ "body_mn": "Hob нь хэрэглэгчийн компьютер дээр шууд ажилладаг, Claude болон ChatGPT-ийн нээлттэй эх сурвалжтай альтернатив хувилбар юм. Mac, Windows болон Linux үйлдлийн системүүдэд зориулсан уг хэрэгсэл нь PDF бөглөх, баримт бичигтэй ажиллах зэрэг олон үйлдлийг офлайн горимд гүйцэтгэнэ.\n\nУг хэрэгсэл нь таны компьютерийн хүчин чадалд тохирох нээлттэй жинтэй загваруудыг автоматаар сонгож тохируулдаг. Frigade багийн бүтээсэн энэхүү хэрэгсэл нь MIT лицензтэй бөгөөд хувийн нууцлалыг дээд зэргээр хангахад чиглэгджээ.",
+ "published": "2026-10-26T16:12:29Z",
+ "added": "2026-10-27T01:45:41Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
