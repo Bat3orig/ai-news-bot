@@ -1,0 +1,17 @@
+{
+ "id": "8ea2c0893bd97411",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Gizmodo",
+ "url": "https://gizmodo.com/anthropics-latest-claude-security-disclosure-will-make-you-sympathize-with-claude-2000830986",
+ "image": "",
+ "title": "Anthropic’s Latest Claude Security Disclosure Will Make You Sympathize With Claude",
+ "summary_en": "",
+ "title_mn": "Anthropic компанийн Claude загварын аюулгүй байдлын шинэ мэдээлэл",
+ "summary_mn": "Anthropic компани Claude загварын аюулгүй байдал болон хязгаарлалтын талаар шинэ мэдээлэл гаргалаа.",
+ "body_mn": "Anthropic компани Claude загварын аюулгүй байдлын бодлого болон техникийн хязгаарлалтуудын талаар шинэ мэдээлэл олон нийтэд дэлгэлээ. Энэ нь хөгжүүлэгчид болон хиймэл оюун ухааны чиглэлээр ажиллагсдад загварын ёс зүй, хамгаалалтын түвшнийг ойлгоход чухал ач холбогдолтой юм.\n\nКомпаниас гаргаж буй энэхүү мэдээлэл нь хиймэл оюун ухааны агентуудын хэрэглээ болон аюулгүй байдлын шалгууруудыг сайжруулах зорилготой байна.",
+ "published": "2026-10-27T02:03:25Z",
+ "added": "2026-10-27T18:50:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

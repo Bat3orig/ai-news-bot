@@ -1,0 +1,17 @@
+{
+ "id": "d7f183cd252f5322",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/harness-agent-image-inputs",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1w1h4jAtfW4hXO1xq16ISP/18e5cfbcac395ba7fc50325d1b0d022a/harness-agent-image-input.png",
+ "title": "HarnessAgent now supports image inputs for all harness adapters",
+ "summary_en": "The AI SDK HarnessAgent layer now accepts image inputs across every harness adapter. Pass images alongside text in the standard AI SDK message format: a content array mixing { type: 'text' } and { type: 'file' } parts. Image input is processed by the harnesses' underlying vision models and supported across all available adapters: Claude Code, Cline, Codex, Cursor, Deep Agents, fx, GitHub Copilot, Grok Build, OpenCode, Pi. Read the HarnessAgent image inputs documentation to get started. Read more",
+ "title_mn": "AI SDK HarnessAgent бүх адаптеруудад зураг оруулах боломж нэмлээ",
+ "summary_mn": "AI SDK-ийн HarnessAgent давхарга бүх harness адаптеруудад зураг оруулах дэмжлэгийг нэмлээ. Хөгжүүлэгчид текст болон зургийг хослуулан илгээж, төрөл бүрийн vision загваруудыг ашиглах боломжтой боллоо.",
+ "body_mn": "AI SDK-ийн HarnessAgent давхарга нь бүх төрлийн harness адаптерууд дээр зураг оруулах (image input) боломжийг албан ёсоор дэмждэг боллоо. Ингэснээр хөгжүүлэгчид AI SDK мессежийн стандарт формат ашиглан текст болон зургийг хослуулан илгээх боломжтой болж байна.\n\nЗургийн оролтыг harness-уудын цаана ажиллаж буй vision загварууд боловсруулах бөгөөд Claude Code, Cline, Codex, Cursor, Deep Agents, fx, GitHub Copilot, Grok Build, OpenCode, Pi зэрэг бүх боломжит адаптерууд дээр ашиглахад бэлэн болжээ.\n\nЭнэхүү шинэ боломж нь хөгжүүлэгчдэд UI дизайн эсвэл алдааны дэлгэцийн зургийг шууд AI агент руу илгээж зааварчилгаа өгөх, дүрслэх чадвартай даалгавруудыг гүйцэтгүүлэхэд илүү өргөн боломжийг олгож байна.",
+ "published": "2026-10-27T00:00:00Z",
+ "added": "2026-10-27T18:50:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

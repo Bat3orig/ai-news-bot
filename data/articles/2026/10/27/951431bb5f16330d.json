@@ -1,0 +1,17 @@
+{
+ "id": "951431bb5f16330d",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-agent-sessions-now-cost-67-percent-less",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2QDSfYcsWG6JSB77sz7oii/4af5cf61aa0580e6678cd484982e95cb/agent_67-.png",
+ "title": "Vercel Agent sessions now cost 67% less",
+ "summary_en": "Vercel Agent sessions in the dashboard and Slack now cost 67% less on average. We rebuilt how Agent manages context, reducing the tokens needed per session and improving prompt-cache reuse. These improvements are live and require no action. What changed: Workflow-based CLI skills: Updated Vercel CLI skills give agents clearer guidance for common workflows and error recovery. Other agents using these skills also benefit. Incremental context management: Agent manages context more efficiently as conversations grow, including long Slack threads. Improved prompt caching: Agent preserves more…",
+ "title_mn": "Vercel Agent сессүүдийн үнэ 67%-иар хямдарла",
+ "summary_mn": "Vercel Agent контекст менежментийг сайжруулж, токений зарцуулалтыг багасгаснаар dashboard болон Slack дээрх сессүүдийн үнийг дунджаар 67%-иар буурууллаа. Мөн CLI ур чадварууд шинэчлэгдэж, агентуудад ажлын урсгалыг илүү үр дүнтэй удирдах боломж олгожээ.",
+ "body_mn": "Vercel компани Vercel Agent-ийн контекст менежментийг шинэчилж, сесс бүрт шаардагдах токений тоог эрс багасгаснаар үнийг нь 67%-иар хямдрууллаа. Энэхүү өөрчлөлт нь prompt кэшийн ашиглалтыг сайжруулж, ярианы түүх уртсах тусам контекстийг илүү оновчтой удирдахад чиглэжээ. Шинэчлэлт автоматаар хэрэгжсэн бөгөөд хөгжүүлэгчдээс ямар нэгэн нэмэлт үйлдэл хийх шаардлагагүй юм.\n\nҮүнтэй зэрэгцэн Vercel CLI ур чадварууд шинэчлэгдэж, агентуудад түгээмэл ажлын урсгал болон алдаа засварлах явцыг илүү тодорхой зааварчлах болсон байна. Ингэснээр агентууд кодын өөрчлөлт хийх болон төлөвлөх явцдаа илүү цөөн токен зарцуулж, илүү үр бүтээлтэй ажиллах боломж бүрджээ.\n\nТөлбөрийн нөхцөлийн хувьд Vercel Agent-ийн үндсэн тариф хэвээр үлдэж байгаа бөгөөд төлбөртэй сессүүдэд загвар нийлүүлэгчийн inference үнэ дээр нэмээд нэг сая токен тутамд 0.25 ам.долларын Vercel Agent хураамж бодогдох юм. Хөгжүүлэгчид өөрсдийн зарцуулалт болон тооцоог dashboard-ын Agent хэсгээс хянах боломжтой.",
+ "published": "2026-10-27T00:00:00Z",
+ "added": "2026-10-27T18:50:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

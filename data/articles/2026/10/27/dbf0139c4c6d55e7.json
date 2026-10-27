@@ -1,0 +1,17 @@
+{
+ "id": "dbf0139c4c6d55e7",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "디지털투데이",
+ "url": "https://www.digitaltoday.co.kr/en/view/119723/moonshot-ai-apologises-for-kimi-k31-pro-usage-limit-issue-restores-25-percent-of-monthly-quota-for-paying-users",
+ "image": "https://cdn.digitaltoday.co.kr/news/photo/202610/710123_657689_436.jpg",
+ "title": "Moonshot AI apologises for Kimi K3.1 Pro usage limit issue, restores 25 percent of monthly quota for paying users",
+ "summary_en": "Moonshot AI has acknowledged a problem in its paid service for its latest AI model, Kimi K3.1 Pro, in which user quotas were depleted before tasks were completed. It will restore 25 percent of monthly usage limits for all active users as a one-off measure, and reset usage counters for those below the restoration threshold. The company said it would adjust plan settings to reduce unnecessary sub-agent calls and limit overly long responses.",
+ "title_mn": "Moonshot AI Kimi K3.1 Pro загварын ашиглалтын хязгаарлалтад уучлалт гуйлаа",
+ "summary_mn": "Moonshot AI компани Kimi K3.1 Pro загварын төлбөртэй үйлчилгээний хязгаарлалт хэт эрт дуусч буй асуудлаар уучлалт гуйж, идэвхтэй хэрэглэгчдийн сарын квотыг 25 хувиар нэг удаа сэргээхээр болжээ.",
+ "body_mn": "Moonshot AI компани өөрийн шинэ Kimi K3.1 Pro хиймэл оюун ухааны загварынхаа төлбөртэй үйлчилгээн дээр хэрэглээний квот хэт хурдан дуусч буй асуудлыг хүлээн зөвшөөрч, хэрэглэгчиддээ нөхөн олговор олгохоор шийдвэрлэлээ. Тус компани шинэ загвараа зах зээлд гаргасан ч бодит ажил дуусахаас өмнө эрх нь дуусаж байгаа нь хэрэглэгчдийн шүүмжлэлийг дагуулсан юм.\n\nКриптоваллютын мэдээллийн эх сурвалжуудын мэдээлснээр Moonshot AI бүх идэвхтэй хэрэглэгчдийнхээ сарын ашиглалтын хязгаарыг 25 хувиар нэг удаа нэмж сэргээхээр шийдвэрлэжээ. Үүний зэрэгцээ шаардлагагүй дэд агентуудын (sub-agent) дуудлагыг багасгаж, хэт урт хариултуудыг хязгаарлах замаар токений илүүдэл зарцуулалтыг бууруулах тохиргоонуудыг хийсэн байна.\n\nKimi K3.1 Pro нь 1 сая токений контекст цонхыг дэмждэг бөгөөд kimi.ai, Kimi Work, Kimi Code болон API-уудаар дамжуулан ашиглах боломжтой юм. Энэхүү асуудал нь автоном агентууд олон алхмаар даалгавар гүйцэтгэх явцдаа энгийн ярианы горимоос хамаагүй олон токен зарцуулдаг болохыг дахин харууллаа.",
+ "published": "2026-10-27T00:13:18Z",
+ "added": "2026-10-27T18:50:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

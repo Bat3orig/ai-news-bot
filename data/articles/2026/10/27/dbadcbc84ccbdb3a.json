@@ -1,0 +1,17 @@
+{
+ "id": "dbadcbc84ccbdb3a",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "TOKENPOST",
+ "url": "https://www.tokenpost.com/news/technology/41384",
+ "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/d0840b1e718a5a5a4ef437f64b617c31fcafb190c15ec3484063379e78a4aa9e.webp",
+ "title": "Vitalik Buterin Backs Moonshot AI’s Cyber Safeguards for Kimi K3.1 Pro",
+ "summary_en": "Kimi K3.1 Pro scored 81.0% on Moonshot’s internal exploit test, compared with 90.5% for a comparable checkpoint without the safeguards.",
+ "title_mn": "Виталик Бутерин Moonshot AI-ийн Kimi K3.1 Pro загварын аюулгүй байдлын хязгаарлалтыг дэמіжээ",
+ "summary_mn": "Ethereum-ийг үндэслэгч Виталик Бутерин Moonshot AI компанийн шинэ загварын кибер аюулгүй байдлын хязгаарлалтыг дэмжиж буйгаа илэрхийллээ.",
+ "body_mn": "Ethereum сүлжээг үндэслэгч Виталик Бутерин Moonshot AI компанийн Kimi K3.1 Pro загварт нэвтрүүлсэн аюулгүй байдлын хязгаарлалтуудыг сайшаажээ. Тэрээр хэрэглэгчийн эрхэд хандахаас илүүтэйгээр тодорхой эрсдэлтэй үүрэг даалгавруудыг хязгаарлах нь хамаагүй зөв арга гэдгийг онцолсон байна.\n\nMoonshot AI компани уг загварыг сургах явцдаа кибер аюулгүй байдалтай холбоотой зарим эрсдэлтэй өгөгдлийг шүүж үлдээсэн бөгөөд хортой кодыг илрүүлэх туршилтын явцад сайн үр дүн үзүүлжээ. Компани уг загварын жинг 2026 оны 11 дүгээр сарын 4 гэхэд бүрэн нээлттэй болгохоор төлөвлөж байна.\n\nЭнэхүү шийдвэр нь хөгжүүлэгчид болон хиймэл оюун ухааны судлаачдын дунд open-weight загваруудын аюулгүй байдал болон хязгаарлалтуудын талаарх маргааныг өрнүүлж байна. Нээлттэй эх сурвалжтай загварууд нь хуучин кодыг шалгах болон аудит хийхэд тустай хэдий ч кибер аюулгүй байдлын эрсдэлийг дагуулдаг билээ.",
+ "published": "2026-10-26T22:06:05Z",
+ "added": "2026-10-27T18:50:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

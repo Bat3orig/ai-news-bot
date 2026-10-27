@@ -1,0 +1,17 @@
+{
+ "id": "3f9dc4ff26361ef9",
+ "subtopic": "packages",
+ "source": "JavaScript Weekly",
+ "source_label": "JavaScript Weekly",
+ "url": "https://javascriptweekly.com/issues/808",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/d78ifnbyoegacu1b82sf.jpg",
+ "title": "Rebuilding the original GTA engine in JavaScript",
+ "summary_en": "#​808 — October 27, 2026 Read on the Web JavaScript Weekly TanStack AI 1.0: The Vendor-Neutral AI Toolkit Goes Stable — TanStack's framework-agnostic AI toolkit reaches 1.0, with stable APIs for chat, tools and media, plus 23 provider adapters. A new agent harness supports long-running sessions, but its APIs remain experimental. Tuzlak, Herrington, et al. (TanStack) Would You Let Your AI Agent Grade Its Own Homework? — Agents write code faster than ever. They even review their own work. But who’s reviewing them? Dropbox, Notion & ElevenLabs don’t take the risk. With Meticulous, every change…",
+ "title_mn": "TanStack AI 1.0 тогтвортой хувилбараа гаргаж, TypeScript 7.1 Beta танилцуулагдлаа",
+ "summary_mn": "TanStack AI 1.0 хувилбар гарч хиймэл оюуны хэрэгслүүдийг дэмждэг болсон бол TypeScript 7.1 Beta нь content mappers болон programmatic API нэмжээ. Мөн Node.js болон Bun хувилбаруудын чухал шинэчлэлтүүд гарлаа.",
+ "body_mn": "Энэ долоо хоногийн JavaScript болон веб хөгжүүлэлтийн мэдээллүүдээс хамгийн онцлох шинэчлэлтүүдийг хүргэж байна. TanStack AI 1.0 албан ёсоор тогтвортой хувилбартаа хүрч, чат, хэрэгсэл болон медиа удирдах тогтвортой API-ууд болон 23 төрлийн provider адаптеруудыг санал болгож эхэллээ. Мөн урт хугацааны сессүүдийг дэмжих шинэ агент harness нэмэгджээ.\n\nTypeScript 7.1 Beta хувилбар гарснаар content mappers буюу Vue, Svelte, Astro зэрэг файлууд доторх кодыг шалгах залгаас болон programmatic API шинээр нэмэгдсэн байна. Мөн --target es2026 болон source phase imports дэмжигдэх болжээ.\n\nNode.js v26.12.1, v24.22.1 болон v22.23.4 хувилбарууд гарснаар 'Node2Shell' зэрэг код алсаас ажиллуулах эрсдэлтэй 10 ширхэг аюулгүй байдлын CVE эмзэгдлийг засжээ. Bun 1.4.4 хувилбар нь Prettier-тэй нийцтэй, маш хурдан ажилладаг 'bun fmt' форматлагчийг нэмсэн бол Electron 45 хувилбар нь Chromium 156 болон орон нутгийн загвар залгах Prompt API hook-уудыг шинээр оруулсан байна.",
+ "published": "2026-10-27T00:00:00Z",
+ "added": "2026-10-27T18:50:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
