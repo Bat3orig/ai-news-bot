@@ -1,0 +1,17 @@
+{
+ "id": "405362a532d6c97f",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Yahoo News Singapore",
+ "url": "https://sg.news.yahoo.com/moonshot-resets-subscriber-quotas-kimi-022218055.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/2a2b8362bc68a74f9e1b027d7c459644edb9e903f457d7c7836981d5eef18a9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F949a35efb951f25054d0d2e47b4970ce.jpg",
+ "title": "Moonshot resets subscriber quotas after Kimi K3.1 Pro launch issues",
+ "summary_en": "BEIJING, Oct 26 (Reuters) - Chinese artificial intelligence startup Moonshot AI apologised on Monday for rate limiting and unnecessary quota consumption after its Kimi K3.1 Pro launch.",
+ "title_mn": "Moonshot AI компани Kimi K3.1 Pro гарсны дараа хэрэглэгчдийн эрхийг сэргээв",
+ "summary_mn": "Moonshot AI компани Kimi K3.1 Pro гарсантай холбогдуулан үүссэн хязгаарлалт, квотны асуудлаас болж хэрэглэгчдээс уучлалт гуйж, сарын эрхийг 25 хувиар нэмэгдүүлж буцаалаа.",
+ "body_mn": "Хятадын хиймэл оюун ухааны стартап Moonshot AI шинээр танилцуулсан Kimi K3.1 Pro загварын нээлтийн дараа үүссэн хурдны хязгаарлалт болон квот хэтрүүлсэн асуудлаар хэрэглэгчдэдээ албан ёсоор уучлалт хүслээ. Тус компани захиалагч бүрийн сарын хэрэглээний квотыг 25 хувиар буюу нэг долоо хоногийн хэрэглээтэй тэнцэх хэмжээгээр дахин сунгахаа мэдэгдэв.\n\nКомпанийн зүгээс агентуудын хоорондын дуудлага болон гарах текстийн хэмжээг оновчтой болгож параметрийн тохиргоо хийсэн байна. Энэ нь АНУ-ын чип экспортын хязгаарлалтын улмаас Хятадын лабораториудад тооцоолох хүчин чадал дутагдаж буй нөхцөл байдалтай холбоотой юм.\n\nХөгжүүлэгчид болон хэрэглэгчдийн хувьд энэхүү квот сэргээлт нь API болон платформын хэрэглээг хэвийн үргэлжлүүлэхэд чухал алхам болж байна.",
+ "published": "2026-10-26T02:22:00Z",
+ "added": "2026-10-27T07:07:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
