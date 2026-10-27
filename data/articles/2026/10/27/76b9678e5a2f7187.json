@@ -1,0 +1,17 @@
+{
+ "id": "76b9678e5a2f7187",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/62BrrANN6vuolmGvpCKCra/7b29aac3ebc0552bfb554735e391d37f/ai_traffic_insights_og.png",
+ "title": "AI traffic insights now available in Vercel Observability",
+ "summary_en": "You can now query AI traffic in Vercel Observability to understand how AI bots are accessing your site. AI traffic insights show: Requests by verified AI bot: how many requests each bot makes Most-crawled pages: pages most frequently requested by AI crawlers for indexing or model training Assistant retrievals: pages AI assistants fetch in response to user actions or search queries Markdown requests: pages AI bots request in Markdown format Errors: pages where requests from AI bots return errors To view AI traffic insights, open Observability > AI Traffic in the Vercel dashboard. You and your…",
+ "title_mn": "Vercel Observability дээр хиймэл оюун ухааны урсгалын мэдээллийг харах боломжтой боллоо",
+ "summary_mn": "Та одоо Vercel Observability хэсгээс хиймэл оюун ухааны ботууд таны сайт руу хэрхэн хандаж буйг шалгах боломжтой.",
+ "body_mn": "Vercel Observability хэсэгт хиймэл оюун ухааны урсгалын шинэ хэрэгслүүд нэмэгдлээ. Хөгжүүлэгчид AI ботууд вэб сайт руу нь хэрхэн хандаж буйг нарийвчлан судлах боломжтой болж байна.\n\nЭнэхүү шинэ боломжоор баталгаажсан AI ботуудын хүсэлтийн тоо, хамгийн их хандалт авсан хуудсууд, AI туслахуудын мэдээлэл таталт, Markdown формат хүссэн хүсэлтүүд болон алдаа гарсан хуудсуудыг хянах боломжтой. Мөн `vercel metrics` командын тусламжтайгаар CLI орчноос эдгээр метрийн өгөгдлийг шалгах боломжтой.\n\nДэлгэрэнгүй мэдээллийг Vercel хяналтын самбарын Observability > AI Traffic хэсгээс болон албан ёсны баримт бичгээс үзэх боломжтой.",
+ "published": "2026-10-27T00:00:00Z",
+ "added": "2026-10-27T22:47:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

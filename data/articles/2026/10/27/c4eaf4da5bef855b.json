@@ -1,0 +1,17 @@
+{
+ "id": "c4eaf4da5bef855b",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/deploy-a-container-from-a-plain-dockerfile",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1h5Ww1O4hvWuF7D5owunDL/7be79fdea74d20266d248c9f2b53df28/deploy-a-container-from-a-plain-dockerfile-og.jpg",
+ "title": "Deploy a container from a plain Dockerfile",
+ "summary_en": "You can now deploy a plain root Dockerfile or Containerfile on Vercel's Container runtime when no other framework is detected. Vercel selects the Container preset, builds that file, and routes all traffic to the resulting image. To get started with containers on Vercel, add a Dockerfile: When project detection matches another framework, such as Django, that framework still wins. To build use the Dockerfile or Containerfile instead, run vercel project update --framework container , or set the framework in vercel.json : A Dockerfile.vercel or Containerfile.vercel continues to win over a…",
+ "title_mn": "Vercel дээр энгийн Dockerfile ашиглан контейнер байршуулах боломжтой боллоо",
+ "summary_mn": "Та одоо ямар нэгэн фрэймворк илрээгүй үед Vercel дээрх Container runtime ашиглан энгийн үндсэн Dockerfile эсвэл Containerfile байршуулах боломжтой боллоо.",
+ "body_mn": "Vercel платформ дээр өөр ямар нэгэн фрэймворк илрээгүй тохиолдолд энгийн Dockerfile эсвэл Containerfile-ийгшууд байршуулах боломжтой болсон тухай зарлалаа. Vercel автоматаар Container загварыг сонгож, тухайн файлыг бүтээгээд бүх урсгалыг үр дүнд үүссэн дүрс рүү чиглүүлдэг.\n\nХэрэв өөр фрэймворк (жишээ нь Django) автоматаар танигдсан ч Dockerfile ашиглахыг хүсвэл `vercel project update --framework container` команд ашиглах эсвэл `vercel.json` тохиргоонд зааж өгөх боломжтой. Multi-service төслүүд өмнөх шигээ `vercel.json` үйлчилгээнүүдийг ашиглана.\n\nЭнэхүү Container runtime нь одоогоор бета шатандаа яваа бөгөөд Vercel Functions дээр ажиллаж, Active CPU үнээр тооцогдох юм. Хөгжүүлэгчид баримт бичгийг ашиглан дэлгэрэнгүй мэдээлэл авах боломжтой.",
+ "published": "2026-10-27T00:00:00Z",
+ "added": "2026-10-27T22:47:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

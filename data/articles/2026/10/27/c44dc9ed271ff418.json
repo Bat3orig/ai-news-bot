@@ -1,0 +1,17 @@
+{
+ "id": "c44dc9ed271ff418",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/check-point-daybreak",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/4bd1QnNi9PMpUtFMankceN/dd377ac9baea40ee90d4e86f7e0eabdf/check-point-precision-social.png?w=1600&h=900&fit=fill",
+ "title": "How Check Point accelerates vulnerability research with Daybreak",
+ "summary_en": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+ "title_mn": "Check Point OpenAI Daybrain ашиглан эмзэг байдлын судалгааг хурдасгаж байна",
+ "summary_mn": "Check Point компани OpenAI Daybreak ашиглан эмзэг байдлын судалгааг хэдэн цагаас хэдхэн минут болгон бууруулж, хамгаалалт бүтээх хурдаа сайжруулжээ.",
+ "body_mn": "Check Point компани OpenAI Daybreak хэрэгслийг ашиглан шинэ аюулгүй байдлын хамгаалалт боловсруулах судалгааны ажлаа эрс хурдасгаж байна. Өмнө нь хэдэн цаг зарцуулдаг байсан эмзэг байдлын судалгааны ажил одоо минут болж богиноссон байна.\n\nOpenAI Daybreak нь хамгаалалтын ажилтнуудад кодын эмзэг байдал, дайралтын замуудыг шинжлэх, кодын сул талуудыг илрүүлэхэд туслах дэвшилтэт кибер загваруудыг санал болгодог. Check Point энэхүү боломжийг ашиглан үйлчлүүлэгчиддээ шинээр илэрсэн аюул заналаас хамгаалах шийдлүүдийг илүү хурдан хүргэж байна.\n\nКомпани цаашид Daybreak загварт суурилсан Agentic Network Security Orchestration шийдлийг хөгжүүлэхээр ажиллаж байна. Энэ нь үйлчлүүлэгчдийн орчныг тасралтгүй хянаж, аюулгүй байдлын зорилтуудыг биелүүлэхэд туслах юм.",
+ "published": "2026-10-27T00:00:00Z",
+ "added": "2026-10-27T22:47:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -878,5 +878,65 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c44dc9ed271ff418",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/check-point-daybreak",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/4bd1QnNi9PMpUtFMankceN/dd377ac9baea40ee90d4e86f7e0eabdf/check-point-precision-social.png?w=1600&h=900&fit=fill",
+   "title": "How Check Point accelerates vulnerability research with Daybreak",
+   "summary_en": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+   "title_mn": "Check Point OpenAI Daybrain ашиглан эмзэг байдлын судалгааг хурдасгаж байна",
+   "summary_mn": "Check Point компани OpenAI Daybreak ашиглан эмзэг байдлын судалгааг хэдэн цагаас хэдхэн минут болгон бууруулж, хамгаалалт бүтээх хурдаа сайжруулжээ.",
+   "body_mn": "Check Point компани OpenAI Daybreak хэрэгслийг ашиглан шинэ аюулгүй байдлын хамгаалалт боловсруулах судалгааны ажлаа эрс хурдасгаж байна. Өмнө нь хэдэн цаг зарцуулдаг байсан эмзэг байдлын судалгааны ажил одоо минут болж богиноссон байна.\n\nOpenAI Daybreak нь хамгаалалтын ажилтнуудад кодын эмзэг байдал, дайралтын замуудыг шинжлэх, кодын сул талуудыг илрүүлэхэд туслах дэвшилтэт кибер загваруудыг санал болгодог. Check Point энэхүү боломжийг ашиглан үйлчлүүлэгчиддээ шинээр илэрсэн аюул заналаас хамгаалах шийдлүүдийг илүү хурдан хүргэж байна.\n\nКомпани цаашид Daybreak загварт суурилсан Agentic Network Security Orchestration шийдлийг хөгжүүлэхээр ажиллаж байна. Энэ нь үйлчлүүлэгчдийн орчныг тасралтгүй хянаж, аюулгүй байдлын зорилтуудыг биелүүлэхэд туслах юм.",
+   "published": "2026-10-27T00:00:00Z",
+   "added": "2026-10-27T22:47:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c4eaf4da5bef855b",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/deploy-a-container-from-a-plain-dockerfile",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1h5Ww1O4hvWuF7D5owunDL/7be79fdea74d20266d248c9f2b53df28/deploy-a-container-from-a-plain-dockerfile-og.jpg",
+   "title": "Deploy a container from a plain Dockerfile",
+   "summary_en": "You can now deploy a plain root Dockerfile or Containerfile on Vercel's Container runtime when no other framework is detected. Vercel selects the Container preset, builds that file, and routes all traffic to the resulting image. To get started with containers on Vercel, add a Dockerfile: When project detection matches another framework, such as Django, that framework still wins. To build use the Dockerfile or Containerfile instead, run vercel project update --framework container , or set the framework in vercel.json : A Dockerfile.vercel or Containerfile.vercel continues to win over a…",
+   "title_mn": "Vercel дээр энгийн Dockerfile ашиглан контейнер байршуулах боломжтой боллоо",
+   "summary_mn": "Та одоо ямар нэгэн фрэймворк илрээгүй үед Vercel дээрх Container runtime ашиглан энгийн үндсэн Dockerfile эсвэл Containerfile байршуулах боломжтой боллоо.",
+   "body_mn": "Vercel платформ дээр өөр ямар нэгэн фрэймворк илрээгүй тохиолдолд энгийн Dockerfile эсвэл Containerfile-ийгшууд байршуулах боломжтой болсон тухай зарлалаа. Vercel автоматаар Container загварыг сонгож, тухайн файлыг бүтээгээд бүх урсгалыг үр дүнд үүссэн дүрс рүү чиглүүлдэг.\n\nХэрэв өөр фрэймворк (жишээ нь Django) автоматаар танигдсан ч Dockerfile ашиглахыг хүсвэл `vercel project update --framework container` команд ашиглах эсвэл `vercel.json` тохиргоонд зааж өгөх боломжтой. Multi-service төслүүд өмнөх шигээ `vercel.json` үйлчилгээнүүдийг ашиглана.\n\nЭнэхүү Container runtime нь одоогоор бета шатандаа яваа бөгөөд Vercel Functions дээр ажиллаж, Active CPU үнээр тооцогдох юм. Хөгжүүлэгчид баримт бичгийг ашиглан дэлгэрэнгүй мэдээлэл авах боломжтой.",
+   "published": "2026-10-27T00:00:00Z",
+   "added": "2026-10-27T22:47:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "76b9678e5a2f7187",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/62BrrANN6vuolmGvpCKCra/7b29aac3ebc0552bfb554735e391d37f/ai_traffic_insights_og.png",
+   "title": "AI traffic insights now available in Vercel Observability",
+   "summary_en": "You can now query AI traffic in Vercel Observability to understand how AI bots are accessing your site. AI traffic insights show: Requests by verified AI bot: how many requests each bot makes Most-crawled pages: pages most frequently requested by AI crawlers for indexing or model training Assistant retrievals: pages AI assistants fetch in response to user actions or search queries Markdown requests: pages AI bots request in Markdown format Errors: pages where requests from AI bots return errors To view AI traffic insights, open Observability > AI Traffic in the Vercel dashboard. You and your…",
+   "title_mn": "Vercel Observability дээр хиймэл оюун ухааны урсгалын мэдээллийг харах боломжтой боллоо",
+   "summary_mn": "Та одоо Vercel Observability хэсгээс хиймэл оюун ухааны ботууд таны сайт руу хэрхэн хандаж буйг шалгах боломжтой.",
+   "body_mn": "Vercel Observability хэсэгт хиймэл оюун ухааны урсгалын шинэ хэрэгслүүд нэмэгдлээ. Хөгжүүлэгчид AI ботууд вэб сайт руу нь хэрхэн хандаж буйг нарийвчлан судлах боломжтой болж байна.\n\nЭнэхүү шинэ боломжоор баталгаажсан AI ботуудын хүсэлтийн тоо, хамгийн их хандалт авсан хуудсууд, AI туслахуудын мэдээлэл таталт, Markdown формат хүссэн хүсэлтүүд болон алдаа гарсан хуудсуудыг хянах боломжтой. Мөн `vercel metrics` командын тусламжтайгаар CLI орчноос эдгээр метрийн өгөгдлийг шалгах боломжтой.\n\nДэлгэрэнгүй мэдээллийг Vercel хяналтын самбарын Observability > AI Traffic хэсгээс болон албан ёсны баримт бичгээс үзэх боломжтой.",
+   "published": "2026-10-27T00:00:00Z",
+   "added": "2026-10-27T22:47:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]
