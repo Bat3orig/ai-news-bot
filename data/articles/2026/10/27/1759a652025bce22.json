@@ -1,0 +1,17 @@
+{
+ "id": "1759a652025bce22",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.39.0",
+ "image": "https://opengraph.githubassets.com/6afff8dd6def31c651683752e915cb686801040a12886b6b5f9ade3f5c03d7aa/openai/openai-python/releases/tag/v3.39.0",
+ "title": "openai-python v3.39.0",
+ "summary_en": "3.39.0 (2026-10-26) Features api: add gpt-6.1-terra model identifier ( #4180 ) ( e8beb1a )",
+ "title_mn": "openai-python v3.39.0 хувилбар шинэ gpt-6.1-terra загварыг дэмждэг боллоо",
+ "summary_mn": "Python хэл дээрх OpenAI албан ёсны са сангийн v3.39.0 шинэчлэлтээр gpt-6.1-terra загварын идентификатор нэмэгдлээ.",
+ "body_mn": "OpenAI компани Python хэл дээр ажилладаг албан ёсны openai-python сангийнхаа v3.39.0 хувилбарыг гаргалаа. Энэхүү шинэ хувилбарын гол онцлог нь API хэсэгт шинээр gpt-6.1-terra загварын идентификаторыг нэмсэн явдал юм.\n\nЭнэхүү өөрчлөлт нь хөгжүүлэгчдэд OpenAI-ийн хамгийн сүүлийн үеийн дэвшилтэт загваруудыг өөрсдийн Python аппликейшн болон агентуудад шууд холбож ашиглах боломжийг олгож байна. Хөгжүүлэгчид уг санг шинэчилснээр шинэ загварын дэвшилтэт боломжуудыг төслүүддээ нэвтрүүлэх боломж бүрдлээ.\n\nAPI болон хөгжүүлэлтийн сангийн шинэчлэлтүүдийг цаг алдалгүй ашиглах нь орчин үеийн AI суурьтай програм хангамж бүтээхэд чухал үүрэгтэй юм.",
+ "published": "2026-10-26T19:14:00Z",
+ "added": "2026-10-27T13:26:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

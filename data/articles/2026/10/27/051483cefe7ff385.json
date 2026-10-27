@@ -1,0 +1,17 @@
+{
+ "id": "051483cefe7ff385",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+ "image": "https://github.blog/wp-content/uploads/2026/10/682153766-30ae8bb0-a424-401c-80e8-bb06bec001b2.png",
+ "title": "GPT-6.1 Terra in GitHub Copilot",
+ "summary_en": "GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In…",
+ "title_mn": "GitHub Copilot дотор GPT-6.1 Terra загвар ашиглах боломжтой боллоо",
+ "summary_mn": "OpenAI-ийн шинэ GPT-6.1 Terra загвар GitHub Copilot-д нэмэгдэж, өдөр тутмын агент код бичих ажилд хямд өртгөөр ашиглагдах боллоо.",
+ "body_mn": "OpenAI-ийн хамгийн сүүлийн үеийн загвар болох GPT-6.1 Terra одоо GitHub Copilot дээр албан ёсоор нэвтэрч байна. Энэхүү загвар нь өдөр тутмын агент код бичих болон терминалын ажлуудад илүү хямд өртгөөр өндөр үр дүнтэй ажиллахаар бүтээгджээ.\n\nЭрт үеийн туршилтаар GPT-6.1 Terra нь өмнөх хувилбаруудаас илүү олон терминал болон C# код бичих даалгавруудыг амжилттай шийдвэрлэж байжээ. Copilot Pro, Business, Enterprise хэрэглэгчид загвар сонгогч хэсгээс уг загварыг сонгон ашиглах боломжтой ба администраторууд бодлогын тохиргоогоор дамжуулан хандалтыг удирдах боломжтой.\n\nЭнэхүү шинэчлэлт нь хөгжүүлэгчдэд хиймэл оюуны тусламжтайгаар илүү хурдан бөгөөд үр дүнтэй код бичих нөхцөлийг бүрдүүлж байна.",
+ "published": "2026-10-26T19:15:53Z",
+ "added": "2026-10-27T13:26:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

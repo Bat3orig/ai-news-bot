@@ -1,0 +1,17 @@
+{
+ "id": "b6c7803d148ad0a6",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Startup Fortune",
+ "url": "https://startupfortune.com/a-chinese-ai-coding-tool-secretly-uploaded-users-private-code-to-alibaba-cloud/",
+ "image": "https://startupfortune.com/wp-content/uploads/2026/10/z-ai-qwen-alibaba-cloud.jpg",
+ "title": "A Chinese AI coding tool secretly uploaded users' private code to Alibaba Cloud",
+ "summary_en": "Z.ai's ZCode coding assistant uploaded a developer's 313 MB codebase, Git history included, to an Alibaba Cloud bucket, with no way to opt out.",
+ "title_mn": "Хятадын AI код бичих хэрэгсэл хөгжүүлэгчдийн коцыг Alibaba Cloud руу нууцаар байршуулжээ",
+ "summary_mn": "Z.ai компанийн ZCode туслах хэрэгсэл хөгжүүлэгчдийн кодыг зөвшөөрөлгүйгээр Alibaba Cloud руу хуулж байсныг илрүүлжээ.",
+ "body_mn": "Хөгжүүлэгч Ферстар өөрийн дискний зайг чөлөөлөх явцдаа Z.ai (хуучнаар Zhipu AI) компанийн бүтээсэн ZCode хиймэл оюуны код бичих туслах хэрэгсэл нь өөрийнх нь арилжааны төслийн 313 MB хэмжээтэй архив болон Git түүхийг Alibaba Cloud рүү нууцаар илгээхээр бэлтгэснийг олж илрүүлжээ. Энэ нь хятад гаралтай AI хэрэгслүүдийн нууцлалын эрсдэлийг бодитойгоор харуулсан тохиолдол болсон байна.\n\nУг асуудал нь анхдагчаар идэвхжсэн Codebase Indexing болон Repo Wiki функцүүдтэй холбоотой байсан бөгөөд хэрэглэгч хүсэлт явуулах бүрт ажлын фолдерыг автоматаар хадгалж, үүлэн сервер рүү илгээх дараалалд оруулдаг байжээ. Үүнд ямар нэгэн унтраах товчлуур буюу хэрэглэгч татгалзах боломж байгаагүй нь хөгжүүлэгчдийн дунд эгдүүцэл төрүүлсэн байна.\n\nZ.ai компани уг алдааг залруулж, уг функцийг бүрэн хассан шинэ хувилбарыг гаргасан бөгөөд гадны аюулгүй байдлын аудитын байгууллагууд мэдээллийг бүрэн устгасныг баталгаажуулжээ. Гэсэн хэдий ч энэ үйл явдал нь хямд өртөгтэй гадаад AI хэрэгслүүдийг ашиглах үед гарч болох өгөгдөл алдагдлын эрсдэлийг компаниудад сануулсан чухал анхааруулга боллоо.",
+ "published": "2026-10-26T19:09:36Z",
+ "added": "2026-10-27T13:26:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

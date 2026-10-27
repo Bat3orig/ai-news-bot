@@ -1,0 +1,17 @@
+{
+ "id": "ac1ec69ea046ea68",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/discover-1000-services-on-vercel-connect-from-the-cli",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4HRICmVtpRN0fmDOej7OUx/34e369a2a5b05a36f601901dc8f19434/vercel-connect-cli-search-g.png",
+ "title": "Discover 1000+ services on Vercel Connect from the CLI",
+ "summary_en": "You and your agents can now browse and search more than 1000 services available in Vercel Connect without leaving your terminal. vercel connect discover searches by name, alias, keyword, and description. type: embedded-entry-inline id: H1F06IGrASdIU5HbPDOFM Results can be filtered by category, connection method (such as mcp or oauth ) or the product a service exposes. You can also limit results to services that forward webhook triggers. vercel connect categories lists the category slugs you can filter by. Both commands support --format=json for scripts and agents. type: embedded-entry-inline…",
+ "title_mn": "Vercel CLI дээр Vercel Connect үйлчилгээг хайх боломжтой боллоо",
+ "summary_mn": "Хөгжүүлэгчид болон агентууд terminal дотроосоо vercel connect discover командыг ашиглан Vercel Connect дээрх 1000 гаруй үйлчилгээг хайж, шүүж олох боломжтой боллоо.",
+ "body_mn": "Vercel платформ хөгжүүлэгчдийн ажлыг хөнгөвчлөх зорилгоор Vercel Connect үйлчилгээг CLI хэрэгслээс шууд удирдах боломжийг нэмлээ. Шинэ шинэчлэлтээр vercel connect discover болон vercel connect categories командууд нэмэгдсэн бөгөөд хөгжүүлэгчид нэр, түлхүүр үг, ангилал болон холболтын аргаар (MCP эсвэл OAuth) үйлчилгээнүүдийг хайх боломжтой болж байна.\n\nМөн --format=json тугийг дэмждэг болсноор скрипт болон хиймэл оюуны агентууд уг үйлчилгээг автоматаар ашиглахад илүү дөхөм болж байна. Хөгжүүлэгчид CLI хэрэгслээ 64.1.0 болон түүнээс дээш хувилбар руу шинэчилж эхлүүлэх боломжтой бөгөөд энэ нь үүлэн орчны нэгдлийг илүү уян хатан болгож байна.",
+ "published": "2026-10-26T20:00:00Z",
+ "added": "2026-10-27T13:26:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

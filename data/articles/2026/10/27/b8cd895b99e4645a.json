@@ -1,0 +1,17 @@
+{
+ "id": "b8cd895b99e4645a",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
+ "image": "https://opengraph.githubassets.com/3ef034bc77ab21a0f22bc2b9c8e4117c23d6ec2dd6e387ea8f263c059463cbd8/anthropics/claude-code/releases/tag/v2.1.311",
+ "title": "claude-code v2.1.311",
+ "summary_en": "What's changed Added --hold-idle-file and --max-hold-min to self-hosted-runner , to keep an idle session while your host reports processes it left running Added a tip for the Explanatory output style, shown when you ask Claude for explanations Fixed long freezes at startup and after reading or editing files when a CLAUDE.md file holds a very long list item Fixed interrupting Claude not taking effect until a timeout while an MCP server had not answered a resource read or a skill was still downloading Fixed standard-context sessions stopping with \"Usage credits required for 1M context\" when a…",
+ "title_mn": "claude-code v2.1.311 хувилбар гарлаа",
+ "summary_mn": "Anthropic компани claude-code багажны v2.1.311 шинэ хувилбарыг гаргажээ. Энэ шинэчлэлтээр өөрийгөө байршуулах (self-hosted) runner болон олон төрлийн алдааг зассан байна.",
+ "body_mn": "Claude Code хөгжүүлэгчдэд зориулсан v2.1.311 хувилбараа гаргалаа. Энэхүү хувилбараар self-hosted-runner дээр ажиллах --hold-idle-file болон --max-hold-min нэмэлт тохиргоонуудыг нэмсэн бөгөөд сессийн хугацаанд сул зогсох асуудлыг шийдвэрлэжээ.\n\nМөн хөгжүүлэгчдийн анхаарлыг татсан томоохон засруудын нэг нь 200К токенээс дээш хүссэн хүсэлтийн үед \"Usage credits required for 1M context\" алдаа гарч зогсдог байсныг засаж, Claude Code яриаг автоматаар шахмал хэлбэрт оруулж үргэлжлүүлдэг болсон явдал юм.\n\nТүүнчлэн олон мөр файл өөрчлөх явцад Write болон Edit хэрэгслүүд гацаж 0 мөр өөрчлөгдсөн гэж мэдээлдэг байсан алдааг зассан байна. Мөн MCP серверүүд болон дэд агентуудын ажиллагааг сайжруулж, файл хадгалах явц болон санах ойн менежментийг оновчтой болгожээ.",
+ "published": "2026-10-26T21:51:23Z",
+ "added": "2026-10-27T13:26:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "a9c488820a62ac4a",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/greptile-code-review-codex-astra",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/41HmEnWTxiRSX2JLf1g8IJ/86b6e146a0620d83db05f4010e6b058e/greptile-connections-social.png?w=1600&h=900&fit=fill",
+ "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+ "summary_en": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+ "title_mn": "Greptile компани GPT-6 Astra ашиглан кодыг автомат тест хийж эхэлжээ",
+ "summary_mn": "Greptile компани хөгжүүлэлтийн явцыг хурдасгах болон алдаа илрүүлэх зорилгоор GPT-6 Astra болон Codex хэрэгслүүдийг ашиглаж эхэлснийг мэдэгдлээ. Энэ нь кодын утга санааг шалгахаас гадна хэрэглэгчийн интерфейсийг автоматжуулж шалгах боломжийг олгож байна.",
+ "body_mn": "Greptile компани AI агентуудаараа дамжуулан кодыг хянаж, бүрэн контекстэд үндэслэн тест хийдэг шийдлүүдийг хөгжүүлдэг. Компанийн үүсгэн байгуулагч бөгөөд Гүйцэтгэх захирал Дакш Гуптагийн хэлснээр, тэдний зорилго бол програм хангамжийн найдвартай байдлыг сайжруулах явдал юм.\n\nGPT-6 Astra загварын компьютер ашиглах боломжийн ачаар Greptile компани хөгжүүлэлтийн сервер дээр pull request шалгах, гар утасны дэлгэцийн хэмжээгээр вэбсайтыг харах зэрэг хэрэглэгчийн үйлдлийг автомат байдлаар тест хийх боломжтой болжээ. Энэ нь QA багийн ажлыг ихээхэн хөнгөвчилж байна.\n\nТүүнчлэн Greptile нь компаниудын кодын санг индексийн сан болгон боловсруулж, Model Context Protocol (MCP) сервэрээр дамжуулан Codex-т холбож өгдөг байна. Ингэснээр Codex хөгжүүлэгчдийн хэв маягт нийцүүлэн код бичих боломж бүрдэж, AI-аар үүсгэсэн кодын буцаалтыг багасгаж байна.",
+ "published": "2026-10-26T22:00:00Z",
+ "added": "2026-10-27T13:26:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

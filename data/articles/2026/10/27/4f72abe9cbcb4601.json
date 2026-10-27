@@ -1,0 +1,17 @@
+{
+ "id": "4f72abe9cbcb4601",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6ZJYWyYpyqgNqvwyndIs8m/c86e0d9506a57b89d574df74fafba9bc/image__49_.png",
+ "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox",
+ "summary_en": "AgentEnv , Scale AI's framework for testing agents against tasks and scoring their results, now runs on Vercel Sandbox . The Vercel provider ships in AgentEnv 0.9.1334 and later, and runs the agent and its task environment in separate Sandboxes. Try the AgentEnv example to run an evaluation on Vercel Sandbox and inspect the task’s score and the agent’s recorded actions. After completing the setup guide , run this command from the cloned repository. It uses your existing Vercel CLI login: Replace YOUR_TEAM with your Vercel team slug and YOUR_PROJECT with an existing project name. Learn more…",
+ "title_mn": "Scale AI-ийн AgentEnv туршилтууд Vercel Sandbox дээр ажилладаг боллоо",
+ "summary_mn": "Scale AI-ийн агентуудын гүйцэтгэлийг үнэлэх AgentEnv хүрээ Vercel Sandbox орчинд дэмжигдэж эхэллээ.",
+ "body_mn": "Scale AI компани агентуудын даалгавар гүйцэтгэх чадварыг шалгаж, оноо өгөх AgentEnv системийг Vercel Sandbox дээр шууд ажиллуулах боломжтой болсныг зарлалаа. AgentEnv 0.9.1334 болон түүнээс хойших хувилбаруудад Vercel provider нэмэгдсэн байна.\n\nЭнэхүү шинэ интеграцийн тусламжтайгаар хөгжүүлэгчид хиймэл оюуны агентууд болон тэдгээрийн ажиллах орчныг тусгаарлагдсан Vercel Sandbox дотор ажиллуулж, үнэлгээ хийх боломжтой боллоо. Тохиргоог хийсний дараа Vercel CLI ашиглан үнэлгээг шууд эхлүүлж, агентын гүйцэтгэсэн үйлдлүүдийг хянах боломжтой юм.\n\nЭнэхүү шинэчлэл нь AI агентуудыг турших, хөгжүүлэх амьдралын мөчлөгийг хялбарчилж, хөгжүүлэгчдэд найдвартай орчинг бүрдүүлж өгч байгаагаараа чухал ач холбогдолтой юм.",
+ "published": "2026-10-26T19:00:00Z",
+ "added": "2026-10-27T13:26:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

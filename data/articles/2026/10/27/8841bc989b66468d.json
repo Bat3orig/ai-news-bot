@@ -1,0 +1,17 @@
+{
+ "id": "8841bc989b66468d",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Business Insider",
+ "url": "https://www.businessinsider.com/anthropic-workplace-takeaways-claude-ai-employees-2026-10",
+ "image": "https://i.insider.com/6adfbceaab741a2ebdf11865?width=1200&format=jpeg",
+ "title": "Anthropic workers are writing less code and managing more AI. Their jobs offer a glimpse of work's future.",
+ "summary_en": "Anthropic's IPO filing reveals how Claude is reshaping work, why head count is surging, and the stakes of retaining top AI talent.",
+ "title_mn": "Anthropic компанийн ажилтнууд код бичихээс илүүтэйгээр хиймэл оюун ухааныг удирдаж байна",
+ "summary_mn": "Anthropic компанийн S-1 тайлангаас харахад инженерүүд код шууд бичихээс илүү Claude загварын гаралтыг хянаж, бүтээмжээ эрс нэмэгдүүлжээ.",
+ "body_mn": "Anthropic компани IPO хийхээр гаргасан S-1 баримт бичигтээ ажилтнуудынхаа ажлын арга барил болон хиймэл оюуныг хэрхэн ашиглаж байгаа талаар дэлгэрэнгүй дурджээ. 2024 оны сүүлээр 940 орчим ажилтантай байсан тус компани 9-р сарын байдлаар 5,300 гаруй ажилтантай болж өргөжсөн байна. Гэсэн хэдий ч Claude загвар нь компанид хүний нөөцөө шугаман байдлаар өсгөхгүйгээр бизнесээ өргөжүүлэх боломжийг олгож байгаа аж.\n\nЯлангуяа программ хангамжийн инженерчлэлийн салбарт ажилтнууд код мөр мөрөөр бичихээс илүүтэйгээр Claude загварын гаралтыг чиглүүлж, хянахад анхаарч байна. Есдүгээр сард тус компанийн код суурийн (codebase) 90 гаруй хувийг Claude бичсэн бөгөөд инженер тус бүрийн өдөр тутмын кодын хувь нэмэр 2024 оны дундаж түвшнээс 45 дахин өссөн байна. Энэ нь хиймэл оюун хөгжүүлэгчдийн бүтээмжид хэрхэн нөлөөлж байгааг харуулсан тод жишээ юм.",
+ "published": "2026-10-26T21:43:00Z",
+ "added": "2026-10-27T13:26:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
