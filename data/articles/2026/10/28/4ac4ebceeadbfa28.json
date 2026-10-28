@@ -1,0 +1,17 @@
+{
+ "id": "4ac4ebceeadbfa28",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.3.1",
+ "image": "https://opengraph.githubassets.com/68909f1d45a1db81676bd560811b10809e4a49f1d89b00dcc13c495f9f0e1c29/nestjs/nest",
+ "title": "nest v12.3.1",
+ "summary_en": "v12.3.1",
+ "title_mn": "Nest v12.3.1 хувилбар гарлаа",
+ "summary_mn": "NestJS фреймворкийн албан ёсны v12.3.1 шинэчлэлт хэрэглэгчдэд хүрлээ.",
+ "body_mn": "NestJS баг v12.3.1 хувилбараа албан ёсоор гаргалаа. Энэхүү шинэчлэлтээр хүрээлэн буй орчны болон фреймворкийн жижиг алдаануудыг засаж, тогтвортой байдлыг сайжруулсан байна. Хөгжүүлэгчид төслөө шинэчлэхэд хялбар байх болно.",
+ "published": "2026-10-27T09:58:41Z",
+ "added": "2026-10-28T14:44:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

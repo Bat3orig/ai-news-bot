@@ -678,5 +678,65 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4ac4ebceeadbfa28",
+   "subtopic": "nestjs",
+   "source": "nestjs/nest",
+   "source_label": "nestjs/nest",
+   "url": "https://github.com/nestjs/nest/releases/tag/v12.3.1",
+   "image": "https://opengraph.githubassets.com/68909f1d45a1db81676bd560811b10809e4a49f1d89b00dcc13c495f9f0e1c29/nestjs/nest",
+   "title": "nest v12.3.1",
+   "summary_en": "v12.3.1",
+   "title_mn": "Nest v12.3.1 хувилбар гарлаа",
+   "summary_mn": "NestJS фреймворкийн албан ёсны v12.3.1 шинэчлэлт хэрэглэгчдэд хүрлээ.",
+   "body_mn": "NestJS баг v12.3.1 хувилбараа албан ёсоор гаргалаа. Энэхүү шинэчлэлтээр хүрээлэн буй орчны болон фреймворкийн жижиг алдаануудыг засаж, тогтвортой байдлыг сайжруулсан байна. Хөгжүүлэгчид төслөө шинэчлэхэд хялбар байх болно.",
+   "published": "2026-10-27T09:58:41Z",
+   "added": "2026-10-28T14:44:52Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "daa24200d2cc1ad0",
+   "subtopic": "motion",
+   "source": "motiondivision/motion",
+   "source_label": "motiondivision/motion",
+   "url": "https://github.com/motiondivision/motion/releases/tag/v14.7.1",
+   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+   "title": "motion v14.7.1",
+   "summary_en": "v14.7.1",
+   "title_mn": "Motion v14.7.1 хувилбар шинэчлэгдлээ",
+   "summary_mn": "Motion анимацийн сангийн v14.7.1 засварын хувилбар албан ёсоор гарлаа.",
+   "body_mn": "Motion (хуучнаар Framer Motion) номын сан v14.7.1 хувилбараа гаргалаа. Энэхүү шинэчлэлт нь анимацийн гүйцэтгэл болон кодын тогтвортой байдлыг сайжруулахад чиглэсэн чухал засваруудыг агуулж байна.",
+   "published": "2026-10-27T11:07:27Z",
+   "added": "2026-10-28T14:44:52Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "080fa2f5caf7194f",
+   "subtopic": "nestjs",
+   "source": "nestjs/nest",
+   "source_label": "nestjs/nest",
+   "url": "https://github.com/nestjs/nest/releases/tag/v12.3.2",
+   "image": "https://opengraph.githubassets.com/68909f1d45a1db81676bd560811b10809e4a49f1d89b00dcc13c495f9f0e1c29/nestjs/nest",
+   "title": "nest v12.3.2",
+   "summary_en": "v12.3.2",
+   "title_mn": "NestJS v12.3.2 хувилбар гарлаа",
+   "summary_mn": "NestJS фреймворкийн v12.3.2 хувилбар нийтлэгдлээ. Энэ нь v12.3.0 болон v12.3.1-ийн дараагийн засварын хувилбар юм. Дэлгэрэнгүй өөрчлөлтийн жагсаалтыг GitHub дээрх релизээс үзэх боломжтой.",
+   "body_mn": "NestJS багийн GitHub репозитөрид v12.3.2 хувилбар гарсан байна. Нийтлэлд зөвхөн хувилбарын дугаар бичигдсэн тул дэлгэрэнгүй өөрчлөлтийг мэдээлэл дээр үндэслэн тодорхойлох боломжгүй байна.\n\nЭнэ хувилбар өмнөх v12.3.0 болон v12.3.1-ийн дараа гарсан тул засвар эсвэл жижиг сайжруулалт байх магадлалтай. Гэхдээ энэ нь таамаглал тул хөгжүүлэгчид суулгахаасаа өмнө релизийн тэмдэглэлийг сайтар уншиж, өөрчлөлтүүдийг шалгах хэрэгтэй.\n\nNestJS-г ашигладаг төслийн хувьд package.json дахь хувилбарыг шинэчлэхийн өмнө тестүүдээ ажиллуулж, хамаарлын хувилбаруудыг шалгах нь зүйтэй.",
+   "published": "2026-10-27T12:01:59Z",
+   "added": "2026-10-28T14:44:52Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
  }
 ]

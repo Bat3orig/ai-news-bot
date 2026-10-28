@@ -1,0 +1,17 @@
+{
+ "id": "daa24200d2cc1ad0",
+ "subtopic": "motion",
+ "source": "motiondivision/motion",
+ "source_label": "motiondivision/motion",
+ "url": "https://github.com/motiondivision/motion/releases/tag/v14.7.1",
+ "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+ "title": "motion v14.7.1",
+ "summary_en": "v14.7.1",
+ "title_mn": "Motion v14.7.1 хувилбар шинэчлэгдлээ",
+ "summary_mn": "Motion анимацийн сангийн v14.7.1 засварын хувилбар албан ёсоор гарлаа.",
+ "body_mn": "Motion (хуучнаар Framer Motion) номын сан v14.7.1 хувилбараа гаргалаа. Энэхүү шинэчлэлт нь анимацийн гүйцэтгэл болон кодын тогтвортой байдлыг сайжруулахад чиглэсэн чухал засваруудыг агуулж байна.",
+ "published": "2026-10-27T11:07:27Z",
+ "added": "2026-10-28T14:44:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
