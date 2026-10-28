@@ -1,0 +1,17 @@
+{
+ "id": "2bf05c22b9d49777",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "THE ELEC, Korea Electronics Industry Media",
+ "url": "https://www.thelec.net/news/articleView.html?idxno=14971",
+ "image": "https://cdn.thelec.net/news/photo/202610/14971_15235_4144.jpg",
+ "title": "Moonshot AI's Kimi K3.1 Pro Outperforms GPT-6 Astra in Benchmark Rankings",
+ "summary_en": "Chinese artificial intelligence (AI) company Moonshot AI has unveiled Kimi K3.1 Pro, an up",
+ "title_mn": "Kimi K3.1 Pro загвар Terminal Bench 4.0-д тэргүүлжээ",
+ "summary_mn": "Moonshot AI-ийн Kimi K3.1 Pro загвар Artificial Analysis-ийн Intelligence Index-д 55 оноо авч, Terminal Bench 4.0-д 67% үзүүлэлттэй тэргүүлсэн. Үнэ нь 1 сая input token-д $2, output-д $10.",
+ "body_mn": "Moonshot AI Kimi K3.1 Pro загварыг танилцуулав. Энэ нь Kimi K3-ийн сайжруулсан хувилбар бөгөөд post-training-д илүү их нөөц зарцуулсан гэж компани мэдээлсэн.\n\nArtificial Analysis-ийн үнэлгээгээр загвар Intelligence Index-д 55 оноо авч дөрөвт орсон бөгөөд GPT-6 Astra (53) болон Claude Fable 5.1-ээс илүү байна. Terminal Bench 4.0-д 67% оноо авч нэгдүгээрт орсон нь Claude Sonnet 5.5-ын 64%-иас өндөр. GDPval-AA дээр 1,846 Elo авчээ.\n\nҮнийн хувьд 1 сая input token $2, output token $10 байна. AA-ийн тооцоолсноор Intelligence Index үнэлгээний нэг даалгаврын дундаж зардал $2.11 байсан бол Claude Opus 5.5-д $5.98 гарчээ.\n\nГэвч output хурд секундэд 73 token бөгөөд дундаж 81-ээс доогуур, мөн урт хариулт өгдөг тул бодит зардал өснө гэж AA анхааруулсан. Хөгжүүлэгчид үнэ болон token хэрэглээг хамт тооцох хэрэгтэй.",
+ "published": "2026-10-27T09:10:02Z",
+ "added": "2026-10-28T07:53:35Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

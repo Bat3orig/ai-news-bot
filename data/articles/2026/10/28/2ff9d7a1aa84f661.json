@@ -1,0 +1,17 @@
+{
+ "id": "2ff9d7a1aa84f661",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ezWtBlrmKR2ZFlfTCH4QE/5ba3ce7cdc85f5160ccc33547be228fb/fx-adapter-harness-host-og_4x.png",
+ "title": "The fx adapter now runs the harness on the host",
+ "summary_en": "The fx adapter for the AI SDK’s HarnessAgent now runs the harness and model requests in the same process as your application. Built-in filesystem and shell operations remain isolated in the sandbox. The adapter uses libfx , the TypeScript library for fx. It no longer needs to install fx inside the sandbox, run a sandbox bridge, or expose a sandbox port. Model credentials stay on the host rather than being forwarded into the sandbox. The rewrite also adds: Built-in tool filtering: choose which built-in tools the agent can use Mid-turn steering: send new instructions while a turn is running…",
+ "title_mn": "AI SDK-ийн HarnessAgent-д зориулсан fx адаптер гарлаа",
+ "summary_mn": "AI SDK-ийн HarnessAgent-д зориулсан шинэ fx адаптер нь загварын хүсэлтийг хэрэглээний үндсэн процесст шууд ажиллуулж эхлэх боломжтой болголоо.",
+ "body_mn": "Vercel компани AI SDK-ийн HarnessAgent-д зориулсан шинэ fx адаптерийг танилцууллаа. Энэхүү адаптер нь libfx TypeScript номын санг ашигладаг бөгөөд sandbox дотор fx суулгах, сүлжээний гүүр ашиглах шаардлагагүйгээр үндсэн процесст загварын хүсэлтийг гүйцэтгэдэг байна.\n\nШинэ шинэчлэлтийн үр дүнд загварын итгэмжлэлүүд sandbox руу дамжихгүйгээр үндсэн систем дээр найдвартай хадгалагдах юм. Мөн хөгжүүлэгчид агентийн ашиглах хэрэгслүүдийг өөрөө шүүж сонгох, эргэлтийн үед шууд зааварчилгаа өгөх зэрэг боломжуудыг ашиглах боломжтой.\n\nХөгжүүлэгчид @ai-sdk/harness-fx багцыг хамгийн сүүлийн хувилбар руу шинэчилж уг адаптерийг төслөөсөө шууд туршиж үзэх боломжтой бөгөөд сессийн мэдээллийг шинэ процесст хадгалж үргэлжлүүлэх боломжтой.",
+ "published": "2026-10-27T06:00:00Z",
+ "added": "2026-10-28T07:53:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

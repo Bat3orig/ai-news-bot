@@ -1,0 +1,17 @@
+{
+ "id": "008512bdedf0ef91",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/elevenlabs-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/FgpTes096juTGnybiZPF5/b8d311e99c124c643785dd5a3367a098/image.png",
+ "title": "ElevenLabs on AI Gateway",
+ "summary_en": "Vercel and ElevenLabs are partnering to bring 14 ElevenLabs models to AI Gateway . To celebrate the launch, all ElevenLabs models are 50% off on AI Gateway for the first 14 days, through November 9th. AI Gateway supports six different types of ElevenLabs audio models: Speech to text: Transcribe recordings or caption live audio as people speak. Streaming text to speech: Start playing audio while a language model is still writing its reply, so users don't have to wait for the full answer. Realtime voice agents: Let users talk to your app and listen to it respond out loud in a single live…",
+ "title_mn": "ElevenLabs-ийн 14 аудио загвар Vercel AI Gateway дээр нэмэгдлээ",
+ "summary_mn": "Vercel болон ElevenLabs хамтран ажиллаж, яриа таних болон дуу хоолой үүсгэх 14 загварыг AI Gateway дээр албан ёсоор нээлээ.",
+ "body_mn": "Vercel болон ElevenLabs компаниуд хамтран ажиллаж, ElevenLabs-ийн яриаг текст болгох, бодит цагийн дуу хоолойн агент, хөгжим болон дууны эффект үүсгэх 14 шинэ загварыг AI Gateway платформд нэгтгэжээ. Энэхүү нээлтийг тохируулан арваннэгдүгээр сарын 9 хүртэл бүх ElevenLabs загваруудын үнийг 50 хувийн хөнгөлөлттэйгээр са болгож байна.\n\nХөгжүүлэгчид ганцхан AI Gateway API түлхүүр ашиглан ElevenLabs-ийн төрөл бүрийн аудио загваруудыг өөрсдийн аппликейшн болон агентуудад холбох боломжтой боллоо. Тухайлбал, хэрэглэгчийн яриаг бодит цаг хугацаанд текст болгож, хэлний загвараар боловсруулан буцааж дуу хоолойгоор хариу өгөх систем бүтээхэд нэн тохиромжтой юм.\n\nReact хөгжүүлэгчид @ai-sdk/react сан дахь useRealtime hook-ийг ашиглан вэб хөтөч дээр WebSocket холболт үүсгэж микрофоны дууг шууд дамжуулах боломжтой бөгөөд API түлхүүр клиент талд харагдахгүйгээр аюулгүй байдлыг хангасан байна.",
+ "published": "2026-10-27T07:00:00Z",
+ "added": "2026-10-28T07:53:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

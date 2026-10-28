@@ -1,0 +1,17 @@
+{
+ "id": "ee4d058196e6611f",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.3.0",
+ "image": "https://opengraph.githubassets.com/1878308effeec66574e44c7176e27469f810f3e20604267aa868649d833e142e/nestjs/nest",
+ "title": "nest v12.3.0",
+ "summary_en": "v12.3.0",
+ "title_mn": "NestJS v12.3.0 хувилбар гарлаа",
+ "summary_mn": "NestJS-ийн v12.3.0 хувилбар нийтлэгдлээ. Дэлгэрэнгүй өөрчлөлт нь эх repository-ийн release notes-д байна.",
+ "body_mn": "NestJS backend framework-ийн шинэ v12.3.0 хувилбар гарсан тухай мэдээлэл GitHub release-д нийтлэгдлээ.\n\nМэдээллийн эх сурвалжид зөвхөн хувилбарын дугаар багтсан тул шинэчлэлийн дэлгэрэнгүй агуулгыг тодорхойлох боломжгүй байна. Хөгжүүлэгчид release notes-ийг GitHub дээрээс шалгаж, breaking change байгаа эсэхийг анхаарах хэрэгтэй.\n\nNestJS-ийг ашигладаг төслүүдийн хувьд шинэ хувилбарт шилжихээс өмнө dependency-үүдийн нийцтэйг шалгах нь зүйтэй.",
+ "published": "2026-10-27T09:00:22Z",
+ "added": "2026-10-28T07:53:35Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
