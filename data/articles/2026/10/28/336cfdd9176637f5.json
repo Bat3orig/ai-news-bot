@@ -1,0 +1,17 @@
+{
+ "id": "336cfdd9176637f5",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.40.0",
+ "image": "https://opengraph.githubassets.com/aff1e3fbe3b0083c52094b71b3cc3558ea36fbc7462983ddcb618fe4c1d76ab2/openai/openai-python/releases/tag/v3.40.0",
+ "title": "openai-python v3.40.0",
+ "summary_en": "3.40.0 (2026-10-27) Features api: add prompt cache breakpoint TTL options ( #4188 ) ( 3596d18 ) Bug Fixes ci: use an explicit browser demo dependency ( #4185 ) ( a3f4302 ) Chores api: record completed generated-code separation ( #4190 ) ( d7ab5ee ) deps-dev: bump griffe from 1.14.0 to 2.3.0 ( #4069 ) ( 766b849 ) deps: bump actions/create-github-app-token from 3.2.0 to 3.3.0 ( #4178 ) ( 06dbb5d ) deps: bump actions/download-artifact from 8.0.1 to 8.0.2 ( #4110 ) ( 2404d04 ) deps: bump actions/upload-artifact from 7.0.1 to 7.0.2 ( #4107 ) ( 0adf711 ) deps: bump github/codeql-action/analyze…",
+ "title_mn": "openai-python v3.40.0 хувилбар гарч, Prompt Cache-ийн TTL тохиргоо нэмэгдлээ",
+ "summary_mn": "OpenAI албан ёсны Python SDK-ийнхөө v3.40.0 хувилбарыг гаргалаа. Шинэ хувилбараар prompt cache breakpoint-ийн TTL буюу хадгалагдах хугацааг тохируулах шинэ боломжууд нэмэгдсэн байна.",
+ "body_mn": "OpenAI албан ёсны Python санг шинэчилж, v3.40.0 хувилбарыг нийтэллээ. Энэ удаагийн хувилбарын гол өөрчлөлт нь prompt cache breakpoint-ийн TTL буюу кэшлэгдсэн өгөгдөл хүчинтэй байх хугацааг нарийвчлан тохируулах шинэ параметрүүдийг API түвшинд нэмсэн явдал юм.\n\nҮүнээс гадна хөгжүүлэлтийн сангуудын хамаарлыг шинэчилсэн бөгөөд griffe, actions/upload-artifact, codeql-action болон codex-action зэрэг хамаарлуудыг шинэ хувилбар луу ахиулжээ. Мөн автоматаар үүсгэгддэг кодын бүтэц болон туслах функцүүдийн зохион байгуулалтыг сайжруулсан байна.\n\nPrompt caching ашигладаг инженерүүдийн хувьд кэшийн хугацааг өөрсдийн хэрэгцээнд тааруулан удирдах боломж олгож байгаа нь том хэмжээний контексттэй ажиллах үед API-ийн зардал болон хоцролтыг оновчлоход чухал ач холбогдолтой юм.",
+ "published": "2026-10-27T15:37:52Z",
+ "added": "2026-10-28T20:00:24Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "6a18ed8fd58c83af",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/whats-important-19/",
+ "image": "https://css-tricks.com/wp-content/uploads/2026/09/wi19.jpg",
+ "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
+ "summary_en": "We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no filler. Here's what you missed. What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "title_mn": "What’s !important #19: CSS хугарлын эффект, scroll state query болон бусад шинэ боломжууд",
+ "summary_mn": "CSS-Tricks сайт шинэ дугаараа гаргаж, CSS refraction эффект, scroll state query, @custom-media болон бусад сонирхолтой веб платформ технологиудын талаар дэлгэрэнгүй танилцууллаа.",
+ "body_mn": "CSS-Tricks сайт шинэхэн What’s !important #19 дугаараа танилцуулж, фронтенд хөгжүүлэлтийн шинэ боломж, арга техникүүдийг хуваалцлаа. Тухайлбал, Preethi Sam ямар ч JavaScript ашиглахгүйгээр, зураг хуулбарлалгүйгээр хөдөлгөөнтэй background image refraction буюу хугарлын эффектийг хэрхэн хийхийг харуулсан байна.\n\nМөн Brecht De Ruyte контейнер стилийн асуулга болон дэвшилтэт attr() функц ашиглан хэрхэн өөрчлөн тохируулах боломжтой компонент бүтээхийг тайлбарласан бол Dan Holloran scroll-state() (scrollable, scrolled, snapped, stuck) асуулгуудыг хэрхэн ашиглах талаар товч бөгөөд тодорхой жишээ үзүүлжээ. Үүнээс гадна Bramus CSS grid-ийг anchor positioning ашиглан хэрхэн анимаци хийх боломжтойг харуулсан боловч одоогоор Firefox хөтөч дээр алдаатай ажиллаж байгааг дурдсан байна.\n\nЭнэхүү дугаарт мөн @custom-media ашиглах аргууд, элементийн давхцлыг CSS ашиглан илрүүлэх аргачлал болон HTML-ийн шинэ previewsrc атрибутын саналын талаар өгүүлсэн нь веб хөгжүүлэгчдэд маш хэрэгтэй мэдээллүүд болжээ.",
+ "published": "2026-10-27T15:09:16Z",
+ "added": "2026-10-28T20:00:24Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

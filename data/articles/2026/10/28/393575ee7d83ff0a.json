@@ -1,0 +1,17 @@
+{
+ "id": "393575ee7d83ff0a",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+ "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw",
+ "title": "Genie 4: A new generation of world simulation",
+ "summary_en": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+ "title_mn": "Google DeepMind бодит цагийн ертөнц бүтээх Genie 4 загвараа танилцууллаа",
+ "summary_mn": "Google DeepMind интерактив ертөнцийг бодит цагт үүсгэх чадвартай шинэ үеийн Genie 4 загварыг зарлалаа. Gemini технологид суурилсан уг загвар нь бодит дүр зураг төдийгүй дуу чимээ, хөгжим, харилцан яриаг нэгэн зэрэг үүсгэдэг анхны multimodal ертөнцийн загвар болж байна.",
+ "body_mn": "Google DeepMind интерактив симуляцийн шинэ үеийг нээж буй Genie 4 ертөнцийн загвараа (world model) танилцууллаа. Уг загвар нь бодит дүрслэл, хөдөлгөөнийг үзүүлэхээс гадна тухайн орчны дуу чимээ, хөгжим, харилцан яриа зэрэг аудиог бодит цагт хамтад нь нэгдмэл байдлаар үүсгэх multimodal чадвартай бүтээгджээ.\n\nGenie 4 нь Gemini гэр бүлийн загваруудын суурин дээр ажилладаг байна. Тухайлбал, Gemini Omni загвар нь орчны бодит төрх, биетүүдийн физик шинж чанарыг хариуцдаг бол бусад Gemini загварууд симуляцийн ерөнхий логик уялдаа, үйл явдлын залгамж чанарыг хадгалах логик сэтгэхүйг хангаж байна. Хэрэглэгчид ердийн гарны удирдлага болон байгалийн хэлний текст заавраар орчны цаг агаар, камерын өнцөг болон шинэ биетүүдийг бодит цагт өөрчлөн удирдах боломжтой.\n\nGoogle-ийн мэдэгдсэнээр энэхүү загвар нь роботын сургалтын орчин бэлтгэх, шинэ түвшний интерактив тоглоом, контент хөгжүүлэхэд чухал үүрэг гүйцэтгэнэ. Genie 4 нь одоогоор туршилтын шатанд явж байгаа бөгөөд эхний ээлжинд Google AI Ultra хэрэглэгчид болон Gemini API, Google AI Studio-ийн эрхтэй түншүүдэд нээлттэй болж байна.",
+ "published": "2026-10-27T16:01:38Z",
+ "added": "2026-10-28T20:00:24Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}
