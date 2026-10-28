@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "f681354c3c7af92b",
-   "subtopic": "nextjs",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
-   "image": "https://cdn.bloffy.blog/korindiehacker/articles/469/1792976193085-aneuvk",
-   "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-   "summary_en": "Article URL: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category Comments URL: https://news.ycombinator.com/item?id=50237712 Points: 189 # Comments: 118",
-   "title_mn": "Next.js-ийг болиулж блогынхоо хурдыг 100 хувьд хүргэсэн нь",
-   "summary_mn": "Хөгжүүлэгч өөрийн блогыг илүү хурдан болгохын тулд Next.js фрэймворкийг орхиж, статик байдлаар Cloudflare дээр байршуулснаар бүх үзүүлэлтээр 100 оноо авчээ.",
-   "body_mn": "Нэгэн хөгжүүлэгч өөрийн блогынхоо гүйцэтгэлийг сайжруулах зорилгоор өргөн ашигладаг Next.js фрэймворкийг халж, статик сайт болгон өөрчилсөн туршлагаасаа хуваалцжээ. Тэрээр Next.js-ийн кэшлэх систем болон Vercel үйлчилгээ нь хэдийгээр тохиромжтой боловч зарим тохиолдолд илүүдэл төвөгтэй байдал үүсгэж байгааг онцолсон байна.\n\nТуршилтын үр дүнд блогын хуудас ачаалагдах хурд болон Lighthouse оноо бүх ангилалд 100 болж сайжирсан байна. Хөгжүүлэгч нь сервер талын тооцоолол шаардлагагүй энгийн блогт Cloudflare зэрэг энгийн CDN болон статик файлууд илүү үр дүнтэй болохыг тогтоожээ.\n\nЭнэхүү туршлага нь үргэлж хамгийн сүүлийн үеийн хүнд фрэймворк ашиглах шаардлагагүй бөгөөд төслийн цар хүрээнээс шалтгаалан хөнгөн шийдэл сонгох нь ямар чухал болохыг харуулж байна.",
-   "published": "2026-10-26T01:03:39Z",
-   "added": "2026-10-26T18:29:27Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "49aa460cb01c82a6",
-   "subtopic": "gh-rust",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-   "image": "https://opengraph.githubassets.com/0fd8e14ac5345a3c359f2a01a7a2aa3a760dfbb720c49018a4be98a99f4cceb0/KrushnaVardhanReddy/PaperPilot",
-   "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-   "summary_en": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 220 # Comments: 77",
-   "title_mn": "PaperPilot: WASM болон MCP дэмждэг Rust хэлээр бичигдсэн PDF хэрэгсэл",
-   "summary_mn": "Ямар нэгэн үүлэн үйлчилгээ болон C++ ашиглахгүйгээр дотоод орчинд ажилладаг, Rust хэлээр бичигдсэн PaperPilot PDF хэрэгсэл гарлаа.",
-   "body_mn": "PaperPilot нь бүрэн Rust хэлээр бичигдсэн, ямар нэгэн Chromium болон C++ runtime шаардахгүйгээр дотоод систем дээр ажилладаг PDF болон бичиг баримтын хэрэгсэл юм. Энэхүү хэрэгсэл нь мөн Claude Code болон бусад агентуудтай холбогдох боломжтой Model Context Protocol (MCP) дэмждэг.\n\nХөгжүүлэгчид уг хэрэгслийг ашиглан файл алдагдах эрсдэлгүйгээр дотоод орчинд PDF нэгтгэх, хуваах, OCR хийх болон бусад олон үйлдлийг хийх боломжтой. Мөн уг төсөл нь WASM технологийн тусламжтайгаар хөтөч дээр шууд ажиллах чадвартай байна.\n\nЭнэхүү нээлттэй эх сурвалжтай төсөл нь хөгжүүлэгчдэд болон хиймэл оюун ухааны агентуудад PDF баримт бичигтэй аюулгүй бөгөөд хурдан ажиллах шинэ боломжийг олгож байна.",
-   "published": "2026-10-26T03:29:05Z",
-   "added": "2026-10-26T18:29:27Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6a2151a9f69bf968",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-sandbox-commands-now-support-stdin",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5dY5BlQlLCIwHCWYtjuBJf/8069d2dead7219f677f7336638a54f65/stdin_sandbox.png",
-   "title": "Vercel Sandbox commands now support stdin",
-   "summary_en": "Vercel Sandbox now lets you send input to running commands through standard input (stdin). Use it to exchange messages with stdio MCP servers such as agent-browser , or send data to other command-line programs while they run. In the TypeScript SDK, set stdin: true and detached: true in runCommand() . Use writeStdin() to send input and closeStdin() when you’re done: You can also set stdin to a Node.js readable stream, such as process.stdin . The SDK forwards the stream’s data and closes the command’s standard input when the stream ends. In the Python SDK, set stdin=subprocess.PIPE and send…",
-   "title_mn": "Vercel Sandbox команд стандарт оролтын (stdin) дэмжлэгтэй боллоо",
-   "summary_mn": "Vercel Sandbox нь ажиллаж буй командууд руу стандарт оролтоор (stdin) өгөгдөл илгээх боломжтой болж шинэчлэгдлээ.",
-   "body_mn": "Vercel Sandbox нь хөгжүүлэгчдэд ажиллаж буй команд болон серверүүд рүү стандарт оролтын (stdin) тусламжтайгаар шууд өгөгдөл илгээх боломжийг олгож эхэллээ. Энэхүү шинэчлэлтийн тусламжтайгаар agent-browser зэрэг stdio MCP серверүүд болон бусад тушаалын мөрний програмуудтай харилцах боломжтой болж байна.\n\nTypeScript болон Python SDK-ийн аль алинд нь энэхүү боломж нэмэгдсэн бөгөөд хөгжүүлэгчид runCommand болон холбогдох функцуудыг ашиглан процесстой өгөгдөл солилцох, stdin урсгалыг удирдах боломжтой болжээ.\n\nЭнэ нь үүлэн орчинд ажиллаж буй агентууд болон автоматжуулалтын хэрэгслүүдийн хоорондын харилцааг илүү уян хатан болгож байна.",
-   "published": "2026-10-26T06:00:00Z",
-   "added": "2026-10-26T18:29:27Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7e73eebe3e909303",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/4HesvKzyeH10Tdn3X9RNpq/28039b261753134c4addc73a90aa3103/fanatics-seo-image.png?w=1600&h=900&fit=fill",
-   "title": "How Fanatics and OpenAI streamline the fan experience",
-   "summary_en": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-   "title_mn": "Fanatics болон OpenAI хамтран спорт сонирхогчдод зориулсан шинэ боломж нээв",
-   "summary_mn": "Fanatics болон OpenAI компаниуд хамтран OpenAI загваруудад суурилсан Shop the Look цахим худалдааны шинэ боломжийг хэрэглэгчдэд хүргэлээ.",
-   "body_mn": "Дэлхийн дижитал спортын платформ Fanatics болон OpenAI компаниуд хамтран спортын хувцас захиалгыг илүү хялбар болгох зорилготой Shop the Look шинэ функсийг албан ёсоор нээлээ. Энэхүү шийдэл нь хэрэглэгчдэд дуртай багийнхаа өмсгөлд тохирсон бусад бүтээгдэхүүнийг автоматаар санал болгох юм.\n\nFanatics компани өөрийн үйл ажиллагаандаа ChatGPT Work болон Codex хэрэгслүүдийг өргөнөөр ашигладаг бөгөөд энэхүү шинэ рекомендацийн системийг хөгжүүлэгчдийнхээ багтай хамтран ердөө хэдхэн хоногийн дотор бүтээжээ. OpenAI-ийн загварууд нь бараа бүтээгдэхүүний дата болон багийн мэдээлэлд дүн шинжилгээ хийж, хэрэглэгчийн сонирхолд нийцсэн хувцасны хослолыг өдөр бүр шинэчлэн санал болгодог байна.\n\nТуршилтын явцад уг шинэ боломж нь өмнөх хувилбараасаа 10 хувиар өндөр харилцаа холбоо, оролцоог үзүүлсэн бөгөөд одоо NFL, NBA, MLB болон NHL албан ёсны дэлгүүрүүдэд амжилттай ажиллаж байна.",
-   "published": "2026-10-26T07:00:00Z",
-   "added": "2026-10-26T18:29:27Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d9c61974613874f8",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Help Net Security",
-   "url": "https://www.helpnetsecurity.com/2026/10/26/anthropic-claude-duet-security-safeguards/",
-   "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/03/11120920/anthropic-1-1500.webp",
-   "title": "Anthropic details what stops Claude Duet from going rogue",
-   "summary_en": "Anthropic details Claude Duet security safeguards, covering user approvals, sensitive data checks, passwords and browser isolation.",
-   "title_mn": "Anthropic Claude Duet агентын аюулгүй байдал, хамгаалалтын талаар дэлгэрэнгүй тайлбарлав",
-   "summary_mn": "Anthropic компани хэрэглэгчдийг эзгүйд ажилладаг Claude Duet агент хэрхэн аюулгүй байдлаа хангаж, дур мэдэн үйлдэл хийхээс сэргийлддэг талаар мэдээллээ. Уг агент нь чухал үйлдлүүдэд хэрэглэгчийн зөвшөөрлийг шаардаж, нууц үг болон хувийн мэдээллийг системээс хол байлгадаг.",
-   "body_mn": "Anthropic компани хэрэглэгчдийн өмнөөс үүрэг даалгавар биелүүлдэг Claude Duet хэмээх идэвхтэй хиймэл оюун ухааны агентынхаа аюулгүй байдлын хамгаалалтын механизм болон нууцлалын шийдлүүдийг танилцууллаа. Энэхүү агент нь үүлэх суурьтай компьютер болон хөтөч ашиглан тайлан бэлтгэх, мессеж бичих зэрэг бизнесийн ажлуудыг гүйцэтгэдэг байна.\n\nDuet агент нь мөнгө шилжүүлэх, мэдээлэл устгах эсвэл эмзэг агуулгатай мессеж илгээх бүрд хэрэглэгчээс заавал зөвшөөрөл хүрдэг байна. Энэхүү зөвшөөрлийн систем нь уг загвараас тусдаа ажилладаг тул вэб хуудсанд нуугдсан зааварчилгаа болон хортой үйлдлээс хамгаалах боломжийг бүрдүүлжээ. Мөн хэрэглэгчийн нууц үг, браузерийн күүки болон нэвтрэх токенуудад аген шууд хандах боломжгүй аж.\n\nХэрэглэгч нэвтрэх үед нууц үгийг Claude апп доторх тусгай маягтаар дамжуулан шифрлэж үүлэн хөтөч рүү шууд илгээдэг байна. Мөн удахгүй нэвтрэх 1Password дэмжлэг нь хэрэглэгчдэд нэвтрэх мэдээллийг загвараар дамжуулалгүйгээр шууд баталгаажуулах боломж олгоно. Anthropic компани эдгээр хамгаалалтын давхаргыг сайжруулахаар үргэлжлүүлэн ажиллаж байна.\n\nХөгжүүлэгчид болон хэрэглэгчдийн хувьд AI агент ашиглах явцад нууцлал, аюулгүй байдлыг хангах нь нэн чухал асуудал юм. Claude Duet-ийн энэхүү хяналтын архитектур нь автоном байдлаар ажилладаг агентуудыг бодит амьдрал дээр ямар нэг эрсдэлгүйгээр нэвтрүүлэхэд чухал жишиг болох юм.",
-   "published": "2026-10-26T10:41:47Z",
-   "added": "2026-10-26T18:29:27Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "35e334c198740f74",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-   "image": "https://cdn.openai.com/mdx-assets/71f084db-a08b-48c5-b96e-5fbdc21a1a00/terra-art-card-16x9.0394724b.png",
-   "title": "Introducing GPT-6.1 Terra",
-   "summary_en": "Bringing fast and capable computer use to everyone",
-   "title_mn": "OpenAI компани GPT-6.1 Terra загвараа танилцууллаа",
-   "summary_mn": "OpenAI компани визуаль дүгнэлт хийх, компьютерийн удирдлага болон кодын чадвараараа сайжирсан GPT-6.1 Terra шинэ загвараа танилцууллаа. Энэхүү загвар нь API болон ChatGPT Work хэрэглэгчдэд илүү хямд үнээр хурдан ажиллах боломжийг олгож байна.",
-   "body_mn": "OpenAI компани визуаль болон компьютерийн хэрэглээний даалгаваруудад өндөр гүйцэтгэл үзүүлдэг GPT-6.1 Terra шинэ загвараа зарлалаа. Энэ нь өмнөх GPT-5.6 Terra загвараас илүү хурдан бөгөөд үнэн зөв ажиллаж, баримт бичиг боловсруулах, техникийн зураг тайлбарлах зэрэг өдөр тутмын ажлыг автоматжуулахад чухал үүрэг гүйцэтгэнэ.\n\nШинэ загварын стандарт API үнэ нь өмнөх хувилбаруудаас 50 хувиар хямд байгаа нь хөгжүүлэгчдэд их хэмжээний өгөгдөл боловсруулах ажлыг зардлын хувьд үр ашигтайгаар хийх боломжийг олгож байна. Тухайлбал, нэхэмжлэх уншиж нягтлан бодох бүртгэлийн системд оруулах зэрэг ажлуудад илүү хэмнэлттэй юм.\n\nГүйцэтгэлийн хувьд GPT-6.1 Terra нь агентуудын шалгуур болон визуаль дүгнэлтийн тестийн үр дүнгээр өмнөх загваруудаа тодорхой ялгаагаар давуулжээ. Ялангуяа програм хангамжийн хөгжүүлэлтийн Terminal-Bench 4.0 тестэд хамгийн их хүчин чармайлтаар ажиллах үедээ өмнөх хувилбарын амжилтыг хоёр дахин нугалж чадсан байна.\n\nХөгжүүлэгчдийн хувьд энэ загвар нь код бичих, терминал дээр асуудал шийдвэрлэх болон судалгааны ажлыг хурдасгах өндөр чадавхтай тул хиймэл оюун ухааны агентуудыг бүтээхэд илүү өргөн боломжийг нээж өгч байна.",
-   "published": "2026-10-26T00:00:00Z",
-   "added": "2026-10-26T22:49:59Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8f5082d843e3a2e0",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/customizable-widgets-for-project-cards",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2YAEANPjhATfsdXhkTAjWa/613806200c6759ddb96a9652b63775fd/widgets-dark-og.png",
-   "title": "Customizable widgets for project cards",
-   "summary_en": "The Overview tab in the dashboard now lets you choose which metric appears on each project card. Project cards used to show a fixed Real Experience Score in the top right, but not everyone on your team watches the same signal. You can now swap that slot for whichever metric matters for that project. A security-sensitive project can show firewall activity, while a marketing site project shows traffic. Available widgets Firewall: allowed requests, denied requests Observability: alerts, edge requests, function invocations, error rate Speed Insights: Real Experience Score, LCP, CLS Web…",
-   "title_mn": "Vercel: Төслийн картуудад зориулсан өөрчлөх боломжтой виджетүүд",
-   "summary_mn": "Vercel платформын хяналтын самбар дээрх төслийн картуудад хэрэглэгчид өөрсдийн хүссэн метрик болон виджетээ сонгон байрлуулах боломжтой боллоо.",
-   "body_mn": "Vercel компани хөгжүүлэгчдэд зориулсан хяналтын самбарынхаа Overview таб дээр шинэ боломж нэмснээр төслийн карт бүр дээр ямар метрик харагдахыг өөрчлөх боломжтой болжээ.\n\nӨмнө нь төслийн картуудын баруун дээд булан тогтмол үзүүлэлттэй байсан бол одоо баг бүр өөрсдийн анхаар хандуулдаг гол сигналыг сонгох боломжтой болсон байна. Тухайлбал, аюулгүй байдлын төсөлд галт хананы үйл ажиллагааг харуулах бол маркетинг сайтын хувьд траффикийн мэдээллийг харуулах юм.\n\nЭнэхүү тохиргоог төслийн картын баруун дээд булан дахь цэснээс хийх бөгөөд сонгосон утга нь хэрэглэгчийн аккаунтад хадгалагдаж, төхөөрөмж болон шинэчлэлтүүдийн хооронд хадгалагдах ажээ.",
-   "published": "2026-10-26T00:00:00Z",
-   "added": "2026-10-26T22:49:59Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "66c29e84d3f59e2f",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/gpt-6-1-terra-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2SwiRCJ2yQI6jiStpqx4n4/f327115564457532b4d646d8b597a55f/Vercel_x_OpenAI.png",
-   "title": "GPT-6.1 Terra now available on AI Gateway",
-   "summary_en": "GPT-6.1 Terra from OpenAI is now available on AI Gateway . GPT-6.1 Terra is a fast model for visual reasoning, computer use, and writing, and it improves on the previous Terra model in visual reasoning, factual accuracy, and coding. It suits high-volume work in documents and desktop apps, such as filling out forms, interpreting technical drawings, or entering invoice details into accounting software. OpenAI still recommends its larger GPT-6 models for the most complex coding tasks. The model accepts text and images and returns text, with a context window of more than 1M tokens. It supports…",
-   "title_mn": "GPT-6.1 Terra загвар Vercel AI Gateway дээр ашиглагдах боломжтой боллоо",
-   "summary_mn": "OpenAI компанийн шинээр гаргасан GPT-6.1 Terra загварыг одоо Vercel AI Gateway платформоор дамжуулан хөгжүүлэгчид ашиглах боломжтой боллоо.",
-   "body_mn": "OpenAI компанийн танилцуулсан визуаль дүгнэлт болон кодын өндөр чадвартай GPT-6.1 Terra загвар Vercel AI Gateway дээр албан ёсоор нэмэгдлээ. Энэхүү загвар нь баримт бичиг боловсруулах, компьютерийн хэрэглээний даалгавруудыг гүйцэтгэхэд онцгой тохиромжтой юм.\n\nЭнэхүү загвар нь 1 сая гаруй токенийн контекст цонхтой бөгөөд бүтэцлэгдсэн гаралт, хэрэгсэл дуудах чадвар болон санах ойн оновчлолыг дэмждэг. Мөн түргэн шуурхай ажиллах шаардлагатай үед openai/gpt-6.1-terra-fast горимыг ашиглах боломжтой ажээ.\n\nХөгжүүлэгчид AI SDK болон OpenAI-тай нийцтэй Chat Completions API ашиглан уг загварт хандах боломжтой бөгөөд AI Gateway нь үйлчилгээ үзүүлэгчийн үнийг ямар нэгэн нэмэгдэлгүйгээр шууд хүргэдэг байна.",
-   "published": "2026-10-26T00:00:00Z",
-   "added": "2026-10-26T22:49:59Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6dcabc6911defa4f",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/create-custom-monitors-in-vercel-observability",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6XwJcOfZBMXtJa240qupsL/e60fa83be853491ca85f79e971051ed6/custom_monitors_final_og_2.png",
-   "title": "Create custom monitors in Vercel Observability",
-   "summary_en": "You can now create custom monitors to get alerts based on your Vercel Observability query results. For example, you can track signals such as AI Gateway costs, Core Web Vitals and other performance metrics, Workflow and external API failure rates, or Vercel Sandbox CPU time. Each monitor tracks a single metric, such as response time, or a ratio of two metrics, such as errors divided by total requests. Choose statistical anomaly detection or a fixed threshold, then configure the detection window, filters, and grouping. To create a monitor, inspect a chart’s query in Observability, start from…",
-   "title_mn": "Vercel Observability хэсэгт дурын монитор үүсгэх боломжтой боллоо",
-   "summary_mn": "Vercel Observability үйлчилгээнд хөгжүүлэгчид өөрсдийн хүссэн метрик болон API зардлыг хянах тусгай монитор үүсгэж, сэрүүлэг авах боломжтой болжээ.",
-   "body_mn": "Vercel платформ нь Observability хэрэгсэлдээ хэрэглэгчийн хүссэн шалгуураар сэрүүлэг илгээх тусгай монитор үүсгэх боломжийг нэмлээ. Ингэснээр хөгжүүлэгчид AI Gateway-ийн зардал, вэб сайтын гүйцэтгэлийн үзүүлэлт болон гадаад API-ийн алдааны хувь хэмжээг хянах боломжтой болж байна.\n\nМонитор бүр нь тодорхой хариу өгөх хугацаа эсвэл алдааны харьцаа зэрэг сигналыг хянах бөгөөд гажиг илрүүлэх эсвэл тогтмол босго утга тогтоох замаар ажилладаг. Мөн JSON файл ашиглан Vercel CLI хэрэгслээс монитор үүсгэх боломжтой юм.\n\nСэрүүлгийн мэдээллийг Slack, имэйл болон webhook хэлбэрээр хүлээн авах ба Observability Plus багц хэрэглэгчдэд энэхүү боломж нээлттэй байна.",
-   "published": "2026-10-26T06:00:00Z",
-   "added": "2026-10-26T22:49:59Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8c59428f2bfda89a",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-agent-can-now-validate-alerts-before-paging-you",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5g6l4zT6778Ca72lPuhffr/433b6abd9a406a6780145217260ed3ec/agent_o11y_alerts.png",
-   "title": "Vercel Agent can now validate alerts before paging",
-   "summary_en": "Vercel Agent can now investigate alerts from Vercel monitors before they reach your paging system. With validation enabled for a webhook destination, only alerts Agent classifies as Critical are sent to it. To enable validation: Open a monitor’s notification settings and create or link a webhook destination for your paging system, such as incident.io. Select Critical Only next to that destination. You can also configure notification destinations with the Vercel CLI using vercel monitors notifications . Add --critical-only when linking or updating a webhook destination. Agent checks logs and…",
-   "title_mn": "Vercel Agent сэрүүлгийг шалгаж баталгаажуулдаг боллоо",
-   "summary_mn": "Vercel Agent нь мониторын сэрүүлгүүдийг алдаа хяналтын системд хүрэхээс өмнө шалгаж, зөвхөн чухал асуудлуудыг мэдэгддэг боллоо.",
-   "body_mn": "Vercel платформын шинэчлэлтээр Vercel Agent нь сэрүүлгийн мэдэгдлүүдийг бодит байдалд нөлөөлөх эсэхэд урьдчилан дүн шинжилгээ хийх боломжтой болжээ. Хэрэв вэбhook чиглүүлэлт дээр Critical Only тохиргоог идэвхжүүлсэн бол зөвхөн агентын чухал гэж үнэлсэн асуудлууд л хяналтын систем рүү илгээгдэнэ.\n\nЭнэхүү агент нь лог болон метрикүүдийг шалгаж хэрэглэгчдэд бодитойгоор нөлөөлж буй эсэхийг тодорхойлдог. Тухайлбал, үйлчлүүлэгчдэд нөлөөлөхгүй эрүүл мэндийн шалгалтын алдааг ялгаж салгах боломжтой юм.\n\nЭнэхүү боломж нь Pro болон Enterprise багц дахь Observability Plus үйлчилгээний хүрээнд ажиллах ба хөгжүүлэгчдэд системийн доголдлыг илүү хурдан бөгөөд оновчтой олж тогтооход тусална.",
-   "published": "2026-10-26T06:00:00Z",
-   "added": "2026-10-26T22:49:59Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "742d30efdc4090c1",
    "subtopic": "openai",
    "source": "OpenAI News",
@@ -935,6 +735,26 @@
    "body_mn": "Vercel Observability хэсэгт хиймэл оюун ухааны урсгалын шинэ хэрэгслүүд нэмэгдлээ. Хөгжүүлэгчид AI ботууд вэб сайт руу нь хэрхэн хандаж буйг нарийвчлан судлах боломжтой болж байна.\n\nЭнэхүү шинэ боломжоор баталгаажсан AI ботуудын хүсэлтийн тоо, хамгийн их хандалт авсан хуудсууд, AI туслахуудын мэдээлэл таталт, Markdown формат хүссэн хүсэлтүүд болон алдаа гарсан хуудсуудыг хянах боломжтой. Мөн `vercel metrics` командын тусламжтайгаар CLI орчноос эдгээр метрийн өгөгдлийг шалгах боломжтой.\n\nДэлгэрэнгүй мэдээллийг Vercel хяналтын самбарын Observability > AI Traffic хэсгээс болон албан ёсны баримт бичгээс үзэх боломжтой.",
    "published": "2026-10-27T00:00:00Z",
    "added": "2026-10-27T22:47:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "76495f0d296859e2",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-plugin-now-available-in-opencode",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4cpZvSMqmnTwC6RUSE2fii/a8e3611a8d4bfd78924ea4065bc46949/vercel_plugin_og.png",
+   "title": "Vercel Plugin now available in OpenCode",
+   "summary_en": "The Vercel Plugin is now available in OpenCode . The plugin provides on-demand guidance on Vercel APIs and recommended patterns, with skills for AI SDK, Vercel Functions, Workflow, and more. It also includes specialist agents for deployment, performance optimization, and AI application design. Use /vercel:deploy to deploy projects and /vercel:env to manage environment variables. The plugin requires OpenCode 2. To install it, run this command in your terminal: Then run /mcps in OpenCode, select vercel , and sign in to connect the Vercel MCP server to your account. Learn more in the Vercel…",
+   "title_mn": "OpenCode-д Vercel плагин нээлттэй боллоо",
+   "summary_mn": "OpenCode хэрэгсэлд Vercel плагин албан ёсоор нэмэгдлээ. Энэхүү плагин нь Vercel API болон AI SDK-тэй ажиллахад зориулсан мэргэжлийн агентуудыг санал болгож байна.",
+   "body_mn": "OpenCode хэрэгсэлд Vercel плагин нэмэгдсэн бөгөөд хөгжүүлэгчдэд Vercel API болон санал болгох хэв маягийн талаар шуурхай зөвлөгөө өгөх боломжтой боллоо. Уг плагин нь AI SDK, Vercel Functions, болон Workflow-д зориулсан тусгай ур чадварууд, агентуудыг багтаасан юм.\n\nМөн төслүүдийг шууд байршуулах зорилгоор /vercel:deploy командийг ашиглаж, орчны хувьсагчдыг /vercel:env командуудаар удирдах боломжтой. Энэ нь OpenCode 2 хувилбарыг шаардах ба терминал дээр холбогдох командуудыг ажиллуулж, Vercel MCP серверийг бүртгүүлснээр ашиглаж эхлэх юм.\n\nХөгжүүлэгчид энэхүү интеграцчилалсанаар сервергүй орчинд хөгжүүлэлт хийх, төслөө удирдах явцаа ихээхэн хялбарчлах боломжтой болж байна. Дэлгэрэнгүй мэдээллийг Vercel плагины албан ёсны баримт бичгээс үзэх боломжтой.",
+   "published": "2026-10-27T00:00:00Z",
+   "added": "2026-10-28T01:56:47Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }

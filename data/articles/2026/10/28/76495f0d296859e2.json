@@ -1,0 +1,17 @@
+{
+ "id": "76495f0d296859e2",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-plugin-now-available-in-opencode",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4cpZvSMqmnTwC6RUSE2fii/a8e3611a8d4bfd78924ea4065bc46949/vercel_plugin_og.png",
+ "title": "Vercel Plugin now available in OpenCode",
+ "summary_en": "The Vercel Plugin is now available in OpenCode . The plugin provides on-demand guidance on Vercel APIs and recommended patterns, with skills for AI SDK, Vercel Functions, Workflow, and more. It also includes specialist agents for deployment, performance optimization, and AI application design. Use /vercel:deploy to deploy projects and /vercel:env to manage environment variables. The plugin requires OpenCode 2. To install it, run this command in your terminal: Then run /mcps in OpenCode, select vercel , and sign in to connect the Vercel MCP server to your account. Learn more in the Vercel…",
+ "title_mn": "OpenCode-д Vercel плагин нээлттэй боллоо",
+ "summary_mn": "OpenCode хэрэгсэлд Vercel плагин албан ёсоор нэмэгдлээ. Энэхүү плагин нь Vercel API болон AI SDK-тэй ажиллахад зориулсан мэргэжлийн агентуудыг санал болгож байна.",
+ "body_mn": "OpenCode хэрэгсэлд Vercel плагин нэмэгдсэн бөгөөд хөгжүүлэгчдэд Vercel API болон санал болгох хэв маягийн талаар шуурхай зөвлөгөө өгөх боломжтой боллоо. Уг плагин нь AI SDK, Vercel Functions, болон Workflow-д зориулсан тусгай ур чадварууд, агентуудыг багтаасан юм.\n\nМөн төслүүдийг шууд байршуулах зорилгоор /vercel:deploy командийг ашиглаж, орчны хувьсагчдыг /vercel:env командуудаар удирдах боломжтой. Энэ нь OpenCode 2 хувилбарыг шаардах ба терминал дээр холбогдох командуудыг ажиллуулж, Vercel MCP серверийг бүртгүүлснээр ашиглаж эхлэх юм.\n\nХөгжүүлэгчид энэхүү интеграцчилалсанаар сервергүй орчинд хөгжүүлэлт хийх, төслөө удирдах явцаа ихээхэн хялбарчлах боломжтой болж байна. Дэлгэрэнгүй мэдээллийг Vercel плагины албан ёсны баримт бичгээс үзэх боломжтой.",
+ "published": "2026-10-27T00:00:00Z",
+ "added": "2026-10-28T01:56:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
