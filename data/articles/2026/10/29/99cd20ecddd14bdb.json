@@ -1,0 +1,17 @@
+{
+ "id": "99cd20ecddd14bdb",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/run-paseo-agents-on-vercel-sandbox",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3H43zUyDNNwF7m2G7ez8P4/cb6d405b85581d42962562a2b0654006/image.png",
+ "title": "Run Paseo agents on Vercel Sandbox",
+ "summary_en": "Paseo now supports running fx, Codex, Claude Code, OpenCode, and Pi in the cloud with the Vercel Sandbox plugin . You can now start an agent in Vercel Sandbox from Paseo on your laptop, then connect from your phone to control the same session, even when your laptop is closed. Stopping a sandbox saves your files and conversation history so you can pick up where you left off. Active processes stop with the sandbox. Enter your Vercel AI Gateway key once during setup. The plugin reuses it for model requests across your sessions, keeping the key outside the sandbox. To get started, enable plugins…",
+ "title_mn": "Paseo агентуудыг Vercel Sandbox дээр ажиллуулах боломжтой боллоо",
+ "summary_mn": "Paseo хэрэгсэл нь fx, Codex, Claude Code зэрэг агентуудыг Vercel Sandbox дээр үүлэн орчинд ажиллуулахыг дэмждэг боллоо.",
+ "body_mn": "Paseo хэрэглэгчид одоо fx, Codex, Claude Code, OpenCode зэрэг алдартай код бичих агентуудыг Vercel Sandbox плагинаар дамжуулан үүлэн орчинд шууд ажиллуулах боломжтой боллоо. Зөөврийн компьютерээ хаасан үед ч утсаараа дамжуулан ижил сесс рүү холбогдох боломжтой юм.\n\nСэндбокс сессийг зогсоох үед таны файл болон ярианы түүх автоматаар хадгалагдах тул дараа нь таслагдсан цэгээсээ үргэлжлүүлэн ажиллах боломж бүрдэж байна. Мөн Vercel AI Gateway түлхүүрээ нэг удаа оруулж тохируулахад бүх сессийн турш дахин ашиглагдах юм.\n\nЭнэхүү интеграци нь хөгжүүлэгчдэд ямар ч төхөөрөмжөөс өөрийн агентуудыг хянах, ажиллуулах уян хатан байдлыг олгож байгаагаараа онцлог холбогдолтой юм.",
+ "published": "2026-10-28T00:00:00Z",
+ "added": "2026-10-29T19:06:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

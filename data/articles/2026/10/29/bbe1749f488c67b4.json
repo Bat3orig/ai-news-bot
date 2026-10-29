@@ -1,0 +1,17 @@
+{
+ "id": "bbe1749f488c67b4",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/virtual-models-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/53IoCH9NIKMqUSARMMRQTk/1f0526457af775c90ab723ef4c1b8063/virtual_models_now_available_on_ai_gateway.png",
+ "title": "Virtual models now available on AI Gateway",
+ "summary_en": "Virtual models are now available on AI Gateway . A virtual model is a saved configuration that tells AI Gateway which model and settings to use. Your apps and agents call it with a custom model ID, such as vmc/coding-agent . You can change the model or settings centrally in AI Gateway without redeploying your apps or reconfiguring your agents. Use virtual models to: Configure coding agents: Set reasoning effort, fast mode, prompt caching, and other options even when your agent doesn’t expose them. Control routing and compliance: Choose providers, configure fallback models, and enforce…",
+ "title_mn": "AI Gateway дээр Virtual models боломжтой боллоо",
+ "summary_mn": "Vercel-ийн AI Gateway платформ дээр Virtual models боломж гарлаа. Энэ нь загвар болон тохиргоогоо төвлөрсөн байдлаар удирдах боломжийг олгож байна.",
+ "body_mn": "Vercel компани AI Gateway үйлчилгээндээ шинээр Virtual models буюу виртуал загваруудыг нэмлээ. Хөгжүүлэгчид өөрсдийн апп болон агент дээрх хүсэлтүүдэд тусгай ID ашиглан холбогдож, суурь загвар эсвэл тохиргоогоо кодоо дахин байршуулахгүйгээр төвлөрсөн байдлаар өөрчлөх боломжтой болж байна.\n\nЭнэхүү функц нь хурдны горим, Zero Data Retention буюу өгөгдөл хадгалахгүй байх шаардлага, мөн нөөц загваруудыг урьдчилан тохируулах боломж олгодог. Ингэснээр хөгжүүлэгчид код бичих агентуудыг илүү уян хатан удирдаж, зардлын тайлагналыг нарийвчлан хянах боломжтой юм.\n\nVirtual model үүсгэхийн тулд хөгжүүлэгчид AI Gateway хяналтын самбараас тохиргоог хийхэд хангалттай бөгөөд API хүсэлтүүддээ vmc/ загварын нэрийг ашиглан шууд холбогдоно. Энэ нь AI Gateway-ийн дэмждэг бүх төрлийн загваруудад бүрэн ажиллана.",
+ "published": "2026-10-28T00:00:00Z",
+ "added": "2026-10-29T19:06:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

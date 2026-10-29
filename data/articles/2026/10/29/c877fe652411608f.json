@@ -1,0 +1,17 @@
+{
+ "id": "c877fe652411608f",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/agents-can-now-enable-web-analytics-and-observability-plus-with-vercel-cli",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/49xwGkJoXEUDheVOKofuyc/83c8decddf37b5cb22f784dac6ddfca6/agents-can-now-enable-with-vc-og.png",
+ "title": "Agents can now enable Web Analytics and Observability Plus with Vercel CLI",
+ "summary_en": "Vercel CLI no longer requires an interactive terminal to enable Web Analytics or Observability Plus . Agents can now turn them on for your projects without asking you to run the commands yourself. To get started, run either command from a linked project directory: Teams must already be subscribed to Observability Plus to be able to enable it for a project. Update Vercel CLI to version 64.2.0 or later and learn more in the Vercel CLI project documentation . Read more",
+ "title_mn": "Vercel CLI ашиглан агентууд Web Analytics болон Observability Plus идэвхжүүлэх боломжтой боллоо",
+ "summary_mn": "Vercel CLI нь интерактив терминал шаардахгүйгээр агентуудад Web Analytics болон Observability Plus үйлчилгээг идэвхжүүлэх боломжийг олгож байна.",
+ "body_mn": "Vercel CLI-ийн шинэ шинэчлэлтээр хөгжүүлэгчийн агентууд хэрэглэгчээс тушаал бигөхийг шаардалгүйгээр төслүүд дээрээ Web Analytics болон Observability Plus үйлчилгээг шууд идэвхжүүлэх боломжтой боллоо.\n\nЭнэхүү боломжийг ашиглахын тулд багууд Observability Plus үйлчилгээнд урьдчилан бүртгүүлсэн байх шаардлагатай бөгөөд холбогдсон төслийн лавлахаас холбогдох тушаалыг ажиллуулахад хангалттай юм.\n\nЭнэхүү шинэчлэлтийг ашиглахын тулд Vercel CLI-ийг 64.2.0 болон түүнээс дээш хувилбар руу шинэчлэх шаардлагатай бөгөөд ингэснээр агентуудын автоматжуулалтын чадвар улам бүр өргөжиж байна.",
+ "published": "2026-10-28T00:00:00Z",
+ "added": "2026-10-29T19:06:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

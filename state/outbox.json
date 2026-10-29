@@ -898,5 +898,105 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bbe1749f488c67b4",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/virtual-models-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/53IoCH9NIKMqUSARMMRQTk/1f0526457af775c90ab723ef4c1b8063/virtual_models_now_available_on_ai_gateway.png",
+   "title": "Virtual models now available on AI Gateway",
+   "summary_en": "Virtual models are now available on AI Gateway . A virtual model is a saved configuration that tells AI Gateway which model and settings to use. Your apps and agents call it with a custom model ID, such as vmc/coding-agent . You can change the model or settings centrally in AI Gateway without redeploying your apps or reconfiguring your agents. Use virtual models to: Configure coding agents: Set reasoning effort, fast mode, prompt caching, and other options even when your agent doesn’t expose them. Control routing and compliance: Choose providers, configure fallback models, and enforce…",
+   "title_mn": "AI Gateway дээр Virtual models боломжтой боллоо",
+   "summary_mn": "Vercel-ийн AI Gateway платформ дээр Virtual models боломж гарлаа. Энэ нь загвар болон тохиргоогоо төвлөрсөн байдлаар удирдах боломжийг олгож байна.",
+   "body_mn": "Vercel компани AI Gateway үйлчилгээндээ шинээр Virtual models буюу виртуал загваруудыг нэмлээ. Хөгжүүлэгчид өөрсдийн апп болон агент дээрх хүсэлтүүдэд тусгай ID ашиглан холбогдож, суурь загвар эсвэл тохиргоогоо кодоо дахин байршуулахгүйгээр төвлөрсөн байдлаар өөрчлөх боломжтой болж байна.\n\nЭнэхүү функц нь хурдны горим, Zero Data Retention буюу өгөгдөл хадгалахгүй байх шаардлага, мөн нөөц загваруудыг урьдчилан тохируулах боломж олгодог. Ингэснээр хөгжүүлэгчид код бичих агентуудыг илүү уян хатан удирдаж, зардлын тайлагналыг нарийвчлан хянах боломжтой юм.\n\nVirtual model үүсгэхийн тулд хөгжүүлэгчид AI Gateway хяналтын самбараас тохиргоог хийхэд хангалттай бөгөөд API хүсэлтүүддээ vmc/ загварын нэрийг ашиглан шууд холбогдоно. Энэ нь AI Gateway-ийн дэмждэг бүх төрлийн загваруудад бүрэн ажиллана.",
+   "published": "2026-10-28T00:00:00Z",
+   "added": "2026-10-29T19:06:10Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "99cd20ecddd14bdb",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/run-paseo-agents-on-vercel-sandbox",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3H43zUyDNNwF7m2G7ez8P4/cb6d405b85581d42962562a2b0654006/image.png",
+   "title": "Run Paseo agents on Vercel Sandbox",
+   "summary_en": "Paseo now supports running fx, Codex, Claude Code, OpenCode, and Pi in the cloud with the Vercel Sandbox plugin . You can now start an agent in Vercel Sandbox from Paseo on your laptop, then connect from your phone to control the same session, even when your laptop is closed. Stopping a sandbox saves your files and conversation history so you can pick up where you left off. Active processes stop with the sandbox. Enter your Vercel AI Gateway key once during setup. The plugin reuses it for model requests across your sessions, keeping the key outside the sandbox. To get started, enable plugins…",
+   "title_mn": "Paseo агентуудыг Vercel Sandbox дээр ажиллуулах боломжтой боллоо",
+   "summary_mn": "Paseo хэрэгсэл нь fx, Codex, Claude Code зэрэг агентуудыг Vercel Sandbox дээр үүлэн орчинд ажиллуулахыг дэмждэг боллоо.",
+   "body_mn": "Paseo хэрэглэгчид одоо fx, Codex, Claude Code, OpenCode зэрэг алдартай код бичих агентуудыг Vercel Sandbox плагинаар дамжуулан үүлэн орчинд шууд ажиллуулах боломжтой боллоо. Зөөврийн компьютерээ хаасан үед ч утсаараа дамжуулан ижил сесс рүү холбогдох боломжтой юм.\n\nСэндбокс сессийг зогсоох үед таны файл болон ярианы түүх автоматаар хадгалагдах тул дараа нь таслагдсан цэгээсээ үргэлжлүүлэн ажиллах боломж бүрдэж байна. Мөн Vercel AI Gateway түлхүүрээ нэг удаа оруулж тохируулахад бүх сессийн турш дахин ашиглагдах юм.\n\nЭнэхүү интеграци нь хөгжүүлэгчдэд ямар ч төхөөрөмжөөс өөрийн агентуудыг хянах, ажиллуулах уян хатан байдлыг олгож байгаагаараа онцлог холбогдолтой юм.",
+   "published": "2026-10-28T00:00:00Z",
+   "added": "2026-10-29T19:06:10Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d1bf327b14a152b8",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7Cd5eUOY26yuaYjUCSfW43/ed25318d600fdc7f87b1adad2020b413/image.png",
+   "title": "Particle-1 is now available on AI Gateway",
+   "summary_en": "Particle-1 from Particle AI is now available on AI Gateway . It is post-trained on DeepSeek V4.1 Flash, with a focus on completing software engineering tasks using fewer tokens. Particle describes the gains as shorter reasoning, fewer rounds of trial and repair, and more focused exploration. Use it for debugging, planning code changes, and breaking down multi-step engineering problems. Particle-1 has a 1M-token context window for working with code and extended task histories. Set AI_GATEWAY_API_KEY in your environment. Use particle/particle-1 as the model name: To use it in Claude Code…",
+   "title_mn": "Particle-1 загвар AI Gateway дээр нэмэгдлээ",
+   "summary_mn": "DeepSeek V4.1 Flash суурьтай Particle-1 загвар AI Gateway дээр ажиллаж эхэллээ. Энэ нь програм хангамжийн хөгжүүлэлтийн даалгавруудыг гүйцэтгэхэд зориулагдсан.",
+   "body_mn": "Particle AI компанийн Particle-1 загвар одоо Vercel AI Gateway дээр албан ёсоор ашиглах боломжтой боллоо. DeepSeek V4.1 Flash загварт суурилсан энэхүү загвар нь програм хангамжийн инженерчлэлийн ажлыг гүйцэтгэхэд цөөн токен зарцуулж, богино хугацаанд үр дүнд хүрэхэд чиглэсэн байна.\n\nParticle-1 нь алдаа шалгах, код өөрчлөх төлөвлөгөө гаргах, олон алхамт инженерчлэлийн бодлогуудыг шийдвэрлэхэд тохиромжтой бөгөөд 1 сая токенийн контекц цонхыг дэмждэг. Хөгжүүлэгчид Claude Code, Codex, Cursor зэрэг хэрэгслүүдэд уг загварыг particle/particle-1 нэрээр ашиглах боломжтой юм.\n\nAI Gateway нь эх үүсвэрийн үнийг ямар нэгэн нэмэгдэлгүйгээр санал болгодог бөгөөд хэрэглээ болон зардлыг хянах, найдвартай ажиллагааг хангах нэгдсэн API-аар хангадаг байна.",
+   "published": "2026-10-28T00:00:00Z",
+   "added": "2026-10-29T19:06:10Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c877fe652411608f",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/agents-can-now-enable-web-analytics-and-observability-plus-with-vercel-cli",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/49xwGkJoXEUDheVOKofuyc/83c8decddf37b5cb22f784dac6ddfca6/agents-can-now-enable-with-vc-og.png",
+   "title": "Agents can now enable Web Analytics and Observability Plus with Vercel CLI",
+   "summary_en": "Vercel CLI no longer requires an interactive terminal to enable Web Analytics or Observability Plus . Agents can now turn them on for your projects without asking you to run the commands yourself. To get started, run either command from a linked project directory: Teams must already be subscribed to Observability Plus to be able to enable it for a project. Update Vercel CLI to version 64.2.0 or later and learn more in the Vercel CLI project documentation . Read more",
+   "title_mn": "Vercel CLI ашиглан агентууд Web Analytics болон Observability Plus идэвхжүүлэх боломжтой боллоо",
+   "summary_mn": "Vercel CLI нь интерактив терминал шаардахгүйгээр агентуудад Web Analytics болон Observability Plus үйлчилгээг идэвхжүүлэх боломжийг олгож байна.",
+   "body_mn": "Vercel CLI-ийн шинэ шинэчлэлтээр хөгжүүлэгчийн агентууд хэрэглэгчээс тушаал бигөхийг шаардалгүйгээр төслүүд дээрээ Web Analytics болон Observability Plus үйлчилгээг шууд идэвхжүүлэх боломжтой боллоо.\n\nЭнэхүү боломжийг ашиглахын тулд багууд Observability Plus үйлчилгээнд урьдчилан бүртгүүлсэн байх шаардлагатай бөгөөд холбогдсон төслийн лавлахаас холбогдох тушаалыг ажиллуулахад хангалттай юм.\n\nЭнэхүү шинэчлэлтийг ашиглахын тулд Vercel CLI-ийг 64.2.0 болон түүнээс дээш хувилбар руу шинэчлэх шаардлагатай бөгөөд ингэснээр агентуудын автоматжуулалтын чадвар улам бүр өргөжиж байна.",
+   "published": "2026-10-28T00:00:00Z",
+   "added": "2026-10-29T19:06:10Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6e94c30f79fd7e2a",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2c5CFDHzzdEiusw3Gw00F0/8f685888182f46dfdb6f21af90ef3d2f/image.png",
+   "title": "fx is now available in T3 Code",
+   "summary_en": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and skills you already use with fx. Get started by installing fx and setting up your model provider . Then download T3 Code and add fx from Settings > Providers > Add provider . Read more",
+   "title_mn": "T3 Code дотор fx код бичих агент дэمжигддэг боллоо",
+   "summary_mn": "Нээлттэй эх сурвалжтай T3 Code платформ дээр fx код бичих агент нэмэгдэж, вэб, десктоп болон гар утсаар ашиглах боломжтой боллоо.",
+   "body_mn": "Хөгжүүлэгчид одоо T3 Code платформ дээр fx хэмээх нээлттэй эх сурвалжтай код бичих агентын хэрэгслийг вэб, десктоп болон мобайл хувилбараар ашиглах боломжтой боллоо. T3 Code нь код бичих сессуудад зориулсан удирдлагын орчин юм.\n\nСуурилуулсан fx үйлчилгээ нь Supervised болон Auto горимуудыг дэмждэг бөгөөд өмнө нь ашиглаж байсан загварууд болон ур чадваруудыг шууд ашиглах боломжийг олгодог. Энэ нь хөгжүүлэгчдэд өөрийн хүссэн орчноос агентуудыг удирдах ажлыг хялбарчилж байна.\n\nЭхлэхийн тулд fx-ийг суулгаж, загвар нийлүүлэгчээ тохируулаад, T3 Code доторх Settings > Providers цэснээс fx-ийг нэмж ашиглах боломжтой.",
+   "published": "2026-10-28T00:00:00Z",
+   "added": "2026-10-29T19:06:10Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

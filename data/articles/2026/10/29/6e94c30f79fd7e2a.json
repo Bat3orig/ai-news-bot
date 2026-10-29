@@ -1,0 +1,17 @@
+{
+ "id": "6e94c30f79fd7e2a",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2c5CFDHzzdEiusw3Gw00F0/8f685888182f46dfdb6f21af90ef3d2f/image.png",
+ "title": "fx is now available in T3 Code",
+ "summary_en": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and skills you already use with fx. Get started by installing fx and setting up your model provider . Then download T3 Code and add fx from Settings > Providers > Add provider . Read more",
+ "title_mn": "T3 Code дотор fx код бичих агент дэمжигддэг боллоо",
+ "summary_mn": "Нээлттэй эх сурвалжтай T3 Code платформ дээр fx код бичих агент нэмэгдэж, вэб, десктоп болон гар утсаар ашиглах боломжтой боллоо.",
+ "body_mn": "Хөгжүүлэгчид одоо T3 Code платформ дээр fx хэмээх нээлттэй эх сурвалжтай код бичих агентын хэрэгслийг вэб, десктоп болон мобайл хувилбараар ашиглах боломжтой боллоо. T3 Code нь код бичих сессуудад зориулсан удирдлагын орчин юм.\n\nСуурилуулсан fx үйлчилгээ нь Supervised болон Auto горимуудыг дэмждэг бөгөөд өмнө нь ашиглаж байсан загварууд болон ур чадваруудыг шууд ашиглах боломжийг олгодог. Энэ нь хөгжүүлэгчдэд өөрийн хүссэн орчноос агентуудыг удирдах ажлыг хялбарчилж байна.\n\nЭхлэхийн тулд fx-ийг суулгаж, загвар нийлүүлэгчээ тохируулаад, T3 Code доторх Settings > Providers цэснээс fx-ийг нэмж ашиглах боломжтой.",
+ "published": "2026-10-28T00:00:00Z",
+ "added": "2026-10-29T19:06:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

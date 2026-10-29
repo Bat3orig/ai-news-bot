@@ -1,0 +1,17 @@
+{
+ "id": "d1bf327b14a152b8",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7Cd5eUOY26yuaYjUCSfW43/ed25318d600fdc7f87b1adad2020b413/image.png",
+ "title": "Particle-1 is now available on AI Gateway",
+ "summary_en": "Particle-1 from Particle AI is now available on AI Gateway . It is post-trained on DeepSeek V4.1 Flash, with a focus on completing software engineering tasks using fewer tokens. Particle describes the gains as shorter reasoning, fewer rounds of trial and repair, and more focused exploration. Use it for debugging, planning code changes, and breaking down multi-step engineering problems. Particle-1 has a 1M-token context window for working with code and extended task histories. Set AI_GATEWAY_API_KEY in your environment. Use particle/particle-1 as the model name: To use it in Claude Code…",
+ "title_mn": "Particle-1 загвар AI Gateway дээр нэмэгдлээ",
+ "summary_mn": "DeepSeek V4.1 Flash суурьтай Particle-1 загвар AI Gateway дээр ажиллаж эхэллээ. Энэ нь програм хангамжийн хөгжүүлэлтийн даалгавруудыг гүйцэтгэхэд зориулагдсан.",
+ "body_mn": "Particle AI компанийн Particle-1 загвар одоо Vercel AI Gateway дээр албан ёсоор ашиглах боломжтой боллоо. DeepSeek V4.1 Flash загварт суурилсан энэхүү загвар нь програм хангамжийн инженерчлэлийн ажлыг гүйцэтгэхэд цөөн токен зарцуулж, богино хугацаанд үр дүнд хүрэхэд чиглэсэн байна.\n\nParticle-1 нь алдаа шалгах, код өөрчлөх төлөвлөгөө гаргах, олон алхамт инженерчлэлийн бодлогуудыг шийдвэрлэхэд тохиромжтой бөгөөд 1 сая токенийн контекц цонхыг дэмждэг. Хөгжүүлэгчид Claude Code, Codex, Cursor зэрэг хэрэгслүүдэд уг загварыг particle/particle-1 нэрээр ашиглах боломжтой юм.\n\nAI Gateway нь эх үүсвэрийн үнийг ямар нэгэн нэмэгдэлгүйгээр санал болгодог бөгөөд хэрэглээ болон зардлыг хянах, найдвартай ажиллагааг хангах нэгдсэн API-аар хангадаг байна.",
+ "published": "2026-10-28T00:00:00Z",
+ "added": "2026-10-29T19:06:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
