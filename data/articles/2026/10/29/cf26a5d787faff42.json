@@ -1,0 +1,17 @@
+{
+ "id": "cf26a5d787faff42",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.312",
+ "image": "https://opengraph.githubassets.com/fae0165df5f34b4174fbff3b1cb88ecace6db0821fcf5f379b43cc796c4306f1/anthropics/claude-code/releases/tag/v2.1.312",
+ "title": "claude-code v2.1.312",
+ "summary_en": "What's changed Added oidc.user_id_claim to the Claude apps gateway, to identify people by an id_token claim other than sub , such as Microsoft Entra ID's oid Added click to send: in fullscreen, clicking the \"to send now\" hint under a queued message sends it right away, as its key does Fixed managed settings and organization policy not being fetched for the rest of the session after signing in from the VS Code extension Fixed Claude overwriting a very large CLAUDE.md, rules file or @-included file in a subdirectory after seeing only its start; Write now asks Claude to read it all or edit in…",
+ "title_mn": "Claude Code v2.1.312 хувилбар гарч, олон алдааг заслаа",
+ "summary_mn": "Anthropic-ийн Claude Code хэрэгслийн 2.1.312 шинэчлэлтээр нэвтрэлтийн oidc.user_id_claim тохиргоо нэмэгдэж, том файл дахин бичих үеийн болон хуралдаан үргэлжлүүлэхтэй холбоотой алдаануудыг засав.",
+ "body_mn": "Anthropic компани terminal-д суурилсан хиймэл оюунт хөгжүүлэлтийн туслах Claude Code-ийн 2.1.312 хувилбарыг танилцууллаа. Энэхүү хувилбараар Claude apps gateway-д хэрэглэгчийг стандарт sub утгаас өөр талбараар (жишээ нь Microsoft Entra ID-ийн oid) таних oidc.user_id_claim тохиргоог нэмсэн байна. Мөн дэлгэц дүүрэн горимд дараалалд орсон мессежийг шууд илгээх боломжтой болжээ.\n\nШинэчлэлтээр CLAUDE.md болон дүрмийн том файлуудын зөвхөн эхлэлийг уншаад бүтнээр нь дарж бичих ноцтой алдааг зассан байна. Одооноос тус хэрэгсэл ийм тохиолдолд файлыг бүрэн унших эсвэл шууд тухайн хэсэгт засвар хийхийг загвараас шаарддаг болсон. Мөн VS Code өргөтгөлөөс нэвтэрсний дараа байгууллагын бодлогын тохиргоо татагдахгүй байсан болон дэд хавтас руу cd команд хийсний дараа зарим skill олдохгүй байсан асуудлуудыг шийджээ.\n\nТүүнчлэн Bedrock, Vertex зэрэг үүлэн дэд бүтцүүдэд захиалгат нэршилтэй загваруудад зориулан системийн богино промпт ашиглах тохиргоо орсон бөгөөд 5 цагийн хязгаарлалтын нэршлийг session limit биш 5-hour limit болгон өөрчилсөн байна. Хуралдаан дахь prompt болон agent hook-уудын зэрэг ажиллах дээд хязгаарыг 24 болгон зохицуулжээ.",
+ "published": "2026-10-27T20:24:20Z",
+ "added": "2026-10-29T06:07:08Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "bd714d78e70f0854",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v44.10.0",
+ "image": "https://opengraph.githubassets.com/dd87f53114480610950afb20e3297194e71696439f98591df81c0f84410018ef/electron/electron/releases/tag/v44.10.0",
+ "title": "electron v44.10.0",
+ "summary_en": "Release Notes for v44.10.0 Features Added filtering options to session.registerPreloadScript - matches , excludeMatches , includeGlobs , excludeGlobs , matchOriginAsFallback . #55182 (Also in 45 ) Fixes Fixed a crash on Linux when a D-Bus method call was made on a disconnected bus. #55290 (Also in 45 , 46 ) Fixed a main process crash when onSendHeaders observed Blob uploads. #55168 (Also in 45 ) Fixed app.getLoginItemSettings() not finding login items on Windows when the executable path contains spaces. #55207 (Also in 45 ) Fixed Europe/London and Europe/Dublin time zone names showing as…",
+ "title_mn": "Electron v44.10.0 хувилбар гарлаа",
+ "summary_mn": "Electron v44.10.0 шинэ хувилбар гарч, session.registerPreloadScript шүүлтүүр нэмэгдэн, олон алдаа засжээ.",
+ "body_mn": "Electron фрэймворкийн v44.10.0 хувилбар албан ёсоор гарлаа. Энэ шинэ хувилбарт session.registerPreloadScript функцэд matches, excludeMatches зэрэг шүүлтүүрийн сонголтууд нэмэгдсэн байна. Мөн Linux болон Windows үйлдлийн систем дээр гардаг байсан хэд хэдэн чухал гажиг, краш, time zone болон asar архивтай холбоотой алдаануудыг амжилттай зассан байна. Уг хувилбар нь Chromium 152 болон Node.js v24.22.1 рүү шинэчлэгдсэн нь хөгжүүлэгчдэд илүү тогтвортой орчныг бүрдүүлж байна.",
+ "published": "2026-10-27T18:00:22Z",
+ "added": "2026-10-29T06:07:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

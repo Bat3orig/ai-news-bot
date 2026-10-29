@@ -1,0 +1,17 @@
+{
+ "id": "5c614ef576e224fc",
+ "subtopic": "ai-devtools",
+ "source": "openai/codex",
+ "source_label": "openai/codex",
+ "url": "https://github.com/openai/codex/releases/tag/rust-v0.165.0",
+ "image": "https://opengraph.githubassets.com/a1b84a1681486b7c1374942328f5d8e9d7ec8249ab48bc54a1b7173c2e682233/openai/codex/releases/tag/rust-v0.165.0",
+ "title": "codex 0.165.0",
+ "summary_en": "New Features Added a built-in Google Cloud Vertex AI provider, configured with model_provider = \"gcp\" . ( #56265 ) Added GPT-6.1 Terra to the model catalogs. ( #57337 ) Added a repository filter to the session picker and directory grouping to the agent command center, making it easier to navigate sessions across linked worktrees. ( #56308 ) Added experimental attached thread forks to the app-server API. ( #56351 ) Enabled reasoning effort changes during a conversation by default for supported models. ( #56163 ) Enabled memory v2 by default for fresh profiles and added support for importing…",
+ "title_mn": "Codex 0.165.0 хувилбар гарч, Google Cloud Vertex AI болон GPT-6.1 Terra дэмждэг боллоо",
+ "summary_mn": "Codex хэрэгслийн 0.165.0 шинэ хувилбар гарч Google Cloud Vertex AI үйлчилгээ болон GPT-6.1 Terra загварыг нэмжээ.",
+ "body_mn": "Codex хэрэгсэл шинэ буюу 0.165.0 хувилбараа гаргалаа. Энэхүү хувилбарт Google Cloud Vertex AI үйлчилгээг загвар нийлүүлэгч болгон шууд ашиглах боломжийг нэмсэн байна. Мөн шинэ загварын каталогт GPT-6.1 Terra нэмэгдсэн нь хөгжүүлэгчдэд илүү өргөн сонголтыг олгож байна. Үүнээс гадна session picker хэсэгт репозиторийн шүүлтүүр нэмэгдэж, санах ойн шинэ систем v2 автоматаар идэвхжсэн зэрэг олон техникийн сайжруулалт багтжээ.",
+ "published": "2026-10-27T20:11:49Z",
+ "added": "2026-10-29T06:07:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

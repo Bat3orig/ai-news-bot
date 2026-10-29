@@ -1,0 +1,17 @@
+{
+ "id": "fbc4d100383bed6a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Anthropic",
+ "url": "https://www.anthropic.com/research/agents-judgment-calls",
+ "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b3aee146e4ef35b394b2b626d5eaf5faaee741aa-1200x630.jpg",
+ "title": "How AI agents shape experts’ judgment calls",
+ "summary_en": "In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work.",
+ "title_mn": "Судалгаа: Шинжээчид ажил үүргээ гүйцэтгэхдээ AI агентийн саналыг ихэвчлэн дагадаг",
+ "summary_mn": "Anthropic-ийн шинэ судалгаагаар мэргэжилтнүүд Claude Code ашиглахдаа агентийн гаргасан шийдвэр, хандлагыг 86 хувьд нь дагаж байдгийг тогтоожээ.",
+ "body_mn": "Anthropic компани мэргэжилтнүүд AI агенттай хамтран ажиллах явцдаа хүний бие даасан шүүлтүүрийг хэрхэн ашигладаг талаар судалгаа хийсэн байна. Судалгаанд 50 статистикч оролцож, Claude Code ашиглан хөдөө аж ахуйн төслийн үр дүнг шинжлэх даалгавар гүйцэтгэжээ. Үр дүнгээс харахад шинжээчид ямар нэгэн байдлаар агент санал болгосон чиглэлийг 86%-д нь дагаж байсан бөгөөд асуултад хариулахдаа агентийн аргуудыг шууд ашигласан боловч тухайн агентийг эх сурвалж гэж бараг дурдаагүй байна. Энэ нь хөгжүүлэгчид болон судлаачдад AI агентийн шийдвэрийг сохроор дагахгүй байх анхааруулга болж байна.",
+ "published": "2026-10-27T18:50:53Z",
+ "added": "2026-10-29T06:07:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

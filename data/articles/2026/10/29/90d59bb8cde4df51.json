@@ -1,0 +1,17 @@
+{
+ "id": "90d59bb8cde4df51",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v45.1.0",
+ "image": "https://opengraph.githubassets.com/313cac773bb356949c1613f48db6d97b8f0b5982eefe002be17c0441422ecfc3/electron/electron/releases/tag/v45.1.0",
+ "title": "electron v45.1.0",
+ "summary_en": "Release Notes for v45.1.0 Features Added filtering options to session.registerPreloadScript - matches , excludeMatches , includeGlobs , excludeGlobs , matchOriginAsFallback . #55181 (Also in 44 ) Fixes Fixed a crash on Linux when a D-Bus method call was made on a disconnected bus. #55292 (Also in 44 , 46 ) Fixed a main process crash when onSendHeaders observed Blob uploads. #55169 (Also in 44 ) Fixed extension chrome.webRequest events reporting a tabId of -1 and chrome.declarativeNetRequest rules restricted to tabs never matching. #55283 (Also in 46 ) Fixed session.clearStorageData()…",
+ "title_mn": "Electron v45.1.0 шинэ хувилбар албан ёсоор гарлаа",
+ "summary_mn": "Electron v45.1.0 хувилбар гарч, расширлалтын үйлчилгээ болон Chromium шинэчлэлтүүдийг багтаажээ.",
+ "body_mn": "Electron фрэймворкийн v45.1.0 хувилбар шинэчлэгдэн гарлаа. Энэхүү хувилбарт extension service workers, chrome.webRequest болон бусад олон алдааг засварласан байна. Тухайлбал, расширлалтын скрипт ажиллах явц болон санах ойн менежменттэй холбоотой алдаанууд засагджээ. Мөн Chromium 156 болон Node.js v24.22.1 хувилбарууд руу шинэчлэгдсэн нь хөгжүүлэгчдэд илүү найдвартай ажиллах боломжийг олгож байна.",
+ "published": "2026-10-27T19:51:46Z",
+ "added": "2026-10-29T06:07:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

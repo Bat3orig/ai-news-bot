@@ -1,0 +1,17 @@
+{
+ "id": "16c4bd79fa89e453",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Register",
+ "url": "https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807",
+ "image": "https://image.theregister.com/240909.jpg?imageId=240909&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+ "title": "Anthropic now lets Claude users jump out of plane without parachute",
+ "summary_en": "Meet CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS",
+ "title_mn": "Anthropic Claude Code хэрэгсэлд шинэ буюу аюултай зөвшөөрлийн хувьсагч нэмлээ",
+ "summary_mn": "Claude Code v2.1.311 хувилбарт rm команд зэрэг үйлдлийг ямар нэг зөвшөөрөлгүйгээр шууд гүйцэтгэх шинэ орчны хувьсагч нэмэгджээ.",
+ "body_mn": "Anthropic компани өөрийн Claude Code хэрэгслийн v2.1.311 хувилбартаа хөгжүүлэгчдэд зориулсан CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS нэртэй шинэ орчны хувьсагчийг нэвтрүүлжээ. Энэхүү хувьсагчийг идэвхжүүлснээр AI агент файлыг устгах rm команд зэрэг үйлдлийг хэрэглэгчээс асуулгүйгээр шууд гүйцэтгэх боломжтой болж байна. Компанийн ажилтан Дайси Холлманы мэдээлснээр энэ нь хошигнол биш бөгөөд тусгайлан зориулж бүтээсэн гэжээ. Гэхдээ rm -rf ~ зэрэг зарим хэт аюултай команд дээр хязгаарлалт хэвээр үлдэж байгаа аж.",
+ "published": "2026-10-27T19:29:00Z",
+ "added": "2026-10-29T06:07:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
