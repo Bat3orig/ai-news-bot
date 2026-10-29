@@ -1,0 +1,17 @@
+{
+ "id": "370956ff2864caf9",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v43.8.4",
+ "image": "https://opengraph.githubassets.com/74870a2da7657a350bd88a8fb91cc1a4daa3efbc6ed7235289a9a31cb5a416a0/electron/electron/releases/tag/v43.8.4",
+ "title": "electron v43.8.4",
+ "summary_en": "Release Notes for v43.8.4 Fixes Backported fix for a macOS File System Access blocklist bypass via /System/Volumes/Data paths. #54677 Fixed Europe/London and Europe/Dublin time zone names showing as \"GMT+00:00\" in winter by updating ICU to tzdata 2026e. #55336 Fixed File System Access blocklist gaps for .git/hooks writes and hypervisor UNC shares. #55331 Fixed handling of malformed asar archives whose size fields do not match the file length. #55179 (Also in 44 , 45 ) Fixed inconsistent handling of asar archive paths between the main process and child processes. #55185 (Also in 44 , 45 )…",
+ "title_mn": "Electron v43.8.4 хувилбар гарлаа",
+ "summary_mn": "Electron v43.8.4 хувилбар нь macOS файлын системийн блоклолт болон ASAR архивын аюулгүй байдлын чухал засваруудыг багтааж, Node.js-ийг v24.22.1 болгон шинэчиллээ.",
+ "body_mn": "Electron фреймворкийн v43.8.4 засварын хувилбар худалдаанд гарлаа. Энэ шинэчлэлтээр macOS файлын системийн хандалтын блоклолтыг тойрч гардаг байсан эмзэг байдал болон ASAR архивын файлын урт шалгах явц дахь алдаануудыг амжилттай зассан байна.\n\nMөн хуучирсан цагийн бүсийн нэрсийг шинэчилж, MV3 өргөтгөлийн үйл явдлууд арын сервис ажилчдад (service workers) хүрдэггүй байсан алдааг зассан байна. Үүний зэрэгцээ Node.js орчныг v24.22.1 хувилбар руу шинэчилжээ.\n\nДесктоп аппликейшн хөгжүүлэгчид аюулгүй байдал болон гүйцэтгэлийг сайжруулахын тулд энэхүү шинэ хувилбар руу яаралтай шилжих нь зүйтэй юм.",
+ "published": "2026-10-27T17:52:41Z",
+ "added": "2026-10-29T00:07:20Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

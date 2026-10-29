@@ -1,0 +1,17 @@
+{
+ "id": "bc22dd248319d243",
+ "subtopic": "react-native",
+ "source": "facebook/react-native",
+ "source_label": "facebook/react-native",
+ "url": "https://github.com/react/react-native/releases/tag/v0.88.1",
+ "image": "https://opengraph.githubassets.com/5732026e15c26c4f2ed6d530f5c9b677b165eb1f4087a1b1d4ba282b5a61a7ed/react/react-native/releases/tag/v0.88.1",
+ "title": "react-native 0.88.1",
+ "summary_en": "Added JSI: Forward createValueFromJsonUtf8 in RuntimeDecorator ( b5eec4e4f3 by @mrousavy ) JSI: Run the With hooks around WithRuntimeDecorator::createArrayBuffer ( 82def6ea4c by @mrousavy ) JSI: Forward String::length in RuntimeDecorator and WithRuntimeDecorator ( be567d270c by @mrousavy ) Yoga: Fix flex shrink explosion when the shrink total is a positive float residual ( 24a3be5f99 by @intergalacticspacehighway ) iOS specific SwiftPM: the build stops with a clear error when precompiled plugin frameworks and the Xcode project disagree, and the error says what to run. ( a920e5db46 by…",
+ "title_mn": "React Native v0.88.1 хувилбар гарлаа",
+ "summary_mn": "React Native v0.88.1 шинэ хувилбар нь JSI сайжруулалт, Yoga хөдөлгүүрийн алдаа засвар болон iOS болон Android платформуудын гүйцэтгэлийн шинэчлэлтүүдийг агуулж байна.",
+ "body_mn": "React Native баг v0.88.1 засварын хувилбарыг албан ёсоор гаргалаа. Энэ хувилбарт JSI-тай холбоотой RuntimeDecorator болон createValueFromJsonUtf8 аргуудыг нэмж, хөгжүүлэгчдэд илүү оновчтой ажиллах боломжийг олгосон байна.\n\nМөн Yoga 레이아웃 хөдөлгүүрийн flex shrink тооцоолол болон текст боловсруулалттай холбоотой зарим чухал алдаануудыг зассан бөгөөд iOS болон Android дээрх текст render хийх үеийн гажиг арилжээ. Тус хувилбараар Xcode төслүүдийн SwiftPM тохиргоог илүү хялбаршуулж, spm add болон update командуудаар автоматаар тохируулах боломжтой болсон.\n\nХөгжүүлэгчид шинэ хувилбар руу шилжихдээ Upgrade Helper болон албан ёсны changelog-ийг ашиглан төслөө шинэчлэх боломжтой.",
+ "published": "2026-10-27T17:39:23Z",
+ "added": "2026-10-29T00:07:20Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

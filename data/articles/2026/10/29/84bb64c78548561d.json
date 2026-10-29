@@ -1,0 +1,17 @@
+{
+ "id": "84bb64c78548561d",
+ "subtopic": "nextjs",
+ "source": "Next.js Blog",
+ "source_label": "Next.js Blog",
+ "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026",
+ "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/upcoming-nextjs-security-release-november-2026/twitter-card.png",
+ "title": "Upcoming Next.js November Security Release",
+ "summary_en": "Next.js is preparing a scheduled November security release for November 3, 2026.",
+ "title_mn": "Next.js-ийн ирэх сарын аюулгүй байдлын шинэчлэлтийн тухай зарлал",
+ "summary_mn": "Next.js баг 2026 оны 11 дүгээр сарын 3-нд дунд зэргийн эрсдэлтэй долоон эмзэг байдлыг засварлах төлөвлөгөөт аюулгүй байдлын шинэчлэлт гаргахаа урьдчилан мэдэгдлээ.",
+ "body_mn": "Next.js фреймворкийг хөгжүүлэгчид болон хэрэглэгчдэд зориулж удахгүй буюу 2026 оны 11 дүгээр сарын 3-нд товлосон аюулгүй байдлын шинэчлэлт гаргахаар бэлэн болсноо зарлалаа. Энэхүү урьдчилан мэдэгдэл нь хөгжүүлэгч багуудад шинэчлэлтийг төлөвлөх хангалттай хугацаа олгох зорилготой юм.\n\nТус хувилбараар Next.js доторх дунд зэргийн түвшний долоон эмзэг байдлыг засах бөгөөд гарах өдөр нь холбогдох дэлгэрэнгүй зөвлөмж, нөлөөлөх хувилбарууд болон шинэчлэх зааварчилгааг хамт нийтлэх аж. Хөгжүүлэгчдэд засварласан хувилбар гармагц шууд шинэчлэххийг зөвлөж байна.\n\nVercel-ийн Open Source Bug Bounty хөтөлбөрийн хүрээнд хийгдсэн энэхүү ажлын талаар ямар нэгэн асуулт байвал security@vercel.com хаягаар холбогдож болох юм.",
+ "published": "2026-10-27T18:00:00Z",
+ "added": "2026-10-29T00:07:20Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
