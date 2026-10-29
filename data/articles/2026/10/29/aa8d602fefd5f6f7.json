@@ -1,0 +1,17 @@
+{
+ "id": "aa8d602fefd5f6f7",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",
+ "image": "https://opengraph.githubassets.com/c82051f72ab4a940029a5d1435e8ec971a1ada54c3c1e09d6826a372aa812b97/ollama/ollama/releases/tag/v0.40.12",
+ "title": "ollama v0.40.12",
+ "summary_en": "Liquid AI LFM3 LFM3 is Liquid AI's new family of small models built for local agents, tool calling, and structured output, on Liquid's new tri-hybrid architecture. The family includes: lfm3 : a 1.7B text model with a 256K-token context window lfm3-vl : adds image understanding lfm3-audio : speech recognition, translation, and text-to-speech in 18 languages lfm3-omni : text, images, and audio in one model ollama run lfm3 d1 decision models Liquid AI's d1 models now come in a 2B size, built on LFM3. d1 makes decisions about text and images, and d1-omni adds audio. ollama run d1:2b \" I was…",
+ "title_mn": "Ollama v0.40.12 шиpчлэгдэж Liquid AI-ийн LFM3 загваруудыг дэмжив",
+ "summary_mn": "Ollama v0.40.12 хувилбар гарч, Liquid AI-ийн шинэ LFM3 ба d1 жижиг загваруудыг локалаар ажиллуулах боломжтой боллоо. Мөн Apple Silicon дээр Gemma 4 болон бусад загварын хурдыг сайжруулжээ.",
+ "body_mn": "Ollama хэрэгслийн шинэ v0.40.12 хувилбар гараад байна. Энэхүү шинэчлэлтээр Liquid AI компаниас локал агент болон хэрэгсэл дуудахад зориулан гаргасан tri-hybrid архитектуртай LFM3 загварын гэр бүлийг дэмждэг болжээ. Үүнд 1.7B хэмжээтэй текст загвар, зураг таних чадвартай lfm3-vl, аудио орчуулга болон яриа таних lfm3-audio, мөн бүх төрлийн өгөгдлийг нэгтгэсэн lfm3-omni загварууд багтаж байна.\n\nҮүнээс гадна шийдвэр гаргахад зориулсан 2B хэмжээтэй d1 загварууд Ollama дээр шууд ажиллах боломжтой болсон бөгөөд одоогоор Apple тоног төхөөрөмжийг дэмжиж байгаа ба Linux болон Windows үйлдлийн системүүдэд удахгүй орох юм.\n\nЭнэ удаагийн хувилбарт Apple Silicon дээр Gemma 4 болон бусад загваруудын промпт боловсруулах хурдыг сайжруулж, DFlash2 draft загваруудын тусламжтайгаар speculative decoding дэмждэг болгожээ. Мөн Kimi CLI болон OpenCode v2 хэрэгслүүдтэй холбоотой зарим алдааг засварласан байна.",
+ "published": "2026-10-27T21:41:00Z",
+ "added": "2026-10-29T13:27:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

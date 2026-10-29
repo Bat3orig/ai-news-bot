@@ -1,0 +1,17 @@
+{
+ "id": "adbacd1cc4b9b541",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "R&D World",
+ "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/",
+ "image": "https://www.rdworldonline.com/wp-content/uploads/2026/10/548184bda60fac7efdc36c089b1d5144ef0642da-2400x2239-1.webp",
+ "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
+ "summary_en": "Anthropic acquired Mithril Medicine, whose sole employee used Claude to run 11 outside labs and reach mouse results for a muscular dystrophy antibody.",
+ "title_mn": "Anthropic компани Claude ашиглан судалгаа явуулдаг биотехнологийн стартапыг худалдаж авжээ",
+ "summary_mn": "Anthropic компани Claude загварыг ашиглан олон лабораторийн туршилтыг зохицуулдаг байсан ганцхан ажилтантай Mithril Medicine биотехнологийн стартапыг худалдаж авснаа зарлалаа.",
+ "body_mn": "Anthropic компани биологийн чиглэлээр судалгаа хийдэг, ганцхан бүтэн цагийн ажилтантай Mithril Medicine стартапыг худалдаж авснаа ил болголоо. Тус компанийн үүсгэн байгуулагч Коди Транбаргер нь гадны 11 лаборатори болон эрдэм шинжилгээний зөвлөхүүдийн ажлыг Claude тусламжтайгаар зохицуулж, туршилт, ложистикийг удирддаг байжээ.\n\nЭнэхүү худалдан авалтын хүрээнд тус компани булчингийн ховор эмгэгүүдийг эмчлэх судалгааг Anthropic-ийн дотоод төсөл болгон үргэлжлүүлэх бөгөөд Транбаргер Anthropic-д элсэн орж эмийн судалгааны багийг аחaxар болжээ. Туршилтын явцад Claude нь 113 эсрэг биет багтаасан 341 хуудас тайланг 8 минутаас бага хугацаанд нэгтгэн гаргаж өгөх зэргээр судалгааны ажлыг ихээхэн хурдасгасан байна.\n\nЭнэхүү үйл явдал нь хөгжүүлэлтийн болон судалгааны агентууд нарийн төвөгтэй шинжлэх ухааны төслүүдийг хэрхэн удирдах боломжтойг харуулсан томоохон жишээ болж байна.",
+ "published": "2026-10-27T23:10:40Z",
+ "added": "2026-10-29T13:27:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

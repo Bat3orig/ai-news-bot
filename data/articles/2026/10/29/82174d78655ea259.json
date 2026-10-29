@@ -1,0 +1,17 @@
+{
+ "id": "82174d78655ea259",
+ "subtopic": "packages",
+ "source": "Frontend Focus",
+ "source_label": "Frontend Focus",
+ "url": "https://frontendfoc.us/issues/764",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1793190176/dlisimtjkn0bavqwusxs.png",
+ "title": "The spyware hiding in old script tags",
+ "summary_en": "🚀 Frontend Focus #​764 — October 28, 2026 | Read on the web 🖼️ HTML-in-Canvas: Interactive DOM Inside 2D, WebGL and WebGPU Canvases — Arriving in stable Chrome next week, this long-incubated API draws real, live HTML into 2D, WebGL and WebGPU canvases, with text selection, form controls, Find-in-Page and screen readers all still working. Three.js, Babylon.js and PixiJS already support it. Chrome-only for now, but a big leap for canvas-heavy UIs. There's a related video here too . Natalia Markoborodova (Chrome) Creating Dynamic Social Media Cards for User Content — Chris digs into how links…",
+ "title_mn": "Frontend Focus #764: HTML-in-Canvas, Firefox 159 болон бусад шинэчлэлтүүд",
+ "summary_mn": "Frontend Focus сонины шинэ дугаарт Chrome болон Firefox хөтөчүүдийн шинэ боломжууд, WebMCP API туршилт болон гуравдагч талын скриптүүдийн аюулгүй байдлын талаар өгүүлжээ.",
+ "body_mn": "Frontend Focus сонины #764 дугаарт вег хөгжүүлэгчдийн анхаарлыг татах хэд хэдэн чухал мэдээлэл гарлаа. Нэгдүгээрт, Chrome хөтөчийн шинэ хувилбарт HTML-in-Canvas API нэвтэрч байгаа бөгөөд энэ нь 2D, WebGL болон WebGPU канвас дотор шууд амьд HTML элементүүдийг зурах, текстийг тодруулах боломжийг олгож байна. Three.js болон PixiJS сангууд үүнийг аль хэдийн дэмждэг болжээ.\n\nҮүний зэрэгцээ Firefox 159 хувилбар нь scroll-driven animations хөдөлгөөнийг үндсэн тохиргоогоороо дэмждэг болсон ба W3C байгууллага вег апп-уудыг AI агент руу холбох зориулалттай WebMCP JavaScript API-ийн туршилтыг эхлүүлжээ. Мөн хуучирсан домэйн дээр суурилсан гуравдагч талын скриптүүд хортой код тараах эрсдэлтэй байгааг сануулж, скриптүүдээ аудитад оруулахыг зөвлөсөн байна.",
+ "published": "2026-10-28T00:00:00Z",
+ "added": "2026-10-29T13:27:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

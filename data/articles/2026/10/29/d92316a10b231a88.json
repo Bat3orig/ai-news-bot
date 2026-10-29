@@ -1,0 +1,17 @@
+{
+ "id": "d92316a10b231a88",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMl2C6S6mb-smamI35fLYotcPaercI_2PIgtuF78Q7PtQcFvFUKXkModTW4nRCh6FC7Xht2BltSGImRS2QNR4Lnc22S7UBU9V_0UDcZi2iDNXSlCJDqD4ApmJPqA_boFokj_9dTWKdzhjIgNt_Y47zumx_c5vrcJn5Vd-Xaowafv4HGCzCcqgDV4GGpo/s1700-nu-rw-lo-l85-e365/hacker-chain.jpg",
+ "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+ "summary_en": "Anthropic says an unreleased AI model built five working exploit chains across major platforms in lab tests; the reported flaws are patched.",
+ "title_mn": "Anthropic-ийн шинэ загвар Chrome, Safari болон Windows-ийн аюулгүй байдлын сул талуудыг илрүүлжээ",
+ "summary_mn": "Anthropic-ийн дотоод судалгааны загвар Chrome, Safari, Windows болон Linux системүүдийн сул талуудыг олж, тэдгээрийг ашиглан бодит эксплойт хийж чаджээ. Компани уг алдаануудыг холбогдох үйлдвэрлэгчдэд мэдэгдэж засварлуулсан байна.",
+ "body_mn": "Anthropic компанийн Frontier Red Team багийн хийсэн судалгаагаар, тэдний гаргасан нэгэн шинэ дотоод хиймэл оюун ухааны загвар нь алдартай хөтөч болон үйлдлийн системүүдийн олон сул талуудыг илрүүлж, тэдгээрийг хооронд нь холбон ажиллах чадвартай эксплойт бүтээснийг мэдээллээ. Эдгээр эмзэг байдлуудыг бодит халдлагад ашиглахаас өмнө холбогдох компаниудад урьдчилан мэдээлж, засварлуулсан байна.\n\nТухайлбал, Chrome хөтөчийн хувьд Vercel болон JavaScript хөдөлгүүрийн санах ойн алдаа зэрэг дөрвөн өөр сул талыг нэгтгэн ашигласан байна. Мөн Apple-ийн Safari болон Windows үйлдлийн системийн зарим сул талуудыг амжилттай олж тогтоожээ. Google болон Apple компаниуд Anthropic-ийн судалгааны багт талархал илэрхийлж, CVE кодуудаар алдаануудыг зассанаа баталжээ.\n\nЭнэхүү ололт нь хиймэл оюун ухааны загварууд зөвхөн код бичихээс гадна системийн түвшний нарийн төвөгтэй аюулгүй байдлын судалгаа хийх, сул талуудыг илрүүлэх чадвартай болж байгааг харуулж буй томоохон дэвшил юм. Гэсэн хэдий ч хөгжүүлэгчид болон аюулгүй байдлын мэргэжилтнүүдийн хувьд ийм мощьтой хэрэгслүүдийг хянах нь чухал сорилт хэвээр байна.",
+ "published": "2026-10-28T08:15:00Z",
+ "added": "2026-10-29T13:27:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

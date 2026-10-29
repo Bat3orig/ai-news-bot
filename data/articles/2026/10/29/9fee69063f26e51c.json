@@ -1,0 +1,17 @@
+{
+ "id": "9fee69063f26e51c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "EdTech Innovation Hub",
+ "url": "https://www.edtechinnovationhub.com/news/anthropic-brings-fundraising-hiring-and-ai-governance-tools-to-claude-for-nonprofits",
+ "image": "http://static1.squarespace.com/static/65a69e0c110a6977ead9741c/t/6ae06dc01bba3a2b72985bf4/1793093056213/anthropic-claude-nonprofits-ai-workflows.png.png?format=1500w",
+ "title": "Anthropic brings fundraising, hiring and AI governance tools to Claude for Nonprofits",
+ "summary_en": "ETIH edtech news covers Anthropic's new Claude for Nonprofits plugin, offering AI tools for fundraising, hiring, marketing and governance. Developed with around 30 nonprofit organizations, the plugin is available to verified Team and Enterprise customers at no additional cost, with free training sch",
+ "title_mn": "Anthropic ашгийн бус байгууллагуудад зориулсан Claude for Nonprofits хэрэгслүүдийг танилцуулав",
+ "summary_mn": "Anthropic компани хандивын үйл ажиллагаа, хүний нөөц, дотоод удирдлагыг удирдах тусгай Claude for Nonprofits залгаасыг ашгийн бус байгууллагуудад зориулан гаргалаа.",
+ "body_mn": "Anthropic компани ашгийн бус байгууллагуудад зориулсан Claude for Nonprofits залгаасыг албан ёсоор танилцууллаа. Энэхүү хэрэгсэл нь төрийн бус болон буяны байгууллагуудад хандивлагчдыг хайх, грант буюу тэтгэлгийн материал бэлтгэх, ажилд авах үйл явц болон дотоод засаглалыг сайжруулахад туслах зорилготой юм.\n\nУг залгаас нь Claude Team болон Enterprise план хэрэглэгчдэд ямар нэгэн нэмэлт төлбөргүйгээр шууд суулгагддаг бөгөөд одоогийн байдлаар 25,000 гаруй ашгийн бус байгууллага уг платформыг ашиглаж байна. Систем нь байгууллагын дотоод баримт бичиг, бодлого дээр үндэслэн тэтгэлгийн хүсэлт боловсруулах, ажилд авах ярилцлагын асуултууд болон маркетинг контентуудыг бүтээхэд тусалдаг.\n\nМөн байгууллагууд хиймэл оюун ухаан ашиглахдаа дотоод бодлогодоо нийцэж байгаа эсэхийг Claude-оос шууд шалгуулж, өгөгдлийн аюулгүй байдлыг хангах боломжтой ажээ.",
+ "published": "2026-10-28T00:30:53Z",
+ "added": "2026-10-29T13:27:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "a4b05c7f601accab",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "FedScoop",
+ "url": "https://fedscoop.com/gsa-onegov-deal-claude-anthropic/",
+ "image": "https://fedscoop.com/wp-content/uploads/sites/5/2024/08/GettyImages-2159671948.jpg",
+ "title": "GSA expands OneGov agreement with Anthropic, touting steep discounts",
+ "summary_en": "Federal agencies will have access to a 40% discount on token-based usage across Claude models with no minimum purchase required.",
+ "title_mn": "GSA болон Anthropic компаниуд Claude загваруудыг 40%-ийн хямдралтайгаар өргөжүүлэв",
+ "summary_mn": "АНУ-ын Холбооны Засгийн Газрын үйлчилгээний газар (GSA) болон Anthropic компани хоорондын OneGov гэрээ өргөжиж, холбооны болон орон нутгийн агентлагууд Claude загваруудыг 40%-ийн хямдралтайгаар ашиглах боломжтой боллоо.",
+ "body_mn": "АНУ-ын Ерөнхий үйлчилгээний газар (GSA) нь Anthropic компанитай байгуулсан гэрээгээ өргөжүүлж, төрийн байгууллагуудад Claude загваруудыг ашиглахад 40%-ийн хямдрал олгохоор болсноо зарлалаа. Энэхүү хэрэглээнд суурилсан үнийн загвар нь ямар нэгэн доод хэмжээний худалдан авалтын шаардлагагүйгээр зөвхөн ашигласан токеноороо төлбөр хийх боломжийг олгож байна.\n\nӨмнө нь Anthropic компани Claude for Government үйлчилгээг сарын 1 ам.долларын урамшууллын үнээр санал болгож байсан бөгөөд энэхүү шинэ гэрээ нь OpenAI болон бусад технологийн компаниудын нэвтрүүлсэн consumption-based pricing буюу хэрэглээнд суурилсан загвартай нийцэж байна. Хэдийгээр энэ нь төсөвт ээлтэй мэт боловч Gartner болон Forrester зэрэг шинжээчдийн зүгээс хэрэглээг урьдчилан таамаглахад хүндрэлтэй байдгийг анхааруулжээ.\n\nШинэ гэрээний хүрээнд уг хямдрал нь зөвхөн холбооны агентлагуудаас гадна муж улс, орон нутгийн болон уугуул иргэдийн засгийн газрын байгууллагуудад мөн хамаарах аж. Энэ нь төрийн албан хаагчдад Claude-ийн чадавхыг төсвийн дарамт багатайгаар ажлын байрандаа нэвтрүүлэх боломжийг олгож байна.",
+ "published": "2026-10-27T21:58:48Z",
+ "added": "2026-10-29T13:27:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

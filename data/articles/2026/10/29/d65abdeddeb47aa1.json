@@ -1,0 +1,17 @@
+{
+ "id": "d65abdeddeb47aa1",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/ai-gateway-virtual-models",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/mtIa9LU2YDNu96qNaMC6n/2cc778b79c0f8b6df64e634989743fed/Models_on__AI_Gateway__7_.png",
+ "title": "Introducing Virtual Models on AI Gateway",
+ "summary_en": "Today, we are introducing Virtual Models on AI Gateway . Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can change and update models, configure fallbacks and priority, and enforce Zero Data Retention centrally. The virtual model configuration applies wherever the ID is used. Assign a virtual model ID to an agent task, and pass it as the model string wherever that task is called. You can then change the model and settings behind the virtual model ID in AI Gateway, and your apps and agents will pick up…",
+ "title_mn": "Vercel AI Gateway дээр Virtual Models үйлчилгээг нэвтрүүлөөрэй",
+ "summary_mn": "Vercel компани AI Gateway систем дээрээ Virtual Models буюу виртуал загваруудыг танилцууллаа. Энэ нь хөгжүүлэгчдэд кодын өөрчлөлт хийхгүйгээр загваруудыг хооронд нь солих, нөөцлөх боломжийг олгоно.",
+ "body_mn": "Сүүлийн үед хиймэл оюун ухааны загварууд маш хурдацтай хөгжиж, олон төрлийн хувилбарууд гарч байгаа нь хөгжүүлэгчдэд тэдгээрийг төсөлдөө суулгах, солиход төвөгтэй болгодог. Vercel-ийн шинээр гаргасан Virtual Models нь загварын нэр болон тохиргоог нэгдсэн нэг ID-гаар удирдах боломжийг олгож байна.\n\nХөгжүүлэгчид тодорхой бір ажлын даалгаварт виртуал загварын ID оноож өгснөөр, кодоо дахин байршуулах (redeploy) шаардлагагүйгээр AI Gateway дээрээс загвараа шууд солих, өөрчлөх боломжтой болж байна. Энэ нь ялангуяа Claude Code эсвэл Codex зэрэг кодын агентуудтай ажиллахад илүү уян хатан байдлыг авчирна.\n\nТүүнчлэн энэхүү систем нь өгөгдөл хадгалахгүй байх (Zero Data Retention) болон алдаа гарсан үед автоматаар өөр загварт шилжих (fallback) тохиргоог төвлөрсөн байдлаар удирдах боломжийг олгодог тул том багуудад аюулгүй байдал болон хяналтыг сайжруулахад чухал ач холбогдолтой юм.",
+ "published": "2026-10-28T07:25:00Z",
+ "added": "2026-10-29T13:27:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

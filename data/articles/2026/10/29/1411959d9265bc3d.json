@@ -1,0 +1,17 @@
+{
+ "id": "1411959d9265bc3d",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/introducing-vercel-ci",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/23np9Fh9PUzRrMD4zTU0DU/76afb4d357ccd97c44d4a830b72d26a6/c26b887d-e539-4c4a-9a01-3a7999e1cd66.png",
+ "title": "Introducing Vercel CI",
+ "summary_en": "Coding agents are opening more pull requests than ever, and each one waits on CI before anyone can review or merge it. Most CI systems run the entire workflow on every push, even a one-line change. The more your agents push, the more time you spend waiting on CI. Today, we're announcing Vercel CI in Beta. It runs only the tasks affected by your code change, and spins up only the compute those checks need, the same way Fluid compute scales with your traffic. At Vercel, our CI now keeps up with our coding agents. Time from git push to \"CI passed\" is 2-6x faster than it was before. How it works…",
+ "title_mn": "Vercel CI Beta хувилбараа танилцууллаа: Кодын өөрчлөлтөд суурилсан хурдан туршилт",
+ "summary_mn": "Vercel компани кодын агентуудын ажиллах хурдыг нэмэгдүүлэх зорилготой Vercel CI системийг Beta хэлбэрээр зарлалаа. Энэхүү систем нь зөвхөн өөрчлөлт орсон хэсгийн ажлуудыг л ажиллуулж, хугацааг 2-6 дахин хурдасгадаг.",
+ "body_mn": "Орчин үеийн хөгжүүлэлтийн багууд болон хиймэл оюун ухааны агентууд урьд өмнөхөөсөө илүү олон pull requests үүсгэж байгаа бөгөөд энэ нь CI системд ачаалал үүсгэдэг. Vercel-ийн шинээр танилцуулж буй Vercel CI систем нь зөвхөн тухайн кодын өөрчлөлтөд өртсөн ажлуудыг л шүүж ажиллуулах замаар энэ асуудлыг шийддэг байна.\n\nЭнэхүү хэрэгсэл нь Turborepo-г ашиглан ажлуудын хамаарлыг тодорхойлдог бөгөөд тусдаа YAML тохиргооны файл бичих шаардлагагүйгээр turbo.json файл дээр үндэслэн ажилладаг. Ингэснээр хөгжүүлэгчид кодноос git push хийсний дараа CI шалгалтыг хүлээх хугацааг 2-6 дахин багасгах боломжтой болж байна.\n\nVercel CI нь одоо бүх төлөвлөгөөний хүрээнд Beta байдлаар нээлттэй байгаа бөгөөд хөгжүүлэгчид өөрсдийн репозитори дээр шууд туршиж үзэх боломжтой. Энэ нь хиймэл оюун ухааны туслахтайгаар код бичиж буй багуудад бүтээмжийг эрс нэмэгдүүлэх чухал шинэчлэл юм.",
+ "published": "2026-10-28T07:00:00Z",
+ "added": "2026-10-29T13:27:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
