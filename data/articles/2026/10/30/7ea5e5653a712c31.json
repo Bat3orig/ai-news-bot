@@ -1,0 +1,17 @@
+{
+ "id": "7ea5e5653a712c31",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-28-repository-plugin-defaults-and-enterprise-plugin-controls-generally-available",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+ "title": "Repository plugin defaults and enterprise plugin controls generally available",
+ "summary_en": "Repository plugin defaults and enterprise-managed plugin controls are now generally available in VS Code, Copilot CLI, and the GitHub Copilot app. Trusted repositories can install and enable default plugins for…",
+ "title_mn": "GitHub Copilot плагины удиirdah боломж болон Enterprise тохиргоо нээгдлээ",
+ "summary_mn": "VS Code, Copilot CLI болон GitHub Copilot апп-д репозиторын плагины өгөгдмөл утга болон Enterprise түвшний хяналтууд албан ёсоор ашиглалтад орлоо. Админууд зөвшөөрөгдсөн маркетплейс тохируулж, зарим плагиныг заавал суулгахаар шаардах боломжтой.",
+ "body_mn": "GitHub Copilot-ын шинэ шинэчлэлтээр репозиторын плагины өгөгдмөл тохиргоо болон байгууллагын (Enterprise) түвшний удирдлагууд VS Code, Copilot CLI болон GitHub Copilot апп дотор бүрэн нээгдлээ. Ингэснээр хөгжүүлэгчид төсөл бүрт плагин гараар тохируулах шаардлагагүй болж, итгэмжлэгдсэн репозитороор дамжуулан багийн гишүүдэд автоматаар суулгах боломж бүрдэж байна.\n\nEnterprise админууд зөвшөөрөгдсөн плагины маркетплейсийг холбож, зарим шаардлагатай плагиныг шууд суулгах эсвэл хориглох хязгаарлалтыг төвлөрсөн байдлаар удирдах боломжтой боллоо. Удирдлагын энэхүү тохиргоо нь хувь хэрэглэгчийн сонголтоос илүү давуу эрхтэй үйлчилнэ.\n\nРепозиторын өгөгдмөл тохиргоо нь хувь хэрэглэгчид болон Copilot Business, Enterprise эрхтэй хэрэглэгчдэд нээлттэй байна. Харин удирдлагын хяналтыг GitHub Enterprise Cloud орчин дахь Copilot Business болон Enterprise лиценз эзэмшигчид ашиглах юм.",
+ "published": "2026-10-28T15:33:00Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

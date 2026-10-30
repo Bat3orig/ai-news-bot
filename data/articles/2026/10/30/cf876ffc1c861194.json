@@ -1,0 +1,17 @@
+{
+ "id": "cf876ffc1c861194",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+ "image": "https://github.blog/wp-content/uploads/2026/11/683299408-b1d020a6-0c6d-49a5-ab57-5434d64fb7f9.png",
+ "title": "Route and orchestrate models with GitHub Copilot Fusion",
+ "summary_en": "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.…",
+ "title_mn": "GitHub Copilot Fusion ерөнхийдөө боломжтой боллоо: загваруудыг автоматаар чиглүүлнэ",
+ "summary_mn": "GitHub Copilot Fusion ерөнхийдөө боломжтой боллоо. Энэ горим нь даалгавар бүрт аль загварыг ашиглахыг Copilot өөрөө шийдэж, олон загварыг хамтад нь ажиллуулдаг. Одоогоор Copilot бүх төлөвлөгөөнд, VS Code, Copilot app, Copilot CLI болон JetBrains IDE-үүдэд боломжтой.",
+ "body_mn": "GitHub Copilot Fusion ерөнхийдөө боломжтой болсон тухай GitHub Changelog-д мэдээлэв. Хөгжүүлэгч бүр даалгавар бүрт тохирох загварыг өөрөө сонгох шаардлагагүй болно. Харин model picker-ээс Copilot Fusion-г сонгоод, хүчин чармайлтын түвшнээ (effort level) тодорхойлоход л хангалттай. Систем нь prompt бүрт аль загваруудыг ашиглах, тэдгээр хэрхэн хамтран ажиллахыг тодорхойлдог.\n\nGitHub-ын мэдээлснээр Project HydraFusion-ийн гүйцэтгэл сайжирсан. Artificial Analysis Coding Agent Index-д Copilot Fusion Max 60 оноо авсан бөгөөд энэ нь Claude Code with Opus 5.5 Max-аас ердөө хоёр оноогоор доогуур байна. Үүнтэй зэрэгцээд даалгавар бүрийн дундаж API зардал ойролцоогоор хагасаар буурч, токений хэрэглээ хагас, даалгавар бүрийн хугацаа 40 орчим хувиар багассан гэж мэдээлсэн.\n\nТөлбөрийн хувьд та загвар бүрийн стандарт үнээр тооцогдоно. Хязгаарлагдмал хугацаанд төлбөртэй Copilot төлөвлөгөөтэй хэрэглэгчдэд Copilot Fusion-ийн загварын зардалд 30 хувийн хөнгөлөлт үзүүлнэ. Админууд аль загваруудыг ашиглахыг хязгаарлах, Fusion-ийг анхдагч болгох эсэхийг удирдах боломжтой.\n\nХөгжүүлэгчдэд энэ нь model switching-ийн гараар хийх ажлыг багасгаж, зардлыг бууруулах боломж олгоно. Гэхдээ загварын сонголтыг хянах шаардлагатай байгаа хүмүүс админ тохиргоогоор хязгаарлалтаа тогтоох хэрэгтэй.",
+ "published": "2026-10-28T16:00:00Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}

@@ -678,5 +678,265 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c3a252f21b3b2fe6",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "The Star",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/28/moonshot-debuts-first-ai-upgrade-since-its-own-deepseek-moment",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/10/28/4184239.JPG",
+   "title": "Moonshot debuts first AI upgrade since its own DeepSeek moment",
+   "summary_en": "Moonshot AI, the Chinese upstart that had its own DeepSeek moment over the summer, released the first major upgrade to the seminal model that thrust the US$50bil (RM204.13bil) company into the frontier.",
+   "title_mn": "Moonshot AI компани шинэ үеийн Kimi K3.1 Pro загвраа танилцууллаа",
+   "summary_mn": "Moonshot AI компани санхүүгийн судалгаа, код бичих болон 3D загварчлалаар илүү сайжирсан Kimi K3.1 Pro загвраа албан ёсоор танилцууллаа. Энэ нь тэдний зах зээлд өрсөлдөх байр суурийг бэхжүүлэх анхны томоохон шинэчлэлт юм.",
+   "body_mn": "Хятадын хиймэл оюун ухааны гарааны бизнес болох Moonshot AI компани Kimi K3.1 Pro загвраа танилцууллаа. Энэ нь тус компанийн зах зээлд шуугиан тарьж байсан өмнөх загварын дараах анхны томоохон шинэчлэл бөгөөд АНУ-ын өрсөлдөгч компаниудын гол анхаарлаа хандуулдаг чиглэлүүдэд илүү төвлөрсөн байна.\n\nШинэ загвар нь санхүүгийн судалгаа хийх, код бичих чадвараар эрс сайжирснаас гадна 3D загварчлал хийх чадвартай болсноороо онцлог юм. Энэ нь тоглоом хөгжүүлэлт болон бусад нарийн төвөгтэй дизайн гаргах ажлыг илүү хялбар болгож байна. Moonshot AI компани Kimi Work болон Kimi Code хэрэгслүүдээр дамжуулан хөгжүүлэгчдэд шууд хандах боломжийг олгож, төлбөртэй үйлчилгээ болон token кредитээр орлого олдог.\n\nЭнэхүү шинэ загвар нь Хятадын хиймэл оюун ухааны лабораториуд дэлхийн зах зээлд өөрийн байр суурийг хадгалах, ялангуяа OpenAI болон Anthropic зэрэг компаниудтай өрсөлдөхөд чухал алхам болж байна. Хөгжүүлэгчдийн хувьд K3.1 Pro нь код бичих болон API ашиглах шинэ боломжуудыг нээж өгч байгаа юм.",
+   "published": "2026-10-28T06:30:00Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a395c7da350b5086",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "image": "",
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "summary_en": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+   "title_mn": "OpenAI болон ServiceNow компаниуд хамтын ажиллагаагаа өргөжүүллээ",
+   "summary_mn": "OpenAI болон ServiceNow компаниуд хамтын ажиллагаагаа өргөжүүлж, OpenAI-ийн загвар болон агентуудыг ServiceNow платформд нэгтгэж эхэллээ. Мөн ServiceNow ажлын урсгалууд ChatGPT болон Codex руу нэвтрэх боломжтой болно.",
+   "body_mn": "OpenAI болон аж ахуйн нэгжийн программ хангамж үйлчилгээ үзүүлэгч ServiceNow компаниуд стратегийн түншлэлээ өргөжүүлж буйгаа зарлалаа. Энэхүү хамтын ажиллагааны хүрээнд OpenAI-ийн дэвшилтэт загварууд болон хиймэл оюун ухааны агентуудыг ServiceNow-ийн корпорацийн ажлын урсгалуудад гүнзгий нэгтгэх юм.\n\nҮүний зэрэгцээ, ServiceNow платформын ажлын урсгалууд болон мэдээллүүд ChatGPT болон Codex хөгжүүлэгчийн хэрэгслүүдэд холбогдоно. Ингэснээр байгууллагууд дотоод үйл ажиллагаагаа автоматжуулах, хиймэл оюун ухааны чадварыг өдөр тутмын бизнес процесстоо саадгүй ашиглах боломж бүрдэж байна.\n\nЭнэхүү интеграци нь байгууллагын түвшний програм хангамж хөгжүүлэлт болон үйл ажиллагааны үр ашгийг дээшлүүлэхэд чухал ач холбогдолтой юм. Хөгжүүлэгчдийн хувьд OpenAI-ийн хэрэгслүүдийг байгууллагын том системүүдтэй хослуулан ашиглах шинэ арга замуудыг нээж өгч байна.",
+   "published": "2026-10-28T13:15:00Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7f577f4b01c6fc58",
+   "subtopic": "vibe-coding",
+   "source": "Simon Willison",
+   "source_label": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+   "image": "https://static.simonwillison.net/static/2026/pumpkin-farmer.webp",
+   "title": "The October inflection point for vibe game development",
+   "summary_en": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games . Tree Appreciator Emberwick Battle Drones Pumpkin Farmer, aka Quarter Sun Cove Four times as insulting What happens if someone actually puts the work in? You should build a game! Claude Opus 5.5 in particular exhibits meaningful…",
+   "title_mn": "October 2026: Vibe coding аргаар вэб тоглоом бүтээх шинэ үе",
+   "summary_mn": "Claude Opus 5.5 загвар гарснаар хиймэл оюун ухаан ашиглан код бичихгүйгээр (vibe coding) хөгжилтэй, чанартай вэб тоглоом бүтээх шинэ эрин эхэллээ. Загварууд зөвхөн код бичих биш, харин тоглоомын хөгжөөнт байдлыг мэдэрдэг болжээ.",
+   "body_mn": "Код бичих агентуудын хөгжилд 2025 оны 11 дүгээр сар чухал эргэлтийн цэг байсан бол 2026 оны 10 дугаар сард хиймэл оюун ухаанаар тоглоом бүтээх буюу vibe coding арга барилд шинэ дэвшил гарлаа. Ялангуяа Claude Opus 5.5 загвар нь сонирхолтой, тоглоход зугаатай тоглоом бүтээх чадвараараа бусдаасаа ялгарч байна.\n\nӨмнө нь хиймэл оюун ухаан тоглоомын харагдах байдлыг хийж чаддаг байсан ч жинхэнэ утгаараа сонирхолтой тоглоомын механикийг гаргах тал дээр дутагдалтай байсан. Харин одоо хөгжүүлэгчид кодыг нь огт харалгүйгээр, зөвхөн байгалийн хэлээр хүсэлт өгөх замаар browser дээр ажилладаг бүрэн хэмжээний, чанартай тоглоом бүтээх боломжтой болжээ. Жишээ нь, three.js сан ашиглан 3D хэлбэрээр ажилладаг Tree Appreciator зэрэг тоглоомуудыг ганцхан удаагийн хүсэлтээр алдаагүй гаргаж авч байна.\n\nЭнэ нь програм хангамж хөгжүүлэлт болон тоглоом бүтээх салбарт шинэ хандлагыг авчирч байна. Хөгжүүлэгчид нарийн төвөгтэй кодыг гараар бичихэд цаг үрэхийн оронд шинэлэг санаа, концепц гаргахад анхаарлаа хандуулах боломжтой болж байгаа бөгөөд Claude Opus 5.5 энэ чиглэлд өдөр тутмын найдвартай туслах болжээ.",
+   "published": "2026-10-28T13:55:15Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d34aa375ea6cf115",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Law.com",
+   "url": "https://www.law.com/legaltechnews/2026/10/28/anthropic-releases-claude-for-legal-artifacts-a-set-of-new-interactive-tools-for-legal-users-/",
+   "image": "",
+   "title": "Anthropic Releases Claude for Legal Artifacts, a Set of New Interactive Tools for Legal Users",
+   "summary_en": "",
+   "title_mn": "Anthropic компани хуульчдад зориулсан Claude for Legal Artifacts хэрэгслээ гаргалаа",
+   "summary_mn": "Anthropic компани хууль эрх зүйн салбарын хэрэглэгчдэд зориулсан интерактив хэрэгслүүдийн багц болох Claude for Legal Artifacts шийдлийг танилцуулла.",
+   "body_mn": "Anthropic компани хууль эрх зүйн чиглэлээр ажилладаг мэргэжилтнүүдэд зориулсан шинэ бүтээгдэхүүн болох Claude for Legal Artifacts хэрэгслээ албан ёсоор гаргалаа. Энэ нь хуульчид болон хуулийн фирмүүдэд зориулсан интерактив шийдлүүдийн багц юм.\n\nЭнэхүү хэрэгсэл нь хууль эрх зүйн баримт бичиг боловсруулах, дүн шинжилгээ хийх, гэрээ хэлэлцээрийг шалгах ажлыг хөнгөвчлөх зорилготой юм. Claude загварын дэвшилтэт боломжуудыг хуульчдын өдөр тутмын ажлын урсгалтай холбож өгснөөр алдаа гарах эрсдлийг бууруулж, бүтээмжийг нэмэгдүүлэх боломжтой болж байна.\n\nХэдийгээр энэ нь ерөнхий програм хангамжийн хөгжүүлэлт биш боловч Anthropic компани төрөлжсөн салбаруудад зориулсан AI бүтээгдэхүүнүүдийг хэрхэн хөгжүүлж буйг харуулсан чухал алхам юм.",
+   "published": "2026-10-28T15:15:00Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a8d5896b41e236f8",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot",
+   "image": "https://github.blog/wp-content/uploads/2026/10/Changelog_NewRelease_Unfurl_GenerateImagesCopilotApp.jpg",
+   "title": "Generate and edit images directly in Copilot",
+   "summary_en": "You can now generate and edit images using natural language in GitHub Copilot. When you ask for an image, your selected reasoning model calls a dedicated image-generation tool powered by…",
+   "title_mn": "GitHub Copilot дотор шууд зураг үүсгэж, засварлах боломжтой боллоо",
+   "summary_mn": "GitHub Copilot ашиглаж байхдаа байгалийн хэлээр дүрс зураг үүсгэж, засварлах боломжтой боллоо. GPT Image 2.5 Flare загвраар ажилладаг энэхүү хэрэгсэл нь хөгжүүлэгчдэд өөр апп руу шилжих шаардлагагүйгээр визуаль контент бүтээх боломж олгоно.",
+   "body_mn": "GitHub Copilot хэрэглэгчид одооноос эхлэн ажлын урсгал дуandаасаа гарахгүйгээр байгалийн хэл ашиглан зураг үүсгэж, засварлах шинэ боломжтой боллоо. Та ямар нэгэн дүрслэл хүсэхэд сонгосон reasoning загвар нь GPT Image 2.5 Flare хэрэгслийг дуудаж, үр дүнг шууд чат дотор харуулж, төсөлд хадгалдаг.\n\nӨмнө нь хөгжүүлэгчид кодын орчноос гарч өөр зураг засварлах хэрэгсэл ашиглаад дахин төсөлдөө авчирдаг байсан бол энэхүү шинэчлэлт нь уг саад тотгорыг арилгаж байна. Энэ функц нь VS Code, GitHub Copilot app, болон Copilot CLI дотор Copilot Pro, Business, Enterprise хэрэглэгчдэд одоогоор public preview хэлбэрээр нээлттэй байна.\n\nЗураг үүсгэх үйл явц нь тусдаа тооцогдох бөгөөд таны багцын хиймэл оюун ухааны крэдитээс зарцуулагдана. Энэ нь UI дизайн болон вэб хөгжүүлэлт хийж буй хөгжүүлэгчдэд прототип хийх ажлыг эрс хөнгөвчлөх юм.",
+   "published": "2026-10-28T15:30:55Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "82ed05d102dcf197",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases",
+   "image": "https://github.blog/wp-content/uploads/2026/10/682195464-b41a2f6c-87a4-4a31-bdb4-78c524ea0fe5.png",
+   "title": "GitHub Copilot in VS Code, Universe releases",
+   "summary_en": "This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how…",
+   "title_mn": "GitHub Copilot VS Code-д томоохон шинэчлэлтүүдийг танилцууллаа",
+   "summary_mn": "GitHub Copilot нь VS Code дотор агентын үргэлжлэлтэй ажиллах (session continuity), үүлэнд суурилсан ажиллуулах боломж, мөн computer use болон зэрэгцүүлэн ажиллуулах дэвшилтэт функцуудыг нэмжээ.",
+   "body_mn": "GitHub Universe арга хэмжээний үеэр Visual Studio Code дахь GitHub Copilot-т холбоотой олон тооны томоохон шинэчлэлтүүдийг зарлалаа. Гол анхаарлаа хөгжүүлэгчдэд илүү олон сонголт өгөх, агентуудтай ажиллах урсгалыг сайжруулахад чиглүүлжээ.\n\nШинэчлэлтийн хүрээнд сессийн үргэлжлэл (session continuity) боломжтой болж, утсаараа эсвэл вебээр эхэлсэн агентын ажлыг VS Code дээр үргэлжлүүлэх, мөн компьютерээ унтраасан ч GitHub-ийн дэд бүтэц дээр агентуудыг үргэлжлүүлэн ажиллах боломжийг бүрдүүлжээ. Мөн Agent Host нь таны Copilot сессийнүүдийг тусгаарлаж, хавтас хаасан ч ажил үргэлжилдэг байна.\n\nҮүнээс гадна хөгжүүлэгчид олон загвар болон harness-уудыг зэрэгцүүлэн ажиллуулж, үр дүнг харьцуулах, Judge загвараар зөвлөмж гаргуулах боломжтой болсон байна. Mac болон Windows систем дээр computer use функцийг идэвхжүүлж, Copilot-оор дэлгэцийн аппликейшнүүдийг удирдуулах боломжтой болжээ.",
+   "published": "2026-10-28T15:33:00Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7ea5e5653a712c31",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-28-repository-plugin-defaults-and-enterprise-plugin-controls-generally-available",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "title": "Repository plugin defaults and enterprise plugin controls generally available",
+   "summary_en": "Repository plugin defaults and enterprise-managed plugin controls are now generally available in VS Code, Copilot CLI, and the GitHub Copilot app. Trusted repositories can install and enable default plugins for…",
+   "title_mn": "GitHub Copilot плагины удиirdah боломж болон Enterprise тохиргоо нээгдлээ",
+   "summary_mn": "VS Code, Copilot CLI болон GitHub Copilot апп-д репозиторын плагины өгөгдмөл утга болон Enterprise түвшний хяналтууд албан ёсоор ашиглалтад орлоо. Админууд зөвшөөрөгдсөн маркетплейс тохируулж, зарим плагиныг заавал суулгахаар шаардах боломжтой.",
+   "body_mn": "GitHub Copilot-ын шинэ шинэчлэлтээр репозиторын плагины өгөгдмөл тохиргоо болон байгууллагын (Enterprise) түвшний удирдлагууд VS Code, Copilot CLI болон GitHub Copilot апп дотор бүрэн нээгдлээ. Ингэснээр хөгжүүлэгчид төсөл бүрт плагин гараар тохируулах шаардлагагүй болж, итгэмжлэгдсэн репозитороор дамжуулан багийн гишүүдэд автоматаар суулгах боломж бүрдэж байна.\n\nEnterprise админууд зөвшөөрөгдсөн плагины маркетплейсийг холбож, зарим шаардлагатай плагиныг шууд суулгах эсвэл хориглох хязгаарлалтыг төвлөрсөн байдлаар удирдах боломжтой боллоо. Удирдлагын энэхүү тохиргоо нь хувь хэрэглэгчийн сонголтоос илүү давуу эрхтэй үйлчилнэ.\n\nРепозиторын өгөгдмөл тохиргоо нь хувь хэрэглэгчид болон Copilot Business, Enterprise эрхтэй хэрэглэгчдэд нээлттэй байна. Харин удирдлагын хяналтыг GitHub Enterprise Cloud орчин дахь Copilot Business болон Enterprise лиценз эзэмшигчид ашиглах юм.",
+   "published": "2026-10-28T15:33:00Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0f9e3af0b07d1473",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "title": "Build shared workflows for your team with Copilot Automations",
+   "summary_en": "Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the…",
+   "title_mn": "Багаараа хамтран ажиллах Copilot Automations боломж нээгдлээ",
+   "summary_mn": "GitHub Copilot-т багийн хамтын ажиллагаанд зориулсан хуваалцсан (shared) автоматжуулалтын хэрэгслүүд нэмэгдлээ. Ингэснээр хөгжүүлэгчид хиймэл оюуны ажлын урсгалыг багараа хамтран бүтээж, үүлэн орчинд бие даан ажиллуулах боломжтой болж байна.",
+   "body_mn": "GitHub Copilot-ын хуваалцсан автоматжуулалтын хэрэгслүүд (Shared Copilot Automations) албан ёсоор гарч эхэллээ. Энэ нь багийн гишүүдэд зориулсан сануулга (prompts), нөхцөл (triggers) болон хэрэгслүүдийг нэгтгэн хиймэл оюуны ажлын урсгалыг хамтран бүтээх, хадгалах боломжийг олгож байна.\n\nӨмнө нь автоматжуулалт зөвхөн хувь хэрэглэгчийн хэмжээнд ажиллаж, хувийн эрх, AI кредит зарцуулдаг байсан бол шинэ хувилбараар баг даяараа найдан ажиллах боломжтой болж байна. Үүлэн орчинд бие даан ажиллах энэ агентыг ажиллуулахын тулд байгууллагын репозиторт зохих зөвшөөрлийг админ идэвхжүүлсэн байх шаардлагатай.\n\nХуваалцсан автоматжуулалтыг github.com, Copilot апп эсвэл VS Code дотор үүсгэхдээ төрөл хэсгээс 'Shared' гэж сонгох ба дараа нь өөрчлөх боломжгүй. Энэхүү боломж нь Copilot Pro, Pro+, Max, Business болон Enterprise төлөвлөгөө хэрэглэгчдэд шат дараатайгаар хүрэх юм.",
+   "published": "2026-10-28T15:35:00Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "44e340e26d727db5",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+   "image": "https://github.blog/wp-content/uploads/2026/11/Changelog_NewRelease_Unfurl_GitHubIntelligence.jpg",
+   "title": "GitHub intelligence puts your code, context, and history to work",
+   "summary_en": "Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in…",
+   "title_mn": "GitHub intelligence: Код, контекст болон түүхийг ашиглах шинэ чадварууд",
+   "summary_mn": "GitHub Copilot нь багийн ажлын арга барил, репозиторын соёл, төслийн түүхийг санаж ажиллах GitHub intelligence чадваруудыг танилцууллаа. Үүнд Copilot Memory болон Code Search зэрэг шинэ боломжууд багтаж байна.",
+   "body_mn": "AI агент зөвхөн кодыг ойлгоод зогсохгүй багийн гишүүдийн ажлын арга барил, соёл, тохиргоог мэддэг байх ёстой зарчим дээр үндэслэн GitHub intelligence шинэ боломжуудыг нэвтрүүлж байна. Энэ нь агентуудад даалгавар бүрийг эхнээс нь эхлэх бус, өмнөх туршлага дээрээ тулгуурлан ажиллах боломжийг олгох зорилготой юм.\n\nШинэчлэлийн хүрээнд Copilot Memory албан ёсоор нээлтээ хийсэн бөгөөд хөгжүүлэгчийн хувийн тохиргоо болон репозиторын стандартыг сессүүдийн хооронд санаж ажиллана. Жишээ нь, pull request тайлбарыг ямар хэлбэрээр эхлэхийг сануулахад Copilot түүнийг автоматаар дагаж мөрдөх юм. CLI сессүүд дээр хийсэн туршилтаар санах ойн тусламжтайгаар хөгжүүлэгчийн хүслийг биелүүлэх чадвар 93 хувиар өссөн байна.\n\nМөн Copilot dreaming хэсэг нь өмнөх ажлуудаа эргэн харж дүн шинжилгээ хийдэг бол code search болон semantic search тусламжтайгаар хөгжүүлэгч олон репозитор дамжин холбогдох код, файл, тохиргоог хялбархан хайж олох боломжтой боллоо. Энэ нь кодын сангийн бүтцийг илүү нарийн ойлгоход тусална.",
+   "published": "2026-10-28T15:40:00Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dd4b9a8fd034b6f2",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+   "image": "https://github.blog/wp-content/uploads/2026/11/679183361-35ff63da-9551-4d66-bbc5-6df787729297.jpg",
+   "title": "Security extension for the GitHub Copilot app",
+   "summary_en": "You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the…",
+   "title_mn": "GitHub Copilot апп доторх аюулгүй байдлын шинэ өргөтгөл",
+   "summary_mn": "GitHub Copilot апп дотроо шууд репозиторын код скан хийх анхааруулгуудыг шалгаж, тайлбарлуулан засварлах боломжтой аюулгүй байдлын өргөтгөл урьдчилсан байдлаар нээгдлээ.",
+   "body_mn": "Хөгжүүлэгчид github.com болон редактор хооронд шилжих шаардлагагүйгээр репозиторын code scanning анхааруулгуудыг GitHub Copilot апп дотор шууд шийдвэрлэх боломжтой боллоо. Шинэ аюулгүй байдлын өргөтгөл нь нээлттэй алдаануудыг олж илрүүлэх, тэдгээрийг тайлбарлуулах эсвэл засварлах арга зам асуухад тусалдаг.\n\nХэрэв танай репозитор code scanning ашигладаг бол энэ өргөтгөл нээлттэй анхааруулгуудыг харуулах бөгөөд Copilot chat-аар дамжуулан асууж тодруулах боломжтой. Энэхүү өргөтгөл нь бусад хэрэгслүүдийн нэгэн адил таны тохируулсан эрхийн бодлогыг чанд баримтална.\n\nУг өргөтгөл автоматаар идэвхжих бөгөөд GitHub Enterprise Cloud болон github.com дээр урьдчилсан байдлаар ажиллаж байна. Тайрч тайлбарлах, засварлах үйлдэл нь стандарт загварын кредитийг зарцуулдаг бол алдаа харах, хаах үйлдэл үнэ төлбөргүй байна.",
+   "published": "2026-10-28T15:45:00Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "52eae160f737565b",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "image": "https://github.blog/wp-content/uploads/2026/10/Changelog_NewRelease_Unfurl_Centered_GitHubEnterpriseCopilot.jpg",
+   "title": "GitHub Enterprise now includes access to GitHub Copilot",
+   "summary_en": "Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many…",
+   "title_mn": "GitHub Enterprise багц дотор GitHub Copilot эрх шууд багтаж эхэллээ",
+   "summary_mn": "GitHub эсвэл Microsoft дансны багтай хамтран ажилладаг байгууллагууд GitHub Enterprise лиценз бүртээ Copilot үйлчилгээг үнэ төлбөргүйгээр авах боломжтой боллоо.",
+   "body_mn": "GitHub болон Microsoft дансны багуудтай хамтран ажилладаг байгууллагууд одооноос эхлэн GitHub Enterprise лиценз бүртээ Copilot үйлчилгээг шууд шингээж авах боломжтой боллоо. Өмнө нь хөгжүүлэгч бүрийн Copilot суудал болон хиймэл оюуны хэрэглээг тусдаа тооцоолж удирдах шаардлагатай байсан бол одоо Enterprise төсөв болон хэрэглээнд суурилсан бодлого голлох юм.\n\nЭнэхүү боломж нь өөртөө үйлчлэх хэлбэрээр шат дараатай нэвтрэх бөгөөд одоогийн өөртөө үйлчлэх захиалгад ямар нэгэн өөрчлөлт орохгүй. Copilot Business болон Enterprise багцууд хэвээр үргэлжилнэ.\n\nМөн GitHub Enterprise лицензгүй хэрэглэгчид сарын 10 ам.долларын үнэтэй Copilot Standalone хувилбараар дамжуулан ижил боломжийг авах боломжтой. Гэхдээ энэ хүрээнд суудал бүрт сарын үнэгүй AI кредит олгогдохгүй бөгөөд бүх хэрэглээ байгууллагын төсвөөс шууд тооцогдоно.",
+   "published": "2026-10-28T15:50:00Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6e6a98d6ace1bf40",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/anthropic-adds-ready-to-use-legal-artifacts-gallery-to-claude/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-adds-ready-to-use-legal-artifacts-gallery-to-claude.jpg",
+   "title": "Anthropic Adds Ready-to-Use Legal Artifacts Gallery to Claude",
+   "summary_en": "Anthropic on October 28, 2026 introduced a gallery of ready-to-use artifacts for legal work in Claude, extending the Claude for Legal product it launched in May with six Anthropic-built task artifacts, four artifacts bui...",
+   "title_mn": "Claude хууль эрх зүйн салбарт зориулсан бэлэн артефактуудын галерейг нэмлээ",
+   "summary_mn": "Anthropic компани Claude системд хууль эрх зүйн ажилд шууд ашиглах боломжтой бэлэн артефактуудын галерейг танилцууллаа. Энэ нь хуульчдад гэрээ хэлэлцээр шалгах, зохицуулалтын хуваарь гаргах зэрэг олон төрлийн интерактив багаж хэрэгслээр хангана.",
+   "body_mn": "Anthropic компани Claude платформ дээр хууль эрх зүйн мэргэжилтнүүдэд зориулсан бэлэн интерактив артефактуудын шинэ галерейг танилцууллаа. Өнгөрсөн тавдугаар сард гарсан Claude for Legal бүтээгдэхүүнийг өргөжүүлж буй энэхүү шинэчлэлтээр Anthropic өөрийн бүтээсэн 6 task артефакт, хууль зүйн технологийн компаниудын бүтээсэн 4 артефакт болон бусад нэмэлт хэрэгслүүдийг багтаажээ.\n\nАртефактууд нь багууд Claude дотор хамтран ашиглаж, хуваалцах боломжтой хяналтын самбар болон хүснэгт хэлбэрийн интерактив хэрэгслүүд юм. Тус галерейд cite check буюу баримт бичгийн эшлэлийг эх сурвалжтай нь тулгах, jurisdiction survey matrix буюу хууль эрх зүйн зохицуулалтыг муж улс эсвэл улс орноор нь нэгтгэн харуулах хүснэгт зэрэг олон чухал хэрэгслүүд багтжээ.\n\nMөн matter board болон playbook deviation board зэрэг хэрэгслүүд нь гэрээ хэлэлцээр компани стандарт нөхцөлөөс зөвөрч буй эсэхийг автоматаар хянаж, холбогдох ажилтанд чиглүүлэх юм. Anthropic нь Bloomberg Law, Filevine, Ivo зэрэг хууль зүйн олон connector-уудыг нэмсэн бөгөөд Enterprise төлөвлөгөөний хувьд хэрэглэгчийн өгөгдлийг загвар сургахад ашиглахгүй байх өндөр нууцлалыг хангадаг байна.",
+   "published": "2026-10-28T15:50:01Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cf876ffc1c861194",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+   "image": "https://github.blog/wp-content/uploads/2026/11/683299408-b1d020a6-0c6d-49a5-ab57-5434d64fb7f9.png",
+   "title": "Route and orchestrate models with GitHub Copilot Fusion",
+   "summary_en": "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.…",
+   "title_mn": "GitHub Copilot Fusion ерөнхийдөө боломжтой боллоо: загваруудыг автоматаар чиглүүлнэ",
+   "summary_mn": "GitHub Copilot Fusion ерөнхийдөө боломжтой боллоо. Энэ горим нь даалгавар бүрт аль загварыг ашиглахыг Copilot өөрөө шийдэж, олон загварыг хамтад нь ажиллуулдаг. Одоогоор Copilot бүх төлөвлөгөөнд, VS Code, Copilot app, Copilot CLI болон JetBrains IDE-үүдэд боломжтой.",
+   "body_mn": "GitHub Copilot Fusion ерөнхийдөө боломжтой болсон тухай GitHub Changelog-д мэдээлэв. Хөгжүүлэгч бүр даалгавар бүрт тохирох загварыг өөрөө сонгох шаардлагагүй болно. Харин model picker-ээс Copilot Fusion-г сонгоод, хүчин чармайлтын түвшнээ (effort level) тодорхойлоход л хангалттай. Систем нь prompt бүрт аль загваруудыг ашиглах, тэдгээр хэрхэн хамтран ажиллахыг тодорхойлдог.\n\nGitHub-ын мэдээлснээр Project HydraFusion-ийн гүйцэтгэл сайжирсан. Artificial Analysis Coding Agent Index-д Copilot Fusion Max 60 оноо авсан бөгөөд энэ нь Claude Code with Opus 5.5 Max-аас ердөө хоёр оноогоор доогуур байна. Үүнтэй зэрэгцээд даалгавар бүрийн дундаж API зардал ойролцоогоор хагасаар буурч, токений хэрэглээ хагас, даалгавар бүрийн хугацаа 40 орчим хувиар багассан гэж мэдээлсэн.\n\nТөлбөрийн хувьд та загвар бүрийн стандарт үнээр тооцогдоно. Хязгаарлагдмал хугацаанд төлбөртэй Copilot төлөвлөгөөтэй хэрэглэгчдэд Copilot Fusion-ийн загварын зардалд 30 хувийн хөнгөлөлт үзүүлнэ. Админууд аль загваруудыг ашиглахыг хязгаарлах, Fusion-ийг анхдагч болгох эсэхийг удирдах боломжтой.\n\nХөгжүүлэгчдэд энэ нь model switching-ийн гараар хийх ажлыг багасгаж, зардлыг бууруулах боломж олгоно. Гэхдээ загварын сонголтыг хянах шаардлагатай байгаа хүмүүс админ тохиргоогоор хязгаарлалтаа тогтоох хэрэгтэй.",
+   "published": "2026-10-28T16:00:00Z",
+   "added": "2026-10-30T16:06:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
  }
 ]

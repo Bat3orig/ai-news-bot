@@ -1,0 +1,17 @@
+{
+ "id": "44e340e26d727db5",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+ "image": "https://github.blog/wp-content/uploads/2026/11/Changelog_NewRelease_Unfurl_GitHubIntelligence.jpg",
+ "title": "GitHub intelligence puts your code, context, and history to work",
+ "summary_en": "Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in…",
+ "title_mn": "GitHub intelligence: Код, контекст болон түүхийг ашиглах шинэ чадварууд",
+ "summary_mn": "GitHub Copilot нь багийн ажлын арга барил, репозиторын соёл, төслийн түүхийг санаж ажиллах GitHub intelligence чадваруудыг танилцууллаа. Үүнд Copilot Memory болон Code Search зэрэг шинэ боломжууд багтаж байна.",
+ "body_mn": "AI агент зөвхөн кодыг ойлгоод зогсохгүй багийн гишүүдийн ажлын арга барил, соёл, тохиргоог мэддэг байх ёстой зарчим дээр үндэслэн GitHub intelligence шинэ боломжуудыг нэвтрүүлж байна. Энэ нь агентуудад даалгавар бүрийг эхнээс нь эхлэх бус, өмнөх туршлага дээрээ тулгуурлан ажиллах боломжийг олгох зорилготой юм.\n\nШинэчлэлийн хүрээнд Copilot Memory албан ёсоор нээлтээ хийсэн бөгөөд хөгжүүлэгчийн хувийн тохиргоо болон репозиторын стандартыг сессүүдийн хооронд санаж ажиллана. Жишээ нь, pull request тайлбарыг ямар хэлбэрээр эхлэхийг сануулахад Copilot түүнийг автоматаар дагаж мөрдөх юм. CLI сессүүд дээр хийсэн туршилтаар санах ойн тусламжтайгаар хөгжүүлэгчийн хүслийг биелүүлэх чадвар 93 хувиар өссөн байна.\n\nМөн Copilot dreaming хэсэг нь өмнөх ажлуудаа эргэн харж дүн шинжилгээ хийдэг бол code search болон semantic search тусламжтайгаар хөгжүүлэгч олон репозитор дамжин холбогдох код, файл, тохиргоог хялбархан хайж олох боломжтой боллоо. Энэ нь кодын сангийн бүтцийг илүү нарийн ойлгоход тусална.",
+ "published": "2026-10-28T15:40:00Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

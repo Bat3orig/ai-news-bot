@@ -1,0 +1,17 @@
+{
+ "id": "a8d5896b41e236f8",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot",
+ "image": "https://github.blog/wp-content/uploads/2026/10/Changelog_NewRelease_Unfurl_GenerateImagesCopilotApp.jpg",
+ "title": "Generate and edit images directly in Copilot",
+ "summary_en": "You can now generate and edit images using natural language in GitHub Copilot. When you ask for an image, your selected reasoning model calls a dedicated image-generation tool powered by…",
+ "title_mn": "GitHub Copilot дотор шууд зураг үүсгэж, засварлах боломжтой боллоо",
+ "summary_mn": "GitHub Copilot ашиглаж байхдаа байгалийн хэлээр дүрс зураг үүсгэж, засварлах боломжтой боллоо. GPT Image 2.5 Flare загвраар ажилладаг энэхүү хэрэгсэл нь хөгжүүлэгчдэд өөр апп руу шилжих шаардлагагүйгээр визуаль контент бүтээх боломж олгоно.",
+ "body_mn": "GitHub Copilot хэрэглэгчид одооноос эхлэн ажлын урсгал дуandаасаа гарахгүйгээр байгалийн хэл ашиглан зураг үүсгэж, засварлах шинэ боломжтой боллоо. Та ямар нэгэн дүрслэл хүсэхэд сонгосон reasoning загвар нь GPT Image 2.5 Flare хэрэгслийг дуудаж, үр дүнг шууд чат дотор харуулж, төсөлд хадгалдаг.\n\nӨмнө нь хөгжүүлэгчид кодын орчноос гарч өөр зураг засварлах хэрэгсэл ашиглаад дахин төсөлдөө авчирдаг байсан бол энэхүү шинэчлэлт нь уг саад тотгорыг арилгаж байна. Энэ функц нь VS Code, GitHub Copilot app, болон Copilot CLI дотор Copilot Pro, Business, Enterprise хэрэглэгчдэд одоогоор public preview хэлбэрээр нээлттэй байна.\n\nЗураг үүсгэх үйл явц нь тусдаа тооцогдох бөгөөд таны багцын хиймэл оюун ухааны крэдитээс зарцуулагдана. Энэ нь UI дизайн болон вэб хөгжүүлэлт хийж буй хөгжүүлэгчдэд прототип хийх ажлыг эрс хөнгөвчлөх юм.",
+ "published": "2026-10-28T15:30:55Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

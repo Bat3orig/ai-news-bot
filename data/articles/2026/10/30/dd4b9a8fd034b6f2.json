@@ -1,0 +1,17 @@
+{
+ "id": "dd4b9a8fd034b6f2",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+ "image": "https://github.blog/wp-content/uploads/2026/11/679183361-35ff63da-9551-4d66-bbc5-6df787729297.jpg",
+ "title": "Security extension for the GitHub Copilot app",
+ "summary_en": "You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the…",
+ "title_mn": "GitHub Copilot апп доторх аюулгүй байдлын шинэ өргөтгөл",
+ "summary_mn": "GitHub Copilot апп дотроо шууд репозиторын код скан хийх анхааруулгуудыг шалгаж, тайлбарлуулан засварлах боломжтой аюулгүй байдлын өргөтгөл урьдчилсан байдлаар нээгдлээ.",
+ "body_mn": "Хөгжүүлэгчид github.com болон редактор хооронд шилжих шаардлагагүйгээр репозиторын code scanning анхааруулгуудыг GitHub Copilot апп дотор шууд шийдвэрлэх боломжтой боллоо. Шинэ аюулгүй байдлын өргөтгөл нь нээлттэй алдаануудыг олж илрүүлэх, тэдгээрийг тайлбарлуулах эсвэл засварлах арга зам асуухад тусалдаг.\n\nХэрэв танай репозитор code scanning ашигладаг бол энэ өргөтгөл нээлттэй анхааруулгуудыг харуулах бөгөөд Copilot chat-аар дамжуулан асууж тодруулах боломжтой. Энэхүү өргөтгөл нь бусад хэрэгслүүдийн нэгэн адил таны тохируулсан эрхийн бодлогыг чанд баримтална.\n\nУг өргөтгөл автоматаар идэвхжих бөгөөд GitHub Enterprise Cloud болон github.com дээр урьдчилсан байдлаар ажиллаж байна. Тайрч тайлбарлах, засварлах үйлдэл нь стандарт загварын кредитийг зарцуулдаг бол алдаа харах, хаах үйлдэл үнэ төлбөргүй байна.",
+ "published": "2026-10-28T15:45:00Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

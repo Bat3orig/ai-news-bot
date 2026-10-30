@@ -1,0 +1,17 @@
+{
+ "id": "0f9e3af0b07d1473",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+ "title": "Build shared workflows for your team with Copilot Automations",
+ "summary_en": "Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the…",
+ "title_mn": "Багаараа хамтран ажиллах Copilot Automations боломж нээгдлээ",
+ "summary_mn": "GitHub Copilot-т багийн хамтын ажиллагаанд зориулсан хуваалцсан (shared) автоматжуулалтын хэрэгслүүд нэмэгдлээ. Ингэснээр хөгжүүлэгчид хиймэл оюуны ажлын урсгалыг багараа хамтран бүтээж, үүлэн орчинд бие даан ажиллуулах боломжтой болж байна.",
+ "body_mn": "GitHub Copilot-ын хуваалцсан автоматжуулалтын хэрэгслүүд (Shared Copilot Automations) албан ёсоор гарч эхэллээ. Энэ нь багийн гишүүдэд зориулсан сануулга (prompts), нөхцөл (triggers) болон хэрэгслүүдийг нэгтгэн хиймэл оюуны ажлын урсгалыг хамтран бүтээх, хадгалах боломжийг олгож байна.\n\nӨмнө нь автоматжуулалт зөвхөн хувь хэрэглэгчийн хэмжээнд ажиллаж, хувийн эрх, AI кредит зарцуулдаг байсан бол шинэ хувилбараар баг даяараа найдан ажиллах боломжтой болж байна. Үүлэн орчинд бие даан ажиллах энэ агентыг ажиллуулахын тулд байгууллагын репозиторт зохих зөвшөөрлийг админ идэвхжүүлсэн байх шаардлагатай.\n\nХуваалцсан автоматжуулалтыг github.com, Copilot апп эсвэл VS Code дотор үүсгэхдээ төрөл хэсгээс 'Shared' гэж сонгох ба дараа нь өөрчлөх боломжгүй. Энэхүү боломж нь Copilot Pro, Pro+, Max, Business болон Enterprise төлөвлөгөө хэрэглэгчдэд шат дараатайгаар хүрэх юм.",
+ "published": "2026-10-28T15:35:00Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

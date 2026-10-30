@@ -1,0 +1,17 @@
+{
+ "id": "d34aa375ea6cf115",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Law.com",
+ "url": "https://www.law.com/legaltechnews/2026/10/28/anthropic-releases-claude-for-legal-artifacts-a-set-of-new-interactive-tools-for-legal-users-/",
+ "image": "",
+ "title": "Anthropic Releases Claude for Legal Artifacts, a Set of New Interactive Tools for Legal Users",
+ "summary_en": "",
+ "title_mn": "Anthropic компани хуульчдад зориулсан Claude for Legal Artifacts хэрэгслээ гаргалаа",
+ "summary_mn": "Anthropic компани хууль эрх зүйн салбарын хэрэглэгчдэд зориулсан интерактив хэрэгслүүдийн багц болох Claude for Legal Artifacts шийдлийг танилцуулла.",
+ "body_mn": "Anthropic компани хууль эрх зүйн чиглэлээр ажилладаг мэргэжилтнүүдэд зориулсан шинэ бүтээгдэхүүн болох Claude for Legal Artifacts хэрэгслээ албан ёсоор гаргалаа. Энэ нь хуульчид болон хуулийн фирмүүдэд зориулсан интерактив шийдлүүдийн багц юм.\n\nЭнэхүү хэрэгсэл нь хууль эрх зүйн баримт бичиг боловсруулах, дүн шинжилгээ хийх, гэрээ хэлэлцээрийг шалгах ажлыг хөнгөвчлөх зорилготой юм. Claude загварын дэвшилтэт боломжуудыг хуульчдын өдөр тутмын ажлын урсгалтай холбож өгснөөр алдаа гарах эрсдлийг бууруулж, бүтээмжийг нэмэгдүүлэх боломжтой болж байна.\n\nХэдийгээр энэ нь ерөнхий програм хангамжийн хөгжүүлэлт биш боловч Anthropic компани төрөлжсөн салбаруудад зориулсан AI бүтээгдэхүүнүүдийг хэрхэн хөгжүүлж буйг харуулсан чухал алхам юм.",
+ "published": "2026-10-28T15:15:00Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

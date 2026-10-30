@@ -1,0 +1,17 @@
+{
+ "id": "c3a252f21b3b2fe6",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "The Star",
+ "url": "https://www.thestar.com.my/tech/tech-news/2026/10/28/moonshot-debuts-first-ai-upgrade-since-its-own-deepseek-moment",
+ "image": "https://apicms.thestar.com.my/uploads/images/2026/10/28/4184239.JPG",
+ "title": "Moonshot debuts first AI upgrade since its own DeepSeek moment",
+ "summary_en": "Moonshot AI, the Chinese upstart that had its own DeepSeek moment over the summer, released the first major upgrade to the seminal model that thrust the US$50bil (RM204.13bil) company into the frontier.",
+ "title_mn": "Moonshot AI компани шинэ үеийн Kimi K3.1 Pro загвраа танилцууллаа",
+ "summary_mn": "Moonshot AI компани санхүүгийн судалгаа, код бичих болон 3D загварчлалаар илүү сайжирсан Kimi K3.1 Pro загвраа албан ёсоор танилцууллаа. Энэ нь тэдний зах зээлд өрсөлдөх байр суурийг бэхжүүлэх анхны томоохон шинэчлэлт юм.",
+ "body_mn": "Хятадын хиймэл оюун ухааны гарааны бизнес болох Moonshot AI компани Kimi K3.1 Pro загвраа танилцууллаа. Энэ нь тус компанийн зах зээлд шуугиан тарьж байсан өмнөх загварын дараах анхны томоохон шинэчлэл бөгөөд АНУ-ын өрсөлдөгч компаниудын гол анхаарлаа хандуулдаг чиглэлүүдэд илүү төвлөрсөн байна.\n\nШинэ загвар нь санхүүгийн судалгаа хийх, код бичих чадвараар эрс сайжирснаас гадна 3D загварчлал хийх чадвартай болсноороо онцлог юм. Энэ нь тоглоом хөгжүүлэлт болон бусад нарийн төвөгтэй дизайн гаргах ажлыг илүү хялбар болгож байна. Moonshot AI компани Kimi Work болон Kimi Code хэрэгслүүдээр дамжуулан хөгжүүлэгчдэд шууд хандах боломжийг олгож, төлбөртэй үйлчилгээ болон token кредитээр орлого олдог.\n\nЭнэхүү шинэ загвар нь Хятадын хиймэл оюун ухааны лабораториуд дэлхийн зах зээлд өөрийн байр суурийг хадгалах, ялангуяа OpenAI болон Anthropic зэрэг компаниудтай өрсөлдөхөд чухал алхам болж байна. Хөгжүүлэгчдийн хувьд K3.1 Pro нь код бичих болон API ашиглах шинэ боломжуудыг нээж өгч байгаа юм.",
+ "published": "2026-10-28T06:30:00Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

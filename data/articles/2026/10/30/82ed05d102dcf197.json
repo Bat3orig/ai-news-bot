@@ -1,0 +1,17 @@
+{
+ "id": "82ed05d102dcf197",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases",
+ "image": "https://github.blog/wp-content/uploads/2026/10/682195464-b41a2f6c-87a4-4a31-bdb4-78c524ea0fe5.png",
+ "title": "GitHub Copilot in VS Code, Universe releases",
+ "summary_en": "This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how…",
+ "title_mn": "GitHub Copilot VS Code-д томоохон шинэчлэлтүүдийг танилцууллаа",
+ "summary_mn": "GitHub Copilot нь VS Code дотор агентын үргэлжлэлтэй ажиллах (session continuity), үүлэнд суурилсан ажиллуулах боломж, мөн computer use болон зэрэгцүүлэн ажиллуулах дэвшилтэт функцуудыг нэмжээ.",
+ "body_mn": "GitHub Universe арга хэмжээний үеэр Visual Studio Code дахь GitHub Copilot-т холбоотой олон тооны томоохон шинэчлэлтүүдийг зарлалаа. Гол анхаарлаа хөгжүүлэгчдэд илүү олон сонголт өгөх, агентуудтай ажиллах урсгалыг сайжруулахад чиглүүлжээ.\n\nШинэчлэлтийн хүрээнд сессийн үргэлжлэл (session continuity) боломжтой болж, утсаараа эсвэл вебээр эхэлсэн агентын ажлыг VS Code дээр үргэлжлүүлэх, мөн компьютерээ унтраасан ч GitHub-ийн дэд бүтэц дээр агентуудыг үргэлжлүүлэн ажиллах боломжийг бүрдүүлжээ. Мөн Agent Host нь таны Copilot сессийнүүдийг тусгаарлаж, хавтас хаасан ч ажил үргэлжилдэг байна.\n\nҮүнээс гадна хөгжүүлэгчид олон загвар болон harness-уудыг зэрэгцүүлэн ажиллуулж, үр дүнг харьцуулах, Judge загвараар зөвлөмж гаргуулах боломжтой болсон байна. Mac болон Windows систем дээр computer use функцийг идэвхжүүлж, Copilot-оор дэлгэцийн аппликейшнүүдийг удирдуулах боломжтой болжээ.",
+ "published": "2026-10-28T15:33:00Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

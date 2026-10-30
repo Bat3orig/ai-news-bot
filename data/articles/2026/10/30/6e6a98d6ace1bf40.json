@@ -1,0 +1,17 @@
+{
+ "id": "6e6a98d6ace1bf40",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-adds-ready-to-use-legal-artifacts-gallery-to-claude/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-adds-ready-to-use-legal-artifacts-gallery-to-claude.jpg",
+ "title": "Anthropic Adds Ready-to-Use Legal Artifacts Gallery to Claude",
+ "summary_en": "Anthropic on October 28, 2026 introduced a gallery of ready-to-use artifacts for legal work in Claude, extending the Claude for Legal product it launched in May with six Anthropic-built task artifacts, four artifacts bui...",
+ "title_mn": "Claude хууль эрх зүйн салбарт зориулсан бэлэн артефактуудын галерейг нэмлээ",
+ "summary_mn": "Anthropic компани Claude системд хууль эрх зүйн ажилд шууд ашиглах боломжтой бэлэн артефактуудын галерейг танилцууллаа. Энэ нь хуульчдад гэрээ хэлэлцээр шалгах, зохицуулалтын хуваарь гаргах зэрэг олон төрлийн интерактив багаж хэрэгслээр хангана.",
+ "body_mn": "Anthropic компани Claude платформ дээр хууль эрх зүйн мэргэжилтнүүдэд зориулсан бэлэн интерактив артефактуудын шинэ галерейг танилцууллаа. Өнгөрсөн тавдугаар сард гарсан Claude for Legal бүтээгдэхүүнийг өргөжүүлж буй энэхүү шинэчлэлтээр Anthropic өөрийн бүтээсэн 6 task артефакт, хууль зүйн технологийн компаниудын бүтээсэн 4 артефакт болон бусад нэмэлт хэрэгслүүдийг багтаажээ.\n\nАртефактууд нь багууд Claude дотор хамтран ашиглаж, хуваалцах боломжтой хяналтын самбар болон хүснэгт хэлбэрийн интерактив хэрэгслүүд юм. Тус галерейд cite check буюу баримт бичгийн эшлэлийг эх сурвалжтай нь тулгах, jurisdiction survey matrix буюу хууль эрх зүйн зохицуулалтыг муж улс эсвэл улс орноор нь нэгтгэн харуулах хүснэгт зэрэг олон чухал хэрэгслүүд багтжээ.\n\nMөн matter board болон playbook deviation board зэрэг хэрэгслүүд нь гэрээ хэлэлцээр компани стандарт нөхцөлөөс зөвөрч буй эсэхийг автоматаар хянаж, холбогдох ажилтанд чиглүүлэх юм. Anthropic нь Bloomberg Law, Filevine, Ivo зэрэг хууль зүйн олон connector-уудыг нэмсэн бөгөөд Enterprise төлөвлөгөөний хувьд хэрэглэгчийн өгөгдлийг загвар сургахад ашиглахгүй байх өндөр нууцлалыг хангадаг байна.",
+ "published": "2026-10-28T15:50:01Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

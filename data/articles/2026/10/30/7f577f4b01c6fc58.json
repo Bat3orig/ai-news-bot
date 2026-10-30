@@ -1,0 +1,17 @@
+{
+ "id": "7f577f4b01c6fc58",
+ "subtopic": "vibe-coding",
+ "source": "Simon Willison",
+ "source_label": "Simon Willison",
+ "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+ "image": "https://static.simonwillison.net/static/2026/pumpkin-farmer.webp",
+ "title": "The October inflection point for vibe game development",
+ "summary_en": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games . Tree Appreciator Emberwick Battle Drones Pumpkin Farmer, aka Quarter Sun Cove Four times as insulting What happens if someone actually puts the work in? You should build a game! Claude Opus 5.5 in particular exhibits meaningful…",
+ "title_mn": "October 2026: Vibe coding аргаар вэб тоглоом бүтээх шинэ үе",
+ "summary_mn": "Claude Opus 5.5 загвар гарснаар хиймэл оюун ухаан ашиглан код бичихгүйгээр (vibe coding) хөгжилтэй, чанартай вэб тоглоом бүтээх шинэ эрин эхэллээ. Загварууд зөвхөн код бичих биш, харин тоглоомын хөгжөөнт байдлыг мэдэрдэг болжээ.",
+ "body_mn": "Код бичих агентуудын хөгжилд 2025 оны 11 дүгээр сар чухал эргэлтийн цэг байсан бол 2026 оны 10 дугаар сард хиймэл оюун ухаанаар тоглоом бүтээх буюу vibe coding арга барилд шинэ дэвшил гарлаа. Ялангуяа Claude Opus 5.5 загвар нь сонирхолтой, тоглоход зугаатай тоглоом бүтээх чадвараараа бусдаасаа ялгарч байна.\n\nӨмнө нь хиймэл оюун ухаан тоглоомын харагдах байдлыг хийж чаддаг байсан ч жинхэнэ утгаараа сонирхолтой тоглоомын механикийг гаргах тал дээр дутагдалтай байсан. Харин одоо хөгжүүлэгчид кодыг нь огт харалгүйгээр, зөвхөн байгалийн хэлээр хүсэлт өгөх замаар browser дээр ажилладаг бүрэн хэмжээний, чанартай тоглоом бүтээх боломжтой болжээ. Жишээ нь, three.js сан ашиглан 3D хэлбэрээр ажилладаг Tree Appreciator зэрэг тоглоомуудыг ганцхан удаагийн хүсэлтээр алдаагүй гаргаж авч байна.\n\nЭнэ нь програм хангамж хөгжүүлэлт болон тоглоом бүтээх салбарт шинэ хандлагыг авчирч байна. Хөгжүүлэгчид нарийн төвөгтэй кодыг гараар бичихэд цаг үрэхийн оронд шинэлэг санаа, концепц гаргахад анхаарлаа хандуулах боломжтой болж байгаа бөгөөд Claude Opus 5.5 энэ чиглэлд өдөр тутмын найдвартай туслах болжээ.",
+ "published": "2026-10-28T13:55:15Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

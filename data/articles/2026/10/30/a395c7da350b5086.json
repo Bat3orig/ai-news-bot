@@ -1,0 +1,17 @@
+{
+ "id": "a395c7da350b5086",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+ "image": "",
+ "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+ "summary_en": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+ "title_mn": "OpenAI болон ServiceNow компаниуд хамтын ажиллагаагаа өргөжүүллээ",
+ "summary_mn": "OpenAI болон ServiceNow компаниуд хамтын ажиллагаагаа өргөжүүлж, OpenAI-ийн загвар болон агентуудыг ServiceNow платформд нэгтгэж эхэллээ. Мөн ServiceNow ажлын урсгалууд ChatGPT болон Codex руу нэвтрэх боломжтой болно.",
+ "body_mn": "OpenAI болон аж ахуйн нэгжийн программ хангамж үйлчилгээ үзүүлэгч ServiceNow компаниуд стратегийн түншлэлээ өргөжүүлж буйгаа зарлалаа. Энэхүү хамтын ажиллагааны хүрээнд OpenAI-ийн дэвшилтэт загварууд болон хиймэл оюун ухааны агентуудыг ServiceNow-ийн корпорацийн ажлын урсгалуудад гүнзгий нэгтгэх юм.\n\nҮүний зэрэгцээ, ServiceNow платформын ажлын урсгалууд болон мэдээллүүд ChatGPT болон Codex хөгжүүлэгчийн хэрэгслүүдэд холбогдоно. Ингэснээр байгууллагууд дотоод үйл ажиллагаагаа автоматжуулах, хиймэл оюун ухааны чадварыг өдөр тутмын бизнес процесстоо саадгүй ашиглах боломж бүрдэж байна.\n\nЭнэхүү интеграци нь байгууллагын түвшний програм хангамж хөгжүүлэлт болон үйл ажиллагааны үр ашгийг дээшлүүлэхэд чухал ач холбогдолтой юм. Хөгжүүлэгчдийн хувьд OpenAI-ийн хэрэгслүүдийг байгууллагын том системүүдтэй хослуулан ашиглах шинэ арга замуудыг нээж өгч байна.",
+ "published": "2026-10-28T13:15:00Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

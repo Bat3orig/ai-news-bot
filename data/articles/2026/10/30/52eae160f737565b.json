@@ -1,0 +1,17 @@
+{
+ "id": "52eae160f737565b",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+ "image": "https://github.blog/wp-content/uploads/2026/10/Changelog_NewRelease_Unfurl_Centered_GitHubEnterpriseCopilot.jpg",
+ "title": "GitHub Enterprise now includes access to GitHub Copilot",
+ "summary_en": "Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many…",
+ "title_mn": "GitHub Enterprise багц дотор GitHub Copilot эрх шууд багтаж эхэллээ",
+ "summary_mn": "GitHub эсвэл Microsoft дансны багтай хамтран ажилладаг байгууллагууд GitHub Enterprise лиценз бүртээ Copilot үйлчилгээг үнэ төлбөргүйгээр авах боломжтой боллоо.",
+ "body_mn": "GitHub болон Microsoft дансны багуудтай хамтран ажилладаг байгууллагууд одооноос эхлэн GitHub Enterprise лиценз бүртээ Copilot үйлчилгээг шууд шингээж авах боломжтой боллоо. Өмнө нь хөгжүүлэгч бүрийн Copilot суудал болон хиймэл оюуны хэрэглээг тусдаа тооцоолж удирдах шаардлагатай байсан бол одоо Enterprise төсөв болон хэрэглээнд суурилсан бодлого голлох юм.\n\nЭнэхүү боломж нь өөртөө үйлчлэх хэлбэрээр шат дараатай нэвтрэх бөгөөд одоогийн өөртөө үйлчлэх захиалгад ямар нэгэн өөрчлөлт орохгүй. Copilot Business болон Enterprise багцууд хэвээр үргэлжилнэ.\n\nМөн GitHub Enterprise лицензгүй хэрэглэгчид сарын 10 ам.долларын үнэтэй Copilot Standalone хувилбараар дамжуулан ижил боломжийг авах боломжтой. Гэхдээ энэ хүрээнд суудал бүрт сарын үнэгүй AI кредит олгогдохгүй бөгөөд бүх хэрэглээ байгууллагын төсвөөс шууд тооцогдоно.",
+ "published": "2026-10-28T15:50:00Z",
+ "added": "2026-10-30T16:06:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
