@@ -1,0 +1,17 @@
+{
+ "id": "07f627b4b11710ef",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3Y4tmuSrVjuQrTdHnKBOlE/213c8a5bb9fc3304dbfafb6cfb2d8a4a/preview.jpg",
+ "title": "Vercel Container Registry now supports 2 GB compressed image layers",
+ "summary_en": "Vercel Container Registry now supports up to 2 GB per compressed image layer, up from 500 MB, allowing larger layers to be pushed without splitting them. The total image size limit remains 15 GB. The higher layer limit is useful for images with large toolchains or dependency sets, such as custom Vercel Sandbox environments for coding-agent evaluations. With Docker and the Vercel CLI installed, run these commands from the directory containing your Dockerfile: Read the Vercel Container Registry getting-started guide to build, push, and pull your first container image. Read more",
+ "title_mn": "Vercel Container Registry шахагдсан зургийн давхаргад 2 GB хүртэлх хэмжээг дэмждэг боллоо",
+ "summary_mn": "Vercel Container Registry нь шахагдсан зургийн давхаргын лимитийг 500 MB-аас 2 GB болгон нэмэгдүүлж, том хэмжээний toolchain эсвэл sandbox үнэлгээний орчин бүхий container image-үүдийг хуваалгүйгээр оруулах боломжтой болголоо.",
+ "body_mn": "Vercel Container Registry үйлчилгээ нь хөгжүүлэгчдэд илүү том хэмжээтэй container image-үүдийг төвөггүй байршуулах боломжийг олгох шинэчлэлтийг гаргалаа. Одоо нэг шахагдсан зургийн давхаргын (compressed image layer) хэмжээг өмнөх 500 MB байснаас 2 GB болгон өсгөсөн байна. Ингэснээр хөгжүүлэгчид том хэмжээний toolchain эсвэл хамаарал бүхий багц бүхий image-үүдийг жижиг хэсгүүдэд хуваалгүйгээр шууд түлхэх боломжтой болж байгаа юм. Зургийн нийт хэмжээний дээд хязгаар 15 GB хэвээр үлджээ.\n\nЭнэхүү шинэчлэлт нь ялангуяа coding-agent үнэлгээ хийхэд ашиглагддаг тусгай Vercel Sandbox орчин зэрэг томоохон dependencies бүхий төслүүдэд маш хэрэгтэй юм. Хөгжүүлэгчид Docker болон Vercel CLI ашиглан Dockerfile байрлах директороос төслөө холбон шууд ашиглах боломжтой.\n\nТехникийн дэлгэрэнгүй мэдээлэл болон анхны container image-ээ амжилттай байршуулах зааврыг Vercel Container Registry баримт бидрлээс үзэх боломжтой байна.",
+ "published": "2026-10-28T09:32:00Z",
+ "added": "2026-10-30T09:21:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

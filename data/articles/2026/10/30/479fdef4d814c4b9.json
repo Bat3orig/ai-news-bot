@@ -1,0 +1,17 @@
+{
+ "id": "479fdef4d814c4b9",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Next Web",
+ "url": "https://thenextweb.com/news/anthropic-mithril-acquisition-claude-drug-development",
+ "image": "https://media.thenextweb.com/2026/10/laboratory-bench-pipettes-sample-tubes.jpg",
+ "title": "Anthropic buys a one-person biotech and starts its own drug programmes",
+ "summary_en": "‘We’ve also begun drug discovery efforts of our own,’ Anthropic says, as it buys Mithril and reports Claude results from six partners.",
+ "title_mn": "Anthropic биотехнологийн гарааны компани худалдан авч, эмийн судалгаа эхлүүллээ",
+ "summary_mn": "Anthropic компани Claude ашиглан олон лабораторийн үйл ажиллагааг зохицуулдаг Mithril Medicine биотехнологийн гарааныг худалдаж авч, эмийн нээлтийн өөрийн хөтөлбөрүүдийг эхлүүлж байгаагаа зарлалаа.",
+ "body_mn": "Anthropic компани булчингийн дистрофи өвчний эмчилгээ боловсруулж байсан нэг хүний бүрэлдэхүүнтэй Mithril Medicine гарааны бизнесийг худалдаж авснаа Мягмар гарагт зарлалаа. Mithril-ийн үүсгэн байгуулагч Коди Транбаргер Anthropic компанид элссэн бөгөөд тус компани эмийн нээлтийн судалгааг бие даан эхлүүлж байгаа аж. Транбаргер өмнө нь гадны 11 лабораторийн туршилт, ложистик, гэрээ хэлцлийг удирдахдаа Claude туслахыг голчлон ашиглаж байжээ.\n\nҮүний зэрэгцээ Anthropic BigHat Biosciences, Bristol Myers Squibb, Divergence Labs, Enveda, Generate Biomedicines зэрэг зургаан байгууллагатай хамтран ажилласан эх үр дүнгээ танилцуулжээ. Тухайлбал, Generate Biomedicines-ийн судлаачид Claude Code ашиглан хавдрын эсрэг эмчилгээний хэсгийг дахин загварчилж, стандарт хувилзраас 70%-иар богино хэрнээ 10 дахин илүү үр дүнтэй рецептор бүтээсэн байна. Мөн Divergence Labs-т Claude нэг сарын дотор харшлын эсрэг 35,000 орчим эсрэг биет зохиожээ.\n\nЭнэхүү алхам нь Anthropic Nasdaq биржид IPO хийхээр бүртгүүлсэнтэй давхцаж байгаа бөгөөд AI технологийг програм хангамжаас гадна биотехнологи болон эмийн үйлдвэрлэлийн суурь судалгаанд гүнзгийрүүлэн нэвтрүүлэх томоохон стратеги болж байна.",
+ "published": "2026-10-28T11:44:15Z",
+ "added": "2026-10-30T09:21:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
