@@ -1,0 +1,17 @@
+{
+ "id": "99d6535490b916d0",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+ "image": "https://github.blog/wp-content/uploads/2026/10/Octoverse2026_BlogHeader_2.jpg",
+ "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+ "summary_en": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report.",
+ "title_mn": "GitHub Octoverse 2026: AI агент ашигласан төслүүдийн коммит 8 дахин өсжээ",
+ "summary_mn": "GitHub-ийн шинэ тайлангаар өнгөрсөн онд 17.9 тэрбум push хийгдсэн нь өмнөх хоёр жилийн нийлбэрээс давжээ. Ялангуяа AI агентын тохиргоотой шинэ репозиторууд энгийн төслүүдээс 8 дахин илүү коммит бүртгэсэн байна.",
+ "body_mn": "GitHub платформ Octoverse 2026 тайлангаа танилцууллаа. Сүүлийн 12 сарын хугацаанд хөгжүүлэгчид нийт 17.9 тэрбум удаа код илгээсэн (push) нь 2024 болон 2025 оны нийлбэрээс давсан үзүүлэлт болжээ. Бүх төрлийн репозитор дээрх нийт коммитын тоо 34.3 тэрбумд хүрч өссөн байна.\n\nЭнэхүү огцом өсөлтийн гол хөдөлгөгч хүч нь AI агентууд байв. Тайланд дурдсанаар, агентын тохиргооны файл бүхий шинэ репозиторууд ийм тохиргоогүй энгийн төслүүдтэй харьцуулахад дунджаар 8 дахин их коммит бүртгэжээ. Зургаадугаар сараас эхлэн AI агентууд нэг удаагийн туслахаас олон хоногоор үргэлжлэх ажлыг удирдан зохицуулдаг систем болон хувирсан нь бүтээмжид хүчтэй нөлөөлсөн байна.\n\nҮүнээс гадна автоматжуулалтын хэрэглээ эрс нэмэгдэж, GitHub Actions секунд тутамд 1,440 даалгавар (өдөрт 124 сая) ажиллуулж байгаа нь өнгөрсөн оныхоос гурав дахин өссөн дүн юм. Мөн аюулгүй байдлын үүднээс Dependabot-ийн 30 сая гаруй pull request-ийг нэгтгэжээ.",
+ "published": "2026-10-28T16:07:40Z",
+ "added": "2026-10-31T00:20:43Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

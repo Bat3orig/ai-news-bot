@@ -1,0 +1,17 @@
+{
+ "id": "52720b9c5b15c47e",
+ "subtopic": "node",
+ "source": "Node.js Blog",
+ "source_label": "Node.js Blog",
+ "url": "https://nodejs.org/en/blog/release/v26.13.0",
+ "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.13.0%20(LTS)",
+ "title": "Node.js 26.13.0 (LTS)",
+ "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+ "title_mn": "Node.js 26.13.0 гарлаа: 'Lithium' LTS шатандаа шилжив",
+ "summary_mn": "Node.js 26.x хувилбар 'Lithium' нэртэйгээр албан ёсоор урт хугацааны дэмжлэгтэй (LTS) шатанд шилжиж, 2029 оны 4-р сар хүртэл дэмжигдэхээр боллоо.",
+ "body_mn": "Node.js хөгжүүлэлтийн баг 26.13.0 хувилбарыг нийтэд танилцууллаа. Энэхүү хувилбараар Node.js 26.x салбар нь албан ёсоор 'Lithium' кодын нэртэй Long Term Support (LTS) буюу урт хугацааны дэмжлэгтэй шатандаа орж байна.\n\nЭнэхүү LTS салбар нь 2029 оны дөрөвдүгээр сарын эцэс хүртэл тогтвортой шинэчлэлт, аюулгүй байдлын засваруудыг авах болно. Хувилбарын хувьд 26.12.1-ээс ялгарах гол өөрчлөлт нь процесс болон мета өгөгдөл (process.release объект) дээр LTS төлөвийг тэмдэглэсэн явдал юм.\n\nХөгжүүлэгчдэд зориулсан анхааруулга: Хэрэв та Node.js 24, 22 зэрэг хуучин LTS хувилбараас шилжиж байгаа бол Node.js 25-аас хойш Linux-ийн албан ёсны binary-ууд libatomic сантай холбогддог болсныг анхаарна уу. Зарим Linux тархацууд дээр уг санг тусад нь суулгах шаардлагатай байж болзошгүй.",
+ "published": "2026-10-28T16:58:40Z",
+ "added": "2026-10-31T00:20:43Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}
