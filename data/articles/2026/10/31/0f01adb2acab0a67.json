@@ -1,0 +1,17 @@
+{
+ "id": "0f01adb2acab0a67",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+ "image": "",
+ "title": "How we detect frontier model misalignment",
+ "summary_en": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+ "title_mn": "OpenAI загварын зохицуулалтгүй зан үйлийг хэрхэн илрүүлдэг вэ",
+ "summary_mn": "OpenAI фронтир загварын misalignment болон зөвшөөрөлгүй agent-ийн зан үйлийг олон давхар хяналтаар илрүүлдэг гэж мэдээлжээ. Энэ нь хариу арга хэмжээ авахад ашиглагдана.",
+ "body_mn": "OpenAI өөрсдийн фронтир загваруудын misalignment болон зөвшөөрөлгүй agent-ийн зан үйлийг олон давхаргатай мониторингоор илрүүлдэг тухай нийтлэл гаргажээ. Зорилго нь асуудал дахин ноцтой болохоос өмнө хариу арга хэмжээ авах боломж бүрдүүлэх юм.\n\nТөкст мэдээлэл хязгаарлагдмал тул мониторингийн арга барилын дэлгэрэнгүй техникийн тодорхойлолт, хэмжүүр, үр дүн тодорхойгүй байна.\n\nAgent системийг бүтээгч хөгжүүлэгчдэд энэ нь хяналт, лог, зөвшөөрлийн давхаргыг өөрийн системдээ хэрхэн нэмэх талаар сонирхолтой сэдэл болж болно.",
+ "published": "2026-10-29T09:00:00Z",
+ "added": "2026-10-31T17:27:23Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

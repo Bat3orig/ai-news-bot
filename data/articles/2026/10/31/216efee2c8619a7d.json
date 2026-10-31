@@ -1,0 +1,17 @@
+{
+ "id": "216efee2c8619a7d",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "infoq.com",
+ "url": "https://www.infoq.com/news/2026/10/anthropic-code-review/",
+ "image": "https://res.infoq.com/news/2026/10/anthropic-code-review/en/headerimage/generatedHeaderImage-1792959100117.jpg",
+ "title": "Anthropic Says Nobody Needs a Mental Model of Claude Code. Practitioners Are Testing That",
+ "summary_en": "Anthropic has published how the Claude Code team reviews code now that Claude writes roughly 90% of it, including a claim that nobody keeps a complete mental model of the codebase. The post documents a pull request that ran more than fifty review rounds overnight, a reviewer spending most of its effort on pre-existing code, and a control the team says it does not yet have.",
+ "title_mn": "Claude Code багийн код шалгалтын арга барил, кодын загварчлал асуудал",
+ "summary_mn": "Anthropic Claude Code багийн код review-ийн шинэ процессыг нийтэлсэн. Claude одоо Claude Code-ийн кодын ойролцоогоор 90%-ийг бичдэг гэжээ. Хөгжүүлэгчид системийн талаарх бүрэн ойлголтгүй байх талаар шүүмжлэл дагуулжээ.",
+ "body_mn": "Anthropic-ийн Claude Code баг одоо Claude өөрөө Claude Code-ийн кодын ойролцоогоор 90%-ийг бичдэг болсон тул код шалгалтаа хэрхэн явуулдгаа нийтэлжээ. Тус постыг Addy Osmani, Morgan Westlee Lunt, Qing Wang нар бичсэн байна.\n\nБагийн зорилт бол ихэнх pull request-ийг хүнээс хамгийн ихдээ нэг хүний оролцоотойгоор нэгтгэх бөгөөд revert болон инцидент нэмэгдэхгүй байх явдал юм. Монорепо дээрх өөрчлөлтийн тоо 5 сарын 2500-гаас 9 сард 30000-аас давсан гэж дурдсан.\n\nШүүмжлэгчид энэ нь системд алдаа гарвал үүнийг ойлгох хүн байхгүй болох эрсдэлтэй гэж анхааруулжээ. Мөн Claude Code-ийн issue-ийн автоматаар хаах тохиргоо олон issue-ийг хаасан тухай тайлагдсан байна.\n\nХөгжүүлэгчдэд энэ нь агентаар код бичих үед review болон хяналтын дүрмийг сайтар тохируулах хэрэгтэйг харуулж байна.",
+ "published": "2026-10-29T09:58:48Z",
+ "added": "2026-10-31T17:27:23Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

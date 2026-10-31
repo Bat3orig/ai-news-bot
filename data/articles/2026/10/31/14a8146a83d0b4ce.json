@@ -1,0 +1,17 @@
+{
+ "id": "14a8146a83d0b4ce",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-flags-starts-7x-faster-and-no-longer-extends-function-duration",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4fYJWEtWkbQkxgpJFLQyP0/df11a858727d7d25e08480c89808443c/flags_7x_faster.png",
+ "title": "Vercel Flags starts 7x faster and no longer extends function duration",
+ "summary_en": "On Vercel, the Vercel Flags SDK now initializes faster on cold starts, and usage reporting no longer keeps functions running after the response. Faster cold starts Two changes speed up SDK initialization on cold starts: The SDK loads and parses the flags datafile bundled with your deployment as soon as the client is created, so it’s ready before your code evaluates its first flag. Every function invocation now includes the current datafile revision, so the SDK can check whether the bundled datafile is up to date without a network request. In internal testing, eliminating the network wait…",
+ "title_mn": "Vercel Flags SDK cold start 7 дахин хурдан болжээ",
+ "summary_mn": "Vercel Flags SDK-ийн эхлүүлэлт cold start үед p75 70 ms-ээс 10 ms хүртэл буурсан бөгөөд usage тайлагнал функцийн үргэлжлэх хугацааг нэмэхгүй болжээ. Шинэчлэх хувилбар нь @flags-sdk/vercel 1.5.3 буюу түүнээс хойш.",
+ "body_mn": "Vercel Flags SDK одоо cold start үед илүү хурдан эхэлдэг. Гол өөрчлөлт нь SDK клиент үүсгэх үед deploy-тэй хамт багцалсан flags datafile-ийг шууд ачаалж, parse хийдэг болсон явдал юм.\n\nМөн функц бүрийн invocation дээр одоогийн datafile revision нэмэгдсэн тул SDK сүлжээний хүсэлтгүйгээр багцын датафайл шинэ эсэхийг шалгах боломжтой болжээ. Vercel-ийн дотоод туршилтаар p75 cold-start SDK эхлүүлэх хугацаа 70 ms-ээс давсан байснаас 10 ms болж, ойролцоогоор 7 дахин хурдассан гэж заасан байна.\n\nТүүнчлэн SDK өмнө нь usage тайлагнахдаа waitUntil ашигладаг байсан бөгөөд энэ нь хариу илгээсний дараа функцийг ажилласаар байлгадаг байв. Одоо usage үйл явдлуудыг Vercel runtime-д шууд дамжуулдаг тул функцийн хугацаанд нэмэгдэхгүй.\n\nХөгжүүлэгчид @flags-sdk/vercel-ийг 1.5.3 буюу түүнээс дээш хувилбар руу шинэчилж, аппликейшнээ дахин deploy хийх хэрэгтэй.",
+ "published": "2026-10-29T06:00:00Z",
+ "added": "2026-10-31T17:27:23Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

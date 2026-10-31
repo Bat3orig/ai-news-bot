@@ -1,0 +1,17 @@
+{
+ "id": "229ac370ee8aa391",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "SECURITY.COM",
+ "url": "https://www.security.com/threat-intelligence/openai-claude-unauthorized-relays",
+ "image": "https://www.security.com/sites/default/files/styles/blogs_hero_tiny/public/2026-10/Hero%20Image_2.jpg.webp?h=790be497&itok=vPNqu6m8",
+ "title": "Sandbox Flipped to ‘Danger-Full-Access’: Unauthorized AI Relays Create Risk for Organizations",
+ "summary_en": "A grey market relay service installs the real OpenAI Codex and Anthropic Claude Code CLIs, then reconfigures them to route every prompt and credential through third-party servers with sandboxing switched off.",
+ "title_mn": "Codex болон Claude Code-ийн sandbox-ийг тойрсон зөвшөөрөлгүй релей үйлчилгээ",
+ "summary_mn": "Symantec-ийн судалгаагаар зөвшөөрөлгүй релей үйлчилгээ Codex болон Claude Code CLI-ийн тохиргоог өөрчилж sandbox-ийг унтрааж, хүсэлтийг өөрийн серверээр дамжуулдаг болохыг илрүүлсэн. Энэ нь тухайн хэрэгслийн хор сул биш юм.",
+ "body_mn": "Symantec-ийн Threat Hunter баг OpenAI Codex болон Anthropic Claude Code командын мөрийн AI агентуудад хандах зөвшөөрөлгүй релей үйлчилгээг илрүүлжээ. Ихэвчлэн Хятад зэрэг албан ёсоор борлуулалт байдаггүй зах зээлд ажилладаг.\n\nТэд өөрсдийн клиент биш харин жинхэнэ CLI-г npm-ээр суулгаад, дараа нь тохиргооны файлыг нь өөрчилдөг. Codex-ийн sandbox-ийг danger-full-access болгож, хүсэлтүүдийг релейн серверээр дамжуулдаг. Claude Code-ийн хувьд ANTHROPIC_BASE_URL-ийг солино.\n\nЭнэ нь хэрэгслийн алдаа биш, тохиргоо өөрчлөгдсөний үр дагавар гэж тайлбарласан. Дор хаяж арав гаруй байгууллагад илэрсэн байна.\n\nХөгжүүлэгчид болон байгууллагууд зөвшөөрөлгүй reseller-ээс API түлхүүр болон суулгах команд авахгүй байхыг зөвлөж байна.",
+ "published": "2026-10-29T10:24:58Z",
+ "added": "2026-10-31T17:27:23Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

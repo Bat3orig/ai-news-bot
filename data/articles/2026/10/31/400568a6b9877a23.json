@@ -1,0 +1,17 @@
+{
+ "id": "400568a6b9877a23",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Cybernews",
+ "url": "https://cybernews.com/ai-news/unreleased-ai-models-security-flaws-patching-race/",
+ "image": "https://media.cybernews.com/images/featured-big/2026/02/anthropic-claude-security.jpg",
+ "title": "Claude AI finds critical flaws across major software",
+ "summary_en": "Anthropic says an unreleased Claude model found critical flaws in Chrome, Safari, Android, Windows and Linux, intensifying the AI security race.",
+ "title_mn": "Anthropic: Claude загвар Chrome, Safari, Windows, Linux-д критик хор сулийг олжээ",
+ "summary_mn": "Anthropic хэвлээгүй дотоод загвар Claude-ийг ашиглан Chrome, Safari, Android, Windows, Linux-д хамаарах хор сулын гинжин халдлагуудыг олсноо мэдээлсэн. Компани хор сулыг хариуцлагатайгаар нийлүүлэгчдэд мэдэгдсэн гэжээ.",
+ "body_mn": "Anthropic хэвлээгүй, дотоод судалгааны загвар Claude нь Chrome, Safari, Android, Windows болон Linux системд критик хор сулуудыг илрүүлснээ мэдэгдлээ. Компанийн нийтэлсэн тайланд таван халдлагын гинжин хэлхээ орсон байна.\n\nЖишээлбэл, Chrome-д Claude хэд хэдэн хор сулыг холбож браузерын аюулгүй орчноос гадуур код ажиллуулсан бөгөөд Mac дээр Calculator программыг нээжээ. Safari-д same-origin policy-г тойрч, Linux-д multipath TCP сонсогчид root эрхтэй команд ажиллуулах боломжтой байсан гэжээ.\n\nAnthropic эдгээр мэдээллийг coordinated vulnerability disclosure горимоор нийлүүлэгчдэд илгээсэн гэж мэдэгджээ. Мөн Cyber Verification Program-аа дурдсан. Өмнө нь OpenAI ч хэвлээгүй загвараараа олон хор сул илрүүлснээ зарласан байна.\n\nХөгжүүлэгчдэд энэ нь аюулгүй байдлын засвар, шинэчлэлтүүд илүү хурдан гарах шаардлагатайг харуулж байна.",
+ "published": "2026-10-29T09:46:03Z",
+ "added": "2026-10-31T17:27:23Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
