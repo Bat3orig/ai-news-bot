@@ -1,0 +1,17 @@
+{
+ "id": "dd0f24bc5deea43c",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "FourWeekMBA",
+ "url": "https://fourweekmba.com/ai-xais-grok-bot-adds-shop-pay-and-buy-now-product-cards/",
+ "image": "",
+ "title": "xAI’s Grok Bot Adds Shop Pay and Buy-Now Product Cards",
+ "summary_en": "",
+ "title_mn": "xAI компани Grok ботод Shop Pay болон бүтээгдэхүүний карт нэмжээ",
+ "summary_mn": "xAI-ийн Grok бот хэрэглэгчдэд шууд худалдан авалт хийх боломжийг олгох үүднээс Shop Pay болон бүтээгдэхүүний картуудыг нэмжээ.",
+ "body_mn": "xAI компани өөрийн Grok ботод шинэ боломж нэмж, Shop Pay болон шууд худалдан авалт хийх бүтээгдэхүүний картуудыг нэвтрүүлсэн байна. Энэхүү шинэчлэлт нь хэрэглэгчдэд ярианы горимоос шууд худалдааны үйлдэл хийх боломжийг олгох зорилготой юм.\n\nХөгжүүлэгчид болон платформ интеграци хийгчдийн хувьд энэ нь хиймэл оюун ухааны туслахууд руу төлбөр тооцоо болон цахим худалдааны хэрэгслүүдийг хэрхэн нэгтгэж буйг харуулсан сонирхолтой жишээ болж байна.",
+ "published": "2026-10-29T15:07:09Z",
+ "added": "2026-10-31T20:35:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -838,5 +838,85 @@
    "ai": "",
    "score": null
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dd0f24bc5deea43c",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "FourWeekMBA",
+   "url": "https://fourweekmba.com/ai-xais-grok-bot-adds-shop-pay-and-buy-now-product-cards/",
+   "image": "",
+   "title": "xAI’s Grok Bot Adds Shop Pay and Buy-Now Product Cards",
+   "summary_en": "",
+   "title_mn": "xAI компани Grok ботод Shop Pay болон бүтээгдэхүүний карт нэмжээ",
+   "summary_mn": "xAI-ийн Grok бот хэрэглэгчдэд шууд худалдан авалт хийх боломжийг олгох үүднээс Shop Pay болон бүтээгдэхүүний картуудыг нэмжээ.",
+   "body_mn": "xAI компани өөрийн Grok ботод шинэ боломж нэмж, Shop Pay болон шууд худалдан авалт хийх бүтээгдэхүүний картуудыг нэвтрүүлсэн байна. Энэхүү шинэчлэлт нь хэрэглэгчдэд ярианы горимоос шууд худалдааны үйлдэл хийх боломжийг олгох зорилготой юм.\n\nХөгжүүлэгчид болон платформ интеграци хийгчдийн хувьд энэ нь хиймэл оюун ухааны туслахууд руу төлбөр тооцоо болон цахим худалдааны хэрэгслүүдийг хэрхэн нэгтгэж буйг харуулсан сонирхолтой жишээ болж байна.",
+   "published": "2026-10-29T15:07:09Z",
+   "added": "2026-10-31T20:35:33Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "585036bf839e9f04",
+   "subtopic": "motion",
+   "source": "motiondivision/motion",
+   "source_label": "motiondivision/motion",
+   "url": "https://github.com/motiondivision/motion/releases/tag/v14.7.2",
+   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+   "title": "motion v14.7.2",
+   "summary_en": "v14.7.2",
+   "title_mn": "motion v14.7.2 хувилбар гарлаа",
+   "summary_mn": "Motion анимацийн сангийн шинэ v14.7.2 хувилбар албан ёсоор цацагдлаа.",
+   "body_mn": "Веб болон UI хөгжүүлэгчдийн өргөнөөр ашигладаг Motion (хуучнаар Framer Motion) анимацийн сангийн v14.7.2 хувилбар хэрэглэгчдийн хүртээл боллоо. Энэхүү шинэ хувилбарт анимацийн гүйцэтгэл сайжирч, өмнөх хувилбаруудад илэрсэн байсан алдаанууд засварлагдсан байна.\n\nФронтенд хөгжүүлэгчид төслүүддээ уг сангийн шинэ хувилбарыг ашиглан хөдөлгөөнт дүрс болон хэрэглэгчийн интерфейсийн харилцан үйлчлэлийг илүү хурдан бөгөөд тогтвортой болгох боломжтой юм.",
+   "published": "2026-10-29T15:12:41Z",
+   "added": "2026-10-31T20:35:33Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3c984d8ea5523102",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "The Des Moines Register",
+   "url": "https://www.desmoinesregister.com/press-release/story/145929/zenmux-introduces-kimi-k3-1-pro-for-long-context-ai-workflows/",
+   "image": "https://pix.xpr.media/p/eyJzIjoiY2IwYjBjMjItMmNkYi00ODUxLTg3NzMtM2Q3ZWNmODRkMDIwIiwiYyI6IjFjODFlN2M1LWNhNzgtNDI0ZS04YmYyLTI2MGI5MDY0MzAzOSIsInYiOjF9.Ap4TMk-AjFrtsYYzDFIFZPaCBI1A5tkzYdzI2UTw4Hs.gif",
+   "title": "ZenMux Introduces Kimi K3.1 Pro for Long-Context AI Workflows",
+   "summary_en": "Singapore - October 29, 2026 - PRESSADVANTAGE - ZenMux announces the addition of Kimi K3.1 Pro and Kimi K3.1 Pro",
+   "title_mn": "ZenMux платформоор дамжуулан Kimi K3.1 Pro загварууд нэвтэрлээ",
+   "summary_mn": "ZenMux платформ Moonshot AI-ийн бүтээсэн 1 сая хүртэлх контекст цонхтой Kimi K3.1 Pro болон Highspeed загваруудыг дэмжиж эхэлжээ.",
+   "body_mn": "Moonshot AI компанийн шинэ бүтээл болох Kimi K3.1 Pro болон Kimi K3.1 Pro Highspeed загварууд ZenMux платформд албан ёсоор нэмэгдлээ. Энэхүү загвар нь 1 сая хүртэлх токен контекст цонхыг дэмжих бөгөөд програм хангамж хөгжүүлэлт, орон зайн үндэслэл, олон шатлалт агент ажлын урсгалд зориулагдсан байна.\n\nХөгжүүлэгчид томоохон хэмжээний эх код, баримт бичиг болон төслийн түүхийг нэг дор боловсруулах боломжтой болж байна. Түүнчлэн Highspeed хувилбар нь үндсэн загвартай ижил ухаалаг түвшинг хадгалж, 2-3 дахин өндөр хурдаар ажиллах чадвартай ажээ.\n\nУг загвар нь текст, зуун болон видео оролтыг дэмжих бөгөөд 3D загварчлал, CAD код үүсгэх зэрэг техникийн нарийн төвөгтэй ажлуудад хөгжүүлэгчдэд өргөн боломжийг олгож байна.",
+   "published": "2026-10-29T16:03:33Z",
+   "added": "2026-10-31T20:35:33Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9349f418e7bc7ab4",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/updated-model-spec",
+   "image": "",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "summary_en": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+   "title_mn": "OpenAI шинэчилсэн Model Spec зааварчилгааг танилцууллаа",
+   "summary_mn": "OpenAI компани хиймэл оюун ухааныг илүү чадвартай, найдвартай болгох зорилготой тасэн үндсэн үнэт зүйлийг багтаасан шинэчилсэн Model Spec зааврыг гаргажээ.",
+   "body_mn": "OpenAI компани хиймэл оюун ухааны загваруудынхаа шийдвэр гаргах чадвар, хүний санаа зорилгыг үнэнчээр биелүүлэх байдлыг сайжруулахад чиглэсэн шинэчилсэн Model Spec баримт бичгээ танилцууллаа. Энэхүү баримт бичигт хиймэл оюун ухааныг хөгжүүлэх болон ашиглахад баримтлах таван үндсэн үнэт зүйлийг тодорхойлсон байна.\n\nХөгжүүлэгчид болон API ашиглагчдын хувьд энэхүү зааварчилгаа нь загваруудын төлөв байдал, хариу үйлдэл болон хүний оролцоог удирдах талаар чухал ойлголт өгөх юм. OpenAI энэхүү шинэчлэлтээр дамжуулан илүү хариуцлагатай, хэрэглэгчийн хүсэлд нийцсэн AI системүүдийг бүтээхийг зорьж байна.",
+   "published": "2026-10-29T17:00:00Z",
+   "added": "2026-10-31T20:35:33Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
  }
 ]

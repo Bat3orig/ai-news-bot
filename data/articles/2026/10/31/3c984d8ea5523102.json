@@ -1,0 +1,17 @@
+{
+ "id": "3c984d8ea5523102",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "The Des Moines Register",
+ "url": "https://www.desmoinesregister.com/press-release/story/145929/zenmux-introduces-kimi-k3-1-pro-for-long-context-ai-workflows/",
+ "image": "https://pix.xpr.media/p/eyJzIjoiY2IwYjBjMjItMmNkYi00ODUxLTg3NzMtM2Q3ZWNmODRkMDIwIiwiYyI6IjFjODFlN2M1LWNhNzgtNDI0ZS04YmYyLTI2MGI5MDY0MzAzOSIsInYiOjF9.Ap4TMk-AjFrtsYYzDFIFZPaCBI1A5tkzYdzI2UTw4Hs.gif",
+ "title": "ZenMux Introduces Kimi K3.1 Pro for Long-Context AI Workflows",
+ "summary_en": "Singapore - October 29, 2026 - PRESSADVANTAGE - ZenMux announces the addition of Kimi K3.1 Pro and Kimi K3.1 Pro",
+ "title_mn": "ZenMux платформоор дамжуулан Kimi K3.1 Pro загварууд нэвтэрлээ",
+ "summary_mn": "ZenMux платформ Moonshot AI-ийн бүтээсэн 1 сая хүртэлх контекст цонхтой Kimi K3.1 Pro болон Highspeed загваруудыг дэмжиж эхэлжээ.",
+ "body_mn": "Moonshot AI компанийн шинэ бүтээл болох Kimi K3.1 Pro болон Kimi K3.1 Pro Highspeed загварууд ZenMux платформд албан ёсоор нэмэгдлээ. Энэхүү загвар нь 1 сая хүртэлх токен контекст цонхыг дэмжих бөгөөд програм хангамж хөгжүүлэлт, орон зайн үндэслэл, олон шатлалт агент ажлын урсгалд зориулагдсан байна.\n\nХөгжүүлэгчид томоохон хэмжээний эх код, баримт бичиг болон төслийн түүхийг нэг дор боловсруулах боломжтой болж байна. Түүнчлэн Highspeed хувилбар нь үндсэн загвартай ижил ухаалаг түвшинг хадгалж, 2-3 дахин өндөр хурдаар ажиллах чадвартай ажээ.\n\nУг загвар нь текст, зуун болон видео оролтыг дэмжих бөгөөд 3D загварчлал, CAD код үүсгэх зэрэг техникийн нарийн төвөгтэй ажлуудад хөгжүүлэгчдэд өргөн боломжийг олгож байна.",
+ "published": "2026-10-29T16:03:33Z",
+ "added": "2026-10-31T20:35:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

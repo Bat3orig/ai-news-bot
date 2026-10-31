@@ -1,0 +1,17 @@
+{
+ "id": "9349f418e7bc7ab4",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/updated-model-spec",
+ "image": "",
+ "title": "An updated Model Spec for more capable and beneficial AI",
+ "summary_en": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+ "title_mn": "OpenAI шинэчилсэн Model Spec зааварчилгааг танилцууллаа",
+ "summary_mn": "OpenAI компани хиймэл оюун ухааныг илүү чадвартай, найдвартай болгох зорилготой тасэн үндсэн үнэт зүйлийг багтаасан шинэчилсэн Model Spec зааврыг гаргажээ.",
+ "body_mn": "OpenAI компани хиймэл оюун ухааны загваруудынхаа шийдвэр гаргах чадвар, хүний санаа зорилгыг үнэнчээр биелүүлэх байдлыг сайжруулахад чиглэсэн шинэчилсэн Model Spec баримт бичгээ танилцууллаа. Энэхүү баримт бичигт хиймэл оюун ухааныг хөгжүүлэх болон ашиглахад баримтлах таван үндсэн үнэт зүйлийг тодорхойлсон байна.\n\nХөгжүүлэгчид болон API ашиглагчдын хувьд энэхүү зааварчилгаа нь загваруудын төлөв байдал, хариу үйлдэл болон хүний оролцоог удирдах талаар чухал ойлголт өгөх юм. OpenAI энэхүү шинэчлэлтээр дамжуулан илүү хариуцлагатай, хэрэглэгчийн хүсэлд нийцсэн AI системүүдийг бүтээхийг зорьж байна.",
+ "published": "2026-10-29T17:00:00Z",
+ "added": "2026-10-31T20:35:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
