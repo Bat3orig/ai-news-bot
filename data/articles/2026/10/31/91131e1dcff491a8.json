@@ -1,0 +1,17 @@
+{
+ "id": "91131e1dcff491a8",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4hCEjLaSjUbXzgJ4qdsl2n/280d7a74385fc9209be3998754f73968/vercel-ci-is-now-in-beta.png",
+ "title": "Vercel CI is now in beta",
+ "summary_en": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task marked with a ci tag runs on every push. Vercel CI automatically takes care of: Only running CI that is affected by your code changes Task caching with Vercel Remote Cache Installing dependencies once per run Caching dependencies across code updates To learn more: Check out our blog post Visit the…",
+ "title_mn": "Vercel CI beta хувилбараар нээгдлээ",
+ "summary_mn": "Turborepo-д зориулсан Vercel CI нь нэг мөр тохиргоогоор ажиллаж эхэлсэн бөгөөд хөгжүүлэлтийн хугацааг эрс багасгаж байна.",
+ "body_mn": "Vercel компани Turborepo төслүүдэд зориулсан Vercel CI үйлчилгээгээ beta хэлбэрээр гаргалаа. Хөгжүүлэгчид ганцхан мөр тохиргоо хийснээр өөрсдийн репозиторий холбох боломжтой болсон байна.\n\nVercel-ийн дотоод төслүүдэд хийсэн туршилтаар git push хийснээс хойш CI амжилттай дуусах хугацаа 2-6 дахин хурдассан байна. Энэ нь код бичих агентуудын ажлыг илүү хурдтай үргэлжлүүлэхэд чухал нөлөө үзүүлж байна.",
+ "published": "2026-10-28T19:00:00Z",
+ "added": "2026-10-31T06:02:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

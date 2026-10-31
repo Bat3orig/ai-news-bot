@@ -1,0 +1,17 @@
+{
+ "id": "e8e0cb1d0e685ced",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+ "title": "Gemini 4 Carbon: Our next frontier model",
+ "summary_en": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+ "title_mn": "Google DeepMind шинэ Gemini 4 Carbon загвараа танилцууллаа",
+ "summary_mn": "Google DeepMind кибер аюулгүй байдал болон урт хугацааны даалгавруудад зориулсан Gemini 4 Carbon загвараа зарлалаа.",
+ "body_mn": "Google DeepMind компани кибер аюулгүй байдал болон урт хугацааны агентлаг даалгавруудыг гүйцэтгэх чадвараараа тэргүүлэх Gemini 4 Carbon загвараа албан ёсоор танилцууллаа. Энэхүү загвар нь Artificial Analysis Intelligence Index жагсаалтын эхэнд бичигдэж, код бичих болон кибер аюулгүй байдлын хамгаалалтын тестүүдэд өндөр амжилт үзүүлсэн байна.\n\nCarbon загвар нь оролт болон гаралт бүрийн хувьд нэг сая токены хувьд Аргон загвартай ижил үнэтэй буюу оролт нь 2 ам доллар, гаралт нь 10 ам доллар байхаар тогтоогджээ. Мөн кэшлэгдсэн оролт 95 хувийн хөнгөлөлттэй байх аж.\n\nЭнэхүү загвар нь нарийн төвөгтэй, олон шатлалт инженерчлэлийн болон алдаа олох ажлуудыг олон хоногоор тасралтгүй гүйцэтгэх чадвартай юм. Хөгжүүлэгчид болон аж ахуйн нэгжүүдэд удахгүй бүтээгдэхүүний интерфейсээр дамжуулан хүртээмжтэй болгохоор төлөвлөжээ.",
+ "published": "2026-10-28T17:00:58Z",
+ "added": "2026-10-31T06:02:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

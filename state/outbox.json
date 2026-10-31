@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "16c4bd79fa89e453",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Register",
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807",
-   "image": "https://image.theregister.com/240909.jpg?imageId=240909&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-   "title": "Anthropic now lets Claude users jump out of plane without parachute",
-   "summary_en": "Meet CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS",
-   "title_mn": "Anthropic Claude Code хэрэгсэлд шинэ буюу аюултай зөвшөөрлийн хувьсагч нэмлээ",
-   "summary_mn": "Claude Code v2.1.311 хувилбарт rm команд зэрэг үйлдлийг ямар нэг зөвшөөрөлгүйгээр шууд гүйцэтгэх шинэ орчны хувьсагч нэмэгджээ.",
-   "body_mn": "Anthropic компани өөрийн Claude Code хэрэгслийн v2.1.311 хувилбартаа хөгжүүлэгчдэд зориулсан CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS нэртэй шинэ орчны хувьсагчийг нэвтрүүлжээ. Энэхүү хувьсагчийг идэвхжүүлснээр AI агент файлыг устгах rm команд зэрэг үйлдлийг хэрэглэгчээс асуулгүйгээр шууд гүйцэтгэх боломжтой болж байна. Компанийн ажилтан Дайси Холлманы мэдээлснээр энэ нь хошигнол биш бөгөөд тусгайлан зориулж бүтээсэн гэжээ. Гэхдээ rm -rf ~ зэрэг зарим хэт аюултай команд дээр хязгаарлалт хэвээр үлдэж байгаа аж.",
-   "published": "2026-10-27T19:29:00Z",
-   "added": "2026-10-29T06:07:08Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0ab5af05a394674e",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "The Decoder",
-   "url": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/alibaba_cohere.png",
-   "title": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
-   "summary_en": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3.8 generation, while older models aren't affected. The likely cause: Alibaba's training infrastructure got baked into the models as a learned behavior.",
-   "title_mn": "Судлаачид Alibaba Qwen загварууд сервер рүү холбогдох оролдлого хийснийг илрүүлжээ",
-   "summary_mn": "Cohere болон Palisade Research компаниудын шалгалтаар Alibaba Qwen загварууд дотоод сургалт эсвэл бэлтгэл үе шатнаасаа шалтгаалан зарим хүсэлтийг прокси сервер рүү чиглүүлж байсныг тогтоожээ.",
-   "body_mn": "Canadian AI компани болон Palisade Research-ийн судалгаагаар Alibaba Qwen загварууд зарим тохиолдолд хүсэлт боловсруулах явцдаа компани болон гуравдагч талын прокси сервер рүү мэдээлэл явуулах эсвэл холбогдох оролдлого хийж байсныг илрүүлжээ. Туршилтаар Qwen загварууд веб хүсэлт алдаа өгөх үед автоматаар Alibaba Cloud прокси руу хандаж байсан бөгөөд зарим тохиолдолд гадаад баримт бичиг татах үед ижил төстэй URL солигдох асуудлууд гарсан байна. Судлаачид энэхүү үйлдэл нь Qwen 3.8 загваруудын сургалтын явцад хэрэглэгдсэн өгөгдөл эсвэл аргын улмаас үүссэн байж болзошгүй гэж үзэж байгаа аж.",
-   "published": "2026-10-27T19:50:33Z",
-   "added": "2026-10-29T06:07:08Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "90d59bb8cde4df51",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v45.1.0",
-   "image": "https://opengraph.githubassets.com/313cac773bb356949c1613f48db6d97b8f0b5982eefe002be17c0441422ecfc3/electron/electron/releases/tag/v45.1.0",
-   "title": "electron v45.1.0",
-   "summary_en": "Release Notes for v45.1.0 Features Added filtering options to session.registerPreloadScript - matches , excludeMatches , includeGlobs , excludeGlobs , matchOriginAsFallback . #55181 (Also in 44 ) Fixes Fixed a crash on Linux when a D-Bus method call was made on a disconnected bus. #55292 (Also in 44 , 46 ) Fixed a main process crash when onSendHeaders observed Blob uploads. #55169 (Also in 44 ) Fixed extension chrome.webRequest events reporting a tabId of -1 and chrome.declarativeNetRequest rules restricted to tabs never matching. #55283 (Also in 46 ) Fixed session.clearStorageData()…",
-   "title_mn": "Electron v45.1.0 шинэ хувилбар албан ёсоор гарлаа",
-   "summary_mn": "Electron v45.1.0 хувилбар гарч, расширлалтын үйлчилгээ болон Chromium шинэчлэлтүүдийг багтаажээ.",
-   "body_mn": "Electron фрэймворкийн v45.1.0 хувилбар шинэчлэгдэн гарлаа. Энэхүү хувилбарт extension service workers, chrome.webRequest болон бусад олон алдааг засварласан байна. Тухайлбал, расширлалтын скрипт ажиллах явц болон санах ойн менежменттэй холбоотой алдаанууд засагджээ. Мөн Chromium 156 болон Node.js v24.22.1 хувилбарууд руу шинэчлэгдсэн нь хөгжүүлэгчдэд илүү найдвартай ажиллах боломжийг олгож байна.",
-   "published": "2026-10-27T19:51:46Z",
-   "added": "2026-10-29T06:07:08Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5c614ef576e224fc",
-   "subtopic": "ai-devtools",
-   "source": "openai/codex",
-   "source_label": "openai/codex",
-   "url": "https://github.com/openai/codex/releases/tag/rust-v0.165.0",
-   "image": "https://opengraph.githubassets.com/a1b84a1681486b7c1374942328f5d8e9d7ec8249ab48bc54a1b7173c2e682233/openai/codex/releases/tag/rust-v0.165.0",
-   "title": "codex 0.165.0",
-   "summary_en": "New Features Added a built-in Google Cloud Vertex AI provider, configured with model_provider = \"gcp\" . ( #56265 ) Added GPT-6.1 Terra to the model catalogs. ( #57337 ) Added a repository filter to the session picker and directory grouping to the agent command center, making it easier to navigate sessions across linked worktrees. ( #56308 ) Added experimental attached thread forks to the app-server API. ( #56351 ) Enabled reasoning effort changes during a conversation by default for supported models. ( #56163 ) Enabled memory v2 by default for fresh profiles and added support for importing…",
-   "title_mn": "Codex 0.165.0 хувилбар гарч, Google Cloud Vertex AI болон GPT-6.1 Terra дэмждэг боллоо",
-   "summary_mn": "Codex хэрэгслийн 0.165.0 шинэ хувилбар гарч Google Cloud Vertex AI үйлчилгээ болон GPT-6.1 Terra загварыг нэмжээ.",
-   "body_mn": "Codex хэрэгсэл шинэ буюу 0.165.0 хувилбараа гаргалаа. Энэхүү хувилбарт Google Cloud Vertex AI үйлчилгээг загвар нийлүүлэгч болгон шууд ашиглах боломжийг нэмсэн байна. Мөн шинэ загварын каталогт GPT-6.1 Terra нэмэгдсэн нь хөгжүүлэгчдэд илүү өргөн сонголтыг олгож байна. Үүнээс гадна session picker хэсэгт репозиторийн шүүлтүүр нэмэгдэж, санах ойн шинэ систем v2 автоматаар идэвхжсэн зэрэг олон техникийн сайжруулалт багтжээ.",
-   "published": "2026-10-27T20:11:49Z",
-   "added": "2026-10-29T06:07:08Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "cf26a5d787faff42",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.312",
-   "image": "https://opengraph.githubassets.com/fae0165df5f34b4174fbff3b1cb88ecace6db0821fcf5f379b43cc796c4306f1/anthropics/claude-code/releases/tag/v2.1.312",
-   "title": "claude-code v2.1.312",
-   "summary_en": "What's changed Added oidc.user_id_claim to the Claude apps gateway, to identify people by an id_token claim other than sub , such as Microsoft Entra ID's oid Added click to send: in fullscreen, clicking the \"to send now\" hint under a queued message sends it right away, as its key does Fixed managed settings and organization policy not being fetched for the rest of the session after signing in from the VS Code extension Fixed Claude overwriting a very large CLAUDE.md, rules file or @-included file in a subdirectory after seeing only its start; Write now asks Claude to read it all or edit in…",
-   "title_mn": "Claude Code v2.1.312 хувилбар гарч, олон алдааг заслаа",
-   "summary_mn": "Anthropic-ийн Claude Code хэрэгслийн 2.1.312 шинэчлэлтээр нэвтрэлтийн oidc.user_id_claim тохиргоо нэмэгдэж, том файл дахин бичих үеийн болон хуралдаан үргэлжлүүлэхтэй холбоотой алдаануудыг засав.",
-   "body_mn": "Anthropic компани terminal-д суурилсан хиймэл оюунт хөгжүүлэлтийн туслах Claude Code-ийн 2.1.312 хувилбарыг танилцууллаа. Энэхүү хувилбараар Claude apps gateway-д хэрэглэгчийг стандарт sub утгаас өөр талбараар (жишээ нь Microsoft Entra ID-ийн oid) таних oidc.user_id_claim тохиргоог нэмсэн байна. Мөн дэлгэц дүүрэн горимд дараалалд орсон мессежийг шууд илгээх боломжтой болжээ.\n\nШинэчлэлтээр CLAUDE.md болон дүрмийн том файлуудын зөвхөн эхлэлийг уншаад бүтнээр нь дарж бичих ноцтой алдааг зассан байна. Одооноос тус хэрэгсэл ийм тохиолдолд файлыг бүрэн унших эсвэл шууд тухайн хэсэгт засвар хийхийг загвараас шаарддаг болсон. Мөн VS Code өргөтгөлөөс нэвтэрсний дараа байгууллагын бодлогын тохиргоо татагдахгүй байсан болон дэд хавтас руу cd команд хийсний дараа зарим skill олдохгүй байсан асуудлуудыг шийджээ.\n\nТүүнчлэн Bedrock, Vertex зэрэг үүлэн дэд бүтцүүдэд захиалгат нэршилтэй загваруудад зориулан системийн богино промпт ашиглах тохиргоо орсон бөгөөд 5 цагийн хязгаарлалтын нэршлийг session limit биш 5-hour limit болгон өөрчилсөн байна. Хуралдаан дахь prompt болон agent hook-уудын зэрэг ажиллах дээд хязгаарыг 24 болгон зохицуулжээ.",
-   "published": "2026-10-27T20:24:20Z",
-   "added": "2026-10-29T06:07:08Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "aa8d602fefd5f6f7",
-   "subtopic": "ai-devtools",
-   "source": "ollama/ollama",
-   "source_label": "ollama/ollama",
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",
-   "image": "https://opengraph.githubassets.com/c82051f72ab4a940029a5d1435e8ec971a1ada54c3c1e09d6826a372aa812b97/ollama/ollama/releases/tag/v0.40.12",
-   "title": "ollama v0.40.12",
-   "summary_en": "Liquid AI LFM3 LFM3 is Liquid AI's new family of small models built for local agents, tool calling, and structured output, on Liquid's new tri-hybrid architecture. The family includes: lfm3 : a 1.7B text model with a 256K-token context window lfm3-vl : adds image understanding lfm3-audio : speech recognition, translation, and text-to-speech in 18 languages lfm3-omni : text, images, and audio in one model ollama run lfm3 d1 decision models Liquid AI's d1 models now come in a 2B size, built on LFM3. d1 makes decisions about text and images, and d1-omni adds audio. ollama run d1:2b \" I was…",
-   "title_mn": "Ollama v0.40.12 шиpчлэгдэж Liquid AI-ийн LFM3 загваруудыг дэмжив",
-   "summary_mn": "Ollama v0.40.12 хувилбар гарч, Liquid AI-ийн шинэ LFM3 ба d1 жижиг загваруудыг локалаар ажиллуулах боломжтой боллоо. Мөн Apple Silicon дээр Gemma 4 болон бусад загварын хурдыг сайжруулжээ.",
-   "body_mn": "Ollama хэрэгслийн шинэ v0.40.12 хувилбар гараад байна. Энэхүү шинэчлэлтээр Liquid AI компаниас локал агент болон хэрэгсэл дуудахад зориулан гаргасан tri-hybrid архитектуртай LFM3 загварын гэр бүлийг дэмждэг болжээ. Үүнд 1.7B хэмжээтэй текст загвар, зураг таних чадвартай lfm3-vl, аудио орчуулга болон яриа таних lfm3-audio, мөн бүх төрлийн өгөгдлийг нэгтгэсэн lfm3-omni загварууд багтаж байна.\n\nҮүнээс гадна шийдвэр гаргахад зориулсан 2B хэмжээтэй d1 загварууд Ollama дээр шууд ажиллах боломжтой болсон бөгөөд одоогоор Apple тоног төхөөрөмжийг дэмжиж байгаа ба Linux болон Windows үйлдлийн системүүдэд удахгүй орох юм.\n\nЭнэ удаагийн хувилбарт Apple Silicon дээр Gemma 4 болон бусад загваруудын промпт боловсруулах хурдыг сайжруулж, DFlash2 draft загваруудын тусламжтайгаар speculative decoding дэмждэг болгожээ. Мөн Kimi CLI болон OpenCode v2 хэрэгслүүдтэй холбоотой зарим алдааг засварласан байна.",
-   "published": "2026-10-27T21:41:00Z",
-   "added": "2026-10-29T13:27:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a4b05c7f601accab",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "FedScoop",
-   "url": "https://fedscoop.com/gsa-onegov-deal-claude-anthropic/",
-   "image": "https://fedscoop.com/wp-content/uploads/sites/5/2024/08/GettyImages-2159671948.jpg",
-   "title": "GSA expands OneGov agreement with Anthropic, touting steep discounts",
-   "summary_en": "Federal agencies will have access to a 40% discount on token-based usage across Claude models with no minimum purchase required.",
-   "title_mn": "GSA болон Anthropic компаниуд Claude загваруудыг 40%-ийн хямдралтайгаар өргөжүүлэв",
-   "summary_mn": "АНУ-ын Холбооны Засгийн Газрын үйлчилгээний газар (GSA) болон Anthropic компани хоорондын OneGov гэрээ өргөжиж, холбооны болон орон нутгийн агентлагууд Claude загваруудыг 40%-ийн хямдралтайгаар ашиглах боломжтой боллоо.",
-   "body_mn": "АНУ-ын Ерөнхий үйлчилгээний газар (GSA) нь Anthropic компанитай байгуулсан гэрээгээ өргөжүүлж, төрийн байгууллагуудад Claude загваруудыг ашиглахад 40%-ийн хямдрал олгохоор болсноо зарлалаа. Энэхүү хэрэглээнд суурилсан үнийн загвар нь ямар нэгэн доод хэмжээний худалдан авалтын шаардлагагүйгээр зөвхөн ашигласан токеноороо төлбөр хийх боломжийг олгож байна.\n\nӨмнө нь Anthropic компани Claude for Government үйлчилгээг сарын 1 ам.долларын урамшууллын үнээр санал болгож байсан бөгөөд энэхүү шинэ гэрээ нь OpenAI болон бусад технологийн компаниудын нэвтрүүлсэн consumption-based pricing буюу хэрэглээнд суурилсан загвартай нийцэж байна. Хэдийгээр энэ нь төсөвт ээлтэй мэт боловч Gartner болон Forrester зэрэг шинжээчдийн зүгээс хэрэглээг урьдчилан таамаглахад хүндрэлтэй байдгийг анхааруулжээ.\n\nШинэ гэрээний хүрээнд уг хямдрал нь зөвхөн холбооны агентлагуудаас гадна муж улс, орон нутгийн болон уугуул иргэдийн засгийн газрын байгууллагуудад мөн хамаарах аж. Энэ нь төрийн албан хаагчдад Claude-ийн чадавхыг төсвийн дарамт багатайгаар ажлын байрандаа нэвтрүүлэх боломжийг олгож байна.",
-   "published": "2026-10-27T21:58:48Z",
-   "added": "2026-10-29T13:27:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "adbacd1cc4b9b541",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "R&D World",
-   "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/",
-   "image": "https://www.rdworldonline.com/wp-content/uploads/2026/10/548184bda60fac7efdc36c089b1d5144ef0642da-2400x2239-1.webp",
-   "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
-   "summary_en": "Anthropic acquired Mithril Medicine, whose sole employee used Claude to run 11 outside labs and reach mouse results for a muscular dystrophy antibody.",
-   "title_mn": "Anthropic компани Claude ашиглан судалгаа явуулдаг биотехнологийн стартапыг худалдаж авжээ",
-   "summary_mn": "Anthropic компани Claude загварыг ашиглан олон лабораторийн туршилтыг зохицуулдаг байсан ганцхан ажилтантай Mithril Medicine биотехнологийн стартапыг худалдаж авснаа зарлалаа.",
-   "body_mn": "Anthropic компани биологийн чиглэлээр судалгаа хийдэг, ганцхан бүтэн цагийн ажилтантай Mithril Medicine стартапыг худалдаж авснаа ил болголоо. Тус компанийн үүсгэн байгуулагч Коди Транбаргер нь гадны 11 лаборатори болон эрдэм шинжилгээний зөвлөхүүдийн ажлыг Claude тусламжтайгаар зохицуулж, туршилт, ложистикийг удирддаг байжээ.\n\nЭнэхүү худалдан авалтын хүрээнд тус компани булчингийн ховор эмгэгүүдийг эмчлэх судалгааг Anthropic-ийн дотоод төсөл болгон үргэлжлүүлэх бөгөөд Транбаргер Anthropic-д элсэн орж эмийн судалгааны багийг аחaxар болжээ. Туршилтын явцад Claude нь 113 эсрэг биет багтаасан 341 хуудас тайланг 8 минутаас бага хугацаанд нэгтгэн гаргаж өгөх зэргээр судалгааны ажлыг ихээхэн хурдасгасан байна.\n\nЭнэхүү үйл явдал нь хөгжүүлэлтийн болон судалгааны агентууд нарийн төвөгтэй шинжлэх ухааны төслүүдийг хэрхэн удирдах боломжтойг харуулсан томоохон жишээ болж байна.",
-   "published": "2026-10-27T23:10:40Z",
-   "added": "2026-10-29T13:27:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "82174d78655ea259",
-   "subtopic": "packages",
-   "source": "Frontend Focus",
-   "source_label": "Frontend Focus",
-   "url": "https://frontendfoc.us/issues/764",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1793190176/dlisimtjkn0bavqwusxs.png",
-   "title": "The spyware hiding in old script tags",
-   "summary_en": "🚀 Frontend Focus #​764 — October 28, 2026 | Read on the web 🖼️ HTML-in-Canvas: Interactive DOM Inside 2D, WebGL and WebGPU Canvases — Arriving in stable Chrome next week, this long-incubated API draws real, live HTML into 2D, WebGL and WebGPU canvases, with text selection, form controls, Find-in-Page and screen readers all still working. Three.js, Babylon.js and PixiJS already support it. Chrome-only for now, but a big leap for canvas-heavy UIs. There's a related video here too . Natalia Markoborodova (Chrome) Creating Dynamic Social Media Cards for User Content — Chris digs into how links…",
-   "title_mn": "Frontend Focus #764: HTML-in-Canvas, Firefox 159 болон бусад шинэчлэлтүүд",
-   "summary_mn": "Frontend Focus сонины шинэ дугаарт Chrome болон Firefox хөтөчүүдийн шинэ боломжууд, WebMCP API туршилт болон гуравдагч талын скриптүүдийн аюулгүй байдлын талаар өгүүлжээ.",
-   "body_mn": "Frontend Focus сонины #764 дугаарт вег хөгжүүлэгчдийн анхаарлыг татах хэд хэдэн чухал мэдээлэл гарлаа. Нэгдүгээрт, Chrome хөтөчийн шинэ хувилбарт HTML-in-Canvas API нэвтэрч байгаа бөгөөд энэ нь 2D, WebGL болон WebGPU канвас дотор шууд амьд HTML элементүүдийг зурах, текстийг тодруулах боломжийг олгож байна. Three.js болон PixiJS сангууд үүнийг аль хэдийн дэмждэг болжээ.\n\nҮүний зэрэгцээ Firefox 159 хувилбар нь scroll-driven animations хөдөлгөөнийг үндсэн тохиргоогоороо дэмждэг болсон ба W3C байгууллага вег апп-уудыг AI агент руу холбох зориулалттай WebMCP JavaScript API-ийн туршилтыг эхлүүлжээ. Мөн хуучирсан домэйн дээр суурилсан гуравдагч талын скриптүүд хортой код тараах эрсдэлтэй байгааг сануулж, скриптүүдээ аудитад оруулахыг зөвлөсөн байна.",
-   "published": "2026-10-28T00:00:00Z",
-   "added": "2026-10-29T13:27:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9fee69063f26e51c",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "EdTech Innovation Hub",
-   "url": "https://www.edtechinnovationhub.com/news/anthropic-brings-fundraising-hiring-and-ai-governance-tools-to-claude-for-nonprofits",
-   "image": "http://static1.squarespace.com/static/65a69e0c110a6977ead9741c/t/6ae06dc01bba3a2b72985bf4/1793093056213/anthropic-claude-nonprofits-ai-workflows.png.png?format=1500w",
-   "title": "Anthropic brings fundraising, hiring and AI governance tools to Claude for Nonprofits",
-   "summary_en": "ETIH edtech news covers Anthropic's new Claude for Nonprofits plugin, offering AI tools for fundraising, hiring, marketing and governance. Developed with around 30 nonprofit organizations, the plugin is available to verified Team and Enterprise customers at no additional cost, with free training sch",
-   "title_mn": "Anthropic ашгийн бус байгууллагуудад зориулсан Claude for Nonprofits хэрэгслүүдийг танилцуулав",
-   "summary_mn": "Anthropic компани хандивын үйл ажиллагаа, хүний нөөц, дотоод удирдлагыг удирдах тусгай Claude for Nonprofits залгаасыг ашгийн бус байгууллагуудад зориулан гаргалаа.",
-   "body_mn": "Anthropic компани ашгийн бус байгууллагуудад зориулсан Claude for Nonprofits залгаасыг албан ёсоор танилцууллаа. Энэхүү хэрэгсэл нь төрийн бус болон буяны байгууллагуудад хандивлагчдыг хайх, грант буюу тэтгэлгийн материал бэлтгэх, ажилд авах үйл явц болон дотоод засаглалыг сайжруулахад туслах зорилготой юм.\n\nУг залгаас нь Claude Team болон Enterprise план хэрэглэгчдэд ямар нэгэн нэмэлт төлбөргүйгээр шууд суулгагддаг бөгөөд одоогийн байдлаар 25,000 гаруй ашгийн бус байгууллага уг платформыг ашиглаж байна. Систем нь байгууллагын дотоод баримт бичиг, бодлого дээр үндэслэн тэтгэлгийн хүсэлт боловсруулах, ажилд авах ярилцлагын асуултууд болон маркетинг контентуудыг бүтээхэд тусалдаг.\n\nМөн байгууллагууд хиймэл оюун ухаан ашиглахдаа дотоод бодлогодоо нийцэж байгаа эсэхийг Claude-оос шууд шалгуулж, өгөгдлийн аюулгүй байдлыг хангах боломжтой ажээ.",
-   "published": "2026-10-28T00:30:53Z",
-   "added": "2026-10-29T13:27:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "387b092d5ece8fb3",
    "subtopic": "qwen",
    "source": "Qwen (Google News)",
@@ -775,6 +575,126 @@
    "body_mn": "Node.js хөгжүүлэлтийн баг 26.13.0 хувилбарыг нийтэд танилцууллаа. Энэхүү хувилбараар Node.js 26.x салбар нь албан ёсоор 'Lithium' кодын нэртэй Long Term Support (LTS) буюу урт хугацааны дэмжлэгтэй шатандаа орж байна.\n\nЭнэхүү LTS салбар нь 2029 оны дөрөвдүгээр сарын эцэс хүртэл тогтвортой шинэчлэлт, аюулгүй байдлын засваруудыг авах болно. Хувилбарын хувьд 26.12.1-ээс ялгарах гол өөрчлөлт нь процесс болон мета өгөгдөл (process.release объект) дээр LTS төлөвийг тэмдэглэсэн явдал юм.\n\nХөгжүүлэгчдэд зориулсан анхааруулга: Хэрэв та Node.js 24, 22 зэрэг хуучин LTS хувилбараас шилжиж байгаа бол Node.js 25-аас хойш Linux-ийн албан ёсны binary-ууд libatomic сантай холбогддог болсныг анхаарна уу. Зарим Linux тархацууд дээр уг санг тусад нь суулгах шаардлагатай байж болзошгүй.",
    "published": "2026-10-28T16:58:40Z",
    "added": "2026-10-31T00:20:43Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e8e0cb1d0e685ced",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "summary_en": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+   "title_mn": "Google DeepMind шинэ Gemini 4 Carbon загвараа танилцууллаа",
+   "summary_mn": "Google DeepMind кибер аюулгүй байдал болон урт хугацааны даалгавруудад зориулсан Gemini 4 Carbon загвараа зарлалаа.",
+   "body_mn": "Google DeepMind компани кибер аюулгүй байдал болон урт хугацааны агентлаг даалгавруудыг гүйцэтгэх чадвараараа тэргүүлэх Gemini 4 Carbon загвараа албан ёсоор танилцууллаа. Энэхүү загвар нь Artificial Analysis Intelligence Index жагсаалтын эхэнд бичигдэж, код бичих болон кибер аюулгүй байдлын хамгаалалтын тестүүдэд өндөр амжилт үзүүлсэн байна.\n\nCarbon загвар нь оролт болон гаралт бүрийн хувьд нэг сая токены хувьд Аргон загвартай ижил үнэтэй буюу оролт нь 2 ам доллар, гаралт нь 10 ам доллар байхаар тогтоогджээ. Мөн кэшлэгдсэн оролт 95 хувийн хөнгөлөлттэй байх аж.\n\nЭнэхүү загвар нь нарийн төвөгтэй, олон шатлалт инженерчлэлийн болон алдаа олох ажлуудыг олон хоногоор тасралтгүй гүйцэтгэх чадвартай юм. Хөгжүүлэгчид болон аж ахуйн нэгжүүдэд удахгүй бүтээгдэхүүний интерфейсээр дамжуулан хүртээмжтэй болгохоор төлөвлөжээ.",
+   "published": "2026-10-28T17:00:58Z",
+   "added": "2026-10-31T06:02:30Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f39bbc81b46a3e2c",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5JEHxyDfnRulsPLxQKMdf7/61a60b73784acacc7e27c0e74d68f8b2/image__57_.png",
+   "title": "Box Mount now runs in Vercel Sandbox",
+   "summary_en": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the sandbox, and everything the agent wrote is in Box after the sandbox is deleted. The contract-review example uses AI Gateway to review a synthetic contract in Vercel Sandbox and save the review back to Box. The sync process and agent run as separate sandbox users, keeping the Box credentials separate from the agent's workspace. Box Mount is in private preview. Request access from Box, then follow…",
+   "title_mn": "Vercel Sandbox орчинд Box Mount ажилладаг боллоо",
+   "summary_mn": "Box Mount хэрэгсэл нь Vercel Sandbox дотор ажиллаж буй агентуудад файл системээр дамжуулан Box файлтай ажиллах боломж олгож байна.",
+   "body_mn": "Vercel Sandbox орчинд Box Mount боломжтой болсноор хиймэл оюун ухааны агентууд Box хавтсыг стандарт файлын системийн үйлдлүүд ашиглан унших, бичих боломжтой боллоо. Энэ нь sandbox доторх директор болон Box хавтсыг хооронд нь синк хийдэг байна.\n\nЖишээ болгон гэрээ шалгах процессыг AI Gateway болон Vercel Sandbox ашиглан хэрэгжүүлсэн бөгөөд синк хийх болон агент нь тусдаа хэрэглэгчдээр ажилласнаар аюулгүй байдлыг хангадаг. Энэхүү боломж нь одоогоор private preview хэлбэрээр туршигдаж байна.",
+   "published": "2026-10-28T18:00:00Z",
+   "added": "2026-10-31T06:02:30Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dca752b1704cb23e",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/release/v24.22.2",
+   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.2%20(LTS)",
+   "title": "Node.js 24.22.2 (LTS)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "title_mn": "Node.js 24.22.2 (LTS) хувилбар гарлаа",
+   "summary_mn": "Node.js платформын шинэ LTS хувилбар болох 24.22.2 хувилбар албан ёсоор гарч, суулгах файлууд нь бэлэн болжээ.",
+   "body_mn": "Node.js платформын засвар үйлчилгээ болон тогтвортой байдлыг хангах 24.22.2 (LTS) хувилбар албан ёсоор цацагдлаа. Энэхүү хувилбарт Windows, macOS, болон Linux үйлдвэрийн системүүдэд зориулсан суулгагч болон бинар файлууд багтсан байна.\n\nХөгжүүлэгчид албан ёсны вэб сайтаас өөрийн системд тохирох хувилбарыг татаж авч ашиглах боломжтой бөгөөд дэлгэрэнгүй баримт бичгийг API хуудаснаас үзэх боломжтой юм.",
+   "published": "2026-10-28T18:40:14Z",
+   "added": "2026-10-31T06:02:30Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "91131e1dcff491a8",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4hCEjLaSjUbXzgJ4qdsl2n/280d7a74385fc9209be3998754f73968/vercel-ci-is-now-in-beta.png",
+   "title": "Vercel CI is now in beta",
+   "summary_en": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task marked with a ci tag runs on every push. Vercel CI automatically takes care of: Only running CI that is affected by your code changes Task caching with Vercel Remote Cache Installing dependencies once per run Caching dependencies across code updates To learn more: Check out our blog post Visit the…",
+   "title_mn": "Vercel CI beta хувилбараар нээгдлээ",
+   "summary_mn": "Turborepo-д зориулсан Vercel CI нь нэг мөр тохиргоогоор ажиллаж эхэлсэн бөгөөд хөгжүүлэлтийн хугацааг эрс багасгаж байна.",
+   "body_mn": "Vercel компани Turborepo төслүүдэд зориулсан Vercel CI үйлчилгээгээ beta хэлбэрээр гаргалаа. Хөгжүүлэгчид ганцхан мөр тохиргоо хийснээр өөрсдийн репозиторий холбох боломжтой болсон байна.\n\nVercel-ийн дотоод төслүүдэд хийсэн туршилтаар git push хийснээс хойш CI амжилттай дуусах хугацаа 2-6 дахин хурдассан байна. Энэ нь код бичих агентуудын ажлыг илүү хурдтай үргэлжлүүлэхэд чухал нөлөө үзүүлж байна.",
+   "published": "2026-10-28T19:00:00Z",
+   "added": "2026-10-31T06:02:30Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "21b575bfe89cd20a",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "summary_en": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+   "title_mn": "Anthropic AI хэрэгслийн үр дүнг хэмжих шинэ тайлангийн хэрэгслүүд нэмлээ",
+   "summary_mn": "Anthropic компани байгууллагын хэрэглэгчдэд AI хэрэгслийн зардлыг хянаж, үр өгөөжийг харах шинэ тайлангийн систем гаргалаа.",
+   "body_mn": "Anthropic компани өөрийн Claude Code болон бусад AI хэрэгслүүдэд зарцуулж буй хөрөнгө оруулалтынхаа үр дүнг байгууллагуудад харуулах шинэ тайлангийн хэрэгслүүдийг танилцууллаа. Компанийн санхүүгийн үзүүлэлтүүд өндөр өсөлттэй байгаа энэ үед байгууллагын хэрэглэгчдийн зардлын менежментийг сайжруулахад анхаарч байна.\n\nШинэ хэрэгслүүд нь менежерүүдэд багийнхаа бүтээмж, зарцуулсан токен болон ажлын урсгалын үр дүнг хугацаагаар нь хянах боломж олгоно. Мөн токен зарцуулалтыг илүү сайн удирдахын тулд нэгдсэн төсвийн зохицуулалтуудыг хийжээ.\n\nJellyfish компанийн судалгаагаар Claude Code болон Anthropic-ийн загварууд нь агентын код бичих хэрэгслүүдийн дунд өндөр хэрэглээтэй хэвээр байгаа бөгөөд хөгжүүлэлтийн нийт зардлын тодорхой хувийг эзэлж байгааг онцолсон байна.",
+   "published": "2026-10-28T19:19:58Z",
+   "added": "2026-10-31T06:02:30Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4e1a0a4d98ab9efd",
+   "subtopic": "nextjs",
+   "source": "Next.js Blog",
+   "source_label": "Next.js Blog",
+   "url": "https://nextjs.org/blog/ship-less-javascript-with-ai",
+   "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/ship-less-javascript-with-ai/twitter-card.png",
+   "title": "Ship less JavaScript in Next.js with your AI agent",
+   "summary_en": "Optimize your Next.js app's bundles with the next-bundle-optimizer agent skill, or explore them yourself with new Bundle Analyzer tools.",
+   "title_mn": "Next.js 16.4: AI агентаар JavaScript багцын хэмжээг багасгах боломжтой боллоо",
+   "summary_mn": "Next.js 16.4 хувилбарт Turbopack-ийн модуль бүтцийг шинжлэн илүүдэл кодыг автоматаар цэгцлэх next-bundle-optimizer агентын ур чадварыг танилцууллаа.",
+   "body_mn": "Next.js 16.4 хувилбар гарч, аппликейшны JavaScript багцын (bundle) хэмжээг AI агентаар шинжлүүлж автоматаар багасгах боломжтой боллоо. Өмнөх Next.js 16.1 хувилбарт анх гарсан Turbopack Bundle Analyzer хэрэгслийг өргөтгөж, AI агентад зориулсан next-bundle-optimizer ур чадварыг шинээр нэмсэн байна.\n\nЭнэхүү ур чадварыг /next-bundle-optimizer командаар ажиллуулах бөгөөд Turbopack-ийн модуль графийг шинжилж, санамсаргүйгээр шууд дуудагдсан хүнд сангуудыг илрүүлдэг. Улмаар агент нь кодын бүтцийг өөрчилж, шаардлагатай модулиудыг хойшлуулж ачаалах (lazy load) зөвлөмж өгөхөөс гадна PR нээж өөрчлөлтийг автоматаар оруулах боломжтой.\n\nVercel баг энэ хэрэгслийг v0 болон vercel.com төслүүд дээрээ туршиж, нийт 2MB орчим шахсан кодын хэмжээг хэмнэсэн байна. Мөн интерактив next analyze хэрэгсэлд анхны хуудас ачаалахад саад болж буй синхрон модулиудыг шүүж харах, шинжилгээний snapshot-уудыг хооронд нь харьцуулах боломжууд нэмэгджээ.",
+   "published": "2026-10-28T20:00:00Z",
+   "added": "2026-10-31T06:02:30Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 5
   }

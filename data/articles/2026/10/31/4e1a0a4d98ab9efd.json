@@ -1,0 +1,17 @@
+{
+ "id": "4e1a0a4d98ab9efd",
+ "subtopic": "nextjs",
+ "source": "Next.js Blog",
+ "source_label": "Next.js Blog",
+ "url": "https://nextjs.org/blog/ship-less-javascript-with-ai",
+ "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/ship-less-javascript-with-ai/twitter-card.png",
+ "title": "Ship less JavaScript in Next.js with your AI agent",
+ "summary_en": "Optimize your Next.js app's bundles with the next-bundle-optimizer agent skill, or explore them yourself with new Bundle Analyzer tools.",
+ "title_mn": "Next.js 16.4: AI агентаар JavaScript багцын хэмжээг багасгах боломжтой боллоо",
+ "summary_mn": "Next.js 16.4 хувилбарт Turbopack-ийн модуль бүтцийг шинжлэн илүүдэл кодыг автоматаар цэгцлэх next-bundle-optimizer агентын ур чадварыг танилцууллаа.",
+ "body_mn": "Next.js 16.4 хувилбар гарч, аппликейшны JavaScript багцын (bundle) хэмжээг AI агентаар шинжлүүлж автоматаар багасгах боломжтой боллоо. Өмнөх Next.js 16.1 хувилбарт анх гарсан Turbopack Bundle Analyzer хэрэгслийг өргөтгөж, AI агентад зориулсан next-bundle-optimizer ур чадварыг шинээр нэмсэн байна.\n\nЭнэхүү ур чадварыг /next-bundle-optimizer командаар ажиллуулах бөгөөд Turbopack-ийн модуль графийг шинжилж, санамсаргүйгээр шууд дуудагдсан хүнд сангуудыг илрүүлдэг. Улмаар агент нь кодын бүтцийг өөрчилж, шаардлагатай модулиудыг хойшлуулж ачаалах (lazy load) зөвлөмж өгөхөөс гадна PR нээж өөрчлөлтийг автоматаар оруулах боломжтой.\n\nVercel баг энэ хэрэгслийг v0 болон vercel.com төслүүд дээрээ туршиж, нийт 2MB орчим шахсан кодын хэмжээг хэмнэсэн байна. Мөн интерактив next analyze хэрэгсэлд анхны хуудас ачаалахад саад болж буй синхрон модулиудыг шүүж харах, шинжилгээний snapshot-уудыг хооронд нь харьцуулах боломжууд нэмэгджээ.",
+ "published": "2026-10-28T20:00:00Z",
+ "added": "2026-10-31T06:02:30Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

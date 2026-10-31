@@ -1,0 +1,17 @@
+{
+ "id": "21b575bfe89cd20a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "TechCrunch",
+ "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+ "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
+ "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+ "summary_en": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+ "title_mn": "Anthropic AI хэрэгслийн үр дүнг хэмжих шинэ тайлангийн хэрэгслүүд нэмлээ",
+ "summary_mn": "Anthropic компани байгууллагын хэрэглэгчдэд AI хэрэгслийн зардлыг хянаж, үр өгөөжийг харах шинэ тайлангийн систем гаргалаа.",
+ "body_mn": "Anthropic компани өөрийн Claude Code болон бусад AI хэрэгслүүдэд зарцуулж буй хөрөнгө оруулалтынхаа үр дүнг байгууллагуудад харуулах шинэ тайлангийн хэрэгслүүдийг танилцууллаа. Компанийн санхүүгийн үзүүлэлтүүд өндөр өсөлттэй байгаа энэ үед байгууллагын хэрэглэгчдийн зардлын менежментийг сайжруулахад анхаарч байна.\n\nШинэ хэрэгслүүд нь менежерүүдэд багийнхаа бүтээмж, зарцуулсан токен болон ажлын урсгалын үр дүнг хугацаагаар нь хянах боломж олгоно. Мөн токен зарцуулалтыг илүү сайн удирдахын тулд нэгдсэн төсвийн зохицуулалтуудыг хийжээ.\n\nJellyfish компанийн судалгаагаар Claude Code болон Anthropic-ийн загварууд нь агентын код бичих хэрэгслүүдийн дунд өндөр хэрэглээтэй хэвээр байгаа бөгөөд хөгжүүлэлтийн нийт зардлын тодорхой хувийг эзэлж байгааг онцолсон байна.",
+ "published": "2026-10-28T19:19:58Z",
+ "added": "2026-10-31T06:02:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

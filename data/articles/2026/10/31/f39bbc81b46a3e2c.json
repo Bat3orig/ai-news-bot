@@ -1,0 +1,17 @@
+{
+ "id": "f39bbc81b46a3e2c",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5JEHxyDfnRulsPLxQKMdf7/61a60b73784acacc7e27c0e74d68f8b2/image__57_.png",
+ "title": "Box Mount now runs in Vercel Sandbox",
+ "summary_en": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the sandbox, and everything the agent wrote is in Box after the sandbox is deleted. The contract-review example uses AI Gateway to review a synthetic contract in Vercel Sandbox and save the review back to Box. The sync process and agent run as separate sandbox users, keeping the Box credentials separate from the agent's workspace. Box Mount is in private preview. Request access from Box, then follow…",
+ "title_mn": "Vercel Sandbox орчинд Box Mount ажилладаг боллоо",
+ "summary_mn": "Box Mount хэрэгсэл нь Vercel Sandbox дотор ажиллаж буй агентуудад файл системээр дамжуулан Box файлтай ажиллах боломж олгож байна.",
+ "body_mn": "Vercel Sandbox орчинд Box Mount боломжтой болсноор хиймэл оюун ухааны агентууд Box хавтсыг стандарт файлын системийн үйлдлүүд ашиглан унших, бичих боломжтой боллоо. Энэ нь sandbox доторх директор болон Box хавтсыг хооронд нь синк хийдэг байна.\n\nЖишээ болгон гэрээ шалгах процессыг AI Gateway болон Vercel Sandbox ашиглан хэрэгжүүлсэн бөгөөд синк хийх болон агент нь тусдаа хэрэглэгчдээр ажилласнаар аюулгүй байдлыг хангадаг. Энэхүү боломж нь одоогоор private preview хэлбэрээр туршигдаж байна.",
+ "published": "2026-10-28T18:00:00Z",
+ "added": "2026-10-31T06:02:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
