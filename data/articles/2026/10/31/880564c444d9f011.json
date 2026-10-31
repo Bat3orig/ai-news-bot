@@ -1,0 +1,17 @@
+{
+ "id": "880564c444d9f011",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/mistral-large-4-updated-weights-and-lower-pricing-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4zsIkxuiWqrRK1J1ypZMPI/b6b7410a77513ceb2feb10878638493f/Vercel_x_Mistral.png",
+ "title": "Mistral Large 4 updated weights and lower pricing on AI Gateway",
+ "summary_en": "Mistral Large 4 from Mistral now uses updated weights on AI Gateway , with lower pricing for input, cached input, and output tokens. According to Mistral’s release announcement , the updated weights improve agentic coding and defensive cybersecurity, with greater token efficiency on coding tasks. The release also improves spreadsheet creation and editing, web research, and resistance to prompt injection. If you were already using mistral/mistral-large-4 via AI Gateway, there is no need to change your model to start using the updated version. The existing model ID string uses the new model…",
+ "title_mn": "Mistral Large 4 загварын шинэчлэгдсэн жин болон үнэ AI Gateway дээр гарлаа",
+ "summary_mn": "Mistral AI компани Mistral Large 4 загварынхаа жинг шинэчилж, AI Gateway дээр оролт, кэшлэгдсэн оролт болон гаралтын токенийн үнийг буурууллаа. Энэхүү шинэчлэлт нь агентын код бичих болон кибер аюулгүй байдлын чадварыг сайжруулж байна.",
+ "body_mn": "AI Gateway платформ дээр Mistral Large 4 загварын шинэчлэгдсэн жин болон хямдарсан үнэ боломжтой боллоо. Шинэчлэгдсэн загвар нь код бичих болон кибер аюулгүй байдлын даалгавруудыг гүйцэтгэх чадварыг сайжруулж, токенийн үр ашгийг нэмэгдүүлсэн байна. Мөн хүсэлт оруулах халдлагад тэсвэртэй байх, вэб судалгаа хийх зэрэг чадварууд сайжиржээ.\n\nХэрэв та өмнө нь AI Gateway дээр mistral/mistral-large-4 загварыг ашиглаж байсан бол загварын ID-гаа өөрчлөх шаардлагагүйгээр шинэ хувилбар болон хямдарсан үнийг автоматаар ашиглах юм. Vercel CLI-г шинэчлэн суулгаснаар уг загварыг Claude Code, Codex, Cursor болон бусад хэрэгслүүдэд тохируулан ашиглах боломжтой.\n\nAI Gateway нь үйлчилгээ үзүүлэгчийн үндсэн үнийг ямар нэг нэмэгдэлгүйгээр хүргэдэг бөгөөд Bring Your Own Key хүсэлтүүдэд платформын хураамж авдаггүй. Энэ нь хөгжүүлэгчдэд загваруудыг нэгдсэн API-аар дамжуулан ашиглах, зардал хянах, ажиллах хугацааг сайжруулах боломжийг олгодог.",
+ "published": "2026-10-29T00:00:00Z",
+ "added": "2026-10-31T12:53:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

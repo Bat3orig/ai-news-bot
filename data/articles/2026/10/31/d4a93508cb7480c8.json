@@ -1,0 +1,17 @@
+{
+ "id": "d4a93508cb7480c8",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.41.0",
+ "image": "https://opengraph.githubassets.com/4586688e98fb9b1a0a18f3793397654f7b5a8628433ee9aa1247c10b2ce97667/openai/openai-python/releases/tag/v3.41.0",
+ "title": "openai-python v3.41.0",
+ "summary_en": "3.41.0 (2026-10-28) Features api: accept typed references in Realtime response inputs ( #4189 ) ( 8ecb487 ) api: add response tool usage models ( #4201 ) ( 55fc500 ) api: filter agent sessions by metadata ( #4200 ) ( 77fd116 ) websocket: recover queued binary frames after reconnect ( #4191 ) ( f079868 ) Bug Fixes examples: detect incomplete WebSocket responses ( #4187 ) ( 8559299 ) examples: handle interruptions and disconnects in push-to-talk ( #4192 ) ( 35fc9f3 ) keep consumer fixtures clean under strict Pyright ( #4204 ) ( 5012565 ) Chores api: document upcoming model shutdowns ( #4199 )…",
+ "title_mn": "openai-python v3.41.0 хувилбар шинэ боломжуудтайгаар гарлаа",
+ "summary_mn": "openai-python сангийн v3.41.0 шинэчлэлтээр Realtime холболтод төрөлжсөн (typed) хаултыг дэмжих, хэрэгслийн ашиглалтын загварууд болон агентын сессийг мета өгөгдлөөр шүүх боломжууд нэмэгдлээ.",
+ "body_mn": "OpenAI python сангийн шинэ v3.41.0 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон чухал шинэ боломж болон алдаа засруудыг багтаажээ.\n\nГол шинэчлэлтүүдээс дурдвал, Realtime хариу оролтод төрөлжсөн холбоосыг хүлээн авах, хариу хэрэгслийн ашиглалтын загварууд нэмэгдсэн ба агентын сессүүдийг мета өгөгдлөөр нь шүүх боломжтой болсон байна. Мөн websocket холболтын үед дахин холбогдох явцад дараалалд орсон хоёртын хүрээнүүдийг (binary frames) сэргээх чадамжийг сайжруулжээ.\n\nТүүнчлэн Pyright strict горимын дор шалгалтуудыг цэвэр байлгах, удахгүй хаагдах загваруудыг баримтжуулах болон хөгжүүлэлтийн төрөл шалгалтыг ty рүү шилжүүлэх зэрэг техникийн засварууд хийгдсэн байна.",
+ "published": "2026-10-28T22:26:54Z",
+ "added": "2026-10-31T12:53:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

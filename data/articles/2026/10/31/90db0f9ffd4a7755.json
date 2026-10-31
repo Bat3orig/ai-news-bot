@@ -1,0 +1,17 @@
+{
+ "id": "90db0f9ffd4a7755",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-connect-adds-webhook-triggers-for-more-providers",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6EQMPU0cNQynXCrzLPOZ32/92d2c6d1c303dde52c15c812c8a6a429/webhook_triggers_og.png",
+ "title": "Vercel Connect adds webhook triggers for more providers",
+ "summary_en": "Vercel Connect now supports webhook triggers for Resend , X , Twilio , Notion , and Telegram . Connect receives webhook events, such as Telegram bot messages or emails received by your Resend domain, and forwards them to an endpoint in your Vercel project. It verifies incoming requests and handles provider heartbeats and verification challenges for you. To get started: Open Vercel Connect in the dashboard. Enable triggers when creating a connector for your provider or in an existing connector’s settings. Connect registers webhooks automatically for Resend and Telegram. For Twilio, Notion…",
+ "title_mn": "Vercel Connect вебхүүк удирдлагыг өргөжүүлж, шинэ үйлчилгээ нэмлээ",
+ "summary_mn": "Vercel Connect нь одоо Resend, X, Twilio, Notion болон Telegram үйлчилгээний вебхүүк хүлээн авах боломжтой болж, хөгжүүлэгчдэд интеграци хийхэд илүү хялбар боллоо.",
+ "body_mn": "Vercel Connect платформ нь вэб хуудас болон үүлэн үйлчилгээ хоорондын холболтыг сайжруулах зорилгоор Resend, X (хуучнаар Twitter), Twilio, Notion болон Telegram үйлчилгээнүүдийн вебхүүк триггерийг дэмждэг болсноо зарлалаа.\n\nЭнэхүү шинэчлэлтийн тусламжтайгаар Connect нь хэрэглэгчдийн Telegram ботын мессеж эсвэл Resend домайнаар ирсэн имэйл зэрэг вебхүүк үйл явдлуудыг хүлээн авч, таны Vercel төсөл дэх тодорхой төгсгөл (endpoint) рүү автоматаар дамжуулах юм. Мөн ирж буй хүсэлтийг баталгаажуулах болон үйлчилгээ үзүүлэгчийн холболтын шалгалтыг өөрөө зохицуулна.\n\nХөгжүүлэгчид Vercel хянах самбар эсвэл Connect тохиргоо руу орж дээрх үйлчилгээнүүдийг идэвхжүүлэх боломжтой ба Observability хэсгээс ирж буй триггер үйл явдлуудыг бодит цаг хугацаанд хянах боломжтой болжээ.",
+ "published": "2026-10-29T00:00:00Z",
+ "added": "2026-10-31T12:53:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

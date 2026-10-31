@@ -1,0 +1,17 @@
+{
+ "id": "68dcb801f302cbca",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/block-ai-crawlers-and-assistants-independently-with-managed-rules",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1OgCQLCwxxjTR2m0dg2X55/ecec064f56edf89ddf17a13a8457d07e/ai_bots_and_crawlers_og.png",
+ "title": "Control AI crawlers and assistants separately in Vercel Firewall",
+ "summary_en": "You can now log or block requests from AI crawlers and AI assistants separately with the AI Bots managed ruleset in Vercel Firewall . AI crawlers: bots that collect content for indexing and model training AI assistants: bots that fetch pages in response to user actions or search queries For example, you can block AI crawlers while allowing AI assistants to retrieve your content to answer users’ questions. Vercel updates the rules as new bots are added. To configure these controls, open your project’s Security > Firewall > Rules . Under Bot Management , enable AI Bots and select the gear icon…",
+ "title_mn": "Vercel Firewall системд AI мөлхөгч болон туслахуудыг тусад нь хянах боломжтой боллоо",
+ "summary_mn": "Vercel Firewall-ийн AI Bots дүрэмд оруулсан шинэчлэлтээр хөгжүүлэгчид AI мөлхөгч (crawlers) болон AI туслах (assistants) ботуудын хандалтыг тус тусад нь ялгаж хориглох эсвэл зөвшөөрөх боломжтой болжээ.",
+ "body_mn": "Vercel Firewall нь хэрэглэгчдэд вэбсайтынхаа аюулгүй байдлыг илүү нарийвчлалтай удирдах боломжийг олгох үүднээс AI Bots удирдлагын шинэ дүрэм гаргалаа. Ингэснээр контент индексаци болон загвар сургалтад зориулж мэдээлэл цуглуулдаг AI мөлхөгчдийг, хэрэглэгчийн асуултад хариулах зорилгоор хуудас татаж авдаг AI туслахуудаас ялгаж хянах боломжтой болж байна.\n\nЖишээлбэл, хөгжүүлэгчид AI мөлхөгчдийн хандалтыг бүрэн хааж, харин хэрэглэгчдийн асуултад хариулдаг AI туслахуудад вэбсайтынхаа контентыг уншихыг зөвшөөрөх тохиргоог хийх боломжтой. Систем шинээр гарч буй ботуудын мэдээллийг автоматаар шинэчилж байх юм.\n\nУг тохиргоог төслийн Security > Firewall > Rules хэсгээс эсвэл Vercel CLI ашиглан хялбархан хийх боломжтой бөгөөд бүх төлөвлөгөөний хэрэглэгчдэд нээлттэй байна.",
+ "published": "2026-10-29T00:00:00Z",
+ "added": "2026-10-31T12:53:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

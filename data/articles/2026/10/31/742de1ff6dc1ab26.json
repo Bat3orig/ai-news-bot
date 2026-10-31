@@ -1,0 +1,17 @@
+{
+ "id": "742de1ff6dc1ab26",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-plugin-is-now-available-in-antigravity",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5IAiUIdwxO50XxirBI2fRT/736a807a482cc6633698ee79b1a0be8f/vercel-plugin-antigravity-og.png",
+ "title": "Vercel Plugin is now available in Antigravity",
+ "summary_en": "The Vercel Plugin is now available in the Google Antigravity marketplace. Use the Vercel Plugin to give your Antigravity agent guidance on Vercel APIs and recommended patterns, with skills for products such as AI SDK , Vercel Functions , and Workflow . This demo shows an Antigravity agent using the Vercel Plugin to build and deploy a Python backend with Vercel Sandbox : Install the Vercel Plugin by opening Customizations → Marketplace in the Antigravity App and searching for Vercel , then see the Vercel Plugin documentation for available skills and guidance. Read more",
+ "title_mn": "Antigravity зах зээлд Vercel Plugin нэмэгдлээ",
+ "summary_mn": "Google Antigravity аппликейшний зах зээлд Vercel Plugin албан ёсоор нэмэгдлээ. Энэхүү залгаас нь хөгжүүлэгчдэд AI SDK, Vercel Functions болон Workflow бүтээгдэхүүнүүдээр дамжуулан агентдаа чиглэл өгөх боломжийг олгоно.",
+ "body_mn": "Google Antigravity аппликейшний Customizations болон Marketplace хэсгээс Vercel Plugin-ийг хайж олуулан суулгах боломжтой боллоо. Тус залгаас нь хөгжүүлэгчдэд Vercel-ийн API болон санал болгох загваруудын талаар агентууддаа зааварчилгаа өгөхөд тусална.\n\nЭнэхүү хэрэгсэл нь AI SDK, Vercel Functions болон Workflow зэрэг бүтээгдэхүүнүүдэд зориулсан төрөл бүрийн ур чадваруудыг агуулсан байна. Тухайлбал, хөгжүүлэгчид Antigravity агентаа ашиглан Vercel Sandbox орчинд Python backend хөгжүүлж, байршуулах боломжтой ажээ.\n\nЗалгаасыг суулгасны дараа холбогдох баримт бичгүүдээс боломжит ур чадварууд болон зааварчилгааг үзэж танилцах боломжтой. Энэ нь хиймэл оюун ухааны агентуудын тусламжтайгаар үүлэн дэд бүтцийн үйл ажиллагааг илүү хялбар удирдах боломжийг бүрдүүлж байна.",
+ "published": "2026-10-29T00:00:00Z",
+ "added": "2026-10-31T12:53:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

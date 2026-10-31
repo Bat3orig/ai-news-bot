@@ -1,0 +1,17 @@
+{
+ "id": "6e0ee9742ced0005",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "ExecutiveGov",
+ "url": "https://www.executivegov.com/articles/gsa-anthropic-onegov-claude-discount",
+ "image": "https://media.executivegov.com/2026/10/egov-general-services-administration-gsa-2.jpg",
+ "title": "GSA Expands Anthropic OneGov Deal With 40-Percent Claude Token Discount",
+ "summary_en": "The expanded Claude deal covers FedRAMP-authorized environments and gives agencies multiple purchasing options.",
+ "title_mn": "GSA нь Anthropic-Tei хийсэн гэрээг өргөжүүлж, Claude токенд 40%-ийн хөнгөлөлт үзүүлэв",
+ "summary_mn": "Америкийн Нэгдсэн Улсын Ерөнхий үйлчилгээний газар (GSA) OneGov гэрээгээ өргөжүүлж, төрийн байгууллагуудад Claude загваруудыг ашиглахад нь 40 хувийн хөнгөлөлт олгохоор боллоо. Энэхүү хөнгөлөлт нь холбооны, муж болон орон нутгийн бүх шатны байгууллагуудад хамаарна.",
+ "body_mn": "АНУ-ын Ерөнхий үйлчилгээний газар (GSA) нь Anthropic компанитай байгуулсан OneGov гэрээгээ шинэчилж, төрийн болон орон нутгийн байгууллагуудад Claude хиймэл оюун ухааны загваруудын токен ашиглалтад 40 хувийн хөнгөлөлт үзүүлэхээр болсноо зарлалаа. Энэхүү гэрээ нь ямар нэгэн доод хязгаарлалтгүйгээр зөвхөн бодит ашиглалтаар нь тооцож төлбөр хийх боломжийг бүрдүүлж байгаа юм.\n\nШинэчилсэн нөхцөлийн дагуу уг хөнгөлөлт нь төрийн байгууллагуудад зориулсан FedRAMP зөвшөөрөлтэй орчинд ажилладаг Claude загваруудыг бүрэн хамарна. Хэрэглэгчид үйлчилгээг шууд эсвэл үүлэн тооцооллын томоохон үйлчилгээ үзүүлэгчдээр дамжуулан худалдан авах боломжтой байна.\n\nӨмнө нь GSA нь OpenAI компанитай мөн адил 27 сарын хугацаатай гэрээ байгуулж, ChatGPT ашиглалтад 50 хувийн хөнгөлөлт үзүүлж байсан түүхтэй. Тус агентлагийн мэдээлснээр OneGov санаачилга нь татвар төлөгчдийн хөрөнгөөс 1.8 тэрбум ам.долларын хэмнэлт гаргасны дийлэнх хэсгийг хиймэл оюун ухааны гэрээ эзэлж байна.",
+ "published": "2026-10-28T21:24:49Z",
+ "added": "2026-10-31T12:53:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

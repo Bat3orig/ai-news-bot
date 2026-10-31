@@ -1,0 +1,17 @@
+{
+ "id": "20a8a6e02e5d8c89",
+ "subtopic": "packages",
+ "source": "Node Weekly",
+ "source_label": "Node Weekly",
+ "url": "https://nodeweekly.com/issues/645",
+ "image": "https://res.cloudinary.com/cpress/image/upload/v1653576619/lgfqinzbdqttwmhvljxb.png",
+ "title": "Node security releases to fix a Brotli flaw",
+ "summary_en": "#​645 — October 29, 2026 Read on the Web Node.js 26 'Lithium' Is Now the Active LTS Line — Node.js 26.13.0 promotes Node 26 to long-term support, with updates through April 2029, making it the new line to target for production. Node 24 has moved into maintenance and 22 remains in maintenance until April 2027 – the Node releases page has a neat graph to visualize this. Node.js Release Team 💡 Meanwhile, Node 27's first alpha , the first release under Node's new annual release schedule , is being prepared and should land later today. Build an Agent that Never Sleeps — Most agents stop when you…",
+ "title_mn": "Node.js 26 LTS албан ёсоор гарч, Brotli эмзэг байдлыг засварлав",
+ "summary_mn": "Node.js 26 хувилбар урт хугацааны дэмжлэгтэй (LTS) болж идэвхжсэн ба октябряд гаргасан аюулгүй байдлын шинэчлэлтээр Brotli декодерын эмзэг байдал зэрэг чухал алдаануудыг засварлалаа. Мөн .sql файлуудыг TypeScript рүү төрөл дамжуулалттайгаар оруулах Reylo болон бусад шинэ сангууд гарчээ.",
+ "body_mn": "Node.js 26 'Lithium' хувилбар албан ёсоор урт хугацааны дэмжлэгтэй (LTS) шугамд шилжиж, 2029 оны 4-р сар хүртэлх шинэчлэлтүүдийг авах боллоо. Үүнтэй холбогдуулан октябряд гаргасан аюулгүй байдлын шинэчлэлтүүдээр node:zlib модулиар дамжин алсын зайнаас код ажиллуулах эрсдэлтэй байсан Brotli декодерын алдааг багтаасан арван CVE эмзэг байдлыг засварласан байна.\n\nTypeScript болон сангуудын хувьд хөгжүүлэгчдийн анхаарлыг татаж буй шинэ хэрэгслүүд гарлаа. Zod-ийн зохиогчийн бүтээсэн Reylo сан нь энгийн .sql файлуудыг TypeScript рүү шууд импортлох боломж олгож, ямар нэг код үүсгэх (codegen) алхамгүйгээр мөр болон параметрийн төрлийг автоматаар тодорхойлдог байна. Мөн OpenTelemetry JavaScript SDK 3.0 хувилбар нь ESM болон CommonJS хоёрдогч бүтээцийг дэмжиж, үндсэн trace SDK-уудыг нэг багц болгон нэгтгэжээ.\n\nҮүнээс гадна Dependency Cruiser 18.7 шинэчлэгдэж, төслийн файлуудын хамаарлыг шалгах, тойрог хамаарлыг илрүүлэх болон үр дүнг график хэлбэрээр харуулах боломжоор хангасан байна. Энэ мэрэгжлийн шинэчлэлтүүд нь хөгжүүлэгчдэд илүү найдвартай, аюулгүй backend болон пакетууд бүтээхэд чухал хувь нэмэр оруулж байна.",
+ "published": "2026-10-29T00:00:00Z",
+ "added": "2026-10-31T12:53:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

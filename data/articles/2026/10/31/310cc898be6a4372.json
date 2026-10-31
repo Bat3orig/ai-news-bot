@@ -1,0 +1,17 @@
+{
+ "id": "310cc898be6a4372",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1WMW1oTnnmefLvkJVBJYo4/706bc9af3ed40064a0fe39d273b812c8/node-vercel.png",
+ "title": "Node.js 26 LTS is now Generally Available on Vercel",
+ "summary_en": "Node.js 26 LTS is now Generally Available for builds and Vercel Functions . This release includes: HTTP/2 by default for built-in fetch ( Undici 8 ) lets multiple requests share a connection with servers that support it. This can reduce latency when your functions call APIs or databases over HTTP. Temporal API offers an alternative to Date with immutable values and built-in time zone and calendar support. V8 version 14.6 , the updated JavaScript engine, adds features such as Map.prototype.getOrInsert() to retrieve an existing value or insert a default when a key is missing. Using Node.js 26…",
+ "title_mn": "Node.js 26 LTS хувилбар Vercel дээр албан ёсоор дэмжигдэж эхэллээ",
+ "summary_mn": "Vercel дээр Node.js 26 LTS хувилбар бүрэн дэмжигдэж эхэлсэн бөгөөд HTTP/2 анхдагчаар ажиллах, Temporal API болон V8 хөдөлгүүрийн шинэ боломжууд нэмэгджээ.",
+ "body_mn": "Vercel платфор дээр Node.js 26 LTS (Long Term Support) хувилбар бүтээлт болон Vercel Functions орчинд албан ёсоор нээлттэй боллоо. Энэхүү шинэ хувилбар нь хөгжүүлэгчдийн бүтээмж болон гүйцэтгэлийг сайжруулах олон дэвшилтэт боломжийг авчирч байна.\n\nҮндсэн fetch (Undici 8) сангаар дамжуулан HTTP/2 протокол анхдагчаар ажиллах болсноор олон хүсэлтүүд нэг холболтыг хуваалцаж, API болон өгөгдлийн сан руу хандах хоцролтыг бууруулна. Мөн Date объектын оронд цагийн бүс болон хуанлийн дэмжлэгтэй immutable утга буцаадаг Temporal API боломжтой боллоо.\n\nTүүнчлэн V8 хөдөлгүүрийн 14.6 хувилбар шинэчлэгдсэнээр Map.prototype.getOrInsert() зэрэг хэрэгцээт функцууд нэмэгдсэн байна. Шинэ төслүүдэд Node.js 26 анхдагч байх бөгөөд хуучин төслүүдийн package.json файлаа шинэчлэх замаар хялбархан ашиглах боломжтой.",
+ "published": "2026-10-29T00:00:00Z",
+ "added": "2026-10-31T12:53:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "42060b01d036ffe3",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
+ "image": "https://opengraph.githubassets.com/6b59c5d3f73687603dacdd640d99f773eb70594a65777afb35272b070d981290/ollama/ollama/releases/tag/v0.40.13",
+ "title": "ollama v0.40.13",
+ "summary_en": "LFM3 on Linux and Windows Liquid AI's LFM3 models, including text-to-speech in lfm3-audio and lfm3-omni , now run on Linux and Windows as well as Apple silicon. Full Changelog : v0.40.12...v0.40.13",
+ "title_mn": "Ollama v0.40.13 гарч, Linux болон Windows дээр LFM3 загваруудыг дэмждэг боллоо",
+ "summary_mn": "Ollama хэрэгслийн шинэ v0.40.13 хувилбар гарч, Liquid AI-ийн LFM3 загваруудыг (текстээс ярианд хөрвүүлэх lfm3-audio болон lfm3-omni оролцуулаад) Linux болон Windows үйлдлийн систем дээр ажиллуулах боломжтой боллоо.",
+ "body_mn": "Ollama төсөл v0.40.13 шинэ хувилбараа албан ёсоор гаргалаа. Энэхүү шинэчлэлтийн гол онцлог нь Liquid AI компанийн LFM3 загваруудыг Apple silicon-оос гадна Linux болон Windows үйлдлийн системүүд дээр дэмждэг болгосон явдал юм.\n\nШинэ хувилбарт мөн текстээс ярианд хөрвүүлэх чадвартай lfm3-audio болон lfm3-omni загваруудыг орон нутгийн орчинд (local) ажиллуулах боломжийг бүрдүүлжээ. Хөгжүүлэгчид өөрсдийн компьютер дээрээ дэвшилтэт аудио болон олон төрлийн мэдээлэл боловсруулах чадвартай хиймэл оюун ухааны загваруудыг төвөггүй туршиж үзэх боломжтой болж байна.\n\nOllama-ийн энэхүү хөгжүүлэлт нь хөгжүүлэгчдэд үүлэн үйлчилгээнээс хамаарал багатайгаар дотоод орчиндоо орон нутгийн LLM болон аудио загваруудыг нэгтгэн ашиглах ажлыг улам хялбарчилж байна.",
+ "published": "2026-10-29T02:54:11Z",
+ "added": "2026-10-31T12:53:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
