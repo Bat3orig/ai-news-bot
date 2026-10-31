@@ -1,0 +1,17 @@
+{
+ "id": "512abb14fe7f1df6",
+ "subtopic": "motion",
+ "source": "motiondivision/motion",
+ "source_label": "motiondivision/motion",
+ "url": "https://github.com/motiondivision/motion/releases/tag/v14.8.0",
+ "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+ "title": "motion v14.8.0",
+ "summary_en": "v14.8.0",
+ "title_mn": "Motion v14.8.0 хувилбар гарлаа",
+ "summary_mn": "Вэб анимэйшны Motion (хуучнаар Framer Motion) сангийн шинэ v14.8.0 хувилбар гарлаа.",
+ "body_mn": "Вэб хөгжүүлэлтийн алдартай анимэйшн сан болох Motion (хуучнаар Framer Motion)-ийн v14.8.0 хувилбар албан ёсоор нийтлэгдлээ.\n\nШинэ хувилбарын талаарх дэлгэрэнгүй release notes удахгүй төслийн GitHub хуудсанд бүрэн нийтлэгдэх бөгөөд хөгжүүлэгчид өөрсдийн төслөө хамгийн сүүлийн хувилбар луу шинэчлэн турших боломжтой.",
+ "published": "2026-10-29T17:50:27Z",
+ "added": "2026-10-31T23:52:45Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

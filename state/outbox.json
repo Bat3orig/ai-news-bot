@@ -918,5 +918,45 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8247b13c581ec5a1",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/improved-ip-geolocation-data",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2UIVVVCUe8L0ChkKZFdDEE/449293f491ee0fed475d758e2f06c21c/image__58_.png",
+   "title": "IP geolocation now covers more visitors at higher resolution",
+   "summary_en": "IP geolocation on Vercel now resolves visitor locations with finer network granularity, delivering city-level data for nearly all requests and postal-code data for 90% of traffic. Geolocation data is now refreshed more often, so locations keep up as IP ranges are reassigned and routing changes. This is enabled for all projects with no code or configuration changes required. Existing geolocation headers along with the geolocation() helper in @vercel/functions , return the same fields for Vercel Functions and Routing Middleware . If you use geolocation for access controls, localization, or…",
+   "title_mn": "Vercel-ийн IP геолокаци сайжирч, зип код болон хотын нарийвчлалтай боллоо",
+   "summary_mn": "Vercel тавцангийн IP геолокаци шинэчлэгдэж, нийт хүсэлтийн бараг бүгдэд нь хотын түвшинд, 90 хувьд нь шуудангийн кодын нарийвчлалтай байршлыг тодорхойлдог боллоо.",
+   "body_mn": "Vercel тавцангийн IP геолокацийн системд сүлжээний нарийвчлалыг мэдэгдэхүйц ахиулсан шинэчлэл орлоо. Ингэснээр бараг бүх хүсэлтийн хувьд хотын түвшний мэдээлэл болон нийт траффикийн 90 хувьд нь шуудангийн кодын (postal-code) нарийвчлалтай өгөгдөл буцаах боломж бүрдэж байна. Мөн IP хаягийн хуваарилалт, чиглүүлэлтийн өөрчлөлтүүдийг илүү хурдан тусгахын тулд өгөгдөл шинэчлэгдэх давтамжийг нэмэгдүүлжээ.\n\nЭнэхүү шинэчлэл нь хэрэглэгчийн кодод болон тохиргоонд ямар нэгэн өөрчлөлт шаардахгүйгээр бүх төслүүдэд шууд идэвхэжсэн байна. Одоо ашиглагдаж буй геолокацийн header-үүд болон @vercel/functions багцын geolocation() туслах функц нь Vercel Functions болон Routing Middleware дээр өмнөх талбаруудаа хэвээр буцаана.\n\nХандалтын хяналт, орон нутаглал (localization) эсвэл хууль эрх зүйн зохицуулалтад геолокаци ашигладаг системүүдийн хувьд зарим зочдын байршил, ялангуяа VPN болон хостинг үйлчилгээний IP хаягууд өөр хот, улсаар тодорхойлогдож магадгүйг анхаарах хэрэгтэй. Жишээлбэл, өөр улсын хостингоос зарлагдсан сүлжээнүүд бүртгэлийн RIR бичлэгээс илүүтэй траффик бодитоор төгсөж буй дата төвийн байршлаар тодорхойлогдох болсон байна.",
+   "published": "2026-10-29T17:00:00Z",
+   "added": "2026-10-31T23:52:45Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "512abb14fe7f1df6",
+   "subtopic": "motion",
+   "source": "motiondivision/motion",
+   "source_label": "motiondivision/motion",
+   "url": "https://github.com/motiondivision/motion/releases/tag/v14.8.0",
+   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+   "title": "motion v14.8.0",
+   "summary_en": "v14.8.0",
+   "title_mn": "Motion v14.8.0 хувилбар гарлаа",
+   "summary_mn": "Вэб анимэйшны Motion (хуучнаар Framer Motion) сангийн шинэ v14.8.0 хувилбар гарлаа.",
+   "body_mn": "Вэб хөгжүүлэлтийн алдартай анимэйшн сан болох Motion (хуучнаар Framer Motion)-ийн v14.8.0 хувилбар албан ёсоор нийтлэгдлээ.\n\nШинэ хувилбарын талаарх дэлгэрэнгүй release notes удахгүй төслийн GitHub хуудсанд бүрэн нийтлэгдэх бөгөөд хөгжүүлэгчид өөрсдийн төслөө хамгийн сүүлийн хувилбар луу шинэчлэн турших боломжтой.",
+   "published": "2026-10-29T17:50:27Z",
+   "added": "2026-10-31T23:52:45Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
  }
 ]
