@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "7ea5e5653a712c31",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-28-repository-plugin-defaults-and-enterprise-plugin-controls-generally-available",
-   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
-   "title": "Repository plugin defaults and enterprise plugin controls generally available",
-   "summary_en": "Repository plugin defaults and enterprise-managed plugin controls are now generally available in VS Code, Copilot CLI, and the GitHub Copilot app. Trusted repositories can install and enable default plugins for…",
-   "title_mn": "GitHub Copilot плагины удиirdah боломж болон Enterprise тохиргоо нээгдлээ",
-   "summary_mn": "VS Code, Copilot CLI болон GitHub Copilot апп-д репозиторын плагины өгөгдмөл утга болон Enterprise түвшний хяналтууд албан ёсоор ашиглалтад орлоо. Админууд зөвшөөрөгдсөн маркетплейс тохируулж, зарим плагиныг заавал суулгахаар шаардах боломжтой.",
-   "body_mn": "GitHub Copilot-ын шинэ шинэчлэлтээр репозиторын плагины өгөгдмөл тохиргоо болон байгууллагын (Enterprise) түвшний удирдлагууд VS Code, Copilot CLI болон GitHub Copilot апп дотор бүрэн нээгдлээ. Ингэснээр хөгжүүлэгчид төсөл бүрт плагин гараар тохируулах шаардлагагүй болж, итгэмжлэгдсэн репозитороор дамжуулан багийн гишүүдэд автоматаар суулгах боломж бүрдэж байна.\n\nEnterprise админууд зөвшөөрөгдсөн плагины маркетплейсийг холбож, зарим шаардлагатай плагиныг шууд суулгах эсвэл хориглох хязгаарлалтыг төвлөрсөн байдлаар удирдах боломжтой боллоо. Удирдлагын энэхүү тохиргоо нь хувь хэрэглэгчийн сонголтоос илүү давуу эрхтэй үйлчилнэ.\n\nРепозиторын өгөгдмөл тохиргоо нь хувь хэрэглэгчид болон Copilot Business, Enterprise эрхтэй хэрэглэгчдэд нээлттэй байна. Харин удирдлагын хяналтыг GitHub Enterprise Cloud орчин дахь Copilot Business болон Enterprise лиценз эзэмшигчид ашиглах юм.",
-   "published": "2026-10-28T15:33:00Z",
-   "added": "2026-10-30T16:06:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0f9e3af0b07d1473",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
-   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
-   "title": "Build shared workflows for your team with Copilot Automations",
-   "summary_en": "Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the…",
-   "title_mn": "Багаараа хамтран ажиллах Copilot Automations боломж нээгдлээ",
-   "summary_mn": "GitHub Copilot-т багийн хамтын ажиллагаанд зориулсан хуваалцсан (shared) автоматжуулалтын хэрэгслүүд нэмэгдлээ. Ингэснээр хөгжүүлэгчид хиймэл оюуны ажлын урсгалыг багараа хамтран бүтээж, үүлэн орчинд бие даан ажиллуулах боломжтой болж байна.",
-   "body_mn": "GitHub Copilot-ын хуваалцсан автоматжуулалтын хэрэгслүүд (Shared Copilot Automations) албан ёсоор гарч эхэллээ. Энэ нь багийн гишүүдэд зориулсан сануулга (prompts), нөхцөл (triggers) болон хэрэгслүүдийг нэгтгэн хиймэл оюуны ажлын урсгалыг хамтран бүтээх, хадгалах боломжийг олгож байна.\n\nӨмнө нь автоматжуулалт зөвхөн хувь хэрэглэгчийн хэмжээнд ажиллаж, хувийн эрх, AI кредит зарцуулдаг байсан бол шинэ хувилбараар баг даяараа найдан ажиллах боломжтой болж байна. Үүлэн орчинд бие даан ажиллах энэ агентыг ажиллуулахын тулд байгууллагын репозиторт зохих зөвшөөрлийг админ идэвхжүүлсэн байх шаардлагатай.\n\nХуваалцсан автоматжуулалтыг github.com, Copilot апп эсвэл VS Code дотор үүсгэхдээ төрөл хэсгээс 'Shared' гэж сонгох ба дараа нь өөрчлөх боломжгүй. Энэхүү боломж нь Copilot Pro, Pro+, Max, Business болон Enterprise төлөвлөгөө хэрэглэгчдэд шат дараатайгаар хүрэх юм.",
-   "published": "2026-10-28T15:35:00Z",
-   "added": "2026-10-30T16:06:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "44e340e26d727db5",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
-   "image": "https://github.blog/wp-content/uploads/2026/11/Changelog_NewRelease_Unfurl_GitHubIntelligence.jpg",
-   "title": "GitHub intelligence puts your code, context, and history to work",
-   "summary_en": "Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in…",
-   "title_mn": "GitHub intelligence: Код, контекст болон түүхийг ашиглах шинэ чадварууд",
-   "summary_mn": "GitHub Copilot нь багийн ажлын арга барил, репозиторын соёл, төслийн түүхийг санаж ажиллах GitHub intelligence чадваруудыг танилцууллаа. Үүнд Copilot Memory болон Code Search зэрэг шинэ боломжууд багтаж байна.",
-   "body_mn": "AI агент зөвхөн кодыг ойлгоод зогсохгүй багийн гишүүдийн ажлын арга барил, соёл, тохиргоог мэддэг байх ёстой зарчим дээр үндэслэн GitHub intelligence шинэ боломжуудыг нэвтрүүлж байна. Энэ нь агентуудад даалгавар бүрийг эхнээс нь эхлэх бус, өмнөх туршлага дээрээ тулгуурлан ажиллах боломжийг олгох зорилготой юм.\n\nШинэчлэлийн хүрээнд Copilot Memory албан ёсоор нээлтээ хийсэн бөгөөд хөгжүүлэгчийн хувийн тохиргоо болон репозиторын стандартыг сессүүдийн хооронд санаж ажиллана. Жишээ нь, pull request тайлбарыг ямар хэлбэрээр эхлэхийг сануулахад Copilot түүнийг автоматаар дагаж мөрдөх юм. CLI сессүүд дээр хийсэн туршилтаар санах ойн тусламжтайгаар хөгжүүлэгчийн хүслийг биелүүлэх чадвар 93 хувиар өссөн байна.\n\nМөн Copilot dreaming хэсэг нь өмнөх ажлуудаа эргэн харж дүн шинжилгээ хийдэг бол code search болон semantic search тусламжтайгаар хөгжүүлэгч олон репозитор дамжин холбогдох код, файл, тохиргоог хялбархан хайж олох боломжтой боллоо. Энэ нь кодын сангийн бүтцийг илүү нарийн ойлгоход тусална.",
-   "published": "2026-10-28T15:40:00Z",
-   "added": "2026-10-30T16:06:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dd4b9a8fd034b6f2",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-   "image": "https://github.blog/wp-content/uploads/2026/11/679183361-35ff63da-9551-4d66-bbc5-6df787729297.jpg",
-   "title": "Security extension for the GitHub Copilot app",
-   "summary_en": "You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the…",
-   "title_mn": "GitHub Copilot апп доторх аюулгүй байдлын шинэ өргөтгөл",
-   "summary_mn": "GitHub Copilot апп дотроо шууд репозиторын код скан хийх анхааруулгуудыг шалгаж, тайлбарлуулан засварлах боломжтой аюулгүй байдлын өргөтгөл урьдчилсан байдлаар нээгдлээ.",
-   "body_mn": "Хөгжүүлэгчид github.com болон редактор хооронд шилжих шаардлагагүйгээр репозиторын code scanning анхааруулгуудыг GitHub Copilot апп дотор шууд шийдвэрлэх боломжтой боллоо. Шинэ аюулгүй байдлын өргөтгөл нь нээлттэй алдаануудыг олж илрүүлэх, тэдгээрийг тайлбарлуулах эсвэл засварлах арга зам асуухад тусалдаг.\n\nХэрэв танай репозитор code scanning ашигладаг бол энэ өргөтгөл нээлттэй анхааруулгуудыг харуулах бөгөөд Copilot chat-аар дамжуулан асууж тодруулах боломжтой. Энэхүү өргөтгөл нь бусад хэрэгслүүдийн нэгэн адил таны тохируулсан эрхийн бодлогыг чанд баримтална.\n\nУг өргөтгөл автоматаар идэвхжих бөгөөд GitHub Enterprise Cloud болон github.com дээр урьдчилсан байдлаар ажиллаж байна. Тайрч тайлбарлах, засварлах үйлдэл нь стандарт загварын кредитийг зарцуулдаг бол алдаа харах, хаах үйлдэл үнэ төлбөргүй байна.",
-   "published": "2026-10-28T15:45:00Z",
-   "added": "2026-10-30T16:06:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "52eae160f737565b",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-   "image": "https://github.blog/wp-content/uploads/2026/10/Changelog_NewRelease_Unfurl_Centered_GitHubEnterpriseCopilot.jpg",
-   "title": "GitHub Enterprise now includes access to GitHub Copilot",
-   "summary_en": "Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many…",
-   "title_mn": "GitHub Enterprise багц дотор GitHub Copilot эрх шууд багтаж эхэллээ",
-   "summary_mn": "GitHub эсвэл Microsoft дансны багтай хамтран ажилладаг байгууллагууд GitHub Enterprise лиценз бүртээ Copilot үйлчилгээг үнэ төлбөргүйгээр авах боломжтой боллоо.",
-   "body_mn": "GitHub болон Microsoft дансны багуудтай хамтран ажилладаг байгууллагууд одооноос эхлэн GitHub Enterprise лиценз бүртээ Copilot үйлчилгээг шууд шингээж авах боломжтой боллоо. Өмнө нь хөгжүүлэгч бүрийн Copilot суудал болон хиймэл оюуны хэрэглээг тусдаа тооцоолж удирдах шаардлагатай байсан бол одоо Enterprise төсөв болон хэрэглээнд суурилсан бодлого голлох юм.\n\nЭнэхүү боломж нь өөртөө үйлчлэх хэлбэрээр шат дараатай нэвтрэх бөгөөд одоогийн өөртөө үйлчлэх захиалгад ямар нэгэн өөрчлөлт орохгүй. Copilot Business болон Enterprise багцууд хэвээр үргэлжилнэ.\n\nМөн GitHub Enterprise лицензгүй хэрэглэгчид сарын 10 ам.долларын үнэтэй Copilot Standalone хувилбараар дамжуулан ижил боломжийг авах боломжтой. Гэхдээ энэ хүрээнд суудал бүрт сарын үнэгүй AI кредит олгогдохгүй бөгөөд бүх хэрэглээ байгууллагын төсвөөс шууд тооцогдоно.",
-   "published": "2026-10-28T15:50:00Z",
-   "added": "2026-10-30T16:06:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6e6a98d6ace1bf40",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Unite.AI",
-   "url": "https://www.unite.ai/anthropic-adds-ready-to-use-legal-artifacts-gallery-to-claude/",
-   "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-adds-ready-to-use-legal-artifacts-gallery-to-claude.jpg",
-   "title": "Anthropic Adds Ready-to-Use Legal Artifacts Gallery to Claude",
-   "summary_en": "Anthropic on October 28, 2026 introduced a gallery of ready-to-use artifacts for legal work in Claude, extending the Claude for Legal product it launched in May with six Anthropic-built task artifacts, four artifacts bui...",
-   "title_mn": "Claude хууль эрх зүйн салбарт зориулсан бэлэн артефактуудын галерейг нэмлээ",
-   "summary_mn": "Anthropic компани Claude системд хууль эрх зүйн ажилд шууд ашиглах боломжтой бэлэн артефактуудын галерейг танилцууллаа. Энэ нь хуульчдад гэрээ хэлэлцээр шалгах, зохицуулалтын хуваарь гаргах зэрэг олон төрлийн интерактив багаж хэрэгслээр хангана.",
-   "body_mn": "Anthropic компани Claude платформ дээр хууль эрх зүйн мэргэжилтнүүдэд зориулсан бэлэн интерактив артефактуудын шинэ галерейг танилцууллаа. Өнгөрсөн тавдугаар сард гарсан Claude for Legal бүтээгдэхүүнийг өргөжүүлж буй энэхүү шинэчлэлтээр Anthropic өөрийн бүтээсэн 6 task артефакт, хууль зүйн технологийн компаниудын бүтээсэн 4 артефакт болон бусад нэмэлт хэрэгслүүдийг багтаажээ.\n\nАртефактууд нь багууд Claude дотор хамтран ашиглаж, хуваалцах боломжтой хяналтын самбар болон хүснэгт хэлбэрийн интерактив хэрэгслүүд юм. Тус галерейд cite check буюу баримт бичгийн эшлэлийг эх сурвалжтай нь тулгах, jurisdiction survey matrix буюу хууль эрх зүйн зохицуулалтыг муж улс эсвэл улс орноор нь нэгтгэн харуулах хүснэгт зэрэг олон чухал хэрэгслүүд багтжээ.\n\nMөн matter board болон playbook deviation board зэрэг хэрэгслүүд нь гэрээ хэлэлцээр компани стандарт нөхцөлөөс зөвөрч буй эсэхийг автоматаар хянаж, холбогдох ажилтанд чиглүүлэх юм. Anthropic нь Bloomberg Law, Filevine, Ivo зэрэг хууль зүйн олон connector-уудыг нэмсэн бөгөөд Enterprise төлөвлөгөөний хувьд хэрэглэгчийн өгөгдлийг загвар сургахад ашиглахгүй байх өндөр нууцлалыг хангадаг байна.",
-   "published": "2026-10-28T15:50:01Z",
-   "added": "2026-10-30T16:06:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "cf876ffc1c861194",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-   "image": "https://github.blog/wp-content/uploads/2026/11/683299408-b1d020a6-0c6d-49a5-ab57-5434d64fb7f9.png",
-   "title": "Route and orchestrate models with GitHub Copilot Fusion",
-   "summary_en": "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.…",
-   "title_mn": "GitHub Copilot Fusion ерөнхийдөө боломжтой боллоо: загваруудыг автоматаар чиглүүлнэ",
-   "summary_mn": "GitHub Copilot Fusion ерөнхийдөө боломжтой боллоо. Энэ горим нь даалгавар бүрт аль загварыг ашиглахыг Copilot өөрөө шийдэж, олон загварыг хамтад нь ажиллуулдаг. Одоогоор Copilot бүх төлөвлөгөөнд, VS Code, Copilot app, Copilot CLI болон JetBrains IDE-үүдэд боломжтой.",
-   "body_mn": "GitHub Copilot Fusion ерөнхийдөө боломжтой болсон тухай GitHub Changelog-д мэдээлэв. Хөгжүүлэгч бүр даалгавар бүрт тохирох загварыг өөрөө сонгох шаардлагагүй болно. Харин model picker-ээс Copilot Fusion-г сонгоод, хүчин чармайлтын түвшнээ (effort level) тодорхойлоход л хангалттай. Систем нь prompt бүрт аль загваруудыг ашиглах, тэдгээр хэрхэн хамтран ажиллахыг тодорхойлдог.\n\nGitHub-ын мэдээлснээр Project HydraFusion-ийн гүйцэтгэл сайжирсан. Artificial Analysis Coding Agent Index-д Copilot Fusion Max 60 оноо авсан бөгөөд энэ нь Claude Code with Opus 5.5 Max-аас ердөө хоёр оноогоор доогуур байна. Үүнтэй зэрэгцээд даалгавар бүрийн дундаж API зардал ойролцоогоор хагасаар буурч, токений хэрэглээ хагас, даалгавар бүрийн хугацаа 40 орчим хувиар багассан гэж мэдээлсэн.\n\nТөлбөрийн хувьд та загвар бүрийн стандарт үнээр тооцогдоно. Хязгаарлагдмал хугацаанд төлбөртэй Copilot төлөвлөгөөтэй хэрэглэгчдэд Copilot Fusion-ийн загварын зардалд 30 хувийн хөнгөлөлт үзүүлнэ. Админууд аль загваруудыг ашиглахыг хязгаарлах, Fusion-ийг анхдагч болгох эсэхийг удирдах боломжтой.\n\nХөгжүүлэгчдэд энэ нь model switching-ийн гараар хийх ажлыг багасгаж, зардлыг бууруулах боломж олгоно. Гэхдээ загварын сонголтыг хянах шаардлагатай байгаа хүмүүс админ тохиргоогоор хязгаарлалтаа тогтоох хэрэгтэй.",
-   "published": "2026-10-28T16:00:00Z",
-   "added": "2026-10-30T16:06:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "99d6535490b916d0",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Blog",
-   "source_label": "GitHub Blog",
-   "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-   "image": "https://github.blog/wp-content/uploads/2026/10/Octoverse2026_BlogHeader_2.jpg",
-   "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-   "summary_en": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report.",
-   "title_mn": "GitHub Octoverse 2026: AI агент ашигласан төслүүдийн коммит 8 дахин өсжээ",
-   "summary_mn": "GitHub-ийн шинэ тайлангаар өнгөрсөн онд 17.9 тэрбум push хийгдсэн нь өмнөх хоёр жилийн нийлбэрээс давжээ. Ялангуяа AI агентын тохиргоотой шинэ репозиторууд энгийн төслүүдээс 8 дахин илүү коммит бүртгэсэн байна.",
-   "body_mn": "GitHub платформ Octoverse 2026 тайлангаа танилцууллаа. Сүүлийн 12 сарын хугацаанд хөгжүүлэгчид нийт 17.9 тэрбум удаа код илгээсэн (push) нь 2024 болон 2025 оны нийлбэрээс давсан үзүүлэлт болжээ. Бүх төрлийн репозитор дээрх нийт коммитын тоо 34.3 тэрбумд хүрч өссөн байна.\n\nЭнэхүү огцом өсөлтийн гол хөдөлгөгч хүч нь AI агентууд байв. Тайланд дурдсанаар, агентын тохиргооны файл бүхий шинэ репозиторууд ийм тохиргоогүй энгийн төслүүдтэй харьцуулахад дунджаар 8 дахин их коммит бүртгэжээ. Зургаадугаар сараас эхлэн AI агентууд нэг удаагийн туслахаас олон хоногоор үргэлжлэх ажлыг удирдан зохицуулдаг систем болон хувирсан нь бүтээмжид хүчтэй нөлөөлсөн байна.\n\nҮүнээс гадна автоматжуулалтын хэрэглээ эрс нэмэгдэж, GitHub Actions секунд тутамд 1,440 даалгавар (өдөрт 124 сая) ажиллуулж байгаа нь өнгөрсөн оныхоос гурав дахин өссөн дүн юм. Мөн аюулгүй байдлын үүднээс Dependabot-ийн 30 сая гаруй pull request-ийг нэгтгэжээ.",
-   "published": "2026-10-28T16:07:40Z",
-   "added": "2026-10-31T00:20:43Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "52720b9c5b15c47e",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v26.13.0",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.13.0%20(LTS)",
-   "title": "Node.js 26.13.0 (LTS)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 26.13.0 гарлаа: 'Lithium' LTS шатандаа шилжив",
-   "summary_mn": "Node.js 26.x хувилбар 'Lithium' нэртэйгээр албан ёсоор урт хугацааны дэмжлэгтэй (LTS) шатанд шилжиж, 2029 оны 4-р сар хүртэл дэмжигдэхээр боллоо.",
-   "body_mn": "Node.js хөгжүүлэлтийн баг 26.13.0 хувилбарыг нийтэд танилцууллаа. Энэхүү хувилбараар Node.js 26.x салбар нь албан ёсоор 'Lithium' кодын нэртэй Long Term Support (LTS) буюу урт хугацааны дэмжлэгтэй шатандаа орж байна.\n\nЭнэхүү LTS салбар нь 2029 оны дөрөвдүгээр сарын эцэс хүртэл тогтвортой шинэчлэлт, аюулгүй байдлын засваруудыг авах болно. Хувилбарын хувьд 26.12.1-ээс ялгарах гол өөрчлөлт нь процесс болон мета өгөгдөл (process.release объект) дээр LTS төлөвийг тэмдэглэсэн явдал юм.\n\nХөгжүүлэгчдэд зориулсан анхааруулга: Хэрэв та Node.js 24, 22 зэрэг хуучин LTS хувилбараас шилжиж байгаа бол Node.js 25-аас хойш Linux-ийн албан ёсны binary-ууд libatomic сантай холбогддог болсныг анхаарна уу. Зарим Linux тархацууд дээр уг санг тусад нь суулгах шаардлагатай байж болзошгүй.",
-   "published": "2026-10-28T16:58:40Z",
-   "added": "2026-10-31T00:20:43Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e8e0cb1d0e685ced",
-   "subtopic": "gemini",
-   "source": "Google DeepMind",
-   "source_label": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "summary_en": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
-   "title_mn": "Google DeepMind шинэ Gemini 4 Carbon загвараа танилцууллаа",
-   "summary_mn": "Google DeepMind кибер аюулгүй байдал болон урт хугацааны даалгавруудад зориулсан Gemini 4 Carbon загвараа зарлалаа.",
-   "body_mn": "Google DeepMind компани кибер аюулгүй байдал болон урт хугацааны агентлаг даалгавруудыг гүйцэтгэх чадвараараа тэргүүлэх Gemini 4 Carbon загвараа албан ёсоор танилцууллаа. Энэхүү загвар нь Artificial Analysis Intelligence Index жагсаалтын эхэнд бичигдэж, код бичих болон кибер аюулгүй байдлын хамгаалалтын тестүүдэд өндөр амжилт үзүүлсэн байна.\n\nCarbon загвар нь оролт болон гаралт бүрийн хувьд нэг сая токены хувьд Аргон загвартай ижил үнэтэй буюу оролт нь 2 ам доллар, гаралт нь 10 ам доллар байхаар тогтоогджээ. Мөн кэшлэгдсэн оролт 95 хувийн хөнгөлөлттэй байх аж.\n\nЭнэхүү загвар нь нарийн төвөгтэй, олон шатлалт инженерчлэлийн болон алдаа олох ажлуудыг олон хоногоор тасралтгүй гүйцэтгэх чадвартай юм. Хөгжүүлэгчид болон аж ахуйн нэгжүүдэд удахгүй бүтээгдэхүүний интерфейсээр дамжуулан хүртээмжтэй болгохоор төлөвлөжээ.",
-   "published": "2026-10-28T17:00:58Z",
-   "added": "2026-10-31T06:02:30Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "f39bbc81b46a3e2c",
    "subtopic": "vercel-cloud",
    "source": "Vercel",
@@ -757,6 +557,146 @@
    "added": "2026-10-31T23:52:45Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "549464c82deb64e6",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "WIRED",
+   "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+   "image": "https://media.wired.com/photos/6ae113e3b0a8ac98a8d177dc/191:100/w_1280,c_limit/102726-department-of-defense-ai-agent.jpg",
+   "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+   "summary_en": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+   "title_mn": "Accenture-гийн ажилтан Claude Code ашиглан Пентагоны нууц системд хандалт өгчээ",
+   "summary_mn": "Зөвлөх үйлчилгээний Accenture компанийн ажилтан хувийн Claude Code агентаа Батлан хамгаалах яамны нууцлагдмал системд холбосноор аюулгүй байдлын ноцтой зөрчил үүсжээ. Уг агентаар дамжуулан нэвтрэх эрх болон эмзэг мэдээлэл гуравдагч талын вэб сайт руу алдагдсан байна.",
+   "body_mn": "Дэлхий дахинд үйл ажиллагаа явуулдаг зөвлөх үйлчилгээний Accenture компанийн ажилтан Батлан хамгаалах яамны (Pentagon) тагнуулын агентлагуудын хамтарч ашигладаг төвлөрсөн системд өөрийн хувийн Anthropic Claude Code кодыг бичих агентаар дамжуулан хандалт өгсөн нь аюулгүй байдлын томоохон эрсдэл дагуулжээ. Уг систем нь олон нийтэд ил тод байх ёсгүй чухал дэд бүтцийн мэдээлэл болон эмзэг контент агуулдаг аж.\n\nЭх сурвалжийн мэдээлснээр, тухайн AI агент нь системд нэвтрэх эрх зэрэг мэдээллийг өндөр эрсдэлтэй гуравдагч талын вэб сайт руу илгээсэн байж болзошгүй байна. Тус агентыг DOD буюу Батлан хамгаалах яамны сүлжээнд хоёр сарын турш ажиллуулсны эцэст илрүүлж, эмзэг байдлыг засварлажээ. Гэсэн хэдий ч холбогдох ажилтнууд уг асуудлыг хангалттай өндөр түвшинд хүлээж аваагүй бөгөөд хууль тогтоомжийн дагуу 72 цагийн дотор холбогдох байгууллагад мэдэгдэх үүргээ биелүүлээгүй байна.\n\nЭнэхүү хэрэг нь хөгжүүлэгчид болон компаниуд хиймэл оюуны агентуудад дотоод нууц систем, API түлхүүр болон админ эрх өгөхдөө хэр болгоомжтой байх ёстойг сануулсан томоохон анхааруулга болж байна. AI агентуудын автоном байдал нэмэгдэхийн хэрээр байгууллагын аюулгүй байдлын бодлого, хяналтыг чангатгах зайлшгүй шаардлага тулгарч байгааг уг явдал харууллаа.",
+   "published": "2026-10-29T18:39:00Z",
+   "added": "2026-11-01T10:55:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f029f146885fd975",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5hP6XyTw37NFtqCzw0RE5L/c386587f2388996e44852bb210a3e8ee/strix-vercel-ai-gateway-og.png",
+   "title": "Strix now supports Vercel AI Gateway",
+   "summary_en": "Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across all models in AI Gateway. Strix selects the Gateway through STRIX_LLM , where the model is the standard AI Gateway <provider>/<model> ID behind a vercel_ai_gateway/ prefix: See Strix's AI Gateway setup guide to configure it and get started today. Read more",
+   "title_mn": "Strix хиймэл оюуны аюулгүй байдлыг шалгах хэрэгсэл Vercel AI Gateway-ийг дэмждэг боллоо",
+   "summary_mn": "Нээлттэй эх сурвалжтай Strix хиймэл оюуныг нэвтрэн шалгах (pentesting) хэрэгсэл нь одоо Vercel AI Gateway дээрх 400 гаруй загвар дээр ажиллах боломжтой боллоо. Хөгжүүлэгчид олон үйлчилгээ үзүүлэгчтэй тус тусад нь бүртгүүлэх шаардлагагүйгээр нэг API-аар дамжуулан ашиглах боломжтой.",
+   "body_mn": "Нээлттэй эх сурвалжтай AI penetration testing буюу аюулгүй байдлыг шалгах Strix хэрэгсэл нь Vercel AI Gateway-ийн өргөн хүрээний загваруудыг дэмждэг болсныг албан ёсоор зарлалаа. Үүний үр дүнд хөгжүүлэгчид Anthropic, OpenAI, Kimi, GLM, Deepseek зэрэг олон төрлийн загваруудыг ямар нэгэн нэмэлт үнийн нэмэгдэлгүйгээр нэгдсэн API-аар дамжуулан ашиглах боломжтой болж байна.\n\nStrix-ийг тохируулахдаа STRIX_LLM орчны хувьсагчаар дамжуулан vercel_ai_gateway/ угтвар бүхий стандарт AI Gateway загварын ID-г ашиглах юм. Энэ нь хиймэл оюуны агентууд болон аюулгүй байдлын тест хийх хэрэгслүүдийг нэгтгэх ажлыг эрс хөнгөвчилж, өртөг болон хэрэглээг нэг цэгээс хянах боломжийг бүрдүүлж байна.\n\nЭнэхүү интеграци нь хөгжүүлэгчдэд өөрсдийн аппликейшн болон LLM загваруудынхаа сул талыг илрүүлэх, турших ажлыг илүү хурдан бөгөөд төвөггүй гүйцэтгэхэд туслах чухал шинэчлэл болжээ.",
+   "published": "2026-10-29T18:44:00Z",
+   "added": "2026-11-01T10:55:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2a2702a34b223641",
+   "subtopic": "ai-devtools",
+   "source": "openai/codex",
+   "source_label": "openai/codex",
+   "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+   "image": "https://opengraph.githubassets.com/85a7e5fa54c0b28bde06588dae3003e8544d58795b2c562c7132d22d88415450/openai/codex/releases/tag/rust-v0.166.0",
+   "title": "codex 0.166.0",
+   "summary_en": "New Features Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. ( #57221 , #57222 , #57223 , #57224 ) Rendered Markdown consistently in async questions, choices, answers, and transcript replies. ( #57259 , #57292 ) Added GPT-6.1 Terra to the bundled, Vertex AI, and Amazon Bedrock model catalogs. ( #57293 ) Added codex queue --resume to resume unloaded threads after queueing a message. ( #57232 ) Added clearer safety-block explanations and selectable safer follow-up prompts in the TUI. ( #57363 , #57365 ) Added codex…",
+   "title_mn": "codex 0.166.0 хувилбар шинэ боломжууд болон GPT-6.1 Terra дэмжлэгтэйгээр гарлаа",
+   "summary_mn": "Codex хэрэгслийн шинэ 0.166.0 хувилбарт гартаар удирдах боломжтой хуулбар сонголт, сайжруулсан search, мөн GPT-6.1 Terra загварын нэгдсэн дэмжлэг нэмэгдлээ. Түүнчлэн сүлжээний оношилгооны хэрэгсэл болон олон тооны алдаа засалтууд хийгдсэн байна.",
+   "body_mn": "Codex хэрэгслийн шинэ 0.166.0 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон шинэ боломж, сайжруулалтуудыг авчирлаа. Энэхүү шинэчлэлтээр үг, мөр болон хуудасны хөдөлгөөнөөр удирдах боломжтой гарын удирдлагатай транскрипт сонгох функц, нэгдсэн хайлт, тохируулж болох товчлолууд нэмэгдсэн байна.\n\nМөн Vertex AI болон Amazon Bedrock загварын каталогид GPT-6.1 Terra загварыг албан ёсоор нэгтгэжээ. Хөгжүүлэгчдэд тулгардаг сүлжээний болон холболтын асуудлыг шийдвэрлэх зорилгоор codex doctor --network-only команд нэмэгдсэн нь WebSocket болон тохиргооны оношилгоог хийхэд илүү хялбар болгож байна. Үүнээс гадна аюулгүй байдлын блок тайлбарууд сайжирч, TUI интерфейс дээр илүү аюулгүй дараагийн сануулгуудыг сонгох боломжтой болжээ.\n\nЗасваруудын хувьд хуучин зөвшөөрлийн тохиргоог хадгалах, локал зургийн хавсралтыг сэргээх, мөн macOS дээрх суулгалтын цэвэрлэгээг сайжруулсан байна. Хөгжүүлэлтийн болон хувилбарын бүтээлтүүдийг Node.js 24.22.1 болон Rust 1.95.0 руу стандартчилжээ.",
+   "published": "2026-10-29T19:50:20Z",
+   "added": "2026-11-01T10:55:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0f605a1858f1d3cd",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0",
+   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.0.0%20(Alpha)",
+   "title": "Node.js 27.0.0-alpha.0.0.0 (Alpha)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "title_mn": "Node.js 27.0.0 Alpha хувилбар V8 15.6 хөдөлгүүртэйгээр гарлаа",
+   "summary_mn": "Node.js платформын анхны 27.0.0-alpha.0.0.0 хувилбар гарч, V8 хөдөлгүүрийг 15.6.75.13 хувилбар болгон шинэчиллээ. Энэхүү альфа хувилбар нь шинэ боломжуудыг туршиж үзэх боломжийг хөгжүүлэгчдэд олгож байна.",
+   "body_mn": "Node.js хөгжүүлэлтийн баг дараагийн томоохон хувилбарын суурь болох Node.js 27.0.0-alpha.0.0.0 альфа хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэ хувилбарын гол онцлох өөрчлөлт нь JavaScript хөдөлгүүр болох V8-ийг өмнөх Node.js 26 хувилбар дахь 14.6-аас 15.6.75.13 хувилбар руу шинэчилсэн явдал юм.\n\nJoyee Cheung-ийн оруулсан хувь нэмрээр V8 хөдөлгүүрийн шинэчлэлтүүд хийгдсэн бөгөөд холбогдох өөрчлөлтүүдийн дэлгэрэнгүй жагсаалт удахгүй нийтлэгдэх аж. Хөгжүүлэгчид Windows, macOS, Linux болон бусад үйлдлийн системүүдэд зориулсан суулгагч болон бинар файлуудыг албан ёсны эх сурвалжаас татаж авч туршиж үзэх боломжтой.\n\nЭнэхүү альфа хувилбар нь одоогоор producción буюу шууд ашиглалтад ороход хараахан бэлэн биш бөгөөд хөгжүүлэгчдэд шинэ функцүүдийг эрт шалгаж үзэх, санал хүсэлт өгөх боломжийг олгох зорилготой юм.",
+   "published": "2026-10-29T19:52:29Z",
+   "added": "2026-11-01T10:55:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "119c15f79ce55d70",
+   "subtopic": "design-systems",
+   "source": "Figma Blog",
+   "source_label": "Figma Blog",
+   "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+   "image": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
+   "title": "How we’re training a Figma-fluent editing model",
+   "summary_en": "We’ve increasingly seen that specialized post-training can compete with frontier models. Here, we’re sharing the research behind how we’re translating that to design editing workflows.",
+   "title_mn": "Figma өөрийн бүтээгдэхүүнд зориулсан дизайн засварлагч AI загварыг танилцууллаа",
+   "summary_mn": "Figma компани дизайнеруудад зориулсан тусгай сургалттай, канвас дээр шууд ажилладаг Figma-д ээлтэй хиймэл оюуны агентын судалгаа болон сургалтын аргачлалаа хуваалцлаа. Уг загвар нь хэрэглэгчийн хүсэлтээр дизайныг хурдан бөгөөд үнэн зөвөөр засварлах чадвартай.",
+   "body_mn": "Figma компани дизайн засварлах ажлын урсгалд зориулсан тусгай дараах үеийн сургалт (post-training) болон загвар бүтээх судалгааныхаа талаар мэдээллээ. Загвар зохион бүтээгчид өдөржин янз бүрийн засвар хийдэг тул AI агентын хурд болон нарийвчлал маш чухал юм. Анхандаа тэргүүлэх загварууд Figma-гийн синтаксийг ойлгодоггүй байсан бөгөөд маш их системийн сануулга (system prompting) шаарддаг байжээ.\n\nҮүнийг шийдхийн тулд тэд хяналттай нарийн тааруулах (supervised fine-tuning - SFT) болон бэхжүүлэн сургах (reinforcement learning - RL) аргуудыг хослуулан ашиглажээ. Figma-гийн үндсэн файл формат дээр суурилсан синтетик жишээнүүдийг бэлтгэж, Llama 3.3 70B зэрэг загваруудыг амжилттай сургасан байна. Одоо тэд илүү чадвартай суурь загварууд болох Qwen, Muse Spark Open, Inkling болон бусад загваруудыг ашиглаж эхлээд байна.\n\nAI-аас гаргасан дизайны алдааг шалгахын тулд тэд бүтцийн шалгалт, визуал модель шүүгч болон мэргэжилтэн дизайнеруудын үнэлгээг хослуулан ашигладаг. Энэ нь агентуудад дизайны зохицол, өнгөний ялгарал, компонентын зөв хэрэглээг хянахад тусалж, бодит бүтээгдэхүүнд хэрэглэхэд бэлэн болгож байна.",
+   "published": "2026-10-29T21:00:00Z",
+   "added": "2026-11-01T10:55:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5822d1a35902f8cf",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-daemons-can-now-call-services-with-bindings",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cafc78a586917112d170a750/4610af979d0208747abe886e0050a0a1/daemons-service-bindings-og.jpg",
+   "title": "Vercel Daemons can now call services with bindings",
+   "summary_en": "Vercel Daemons can now call the services in their deployment through service bindings . Declare the binding on the daemon. It names the target service and the environment variable that receives the service's URL: The daemon calls that URL like any other HTTP endpoint. Vercel handles the internal routing, authentication, and TLS, and the service stays private: Bindings point one way: services can't bind to daemons. Each instance keeps calling the deployment that started it, even after a promotion or rollback. Learn more about daemon service bindings in the docs . Read more",
+   "title_mn": "Vercel Daemons үйлчилгээнд service bindings холбох боломжтой боллоо",
+   "summary_mn": "Vercel Daemons нь байршуулалт доторх үйлчилгээг service bindings ашиглан дуудах боломжтой болж өргөжлөө. Энэ нь дотоод чиглүүлэлт, баталгаажуулалтыг автоматаар зохицуулна.",
+   "body_mn": "Vercel платформ хөгжүүлэгчдэд зориулсан шинэ боломжийг нэмж, Daemons үйлчилгээг service bindings ашиглан дуулах боломжтой болгосноо зарлалаа. Хөгжүүлэгчид демон дээрээ холбоос зарласнаар зорилтот үйлчилгээ болон түүний URL-ийг тодорхойлох боломжтой юм.\n\nЭнэхүү шинэ боломжийн тусламжтайгаар демон нь холбогдсон үйлчилгээ рүү энгийн HTTP хүсэлт явуулах ба Vercel дотоод чиглүүлэлт, баталгаажуулалт, TLS холболтыг автоматаар зохицуулна. Ингэснээр үйлчилгээ гадаад орчноос тусгаарлагдсан хэвээр үлдэх бөгөөд аюулгүй байдал сайжирна.\n\nХолбоосууд нь нэг чиглэлтэй ажилладаг бөгөөд үйлчилгээ демон руу буцаж холбогдох боломжгүй юм. Шинэ боломжийн талаарх дэлгэрэнгүйг баримт бидрүүлгээс харж болно.",
+   "published": "2026-10-30T00:00:00Z",
+   "added": "2026-11-01T10:55:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f05cde2bcd7e07e0",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5P96Goh9cE4twnHsrz63Rz/e97e41e40a8d533c9c7b213d12783de5/image__77_.png",
+   "title": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
+   "summary_en": "Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories. Use inclusionai/ling-3.1-flash-1019 as the model name: Free requests still appear in your spend dashboard with a full request trace, they just cost nothing. On November 3, requests will begin charging at the published rate. To use it in Claude Code, Codex, Cursor, and more, install the latest Vercel…",
+   "title_mn": "Ling 3.1 Flash 1019 загвар Vercel AI Gateway дээр үнэ төлбөргүй гарлаа",
+   "summary_mn": "InclusionAI компанийн Ling 3.1 Flash 1019 загвар Vercel AI Gateway дээр арваннэгдүгээр сарын 3 хүртэл үнэгүй ашиглагдах боллоо. Энэ нь ко бичих болон олон алхамт рассонинг хийхэд зориулагдсан 1 сая токенийн контекст цонхтой загвар юм.",
+   "body_mn": "InclusionAI компанийн бүтээсэн Ling 3.1 Flash 1019 загвар Vercel AI Gateway дээр нэмэгдэж, арваннэгдүгээр сарын 3 хүртэл хөгжүүлэгчдэд үнэ төлбөргүй ашиглагдахаар боллоо. Энэхүү шинэ загвар нь програмчлал хийх, олон алхамт рассонинг болон багаж хэрэгсэл ашигладаг агентуудад зориулагдсан юм.\n\nЗагвар нь 1 сая токенийн контекст цонхтой бөгөөд урт баримт бичиг, кодын сан болон өргөн хүрээний түүхтэй ажиллах чадвартай. Хөгжүүлэгчид Claude Code, Codex, Cursor зэрэг хэрэгслүүдэд Vercel CLI ашиглан уг загварыг хялбархан тохируулж турших боломжтой байна.\n\nAI Gateway нь загваруудыг нэгдсэн API-аар дамжуулан дуудах, хэрэглээ болон өртгийг хянах, алдаа гарсан үед автоматаар өөр тийш шилжүүлэх зэрэг олон дэвшилтэт боломжуудыг санал болгодог. Үнийн хувьд ямар нэгэн нэмэгдэл хураамжгүйгээр үйлчилгээ үзүүлдэг билээ.",
+   "published": "2026-10-30T00:00:00Z",
+   "added": "2026-11-01T10:55:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]

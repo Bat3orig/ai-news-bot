@@ -1,0 +1,17 @@
+{
+ "id": "f05cde2bcd7e07e0",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5P96Goh9cE4twnHsrz63Rz/e97e41e40a8d533c9c7b213d12783de5/image__77_.png",
+ "title": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
+ "summary_en": "Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories. Use inclusionai/ling-3.1-flash-1019 as the model name: Free requests still appear in your spend dashboard with a full request trace, they just cost nothing. On November 3, requests will begin charging at the published rate. To use it in Claude Code, Codex, Cursor, and more, install the latest Vercel…",
+ "title_mn": "Ling 3.1 Flash 1019 загвар Vercel AI Gateway дээр үнэ төлбөргүй гарлаа",
+ "summary_mn": "InclusionAI компанийн Ling 3.1 Flash 1019 загвар Vercel AI Gateway дээр арваннэгдүгээр сарын 3 хүртэл үнэгүй ашиглагдах боллоо. Энэ нь ко бичих болон олон алхамт рассонинг хийхэд зориулагдсан 1 сая токенийн контекст цонхтой загвар юм.",
+ "body_mn": "InclusionAI компанийн бүтээсэн Ling 3.1 Flash 1019 загвар Vercel AI Gateway дээр нэмэгдэж, арваннэгдүгээр сарын 3 хүртэл хөгжүүлэгчдэд үнэ төлбөргүй ашиглагдахаар боллоо. Энэхүү шинэ загвар нь програмчлал хийх, олон алхамт рассонинг болон багаж хэрэгсэл ашигладаг агентуудад зориулагдсан юм.\n\nЗагвар нь 1 сая токенийн контекст цонхтой бөгөөд урт баримт бичиг, кодын сан болон өргөн хүрээний түүхтэй ажиллах чадвартай. Хөгжүүлэгчид Claude Code, Codex, Cursor зэрэг хэрэгслүүдэд Vercel CLI ашиглан уг загварыг хялбархан тохируулж турших боломжтой байна.\n\nAI Gateway нь загваруудыг нэгдсэн API-аар дамжуулан дуудах, хэрэглээ болон өртгийг хянах, алдаа гарсан үед автоматаар өөр тийш шилжүүлэх зэрэг олон дэвшилтэт боломжуудыг санал болгодог. Үнийн хувьд ямар нэгэн нэмэгдэл хураамжгүйгээр үйлчилгээ үзүүлдэг билээ.",
+ "published": "2026-10-30T00:00:00Z",
+ "added": "2026-11-01T10:55:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

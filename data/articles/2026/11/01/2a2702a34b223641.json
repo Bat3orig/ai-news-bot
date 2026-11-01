@@ -1,0 +1,17 @@
+{
+ "id": "2a2702a34b223641",
+ "subtopic": "ai-devtools",
+ "source": "openai/codex",
+ "source_label": "openai/codex",
+ "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+ "image": "https://opengraph.githubassets.com/85a7e5fa54c0b28bde06588dae3003e8544d58795b2c562c7132d22d88415450/openai/codex/releases/tag/rust-v0.166.0",
+ "title": "codex 0.166.0",
+ "summary_en": "New Features Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. ( #57221 , #57222 , #57223 , #57224 ) Rendered Markdown consistently in async questions, choices, answers, and transcript replies. ( #57259 , #57292 ) Added GPT-6.1 Terra to the bundled, Vertex AI, and Amazon Bedrock model catalogs. ( #57293 ) Added codex queue --resume to resume unloaded threads after queueing a message. ( #57232 ) Added clearer safety-block explanations and selectable safer follow-up prompts in the TUI. ( #57363 , #57365 ) Added codex…",
+ "title_mn": "codex 0.166.0 хувилбар шинэ боломжууд болон GPT-6.1 Terra дэмжлэгтэйгээр гарлаа",
+ "summary_mn": "Codex хэрэгслийн шинэ 0.166.0 хувилбарт гартаар удирдах боломжтой хуулбар сонголт, сайжруулсан search, мөн GPT-6.1 Terra загварын нэгдсэн дэмжлэг нэмэгдлээ. Түүнчлэн сүлжээний оношилгооны хэрэгсэл болон олон тооны алдаа засалтууд хийгдсэн байна.",
+ "body_mn": "Codex хэрэгслийн шинэ 0.166.0 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон шинэ боломж, сайжруулалтуудыг авчирлаа. Энэхүү шинэчлэлтээр үг, мөр болон хуудасны хөдөлгөөнөөр удирдах боломжтой гарын удирдлагатай транскрипт сонгох функц, нэгдсэн хайлт, тохируулж болох товчлолууд нэмэгдсэн байна.\n\nМөн Vertex AI болон Amazon Bedrock загварын каталогид GPT-6.1 Terra загварыг албан ёсоор нэгтгэжээ. Хөгжүүлэгчдэд тулгардаг сүлжээний болон холболтын асуудлыг шийдвэрлэх зорилгоор codex doctor --network-only команд нэмэгдсэн нь WebSocket болон тохиргооны оношилгоог хийхэд илүү хялбар болгож байна. Үүнээс гадна аюулгүй байдлын блок тайлбарууд сайжирч, TUI интерфейс дээр илүү аюулгүй дараагийн сануулгуудыг сонгох боломжтой болжээ.\n\nЗасваруудын хувьд хуучин зөвшөөрлийн тохиргоог хадгалах, локал зургийн хавсралтыг сэргээх, мөн macOS дээрх суулгалтын цэвэрлэгээг сайжруулсан байна. Хөгжүүлэлтийн болон хувилбарын бүтээлтүүдийг Node.js 24.22.1 болон Rust 1.95.0 руу стандартчилжээ.",
+ "published": "2026-10-29T19:50:20Z",
+ "added": "2026-11-01T10:55:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

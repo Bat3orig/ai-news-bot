@@ -1,0 +1,17 @@
+{
+ "id": "f029f146885fd975",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5hP6XyTw37NFtqCzw0RE5L/c386587f2388996e44852bb210a3e8ee/strix-vercel-ai-gateway-og.png",
+ "title": "Strix now supports Vercel AI Gateway",
+ "summary_en": "Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across all models in AI Gateway. Strix selects the Gateway through STRIX_LLM , where the model is the standard AI Gateway <provider>/<model> ID behind a vercel_ai_gateway/ prefix: See Strix's AI Gateway setup guide to configure it and get started today. Read more",
+ "title_mn": "Strix хиймэл оюуны аюулгүй байдлыг шалгах хэрэгсэл Vercel AI Gateway-ийг дэмждэг боллоо",
+ "summary_mn": "Нээлттэй эх сурвалжтай Strix хиймэл оюуныг нэвтрэн шалгах (pentesting) хэрэгсэл нь одоо Vercel AI Gateway дээрх 400 гаруй загвар дээр ажиллах боломжтой боллоо. Хөгжүүлэгчид олон үйлчилгээ үзүүлэгчтэй тус тусад нь бүртгүүлэх шаардлагагүйгээр нэг API-аар дамжуулан ашиглах боломжтой.",
+ "body_mn": "Нээлттэй эх сурвалжтай AI penetration testing буюу аюулгүй байдлыг шалгах Strix хэрэгсэл нь Vercel AI Gateway-ийн өргөн хүрээний загваруудыг дэмждэг болсныг албан ёсоор зарлалаа. Үүний үр дүнд хөгжүүлэгчид Anthropic, OpenAI, Kimi, GLM, Deepseek зэрэг олон төрлийн загваруудыг ямар нэгэн нэмэлт үнийн нэмэгдэлгүйгээр нэгдсэн API-аар дамжуулан ашиглах боломжтой болж байна.\n\nStrix-ийг тохируулахдаа STRIX_LLM орчны хувьсагчаар дамжуулан vercel_ai_gateway/ угтвар бүхий стандарт AI Gateway загварын ID-г ашиглах юм. Энэ нь хиймэл оюуны агентууд болон аюулгүй байдлын тест хийх хэрэгслүүдийг нэгтгэх ажлыг эрс хөнгөвчилж, өртөг болон хэрэглээг нэг цэгээс хянах боломжийг бүрдүүлж байна.\n\nЭнэхүү интеграци нь хөгжүүлэгчдэд өөрсдийн аппликейшн болон LLM загваруудынхаа сул талыг илрүүлэх, турших ажлыг илүү хурдан бөгөөд төвөггүй гүйцэтгэхэд туслах чухал шинэчлэл болжээ.",
+ "published": "2026-10-29T18:44:00Z",
+ "added": "2026-11-01T10:55:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

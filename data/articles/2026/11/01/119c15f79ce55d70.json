@@ -1,0 +1,17 @@
+{
+ "id": "119c15f79ce55d70",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
+ "title": "How we’re training a Figma-fluent editing model",
+ "summary_en": "We’ve increasingly seen that specialized post-training can compete with frontier models. Here, we’re sharing the research behind how we’re translating that to design editing workflows.",
+ "title_mn": "Figma өөрийн бүтээгдэхүүнд зориулсан дизайн засварлагч AI загварыг танилцууллаа",
+ "summary_mn": "Figma компани дизайнеруудад зориулсан тусгай сургалттай, канвас дээр шууд ажилладаг Figma-д ээлтэй хиймэл оюуны агентын судалгаа болон сургалтын аргачлалаа хуваалцлаа. Уг загвар нь хэрэглэгчийн хүсэлтээр дизайныг хурдан бөгөөд үнэн зөвөөр засварлах чадвартай.",
+ "body_mn": "Figma компани дизайн засварлах ажлын урсгалд зориулсан тусгай дараах үеийн сургалт (post-training) болон загвар бүтээх судалгааныхаа талаар мэдээллээ. Загвар зохион бүтээгчид өдөржин янз бүрийн засвар хийдэг тул AI агентын хурд болон нарийвчлал маш чухал юм. Анхандаа тэргүүлэх загварууд Figma-гийн синтаксийг ойлгодоггүй байсан бөгөөд маш их системийн сануулга (system prompting) шаарддаг байжээ.\n\nҮүнийг шийдхийн тулд тэд хяналттай нарийн тааруулах (supervised fine-tuning - SFT) болон бэхжүүлэн сургах (reinforcement learning - RL) аргуудыг хослуулан ашиглажээ. Figma-гийн үндсэн файл формат дээр суурилсан синтетик жишээнүүдийг бэлтгэж, Llama 3.3 70B зэрэг загваруудыг амжилттай сургасан байна. Одоо тэд илүү чадвартай суурь загварууд болох Qwen, Muse Spark Open, Inkling болон бусад загваруудыг ашиглаж эхлээд байна.\n\nAI-аас гаргасан дизайны алдааг шалгахын тулд тэд бүтцийн шалгалт, визуал модель шүүгч болон мэргэжилтэн дизайнеруудын үнэлгээг хослуулан ашигладаг. Энэ нь агентуудад дизайны зохицол, өнгөний ялгарал, компонентын зөв хэрэглээг хянахад тусалж, бодит бүтээгдэхүүнд хэрэглэхэд бэлэн болгож байна.",
+ "published": "2026-10-29T21:00:00Z",
+ "added": "2026-11-01T10:55:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

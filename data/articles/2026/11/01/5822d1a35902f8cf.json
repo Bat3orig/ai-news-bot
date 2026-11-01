@@ -1,0 +1,17 @@
+{
+ "id": "5822d1a35902f8cf",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-daemons-can-now-call-services-with-bindings",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cafc78a586917112d170a750/4610af979d0208747abe886e0050a0a1/daemons-service-bindings-og.jpg",
+ "title": "Vercel Daemons can now call services with bindings",
+ "summary_en": "Vercel Daemons can now call the services in their deployment through service bindings . Declare the binding on the daemon. It names the target service and the environment variable that receives the service's URL: The daemon calls that URL like any other HTTP endpoint. Vercel handles the internal routing, authentication, and TLS, and the service stays private: Bindings point one way: services can't bind to daemons. Each instance keeps calling the deployment that started it, even after a promotion or rollback. Learn more about daemon service bindings in the docs . Read more",
+ "title_mn": "Vercel Daemons үйлчилгээнд service bindings холбох боломжтой боллоо",
+ "summary_mn": "Vercel Daemons нь байршуулалт доторх үйлчилгээг service bindings ашиглан дуудах боломжтой болж өргөжлөө. Энэ нь дотоод чиглүүлэлт, баталгаажуулалтыг автоматаар зохицуулна.",
+ "body_mn": "Vercel платформ хөгжүүлэгчдэд зориулсан шинэ боломжийг нэмж, Daemons үйлчилгээг service bindings ашиглан дуулах боломжтой болгосноо зарлалаа. Хөгжүүлэгчид демон дээрээ холбоос зарласнаар зорилтот үйлчилгээ болон түүний URL-ийг тодорхойлох боломжтой юм.\n\nЭнэхүү шинэ боломжийн тусламжтайгаар демон нь холбогдсон үйлчилгээ рүү энгийн HTTP хүсэлт явуулах ба Vercel дотоод чиглүүлэлт, баталгаажуулалт, TLS холболтыг автоматаар зохицуулна. Ингэснээр үйлчилгээ гадаад орчноос тусгаарлагдсан хэвээр үлдэх бөгөөд аюулгүй байдал сайжирна.\n\nХолбоосууд нь нэг чиглэлтэй ажилладаг бөгөөд үйлчилгээ демон руу буцаж холбогдох боломжгүй юм. Шинэ боломжийн талаарх дэлгэрэнгүйг баримт бидрүүлгээс харж болно.",
+ "published": "2026-10-30T00:00:00Z",
+ "added": "2026-11-01T10:55:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
