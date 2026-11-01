@@ -1,0 +1,17 @@
+{
+ "id": "63355a9062062e2e",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Techzine Global",
+ "url": "https://www.techzine.eu/news/security/145428/malicious-claude-code-extension-in-cursor-installs-ssh-backdoor/",
+ "image": "",
+ "title": "Malicious Claude Code extension in Cursor installs SSH backdoor",
+ "summary_en": "",
+ "title_mn": "Cursor дээрх хортой Claude Code өргөтгөл SSH backdoor суулгажээ",
+ "summary_mn": "Techzine Global-ын мэдээгээр Cursor дээрх хуурамч Claude Code өргөтгөл хөгжүүлэгчийн компьютерт SSH backdoor суулгасан байна. Claude Code-ын нэрийг ашигласан хортой өргөтгөлөөс анхаарна уу.",
+ "body_mn": "Techzine Global сайтын мэдээлэлд дурдснаар Cursor редактор дээр Claude Code нэрээр тарсан хортой өргөтгөл хөгжүүлэгчийн машинд SSH backdoor суулгасан байна. Мэдээний текст богино тул халдлагын дэлгэрэнгүй арга зам, хохирол болон хэрэглэгчдийн тоо тодорхойгүй байна.\n\nХөгжүүлэгчдэд энэ нь чухал анхааруулга юм. Өргөтгөл суулгахдаа хэвлэгчийг шалгах, албан ёсны эх сурвалжаас татах, шинэ өргөтгөлийн эрхүүдийг анхааралтай харах шаардлагатай. Ялангуяа AI кодын туслахтай холбоотой өргөтгөлүүд нь хэрэглэгчийн файл, SSH түлхүүртэй ажиллах эрхтэй байж болох тул эрсдэл өндөр.",
+ "published": "2026-10-30T16:26:55Z",
+ "added": "2026-11-01T20:58:22Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

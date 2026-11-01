@@ -1,0 +1,17 @@
+{
+ "id": "5c0d34ffbd772c75",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2026/10/30/claude-code-attack.jpg",
+ "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+ "summary_en": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors.",
+ "title_mn": "Cursor-ийн зах зээл дэх Claude Code өргөтгөлөөс хортой SSH backdoor илрэв",
+ "summary_mn": "Cursor редакторын өргөтгөлийн зах зээл дээр Anthropic-ийн Claude Code-ийн хортой хувилбар байршиж, хөгжүүлэгчдийн системд SSH backdoor суулгах оролдлого хийжээ. Уг халдлага нь ойролцоогоор 5,000 хөгжүүлэгчид нөлөөлсөн байна.",
+ "body_mn": "Аравдугаар сарын 29-ний өдөр Cursor редактор дээр суурилсан Anthropic-ийн Claude Code VS Code өргөтгөлийн хортой хувилбар тархаж, 5,000 орчим хөгжүүлэгчийг хортой программ хангамжид өртөх эрсдэлд оруулжээ. Уг хортой өргөтгөл нь 2.1.313 хувилбарын дугаартайгаар 11 цагийн турш татагдах боломжтой байсан байна.\n\nCursor болон аюулгүй байдлын судлаачдын мэдээлснээр, хакерууд өргөтгөлийн үндсэн файл дээр JavaScript ачаалагч нэмж оруулсан бөгөөд энэ нь хэрэглэгч ямар нэгэн үйлдэл хийх шаардлагагүйгээр автоматаар ажиллаж эхэлдэг байжээ. Суулгасны дараа хортой код нь систем дээр байнгын SSH backdoor суулгах, систем болон хэрэглэгчийн мэдээллийг цуглуулах оролдлого хийсэн байна.\n\nГэсэн хэдий ч код бичих явцад гарсан зарим алдаанаас шалтгаалж хакерууд macOS болон Windows системүүдэд алсаас хандах боломжийг бүрэн авч чадаагүй байна. Тухайлбал, macOS дээр администраторын эрхгүйгээр командууд ажилласан бол Windows дээр Unix төрлийн shell ашиглах гэж оролдсоноор SSH сервер асалт бүтэлгүйтжээ.\n\nХэдийгээр SSH backdoor амжилтгүй болсон ч хортой программ нь хэрэглэгчийн нэр, хост нэр, публик IP хаяг, Git имэйл болон орчны хувьсагчдын мэдээллийг халдагчдын сервер рүү илгээсэн байна. Cursor компани уг өргөтгөлийг даруй устгаж, зах зээлээ түр хугацаагаар хаан шалгалт хийсэн бөгөөд Anthropic энэ нь тэдний системд халдсан зөрчил биш болохыг мэдэгджээ.",
+ "published": "2026-10-30T14:36:54Z",
+ "added": "2026-11-01T20:58:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
