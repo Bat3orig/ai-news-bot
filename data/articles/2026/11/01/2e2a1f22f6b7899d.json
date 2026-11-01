@@ -1,0 +1,17 @@
+{
+ "id": "2e2a1f22f6b7899d",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
+ "image": "https://opengraph.githubassets.com/0c9fe3616a4de8c08f13a0af292a570cd8a374438f1b511c2940ce1db74b5ac1/anthropics/claude-code/releases/tag/v2.1.314",
+ "title": "claude-code v2.1.314",
+ "summary_en": "What's changed Added permissions.blockWritesOutsideWorkingDirectories : Write, Edit and NotebookEdit refuse paths outside the working directories in every permission mode Added an optional groups list to Claude apps gateway upstreams: only developers in the listed IdP groups are sent to that upstream, on failover too Added guardrail_trace to Claude apps gateway Bedrock upstreams, to log which Amazon Bedrock guardrail filter fired on a request, without the matched text Added idle compaction to VS Code and Claude Desktop's Code tab: a 200K+ token conversation left idle is summarized, and the…",
+ "title_mn": "Claude Code v2.1.314: blockWritesOutsideWorkingDirectories тохиргоо нэмэгдлээ",
+ "summary_mn": "Claude Code v2.1.314 хувилбарт Write, Edit болон NotebookEdit-ийг ажлын директорийн гадна бичихийг бүх permission горимд хориглох тохиргоо нэмэгдсэн. Мөн gateway, Bedrock, idle compaction болон олон алдааны засвар орсон.",
+ "body_mn": "Anthropic-ийн Claude Code v2.1.314 хувилбар гарлаа. Шинэ permissions.blockWritesOutsideWorkingDirectories тохиргоогоор Write, Edit болон NotebookEdit хэрэгслүүд ажлын директорийн гадуурх замд бичихийг бүх permission горимд татгалзана. Аюулгүй байдлын үүднээс чухал өөрчлөлт юм.\n\nClaude apps gateway-ийн upstream-д нэмэлт groups жагсаалт нэмэгдсэн. Ингэснээр зөвхөн заасан IdP бүлгийн хөгжүүлэгчид тухайн upstream руу явна, failover үед ч мөн адил. Bedrock upstream дээр guardrail_trace нэмж, ямар guardrail филтр ажилласныг текстгүйгээр бүртгэх боломжтой боллоо. VS Code болон Claude Desktop-ийн Code таб дээр 200K+ токентой яриа идэвхгүй үлдвэл автоматаар товчилдог idle compaction нэмэгдсэн.\n\nМөн олон засвар орсон: админы effort хязгаарлалтаас үүдсэн \"Invalid effort level\" алдаа, claude -p-ийн эхлэх алдаан дээр code 0 буцаах асуудал, Bedrock дээрх олон зургийн асуудал, Microsoft Foundry-ийн deployment дутуу үеийн fallback зэрэг орно. Хөгжүүлэгчид шинэчлэхдээ эдгээр өөрчлөлтийг шалгах нь зүйтэй.",
+ "published": "2026-10-30T01:06:26Z",
+ "added": "2026-11-01T16:58:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}

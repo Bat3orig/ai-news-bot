@@ -1,0 +1,17 @@
+{
+ "id": "e47f94e758bf2253",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Step Security",
+ "url": "https://www.stepsecurity.io/blog/claude-code-extension-trojanized",
+ "image": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6ae66b888f75918994145b81_6ae66ae85f4020f3084dcbbb_claude-code-cover-cursor-marketplace-final.png",
+ "title": "Trojanized Claude Code Extension Delivered Persistent SSH Backdoor to Developer Machines",
+ "summary_en": "On October 29, 2026, trojanized builds (2.1.312 and 2.1.313) of the official Claude Code VS Code extension were published to Cursor's VS Code Extension Marketplace for macOS and Windows.",
+ "title_mn": "Claude Code VS Code өргөтгөлийн хортой хувилбар хэрэглэгчийн компьютерт SSH хаалга нээжээ",
+ "summary_mn": "Step Security-ийн мэдээлснээр Claude Code VS Code өргөтгөлийн 2.1.312 болон 2.1.313 хувилбарыг Cursor-ийн маркетплэйсд хортой ачаалагчтай хуурамчаар нийтэлжээ. Anthropic энэ хувилбарыг өөрсдөө гаргаагүй гэж мэдэгдэв.",
+ "body_mn": "Step Security судалгааны багийн мэдээлснээр 2026 оны 10-р сарын 29-нд Claude Code VS Code өргөтгөлийн 2.1.312 болон 2.1.313 хувилбарууд Cursor-ийн VS Code Extension Marketplace дээр macOS болон Windows системд зориулан нийтлэгдсэн байна. Хуурамч хувилбар нь extension.js файлд нэмэлт ачаалагчтай бөгөөд хэрэглэгчийн компьютерт Node.js орчинд ажиллаж, SSH нэвтрэлт болон тунneлийн холболт үүсгэх боломжтой байжээ.\n\nAnthropic хариуд нь зарим асуудлыг баталсан ч өөрсдийн систем, ажилчдын компьютер болон албан ёсны түгээлтийн суваг халдлагад өртөөгүй гэжээ. Харин хуурамч хувилбарыг маркетплэйсээр дамжуулан нийтэлсэн гэж үзэж байна. Өргөтгөлийн 2.1.312 эсвэл 2.1.313 хувилбар суулгасан нь автоматаар компьютер халдлагад өртсөн гэсэн үг биш ч шалгалт хийх шаардлагатай.\n\nХөгжүүлэгчдэд энэ нь IDE өргөтгөл болон маркетплэйсийн эх сурвалжийг шалгах, хувилбарын хэш болон суулгасан хугацааг хянах шаардлагатайг сануулж байна. Хэрэв эдгээр хувилбарыг суулгасан бол системээ шалгаж, шинэ баталгаатай хувилбарт шинэчлэх нь зүйтэй.",
+ "published": "2026-10-30T09:23:05Z",
+ "added": "2026-11-01T16:58:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

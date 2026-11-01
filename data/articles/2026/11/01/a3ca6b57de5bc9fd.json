@@ -1,0 +1,17 @@
+{
+ "id": "a3ca6b57de5bc9fd",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/add-liveness-checks-to-your-daemons",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4cesbYYeBiGLzh1fUZG7rM/c03dea6cefe9e8b74d0ebad33b9c1cac/vercel-daemons-liveness-checks-og.jpg",
+ "title": "Add liveness checks to your Daemons",
+ "summary_en": "Vercel Daemons now support configuring HTTP liveness checks. Start with an HTTP endpoint in your daemon that reports its health. Keep it lightweight so it responds quickly, and have it return an error status when the daemon is no longer healthy: The daemon configuration now accepts a livenessProbe value pointing at that endpoint: Vercel periodically requests the endpoint and restarts the daemon's container when the check fails, catching a daemon that is still running but no longer healthy. Read the Daemon documentation for more information about liveness checks, including default values and…",
+ "title_mn": "Vercel Daemons дээр HTTP liveness шалгалт нэмэгдлээ",
+ "summary_mn": "Vercel Daemons одоо HTTP liveness шалгалтыг тохируулах боломжтой боллоо. Platform тогтмол endpoint-ийг шалгаж, эрүүл биш болсон daemon-ий container-ийг автоматаар дахин эхлүүлнэ. Тохиргоонд livenessProbe утгыг нэмнэ.",
+ "body_mn": "Vercel Daemons дээр HTTP liveness шалгалт боломжтой боллоо. Хөгжүүлэгч daemon дотроо эрүүл мэндийн байдлаа харуулах хөнгөн HTTP endpoint бэлтгэж, алдаатай үед алдааны статус буцаах ёстой.\n\nDaemon-ийн тохиргоонд livenessProbe утгаар тухайн endpoint-ийг заана. Vercel тогтмол тэр endpoint рүү хүсэлт илгээж, шалгалт амжилтгүй бол daemon-ийн container-ийг дахин эхлүүлнэ. Ингэснээр процесс ажиллаж байгаа ч дотроо гацсан daemon-ийг илрүүлэх боломж бүрдэнэ.\n\nӘдепгийн утга болон нэмэлт тохируулгын талаарх дэлгэрэнгүйг Daemon-ийн баримт бичгээс харах боломжтой. Бэлтгэл ажлаас гадна хамгийн гол зүйл бол endpoint-ийг хурдан хариулдаг байлгах явдал юм.",
+ "published": "2026-10-30T00:00:00Z",
+ "added": "2026-11-01T16:58:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

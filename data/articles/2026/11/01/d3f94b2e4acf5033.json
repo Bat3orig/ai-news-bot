@@ -1,0 +1,17 @@
+{
+ "id": "d3f94b2e4acf5033",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "AIBase",
+ "url": "https://news.aibase.com/news/31977",
+ "image": "",
+ "title": "Moonshot AI announces that Kimi is officially integrated with Google Gmail, Google Drive, and Google Calendar",
+ "summary_en": "On Oct 29, Moonshot AI announced that Kimi now integrates with Gmail, Google Drive, and Google Calendar. Users can enable it via the Plugins page. The integrati",
+ "title_mn": "Kimi нь Gmail, Google Drive, Google Calendar-тай холбогдлоо",
+ "summary_mn": "Moonshot AI-ийн Kimiassistant Gmail, Google Drive болон Google Calendar-тай бүрэн интеграцилагдсан гэж 10-р сарын 29-нд зарласан. Холболт нь Plugins хуудас дээрээс OAuth-аар хийгдэнэ.",
+ "body_mn": "Moonshot AI 10-р сарын 29-нд Kimi-ийн шинэчлэлийг албан ёсоор зарлаж, Google-ийн гурван үндсэн үйлчилгээтэй бүрэн холбогдсоныг мэдэгдсэн. Хэрэглэгчид Plugins хуудсанд очиж энгийн тохиргоо хийснээр интеграцийг идэвхжүүлнэ. Gmail-ийн имэйл яриаг товчлох, Google Drive-ийн файлыг олох, Google Calendar-оор өдрийн хуваарь гаргах боломжтой болно.\n\nКompанийн мэдээлснээр бүх өгөгдөл болон үйлдлийг аюулгүй OAuth зөвшөөрлөөр гүйцэтгэдэг. Plugin систем нь AI-д гуравдагч талын үйлчилгээг дуудах боломж олгодог өргөтгөлийн суурь юм. Энэ нь Kimi-ийн оффисын болон өдөр тутмын ажлын хэрэглээг илүү өргөтгөнэ.\n\nХөгжүүлэгчдэд энэ нь шууд API шинэчлэл биш боловч plugin экосистемийн чиглэлийг харуулж байна. Харин нэг эх сурвалжид Moonshot нь Hong Kong IPO-ийн өмнө хуучин хувьцаа эзэмшигчидтэй маргаантай байгаа, хөрөнгийн шилжүүлгийн асуудлаар тохиролцоо хийж байгаа гэх мэдээлэл бас байна. Эдгээр нь бүтээгдэхүүний мэдээнд хамаарахгүй юм.",
+ "published": "2026-10-30T03:07:13Z",
+ "added": "2026-11-01T16:58:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "d0fb0905837a9326",
+ "subtopic": "packages",
+ "source": "React Status",
+ "source_label": "React Status",
+ "url": "https://react.statuscode.com/issues/495",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/aanjymzij2eewsfnkhro.jpg",
+ "title": "TanStack's smaller React for the browser",
+ "summary_en": "#​495 — October 30, 2026 Read on the Web React Status Putting MUI, Mantine, Ant Design and React Spectrum Under Load Den Odell wanted to see how popular design systems cope when you give them real work, so he timed ten of them , including MUI, Mantine, Ant Design and React Spectrum, and profiled the slowest cases. \"Performance belongs on the design system team's priority list, next to accessibility,\" he says. Some highlights: 📊 With the CPU slowed 4x, opening a 249-country dropdown took 84ms in Mantine and 134ms in Ant Design, but over 200ms in MUI and React Spectrum, both of which froze the…",
+ "title_mn": "TanStack Redact, TanStack DB 1.0 RC1 болон TanStack AI 1.0 гарлаа",
+ "summary_mn": "React Status-ийн энэ дугаарт TanStack Redact, TanStack DB 1.0 RC1, TanStack AI 1.0 зэрэг чухал сангууд гарсан тухай дурдсан. Мөн React Native Windows 0.85 болон Next.js-ийн аюулгүй байдлын шинэчлэл анхаарал татав.",
+ "body_mn": "React Status-ийн энэ дугаарт хамгийн анхаарал татсан хэд хэдэн сан, хэрэгслийг нэгтгэжээ. Хамгийн онцлох нь TanStack Redact бөгөөд браузерт зориулсан React/React DOM-ийн нийцтэй орлуулагч юм. Build тохиргоондоо нэмээд Start, Vite, Vinext болон Next.js дээр ажиллуулж, илүү бага JavaScript илгээх боломжтой. Гэхдээ рендэр нь синхрон бөгөөд time slicing хийдэггүй тул нийцтэй байдлын гарыг сайтар уншихыг зөвлөж байна.\n\nTanStack DB 1.0 RC1 нь реактив client өгөгдлийн давхаргыг API-ийн хувьд тогтвортой болгосон. Гэвч mutation handler, hook болон алдааны хэлбэр өөрчлөгдсөн тул migration гарыг шалгах хэрэгтэй. TanStack AI 1.0 нь React hook-ууд, 23 provider adapter, MCP дэмжлэгтэй вендорноос хамаарахгүй AI хэрэгсэл юм.\n\nReact Native Windows 0.85 нь New Architecture руу бүрэн шилжсэн. Мөн Expo Desktop болон Legend Spark зэрэг desktop дээрх React Native төслүүд гарч байна. Next.js-ийн 3-р сарын аюулгүй байдлын шинэчлэлд долоон дунд зэргийн эрсдэлтэй уян хатан байдал засагдах гэж байгаа бөгөөд advisory-г патчтай хамт нийтлэх юм.",
+ "published": "2026-10-30T00:00:00Z",
+ "added": "2026-11-01T16:58:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

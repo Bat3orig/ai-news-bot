@@ -1,0 +1,17 @@
+{
+ "id": "68e46c97cf014f43",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/introducing-geist-serif",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6bDBfXkLRo6M3mICMM4ATR/ee7c5e191b54862dbc8d351b782344c3/Geist_Serif_Blog_OG_15.png",
+ "title": "Introducing Geist Serif",
+ "summary_en": "Geist started as a monospace typeface for developers, built for the editors and terminals where they spend their day doing their work. From there it grew into Geist Sans for product interfaces, and then into Geist Pixel, which was inspired by the grids of early computer screens. Today, we're adding a new member to the family: Geist Serif . Geist Serif is a high-contrast display serif built on the same foundations as Geist Sans, Geist Mono, and Geist Pixel. It has fine, saw-toothed serifs and sharp hairlines, and it was drawn to communicate messages powerfully both in the physical world and…",
+ "title_mn": "Vercel Geist Serif нэртэй шинэ serif фонтыг танилцуулав",
+ "summary_mn": "Vercel Geist фонтын гэр бүлд Geist Serif нэртэй өндөр контрастын serif фонтоо нэмлээ. Фонт нь Geist Sans-тэй ижил cap height болон x-height-тай, дэлгэцэнд зориулагдсан.",
+ "body_mn": "Vercel өөрийн Geist фонтын гэр бүлд Geist Serif нэртэй шинэ өндөр контрастын display serif фонтыг нэмлээ. Фонт нь Geist Sans, Geist Mono, Geist Pixel-тэй ижил суурь дээр бүтсэн бөгөөд толгой гарчиг, постер болон том хэмжээний текстэнд зориулагдсан.\n\nКомпанийн мэдээлснээр фонтын нарийн тоо нь өмнөхөөс 50 хувиар нимгэн болгосон бөгөөд дэлгэцийн өндөр нягтралд тохируулсан. Мөн Element Shape (ELSH) гэсэн variable тэнхлэгтэй бөгөөд дөрвөн хувилбартай: дугуй, квадрат, гурвалжин болон зүрхэн хэлбэр. Фонт нь 894 glyph-тэй, 352 Латин үсгийн хэлийг дэмждэг.\n\nХөгжүүлэгчдэд Geist Sans-тэй ижил өндөрт байдаг тул layout-д өөрчлөлт оруулахгүйгээр ашиглах боломжтой. Вэб дээр ашиглахдаа font-variation-settings-ээр хувилбараа сонгож болно. Энэ нь дизайн системд нэмэлт сонголт бөгөөд шууд техникийн шинэ функц биш юм.",
+ "published": "2026-10-30T13:00:00Z",
+ "added": "2026-11-01T16:58:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "a33d0e7954deadc6",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/simplifying-runtime-caching-on-vercel",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/makQAfKB6M5WOh80cEwUs/c82b4ac64be8d6c4cdb3e37c65f68ed5/runtime_caching.png",
+ "title": "Simplifying runtime caching on Vercel",
+ "summary_en": "Today, we’re bringing Data Cache into Runtime Cache, giving developers one product for data caching across frameworks and APIs. If you use Next.js fetch caching or unstable_cache , you won’t need to change your code. Pro and Enterprise projects will get larger storage allocations. Runtime Cache lets your code reuse fetched or computed data across requests without operating a separate caching service. Over the past year, we’ve improved read performance during traffic bursts, increased storage budgets, and made cache usage easier to investigate. Why we built Runtime Cache Data Cache was…",
+ "title_mn": "Vercel дээр Data Cache нь Runtime Cache-д нэгдэж байна",
+ "summary_mn": "Vercel Data Cache-ийг Runtime Cache-д нэгтгэж, нэг бүтээгдэхүүнээр фреймворк болон API-ийн өгөгдлийг кэшлэх боломжтой болгож байна. Next.js fetch caching болон unstable_cache-д код өөрчлөх шаардлагагүй.",
+ "body_mn": "Vercel Data Cache-ийг Runtime Cache-д нэгтгэж байгаа тухай зарлалаа. Next.js-ийн fetch caching болон unstable_cache нь код өөрчлөлтгүйгээр шинэ системд шилжинэ. Pro болон Enterprise төслүүд илүү том хадгалах хэмжээ авна. Runtime Cache нь хөгжүүлэгчид өөрсдийн кэшийн үйлчилгээ ажиллуулахгүйгээр өгөгдлийг хүсэлтүүдийн хооронд дахин ашиглах боломжийг олгодог.\n\nӨмнө Runtime Cache-д зориулсан getCache API байсан бол одоо Next.js 'use cache: remote' нь мөн түүн дээр суурилна. Систем нь регион бүрт тусдаа кэштэй, хүсэлтийн богино хугацааны хариу, tag-аар invalidation хийх механизмтай. Том хэмжээний кэшийн шинэчлэлийг нэг timestamp-аар хийдэг тул их нөөц шаарддаггүй.\n\nТөрөлийн хувьд тодорхой ачааллын үед кэшийн tag store-ийн удаан shard хүсэлтийг удаашруулж болох тул circuit breaker нэмсэн гэж мэдэгдсэн. Энэ нь хөгжүүлэгчдэд гүйцэтгэлийн асуудлын эрсдэлийг бууруулах зорилготой юм.",
+ "published": "2026-10-30T04:00:00Z",
+ "added": "2026-11-01T16:58:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

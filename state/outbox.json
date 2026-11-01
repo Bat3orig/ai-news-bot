@@ -698,5 +698,165 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a3ca6b57de5bc9fd",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/add-liveness-checks-to-your-daemons",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4cesbYYeBiGLzh1fUZG7rM/c03dea6cefe9e8b74d0ebad33b9c1cac/vercel-daemons-liveness-checks-og.jpg",
+   "title": "Add liveness checks to your Daemons",
+   "summary_en": "Vercel Daemons now support configuring HTTP liveness checks. Start with an HTTP endpoint in your daemon that reports its health. Keep it lightweight so it responds quickly, and have it return an error status when the daemon is no longer healthy: The daemon configuration now accepts a livenessProbe value pointing at that endpoint: Vercel periodically requests the endpoint and restarts the daemon's container when the check fails, catching a daemon that is still running but no longer healthy. Read the Daemon documentation for more information about liveness checks, including default values and…",
+   "title_mn": "Vercel Daemons дээр HTTP liveness шалгалт нэмэгдлээ",
+   "summary_mn": "Vercel Daemons одоо HTTP liveness шалгалтыг тохируулах боломжтой боллоо. Platform тогтмол endpoint-ийг шалгаж, эрүүл биш болсон daemon-ий container-ийг автоматаар дахин эхлүүлнэ. Тохиргоонд livenessProbe утгыг нэмнэ.",
+   "body_mn": "Vercel Daemons дээр HTTP liveness шалгалт боломжтой боллоо. Хөгжүүлэгч daemon дотроо эрүүл мэндийн байдлаа харуулах хөнгөн HTTP endpoint бэлтгэж, алдаатай үед алдааны статус буцаах ёстой.\n\nDaemon-ийн тохиргоонд livenessProbe утгаар тухайн endpoint-ийг заана. Vercel тогтмол тэр endpoint рүү хүсэлт илгээж, шалгалт амжилтгүй бол daemon-ийн container-ийг дахин эхлүүлнэ. Ингэснээр процесс ажиллаж байгаа ч дотроо гацсан daemon-ийг илрүүлэх боломж бүрдэнэ.\n\nӘдепгийн утга болон нэмэлт тохируулгын талаарх дэлгэрэнгүйг Daemon-ийн баримт бичгээс харах боломжтой. Бэлтгэл ажлаас гадна хамгийн гол зүйл бол endpoint-ийг хурдан хариулдаг байлгах явдал юм.",
+   "published": "2026-10-30T00:00:00Z",
+   "added": "2026-11-01T16:58:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d0fb0905837a9326",
+   "subtopic": "packages",
+   "source": "React Status",
+   "source_label": "React Status",
+   "url": "https://react.statuscode.com/issues/495",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/aanjymzij2eewsfnkhro.jpg",
+   "title": "TanStack's smaller React for the browser",
+   "summary_en": "#​495 — October 30, 2026 Read on the Web React Status Putting MUI, Mantine, Ant Design and React Spectrum Under Load Den Odell wanted to see how popular design systems cope when you give them real work, so he timed ten of them , including MUI, Mantine, Ant Design and React Spectrum, and profiled the slowest cases. \"Performance belongs on the design system team's priority list, next to accessibility,\" he says. Some highlights: 📊 With the CPU slowed 4x, opening a 249-country dropdown took 84ms in Mantine and 134ms in Ant Design, but over 200ms in MUI and React Spectrum, both of which froze the…",
+   "title_mn": "TanStack Redact, TanStack DB 1.0 RC1 болон TanStack AI 1.0 гарлаа",
+   "summary_mn": "React Status-ийн энэ дугаарт TanStack Redact, TanStack DB 1.0 RC1, TanStack AI 1.0 зэрэг чухал сангууд гарсан тухай дурдсан. Мөн React Native Windows 0.85 болон Next.js-ийн аюулгүй байдлын шинэчлэл анхаарал татав.",
+   "body_mn": "React Status-ийн энэ дугаарт хамгийн анхаарал татсан хэд хэдэн сан, хэрэгслийг нэгтгэжээ. Хамгийн онцлох нь TanStack Redact бөгөөд браузерт зориулсан React/React DOM-ийн нийцтэй орлуулагч юм. Build тохиргоондоо нэмээд Start, Vite, Vinext болон Next.js дээр ажиллуулж, илүү бага JavaScript илгээх боломжтой. Гэхдээ рендэр нь синхрон бөгөөд time slicing хийдэггүй тул нийцтэй байдлын гарыг сайтар уншихыг зөвлөж байна.\n\nTanStack DB 1.0 RC1 нь реактив client өгөгдлийн давхаргыг API-ийн хувьд тогтвортой болгосон. Гэвч mutation handler, hook болон алдааны хэлбэр өөрчлөгдсөн тул migration гарыг шалгах хэрэгтэй. TanStack AI 1.0 нь React hook-ууд, 23 provider adapter, MCP дэмжлэгтэй вендорноос хамаарахгүй AI хэрэгсэл юм.\n\nReact Native Windows 0.85 нь New Architecture руу бүрэн шилжсэн. Мөн Expo Desktop болон Legend Spark зэрэг desktop дээрх React Native төслүүд гарч байна. Next.js-ийн 3-р сарын аюулгүй байдлын шинэчлэлд долоон дунд зэргийн эрсдэлтэй уян хатан байдал засагдах гэж байгаа бөгөөд advisory-г патчтай хамт нийтлэх юм.",
+   "published": "2026-10-30T00:00:00Z",
+   "added": "2026-11-01T16:58:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2e2a1f22f6b7899d",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
+   "image": "https://opengraph.githubassets.com/0c9fe3616a4de8c08f13a0af292a570cd8a374438f1b511c2940ce1db74b5ac1/anthropics/claude-code/releases/tag/v2.1.314",
+   "title": "claude-code v2.1.314",
+   "summary_en": "What's changed Added permissions.blockWritesOutsideWorkingDirectories : Write, Edit and NotebookEdit refuse paths outside the working directories in every permission mode Added an optional groups list to Claude apps gateway upstreams: only developers in the listed IdP groups are sent to that upstream, on failover too Added guardrail_trace to Claude apps gateway Bedrock upstreams, to log which Amazon Bedrock guardrail filter fired on a request, without the matched text Added idle compaction to VS Code and Claude Desktop's Code tab: a 200K+ token conversation left idle is summarized, and the…",
+   "title_mn": "Claude Code v2.1.314: blockWritesOutsideWorkingDirectories тохиргоо нэмэгдлээ",
+   "summary_mn": "Claude Code v2.1.314 хувилбарт Write, Edit болон NotebookEdit-ийг ажлын директорийн гадна бичихийг бүх permission горимд хориглох тохиргоо нэмэгдсэн. Мөн gateway, Bedrock, idle compaction болон олон алдааны засвар орсон.",
+   "body_mn": "Anthropic-ийн Claude Code v2.1.314 хувилбар гарлаа. Шинэ permissions.blockWritesOutsideWorkingDirectories тохиргоогоор Write, Edit болон NotebookEdit хэрэгслүүд ажлын директорийн гадуурх замд бичихийг бүх permission горимд татгалзана. Аюулгүй байдлын үүднээс чухал өөрчлөлт юм.\n\nClaude apps gateway-ийн upstream-д нэмэлт groups жагсаалт нэмэгдсэн. Ингэснээр зөвхөн заасан IdP бүлгийн хөгжүүлэгчид тухайн upstream руу явна, failover үед ч мөн адил. Bedrock upstream дээр guardrail_trace нэмж, ямар guardrail филтр ажилласныг текстгүйгээр бүртгэх боломжтой боллоо. VS Code болон Claude Desktop-ийн Code таб дээр 200K+ токентой яриа идэвхгүй үлдвэл автоматаар товчилдог idle compaction нэмэгдсэн.\n\nМөн олон засвар орсон: админы effort хязгаарлалтаас үүдсэн \"Invalid effort level\" алдаа, claude -p-ийн эхлэх алдаан дээр code 0 буцаах асуудал, Bedrock дээрх олон зургийн асуудал, Microsoft Foundry-ийн deployment дутуу үеийн fallback зэрэг орно. Хөгжүүлэгчид шинэчлэхдээ эдгээр өөрчлөлтийг шалгах нь зүйтэй.",
+   "published": "2026-10-30T01:06:26Z",
+   "added": "2026-11-01T16:58:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d3f94b2e4acf5033",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "AIBase",
+   "url": "https://news.aibase.com/news/31977",
+   "image": "",
+   "title": "Moonshot AI announces that Kimi is officially integrated with Google Gmail, Google Drive, and Google Calendar",
+   "summary_en": "On Oct 29, Moonshot AI announced that Kimi now integrates with Gmail, Google Drive, and Google Calendar. Users can enable it via the Plugins page. The integrati",
+   "title_mn": "Kimi нь Gmail, Google Drive, Google Calendar-тай холбогдлоо",
+   "summary_mn": "Moonshot AI-ийн Kimiassistant Gmail, Google Drive болон Google Calendar-тай бүрэн интеграцилагдсан гэж 10-р сарын 29-нд зарласан. Холболт нь Plugins хуудас дээрээс OAuth-аар хийгдэнэ.",
+   "body_mn": "Moonshot AI 10-р сарын 29-нд Kimi-ийн шинэчлэлийг албан ёсоор зарлаж, Google-ийн гурван үндсэн үйлчилгээтэй бүрэн холбогдсоныг мэдэгдсэн. Хэрэглэгчид Plugins хуудсанд очиж энгийн тохиргоо хийснээр интеграцийг идэвхжүүлнэ. Gmail-ийн имэйл яриаг товчлох, Google Drive-ийн файлыг олох, Google Calendar-оор өдрийн хуваарь гаргах боломжтой болно.\n\nКompанийн мэдээлснээр бүх өгөгдөл болон үйлдлийг аюулгүй OAuth зөвшөөрлөөр гүйцэтгэдэг. Plugin систем нь AI-д гуравдагч талын үйлчилгээг дуудах боломж олгодог өргөтгөлийн суурь юм. Энэ нь Kimi-ийн оффисын болон өдөр тутмын ажлын хэрэглээг илүү өргөтгөнэ.\n\nХөгжүүлэгчдэд энэ нь шууд API шинэчлэл биш боловч plugin экосистемийн чиглэлийг харуулж байна. Харин нэг эх сурвалжид Moonshot нь Hong Kong IPO-ийн өмнө хуучин хувьцаа эзэмшигчидтэй маргаантай байгаа, хөрөнгийн шилжүүлгийн асуудлаар тохиролцоо хийж байгаа гэх мэдээлэл бас байна. Эдгээр нь бүтээгдэхүүний мэдээнд хамаарахгүй юм.",
+   "published": "2026-10-30T03:07:13Z",
+   "added": "2026-11-01T16:58:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a33d0e7954deadc6",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/simplifying-runtime-caching-on-vercel",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/makQAfKB6M5WOh80cEwUs/c82b4ac64be8d6c4cdb3e37c65f68ed5/runtime_caching.png",
+   "title": "Simplifying runtime caching on Vercel",
+   "summary_en": "Today, we’re bringing Data Cache into Runtime Cache, giving developers one product for data caching across frameworks and APIs. If you use Next.js fetch caching or unstable_cache , you won’t need to change your code. Pro and Enterprise projects will get larger storage allocations. Runtime Cache lets your code reuse fetched or computed data across requests without operating a separate caching service. Over the past year, we’ve improved read performance during traffic bursts, increased storage budgets, and made cache usage easier to investigate. Why we built Runtime Cache Data Cache was…",
+   "title_mn": "Vercel дээр Data Cache нь Runtime Cache-д нэгдэж байна",
+   "summary_mn": "Vercel Data Cache-ийг Runtime Cache-д нэгтгэж, нэг бүтээгдэхүүнээр фреймворк болон API-ийн өгөгдлийг кэшлэх боломжтой болгож байна. Next.js fetch caching болон unstable_cache-д код өөрчлөх шаардлагагүй.",
+   "body_mn": "Vercel Data Cache-ийг Runtime Cache-д нэгтгэж байгаа тухай зарлалаа. Next.js-ийн fetch caching болон unstable_cache нь код өөрчлөлтгүйгээр шинэ системд шилжинэ. Pro болон Enterprise төслүүд илүү том хадгалах хэмжээ авна. Runtime Cache нь хөгжүүлэгчид өөрсдийн кэшийн үйлчилгээ ажиллуулахгүйгээр өгөгдлийг хүсэлтүүдийн хооронд дахин ашиглах боломжийг олгодог.\n\nӨмнө Runtime Cache-д зориулсан getCache API байсан бол одоо Next.js 'use cache: remote' нь мөн түүн дээр суурилна. Систем нь регион бүрт тусдаа кэштэй, хүсэлтийн богино хугацааны хариу, tag-аар invalidation хийх механизмтай. Том хэмжээний кэшийн шинэчлэлийг нэг timestamp-аар хийдэг тул их нөөц шаарддаггүй.\n\nТөрөлийн хувьд тодорхой ачааллын үед кэшийн tag store-ийн удаан shard хүсэлтийг удаашруулж болох тул circuit breaker нэмсэн гэж мэдэгдсэн. Энэ нь хөгжүүлэгчдэд гүйцэтгэлийн асуудлын эрсдэлийг бууруулах зорилготой юм.",
+   "published": "2026-10-30T04:00:00Z",
+   "added": "2026-11-01T16:58:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e47f94e758bf2253",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Step Security",
+   "url": "https://www.stepsecurity.io/blog/claude-code-extension-trojanized",
+   "image": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6ae66b888f75918994145b81_6ae66ae85f4020f3084dcbbb_claude-code-cover-cursor-marketplace-final.png",
+   "title": "Trojanized Claude Code Extension Delivered Persistent SSH Backdoor to Developer Machines",
+   "summary_en": "On October 29, 2026, trojanized builds (2.1.312 and 2.1.313) of the official Claude Code VS Code extension were published to Cursor's VS Code Extension Marketplace for macOS and Windows.",
+   "title_mn": "Claude Code VS Code өргөтгөлийн хортой хувилбар хэрэглэгчийн компьютерт SSH хаалга нээжээ",
+   "summary_mn": "Step Security-ийн мэдээлснээр Claude Code VS Code өргөтгөлийн 2.1.312 болон 2.1.313 хувилбарыг Cursor-ийн маркетплэйсд хортой ачаалагчтай хуурамчаар нийтэлжээ. Anthropic энэ хувилбарыг өөрсдөө гаргаагүй гэж мэдэгдэв.",
+   "body_mn": "Step Security судалгааны багийн мэдээлснээр 2026 оны 10-р сарын 29-нд Claude Code VS Code өргөтгөлийн 2.1.312 болон 2.1.313 хувилбарууд Cursor-ийн VS Code Extension Marketplace дээр macOS болон Windows системд зориулан нийтлэгдсэн байна. Хуурамч хувилбар нь extension.js файлд нэмэлт ачаалагчтай бөгөөд хэрэглэгчийн компьютерт Node.js орчинд ажиллаж, SSH нэвтрэлт болон тунneлийн холболт үүсгэх боломжтой байжээ.\n\nAnthropic хариуд нь зарим асуудлыг баталсан ч өөрсдийн систем, ажилчдын компьютер болон албан ёсны түгээлтийн суваг халдлагад өртөөгүй гэжээ. Харин хуурамч хувилбарыг маркетплэйсээр дамжуулан нийтэлсэн гэж үзэж байна. Өргөтгөлийн 2.1.312 эсвэл 2.1.313 хувилбар суулгасан нь автоматаар компьютер халдлагад өртсөн гэсэн үг биш ч шалгалт хийх шаардлагатай.\n\nХөгжүүлэгчдэд энэ нь IDE өргөтгөл болон маркетплэйсийн эх сурвалжийг шалгах, хувилбарын хэш болон суулгасан хугацааг хянах шаардлагатайг сануулж байна. Хэрэв эдгээр хувилбарыг суулгасан бол системээ шалгаж, шинэ баталгаатай хувилбарт шинэчлэх нь зүйтэй.",
+   "published": "2026-10-30T09:23:05Z",
+   "added": "2026-11-01T16:58:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "45cff9e4773eb645",
+   "subtopic": "motion",
+   "source": "motiondivision/motion",
+   "source_label": "motiondivision/motion",
+   "url": "https://github.com/motiondivision/motion/releases/tag/v14.9.0",
+   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+   "title": "motion v14.9.0",
+   "summary_en": "v14.9.0",
+   "title_mn": "Motion санд v14.9.0 хувилбар гарлаа",
+   "summary_mn": "Motion (өмнө нь Framer Motion) анимейшний сангийн v14.9.0 хувилбар гарсан байна. Хувилбарын дэлгэрэнгүй тэмдэглэл эх сурвалжид тодорхой бус байна.",
+   "body_mn": "Motion анимейшний сангийн шинэ хувилбар v14.9.0 гарсан тухай GitHub-ийн релизийн мэдээлэл ирлээ. Энэ хувилбар нь өмнөх v14.8.0 хувилбарын дараах шинэчлэл юм.\n\nЭх сурвалжид зөвхөн хувилбарын дугаар байгаа тул шинэ функц, засвар, өөрчлөлтийн талаар дэлгэрэнгүй мэдээлэл байхгүй байна. Хөгжүүлэгчид бүрэн өөрчлөлтийн жагсаалтыг GitHub дээрх релизийн тэмдэглэлээс шалгах шаардлагатай.\n\nMotion-ийг React болон бусад интерфейсийн төслүүдэд ашигладаг тул шинэ хувилбар суулгахаасаа өмнө хувилбарын тэмдэглэл болон гаралтын өөрчлөлтийг шалгах нь зүйтэй.",
+   "published": "2026-10-30T10:22:53Z",
+   "added": "2026-11-01T16:58:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "68e46c97cf014f43",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/introducing-geist-serif",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6bDBfXkLRo6M3mICMM4ATR/ee7c5e191b54862dbc8d351b782344c3/Geist_Serif_Blog_OG_15.png",
+   "title": "Introducing Geist Serif",
+   "summary_en": "Geist started as a monospace typeface for developers, built for the editors and terminals where they spend their day doing their work. From there it grew into Geist Sans for product interfaces, and then into Geist Pixel, which was inspired by the grids of early computer screens. Today, we're adding a new member to the family: Geist Serif . Geist Serif is a high-contrast display serif built on the same foundations as Geist Sans, Geist Mono, and Geist Pixel. It has fine, saw-toothed serifs and sharp hairlines, and it was drawn to communicate messages powerfully both in the physical world and…",
+   "title_mn": "Vercel Geist Serif нэртэй шинэ serif фонтыг танилцуулав",
+   "summary_mn": "Vercel Geist фонтын гэр бүлд Geist Serif нэртэй өндөр контрастын serif фонтоо нэмлээ. Фонт нь Geist Sans-тэй ижил cap height болон x-height-тай, дэлгэцэнд зориулагдсан.",
+   "body_mn": "Vercel өөрийн Geist фонтын гэр бүлд Geist Serif нэртэй шинэ өндөр контрастын display serif фонтыг нэмлээ. Фонт нь Geist Sans, Geist Mono, Geist Pixel-тэй ижил суурь дээр бүтсэн бөгөөд толгой гарчиг, постер болон том хэмжээний текстэнд зориулагдсан.\n\nКомпанийн мэдээлснээр фонтын нарийн тоо нь өмнөхөөс 50 хувиар нимгэн болгосон бөгөөд дэлгэцийн өндөр нягтралд тохируулсан. Мөн Element Shape (ELSH) гэсэн variable тэнхлэгтэй бөгөөд дөрвөн хувилбартай: дугуй, квадрат, гурвалжин болон зүрхэн хэлбэр. Фонт нь 894 glyph-тэй, 352 Латин үсгийн хэлийг дэмждэг.\n\nХөгжүүлэгчдэд Geist Sans-тэй ижил өндөрт байдаг тул layout-д өөрчлөлт оруулахгүйгээр ашиглах боломжтой. Вэб дээр ашиглахдаа font-variation-settings-ээр хувилбараа сонгож болно. Энэ нь дизайн системд нэмэлт сонголт бөгөөд шууд техникийн шинэ функц биш юм.",
+   "published": "2026-10-30T13:00:00Z",
+   "added": "2026-11-01T16:58:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
  }
 ]
