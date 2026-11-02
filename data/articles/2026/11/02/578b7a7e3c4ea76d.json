@@ -1,0 +1,17 @@
+{
+ "id": "578b7a7e3c4ea76d",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Vietnam.vn",
+ "url": "https://www.vietnam.vn/en/apple-tich-hop-mo-hinh-ai-cua-alibaba-vao-he-thong-ios-tai-trung-quoc",
+ "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/01/1793495666203_ttxvn_apple-2110-jpg.webp",
+ "title": "Apple integrates Alibaba's AI model into its iOS system in China.",
+ "summary_en": "The Qwen model integration feature will begin testing on the developer version of the iOS operating system on November 4th before its official release to the general public.",
+ "title_mn": "Apple Хятад дахь хэрэглэгчиддээ зориулж Alibaba-гийн Qwen загварыг нэгтгэнэ",
+ "summary_mn": "Apple болон Alibaba компаниуд хамтран ажиллах гэрээ байгуулж, Хятадын зах зээл дэх iOS системд Qwen хиймэл оюун ухааны загварыг нтрэхээр болжээ.",
+ "body_mn": "Хятадын технологийн аварга Alibaba компани АНУ-ын Apple корпорацитай хамтран ажиллах түүхэн гэрээ байгуулснаа зарлалаа. Энэхүү хамтын ажиллагааны хүрээнд Alibaba-гийн Qwen хиймэл оюун ухааны загварыг Хятадын зах зээл дэх Apple Intelligence экосистемд систем түвшинд нэгтгэх ажээ.\n\nШинэчлэгдсэн интеграцчилал нь 11 дүгээр сарын 4-нөөс эхлэн iOS үйлдлийн системийн хөгжүүлэгчийн хувилбар дээр туршигдаж эхлэх бөгөөд 12 дугаар сард гарах iOS 27.3 шинэчлэлтээр албан ёсоор олон нийтэд хүрэх юм. Үүний үр дүнд Хятад дахь хэрэглэгчид Siri виртуал туслах, Writing Tools болон Visual Intelligence зэрэг функцуудаар дамжуулан Qwen-ийн зураг таних, текст ойлгох чадварыг ашиглах боломжтой болно.\n\nApple болон Alibaba нь хэрэглэгчдэд энэхүү функцийг идэвхжүүлэх эсвэл хаах бүрэн эрхийг олгосон бөгөөд хэрэглэгчийн өгөгдлийг ирээдүйн AI загваруудыг сургахад ашиглахгүй байх амлалтыг өгсөн байна. Энэ нь дэлхийн хэрэглэгчийн тоног төхөөрөмж үйлдвэрлэгч компани Хятадын дотоодын хэлний загварыг үндсэн тулгуураа болгосон анхны тохиолдол болж байна.",
+ "published": "2026-11-01T01:31:08Z",
+ "added": "2026-11-02T23:45:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

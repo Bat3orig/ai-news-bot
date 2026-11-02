@@ -1,0 +1,17 @@
+{
+ "id": "2b0545d957d59269",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Crypto Briefing",
+ "url": "https://cryptobriefing.com/xai-grok-text-watermarking-api/",
+ "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/31181642/library-xai-adds-invisible-text-watermarking-to-grok-api-models-800x450.png",
+ "title": "xAI adds invisible text watermarking to Grok API models",
+ "summary_en": "xAI will add invisible statistical watermarks to Grok API text from November 7, 2026, leaving ChatGPT as North America's lone holdout.",
+ "title_mn": "xAI компани Grok API загваруудад далд усан тэмдэглэгээ нэмэхээр болжээ",
+ "summary_mn": "xAI компани 2026 оны 11 дүгээр сарын 7-ноос эхлэн Grok API загваруудын гаралтын өгөгдөлд далд статистик усан тэмдэглэгээг анхдагчаар нэвтрүүлэхээ зарлалаа.",
+ "body_mn": "xAI компани өөрийн Grok загваруудын API гаралтад далд статистик усан тэмдэглэгээг анхдагч байдлаар суулгахаар болсноо зарлалаа. Энэхүү өөрчлөлт нь 2026 оны 11 дүгээр сарын 7-ноос хэрэгжиж эхлэх бөгөөд хөгжүүлэгчид ямар нэгэн нэмэлт тохиргоо хийх шаардлагагүйгээр шууд үйлчлэх ажээ.\n\nЭнэхүү шинэчлэлт нь grok-4.7, grok-4.6, grok-4.5, grok-4.3 болон grok-4.20 зэрэг бүх үндсэн загварын хувилбаруудыг хамрах бөгөөд api.x.ai, Chat Completions болон Responses API зэрэг бүх текстийн генерацийн төгсгөлийн цэгүүдэд үйлчилнэ. Усан тэмдэглэгээ нь токений сонголтыг хэв маягт чиглүүлэх замаар ажиллах ба хэрэглэгчийн хүлээн авах хариуны урт, чанар, хурдад ямар нэгэн сөрөг нөлөө үзүүлэхгүй гэж тус компани мэдэгджээ.\n\nЭнэхүү шийдвэр нь ЕХ-ны AI тухай хуулийн ил тод байдлын шаардлагыг хангахад чиглэгдсэн бөгөөд Хойд Америкийн зах зээл дэх томоохон LLM загваруудаас зөвхөн OpenAI-ийн ChatGPT л усан тэмдэглэгээгүй үлдэж байна. Хөгжүүлэгчдийн хувьд багийн админ консолоор дамжуулан хууль эрх зүйн болон нийцлийн онцгой тохиолдолд уг тэмдэглэгээг идэвхгүй болгох боломжтой байна.",
+ "published": "2026-10-31T22:16:47Z",
+ "added": "2026-11-02T23:45:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

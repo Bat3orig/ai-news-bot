@@ -1,0 +1,17 @@
+{
+ "id": "c9b37b7c64127b9f",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Investing.com",
+ "url": "https://www.investing.com/news/company-news/deepseek-launches-autonomous-coding-agent-to-challenge-anthropics-claude-code-4989391",
+ "image": "",
+ "title": "DeepSeek launches autonomous coding agent to challenge Anthropic’s Claude Code",
+ "summary_en": "",
+ "title_mn": "DeepSeek Anthropic-ийн Claude Code-той өрсөлдөх код бичих агентаа гаргалаа",
+ "summary_mn": "DeepSeek компани Anthropic-ийн Claude Code хэрэгсэлтэй өрсөлдөх зорилготой бие даасан программ хангамж хөгжүүлэх код бичих агентаа танилцуулжээ.",
+ "body_mn": "DeepSeek компани программ хангамж хөгжүүлэгчдэд зориулсан бие даасан код бичих агентаа албан ёсоор танилцууллаа. Энэхүү шинэ хэрэгсэл нь зах зээл дээр хөгжүүлэгчдийн өргөнөөр ашиглаж буй Anthropic-ийн Claude Code программтай шууд өрсөлдөх зорилготой юм.\n\nАгент нь хөгжүүлэгчдэд код бичих, алдаа засах, болон төслийн архитектурыг удирдах ажлыг автоматжуулахад туслах дэвшилтэт боломжуудыг агуулсан байна. Хиймэл оюун ухаанд суурилсан код бичих хэрэгслүүдийн өрсөлдөөн улам ширүүсч байгаа энэ үед DeepSeek-ийн энэхүү алхам нь хөгжүүлэгчдэд илүү хурдан бөгөөд үр дүнтэй ажиллах шинэ сонголтыг санал болгож байна.",
+ "published": "2026-11-01T05:47:14Z",
+ "added": "2026-11-02T23:45:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

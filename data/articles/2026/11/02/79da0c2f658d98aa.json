@@ -1,0 +1,17 @@
+{
+ "id": "79da0c2f658d98aa",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "IGN",
+ "url": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+ "image": "https://assets-prd.ignimgs.com/2026/10/31/claude-1793482027092.png?width=1280&format=jpg&auto=webp&quality=80",
+ "title": "Claude Company Anthropic Updates Claude Opus in Attempt to Stop Those Controversial Game Clones",
+ "summary_en": "Anthropic has issued an update for Claude Opus that puts a stop to the AI-generated game clones that have filled platforms like Steam.",
+ "title_mn": "Anthropic: Claude код нь одоо тодорхой тоглоомуудыг хуулбарлахыг хориглоно",
+ "summary_mn": "Anthropic компани Steam дээрх AI тоглоомын хуулбаруудын эсрэг арга хэмжээ авч, Claude Code-ийн санамжид шинэ дүрэм нэмлээ. Ингэснээр хэрэглэгчид өөрсдийн дизайн болон жанрын хүрээнд тоглоом бүтээх боломжтой хэвээр үлдэх юм.",
+ "body_mn": "Steam платформыг бага хүчин чармайлтаар хийсэн хиймэл оюун ухааны тоглоомын хуулбарууд дүүргэсний дараа Anthropic компани өөрийн Claude системд шинэ хязгаарлалт нэмсэн байна. Энэ нь хөгжүүлэгчдийн олон жилийн хөдөлмөрийг хамгаалах зорилготой ажээ.\n\n\"tengu_heron_brook\" нэртэй шинэ дүрмийн дагуу Claude хуучин тоглоомуудыг шууд хуулбарлах буюу рекреаци хийхгүй байхаар тохируулагджээ. Тодруулбал, хэрэглэгчид анхны шинэ тоглоом, тодорхой жанрын бүтээл эсвэл өөрийн хувийн дизайн, ассест дээр суурилсан тоглоом бүтээж болох ч өөр бусад хүний бүтээсэн тодорхой тоглоомыг нэрийг нь солиод дахин хийхийг хориглосон байна.\n\nAnthropic-ийн техникийн ажилтан Addy Osmani-ийн тайлбарласнаар, энэхүү өөрчлөлт нь бусдын оюун өмчийг зөрчих үйл ажиллагаанаас зайлсхийхэд чиглэгдсэн бөгөөд хууль ёсны хөгжүүлэгчдэд саад учруулахгүйн тулд цаашид ч сайжруулах аж. Энэхүү алхам нь тоглоом хөгжүүлэгчдийн дунд үүссэн AI контентын чанарын асуудлыг шийдвэрлэхэд чухал түлхэц болж байна.",
+ "published": "2026-10-31T21:46:46Z",
+ "added": "2026-11-02T23:45:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

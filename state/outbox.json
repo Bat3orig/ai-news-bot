@@ -858,5 +858,105 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a623902c7c381af7",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Decoder",
+   "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
+   "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+   "summary_en": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling parameter. Anthropic addresses the loophole with just a compliance warning.",
+   "title_mn": "Anthropic Claude загваруудад далд усан тэмдэглэгээ нэвтрүүлж эхэллээ",
+   "summary_mn": "Anthropic компани Европын Холбооны AI тухай хуулийн хугацаанд нийцүүлэн Claude загваруудад далд статистик усан тэмдэглэгээ нэвтрүүлж байна. Гэвч зарим хуучин загваруудад sampling параметрүүдийг өөрчлөхөд энэ тэмдэглэгээг тойрч гарахаар цоорхой үлджээ.",
+   "body_mn": "Anthropic компани өөрийн Claude Mythos 5, Claude Opus 4.7, Claude Opus 4.6 болон Claude Sonnet 4.6 зэрэг дөрвөн үндсэн загвартаа текстийн далд усан тэмдэглэгээг өргөжүүлэн нэвтрүүлж эхэлжээ. Шинэ загварууд энэхүү тэмдэглэгээг анхнаасаа агуулдаг бөгөөд Amazon Bedrock дээр хэрэгжих явц хэд хоног үргэлжилж болзошгүй байна.\n\nЭнэхүү усан тэмдэглэгээ нь утга санаа, чанар, уншигдах байдалд нөлөөлөхгүйгээр үг сонголтод үл мэдэгдэх хэв маягийг шингээдэг бөгөөд нэмэлт тэмдэгт болон токен нэмдэггүй аж. Гэсэн хэдий ч Claude Opus 4.6 болон Claude Sonnet 4.6 загваруудын хувьд хөгжүүлэгчид temperature, top_p, top_k зэрэг sampling параметрүүдийг анхдагч утгаас нь өөрчлөхөд л усан тэмдэглэгээг тойрон гарах боломжтой цоорхой байгааг анхааруулжээ.\n\nЭнэхүү алхам нь энэ оны 12 дугаар сард хэрэгжиж эхлэх Европын Холбооны хиймэл оюун ухааны хуулийн (EU AI Act) шаардлагыг хангахад чиглэгдэж байгаа юм. Хөгжүүлэгчид болон компаниудын хувьд хууль эрх зүйн болон нийцлийн шаардлагаа хангах үүднээс эдгээр тохиргоог анхдагч хэлбэрээр нь хадгалах шаардлагатайг тус компани сануулсан байна.",
+   "published": "2026-10-31T19:24:37Z",
+   "added": "2026-11-02T23:45:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "79da0c2f658d98aa",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "IGN",
+   "url": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+   "image": "https://assets-prd.ignimgs.com/2026/10/31/claude-1793482027092.png?width=1280&format=jpg&auto=webp&quality=80",
+   "title": "Claude Company Anthropic Updates Claude Opus in Attempt to Stop Those Controversial Game Clones",
+   "summary_en": "Anthropic has issued an update for Claude Opus that puts a stop to the AI-generated game clones that have filled platforms like Steam.",
+   "title_mn": "Anthropic: Claude код нь одоо тодорхой тоглоомуудыг хуулбарлахыг хориглоно",
+   "summary_mn": "Anthropic компани Steam дээрх AI тоглоомын хуулбаруудын эсрэг арга хэмжээ авч, Claude Code-ийн санамжид шинэ дүрэм нэмлээ. Ингэснээр хэрэглэгчид өөрсдийн дизайн болон жанрын хүрээнд тоглоом бүтээх боломжтой хэвээр үлдэх юм.",
+   "body_mn": "Steam платформыг бага хүчин чармайлтаар хийсэн хиймэл оюун ухааны тоглоомын хуулбарууд дүүргэсний дараа Anthropic компани өөрийн Claude системд шинэ хязгаарлалт нэмсэн байна. Энэ нь хөгжүүлэгчдийн олон жилийн хөдөлмөрийг хамгаалах зорилготой ажээ.\n\n\"tengu_heron_brook\" нэртэй шинэ дүрмийн дагуу Claude хуучин тоглоомуудыг шууд хуулбарлах буюу рекреаци хийхгүй байхаар тохируулагджээ. Тодруулбал, хэрэглэгчид анхны шинэ тоглоом, тодорхой жанрын бүтээл эсвэл өөрийн хувийн дизайн, ассест дээр суурилсан тоглоом бүтээж болох ч өөр бусад хүний бүтээсэн тодорхой тоглоомыг нэрийг нь солиод дахин хийхийг хориглосон байна.\n\nAnthropic-ийн техникийн ажилтан Addy Osmani-ийн тайлбарласнаар, энэхүү өөрчлөлт нь бусдын оюун өмчийг зөрчих үйл ажиллагаанаас зайлсхийхэд чиглэгдсэн бөгөөд хууль ёсны хөгжүүлэгчдэд саад учруулахгүйн тулд цаашид ч сайжруулах аж. Энэхүү алхам нь тоглоом хөгжүүлэгчдийн дунд үүссэн AI контентын чанарын асуудлыг шийдвэрлэхэд чухал түлхэц болж байна.",
+   "published": "2026-10-31T21:46:46Z",
+   "added": "2026-11-02T23:45:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2b0545d957d59269",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/xai-grok-text-watermarking-api/",
+   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/31181642/library-xai-adds-invisible-text-watermarking-to-grok-api-models-800x450.png",
+   "title": "xAI adds invisible text watermarking to Grok API models",
+   "summary_en": "xAI will add invisible statistical watermarks to Grok API text from November 7, 2026, leaving ChatGPT as North America's lone holdout.",
+   "title_mn": "xAI компани Grok API загваруудад далд усан тэмдэглэгээ нэмэхээр болжээ",
+   "summary_mn": "xAI компани 2026 оны 11 дүгээр сарын 7-ноос эхлэн Grok API загваруудын гаралтын өгөгдөлд далд статистик усан тэмдэглэгээг анхдагчаар нэвтрүүлэхээ зарлалаа.",
+   "body_mn": "xAI компани өөрийн Grok загваруудын API гаралтад далд статистик усан тэмдэглэгээг анхдагч байдлаар суулгахаар болсноо зарлалаа. Энэхүү өөрчлөлт нь 2026 оны 11 дүгээр сарын 7-ноос хэрэгжиж эхлэх бөгөөд хөгжүүлэгчид ямар нэгэн нэмэлт тохиргоо хийх шаардлагагүйгээр шууд үйлчлэх ажээ.\n\nЭнэхүү шинэчлэлт нь grok-4.7, grok-4.6, grok-4.5, grok-4.3 болон grok-4.20 зэрэг бүх үндсэн загварын хувилбаруудыг хамрах бөгөөд api.x.ai, Chat Completions болон Responses API зэрэг бүх текстийн генерацийн төгсгөлийн цэгүүдэд үйлчилнэ. Усан тэмдэглэгээ нь токений сонголтыг хэв маягт чиглүүлэх замаар ажиллах ба хэрэглэгчийн хүлээн авах хариуны урт, чанар, хурдад ямар нэгэн сөрөг нөлөө үзүүлэхгүй гэж тус компани мэдэгджээ.\n\nЭнэхүү шийдвэр нь ЕХ-ны AI тухай хуулийн ил тод байдлын шаардлагыг хангахад чиглэгдсэн бөгөөд Хойд Америкийн зах зээл дэх томоохон LLM загваруудаас зөвхөн OpenAI-ийн ChatGPT л усан тэмдэглэгээгүй үлдэж байна. Хөгжүүлэгчдийн хувьд багийн админ консолоор дамжуулан хууль эрх зүйн болон нийцлийн онцгой тохиолдолд уг тэмдэглэгээг идэвхгүй болгох боломжтой байна.",
+   "published": "2026-10-31T22:16:47Z",
+   "added": "2026-11-02T23:45:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "578b7a7e3c4ea76d",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Vietnam.vn",
+   "url": "https://www.vietnam.vn/en/apple-tich-hop-mo-hinh-ai-cua-alibaba-vao-he-thong-ios-tai-trung-quoc",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/01/1793495666203_ttxvn_apple-2110-jpg.webp",
+   "title": "Apple integrates Alibaba's AI model into its iOS system in China.",
+   "summary_en": "The Qwen model integration feature will begin testing on the developer version of the iOS operating system on November 4th before its official release to the general public.",
+   "title_mn": "Apple Хятад дахь хэрэглэгчиддээ зориулж Alibaba-гийн Qwen загварыг нэгтгэнэ",
+   "summary_mn": "Apple болон Alibaba компаниуд хамтран ажиллах гэрээ байгуулж, Хятадын зах зээл дэх iOS системд Qwen хиймэл оюун ухааны загварыг нтрэхээр болжээ.",
+   "body_mn": "Хятадын технологийн аварга Alibaba компани АНУ-ын Apple корпорацитай хамтран ажиллах түүхэн гэрээ байгуулснаа зарлалаа. Энэхүү хамтын ажиллагааны хүрээнд Alibaba-гийн Qwen хиймэл оюун ухааны загварыг Хятадын зах зээл дэх Apple Intelligence экосистемд систем түвшинд нэгтгэх ажээ.\n\nШинэчлэгдсэн интеграцчилал нь 11 дүгээр сарын 4-нөөс эхлэн iOS үйлдлийн системийн хөгжүүлэгчийн хувилбар дээр туршигдаж эхлэх бөгөөд 12 дугаар сард гарах iOS 27.3 шинэчлэлтээр албан ёсоор олон нийтэд хүрэх юм. Үүний үр дүнд Хятад дахь хэрэглэгчид Siri виртуал туслах, Writing Tools болон Visual Intelligence зэрэг функцуудаар дамжуулан Qwen-ийн зураг таних, текст ойлгох чадварыг ашиглах боломжтой болно.\n\nApple болон Alibaba нь хэрэглэгчдэд энэхүү функцийг идэвхжүүлэх эсвэл хаах бүрэн эрхийг олгосон бөгөөд хэрэглэгчийн өгөгдлийг ирээдүйн AI загваруудыг сургахад ашиглахгүй байх амлалтыг өгсөн байна. Энэ нь дэлхийн хэрэглэгчийн тоног төхөөрөмж үйлдвэрлэгч компани Хятадын дотоодын хэлний загварыг үндсэн тулгуураа болгосон анхны тохиолдол болж байна.",
+   "published": "2026-11-01T01:31:08Z",
+   "added": "2026-11-02T23:45:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c9b37b7c64127b9f",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Investing.com",
+   "url": "https://www.investing.com/news/company-news/deepseek-launches-autonomous-coding-agent-to-challenge-anthropics-claude-code-4989391",
+   "image": "",
+   "title": "DeepSeek launches autonomous coding agent to challenge Anthropic’s Claude Code",
+   "summary_en": "",
+   "title_mn": "DeepSeek Anthropic-ийн Claude Code-той өрсөлдөх код бичих агентаа гаргалаа",
+   "summary_mn": "DeepSeek компани Anthropic-ийн Claude Code хэрэгсэлтэй өрсөлдөх зорилготой бие даасан программ хангамж хөгжүүлэх код бичих агентаа танилцуулжээ.",
+   "body_mn": "DeepSeek компани программ хангамж хөгжүүлэгчдэд зориулсан бие даасан код бичих агентаа албан ёсоор танилцууллаа. Энэхүү шинэ хэрэгсэл нь зах зээл дээр хөгжүүлэгчдийн өргөнөөр ашиглаж буй Anthropic-ийн Claude Code программтай шууд өрсөлдөх зорилготой юм.\n\nАгент нь хөгжүүлэгчдэд код бичих, алдаа засах, болон төслийн архитектурыг удирдах ажлыг автоматжуулахад туслах дэвшилтэт боломжуудыг агуулсан байна. Хиймэл оюун ухаанд суурилсан код бичих хэрэгслүүдийн өрсөлдөөн улам ширүүсч байгаа энэ үед DeepSeek-ийн энэхүү алхам нь хөгжүүлэгчдэд илүү хурдан бөгөөд үр дүнтэй ажиллах шинэ сонголтыг санал болгож байна.",
+   "published": "2026-11-01T05:47:14Z",
+   "added": "2026-11-02T23:45:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]
