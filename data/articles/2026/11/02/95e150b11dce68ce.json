@@ -1,0 +1,17 @@
+{
+ "id": "95e150b11dce68ce",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "BankInfoSecurity",
+ "url": "https://www.bankinfosecurity.com/cursor-confirms-anthropic-claude-code-extension-compromised-a-33263",
+ "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/cursor-confirms-anthropic-claude-code-extension-compromised-image_large-2-a-33263.jpg",
+ "title": "Cursor Confirms Anthropic Claude Code Extension Compromised",
+ "summary_en": "Attackers backdoored the official Claude Code VS Code extension, being distributed on the Cursor Marketplace, designed to give attackers persistent SSH access to",
+ "title_mn": "Cursor дээрх Claude Code өргөтгөлөөс хорiteoi код илэрчээ",
+ "summary_mn": "Cursor Marketplace-аар тархсан албан ёсны Claude Code VS Code өргөтгөлийн хувилбар 2.1.313 нь хэрэглэгчийн төхөөрөмжид SSH хандалт үүсгэх хортой код агуулж байжээ. Энэхүү халдлага нь 5,000 хүртэлх хэрэглэгчдэд нөлөөлсөн байна.",
+ "body_mn": "Cursor болон Anthropic компаниуд Cursor Marketplace дээр байршсан Claude Code VS Code өргөтгөлийн хувилбар 2.1.313 дээр аюулгүй байдлын ноцтой зөрчил гарсныг баталлаа. Уг хортой хувилбар нь пүрэв гарагт 11 цагийн турш татагдах боломжтой байсан бөгөөд халдлага үйлдэгчдэд халдвар авсан төхөөрөмж дээр байнгын SSH болон алсын порт руу чиглүүлсэн холболт үүсгэх зорилготой байжээ.\n\nSan Francisco-д төвтэй Cursor компани уг асуудлыг илрүүлсний дараа өргөтгөлийн зах зээлээ түр хугацаагаар хааж, холбогдох байгууллагуудтай хамтран хортой кодыг саармагжуулсан байна. Энэхүү supply-chain халдлага нь хамгийн дээд тал нь 5,000 хэрэглэгчид нөлөөлсөн бөгөөд уг хувилбарыг татаж авсан хэрэглэгчидтэй шууд холбогдож зааварчилгаа өгөхөө мэдэгджээ.\n\nАюулгүй байдлын судлаачдын мэдээлснээр, IDE болон хэрэглэгчийн эрхээр ажилладаг өргөтгөлүүд нь систем дэх локал файл, эх код болон хөгжүүлэлтийн хэрэгслүүдэд шууд хандах эрхтэй байдаг тул ийм төрлийн халдлага нь хөгжүүлэгчдэд маш өндөр эрсдэл дагуулдаг байна. Хэрэв та уг хувилбарыг суулгасан бол системээ яаралтай тусгаарлаж, дижитал форензик шалгалт хийхийг зөвлёж байна.",
+ "published": "2026-10-31T06:48:57Z",
+ "added": "2026-11-02T16:43:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

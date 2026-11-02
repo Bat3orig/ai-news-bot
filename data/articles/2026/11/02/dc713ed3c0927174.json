@@ -1,0 +1,17 @@
+{
+ "id": "dc713ed3c0927174",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v44.10.1",
+ "image": "https://opengraph.githubassets.com/ca47ed2c08c0dc3c92beed7af4dd970f63c7e446f14c3e9c9992e83ecdc4a389/electron/electron/releases/tag/v44.10.1",
+ "title": "electron v44.10.1",
+ "summary_en": "Release Notes for v44.10.1 Fixes Fixed DevTools \"Save\" prompting for a location every time instead of reusing the previously chosen file. #55484 Fixed DevTools \"Save As\" using the old file and Linux cancels treated as saved. Fixed webContents.adjustSelection() ignoring the end option. #55461 (Also in 45 , 46 ) Performance Improvements Improved performance of net.fetch() requests without a body. #55445 (Also in 43 , 45 , 46 ) Improved performance of repeated net.fetch() calls for file: URLs. #55458 (Also in 45 , 46 ) Other Changes Backported fixes from upstream Chromium, Dawn, Skia and V8…",
+ "title_mn": "Electron v44.10.1 хувилбар гарлаа",
+ "summary_mn": "Electron фреймворкийн v44.10.1 засварын хувилбар гарч, DevTools болон net.fetch() функцтэй холбоотой алдаануудыг засаж, гүйцэтгэлийг сайжруулжээ.",
+ "body_mn": "Electron баг v44.10.1 хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэчлэлтээр хөгжүүлэгчдийн анхаарлыг татаж байсан чухал алдаануудыг засварласан байна.\n\nТухайлбал, DevTools хэрэгслийн \"Save\" үйлдэл сонгосон байршлыг санахгүйгээр байнга байршил асуудаг байсан алдааг засаж, өмнө нь сонгосон файлыг дахин ашигладаг болгожээ. Мөн Linux үйлдлийн систем дээр \"Save As\" хийх явцад үүсдэг байсан асуудлыг шийдвэрлэсэн байна.\n\nГүйцэтгэлийн хувьд биет бус net.fetch() хүсэлтүүд болон file: URL хаяг руу хийх давтан net.fetch() дуудлагуудын хурдыг сайжруулсан байна. Нэмэлт хэлбэрээр Chromium, Dawn, Skia болон V8 хөдөлгүүрүүдийн шинэчлэлтүүдийг энэхүү хувилбарт багтаажээ.",
+ "published": "2026-10-31T07:32:09Z",
+ "added": "2026-11-02T16:43:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

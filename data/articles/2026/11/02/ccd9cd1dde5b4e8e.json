@@ -1,0 +1,17 @@
+{
+ "id": "ccd9cd1dde5b4e8e",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+ "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
+ "summary_en": "Figma Weave brings AI generation and editing tools together into connected, reusable workflows, giving you a process your team can shape, refine, and repeat. Here’s what it unlocks for creative teams and how to get the most out of it.",
+ "title_mn": "Figma Weave: Хиймэл оюуны урсгалыг бүтээх шиэрэг хэрэгсэл",
+ "summary_mn": "Figma Weave нь AI загварчлал болон засварлах хэрэгслүүдийг хослуулсан дахин ашиглагдах боломжтой ажлын урсгалыг танилцуулла.",
+ "body_mn": "Figma компани бүтээлч багуудад зориулсан шинэ боломж болох Figma Weave хэрэгслээ зарлалаа. Энэхүү систем нь хиймэл оюуны үүсгэх болон засварлах хэрэгслүүдийг холбож, багууд дахин ашиглах боломжтой бүтээлч ажлын урсгалыг бий болгодог байна.\n\nWeave нь canvas дээр зангилаа (node) хэлбэрээр ажиллаж, зураг болон prompt-уудыг холбох, өөр өөр хувилбаруудыг (branch) зэрэг турших боломжийг олгодог. Ингэснээр загвар зохион бүтээгчид бүтээлч хяналтаа алдалгүйгээр олон төрлийн хувилбар, кампанит ажлын дүрслэлийг хурдан гаргах боломжтой болж байна.",
+ "published": "2026-10-31T00:58:00Z",
+ "added": "2026-11-02T16:43:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

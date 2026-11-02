@@ -1,0 +1,17 @@
+{
+ "id": "240e090b940be023",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
+ "image": "https://opengraph.githubassets.com/639b8a13bd385ab2d9ee43c30143012fba4a248bf301cf7af5e8bc73550fa4a3/anthropics/claude-code/releases/tag/v2.1.316",
+ "title": "claude-code v2.1.316",
+ "summary_en": "What's changed Added CLAUDE_CODE_DISABLE_ULTRATHINK , which turns the ultrathink keyword off Added pooled group budgets to the Claude apps gateway: one monthly budget that a group's members share, on top of each member's own limit, set with pooled_budget on the spend limits admin API Added CLAUDE_CODE_DISABLE_LOOPED_CROSS_CERT_DROP to keep system cross-certificates that certify each other in a loop, for servers whose private CA needs one Added CLAUDE_CODE_SUBAGENT_EFFORT to set the effort level subagents run at when nothing else names one, instead of inheriting the session's Added…",
+ "title_mn": "Claude Code v2.1.316 хувилбар шинэ тохиргоо, боломжуудтай гарлаа",
+ "summary_mn": "Claude Code v2.1.316 шинэчлэлтээр ultrathink тохиргоог идэвхгүй болгох, пууллагдсан төсвийн удирдлага болон олон алдаа засварыг нэмлээ.",
+ "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ v2.1.316 хувилбарыг гаргаж, хөгжүүлэгчдэд зориулсан олон шинэ функц, сайжруулалтуудыг танилцууллаа. Шинэ хувилбараар CLAUDE_CODE_DISABLE_ULTRATHINK болон sub-agenteffort тохиргоог нэмж, шлюзийн удирдлагыг сайжруулсан байна.\n\nМөн Opus 4.8 хувилбарын хурдан горим (fast mode) 11 дүгээр сарын 30-нд хасагдахаар зарлагдаж, хөгжүүлэгчдийг Opus 5.5 рүү шилжихийг санууллаа. Үүнээс гадна macOS болон Linux дээр shell команд гацаж үлдэх зэрэг хэд хэдэн чухал алдааг засварлажээ.",
+ "published": "2026-10-31T01:01:35Z",
+ "added": "2026-11-02T16:43:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

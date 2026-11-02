@@ -1,0 +1,17 @@
+{
+ "id": "c7e15876c21b00eb",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "China Daily",
+ "url": "https://www.chinadaily.com.cn/a/202610/31/WS6ae54463e4b06d4aa0566359.html",
+ "image": "http://img2.chinadaily.com.cn/images/202610/31/6ae54463e4b06d4a392f2867.jpeg",
+ "title": "Qwen-powered Apple AI to launch in China in December",
+ "summary_en": "",
+ "title_mn": "Apple-ийн Хятад дахь AI үйлчилгээнд Alibaba-гийн Qwen загвар нэгтгэгдэнэ",
+ "summary_mn": "Apple компани Хятад дахь iPhone хэрэглэгчдэд зориулсан Apple Intelligence системд Alibaba-гийн Qwen AI загварыг нэгтгэхээр болжээ.",
+ "body_mn": "Apple компани Хятадын зах зээлд хиймэл оюуны үйлчилгээгээ хүргэх зорилгоор Alibaba Group-ийн Qwen загваруудыг Apple Intelligence системд ашиглахаар болсноо албан ёсоор зарлалаа. Qwen-д суурилсан боломжууд 11 дүгээр сарын 4-нөөс iOS хөгжүүлэгчдийн бета хувилбарт туршигдаж эхлэх бөгөөд 12 сард албан ёсны iOS 27.3 шинэчлэлтээр олон нийтэд хүрнэ.\n\nЭнэхүү хамтын ажиллагааны хүрээнд хэрэглэгчид Siri, бичих болон дүрс таних хэрэгслүүдээр дамжуулан Qwen-ийн боломжуудыг ашиглах боломжтой болох бөгөөд Хятадын зохицуулагч байгууллагуудын шаардлагыг хангасан байна. Alibaba-гийн зүгээс хэрэглэгчдийн хүсэлт, хариу мэдээллийг загвар сургахад ашиглахгүй гэдгээ мэдэгджээ.",
+ "published": "2026-10-31T01:29:07Z",
+ "added": "2026-11-02T16:43:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

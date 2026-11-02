@@ -1,0 +1,17 @@
+{
+ "id": "43d0cec199ed99c0",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Microsoft",
+ "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+ "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/MS_Actional-Insights_Links.jpg",
+ "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+ "summary_en": "Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it.",
+ "title_mn": "Cursor дээрх Claude Code-н хуурамч өргөтгөл SSH backdoor суулгажээ",
+ "summary_mn": "Cursor marketplace-д байршуулсан Claude Code-н хортой хувилбар хөгжүүлэгчдийн системд SSH backdoor суулгах оролдлого хийжээ.",
+ "body_mn": "Microsoft Threat Intelligence болон Cursor-ийн мэдээлснээр, 2026 оны 10 дугаар сарын 29-нд Cursor marketplace-д байршсан Claude Code-н хуурамч өргөтгөл (versions 2.1.313 болон 2.1.312) ханган нийлүүлэлтийн сүлжээний халдлага үйлдэх оролдлого хийсэн байна. Энэхүү хортой код нь Node.js ашиглан систем мэдээлэл цуглуулах, SSH түлхүүр нэмэх, локал SSH үйлчилгээг идэвхжүүлэх болон reverse tunnel үүсгэх оролдлого хийжээ.\n\nЭнэхүү халдлага нь Microsoft Visual Studio Marketplace болон албан ёсны npm багц руу халдаагүй бөгөөд зөвхөн Cursor marketplace-ээр хязгаарлагдсан байна. Хохирсон хөгжүүлэгчид системээ шалгаж, нууц үг болон сессийн мэдээллээ яаралтай сольж шинэчлэхийг зөвлөж байна.",
+ "published": "2026-10-31T01:02:57Z",
+ "added": "2026-11-02T16:43:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

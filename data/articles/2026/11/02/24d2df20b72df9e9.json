@@ -1,0 +1,17 @@
+{
+ "id": "24d2df20b72df9e9",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Tom's Hardware",
+ "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+ "image": "https://cdn.mos.cms.futurecdn.net/uCXNTvaQDC2MRU8U37YwaV-2169-80.jpg",
+ "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
+ "summary_en": "Many game developers are reporting Claude's refusal to work on their own projects.",
+ "title_mn": "Anthropic компани Claude загварт видео тоглоом хуулбарлахыг хориглосон шинэ дүрэм нэмжээ",
+ "summary_mn": "Anthropic компани Claude загвартаа тоглоом клойд хийх болон зохиогчийн эрх зөрчих оролдлогуудыг хязгаарлах зорилготой шинэ дүрэм нэмлээ. Энэ нь хөгжүүлэгчдийн хэвийн ажилд мөн нөлөөлж эхэлжээ.",
+ "body_mn": "Claude Code болон Opus 5.5 загварууд нь кодыг хялбархан задлах, урвуу инженерчлэл хийх чадвараараа тоглоом хөгжүүлэлтийн салбарт томоохон өөрчлөлт авчирсан билээ. Гэвч сүүлийн үед Steam платформ дээр хиймэл оюун ухаанаар бүтээгдсэн чанар муутай тоглоомууд болон бусдын тоглоомыг хуулбарласан бүтээгдэхүүнүүд хэт олширсонтой холбоотойгоор Anthropic хатуу арга хэмжээ авч эхэлжээ.\n\nХөгжүүлэгчдийн мэдээлж буйгаар Claude-ийн дүрмүүдэд \"бодит байгаа тоглоомыг ямар нэгэн байдлаар хуулбарлаж бүтээж болохгүй\" гэсэн утга бүхий шинэ заалт нэмэгдсэн байна. Энэхүү шинэ дүрэм нь зохиогчийн эрхийн зөрчлөөс урьдчилан сэргийлэх зорилготой боловч зарим тохиолдолд тоглоомын алдаа засах, механик хөгжүүлэх зэрэг хууль ёсны хөгжүүлэлтийн ажлуудыг хийхэд саад учруулж эхэлжээ.\n\nAnthropic-ийн техникийн ажилтан Addy Osmani уг дүрмийг баталгаажуулж, бусдын оюун өмчийг зөрчихөөс урьдчилан сэргийлэх үүднээс Claude Code-ийн сануулгад тодорхой өөрчлөлтүүд оруулсан гэдгээ мэдэгдсэн байна. Тэд үүнийг улам сайжруулахаар ажиллаж байгаа бөгөөд хөгжүүлэгчдэд учирч буй хүндрэлийг багасгахаар анхаарч байгаа аж.",
+ "published": "2026-10-31T12:20:00Z",
+ "added": "2026-11-02T16:43:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

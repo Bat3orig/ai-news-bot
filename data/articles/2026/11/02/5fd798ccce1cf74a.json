@@ -1,0 +1,17 @@
+{
+ "id": "5fd798ccce1cf74a",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v45.2.1",
+ "image": "https://opengraph.githubassets.com/2089ad9730714e899384fb74e5a1d531251b56ba0aac46d811dd17590ec27c78/electron/electron/releases/tag/v45.2.1",
+ "title": "electron v45.2.1",
+ "summary_en": "Release Notes for v45.2.1 Other Changes Backported fixes from upstream Chromium. #55523 Updated Chromium to 156.0.8078.75. #55419",
+ "title_mn": "Electron v45.2.1 хувилбар Chromium шинэчлэлттэйгээр гарлаа",
+ "summary_mn": "Electron фреймворкийн шинэ v45.2.1 хувилбар гарч, Chromium системийг 156.0.8078.75 хувилбар болгон шинэчиллээ.",
+ "body_mn": "Electron баг v45.2.1 засварын хувилбарыг албан ёсны GitHub репозитортоо гаргалаа. Энэхүү шинэчлэлтээр upstream Chromium суурь түвшний алдаануудыг засаж, Chromium хөдөлгүүрийг 156.0.8078.75 хувилбар руу амжилттай шинэчилсэн байна.\n\nДесктоп аппликейшн хөгжүүлэгчид энэхүү хувилбарт шилжсэнээр аюулгүй байдлын болон гүйцэтгэлийн сайжруулалтуудыг шууд авах боломжтой болж байна.",
+ "published": "2026-10-31T00:44:03Z",
+ "added": "2026-11-02T16:43:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
