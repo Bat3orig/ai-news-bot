@@ -1,0 +1,17 @@
+{
+ "id": "3938c8070007fce2",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Kotaku",
+ "url": "https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665",
+ "image": "https://kotaku.com/app/uploads/2026/02/anthropic.jpg",
+ "title": "Claude Can No Longer Produce A 'Recreation' Of Existing Games",
+ "summary_en": "Anthropic's new Claude guardrail is stopping users from recreating a game 'even if it is renamed or called original'",
+ "title_mn": "Anthropic компани тодорхой тоглоом хуулбарлахыг хоригложээ",
+ "summary_mn": "Claude Opus 5.5 загварт код дахь шинэ дүрэм нэмэгдэж, бодит тоглоомуудыг яг хуулбарлан хийх оролдлогыг хаах болжээ.",
+ "body_mn": "Anthropic компани хэрэглэгчдийг одоо байгаа видео тоглоомуудыг задлан шинжлэх (decompile) болон хуулбарлах үйлдэл хийхээс сэргийлэх шинэ дүрэм хэрэгжүүлж эхэлжээ. Claude Opus 5.5 загварын өөрчлөлтийн түүхэнд шинээр нэмэгдсэн tengu_heron_brook нэртэй флаг нь хэрэглэгчдэд өөр анхны тоглоом бүтээхийг зөвшөөрөх боловч тодорхой нэг тоглоомыг хуулбарлах хүсэлтийг автоматаар татгалзахаар тохируулагдсан байна.\n\nЭнэхүү хамгаалалтын шүүлтүүр нь зөвхөн тоглоом төдийгүй зохиогчийн эрхтэй контент, орчуулга болон бусад кодыг хуулбарлах оролдлогыг мөн хязгаарлаж эхэлсэн байна. Хөгжүүлэгчид болон хэрэглэгчид энэхүү өөрчлөлт нь кодын аюулгүй байдлын судалгаа болон бусад бүтээлч ажилд саад учруулж байна гэж шүүмжилж байна. Anthropic уг шийдвэрээрээ оюуны өмчийн зөрчилтэй холбоотой маргаанаас урьдчилан сэргийлэхийг зорьжээ.",
+ "published": "2026-10-30T20:30:14Z",
+ "added": "2026-11-02T06:33:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

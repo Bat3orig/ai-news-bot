@@ -1,0 +1,17 @@
+{
+ "id": "389af516e2e89dc0",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v43.8.6",
+ "image": "https://opengraph.githubassets.com/725b343be785981d1eb86ace96d9fe9ac2f7397af18c61ebf5ed5035cf5c3694/electron/electron/releases/tag/v43.8.6",
+ "title": "electron v43.8.6",
+ "summary_en": "Release Notes for v43.8.6 Performance Improvements Improved performance of repeated net.fetch() calls for file: URLs. #55481 (Also in 44 , 45 , 46 ) Other Changes Backported fixes from upstream ANGLE, Chromium, libaom, libvpx, PDFium, Skia, V8 and WebRTC. #55517",
+ "title_mn": "Electron v43.8.6 хувилбар гарлаа",
+ "summary_mn": "Electron фрэймворкийн v43.8.6 хувилбар шинэчлэгдэн гарч, net.fetch() дуудлагын гүйцэтгэлийг сайжруулан Chromium болон бусад санд засварууд хийжээ.",
+ "body_mn": "Electron баг Electron v43.8.6 хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэ хувилбарт файл: URL хаягуудад зориулсан net.fetch() функцийн давтан дуудлагын гүйцэтгэлийг сайжруулсан гүйцэтгэлийн сайжруулалт багтсан байна. Энэхүү сайжруулалт нь 44, 45, 46 хувилбаруудад мөн шилжүүлэгдсэн ажээ.\n\nҮүнээс гадна уг шинэчлэлтэд ANGLE, Chromium, libaom, libvpx, PDFium, Skia, V8 болон WebRTC зэрэг суурь саруудаас олон тооны чухал засваруудыг ар талдаа (backport) суулгасан байна. Энэ нь desktop аппликейшн хөгжүүлэгчдэд илүү тогтвортой ажиллагааг хангах юм.\n\nХөгжүүлэгчид Electron төслүүдээ шинэчилж, гүйцэтгэлийн сайжруулалт болон аюулгүй байдлын засваруудыг ашиглахын тулд албан ёсны репозитороос шинэ хувилбарыг татаж авах боломжтой.",
+ "published": "2026-10-30T23:35:20Z",
+ "added": "2026-11-02T06:33:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

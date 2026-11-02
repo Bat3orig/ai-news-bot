@@ -1,0 +1,17 @@
+{
+ "id": "c7b5ad4f5572fd39",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Appleosophy",
+ "url": "https://appleosophy.com/wire/srs4f77/",
+ "image": "https://cdn.appleosophy.com/2026/10/cnhero.jpg",
+ "title": "Apple Intelligence Is Coming to iPhone in China, With Help From Alibaba’s Qwen",
+ "summary_en": "Apple Intelligence is coming to iPhone users in China, Apple announced on its China Newsroom, with testing starting November 4 in the latest iOS developer beta and a public launch alongside iOS 27.3 in December. The first features include Live Translation, Writing Tools, Visual Intelligence, Clean Up and Genmoji, and a new partnership with Alibaba",
+ "title_mn": "Apple Intelligence Хятад улсад Alibaba-гийн Qwen загварыг ашиглана",
+ "summary_mn": "Apple компани Хятад дахь iPhone хэрэглэгчдэд зориулсан Apple Intelligence үйлчилгээндээ Alibaba-гийн Qwen загварыг нэгтгэхээр болжээ.",
+ "body_mn": "Apple компани Хятад дахь iPhone хэрэглэгчдэд зориулсан Apple Intelligence функцийг албан ёсоор танилцууллаа. Арванхоёрдугаар сард iOS 27.3 хувилбараар нээлтээ хийх уг үйлчилгээний хөгжүүлэгчийн бета туршилт арваннэгдүгээр сарын 4-нөөс эхлэх ажээ.\n\nШинэчлэлийн хүрээнд шууд орчуулга, бичих хэрэгслүүд, болон харааны ухаалаг үйлдлүүд орох бөгөөд Siri болон бусад хэрэгслүүд нь Хятадын зах зээлд Alibaba компанийн Qwen загварыг ашиглахаар болсон байна. Гэхдээ WWDC 2026 үеэр зарлагдсан зарим шинэ үеийн функцууд эхний ээлжинд багтаагүй байна.",
+ "published": "2026-10-30T22:09:50Z",
+ "added": "2026-11-02T06:33:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "ab8d0a63f49f7f02",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "WIRED",
+ "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+ "image": "https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/191:100/w_1280,c_limit/103026-HACK_.jpg",
+ "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+ "summary_en": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
+ "title_mn": "Cursor-ын өргөтгөлийн зах зээлд хортой Claude Code өргөтгөл тархжээ",
+ "summary_mn": "Cursor IDE-ийн өргөтгөлийн зах зээлд хэрэглэгчийн төхөөрөмжид хандах эрх өгөх зорилготой хуурамч Claude Code өргөтгөл байршуулжээ.",
+ "body_mn": "SpaceX компанид хамаарах Cursor хөгжүүлэлтийн орчны өргөтгөлийн зах зээлд хортой Claude Code өргөтгөл 11 цагийн турш байршсан байна. Энэ хугацаанд уг хортой хувилбарыг 5,000 орчим хэрэглэгч татаж авсан бөгөөд компани шалгалт хийж аюулгүй байдлын арга хэмжээ авчээ.\n\nУг өргөтгөл нь хакеруудад хэрэглэгчийн төхөөрөмж рүү нэвтрэх хаалга үлдээх зорилготой байсан боловч кодын алдаанаас шалтгаалан ихэнх хэрэглэгчдэд бүрэн хэрэгжиж амжаагүй байна. Anthropic болон Cursor компаниудын мэдэгдсэнээр энэ нь Anthropic-ийн систем эсвэл ажилтнуудын компьютер алдагдсантай холбоогүй бөгөөд харин гуравдагч этгээд Cursor-ын зах зээлд хандаж өргөтгөлийг өөрчилсөн байна.",
+ "published": "2026-10-30T20:38:00Z",
+ "added": "2026-11-02T06:33:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

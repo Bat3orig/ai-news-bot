@@ -1,0 +1,17 @@
+{
+ "id": "d6a5d6a7f929c0e7",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "The Next Web",
+ "url": "https://thenextweb.com/news/apple-intelligence-china-ios-27-3-alibaba-qwen",
+ "image": "https://media.thenextweb.com/2026/10/apple-intelligence-china-iphone-18-pro-genmoji-siri-mail.jpg",
+ "title": "Apple confirms its AI features reach China in December, with Qwen",
+ "summary_en": "Apple Intelligence arrives in China with iOS 27.3 in December, with a beta from 4 November. Alibaba's Qwen will run inside Siri, but Siri AI is left out.",
+ "title_mn": "Apple Хятадын зах зээлд Qwen загварыг ашиглан AI функцүүдээ нэвтрүүлнэ",
+ "summary_mn": "Apple компани iOS 27.3 үйлдлийн системээр дамжуулан Хятадад анхны Apple Intelligence функцүүдийг нэвтрүүлэхээр болжээ. Энэхүү шийдэлд Alibaba-ийн Qwen загвар интеграцчилагдан ажиллах юм.",
+ "body_mn": "Apple компани Apple Intelligence үйлчилгээгээ Хятадын зах зээлд албан ёсоор гаргахаар болсноо зарлалаа. Энэхүү боломж нь хөгжүүлэгчдэд зориулсан бета хувилбараар арваннэгдүгээр сарын 4-нөөс эхлэн туршигдах бөгөөд арванхоёрдугаар сард iOS 27.3 шинэчлэлтээр нийт хэрэглэгчдэд хүрнэ. Уг шинэ боломжууд нь iPhone 15 Pro болон түүнээс хойших загваруудад дэмжигдэх ажээ.\n\nХятадын зохицуулагч байгууллагуудын зөвшөөрлийг авсны үндсэн дээр Apple компани Alibaba-тай хамтран ажиллахаар болсон байна. Тодруулбал, хэрэглэгчид Siri, Writing Tools болон Visual Intelligence зэрэг хэрэгслүүдийн хүрээнд Alibaba-ийн Qwen загварыг ашиглах боломжтой болно. Тухайлбал зураг эсвэл PDF файлуудын талаар асуулт асуух үед Qwen загварын чадавхыг ашиглах ажээ.\n\nЭнэхүү алхам нь дэлхийн технологийн аварга компаниуд орон нутгийн хууль тогтоомж болон зах зээлийн онцлогт тохируулан хиймэл оюун ухааны үйлчилгээг хүргэхэд орон нутгийн загваруудыг интеграцчилж буйн томоохон жишээ болж байна. Хөгжүүлэгчдийн хувьд энэ нь олон улсын томоохон платформууд дээр бүс нутгийн AI загварууд хэрхэн нэгдэж байгааг харуулсан чухал үйл явдал юм.",
+ "published": "2026-10-30T23:26:13Z",
+ "added": "2026-11-02T06:33:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

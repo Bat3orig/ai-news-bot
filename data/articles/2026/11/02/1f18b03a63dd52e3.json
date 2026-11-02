@@ -1,0 +1,17 @@
+{
+ "id": "1f18b03a63dd52e3",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.42.0",
+ "image": "https://opengraph.githubassets.com/018a425277d05b695f1f0a390e80396e73c17e991353eb4041e61f16358d928e/openai/openai-python/releases/tag/v3.42.0",
+ "title": "openai-python v3.42.0",
+ "summary_en": "3.42.0 (2026-10-31) Features api: add agent context compaction settings ( #4209 ) ( f552fcf ) api: add agent session review and tool settings ( #4217 ) ( a63c4cd ) api: add experimental agent time awareness ( #4211 ) ( 10f9dd0 ) api: add image edit markup overlays ( #4210 ) ( 72c656d ) api: add organization external key management ( #4205 ) ( 3ee373e ) api: add SIP DTMF commands and delivery events ( #4208 ) ( f9f3f76 ) api: improve WebSocket recovery and delivery reporting ( #4213 ) ( 68b962c ) api: keep callable API keys scoped to each request ( #4216 ) ( 85bb536 ) api: support response…",
+ "title_mn": "openai-python v3.42.0 хувилбар шинэ боломж, тохиргоотойгоор гарлаа",
+ "summary_mn": "openai-python сангийн 3.42.0 хувилбар гарч, агент хэрэгслийн тохиргоо, WebSocket сэргээлт болон гадаад түлхүүрийн удирдлагын шинэ боломжуудыг нэмжээ.",
+ "body_mn": "OpenAI-ийн Python хэлэнд зориулсан албан ёсны openai-python сангийн 3.42.0 хувилбар гарлаа. Энэхүү шинэ хувилбарт хиймэл оюун ухааны агентуудыг хөгжүүлэх болон API интеграцчилал хийхэд зориулсан олон шинэ боломж, сайжруулалтууд нэмэгдсэн байна.\n\nТухайлбал, агент контект шахах тохиргоо (agent context compaction settings), агент сессийн хяналт болон хэрэгслийн тохиргоо, мөн туршилтын журмаар агентын цаг хугацааны мэдрэмжтэй байх чадварыг нэмжээ. Дээр нь зураг засах майрк апп давхаргууд, байгууллагын гадаад түлхүүрийн удирдлага болон SIP DTMF команд хүргэлтийн үйл явдлуудыг дэмждэг болсон байна.\n\nМөн хөгжүүлэгчдэд зориулж WebSocket холболтын сэргээлт болон хүргэлтийн тайланг сайжруулах, API түлхүүрүүдийг хүсэлт бүрээр тусгаарлан хамгаалах, хариу формат шинэчлэлт болон локал гаралтын төрлүүдийг дэмжих зэрэг техникийн чухал засварууд хийгджээ.",
+ "published": "2026-10-31T00:26:41Z",
+ "added": "2026-11-02T06:33:29Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
