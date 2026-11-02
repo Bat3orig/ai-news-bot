@@ -1,0 +1,17 @@
+{
+ "id": "5cb227db0b570e37",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v43.8.5",
+ "image": "https://opengraph.githubassets.com/d5a05cfb24a6f3c88af5c385d217199d2989d96547523aae8079f2581261d92d/electron/electron/releases/tag/v43.8.5",
+ "title": "electron v43.8.5",
+ "summary_en": "Release Notes for v43.8.5 Fixes Fixed a crash on Linux when a D-Bus method call was made on a disconnected bus. #55291 (Also in 44 , 45 , 46 ) Performance Improvements Improved performance of net.fetch() requests without a body. #55447 (Also in 44 , 45 , 46 ) Other Changes Backported fixes from upstream Chromium, Dawn, Skia and V8. #55495",
+ "title_mn": "Electron v43.8.5 хувилбар гарлаа",
+ "summary_mn": "Electron v43.8.5 хувилбарт Linux дээр D-Bus холболт тасрах үеийн гацалтыг засаж, net.fetch() хүсэлтийн гүйцэтгэлийг сайжруулав.",
+ "body_mn": "Electron фрэймворкийн v43.8.5 шинэчлэлт гарлаа. Энэхүү засварын хувилбарт хэд хэдэн тогтвортой ажиллагаа болон гүйцэтгэлийн асуудлуудыг шийдвэрлэсэн байна.\n\nГол өөрчлөлтүүдээс дурдвал Linux орчинд салгагдсан bus дээр D-Bus method дуудах үед аппликейшн шууд гацдаг байсан алдааг бүрэн засав. Мөн бие буюу body агуулаагүй net.fetch() хүсэлтүүдийн ажиллагааны хурд болон гүйцэтгэлийг мэдэгдэхүйц сайжруулсан байна.\n\nТүүнчлэн upstream эх сурвалжууд болох Chromium, Dawn, Skia болон V8 хөдөлгүүрийн сүүлийн үеийн чухал засваруудыг тус хувилбарт нөхөн суулгажээ.",
+ "published": "2026-10-30T19:45:02Z",
+ "added": "2026-11-02T00:20:33Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

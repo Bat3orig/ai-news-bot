@@ -1,0 +1,17 @@
+{
+ "id": "2670478d7922e418",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Startup Fortune",
+ "url": "https://startupfortune.com/anthropic-quadruples-claude-api-request-cap-to-128-mb-from-32-mb/",
+ "image": "https://startupfortune.com/wp-content/uploads/2026/10/anthropic-claude-api-computer-use.jpg",
+ "title": "Anthropic quadruples Claude API request cap to 128 MB from 32 MB",
+ "summary_en": "Anthropic raised the Claude API's Messages and Token Counting request cap from 32 MB to 128 MB, fixing a payload limit that throttled computer-use agents.",
+ "title_mn": "Anthropic Claude API-ийн хүсэлтийн хэмжээний хязгаарыг 128 MB болгон нэмэгдүүлэв",
+ "summary_mn": "Anthropic компани Claude API-ийн Messages болон Token Counting эндпойнтуудын хүсэлтийн хэмжээний хязгаарыг 32 MB-аас 128 MB болгож 4 дахин өсгөв. Энэ нь олон зураг, баримт агуулсан агент даалгавруудыг саадгүй ажиллуулах боломж олгоно.",
+ "body_mn": "Anthropic компани Claude API-ийн Messages болон Token Counting эндпойнтуудын хүсэлтийн дээд хэмжээг 32 MB-аас 128 MB болгон дөрөв дахин өсгөснөө зарлалаа. Өмнө нь хөгжүүлэгчид загварын контекст цонхны хязгаартаа хүрээгүй байсан ч HTTP хүсэлтийн payload хэмжээ хэтэрснээс болж 413 алдаатай тогтмол тулгардаг байсан юм.\n\nЭнэхүү хязгаарлалт нь ялангуяа компьютерын дэлгэцийн олон зураг (screenshot) дараалан авдаг agent системүүд болон том хэмжээтэй PDF файлуудтай ажиллахад хүндрэл үүсгэдэг байв. Файлуудыг Base64 хэлбэрээр кодлоход анхны хэмжээнээсээ ойролцоогоор 33 хувиар томордог тул 24 MB хэмжээтэй PDF файл гэхэд л хуучин 32 MB-ын босгыг хялбархан давж байжээ.\n\nШинэчлэлт хийгдсэнээр хөгжүүлэгчид зураг болон баримт ихтэй хүсэлтүүдийг олон хуваах шаардлагагүйгээр нэг дуудалтаар Claude-д дамжуулах боломжтой боллоо. Одоогоор Files API-ийн хязгаар 500 MB, харин Message Batches API-ийнх 256 MB хэвээр үлдэж байна.",
+ "published": "2026-10-30T01:37:32Z",
+ "added": "2026-11-02T00:20:33Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

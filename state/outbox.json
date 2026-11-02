@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "f39bbc81b46a3e2c",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5JEHxyDfnRulsPLxQKMdf7/61a60b73784acacc7e27c0e74d68f8b2/image__57_.png",
-   "title": "Box Mount now runs in Vercel Sandbox",
-   "summary_en": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the sandbox, and everything the agent wrote is in Box after the sandbox is deleted. The contract-review example uses AI Gateway to review a synthetic contract in Vercel Sandbox and save the review back to Box. The sync process and agent run as separate sandbox users, keeping the Box credentials separate from the agent's workspace. Box Mount is in private preview. Request access from Box, then follow…",
-   "title_mn": "Vercel Sandbox орчинд Box Mount ажилладаг боллоо",
-   "summary_mn": "Box Mount хэрэгсэл нь Vercel Sandbox дотор ажиллаж буй агентуудад файл системээр дамжуулан Box файлтай ажиллах боломж олгож байна.",
-   "body_mn": "Vercel Sandbox орчинд Box Mount боломжтой болсноор хиймэл оюун ухааны агентууд Box хавтсыг стандарт файлын системийн үйлдлүүд ашиглан унших, бичих боломжтой боллоо. Энэ нь sandbox доторх директор болон Box хавтсыг хооронд нь синк хийдэг байна.\n\nЖишээ болгон гэрээ шалгах процессыг AI Gateway болон Vercel Sandbox ашиглан хэрэгжүүлсэн бөгөөд синк хийх болон агент нь тусдаа хэрэглэгчдээр ажилласнаар аюулгүй байдлыг хангадаг. Энэхүү боломж нь одоогоор private preview хэлбэрээр туршигдаж байна.",
-   "published": "2026-10-28T18:00:00Z",
-   "added": "2026-10-31T06:02:30Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dca752b1704cb23e",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v24.22.2",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.2%20(LTS)",
-   "title": "Node.js 24.22.2 (LTS)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 24.22.2 (LTS) хувилбар гарлаа",
-   "summary_mn": "Node.js платформын шинэ LTS хувилбар болох 24.22.2 хувилбар албан ёсоор гарч, суулгах файлууд нь бэлэн болжээ.",
-   "body_mn": "Node.js платформын засвар үйлчилгээ болон тогтвортой байдлыг хангах 24.22.2 (LTS) хувилбар албан ёсоор цацагдлаа. Энэхүү хувилбарт Windows, macOS, болон Linux үйлдвэрийн системүүдэд зориулсан суулгагч болон бинар файлууд багтсан байна.\n\nХөгжүүлэгчид албан ёсны вэб сайтаас өөрийн системд тохирох хувилбарыг татаж авч ашиглах боломжтой бөгөөд дэлгэрэнгүй баримт бичгийг API хуудаснаас үзэх боломжтой юм.",
-   "published": "2026-10-28T18:40:14Z",
-   "added": "2026-10-31T06:02:30Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "91131e1dcff491a8",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4hCEjLaSjUbXzgJ4qdsl2n/280d7a74385fc9209be3998754f73968/vercel-ci-is-now-in-beta.png",
-   "title": "Vercel CI is now in beta",
-   "summary_en": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task marked with a ci tag runs on every push. Vercel CI automatically takes care of: Only running CI that is affected by your code changes Task caching with Vercel Remote Cache Installing dependencies once per run Caching dependencies across code updates To learn more: Check out our blog post Visit the…",
-   "title_mn": "Vercel CI beta хувилбараар нээгдлээ",
-   "summary_mn": "Turborepo-д зориулсан Vercel CI нь нэг мөр тохиргоогоор ажиллаж эхэлсэн бөгөөд хөгжүүлэлтийн хугацааг эрс багасгаж байна.",
-   "body_mn": "Vercel компани Turborepo төслүүдэд зориулсан Vercel CI үйлчилгээгээ beta хэлбэрээр гаргалаа. Хөгжүүлэгчид ганцхан мөр тохиргоо хийснээр өөрсдийн репозиторий холбох боломжтой болсон байна.\n\nVercel-ийн дотоод төслүүдэд хийсэн туршилтаар git push хийснээс хойш CI амжилттай дуусах хугацаа 2-6 дахин хурдассан байна. Энэ нь код бичих агентуудын ажлыг илүү хурдтай үргэлжлүүлэхэд чухал нөлөө үзүүлж байна.",
-   "published": "2026-10-28T19:00:00Z",
-   "added": "2026-10-31T06:02:30Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "21b575bfe89cd20a",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
-   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-   "summary_en": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-   "title_mn": "Anthropic AI хэрэгслийн үр дүнг хэмжих шинэ тайлангийн хэрэгслүүд нэмлээ",
-   "summary_mn": "Anthropic компани байгууллагын хэрэглэгчдэд AI хэрэгслийн зардлыг хянаж, үр өгөөжийг харах шинэ тайлангийн систем гаргалаа.",
-   "body_mn": "Anthropic компани өөрийн Claude Code болон бусад AI хэрэгслүүдэд зарцуулж буй хөрөнгө оруулалтынхаа үр дүнг байгууллагуудад харуулах шинэ тайлангийн хэрэгслүүдийг танилцууллаа. Компанийн санхүүгийн үзүүлэлтүүд өндөр өсөлттэй байгаа энэ үед байгууллагын хэрэглэгчдийн зардлын менежментийг сайжруулахад анхаарч байна.\n\nШинэ хэрэгслүүд нь менежерүүдэд багийнхаа бүтээмж, зарцуулсан токен болон ажлын урсгалын үр дүнг хугацаагаар нь хянах боломж олгоно. Мөн токен зарцуулалтыг илүү сайн удирдахын тулд нэгдсэн төсвийн зохицуулалтуудыг хийжээ.\n\nJellyfish компанийн судалгаагаар Claude Code болон Anthropic-ийн загварууд нь агентын код бичих хэрэгслүүдийн дунд өндөр хэрэглээтэй хэвээр байгаа бөгөөд хөгжүүлэлтийн нийт зардлын тодорхой хувийг эзэлж байгааг онцолсон байна.",
-   "published": "2026-10-28T19:19:58Z",
-   "added": "2026-10-31T06:02:30Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4e1a0a4d98ab9efd",
-   "subtopic": "nextjs",
-   "source": "Next.js Blog",
-   "source_label": "Next.js Blog",
-   "url": "https://nextjs.org/blog/ship-less-javascript-with-ai",
-   "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/ship-less-javascript-with-ai/twitter-card.png",
-   "title": "Ship less JavaScript in Next.js with your AI agent",
-   "summary_en": "Optimize your Next.js app's bundles with the next-bundle-optimizer agent skill, or explore them yourself with new Bundle Analyzer tools.",
-   "title_mn": "Next.js 16.4: AI агентаар JavaScript багцын хэмжээг багасгах боломжтой боллоо",
-   "summary_mn": "Next.js 16.4 хувилбарт Turbopack-ийн модуль бүтцийг шинжлэн илүүдэл кодыг автоматаар цэгцлэх next-bundle-optimizer агентын ур чадварыг танилцууллаа.",
-   "body_mn": "Next.js 16.4 хувилбар гарч, аппликейшны JavaScript багцын (bundle) хэмжээг AI агентаар шинжлүүлж автоматаар багасгах боломжтой боллоо. Өмнөх Next.js 16.1 хувилбарт анх гарсан Turbopack Bundle Analyzer хэрэгслийг өргөтгөж, AI агентад зориулсан next-bundle-optimizer ур чадварыг шинээр нэмсэн байна.\n\nЭнэхүү ур чадварыг /next-bundle-optimizer командаар ажиллуулах бөгөөд Turbopack-ийн модуль графийг шинжилж, санамсаргүйгээр шууд дуудагдсан хүнд сангуудыг илрүүлдэг. Улмаар агент нь кодын бүтцийг өөрчилж, шаардлагатай модулиудыг хойшлуулж ачаалах (lazy load) зөвлөмж өгөхөөс гадна PR нээж өөрчлөлтийг автоматаар оруулах боломжтой.\n\nVercel баг энэ хэрэгслийг v0 болон vercel.com төслүүд дээрээ туршиж, нийт 2MB орчим шахсан кодын хэмжээг хэмнэсэн байна. Мөн интерактив next analyze хэрэгсэлд анхны хуудас ачаалахад саад болж буй синхрон модулиудыг шүүж харах, шинжилгээний snapshot-уудыг хооронд нь харьцуулах боломжууд нэмэгджээ.",
-   "published": "2026-10-28T20:00:00Z",
-   "added": "2026-10-31T06:02:30Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6e0ee9742ced0005",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "ExecutiveGov",
-   "url": "https://www.executivegov.com/articles/gsa-anthropic-onegov-claude-discount",
-   "image": "https://media.executivegov.com/2026/10/egov-general-services-administration-gsa-2.jpg",
-   "title": "GSA Expands Anthropic OneGov Deal With 40-Percent Claude Token Discount",
-   "summary_en": "The expanded Claude deal covers FedRAMP-authorized environments and gives agencies multiple purchasing options.",
-   "title_mn": "GSA нь Anthropic-Tei хийсэн гэрээг өргөжүүлж, Claude токенд 40%-ийн хөнгөлөлт үзүүлэв",
-   "summary_mn": "Америкийн Нэгдсэн Улсын Ерөнхий үйлчилгээний газар (GSA) OneGov гэрээгээ өргөжүүлж, төрийн байгууллагуудад Claude загваруудыг ашиглахад нь 40 хувийн хөнгөлөлт олгохоор боллоо. Энэхүү хөнгөлөлт нь холбооны, муж болон орон нутгийн бүх шатны байгууллагуудад хамаарна.",
-   "body_mn": "АНУ-ын Ерөнхий үйлчилгээний газар (GSA) нь Anthropic компанитай байгуулсан OneGov гэрээгээ шинэчилж, төрийн болон орон нутгийн байгууллагуудад Claude хиймэл оюун ухааны загваруудын токен ашиглалтад 40 хувийн хөнгөлөлт үзүүлэхээр болсноо зарлалаа. Энэхүү гэрээ нь ямар нэгэн доод хязгаарлалтгүйгээр зөвхөн бодит ашиглалтаар нь тооцож төлбөр хийх боломжийг бүрдүүлж байгаа юм.\n\nШинэчилсэн нөхцөлийн дагуу уг хөнгөлөлт нь төрийн байгууллагуудад зориулсан FedRAMP зөвшөөрөлтэй орчинд ажилладаг Claude загваруудыг бүрэн хамарна. Хэрэглэгчид үйлчилгээг шууд эсвэл үүлэн тооцооллын томоохон үйлчилгээ үзүүлэгчдээр дамжуулан худалдан авах боломжтой байна.\n\nӨмнө нь GSA нь OpenAI компанитай мөн адил 27 сарын хугацаатай гэрээ байгуулж, ChatGPT ашиглалтад 50 хувийн хөнгөлөлт үзүүлж байсан түүхтэй. Тус агентлагийн мэдээлснээр OneGov санаачилга нь татвар төлөгчдийн хөрөнгөөс 1.8 тэрбум ам.долларын хэмнэлт гаргасны дийлэнх хэсгийг хиймэл оюун ухааны гэрээ эзэлж байна.",
-   "published": "2026-10-28T21:24:49Z",
-   "added": "2026-10-31T12:53:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d4a93508cb7480c8",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.41.0",
-   "image": "https://opengraph.githubassets.com/4586688e98fb9b1a0a18f3793397654f7b5a8628433ee9aa1247c10b2ce97667/openai/openai-python/releases/tag/v3.41.0",
-   "title": "openai-python v3.41.0",
-   "summary_en": "3.41.0 (2026-10-28) Features api: accept typed references in Realtime response inputs ( #4189 ) ( 8ecb487 ) api: add response tool usage models ( #4201 ) ( 55fc500 ) api: filter agent sessions by metadata ( #4200 ) ( 77fd116 ) websocket: recover queued binary frames after reconnect ( #4191 ) ( f079868 ) Bug Fixes examples: detect incomplete WebSocket responses ( #4187 ) ( 8559299 ) examples: handle interruptions and disconnects in push-to-talk ( #4192 ) ( 35fc9f3 ) keep consumer fixtures clean under strict Pyright ( #4204 ) ( 5012565 ) Chores api: document upcoming model shutdowns ( #4199 )…",
-   "title_mn": "openai-python v3.41.0 хувилбар шинэ боломжуудтайгаар гарлаа",
-   "summary_mn": "openai-python сангийн v3.41.0 шинэчлэлтээр Realtime холболтод төрөлжсөн (typed) хаултыг дэмжих, хэрэгслийн ашиглалтын загварууд болон агентын сессийг мета өгөгдлөөр шүүх боломжууд нэмэгдлээ.",
-   "body_mn": "OpenAI python сангийн шинэ v3.41.0 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон чухал шинэ боломж болон алдаа засруудыг багтаажээ.\n\nГол шинэчлэлтүүдээс дурдвал, Realtime хариу оролтод төрөлжсөн холбоосыг хүлээн авах, хариу хэрэгслийн ашиглалтын загварууд нэмэгдсэн ба агентын сессүүдийг мета өгөгдлөөр нь шүүх боломжтой болсон байна. Мөн websocket холболтын үед дахин холбогдох явцад дараалалд орсон хоёртын хүрээнүүдийг (binary frames) сэргээх чадамжийг сайжруулжээ.\n\nТүүнчлэн Pyright strict горимын дор шалгалтуудыг цэвэр байлгах, удахгүй хаагдах загваруудыг баримтжуулах болон хөгжүүлэлтийн төрөл шалгалтыг ty рүү шилжүүлэх зэрэг техникийн засварууд хийгдсэн байна.",
-   "published": "2026-10-28T22:26:54Z",
-   "added": "2026-10-31T12:53:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "310cc898be6a4372",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1WMW1oTnnmefLvkJVBJYo4/706bc9af3ed40064a0fe39d273b812c8/node-vercel.png",
-   "title": "Node.js 26 LTS is now Generally Available on Vercel",
-   "summary_en": "Node.js 26 LTS is now Generally Available for builds and Vercel Functions . This release includes: HTTP/2 by default for built-in fetch ( Undici 8 ) lets multiple requests share a connection with servers that support it. This can reduce latency when your functions call APIs or databases over HTTP. Temporal API offers an alternative to Date with immutable values and built-in time zone and calendar support. V8 version 14.6 , the updated JavaScript engine, adds features such as Map.prototype.getOrInsert() to retrieve an existing value or insert a default when a key is missing. Using Node.js 26…",
-   "title_mn": "Node.js 26 LTS хувилбар Vercel дээр албан ёсоор дэмжигдэж эхэллээ",
-   "summary_mn": "Vercel дээр Node.js 26 LTS хувилбар бүрэн дэмжигдэж эхэлсэн бөгөөд HTTP/2 анхдагчаар ажиллах, Temporal API болон V8 хөдөлгүүрийн шинэ боломжууд нэмэгджээ.",
-   "body_mn": "Vercel платфор дээр Node.js 26 LTS (Long Term Support) хувилбар бүтээлт болон Vercel Functions орчинд албан ёсоор нээлттэй боллоо. Энэхүү шинэ хувилбар нь хөгжүүлэгчдийн бүтээмж болон гүйцэтгэлийг сайжруулах олон дэвшилтэт боломжийг авчирч байна.\n\nҮндсэн fetch (Undici 8) сангаар дамжуулан HTTP/2 протокол анхдагчаар ажиллах болсноор олон хүсэлтүүд нэг холболтыг хуваалцаж, API болон өгөгдлийн сан руу хандах хоцролтыг бууруулна. Мөн Date объектын оронд цагийн бүс болон хуанлийн дэмжлэгтэй immutable утга буцаадаг Temporal API боломжтой боллоо.\n\nTүүнчлэн V8 хөдөлгүүрийн 14.6 хувилбар шинэчлэгдсэнээр Map.prototype.getOrInsert() зэрэг хэрэгцээт функцууд нэмэгдсэн байна. Шинэ төслүүдэд Node.js 26 анхдагч байх бөгөөд хуучин төслүүдийн package.json файлаа шинэчлэх замаар хялбархан ашиглах боломжтой.",
-   "published": "2026-10-29T00:00:00Z",
-   "added": "2026-10-31T12:53:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "90db0f9ffd4a7755",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-connect-adds-webhook-triggers-for-more-providers",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6EQMPU0cNQynXCrzLPOZ32/92d2c6d1c303dde52c15c812c8a6a429/webhook_triggers_og.png",
-   "title": "Vercel Connect adds webhook triggers for more providers",
-   "summary_en": "Vercel Connect now supports webhook triggers for Resend , X , Twilio , Notion , and Telegram . Connect receives webhook events, such as Telegram bot messages or emails received by your Resend domain, and forwards them to an endpoint in your Vercel project. It verifies incoming requests and handles provider heartbeats and verification challenges for you. To get started: Open Vercel Connect in the dashboard. Enable triggers when creating a connector for your provider or in an existing connector’s settings. Connect registers webhooks automatically for Resend and Telegram. For Twilio, Notion…",
-   "title_mn": "Vercel Connect вебхүүк удирдлагыг өргөжүүлж, шинэ үйлчилгээ нэмлээ",
-   "summary_mn": "Vercel Connect нь одоо Resend, X, Twilio, Notion болон Telegram үйлчилгээний вебхүүк хүлээн авах боломжтой болж, хөгжүүлэгчдэд интеграци хийхэд илүү хялбар боллоо.",
-   "body_mn": "Vercel Connect платформ нь вэб хуудас болон үүлэн үйлчилгээ хоорондын холболтыг сайжруулах зорилгоор Resend, X (хуучнаар Twitter), Twilio, Notion болон Telegram үйлчилгээнүүдийн вебхүүк триггерийг дэмждэг болсноо зарлалаа.\n\nЭнэхүү шинэчлэлтийн тусламжтайгаар Connect нь хэрэглэгчдийн Telegram ботын мессеж эсвэл Resend домайнаар ирсэн имэйл зэрэг вебхүүк үйл явдлуудыг хүлээн авч, таны Vercel төсөл дэх тодорхой төгсгөл (endpoint) рүү автоматаар дамжуулах юм. Мөн ирж буй хүсэлтийг баталгаажуулах болон үйлчилгээ үзүүлэгчийн холболтын шалгалтыг өөрөө зохицуулна.\n\nХөгжүүлэгчид Vercel хянах самбар эсвэл Connect тохиргоо руу орж дээрх үйлчилгээнүүдийг идэвхжүүлэх боломжтой ба Observability хэсгээс ирж буй триггер үйл явдлуудыг бодит цаг хугацаанд хянах боломжтой болжээ.",
-   "published": "2026-10-29T00:00:00Z",
-   "added": "2026-10-31T12:53:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "68dcb801f302cbca",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/block-ai-crawlers-and-assistants-independently-with-managed-rules",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1OgCQLCwxxjTR2m0dg2X55/ecec064f56edf89ddf17a13a8457d07e/ai_bots_and_crawlers_og.png",
-   "title": "Control AI crawlers and assistants separately in Vercel Firewall",
-   "summary_en": "You can now log or block requests from AI crawlers and AI assistants separately with the AI Bots managed ruleset in Vercel Firewall . AI crawlers: bots that collect content for indexing and model training AI assistants: bots that fetch pages in response to user actions or search queries For example, you can block AI crawlers while allowing AI assistants to retrieve your content to answer users’ questions. Vercel updates the rules as new bots are added. To configure these controls, open your project’s Security > Firewall > Rules . Under Bot Management , enable AI Bots and select the gear icon…",
-   "title_mn": "Vercel Firewall системд AI мөлхөгч болон туслахуудыг тусад нь хянах боломжтой боллоо",
-   "summary_mn": "Vercel Firewall-ийн AI Bots дүрэмд оруулсан шинэчлэлтээр хөгжүүлэгчид AI мөлхөгч (crawlers) болон AI туслах (assistants) ботуудын хандалтыг тус тусад нь ялгаж хориглох эсвэл зөвшөөрөх боломжтой болжээ.",
-   "body_mn": "Vercel Firewall нь хэрэглэгчдэд вэбсайтынхаа аюулгүй байдлыг илүү нарийвчлалтай удирдах боломжийг олгох үүднээс AI Bots удирдлагын шинэ дүрэм гаргалаа. Ингэснээр контент индексаци болон загвар сургалтад зориулж мэдээлэл цуглуулдаг AI мөлхөгчдийг, хэрэглэгчийн асуултад хариулах зорилгоор хуудас татаж авдаг AI туслахуудаас ялгаж хянах боломжтой болж байна.\n\nЖишээлбэл, хөгжүүлэгчид AI мөлхөгчдийн хандалтыг бүрэн хааж, харин хэрэглэгчдийн асуултад хариулдаг AI туслахуудад вэбсайтынхаа контентыг уншихыг зөвшөөрөх тохиргоог хийх боломжтой. Систем шинээр гарч буй ботуудын мэдээллийг автоматаар шинэчилж байх юм.\n\nУг тохиргоог төслийн Security > Firewall > Rules хэсгээс эсвэл Vercel CLI ашиглан хялбархан хийх боломжтой бөгөөд бүх төлөвлөгөөний хэрэглэгчдэд нээлттэй байна.",
-   "published": "2026-10-29T00:00:00Z",
-   "added": "2026-10-31T12:53:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "742de1ff6dc1ab26",
    "subtopic": "vercel-cloud",
    "source": "Vercel",
@@ -917,6 +717,46 @@
    "added": "2026-11-01T20:58:22Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2670478d7922e418",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Startup Fortune",
+   "url": "https://startupfortune.com/anthropic-quadruples-claude-api-request-cap-to-128-mb-from-32-mb/",
+   "image": "https://startupfortune.com/wp-content/uploads/2026/10/anthropic-claude-api-computer-use.jpg",
+   "title": "Anthropic quadruples Claude API request cap to 128 MB from 32 MB",
+   "summary_en": "Anthropic raised the Claude API's Messages and Token Counting request cap from 32 MB to 128 MB, fixing a payload limit that throttled computer-use agents.",
+   "title_mn": "Anthropic Claude API-ийн хүсэлтийн хэмжээний хязгаарыг 128 MB болгон нэмэгдүүлэв",
+   "summary_mn": "Anthropic компани Claude API-ийн Messages болон Token Counting эндпойнтуудын хүсэлтийн хэмжээний хязгаарыг 32 MB-аас 128 MB болгож 4 дахин өсгөв. Энэ нь олон зураг, баримт агуулсан агент даалгавруудыг саадгүй ажиллуулах боломж олгоно.",
+   "body_mn": "Anthropic компани Claude API-ийн Messages болон Token Counting эндпойнтуудын хүсэлтийн дээд хэмжээг 32 MB-аас 128 MB болгон дөрөв дахин өсгөснөө зарлалаа. Өмнө нь хөгжүүлэгчид загварын контекст цонхны хязгаартаа хүрээгүй байсан ч HTTP хүсэлтийн payload хэмжээ хэтэрснээс болж 413 алдаатай тогтмол тулгардаг байсан юм.\n\nЭнэхүү хязгаарлалт нь ялангуяа компьютерын дэлгэцийн олон зураг (screenshot) дараалан авдаг agent системүүд болон том хэмжээтэй PDF файлуудтай ажиллахад хүндрэл үүсгэдэг байв. Файлуудыг Base64 хэлбэрээр кодлоход анхны хэмжээнээсээ ойролцоогоор 33 хувиар томордог тул 24 MB хэмжээтэй PDF файл гэхэд л хуучин 32 MB-ын босгыг хялбархан давж байжээ.\n\nШинэчлэлт хийгдсэнээр хөгжүүлэгчид зураг болон баримт ихтэй хүсэлтүүдийг олон хуваах шаардлагагүйгээр нэг дуудалтаар Claude-д дамжуулах боломжтой боллоо. Одоогоор Files API-ийн хязгаар 500 MB, харин Message Batches API-ийнх 256 MB хэвээр үлдэж байна.",
+   "published": "2026-10-30T01:37:32Z",
+   "added": "2026-11-02T00:20:33Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5cb227db0b570e37",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v43.8.5",
+   "image": "https://opengraph.githubassets.com/d5a05cfb24a6f3c88af5c385d217199d2989d96547523aae8079f2581261d92d/electron/electron/releases/tag/v43.8.5",
+   "title": "electron v43.8.5",
+   "summary_en": "Release Notes for v43.8.5 Fixes Fixed a crash on Linux when a D-Bus method call was made on a disconnected bus. #55291 (Also in 44 , 45 , 46 ) Performance Improvements Improved performance of net.fetch() requests without a body. #55447 (Also in 44 , 45 , 46 ) Other Changes Backported fixes from upstream Chromium, Dawn, Skia and V8. #55495",
+   "title_mn": "Electron v43.8.5 хувилбар гарлаа",
+   "summary_mn": "Electron v43.8.5 хувилбарт Linux дээр D-Bus холболт тасрах үеийн гацалтыг засаж, net.fetch() хүсэлтийн гүйцэтгэлийг сайжруулав.",
+   "body_mn": "Electron фрэймворкийн v43.8.5 шинэчлэлт гарлаа. Энэхүү засварын хувилбарт хэд хэдэн тогтвортой ажиллагаа болон гүйцэтгэлийн асуудлуудыг шийдвэрлэсэн байна.\n\nГол өөрчлөлтүүдээс дурдвал Linux орчинд салгагдсан bus дээр D-Bus method дуудах үед аппликейшн шууд гацдаг байсан алдааг бүрэн засав. Мөн бие буюу body агуулаагүй net.fetch() хүсэлтүүдийн ажиллагааны хурд болон гүйцэтгэлийг мэдэгдэхүйц сайжруулсан байна.\n\nТүүнчлэн upstream эх сурвалжууд болох Chromium, Dawn, Skia болон V8 хөдөлгүүрийн сүүлийн үеийн чухал засваруудыг тус хувилбарт нөхөн суулгажээ.",
+   "published": "2026-10-30T19:45:02Z",
+   "added": "2026-11-02T00:20:33Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
   }
  }
 ]
