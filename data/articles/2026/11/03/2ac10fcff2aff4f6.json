@@ -1,0 +1,17 @@
+{
+ "id": "2ac10fcff2aff4f6",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "CNN",
+ "url": "https://www.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban",
+ "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295330098.jpg?c=16x9&q=w_800,c_fill",
+ "title": "Anthropic says you can’t be mean to Claude. It’s not about feelings",
+ "summary_en": "Anthropic has added a new line to its AI usage policy: Users should not “engage in sustained and needless abusive or cruel behavior toward our models.”",
+ "title_mn": "Anthropic хэрэглэгчдэд Claude-той зүй бусаар харьцахыг хоригложээ",
+ "summary_mn": "Anthropic компани хэрэглэгчдийг хиймэл оюун ухааны загваруудтайгаа бүдүүлэг, хэрцгий байдлаар харьцахгүй байхыг сануулсан шинэ дүрмийг үйлчилгээний нөхцөлдөө нэмжээ.",
+ "body_mn": "Anthropic компани хэрэглэгчдийн ашиглалтын бодлогодоо шинэ заалт нэмж, хэрэглэгчдийг хиймэл оюун ухааны загваруудтайгаа удаан хугацаагаар, шаардлагагүйгээр бүдүүлэг эсвэл хэрцгий байдлаар харьцахгүй байхыг анхааруулжээ.\n\nТус компани энэхүү шийдвэр нь загварын өөрийнх нь мэдрэмжтэй холбоогүй болохыг онцолсон байна. Хиймэл оюун ухааны хэрэгслүүдийг өдөр тутмын ажилд хэтрүүлэн ашиглах, сэтгэл хөдлөлөөр хандах хандлага нэмэгдэж байгаа энэ үед уг хориг нь технологийн компаниудын анхаарлыг татаж эхэлжээ.\n\nХөгжүүлэгчид болон хэрэглэгчид AI туслахуудтай харилцах харилцаандаа тодорхой хэм хэмжээг баримтлах ёстойг энэхүү шинэ дүрэм сануулж байна.",
+ "published": "2026-11-01T17:00:16Z",
+ "added": "2026-11-03T12:32:37Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

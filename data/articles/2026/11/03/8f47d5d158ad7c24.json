@@ -1,0 +1,17 @@
+{
+ "id": "8f47d5d158ad7c24",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "International Business Times Australia",
+ "url": "https://www.ibtimes.com.au/chatgpt-gemini-grok-ai-image-generation-rankings-1877674",
+ "image": "https://d.ibtimes.com.au/en/full/1845370/chatgpt.jpg",
+ "title": "ChatGPT vs Gemini vs Grok vs Claude: Which AI Makes the Best Images in 2026? Blind Tests Crown a Clear Winner",
+ "summary_en": "ChatGPT currently leads major AI image-generation rankings, while Gemini offers strong value, Grok focuses on cinematic visuals and Claude provides diagrams and code-based graphics instead.",
+ "title_mn": "Шинэ судалгаагаар хамгийн сайн зураг бүтээдэг хиймэл оюун ухааныг тодруулжээ",
+ "summary_mn": "Хэрэглэгчдийн хаалттай санал хураалт болон бие даасан тестүүдээр OpenAI-ийн ChatGPT шилдэг зураг бүтээгчээр тодорч, Google Gemini болон xAI Grok удаалжээ.",
+ "body_mn": "Хиймэл оюун ухааны чатботууд сошиал медиа график, бүтээгдэхүүний зураг, уран сайхны бүтээл хийхэд өргөнөөр ашиглагдах болсон бөгөөд хамгийн алдартай дөрвөн туслахын зургийн чанарыг харьцуулсан хаалттай туршилтууд явагджээ.\n\nШинжилгээний дүнгээр OpenAI-ийн GPT Image 2 загвар тэргүүлж, хамгийн өндөр Elo оноог авсан байна. Хэрэглэгчид ChatGPT-ийн нарийн төвөгтэй сануулгыг сайн ойлгож, чатаар хялбархан засвар хийх боломж олгодог байдлыг нь өндрөөр үнэлжээ. Түүнчлэн зурган доторх текстийг гаргацтай дүрслэх чадвараараа бусдаасаа илүү гарчээ.\n\nGoogle-ийн Gemini систем Nano Banana Pro болон Nano Banana 2 загваруудаараа дамжуулан фотореализм болон хурдыг хослуулсан байна. Үнэ болон хүртээмжийн хувьд хамгийн өргөн боломжтой бөгөөд зураг засварлах чадвараараа сайн хувилбар болж байна.\n\nxAI компанийн Grok Imagine 2.0 нь кино урлагийн өнгө аяс бүхий загвар болон зургийг богино хэмжээний видео болгох функцээрээ онцгойрч, хоёрдугаар байранд орсон байна. Харин Anthropic-ийн Claude нь зураг үүсгэх чадваргүй хэвээр үлджээ.",
+ "published": "2026-11-01T13:57:37Z",
+ "added": "2026-11-03T12:32:37Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

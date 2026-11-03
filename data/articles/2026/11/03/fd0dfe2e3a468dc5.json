@@ -1,0 +1,17 @@
+{
+ "id": "fd0dfe2e3a468dc5",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Engadget",
+ "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+ "image": "https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg",
+ "title": "Anthropic Updates Claude To Stop It From Recreating Existing Video Games",
+ "summary_en": "Users can still lean on Claude to help with designing original or genre games.",
+ "title_mn": "Claude видео тоглоом хуулбарлах болон зохиогчийн эрх зөрчих үйлдлийг хориглов",
+ "summary_mn": "Anthropic компани Claude загварын хэрэглээний бодлогод өөрчлөлт оруулж, алдартай видео тоглоомуудыг хуулбарлан бүтээхийг хатуу хориглов.",
+ "body_mn": "Anthropic компани Claude загвартаа шинэ кодын хэсэг нэмж, хэрэглэгчдэд аль хэдийн бий болсон видео тоглоомуудыг хиймэл оюун ухааны тусламжтайгаар хуулбарлан бүтээхийг зогсоожээ. Шинэ дүрмээр хэрэглэгчид өөрсдийн санаа, хэрэгсэл дээр суурилсан анхны болон төрөл жанрын тоглоом бүтээхийг зөвшөөрсөн хэдий ч тодорхой нэг тоглоомыг нэрийг нь өөрчлөөд хуулбарлахыг хориглосон байна.\n\nЭнэхүү өөрчлөлтийг Anthropic-ийн ажилтан Адди Османи баталгаажуулж, бусдын оюун өмчийн эрхийг зөрчих үйл ажиллагаанаас зайлсхийх зорилготой болохыг мэдэгджээ. Гэхдээ хөгжүүлэгчид өөрсдийн дизайн, хөрөнгөөр анхны тоглоом хийхэд ямар нэгэн хязгаарлалт байхгүй аж.\n\nЭнэхүү шийдвэр нь саяхан браузер дээр AI-ийн тусламжтайгаар тоглоомуудыг задлан шинжилж тогломжтой болгох хандлага эрчимжсэнтэй холбоотой гарчээ. Anthropic өмнө нь зохиогчийн эрхийн маргаанаас болж томоохон нөхөн төлбөр төлж байсан түүхтэй юм.",
+ "published": "2026-11-01T21:08:32Z",
+ "added": "2026-11-03T12:32:37Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

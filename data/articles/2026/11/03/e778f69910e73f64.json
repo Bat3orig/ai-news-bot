@@ -1,0 +1,17 @@
+{
+ "id": "e778f69910e73f64",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.42.1",
+ "image": "https://opengraph.githubassets.com/1f988ca573d63a1e3ded77c6e8fbad6ef95885f4803e9192019015b33e696115/openai/openai-python/releases/tag/v3.42.1",
+ "title": "openai-python v3.42.1",
+ "summary_en": "3.42.1 (2026-11-01) Bug Fixes api: preserve Responses WebSocket connection behavior ( #4221 ) ( 38075d8 ) realtime: validate beta WebSocket authentication profiles ( #4218 ) ( 3622a97 ) Refactors websocket: add SDK-owned Responses policy helpers ( #4219 ) ( 83ed269 )",
+ "title_mn": "openai-python v3.42.1 шинэчлэлт цагдав",
+ "summary_mn": "openai-python сангийн v3.42.1 хувилбар гарч, Responses WebSocket холболтын алдааг засч, realtime хэсэгт WebSocket баталгаажуулалтын сайжруулалт хийжээ.",
+ "body_mn": "Python хөгжүүлэгчдэд зориулсан албан ёсны openai-python сангийн v3.42.1 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр API-ийн Responses WebSocket холболтын зан төлөвийг хэвээр хадгалах алдааг зассан байна.\n\nMөн realtime хэсэгт бета хувилбарын WebSocket баталгаажуулалтын профайлыг шалгах чадамжийг нэмжээ. SDK-д эзэмшигдсэн Responses бодлогын туслахуудыг шинээр рефакторинг хийж оруулсан нь хөгжүүлэгчдэд бодит цагийн холболттой ажиллахад илүү найдвартай байдлыг олгоно.",
+ "published": "2026-11-01T20:56:19Z",
+ "added": "2026-11-03T12:32:37Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "d59c26071dd93320",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "TestingCatalog AI News",
+ "url": "https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/",
+ "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/FJGs5StyEnkwpq57e3DM7HCI1VPkZUtpM14nd8XJ.webp",
+ "title": "Anthropic prepares to release Claude Mythos 5.5 model",
+ "summary_en": "A reference to Claude Mythos 5.5 has surfaced on Anthropic's Mythos page. A release could come next week, but timing and access remain unconfirmed.",
+ "title_mn": "Anthropic компани шинэ үеийн Claude Mythos 5.5 загварыг гаргахаар бэлтгэж байна",
+ "summary_mn": "Anthropic компанийн албан ёсны вэбсайтад Claude Mythos 5.5 загварын нэр цухуйж, кибер аюулгүй байдал болон биологийн судалгааны хамгийн хүчирхэг загвар болох нь тогтоогджээ.",
+ "body_mn": "Anthropic компани кибер аюулгүй байдал болон амь шинжлэх ухааны судалгаанд зориулсан шинэ үеийн Claude Mythos 5.5 загвараа гаргахад тун ойрхон байгаа аж. Албан ёсны вэбсайтын код болон хуудас дээр уг хувилбарын нэр шинээр нэмэгдсэн нь тун удахгүй зарлагдах магадлалыг өндөр болгож байна.\n\nМөн Azure болон LiteLLM дээр Claude Fable 5.5 загварын шалгах цэгүүд (checkpoints) туршилтаар гарч ирсэн нь хөгжүүлэгчдийн анхаарлыг татаад байна. Зарим эх сурвалжийн мэдээлж буйгаар Fable 5.5 нь SVG болон кодын чанараараа гайхалтай үр дүн үзүүлж байгаа ажээ.\n\nAnthropic компани Nasdaq биржид ANT тэмдэглэгээтэйгээр IPO хийхээр төлөвлөж байгаа энэ үед шинэ загваруудаа зах зээлд гаргах нь хөрөнгө оруулагчдын анхаарлыг ихээхэн татах төлөвтэй байна. Өмнөх хувилбаруудын хувьд Mythos загварыг зөвхөн баталгаажсан судлаачдад хязгаарлагдмал байдлаар олгож байжээ.",
+ "published": "2026-11-01T20:50:16Z",
+ "added": "2026-11-03T12:32:37Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

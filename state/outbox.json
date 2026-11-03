@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "2a2702a34b223641",
-   "subtopic": "ai-devtools",
-   "source": "openai/codex",
-   "source_label": "openai/codex",
-   "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
-   "image": "https://opengraph.githubassets.com/85a7e5fa54c0b28bde06588dae3003e8544d58795b2c562c7132d22d88415450/openai/codex/releases/tag/rust-v0.166.0",
-   "title": "codex 0.166.0",
-   "summary_en": "New Features Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. ( #57221 , #57222 , #57223 , #57224 ) Rendered Markdown consistently in async questions, choices, answers, and transcript replies. ( #57259 , #57292 ) Added GPT-6.1 Terra to the bundled, Vertex AI, and Amazon Bedrock model catalogs. ( #57293 ) Added codex queue --resume to resume unloaded threads after queueing a message. ( #57232 ) Added clearer safety-block explanations and selectable safer follow-up prompts in the TUI. ( #57363 , #57365 ) Added codex…",
-   "title_mn": "codex 0.166.0 хувилбар шинэ боломжууд болон GPT-6.1 Terra дэмжлэгтэйгээр гарлаа",
-   "summary_mn": "Codex хэрэгслийн шинэ 0.166.0 хувилбарт гартаар удирдах боломжтой хуулбар сонголт, сайжруулсан search, мөн GPT-6.1 Terra загварын нэгдсэн дэмжлэг нэмэгдлээ. Түүнчлэн сүлжээний оношилгооны хэрэгсэл болон олон тооны алдаа засалтууд хийгдсэн байна.",
-   "body_mn": "Codex хэрэгслийн шинэ 0.166.0 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон шинэ боломж, сайжруулалтуудыг авчирлаа. Энэхүү шинэчлэлтээр үг, мөр болон хуудасны хөдөлгөөнөөр удирдах боломжтой гарын удирдлагатай транскрипт сонгох функц, нэгдсэн хайлт, тохируулж болох товчлолууд нэмэгдсэн байна.\n\nМөн Vertex AI болон Amazon Bedrock загварын каталогид GPT-6.1 Terra загварыг албан ёсоор нэгтгэжээ. Хөгжүүлэгчдэд тулгардаг сүлжээний болон холболтын асуудлыг шийдвэрлэх зорилгоор codex doctor --network-only команд нэмэгдсэн нь WebSocket болон тохиргооны оношилгоог хийхэд илүү хялбар болгож байна. Үүнээс гадна аюулгүй байдлын блок тайлбарууд сайжирч, TUI интерфейс дээр илүү аюулгүй дараагийн сануулгуудыг сонгох боломжтой болжээ.\n\nЗасваруудын хувьд хуучин зөвшөөрлийн тохиргоог хадгалах, локал зургийн хавсралтыг сэргээх, мөн macOS дээрх суулгалтын цэвэрлэгээг сайжруулсан байна. Хөгжүүлэлтийн болон хувилбарын бүтээлтүүдийг Node.js 24.22.1 болон Rust 1.95.0 руу стандартчилжээ.",
-   "published": "2026-10-29T19:50:20Z",
-   "added": "2026-11-01T10:55:48Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0f605a1858f1d3cd",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.0.0%20(Alpha)",
-   "title": "Node.js 27.0.0-alpha.0.0.0 (Alpha)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 27.0.0 Alpha хувилбар V8 15.6 хөдөлгүүртэйгээр гарлаа",
-   "summary_mn": "Node.js платформын анхны 27.0.0-alpha.0.0.0 хувилбар гарч, V8 хөдөлгүүрийг 15.6.75.13 хувилбар болгон шинэчиллээ. Энэхүү альфа хувилбар нь шинэ боломжуудыг туршиж үзэх боломжийг хөгжүүлэгчдэд олгож байна.",
-   "body_mn": "Node.js хөгжүүлэлтийн баг дараагийн томоохон хувилбарын суурь болох Node.js 27.0.0-alpha.0.0.0 альфа хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэ хувилбарын гол онцлох өөрчлөлт нь JavaScript хөдөлгүүр болох V8-ийг өмнөх Node.js 26 хувилбар дахь 14.6-аас 15.6.75.13 хувилбар руу шинэчилсэн явдал юм.\n\nJoyee Cheung-ийн оруулсан хувь нэмрээр V8 хөдөлгүүрийн шинэчлэлтүүд хийгдсэн бөгөөд холбогдох өөрчлөлтүүдийн дэлгэрэнгүй жагсаалт удахгүй нийтлэгдэх аж. Хөгжүүлэгчид Windows, macOS, Linux болон бусад үйлдлийн системүүдэд зориулсан суулгагч болон бинар файлуудыг албан ёсны эх сурвалжаас татаж авч туршиж үзэх боломжтой.\n\nЭнэхүү альфа хувилбар нь одоогоор producción буюу шууд ашиглалтад ороход хараахан бэлэн биш бөгөөд хөгжүүлэгчдэд шинэ функцүүдийг эрт шалгаж үзэх, санал хүсэлт өгөх боломжийг олгох зорилготой юм.",
-   "published": "2026-10-29T19:52:29Z",
-   "added": "2026-11-01T10:55:48Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "119c15f79ce55d70",
-   "subtopic": "design-systems",
-   "source": "Figma Blog",
-   "source_label": "Figma Blog",
-   "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-   "image": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
-   "title": "How we’re training a Figma-fluent editing model",
-   "summary_en": "We’ve increasingly seen that specialized post-training can compete with frontier models. Here, we’re sharing the research behind how we’re translating that to design editing workflows.",
-   "title_mn": "Figma өөрийн бүтээгдэхүүнд зориулсан дизайн засварлагч AI загварыг танилцууллаа",
-   "summary_mn": "Figma компани дизайнеруудад зориулсан тусгай сургалттай, канвас дээр шууд ажилладаг Figma-д ээлтэй хиймэл оюуны агентын судалгаа болон сургалтын аргачлалаа хуваалцлаа. Уг загвар нь хэрэглэгчийн хүсэлтээр дизайныг хурдан бөгөөд үнэн зөвөөр засварлах чадвартай.",
-   "body_mn": "Figma компани дизайн засварлах ажлын урсгалд зориулсан тусгай дараах үеийн сургалт (post-training) болон загвар бүтээх судалгааныхаа талаар мэдээллээ. Загвар зохион бүтээгчид өдөржин янз бүрийн засвар хийдэг тул AI агентын хурд болон нарийвчлал маш чухал юм. Анхандаа тэргүүлэх загварууд Figma-гийн синтаксийг ойлгодоггүй байсан бөгөөд маш их системийн сануулга (system prompting) шаарддаг байжээ.\n\nҮүнийг шийдхийн тулд тэд хяналттай нарийн тааруулах (supervised fine-tuning - SFT) болон бэхжүүлэн сургах (reinforcement learning - RL) аргуудыг хослуулан ашиглажээ. Figma-гийн үндсэн файл формат дээр суурилсан синтетик жишээнүүдийг бэлтгэж, Llama 3.3 70B зэрэг загваруудыг амжилттай сургасан байна. Одоо тэд илүү чадвартай суурь загварууд болох Qwen, Muse Spark Open, Inkling болон бусад загваруудыг ашиглаж эхлээд байна.\n\nAI-аас гаргасан дизайны алдааг шалгахын тулд тэд бүтцийн шалгалт, визуал модель шүүгч болон мэргэжилтэн дизайнеруудын үнэлгээг хослуулан ашигладаг. Энэ нь агентуудад дизайны зохицол, өнгөний ялгарал, компонентын зөв хэрэглээг хянахад тусалж, бодит бүтээгдэхүүнд хэрэглэхэд бэлэн болгож байна.",
-   "published": "2026-10-29T21:00:00Z",
-   "added": "2026-11-01T10:55:48Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5822d1a35902f8cf",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-daemons-can-now-call-services-with-bindings",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cafc78a586917112d170a750/4610af979d0208747abe886e0050a0a1/daemons-service-bindings-og.jpg",
-   "title": "Vercel Daemons can now call services with bindings",
-   "summary_en": "Vercel Daemons can now call the services in their deployment through service bindings . Declare the binding on the daemon. It names the target service and the environment variable that receives the service's URL: The daemon calls that URL like any other HTTP endpoint. Vercel handles the internal routing, authentication, and TLS, and the service stays private: Bindings point one way: services can't bind to daemons. Each instance keeps calling the deployment that started it, even after a promotion or rollback. Learn more about daemon service bindings in the docs . Read more",
-   "title_mn": "Vercel Daemons үйлчилгээнд service bindings холбох боломжтой боллоо",
-   "summary_mn": "Vercel Daemons нь байршуулалт доторх үйлчилгээг service bindings ашиглан дуудах боломжтой болж өргөжлөө. Энэ нь дотоод чиглүүлэлт, баталгаажуулалтыг автоматаар зохицуулна.",
-   "body_mn": "Vercel платформ хөгжүүлэгчдэд зориулсан шинэ боломжийг нэмж, Daemons үйлчилгээг service bindings ашиглан дуулах боломжтой болгосноо зарлалаа. Хөгжүүлэгчид демон дээрээ холбоос зарласнаар зорилтот үйлчилгээ болон түүний URL-ийг тодорхойлох боломжтой юм.\n\nЭнэхүү шинэ боломжийн тусламжтайгаар демон нь холбогдсон үйлчилгээ рүү энгийн HTTP хүсэлт явуулах ба Vercel дотоод чиглүүлэлт, баталгаажуулалт, TLS холболтыг автоматаар зохицуулна. Ингэснээр үйлчилгээ гадаад орчноос тусгаарлагдсан хэвээр үлдэх бөгөөд аюулгүй байдал сайжирна.\n\nХолбоосууд нь нэг чиглэлтэй ажилладаг бөгөөд үйлчилгээ демон руу буцаж холбогдох боломжгүй юм. Шинэ боломжийн талаарх дэлгэрэнгүйг баримт бидрүүлгээс харж болно.",
-   "published": "2026-10-30T00:00:00Z",
-   "added": "2026-11-01T10:55:48Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f05cde2bcd7e07e0",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5P96Goh9cE4twnHsrz63Rz/e97e41e40a8d533c9c7b213d12783de5/image__77_.png",
-   "title": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
-   "summary_en": "Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories. Use inclusionai/ling-3.1-flash-1019 as the model name: Free requests still appear in your spend dashboard with a full request trace, they just cost nothing. On November 3, requests will begin charging at the published rate. To use it in Claude Code, Codex, Cursor, and more, install the latest Vercel…",
-   "title_mn": "Ling 3.1 Flash 1019 загвар Vercel AI Gateway дээр үнэ төлбөргүй гарлаа",
-   "summary_mn": "InclusionAI компанийн Ling 3.1 Flash 1019 загвар Vercel AI Gateway дээр арваннэгдүгээр сарын 3 хүртэл үнэгүй ашиглагдах боллоо. Энэ нь ко бичих болон олон алхамт рассонинг хийхэд зориулагдсан 1 сая токенийн контекст цонхтой загвар юм.",
-   "body_mn": "InclusionAI компанийн бүтээсэн Ling 3.1 Flash 1019 загвар Vercel AI Gateway дээр нэмэгдэж, арваннэгдүгээр сарын 3 хүртэл хөгжүүлэгчдэд үнэ төлбөргүй ашиглагдахаар боллоо. Энэхүү шинэ загвар нь програмчлал хийх, олон алхамт рассонинг болон багаж хэрэгсэл ашигладаг агентуудад зориулагдсан юм.\n\nЗагвар нь 1 сая токенийн контекст цонхтой бөгөөд урт баримт бичиг, кодын сан болон өргөн хүрээний түүхтэй ажиллах чадвартай. Хөгжүүлэгчид Claude Code, Codex, Cursor зэрэг хэрэгслүүдэд Vercel CLI ашиглан уг загварыг хялбархан тохируулж турших боломжтой байна.\n\nAI Gateway нь загваруудыг нэгдсэн API-аар дамжуулан дуудах, хэрэглээ болон өртгийг хянах, алдаа гарсан үед автоматаар өөр тийш шилжүүлэх зэрэг олон дэвшилтэт боломжуудыг санал болгодог. Үнийн хувьд ямар нэгэн нэмэгдэл хураамжгүйгээр үйлчилгээ үзүүлдэг билээ.",
-   "published": "2026-10-30T00:00:00Z",
-   "added": "2026-11-01T10:55:48Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a3ca6b57de5bc9fd",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/add-liveness-checks-to-your-daemons",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4cesbYYeBiGLzh1fUZG7rM/c03dea6cefe9e8b74d0ebad33b9c1cac/vercel-daemons-liveness-checks-og.jpg",
-   "title": "Add liveness checks to your Daemons",
-   "summary_en": "Vercel Daemons now support configuring HTTP liveness checks. Start with an HTTP endpoint in your daemon that reports its health. Keep it lightweight so it responds quickly, and have it return an error status when the daemon is no longer healthy: The daemon configuration now accepts a livenessProbe value pointing at that endpoint: Vercel periodically requests the endpoint and restarts the daemon's container when the check fails, catching a daemon that is still running but no longer healthy. Read the Daemon documentation for more information about liveness checks, including default values and…",
-   "title_mn": "Vercel Daemons дээр HTTP liveness шалгалт нэмэгдлээ",
-   "summary_mn": "Vercel Daemons одоо HTTP liveness шалгалтыг тохируулах боломжтой боллоо. Platform тогтмол endpoint-ийг шалгаж, эрүүл биш болсон daemon-ий container-ийг автоматаар дахин эхлүүлнэ. Тохиргоонд livenessProbe утгыг нэмнэ.",
-   "body_mn": "Vercel Daemons дээр HTTP liveness шалгалт боломжтой боллоо. Хөгжүүлэгч daemon дотроо эрүүл мэндийн байдлаа харуулах хөнгөн HTTP endpoint бэлтгэж, алдаатай үед алдааны статус буцаах ёстой.\n\nDaemon-ийн тохиргоонд livenessProbe утгаар тухайн endpoint-ийг заана. Vercel тогтмол тэр endpoint рүү хүсэлт илгээж, шалгалт амжилтгүй бол daemon-ийн container-ийг дахин эхлүүлнэ. Ингэснээр процесс ажиллаж байгаа ч дотроо гацсан daemon-ийг илрүүлэх боломж бүрдэнэ.\n\nӘдепгийн утга болон нэмэлт тохируулгын талаарх дэлгэрэнгүйг Daemon-ийн баримт бичгээс харах боломжтой. Бэлтгэл ажлаас гадна хамгийн гол зүйл бол endpoint-ийг хурдан хариулдаг байлгах явдал юм.",
-   "published": "2026-10-30T00:00:00Z",
-   "added": "2026-11-01T16:58:36Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d0fb0905837a9326",
-   "subtopic": "packages",
-   "source": "React Status",
-   "source_label": "React Status",
-   "url": "https://react.statuscode.com/issues/495",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/aanjymzij2eewsfnkhro.jpg",
-   "title": "TanStack's smaller React for the browser",
-   "summary_en": "#​495 — October 30, 2026 Read on the Web React Status Putting MUI, Mantine, Ant Design and React Spectrum Under Load Den Odell wanted to see how popular design systems cope when you give them real work, so he timed ten of them , including MUI, Mantine, Ant Design and React Spectrum, and profiled the slowest cases. \"Performance belongs on the design system team's priority list, next to accessibility,\" he says. Some highlights: 📊 With the CPU slowed 4x, opening a 249-country dropdown took 84ms in Mantine and 134ms in Ant Design, but over 200ms in MUI and React Spectrum, both of which froze the…",
-   "title_mn": "TanStack Redact, TanStack DB 1.0 RC1 болон TanStack AI 1.0 гарлаа",
-   "summary_mn": "React Status-ийн энэ дугаарт TanStack Redact, TanStack DB 1.0 RC1, TanStack AI 1.0 зэрэг чухал сангууд гарсан тухай дурдсан. Мөн React Native Windows 0.85 болон Next.js-ийн аюулгүй байдлын шинэчлэл анхаарал татав.",
-   "body_mn": "React Status-ийн энэ дугаарт хамгийн анхаарал татсан хэд хэдэн сан, хэрэгслийг нэгтгэжээ. Хамгийн онцлох нь TanStack Redact бөгөөд браузерт зориулсан React/React DOM-ийн нийцтэй орлуулагч юм. Build тохиргоондоо нэмээд Start, Vite, Vinext болон Next.js дээр ажиллуулж, илүү бага JavaScript илгээх боломжтой. Гэхдээ рендэр нь синхрон бөгөөд time slicing хийдэггүй тул нийцтэй байдлын гарыг сайтар уншихыг зөвлөж байна.\n\nTanStack DB 1.0 RC1 нь реактив client өгөгдлийн давхаргыг API-ийн хувьд тогтвортой болгосон. Гэвч mutation handler, hook болон алдааны хэлбэр өөрчлөгдсөн тул migration гарыг шалгах хэрэгтэй. TanStack AI 1.0 нь React hook-ууд, 23 provider adapter, MCP дэмжлэгтэй вендорноос хамаарахгүй AI хэрэгсэл юм.\n\nReact Native Windows 0.85 нь New Architecture руу бүрэн шилжсэн. Мөн Expo Desktop болон Legend Spark зэрэг desktop дээрх React Native төслүүд гарч байна. Next.js-ийн 3-р сарын аюулгүй байдлын шинэчлэлд долоон дунд зэргийн эрсдэлтэй уян хатан байдал засагдах гэж байгаа бөгөөд advisory-г патчтай хамт нийтлэх юм.",
-   "published": "2026-10-30T00:00:00Z",
-   "added": "2026-11-01T16:58:36Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2e2a1f22f6b7899d",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
-   "image": "https://opengraph.githubassets.com/0c9fe3616a4de8c08f13a0af292a570cd8a374438f1b511c2940ce1db74b5ac1/anthropics/claude-code/releases/tag/v2.1.314",
-   "title": "claude-code v2.1.314",
-   "summary_en": "What's changed Added permissions.blockWritesOutsideWorkingDirectories : Write, Edit and NotebookEdit refuse paths outside the working directories in every permission mode Added an optional groups list to Claude apps gateway upstreams: only developers in the listed IdP groups are sent to that upstream, on failover too Added guardrail_trace to Claude apps gateway Bedrock upstreams, to log which Amazon Bedrock guardrail filter fired on a request, without the matched text Added idle compaction to VS Code and Claude Desktop's Code tab: a 200K+ token conversation left idle is summarized, and the…",
-   "title_mn": "Claude Code v2.1.314: blockWritesOutsideWorkingDirectories тохиргоо нэмэгдлээ",
-   "summary_mn": "Claude Code v2.1.314 хувилбарт Write, Edit болон NotebookEdit-ийг ажлын директорийн гадна бичихийг бүх permission горимд хориглох тохиргоо нэмэгдсэн. Мөн gateway, Bedrock, idle compaction болон олон алдааны засвар орсон.",
-   "body_mn": "Anthropic-ийн Claude Code v2.1.314 хувилбар гарлаа. Шинэ permissions.blockWritesOutsideWorkingDirectories тохиргоогоор Write, Edit болон NotebookEdit хэрэгслүүд ажлын директорийн гадуурх замд бичихийг бүх permission горимд татгалзана. Аюулгүй байдлын үүднээс чухал өөрчлөлт юм.\n\nClaude apps gateway-ийн upstream-д нэмэлт groups жагсаалт нэмэгдсэн. Ингэснээр зөвхөн заасан IdP бүлгийн хөгжүүлэгчид тухайн upstream руу явна, failover үед ч мөн адил. Bedrock upstream дээр guardrail_trace нэмж, ямар guardrail филтр ажилласныг текстгүйгээр бүртгэх боломжтой боллоо. VS Code болон Claude Desktop-ийн Code таб дээр 200K+ токентой яриа идэвхгүй үлдвэл автоматаар товчилдог idle compaction нэмэгдсэн.\n\nМөн олон засвар орсон: админы effort хязгаарлалтаас үүдсэн \"Invalid effort level\" алдаа, claude -p-ийн эхлэх алдаан дээр code 0 буцаах асуудал, Bedrock дээрх олон зургийн асуудал, Microsoft Foundry-ийн deployment дутуу үеийн fallback зэрэг орно. Хөгжүүлэгчид шинэчлэхдээ эдгээр өөрчлөлтийг шалгах нь зүйтэй.",
-   "published": "2026-10-30T01:06:26Z",
-   "added": "2026-11-01T16:58:36Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d3f94b2e4acf5033",
-   "subtopic": "kimi",
-   "source": "Kimi (Google News)",
-   "source_label": "AIBase",
-   "url": "https://news.aibase.com/news/31977",
-   "image": "",
-   "title": "Moonshot AI announces that Kimi is officially integrated with Google Gmail, Google Drive, and Google Calendar",
-   "summary_en": "On Oct 29, Moonshot AI announced that Kimi now integrates with Gmail, Google Drive, and Google Calendar. Users can enable it via the Plugins page. The integrati",
-   "title_mn": "Kimi нь Gmail, Google Drive, Google Calendar-тай холбогдлоо",
-   "summary_mn": "Moonshot AI-ийн Kimiassistant Gmail, Google Drive болон Google Calendar-тай бүрэн интеграцилагдсан гэж 10-р сарын 29-нд зарласан. Холболт нь Plugins хуудас дээрээс OAuth-аар хийгдэнэ.",
-   "body_mn": "Moonshot AI 10-р сарын 29-нд Kimi-ийн шинэчлэлийг албан ёсоор зарлаж, Google-ийн гурван үндсэн үйлчилгээтэй бүрэн холбогдсоныг мэдэгдсэн. Хэрэглэгчид Plugins хуудсанд очиж энгийн тохиргоо хийснээр интеграцийг идэвхжүүлнэ. Gmail-ийн имэйл яриаг товчлох, Google Drive-ийн файлыг олох, Google Calendar-оор өдрийн хуваарь гаргах боломжтой болно.\n\nКompанийн мэдээлснээр бүх өгөгдөл болон үйлдлийг аюулгүй OAuth зөвшөөрлөөр гүйцэтгэдэг. Plugin систем нь AI-д гуравдагч талын үйлчилгээг дуудах боломж олгодог өргөтгөлийн суурь юм. Энэ нь Kimi-ийн оффисын болон өдөр тутмын ажлын хэрэглээг илүү өргөтгөнэ.\n\nХөгжүүлэгчдэд энэ нь шууд API шинэчлэл биш боловч plugin экосистемийн чиглэлийг харуулж байна. Харин нэг эх сурвалжид Moonshot нь Hong Kong IPO-ийн өмнө хуучин хувьцаа эзэмшигчидтэй маргаантай байгаа, хөрөнгийн шилжүүлгийн асуудлаар тохиролцоо хийж байгаа гэх мэдээлэл бас байна. Эдгээр нь бүтээгдэхүүний мэдээнд хамаарахгүй юм.",
-   "published": "2026-10-30T03:07:13Z",
-   "added": "2026-11-01T16:58:36Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a33d0e7954deadc6",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/simplifying-runtime-caching-on-vercel",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/makQAfKB6M5WOh80cEwUs/c82b4ac64be8d6c4cdb3e37c65f68ed5/runtime_caching.png",
-   "title": "Simplifying runtime caching on Vercel",
-   "summary_en": "Today, we’re bringing Data Cache into Runtime Cache, giving developers one product for data caching across frameworks and APIs. If you use Next.js fetch caching or unstable_cache , you won’t need to change your code. Pro and Enterprise projects will get larger storage allocations. Runtime Cache lets your code reuse fetched or computed data across requests without operating a separate caching service. Over the past year, we’ve improved read performance during traffic bursts, increased storage budgets, and made cache usage easier to investigate. Why we built Runtime Cache Data Cache was…",
-   "title_mn": "Vercel дээр Data Cache нь Runtime Cache-д нэгдэж байна",
-   "summary_mn": "Vercel Data Cache-ийг Runtime Cache-д нэгтгэж, нэг бүтээгдэхүүнээр фреймворк болон API-ийн өгөгдлийг кэшлэх боломжтой болгож байна. Next.js fetch caching болон unstable_cache-д код өөрчлөх шаардлагагүй.",
-   "body_mn": "Vercel Data Cache-ийг Runtime Cache-д нэгтгэж байгаа тухай зарлалаа. Next.js-ийн fetch caching болон unstable_cache нь код өөрчлөлтгүйгээр шинэ системд шилжинэ. Pro болон Enterprise төслүүд илүү том хадгалах хэмжээ авна. Runtime Cache нь хөгжүүлэгчид өөрсдийн кэшийн үйлчилгээ ажиллуулахгүйгээр өгөгдлийг хүсэлтүүдийн хооронд дахин ашиглах боломжийг олгодог.\n\nӨмнө Runtime Cache-д зориулсан getCache API байсан бол одоо Next.js 'use cache: remote' нь мөн түүн дээр суурилна. Систем нь регион бүрт тусдаа кэштэй, хүсэлтийн богино хугацааны хариу, tag-аар invalidation хийх механизмтай. Том хэмжээний кэшийн шинэчлэлийг нэг timestamp-аар хийдэг тул их нөөц шаарддаггүй.\n\nТөрөлийн хувьд тодорхой ачааллын үед кэшийн tag store-ийн удаан shard хүсэлтийг удаашруулж болох тул circuit breaker нэмсэн гэж мэдэгдсэн. Энэ нь хөгжүүлэгчдэд гүйцэтгэлийн асуудлын эрсдэлийг бууруулах зорилготой юм.",
-   "published": "2026-10-30T04:00:00Z",
-   "added": "2026-11-01T16:58:36Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "e47f94e758bf2253",
    "subtopic": "anthropic",
    "source": "Anthropic (Google News)",
@@ -777,6 +577,166 @@
    "added": "2026-11-03T04:47:40Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8ffac123fd5635e2",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "ET Retail",
+   "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/alibabas-overloaded-ai-chatbot-stops-issuing-coupons-asks-shoppers-for-patience/128112654?next=1",
+   "image": "https://etimg.etb2bimg.com/thumb/msid-128112654,imgsize-45014,width-1200,height=627,overlay-etretail,resizemode-75/e-commerce/e-tailing/alibabas-overloaded-ai-chatbot-stops-issuing-coupons-asks-shoppers-for-patience.jpg",
+   "title": "Alibaba's overloaded AI chatbot stops issuing coupons, asks shoppers for patience",
+   "summary_en": "Since last month, Alibaba has sought to make Qwen a one-stop shop where users can access its other apps directly in the chatbot and ​complete payments, much like Google integrates its ​Gemini chatbot into apps like Maps. However, the rollout of ‌what the ‍ecommerce giant calls the chatbot's agentic AI strategy has ‍been marred by technical difficulties since the start of ‌the coupon giveaway.",
+   "title_mn": "Alibaba-гийн Qwen чатбот хэт ачааллаас болж купон олгохоо түр зогсоов",
+   "summary_mn": "Alibaba компани Qwen чатботоо хэрэглэгчдийн бусад апп-уудтай шууд холбох төлөвлөгөөний хүрээнд купон тарааж эхэлсэн ч техникийн хүндрэл үүсч, хэрэглэгчдэд тэвчээртэй байхыг хүсжээ.",
+   "body_mn": "Хятадын цахим худалдааны аварга Alibaba компани өөрийн Qwen загварыг хэрэглэгчид шууд апп дотроо төлбөр тооцоо хийж, үйлчилгээ авах боломжтой нэг цэгийн платформ болгох зорилготойгоор агент хэлбэрийн (agentic AI) стратегийг хэрэгжүүлж эхэлжээ.\n\nГэвч энэхүү шинэ боломжийг сурталчлах зорилгоор купон тарааж эхэлсэн нь хэрэглэгчдийн хэт их ачааллыг үүсгэж, чатботын үйл ажиллагаанд техникийн хүндрэл гарсан байна. Үүний улмаас систем купон олгох үйл ажиллагаагаа түр зогсоож, худалдан авагчдаас хүлээцтэй хандахыг хүсжээ.\n\nЭнэхүү явдал нь хиймэл оюун ухааны агент болон экосистемүүдийг хэрэглэгчдэд олноор нь нэвтрүүлэх явцад сервер болон дэд бүтцийн даац ямар чухал болохыг харуулсан анхаарал татахуйц тохиолдол болж байна.",
+   "published": "2026-11-01T10:53:31Z",
+   "added": "2026-11-03T12:32:37Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8f47d5d158ad7c24",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "International Business Times Australia",
+   "url": "https://www.ibtimes.com.au/chatgpt-gemini-grok-ai-image-generation-rankings-1877674",
+   "image": "https://d.ibtimes.com.au/en/full/1845370/chatgpt.jpg",
+   "title": "ChatGPT vs Gemini vs Grok vs Claude: Which AI Makes the Best Images in 2026? Blind Tests Crown a Clear Winner",
+   "summary_en": "ChatGPT currently leads major AI image-generation rankings, while Gemini offers strong value, Grok focuses on cinematic visuals and Claude provides diagrams and code-based graphics instead.",
+   "title_mn": "Шинэ судалгаагаар хамгийн сайн зураг бүтээдэг хиймэл оюун ухааныг тодруулжээ",
+   "summary_mn": "Хэрэглэгчдийн хаалттай санал хураалт болон бие даасан тестүүдээр OpenAI-ийн ChatGPT шилдэг зураг бүтээгчээр тодорч, Google Gemini болон xAI Grok удаалжээ.",
+   "body_mn": "Хиймэл оюун ухааны чатботууд сошиал медиа график, бүтээгдэхүүний зураг, уран сайхны бүтээл хийхэд өргөнөөр ашиглагдах болсон бөгөөд хамгийн алдартай дөрвөн туслахын зургийн чанарыг харьцуулсан хаалттай туршилтууд явагджээ.\n\nШинжилгээний дүнгээр OpenAI-ийн GPT Image 2 загвар тэргүүлж, хамгийн өндөр Elo оноог авсан байна. Хэрэглэгчид ChatGPT-ийн нарийн төвөгтэй сануулгыг сайн ойлгож, чатаар хялбархан засвар хийх боломж олгодог байдлыг нь өндрөөр үнэлжээ. Түүнчлэн зурган доторх текстийг гаргацтай дүрслэх чадвараараа бусдаасаа илүү гарчээ.\n\nGoogle-ийн Gemini систем Nano Banana Pro болон Nano Banana 2 загваруудаараа дамжуулан фотореализм болон хурдыг хослуулсан байна. Үнэ болон хүртээмжийн хувьд хамгийн өргөн боломжтой бөгөөд зураг засварлах чадвараараа сайн хувилбар болж байна.\n\nxAI компанийн Grok Imagine 2.0 нь кино урлагийн өнгө аяс бүхий загвар болон зургийг богино хэмжээний видео болгох функцээрээ онцгойрч, хоёрдугаар байранд орсон байна. Харин Anthropic-ийн Claude нь зураг үүсгэх чадваргүй хэвээр үлджээ.",
+   "published": "2026-11-01T13:57:37Z",
+   "added": "2026-11-03T12:32:37Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e6bc14be6ac5ec68",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Business Insider",
+   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+   "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
+   "title": "Anthropic's internal AI use is now worth more than employee pay, at the prices it charges customers",
+   "summary_en": "Anthropic's IPO filing reveals a striking milestone: Its internal AI usage is now valued above employee compensation.",
+   "title_mn": "Anthropic компанийн дотоод AI хэрэглээ нь ажилчдын цалингаас ч өндөр өртөгтэй болов",
+   "summary_mn": "Anthropic компанийн IPO-ийн материалаас харахад дотооддоо ашиглаж буй Claude AI-ийн өртөг нь хэрэглэгчдэд санал болгодог үнээр тооцоход ажилчдын сарын цалингийн дүнгээс давжээ.",
+   "body_mn": "Хиймэл оюун ухааны хувьсгалд түүхэн нэгэн чухал үйл явдал болж, Anthropic компани дотооддоо AI ашиглаж буй өртөг нь ажилчдынхаа цалингийн нийлбэрээс (хувьцааны урамшууллыг хассанаар) илүү гарахад хүржээ.\n\nTус компани IPO хийх материалыг бүрдүүлэх явцдаа үүнийг ил болгосон бөгөөд 4 дүгээр сард хэрэглэгчдэд санал болгодог үнээр тооцсон Claude AI-ийн дотоод хэрэглээ ажилчдын цалингийн зардлаас давсан байна. Улмаар 9 дүгээр сар гэхэд энэхүү дотоод хэрэглээ 1 дүгээр сарынхаас 250 дахин өсжээ.\n\nЭнэ нь компаниуд AI токеныг цалин, урамшуулалтай зэрэгцүүлэн үнэлж эхэлж буйн тод илрэл юм. 9 дүгээр сард Anthropic-ийн программ хангамжид нэмэгдсэн кодын 90 гаруй хувийг Claude бичсэн бөгөөд ажилтнуудын тооноос хамаагүй хурдацтайгаар орлого нь өсч байгаа юм. Энэ нь технологийн салбарт хүний нөөцийн үнэ цэнийг хиймэл оюун ухаан сорьж эхэлснийг харуулж байна.",
+   "published": "2026-11-01T15:00:00Z",
+   "added": "2026-11-03T12:32:37Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2ac10fcff2aff4f6",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "CNN",
+   "url": "https://www.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban",
+   "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295330098.jpg?c=16x9&q=w_800,c_fill",
+   "title": "Anthropic says you can’t be mean to Claude. It’s not about feelings",
+   "summary_en": "Anthropic has added a new line to its AI usage policy: Users should not “engage in sustained and needless abusive or cruel behavior toward our models.”",
+   "title_mn": "Anthropic хэрэглэгчдэд Claude-той зүй бусаар харьцахыг хоригложээ",
+   "summary_mn": "Anthropic компани хэрэглэгчдийг хиймэл оюун ухааны загваруудтайгаа бүдүүлэг, хэрцгий байдлаар харьцахгүй байхыг сануулсан шинэ дүрмийг үйлчилгээний нөхцөлдөө нэмжээ.",
+   "body_mn": "Anthropic компани хэрэглэгчдийн ашиглалтын бодлогодоо шинэ заалт нэмж, хэрэглэгчдийг хиймэл оюун ухааны загваруудтайгаа удаан хугацаагаар, шаардлагагүйгээр бүдүүлэг эсвэл хэрцгий байдлаар харьцахгүй байхыг анхааруулжээ.\n\nТус компани энэхүү шийдвэр нь загварын өөрийнх нь мэдрэмжтэй холбоогүй болохыг онцолсон байна. Хиймэл оюун ухааны хэрэгслүүдийг өдөр тутмын ажилд хэтрүүлэн ашиглах, сэтгэл хөдлөлөөр хандах хандлага нэмэгдэж байгаа энэ үед уг хориг нь технологийн компаниудын анхаарлыг татаж эхэлжээ.\n\nХөгжүүлэгчид болон хэрэглэгчид AI туслахуудтай харилцах харилцаандаа тодорхой хэм хэмжээг баримтлах ёстойг энэхүү шинэ дүрэм сануулж байна.",
+   "published": "2026-11-01T17:00:16Z",
+   "added": "2026-11-03T12:32:37Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d59c26071dd93320",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "TestingCatalog AI News",
+   "url": "https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/",
+   "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/FJGs5StyEnkwpq57e3DM7HCI1VPkZUtpM14nd8XJ.webp",
+   "title": "Anthropic prepares to release Claude Mythos 5.5 model",
+   "summary_en": "A reference to Claude Mythos 5.5 has surfaced on Anthropic's Mythos page. A release could come next week, but timing and access remain unconfirmed.",
+   "title_mn": "Anthropic компани шинэ үеийн Claude Mythos 5.5 загварыг гаргахаар бэлтгэж байна",
+   "summary_mn": "Anthropic компанийн албан ёсны вэбсайтад Claude Mythos 5.5 загварын нэр цухуйж, кибер аюулгүй байдал болон биологийн судалгааны хамгийн хүчирхэг загвар болох нь тогтоогджээ.",
+   "body_mn": "Anthropic компани кибер аюулгүй байдал болон амь шинжлэх ухааны судалгаанд зориулсан шинэ үеийн Claude Mythos 5.5 загвараа гаргахад тун ойрхон байгаа аж. Албан ёсны вэбсайтын код болон хуудас дээр уг хувилбарын нэр шинээр нэмэгдсэн нь тун удахгүй зарлагдах магадлалыг өндөр болгож байна.\n\nМөн Azure болон LiteLLM дээр Claude Fable 5.5 загварын шалгах цэгүүд (checkpoints) туршилтаар гарч ирсэн нь хөгжүүлэгчдийн анхаарлыг татаад байна. Зарим эх сурвалжийн мэдээлж буйгаар Fable 5.5 нь SVG болон кодын чанараараа гайхалтай үр дүн үзүүлж байгаа ажээ.\n\nAnthropic компани Nasdaq биржид ANT тэмдэглэгээтэйгээр IPO хийхээр төлөвлөж байгаа энэ үед шинэ загваруудаа зах зээлд гаргах нь хөрөнгө оруулагчдын анхаарлыг ихээхэн татах төлөвтэй байна. Өмнөх хувилбаруудын хувьд Mythos загварыг зөвхөн баталгаажсан судлаачдад хязгаарлагдмал байдлаар олгож байжээ.",
+   "published": "2026-11-01T20:50:16Z",
+   "added": "2026-11-03T12:32:37Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e778f69910e73f64",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.42.1",
+   "image": "https://opengraph.githubassets.com/1f988ca573d63a1e3ded77c6e8fbad6ef95885f4803e9192019015b33e696115/openai/openai-python/releases/tag/v3.42.1",
+   "title": "openai-python v3.42.1",
+   "summary_en": "3.42.1 (2026-11-01) Bug Fixes api: preserve Responses WebSocket connection behavior ( #4221 ) ( 38075d8 ) realtime: validate beta WebSocket authentication profiles ( #4218 ) ( 3622a97 ) Refactors websocket: add SDK-owned Responses policy helpers ( #4219 ) ( 83ed269 )",
+   "title_mn": "openai-python v3.42.1 шинэчлэлт цагдав",
+   "summary_mn": "openai-python сангийн v3.42.1 хувилбар гарч, Responses WebSocket холболтын алдааг засч, realtime хэсэгт WebSocket баталгаажуулалтын сайжруулалт хийжээ.",
+   "body_mn": "Python хөгжүүлэгчдэд зориулсан албан ёсны openai-python сангийн v3.42.1 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр API-ийн Responses WebSocket холболтын зан төлөвийг хэвээр хадгалах алдааг зассан байна.\n\nMөн realtime хэсэгт бета хувилбарын WebSocket баталгаажуулалтын профайлыг шалгах чадамжийг нэмжээ. SDK-д эзэмшигдсэн Responses бодлогын туслахуудыг шинээр рефакторинг хийж оруулсан нь хөгжүүлэгчдэд бодит цагийн холболттой ажиллахад илүү найдвартай байдлыг олгоно.",
+   "published": "2026-11-01T20:56:19Z",
+   "added": "2026-11-03T12:32:37Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fd0dfe2e3a468dc5",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Engadget",
+   "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+   "image": "https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg",
+   "title": "Anthropic Updates Claude To Stop It From Recreating Existing Video Games",
+   "summary_en": "Users can still lean on Claude to help with designing original or genre games.",
+   "title_mn": "Claude видео тоглоом хуулбарлах болон зохиогчийн эрх зөрчих үйлдлийг хориглов",
+   "summary_mn": "Anthropic компани Claude загварын хэрэглээний бодлогод өөрчлөлт оруулж, алдартай видео тоглоомуудыг хуулбарлан бүтээхийг хатуу хориглов.",
+   "body_mn": "Anthropic компани Claude загвартаа шинэ кодын хэсэг нэмж, хэрэглэгчдэд аль хэдийн бий болсон видео тоглоомуудыг хиймэл оюун ухааны тусламжтайгаар хуулбарлан бүтээхийг зогсоожээ. Шинэ дүрмээр хэрэглэгчид өөрсдийн санаа, хэрэгсэл дээр суурилсан анхны болон төрөл жанрын тоглоом бүтээхийг зөвшөөрсөн хэдий ч тодорхой нэг тоглоомыг нэрийг нь өөрчлөөд хуулбарлахыг хориглосон байна.\n\nЭнэхүү өөрчлөлтийг Anthropic-ийн ажилтан Адди Османи баталгаажуулж, бусдын оюун өмчийн эрхийг зөрчих үйл ажиллагаанаас зайлсхийх зорилготой болохыг мэдэгджээ. Гэхдээ хөгжүүлэгчид өөрсдийн дизайн, хөрөнгөөр анхны тоглоом хийхэд ямар нэгэн хязгаарлалт байхгүй аж.\n\nЭнэхүү шийдвэр нь саяхан браузер дээр AI-ийн тусламжтайгаар тоглоомуудыг задлан шинжилж тогломжтой болгох хандлага эрчимжсэнтэй холбоотой гарчээ. Anthropic өмнө нь зохиогчийн эрхийн маргаанаас болж томоохон нөхөн төлбөр төлж байсан түүхтэй юм.",
+   "published": "2026-11-01T21:08:32Z",
+   "added": "2026-11-03T12:32:37Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4094d4340f9e66f9",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "image": "",
+   "title": "Qodo builds context into AI code review with Codex",
+   "summary_en": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+   "title_mn": "Qodo компани компаниудад зориулсан контекстийг Codex-ийн кодын хяналтад нэгтгэжээ",
+   "summary_mn": "Qodo компани кодын санд суурилсан компаниудын мэдлэг болон стандартад нийцүүлэн Codex-ийн кодын хяналтыг сайжрууллаа. Энэ нь хөгжүүлэгчдэд алдаа гаргахаас өмнө чухал асуудлуудыг илрүүлэхэд тусална.",
+   "body_mn": "Qodo компани хиймэл оюун ухаант код бичих болон хянах процессыг илүү боловсронгуй болгох үүднээс компаниудын дотоод мэдлэг, кодыг бичих стандартуудыг OpenAI-ийн Codex системд нэгтгэсэн байна. Энэхүү интеграци нь хөгжүүлэгчдэд кодын сан дахь боломжит алдаануудыг pull request буюу хүсэлт илгээхээс өмнө эрт шатанд нь илрүүлж засах боломжийг олгодог.\n\nХөгжүүлэгчдийн хувьд багийн болон компанийн түвшинд мөрдөгддөг кодын стандартыг хиймэл оюун ухаан автоматаар ойлгож хянах нь код бичих явцыг илүү хурдан бөгөөд аюулгүй болгодог чухал ач холбогдолтой юм. Qodo-ийн энэхүү шийдэл нь Codex-ийн боломжийг өргөжүүлж, багийн хамтын ажиллагааны бүтээмжийг нэмэгдүүлэхэд чиглэгджээ.",
+   "published": "2026-11-02T00:00:00Z",
+   "added": "2026-11-03T12:32:37Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
   }
  }
 ]

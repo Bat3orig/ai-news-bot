@@ -1,0 +1,17 @@
+{
+ "id": "e6bc14be6ac5ec68",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Business Insider",
+ "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+ "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
+ "title": "Anthropic's internal AI use is now worth more than employee pay, at the prices it charges customers",
+ "summary_en": "Anthropic's IPO filing reveals a striking milestone: Its internal AI usage is now valued above employee compensation.",
+ "title_mn": "Anthropic компанийн дотоод AI хэрэглээ нь ажилчдын цалингаас ч өндөр өртөгтэй болов",
+ "summary_mn": "Anthropic компанийн IPO-ийн материалаас харахад дотооддоо ашиглаж буй Claude AI-ийн өртөг нь хэрэглэгчдэд санал болгодог үнээр тооцоход ажилчдын сарын цалингийн дүнгээс давжээ.",
+ "body_mn": "Хиймэл оюун ухааны хувьсгалд түүхэн нэгэн чухал үйл явдал болж, Anthropic компани дотооддоо AI ашиглаж буй өртөг нь ажилчдынхаа цалингийн нийлбэрээс (хувьцааны урамшууллыг хассанаар) илүү гарахад хүржээ.\n\nTус компани IPO хийх материалыг бүрдүүлэх явцдаа үүнийг ил болгосон бөгөөд 4 дүгээр сард хэрэглэгчдэд санал болгодог үнээр тооцсон Claude AI-ийн дотоод хэрэглээ ажилчдын цалингийн зардлаас давсан байна. Улмаар 9 дүгээр сар гэхэд энэхүү дотоод хэрэглээ 1 дүгээр сарынхаас 250 дахин өсжээ.\n\nЭнэ нь компаниуд AI токеныг цалин, урамшуулалтай зэрэгцүүлэн үнэлж эхэлж буйн тод илрэл юм. 9 дүгээр сард Anthropic-ийн программ хангамжид нэмэгдсэн кодын 90 гаруй хувийг Claude бичсэн бөгөөд ажилтнуудын тооноос хамаагүй хурдацтайгаар орлого нь өсч байгаа юм. Энэ нь технологийн салбарт хүний нөөцийн үнэ цэнийг хиймэл оюун ухаан сорьж эхэлснийг харуулж байна.",
+ "published": "2026-11-01T15:00:00Z",
+ "added": "2026-11-03T12:32:37Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "8ffac123fd5635e2",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "ET Retail",
+ "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/alibabas-overloaded-ai-chatbot-stops-issuing-coupons-asks-shoppers-for-patience/128112654?next=1",
+ "image": "https://etimg.etb2bimg.com/thumb/msid-128112654,imgsize-45014,width-1200,height=627,overlay-etretail,resizemode-75/e-commerce/e-tailing/alibabas-overloaded-ai-chatbot-stops-issuing-coupons-asks-shoppers-for-patience.jpg",
+ "title": "Alibaba's overloaded AI chatbot stops issuing coupons, asks shoppers for patience",
+ "summary_en": "Since last month, Alibaba has sought to make Qwen a one-stop shop where users can access its other apps directly in the chatbot and ​complete payments, much like Google integrates its ​Gemini chatbot into apps like Maps. However, the rollout of ‌what the ‍ecommerce giant calls the chatbot's agentic AI strategy has ‍been marred by technical difficulties since the start of ‌the coupon giveaway.",
+ "title_mn": "Alibaba-гийн Qwen чатбот хэт ачааллаас болж купон олгохоо түр зогсоов",
+ "summary_mn": "Alibaba компани Qwen чатботоо хэрэглэгчдийн бусад апп-уудтай шууд холбох төлөвлөгөөний хүрээнд купон тарааж эхэлсэн ч техникийн хүндрэл үүсч, хэрэглэгчдэд тэвчээртэй байхыг хүсжээ.",
+ "body_mn": "Хятадын цахим худалдааны аварга Alibaba компани өөрийн Qwen загварыг хэрэглэгчид шууд апп дотроо төлбөр тооцоо хийж, үйлчилгээ авах боломжтой нэг цэгийн платформ болгох зорилготойгоор агент хэлбэрийн (agentic AI) стратегийг хэрэгжүүлж эхэлжээ.\n\nГэвч энэхүү шинэ боломжийг сурталчлах зорилгоор купон тарааж эхэлсэн нь хэрэглэгчдийн хэт их ачааллыг үүсгэж, чатботын үйл ажиллагаанд техникийн хүндрэл гарсан байна. Үүний улмаас систем купон олгох үйл ажиллагаагаа түр зогсоож, худалдан авагчдаас хүлээцтэй хандахыг хүсжээ.\n\nЭнэхүү явдал нь хиймэл оюун ухааны агент болон экосистемүүдийг хэрэглэгчдэд олноор нь нэвтрүүлэх явцад сервер болон дэд бүтцийн даац ямар чухал болохыг харуулсан анхаарал татахуйц тохиолдол болж байна.",
+ "published": "2026-11-01T10:53:31Z",
+ "added": "2026-11-03T12:32:37Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
