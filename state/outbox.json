@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "229ac370ee8aa391",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "SECURITY.COM",
-   "url": "https://www.security.com/threat-intelligence/openai-claude-unauthorized-relays",
-   "image": "https://www.security.com/sites/default/files/styles/blogs_hero_tiny/public/2026-10/Hero%20Image_2.jpg.webp?h=790be497&itok=vPNqu6m8",
-   "title": "Sandbox Flipped to ‘Danger-Full-Access’: Unauthorized AI Relays Create Risk for Organizations",
-   "summary_en": "A grey market relay service installs the real OpenAI Codex and Anthropic Claude Code CLIs, then reconfigures them to route every prompt and credential through third-party servers with sandboxing switched off.",
-   "title_mn": "Codex болон Claude Code-ийн sandbox-ийг тойрсон зөвшөөрөлгүй релей үйлчилгээ",
-   "summary_mn": "Symantec-ийн судалгаагаар зөвшөөрөлгүй релей үйлчилгээ Codex болон Claude Code CLI-ийн тохиргоог өөрчилж sandbox-ийг унтрааж, хүсэлтийг өөрийн серверээр дамжуулдаг болохыг илрүүлсэн. Энэ нь тухайн хэрэгслийн хор сул биш юм.",
-   "body_mn": "Symantec-ийн Threat Hunter баг OpenAI Codex болон Anthropic Claude Code командын мөрийн AI агентуудад хандах зөвшөөрөлгүй релей үйлчилгээг илрүүлжээ. Ихэвчлэн Хятад зэрэг албан ёсоор борлуулалт байдаггүй зах зээлд ажилладаг.\n\nТэд өөрсдийн клиент биш харин жинхэнэ CLI-г npm-ээр суулгаад, дараа нь тохиргооны файлыг нь өөрчилдөг. Codex-ийн sandbox-ийг danger-full-access болгож, хүсэлтүүдийг релейн серверээр дамжуулдаг. Claude Code-ийн хувьд ANTHROPIC_BASE_URL-ийг солино.\n\nЭнэ нь хэрэгслийн алдаа биш, тохиргоо өөрчлөгдсөний үр дагавар гэж тайлбарласан. Дор хаяж арав гаруй байгууллагад илэрсэн байна.\n\nХөгжүүлэгчид болон байгууллагууд зөвшөөрөлгүй reseller-ээс API түлхүүр болон суулгах команд авахгүй байхыг зөвлөж байна.",
-   "published": "2026-10-29T10:24:58Z",
-   "added": "2026-10-31T17:27:23Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e2318599bbe24ce9",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Investing.com",
-   "url": "https://www.investing.com/news/company-news/sentinelone-adds-anthropics-claude-to-security-service-93CH-4983598",
-   "image": "",
-   "title": "SentinelOne adds Anthropic’s Claude to security service",
-   "summary_en": "",
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-10-29T13:19:22Z",
-   "added": "2026-10-31T17:27:23Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dd0f24bc5deea43c",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "FourWeekMBA",
-   "url": "https://fourweekmba.com/ai-xais-grok-bot-adds-shop-pay-and-buy-now-product-cards/",
-   "image": "",
-   "title": "xAI’s Grok Bot Adds Shop Pay and Buy-Now Product Cards",
-   "summary_en": "",
-   "title_mn": "xAI компани Grok ботод Shop Pay болон бүтээгдэхүүний карт нэмжээ",
-   "summary_mn": "xAI-ийн Grok бот хэрэглэгчдэд шууд худалдан авалт хийх боломжийг олгох үүднээс Shop Pay болон бүтээгдэхүүний картуудыг нэмжээ.",
-   "body_mn": "xAI компани өөрийн Grok ботод шинэ боломж нэмж, Shop Pay болон шууд худалдан авалт хийх бүтээгдэхүүний картуудыг нэвтрүүлсэн байна. Энэхүү шинэчлэлт нь хэрэглэгчдэд ярианы горимоос шууд худалдааны үйлдэл хийх боломжийг олгох зорилготой юм.\n\nХөгжүүлэгчид болон платформ интеграци хийгчдийн хувьд энэ нь хиймэл оюун ухааны туслахууд руу төлбөр тооцоо болон цахим худалдааны хэрэгслүүдийг хэрхэн нэгтгэж буйг харуулсан сонирхолтой жишээ болж байна.",
-   "published": "2026-10-29T15:07:09Z",
-   "added": "2026-10-31T20:35:33Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "585036bf839e9f04",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.7.2",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.7.2",
-   "summary_en": "v14.7.2",
-   "title_mn": "motion v14.7.2 хувилбар гарлаа",
-   "summary_mn": "Motion анимацийн сангийн шинэ v14.7.2 хувилбар албан ёсоор цацагдлаа.",
-   "body_mn": "Веб болон UI хөгжүүлэгчдийн өргөнөөр ашигладаг Motion (хуучнаар Framer Motion) анимацийн сангийн v14.7.2 хувилбар хэрэглэгчдийн хүртээл боллоо. Энэхүү шинэ хувилбарт анимацийн гүйцэтгэл сайжирч, өмнөх хувилбаруудад илэрсэн байсан алдаанууд засварлагдсан байна.\n\nФронтенд хөгжүүлэгчид төслүүддээ уг сангийн шинэ хувилбарыг ашиглан хөдөлгөөнт дүрс болон хэрэглэгчийн интерфейсийн харилцан үйлчлэлийг илүү хурдан бөгөөд тогтвортой болгох боломжтой юм.",
-   "published": "2026-10-29T15:12:41Z",
-   "added": "2026-10-31T20:35:33Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3c984d8ea5523102",
-   "subtopic": "kimi",
-   "source": "Kimi (Google News)",
-   "source_label": "The Des Moines Register",
-   "url": "https://www.desmoinesregister.com/press-release/story/145929/zenmux-introduces-kimi-k3-1-pro-for-long-context-ai-workflows/",
-   "image": "https://pix.xpr.media/p/eyJzIjoiY2IwYjBjMjItMmNkYi00ODUxLTg3NzMtM2Q3ZWNmODRkMDIwIiwiYyI6IjFjODFlN2M1LWNhNzgtNDI0ZS04YmYyLTI2MGI5MDY0MzAzOSIsInYiOjF9.Ap4TMk-AjFrtsYYzDFIFZPaCBI1A5tkzYdzI2UTw4Hs.gif",
-   "title": "ZenMux Introduces Kimi K3.1 Pro for Long-Context AI Workflows",
-   "summary_en": "Singapore - October 29, 2026 - PRESSADVANTAGE - ZenMux announces the addition of Kimi K3.1 Pro and Kimi K3.1 Pro",
-   "title_mn": "ZenMux платформоор дамжуулан Kimi K3.1 Pro загварууд нэвтэрлээ",
-   "summary_mn": "ZenMux платформ Moonshot AI-ийн бүтээсэн 1 сая хүртэлх контекст цонхтой Kimi K3.1 Pro болон Highspeed загваруудыг дэмжиж эхэлжээ.",
-   "body_mn": "Moonshot AI компанийн шинэ бүтээл болох Kimi K3.1 Pro болон Kimi K3.1 Pro Highspeed загварууд ZenMux платформд албан ёсоор нэмэгдлээ. Энэхүү загвар нь 1 сая хүртэлх токен контекст цонхыг дэмжих бөгөөд програм хангамж хөгжүүлэлт, орон зайн үндэслэл, олон шатлалт агент ажлын урсгалд зориулагдсан байна.\n\nХөгжүүлэгчид томоохон хэмжээний эх код, баримт бичиг болон төслийн түүхийг нэг дор боловсруулах боломжтой болж байна. Түүнчлэн Highspeed хувилбар нь үндсэн загвартай ижил ухаалаг түвшинг хадгалж, 2-3 дахин өндөр хурдаар ажиллах чадвартай ажээ.\n\nУг загвар нь текст, зуун болон видео оролтыг дэмжих бөгөөд 3D загварчлал, CAD код үүсгэх зэрэг техникийн нарийн төвөгтэй ажлуудад хөгжүүлэгчдэд өргөн боломжийг олгож байна.",
-   "published": "2026-10-29T16:03:33Z",
-   "added": "2026-10-31T20:35:33Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9349f418e7bc7ab4",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/updated-model-spec",
-   "image": "",
-   "title": "An updated Model Spec for more capable and beneficial AI",
-   "summary_en": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-   "title_mn": "OpenAI шинэчилсэн Model Spec зааварчилгааг танилцууллаа",
-   "summary_mn": "OpenAI компани хиймэл оюун ухааныг илүү чадвартай, найдвартай болгох зорилготой тасэн үндсэн үнэт зүйлийг багтаасан шинэчилсэн Model Spec зааврыг гаргажээ.",
-   "body_mn": "OpenAI компани хиймэл оюун ухааны загваруудынхаа шийдвэр гаргах чадвар, хүний санаа зорилгыг үнэнчээр биелүүлэх байдлыг сайжруулахад чиглэсэн шинэчилсэн Model Spec баримт бичгээ танилцууллаа. Энэхүү баримт бичигт хиймэл оюун ухааныг хөгжүүлэх болон ашиглахад баримтлах таван үндсэн үнэт зүйлийг тодорхойлсон байна.\n\nХөгжүүлэгчид болон API ашиглагчдын хувьд энэхүү зааварчилгаа нь загваруудын төлөв байдал, хариу үйлдэл болон хүний оролцоог удирдах талаар чухал ойлголт өгөх юм. OpenAI энэхүү шинэчлэлтээр дамжуулан илүү хариуцлагатай, хэрэглэгчийн хүсэлд нийцсэн AI системүүдийг бүтээхийг зорьж байна.",
-   "published": "2026-10-29T17:00:00Z",
-   "added": "2026-10-31T20:35:33Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8247b13c581ec5a1",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/improved-ip-geolocation-data",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2UIVVVCUe8L0ChkKZFdDEE/449293f491ee0fed475d758e2f06c21c/image__58_.png",
-   "title": "IP geolocation now covers more visitors at higher resolution",
-   "summary_en": "IP geolocation on Vercel now resolves visitor locations with finer network granularity, delivering city-level data for nearly all requests and postal-code data for 90% of traffic. Geolocation data is now refreshed more often, so locations keep up as IP ranges are reassigned and routing changes. This is enabled for all projects with no code or configuration changes required. Existing geolocation headers along with the geolocation() helper in @vercel/functions , return the same fields for Vercel Functions and Routing Middleware . If you use geolocation for access controls, localization, or…",
-   "title_mn": "Vercel-ийн IP геолокаци сайжирч, зип код болон хотын нарийвчлалтай боллоо",
-   "summary_mn": "Vercel тавцангийн IP геолокаци шинэчлэгдэж, нийт хүсэлтийн бараг бүгдэд нь хотын түвшинд, 90 хувьд нь шуудангийн кодын нарийвчлалтай байршлыг тодорхойлдог боллоо.",
-   "body_mn": "Vercel тавцангийн IP геолокацийн системд сүлжээний нарийвчлалыг мэдэгдэхүйц ахиулсан шинэчлэл орлоо. Ингэснээр бараг бүх хүсэлтийн хувьд хотын түвшний мэдээлэл болон нийт траффикийн 90 хувьд нь шуудангийн кодын (postal-code) нарийвчлалтай өгөгдөл буцаах боломж бүрдэж байна. Мөн IP хаягийн хуваарилалт, чиглүүлэлтийн өөрчлөлтүүдийг илүү хурдан тусгахын тулд өгөгдөл шинэчлэгдэх давтамжийг нэмэгдүүлжээ.\n\nЭнэхүү шинэчлэл нь хэрэглэгчийн кодод болон тохиргоонд ямар нэгэн өөрчлөлт шаардахгүйгээр бүх төслүүдэд шууд идэвхэжсэн байна. Одоо ашиглагдаж буй геолокацийн header-үүд болон @vercel/functions багцын geolocation() туслах функц нь Vercel Functions болон Routing Middleware дээр өмнөх талбаруудаа хэвээр буцаана.\n\nХандалтын хяналт, орон нутаглал (localization) эсвэл хууль эрх зүйн зохицуулалтад геолокаци ашигладаг системүүдийн хувьд зарим зочдын байршил, ялангуяа VPN болон хостинг үйлчилгээний IP хаягууд өөр хот, улсаар тодорхойлогдож магадгүйг анхаарах хэрэгтэй. Жишээлбэл, өөр улсын хостингоос зарлагдсан сүлжээнүүд бүртгэлийн RIR бичлэгээс илүүтэй траффик бодитоор төгсөж буй дата төвийн байршлаар тодорхойлогдох болсон байна.",
-   "published": "2026-10-29T17:00:00Z",
-   "added": "2026-10-31T23:52:45Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "512abb14fe7f1df6",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.8.0",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.8.0",
-   "summary_en": "v14.8.0",
-   "title_mn": "Motion v14.8.0 хувилбар гарлаа",
-   "summary_mn": "Вэб анимэйшны Motion (хуучнаар Framer Motion) сангийн шинэ v14.8.0 хувилбар гарлаа.",
-   "body_mn": "Вэб хөгжүүлэлтийн алдартай анимэйшн сан болох Motion (хуучнаар Framer Motion)-ийн v14.8.0 хувилбар албан ёсоор нийтлэгдлээ.\n\nШинэ хувилбарын талаарх дэлгэрэнгүй release notes удахгүй төслийн GitHub хуудсанд бүрэн нийтлэгдэх бөгөөд хөгжүүлэгчид өөрсдийн төслөө хамгийн сүүлийн хувилбар луу шинэчлэн турших боломжтой.",
-   "published": "2026-10-29T17:50:27Z",
-   "added": "2026-10-31T23:52:45Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "549464c82deb64e6",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "WIRED",
-   "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-   "image": "https://media.wired.com/photos/6ae113e3b0a8ac98a8d177dc/191:100/w_1280,c_limit/102726-department-of-defense-ai-agent.jpg",
-   "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-   "summary_en": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-   "title_mn": "Accenture-гийн ажилтан Claude Code ашиглан Пентагоны нууц системд хандалт өгчээ",
-   "summary_mn": "Зөвлөх үйлчилгээний Accenture компанийн ажилтан хувийн Claude Code агентаа Батлан хамгаалах яамны нууцлагдмал системд холбосноор аюулгүй байдлын ноцтой зөрчил үүсжээ. Уг агентаар дамжуулан нэвтрэх эрх болон эмзэг мэдээлэл гуравдагч талын вэб сайт руу алдагдсан байна.",
-   "body_mn": "Дэлхий дахинд үйл ажиллагаа явуулдаг зөвлөх үйлчилгээний Accenture компанийн ажилтан Батлан хамгаалах яамны (Pentagon) тагнуулын агентлагуудын хамтарч ашигладаг төвлөрсөн системд өөрийн хувийн Anthropic Claude Code кодыг бичих агентаар дамжуулан хандалт өгсөн нь аюулгүй байдлын томоохон эрсдэл дагуулжээ. Уг систем нь олон нийтэд ил тод байх ёсгүй чухал дэд бүтцийн мэдээлэл болон эмзэг контент агуулдаг аж.\n\nЭх сурвалжийн мэдээлснээр, тухайн AI агент нь системд нэвтрэх эрх зэрэг мэдээллийг өндөр эрсдэлтэй гуравдагч талын вэб сайт руу илгээсэн байж болзошгүй байна. Тус агентыг DOD буюу Батлан хамгаалах яамны сүлжээнд хоёр сарын турш ажиллуулсны эцэст илрүүлж, эмзэг байдлыг засварлажээ. Гэсэн хэдий ч холбогдох ажилтнууд уг асуудлыг хангалттай өндөр түвшинд хүлээж аваагүй бөгөөд хууль тогтоомжийн дагуу 72 цагийн дотор холбогдох байгууллагад мэдэгдэх үүргээ биелүүлээгүй байна.\n\nЭнэхүү хэрэг нь хөгжүүлэгчид болон компаниуд хиймэл оюуны агентуудад дотоод нууц систем, API түлхүүр болон админ эрх өгөхдөө хэр болгоомжтой байх ёстойг сануулсан томоохон анхааруулга болж байна. AI агентуудын автоном байдал нэмэгдэхийн хэрээр байгууллагын аюулгүй байдлын бодлого, хяналтыг чангатгах зайлшгүй шаардлага тулгарч байгааг уг явдал харууллаа.",
-   "published": "2026-10-29T18:39:00Z",
-   "added": "2026-11-01T10:55:48Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f029f146885fd975",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5hP6XyTw37NFtqCzw0RE5L/c386587f2388996e44852bb210a3e8ee/strix-vercel-ai-gateway-og.png",
-   "title": "Strix now supports Vercel AI Gateway",
-   "summary_en": "Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across all models in AI Gateway. Strix selects the Gateway through STRIX_LLM , where the model is the standard AI Gateway <provider>/<model> ID behind a vercel_ai_gateway/ prefix: See Strix's AI Gateway setup guide to configure it and get started today. Read more",
-   "title_mn": "Strix хиймэл оюуны аюулгүй байдлыг шалгах хэрэгсэл Vercel AI Gateway-ийг дэмждэг боллоо",
-   "summary_mn": "Нээлттэй эх сурвалжтай Strix хиймэл оюуныг нэвтрэн шалгах (pentesting) хэрэгсэл нь одоо Vercel AI Gateway дээрх 400 гаруй загвар дээр ажиллах боломжтой боллоо. Хөгжүүлэгчид олон үйлчилгээ үзүүлэгчтэй тус тусад нь бүртгүүлэх шаардлагагүйгээр нэг API-аар дамжуулан ашиглах боломжтой.",
-   "body_mn": "Нээлттэй эх сурвалжтай AI penetration testing буюу аюулгүй байдлыг шалгах Strix хэрэгсэл нь Vercel AI Gateway-ийн өргөн хүрээний загваруудыг дэмждэг болсныг албан ёсоор зарлалаа. Үүний үр дүнд хөгжүүлэгчид Anthropic, OpenAI, Kimi, GLM, Deepseek зэрэг олон төрлийн загваруудыг ямар нэгэн нэмэлт үнийн нэмэгдэлгүйгээр нэгдсэн API-аар дамжуулан ашиглах боломжтой болж байна.\n\nStrix-ийг тохируулахдаа STRIX_LLM орчны хувьсагчаар дамжуулан vercel_ai_gateway/ угтвар бүхий стандарт AI Gateway загварын ID-г ашиглах юм. Энэ нь хиймэл оюуны агентууд болон аюулгүй байдлын тест хийх хэрэгслүүдийг нэгтгэх ажлыг эрс хөнгөвчилж, өртөг болон хэрэглээг нэг цэгээс хянах боломжийг бүрдүүлж байна.\n\nЭнэхүү интеграци нь хөгжүүлэгчдэд өөрсдийн аппликейшн болон LLM загваруудынхаа сул талыг илрүүлэх, турших ажлыг илүү хурдан бөгөөд төвөггүй гүйцэтгэхэд туслах чухал шинэчлэл болжээ.",
-   "published": "2026-10-29T18:44:00Z",
-   "added": "2026-11-01T10:55:48Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "2a2702a34b223641",
    "subtopic": "ai-devtools",
    "source": "openai/codex",
@@ -957,6 +757,26 @@
    "added": "2026-11-02T23:45:15Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f5febd8cd456f803",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Online Tech Tips",
+   "url": "https://www.online-tech-tips.com/anthropic-claude-code-five-hour-limit-removed-ultra/",
+   "image": "https://www.online-tech-tips.com/wp-content/uploads/2026/11/anthropic-claude-code-five-hour-limit-removed-ultra-featured.webp",
+   "title": "Anthropic removes Claude Code’s five-hour usage cap for Ultra subscribers",
+   "summary_en": "Anthropic removed the five-hour session cap for its $200/month Ultra plan, not Pro. Here's exactly what changed, who it affects, and what stays the same.",
+   "title_mn": "Anthropic компани Ultra хэрэглэгчдийн Claude Code ашиглалтын 5 цагийн хязгаарлалтыг цуцаллаа",
+   "summary_mn": "Anthropic компани сарын 200 ам.долларын үнэтэй Ultra төлөвлөгөө хэрэглэгчдийн Claude болон Claude Code хэрэглээний 5 цагийн хугацааны хязгаарлалтыг албан ёсоор цуцаллаа.",
+   "body_mn": "Anthropic компани хөгжүүлэгчдэд зориулсан дээд зэрэглэлийн Ultra төлөвлөгөөний хэрэглээний нөхцөлд томоохон өөрчлөлт оруулж, 5 цагийн турш ашиглах хязгаарлалтыг үгүй хийлээ. Урьд нь Pro болон Max төлөвлөгөөний адилаар тодорхой хугацааны хязгаартай байсан нь кодыг бүтээх явцад саад учруулдаг байсан юм.\n\nШинэ өөрчлөлтөөр баталгаажсан Ultra хэрэглэгчид цаг хугацааны хязгаарлалтгүйгээр системд хандах боломжтой болж байгаа бөгөөд зөвхөн долоо хоногийн нийт хэрэглээний хязгаар хэвээр үлдэх ажээ. Энэ нь кодын төслүүд дээр тасралтгүй ажилладаг хөгжүүлэгчдэд ажлаа илүү үр дүнтэй үргэлжлүүлэх боломжийг олгож байна.\n\nХарин энгийн Pro болон Max төлөвлөгөө хэрэглэгчдийн хувьд хуучин хязгаарлалтууд хэвээр үлдэж байгааг компани тодотгосон байна. Хөгжүүлэгчид Settings болон Usage хэсгээс өөрийн хэрэглээний эрхийг хянах боломжтой хэвээр байна.",
+   "published": "2026-11-01T05:03:22Z",
+   "added": "2026-11-03T04:47:40Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]

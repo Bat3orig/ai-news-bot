@@ -1,0 +1,17 @@
+{
+ "id": "f5febd8cd456f803",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Online Tech Tips",
+ "url": "https://www.online-tech-tips.com/anthropic-claude-code-five-hour-limit-removed-ultra/",
+ "image": "https://www.online-tech-tips.com/wp-content/uploads/2026/11/anthropic-claude-code-five-hour-limit-removed-ultra-featured.webp",
+ "title": "Anthropic removes Claude Code’s five-hour usage cap for Ultra subscribers",
+ "summary_en": "Anthropic removed the five-hour session cap for its $200/month Ultra plan, not Pro. Here's exactly what changed, who it affects, and what stays the same.",
+ "title_mn": "Anthropic компани Ultra хэрэглэгчдийн Claude Code ашиглалтын 5 цагийн хязгаарлалтыг цуцаллаа",
+ "summary_mn": "Anthropic компани сарын 200 ам.долларын үнэтэй Ultra төлөвлөгөө хэрэглэгчдийн Claude болон Claude Code хэрэглээний 5 цагийн хугацааны хязгаарлалтыг албан ёсоор цуцаллаа.",
+ "body_mn": "Anthropic компани хөгжүүлэгчдэд зориулсан дээд зэрэглэлийн Ultra төлөвлөгөөний хэрэглээний нөхцөлд томоохон өөрчлөлт оруулж, 5 цагийн турш ашиглах хязгаарлалтыг үгүй хийлээ. Урьд нь Pro болон Max төлөвлөгөөний адилаар тодорхой хугацааны хязгаартай байсан нь кодыг бүтээх явцад саад учруулдаг байсан юм.\n\nШинэ өөрчлөлтөөр баталгаажсан Ultra хэрэглэгчид цаг хугацааны хязгаарлалтгүйгээр системд хандах боломжтой болж байгаа бөгөөд зөвхөн долоо хоногийн нийт хэрэглээний хязгаар хэвээр үлдэх ажээ. Энэ нь кодын төслүүд дээр тасралтгүй ажилладаг хөгжүүлэгчдэд ажлаа илүү үр дүнтэй үргэлжлүүлэх боломжийг олгож байна.\n\nХарин энгийн Pro болон Max төлөвлөгөө хэрэглэгчдийн хувьд хуучин хязгаарлалтууд хэвээр үлдэж байгааг компани тодотгосон байна. Хөгжүүлэгчид Settings болон Usage хэсгээс өөрийн хэрэглээний эрхийг хянах боломжтой хэвээр байна.",
+ "published": "2026-11-01T05:03:22Z",
+ "added": "2026-11-03T04:47:40Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
