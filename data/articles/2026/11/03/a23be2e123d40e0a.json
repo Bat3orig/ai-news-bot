@@ -1,0 +1,17 @@
+{
+ "id": "a23be2e123d40e0a",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/longcat-2-5-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6WQIKLdQjTUdVMoa3e4YYL/22b64ff5c5dcaa4e8eb810a5af26aca8/image.png",
+ "title": "LongCat 2.5 now available on AI Gateway",
+ "summary_en": "LongCat 2.5 from Meituan is now available on AI Gateway. This model combines native visual understanding with coding and multi-step tool use for agents working across complex codebases and full-project builds. Meituan highlights improvements in visual programming, creative design, and 3D tasks, alongside longer agent workflows that carry engineering work from planning through execution. The model supports text and image inputs with a 1M-token context window for code, documents, and extended task histories. Use meituan/longcat-2.5 as the model name: To use it in Claude Code, Codex, Cursor…",
+ "title_mn": "LongCat 2.5 загвар Vercel AI Gateway дээр боломжтой боллоо",
+ "summary_mn": "Meituan-ийн LongCat 2.5 загвар Vercel AI Gateway-д нэмэгдлээ. Загвар нь харааны ойлголт, код бичих, олон алхамт tool use-ийг хослуулж, 1M токен контекст дэмждэг. Claude Code, Codex, Cursor-т сонгож ашиглах боломжтой.",
+ "body_mn": "Vercel-ийн AI Gateway дээр Meituan-ийн LongCat 2.5 загвар нэмэгдлээ. Загвар нь харааны ойлголтыг кодтой болон олон алхамт tool use-тэй хослуулсан бөгөөд том кодын сан болон бүтэн төслийн барилгад зориулагдсан агентуудад тохиромжтой гэж тодорхойлогдсон.\n\nМөн визуал программчлал, креатив дизайн, 3D ажлын чанарыг сайжруулсан гэж Meituan онцолжээ. Загвар нь текст болон зургийн оролтыг дэмжих ба код, баримт бичиг, урт даалгаврын түүхэнд зориулсан 1M токений контекстын цонхтой.\n\nAI Gateway-ээр дамжуулан моделийг meituan/longcat-2.5 нэрээр дуудна. Claude Code, Codex, Cursor зэрэг хэрэгсэлд сонгох боломжтой бөгөөд хамгийн сүүлийн Vercel CLI-г суулгаж тохируулах шаардлагатай. Gateway нь провайдерын үнийг нэмэлтгүйгээр тусгадаг бөгөөд inference дээр платформын хураамж авахгүй.\n\nХөгжүүлэгчдэд энэ нь нэг API-аар олон загвар сольж турших, зардал хянах, retry болон failover тохируулах боломжийг олгоно.",
+ "published": "2026-11-02T00:00:00Z",
+ "added": "2026-11-03T19:54:47Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

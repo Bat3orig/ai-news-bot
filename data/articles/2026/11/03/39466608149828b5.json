@@ -1,0 +1,17 @@
+{
+ "id": "39466608149828b5",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/blocking-malicious-npm-packages-before-and-during-installation",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6L2W9gYIPlYGTkQBOO7UmJ/1f4a649d8e2eacec33511d306943059d/blocking-malicious-npm-packages-sooner-og.png",
+ "title": "Blocking malicious npm packages before and during installation",
+ "summary_en": "Vercel now checks for blocked npm packages before and during dependency installation in builds , helping prevent malicious install scripts from running. The checks use a blocklist of specific package versions selected for blocking because of malware or security vulnerabilities, with new rules typically reaching new builds within minutes. Before installation , Vercel checks supported lockfiles, including when dependencies are restored from the build cache. During installation , Vercel blocks affected public npm downloads. Existing checks of installed dependencies and function outputs continue…",
+ "title_mn": "Vercel бүтээн байгуулалтын явцад хортой npm багцыг блоклодог боллоо",
+ "summary_mn": "Vercel хамаарлын суулгалтын өмнө болон суулгалтын явцад хортой npm багцыг шалгаж, суулгах скриптийг зогсоодог боллоо. Шинэ дүрмүүд ихэвчлэн хэдхэн минутын дотор шинэ build-д хүрнэ. Бүх төлөвлөгөөнд автоматаар идэвхжинэ.",
+ "body_mn": "Vercel одоо build хийх явцад хамаарлуудыг суулгахаас өмнө болон суулгах явцад хортой эсвэл аюултай npm багцын хувилбаруудыг шалгадаг боллоо. Энэ нь хортой суулгах скриптийг ажиллахаас сэргийлэхэд зориулагдсан.\n\nШалгалт нь хамгаалалтын асуудалтай эсвэл зөрчилтэй гэж тодорхойлогдсон багцын хувилбаруудын блоклистэд суурилна. Шинэ дүрмүүд ихэвчлэн шинэ build-д хэдхэн минутын дотор хүрдэг. Суулгахаас өмнө дэмжигдсэн lockfile-уудыг шалгах бөгөөд build cache-ээс сэргээсэн хамаарлууд ч хамрагдана. Суулгалтын явцад холбогдох нийтийн npm татагдалтыг блоклоно.\n\nХэрэв блоклогдсон хамаарал илэрвэл deployment бүтэлгүйтэж, багц болон хувилбарыг алдааны мессежид заана. Хөгжүүлэгч хамаарлаа аюулгүй хувилбарт шинэчилж, lockfile-аа засаад дахин deploy хийх шаардлагатай. Ямар ч тохиргоо шаардлагагүй.\n\nЭнэ нь npm supply chain халдлагаас хамгаалах чухал алхам бөгөөд хэрэглэгч бүр автоматаар хамгаалагдана.",
+ "published": "2026-11-02T00:00:00Z",
+ "added": "2026-11-03T19:54:47Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

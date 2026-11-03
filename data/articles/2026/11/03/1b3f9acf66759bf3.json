@@ -1,0 +1,17 @@
+{
+ "id": "1b3f9acf66759bf3",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "India Today",
+ "url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-grok-bot-is-too-expensive-to-run-calls-costs-unsustainable-as-users-hit-limits-3030253-2026-11-02",
+ "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/musk-attributed-the-successful-debt-raise-to-spacexs-strong-investment-grade-status--combined-with-263823873-16x9_0.jpg?VersionId=.rBTiwGSxHo0m7WWe9HEoT2kcKw7iRV4",
+ "title": "Elon Musk says Grok Bot is too expensive to run, calls costs unsustainable as users hit limits",
+ "summary_en": "Elon Musk told an X user that Grok's serving costs were unsustainably high relative to revenue. His response highlighted why subscribers are encountering strict usage limits.",
+ "title_mn": "Elon Musk: Grok Bot-ын зардал орлогоосоо давж байна",
+ "summary_mn": "xAI компани Grok Bot-ыг ажиллуулах зардал орлогоос нь хэт өндөр байгааг Элон Маск мэдэгдэв. Үүний улмаас төлбөртэй хэрэглэгчид долоо хоногийн лимитээ хэт хурдан дуусгаж байна.",
+ "body_mn": "xAI компанийн хөгжүүлж буй Grok Bot туслахыг ажиллуулах зардал өндөр байгааг үүсгэн байгуулагч Элон Маск олон нийтийн X сүлжээнд мэдэгджээ. Тэрээр хэрэглэгчийн лимит дуусаж буй талаарх гомдолд хариулахдаа уг үйлчилгээний сервер болон тооцооллын зардал нь одоогийн олж буй орлогоос хавьгүй илүү байгааг онцолсон байна.\n\nӨнгөрсөн долоо хоногт X платформ дээрх олон хэрэглэгчид Grok Bot-ын долоо хоногийн хэрэглээний квот ердийнхөөс хамаагүй хурдан дуусч байгаад шүүмжлэлтэй хандаж байв. Зарим хэрэглэгчид лимит нь богино хугацаанд огцом буурч байгааг анзаарсан байна.\n\nХиймэл оюун ухааны агент болон нарийн төвөгтэй аргуудыг ажиллуулах нь серверт асар их ачаалал өгдөг бөгөөд энэ нь салбар даяар тулгамдаж буй томоохон сорилт юм. Grok Bot нь олон шатлалт даалгаврыг ар араас нь гүйцэтгэх чадвартай тул энгийн чатботуудыг бодвол илүү их тооцооллын хүч шаарддаг аж.\n\nxAI компани энэхүү зардлын тэнцвэргүй байдлыг шийдвэрлэхийн тулд үнийн өөрчлөлт хийх эсвэл лимитийг хязгаарлах арга хэмжээ авч магадгүй байна. Хиймэл оюун ухааны бүтээгдэхүүний өртөг өндөр байгаа нь хөгжүүлэгчид болон хэрэглэгчдэд хэрхэн нөлөөлөх нь цаашид анхаарал татаж байна.",
+ "published": "2026-11-02T03:16:03Z",
+ "added": "2026-11-03T19:54:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

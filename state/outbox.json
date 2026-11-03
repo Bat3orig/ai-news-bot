@@ -738,5 +738,85 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cf8920b124a398a8",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Mashable",
+   "url": "https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions",
+   "image": "https://helios-i.mashable.com/imagery/articles/075V4INpwVPdHtOv6qUwmZF/hero-image.fill.size_1200x675.v1793551936.png",
+   "title": "Anthropic expands text watermarking to older Claude versions beginning November 3",
+   "summary_en": "This isn't the first time Anthropic has issued a watermark, but the latest iteration will apply to Mythos 5, Opus 4.7, Opus 4.6, and Sonnet 4.6.",
+   "title_mn": "Anthropic хуучин Claude загваруудад текст ус тэмдэглэх технологийг нэвтрүүлнэ",
+   "summary_mn": "Anthropic ЕХ-ны хууль тогтоогчдын шаардлагаар AI-ийн бичсэн текстэнд далд ус тэмдэг (watermark) оруулах ажлаа хуучин Claude загваруудад өргөтгөж, 11-р сарын 3-наас эхэлнэ. Технологи нь Opus 5.5-д аль хэдийн ашиглагдаж байна. Тэмдэг нь хэрэглэгчийн мэдээлэл агуулахгүй гэж мэдээлсэн.",
+   "body_mn": "Anthropic ЕХ-ны хууль тогтоогчдын шаардлагад нийцүүлэн AI-ээр үүсгэсэн текстэд далд ус тэмдэг оруулах байдлаар ажиллаж байгаагаа өмнө нь мэдэгдсэн. Одоо энэ ажлаа хуучин Claude хувилбаруудад өргөтгөж, 11-р сарын 3-наас эхлүүлнэ.\n\nКомпанийн мэдээлснээр энэ технологи нь үгийн сонголтод байгаа мэдрэгдэхгүй хээ дээр суурилдаг. Энэ нь гаралтын нарийвчлал эсвэл уншигдах чанарт нөлөөлөхгүй, мөн ашиглагч эсвэл байгууллагын тухай ямар ч таних мэдээлэл агуулахгүй гэж тодорхойлсон байна. Opus 5.5 загварт энэ арга аль хэдийн хэрэглэгдэж байгаа.\n\nХөгжүүлэгчдэд энэ нь API-аар Claude ашигладаг программуудын гаралтад нөлөөлж болзошгүй гэдгийг анхаарах хэрэгтэй. Ус тэмдэг нь текстийн агуулгыг өөрчлөхгүй ч хэрэв систем таны үүсгэсэн текстийг илрүүлэх, баталгаажуулах шаардлагатай бол энэ өөрчлөлтийг тооцох нь зүйтэй.\n\nЕрөнхийдөө энэ алхам нь AI-ийн бүтээлийг ялгах, шударга бус ашиглалтыг бууруулах хүчин чармайлтын нэг хэсэг юм. Хуульчид, зохиолчид, судлаачид AI-д хэт найдаж буй тохиолдлууд нийтэд мэдэгдэж байгаа тул энэ арга хэрэглэгдэх нь ойлгомжтой.",
+   "published": "2026-11-01T16:59:47Z",
+   "added": "2026-11-03T19:54:47Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a23be2e123d40e0a",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/longcat-2-5-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6WQIKLdQjTUdVMoa3e4YYL/22b64ff5c5dcaa4e8eb810a5af26aca8/image.png",
+   "title": "LongCat 2.5 now available on AI Gateway",
+   "summary_en": "LongCat 2.5 from Meituan is now available on AI Gateway. This model combines native visual understanding with coding and multi-step tool use for agents working across complex codebases and full-project builds. Meituan highlights improvements in visual programming, creative design, and 3D tasks, alongside longer agent workflows that carry engineering work from planning through execution. The model supports text and image inputs with a 1M-token context window for code, documents, and extended task histories. Use meituan/longcat-2.5 as the model name: To use it in Claude Code, Codex, Cursor…",
+   "title_mn": "LongCat 2.5 загвар Vercel AI Gateway дээр боломжтой боллоо",
+   "summary_mn": "Meituan-ийн LongCat 2.5 загвар Vercel AI Gateway-д нэмэгдлээ. Загвар нь харааны ойлголт, код бичих, олон алхамт tool use-ийг хослуулж, 1M токен контекст дэмждэг. Claude Code, Codex, Cursor-т сонгож ашиглах боломжтой.",
+   "body_mn": "Vercel-ийн AI Gateway дээр Meituan-ийн LongCat 2.5 загвар нэмэгдлээ. Загвар нь харааны ойлголтыг кодтой болон олон алхамт tool use-тэй хослуулсан бөгөөд том кодын сан болон бүтэн төслийн барилгад зориулагдсан агентуудад тохиромжтой гэж тодорхойлогдсон.\n\nМөн визуал программчлал, креатив дизайн, 3D ажлын чанарыг сайжруулсан гэж Meituan онцолжээ. Загвар нь текст болон зургийн оролтыг дэмжих ба код, баримт бичиг, урт даалгаврын түүхэнд зориулсан 1M токений контекстын цонхтой.\n\nAI Gateway-ээр дамжуулан моделийг meituan/longcat-2.5 нэрээр дуудна. Claude Code, Codex, Cursor зэрэг хэрэгсэлд сонгох боломжтой бөгөөд хамгийн сүүлийн Vercel CLI-г суулгаж тохируулах шаардлагатай. Gateway нь провайдерын үнийг нэмэлтгүйгээр тусгадаг бөгөөд inference дээр платформын хураамж авахгүй.\n\nХөгжүүлэгчдэд энэ нь нэг API-аар олон загвар сольж турших, зардал хянах, retry болон failover тохируулах боломжийг олгоно.",
+   "published": "2026-11-02T00:00:00Z",
+   "added": "2026-11-03T19:54:47Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "39466608149828b5",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/blocking-malicious-npm-packages-before-and-during-installation",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6L2W9gYIPlYGTkQBOO7UmJ/1f4a649d8e2eacec33511d306943059d/blocking-malicious-npm-packages-sooner-og.png",
+   "title": "Blocking malicious npm packages before and during installation",
+   "summary_en": "Vercel now checks for blocked npm packages before and during dependency installation in builds , helping prevent malicious install scripts from running. The checks use a blocklist of specific package versions selected for blocking because of malware or security vulnerabilities, with new rules typically reaching new builds within minutes. Before installation , Vercel checks supported lockfiles, including when dependencies are restored from the build cache. During installation , Vercel blocks affected public npm downloads. Existing checks of installed dependencies and function outputs continue…",
+   "title_mn": "Vercel бүтээн байгуулалтын явцад хортой npm багцыг блоклодог боллоо",
+   "summary_mn": "Vercel хамаарлын суулгалтын өмнө болон суулгалтын явцад хортой npm багцыг шалгаж, суулгах скриптийг зогсоодог боллоо. Шинэ дүрмүүд ихэвчлэн хэдхэн минутын дотор шинэ build-д хүрнэ. Бүх төлөвлөгөөнд автоматаар идэвхжинэ.",
+   "body_mn": "Vercel одоо build хийх явцад хамаарлуудыг суулгахаас өмнө болон суулгах явцад хортой эсвэл аюултай npm багцын хувилбаруудыг шалгадаг боллоо. Энэ нь хортой суулгах скриптийг ажиллахаас сэргийлэхэд зориулагдсан.\n\nШалгалт нь хамгаалалтын асуудалтай эсвэл зөрчилтэй гэж тодорхойлогдсон багцын хувилбаруудын блоклистэд суурилна. Шинэ дүрмүүд ихэвчлэн шинэ build-д хэдхэн минутын дотор хүрдэг. Суулгахаас өмнө дэмжигдсэн lockfile-уудыг шалгах бөгөөд build cache-ээс сэргээсэн хамаарлууд ч хамрагдана. Суулгалтын явцад холбогдох нийтийн npm татагдалтыг блоклоно.\n\nХэрэв блоклогдсон хамаарал илэрвэл deployment бүтэлгүйтэж, багц болон хувилбарыг алдааны мессежид заана. Хөгжүүлэгч хамаарлаа аюулгүй хувилбарт шинэчилж, lockfile-аа засаад дахин deploy хийх шаардлагатай. Ямар ч тохиргоо шаардлагагүй.\n\nЭнэ нь npm supply chain халдлагаас хамгаалах чухал алхам бөгөөд хэрэглэгч бүр автоматаар хамгаалагдана.",
+   "published": "2026-11-02T00:00:00Z",
+   "added": "2026-11-03T19:54:47Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1b3f9acf66759bf3",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "India Today",
+   "url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-grok-bot-is-too-expensive-to-run-calls-costs-unsustainable-as-users-hit-limits-3030253-2026-11-02",
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/musk-attributed-the-successful-debt-raise-to-spacexs-strong-investment-grade-status--combined-with-263823873-16x9_0.jpg?VersionId=.rBTiwGSxHo0m7WWe9HEoT2kcKw7iRV4",
+   "title": "Elon Musk says Grok Bot is too expensive to run, calls costs unsustainable as users hit limits",
+   "summary_en": "Elon Musk told an X user that Grok's serving costs were unsustainably high relative to revenue. His response highlighted why subscribers are encountering strict usage limits.",
+   "title_mn": "Elon Musk: Grok Bot-ын зардал орлогоосоо давж байна",
+   "summary_mn": "xAI компани Grok Bot-ыг ажиллуулах зардал орлогоос нь хэт өндөр байгааг Элон Маск мэдэгдэв. Үүний улмаас төлбөртэй хэрэглэгчид долоо хоногийн лимитээ хэт хурдан дуусгаж байна.",
+   "body_mn": "xAI компанийн хөгжүүлж буй Grok Bot туслахыг ажиллуулах зардал өндөр байгааг үүсгэн байгуулагч Элон Маск олон нийтийн X сүлжээнд мэдэгджээ. Тэрээр хэрэглэгчийн лимит дуусаж буй талаарх гомдолд хариулахдаа уг үйлчилгээний сервер болон тооцооллын зардал нь одоогийн олж буй орлогоос хавьгүй илүү байгааг онцолсон байна.\n\nӨнгөрсөн долоо хоногт X платформ дээрх олон хэрэглэгчид Grok Bot-ын долоо хоногийн хэрэглээний квот ердийнхөөс хамаагүй хурдан дуусч байгаад шүүмжлэлтэй хандаж байв. Зарим хэрэглэгчид лимит нь богино хугацаанд огцом буурч байгааг анзаарсан байна.\n\nХиймэл оюун ухааны агент болон нарийн төвөгтэй аргуудыг ажиллуулах нь серверт асар их ачаалал өгдөг бөгөөд энэ нь салбар даяар тулгамдаж буй томоохон сорилт юм. Grok Bot нь олон шатлалт даалгаврыг ар араас нь гүйцэтгэх чадвартай тул энгийн чатботуудыг бодвол илүү их тооцооллын хүч шаарддаг аж.\n\nxAI компани энэхүү зардлын тэнцвэргүй байдлыг шийдвэрлэхийн тулд үнийн өөрчлөлт хийх эсвэл лимитийг хязгаарлах арга хэмжээ авч магадгүй байна. Хиймэл оюун ухааны бүтээгдэхүүний өртөг өндөр байгаа нь хөгжүүлэгчид болон хэрэглэгчдэд хэрхэн нөлөөлөх нь цаашид анхаарал татаж байна.",
+   "published": "2026-11-02T03:16:03Z",
+   "added": "2026-11-03T19:54:47Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
  }
 ]
