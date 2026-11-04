@@ -1,0 +1,17 @@
+{
+ "id": "efad017cf38376cd",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/tencent-hy4-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/iajKgHHs29vQXYUZMuMOy/061c4066e956c6ecb840b3a697cd97d2/image__100_.png",
+ "title": "Tencent Hy4 now available on AI Gateway",
+ "summary_en": "Hy4 from Tencent is now available on AI Gateway , at 50% off through December 31, 2026. Hy4 supports reasoning , tool calling , structured outputs , and image input, and has a 1M-token context window for work across a codebase or many documents. Hy4 is the first Hy model with vision. It can pick out fine detail in an image and read complex charts. It also supports computer use in both command-line and graphical interfaces. Compared with Hy4 Preview , it follows instructions more closely and does better with long context, long-running tasks, and deep research. Use tencent/hy4 as the model…",
+ "title_mn": "Tencent Hy4 загвар Vercel AI Gateway дээр 50% хөнгөлөлттэйгээр гарлаа",
+ "summary_mn": "Tencent-ийн Hy4 загвар Vercel AI Gateway дээр боломжтой боллоо. Загвар reasoning, tool calling, structured output болон зураг оруулахыг дэмжиж, 1M токений context window-тай. 2026 оны 12-р сарын 31 хүртэл 50% хөнгөлөлттэй.",
+ "body_mn": "Tencent-ийн Hy4 загвар Vercel AI Gateway дээр боломжтой боллоо. Энэ загвар reasoning, tool calling, structured output болон зураг оруулах боломжийг дэмжиж, 1 сая токений context window-тай. Хөнгөлөлт 2026 оны 12-р сарын 31 хүртэл үргэлжилнэ.\n\nHy4 нь Hy загваруудаас анх удаа vision чадвартай болсон. Зурган дахь нарийн дэлгэрэнгүйг таних, нарийн графикийг унших чадвартай. Мөн command-line болон график интерфейст computer use хийх боломжтой. Hy4 Preview-тэй харьцуулахад заавар дагах, урт context, удаан үргэлжилсэн даалгавар, deep research-д илүү сайн гэж мэдээлсэн.\n\nVercel CLI-ийг шинэчилж, setup командыг ажиллуулснаар Claude Code, Codex, Cursor зэрэг агентад tencent/hy4-ийг сонгож ашиглаж болно. AI Gateway нь provider-ийн үнийг хэвээр нь харуулах бөгөөд inference дээр платформын хураамж авдаггүй.\n\nТөлбөр, retry, failover болон routing дүрмийг нэг API-аар удирдах боломжтой. Hy4-ийг үнэгүй туршиж үзэх боломж энэ хугацаанд нээлттэй байна.",
+ "published": "2026-11-03T00:00:00Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

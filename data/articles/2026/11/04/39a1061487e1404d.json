@@ -1,0 +1,17 @@
+{
+ "id": "39a1061487e1404d",
+ "subtopic": "nextjs",
+ "source": "vercel/next.js",
+ "source_label": "vercel/next.js",
+ "url": "https://github.com/vercel/next.js/releases/tag/v16.4.4",
+ "image": "https://opengraph.githubassets.com/99e10ac98fdfcd75bfcddc2ce1e24f95653c4beb2218ecd2e412b00174822a6f/vercel/next.js/releases/tag/v16.4.4",
+ "title": "next.js v16.4.4",
+ "summary_en": "Note This release is backporting bug fixes. It does not include all pending features/changes on canary. The announced security released for November will be published tomorrow. Core Changes [lts-active] test: disable the reads fallback params after a client navigation deployment test ( #100668 ) [lts-active] Reload on missed Turbopack startup CSS updates ( #100619 ) [lts-active] Revert \"Optimize strict module factory chunks ( #98421 )\" ( #100866 ) [lts-active] Emit the Turbopack shared-runtime bootstrap in the PPR resume so it gets the CSP nonce ( #100907 ) [lts-active] [ci] Pin deploy test…",
+ "title_mn": "Next.js v16.4.4 хувилбар гарлаа",
+ "summary_mn": "Next.js v16.4.4 хувилбар нь турбопак болон аюулгүй байдлын чухал засваруудыг багтаасан алдаа засах хувилбар юм.",
+ "body_mn": "Next.js баг v16.4.4 хувилбарыг албан ёсоор гаргалаа. Энэхүү хувилбар нь гол төлөв алдаануудыг зассан бөгөөд canary салбар дээрх бүх шинэ боломжуудыг хараахан агуулаагүй байна.\n\nШинэчлэлтээр турбопакын эхлэх үеийн CSS шинэчлэлт алдагдах асуудлыг засч, PPR resume хэсэгт Turbopack shared-runtime bootstrap-ийг оруулан CSP nonce авах боломжтой болгожээ. Мөн jsonwebtoken сангийн оронд илүү хурдан fast-jwt санг ашиглахаар өөрчилсөн байна.\n\nЭнэхүү засварт @icyJoseph, @mischnic, @wbinnssmith болон бусад хөгжүүлэгчид хувь нэмрээ оруулсан бөгөөд November сарын security release маргааш гарахаар төлөвлөгдөөд байна.",
+ "published": "2026-11-02T16:41:08Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

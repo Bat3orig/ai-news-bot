@@ -1,0 +1,17 @@
+{
+ "id": "2df04eaf2c914e6d",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5G51ONTdXnLfJUJip02oSF/fe5511339b9ccde3b87ab8ebd5897408/CleanShot_2026-10-09_at_4.53.30_PM_2x.png",
+ "title": "Vercel MCP now renders deployments as an interactive card",
+ "summary_en": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, or open the fullscreen view to read them beneath the card. For repositories linked to multiple projects, a project list lets you switch between them. The card is Vercel MCP's first MCP App, built on the MCP Apps extension. Clients without app support receive the deployment…",
+ "title_mn": "Vercel MCP нь ChatGPT дотор интерактив карт харуулдаг боллоо",
+ "summary_mn": "Vercel MCP нь ChatGPT болон бусад чат клиентийн дотор deploy статусыг харуулах анхны интерактив карт аппыг гаргалаа.",
+ "body_mn": "Vercel Model Context Protocol (MCP) интеграци нь одоо хөгжүүлэгчдэд зориулж deploy статусыг ChatGPT болон бусад MCP App дэмждэг чат клиентийн дотор интерактив карт хэлбэрээр харуулах боломжтой боллоо.\n\nУг карт нь шууд deployment статус, build log болон commit-ийн мэдээллийг харуулах ба URL бэлэн болмогц Visit товч гарч ирдэг. Хөгжүүлэгчид log-уудыг шууд чат руу илгээж хиймэл оюунаар алдааг шалгуулах боломжтой бөгөөд олон төсөлтэй ажиллах үед төслүүд хооронд хялбар шилжих боломжтой.\n\nЭнэ нь Vercel MCP-ийн хувьд анхны MCP App бөгөөд чат програмууд дээр ажиллах шинэ боломжийг нээж өгч байна. ChatGPT болон бусад үйлчилгээ уг холболтыг Connectors тохиргоогоор дамжуулан ашигладаг.",
+ "published": "2026-11-02T17:05:00Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

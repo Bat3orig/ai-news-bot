@@ -1,0 +1,17 @@
+{
+ "id": "9f8b3bccd89dfa38",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5IG2he9MQR2MF0zG1LKS5f/39b588b42c785abf2305ac75d125c607/image__60_.png",
+ "title": "Vercel MCP now supports Client ID Metadata Documents",
+ "summary_en": "Any MCP client can now ask to connect to Vercel MCP . You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowlisted each client and its redirect URIs by hand, and anything not on the list was rejected. To connect, a client publishes a Client ID Metadata Document (CIMD), a JSON file on its own domain that describes it, and uses that file's HTTPS URL as its OAuth client_id . This follows the MCP authorization spec, which now recommends CIMD over Dynamic Client Registration. Because Vercel hasn't reviewed…",
+ "title_mn": "Vercel MCP одоо Client ID Metadata Document дэмжих боллоо",
+ "summary_mn": "Vercel MCP-д ямар ч MCP клиент урьдчилан шалгуулахгүйгээр холбогдох боломжтой боллоо. Клиент өөрийн домэйн дээр CIMD JSON файл нийтэлж, түүний HTTPS URL-ийг OAuth client_id болгон ашиглана. Хэрэглэгч бүр холболт бүрийг зөвшөөрөх шаардлагатай.",
+ "body_mn": "Vercel MCP одоо Client ID Metadata Document (CIMD) дэмжиж эхэллээ. Өмнө нь Vercel клиент бүрийг гараар шалгаж, зөвшөөрөгдсөн жагсаалтад оруулдаг байсан бөгөөд жагсаалтад байхгүй клиентийг татгалздаг байв.\n\nШинэ тогтолцоонд клиент өөрийн домэйн дээр JSON файл байрлуулж, түүний HTTPS URL-ийг OAuth client_id болгон ашиглана. Энэ нь MCP authorization спецификацийн шинэчлэлтэй нийцэж, Dynamic Client Registration-ийн оронд CIMD-г санал болгож байна. Хэрэглэгч нэвтэрч, холболт бүрийг зөвшөөрөх хэвээр байна.\n\nVercel-ээр шалгагдаагүй клиентүүд зөвшөөрлийн дэлгэц дээр нэр, лого, metadata файлыг үйлчилж буй hostname-ийг харуулна. CIMD клиент Vercel-ийн verified тэмдэггүй тул зөвшөөрөхдөө hostname-д итгэж байгаагаа ойлгох хэрэгтэй. Аль хэдийн Vercel-д бүртгэгдсэн апп-ууд өөрчлөгдөөгүй.\n\nMCP серверээ ашиглах хөгжүүлэгчдэд энэ нь клиентийн бүртгэлийн процессыг хурдан болгоно. Холбогдох заавруудыг Vercel MCP баримтжуулалтаас харж болно.(sic)",
+ "published": "2026-11-02T20:09:00Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

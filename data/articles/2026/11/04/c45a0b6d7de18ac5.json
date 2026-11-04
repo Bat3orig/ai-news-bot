@@ -1,0 +1,17 @@
+{
+ "id": "c45a0b6d7de18ac5",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.width-1300.png",
+ "title": "The latest AI news we announced in October 2026",
+ "summary_en": "Animated carousel of images from AI posts in October",
+ "title_mn": "Google: 2026 оны 10 дугаар сарын AI шинэчлэлтийн тойм",
+ "summary_mn": "Google компани аравдугаар сард Gemini 4 Argon, Carbon болон Genie 4 загварууд болон хиймэл оюуны томоохон шинэчлэлтүүдээ танилцууллаа.",
+ "body_mn": "Google компани 2026 оны 10 дугаар сард хиймэл оюуны чиглэлээр гаргасан томоохон бүтээгдэхүүн, загваруудын тоймоо танилцууллаа. Гол онцлох үйл явдлуудын нэг бол хөгжүүлэгчид болон аж ахуйн нэгжүүдэд зориулан гаргасан дэвшилтэт Gemini 4 Argon загвар болон кибер аюулгүй байдал, инженерийн чиглэлд төвлөрсөн Gemini 4 Carbon модель юм.\n\nТүүнчлэн бодит цагийн интерактив ертөнцийг аудио болон физик хөдөлгөөнтэйгөөр бүтээдэг Genie 4 загварыг танилцуулсан нь робот техник болон агентуудыг бэлтгэхэд чухал алхам болжээ. Үүнээс гадна SynthID Detector хэрэгслийг дэлхий даяар өргөжүүлж, AI-аар үүсгэгдсэн контентыг шалгах боломжийг хэрэглэгчдэд олгосон байна.\n\nЭдгээр шинэчлэлтүүд нь Google AI Studio, Gemini API болон Google Cloud платформуудаар дамжуулан хөгжүүлэгчдэд хүрч байгаа бөгөөд хиймэл оюуны чадамжийг шинэ түвшинд гаргаж байна.",
+ "published": "2026-11-02T17:45:00Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

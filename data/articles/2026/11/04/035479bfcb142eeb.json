@@ -1,0 +1,17 @@
+{
+ "id": "035479bfcb142eeb",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-sandbox-with-drives-now-starts-up-to-2-4x-faster",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20uyy3LbeCtdmZfzoSHC1p/50cf4f6cb912d7ff9ffe1e79739277c6/vercel-sandboxes-with-drives-now-start-up-to-2-4-faster.png",
+ "title": "Vercel Sandbox with Drives now starts up to 2.4× faster",
+ "summary_en": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives documentation . Read more",
+ "title_mn": "Vercel Sandbox-ийн ажиллах хурд 2.4 дахин нэмэгдлээ",
+ "summary_mn": "Драйв холбодог Vercel Sandbox орчин автоматаар хурдасч, бүтээх дундаж хугацаа 0.7 секунд болж буурлаа.",
+ "body_mn": "Vercel платформын хөгжүүлэгчид Drive холбосон Vercel Sandbox орчныг илүү хурдан ажилладаг болгосноо зарлалаа. Шинэчлэлтийн үр дүнд sandbox үүсгэх медиан хугацаа 1.7 секундээс 0.7 секунд болж буурсан бол p95 үзүүлэлт 2.2 секундээс 1.6 секунд болж сайжиржээ.\n\nЭнэхүү хурдны сайжруулалт нь Drive ашигладаг бүх sandbox-уудад ямар нэгэн SDK шинэчлэлт эсвэл тохиргооны өөрчлөлт хийхгүйгээр автоматаар хэрэгжих юм. Үнийн хувьд ямар нэгэн өөрчлөлт орохгүй бөгөөд хөгжүүлэгчид илүү шуурхай ажиллах боломжтой болж байна.\n\nДэлгэрэнгүй мэдээллийг Vercel Drives баримтжуулалтаас харж болох бөгөөд энэ нь үүлэн орчин дахь туршилт болон автомат ажиллагааг илүү хурдан болгож байна.",
+ "published": "2026-11-02T16:39:00Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

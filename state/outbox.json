@@ -598,5 +598,345 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8103dd03087355c5",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2fotrc5UJPrkkjsZ2CgGTB/87ba10c986cac5016159241ce304c8c0/image__13_.png",
+   "title": "Evaluate Vercel Flags from another project without sharing SDK keys.",
+   "summary_en": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployment’s identity. For local development, vercel env pull retrieves your project’s OIDC token. Manage access from the Connections page under your project's Flags section, or with vercel flags connections in the CLI. Connections grant read-only access across all environments. The…",
+   "title_mn": "Vercel Flags-д Project Connections боломж нэмэгдл",
+   "summary_mn": "Vercel Flags нь өөр төслийн флагуудыг SDK түлхүүргүйгээр ашиглах Project Connections боломжийг танилцууллаа.",
+   "body_mn": "Vercel компани хөгжүүлэгчдэд зориулсан Project Connections шинэ боломжийг гаргалаа. Энэ нь аппликейшнүүдэд нэг багийн хүрээнд өөр Vercel төсөлд тодорхойлогдсон флагаудыг сервер SDK түлхүүрийг гар аргаар удирахгүйгээр үнэлэх боломжийг олгодог.\n\nӨмнө нь төслүүд хоорондох флаг хуваалцахын тулд серверийн SDK түлхүүрийг орчны хувьсагч руу хуулж, гараар шинэчлэх шаардлагатай байсан бол одоо байршуулалтынхаа identity буюу баталгаажуулалтаар дамжин ажиллах юм. Орон нутгийн хөгжүүлэлтийн үед vercel env pull команд нь төслийн OIDC токенийг татаж авдаг байна.\n\nХандалтын эрхийг төслийн Flags хэсгээс эсвэл CLI ашиглан удирдахад хялбар бөгөөд бүх төлөвлөгөөний хүрээнд ашиглах боломжтой. Энэхүү шинэ боломжийг ашиглахын тулд @flags-sdk/vercel 1.6.0 эсвэл @vercel/flags-core 1.11.0 болон түүнээс дээш хувилбарыг ашиглах шаардлагатай.",
+   "published": "2026-11-02T16:00:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "035479bfcb142eeb",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-sandbox-with-drives-now-starts-up-to-2-4x-faster",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20uyy3LbeCtdmZfzoSHC1p/50cf4f6cb912d7ff9ffe1e79739277c6/vercel-sandboxes-with-drives-now-start-up-to-2-4-faster.png",
+   "title": "Vercel Sandbox with Drives now starts up to 2.4× faster",
+   "summary_en": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives documentation . Read more",
+   "title_mn": "Vercel Sandbox-ийн ажиллах хурд 2.4 дахин нэмэгдлээ",
+   "summary_mn": "Драйв холбодог Vercel Sandbox орчин автоматаар хурдасч, бүтээх дундаж хугацаа 0.7 секунд болж буурлаа.",
+   "body_mn": "Vercel платформын хөгжүүлэгчид Drive холбосон Vercel Sandbox орчныг илүү хурдан ажилладаг болгосноо зарлалаа. Шинэчлэлтийн үр дүнд sandbox үүсгэх медиан хугацаа 1.7 секундээс 0.7 секунд болж буурсан бол p95 үзүүлэлт 2.2 секундээс 1.6 секунд болж сайжиржээ.\n\nЭнэхүү хурдны сайжруулалт нь Drive ашигладаг бүх sandbox-уудад ямар нэгэн SDK шинэчлэлт эсвэл тохиргооны өөрчлөлт хийхгүйгээр автоматаар хэрэгжих юм. Үнийн хувьд ямар нэгэн өөрчлөлт орохгүй бөгөөд хөгжүүлэгчид илүү шуурхай ажиллах боломжтой болж байна.\n\nДэлгэрэнгүй мэдээллийг Vercel Drives баримтжуулалтаас харж болох бөгөөд энэ нь үүлэн орчин дахь туршилт болон автомат ажиллагааг илүү хурдан болгож байна.",
+   "published": "2026-11-02T16:39:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "39a1061487e1404d",
+   "subtopic": "nextjs",
+   "source": "vercel/next.js",
+   "source_label": "vercel/next.js",
+   "url": "https://github.com/vercel/next.js/releases/tag/v16.4.4",
+   "image": "https://opengraph.githubassets.com/99e10ac98fdfcd75bfcddc2ce1e24f95653c4beb2218ecd2e412b00174822a6f/vercel/next.js/releases/tag/v16.4.4",
+   "title": "next.js v16.4.4",
+   "summary_en": "Note This release is backporting bug fixes. It does not include all pending features/changes on canary. The announced security released for November will be published tomorrow. Core Changes [lts-active] test: disable the reads fallback params after a client navigation deployment test ( #100668 ) [lts-active] Reload on missed Turbopack startup CSS updates ( #100619 ) [lts-active] Revert \"Optimize strict module factory chunks ( #98421 )\" ( #100866 ) [lts-active] Emit the Turbopack shared-runtime bootstrap in the PPR resume so it gets the CSP nonce ( #100907 ) [lts-active] [ci] Pin deploy test…",
+   "title_mn": "Next.js v16.4.4 хувилбар гарлаа",
+   "summary_mn": "Next.js v16.4.4 хувилбар нь турбопак болон аюулгүй байдлын чухал засваруудыг багтаасан алдаа засах хувилбар юм.",
+   "body_mn": "Next.js баг v16.4.4 хувилбарыг албан ёсоор гаргалаа. Энэхүү хувилбар нь гол төлөв алдаануудыг зассан бөгөөд canary салбар дээрх бүх шинэ боломжуудыг хараахан агуулаагүй байна.\n\nШинэчлэлтээр турбопакын эхлэх үеийн CSS шинэчлэлт алдагдах асуудлыг засч, PPR resume хэсэгт Turbopack shared-runtime bootstrap-ийг оруулан CSP nonce авах боломжтой болгожээ. Мөн jsonwebtoken сангийн оронд илүү хурдан fast-jwt санг ашиглахаар өөрчилсөн байна.\n\nЭнэхүү засварт @icyJoseph, @mischnic, @wbinnssmith болон бусад хөгжүүлэгчид хувь нэмрээ оруулсан бөгөөд November сарын security release маргааш гарахаар төлөвлөгдөөд байна.",
+   "published": "2026-11-02T16:41:08Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e8b338dcfb56e8b3",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4SEIitysI8PoSbaUzkM1Vp/03d93d5b7dc657382a57d4b81960de98/image__59_.png",
+   "title": "Flags Explorer redesigned for easier override sharing",
+   "summary_en": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever a branch has overrides set, they will be recommended to teammates visiting the deployment through a dialog. Flags Explorer is available on all plans. Read the documentation to get started. Read more",
+   "title_mn": "Vercel Flags Explorer илүү хялбар болж шинэчлэгдл",
+   "summary_mn": "Vercel Toolbar дахь Flags Explorer хэрэгсэл шинэчлэгдэж, багийн гишүүдтэй override хуваалцах боломж сайжирлаа.",
+   "body_mn": "Vercel компани Vercel Toolbar дотор ажилладаг Flags Explorer хэрэгслээ дахин загварчилж, хөгжүүлэгчдэд илүү хялбар болголоо. Шинэ интерфейс нь override утгууд, салбарын зөвлөмжүүд болон холбогдох үйлдлүүдийг нэг дор төвлөрүүлжээ.\n\nЯмар нэгэн салбар дээр override утгууд тохируулагдсан үед уг deployment дээр зочилж буй багийн гишүүдэд автоматаар зөвлөмж харуулах юм. Энэхүү хэрэгсэл нь бүх план дээр ямар нэгэн нэмэлт төлбөргүйгээр ажиллах ба хөгжүүлэгчдэд флагауудыг шалгах, багтайгаа хуваалцахыг хялбар болгож байна.",
+   "published": "2026-11-02T16:58:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2df04eaf2c914e6d",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5G51ONTdXnLfJUJip02oSF/fe5511339b9ccde3b87ab8ebd5897408/CleanShot_2026-10-09_at_4.53.30_PM_2x.png",
+   "title": "Vercel MCP now renders deployments as an interactive card",
+   "summary_en": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, or open the fullscreen view to read them beneath the card. For repositories linked to multiple projects, a project list lets you switch between them. The card is Vercel MCP's first MCP App, built on the MCP Apps extension. Clients without app support receive the deployment…",
+   "title_mn": "Vercel MCP нь ChatGPT дотор интерактив карт харуулдаг боллоо",
+   "summary_mn": "Vercel MCP нь ChatGPT болон бусад чат клиентийн дотор deploy статусыг харуулах анхны интерактив карт аппыг гаргалаа.",
+   "body_mn": "Vercel Model Context Protocol (MCP) интеграци нь одоо хөгжүүлэгчдэд зориулж deploy статусыг ChatGPT болон бусад MCP App дэмждэг чат клиентийн дотор интерактив карт хэлбэрээр харуулах боломжтой боллоо.\n\nУг карт нь шууд deployment статус, build log болон commit-ийн мэдээллийг харуулах ба URL бэлэн болмогц Visit товч гарч ирдэг. Хөгжүүлэгчид log-уудыг шууд чат руу илгээж хиймэл оюунаар алдааг шалгуулах боломжтой бөгөөд олон төсөлтэй ажиллах үед төслүүд хооронд хялбар шилжих боломжтой.\n\nЭнэ нь Vercel MCP-ийн хувьд анхны MCP App бөгөөд чат програмууд дээр ажиллах шинэ боломжийг нээж өгч байна. ChatGPT болон бусад үйлчилгээ уг холболтыг Connectors тохиргоогоор дамжуулан ашигладаг.",
+   "published": "2026-11-02T17:05:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c45a0b6d7de18ac5",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.width-1300.png",
+   "title": "The latest AI news we announced in October 2026",
+   "summary_en": "Animated carousel of images from AI posts in October",
+   "title_mn": "Google: 2026 оны 10 дугаар сарын AI шинэчлэлтийн тойм",
+   "summary_mn": "Google компани аравдугаар сард Gemini 4 Argon, Carbon болон Genie 4 загварууд болон хиймэл оюуны томоохон шинэчлэлтүүдээ танилцууллаа.",
+   "body_mn": "Google компани 2026 оны 10 дугаар сард хиймэл оюуны чиглэлээр гаргасан томоохон бүтээгдэхүүн, загваруудын тоймоо танилцууллаа. Гол онцлох үйл явдлуудын нэг бол хөгжүүлэгчид болон аж ахуйн нэгжүүдэд зориулан гаргасан дэвшилтэт Gemini 4 Argon загвар болон кибер аюулгүй байдал, инженерийн чиглэлд төвлөрсөн Gemini 4 Carbon модель юм.\n\nТүүнчлэн бодит цагийн интерактив ертөнцийг аудио болон физик хөдөлгөөнтэйгөөр бүтээдэг Genie 4 загварыг танилцуулсан нь робот техник болон агентуудыг бэлтгэхэд чухал алхам болжээ. Үүнээс гадна SynthID Detector хэрэгслийг дэлхий даяар өргөжүүлж, AI-аар үүсгэгдсэн контентыг шалгах боломжийг хэрэглэгчдэд олгосон байна.\n\nЭдгээр шинэчлэлтүүд нь Google AI Studio, Gemini API болон Google Cloud платформуудаар дамжуулан хөгжүүлэгчдэд хүрч байгаа бөгөөд хиймэл оюуны чадамжийг шинэ түвшинд гаргаж байна.",
+   "published": "2026-11-02T17:45:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0d297090385ad5a7",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "image": "",
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "summary_en": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "title_mn": "OpenAI аюулгүй байдлаа сайжруулах зорилгоор шинэ спринт эхлүүлнэ",
+   "summary_mn": "OpenAI компани Cathedral Systems-тэй хамтран хиймэл оюун ашиглан дотоод хамгаалалтаа шалгаж, бэхжүүлэх аюулгүй байдлын спринтэд бэлтгэж байна.",
+   "body_mn": "OpenAI компани өөрийн дотоод аюулгүй байдлын системээ илүү найдвартай болгох зорилгоор шинэ удаагийн дотоод аюулгүй байдлын спринт зарлахаар бэлтгэж байна. Энэхүү ажилд Cathedral Systems компанитай хамтран ажиллаж байгаа аж.\n\nУг спринтийн хүрээнд хиймэл оюуны технологиудыг ашиглан компанийн хамгаалалтын систем дэх сул талуудыг илрүүлэх, бат бөх байдлыг шалгах сорилтуудыг хийх юм. Хиймэл оюуны загварууд өргөжихийн хэрээр аюулгүй байдлыг хангах нь OpenAI-ийн хувьд нэн тэргүүний зорилт болоод байна.",
+   "published": "2026-11-02T18:00:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bca108e4c77bd86b",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "image": "",
+   "title": "Rewarding defenders with bigger bug bounties",
+   "summary_en": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "title_mn": "OpenAI алдаа илрүүлэгчдийн урамшууллыг нэмэгдүүллээ",
+   "summary_mn": "OpenAI Security Bug Bounty хөтөлбөрийн шагналыг өсгөж, хараат бус судлаачдад зориулсан шинэ урамшуулал нэмл.",
+   "body_mn": "OpenAI компани платформынхоо аюулгүй байдлыг сайжруулахад хувь нэмэр оруулж буй хараат бус судлаачдад олгодог Security Bug Bounty хөтөлбөрийн урамшууллаа нэмэгдүүллээ.\n\nШинэ өөрчлөлтөөр тайлангийн чанар, үнэнч байдал болон тэргүүлэх ач холбогдол бүхий кампанит ажлын урамшууллуудыг нэмж өгсөн байна. Энэ нь илүү олон туршлагатай аюулгүй байдлын судлаачдыг OpenAI-ийн систем дэх эмзэг байдлыг илрүүлэхэд татан оролцуулах зорилготой юм.",
+   "published": "2026-11-02T18:00:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9f8b3bccd89dfa38",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5IG2he9MQR2MF0zG1LKS5f/39b588b42c785abf2305ac75d125c607/image__60_.png",
+   "title": "Vercel MCP now supports Client ID Metadata Documents",
+   "summary_en": "Any MCP client can now ask to connect to Vercel MCP . You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowlisted each client and its redirect URIs by hand, and anything not on the list was rejected. To connect, a client publishes a Client ID Metadata Document (CIMD), a JSON file on its own domain that describes it, and uses that file's HTTPS URL as its OAuth client_id . This follows the MCP authorization spec, which now recommends CIMD over Dynamic Client Registration. Because Vercel hasn't reviewed…",
+   "title_mn": "Vercel MCP одоо Client ID Metadata Document дэмжих боллоо",
+   "summary_mn": "Vercel MCP-д ямар ч MCP клиент урьдчилан шалгуулахгүйгээр холбогдох боломжтой боллоо. Клиент өөрийн домэйн дээр CIMD JSON файл нийтэлж, түүний HTTPS URL-ийг OAuth client_id болгон ашиглана. Хэрэглэгч бүр холболт бүрийг зөвшөөрөх шаардлагатай.",
+   "body_mn": "Vercel MCP одоо Client ID Metadata Document (CIMD) дэмжиж эхэллээ. Өмнө нь Vercel клиент бүрийг гараар шалгаж, зөвшөөрөгдсөн жагсаалтад оруулдаг байсан бөгөөд жагсаалтад байхгүй клиентийг татгалздаг байв.\n\nШинэ тогтолцоонд клиент өөрийн домэйн дээр JSON файл байрлуулж, түүний HTTPS URL-ийг OAuth client_id болгон ашиглана. Энэ нь MCP authorization спецификацийн шинэчлэлтэй нийцэж, Dynamic Client Registration-ийн оронд CIMD-г санал болгож байна. Хэрэглэгч нэвтэрч, холболт бүрийг зөвшөөрөх хэвээр байна.\n\nVercel-ээр шалгагдаагүй клиентүүд зөвшөөрлийн дэлгэц дээр нэр, лого, metadata файлыг үйлчилж буй hostname-ийг харуулна. CIMD клиент Vercel-ийн verified тэмдэггүй тул зөвшөөрөхдөө hostname-д итгэж байгаагаа ойлгох хэрэгтэй. Аль хэдийн Vercel-д бүртгэгдсэн апп-ууд өөрчлөгдөөгүй.\n\nMCP серверээ ашиглах хөгжүүлэгчдэд энэ нь клиентийн бүртгэлийн процессыг хурдан болгоно. Холбогдох заавруудыг Vercel MCP баримтжуулалтаас харж болно.(sic)",
+   "published": "2026-11-02T20:09:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "99f7db01bdd03623",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1IoboBwC3DnGoXO3oJP6uL/a40f3e85d6916d79244a3cd028940345/image__62_.png",
+   "title": "Projects can now be configured with vercel.toml",
+   "summary_en": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it supports comments and has a flatter structure. All projects can now use vercel.toml . Use only one project configuration file: vercel.toml, vercel.json, or vercel.ts. For example, configuring Services : Read the documentation . Read more",
+   "title_mn": "Vercel одоо төслийн тохиргоог vercel.toml файлаар хийх боломжтой боллоо",
+   "summary_mn": "Vercel төслийн тохиргоог TOML форматаар бичих vercel.toml файлыг дэмжиж эхэллээ. Бүх тохиргооны параметр vercel.json-тай адил дэмжигдэх ба comment бичих боломжтой. Төсөлд зөвхөн нэг тохиргооны файл ашиглах шаардлагатай.",
+   "body_mn": "Vercel одоо төслийн тохиргоог TOML форматаар бичих vercel.toml файлыг дэмжиж эхэллээ. Энэ файлд vercel.json-ийн бүх тохиргооны параметр дэмжигдэх бөгөөд бүтэц нь илүү хялбар, хавтгай байдалтай.\n\nTOML нь comment бичих боломжтой тул тохиргоонд тайлбар нэмэх шаардлагатай хөгжүүлэгчдэд ашигтай. JSON-д comment бичих боломжгүй байсан нь хамгийн том хязгаарлалт байсан.\n\nБүх төсөлд vercel.toml ашиглах боломжтой болсон. Харин нэг төсөлд зөвхөн нэг тохиргооны файл байх ёстой: vercel.toml, vercel.json эсвэл vercel.ts. Хоёр файл зэрэг байвал аль нь ашиглагдахаа тодорхой болгох хэрэгтэй.\n\nОдоо байгаа vercel.json-оо шилжүүлэхгүй бол юу ч өөрчлөгдөхгүй. Шинэ төсөлдөө илүү цэвэрхэн тохиргоо хийхийг хүсвэл TOML-г сонгож болно.",
+   "published": "2026-11-02T21:00:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "77b14860a02b316d",
+   "subtopic": "tailwind",
+   "source": "tailwindlabs/tailwindcss",
+   "source_label": "tailwindlabs/tailwindcss",
+   "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.3.4",
+   "image": "https://opengraph.githubassets.com/f028489a28d0dd4686437660cd182562dbd11515659d930c41e7d7cdbdc16145/tailwindlabs/tailwindcss/releases/tag/v4.3.4",
+   "title": "tailwindcss v4.3.4",
+   "summary_en": "Added Add @tailwindcss/turbopack , a Turbopack loader for using Tailwind CSS with Next.js ( #20367 ) Fixed Ensure watch mode detects changes to symlinked @source files whose real paths aren't otherwise scanned ( #20356 ) Ensure variants using @scope wrap generated utilities instead of nesting inside them ( #20369 ) Ensure nested @scope rules preserve their scoping semantics when flattened ( #20369 ) Preserve declarations directly inside @scope by wrapping them in :where(:scope) ( #20369 ) Ensure generated utilities include a space in empty var() fallbacks (e.g. var(--tw-blur,) →…",
+   "title_mn": "Tailwind CSS v4.3.4 гарлаа: Turbopack loader болон олон алдаа засав",
+   "summary_mn": "Tailwind CSS v4.3.4 хувилбарт Next.js-тэй ажиллах @tailwindcss/turbopack loader нэмэгдсэн. Мөн @scope, watch mode, canonicalization болон Ruby template-ийн олон алдааг засжээ. Өөрчлөлтүүд нь төслийн CSS-ийн найдвартай байдлыг сайжруулна.",
+   "body_mn": "Tailwind CSS v4.3.4 хувилбар гарсан бөгөөд шинэ онцлог болох @tailwindcss/turbopack нэмэгдлээ. Энэ нь Turbopack дээр суурилсан Next.js төсөлд Tailwind CSS-ийг холбох loader юм.\n\nЗасварын жагсаалт маш урт байна. @scope дотор utility-нүүд зөв ороож, nested @scope дүрмүүд flatten хийхэд scoping утгаа хадгалдаг болсон. Watch mode нь symlink хийгдсэн @source файлуудын өөрчлөлтийг илрүүлдэг болж, ignored хавтсуудыг алгасдаг болов.\n\nМөн canonicalization-д олон сайжруулалт орсон. Жишээ нь max-[64rem]:flex нь max-lg:flex болж хөрвөнө. Vite-ийн bundledDev горимд @tailwindcss/vite-ийн crash засагдсан, @tailwindcss/oxide native binding байхгүй платформ дээр WASM руу шилжих боломжтой болсон.\n\nRuby %w болон %W литерал, Slim, Haml template-ийн class илрүүлэлт сайжирсан. Хэрэв та эдгээр загваруудыг ашигладаг бол шинэчлэх нь зүйтэй.",
+   "published": "2026-11-02T21:16:50Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "efad017cf38376cd",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/tencent-hy4-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/iajKgHHs29vQXYUZMuMOy/061c4066e956c6ecb840b3a697cd97d2/image__100_.png",
+   "title": "Tencent Hy4 now available on AI Gateway",
+   "summary_en": "Hy4 from Tencent is now available on AI Gateway , at 50% off through December 31, 2026. Hy4 supports reasoning , tool calling , structured outputs , and image input, and has a 1M-token context window for work across a codebase or many documents. Hy4 is the first Hy model with vision. It can pick out fine detail in an image and read complex charts. It also supports computer use in both command-line and graphical interfaces. Compared with Hy4 Preview , it follows instructions more closely and does better with long context, long-running tasks, and deep research. Use tencent/hy4 as the model…",
+   "title_mn": "Tencent Hy4 загвар Vercel AI Gateway дээр 50% хөнгөлөлттэйгээр гарлаа",
+   "summary_mn": "Tencent-ийн Hy4 загвар Vercel AI Gateway дээр боломжтой боллоо. Загвар reasoning, tool calling, structured output болон зураг оруулахыг дэмжиж, 1M токений context window-тай. 2026 оны 12-р сарын 31 хүртэл 50% хөнгөлөлттэй.",
+   "body_mn": "Tencent-ийн Hy4 загвар Vercel AI Gateway дээр боломжтой боллоо. Энэ загвар reasoning, tool calling, structured output болон зураг оруулах боломжийг дэмжиж, 1 сая токений context window-тай. Хөнгөлөлт 2026 оны 12-р сарын 31 хүртэл үргэлжилнэ.\n\nHy4 нь Hy загваруудаас анх удаа vision чадвартай болсон. Зурган дахь нарийн дэлгэрэнгүйг таних, нарийн графикийг унших чадвартай. Мөн command-line болон график интерфейст computer use хийх боломжтой. Hy4 Preview-тэй харьцуулахад заавар дагах, урт context, удаан үргэлжилсэн даалгавар, deep research-д илүү сайн гэж мэдээлсэн.\n\nVercel CLI-ийг шинэчилж, setup командыг ажиллуулснаар Claude Code, Codex, Cursor зэрэг агентад tencent/hy4-ийг сонгож ашиглаж болно. AI Gateway нь provider-ийн үнийг хэвээр нь харуулах бөгөөд inference дээр платформын хураамж авдаггүй.\n\nТөлбөр, retry, failover болон routing дүрмийг нэг API-аар удирдах боломжтой. Hy4-ийг үнэгүй туршиж үзэх боломж энэ хугацаанд нээлттэй байна.",
+   "published": "2026-11-03T00:00:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ae220fbb5d394734",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-cli-now-diagnoses-setup-problems-with-vercel-doctor",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4Qq1edetewS59zvCuHHGI0/d5787b9ebff64a8fdf4df5104f1a6a78/slack-imgs.jpg",
+   "title": "Diagnose Vercel CLI setup problems with vercel doctor",
+   "summary_en": "Vercel CLI now includes vercel doctor , which checks your setup and shows the command that fixes each problem it finds. It checks the CLI version and install, your login and current team, the project link, and your project configuration in vercel.json . It also reports active incidents from the Vercel status page. Each check reports OK, Warning, Failed, or Skipped. When vercel upgrade can't update the installed CLI, the install check shows where the CLI runs from and how to reinstall it. Doctor runs without a login or a linked project, and it never prompts, logs in, or links a project, so…",
+   "title_mn": "Vercel CLI-д vercel doctor нэмэгдэж, тохиргооны асуудлыг шалгана",
+   "summary_mn": "Vercel CLI-д vercel doctor команд нэмэгдсэн бөгөөд тохиргооны асуудал бүрт засах командыг харуулна. CLI хувилбар, нэвтрэлт, төслийн холбоос, vercel.json-ийг шалгаж, идэвхтэй incident-уудыг мэдээлнэ. Команд нэвтрэлтгүйгээр ажиллана.",
+   "body_mn": "Vercel CLI-д vercel doctor команд нэмэгдлээ. Энэ команд таны тохиргоог шалгаж, олдсон асуудал бүрт яг ямар команд ажиллуулахыг харуулна.\n\nШалгалт нь CLI-ийн хувилбар болон суулгалт, нэвтэрсэн эрх, одоогийн team, төслийн холбоос, vercel.json тохиргоог хамардаг. Мөн Vercel статусын хуудаснаас идэвхтэй incident-уудыг тайлагнана. Шалгалт бүр OK, Warning, Failed эсвэл Skipped статустай.\n\nЭнэ командыг нэвтрэлт эсвэл холбосон төсөлгүйгээр ажиллуулж болно. Мөн асуулт асуух эсвэл нэвтрэх шаардлагагүй тул coding agent-ууд засварын санал болгохоосоо өмнө ашиглах боломжтой. --json флаг ашиглавал статус болон санал болгох командуудыг бүтэцлэгдсэн байдлаар авна.\n\nCLI-ээ шинэчилж, vercel doctor-ыг ажиллуулаарай. Дэлгэрэнгүйг команд тайлбарын баримтаас үзнэ үү.",
+   "published": "2026-11-03T00:00:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "18fde97f9ff03e7d",
+   "subtopic": "packages",
+   "source": "JavaScript Weekly",
+   "source_label": "JavaScript Weekly",
+   "url": "https://javascriptweekly.com/issues/809",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/dhcgdjewfv50joacutkm.jpg",
+   "title": "What Claude spends building with 12 JavaScript stacks",
+   "summary_en": "#​809 — November 3, 2026 Read on the Web JavaScript Weekly The AI Cost of JavaScript Frameworks Nolan Lawson had Claude build the same app five times in each of twelve JS stacks to test common \"X is better for agents\" claims. Costs varied significantly between runs, and Gautam Parab found that the observed cost ranges overlapped or touched for most pairs of frameworks. But a clearer difference was in the median amount of JavaScript sent to browsers: 0KB for Astro, 18K for Hono+htmx, 36K for SvelteKit, and 115–142K for React Router, TanStack Start and Next.js. If you've gone \"hands-free\"…",
+   "title_mn": "Node 26 LTS, Vitest 5.1, Rspack 2.3 болон Leaflet 2.0 Beta: долоо хоногийн гол багц хувилбарууд",
+   "summary_mn": "JavaScript Weekly-ийн энэ дугаарт Node.js 26 LTS, Vitest 5.1, Rspack 2.3 болон Leaflet 2.0 Beta 1 зэрэг чухал хувилбарууд багтжээ. Cloudflare Workers Temporal API-г дэмжиж эхэллээ. GitHub Actions pull_request_target-ийн өгөгдмөл тохиргоо өөрчлөгдөнө.",
+   "body_mn": "JavaScript Weekly-ийн энэ дугаарт Node.js 26 LTS, Node.js 27 alpha, Vitest 5.1, Rspack 2.3, Leaflet 2.0 Beta 1 зэрэг хэд хэдэн чухал багц, хэрэгслийн шинэчлэл гарсан байна.\n\nNode 26 одоо 'Lithium' LTS шугам болсон бөгөөд Node 27 нь Node-ийн шинэ хувилбарын үйл явцын дагуу анхны alpha хувилбараа гаргасан. Vitest 5.1-д --since-last-run флаг нэмэгдэж, зөвхөн засвар хийгдсэн тестүүдийг дахин ажиллуулах боломжтой боллоо. Мөн интерактив snapshot шалгах онцлог бий.\n\nRspack 2.3 нь Rust дээр суурилсан webpack-ийн альтернатив бөгөөд SWC Next болон шинэ parser-ээ нэвтрүүлжээ. Багийн мэдээлснээр бүтээх хугацаа 5-20%-иар хурдсан. Leaflet 2.0 Beta 1 нь арав гаруй жилийн дараах анхны том хувилбар бөгөөд tree-shake хийх боломжтой, TypeScript төрлүүдтэй болж, default export-ийг хассан.\n\nCloudflare Workers нь Temporal API-г temporal compatibility flag-ээр дэмжиж эхэлсэн бөгөөд 12-р сарын 1-ээс үндсэн байдлаар идэвхжинэ. GitHub Actions нь нийтийн repo-д pull_request_target-ийг 12-р сарын 2-оос өгөгдмөлөөр блоклох тул CI тохиргоогоо шалгах хэрэгтэй. Мөн Effect 4.1, pnpm 12.17, ESLint 10.14.0, Nuxt DevTools v4 гарсан.",
+   "published": "2026-11-03T00:00:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5a2f5551571953b1",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
+   "image": "https://opengraph.githubassets.com/ab0198d793f6ecde4f0b616c56288e6d5eebda1b7926e0aa6d238a5b433b1653/anthropics/claude-code/releases/tag/v2.1.317",
+   "title": "claude-code v2.1.317",
+   "summary_en": "What's changed Added a warning to /schedule when a new cloud scheduled task gets connectors you did not ask for, with how to remove them Added a check that asks before a web or shell tool call sends your account email address to the network Added onFailure: \"block\" for Agent SDK hook callbacks, so a callback that fails blocks the action instead of letting it run Added a notice in Claude Desktop's Code tab when your organization's remote managed settings haven't loaded for the session, and another once they do Added a notice when auto mode's check has no answer for a subagent's tool call…",
+   "title_mn": "claude-code v2.1.317 хувилбар шинэчлэлтүүд гарлаа",
+   "summary_mn": "Claude Code хэрэгслийн шинэ хувилбар гарч, Agent SDK дэгээний алдаа боловсруулалт болон OTel метрикэд нэмэлтүүд орлоо. Мөн зарим холболтын салгалт болон тохиргооны алдаануудыг засжээ.",
+   "body_mn": "Claude Code хэрэгслийн v2.1.317 хувилбар нь хөгжүүлэгчдийн ажлыг илүү хялбар, аюулгүй болгох олон шинэ боломж, засваруудыг багтаасан байна. Тухайлбал, шинээр үүсэх үед үл мэдэгдэх холбогч нэмэгдсэн тохиолдолд /schedule команд анхааруулга өгдөг болжээ.\n\nМөн Agent SDK дэгээний буцаалтад onFailure: \"block\" утгыг нэмснээр алдаа гарсан үед үйлдлийг зогсоох боломжтой болсон бөгөөд OpenTelemetry (OTel) метрик болон үйл явдлуудад анхааруулга болон хяналтын мэдээллүүд нэмэгдсэн байна.\n\nТүүнчлэн админуудад зориулсан Claude apps gateway API-д өртгийн тайлан урих боломж нэмэгдсэн нь хөгжүүлэгч болон байгууллагын зардлыг хянах боломжийг бүрдүүлжээ. Төслийн болон локал MCP серверүүд салгагддаг байсан зэрэг олон техникийн алдааг засжээ.",
+   "published": "2026-11-03T01:25:46Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9f8ab173fb9513a1",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/how-mercor-ships-internal-apps-and-billions-of-production-tokens-on-one-platform",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5vGpD5V08d8nBJdtHDny9Y/8b374ea52dff57e94f7de466a46466bf/customer_story_og_card_og_card__1_.jpg",
+   "title": "How Mercor ships internal apps and billions of production tokens on one platform",
+   "summary_en": "Mercor on Vercel Batch jobs cut from 12 hours to 2 hours 18M requests and 63B tokens routed through AI Gateway in 10 days Expert access provisioned in seconds via Vercel Passport Over 2,000 projects created by hundreds of internal builders Mercor connects hundreds of thousands of domain experts with frontier AI labs, helping those labs generate the human data they need to train and evaluate leading models. It also runs large batches of automated grading jobs to evaluate models for labs and enterprises. Demand arrives in bursts that can push model traffic to peak capacity for days, even as…",
+   "title_mn": "Mercor компани Vercel AI Gateway ашиглан хэдэн тэрбум токен удирдав",
+   "summary_mn": "Mercor компани Vercel AI Gateway болон Passport ашиглан 10 хоногийн дотор 63 тэрбум токен удирдан чиглүүлж, загварын хурд болон аюулгүй байдлаа сайжруулжээ.",
+   "body_mn": "Хиймэл оюун ухааны лабораториудад экспертүүдийг холбож өгдөг Mercor компани Vercel AI Gateway болон Vercel Passport үйлчилгээг ашиглан өөрсдийн инженерчлэл болон аюулгүй байдлын дэд бүтцээ өргөжүүлжээ. Тэд эхний 10 хоногт л гэхэд 18 сая хүсэлт, 63 тэрбум токенийг ямар нэгэн хязгаарлалтад оролгүйгээр AI Gateway-ээр дамжуулан боловсруулсан байна.\n\nӨмнө нь олон төрлийн үйлчилгээ ашигладаг байсан нь хэрэглээний хязгаарлалт болон хүлээлт үүсгэж, багцуудыг боловсруулахад удаашруулдаг байжээ. Харин AI Gateway-ийн failover буюу урсгал чиглүүлэлтийн ачаар энэ асуудал шийдвэрлэгдэж, ажлын цаг эрс багассан байна.\n\nМөн Mercor-ын олон зуун инженерүүд хувийн түлхүүр, дуусах хугацаа болон токений хязгаарлалт бүхий open-source загваруудыг ашиглаж эхэлжээ. Энэ нь аюулгүй байдлыг хангахын зэрэгцээ дотоод багуудад шаардлагатай аппликейшнүүдийг хурдан бүтээх боломжийг олгож байна.",
+   "published": "2026-11-03T04:00:00Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "71448f5b64f6d581",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
+   "image": "https://opengraph.githubassets.com/91b70c277489e659a73c35ec4dfce8e21020afababba65c7ca91ebcc0eaec4e7/ollama/ollama/releases/tag/v0.40.14",
+   "title": "ollama v0.40.14",
+   "summary_en": "What's Changed ollama launch claude now applies the model's output token limit for Claude Code, so cloud models no longer run into the 128k default cap Cloud web search responses on /api/chat are now decoded correctly, including compressed responses OpenAI-compatible endpoints no longer override a model's packaged sampler defaults — clients that send no temperature / top_p get the model's own values instead of 1.0, matching /api/chat /v1/responses now preserves readable input content, including prior assistant refusals, instead of flattening it Ollama's app can now retry ChatGPT disconnect…",
+   "title_mn": "Ollama v0.40.14 хувилбар шинэ боломжуудтайгаар гарлаа",
+   "summary_mn": "Ollama v0.40.14 шинэчлэлтээр Claude Code-ын гаратын токений хязгаарлалтыг зөв тохируулж, вэб хайлтын хариуг зөв задлах болон OpenAI-тэй нийцтэй төгсгөлүүдийг сайжруулжээ.",
+   "body_mn": "Ollama хэрэгслийн v0.40.14 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон чухал сайжруулалтыг хийсэн байна. Тухайлбал, ollama launch claude команд нь Claude Code-д зориулсан загварын гаратын токений хязгаарлалтыг зөв хэрэглэх болсноор үүлэн загварууд үндсэн 128k хязгаарлалтад орохгүй ажиллах боломжтой болжээ.\n\nМөн /api/chat дахь үүлэн вэб хайлтын хариуг шахсан өгөгдлийг оруулаад зөв задлах чадвартай болсон байна. OpenAI-тэй нийцтэй төгсгөлүүд нь үсрэх утга буюу temperature/top_p тохиргоог хүчингүй болгохгүйгээр загварын өөрийн утгыг хадгалдаг болжээ.\n\nҮүнээс гадна ollama launch codex нь холболтыг шалгах боломжтой болж, MLX дээрх том үгсийн санд зориулсан top-k sampling илүү хурдан ажиллах зэрэг техникийн засварууд орсон байна.",
+   "published": "2026-11-03T06:57:31Z",
+   "added": "2026-11-04T14:58:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

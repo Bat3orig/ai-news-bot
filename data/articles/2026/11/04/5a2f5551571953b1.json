@@ -1,0 +1,17 @@
+{
+ "id": "5a2f5551571953b1",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
+ "image": "https://opengraph.githubassets.com/ab0198d793f6ecde4f0b616c56288e6d5eebda1b7926e0aa6d238a5b433b1653/anthropics/claude-code/releases/tag/v2.1.317",
+ "title": "claude-code v2.1.317",
+ "summary_en": "What's changed Added a warning to /schedule when a new cloud scheduled task gets connectors you did not ask for, with how to remove them Added a check that asks before a web or shell tool call sends your account email address to the network Added onFailure: \"block\" for Agent SDK hook callbacks, so a callback that fails blocks the action instead of letting it run Added a notice in Claude Desktop's Code tab when your organization's remote managed settings haven't loaded for the session, and another once they do Added a notice when auto mode's check has no answer for a subagent's tool call…",
+ "title_mn": "claude-code v2.1.317 хувилбар шинэчлэлтүүд гарлаа",
+ "summary_mn": "Claude Code хэрэгслийн шинэ хувилбар гарч, Agent SDK дэгээний алдаа боловсруулалт болон OTel метрикэд нэмэлтүүд орлоо. Мөн зарим холболтын салгалт болон тохиргооны алдаануудыг засжээ.",
+ "body_mn": "Claude Code хэрэгслийн v2.1.317 хувилбар нь хөгжүүлэгчдийн ажлыг илүү хялбар, аюулгүй болгох олон шинэ боломж, засваруудыг багтаасан байна. Тухайлбал, шинээр үүсэх үед үл мэдэгдэх холбогч нэмэгдсэн тохиолдолд /schedule команд анхааруулга өгдөг болжээ.\n\nМөн Agent SDK дэгээний буцаалтад onFailure: \"block\" утгыг нэмснээр алдаа гарсан үед үйлдлийг зогсоох боломжтой болсон бөгөөд OpenTelemetry (OTel) метрик болон үйл явдлуудад анхааруулга болон хяналтын мэдээллүүд нэмэгдсэн байна.\n\nТүүнчлэн админуудад зориулсан Claude apps gateway API-д өртгийн тайлан урих боломж нэмэгдсэн нь хөгжүүлэгч болон байгууллагын зардлыг хянах боломжийг бүрдүүлжээ. Төслийн болон локал MCP серверүүд салгагддаг байсан зэрэг олон техникийн алдааг засжээ.",
+ "published": "2026-11-03T01:25:46Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

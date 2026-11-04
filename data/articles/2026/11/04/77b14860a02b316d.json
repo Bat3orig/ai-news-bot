@@ -1,0 +1,17 @@
+{
+ "id": "77b14860a02b316d",
+ "subtopic": "tailwind",
+ "source": "tailwindlabs/tailwindcss",
+ "source_label": "tailwindlabs/tailwindcss",
+ "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.3.4",
+ "image": "https://opengraph.githubassets.com/f028489a28d0dd4686437660cd182562dbd11515659d930c41e7d7cdbdc16145/tailwindlabs/tailwindcss/releases/tag/v4.3.4",
+ "title": "tailwindcss v4.3.4",
+ "summary_en": "Added Add @tailwindcss/turbopack , a Turbopack loader for using Tailwind CSS with Next.js ( #20367 ) Fixed Ensure watch mode detects changes to symlinked @source files whose real paths aren't otherwise scanned ( #20356 ) Ensure variants using @scope wrap generated utilities instead of nesting inside them ( #20369 ) Ensure nested @scope rules preserve their scoping semantics when flattened ( #20369 ) Preserve declarations directly inside @scope by wrapping them in :where(:scope) ( #20369 ) Ensure generated utilities include a space in empty var() fallbacks (e.g. var(--tw-blur,) →…",
+ "title_mn": "Tailwind CSS v4.3.4 гарлаа: Turbopack loader болон олон алдаа засав",
+ "summary_mn": "Tailwind CSS v4.3.4 хувилбарт Next.js-тэй ажиллах @tailwindcss/turbopack loader нэмэгдсэн. Мөн @scope, watch mode, canonicalization болон Ruby template-ийн олон алдааг засжээ. Өөрчлөлтүүд нь төслийн CSS-ийн найдвартай байдлыг сайжруулна.",
+ "body_mn": "Tailwind CSS v4.3.4 хувилбар гарсан бөгөөд шинэ онцлог болох @tailwindcss/turbopack нэмэгдлээ. Энэ нь Turbopack дээр суурилсан Next.js төсөлд Tailwind CSS-ийг холбох loader юм.\n\nЗасварын жагсаалт маш урт байна. @scope дотор utility-нүүд зөв ороож, nested @scope дүрмүүд flatten хийхэд scoping утгаа хадгалдаг болсон. Watch mode нь symlink хийгдсэн @source файлуудын өөрчлөлтийг илрүүлдэг болж, ignored хавтсуудыг алгасдаг болов.\n\nМөн canonicalization-д олон сайжруулалт орсон. Жишээ нь max-[64rem]:flex нь max-lg:flex болж хөрвөнө. Vite-ийн bundledDev горимд @tailwindcss/vite-ийн crash засагдсан, @tailwindcss/oxide native binding байхгүй платформ дээр WASM руу шилжих боломжтой болсон.\n\nRuby %w болон %W литерал, Slim, Haml template-ийн class илрүүлэлт сайжирсан. Хэрэв та эдгээр загваруудыг ашигладаг бол шинэчлэх нь зүйтэй.",
+ "published": "2026-11-02T21:16:50Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

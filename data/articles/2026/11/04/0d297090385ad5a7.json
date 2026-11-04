@@ -1,0 +1,17 @@
+{
+ "id": "0d297090385ad5a7",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+ "image": "",
+ "title": "Preparing our next security sprint to harden OpenAI",
+ "summary_en": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+ "title_mn": "OpenAI аюулгүй байдлаа сайжруулах зорилгоор шинэ спринт эхлүүлнэ",
+ "summary_mn": "OpenAI компани Cathedral Systems-тэй хамтран хиймэл оюун ашиглан дотоод хамгаалалтаа шалгаж, бэхжүүлэх аюулгүй байдлын спринтэд бэлтгэж байна.",
+ "body_mn": "OpenAI компани өөрийн дотоод аюулгүй байдлын системээ илүү найдвартай болгох зорилгоор шинэ удаагийн дотоод аюулгүй байдлын спринт зарлахаар бэлтгэж байна. Энэхүү ажилд Cathedral Systems компанитай хамтран ажиллаж байгаа аж.\n\nУг спринтийн хүрээнд хиймэл оюуны технологиудыг ашиглан компанийн хамгаалалтын систем дэх сул талуудыг илрүүлэх, бат бөх байдлыг шалгах сорилтуудыг хийх юм. Хиймэл оюуны загварууд өргөжихийн хэрээр аюулгүй байдлыг хангах нь OpenAI-ийн хувьд нэн тэргүүний зорилт болоод байна.",
+ "published": "2026-11-02T18:00:00Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

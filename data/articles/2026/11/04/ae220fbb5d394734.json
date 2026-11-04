@@ -1,0 +1,17 @@
+{
+ "id": "ae220fbb5d394734",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-cli-now-diagnoses-setup-problems-with-vercel-doctor",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4Qq1edetewS59zvCuHHGI0/d5787b9ebff64a8fdf4df5104f1a6a78/slack-imgs.jpg",
+ "title": "Diagnose Vercel CLI setup problems with vercel doctor",
+ "summary_en": "Vercel CLI now includes vercel doctor , which checks your setup and shows the command that fixes each problem it finds. It checks the CLI version and install, your login and current team, the project link, and your project configuration in vercel.json . It also reports active incidents from the Vercel status page. Each check reports OK, Warning, Failed, or Skipped. When vercel upgrade can't update the installed CLI, the install check shows where the CLI runs from and how to reinstall it. Doctor runs without a login or a linked project, and it never prompts, logs in, or links a project, so…",
+ "title_mn": "Vercel CLI-д vercel doctor нэмэгдэж, тохиргооны асуудлыг шалгана",
+ "summary_mn": "Vercel CLI-д vercel doctor команд нэмэгдсэн бөгөөд тохиргооны асуудал бүрт засах командыг харуулна. CLI хувилбар, нэвтрэлт, төслийн холбоос, vercel.json-ийг шалгаж, идэвхтэй incident-уудыг мэдээлнэ. Команд нэвтрэлтгүйгээр ажиллана.",
+ "body_mn": "Vercel CLI-д vercel doctor команд нэмэгдлээ. Энэ команд таны тохиргоог шалгаж, олдсон асуудал бүрт яг ямар команд ажиллуулахыг харуулна.\n\nШалгалт нь CLI-ийн хувилбар болон суулгалт, нэвтэрсэн эрх, одоогийн team, төслийн холбоос, vercel.json тохиргоог хамардаг. Мөн Vercel статусын хуудаснаас идэвхтэй incident-уудыг тайлагнана. Шалгалт бүр OK, Warning, Failed эсвэл Skipped статустай.\n\nЭнэ командыг нэвтрэлт эсвэл холбосон төсөлгүйгээр ажиллуулж болно. Мөн асуулт асуух эсвэл нэвтрэх шаардлагагүй тул coding agent-ууд засварын санал болгохоосоо өмнө ашиглах боломжтой. --json флаг ашиглавал статус болон санал болгох командуудыг бүтэцлэгдсэн байдлаар авна.\n\nCLI-ээ шинэчилж, vercel doctor-ыг ажиллуулаарай. Дэлгэрэнгүйг команд тайлбарын баримтаас үзнэ үү.",
+ "published": "2026-11-03T00:00:00Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

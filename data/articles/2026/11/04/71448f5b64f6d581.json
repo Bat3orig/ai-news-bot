@@ -1,0 +1,17 @@
+{
+ "id": "71448f5b64f6d581",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
+ "image": "https://opengraph.githubassets.com/91b70c277489e659a73c35ec4dfce8e21020afababba65c7ca91ebcc0eaec4e7/ollama/ollama/releases/tag/v0.40.14",
+ "title": "ollama v0.40.14",
+ "summary_en": "What's Changed ollama launch claude now applies the model's output token limit for Claude Code, so cloud models no longer run into the 128k default cap Cloud web search responses on /api/chat are now decoded correctly, including compressed responses OpenAI-compatible endpoints no longer override a model's packaged sampler defaults — clients that send no temperature / top_p get the model's own values instead of 1.0, matching /api/chat /v1/responses now preserves readable input content, including prior assistant refusals, instead of flattening it Ollama's app can now retry ChatGPT disconnect…",
+ "title_mn": "Ollama v0.40.14 хувилбар шинэ боломжуудтайгаар гарлаа",
+ "summary_mn": "Ollama v0.40.14 шинэчлэлтээр Claude Code-ын гаратын токений хязгаарлалтыг зөв тохируулж, вэб хайлтын хариуг зөв задлах болон OpenAI-тэй нийцтэй төгсгөлүүдийг сайжруулжээ.",
+ "body_mn": "Ollama хэрэгслийн v0.40.14 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон чухал сайжруулалтыг хийсэн байна. Тухайлбал, ollama launch claude команд нь Claude Code-д зориулсан загварын гаратын токений хязгаарлалтыг зөв хэрэглэх болсноор үүлэн загварууд үндсэн 128k хязгаарлалтад орохгүй ажиллах боломжтой болжээ.\n\nМөн /api/chat дахь үүлэн вэб хайлтын хариуг шахсан өгөгдлийг оруулаад зөв задлах чадвартай болсон байна. OpenAI-тэй нийцтэй төгсгөлүүд нь үсрэх утга буюу temperature/top_p тохиргоог хүчингүй болгохгүйгээр загварын өөрийн утгыг хадгалдаг болжээ.\n\nҮүнээс гадна ollama launch codex нь холболтыг шалгах боломжтой болж, MLX дээрх том үгсийн санд зориулсан top-k sampling илүү хурдан ажиллах зэрэг техникийн засварууд орсон байна.",
+ "published": "2026-11-03T06:57:31Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "99f7db01bdd03623",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1IoboBwC3DnGoXO3oJP6uL/a40f3e85d6916d79244a3cd028940345/image__62_.png",
+ "title": "Projects can now be configured with vercel.toml",
+ "summary_en": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it supports comments and has a flatter structure. All projects can now use vercel.toml . Use only one project configuration file: vercel.toml, vercel.json, or vercel.ts. For example, configuring Services : Read the documentation . Read more",
+ "title_mn": "Vercel одоо төслийн тохиргоог vercel.toml файлаар хийх боломжтой боллоо",
+ "summary_mn": "Vercel төслийн тохиргоог TOML форматаар бичих vercel.toml файлыг дэмжиж эхэллээ. Бүх тохиргооны параметр vercel.json-тай адил дэмжигдэх ба comment бичих боломжтой. Төсөлд зөвхөн нэг тохиргооны файл ашиглах шаардлагатай.",
+ "body_mn": "Vercel одоо төслийн тохиргоог TOML форматаар бичих vercel.toml файлыг дэмжиж эхэллээ. Энэ файлд vercel.json-ийн бүх тохиргооны параметр дэмжигдэх бөгөөд бүтэц нь илүү хялбар, хавтгай байдалтай.\n\nTOML нь comment бичих боломжтой тул тохиргоонд тайлбар нэмэх шаардлагатай хөгжүүлэгчдэд ашигтай. JSON-д comment бичих боломжгүй байсан нь хамгийн том хязгаарлалт байсан.\n\nБүх төсөлд vercel.toml ашиглах боломжтой болсон. Харин нэг төсөлд зөвхөн нэг тохиргооны файл байх ёстой: vercel.toml, vercel.json эсвэл vercel.ts. Хоёр файл зэрэг байвал аль нь ашиглагдахаа тодорхой болгох хэрэгтэй.\n\nОдоо байгаа vercel.json-оо шилжүүлэхгүй бол юу ч өөрчлөгдөхгүй. Шинэ төсөлдөө илүү цэвэрхэн тохиргоо хийхийг хүсвэл TOML-г сонгож болно.",
+ "published": "2026-11-02T21:00:00Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

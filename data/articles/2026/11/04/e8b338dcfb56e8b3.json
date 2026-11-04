@@ -1,0 +1,17 @@
+{
+ "id": "e8b338dcfb56e8b3",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4SEIitysI8PoSbaUzkM1Vp/03d93d5b7dc657382a57d4b81960de98/image__59_.png",
+ "title": "Flags Explorer redesigned for easier override sharing",
+ "summary_en": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever a branch has overrides set, they will be recommended to teammates visiting the deployment through a dialog. Flags Explorer is available on all plans. Read the documentation to get started. Read more",
+ "title_mn": "Vercel Flags Explorer илүү хялбар болж шинэчлэгдл",
+ "summary_mn": "Vercel Toolbar дахь Flags Explorer хэрэгсэл шинэчлэгдэж, багийн гишүүдтэй override хуваалцах боломж сайжирлаа.",
+ "body_mn": "Vercel компани Vercel Toolbar дотор ажилладаг Flags Explorer хэрэгслээ дахин загварчилж, хөгжүүлэгчдэд илүү хялбар болголоо. Шинэ интерфейс нь override утгууд, салбарын зөвлөмжүүд болон холбогдох үйлдлүүдийг нэг дор төвлөрүүлжээ.\n\nЯмар нэгэн салбар дээр override утгууд тохируулагдсан үед уг deployment дээр зочилж буй багийн гишүүдэд автоматаар зөвлөмж харуулах юм. Энэхүү хэрэгсэл нь бүх план дээр ямар нэгэн нэмэлт төлбөргүйгээр ажиллах ба хөгжүүлэгчдэд флагауудыг шалгах, багтайгаа хуваалцахыг хялбар болгож байна.",
+ "published": "2026-11-02T16:58:00Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

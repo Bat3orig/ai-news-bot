@@ -1,0 +1,17 @@
+{
+ "id": "bca108e4c77bd86b",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+ "image": "",
+ "title": "Rewarding defenders with bigger bug bounties",
+ "summary_en": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+ "title_mn": "OpenAI алдаа илрүүлэгчдийн урамшууллыг нэмэгдүүллээ",
+ "summary_mn": "OpenAI Security Bug Bounty хөтөлбөрийн шагналыг өсгөж, хараат бус судлаачдад зориулсан шинэ урамшуулал нэмл.",
+ "body_mn": "OpenAI компани платформынхоо аюулгүй байдлыг сайжруулахад хувь нэмэр оруулж буй хараат бус судлаачдад олгодог Security Bug Bounty хөтөлбөрийн урамшууллаа нэмэгдүүллээ.\n\nШинэ өөрчлөлтөөр тайлангийн чанар, үнэнч байдал болон тэргүүлэх ач холбогдол бүхий кампанит ажлын урамшууллуудыг нэмж өгсөн байна. Энэ нь илүү олон туршлагатай аюулгүй байдлын судлаачдыг OpenAI-ийн систем дэх эмзэг байдлыг илрүүлэхэд татан оролцуулах зорилготой юм.",
+ "published": "2026-11-02T18:00:00Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

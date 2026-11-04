@@ -1,0 +1,17 @@
+{
+ "id": "9f8ab173fb9513a1",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/how-mercor-ships-internal-apps-and-billions-of-production-tokens-on-one-platform",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5vGpD5V08d8nBJdtHDny9Y/8b374ea52dff57e94f7de466a46466bf/customer_story_og_card_og_card__1_.jpg",
+ "title": "How Mercor ships internal apps and billions of production tokens on one platform",
+ "summary_en": "Mercor on Vercel Batch jobs cut from 12 hours to 2 hours 18M requests and 63B tokens routed through AI Gateway in 10 days Expert access provisioned in seconds via Vercel Passport Over 2,000 projects created by hundreds of internal builders Mercor connects hundreds of thousands of domain experts with frontier AI labs, helping those labs generate the human data they need to train and evaluate leading models. It also runs large batches of automated grading jobs to evaluate models for labs and enterprises. Demand arrives in bursts that can push model traffic to peak capacity for days, even as…",
+ "title_mn": "Mercor компани Vercel AI Gateway ашиглан хэдэн тэрбум токен удирдав",
+ "summary_mn": "Mercor компани Vercel AI Gateway болон Passport ашиглан 10 хоногийн дотор 63 тэрбум токен удирдан чиглүүлж, загварын хурд болон аюулгүй байдлаа сайжруулжээ.",
+ "body_mn": "Хиймэл оюун ухааны лабораториудад экспертүүдийг холбож өгдөг Mercor компани Vercel AI Gateway болон Vercel Passport үйлчилгээг ашиглан өөрсдийн инженерчлэл болон аюулгүй байдлын дэд бүтцээ өргөжүүлжээ. Тэд эхний 10 хоногт л гэхэд 18 сая хүсэлт, 63 тэрбум токенийг ямар нэгэн хязгаарлалтад оролгүйгээр AI Gateway-ээр дамжуулан боловсруулсан байна.\n\nӨмнө нь олон төрлийн үйлчилгээ ашигладаг байсан нь хэрэглээний хязгаарлалт болон хүлээлт үүсгэж, багцуудыг боловсруулахад удаашруулдаг байжээ. Харин AI Gateway-ийн failover буюу урсгал чиглүүлэлтийн ачаар энэ асуудал шийдвэрлэгдэж, ажлын цаг эрс багассан байна.\n\nМөн Mercor-ын олон зуун инженерүүд хувийн түлхүүр, дуусах хугацаа болон токений хязгаарлалт бүхий open-source загваруудыг ашиглаж эхэлжээ. Энэ нь аюулгүй байдлыг хангахын зэрэгцээ дотоод багуудад шаардлагатай аппликейшнүүдийг хурдан бүтээх боломжийг олгож байна.",
+ "published": "2026-11-03T04:00:00Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

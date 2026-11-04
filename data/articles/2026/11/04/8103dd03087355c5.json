@@ -1,0 +1,17 @@
+{
+ "id": "8103dd03087355c5",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2fotrc5UJPrkkjsZ2CgGTB/87ba10c986cac5016159241ce304c8c0/image__13_.png",
+ "title": "Evaluate Vercel Flags from another project without sharing SDK keys.",
+ "summary_en": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployment’s identity. For local development, vercel env pull retrieves your project’s OIDC token. Manage access from the Connections page under your project's Flags section, or with vercel flags connections in the CLI. Connections grant read-only access across all environments. The…",
+ "title_mn": "Vercel Flags-д Project Connections боломж нэмэгдл",
+ "summary_mn": "Vercel Flags нь өөр төслийн флагуудыг SDK түлхүүргүйгээр ашиглах Project Connections боломжийг танилцууллаа.",
+ "body_mn": "Vercel компани хөгжүүлэгчдэд зориулсан Project Connections шинэ боломжийг гаргалаа. Энэ нь аппликейшнүүдэд нэг багийн хүрээнд өөр Vercel төсөлд тодорхойлогдсон флагаудыг сервер SDK түлхүүрийг гар аргаар удирахгүйгээр үнэлэх боломжийг олгодог.\n\nӨмнө нь төслүүд хоорондох флаг хуваалцахын тулд серверийн SDK түлхүүрийг орчны хувьсагч руу хуулж, гараар шинэчлэх шаардлагатай байсан бол одоо байршуулалтынхаа identity буюу баталгаажуулалтаар дамжин ажиллах юм. Орон нутгийн хөгжүүлэлтийн үед vercel env pull команд нь төслийн OIDC токенийг татаж авдаг байна.\n\nХандалтын эрхийг төслийн Flags хэсгээс эсвэл CLI ашиглан удирдахад хялбар бөгөөд бүх төлөвлөгөөний хүрээнд ашиглах боломжтой. Энэхүү шинэ боломжийг ашиглахын тулд @flags-sdk/vercel 1.6.0 эсвэл @vercel/flags-core 1.11.0 болон түүнээс дээш хувилбарыг ашиглах шаардлагатай.",
+ "published": "2026-11-02T16:00:00Z",
+ "added": "2026-11-04T14:58:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
