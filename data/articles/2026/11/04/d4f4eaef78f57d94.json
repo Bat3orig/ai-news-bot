@@ -1,0 +1,17 @@
+{
+ "id": "d4f4eaef78f57d94",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Qazinform",
+ "url": "https://qazinform.com/news/alibabas-qwen-ai-to-be-integrated-into-apple-intelligence-in-major-partnership-ff0fac",
+ "image": "https://img.inform.kz/kazinform-photobank/media/2025-02-24/9e267681-1b1c-4bac-94e1-a1f8af8c3804.jpeg",
+ "title": "Alibaba’s Qwen AI to be integrated into Apple Intelligence in major partnership",
+ "summary_en": "Chinese tech giant Alibaba Group announced a partnership with Apple on Saturday to integrate its Qwen AI model into Apple Intelligence, Xinhua reported.",
+ "title_mn": "Apple Intelligence Хятад улсад Alibaba-гийн Qwen загвараар ажиллахаар болжээ",
+ "summary_mn": "Apple компани Хятад дахь хэрэглэгчдэд зориулсан Apple Intelligence системдээ Alibaba-гийн Qwen AI загварыг нэгтгэхээр болсноо зарлалаа. Энэхүү боломж арванхоёрдугаар сард албан ёсоор гарах бөгөөд хөгжүүлэгчид ноябрерын 4-нөөс туршиж эхлэх боломжтой.",
+ "body_mn": "Хятадын технологийн аварга Alibaba Group компани Apple-тай хамтран Qwen хиймэл оюун ухааны загвараа Apple Intelligence системд нэгтгэх болсноо албан ёсоор мэдэгдлээ. Энэхүү шийдэл нь Хятад дахь хэрэглэгчдэд Siri, Writing Tools болон Visual Intelligence зэрэг үйлдлийн системийн үндсэн хэсгүүдээр дамжуулан Qwen-ийн текст болон зураг ойлгох, контент бүтээх чадваруудыг ашиглах боломжийг олгох ажээ.\n\nШинэ функц нь арванхоёрдугаар сард гарах iOS 27.3 шинэчлэлтийн үеэр Хятадын хэрэглэгчдэд хүрэх ба хөгжүүлэгчид ноябрерын 4-нөөс эхлэн developer beta хувилбараар туршиж эхлэх боломжтой юм. Хэрэглэгчид Qwen интеграцийг ашиглах эсэхээ өөрсдөө сонгох ба Alibaba хэрэглэгчийн хүсэлт болон хариултыг загварын сургалтанд ашиглахгүй гэдгээ баталжээ.\n\nЭнэхүү алхам нь Хятадын хууль тогтоомжийн дагуу гадаадын компаниуд дотоодын түншүүдтэй хамтран хиймэл оюун ухааны үйлчилгээ үзүүлэх шаардлагатай холбоотой юм. Apple Intelligence-ийг ашиглахын тулд хэрэглэгч Хятадад худалдаж авсан iPhone төхөөрөмжтэй байх эсвэл бүс нутгийн тохиргоогоо Хятад болгосон байх шаардлагатай.",
+ "published": "2026-11-01T22:12:14Z",
+ "added": "2026-11-04T00:18:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

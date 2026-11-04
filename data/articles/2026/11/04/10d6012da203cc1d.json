@@ -1,0 +1,17 @@
+{
+ "id": "10d6012da203cc1d",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "News Mobile",
+ "url": "https://www.newsmobile.in/artificial-intelligence-ai/elon-musk-says-grok-bot-is-too-expensive-to-run-defends-strict-usage-limits/",
+ "image": "https://www.newsmobile.in/wp-content/uploads/2026/10/Elon-Musk-X.png",
+ "title": "Elon Musk Says Grok Bot Is Too Expensive To Run, Defends Strict Usage Limits",
+ "summary_en": "Elon Musk has said that operating xAI’s Grok Bot is costing more than the revenue it generates, describing the current financial model as unsustainable. His remarks come as several X Premium subscribers report reaching their usage limits much faster than usual. Musk made the comments in response to an X user, ‘DogecoinNorway’, who requested a […]",
+ "title_mn": "Илон Маск Grok Bot-ийн үйл ажиллагааны зардал хэт өндөр байгааг мэдэгдэв",
+ "summary_mn": "xAI компанийн Grok Bot-ийг ажиллуулах зардал олж буй орлогоороо нөхөгдөхгүй хэмжээнд хүрсэн тул хэрэглээний хязгаарлалтыг чангатгаж байгааг Илон Маск мэдэгдлээ. Энэ нь төлбөртэй хэрэглэгчдийн квот хурдан дуусахад хүргэж байна.",
+ "body_mn": "xAI компанийн бүтээсэн Grok Bot туслахыг ажиллуулах зардал түүний үүсгэж буй орлогоос давж, санхүүгийн хувьд тогтворгүй загвартай болсныг үүсгэн байгуулагч Илон Маск хүлээн зөвшөөрөв. Энэхүү мэдэгдэл нь X Premium үйлчилгээний хэрэглэгчид өнгөрсөн долоо хоногт ашиглалтын квотоа ердийнхөөс хамаагүй хурдан шавхаж дуусгасан талаар гомдол гаarkiсны дараа гарсан байна.\n\nGrok Bot нь нарийн төвөгтэй даалгавруудыг гүйцэтгэх, X платформтой нягт уялдаатай ажиллахын тулд асар их тооцоолох хүчин чадал болон өндөр өртөгтэй сервер дэд бүтцийг шаарддаг. Одоогоор 800,000 орчим төлбөртэй хэрэглэгчтэй байгаа хэдий ч дэд бүтцийн өндөр зардал нь компанид томоохон дарамт учруулж байгаа ажээ.\n\nҮүнтэй холбоотойгоор тооцооллын зарidлыг хяналтандаа байлгахын тулд xAI илүү чанга хязгаарлалт тогтоож магадгүй байна. OpenAI зэрэг бусад хиймэл оюун ухааны компаниуд ч мөн дэвшилтэт загваруудынхаа хандалтад тодорхой хязгаар тогтоож эхэлсэн билээ.",
+ "published": "2026-11-02T07:25:03Z",
+ "added": "2026-11-04T00:18:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

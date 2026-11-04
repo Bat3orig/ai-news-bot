@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "e47f94e758bf2253",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Step Security",
-   "url": "https://www.stepsecurity.io/blog/claude-code-extension-trojanized",
-   "image": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6ae66b888f75918994145b81_6ae66ae85f4020f3084dcbbb_claude-code-cover-cursor-marketplace-final.png",
-   "title": "Trojanized Claude Code Extension Delivered Persistent SSH Backdoor to Developer Machines",
-   "summary_en": "On October 29, 2026, trojanized builds (2.1.312 and 2.1.313) of the official Claude Code VS Code extension were published to Cursor's VS Code Extension Marketplace for macOS and Windows.",
-   "title_mn": "Claude Code VS Code өргөтгөлийн хортой хувилбар хэрэглэгчийн компьютерт SSH хаалга нээжээ",
-   "summary_mn": "Step Security-ийн мэдээлснээр Claude Code VS Code өргөтгөлийн 2.1.312 болон 2.1.313 хувилбарыг Cursor-ийн маркетплэйсд хортой ачаалагчтай хуурамчаар нийтэлжээ. Anthropic энэ хувилбарыг өөрсдөө гаргаагүй гэж мэдэгдэв.",
-   "body_mn": "Step Security судалгааны багийн мэдээлснээр 2026 оны 10-р сарын 29-нд Claude Code VS Code өргөтгөлийн 2.1.312 болон 2.1.313 хувилбарууд Cursor-ийн VS Code Extension Marketplace дээр macOS болон Windows системд зориулан нийтлэгдсэн байна. Хуурамч хувилбар нь extension.js файлд нэмэлт ачаалагчтай бөгөөд хэрэглэгчийн компьютерт Node.js орчинд ажиллаж, SSH нэвтрэлт болон тунneлийн холболт үүсгэх боломжтой байжээ.\n\nAnthropic хариуд нь зарим асуудлыг баталсан ч өөрсдийн систем, ажилчдын компьютер болон албан ёсны түгээлтийн суваг халдлагад өртөөгүй гэжээ. Харин хуурамч хувилбарыг маркетплэйсээр дамжуулан нийтэлсэн гэж үзэж байна. Өргөтгөлийн 2.1.312 эсвэл 2.1.313 хувилбар суулгасан нь автоматаар компьютер халдлагад өртсөн гэсэн үг биш ч шалгалт хийх шаардлагатай.\n\nХөгжүүлэгчдэд энэ нь IDE өргөтгөл болон маркетплэйсийн эх сурвалжийг шалгах, хувилбарын хэш болон суулгасан хугацааг хянах шаардлагатайг сануулж байна. Хэрэв эдгээр хувилбарыг суулгасан бол системээ шалгаж, шинэ баталгаатай хувилбарт шинэчлэх нь зүйтэй.",
-   "published": "2026-10-30T09:23:05Z",
-   "added": "2026-11-01T16:58:36Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "45cff9e4773eb645",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.9.0",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.9.0",
-   "summary_en": "v14.9.0",
-   "title_mn": "Motion санд v14.9.0 хувилбар гарлаа",
-   "summary_mn": "Motion (өмнө нь Framer Motion) анимейшний сангийн v14.9.0 хувилбар гарсан байна. Хувилбарын дэлгэрэнгүй тэмдэглэл эх сурвалжид тодорхой бус байна.",
-   "body_mn": "Motion анимейшний сангийн шинэ хувилбар v14.9.0 гарсан тухай GitHub-ийн релизийн мэдээлэл ирлээ. Энэ хувилбар нь өмнөх v14.8.0 хувилбарын дараах шинэчлэл юм.\n\nЭх сурвалжид зөвхөн хувилбарын дугаар байгаа тул шинэ функц, засвар, өөрчлөлтийн талаар дэлгэрэнгүй мэдээлэл байхгүй байна. Хөгжүүлэгчид бүрэн өөрчлөлтийн жагсаалтыг GitHub дээрх релизийн тэмдэглэлээс шалгах шаардлагатай.\n\nMotion-ийг React болон бусад интерфейсийн төслүүдэд ашигладаг тул шинэ хувилбар суулгахаасаа өмнө хувилбарын тэмдэглэл болон гаралтын өөрчлөлтийг шалгах нь зүйтэй.",
-   "published": "2026-10-30T10:22:53Z",
-   "added": "2026-11-01T16:58:36Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "68e46c97cf014f43",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/introducing-geist-serif",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6bDBfXkLRo6M3mICMM4ATR/ee7c5e191b54862dbc8d351b782344c3/Geist_Serif_Blog_OG_15.png",
-   "title": "Introducing Geist Serif",
-   "summary_en": "Geist started as a monospace typeface for developers, built for the editors and terminals where they spend their day doing their work. From there it grew into Geist Sans for product interfaces, and then into Geist Pixel, which was inspired by the grids of early computer screens. Today, we're adding a new member to the family: Geist Serif . Geist Serif is a high-contrast display serif built on the same foundations as Geist Sans, Geist Mono, and Geist Pixel. It has fine, saw-toothed serifs and sharp hairlines, and it was drawn to communicate messages powerfully both in the physical world and…",
-   "title_mn": "Vercel Geist Serif нэртэй шинэ serif фонтыг танилцуулав",
-   "summary_mn": "Vercel Geist фонтын гэр бүлд Geist Serif нэртэй өндөр контрастын serif фонтоо нэмлээ. Фонт нь Geist Sans-тэй ижил cap height болон x-height-тай, дэлгэцэнд зориулагдсан.",
-   "body_mn": "Vercel өөрийн Geist фонтын гэр бүлд Geist Serif нэртэй шинэ өндөр контрастын display serif фонтыг нэмлээ. Фонт нь Geist Sans, Geist Mono, Geist Pixel-тэй ижил суурь дээр бүтсэн бөгөөд толгой гарчиг, постер болон том хэмжээний текстэнд зориулагдсан.\n\nКомпанийн мэдээлснээр фонтын нарийн тоо нь өмнөхөөс 50 хувиар нимгэн болгосон бөгөөд дэлгэцийн өндөр нягтралд тохируулсан. Мөн Element Shape (ELSH) гэсэн variable тэнхлэгтэй бөгөөд дөрвөн хувилбартай: дугуй, квадрат, гурвалжин болон зүрхэн хэлбэр. Фонт нь 894 glyph-тэй, 352 Латин үсгийн хэлийг дэмждэг.\n\nХөгжүүлэгчдэд Geist Sans-тэй ижил өндөрт байдаг тул layout-д өөрчлөлт оруулахгүйгээр ашиглах боломжтой. Вэб дээр ашиглахдаа font-variation-settings-ээр хувилбараа сонгож болно. Энэ нь дизайн системд нэмэлт сонголт бөгөөд шууд техникийн шинэ функц биш юм.",
-   "published": "2026-10-30T13:00:00Z",
-   "added": "2026-11-01T16:58:36Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5c0d34ffbd772c75",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "BleepingComputer",
-   "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-   "image": "https://www.bleepstatic.com/content/hl-images/2026/10/30/claude-code-attack.jpg",
-   "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-   "summary_en": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors.",
-   "title_mn": "Cursor-ийн зах зээл дэх Claude Code өргөтгөлөөс хортой SSH backdoor илрэв",
-   "summary_mn": "Cursor редакторын өргөтгөлийн зах зээл дээр Anthropic-ийн Claude Code-ийн хортой хувилбар байршиж, хөгжүүлэгчдийн системд SSH backdoor суулгах оролдлого хийжээ. Уг халдлага нь ойролцоогоор 5,000 хөгжүүлэгчид нөлөөлсөн байна.",
-   "body_mn": "Аравдугаар сарын 29-ний өдөр Cursor редактор дээр суурилсан Anthropic-ийн Claude Code VS Code өргөтгөлийн хортой хувилбар тархаж, 5,000 орчим хөгжүүлэгчийг хортой программ хангамжид өртөх эрсдэлд оруулжээ. Уг хортой өргөтгөл нь 2.1.313 хувилбарын дугаартайгаар 11 цагийн турш татагдах боломжтой байсан байна.\n\nCursor болон аюулгүй байдлын судлаачдын мэдээлснээр, хакерууд өргөтгөлийн үндсэн файл дээр JavaScript ачаалагч нэмж оруулсан бөгөөд энэ нь хэрэглэгч ямар нэгэн үйлдэл хийх шаардлагагүйгээр автоматаар ажиллаж эхэлдэг байжээ. Суулгасны дараа хортой код нь систем дээр байнгын SSH backdoor суулгах, систем болон хэрэглэгчийн мэдээллийг цуглуулах оролдлого хийсэн байна.\n\nГэсэн хэдий ч код бичих явцад гарсан зарим алдаанаас шалтгаалж хакерууд macOS болон Windows системүүдэд алсаас хандах боломжийг бүрэн авч чадаагүй байна. Тухайлбал, macOS дээр администраторын эрхгүйгээр командууд ажилласан бол Windows дээр Unix төрлийн shell ашиглах гэж оролдсоноор SSH сервер асалт бүтэлгүйтжээ.\n\nХэдийгээр SSH backdoor амжилтгүй болсон ч хортой программ нь хэрэглэгчийн нэр, хост нэр, публик IP хаяг, Git имэйл болон орчны хувьсагчдын мэдээллийг халдагчдын сервер рүү илгээсэн байна. Cursor компани уг өргөтгөлийг даруй устгаж, зах зээлээ түр хугацаагаар хаан шалгалт хийсэн бөгөөд Anthropic энэ нь тэдний системд халдсан зөрчил биш болохыг мэдэгджээ.",
-   "published": "2026-10-30T14:36:54Z",
-   "added": "2026-11-01T20:58:22Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "63355a9062062e2e",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Techzine Global",
-   "url": "https://www.techzine.eu/news/security/145428/malicious-claude-code-extension-in-cursor-installs-ssh-backdoor/",
-   "image": "",
-   "title": "Malicious Claude Code extension in Cursor installs SSH backdoor",
-   "summary_en": "",
-   "title_mn": "Cursor дээрх хортой Claude Code өргөтгөл SSH backdoor суулгажээ",
-   "summary_mn": "Techzine Global-ын мэдээгээр Cursor дээрх хуурамч Claude Code өргөтгөл хөгжүүлэгчийн компьютерт SSH backdoor суулгасан байна. Claude Code-ын нэрийг ашигласан хортой өргөтгөлөөс анхаарна уу.",
-   "body_mn": "Techzine Global сайтын мэдээлэлд дурдснаар Cursor редактор дээр Claude Code нэрээр тарсан хортой өргөтгөл хөгжүүлэгчийн машинд SSH backdoor суулгасан байна. Мэдээний текст богино тул халдлагын дэлгэрэнгүй арга зам, хохирол болон хэрэглэгчдийн тоо тодорхойгүй байна.\n\nХөгжүүлэгчдэд энэ нь чухал анхааруулга юм. Өргөтгөл суулгахдаа хэвлэгчийг шалгах, албан ёсны эх сурвалжаас татах, шинэ өргөтгөлийн эрхүүдийг анхааралтай харах шаардлагатай. Ялангуяа AI кодын туслахтай холбоотой өргөтгөлүүд нь хэрэглэгчийн файл, SSH түлхүүртэй ажиллах эрхтэй байж болох тул эрсдэл өндөр.",
-   "published": "2026-10-30T16:26:55Z",
-   "added": "2026-11-01T20:58:22Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "48f6296069243aa6",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v45.2.0",
-   "image": "https://opengraph.githubassets.com/daca29a59f9ec8a64cfbcc941019e2b1a5c0b3be0e32265f4082e6d199a1a75c/electron/electron/releases/tag/v45.2.0",
-   "title": "electron v45.2.0",
-   "summary_en": "Release Notes for v45.2.0 Features Added Menu.setHighlightColors() to set menu highlight colors on Windows. #55493 (Also in 46 ) Added support for chrome.storage.sync in extensions. It behaves as a second local storage area with Chrome's sync quotas; there is no cross-device sync. #55253 Fixes Fixed DevTools \"Save\" prompting for a location every time instead of reusing the previously chosen file. #55485 Fixed DevTools \"Save As\" using the old file and Linux cancels treated as saved. Fixed fractional opacity being truncated in window.open feature strings. #55499 (Also in 46 ) Fixed…",
-   "title_mn": "Electron v45.2.0 хувилбар шинэ боломжууд болон зассуудтайгаар гарлаа",
-   "summary_mn": "Electron v45.2.0 хувилбар гарч, Windows дээр цэгийн тодруулгын өнгө тохируулах Menu.setHighlightColors() функцийг нэмж, chrome.storage.sync-ийг дэмждэг боллоо. Мөн хөгжүүлэгчдэд зориулсан олон алдааг засаж, гүйцэтгэлийг сайжруулсан байна.",
-   "body_mn": "Electron хүрээний шинэ v45.2.0 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон шинэ боломж болон алдааны засваруудыг авчирлаа. Энэхүү хувилбарт Windows үйлдвэрийн систем дээрх цэгийн тодруулгын өнгийг гараар тохируулах боломжийг олгох Menu.setHighlightColors() функц нэмэгдсэн байна.\n\nҮүнээс гадна өргөтгөлүүдэд зориулж chrome.storage.sync дэмжлэг нэмэгдсэн бөгөөд энэ нь Chrome хөтчийн синхрончлолын квотын дагуу хоёр дахь орон нутгийн хадгалах сан хэлбэрээр ажиллах юм. Гэхдээ төхөөрөмж хоорондын шууд синхрончлол хийгдэхгүй гэдгийг анхаарах хэрэгтэй.\n\nШинэ хувилбарт DevTools-ийн \"Save\" болон \"Save As\" үйлдлүүдийн файлыг хадгалах явц дахь алдаануудыг зассан байна. Мөн body хэсэггүй net.fetch() хүсэлтүүд болон файл руу хандсан net.fetch() дуудлагуудын гүйцэтгэл мэдэгдэхүйц сайжиржээ.\n\nТехникийн хувьд Chromium, Dawn, Skia болон V8 хөдөлгүүрүүдийн өмнөх хувилбаруудын зассуудыг энэхүү шинэчлэлтэд нэгтгэсэн бөгөөд хөгжүүлэгчид төслөө шинэчлэхэд илүү тогтвортой орчин бүрдэх юм.",
-   "published": "2026-10-30T17:34:55Z",
-   "added": "2026-11-01T20:58:22Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2670478d7922e418",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Startup Fortune",
-   "url": "https://startupfortune.com/anthropic-quadruples-claude-api-request-cap-to-128-mb-from-32-mb/",
-   "image": "https://startupfortune.com/wp-content/uploads/2026/10/anthropic-claude-api-computer-use.jpg",
-   "title": "Anthropic quadruples Claude API request cap to 128 MB from 32 MB",
-   "summary_en": "Anthropic raised the Claude API's Messages and Token Counting request cap from 32 MB to 128 MB, fixing a payload limit that throttled computer-use agents.",
-   "title_mn": "Anthropic Claude API-ийн хүсэлтийн хэмжээний хязгаарыг 128 MB болгон нэмэгдүүлэв",
-   "summary_mn": "Anthropic компани Claude API-ийн Messages болон Token Counting эндпойнтуудын хүсэлтийн хэмжээний хязгаарыг 32 MB-аас 128 MB болгож 4 дахин өсгөв. Энэ нь олон зураг, баримт агуулсан агент даалгавруудыг саадгүй ажиллуулах боломж олгоно.",
-   "body_mn": "Anthropic компани Claude API-ийн Messages болон Token Counting эндпойнтуудын хүсэлтийн дээд хэмжээг 32 MB-аас 128 MB болгон дөрөв дахин өсгөснөө зарлалаа. Өмнө нь хөгжүүлэгчид загварын контекст цонхны хязгаартаа хүрээгүй байсан ч HTTP хүсэлтийн payload хэмжээ хэтэрснээс болж 413 алдаатай тогтмол тулгардаг байсан юм.\n\nЭнэхүү хязгаарлалт нь ялангуяа компьютерын дэлгэцийн олон зураг (screenshot) дараалан авдаг agent системүүд болон том хэмжээтэй PDF файлуудтай ажиллахад хүндрэл үүсгэдэг байв. Файлуудыг Base64 хэлбэрээр кодлоход анхны хэмжээнээсээ ойролцоогоор 33 хувиар томордог тул 24 MB хэмжээтэй PDF файл гэхэд л хуучин 32 MB-ын босгыг хялбархан давж байжээ.\n\nШинэчлэлт хийгдсэнээр хөгжүүлэгчид зураг болон баримт ихтэй хүсэлтүүдийг олон хуваах шаардлагагүйгээр нэг дуудалтаар Claude-д дамжуулах боломжтой боллоо. Одоогоор Files API-ийн хязгаар 500 MB, харин Message Batches API-ийнх 256 MB хэвээр үлдэж байна.",
-   "published": "2026-10-30T01:37:32Z",
-   "added": "2026-11-02T00:20:33Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5cb227db0b570e37",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v43.8.5",
-   "image": "https://opengraph.githubassets.com/d5a05cfb24a6f3c88af5c385d217199d2989d96547523aae8079f2581261d92d/electron/electron/releases/tag/v43.8.5",
-   "title": "electron v43.8.5",
-   "summary_en": "Release Notes for v43.8.5 Fixes Fixed a crash on Linux when a D-Bus method call was made on a disconnected bus. #55291 (Also in 44 , 45 , 46 ) Performance Improvements Improved performance of net.fetch() requests without a body. #55447 (Also in 44 , 45 , 46 ) Other Changes Backported fixes from upstream Chromium, Dawn, Skia and V8. #55495",
-   "title_mn": "Electron v43.8.5 хувилбар гарлаа",
-   "summary_mn": "Electron v43.8.5 хувилбарт Linux дээр D-Bus холболт тасрах үеийн гацалтыг засаж, net.fetch() хүсэлтийн гүйцэтгэлийг сайжруулав.",
-   "body_mn": "Electron фрэймворкийн v43.8.5 шинэчлэлт гарлаа. Энэхүү засварын хувилбарт хэд хэдэн тогтвортой ажиллагаа болон гүйцэтгэлийн асуудлуудыг шийдвэрлэсэн байна.\n\nГол өөрчлөлтүүдээс дурдвал Linux орчинд салгагдсан bus дээр D-Bus method дуудах үед аппликейшн шууд гацдаг байсан алдааг бүрэн засав. Мөн бие буюу body агуулаагүй net.fetch() хүсэлтүүдийн ажиллагааны хурд болон гүйцэтгэлийг мэдэгдэхүйц сайжруулсан байна.\n\nТүүнчлэн upstream эх сурвалжууд болох Chromium, Dawn, Skia болон V8 хөдөлгүүрийн сүүлийн үеийн чухал засваруудыг тус хувилбарт нөхөн суулгажээ.",
-   "published": "2026-10-30T19:45:02Z",
-   "added": "2026-11-02T00:20:33Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3938c8070007fce2",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Kotaku",
-   "url": "https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665",
-   "image": "https://kotaku.com/app/uploads/2026/02/anthropic.jpg",
-   "title": "Claude Can No Longer Produce A 'Recreation' Of Existing Games",
-   "summary_en": "Anthropic's new Claude guardrail is stopping users from recreating a game 'even if it is renamed or called original'",
-   "title_mn": "Anthropic компани тодорхой тоглоом хуулбарлахыг хоригложээ",
-   "summary_mn": "Claude Opus 5.5 загварт код дахь шинэ дүрэм нэмэгдэж, бодит тоглоомуудыг яг хуулбарлан хийх оролдлогыг хаах болжээ.",
-   "body_mn": "Anthropic компани хэрэглэгчдийг одоо байгаа видео тоглоомуудыг задлан шинжлэх (decompile) болон хуулбарлах үйлдэл хийхээс сэргийлэх шинэ дүрэм хэрэгжүүлж эхэлжээ. Claude Opus 5.5 загварын өөрчлөлтийн түүхэнд шинээр нэмэгдсэн tengu_heron_brook нэртэй флаг нь хэрэглэгчдэд өөр анхны тоглоом бүтээхийг зөвшөөрөх боловч тодорхой нэг тоглоомыг хуулбарлах хүсэлтийг автоматаар татгалзахаар тохируулагдсан байна.\n\nЭнэхүү хамгаалалтын шүүлтүүр нь зөвхөн тоглоом төдийгүй зохиогчийн эрхтэй контент, орчуулга болон бусад кодыг хуулбарлах оролдлогыг мөн хязгаарлаж эхэлсэн байна. Хөгжүүлэгчид болон хэрэглэгчид энэхүү өөрчлөлт нь кодын аюулгүй байдлын судалгаа болон бусад бүтээлч ажилд саад учруулж байна гэж шүүмжилж байна. Anthropic уг шийдвэрээрээ оюуны өмчийн зөрчилтэй холбоотой маргаанаас урьдчилан сэргийлэхийг зорьжээ.",
-   "published": "2026-10-30T20:30:14Z",
-   "added": "2026-11-02T06:33:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ab8d0a63f49f7f02",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "WIRED",
-   "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
-   "image": "https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/191:100/w_1280,c_limit/103026-HACK_.jpg",
-   "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-   "summary_en": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
-   "title_mn": "Cursor-ын өргөтгөлийн зах зээлд хортой Claude Code өргөтгөл тархжээ",
-   "summary_mn": "Cursor IDE-ийн өргөтгөлийн зах зээлд хэрэглэгчийн төхөөрөмжид хандах эрх өгөх зорилготой хуурамч Claude Code өргөтгөл байршуулжээ.",
-   "body_mn": "SpaceX компанид хамаарах Cursor хөгжүүлэлтийн орчны өргөтгөлийн зах зээлд хортой Claude Code өргөтгөл 11 цагийн турш байршсан байна. Энэ хугацаанд уг хортой хувилбарыг 5,000 орчим хэрэглэгч татаж авсан бөгөөд компани шалгалт хийж аюулгүй байдлын арга хэмжээ авчээ.\n\nУг өргөтгөл нь хакеруудад хэрэглэгчийн төхөөрөмж рүү нэвтрэх хаалга үлдээх зорилготой байсан боловч кодын алдаанаас шалтгаалан ихэнх хэрэглэгчдэд бүрэн хэрэгжиж амжаагүй байна. Anthropic болон Cursor компаниудын мэдэгдсэнээр энэ нь Anthropic-ийн систем эсвэл ажилтнуудын компьютер алдагдсантай холбоогүй бөгөөд харин гуравдагч этгээд Cursor-ын зах зээлд хандаж өргөтгөлийг өөрчилсөн байна.",
-   "published": "2026-10-30T20:38:00Z",
-   "added": "2026-11-02T06:33:29Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "c7b5ad4f5572fd39",
    "subtopic": "qwen",
    "source": "Qwen (Google News)",
@@ -817,6 +617,86 @@
    "added": "2026-11-03T19:54:47Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d4f4eaef78f57d94",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Qazinform",
+   "url": "https://qazinform.com/news/alibabas-qwen-ai-to-be-integrated-into-apple-intelligence-in-major-partnership-ff0fac",
+   "image": "https://img.inform.kz/kazinform-photobank/media/2025-02-24/9e267681-1b1c-4bac-94e1-a1f8af8c3804.jpeg",
+   "title": "Alibaba’s Qwen AI to be integrated into Apple Intelligence in major partnership",
+   "summary_en": "Chinese tech giant Alibaba Group announced a partnership with Apple on Saturday to integrate its Qwen AI model into Apple Intelligence, Xinhua reported.",
+   "title_mn": "Apple Intelligence Хятад улсад Alibaba-гийн Qwen загвараар ажиллахаар болжээ",
+   "summary_mn": "Apple компани Хятад дахь хэрэглэгчдэд зориулсан Apple Intelligence системдээ Alibaba-гийн Qwen AI загварыг нэгтгэхээр болсноо зарлалаа. Энэхүү боломж арванхоёрдугаар сард албан ёсоор гарах бөгөөд хөгжүүлэгчид ноябрерын 4-нөөс туршиж эхлэх боломжтой.",
+   "body_mn": "Хятадын технологийн аварга Alibaba Group компани Apple-тай хамтран Qwen хиймэл оюун ухааны загвараа Apple Intelligence системд нэгтгэх болсноо албан ёсоор мэдэгдлээ. Энэхүү шийдэл нь Хятад дахь хэрэглэгчдэд Siri, Writing Tools болон Visual Intelligence зэрэг үйлдлийн системийн үндсэн хэсгүүдээр дамжуулан Qwen-ийн текст болон зураг ойлгох, контент бүтээх чадваруудыг ашиглах боломжийг олгох ажээ.\n\nШинэ функц нь арванхоёрдугаар сард гарах iOS 27.3 шинэчлэлтийн үеэр Хятадын хэрэглэгчдэд хүрэх ба хөгжүүлэгчид ноябрерын 4-нөөс эхлэн developer beta хувилбараар туршиж эхлэх боломжтой юм. Хэрэглэгчид Qwen интеграцийг ашиглах эсэхээ өөрсдөө сонгох ба Alibaba хэрэглэгчийн хүсэлт болон хариултыг загварын сургалтанд ашиглахгүй гэдгээ баталжээ.\n\nЭнэхүү алхам нь Хятадын хууль тогтоомжийн дагуу гадаадын компаниуд дотоодын түншүүдтэй хамтран хиймэл оюун ухааны үйлчилгээ үзүүлэх шаардлагатай холбоотой юм. Apple Intelligence-ийг ашиглахын тулд хэрэглэгч Хятадад худалдаж авсан iPhone төхөөрөмжтэй байх эсвэл бүс нутгийн тохиргоогоо Хятад болгосон байх шаардлагатай.",
+   "published": "2026-11-01T22:12:14Z",
+   "added": "2026-11-04T00:18:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "10d6012da203cc1d",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "News Mobile",
+   "url": "https://www.newsmobile.in/artificial-intelligence-ai/elon-musk-says-grok-bot-is-too-expensive-to-run-defends-strict-usage-limits/",
+   "image": "https://www.newsmobile.in/wp-content/uploads/2026/10/Elon-Musk-X.png",
+   "title": "Elon Musk Says Grok Bot Is Too Expensive To Run, Defends Strict Usage Limits",
+   "summary_en": "Elon Musk has said that operating xAI’s Grok Bot is costing more than the revenue it generates, describing the current financial model as unsustainable. His remarks come as several X Premium subscribers report reaching their usage limits much faster than usual. Musk made the comments in response to an X user, ‘DogecoinNorway’, who requested a […]",
+   "title_mn": "Илон Маск Grok Bot-ийн үйл ажиллагааны зардал хэт өндөр байгааг мэдэгдэв",
+   "summary_mn": "xAI компанийн Grok Bot-ийг ажиллуулах зардал олж буй орлогоороо нөхөгдөхгүй хэмжээнд хүрсэн тул хэрэглээний хязгаарлалтыг чангатгаж байгааг Илон Маск мэдэгдлээ. Энэ нь төлбөртэй хэрэглэгчдийн квот хурдан дуусахад хүргэж байна.",
+   "body_mn": "xAI компанийн бүтээсэн Grok Bot туслахыг ажиллуулах зардал түүний үүсгэж буй орлогоос давж, санхүүгийн хувьд тогтворгүй загвартай болсныг үүсгэн байгуулагч Илон Маск хүлээн зөвшөөрөв. Энэхүү мэдэгдэл нь X Premium үйлчилгээний хэрэглэгчид өнгөрсөн долоо хоногт ашиглалтын квотоа ердийнхөөс хамаагүй хурдан шавхаж дуусгасан талаар гомдол гаarkiсны дараа гарсан байна.\n\nGrok Bot нь нарийн төвөгтэй даалгавруудыг гүйцэтгэх, X платформтой нягт уялдаатай ажиллахын тулд асар их тооцоолох хүчин чадал болон өндөр өртөгтэй сервер дэд бүтцийг шаарддаг. Одоогоор 800,000 орчим төлбөртэй хэрэглэгчтэй байгаа хэдий ч дэд бүтцийн өндөр зардал нь компанид томоохон дарамт учруулж байгаа ажээ.\n\nҮүнтэй холбоотойгоор тооцооллын зарidлыг хяналтандаа байлгахын тулд xAI илүү чанга хязгаарлалт тогтоож магадгүй байна. OpenAI зэрэг бусад хиймэл оюун ухааны компаниуд ч мөн дэвшилтэт загваруудынхаа хандалтад тодорхой хязгаар тогтоож эхэлсэн билээ.",
+   "published": "2026-11-02T07:25:03Z",
+   "added": "2026-11-04T00:18:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5a014341bc3fc0f1",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/lifeval",
+   "image": "",
+   "title": "LifeVal",
+   "summary_en": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+   "title_mn": "OpenAI шинэ LifeVal бенчмаркаа танилцууллаа",
+   "summary_mn": "OpenAI компани хиймэл оюун ухаан хүмүүсийн өдөр тутмын амьдралын ажилд хэрхэн тусалж буйг хэмжих LifeVal бенчмаркаа зарлалаа. Уг систем нь хүүхэд асаргаанаас эхлээд санхүү болон төрийн бичиг цаасны ажлыг үнэлдэг.",
+   "body_mn": "OpenAI компани хүний өдөр тутмын амьдралын чухал даалгавруудыг хиймэл оюун ухаан хэр зэрэг сайн гүйцэтгэж байгааг хэмжих зорилготой LifeVal хэмээх шинэ бенчмаркаа албан ёсоор танилцууллаа. Энэхүү тест нь хүүхэд асрах үйлчилгээ олохоос эхлээд санхүүгийн менежмент хийх, төрийн захиргааны болон албан бичиг цаасны ажлыг шийдвэрлэх зэрэг бодит амьдралын нөхцөл байдалд AI-ийн гүйцэтгэлийг үнэлдэг байна.\n\nЭнэхүү шинэ бенчмарк нь AI загваруудын хөгжүүлэлтэд чухал түлхэц болж, зөвхөн код бичих эсвэл тест бөглөх бус, харин өдөр тутмын нарийн төвөгтэй шийдвэр гаргах үйл явцад туслах чадварыг хөгжүүлэхэд чиглэж байна. Хөгжүүлэгчид болон судлаачид уг системийг ашиглан ирээдүйн загваруудын практик хэрэглээний үр дүнг хянах боломжтой болно.",
+   "published": "2026-11-02T09:00:00Z",
+   "added": "2026-11-04T00:18:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "61b876bcc0e30748",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-adds-2-sentences-claude-095148643.html",
+   "image": "https://s.yimg.com/lo/mysterio/api/9831e262bc9b4ddcc24cb4469a5ad5b413c25b19c2852d174d8fc918fdd28e02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fc6dd46f5db089d2c1a09e5feee391430.png",
+   "title": "Anthropic Adds 2 Sentences to Claude Code to Stop AI Video Game Clones",
+   "summary_en": "Anthropic stops Claude from cloning video games, but developers say the filter also blocks work on their own projects.",
+   "title_mn": "Anthropic компани Claude Code-д видео тоглоом хуулбарлахыг хориглосон шүүлтүүр нэмжээ",
+   "summary_mn": "Anthropic компани Claude Code-ийн Opus 5.5 загварт хуучин видео тоглоомуудыг хуулбарлахыг хориглосон хоёр өгүүлбэр бүхий шүүлтүүр нэмсэн нь хөгжүүлэгчдийн дунд маргаан үүсгэв. Зарим хөгжүүлэгчид энэ нь алдаа шалгах, anti-cheat болон энгийн төслүүдэд саад болж байна гэж гомдоллож байна.",
+   "body_mn": "Anthropic компани өөрийн Claude Code хэрэгсэлд бусдын зохиогчийн эрхтэй видео тоглоомуудыг хуулбарлах эсвэл клондлохыг зогсоох зорилгоор Opus 5.5 загварын сануулгад (prompt) шинэ хязгаарлалт нэмсэн байна. Энэхүү өөрчлөлт нь сүүлийн үед AI ашиглан тоглоомын хуулбар хийх явдал газар авсантай холбоотой бөгөөд Anthropic-ийн IPO гаргах бэлтгэл үе таарч байгаа юм. Өмнө нь компани зохиогчийн эрх зөрчсөн сургалтын материалын асуудлаар 1.5 тэрбум долларын төлбөр төлж байжээ.\n\nГэвч хөгжүүлэгчид энэхүү шинэ шүүлтүүр нь зөвхөн тоглоом клондхоос гадна өөрсдийн бие даасан төслүүдийг хөгжүүлэх, Windows-ийн эвдрэлийн файлыг (crash dump) шинжлэх, anti-cheat буюу хууран мэхлэлтийн эсрэг код бичих зэрэг хууль ёсны ажлуудад нь саад учруулж байгаад бухимдалтай байна. Anthropic-ийн техникийн ажилтан Адди Османи энэхүү өөрчлөлтийг баталгаажуулж, оюуны өмчийн зөрчлөөс урьдчилан сэргийлэх бодлого баримталж буйгаа тайлбарлажээ.\n\nХөгжүүлэгчдийн зүгээс энэхүү хатуу хориг нь ердийн хөгжүүлэлтийн явцыг хязгаарлаж байгааг шүүмжилж байгаа бөгөөд зарим нь Хятадын эсвэл нээлттэй эх сурвалжтай (open-weight) бусад загварууд руу шилжихээ илэрхийлж байна. Anthropic энэ чиглэлээр алгоритмаа илүү нарийвчлалтай болгохоор ажиллаж байгаа ажээ.",
+   "published": "2026-11-02T09:51:48Z",
+   "added": "2026-11-04T00:18:48Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
   }
  }
 ]

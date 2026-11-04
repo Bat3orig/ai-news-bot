@@ -1,0 +1,17 @@
+{
+ "id": "61b876bcc0e30748",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Yahoo Tech",
+ "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-adds-2-sentences-claude-095148643.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/9831e262bc9b4ddcc24cb4469a5ad5b413c25b19c2852d174d8fc918fdd28e02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fc6dd46f5db089d2c1a09e5feee391430.png",
+ "title": "Anthropic Adds 2 Sentences to Claude Code to Stop AI Video Game Clones",
+ "summary_en": "Anthropic stops Claude from cloning video games, but developers say the filter also blocks work on their own projects.",
+ "title_mn": "Anthropic компани Claude Code-д видео тоглоом хуулбарлахыг хориглосон шүүлтүүр нэмжээ",
+ "summary_mn": "Anthropic компани Claude Code-ийн Opus 5.5 загварт хуучин видео тоглоомуудыг хуулбарлахыг хориглосон хоёр өгүүлбэр бүхий шүүлтүүр нэмсэн нь хөгжүүлэгчдийн дунд маргаан үүсгэв. Зарим хөгжүүлэгчид энэ нь алдаа шалгах, anti-cheat болон энгийн төслүүдэд саад болж байна гэж гомдоллож байна.",
+ "body_mn": "Anthropic компани өөрийн Claude Code хэрэгсэлд бусдын зохиогчийн эрхтэй видео тоглоомуудыг хуулбарлах эсвэл клондлохыг зогсоох зорилгоор Opus 5.5 загварын сануулгад (prompt) шинэ хязгаарлалт нэмсэн байна. Энэхүү өөрчлөлт нь сүүлийн үед AI ашиглан тоглоомын хуулбар хийх явдал газар авсантай холбоотой бөгөөд Anthropic-ийн IPO гаргах бэлтгэл үе таарч байгаа юм. Өмнө нь компани зохиогчийн эрх зөрчсөн сургалтын материалын асуудлаар 1.5 тэрбум долларын төлбөр төлж байжээ.\n\nГэвч хөгжүүлэгчид энэхүү шинэ шүүлтүүр нь зөвхөн тоглоом клондхоос гадна өөрсдийн бие даасан төслүүдийг хөгжүүлэх, Windows-ийн эвдрэлийн файлыг (crash dump) шинжлэх, anti-cheat буюу хууран мэхлэлтийн эсрэг код бичих зэрэг хууль ёсны ажлуудад нь саад учруулж байгаад бухимдалтай байна. Anthropic-ийн техникийн ажилтан Адди Османи энэхүү өөрчлөлтийг баталгаажуулж, оюуны өмчийн зөрчлөөс урьдчилан сэргийлэх бодлого баримталж буйгаа тайлбарлажээ.\n\nХөгжүүлэгчдийн зүгээс энэхүү хатуу хориг нь ердийн хөгжүүлэлтийн явцыг хязгаарлаж байгааг шүүмжилж байгаа бөгөөд зарим нь Хятадын эсвэл нээлттэй эх сурвалжтай (open-weight) бусад загварууд руу шилжихээ илэрхийлж байна. Anthropic энэ чиглэлээр алгоритмаа илүү нарийвчлалтай болгохоор ажиллаж байгаа ажээ.",
+ "published": "2026-11-02T09:51:48Z",
+ "added": "2026-11-04T00:18:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
