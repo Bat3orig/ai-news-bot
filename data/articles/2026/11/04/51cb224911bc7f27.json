@@ -1,0 +1,17 @@
+{
+ "id": "51cb224911bc7f27",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/whats-important-20/",
+ "image": "https://css-tricks.com/wp-content/uploads/2026/10/wi20-1.jpg",
+ "title": "What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()",
+ "summary_en": "This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whether to trick or treat, so I went for both. Happy Halloween What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "title_mn": "CSS-Tricks сайтаас толилуулж буй хамгийн сүүлийн \"What’s !important #20\" мэдээлэл",
+ "summary_mn": "CSS-Tricks сайтын сүүлчийн дугаараар GTA 6 веб сайтын гүйлгэх эффектүүд, scrollspy үүсгэх аргууд болон CSS-ийн шинэ боломжуудыг дэлгэрэнгүй танилцууллаа.",
+ "body_mn": "CSS-Tricks сайт дээрх What’s !important цувралын энэ удаагийн дугаар олон сонирхолтой шинэ CSS болон HTML технологийн жишээнүүдийг багтаажээ. Тухайлбал, Rockstar компанийн GTA 6 веб сайт дээр ашиглагдсан цогц গүйлгэх (scroll) эффектүүдийг хэрхэн хийсэн тухай онцолсон байна.\n\nМөн орчин үеийн CSS ашиглан хуудасны хэсгүүдийг ялгаж харуулах scrollspy хэрхэн бүтээх тухай, Brecht De Ruyte-ийн random() функцээр хийсэн гайхалтай демо файлуудыг тайлбарлажээ. Үүнээс гадна Linked Parameters, ident(), @mixin, @apply болон шинэ ::* псевдо-селекторын тухай саналуудыг хэлэлцсэн байна.\n\nВеб хөгжүүлэгчдэд зориулсан энэхүү мэдээлэл нь дизайнер болон фронтенд хөгжүүлэгчдэд CSS-ийн шинэ боломжуудыг хэрхэн үр дүнтэй ашиглах талаар үнэтэй санаануудыг өгч байна.",
+ "published": "2026-11-02T15:06:07Z",
+ "added": "2026-11-04T06:48:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

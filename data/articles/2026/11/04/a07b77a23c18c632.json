@@ -1,0 +1,17 @@
+{
+ "id": "a07b77a23c18c632",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Fierce Healthcare",
+ "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
+ "image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+ "title": "Athenahealth launches tool to bring patient health records into Anthropic's Claude",
+ "summary_en": "Electronic health record company athenahealth is opening up patient health records to outside AI assistants, starting with Anthropic’s Claude, through a new connection designed to give patients per | Athenahealth is opening up patient health records to outside AI assistants, starting with Anthropic’s Claude, through a new MCP connection designed to give patients personalized answers based on their clinical data.",
+ "title_mn": "Athenahealth нь Claude-д өвчтөний эрүүл мэндийн мэдээллийг холбох хэрэгсэл гаргав",
+ "summary_mn": "Athenahealth компани athenaPatient MCP хэрэгслийг танилцуулж, өвчтөнд Model Context Protocol (MCP) ашиглан Claude туслахаар дамжуулан клиникийн мэдээллээсээ хувийн хариулт авах боломжийг оллоо.",
+ "body_mn": "Эрүүл мэндийн цахим түүхийн компани athenahealth нь Model Context Protocol (MCP) технологи дээр суурилсан athenaPatient MCP шийдлийг нэвтрүүлж, өвчтөний эрүүл мэндийн мэдээллийг Anthropic-ийн Claude AI туслахтай холбох боломжтой болголоо. Энэхүү холболт нь өвчтөнүүдэд өөрийн клиникийн өгөгдөлд үндэслэн эрүүл мэндийн асуултуудад тохирсон хариулт авах боломжийг олгох юм.\n\nӨвчтөнүүд athenaPatient portal эрхээрээ нэвтэрч, Claude-д аль мэдээллийг хуваалцахаа өөрсдөө шийдвэрлэх бөгөөд итгэмжлэлүүд Claude-д шууд дамжуулагдахгүй. Мөн мэдээлэл дамжих явцад шифрлэгдэх ба өвчтөн хүссэн үедээ хандалтыг цуцлах боломжтой гэдгийг тус компанийн удирдлагууд онцоллоо. Athenahealth нь өвчтөний мэдээллийг загвар сургалтанд ашигладаггүй AI туслахуудаар хязгаарлахаар төлөвлөжээ.\n\nClaude Pro болон Max хэрэглэгчид АНУ-д уг MCP холбогчийг тохиргоондоо нэмж ашиглах боломжтой бөгөөд лаборатор шинжилгээний хариу, эмийн заавар, амин үзүүлэлт болон бусад клиникийн мэдээллээс лавлах боломжтой болж байна. Энэ нь хөгжүүлэгчид болон AI бүтээгчдэд эрүүл мэндийн салбар дахь MCP стандартын бодит хэрэглээг харуулсан чухал алхам болж байна.",
+ "published": "2026-11-02T14:00:00Z",
+ "added": "2026-11-04T06:48:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

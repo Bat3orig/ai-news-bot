@@ -1,0 +1,17 @@
+{
+ "id": "a2ca823e1f220916",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/vercel-security-review",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7K3vwNIOstTSdFvmCXesrh/f6979b502573b08898ff42c15d9d4063/image__37_.png",
+ "title": "Introducing Vercel Security Review",
+ "summary_en": "Today, we are launching Vercel Security Review in public beta. Security Review is a new capability in Vercel Agent , alongside Code Review and Investigation. Once enabled, it scans for vulnerabilities on every push to a team's connected GitHub repositories. Findings appear as comments on pull requests, are listed in the Security dashboard, and are available via CLI. With your permission, Vercel Agent can also validate and push fixes for findings. How it works Security reviews are triggered by GitHub push events, including direct pushes to your production branch. In monorepos, reviews are…",
+ "title_mn": "Vercel Security Review боломжийг олон нийтийн бета хувилбараар зарлалаа",
+ "summary_mn": "Vercel Agent хэрэгсэлд шинээр Security Review боломж нэмэгдэж, GitHub код руу push хийх бүрт эмзэг байдал болон эрх шалгах логикийн алдааг автоматаар илрүүлэх боломжтой боллоо.",
+ "body_mn": "Vercel компани өөрсдийн платформ дээрээ Vercel Security Review хэрэгслийг олон нийтийн бета хувилбараар гаргаснаа албан ёсоор танилцууллаа. Энэхүү шинэ боломж нь Vercel Agent-ийн код шалгах болон мөрдөн шалгах функцүүд дээр нэмэгдэж байгаа юм.\n\nХөгжүүлэгчид холбогдсон GitHub репозитор руу код push хийх бүрт Security Review өөрчлөлтийг автоматаар сканнердаж, зөвшөөрлийн дутуу шалгалт болон нууц мэдээлэл алдагдсан эсэхийг шалгадаг. Үр дүн нь pull request дээр сэтгэгдэл хэлбэрээр болон хяналтын самбарт харагдана.\n\nЭнэхүү хэрэгсэл нь зөвхөн суурь pattern тааруулахаас гадна кодын өөрчлөлтийн diff-ийг уншиж, логик алдаа болон зөвшөөрлийн дутагдлыг нарийвчлан тогтоодог байна. Хөгжүүлэгчид мөн CLI болон багийн аюулгүй байдлын бодлого (security policies) ашиглан шалгуур үзүүлэлтүүдийг өөрсдийн хэрэгцээнд тохируулах боломжтой.\n\nАюулгүй байдлын шалгалт хэдхэн секундийн дотор явагддаг бөгөөд олдсон алдаа бүрийг засах зөвлөмж өгөхөөс гадна Vercel Agent ашиглан шууд засвар хийх боломжийг бүрдүүлжээ.",
+ "published": "2026-11-02T13:00:00Z",
+ "added": "2026-11-04T06:48:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

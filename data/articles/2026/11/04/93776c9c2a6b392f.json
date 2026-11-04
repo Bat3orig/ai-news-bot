@@ -1,0 +1,17 @@
+{
+ "id": "93776c9c2a6b392f",
+ "subtopic": "vibe-coding",
+ "source": "Simon Willison",
+ "source_label": "Simon Willison",
+ "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+ "image": "https://static.simonwillison.net/static/2026-11-01/5821A414-FAF6-4E61-B037-952C1FD80D39.png",
+ "title": "The U.S. Census Bureau and “Super Intelligence”",
+ "summary_en": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code Interpreter . I decided to try running those numbers again to see what had changed over the past year, and in doing so learned that the Bureau has fallen foul of Executive Order 14434 , aka the asinine Super Intelligence one…",
+ "title_mn": "АНУ-ын Бизнесийн судалгаа дахь хиймэл оюун ухааны хэрэглээ ба бодит өөрчлөлтүүд",
+ "summary_mn": "АНУ-ын Хүн амын тооллогын бюро бизнесийн судалгааны асуултуудаа шинэчилж, хиймэл оюун ухааны хэрэглээний өсөлтийг нарийвчлан судалж эхэлжээ. Хөгжүүлэгчид болон компаниудын хувьд AI хэрэгслүүдийн нэвтрэлт өндөр хувьтай байна.",
+ "body_mn": "АНУ-ын Хүн амын тооллогын бюро Business Trends and Outlook Survey (BTOS) судалгаандаа хиймэл оюун ухааны хэрэглээг хэмжих асуултуудыг өөрчилсөн байна. Өмнө нь бизнесийн үйл ажиллагаанд AI ашиглаж буй эсэхийг судлахад томоохон компаниудын дунд хэрэглээ тогтмол өсөлттэй байсан юм.\n\nСудалгааны асуулгын хүрээнд хөгжүүлэгчид болон инженерүүд виртуал агентууд, код бичих болон маркетинг дизайн хийхэд зориулсан генератив хэрэгслүүдийн хэрэглээг хэрхэн нэмэгдүүлж буйг харж болно. AI хэрэгслүүдийг өдөр тутмын код бичих, өгөгдөл шинжлэхэд ашиглах нь компаниудын хувьд стандарт практик болон хувирч байна.\n\nХөгжүүлэгчдийн хувьд энэхүү статистик болон чиг хандлага нь AI агент болон хөгжүүлэлтийн хэрэгслүүдийг өөрийн бүтээгдэхүүндээ хэрхэн үр дүнтэй нутагшуулж болохыг төлөвлөхөд чухал ач холбогдолтой юм. AI-г бизнесийн олон чиг үүрэгт ашиглах болсноор ажлын бүтээмж эрс нэмэгдэж байна.",
+ "published": "2026-11-02T13:31:26Z",
+ "added": "2026-11-04T06:48:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
