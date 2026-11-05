@@ -1,0 +1,17 @@
+{
+ "id": "da38bc697163569b",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+ "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw",
+ "title": "Agentic cheminformatics with Google Antigravity",
+ "summary_en": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+ "title_mn": "Google Antigravity дээр агент ашиглан химийн судалгааны ажлыг хурдасгах нь",
+ "summary_mn": "Google DeepMind Antigravity дээр зориулсан Cheminformatics Skills багцыг танилцуулж, эмийн хайлтын ажлыг нэг цагт багтаах жишээг харуулжээ. RDKit, ChEMBL, PubChem дээр суурилсан.",
+ "body_mn": "Google DeepMind Antigravity платформ дээр ажилладаг шинэ Cheminformatics Skills багцаар эмийн хөгжүүлэлтийн ажлын урсгалыг хэрхэн хурдасгахыг харуулжээ. Жишээнд өвчтөнд хэрэглэгддэг уушгины хорт хавдрын эмүүдээс агент мянга мянган нэгдлийг хайж, matched molecular pair шинжилгээ хийж, шинэ rigidified macrocycle нэгдлүүдийг санал болгож, нэг цагийн дотор синтезийн замуудыг гаргасан гэдэг.\n\nСистемийн хуваарилалт нь хэлний загвар ажлын урсгал, мэдээллийн сангаас хайлт, шинжлэх ухааны гүйцэтгэлийг хариуцдаг бол молекулын тооцоололтыг детерминистик химийн хэрэгслүүд гүйцэтгэдэг. Суурь нь нээлттэй эхийн RDKit бөгөөд ChEMBL болон PubChem-ийн холбогчууд нэмэгдсэн.\n\nНийтлэлд rigidification буюу молекулыг хатууруулах эмчилгээний техникийг тайлбарласан. Эргэх холбоостой молекул нь олон хэлбэрт эргэх тул холбогдохдоо энтропийн алдагдал үүсч, потенц буурдаг. Нэмэлт холбоо нэмснээр молекулыг зөв хэлбэрт барьж, идэвхийг нэмэгдүүлж болно.\n\nПрограм хөгжүүлэгчдэд энэ нь агентийг domain-specific skill-ээр тэжээж, шинжлэх ухааны ажилд ашиглах жишээ юм. Нийтлэлд үнэ, хугацааны хязгаар зэрэг нарийн мэдээлэл дурдаагүй.",
+ "published": "2026-11-03T17:01:49Z",
+ "added": "2026-11-05T22:37:17Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

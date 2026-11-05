@@ -738,5 +738,145 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c911ca89ec90e9e1",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "ZDNET",
+   "url": "https://www.zdnet.com/innovation/claude-code-message-threads-speed-test/",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/anthropic_004de4.jpg",
+   "title": "Is Claude Code truly faster with message threads? I did the math on my logs",
+   "summary_en": "Claude Code’s update could save you time during demanding, hours-long coding sessions at no extra cost. But by how much? Here's my real-world result.",
+   "title_mn": "Claude API-ийн message threads хүсэлтийн хурдыг 35%-иар сайжруулна",
+   "summary_mn": "Anthropic Messages API-д message threads функцийг нэмсэн нь хүсэлт бүрт бүтэн яриаг дахин илгээх шаардлагыг арилгана. Anthropic-ийн мэдээлснээр том контекстод median time-to-first-token 35%-иар буурна. Токений хэрэглээ болон rate limit өөрчлөгдөөгүй.",
+   "body_mn": "Anthropic Claude-ийн Messages API-д message threads гэдэг шинэ боломжийг нэвтрүүллээ. Энэ нь яриа бүрийг дахин дахин илгээхийн оронд зөвхөн өөрчлөгдсөн хэсгийг илгээх зарчмаар ажиллана. Claude Code-ийн ихэнх хэрэглэгчдэд энэ функц анхнаасаа идэвхтэй байна. API хэрэглэгчид хүсэлтдээ thread параметрийг ашиглан асаах боломжтой.\n\nAnthropic-ийн хэмжилтээр 500,000-аас 1 сая токений контекст бүхий хүсэлтэд median time-to-first-token 35%-иар буурдаг. Зохиогч өөрийн Claude Code логийг шинжилж, нэг session-д хэдэн минутын хэмнэлт гарна гэж тооцоолсон байна.\n\nХамгийн чухал зүйл бол энэ функц токений зардлыг бууруулдаггүй. Модель нь яриаг бүтнээр нь боловсруулсаар байгаа тул токений хэрэглээ, rate limit хэвээр үлдэнэ. Харин prompt caching-тэй хамт ашиглавал ажлын ачааллыг бууруулж болно.\n\nХөгжүүлэгчдэд энэ нь удаан үргэлжилдэг coding agent болон зураг, баримт их дамжуулдаг ажлын урсгалд хариу хугацааг сайжруулах шинэ арга юм. Хэрэгжүүлэхдээ хүсэлтийн бүтэц болон thread параметрийн баримтыг шалгах хэрэгтэй.",
+   "published": "2026-11-03T13:11:36Z",
+   "added": "2026-11-05T22:37:17Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2b4786f99076579d",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+   "image": "https://github.blog/wp-content/uploads/2026/11/689797142-96dbb0c9-dccb-41f6-8990-acf5c575db04.webp",
+   "title": "GitHub Copilot is now available in JetBrains Air",
+   "summary_en": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your…",
+   "title_mn": "GitHub Copilot одоо JetBrains Air дээр ажиллах боломжтой боллоо",
+   "summary_mn": "GitHub Copilot нь JetBrains Air дээр ажиллах боломжтой боллоо. Интеграци нь Agent Client Protocol (ACP) ашиглаж, JetBrains IDE дотор болон cloud дээр даалгавар гүйцэтгэнэ. Cloud даалгаврыг Docker контейнер дотор ажиллуулна.",
+   "body_mn": "GitHub Copilot-ийг JetBrains Air дээр ашиглах боломж нээгдлээ. Хөгжүүлэгч кодлох даалгавраа Copilot-д шилжүүлж, гүйцэтгэлийг хянаж, үр дүнг шалгах боломжтой. Интеграци нь Agent Client Protocol (ACP) стандартыг ашигладаг.\n\nОрон нутгийн даалгаварт Air-ийг JetBrains IDE дотор суулгаад GitHub Copilot-ийг сонгож, Copilot акаунтаа холбоно. Cloud даалгаврын хувьд JetBrains акаунт, Air Teams-тэй бизнесийн байгууллага, Copilot захиалга, мөн Air администратороос идэвхжүүлэлт шаардлагатай.\n\nCloud даалгаврууд Docker контейнер дотор шинэ виртуал машин дээр ажилладаг. Бүх трафик прокси-оор дамжиж, даалгавруудын хооронд төлөв хадгалагддаггүй. Copilot нь орон нутгийн орчиндоо нөлөөлөлгүйгээр build, test, багц суулгах боломжтой.\n\nХөгжүүлэгчдэд энэ нь JetBrains орчинд агентын ажлыг аюулгүй, тусгаарлагдсан байдлаар туршихад тустай. Ашиглахаасаа өмнө байгууллагынхаа тохиргоо болон захиалгын нөхцөлийг шалгах хэрэгтэй.",
+   "published": "2026-11-03T15:11:46Z",
+   "added": "2026-11-05T22:37:17Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2ab2b7de92950e4d",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Blog",
+   "source_label": "GitHub Blog",
+   "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+   "image": "https://github.blog/wp-content/uploads/2026/11/692880266-19c28791-dea3-4df2-beab-3916036a4d0b.png?fit=1280%2C720",
+   "title": "Arnis turns any place on Earth into a Minecraft world",
+   "summary_en": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.",
+   "title_mn": "Arnis: нээлттэй эх код дэлхийн аливаа газрыг Minecraft ертөнц болгоно",
+   "summary_mn": "Louis Erbkamm-ийн нээлттэй эх Arnis төсөл OpenStreetMap-ийн өгөгдөл ашиглан бодит газрыг Minecraft ертөнц болгоно. Төсөл 2022 оноос хойш 900,000 орчим татагдсан. Зохиогч GitHub Copilot-ийг issue шинжлэх, засвар хийхэд ашигладаг.",
+   "body_mn": "Герман хүн Louis Erbkamm нээлттэй эх Arnis төслөө 2022 онд эхлүүлсэн. Төсөл нь OpenStreetMap болон бусад эх сурвалжаас бодит газрын өгөгдөл авч, Minecraft дээр тоглоход боломжтой ертөнц үүсгэдэг. Төсөл GitHub дээр 900,000 орчим татагдсан бөгөөд 70 орчим хувь нэмэр оруулагчтай.\n\nТөслийн анхны хувилбар Python-оор бичигдсэн бөгөөд зөвхөн OpenStreetMap дээр суурилсан байв. Одоо төслийг Rust руу шилжүүлж байгаа бөгөөд хувь нэмэр оруулагчид 20 орчим хэлнээ орчуулсан. Өндрийн мэдээлэл нэмсний дараа геоспатиал мэргэжилтнүүд идэвхтэй оролцжээ.\n\nЗохиогч бүх pull request-ийг өөрөө шалгадаг тул ажил удаан хугацаанд хуримтлагддаг. Тэрээр GitHub Copilot-ийг нээлттэй issue-үүдийн тоймд, алдааны эх сурвалжийг олоход болон засвар хийхэд ашигладаг. Түүний хэлснээр AI ашигласнаас хойш код шалгалт болон баримтжуулалт нэмэгджээ.\n\nХөгжүүлэгчдэд энэ нь нээлттэй эх төслийг ганцаараа хүүхэлдэхэд AI хэрхэн тусалдагийн жишээ юм. Харин энэ нь жишээ туршлага бөгөөд Copilot-ийн шинэ функцийн мэдээлэл биш байна.",
+   "published": "2026-11-03T16:00:00Z",
+   "added": "2026-11-05T22:37:17Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f1a111e72742f0df",
+   "subtopic": "vibe-coding",
+   "source": "Simon Willison",
+   "source_label": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "image": "",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "summary_en": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing with one of the examples from the paper and I'm delighted to share that Qwen 3.8 27B running on my…",
+   "title_mn": "Qwen 3.8 27B лаптоп дээр моделийн жинг уншиж, тайлбарлаж чадна",
+   "summary_mn": "Simon Willison Qwen 3.8 27B моделийг лаптоп дээрээ ажиллуулж, нейрон сүлжээний raw жинг уншиж тодорхойлох туршилт хийжээ. Энэ нь GPT-6 Astra-гийн “Weight-Space Programming” судалгаанд үндэслэсэн юм.",
+   "body_mn": "Simon Willison Sparks of Weight-Space Programming судалгаанд дурдсан жишээг Qwen 3.8 27B дээр туршиж үзсэн тухай бичжээ. Судалгааны зохиогчид LLM нь зөвхөн текст хэлбэрээр өгөгдсөн моделийн жинг уншаад, ямар тоглоом сургагдсаныг тодорхойлж чаддаг гэж үзжээ.\n\nЖишээ нь Breakout, Pong, Pac-Man, Freeway гэсэн 10x10 торон дээрх энгийн тоглоомуудад сургагдсан дөрвөн нейрон сүлжээ дээр явагдсан. Жингийг floating point тоонуудын хэлбэрээр өгч, аливаа код ажиллуулахгүйгээр “Ямар тоглоомд сургагдсан бэ?” гэсэн асуулт асуусан байна.\n\nWillison-ийн хэлснээр судалгааны GitHub repository-д бэлэн prompt файлууд байдаг бөгөөд тэдгээрийг өөрийн LLM CLI хэрэгсэл дээр -f болон --fragment сонголтоор URL-аас шууд уншуулан туршиж болно. Жишээ нь llm-openrouter plugin суулгасан орчинд ажиллуулах боломжтой.\n\nХөгжүүлэгчдэд энэ нь LLM-ийг зөвхөн текст болон кодоор биш, моделийн дотоод параметрээр нь ажиллуулах сонирхолтой туршилт юм. Гэхдээ судалгааны шүүмжлэгчид зохиогчид хоёр асуудлыг хольсон гэж үзсэн тул үр дүнг болгоомжтой ойлгох хэрэгтэй.",
+   "published": "2026-11-03T16:29:48Z",
+   "added": "2026-11-05T22:37:17Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "da38bc697163569b",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw",
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "summary_en": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+   "title_mn": "Google Antigravity дээр агент ашиглан химийн судалгааны ажлыг хурдасгах нь",
+   "summary_mn": "Google DeepMind Antigravity дээр зориулсан Cheminformatics Skills багцыг танилцуулж, эмийн хайлтын ажлыг нэг цагт багтаах жишээг харуулжээ. RDKit, ChEMBL, PubChem дээр суурилсан.",
+   "body_mn": "Google DeepMind Antigravity платформ дээр ажилладаг шинэ Cheminformatics Skills багцаар эмийн хөгжүүлэлтийн ажлын урсгалыг хэрхэн хурдасгахыг харуулжээ. Жишээнд өвчтөнд хэрэглэгддэг уушгины хорт хавдрын эмүүдээс агент мянга мянган нэгдлийг хайж, matched molecular pair шинжилгээ хийж, шинэ rigidified macrocycle нэгдлүүдийг санал болгож, нэг цагийн дотор синтезийн замуудыг гаргасан гэдэг.\n\nСистемийн хуваарилалт нь хэлний загвар ажлын урсгал, мэдээллийн сангаас хайлт, шинжлэх ухааны гүйцэтгэлийг хариуцдаг бол молекулын тооцоололтыг детерминистик химийн хэрэгслүүд гүйцэтгэдэг. Суурь нь нээлттэй эхийн RDKit бөгөөд ChEMBL болон PubChem-ийн холбогчууд нэмэгдсэн.\n\nНийтлэлд rigidification буюу молекулыг хатууруулах эмчилгээний техникийг тайлбарласан. Эргэх холбоостой молекул нь олон хэлбэрт эргэх тул холбогдохдоо энтропийн алдагдал үүсч, потенц буурдаг. Нэмэлт холбоо нэмснээр молекулыг зөв хэлбэрт барьж, идэвхийг нэмэгдүүлж болно.\n\nПрограм хөгжүүлэгчдэд энэ нь агентийг domain-specific skill-ээр тэжээж, шинжлэх ухааны ажилд ашиглах жишээ юм. Нийтлэлд үнэ, хугацааны хязгаар зэрэг нарийн мэдээлэл дурдаагүй.",
+   "published": "2026-11-03T17:01:49Z",
+   "added": "2026-11-05T22:37:17Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5eb4cd6c810cd2ef",
+   "subtopic": "nextjs",
+   "source": "Next.js Blog",
+   "source_label": "Next.js Blog",
+   "url": "https://nextjs.org/blog/november-2026-security-release",
+   "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/november-2026-security-release/twitter-card.png",
+   "title": "November 2026 Security Release",
+   "summary_en": "The November 2026 security release for Next.js is now available",
+   "title_mn": "Next.js v16.4.5 ба v15.5.29: аюулгүй байдлын засвар гарлаа",
+   "summary_mn": "Next.js 2026 оны 11-р сарын аюулгүй байдлын шинэчлэлт гарч, v16.4.5 (Active LTS) болон v15.5.29 (Maintenance LTS) хувилбаруудад засвар нэмэгдлээ. Хэрэглэгчид dependency-гээ шууд шинэчлэх шаардлагатай.",
+   "body_mn": "Next.js баг өмнө нь зарлаж байсан аюулгүй байдлын шинэчлэлтээ гаргасан. Засвар нь v16.4.5 (Active LTS) болон v15.5.29 (Maintenance LTS) хувилбарт орсон байна. Төслүүдээ шинэчилж dependency-гээ засахыг зөвлөж байна.\n\nЗасварласан гол асуудлууд нь Cache Components идэвхжсэн үед кэшлэгдсэн агуулгыг root parameter-ийн утгуудаар ялгалгүйгээр дахин ашиглах, unstable_cache болон use cache функцүүдийн хооронд харилцан нөлөөлөх, хуудасны shell-ийг бусад URL-д буруу хуваалцах, мөн нэмэлт binary аргументууд ижил cache identity үүсгэх зэрэг байна. Эдгээр нь олон хэрэглэгчтэй системд өөрийн мэдээлэл бусдад очих эрсдэлтэй.\n\nМөн self-hosted орчинд HTTP/1.1 reverse proxy-ийн ард pipelined хүсэлт дээр хариу буруу хүлээн авагчид очих асуудал тэмдэглэгдсэн. Энэ нь бүх тохиргоонд хамаарахгүй.\n\nХөгжүүлэгчдэд энэ нь шууд хэрэгтэй шинэчлэлт юм. Cache Components болон self-hosted байршуулалттай төслүүд онцгой анхаарах хэрэгтэй.",
+   "published": "2026-11-03T18:00:00Z",
+   "added": "2026-11-05T22:37:17Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d72e2316abd8ac03",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-ci-no-longer-requires-a-linked-vercel-project",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6TBLiyunUHOsnzTtW2EwQw/e56fc3a30e3546bd26834529383ac69f/image__64_.png",
+   "title": "Vercel CI no longer requires a linked Vercel project",
+   "summary_en": "Vercel CI can now run on a GitHub repository that has no Vercel project. Until now you had to create an empty project just to connect the repository. To enable it, you need: The Vercel GitHub App installed with access to the repository Your GitHub account connected to your Vercel account Write or admin permission on the repository Then, from a clone of the repository, run: CI is enabled for the team your CLI is set to. Pass --scope <team> to use a different one. From the next push, tasks run as configured in your repository. Private GitHub repositories only. Public repositories and other Git…",
+   "title_mn": "Vercel CI одоо Vercel төсөлгүйгээр GitHub repository дээр ажиллана",
+   "summary_mn": "Vercel CI одоо Vercel төсөл үүсгэхгүйгээр GitHub repository дээр ажиллах боломжтой боллоо. Одоогоор зөвхөн хувийн GitHub repository-д дэмжигдэнэ.",
+   "body_mn": "Өмнө нь Vercel CI ажиллуулахын тулд хоосон Vercel төсөл үүсгэж repository-гоо холбох шаардлагатай байв. Шинэ өөрчлөлтөөр энэ алхам шаардлагагүй болсон.\n\nАжиллуулахын тулд Vercel GitHub App-ыг repository-д эрхтэйгээр суулгасан, GitHub хаягаа Vercel хаягтай холбосон, repository дээр write эсвэл admin эрхтэй байх хэрэгтэй. Дараа нь repository-ийн clone дээрээс Vercel CLI-ээр холбох командыг ажиллуулна.\n\nCI нь CLI-ийн тохируулсан багт идэвхждэг бөгөөд өөр баг сонгох бол --scope сонголтыг ашиглана. Дараагийн push-оос эхлээд repository-д тохируулсан таскууд ажиллана.\n\nОдоогоор зөвхөн хувийн GitHub repository дэмжигдэж байгаа бөгөөд нийтийн repository болон бусад Git үйлчилгээ дэмжигдээгүй. Таскуудыг тохируулах талаар Vercel CI баримт бичгээс үзнэ үү.",
+   "published": "2026-11-03T18:00:00Z",
+   "added": "2026-11-05T22:37:17Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "5eb4cd6c810cd2ef",
+ "subtopic": "nextjs",
+ "source": "Next.js Blog",
+ "source_label": "Next.js Blog",
+ "url": "https://nextjs.org/blog/november-2026-security-release",
+ "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/november-2026-security-release/twitter-card.png",
+ "title": "November 2026 Security Release",
+ "summary_en": "The November 2026 security release for Next.js is now available",
+ "title_mn": "Next.js v16.4.5 ба v15.5.29: аюулгүй байдлын засвар гарлаа",
+ "summary_mn": "Next.js 2026 оны 11-р сарын аюулгүй байдлын шинэчлэлт гарч, v16.4.5 (Active LTS) болон v15.5.29 (Maintenance LTS) хувилбаруудад засвар нэмэгдлээ. Хэрэглэгчид dependency-гээ шууд шинэчлэх шаардлагатай.",
+ "body_mn": "Next.js баг өмнө нь зарлаж байсан аюулгүй байдлын шинэчлэлтээ гаргасан. Засвар нь v16.4.5 (Active LTS) болон v15.5.29 (Maintenance LTS) хувилбарт орсон байна. Төслүүдээ шинэчилж dependency-гээ засахыг зөвлөж байна.\n\nЗасварласан гол асуудлууд нь Cache Components идэвхжсэн үед кэшлэгдсэн агуулгыг root parameter-ийн утгуудаар ялгалгүйгээр дахин ашиглах, unstable_cache болон use cache функцүүдийн хооронд харилцан нөлөөлөх, хуудасны shell-ийг бусад URL-д буруу хуваалцах, мөн нэмэлт binary аргументууд ижил cache identity үүсгэх зэрэг байна. Эдгээр нь олон хэрэглэгчтэй системд өөрийн мэдээлэл бусдад очих эрсдэлтэй.\n\nМөн self-hosted орчинд HTTP/1.1 reverse proxy-ийн ард pipelined хүсэлт дээр хариу буруу хүлээн авагчид очих асуудал тэмдэглэгдсэн. Энэ нь бүх тохиргоонд хамаарахгүй.\n\nХөгжүүлэгчдэд энэ нь шууд хэрэгтэй шинэчлэлт юм. Cache Components болон self-hosted байршуулалттай төслүүд онцгой анхаарах хэрэгтэй.",
+ "published": "2026-11-03T18:00:00Z",
+ "added": "2026-11-05T22:37:17Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}

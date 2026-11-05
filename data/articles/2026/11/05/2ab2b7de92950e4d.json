@@ -1,0 +1,17 @@
+{
+ "id": "2ab2b7de92950e4d",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+ "image": "https://github.blog/wp-content/uploads/2026/11/692880266-19c28791-dea3-4df2-beab-3916036a4d0b.png?fit=1280%2C720",
+ "title": "Arnis turns any place on Earth into a Minecraft world",
+ "summary_en": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.",
+ "title_mn": "Arnis: нээлттэй эх код дэлхийн аливаа газрыг Minecraft ертөнц болгоно",
+ "summary_mn": "Louis Erbkamm-ийн нээлттэй эх Arnis төсөл OpenStreetMap-ийн өгөгдөл ашиглан бодит газрыг Minecraft ертөнц болгоно. Төсөл 2022 оноос хойш 900,000 орчим татагдсан. Зохиогч GitHub Copilot-ийг issue шинжлэх, засвар хийхэд ашигладаг.",
+ "body_mn": "Герман хүн Louis Erbkamm нээлттэй эх Arnis төслөө 2022 онд эхлүүлсэн. Төсөл нь OpenStreetMap болон бусад эх сурвалжаас бодит газрын өгөгдөл авч, Minecraft дээр тоглоход боломжтой ертөнц үүсгэдэг. Төсөл GitHub дээр 900,000 орчим татагдсан бөгөөд 70 орчим хувь нэмэр оруулагчтай.\n\nТөслийн анхны хувилбар Python-оор бичигдсэн бөгөөд зөвхөн OpenStreetMap дээр суурилсан байв. Одоо төслийг Rust руу шилжүүлж байгаа бөгөөд хувь нэмэр оруулагчид 20 орчим хэлнээ орчуулсан. Өндрийн мэдээлэл нэмсний дараа геоспатиал мэргэжилтнүүд идэвхтэй оролцжээ.\n\nЗохиогч бүх pull request-ийг өөрөө шалгадаг тул ажил удаан хугацаанд хуримтлагддаг. Тэрээр GitHub Copilot-ийг нээлттэй issue-үүдийн тоймд, алдааны эх сурвалжийг олоход болон засвар хийхэд ашигладаг. Түүний хэлснээр AI ашигласнаас хойш код шалгалт болон баримтжуулалт нэмэгджээ.\n\nХөгжүүлэгчдэд энэ нь нээлттэй эх төслийг ганцаараа хүүхэлдэхэд AI хэрхэн тусалдагийн жишээ юм. Харин энэ нь жишээ туршлага бөгөөд Copilot-ийн шинэ функцийн мэдээлэл биш байна.",
+ "published": "2026-11-03T16:00:00Z",
+ "added": "2026-11-05T22:37:17Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "2b4786f99076579d",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+ "image": "https://github.blog/wp-content/uploads/2026/11/689797142-96dbb0c9-dccb-41f6-8990-acf5c575db04.webp",
+ "title": "GitHub Copilot is now available in JetBrains Air",
+ "summary_en": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your…",
+ "title_mn": "GitHub Copilot одоо JetBrains Air дээр ажиллах боломжтой боллоо",
+ "summary_mn": "GitHub Copilot нь JetBrains Air дээр ажиллах боломжтой боллоо. Интеграци нь Agent Client Protocol (ACP) ашиглаж, JetBrains IDE дотор болон cloud дээр даалгавар гүйцэтгэнэ. Cloud даалгаврыг Docker контейнер дотор ажиллуулна.",
+ "body_mn": "GitHub Copilot-ийг JetBrains Air дээр ашиглах боломж нээгдлээ. Хөгжүүлэгч кодлох даалгавраа Copilot-д шилжүүлж, гүйцэтгэлийг хянаж, үр дүнг шалгах боломжтой. Интеграци нь Agent Client Protocol (ACP) стандартыг ашигладаг.\n\nОрон нутгийн даалгаварт Air-ийг JetBrains IDE дотор суулгаад GitHub Copilot-ийг сонгож, Copilot акаунтаа холбоно. Cloud даалгаврын хувьд JetBrains акаунт, Air Teams-тэй бизнесийн байгууллага, Copilot захиалга, мөн Air администратороос идэвхжүүлэлт шаардлагатай.\n\nCloud даалгаврууд Docker контейнер дотор шинэ виртуал машин дээр ажилладаг. Бүх трафик прокси-оор дамжиж, даалгавруудын хооронд төлөв хадгалагддаггүй. Copilot нь орон нутгийн орчиндоо нөлөөлөлгүйгээр build, test, багц суулгах боломжтой.\n\nХөгжүүлэгчдэд энэ нь JetBrains орчинд агентын ажлыг аюулгүй, тусгаарлагдсан байдлаар туршихад тустай. Ашиглахаасаа өмнө байгууллагынхаа тохиргоо болон захиалгын нөхцөлийг шалгах хэрэгтэй.",
+ "published": "2026-11-03T15:11:46Z",
+ "added": "2026-11-05T22:37:17Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
