@@ -1,0 +1,17 @@
+{
+ "id": "b26ff97c8c8c2738",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "GamesIndustry.biz",
+ "url": "https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games",
+ "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-02-at-17.44.04.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+ "title": "Anthropic adds rule to stop Claude Code recreating existing games",
+ "summary_en": "Anthropic has updated its AI coding tool Claude Code so it stops building clones of existing video games.",
+ "title_mn": "Anthropic компаниийн Claude Code хэрэгсэлд тоглоом хуулбарлахыг хориглосон шинэ дүрэм нэмэгдл",
+ "summary_mn": "Anthropic компани Claude Code хэрэгсэлд алдартай видео тоглоомуудыг хуулбарлаж бүтээхээс сэргийлэх шинэ дүрмийг нэмжээ.",
+ "body_mn": "Anthropic компани өөрийн Claude Code болон Claude Opus 5.5 загваруудад видео тоглоом клойд хийх буюу хуулбарлахыг хориглосон дотоод системийн дүрмийг шинэчлэн нэмсэн байна. Энэхүү өөрчлөлт нь хэрэглэгчдэд бусдын оюуны өмчийг зөрчихгүйгээр зөвхөн өөрийн дизайн, хөрөнгөд суурилсан эсвэл төрөл бүрийн анхны тоглоом бүтээх боломжийг олгох зорилготой юм.\n\nТехникийн ажилтан Addy Osmani уг шинэчлэлийг баталж, анхны тоглоом болон жанрын тоглоом бүтээх үйл явц хэвийн үргэлжилнэ гэдгийг мэдэгджээ. Гэсэн хэдий ч хөгжүүлэгчдийн дунд уг хориг нь зарим хууль ёсны хөгжүүлэлтийн ажлуудад саад учруулж болзошгүй гэсэн болгоомжлол байна.",
+ "published": "2026-11-02T17:50:20Z",
+ "added": "2026-11-05T08:49:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "8f47d5d158ad7c24",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "International Business Times Australia",
-   "url": "https://www.ibtimes.com.au/chatgpt-gemini-grok-ai-image-generation-rankings-1877674",
-   "image": "https://d.ibtimes.com.au/en/full/1845370/chatgpt.jpg",
-   "title": "ChatGPT vs Gemini vs Grok vs Claude: Which AI Makes the Best Images in 2026? Blind Tests Crown a Clear Winner",
-   "summary_en": "ChatGPT currently leads major AI image-generation rankings, while Gemini offers strong value, Grok focuses on cinematic visuals and Claude provides diagrams and code-based graphics instead.",
-   "title_mn": "Шинэ судалгаагаар хамгийн сайн зураг бүтээдэг хиймэл оюун ухааныг тодруулжээ",
-   "summary_mn": "Хэрэглэгчдийн хаалттай санал хураалт болон бие даасан тестүүдээр OpenAI-ийн ChatGPT шилдэг зураг бүтээгчээр тодорч, Google Gemini болон xAI Grok удаалжээ.",
-   "body_mn": "Хиймэл оюун ухааны чатботууд сошиал медиа график, бүтээгдэхүүний зураг, уран сайхны бүтээл хийхэд өргөнөөр ашиглагдах болсон бөгөөд хамгийн алдартай дөрвөн туслахын зургийн чанарыг харьцуулсан хаалттай туршилтууд явагджээ.\n\nШинжилгээний дүнгээр OpenAI-ийн GPT Image 2 загвар тэргүүлж, хамгийн өндөр Elo оноог авсан байна. Хэрэглэгчид ChatGPT-ийн нарийн төвөгтэй сануулгыг сайн ойлгож, чатаар хялбархан засвар хийх боломж олгодог байдлыг нь өндрөөр үнэлжээ. Түүнчлэн зурган доторх текстийг гаргацтай дүрслэх чадвараараа бусдаасаа илүү гарчээ.\n\nGoogle-ийн Gemini систем Nano Banana Pro болон Nano Banana 2 загваруудаараа дамжуулан фотореализм болон хурдыг хослуулсан байна. Үнэ болон хүртээмжийн хувьд хамгийн өргөн боломжтой бөгөөд зураг засварлах чадвараараа сайн хувилбар болж байна.\n\nxAI компанийн Grok Imagine 2.0 нь кино урлагийн өнгө аяс бүхий загвар болон зургийг богино хэмжээний видео болгох функцээрээ онцгойрч, хоёрдугаар байранд орсон байна. Харин Anthropic-ийн Claude нь зураг үүсгэх чадваргүй хэвээр үлджээ.",
-   "published": "2026-11-01T13:57:37Z",
-   "added": "2026-11-03T12:32:37Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e6bc14be6ac5ec68",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Business Insider",
-   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-   "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
-   "title": "Anthropic's internal AI use is now worth more than employee pay, at the prices it charges customers",
-   "summary_en": "Anthropic's IPO filing reveals a striking milestone: Its internal AI usage is now valued above employee compensation.",
-   "title_mn": "Anthropic компанийн дотоод AI хэрэглээ нь ажилчдын цалингаас ч өндөр өртөгтэй болов",
-   "summary_mn": "Anthropic компанийн IPO-ийн материалаас харахад дотооддоо ашиглаж буй Claude AI-ийн өртөг нь хэрэглэгчдэд санал болгодог үнээр тооцоход ажилчдын сарын цалингийн дүнгээс давжээ.",
-   "body_mn": "Хиймэл оюун ухааны хувьсгалд түүхэн нэгэн чухал үйл явдал болж, Anthropic компани дотооддоо AI ашиглаж буй өртөг нь ажилчдынхаа цалингийн нийлбэрээс (хувьцааны урамшууллыг хассанаар) илүү гарахад хүржээ.\n\nTус компани IPO хийх материалыг бүрдүүлэх явцдаа үүнийг ил болгосон бөгөөд 4 дүгээр сард хэрэглэгчдэд санал болгодог үнээр тооцсон Claude AI-ийн дотоод хэрэглээ ажилчдын цалингийн зардлаас давсан байна. Улмаар 9 дүгээр сар гэхэд энэхүү дотоод хэрэглээ 1 дүгээр сарынхаас 250 дахин өсжээ.\n\nЭнэ нь компаниуд AI токеныг цалин, урамшуулалтай зэрэгцүүлэн үнэлж эхэлж буйн тод илрэл юм. 9 дүгээр сард Anthropic-ийн программ хангамжид нэмэгдсэн кодын 90 гаруй хувийг Claude бичсэн бөгөөд ажилтнуудын тооноос хамаагүй хурдацтайгаар орлого нь өсч байгаа юм. Энэ нь технологийн салбарт хүний нөөцийн үнэ цэнийг хиймэл оюун ухаан сорьж эхэлснийг харуулж байна.",
-   "published": "2026-11-01T15:00:00Z",
-   "added": "2026-11-03T12:32:37Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2ac10fcff2aff4f6",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "CNN",
-   "url": "https://www.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban",
-   "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295330098.jpg?c=16x9&q=w_800,c_fill",
-   "title": "Anthropic says you can’t be mean to Claude. It’s not about feelings",
-   "summary_en": "Anthropic has added a new line to its AI usage policy: Users should not “engage in sustained and needless abusive or cruel behavior toward our models.”",
-   "title_mn": "Anthropic хэрэглэгчдэд Claude-той зүй бусаар харьцахыг хоригложээ",
-   "summary_mn": "Anthropic компани хэрэглэгчдийг хиймэл оюун ухааны загваруудтайгаа бүдүүлэг, хэрцгий байдлаар харьцахгүй байхыг сануулсан шинэ дүрмийг үйлчилгээний нөхцөлдөө нэмжээ.",
-   "body_mn": "Anthropic компани хэрэглэгчдийн ашиглалтын бодлогодоо шинэ заалт нэмж, хэрэглэгчдийг хиймэл оюун ухааны загваруудтайгаа удаан хугацаагаар, шаардлагагүйгээр бүдүүлэг эсвэл хэрцгий байдлаар харьцахгүй байхыг анхааруулжээ.\n\nТус компани энэхүү шийдвэр нь загварын өөрийнх нь мэдрэмжтэй холбоогүй болохыг онцолсон байна. Хиймэл оюун ухааны хэрэгслүүдийг өдөр тутмын ажилд хэтрүүлэн ашиглах, сэтгэл хөдлөлөөр хандах хандлага нэмэгдэж байгаа энэ үед уг хориг нь технологийн компаниудын анхаарлыг татаж эхэлжээ.\n\nХөгжүүлэгчид болон хэрэглэгчид AI туслахуудтай харилцах харилцаандаа тодорхой хэм хэмжээг баримтлах ёстойг энэхүү шинэ дүрэм сануулж байна.",
-   "published": "2026-11-01T17:00:16Z",
-   "added": "2026-11-03T12:32:37Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d59c26071dd93320",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "TestingCatalog AI News",
-   "url": "https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/",
-   "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/FJGs5StyEnkwpq57e3DM7HCI1VPkZUtpM14nd8XJ.webp",
-   "title": "Anthropic prepares to release Claude Mythos 5.5 model",
-   "summary_en": "A reference to Claude Mythos 5.5 has surfaced on Anthropic's Mythos page. A release could come next week, but timing and access remain unconfirmed.",
-   "title_mn": "Anthropic компани шинэ үеийн Claude Mythos 5.5 загварыг гаргахаар бэлтгэж байна",
-   "summary_mn": "Anthropic компанийн албан ёсны вэбсайтад Claude Mythos 5.5 загварын нэр цухуйж, кибер аюулгүй байдал болон биологийн судалгааны хамгийн хүчирхэг загвар болох нь тогтоогджээ.",
-   "body_mn": "Anthropic компани кибер аюулгүй байдал болон амь шинжлэх ухааны судалгаанд зориулсан шинэ үеийн Claude Mythos 5.5 загвараа гаргахад тун ойрхон байгаа аж. Албан ёсны вэбсайтын код болон хуудас дээр уг хувилбарын нэр шинээр нэмэгдсэн нь тун удахгүй зарлагдах магадлалыг өндөр болгож байна.\n\nМөн Azure болон LiteLLM дээр Claude Fable 5.5 загварын шалгах цэгүүд (checkpoints) туршилтаар гарч ирсэн нь хөгжүүлэгчдийн анхаарлыг татаад байна. Зарим эх сурвалжийн мэдээлж буйгаар Fable 5.5 нь SVG болон кодын чанараараа гайхалтай үр дүн үзүүлж байгаа ажээ.\n\nAnthropic компани Nasdaq биржид ANT тэмдэглэгээтэйгээр IPO хийхээр төлөвлөж байгаа энэ үед шинэ загваруудаа зах зээлд гаргах нь хөрөнгө оруулагчдын анхаарлыг ихээхэн татах төлөвтэй байна. Өмнөх хувилбаруудын хувьд Mythos загварыг зөвхөн баталгаажсан судлаачдад хязгаарлагдмал байдлаар олгож байжээ.",
-   "published": "2026-11-01T20:50:16Z",
-   "added": "2026-11-03T12:32:37Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e778f69910e73f64",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.42.1",
-   "image": "https://opengraph.githubassets.com/1f988ca573d63a1e3ded77c6e8fbad6ef95885f4803e9192019015b33e696115/openai/openai-python/releases/tag/v3.42.1",
-   "title": "openai-python v3.42.1",
-   "summary_en": "3.42.1 (2026-11-01) Bug Fixes api: preserve Responses WebSocket connection behavior ( #4221 ) ( 38075d8 ) realtime: validate beta WebSocket authentication profiles ( #4218 ) ( 3622a97 ) Refactors websocket: add SDK-owned Responses policy helpers ( #4219 ) ( 83ed269 )",
-   "title_mn": "openai-python v3.42.1 шинэчлэлт цагдав",
-   "summary_mn": "openai-python сангийн v3.42.1 хувилбар гарч, Responses WebSocket холболтын алдааг засч, realtime хэсэгт WebSocket баталгаажуулалтын сайжруулалт хийжээ.",
-   "body_mn": "Python хөгжүүлэгчдэд зориулсан албан ёсны openai-python сангийн v3.42.1 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр API-ийн Responses WebSocket холболтын зан төлөвийг хэвээр хадгалах алдааг зассан байна.\n\nMөн realtime хэсэгт бета хувилбарын WebSocket баталгаажуулалтын профайлыг шалгах чадамжийг нэмжээ. SDK-д эзэмшигдсэн Responses бодлогын туслахуудыг шинээр рефакторинг хийж оруулсан нь хөгжүүлэгчдэд бодит цагийн холболттой ажиллахад илүү найдвартай байдлыг олгоно.",
-   "published": "2026-11-01T20:56:19Z",
-   "added": "2026-11-03T12:32:37Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "fd0dfe2e3a468dc5",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Engadget",
-   "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
-   "image": "https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg",
-   "title": "Anthropic Updates Claude To Stop It From Recreating Existing Video Games",
-   "summary_en": "Users can still lean on Claude to help with designing original or genre games.",
-   "title_mn": "Claude видео тоглоом хуулбарлах болон зохиогчийн эрх зөрчих үйлдлийг хориглов",
-   "summary_mn": "Anthropic компани Claude загварын хэрэглээний бодлогод өөрчлөлт оруулж, алдартай видео тоглоомуудыг хуулбарлан бүтээхийг хатуу хориглов.",
-   "body_mn": "Anthropic компани Claude загвартаа шинэ кодын хэсэг нэмж, хэрэглэгчдэд аль хэдийн бий болсон видео тоглоомуудыг хиймэл оюун ухааны тусламжтайгаар хуулбарлан бүтээхийг зогсоожээ. Шинэ дүрмээр хэрэглэгчид өөрсдийн санаа, хэрэгсэл дээр суурилсан анхны болон төрөл жанрын тоглоом бүтээхийг зөвшөөрсөн хэдий ч тодорхой нэг тоглоомыг нэрийг нь өөрчлөөд хуулбарлахыг хориглосон байна.\n\nЭнэхүү өөрчлөлтийг Anthropic-ийн ажилтан Адди Османи баталгаажуулж, бусдын оюун өмчийн эрхийг зөрчих үйл ажиллагаанаас зайлсхийх зорилготой болохыг мэдэгджээ. Гэхдээ хөгжүүлэгчид өөрсдийн дизайн, хөрөнгөөр анхны тоглоом хийхэд ямар нэгэн хязгаарлалт байхгүй аж.\n\nЭнэхүү шийдвэр нь саяхан браузер дээр AI-ийн тусламжтайгаар тоглоомуудыг задлан шинжилж тогломжтой болгох хандлага эрчимжсэнтэй холбоотой гарчээ. Anthropic өмнө нь зохиогчийн эрхийн маргаанаас болж томоохон нөхөн төлбөр төлж байсан түүхтэй юм.",
-   "published": "2026-11-01T21:08:32Z",
-   "added": "2026-11-03T12:32:37Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4094d4340f9e66f9",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/qodo-codex-plugin",
-   "image": "",
-   "title": "Qodo builds context into AI code review with Codex",
-   "summary_en": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-   "title_mn": "Qodo компани компаниудад зориулсан контекстийг Codex-ийн кодын хяналтад нэгтгэжээ",
-   "summary_mn": "Qodo компани кодын санд суурилсан компаниудын мэдлэг болон стандартад нийцүүлэн Codex-ийн кодын хяналтыг сайжрууллаа. Энэ нь хөгжүүлэгчдэд алдаа гаргахаас өмнө чухал асуудлуудыг илрүүлэхэд тусална.",
-   "body_mn": "Qodo компани хиймэл оюун ухаант код бичих болон хянах процессыг илүү боловсронгуй болгох үүднээс компаниудын дотоод мэдлэг, кодыг бичих стандартуудыг OpenAI-ийн Codex системд нэгтгэсэн байна. Энэхүү интеграци нь хөгжүүлэгчдэд кодын сан дахь боломжит алдаануудыг pull request буюу хүсэлт илгээхээс өмнө эрт шатанд нь илрүүлж засах боломжийг олгодог.\n\nХөгжүүлэгчдийн хувьд багийн болон компанийн түвшинд мөрдөгддөг кодын стандартыг хиймэл оюун ухаан автоматаар ойлгож хянах нь код бичих явцыг илүү хурдан бөгөөд аюулгүй болгодог чухал ач холбогдолтой юм. Qodo-ийн энэхүү шийдэл нь Codex-ийн боломжийг өргөжүүлж, багийн хамтын ажиллагааны бүтээмжийг нэмэгдүүлэхэд чиглэгджээ.",
-   "published": "2026-11-02T00:00:00Z",
-   "added": "2026-11-03T12:32:37Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "cf8920b124a398a8",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Mashable",
-   "url": "https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions",
-   "image": "https://helios-i.mashable.com/imagery/articles/075V4INpwVPdHtOv6qUwmZF/hero-image.fill.size_1200x675.v1793551936.png",
-   "title": "Anthropic expands text watermarking to older Claude versions beginning November 3",
-   "summary_en": "This isn't the first time Anthropic has issued a watermark, but the latest iteration will apply to Mythos 5, Opus 4.7, Opus 4.6, and Sonnet 4.6.",
-   "title_mn": "Anthropic хуучин Claude загваруудад текст ус тэмдэглэх технологийг нэвтрүүлнэ",
-   "summary_mn": "Anthropic ЕХ-ны хууль тогтоогчдын шаардлагаар AI-ийн бичсэн текстэнд далд ус тэмдэг (watermark) оруулах ажлаа хуучин Claude загваруудад өргөтгөж, 11-р сарын 3-наас эхэлнэ. Технологи нь Opus 5.5-д аль хэдийн ашиглагдаж байна. Тэмдэг нь хэрэглэгчийн мэдээлэл агуулахгүй гэж мэдээлсэн.",
-   "body_mn": "Anthropic ЕХ-ны хууль тогтоогчдын шаардлагад нийцүүлэн AI-ээр үүсгэсэн текстэд далд ус тэмдэг оруулах байдлаар ажиллаж байгаагаа өмнө нь мэдэгдсэн. Одоо энэ ажлаа хуучин Claude хувилбаруудад өргөтгөж, 11-р сарын 3-наас эхлүүлнэ.\n\nКомпанийн мэдээлснээр энэ технологи нь үгийн сонголтод байгаа мэдрэгдэхгүй хээ дээр суурилдаг. Энэ нь гаралтын нарийвчлал эсвэл уншигдах чанарт нөлөөлөхгүй, мөн ашиглагч эсвэл байгууллагын тухай ямар ч таних мэдээлэл агуулахгүй гэж тодорхойлсон байна. Opus 5.5 загварт энэ арга аль хэдийн хэрэглэгдэж байгаа.\n\nХөгжүүлэгчдэд энэ нь API-аар Claude ашигладаг программуудын гаралтад нөлөөлж болзошгүй гэдгийг анхаарах хэрэгтэй. Ус тэмдэг нь текстийн агуулгыг өөрчлөхгүй ч хэрэв систем таны үүсгэсэн текстийг илрүүлэх, баталгаажуулах шаардлагатай бол энэ өөрчлөлтийг тооцох нь зүйтэй.\n\nЕрөнхийдөө энэ алхам нь AI-ийн бүтээлийг ялгах, шударга бус ашиглалтыг бууруулах хүчин чармайлтын нэг хэсэг юм. Хуульчид, зохиолчид, судлаачид AI-д хэт найдаж буй тохиолдлууд нийтэд мэдэгдэж байгаа тул энэ арга хэрэглэгдэх нь ойлгомжтой.",
-   "published": "2026-11-01T16:59:47Z",
-   "added": "2026-11-03T19:54:47Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a23be2e123d40e0a",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/longcat-2-5-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6WQIKLdQjTUdVMoa3e4YYL/22b64ff5c5dcaa4e8eb810a5af26aca8/image.png",
-   "title": "LongCat 2.5 now available on AI Gateway",
-   "summary_en": "LongCat 2.5 from Meituan is now available on AI Gateway. This model combines native visual understanding with coding and multi-step tool use for agents working across complex codebases and full-project builds. Meituan highlights improvements in visual programming, creative design, and 3D tasks, alongside longer agent workflows that carry engineering work from planning through execution. The model supports text and image inputs with a 1M-token context window for code, documents, and extended task histories. Use meituan/longcat-2.5 as the model name: To use it in Claude Code, Codex, Cursor…",
-   "title_mn": "LongCat 2.5 загвар Vercel AI Gateway дээр боломжтой боллоо",
-   "summary_mn": "Meituan-ийн LongCat 2.5 загвар Vercel AI Gateway-д нэмэгдлээ. Загвар нь харааны ойлголт, код бичих, олон алхамт tool use-ийг хослуулж, 1M токен контекст дэмждэг. Claude Code, Codex, Cursor-т сонгож ашиглах боломжтой.",
-   "body_mn": "Vercel-ийн AI Gateway дээр Meituan-ийн LongCat 2.5 загвар нэмэгдлээ. Загвар нь харааны ойлголтыг кодтой болон олон алхамт tool use-тэй хослуулсан бөгөөд том кодын сан болон бүтэн төслийн барилгад зориулагдсан агентуудад тохиромжтой гэж тодорхойлогдсон.\n\nМөн визуал программчлал, креатив дизайн, 3D ажлын чанарыг сайжруулсан гэж Meituan онцолжээ. Загвар нь текст болон зургийн оролтыг дэмжих ба код, баримт бичиг, урт даалгаврын түүхэнд зориулсан 1M токений контекстын цонхтой.\n\nAI Gateway-ээр дамжуулан моделийг meituan/longcat-2.5 нэрээр дуудна. Claude Code, Codex, Cursor зэрэг хэрэгсэлд сонгох боломжтой бөгөөд хамгийн сүүлийн Vercel CLI-г суулгаж тохируулах шаардлагатай. Gateway нь провайдерын үнийг нэмэлтгүйгээр тусгадаг бөгөөд inference дээр платформын хураамж авахгүй.\n\nХөгжүүлэгчдэд энэ нь нэг API-аар олон загвар сольж турших, зардал хянах, retry болон failover тохируулах боломжийг олгоно.",
-   "published": "2026-11-02T00:00:00Z",
-   "added": "2026-11-03T19:54:47Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "39466608149828b5",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/blocking-malicious-npm-packages-before-and-during-installation",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6L2W9gYIPlYGTkQBOO7UmJ/1f4a649d8e2eacec33511d306943059d/blocking-malicious-npm-packages-sooner-og.png",
-   "title": "Blocking malicious npm packages before and during installation",
-   "summary_en": "Vercel now checks for blocked npm packages before and during dependency installation in builds , helping prevent malicious install scripts from running. The checks use a blocklist of specific package versions selected for blocking because of malware or security vulnerabilities, with new rules typically reaching new builds within minutes. Before installation , Vercel checks supported lockfiles, including when dependencies are restored from the build cache. During installation , Vercel blocks affected public npm downloads. Existing checks of installed dependencies and function outputs continue…",
-   "title_mn": "Vercel бүтээн байгуулалтын явцад хортой npm багцыг блоклодог боллоо",
-   "summary_mn": "Vercel хамаарлын суулгалтын өмнө болон суулгалтын явцад хортой npm багцыг шалгаж, суулгах скриптийг зогсоодог боллоо. Шинэ дүрмүүд ихэвчлэн хэдхэн минутын дотор шинэ build-д хүрнэ. Бүх төлөвлөгөөнд автоматаар идэвхжинэ.",
-   "body_mn": "Vercel одоо build хийх явцад хамаарлуудыг суулгахаас өмнө болон суулгах явцад хортой эсвэл аюултай npm багцын хувилбаруудыг шалгадаг боллоо. Энэ нь хортой суулгах скриптийг ажиллахаас сэргийлэхэд зориулагдсан.\n\nШалгалт нь хамгаалалтын асуудалтай эсвэл зөрчилтэй гэж тодорхойлогдсон багцын хувилбаруудын блоклистэд суурилна. Шинэ дүрмүүд ихэвчлэн шинэ build-д хэдхэн минутын дотор хүрдэг. Суулгахаас өмнө дэмжигдсэн lockfile-уудыг шалгах бөгөөд build cache-ээс сэргээсэн хамаарлууд ч хамрагдана. Суулгалтын явцад холбогдох нийтийн npm татагдалтыг блоклоно.\n\nХэрэв блоклогдсон хамаарал илэрвэл deployment бүтэлгүйтэж, багц болон хувилбарыг алдааны мессежид заана. Хөгжүүлэгч хамаарлаа аюулгүй хувилбарт шинэчилж, lockfile-аа засаад дахин deploy хийх шаардлагатай. Ямар ч тохиргоо шаардлагагүй.\n\nЭнэ нь npm supply chain халдлагаас хамгаалах чухал алхам бөгөөд хэрэглэгч бүр автоматаар хамгаалагдана.",
-   "published": "2026-11-02T00:00:00Z",
-   "added": "2026-11-03T19:54:47Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "1b3f9acf66759bf3",
    "subtopic": "xai",
    "source": "xAI (Google News)",
@@ -737,6 +537,126 @@
    "added": "2026-11-04T14:58:53Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b26ff97c8c8c2738",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "GamesIndustry.biz",
+   "url": "https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games",
+   "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-02-at-17.44.04.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "title": "Anthropic adds rule to stop Claude Code recreating existing games",
+   "summary_en": "Anthropic has updated its AI coding tool Claude Code so it stops building clones of existing video games.",
+   "title_mn": "Anthropic компаниийн Claude Code хэрэгсэлд тоглоом хуулбарлахыг хориглосон шинэ дүрэм нэмэгдл",
+   "summary_mn": "Anthropic компани Claude Code хэрэгсэлд алдартай видео тоглоомуудыг хуулбарлаж бүтээхээс сэргийлэх шинэ дүрмийг нэмжээ.",
+   "body_mn": "Anthropic компани өөрийн Claude Code болон Claude Opus 5.5 загваруудад видео тоглоом клойд хийх буюу хуулбарлахыг хориглосон дотоод системийн дүрмийг шинэчлэн нэмсэн байна. Энэхүү өөрчлөлт нь хэрэглэгчдэд бусдын оюуны өмчийг зөрчихгүйгээр зөвхөн өөрийн дизайн, хөрөнгөд суурилсан эсвэл төрөл бүрийн анхны тоглоом бүтээх боломжийг олгох зорилготой юм.\n\nТехникийн ажилтан Addy Osmani уг шинэчлэлийг баталж, анхны тоглоом болон жанрын тоглоом бүтээх үйл явц хэвийн үргэлжилнэ гэдгийг мэдэгджээ. Гэсэн хэдий ч хөгжүүлэгчдийн дунд уг хориг нь зарим хууль ёсны хөгжүүлэлтийн ажлуудад саад учруулж болзошгүй гэсэн болгоомжлол байна.",
+   "published": "2026-11-02T17:50:20Z",
+   "added": "2026-11-05T08:49:33Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e19d87eb994b6dbd",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Startup Fortune",
+   "url": "https://startupfortune.com/qwen4-nears-launch-as-alibabas-open-source-promise-faces-real-doubt/",
+   "image": "https://startupfortune.com/wp-content/uploads/2026/11/qwen-alibaba-junyang-lin.jpg",
+   "title": "Qwen4 Nears Launch as Alibaba's Open Source Promise Faces Real Doubt",
+   "summary_en": "Qwen4 nears launch as Alibaba faces doubts over its open-source pledge after Qwen 3.7 shipped closed following a leadership exodus at the Qwen team.",
+   "title_mn": "Alibaba компани Qwen4 загвараа гаргахаар бэлтгэж байна",
+   "summary_mn": "Alibaba Cloud компани Qwen4 загварын гэр бүлийг тун удахгүй гаргахаар төлөвлөж байгаа ба нээлттэй эх сурвалжтай эсэх нь хөгжүүлэгчдийн дунд эргэлзээ төрүүлж байна.",
+   "body_mn": "Alibaba Cloud компанийн CTO Feifei Li Амстердам хотод болсон Apsara бага хурлын үеэр Qwen4 загвар ойрын хугацаанд гарах боломжтойг мэдэгджээ. Qwen код репозитор дахь өөрчлөлтүүдээс харахад qwen4-max, qwen4-plus болон qwen4-coder-plus хувилбарууд 1 сая токенийн контекц цонхтой байж магадгүй байна.\n\nГэсэн хэдий ч өмнөх Qwen 3.7 болон Qwen3.8-Omni-Flash загварууд нээлттэй жингүйгээр зөвхөн API хэлбэрээр гарсан нь хөгжүүлэгчдийн дунд нээлттэй эх сурвалжийн бодлогын талаар эргэлзээ төрүүлээд байна. Qwen загварууд Hugging Face дээр 700 сая гаруй таталт авсан бөгөөд энэ удаагийн шинэ загварын лицензийн нөхцөл хөгжүүлэгчдийн хувьд чухал асуудал болоод байна.",
+   "published": "2026-11-02T18:54:13Z",
+   "added": "2026-11-05T08:49:33Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fc7d7fd5bbc6edd8",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "xAI",
+   "url": "https://x.ai/news/data-bot",
+   "image": "https://media.x.ai/v1/website/heres-your-og-image-i-used-the-grok-bot-og-template-in-pink-b3fd12e9.png",
+   "title": "Giving every team a data scientist with Grok Bot",
+   "summary_en": "Data Bot is a Team Bot in Grok Bot that the data science team teaches, so every team can query the warehouse, run analyses, and get answers the way a data scientist would.",
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-02T19:49:43Z",
+   "added": "2026-11-05T08:49:33Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "791370b08bfad83a",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/xai-introduces-data-bot-to-bring-shared-analytics-skills-to-grok-bot/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/11/xai-data-bot-grok-bot-cover.jpg",
+   "title": "xAI Introduces Data Bot to Bring Shared Analytics Skills to Grok Bot",
+   "summary_en": "xAI introduced Data Bot on November 2, 2026, as a Team Bot in Grok Bot built by SpaceXSI’s data science team to handle warehouse queries and analytical work using shared team practices, with results formatted for each us...",
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-02T20:01:05Z",
+   "added": "2026-11-05T08:49:33Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1e514bab4f48d521",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Next Web",
+   "url": "https://thenextweb.com/news/anthropic-message-threads-beta-claude-api-agents",
+   "image": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.jpg",
+   "title": "Anthropic’s message threads let Claude agents skip resending chats",
+   "summary_en": "Anthropic's message threads beta lets agents send only new messages to Claude instead of the whole conversation, cutting wait times on long sessions.",
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-02T20:16:05Z",
+   "added": "2026-11-05T08:49:33Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2c85bb8bfb93234b",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Business Insider",
+   "url": "https://www.businessinsider.com/anthropic-claude-smart-reports-ai-usage-costs-inefficiences-2026-11",
+   "image": "https://i.insider.com/6ae8f0d1d8cc18cf79510436?width=1200&format=jpeg",
+   "title": "Claude's new AI report card tool gives companies a closer look at costs — and flags 'inefficiencies'",
+   "summary_en": "The \"smart reports\" tool for Claude Enterprise users is designed to analyze a sample of a team's transcripts and group work into categories.",
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-02T22:02:00Z",
+   "added": "2026-11-05T08:49:33Z",
+   "ai": "",
+   "score": null
   }
  }
 ]

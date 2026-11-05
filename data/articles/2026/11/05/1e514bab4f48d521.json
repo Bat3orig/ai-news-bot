@@ -1,0 +1,17 @@
+{
+ "id": "1e514bab4f48d521",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Next Web",
+ "url": "https://thenextweb.com/news/anthropic-message-threads-beta-claude-api-agents",
+ "image": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.jpg",
+ "title": "Anthropic’s message threads let Claude agents skip resending chats",
+ "summary_en": "Anthropic's message threads beta lets agents send only new messages to Claude instead of the whole conversation, cutting wait times on long sessions.",
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-02T20:16:05Z",
+ "added": "2026-11-05T08:49:33Z",
+ "ai": "",
+ "score": null
+}

@@ -1,0 +1,17 @@
+{
+ "id": "e19d87eb994b6dbd",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Startup Fortune",
+ "url": "https://startupfortune.com/qwen4-nears-launch-as-alibabas-open-source-promise-faces-real-doubt/",
+ "image": "https://startupfortune.com/wp-content/uploads/2026/11/qwen-alibaba-junyang-lin.jpg",
+ "title": "Qwen4 Nears Launch as Alibaba's Open Source Promise Faces Real Doubt",
+ "summary_en": "Qwen4 nears launch as Alibaba faces doubts over its open-source pledge after Qwen 3.7 shipped closed following a leadership exodus at the Qwen team.",
+ "title_mn": "Alibaba компани Qwen4 загвараа гаргахаар бэлтгэж байна",
+ "summary_mn": "Alibaba Cloud компани Qwen4 загварын гэр бүлийг тун удахгүй гаргахаар төлөвлөж байгаа ба нээлттэй эх сурвалжтай эсэх нь хөгжүүлэгчдийн дунд эргэлзээ төрүүлж байна.",
+ "body_mn": "Alibaba Cloud компанийн CTO Feifei Li Амстердам хотод болсон Apsara бага хурлын үеэр Qwen4 загвар ойрын хугацаанд гарах боломжтойг мэдэгджээ. Qwen код репозитор дахь өөрчлөлтүүдээс харахад qwen4-max, qwen4-plus болон qwen4-coder-plus хувилбарууд 1 сая токенийн контекц цонхтой байж магадгүй байна.\n\nГэсэн хэдий ч өмнөх Qwen 3.7 болон Qwen3.8-Omni-Flash загварууд нээлттэй жингүйгээр зөвхөн API хэлбэрээр гарсан нь хөгжүүлэгчдийн дунд нээлттэй эх сурвалжийн бодлогын талаар эргэлзээ төрүүлээд байна. Qwen загварууд Hugging Face дээр 700 сая гаруй таталт авсан бөгөөд энэ удаагийн шинэ загварын лицензийн нөхцөл хөгжүүлэгчдийн хувьд чухал асуудал болоод байна.",
+ "published": "2026-11-02T18:54:13Z",
+ "added": "2026-11-05T08:49:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
