@@ -1,0 +1,17 @@
+{
+ "id": "92958f923c4a1ac5",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "India Today",
+ "url": "https://www.indiatoday.in/technology/news/story/can-ai-fix-another-ais-brain-mit-researchers-use-gpt-6-astra-to-boost-qwens-maths-skills-3031134-2026-11-03",
+ "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/astra-fixes-qwen-031805711-16x9_0.png?VersionId=z_SWoq7YSStutqU82RHuyWDDiEYalFz.",
+ "title": "Can AI fix another AI's brain? MIT researchers use GPT-6 Astra to boost Qwen's maths skills",
+ "summary_en": "What happens when one AI tries to fix another? MIT researchers used OpenAI's GPT-6 Astra to modify Alibaba's Qwen AI model directly, boosting its maths scores without retraining it.",
+ "title_mn": "MIT судлаачид GPT-6 Astra-аар Qwen3.5-0.8B загварын математикийн чадварыг сайжруулжээ",
+ "summary_mn": "MIT-ийн судлаачид GPT-6 Astra-д Qwen3.5-0.8B загварын жинг шууд засах зөвшөөрөл өгчээ. Загварын жингийн 0.016% өөрчилснөөр MATH-500 оноо 7.9%-иас 48.1% болж өссөн гэжээ.",
+ "body_mn": "India Today-ийн мэдээлснээр MIT-ийн судлаачид OpenAI-ийн GPT-6 Astra-г ашиглан Alibaba-ийн Qwen3.5-0.8B загварын дотоод жинг шууд засах туршилт хийжээ. Энэ нь загварыг дахин сургахгүйгээр хийгдсэн гэж мэдээлсэн байна.\n\nСудалгааны бичиг баримтын дагуу Астра давтагдсан үндэслэлийн гогцоог олж, 131,072 жинг өөрчилсөн байна. Ингэснээр MATH-500-ийн оноо 7.9%-иас 48.1% болж, GSM8K 13.8%-иас 67.1% болж, IFEval 21%-иас 62.3% болсон гэжээ. Судлаачид шинэ математик мэдлэг нэмээгүй, зөвхөн байгаа чадварыг ашиглахад саад болсон асуудлыг засснаа тодорхойлсон.\n\nХөгжүүлэгчдэд энэ нь жингийн түвшний засвар хийх боломж нээж байгаа ч туршилт эхний шатандаа байгааг анхаарах хэрэгтэй. Судлаачид туршилтын лог болон аргачлалыг нийтэлсэн байна.",
+ "published": "2026-11-03T04:18:19Z",
+ "added": "2026-11-05T16:59:35Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

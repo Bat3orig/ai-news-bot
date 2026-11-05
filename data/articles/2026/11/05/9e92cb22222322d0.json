@@ -1,0 +1,17 @@
+{
+ "id": "9e92cb22222322d0",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "CyberSecurityNews",
+ "url": "https://cybersecuritynews.com/anthropic-enables-edr-monitoring/",
+ "image": "http://cybersecuritynews.com/wp-content/uploads/2026/11/Anthropic-Enables-EDR-Monitoring.webp",
+ "title": "Anthropic Enables EDR Monitoring in Claude Cowork to Detect Hidden AI Agent Activity",
+ "summary_en": "Anthropic has introduced a beta integration that lets businesses run endpoint detection and response sensors inside Claude Cowork’s local virtual machine.",
+ "title_mn": "Anthropic Claude Cowork-д EDR хяналтын бета интеграц нэмжээ",
+ "summary_mn": "Anthropic бизнесүүд Claude Cowork-ийн орон нутгийн виртуал машин дотор endpoint detection and response сенсор ажиллуулах боломжийг бета хэлбэрээр нээжээ. Энэ нь Team болон Enterprise төлөвлөгөөнд macOS болон Windows дээр боломжтой.",
+ "body_mn": "CyberSecurityNews-ийн мэдээлснээр Anthropic Claude Cowork-ийн орон нутгийн виртуал машин дотор EDR сенсор ажиллуулах бета интеграцийг танилцуулжээ. Ингэснээр компьютер дээрх аюулгүй байдлын программ Cowork-ийн доторх shell команд болон кодыг харж чадахгүй байсан асуудал шийдэгдэнэ.\n\nИнтеграц нь Team болон Enterprise төлөвлөгөөтэй, macOS болон Windows дээр ажиллана. Claude Desktop 4.4212.0 ба түүнээс дээш хувилбар шаардлагатай. Windows дээр MSIX, Virtual Machine Platform зэрэг нөхцөл хэрэгтэй. Хяналтыг MDM эсвэл Intune зэрэг хэрэгсэлээр тохируулна. Anthropic-ийн серверт явдаг Cowork сесс энд хамрагдахгүй.\n\nХөгжүүлэгч болон аюулгүй байдлын багуудад сенсорын өгөгдөл вендор рүү явдаг тул өгөгдөл боловсруулалтыг шалгах хэрэгтэй. Бета хугацаанд Anthropic нэмэлт төлбөр авахгүй, харин вендорууд төлбөр авч болзошгүй.",
+ "published": "2026-11-03T04:53:56Z",
+ "added": "2026-11-05T16:59:35Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

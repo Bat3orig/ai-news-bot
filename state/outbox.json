@@ -658,5 +658,85 @@
    "ai": "",
    "score": null
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "92958f923c4a1ac5",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "India Today",
+   "url": "https://www.indiatoday.in/technology/news/story/can-ai-fix-another-ais-brain-mit-researchers-use-gpt-6-astra-to-boost-qwens-maths-skills-3031134-2026-11-03",
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/astra-fixes-qwen-031805711-16x9_0.png?VersionId=z_SWoq7YSStutqU82RHuyWDDiEYalFz.",
+   "title": "Can AI fix another AI's brain? MIT researchers use GPT-6 Astra to boost Qwen's maths skills",
+   "summary_en": "What happens when one AI tries to fix another? MIT researchers used OpenAI's GPT-6 Astra to modify Alibaba's Qwen AI model directly, boosting its maths scores without retraining it.",
+   "title_mn": "MIT судлаачид GPT-6 Astra-аар Qwen3.5-0.8B загварын математикийн чадварыг сайжруулжээ",
+   "summary_mn": "MIT-ийн судлаачид GPT-6 Astra-д Qwen3.5-0.8B загварын жинг шууд засах зөвшөөрөл өгчээ. Загварын жингийн 0.016% өөрчилснөөр MATH-500 оноо 7.9%-иас 48.1% болж өссөн гэжээ.",
+   "body_mn": "India Today-ийн мэдээлснээр MIT-ийн судлаачид OpenAI-ийн GPT-6 Astra-г ашиглан Alibaba-ийн Qwen3.5-0.8B загварын дотоод жинг шууд засах туршилт хийжээ. Энэ нь загварыг дахин сургахгүйгээр хийгдсэн гэж мэдээлсэн байна.\n\nСудалгааны бичиг баримтын дагуу Астра давтагдсан үндэслэлийн гогцоог олж, 131,072 жинг өөрчилсөн байна. Ингэснээр MATH-500-ийн оноо 7.9%-иас 48.1% болж, GSM8K 13.8%-иас 67.1% болж, IFEval 21%-иас 62.3% болсон гэжээ. Судлаачид шинэ математик мэдлэг нэмээгүй, зөвхөн байгаа чадварыг ашиглахад саад болсон асуудлыг засснаа тодорхойлсон.\n\nХөгжүүлэгчдэд энэ нь жингийн түвшний засвар хийх боломж нээж байгаа ч туршилт эхний шатандаа байгааг анхаарах хэрэгтэй. Судлаачид туршилтын лог болон аргачлалыг нийтэлсэн байна.",
+   "published": "2026-11-03T04:18:19Z",
+   "added": "2026-11-05T16:59:35Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2e4f71c66da5eea9",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Anthropic",
+   "url": "https://www.anthropic.com/research/provable-inference",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
+   "title": "Progress on provable inference for large language models",
+   "summary_en": "Sharing progress on a powerful type of cryptographic proof known as a zkSNARK, which is uniquely fit for provable inference.",
+   "title_mn": "Anthropic хэлний загварын үр дүнг баталгаажуулах FlashProve zkSNARK системийг танилцуулжээ",
+   "summary_mn": "Anthropic болон EPFL, MIT зэрэг судлаачид AI хариултыг тодорхой загвараар гаргасныг криптографийн баталгаагаар нотлох provable inference аргыг судалжээ. Судалгааны код, Lean баталгаа Apache 2.0 лицензээр нээлттэй байна.",
+   "body_mn": "Anthropic-ийн судлаачид хэрэглэгч AI хариултыг тодорхой загвараас гаралтай эсэхийг шалгах боломжгүй асуудлыг тайлбарласан. Үйлчилгээ үзүүлэгч зарим хүсэлтийг өөр загварт чиглүүлж болзошгүй гэж дурджээ.\n\nСудалгаа zkSNARK төрлийн криптографийн баталгаан дээр суурилж, FlashProve гэсэн системийг танилцуулсан байна. Энэ систем загвар commit хийж, хариулт бүрийг тухайн загвараас гарсан гэдгийг нотлох боломжтой. Код, Lean баталгаа, документаци Apache 2.0 лицензээр нээлттэй гаргасан.\n\nХөгжүүлэгчдэд энэ нь AI API-н хариултыг баталгаажуулах, үйлчилгээ үзүүлэгчдийн найдвартай байдлыг шалгах шинэ арга замыг нээж байна. Гэхдээ энэ нь эрт үе шатны судалгаа гэдгийг санах хэрэгтэй.",
+   "published": "2026-11-03T04:43:45Z",
+   "added": "2026-11-05T16:59:35Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9e92cb22222322d0",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "CyberSecurityNews",
+   "url": "https://cybersecuritynews.com/anthropic-enables-edr-monitoring/",
+   "image": "http://cybersecuritynews.com/wp-content/uploads/2026/11/Anthropic-Enables-EDR-Monitoring.webp",
+   "title": "Anthropic Enables EDR Monitoring in Claude Cowork to Detect Hidden AI Agent Activity",
+   "summary_en": "Anthropic has introduced a beta integration that lets businesses run endpoint detection and response sensors inside Claude Cowork’s local virtual machine.",
+   "title_mn": "Anthropic Claude Cowork-д EDR хяналтын бета интеграц нэмжээ",
+   "summary_mn": "Anthropic бизнесүүд Claude Cowork-ийн орон нутгийн виртуал машин дотор endpoint detection and response сенсор ажиллуулах боломжийг бета хэлбэрээр нээжээ. Энэ нь Team болон Enterprise төлөвлөгөөнд macOS болон Windows дээр боломжтой.",
+   "body_mn": "CyberSecurityNews-ийн мэдээлснээр Anthropic Claude Cowork-ийн орон нутгийн виртуал машин дотор EDR сенсор ажиллуулах бета интеграцийг танилцуулжээ. Ингэснээр компьютер дээрх аюулгүй байдлын программ Cowork-ийн доторх shell команд болон кодыг харж чадахгүй байсан асуудал шийдэгдэнэ.\n\nИнтеграц нь Team болон Enterprise төлөвлөгөөтэй, macOS болон Windows дээр ажиллана. Claude Desktop 4.4212.0 ба түүнээс дээш хувилбар шаардлагатай. Windows дээр MSIX, Virtual Machine Platform зэрэг нөхцөл хэрэгтэй. Хяналтыг MDM эсвэл Intune зэрэг хэрэгсэлээр тохируулна. Anthropic-ийн серверт явдаг Cowork сесс энд хамрагдахгүй.\n\nХөгжүүлэгч болон аюулгүй байдлын багуудад сенсорын өгөгдөл вендор рүү явдаг тул өгөгдөл боловсруулалтыг шалгах хэрэгтэй. Бета хугацаанд Anthropic нэмэлт төлбөр авахгүй, харин вендорууд төлбөр авч болзошгүй.",
+   "published": "2026-11-03T04:53:56Z",
+   "added": "2026-11-05T16:59:35Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ff7d1b20051c1eea",
+   "subtopic": "css-web",
+   "source": "Smashing Magazine",
+   "source_label": "Smashing Magazine",
+   "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+   "image": "https://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
+   "title": "Modern CSS Might Make Your Front-End More Complex",
+   "summary_en": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
+   "title_mn": "Орчин үеийн CSS фронтенд кодыг илүү нарийн төвөгтэй болгож магадгүй гэж Smashing Magazine бичжээ",
+   "summary_mn": "Container query гэх мэт шинэ CSS функцууд JavaScript-тэй хамт ажиллахдаа гэнэтийн алдаа үүсгэж болно гэж Smashing Magazine нийтлэлдээ дүгнэжээ. Зөвхөн код устгах нь төвөгтэй байдлыг бууруулдаггүй гэдгийг жишээгээр харуулжээ.",
+   "body_mn": "Smashing Magazine-ийн нийтлэлд ResizeObserver-ийг container query-ээр солих нь кодын diff-ийг цэвэрсгэж мэт боловч дараа нь layout-ийн алдаа гарч болохыг жишээгээр харуулжээ. Зарим карт алга болох, таблетад гарчиг гэнэт томрох зэрэг асуудал CSS-ийн хэдэн мөрөөс үүдэлтэй байдаг.\n\nЗохиолч CSS, JavaScript, CSS cascade болон browser-ийн rendering хоорондын харьцааг орон сууцны хамтран амьдрахтай зүйрлэжээ. Шинэ функц бүр бусад хэсэгтэйгээ хэрхэн нийцэж буйг ойлгохгүй бол системийн тогтвортой байдал алдагдана. Иймд зөвхөн кодын мөрийн тоо биш, системийн ойлгомжтой байдлыг хэмжих хэрэгтэй гэж үзжээ.\n\nNASA-ийн жишээ гэх мэт ч биш, харин Front-end хөгжүүлэгчдэд шууд хэрэгтэй практик анхааруулга юм. Шинэ CSS функц ашиглахдаа хуучин JavaScript логиктой хэрхэн харилцахыг урьдчилан шалгах нь чухал.",
+   "published": "2026-11-03T10:00:00Z",
+   "added": "2026-11-05T16:59:35Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]
