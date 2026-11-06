@@ -918,5 +918,45 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a7b1f713b7179f87",
+   "subtopic": "nestjs",
+   "source": "nestjs/nest",
+   "source_label": "nestjs/nest",
+   "url": "https://github.com/nestjs/nest/releases/tag/v12.3.3",
+   "image": "https://opengraph.githubassets.com/06e64247ebac7e101cf83e42fcf307e0574c061c40b1fa17315cd333d77b18d7/nestjs/nest",
+   "title": "nest v12.3.3",
+   "summary_en": "v12.3.3",
+   "title_mn": "NestJS v12.3.3 шинэчлэлт гарлаа",
+   "summary_mn": "NestJS фрэймворкийн v12.3.3 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд хүрлээ.",
+   "body_mn": "NestJS баг v12.3.3 хувилбарыг гаргалаа. Энэхүү шинэчлэлт нь сервер талын TypeScript програмуудыг хөгжүүлэх явцыг илүү тогтвортой болгох засваруудыг агуулж байна.\n\nХөгжүүлэгчид уг хувилбар руу шилжсэнээр алдаануудаас ангижирч, төслийнхөө гүйцэтгэлийг сайжруулах боломжтой юм.",
+   "published": "2026-11-04T09:35:00Z",
+   "added": "2026-11-06T22:36:33Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2e6a221cac7d2de4",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/introducing-vercel-schedules",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/a8qC8AzRhcMq7pyEnyzsP/36b609a62176ba645bbde61ef0af23d1/image.png",
+   "title": "Introducing Vercel Schedules",
+   "summary_en": "Cron jobs are useful for work that needs to happen regularly. You can use them to do things such as back up your database on a schedule, or keep data in sync between two systems. You define them once in code and then can update them by editing their config and redeploying. But today, agents interact with users as work evolves, and schedules need to be updated in real time. We built Vercel Schedules to allow agents and applications to create, change, or cancel one-time and recurring schedules through code, without redeploying. What are Vercel Schedules? Schedules builds on the static approach…",
+   "title_mn": "Vercel Schedules: Агент болон аппликейшнүүдэд зориулсан динамик хуваарь",
+   "summary_mn": "Vercel Schedules хэрэгсэл нь код болон JS SDK ашиглан хиймэл оюун ухааны агент болон аппликейшнүүдэд цагийн хуваарийг шууд үүсгэх, өөрчлөх боломжийг олгож байна.",
+   "body_mn": "Vercel компани хөгжүүлэгчдэд зориулсан Vercel Schedules хэрэгслээ албан ёсоор танилцууллаа. Уг шинэ боломж нь хиймэл оюун ухааны агент болон аппликейшнүүдэд дахин байршуулалт хийлгүйгээр код дотроосоо нэг удаагийн болон давтагдах ажлын хуваарийг удирдах боломжийг олгодог.\n\nУламжлалт Cron job болон өгөгдлийн сангийн тусламжтайгаар цаг товлох аргыг боловсронгуй болгож, агентууд ажиллаж байх явцдаа бодит цаг хугацаанд хуваарь үүсгэх эсвэл цуцлах боломжийг бүрдүүлжээ. Тухайлбал, хэрэглэгч агентаас өглөө бүр тодорхой мэдээллийг хураангуйлж бэлтгэхийг хүсэхэд уг хэрэгсэл тухайн ажлыг автоматаар хуваарьт оруулдаг байна.\n\nХөгжүүлэгчид үүнийг static байдлаар vercel.json файлд тохируулах эсвэл dynamic байдлаар JavaScript SDK, CLI болон API ашиглан ажиллуулах боломжтой. Мөн Vercel Queues болон хувийн функцүүдтэй нягт уялдаж ажилладаг бөгөөд бүтээгдэхүүн рүү оруулахаасаа өмнө Preview орчинд тест хийх боломжтой юм.",
+   "published": "2026-11-04T13:00:00Z",
+   "added": "2026-11-06T22:36:33Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

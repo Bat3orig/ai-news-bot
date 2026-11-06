@@ -1,0 +1,17 @@
+{
+ "id": "a7b1f713b7179f87",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.3.3",
+ "image": "https://opengraph.githubassets.com/06e64247ebac7e101cf83e42fcf307e0574c061c40b1fa17315cd333d77b18d7/nestjs/nest",
+ "title": "nest v12.3.3",
+ "summary_en": "v12.3.3",
+ "title_mn": "NestJS v12.3.3 шинэчлэлт гарлаа",
+ "summary_mn": "NestJS фрэймворкийн v12.3.3 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд хүрлээ.",
+ "body_mn": "NestJS баг v12.3.3 хувилбарыг гаргалаа. Энэхүү шинэчлэлт нь сервер талын TypeScript програмуудыг хөгжүүлэх явцыг илүү тогтвортой болгох засваруудыг агуулж байна.\n\nХөгжүүлэгчид уг хувилбар руу шилжсэнээр алдаануудаас ангижирч, төслийнхөө гүйцэтгэлийг сайжруулах боломжтой юм.",
+ "published": "2026-11-04T09:35:00Z",
+ "added": "2026-11-06T22:36:33Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
