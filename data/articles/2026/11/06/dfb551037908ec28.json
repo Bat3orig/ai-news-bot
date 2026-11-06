@@ -1,0 +1,17 @@
+{
+ "id": "dfb551037908ec28",
+ "subtopic": "node",
+ "source": "Node.js Blog",
+ "source_label": "Node.js Blog",
+ "url": "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases",
+ "image": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20November%2011,%202026%20Security%20Releases",
+ "title": "Wednesday, November 11, 2026 Security Releases",
+ "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+ "title_mn": "Node.js төсөл 11 дүгээр сарын аюулгүй байдлын шинэчлэлтээ зарлалаа",
+ "summary_mn": "Node.js баг 26.x, 24.x болон 22.x хувилбаруудын аюулгүй байдлын шинэчлэлтийг энэ долоо хоногт гаргахаар болжээ. Эдгээр шинэчлэлтээр өндөр буюу HIGH зэрэглэлийн эмзэг байдлуудыг засах юм.",
+ "body_mn": "Node.js төсөл 26.x, 24.x болон 22.x хувилбаруудын шинэчлэлтийг гаргахаар төлөвлөж байна. Энэхүү шинэчлэлт нь эдгээр хувилбаруудад илэрсэн аюулгүй байдлын асуудлуудыг шийдвэрлэх зорилготой юм.\n\nЗасагдаж буй хамгийн өндөр зэрэглэлийн асуудал нь HIGH буюу өндөр түвшний эрсдэлтэй болохыг төслийн баг мэдэгдсэн байна. Дэмжих хугацаа нь дууссан хувилбарууд үргэлж эрсдэлтэй байдаг тул хөгжүүлэгчдийг албан ёсны хуваарийн дагуу хамгийн сүүлийн үеийн хувилбарт шилжихийг зөвлөж байна.\n\nШинэчлэлтийн дэлгэрэнгүй мэдээлэл болон засварууд албан ёсны сувгуудаар дамжуулан хөгжүүлэгчдэд хүрэх бөгөөд nodejs-sec мэдээллийн жагсаалтад бүртгүүлж цаг алдалгүй мэдээлэл авах боломжтой.",
+ "published": "2026-11-03T23:00:00Z",
+ "added": "2026-11-06T10:38:43Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

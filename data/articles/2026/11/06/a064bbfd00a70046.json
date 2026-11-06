@@ -1,0 +1,17 @@
+{
+ "id": "a064bbfd00a70046",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v43.8.7",
+ "image": "https://opengraph.githubassets.com/fcf86544157e945a3f0e9e328a21f9003abd30a2495b596099be140ef1c11aaf/electron/electron/releases/tag/v43.8.7",
+ "title": "electron v43.8.7",
+ "summary_en": "Release Notes for v43.8.7 Fixes Fixed a crash when using hidden window as the parent in Wayland. #55569 (Also in 44 , 45 , 46 )",
+ "title_mn": "Electron v43.8.7 хувилбар гарлаа",
+ "summary_mn": "Electron v43.8.7 хувилбарт Wayland орчин дахь цонхны алдааг заслаа.",
+ "body_mn": "Electron баг v43.8.7 засварын хувилбарыг гаргалаа. Энэхүү хувилбар нь гол төлөв Wayland орчин дахь алдааг засахад чиглэжээ.\n\nТодруулбал, нууц цонхыг эцэг цонх болгон ашиглах үед гардаг байсан гэнэтийн зогсолтыг энэхүү хувилбараар зассан байна. Энэхүү засвар нь 44, 45, 46 хувилбаруудад мөн тусгагдсан болно.",
+ "published": "2026-11-03T18:56:48Z",
+ "added": "2026-11-06T10:38:43Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

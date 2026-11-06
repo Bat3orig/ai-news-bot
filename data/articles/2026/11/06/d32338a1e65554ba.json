@@ -1,0 +1,17 @@
+{
+ "id": "d32338a1e65554ba",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v45.2.2",
+ "image": "https://opengraph.githubassets.com/85ba554c51219a2b200b4ca252ebf8a170e2bf0f0707f92b7c16fe7830bcdb83/electron/electron/releases/tag/v45.2.2",
+ "title": "electron v45.2.2",
+ "summary_en": "Release Notes for v45.2.2 Fixes Fixed a crash when using hidden window as the parent in Wayland. #55571 (Also in 43 , 44 , 46 ) Fixed removeInsertedCSS() not removing cssOrigin: 'user' stylesheets. #55538 (Also in 46 ) Other Changes Updated Chromium to 156.0.8078.80. #55512 Updated Node.js to v24.22.2. #55474",
+ "title_mn": "Electron v45.2.2 хувилбар гарлаа",
+ "summary_mn": "Electron v45.2.2 хувилбар Chromium 156 болон Node.js v24.22.2 руу шинэчлэгдлээ.",
+ "body_mn": "Electron хүрээний шинэ v45.2.2 хувилбар гарлаа. Энэхүү хувилбараар Wayland орчин дахь цонхны алдааг засч, removeInsertedCSS() функц cssOrigin: 'user' загваруудыг устгадаггүй байсан алдааг зассан байна.\n\nТүүнчлэн Chromium хөдөлгүүрийг 156.0.8078.80 хувилбар болгон шинэчилж, Node.js-ийг v24.22.2 хувилбарт хүргэжээ. Энэ нь хөгжүүлэгчдэд шинэ боломж болон тогтвортой байдлыг олгож байна.",
+ "published": "2026-11-03T19:31:31Z",
+ "added": "2026-11-06T10:38:43Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

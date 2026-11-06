@@ -1,0 +1,17 @@
+{
+ "id": "a44af420774e4554",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-security-review-public-beta",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2tlcRn6BrKMsBOUba3hFub/8723cf68a4fdc428f597a31abc14b13d/image__63_.png",
+ "title": "Vercel Security Review now in public beta",
+ "summary_en": "Vercel Security Review is now in public beta for Pro and Enterprise teams. Once enabled, every push to a connected GitHub repository is automatically reviewed for vulnerabilities, and findings are reported in the Vulnerabilities dashboard . What triggers a review Security Review runs automatically when code is pushed to a connected GitHub repository. Because reviews start from push events rather than pull requests, direct and force pushes to your production branch are reviewed as well. Every project affected by a single push is reviewed together. What a finding includes Each finding records…",
+ "title_mn": "Vercel Security Review олон нийтийн бета хувилбараар гарлаа",
+ "summary_mn": "Vercel Security Review бета хувилбар нь GitHub репозитори руу код түлхэх бүрт автоматаар эмзэг байдлыг шалгана.",
+ "body_mn": "Vercel компани Pro болон Enterprise багуудад зориулсан Vercel Security Review хэрэгслээ олон нийтийн бета хувилбараар нээлээ. Энэхүү хэрэгсэл нь холбогдсон GitHub репозитори руу код түлхэх бүрт автоматаар эмзэг байдлыг шалгаж, үр дүнг Vulnerabilities хянах самбарт харуулдаг.\n\nШалгалт нь PR буюу хүсэлт үүсгэхийг хүлээлгүйгээр шууд код оруулах үед ажилладаг тул production салбар руу хийсэн шууд өөрчлөлтүүдийг ч хянадаг байна. Олдсон эмзэг байдал бүрт төслийн нэр, орчин, commit болон хиймэл оюун ухаанаар үүсгэсэн эрсдэлийн үнэлгээг хавсаргадаг.\n\nХөгжүүлэгчид Fix with Vercel Agent товчийг дарж Vercel AI азантаар засвар хийлгэн PR үүсгэх боломжтой. Мөн багууд өөрсдийн аюулгүй байдлын бодлогыг энгийн хэлээр бичиж өгөх замаар шалгалтын нөхцөлийг өөрчлөх боломжтой юм. Энэхүү үйлчилгээ нь 2026 оны 11 дүгээр сарын 10 хүртэл үнэ төлбөргүй ажиллана.",
+ "published": "2026-11-03T20:00:00Z",
+ "added": "2026-11-06T10:38:43Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

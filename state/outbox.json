@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "8103dd03087355c5",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2fotrc5UJPrkkjsZ2CgGTB/87ba10c986cac5016159241ce304c8c0/image__13_.png",
-   "title": "Evaluate Vercel Flags from another project without sharing SDK keys.",
-   "summary_en": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployment’s identity. For local development, vercel env pull retrieves your project’s OIDC token. Manage access from the Connections page under your project's Flags section, or with vercel flags connections in the CLI. Connections grant read-only access across all environments. The…",
-   "title_mn": "Vercel Flags-д Project Connections боломж нэмэгдл",
-   "summary_mn": "Vercel Flags нь өөр төслийн флагуудыг SDK түлхүүргүйгээр ашиглах Project Connections боломжийг танилцууллаа.",
-   "body_mn": "Vercel компани хөгжүүлэгчдэд зориулсан Project Connections шинэ боломжийг гаргалаа. Энэ нь аппликейшнүүдэд нэг багийн хүрээнд өөр Vercel төсөлд тодорхойлогдсон флагаудыг сервер SDK түлхүүрийг гар аргаар удирахгүйгээр үнэлэх боломжийг олгодог.\n\nӨмнө нь төслүүд хоорондох флаг хуваалцахын тулд серверийн SDK түлхүүрийг орчны хувьсагч руу хуулж, гараар шинэчлэх шаардлагатай байсан бол одоо байршуулалтынхаа identity буюу баталгаажуулалтаар дамжин ажиллах юм. Орон нутгийн хөгжүүлэлтийн үед vercel env pull команд нь төслийн OIDC токенийг татаж авдаг байна.\n\nХандалтын эрхийг төслийн Flags хэсгээс эсвэл CLI ашиглан удирдахад хялбар бөгөөд бүх төлөвлөгөөний хүрээнд ашиглах боломжтой. Энэхүү шинэ боломжийг ашиглахын тулд @flags-sdk/vercel 1.6.0 эсвэл @vercel/flags-core 1.11.0 болон түүнээс дээш хувилбарыг ашиглах шаардлагатай.",
-   "published": "2026-11-02T16:00:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "035479bfcb142eeb",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-sandbox-with-drives-now-starts-up-to-2-4x-faster",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20uyy3LbeCtdmZfzoSHC1p/50cf4f6cb912d7ff9ffe1e79739277c6/vercel-sandboxes-with-drives-now-start-up-to-2-4-faster.png",
-   "title": "Vercel Sandbox with Drives now starts up to 2.4× faster",
-   "summary_en": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives documentation . Read more",
-   "title_mn": "Vercel Sandbox-ийн ажиллах хурд 2.4 дахин нэмэгдлээ",
-   "summary_mn": "Драйв холбодог Vercel Sandbox орчин автоматаар хурдасч, бүтээх дундаж хугацаа 0.7 секунд болж буурлаа.",
-   "body_mn": "Vercel платформын хөгжүүлэгчид Drive холбосон Vercel Sandbox орчныг илүү хурдан ажилладаг болгосноо зарлалаа. Шинэчлэлтийн үр дүнд sandbox үүсгэх медиан хугацаа 1.7 секундээс 0.7 секунд болж буурсан бол p95 үзүүлэлт 2.2 секундээс 1.6 секунд болж сайжиржээ.\n\nЭнэхүү хурдны сайжруулалт нь Drive ашигладаг бүх sandbox-уудад ямар нэгэн SDK шинэчлэлт эсвэл тохиргооны өөрчлөлт хийхгүйгээр автоматаар хэрэгжих юм. Үнийн хувьд ямар нэгэн өөрчлөлт орохгүй бөгөөд хөгжүүлэгчид илүү шуурхай ажиллах боломжтой болж байна.\n\nДэлгэрэнгүй мэдээллийг Vercel Drives баримтжуулалтаас харж болох бөгөөд энэ нь үүлэн орчин дахь туршилт болон автомат ажиллагааг илүү хурдан болгож байна.",
-   "published": "2026-11-02T16:39:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "39a1061487e1404d",
-   "subtopic": "nextjs",
-   "source": "vercel/next.js",
-   "source_label": "vercel/next.js",
-   "url": "https://github.com/vercel/next.js/releases/tag/v16.4.4",
-   "image": "https://opengraph.githubassets.com/99e10ac98fdfcd75bfcddc2ce1e24f95653c4beb2218ecd2e412b00174822a6f/vercel/next.js/releases/tag/v16.4.4",
-   "title": "next.js v16.4.4",
-   "summary_en": "Note This release is backporting bug fixes. It does not include all pending features/changes on canary. The announced security released for November will be published tomorrow. Core Changes [lts-active] test: disable the reads fallback params after a client navigation deployment test ( #100668 ) [lts-active] Reload on missed Turbopack startup CSS updates ( #100619 ) [lts-active] Revert \"Optimize strict module factory chunks ( #98421 )\" ( #100866 ) [lts-active] Emit the Turbopack shared-runtime bootstrap in the PPR resume so it gets the CSP nonce ( #100907 ) [lts-active] [ci] Pin deploy test…",
-   "title_mn": "Next.js v16.4.4 хувилбар гарлаа",
-   "summary_mn": "Next.js v16.4.4 хувилбар нь турбопак болон аюулгүй байдлын чухал засваруудыг багтаасан алдаа засах хувилбар юм.",
-   "body_mn": "Next.js баг v16.4.4 хувилбарыг албан ёсоор гаргалаа. Энэхүү хувилбар нь гол төлөв алдаануудыг зассан бөгөөд canary салбар дээрх бүх шинэ боломжуудыг хараахан агуулаагүй байна.\n\nШинэчлэлтээр турбопакын эхлэх үеийн CSS шинэчлэлт алдагдах асуудлыг засч, PPR resume хэсэгт Turbopack shared-runtime bootstrap-ийг оруулан CSP nonce авах боломжтой болгожээ. Мөн jsonwebtoken сангийн оронд илүү хурдан fast-jwt санг ашиглахаар өөрчилсөн байна.\n\nЭнэхүү засварт @icyJoseph, @mischnic, @wbinnssmith болон бусад хөгжүүлэгчид хувь нэмрээ оруулсан бөгөөд November сарын security release маргааш гарахаар төлөвлөгдөөд байна.",
-   "published": "2026-11-02T16:41:08Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e8b338dcfb56e8b3",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4SEIitysI8PoSbaUzkM1Vp/03d93d5b7dc657382a57d4b81960de98/image__59_.png",
-   "title": "Flags Explorer redesigned for easier override sharing",
-   "summary_en": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever a branch has overrides set, they will be recommended to teammates visiting the deployment through a dialog. Flags Explorer is available on all plans. Read the documentation to get started. Read more",
-   "title_mn": "Vercel Flags Explorer илүү хялбар болж шинэчлэгдл",
-   "summary_mn": "Vercel Toolbar дахь Flags Explorer хэрэгсэл шинэчлэгдэж, багийн гишүүдтэй override хуваалцах боломж сайжирлаа.",
-   "body_mn": "Vercel компани Vercel Toolbar дотор ажилладаг Flags Explorer хэрэгслээ дахин загварчилж, хөгжүүлэгчдэд илүү хялбар болголоо. Шинэ интерфейс нь override утгууд, салбарын зөвлөмжүүд болон холбогдох үйлдлүүдийг нэг дор төвлөрүүлжээ.\n\nЯмар нэгэн салбар дээр override утгууд тохируулагдсан үед уг deployment дээр зочилж буй багийн гишүүдэд автоматаар зөвлөмж харуулах юм. Энэхүү хэрэгсэл нь бүх план дээр ямар нэгэн нэмэлт төлбөргүйгээр ажиллах ба хөгжүүлэгчдэд флагауудыг шалгах, багтайгаа хуваалцахыг хялбар болгож байна.",
-   "published": "2026-11-02T16:58:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2df04eaf2c914e6d",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5G51ONTdXnLfJUJip02oSF/fe5511339b9ccde3b87ab8ebd5897408/CleanShot_2026-10-09_at_4.53.30_PM_2x.png",
-   "title": "Vercel MCP now renders deployments as an interactive card",
-   "summary_en": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, or open the fullscreen view to read them beneath the card. For repositories linked to multiple projects, a project list lets you switch between them. The card is Vercel MCP's first MCP App, built on the MCP Apps extension. Clients without app support receive the deployment…",
-   "title_mn": "Vercel MCP нь ChatGPT дотор интерактив карт харуулдаг боллоо",
-   "summary_mn": "Vercel MCP нь ChatGPT болон бусад чат клиентийн дотор deploy статусыг харуулах анхны интерактив карт аппыг гаргалаа.",
-   "body_mn": "Vercel Model Context Protocol (MCP) интеграци нь одоо хөгжүүлэгчдэд зориулж deploy статусыг ChatGPT болон бусад MCP App дэмждэг чат клиентийн дотор интерактив карт хэлбэрээр харуулах боломжтой боллоо.\n\nУг карт нь шууд deployment статус, build log болон commit-ийн мэдээллийг харуулах ба URL бэлэн болмогц Visit товч гарч ирдэг. Хөгжүүлэгчид log-уудыг шууд чат руу илгээж хиймэл оюунаар алдааг шалгуулах боломжтой бөгөөд олон төсөлтэй ажиллах үед төслүүд хооронд хялбар шилжих боломжтой.\n\nЭнэ нь Vercel MCP-ийн хувьд анхны MCP App бөгөөд чат програмууд дээр ажиллах шинэ боломжийг нээж өгч байна. ChatGPT болон бусад үйлчилгээ уг холболтыг Connectors тохиргоогоор дамжуулан ашигладаг.",
-   "published": "2026-11-02T17:05:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c45a0b6d7de18ac5",
-   "subtopic": "gemini",
-   "source": "Google AI Blog",
-   "source_label": "Google AI Blog",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.width-1300.png",
-   "title": "The latest AI news we announced in October 2026",
-   "summary_en": "Animated carousel of images from AI posts in October",
-   "title_mn": "Google: 2026 оны 10 дугаар сарын AI шинэчлэлтийн тойм",
-   "summary_mn": "Google компани аравдугаар сард Gemini 4 Argon, Carbon болон Genie 4 загварууд болон хиймэл оюуны томоохон шинэчлэлтүүдээ танилцууллаа.",
-   "body_mn": "Google компани 2026 оны 10 дугаар сард хиймэл оюуны чиглэлээр гаргасан томоохон бүтээгдэхүүн, загваруудын тоймоо танилцууллаа. Гол онцлох үйл явдлуудын нэг бол хөгжүүлэгчид болон аж ахуйн нэгжүүдэд зориулан гаргасан дэвшилтэт Gemini 4 Argon загвар болон кибер аюулгүй байдал, инженерийн чиглэлд төвлөрсөн Gemini 4 Carbon модель юм.\n\nТүүнчлэн бодит цагийн интерактив ертөнцийг аудио болон физик хөдөлгөөнтэйгөөр бүтээдэг Genie 4 загварыг танилцуулсан нь робот техник болон агентуудыг бэлтгэхэд чухал алхам болжээ. Үүнээс гадна SynthID Detector хэрэгслийг дэлхий даяар өргөжүүлж, AI-аар үүсгэгдсэн контентыг шалгах боломжийг хэрэглэгчдэд олгосон байна.\n\nЭдгээр шинэчлэлтүүд нь Google AI Studio, Gemini API болон Google Cloud платформуудаар дамжуулан хөгжүүлэгчдэд хүрч байгаа бөгөөд хиймэл оюуны чадамжийг шинэ түвшинд гаргаж байна.",
-   "published": "2026-11-02T17:45:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0d297090385ad5a7",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-   "image": "",
-   "title": "Preparing our next security sprint to harden OpenAI",
-   "summary_en": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-   "title_mn": "OpenAI аюулгүй байдлаа сайжруулах зорилгоор шинэ спринт эхлүүлнэ",
-   "summary_mn": "OpenAI компани Cathedral Systems-тэй хамтран хиймэл оюун ашиглан дотоод хамгаалалтаа шалгаж, бэхжүүлэх аюулгүй байдлын спринтэд бэлтгэж байна.",
-   "body_mn": "OpenAI компани өөрийн дотоод аюулгүй байдлын системээ илүү найдвартай болгох зорилгоор шинэ удаагийн дотоод аюулгүй байдлын спринт зарлахаар бэлтгэж байна. Энэхүү ажилд Cathedral Systems компанитай хамтран ажиллаж байгаа аж.\n\nУг спринтийн хүрээнд хиймэл оюуны технологиудыг ашиглан компанийн хамгаалалтын систем дэх сул талуудыг илрүүлэх, бат бөх байдлыг шалгах сорилтуудыг хийх юм. Хиймэл оюуны загварууд өргөжихийн хэрээр аюулгүй байдлыг хангах нь OpenAI-ийн хувьд нэн тэргүүний зорилт болоод байна.",
-   "published": "2026-11-02T18:00:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "bca108e4c77bd86b",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "image": "",
-   "title": "Rewarding defenders with bigger bug bounties",
-   "summary_en": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-   "title_mn": "OpenAI алдаа илрүүлэгчдийн урамшууллыг нэмэгдүүллээ",
-   "summary_mn": "OpenAI Security Bug Bounty хөтөлбөрийн шагналыг өсгөж, хараат бус судлаачдад зориулсан шинэ урамшуулал нэмл.",
-   "body_mn": "OpenAI компани платформынхоо аюулгүй байдлыг сайжруулахад хувь нэмэр оруулж буй хараат бус судлаачдад олгодог Security Bug Bounty хөтөлбөрийн урамшууллаа нэмэгдүүллээ.\n\nШинэ өөрчлөлтөөр тайлангийн чанар, үнэнч байдал болон тэргүүлэх ач холбогдол бүхий кампанит ажлын урамшууллуудыг нэмж өгсөн байна. Энэ нь илүү олон туршлагатай аюулгүй байдлын судлаачдыг OpenAI-ийн систем дэх эмзэг байдлыг илрүүлэхэд татан оролцуулах зорилготой юм.",
-   "published": "2026-11-02T18:00:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9f8b3bccd89dfa38",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5IG2he9MQR2MF0zG1LKS5f/39b588b42c785abf2305ac75d125c607/image__60_.png",
-   "title": "Vercel MCP now supports Client ID Metadata Documents",
-   "summary_en": "Any MCP client can now ask to connect to Vercel MCP . You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowlisted each client and its redirect URIs by hand, and anything not on the list was rejected. To connect, a client publishes a Client ID Metadata Document (CIMD), a JSON file on its own domain that describes it, and uses that file's HTTPS URL as its OAuth client_id . This follows the MCP authorization spec, which now recommends CIMD over Dynamic Client Registration. Because Vercel hasn't reviewed…",
-   "title_mn": "Vercel MCP одоо Client ID Metadata Document дэмжих боллоо",
-   "summary_mn": "Vercel MCP-д ямар ч MCP клиент урьдчилан шалгуулахгүйгээр холбогдох боломжтой боллоо. Клиент өөрийн домэйн дээр CIMD JSON файл нийтэлж, түүний HTTPS URL-ийг OAuth client_id болгон ашиглана. Хэрэглэгч бүр холболт бүрийг зөвшөөрөх шаардлагатай.",
-   "body_mn": "Vercel MCP одоо Client ID Metadata Document (CIMD) дэмжиж эхэллээ. Өмнө нь Vercel клиент бүрийг гараар шалгаж, зөвшөөрөгдсөн жагсаалтад оруулдаг байсан бөгөөд жагсаалтад байхгүй клиентийг татгалздаг байв.\n\nШинэ тогтолцоонд клиент өөрийн домэйн дээр JSON файл байрлуулж, түүний HTTPS URL-ийг OAuth client_id болгон ашиглана. Энэ нь MCP authorization спецификацийн шинэчлэлтэй нийцэж, Dynamic Client Registration-ийн оронд CIMD-г санал болгож байна. Хэрэглэгч нэвтэрч, холболт бүрийг зөвшөөрөх хэвээр байна.\n\nVercel-ээр шалгагдаагүй клиентүүд зөвшөөрлийн дэлгэц дээр нэр, лого, metadata файлыг үйлчилж буй hostname-ийг харуулна. CIMD клиент Vercel-ийн verified тэмдэггүй тул зөвшөөрөхдөө hostname-д итгэж байгаагаа ойлгох хэрэгтэй. Аль хэдийн Vercel-д бүртгэгдсэн апп-ууд өөрчлөгдөөгүй.\n\nMCP серверээ ашиглах хөгжүүлэгчдэд энэ нь клиентийн бүртгэлийн процессыг хурдан болгоно. Холбогдох заавруудыг Vercel MCP баримтжуулалтаас харж болно.(sic)",
-   "published": "2026-11-02T20:09:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "99f7db01bdd03623",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1IoboBwC3DnGoXO3oJP6uL/a40f3e85d6916d79244a3cd028940345/image__62_.png",
-   "title": "Projects can now be configured with vercel.toml",
-   "summary_en": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it supports comments and has a flatter structure. All projects can now use vercel.toml . Use only one project configuration file: vercel.toml, vercel.json, or vercel.ts. For example, configuring Services : Read the documentation . Read more",
-   "title_mn": "Vercel одоо төслийн тохиргоог vercel.toml файлаар хийх боломжтой боллоо",
-   "summary_mn": "Vercel төслийн тохиргоог TOML форматаар бичих vercel.toml файлыг дэмжиж эхэллээ. Бүх тохиргооны параметр vercel.json-тай адил дэмжигдэх ба comment бичих боломжтой. Төсөлд зөвхөн нэг тохиргооны файл ашиглах шаардлагатай.",
-   "body_mn": "Vercel одоо төслийн тохиргоог TOML форматаар бичих vercel.toml файлыг дэмжиж эхэллээ. Энэ файлд vercel.json-ийн бүх тохиргооны параметр дэмжигдэх бөгөөд бүтэц нь илүү хялбар, хавтгай байдалтай.\n\nTOML нь comment бичих боломжтой тул тохиргоонд тайлбар нэмэх шаардлагатай хөгжүүлэгчдэд ашигтай. JSON-д comment бичих боломжгүй байсан нь хамгийн том хязгаарлалт байсан.\n\nБүх төсөлд vercel.toml ашиглах боломжтой болсон. Харин нэг төсөлд зөвхөн нэг тохиргооны файл байх ёстой: vercel.toml, vercel.json эсвэл vercel.ts. Хоёр файл зэрэг байвал аль нь ашиглагдахаа тодорхой болгох хэрэгтэй.\n\nОдоо байгаа vercel.json-оо шилжүүлэхгүй бол юу ч өөрчлөгдөхгүй. Шинэ төсөлдөө илүү цэвэрхэн тохиргоо хийхийг хүсвэл TOML-г сонгож болно.",
-   "published": "2026-11-02T21:00:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "77b14860a02b316d",
    "subtopic": "tailwind",
    "source": "tailwindlabs/tailwindcss",
@@ -757,6 +557,206 @@
    "added": "2026-11-06T03:00:10Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8d4357c4fd1cd453",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v44.10.2",
+   "image": "https://opengraph.githubassets.com/1fb5e9257b9742539953cd01e62ff1b439f1a4869c2817e2f71b77b2ec987c2a/electron/electron/releases/tag/v44.10.2",
+   "title": "electron v44.10.2",
+   "summary_en": "Release Notes for v44.10.2 Fixes Fixed a crash when using hidden window as the parent in Wayland. #55572 (Also in 43 , 45 , 46 ) Other Changes Backported fixes from upstream ANGLE, Chromium, libaom, libvpx, PDFium, Skia, V8 and WebRTC. #55515 Updated Node.js to v24.22.2. #55473",
+   "title_mn": "Electron v44.10.2 хувилбар гарлаа",
+   "summary_mn": "Electron v44.10.2 хувилбар Wayland орчин дахь алдааг засч, Node.js v24.22.2 болгон шинэчиллээ.",
+   "body_mn": "Electron хүрээний хөгжүүлэгчид v44.10.2 хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэчлэлтээр Wayland орчин дотор нууц цонхыг эцэг цонхоор ашиглах үед үүсдэг байсан гэнэтийн зогсолтын (crash) алдааг амжилттай зассан байна.\n\nМөн ANGLE, Chromium, libaom, libvpx, PDFium, Skia, V8 болон WebRTC зэрэг суурь сангаас гаргасан чухал засваруудыг энэхүү хувилбарт нэгтгэжээ.\n\nҮүний сацуу Node.js платформыг v24.22.2 хувилбар болгон шинэчилсэн нь хөгжүүлэгчдэд аюулгүй байдал болон тогтвортой байдлын сайжруулалтыг авчирч байна.",
+   "published": "2026-11-03T18:56:47Z",
+   "added": "2026-11-06T10:38:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a064bbfd00a70046",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v43.8.7",
+   "image": "https://opengraph.githubassets.com/fcf86544157e945a3f0e9e328a21f9003abd30a2495b596099be140ef1c11aaf/electron/electron/releases/tag/v43.8.7",
+   "title": "electron v43.8.7",
+   "summary_en": "Release Notes for v43.8.7 Fixes Fixed a crash when using hidden window as the parent in Wayland. #55569 (Also in 44 , 45 , 46 )",
+   "title_mn": "Electron v43.8.7 хувилбар гарлаа",
+   "summary_mn": "Electron v43.8.7 хувилбарт Wayland орчин дахь цонхны алдааг заслаа.",
+   "body_mn": "Electron баг v43.8.7 засварын хувилбарыг гаргалаа. Энэхүү хувилбар нь гол төлөв Wayland орчин дахь алдааг засахад чиглэжээ.\n\nТодруулбал, нууц цонхыг эцэг цонх болгон ашиглах үед гардаг байсан гэнэтийн зогсолтыг энэхүү хувилбараар зассан байна. Энэхүү засвар нь 44, 45, 46 хувилбаруудад мөн тусгагдсан болно.",
+   "published": "2026-11-03T18:56:48Z",
+   "added": "2026-11-06T10:38:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d32338a1e65554ba",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v45.2.2",
+   "image": "https://opengraph.githubassets.com/85ba554c51219a2b200b4ca252ebf8a170e2bf0f0707f92b7c16fe7830bcdb83/electron/electron/releases/tag/v45.2.2",
+   "title": "electron v45.2.2",
+   "summary_en": "Release Notes for v45.2.2 Fixes Fixed a crash when using hidden window as the parent in Wayland. #55571 (Also in 43 , 44 , 46 ) Fixed removeInsertedCSS() not removing cssOrigin: 'user' stylesheets. #55538 (Also in 46 ) Other Changes Updated Chromium to 156.0.8078.80. #55512 Updated Node.js to v24.22.2. #55474",
+   "title_mn": "Electron v45.2.2 хувилбар гарлаа",
+   "summary_mn": "Electron v45.2.2 хувилбар Chromium 156 болон Node.js v24.22.2 руу шинэчлэгдлээ.",
+   "body_mn": "Electron хүрээний шинэ v45.2.2 хувилбар гарлаа. Энэхүү хувилбараар Wayland орчин дахь цонхны алдааг засч, removeInsertedCSS() функц cssOrigin: 'user' загваруудыг устгадаггүй байсан алдааг зассан байна.\n\nТүүнчлэн Chromium хөдөлгүүрийг 156.0.8078.80 хувилбар болгон шинэчилж, Node.js-ийг v24.22.2 хувилбарт хүргэжээ. Энэ нь хөгжүүлэгчдэд шинэ боломж болон тогтвортой байдлыг олгож байна.",
+   "published": "2026-11-03T19:31:31Z",
+   "added": "2026-11-06T10:38:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a44af420774e4554",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-security-review-public-beta",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2tlcRn6BrKMsBOUba3hFub/8723cf68a4fdc428f597a31abc14b13d/image__63_.png",
+   "title": "Vercel Security Review now in public beta",
+   "summary_en": "Vercel Security Review is now in public beta for Pro and Enterprise teams. Once enabled, every push to a connected GitHub repository is automatically reviewed for vulnerabilities, and findings are reported in the Vulnerabilities dashboard . What triggers a review Security Review runs automatically when code is pushed to a connected GitHub repository. Because reviews start from push events rather than pull requests, direct and force pushes to your production branch are reviewed as well. Every project affected by a single push is reviewed together. What a finding includes Each finding records…",
+   "title_mn": "Vercel Security Review олон нийтийн бета хувилбараар гарлаа",
+   "summary_mn": "Vercel Security Review бета хувилбар нь GitHub репозитори руу код түлхэх бүрт автоматаар эмзэг байдлыг шалгана.",
+   "body_mn": "Vercel компани Pro болон Enterprise багуудад зориулсан Vercel Security Review хэрэгслээ олон нийтийн бета хувилбараар нээлээ. Энэхүү хэрэгсэл нь холбогдсон GitHub репозитори руу код түлхэх бүрт автоматаар эмзэг байдлыг шалгаж, үр дүнг Vulnerabilities хянах самбарт харуулдаг.\n\nШалгалт нь PR буюу хүсэлт үүсгэхийг хүлээлгүйгээр шууд код оруулах үед ажилладаг тул production салбар руу хийсэн шууд өөрчлөлтүүдийг ч хянадаг байна. Олдсон эмзэг байдал бүрт төслийн нэр, орчин, commit болон хиймэл оюун ухаанаар үүсгэсэн эрсдэлийн үнэлгээг хавсаргадаг.\n\nХөгжүүлэгчид Fix with Vercel Agent товчийг дарж Vercel AI азантаар засвар хийлгэн PR үүсгэх боломжтой. Мөн багууд өөрсдийн аюулгүй байдлын бодлогыг энгийн хэлээр бичиж өгөх замаар шалгалтын нөхцөлийг өөрчлөх боломжтой юм. Энэхүү үйлчилгээ нь 2026 оны 11 дүгээр сарын 10 хүртэл үнэ төлбөргүй ажиллана.",
+   "published": "2026-11-03T20:00:00Z",
+   "added": "2026-11-06T10:38:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "68c6126a611b219c",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/openai-dots-grok-bot-compute-costs/",
+   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/03151307/library-openai-s-dots-agents-strain-compute-as-musk-calls-grok-b-800x450.png",
+   "title": "OpenAI’s dots agents strain compute as Musk calls Grok Bot costs unsustainable",
+   "summary_en": "AI agents are costly to run. OpenAI's dots use thousands of GPUs daily while Musk flags Grok Bot expenses as unsustainable for the industry.",
+   "title_mn": "OpenAI болон xAI компаниудын хиймэл оюун ухааны агентын зардал өндөр байна",
+   "summary_mn": "OpenAI болон xAI компаниудын шинэ хиймэл оюун ухааны агентууд өндөр тооцооллын хүчин чадал шаардаж байгаа нь санхүүгийн дарамт үүсгэж эхэлжээ.",
+   "body_mn": "Хиймэл оюун ухааны салбар энгийн чатлахаас илүүтэй хэрэглэгчийн даалгаврыг бие даан гүйцэтгэх агент хэлбэрт шилжиж байгаа хэдий ч энэ нь асар их зардал шаардаж байна. Тухайлбал, xAI-ийн хөгжүүлсэн Grok Bot болон OpenAI-ийн dots агентууд маш их хэмжээний GPU нөөц хэрэглэж байна.\n\nSpaceX-ийн Ерөнхийлөгч Gwynne Shotwell-ийн мэдээлснээр Grok Bot богино хугацаанд олон сая хэрэглэгчтэй болсон ч Elon Musk үүнийг ажиллуулах зардал орлогоосоо давж, тогтворгүй болсныг мэдэгджээ. Үүний улмаас хэрэглэгчид ашиглалтын хязгаартаа илүү хурдан хүрэх болсон байна.\n\nOpenAI-ийн хувьд dots агентууд өдөрт хагас сая ам.доллараас илүү өртөг шингээж, олон мянган GPU ашиглаж байна. Түүнчлэн дотоод туршилтаар эдгээр агентууд даалгаврын хүрээнээс гарах алдаа гаргаж байсан нь найдвартай байдлын хувьд анхаарах асуудал хэвээр байгааг харуулж байна.",
+   "published": "2026-11-03T20:13:11Z",
+   "added": "2026-11-06T10:38:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "42c43e0f0e482cdd",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.44.0",
+   "image": "https://opengraph.githubassets.com/d7bfa84cab59dcda19e6a3f5f1aeef38545ca6e49877506328158c4fa2194b9c/openai/openai-python/releases/tag/v3.44.0",
+   "title": "openai-python v3.44.0",
+   "summary_en": "3.44.0 (2026-11-03) Features api: add workload identity providers and federation rules ( #4237 ) ( 12709d7 )",
+   "title_mn": "openai-python v3.44.0 хувилбар гарлаа",
+   "summary_mn": "openai-python v3.44.0 хувилбар нь workload identity providers болон federation rules дэмжлэг нэмлээ.",
+   "body_mn": "OpenAI python сангийн шинэ v3.44.0 хувилбар албан ёсоор гарлаа. Энэхүү хувилбараар API хэсэгт workload identity providers болон federation rules буюу нэгдсэн эрх олгох дүрэм нэмэгдсэн байна.\n\nЭнэхүү шинэчлэлт нь хөгжүүлэгчдэд OpenAI API-тай ажиллах үед аюулгүй байдал болон эрх зохицуулалтыг илүү уян хатан байдлаар тохируулах боломжийг олгож байгаагаараа чухал юм.",
+   "published": "2026-11-03T20:20:42Z",
+   "added": "2026-11-06T10:38:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "130d10d3c1a4b493",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+   "image": "https://github.blog/wp-content/uploads/2026/11/693547520-00166bc8-34d8-4a1b-8913-6c1e17e3ddd5.jpg",
+   "title": "Dependabot version updates support Agent Package Manager",
+   "summary_en": "You can now keep your AI agent skills, prompts, and instructions up to date with Dependabot version updates for Agent Package Manager (APM). Dependabot opens pull requests to update supported…",
+   "title_mn": "Dependabot Agent Package Manager дэмждэг боллоо",
+   "summary_mn": "Dependabot хувилбарын шинэчлэлтээр Agent Package Manager (APM)-ийг дэмждэг боллоо.",
+   "body_mn": "GitHub Dependabot нь хиймэл оюун ухааны агент болон тэдгээрийн хэрэгслүүдийг шинэчлэх боломжийг олгож байна. Хөгжүүлэгчид одоо Agent Package Manager (APM) ашиглан өөрсдийн AI агент болон сануулга (prompts), зааварчилгааг автоматаар шинэчлэх боломжтой боллоо.\n\nЭнэхүү дэмжлэг нь apm.yml файлаар зарлагдсан git хамаарлуудыг шинэчилж, apm.lock.yaml файлыг автоматаар шинэчлэх юм. Энэ нь аюулгүй байдлын шинэчлэлт бус харин хувилбарын шинэчлэлтэд зориулагдсан бөгөөд GitHub дээр бүх төлөвлөгөөнд ашиглах боломжтой болжээ.",
+   "published": "2026-11-03T20:24:07Z",
+   "added": "2026-11-06T10:38:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5dc4645d80868242",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+   "title": "Anthropic is working on a system to prove AI models’ identity",
+   "summary_en": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+   "title_mn": "Anthropic AI загварын жинхэнэ эсэхийг шалгах FlashProve системийг танилцууллаа",
+   "summary_mn": "Anthropic компани хиймэл оюун ухааны загварын гаралтыг баталгаажуулах FlashProve нээлттэй эх сурвалжтай системийг танилцууллаа. Энэ нь загваруудын жинхэнэ эсэхийг криптографийн аргаар баталгаажуулж, хуурамчаар орлуулахаас сэргийлэх зорилготой юм.",
+   "body_mn": "Anthropic компани өгөгдсөн хариу ямар AI загвараас гарсныг баталгаажуулах FlashProve нэртэй шинэ системийг танилцууллаа. Уг систем нь хэрэглэгчдэд өөрсдийн ашиглаж буй загвараас үр дүн гарсан эсэхийг математикийн баталгаа буюу криптографийн аргаар шалгах боломжийг олгодог.\n\nЭнэхүү технологи нь хиймэл оюун ухааны компаниуд өртөг хэмнэх зорилгоор илүү хямд загвараар нууцаар солих, эсвэл гүйцэтгэлийг өндөр харагдуулахын тулд бусад загвараар орлуулах оролдлогоос хамгаалах юм. Мөн гуравдагч талууд өөрсдийн программ хангамжаа кибер аюулгүй байдлын дэвшилтэт загвараар шалгуулсан гэдгээ батлахад ашиглаж болно.\n\nСистем ажиллахын тулд лабораториуд загвар бүрийн хурууны хээ буюу fingerprint нийтлэх шаардлагатай бөгөөд үүнийг дотоод төхөөрөмж дээр шалгах боломжтой. Anthropic уг төслийн техникийн дэлгэрэнгүй үзүүлэлт болон кодыг GitHub дээр нээлттэй байршуулсан байна.",
+   "published": "2026-11-03T22:41:03Z",
+   "added": "2026-11-06T10:38:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dfb551037908ec28",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases",
+   "image": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20November%2011,%202026%20Security%20Releases",
+   "title": "Wednesday, November 11, 2026 Security Releases",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "title_mn": "Node.js төсөл 11 дүгээр сарын аюулгүй байдлын шинэчлэлтээ зарлалаа",
+   "summary_mn": "Node.js баг 26.x, 24.x болон 22.x хувилбаруудын аюулгүй байдлын шинэчлэлтийг энэ долоо хоногт гаргахаар болжээ. Эдгээр шинэчлэлтээр өндөр буюу HIGH зэрэглэлийн эмзэг байдлуудыг засах юм.",
+   "body_mn": "Node.js төсөл 26.x, 24.x болон 22.x хувилбаруудын шинэчлэлтийг гаргахаар төлөвлөж байна. Энэхүү шинэчлэлт нь эдгээр хувилбаруудад илэрсэн аюулгүй байдлын асуудлуудыг шийдвэрлэх зорилготой юм.\n\nЗасагдаж буй хамгийн өндөр зэрэглэлийн асуудал нь HIGH буюу өндөр түвшний эрсдэлтэй болохыг төслийн баг мэдэгдсэн байна. Дэмжих хугацаа нь дууссан хувилбарууд үргэлж эрсдэлтэй байдаг тул хөгжүүлэгчдийг албан ёсны хуваарийн дагуу хамгийн сүүлийн үеийн хувилбарт шилжихийг зөвлөж байна.\n\nШинэчлэлтийн дэлгэрэнгүй мэдээлэл болон засварууд албан ёсны сувгуудаар дамжуулан хөгжүүлэгчдэд хүрэх бөгөөд nodejs-sec мэдээллийн жагсаалтад бүртгүүлж цаг алдалгүй мэдээлэл авах боломжтой.",
+   "published": "2026-11-03T23:00:00Z",
+   "added": "2026-11-06T10:38:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "295354ff422b0d4d",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/introducing-images-2-6",
+   "image": "",
+   "title": "Introducing Images 2.6",
+   "summary_en": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+   "title_mn": "OpenAI шинэ Images 2.6 загвар болон API шинэчлэлтээ танилцууллаа",
+   "summary_mn": "OpenAI компани зураг бүтээх болон засварлах хурдыг сайжруулсан Images 2.6 хувилбарыг ChatGPT, Codex болон API орчинд нэвтрүүлжээ.",
+   "body_mn": "OpenAI компани дүрс бүтээх чадварыг эрс сайжруулсан Images 2.6 хувилбарыг албан ёсоор танилцууллаа. Энэхүү шинэ хувилбар нь илүү хурдан зураг генераци хийх, GIF хэлбэрээр бүтээх, нарийн засварлах боломж болон шинэ API удирдлагуудыг хөгжүүлэгчдэд олгож байна.\n\nШинэчлэлт нь ChatGPT, Codex болон OpenAI API-уудаар дамжин хэрэглэгчдийн хүртээл болж байгаа бөгөөд програмууд болон автоматжуулсан системд зураг боловсруулах процессыг илүү хялбар болгож байна.\n\nХөгжүүлэгчид шинэ API хяналтуудыг ашиглан аппликейшнүүддээ зураг үүсгэх, засварлах функцуудыг өмнөхөөсөө илүү хурдан бөгөөд нарийвчлалтайгаар нэгтгэх боломжтой боллоо.",
+   "published": "2026-11-04T00:00:00Z",
+   "added": "2026-11-06T10:38:43Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]

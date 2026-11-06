@@ -1,0 +1,17 @@
+{
+ "id": "68c6126a611b219c",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Crypto Briefing",
+ "url": "https://cryptobriefing.com/openai-dots-grok-bot-compute-costs/",
+ "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/03151307/library-openai-s-dots-agents-strain-compute-as-musk-calls-grok-b-800x450.png",
+ "title": "OpenAI’s dots agents strain compute as Musk calls Grok Bot costs unsustainable",
+ "summary_en": "AI agents are costly to run. OpenAI's dots use thousands of GPUs daily while Musk flags Grok Bot expenses as unsustainable for the industry.",
+ "title_mn": "OpenAI болон xAI компаниудын хиймэл оюун ухааны агентын зардал өндөр байна",
+ "summary_mn": "OpenAI болон xAI компаниудын шинэ хиймэл оюун ухааны агентууд өндөр тооцооллын хүчин чадал шаардаж байгаа нь санхүүгийн дарамт үүсгэж эхэлжээ.",
+ "body_mn": "Хиймэл оюун ухааны салбар энгийн чатлахаас илүүтэй хэрэглэгчийн даалгаврыг бие даан гүйцэтгэх агент хэлбэрт шилжиж байгаа хэдий ч энэ нь асар их зардал шаардаж байна. Тухайлбал, xAI-ийн хөгжүүлсэн Grok Bot болон OpenAI-ийн dots агентууд маш их хэмжээний GPU нөөц хэрэглэж байна.\n\nSpaceX-ийн Ерөнхийлөгч Gwynne Shotwell-ийн мэдээлснээр Grok Bot богино хугацаанд олон сая хэрэглэгчтэй болсон ч Elon Musk үүнийг ажиллуулах зардал орлогоосоо давж, тогтворгүй болсныг мэдэгджээ. Үүний улмаас хэрэглэгчид ашиглалтын хязгаартаа илүү хурдан хүрэх болсон байна.\n\nOpenAI-ийн хувьд dots агентууд өдөрт хагас сая ам.доллараас илүү өртөг шингээж, олон мянган GPU ашиглаж байна. Түүнчлэн дотоод туршилтаар эдгээр агентууд даалгаврын хүрээнээс гарах алдаа гаргаж байсан нь найдвартай байдлын хувьд анхаарах асуудал хэвээр байгааг харуулж байна.",
+ "published": "2026-11-03T20:13:11Z",
+ "added": "2026-11-06T10:38:43Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

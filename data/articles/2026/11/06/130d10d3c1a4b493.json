@@ -1,0 +1,17 @@
+{
+ "id": "130d10d3c1a4b493",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+ "image": "https://github.blog/wp-content/uploads/2026/11/693547520-00166bc8-34d8-4a1b-8913-6c1e17e3ddd5.jpg",
+ "title": "Dependabot version updates support Agent Package Manager",
+ "summary_en": "You can now keep your AI agent skills, prompts, and instructions up to date with Dependabot version updates for Agent Package Manager (APM). Dependabot opens pull requests to update supported…",
+ "title_mn": "Dependabot Agent Package Manager дэмждэг боллоо",
+ "summary_mn": "Dependabot хувилбарын шинэчлэлтээр Agent Package Manager (APM)-ийг дэмждэг боллоо.",
+ "body_mn": "GitHub Dependabot нь хиймэл оюун ухааны агент болон тэдгээрийн хэрэгслүүдийг шинэчлэх боломжийг олгож байна. Хөгжүүлэгчид одоо Agent Package Manager (APM) ашиглан өөрсдийн AI агент болон сануулга (prompts), зааварчилгааг автоматаар шинэчлэх боломжтой боллоо.\n\nЭнэхүү дэмжлэг нь apm.yml файлаар зарлагдсан git хамаарлуудыг шинэчилж, apm.lock.yaml файлыг автоматаар шинэчлэх юм. Энэ нь аюулгүй байдлын шинэчлэлт бус харин хувилбарын шинэчлэлтэд зориулагдсан бөгөөд GitHub дээр бүх төлөвлөгөөнд ашиглах боломжтой болжээ.",
+ "published": "2026-11-03T20:24:07Z",
+ "added": "2026-11-06T10:38:43Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
