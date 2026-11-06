@@ -1,0 +1,17 @@
+{
+ "id": "235ecb13701223ab",
+ "subtopic": "packages",
+ "source": "Frontend Focus",
+ "source_label": "Frontend Focus",
+ "url": "https://frontendfoc.us/issues/765",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1793796147/eduaw5bendeycfhsuy0l.png",
+ "title": "Safari will 'dark mode' your site for you",
+ "summary_en": "🚀 Frontend Focus #​765 — November 4, 2026 | Read on the web Safari Introduces Adaptive Dark Mode — A new (opt-in) feature added to the Safari 27.3 beta that automatically adapts light sites to dark ones. It's here because although around 40% of pages are loaded by users using dark mode, only 10% of page loads directly support it. WebKit Agents Didn’t Clear Your Plate. They Dumped Reviews on It — Your agents write PRs in minutes, then eat your afternoon in review. When did ‘saving time’ start to mean babysitting agents’ work? Meticulous verifies every UI change, with no developer effort. Devs…",
+ "title_mn": "Frontend Focus: Safari адаптив харанхуй горим, Chrome 158 бета, CSS Grid Lanes",
+ "summary_mn": "Safari 27.3 бета-д гэрлэн вэбсайтыг автоматаар харанхуй болгох Adaptive Dark Mode нэмэгдлээ. Chrome 158 бета-д <install> элемент болон :playing, :paused псевдо-классууд орсон. CSS Grid Lanes-ээр masonry загварыг эхлээд хийх боломжтой боллоо.",
+ "body_mn": "Frontend Focus-ийн 765 дугаар тоймд хамгийн чухал технологийн шинэчлэлүүд багтжээ. Гол мэдээ нь Safari 27.3 бета-д нэмэгдсэн сонголттой Adaptive Dark Mode юм. Энэ функц гэрлэн сайтуудыг автоматаар харанхуй болгодог бөгөөд хэрэглэгчдийн 40 орчим хувь харанхуй горим ашигладаг ч зөвхөн 10 орчим хувь нь шууд дэмждэг гэж дурджээ.\n\nChrome 158 бета (стабиль хувилбар 11-р сарын 17-нд) <install> элемент, :playing ба :paused медиа псевдо-классууд, ::highlight(*) зэргийг нэмжээ. Мөн XSLT-г хасах шатанд орсон. Chrome DevTools Elements хэсэгт position-area редактор нэмэгдсэн нь CSS-ийн байрлалыг визуалаар тохируулахад тустай.\n\nCSS Grid Lanes-ийн тухай гарын авлагад masonry байрлалыг эх дарааллыг хадгалан хийх талаар дэлгэрэнгүй тайлбарлагдсан. Одоогоор зөвхөн Safari дэмжиж байгаа бөгөөд бусад хөтчүүд ажиллаж байна. Хөгжүүлэгчдэд эдгээр нь фронтэнд ажиллах арга барилд шууд нөлөөлнө.",
+ "published": "2026-11-04T00:00:00Z",
+ "added": "2026-11-06T17:46:08Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

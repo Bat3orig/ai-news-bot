@@ -1,0 +1,17 @@
+{
+ "id": "ff5eda8df39f999b",
+ "subtopic": "motion",
+ "source": "motiondivision/motion",
+ "source_label": "motiondivision/motion",
+ "url": "https://github.com/motiondivision/motion/releases/tag/v14.9.1",
+ "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+ "title": "motion v14.9.1",
+ "summary_en": "v14.9.1",
+ "title_mn": "Motion v14.9.1 хувилбар гарлаа",
+ "summary_mn": "Motion (өмнө нь Framer Motion) анимацийн сангийн v14.9.1 хувилбар гарлаа. Мэдээллийн эх сурвалжид зөвхөн хувилбарын дугаар байгаа тул дэлгэрэнгүй өөрчлөлт тодорхойгүй байна.",
+ "body_mn": "Motion анимацийн сангийн v14.9.1 хувилбар GitHub дээр нийтлэгдлээ. Motion нь өмнө нь Framer Motion нэрээр мэдэгдэж байсан React-д зориулсан анимацийн сан юм.\n\nЭх сурвалжид хувилбарын дугаараас өөр дэлгэрэнгүй тайлбар байхгүй тул шинэ функц эсвэл засварын талаар баттай зүйл хэлэх боломжгүй байна. Хөгжүүлэгчид релиз тэмдэглэлийг GitHub дээрээс шалгаж, суулгахаасаа өмнө өөрчлөлтийг харах нь зүйтэй.",
+ "published": "2026-11-04T06:29:03Z",
+ "added": "2026-11-06T17:46:08Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

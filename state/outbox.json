@@ -758,5 +758,165 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "235ecb13701223ab",
+   "subtopic": "packages",
+   "source": "Frontend Focus",
+   "source_label": "Frontend Focus",
+   "url": "https://frontendfoc.us/issues/765",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1793796147/eduaw5bendeycfhsuy0l.png",
+   "title": "Safari will 'dark mode' your site for you",
+   "summary_en": "🚀 Frontend Focus #​765 — November 4, 2026 | Read on the web Safari Introduces Adaptive Dark Mode — A new (opt-in) feature added to the Safari 27.3 beta that automatically adapts light sites to dark ones. It's here because although around 40% of pages are loaded by users using dark mode, only 10% of page loads directly support it. WebKit Agents Didn’t Clear Your Plate. They Dumped Reviews on It — Your agents write PRs in minutes, then eat your afternoon in review. When did ‘saving time’ start to mean babysitting agents’ work? Meticulous verifies every UI change, with no developer effort. Devs…",
+   "title_mn": "Frontend Focus: Safari адаптив харанхуй горим, Chrome 158 бета, CSS Grid Lanes",
+   "summary_mn": "Safari 27.3 бета-д гэрлэн вэбсайтыг автоматаар харанхуй болгох Adaptive Dark Mode нэмэгдлээ. Chrome 158 бета-д <install> элемент болон :playing, :paused псевдо-классууд орсон. CSS Grid Lanes-ээр masonry загварыг эхлээд хийх боломжтой боллоо.",
+   "body_mn": "Frontend Focus-ийн 765 дугаар тоймд хамгийн чухал технологийн шинэчлэлүүд багтжээ. Гол мэдээ нь Safari 27.3 бета-д нэмэгдсэн сонголттой Adaptive Dark Mode юм. Энэ функц гэрлэн сайтуудыг автоматаар харанхуй болгодог бөгөөд хэрэглэгчдийн 40 орчим хувь харанхуй горим ашигладаг ч зөвхөн 10 орчим хувь нь шууд дэмждэг гэж дурджээ.\n\nChrome 158 бета (стабиль хувилбар 11-р сарын 17-нд) <install> элемент, :playing ба :paused медиа псевдо-классууд, ::highlight(*) зэргийг нэмжээ. Мөн XSLT-г хасах шатанд орсон. Chrome DevTools Elements хэсэгт position-area редактор нэмэгдсэн нь CSS-ийн байрлалыг визуалаар тохируулахад тустай.\n\nCSS Grid Lanes-ийн тухай гарын авлагад masonry байрлалыг эх дарааллыг хадгалан хийх талаар дэлгэрэнгүй тайлбарлагдсан. Одоогоор зөвхөн Safari дэмжиж байгаа бөгөөд бусад хөтчүүд ажиллаж байна. Хөгжүүлэгчдэд эдгээр нь фронтэнд ажиллах арга барилд шууд нөлөөлнө.",
+   "published": "2026-11-04T00:00:00Z",
+   "added": "2026-11-06T17:46:08Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "70125f96ba822381",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
+   "image": "https://opengraph.githubassets.com/fb444ca8a63df3d86261007d4a1089268e36ab3f46a2ab0aacf2a9266caed703/anthropics/claude-code/releases/tag/v2.1.318",
+   "title": "claude-code v2.1.318",
+   "summary_en": "What's changed Added a record of your answer when Claude Code asks to turn on the mods it writes in a session Added assume_role on mantle upstreams of the Claude apps gateway, for a role in another AWS account and for per-developer AWS cost attribution Added an effort option to a mod's $.model.fork , so a quick side job can run at low whatever effort the session uses; the result reports the effort sent Added the date a stored claude.ai sign-in ends to claude auth status ( loginExpiresAt ) and to claude -p JSON results ( credential_expires_at ) Added a one-line stderr warning to claude -p…",
+   "title_mn": "claude-code v2.1.318: API gateway дэмжлэг, нэвтрэлтийн хугацаа, олон алдаа засав",
+   "summary_mn": "Claude Code v2.1.318 хувилбарт AWS assume_role дэмжлэг, нэвтрэлтийн дуусах хугацааны мэдээлэл, mod-ийн effort сонголт нэмэгдсэн. Мөн --continue, MCP тохиргоо, сесс зэрэг олон алдаа засагджээ.",
+   "body_mn": "Claude Code-ийн v2.1.318 хувилбарт хөгжүүлэгчдэд шууд хэрэгтэй шинэчлэлүүд орсон. Гол шинэ функцүүдийн нэг нь Claude apps gateway-ийн mantle upstream дээр assume_role тохиргоо нэмсэн явдал юм. Энэ нь өөр AWS дансны роль ашиглах болон хөгжүүлэгч бүрийн AWS зардлыг тусад нь тооцох боломж олгоно.\n\nМөн mod-ийн $.model.fork дээр effort сонголт нэмэгдсэн тул богино ажлыг сесс дээрх effort-оос үл хамааран бага түвшинд ажиллуулах боломжтой боллоо. claude auth status болон claude -p JSON үр дүнд нэвтрэлтийн дуусах огноо нэмэгдсэн бөгөөд 10 хоногийн өмнөөс stderr-д анхааруулга гарна.\n\nАлдаа засварт --continue командын өмнөх яриа алдагдах, macOS дээр Bash командын санах ойн асуудал, MCP server нэмэх, устгах үед тохиргооны lock зэрэг орсон. Хэрэв CI эсвэл хамтын орчинд ажиллуулдаг бол энэ хувилбарыг шалгах нь зүйтэй.",
+   "published": "2026-11-04T00:01:03Z",
+   "added": "2026-11-06T17:46:08Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3120cb53fbc5954e",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+   "image": "https://github.blog/wp-content/uploads/2026/11/692697342-1fcb18df-03bf-4266-a109-f6f85f5e2427.jpeg",
+   "title": "BYOK and enterprise custom models in the Copilot usage API",
+   "summary_en": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of…",
+   "title_mn": "GitHub Copilot usage API одоо BYOK болон custom загваруудыг тусад нь харуулна",
+   "summary_mn": "Copilot usage metrics API нь bring your own key (BYOK) хэрэглээг Copilot-ийн хостлодог загваруудаас тусад нь харуулдаг боллоо. Local BYOK болон custom загваруудыг enterprise болон organization тайланд 1 өдрийн болон 28 өдрийн хугацаагаар авч болно.",
+   "body_mn": "GitHub дээр Copilot usage metrics API шинэчлэгдэж, bring your own key (BYOK) хэрэглээг одоо Copilot-ийн хостлодог загваруудын хэрэглээнээс тусад нь харуулах боломжтой боллоо. Тайлан нь хоёр төрлийн BYOK-ийг хамардаг: хөгжүүлэгчийн өөрийн provider түлхүүртэй холбогдсон загвар болон local загварууд.\n\nLocal BYOK гэдэгт Ollama, Foundry Local, LM Studio, llama-server зэрэг хэрэгслүүдээр ажиллуулсан загварууд багтана. Өмнө нь эдгээр нэр нь Copilot-ийн загваруудтай давхцдаг байсан тул нийт тоонд холилдож байсан юм.\n\nШинэчлэл нь enterprise болон organization тайлан дээр хэрэглэгч тус бүр болон нийлбэр түвшинд, 1 өдрийн болон 28 өдрийн тайланд хамаарна. Хэрэгжүүлэх талаар дэлгэрэнгүйг GitHub-ийн Copilot usage metrics API баримтаас үзэж болно.",
+   "published": "2026-11-04T00:32:19Z",
+   "added": "2026-11-06T17:46:08Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "33c76d41fa119f10",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.45.0",
+   "image": "https://opengraph.githubassets.com/a9bb3c676b34c0816ec2bc7b3309668478f4437a1d474b7a5d97e7e4e199c6d4/openai/openai-python/releases/tag/v3.45.0",
+   "title": "openai-python v3.45.0",
+   "summary_en": "3.45.0 (2026-11-03) Features api: add 12-hour Responses caching and cache-write usage ( #4240 ) ( 5f717b5 ) api: add project service tier settings ( #4239 ) ( 1a2a3d0 ) Documentation clarify generated-file ownership ( #4241 ) ( 0309a8c )",
+   "title_mn": "openai-python v3.45.0: Responses кэшийг 12 цаг хүртэл хадгалах боломж нэмэгдлээ",
+   "summary_mn": "openai-python v3.45.0 хувилбарт Responses API-д 12 цагийн кэш болон cache-write usage нэмэгдсэн. Мөн project service tier тохиргоо орсон. 2026 оны 11-р сарын 3-ны хувилбар юм.",
+   "body_mn": "openai-python SDK-ийн 3.45.0 хувилбар 2026 оны 11-р сарын 3-нд гарлаа. Гол шинэ функц нь Responses API-д 12 цагийн кэшлэлт нэмсэн явдал юм. Энэ нь давтагдах хүсэлтийн хариуг хадгалж, хэрэглээг бууруулахад тустай.\n\nМөн cache-write usage нэмэгдсэн тул кэшийн бичилтийн хэрэглээг usage талбараас харах боломжтой боллоо. Нэмж project service tier тохиргоо гарсан нь төслийн түвшинд үйлчилгээний давхаргыг удирдахад ашиглагдана.\n\nБаримтжуулалтын хувьд generated файлын эзэмшлийг тодорхойлсон засвар орсон. Хөгжүүлэгчид SDK-г шинэчлэхдээ кэшийн тохиргоо болон usage-ийн бүтцийг шалгах нь зүйтэй.",
+   "published": "2026-11-04T02:23:23Z",
+   "added": "2026-11-06T17:46:08Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ff5eda8df39f999b",
+   "subtopic": "motion",
+   "source": "motiondivision/motion",
+   "source_label": "motiondivision/motion",
+   "url": "https://github.com/motiondivision/motion/releases/tag/v14.9.1",
+   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+   "title": "motion v14.9.1",
+   "summary_en": "v14.9.1",
+   "title_mn": "Motion v14.9.1 хувилбар гарлаа",
+   "summary_mn": "Motion (өмнө нь Framer Motion) анимацийн сангийн v14.9.1 хувилбар гарлаа. Мэдээллийн эх сурвалжид зөвхөн хувилбарын дугаар байгаа тул дэлгэрэнгүй өөрчлөлт тодорхойгүй байна.",
+   "body_mn": "Motion анимацийн сангийн v14.9.1 хувилбар GitHub дээр нийтлэгдлээ. Motion нь өмнө нь Framer Motion нэрээр мэдэгдэж байсан React-д зориулсан анимацийн сан юм.\n\nЭх сурвалжид хувилбарын дугаараас өөр дэлгэрэнгүй тайлбар байхгүй тул шинэ функц эсвэл засварын талаар баттай зүйл хэлэх боломжгүй байна. Хөгжүүлэгчид релиз тэмдэглэлийг GitHub дээрээс шалгаж, суулгахаасаа өмнө өөрчлөлтийг харах нь зүйтэй.",
+   "published": "2026-11-04T06:29:03Z",
+   "added": "2026-11-06T17:46:08Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a3433e936d2c04bf",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "image": "",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "summary_en": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+   "title_mn": "Daybreak Red загвар AWS GovCloud орчинд нээгдлээ",
+   "summary_mn": "GPT-5.6 Cyber загвар бүхий Daybreak Red нь Amazon Bedrock платформоор дамжин AWS GovCloud (US-East) орчинд албан ёсоор боломжтой боллоо. Энэхүү шинэ боломж нь зөвшөөрөгдсөн хэрэглэгчдэд кибер аюулгүй байдлын тусгай ажлыг гүйцэтгэхэд зориулагдсан юм.",
+   "body_mn": "OpenAI компани өөрийн дэвшилтэт GPT-5.6 Cyber загварт суурилсан Daybreak Red системийг AWS GovCloud (US-East) бүсэд гаргаснаа зарлалаа. Энэхүү бүтээгдэхүүн нь Amazon Bedrock үйлчилгээгээр дамжин хэрэглэгчдэд хүрч байгаа бөгөөд холбогдох байгууллагууд кибер аюулгүй байдлын чиглэлээр албан ёсны болон зөвшөөрөгдсөн ажлуудаа гүйцэтгэхэд ашиглах боломжтой ажээ.\n\nЭнэхүү интеграци нь төрийн болон тусгай хамгаалалттай салбарын хөгжүүлэгчид болон аюулгүй байдлын мэргэжилтнүүдэд OpenAI-ийн хамгийн сүүлийн үеийн загваруудыг найдвартай үүлэн орчинд ашиглах нөхцөлийг бүрдүүлж байна. Тус загвар нь кибер аюулгүй байдлын дүн шинжилгээ болон хамгаалалтын чиглэлээр өндөр гүйцэтгэлтэй ажиллахад чиглэгдсэн болно.",
+   "published": "2026-11-04T07:00:00Z",
+   "added": "2026-11-06T17:46:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fbaa86a829ad59fd",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "image": "",
+   "title": "A thousand fewer paths to root",
+   "summary_en": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+   "title_mn": "OpenAI Linux цөөн дэх эрх ярианы сул талуудыг илрүүлжээ",
+   "summary_mn": "OpenAI компани Linux цөм дэх орон нутгийн эрх яриаг нэмэгдүүлэх 948 сул талыг олж, шалган, автоматаар засвар үүсгэх бие даасан шугам хоолой (pipeline) бүтээжээ. Энэхүү технологи нь системийн аюулгүй байдлыг сайжруулахад чухал алхам болж байна.",
+   "body_mn": "OpenAI компани Linux цөөн дэх сул талуудыг илрүүлж, автоматаар засварлах боломжтой шинэ бие даасан шугам хоолойг хөгжүүлсэн байна. Тус систем нь орон нутгийн эрх яриаг нэмэгдүүлэх буюу орон нутгийн эрх зэрэглэлээ ахиулах 948 сул талыг олж тогтоон, тэдгээрийг нарийвчлан шалгаж, зохих засварын кодуудыг автоматаар гаргаж чаджээ.\n\nЭнэхүү шийдэл нь хөгжүүлэгчид болон системийн админуудын хувьд томоохон дэвшил болж байгаа юм. Том хэлний загварууд болон хиймэл оюун ухааны агентлаг хэрэгслүүд нь зөвхөн код бичих төдийгүй нарийн төвөгтэй программ хангамжийн аюулгүй байдлыг хангах, эмзэг байдлыг илрүүлж засах ажилд хэрхэн үр дүнтэй ашиглагдаж болохыг уг мэдээ харуулж байна.",
+   "published": "2026-11-04T08:00:00Z",
+   "added": "2026-11-06T17:46:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b6aaa6c753cec0bb",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Decoder",
+   "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
+   "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
+   "summary_en": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single sampling parameter. Anthropic's response to the loophole? A compliance warning.",
+   "title_mn": "Anthropic Claude загваруудын текст усан тэмдэглэгээг өргөжүүлж байна",
+   "summary_mn": "Anthropic компани Claude Opus 4.6, Sonnet 4.5 зэрэг хэд хэдэн хуучин загваруудад текст усан тэмдэглэгээ нэмэх болсноо зарлалаа. Зарим загварын хувьд санамсаргүй байдлын параметрүүдийг үндсэн төлөвт нь үлдээхэд усан тэмдгийг тойрч гарах боломжтой хэвээр байна.",
+   "body_mn": "Anthropic компани API хэрэглэгчиддээ илгээсэн мэйлээрээ дамжуулан Claude Opus 4.6, Claude Opus 4.5, Claude Sonnet 4.5 болон Claude Haiku 4.5 загваруудад арваннэгдүгээр сарын 16-наас эхлэн текст усан тэмдэглэгээ (watermark) нэмэхээр болсноо мэдэгдлээ. Amazon Bedrock дээр уг шинэчлэл хэрэгжихэд хэд хоног илүү шаардагдаж магадгүй юм.\n\nШинэ мэдээллээр эдгээр загварын зарим дээр temperature, top_p, top_k зэрэг санамсаргүй байдлыг хянадаг параметрүүдийг анхдагч утгаараа байхад л усан тэмдэг идэвхждэг байна. Хөгжүүлэгчид Эдгээр тохиргоог бага зэрэг өөрчлөхөд л усан тэмдгийг алгасах боломжтой байгаа нь анхаарал татаж байна.\n\nЕвропын Холбооны AI Act хуулийн шаардлагын хүрээнд хэрэгжиж буй энэхүү усан тэмдэглэгээ нь үг сонголтод үл мэдэгдэх статистик хэв маягийг шингээх бөгөөд гаралтын хурд болон чанарт нөлөөлөхгүй гэж тус компани мэдэгджээ. Гэсэн хэдий ч API хэрэглэгчид болон хөгжүүлэгчдийн хувьд тохиргооны энэхүү цоорхойг анхаарах шаардлагатай ажээ.",
+   "published": "2026-11-04T08:00:00Z",
+   "added": "2026-11-06T17:46:08Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

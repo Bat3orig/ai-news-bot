@@ -1,0 +1,17 @@
+{
+ "id": "a3433e936d2c04bf",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+ "image": "",
+ "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+ "summary_en": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+ "title_mn": "Daybreak Red загвар AWS GovCloud орчинд нээгдлээ",
+ "summary_mn": "GPT-5.6 Cyber загвар бүхий Daybreak Red нь Amazon Bedrock платформоор дамжин AWS GovCloud (US-East) орчинд албан ёсоор боломжтой боллоо. Энэхүү шинэ боломж нь зөвшөөрөгдсөн хэрэглэгчдэд кибер аюулгүй байдлын тусгай ажлыг гүйцэтгэхэд зориулагдсан юм.",
+ "body_mn": "OpenAI компани өөрийн дэвшилтэт GPT-5.6 Cyber загварт суурилсан Daybreak Red системийг AWS GovCloud (US-East) бүсэд гаргаснаа зарлалаа. Энэхүү бүтээгдэхүүн нь Amazon Bedrock үйлчилгээгээр дамжин хэрэглэгчдэд хүрч байгаа бөгөөд холбогдох байгууллагууд кибер аюулгүй байдлын чиглэлээр албан ёсны болон зөвшөөрөгдсөн ажлуудаа гүйцэтгэхэд ашиглах боломжтой ажээ.\n\nЭнэхүү интеграци нь төрийн болон тусгай хамгаалалттай салбарын хөгжүүлэгчид болон аюулгүй байдлын мэргэжилтнүүдэд OpenAI-ийн хамгийн сүүлийн үеийн загваруудыг найдвартай үүлэн орчинд ашиглах нөхцөлийг бүрдүүлж байна. Тус загвар нь кибер аюулгүй байдлын дүн шинжилгээ болон хамгаалалтын чиглэлээр өндөр гүйцэтгэлтэй ажиллахад чиглэгдсэн болно.",
+ "published": "2026-11-04T07:00:00Z",
+ "added": "2026-11-06T17:46:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

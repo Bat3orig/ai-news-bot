@@ -1,0 +1,17 @@
+{
+ "id": "70125f96ba822381",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
+ "image": "https://opengraph.githubassets.com/fb444ca8a63df3d86261007d4a1089268e36ab3f46a2ab0aacf2a9266caed703/anthropics/claude-code/releases/tag/v2.1.318",
+ "title": "claude-code v2.1.318",
+ "summary_en": "What's changed Added a record of your answer when Claude Code asks to turn on the mods it writes in a session Added assume_role on mantle upstreams of the Claude apps gateway, for a role in another AWS account and for per-developer AWS cost attribution Added an effort option to a mod's $.model.fork , so a quick side job can run at low whatever effort the session uses; the result reports the effort sent Added the date a stored claude.ai sign-in ends to claude auth status ( loginExpiresAt ) and to claude -p JSON results ( credential_expires_at ) Added a one-line stderr warning to claude -p…",
+ "title_mn": "claude-code v2.1.318: API gateway дэмжлэг, нэвтрэлтийн хугацаа, олон алдаа засав",
+ "summary_mn": "Claude Code v2.1.318 хувилбарт AWS assume_role дэмжлэг, нэвтрэлтийн дуусах хугацааны мэдээлэл, mod-ийн effort сонголт нэмэгдсэн. Мөн --continue, MCP тохиргоо, сесс зэрэг олон алдаа засагджээ.",
+ "body_mn": "Claude Code-ийн v2.1.318 хувилбарт хөгжүүлэгчдэд шууд хэрэгтэй шинэчлэлүүд орсон. Гол шинэ функцүүдийн нэг нь Claude apps gateway-ийн mantle upstream дээр assume_role тохиргоо нэмсэн явдал юм. Энэ нь өөр AWS дансны роль ашиглах болон хөгжүүлэгч бүрийн AWS зардлыг тусад нь тооцох боломж олгоно.\n\nМөн mod-ийн $.model.fork дээр effort сонголт нэмэгдсэн тул богино ажлыг сесс дээрх effort-оос үл хамааран бага түвшинд ажиллуулах боломжтой боллоо. claude auth status болон claude -p JSON үр дүнд нэвтрэлтийн дуусах огноо нэмэгдсэн бөгөөд 10 хоногийн өмнөөс stderr-д анхааруулга гарна.\n\nАлдаа засварт --continue командын өмнөх яриа алдагдах, macOS дээр Bash командын санах ойн асуудал, MCP server нэмэх, устгах үед тохиргооны lock зэрэг орсон. Хэрэв CI эсвэл хамтын орчинд ажиллуулдаг бол энэ хувилбарыг шалгах нь зүйтэй.",
+ "published": "2026-11-04T00:01:03Z",
+ "added": "2026-11-06T17:46:08Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

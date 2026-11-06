@@ -1,0 +1,17 @@
+{
+ "id": "b6aaa6c753cec0bb",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Decoder",
+ "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
+ "image": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
+ "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
+ "summary_en": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single sampling parameter. Anthropic's response to the loophole? A compliance warning.",
+ "title_mn": "Anthropic Claude загваруудын текст усан тэмдэглэгээг өргөжүүлж байна",
+ "summary_mn": "Anthropic компани Claude Opus 4.6, Sonnet 4.5 зэрэг хэд хэдэн хуучин загваруудад текст усан тэмдэглэгээ нэмэх болсноо зарлалаа. Зарим загварын хувьд санамсаргүй байдлын параметрүүдийг үндсэн төлөвт нь үлдээхэд усан тэмдгийг тойрч гарах боломжтой хэвээр байна.",
+ "body_mn": "Anthropic компани API хэрэглэгчиддээ илгээсэн мэйлээрээ дамжуулан Claude Opus 4.6, Claude Opus 4.5, Claude Sonnet 4.5 болон Claude Haiku 4.5 загваруудад арваннэгдүгээр сарын 16-наас эхлэн текст усан тэмдэглэгээ (watermark) нэмэхээр болсноо мэдэгдлээ. Amazon Bedrock дээр уг шинэчлэл хэрэгжихэд хэд хоног илүү шаардагдаж магадгүй юм.\n\nШинэ мэдээллээр эдгээр загварын зарим дээр temperature, top_p, top_k зэрэг санамсаргүй байдлыг хянадаг параметрүүдийг анхдагч утгаараа байхад л усан тэмдэг идэвхждэг байна. Хөгжүүлэгчид Эдгээр тохиргоог бага зэрэг өөрчлөхөд л усан тэмдгийг алгасах боломжтой байгаа нь анхаарал татаж байна.\n\nЕвропын Холбооны AI Act хуулийн шаардлагын хүрээнд хэрэгжиж буй энэхүү усан тэмдэглэгээ нь үг сонголтод үл мэдэгдэх статистик хэв маягийг шингээх бөгөөд гаралтын хурд болон чанарт нөлөөлөхгүй гэж тус компани мэдэгджээ. Гэсэн хэдий ч API хэрэглэгчид болон хөгжүүлэгчдийн хувьд тохиргооны энэхүү цоорхойг анхаарах шаардлагатай ажээ.",
+ "published": "2026-11-04T08:00:00Z",
+ "added": "2026-11-06T17:46:08Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
