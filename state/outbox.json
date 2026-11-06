@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "1b3f9acf66759bf3",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "India Today",
-   "url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-grok-bot-is-too-expensive-to-run-calls-costs-unsustainable-as-users-hit-limits-3030253-2026-11-02",
-   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/musk-attributed-the-successful-debt-raise-to-spacexs-strong-investment-grade-status--combined-with-263823873-16x9_0.jpg?VersionId=.rBTiwGSxHo0m7WWe9HEoT2kcKw7iRV4",
-   "title": "Elon Musk says Grok Bot is too expensive to run, calls costs unsustainable as users hit limits",
-   "summary_en": "Elon Musk told an X user that Grok's serving costs were unsustainably high relative to revenue. His response highlighted why subscribers are encountering strict usage limits.",
-   "title_mn": "Elon Musk: Grok Bot-ын зардал орлогоосоо давж байна",
-   "summary_mn": "xAI компани Grok Bot-ыг ажиллуулах зардал орлогоос нь хэт өндөр байгааг Элон Маск мэдэгдэв. Үүний улмаас төлбөртэй хэрэглэгчид долоо хоногийн лимитээ хэт хурдан дуусгаж байна.",
-   "body_mn": "xAI компанийн хөгжүүлж буй Grok Bot туслахыг ажиллуулах зардал өндөр байгааг үүсгэн байгуулагч Элон Маск олон нийтийн X сүлжээнд мэдэгджээ. Тэрээр хэрэглэгчийн лимит дуусаж буй талаарх гомдолд хариулахдаа уг үйлчилгээний сервер болон тооцооллын зардал нь одоогийн олж буй орлогоос хавьгүй илүү байгааг онцолсон байна.\n\nӨнгөрсөн долоо хоногт X платформ дээрх олон хэрэглэгчид Grok Bot-ын долоо хоногийн хэрэглээний квот ердийнхөөс хамаагүй хурдан дуусч байгаад шүүмжлэлтэй хандаж байв. Зарим хэрэглэгчид лимит нь богино хугацаанд огцом буурч байгааг анзаарсан байна.\n\nХиймэл оюун ухааны агент болон нарийн төвөгтэй аргуудыг ажиллуулах нь серверт асар их ачаалал өгдөг бөгөөд энэ нь салбар даяар тулгамдаж буй томоохон сорилт юм. Grok Bot нь олон шатлалт даалгаврыг ар араас нь гүйцэтгэх чадвартай тул энгийн чатботуудыг бодвол илүү их тооцооллын хүч шаарддаг аж.\n\nxAI компани энэхүү зардлын тэнцвэргүй байдлыг шийдвэрлэхийн тулд үнийн өөрчлөлт хийх эсвэл лимитийг хязгаарлах арга хэмжээ авч магадгүй байна. Хиймэл оюун ухааны бүтээгдэхүүний өртөг өндөр байгаа нь хөгжүүлэгчид болон хэрэглэгчдэд хэрхэн нөлөөлөх нь цаашид анхаарал татаж байна.",
-   "published": "2026-11-02T03:16:03Z",
-   "added": "2026-11-03T19:54:47Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d4f4eaef78f57d94",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "Qazinform",
-   "url": "https://qazinform.com/news/alibabas-qwen-ai-to-be-integrated-into-apple-intelligence-in-major-partnership-ff0fac",
-   "image": "https://img.inform.kz/kazinform-photobank/media/2025-02-24/9e267681-1b1c-4bac-94e1-a1f8af8c3804.jpeg",
-   "title": "Alibaba’s Qwen AI to be integrated into Apple Intelligence in major partnership",
-   "summary_en": "Chinese tech giant Alibaba Group announced a partnership with Apple on Saturday to integrate its Qwen AI model into Apple Intelligence, Xinhua reported.",
-   "title_mn": "Apple Intelligence Хятад улсад Alibaba-гийн Qwen загвараар ажиллахаар болжээ",
-   "summary_mn": "Apple компани Хятад дахь хэрэглэгчдэд зориулсан Apple Intelligence системдээ Alibaba-гийн Qwen AI загварыг нэгтгэхээр болсноо зарлалаа. Энэхүү боломж арванхоёрдугаар сард албан ёсоор гарах бөгөөд хөгжүүлэгчид ноябрерын 4-нөөс туршиж эхлэх боломжтой.",
-   "body_mn": "Хятадын технологийн аварга Alibaba Group компани Apple-тай хамтран Qwen хиймэл оюун ухааны загвараа Apple Intelligence системд нэгтгэх болсноо албан ёсоор мэдэгдлээ. Энэхүү шийдэл нь Хятад дахь хэрэглэгчдэд Siri, Writing Tools болон Visual Intelligence зэрэг үйлдлийн системийн үндсэн хэсгүүдээр дамжуулан Qwen-ийн текст болон зураг ойлгох, контент бүтээх чадваруудыг ашиглах боломжийг олгох ажээ.\n\nШинэ функц нь арванхоёрдугаар сард гарах iOS 27.3 шинэчлэлтийн үеэр Хятадын хэрэглэгчдэд хүрэх ба хөгжүүлэгчид ноябрерын 4-нөөс эхлэн developer beta хувилбараар туршиж эхлэх боломжтой юм. Хэрэглэгчид Qwen интеграцийг ашиглах эсэхээ өөрсдөө сонгох ба Alibaba хэрэглэгчийн хүсэлт болон хариултыг загварын сургалтанд ашиглахгүй гэдгээ баталжээ.\n\nЭнэхүү алхам нь Хятадын хууль тогтоомжийн дагуу гадаадын компаниуд дотоодын түншүүдтэй хамтран хиймэл оюун ухааны үйлчилгээ үзүүлэх шаардлагатай холбоотой юм. Apple Intelligence-ийг ашиглахын тулд хэрэглэгч Хятадад худалдаж авсан iPhone төхөөрөмжтэй байх эсвэл бүс нутгийн тохиргоогоо Хятад болгосон байх шаардлагатай.",
-   "published": "2026-11-01T22:12:14Z",
-   "added": "2026-11-04T00:18:48Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "10d6012da203cc1d",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "News Mobile",
-   "url": "https://www.newsmobile.in/artificial-intelligence-ai/elon-musk-says-grok-bot-is-too-expensive-to-run-defends-strict-usage-limits/",
-   "image": "https://www.newsmobile.in/wp-content/uploads/2026/10/Elon-Musk-X.png",
-   "title": "Elon Musk Says Grok Bot Is Too Expensive To Run, Defends Strict Usage Limits",
-   "summary_en": "Elon Musk has said that operating xAI’s Grok Bot is costing more than the revenue it generates, describing the current financial model as unsustainable. His remarks come as several X Premium subscribers report reaching their usage limits much faster than usual. Musk made the comments in response to an X user, ‘DogecoinNorway’, who requested a […]",
-   "title_mn": "Илон Маск Grok Bot-ийн үйл ажиллагааны зардал хэт өндөр байгааг мэдэгдэв",
-   "summary_mn": "xAI компанийн Grok Bot-ийг ажиллуулах зардал олж буй орлогоороо нөхөгдөхгүй хэмжээнд хүрсэн тул хэрэглээний хязгаарлалтыг чангатгаж байгааг Илон Маск мэдэгдлээ. Энэ нь төлбөртэй хэрэглэгчдийн квот хурдан дуусахад хүргэж байна.",
-   "body_mn": "xAI компанийн бүтээсэн Grok Bot туслахыг ажиллуулах зардал түүний үүсгэж буй орлогоос давж, санхүүгийн хувьд тогтворгүй загвартай болсныг үүсгэн байгуулагч Илон Маск хүлээн зөвшөөрөв. Энэхүү мэдэгдэл нь X Premium үйлчилгээний хэрэглэгчид өнгөрсөн долоо хоногт ашиглалтын квотоа ердийнхөөс хамаагүй хурдан шавхаж дуусгасан талаар гомдол гаarkiсны дараа гарсан байна.\n\nGrok Bot нь нарийн төвөгтэй даалгавруудыг гүйцэтгэх, X платформтой нягт уялдаатай ажиллахын тулд асар их тооцоолох хүчин чадал болон өндөр өртөгтэй сервер дэд бүтцийг шаарддаг. Одоогоор 800,000 орчим төлбөртэй хэрэглэгчтэй байгаа хэдий ч дэд бүтцийн өндөр зардал нь компанид томоохон дарамт учруулж байгаа ажээ.\n\nҮүнтэй холбоотойгоор тооцооллын зарidлыг хяналтандаа байлгахын тулд xAI илүү чанга хязгаарлалт тогтоож магадгүй байна. OpenAI зэрэг бусад хиймэл оюун ухааны компаниуд ч мөн дэвшилтэт загваруудынхаа хандалтад тодорхой хязгаар тогтоож эхэлсэн билээ.",
-   "published": "2026-11-02T07:25:03Z",
-   "added": "2026-11-04T00:18:48Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5a014341bc3fc0f1",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/lifeval",
-   "image": "",
-   "title": "LifeVal",
-   "summary_en": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-   "title_mn": "OpenAI шинэ LifeVal бенчмаркаа танилцууллаа",
-   "summary_mn": "OpenAI компани хиймэл оюун ухаан хүмүүсийн өдөр тутмын амьдралын ажилд хэрхэн тусалж буйг хэмжих LifeVal бенчмаркаа зарлалаа. Уг систем нь хүүхэд асаргаанаас эхлээд санхүү болон төрийн бичиг цаасны ажлыг үнэлдэг.",
-   "body_mn": "OpenAI компани хүний өдөр тутмын амьдралын чухал даалгавруудыг хиймэл оюун ухаан хэр зэрэг сайн гүйцэтгэж байгааг хэмжих зорилготой LifeVal хэмээх шинэ бенчмаркаа албан ёсоор танилцууллаа. Энэхүү тест нь хүүхэд асрах үйлчилгээ олохоос эхлээд санхүүгийн менежмент хийх, төрийн захиргааны болон албан бичиг цаасны ажлыг шийдвэрлэх зэрэг бодит амьдралын нөхцөл байдалд AI-ийн гүйцэтгэлийг үнэлдэг байна.\n\nЭнэхүү шинэ бенчмарк нь AI загваруудын хөгжүүлэлтэд чухал түлхэц болж, зөвхөн код бичих эсвэл тест бөглөх бус, харин өдөр тутмын нарийн төвөгтэй шийдвэр гаргах үйл явцад туслах чадварыг хөгжүүлэхэд чиглэж байна. Хөгжүүлэгчид болон судлаачид уг системийг ашиглан ирээдүйн загваруудын практик хэрэглээний үр дүнг хянах боломжтой болно.",
-   "published": "2026-11-02T09:00:00Z",
-   "added": "2026-11-04T00:18:48Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "61b876bcc0e30748",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-adds-2-sentences-claude-095148643.html",
-   "image": "https://s.yimg.com/lo/mysterio/api/9831e262bc9b4ddcc24cb4469a5ad5b413c25b19c2852d174d8fc918fdd28e02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fc6dd46f5db089d2c1a09e5feee391430.png",
-   "title": "Anthropic Adds 2 Sentences to Claude Code to Stop AI Video Game Clones",
-   "summary_en": "Anthropic stops Claude from cloning video games, but developers say the filter also blocks work on their own projects.",
-   "title_mn": "Anthropic компани Claude Code-д видео тоглоом хуулбарлахыг хориглосон шүүлтүүр нэмжээ",
-   "summary_mn": "Anthropic компани Claude Code-ийн Opus 5.5 загварт хуучин видео тоглоомуудыг хуулбарлахыг хориглосон хоёр өгүүлбэр бүхий шүүлтүүр нэмсэн нь хөгжүүлэгчдийн дунд маргаан үүсгэв. Зарим хөгжүүлэгчид энэ нь алдаа шалгах, anti-cheat болон энгийн төслүүдэд саад болж байна гэж гомдоллож байна.",
-   "body_mn": "Anthropic компани өөрийн Claude Code хэрэгсэлд бусдын зохиогчийн эрхтэй видео тоглоомуудыг хуулбарлах эсвэл клондлохыг зогсоох зорилгоор Opus 5.5 загварын сануулгад (prompt) шинэ хязгаарлалт нэмсэн байна. Энэхүү өөрчлөлт нь сүүлийн үед AI ашиглан тоглоомын хуулбар хийх явдал газар авсантай холбоотой бөгөөд Anthropic-ийн IPO гаргах бэлтгэл үе таарч байгаа юм. Өмнө нь компани зохиогчийн эрх зөрчсөн сургалтын материалын асуудлаар 1.5 тэрбум долларын төлбөр төлж байжээ.\n\nГэвч хөгжүүлэгчид энэхүү шинэ шүүлтүүр нь зөвхөн тоглоом клондхоос гадна өөрсдийн бие даасан төслүүдийг хөгжүүлэх, Windows-ийн эвдрэлийн файлыг (crash dump) шинжлэх, anti-cheat буюу хууран мэхлэлтийн эсрэг код бичих зэрэг хууль ёсны ажлуудад нь саад учруулж байгаад бухимдалтай байна. Anthropic-ийн техникийн ажилтан Адди Османи энэхүү өөрчлөлтийг баталгаажуулж, оюуны өмчийн зөрчлөөс урьдчилан сэргийлэх бодлого баримталж буйгаа тайлбарлажээ.\n\nХөгжүүлэгчдийн зүгээс энэхүү хатуу хориг нь ердийн хөгжүүлэлтийн явцыг хязгаарлаж байгааг шүүмжилж байгаа бөгөөд зарим нь Хятадын эсвэл нээлттэй эх сурвалжтай (open-weight) бусад загварууд руу шилжихээ илэрхийлж байна. Anthropic энэ чиглэлээр алгоритмаа илүү нарийвчлалтай болгохоор ажиллаж байгаа ажээ.",
-   "published": "2026-11-02T09:51:48Z",
-   "added": "2026-11-04T00:18:48Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a2ca823e1f220916",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/vercel-security-review",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7K3vwNIOstTSdFvmCXesrh/f6979b502573b08898ff42c15d9d4063/image__37_.png",
-   "title": "Introducing Vercel Security Review",
-   "summary_en": "Today, we are launching Vercel Security Review in public beta. Security Review is a new capability in Vercel Agent , alongside Code Review and Investigation. Once enabled, it scans for vulnerabilities on every push to a team's connected GitHub repositories. Findings appear as comments on pull requests, are listed in the Security dashboard, and are available via CLI. With your permission, Vercel Agent can also validate and push fixes for findings. How it works Security reviews are triggered by GitHub push events, including direct pushes to your production branch. In monorepos, reviews are…",
-   "title_mn": "Vercel Security Review боломжийг олон нийтийн бета хувилбараар зарлалаа",
-   "summary_mn": "Vercel Agent хэрэгсэлд шинээр Security Review боломж нэмэгдэж, GitHub код руу push хийх бүрт эмзэг байдал болон эрх шалгах логикийн алдааг автоматаар илрүүлэх боломжтой боллоо.",
-   "body_mn": "Vercel компани өөрсдийн платформ дээрээ Vercel Security Review хэрэгслийг олон нийтийн бета хувилбараар гаргаснаа албан ёсоор танилцууллаа. Энэхүү шинэ боломж нь Vercel Agent-ийн код шалгах болон мөрдөн шалгах функцүүд дээр нэмэгдэж байгаа юм.\n\nХөгжүүлэгчид холбогдсон GitHub репозитор руу код push хийх бүрт Security Review өөрчлөлтийг автоматаар сканнердаж, зөвшөөрлийн дутуу шалгалт болон нууц мэдээлэл алдагдсан эсэхийг шалгадаг. Үр дүн нь pull request дээр сэтгэгдэл хэлбэрээр болон хяналтын самбарт харагдана.\n\nЭнэхүү хэрэгсэл нь зөвхөн суурь pattern тааруулахаас гадна кодын өөрчлөлтийн diff-ийг уншиж, логик алдаа болон зөвшөөрлийн дутагдлыг нарийвчлан тогтоодог байна. Хөгжүүлэгчид мөн CLI болон багийн аюулгүй байдлын бодлого (security policies) ашиглан шалгуур үзүүлэлтүүдийг өөрсдийн хэрэгцээнд тохируулах боломжтой.\n\nАюулгүй байдлын шалгалт хэдхэн секундийн дотор явагддаг бөгөөд олдсон алдаа бүрийг засах зөвлөмж өгөхөөс гадна Vercel Agent ашиглан шууд засвар хийх боломжийг бүрдүүлжээ.",
-   "published": "2026-11-02T13:00:00Z",
-   "added": "2026-11-04T06:48:11Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "93776c9c2a6b392f",
-   "subtopic": "vibe-coding",
-   "source": "Simon Willison",
-   "source_label": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-   "image": "https://static.simonwillison.net/static/2026-11-01/5821A414-FAF6-4E61-B037-952C1FD80D39.png",
-   "title": "The U.S. Census Bureau and “Super Intelligence”",
-   "summary_en": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code Interpreter . I decided to try running those numbers again to see what had changed over the past year, and in doing so learned that the Bureau has fallen foul of Executive Order 14434 , aka the asinine Super Intelligence one…",
-   "title_mn": "АНУ-ын Бизнесийн судалгаа дахь хиймэл оюун ухааны хэрэглээ ба бодит өөрчлөлтүүд",
-   "summary_mn": "АНУ-ын Хүн амын тооллогын бюро бизнесийн судалгааны асуултуудаа шинэчилж, хиймэл оюун ухааны хэрэглээний өсөлтийг нарийвчлан судалж эхэлжээ. Хөгжүүлэгчид болон компаниудын хувьд AI хэрэгслүүдийн нэвтрэлт өндөр хувьтай байна.",
-   "body_mn": "АНУ-ын Хүн амын тооллогын бюро Business Trends and Outlook Survey (BTOS) судалгаандаа хиймэл оюун ухааны хэрэглээг хэмжих асуултуудыг өөрчилсөн байна. Өмнө нь бизнесийн үйл ажиллагаанд AI ашиглаж буй эсэхийг судлахад томоохон компаниудын дунд хэрэглээ тогтмол өсөлттэй байсан юм.\n\nСудалгааны асуулгын хүрээнд хөгжүүлэгчид болон инженерүүд виртуал агентууд, код бичих болон маркетинг дизайн хийхэд зориулсан генератив хэрэгслүүдийн хэрэглээг хэрхэн нэмэгдүүлж буйг харж болно. AI хэрэгслүүдийг өдөр тутмын код бичих, өгөгдөл шинжлэхэд ашиглах нь компаниудын хувьд стандарт практик болон хувирч байна.\n\nХөгжүүлэгчдийн хувьд энэхүү статистик болон чиг хандлага нь AI агент болон хөгжүүлэлтийн хэрэгслүүдийг өөрийн бүтээгдэхүүндээ хэрхэн үр дүнтэй нутагшуулж болохыг төлөвлөхөд чухал ач холбогдолтой юм. AI-г бизнесийн олон чиг үүрэгт ашиглах болсноор ажлын бүтээмж эрс нэмэгдэж байна.",
-   "published": "2026-11-02T13:31:26Z",
-   "added": "2026-11-04T06:48:11Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a07b77a23c18c632",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Fierce Healthcare",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
-   "image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-   "title": "Athenahealth launches tool to bring patient health records into Anthropic's Claude",
-   "summary_en": "Electronic health record company athenahealth is opening up patient health records to outside AI assistants, starting with Anthropic’s Claude, through a new connection designed to give patients per | Athenahealth is opening up patient health records to outside AI assistants, starting with Anthropic’s Claude, through a new MCP connection designed to give patients personalized answers based on their clinical data.",
-   "title_mn": "Athenahealth нь Claude-д өвчтөний эрүүл мэндийн мэдээллийг холбох хэрэгсэл гаргав",
-   "summary_mn": "Athenahealth компани athenaPatient MCP хэрэгслийг танилцуулж, өвчтөнд Model Context Protocol (MCP) ашиглан Claude туслахаар дамжуулан клиникийн мэдээллээсээ хувийн хариулт авах боломжийг оллоо.",
-   "body_mn": "Эрүүл мэндийн цахим түүхийн компани athenahealth нь Model Context Protocol (MCP) технологи дээр суурилсан athenaPatient MCP шийдлийг нэвтрүүлж, өвчтөний эрүүл мэндийн мэдээллийг Anthropic-ийн Claude AI туслахтай холбох боломжтой болголоо. Энэхүү холболт нь өвчтөнүүдэд өөрийн клиникийн өгөгдөлд үндэслэн эрүүл мэндийн асуултуудад тохирсон хариулт авах боломжийг олгох юм.\n\nӨвчтөнүүд athenaPatient portal эрхээрээ нэвтэрч, Claude-д аль мэдээллийг хуваалцахаа өөрсдөө шийдвэрлэх бөгөөд итгэмжлэлүүд Claude-д шууд дамжуулагдахгүй. Мөн мэдээлэл дамжих явцад шифрлэгдэх ба өвчтөн хүссэн үедээ хандалтыг цуцлах боломжтой гэдгийг тус компанийн удирдлагууд онцоллоо. Athenahealth нь өвчтөний мэдээллийг загвар сургалтанд ашигладаггүй AI туслахуудаар хязгаарлахаар төлөвлөжээ.\n\nClaude Pro болон Max хэрэглэгчид АНУ-д уг MCP холбогчийг тохиргоондоо нэмж ашиглах боломжтой бөгөөд лаборатор шинжилгээний хариу, эмийн заавар, амин үзүүлэлт болон бусад клиникийн мэдээллээс лавлах боломжтой болж байна. Энэ нь хөгжүүлэгчид болон AI бүтээгчдэд эрүүл мэндийн салбар дахь MCP стандартын бодит хэрэглээг харуулсан чухал алхам болж байна.",
-   "published": "2026-11-02T14:00:00Z",
-   "added": "2026-11-04T06:48:11Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "51cb224911bc7f27",
-   "subtopic": "css-web",
-   "source": "CSS-Tricks",
-   "source_label": "CSS-Tricks",
-   "url": "https://css-tricks.com/whats-important-20/",
-   "image": "https://css-tricks.com/wp-content/uploads/2026/10/wi20-1.jpg",
-   "title": "What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()",
-   "summary_en": "This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whether to trick or treat, so I went for both. Happy Halloween What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
-   "title_mn": "CSS-Tricks сайтаас толилуулж буй хамгийн сүүлийн \"What’s !important #20\" мэдээлэл",
-   "summary_mn": "CSS-Tricks сайтын сүүлчийн дугаараар GTA 6 веб сайтын гүйлгэх эффектүүд, scrollspy үүсгэх аргууд болон CSS-ийн шинэ боломжуудыг дэлгэрэнгүй танилцууллаа.",
-   "body_mn": "CSS-Tricks сайт дээрх What’s !important цувралын энэ удаагийн дугаар олон сонирхолтой шинэ CSS болон HTML технологийн жишээнүүдийг багтаажээ. Тухайлбал, Rockstar компанийн GTA 6 веб сайт дээр ашиглагдсан цогц গүйлгэх (scroll) эффектүүдийг хэрхэн хийсэн тухай онцолсон байна.\n\nМөн орчин үеийн CSS ашиглан хуудасны хэсгүүдийг ялгаж харуулах scrollspy хэрхэн бүтээх тухай, Brecht De Ruyte-ийн random() функцээр хийсэн гайхалтай демо файлуудыг тайлбарлажээ. Үүнээс гадна Linked Parameters, ident(), @mixin, @apply болон шинэ ::* псевдо-селекторын тухай саналуудыг хэлэлцсэн байна.\n\nВеб хөгжүүлэгчдэд зориулсан энэхүү мэдээлэл нь дизайнер болон фронтенд хөгжүүлэгчдэд CSS-ийн шинэ боломжуудыг хэрхэн үр дүнтэй ашиглах талаар үнэтэй санаануудыг өгч байна.",
-   "published": "2026-11-02T15:06:07Z",
-   "added": "2026-11-04T06:48:11Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "277870ffc8d71544",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/scaling-git-at-openai",
-   "image": "",
-   "title": "Scaling Git at OpenAI",
-   "summary_en": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-   "title_mn": "OpenAI компани код бичих өргөн цар хүрээнд зориулсан Pando хэмээх Git систем бүтээв",
-   "summary_mn": "OpenAI компани Codex хэрэгслийн үүсгэж буй код бичих асар их хэмжээний өгөгдлийг боловсруулахад зориулсан Pando хэмээх Git-тэй нийцтэй бэкэнд системийг хөгжүүлжээ.",
-   "body_mn": "OpenAI компани код бичих хиймэл оюун ухааны Codex хэрэгслийн хөгжүүлэлтийн цар хүрээнд тохируулан Pando хэмээх шинэ системийг бүтээснээ зарлалаа. Энэхүү систем нь уламжлалт Git хувилбар хяналтын системтэй бүрэн нийцэх бөгөөд AI агентуудын үүсгэж буй асар их хэмжээний кодыг найдвартай удирдах зорилготой юм.\n\nCodex болон бусад AI хөгжүүлэлтийн хэрэгслүүд өдөр тутмын хөгжүүлэлтийн явцад маш олон хүсэлт, өөрчлөлтүүдийг үүсгэдэг бөгөөд энэ нь стандарт Git серверүүдэд хүнд ачаалал өгдөг байна. Pando систем нь энэхүү өндөр ачааллыг дааж, том хэмжээний код суурийг хурдан бөгөөд тогтвортой удирдах боломжийг инженерүүдэд олгодог ажээ.\n\nЭнэхүү инженерчлэлийн шийдэл нь хиймэл оюун ухаанд суурилсан програм хангамж хөгжүүлэлтийн цар хүрээ хэрхэн тэлж байгааг харуулсан чухал жишээ болж байна.",
-   "published": "2026-11-02T15:30:00Z",
-   "added": "2026-11-04T06:48:11Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "8103dd03087355c5",
    "subtopic": "vercel-cloud",
    "source": "Vercel",
@@ -877,6 +677,86 @@
    "added": "2026-11-05T22:37:17Z",
    "ai": "claude:claude-haiku-5-5",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "aa5f6d4023340855",
+   "subtopic": "css-web",
+   "source": "CSS-Tricks",
+   "source_label": "CSS-Tricks",
+   "url": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
+   "image": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp",
+   "title": "Re-Implementing :nth-child() With Modern CSS",
+   "summary_en": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements. Re-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+   "title_mn": "О орчин үеийн CSS болон style query ашиглан :nth-child()-г шинээр бүтээх нь",
+   "summary_mn": "Зохиогч CSS-ийн шинэ if() функц болон style query ашиглан :nth-child() сонгогчийг динамикаар утгаа өөрчлөх боломжтой болгон хэрхэн дахин бүтээж болохыг тайлбарлажээ.",
+   "body_mn": "Энэхүү нийтлэлд :nth-child() сонгогчийн утгыг хувьсагчаар шууд удирдаж, өөрчлөх боломжийг орчин үеийн CSS-ийн боломжуудаар хэрхэн шийдэх талаар харуулсан байна. Энэ нь ихэвчлэн практикт шаардлагагүй мэт санагдавч шинэ боломжуудыг туршиж суралцахад тустай юм.\n\nЖишээ болгон container дээр хувьсагч зарлаж, if() болон style() функцүүдийг хослуулан тодорхой индекс эсвэл муж бүхий элементүүдийг сонгож байна. Мөн mod() функцийг ашиглан тодорхой үржвэр бүхий элементүүдийг хялбархан шүүж болохыг харуулжээ.\n\nЭнэ арга нь кодын бүтцийг бага зэрэг давхардуулж харагдуулж болох талтай ч синтаксийг илүү уян хатан болгодог. Вэб хөгжүүлэгчид CSS-ийн шинэ боломжуудыг практикт хэрхэн ашиглаж болохыг ойлгоход энэхүү туршилт сонирхолтой бөгөөд хэрэгтэй мэдээлэл болно.",
+   "published": "2026-11-03T14:50:32Z",
+   "added": "2026-11-06T03:00:10Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6ce153507fa22338",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.43.0",
+   "image": "https://opengraph.githubassets.com/e3f3f9019cb06613b071e6fd9e4c6213287b1e01961a70e1894dca514d67cd9a/openai/openai-python/releases/tag/v3.43.0",
+   "title": "openai-python v3.43.0",
+   "summary_en": "3.43.0 (2026-11-03) Features api: expand Live Responses delegation tools ( #4233 ) ( f6e8480 ) responses: accumulate rich WebSocket progress ( #4224 ) ( 48cdad3 ) responses: add WebSocket lane overflow isolation ( #4225 ) ( 16bdad1 ) Chores deps: bump actions/setup-node from 4.4.0 to 7.1.0 ( #4229 ) ( abbfb27 ) deps: bump actions/setup-python from 7.0.0 to 7.1.0 ( #4232 ) ( 49f9a59 ) deps: bump pypa/gh-action-pypi-publish from 1.14.2 to 1.14.3 ( #4228 ) ( f43f29b )",
+   "title_mn": "openai-python v3.43.0 хувилбар шинэ боломжуудтайгаар гарлаа",
+   "summary_mn": "openai-python сангийн 3.43.0 хувилбар нь Live Responses делегацийн хэрэгслүүдийг өргөжүүлж, WebSocket дээр суурилсан дэвшилтэт боломжуудыг нэмжээ.",
+   "body_mn": "OpenAI python сангийн шинэ 3.43.0 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр хөгжүүлэгчдэд зориулсан хэд хэдэн чухал боломжууд нэмэгдсэн байна.\n\nҮүнд Live Responses делегацийн хэрэгслүүдийг өргөжүүлсэн бөгөөд WebSocket ашиглан явцын мэдээллийг хуримтлуулах, WebSocket lane overflow тусгаарлалт зэрэг техникийн сайжруулалтууд багтжээ.\n\nМөн GitHub Action болон бусад хамааралтай сангуудын хувилбаруудыг шинэчилсэн нь хөгжүүлэгчдийн ажиллах орчныг илүү тогтвортой болгож байна.",
+   "published": "2026-11-03T18:05:44Z",
+   "added": "2026-11-06T03:00:10Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4c700a9925383864",
+   "subtopic": "nextjs",
+   "source": "vercel/next.js",
+   "source_label": "vercel/next.js",
+   "url": "https://github.com/vercel/next.js/releases/tag/v15.5.29",
+   "image": "https://opengraph.githubassets.com/92f43d19c1336ebff4b1214fb8e5c354279dcea6285406635b1f94f868ec02d7/vercel/next.js/releases/tag/v15.5.29",
+   "title": "next.js v15.5.29",
+   "summary_en": "This release contains security fixes for the following advisories: Moderate Cross-client response injection and disclosure in self-hosted Next.js applications forwarding fetched responses SVG rejection bypass in Next.js image optimization HttpOnly cookie exposure through internal response header on Next.js Edge runtime routes",
+   "title_mn": "Next.js v15.5.29 хувилбар аюулгүй байдлын засвартайгаар гарлаа",
+   "summary_mn": "Next.js v15.5.29 хувилбар нь self-hosted аппликейшнүүдийн cross-client response injection болон SVG image optimization зэрэг аюулгүй байдлын эмзэг байдлуудыг заслаа.",
+   "body_mn": "Next.js фреймворкийн v15.5.29 засварын хувилбар гарсныг зарлалаа. Энэхүү хувилбар нь хөгжүүлэгчдийн анхаарах ёстой хэд хэдэн чухал эмзэг байдлыг зассан байна.\n\nҮүнд self-hosted Next.js аппликейшн дээрх cross-client response injection болон мэдээлэл задлах эрсдэл, зураг оновчлол дахь SVG rejection bypass зэрэг асуудлууд багтжээ. Мөн Edge runtime роутуудын хувьд HttpOnly күүкийн аюулгүй байдлыг сайжруулсан байна.\n\nЭнэхүү шинэчлэлт нь бүтээгдэхүүнийхээ аюулгүй байдлыг хангахад чухал ач холбогдолтой тул төслүүдээ яаралтай шинэчлэхийг зөвлөж байна.",
+   "published": "2026-11-03T18:38:27Z",
+   "added": "2026-11-06T03:00:10Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ce5fa60b13f17ee4",
+   "subtopic": "nextjs",
+   "source": "vercel/next.js",
+   "source_label": "vercel/next.js",
+   "url": "https://github.com/vercel/next.js/releases/tag/v16.4.5",
+   "image": "https://opengraph.githubassets.com/60001ec6e065d15ea99699c8c3130f30e7a6ca7f40011b7ac95945470aa112a3/vercel/next.js/releases/tag/v16.4.5",
+   "title": "next.js v16.4.5",
+   "summary_en": "This release contains security fixes for the following advisories: Moderate Cross-tenant sensitive information disclosure in Next.js 'use cache' when called through unstable_cache Cache leak across root param values in nested 'use cache' functions (follow-up) Cache poisoning of shared fallback shells in Cache Components via request-supplied placeholder route params Cross-user cache disclosure and poisoning in Next.js use cache with binary arguments Cross-client response injection and disclosure in self-hosted Next.js applications forwarding fetched responses SVG rejection bypass in Next.js…",
+   "title_mn": "Next.js v16.4.5 хувилбар cache болон аюулгүй байдлын засвартай гарлаа",
+   "summary_mn": "Next.js v16.4.5 хувилбар нь 'use cache' болон кэшлэлтийн эмзэг байдлуудыг засах чухал засваруудыг багтаажээ.",
+   "body_mn": "Next.js фреймворкийн v16.4.5 хувилбар худалдаанд гарч, кэш болон аюулгүй байдлын холбогдолтой олон чухал засваруудыг хүргэлээ. Энэхүү хувилбар нь хөгжүүлэгчдийн анхаарах ёстой эмзэг байдлуудыг шийдвэрлэсэн байна.\n\nҮүнд 'use cache' функц ашиглах үеийн cross-tenant мэдээлэл задлагдах эрсдэл, кэш хоорондын мэдээлэл алдагдах болон binary аргуудтай холбоотой кэш disclosure асуудлууд багтжээ. Мөн self-hosted хувилбаруудын cross-client response injection болон SVG optimization асуудлуудыг мөн зассан байна.\n\nЭнэхүү хувилбар нь кэшлэлтийн механизмыг өргөнөөр ашигладаг томоохон аппликейшнүүдэд нэн чухал шинэчлэлт болж байна.",
+   "published": "2026-11-03T18:38:39Z",
+   "added": "2026-11-06T03:00:10Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
   }
  }
 ]

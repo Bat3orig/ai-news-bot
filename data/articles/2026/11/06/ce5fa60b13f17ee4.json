@@ -1,0 +1,17 @@
+{
+ "id": "ce5fa60b13f17ee4",
+ "subtopic": "nextjs",
+ "source": "vercel/next.js",
+ "source_label": "vercel/next.js",
+ "url": "https://github.com/vercel/next.js/releases/tag/v16.4.5",
+ "image": "https://opengraph.githubassets.com/60001ec6e065d15ea99699c8c3130f30e7a6ca7f40011b7ac95945470aa112a3/vercel/next.js/releases/tag/v16.4.5",
+ "title": "next.js v16.4.5",
+ "summary_en": "This release contains security fixes for the following advisories: Moderate Cross-tenant sensitive information disclosure in Next.js 'use cache' when called through unstable_cache Cache leak across root param values in nested 'use cache' functions (follow-up) Cache poisoning of shared fallback shells in Cache Components via request-supplied placeholder route params Cross-user cache disclosure and poisoning in Next.js use cache with binary arguments Cross-client response injection and disclosure in self-hosted Next.js applications forwarding fetched responses SVG rejection bypass in Next.js…",
+ "title_mn": "Next.js v16.4.5 хувилбар cache болон аюулгүй байдлын засвартай гарлаа",
+ "summary_mn": "Next.js v16.4.5 хувилбар нь 'use cache' болон кэшлэлтийн эмзэг байдлуудыг засах чухал засваруудыг багтаажээ.",
+ "body_mn": "Next.js фреймворкийн v16.4.5 хувилбар худалдаанд гарч, кэш болон аюулгүй байдлын холбогдолтой олон чухал засваруудыг хүргэлээ. Энэхүү хувилбар нь хөгжүүлэгчдийн анхаарах ёстой эмзэг байдлуудыг шийдвэрлэсэн байна.\n\nҮүнд 'use cache' функц ашиглах үеийн cross-tenant мэдээлэл задлагдах эрсдэл, кэш хоорондын мэдээлэл алдагдах болон binary аргуудтай холбоотой кэш disclosure асуудлууд багтжээ. Мөн self-hosted хувилбаруудын cross-client response injection болон SVG optimization асуудлуудыг мөн зассан байна.\n\nЭнэхүү хувилбар нь кэшлэлтийн механизмыг өргөнөөр ашигладаг томоохон аппликейшнүүдэд нэн чухал шинэчлэлт болж байна.",
+ "published": "2026-11-03T18:38:39Z",
+ "added": "2026-11-06T03:00:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

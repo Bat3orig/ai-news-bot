@@ -1,0 +1,17 @@
+{
+ "id": "4c700a9925383864",
+ "subtopic": "nextjs",
+ "source": "vercel/next.js",
+ "source_label": "vercel/next.js",
+ "url": "https://github.com/vercel/next.js/releases/tag/v15.5.29",
+ "image": "https://opengraph.githubassets.com/92f43d19c1336ebff4b1214fb8e5c354279dcea6285406635b1f94f868ec02d7/vercel/next.js/releases/tag/v15.5.29",
+ "title": "next.js v15.5.29",
+ "summary_en": "This release contains security fixes for the following advisories: Moderate Cross-client response injection and disclosure in self-hosted Next.js applications forwarding fetched responses SVG rejection bypass in Next.js image optimization HttpOnly cookie exposure through internal response header on Next.js Edge runtime routes",
+ "title_mn": "Next.js v15.5.29 хувилбар аюулгүй байдлын засвартайгаар гарлаа",
+ "summary_mn": "Next.js v15.5.29 хувилбар нь self-hosted аппликейшнүүдийн cross-client response injection болон SVG image optimization зэрэг аюулгүй байдлын эмзэг байдлуудыг заслаа.",
+ "body_mn": "Next.js фреймворкийн v15.5.29 засварын хувилбар гарсныг зарлалаа. Энэхүү хувилбар нь хөгжүүлэгчдийн анхаарах ёстой хэд хэдэн чухал эмзэг байдлыг зассан байна.\n\nҮүнд self-hosted Next.js аппликейшн дээрх cross-client response injection болон мэдээлэл задлах эрсдэл, зураг оновчлол дахь SVG rejection bypass зэрэг асуудлууд багтжээ. Мөн Edge runtime роутуудын хувьд HttpOnly күүкийн аюулгүй байдлыг сайжруулсан байна.\n\nЭнэхүү шинэчлэлт нь бүтээгдэхүүнийхээ аюулгүй байдлыг хангахад чухал ач холбогдолтой тул төслүүдээ яаралтай шинэчлэхийг зөвлөж байна.",
+ "published": "2026-11-03T18:38:27Z",
+ "added": "2026-11-06T03:00:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

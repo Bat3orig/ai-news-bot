@@ -1,0 +1,17 @@
+{
+ "id": "aa5f6d4023340855",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
+ "image": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp",
+ "title": "Re-Implementing :nth-child() With Modern CSS",
+ "summary_en": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements. Re-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "title_mn": "О орчин үеийн CSS болон style query ашиглан :nth-child()-г шинээр бүтээх нь",
+ "summary_mn": "Зохиогч CSS-ийн шинэ if() функц болон style query ашиглан :nth-child() сонгогчийг динамикаар утгаа өөрчлөх боломжтой болгон хэрхэн дахин бүтээж болохыг тайлбарлажээ.",
+ "body_mn": "Энэхүү нийтлэлд :nth-child() сонгогчийн утгыг хувьсагчаар шууд удирдаж, өөрчлөх боломжийг орчин үеийн CSS-ийн боломжуудаар хэрхэн шийдэх талаар харуулсан байна. Энэ нь ихэвчлэн практикт шаардлагагүй мэт санагдавч шинэ боломжуудыг туршиж суралцахад тустай юм.\n\nЖишээ болгон container дээр хувьсагч зарлаж, if() болон style() функцүүдийг хослуулан тодорхой индекс эсвэл муж бүхий элементүүдийг сонгож байна. Мөн mod() функцийг ашиглан тодорхой үржвэр бүхий элементүүдийг хялбархан шүүж болохыг харуулжээ.\n\nЭнэ арга нь кодын бүтцийг бага зэрэг давхардуулж харагдуулж болох талтай ч синтаксийг илүү уян хатан болгодог. Вэб хөгжүүлэгчид CSS-ийн шинэ боломжуудыг практикт хэрхэн ашиглаж болохыг ойлгоход энэхүү туршилт сонирхолтой бөгөөд хэрэгтэй мэдээлэл болно.",
+ "published": "2026-11-03T14:50:32Z",
+ "added": "2026-11-06T03:00:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
