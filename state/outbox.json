@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "77b14860a02b316d",
-   "subtopic": "tailwind",
-   "source": "tailwindlabs/tailwindcss",
-   "source_label": "tailwindlabs/tailwindcss",
-   "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.3.4",
-   "image": "https://opengraph.githubassets.com/f028489a28d0dd4686437660cd182562dbd11515659d930c41e7d7cdbdc16145/tailwindlabs/tailwindcss/releases/tag/v4.3.4",
-   "title": "tailwindcss v4.3.4",
-   "summary_en": "Added Add @tailwindcss/turbopack , a Turbopack loader for using Tailwind CSS with Next.js ( #20367 ) Fixed Ensure watch mode detects changes to symlinked @source files whose real paths aren't otherwise scanned ( #20356 ) Ensure variants using @scope wrap generated utilities instead of nesting inside them ( #20369 ) Ensure nested @scope rules preserve their scoping semantics when flattened ( #20369 ) Preserve declarations directly inside @scope by wrapping them in :where(:scope) ( #20369 ) Ensure generated utilities include a space in empty var() fallbacks (e.g. var(--tw-blur,) →…",
-   "title_mn": "Tailwind CSS v4.3.4 гарлаа: Turbopack loader болон олон алдаа засав",
-   "summary_mn": "Tailwind CSS v4.3.4 хувилбарт Next.js-тэй ажиллах @tailwindcss/turbopack loader нэмэгдсэн. Мөн @scope, watch mode, canonicalization болон Ruby template-ийн олон алдааг засжээ. Өөрчлөлтүүд нь төслийн CSS-ийн найдвартай байдлыг сайжруулна.",
-   "body_mn": "Tailwind CSS v4.3.4 хувилбар гарсан бөгөөд шинэ онцлог болох @tailwindcss/turbopack нэмэгдлээ. Энэ нь Turbopack дээр суурилсан Next.js төсөлд Tailwind CSS-ийг холбох loader юм.\n\nЗасварын жагсаалт маш урт байна. @scope дотор utility-нүүд зөв ороож, nested @scope дүрмүүд flatten хийхэд scoping утгаа хадгалдаг болсон. Watch mode нь symlink хийгдсэн @source файлуудын өөрчлөлтийг илрүүлдэг болж, ignored хавтсуудыг алгасдаг болов.\n\nМөн canonicalization-д олон сайжруулалт орсон. Жишээ нь max-[64rem]:flex нь max-lg:flex болж хөрвөнө. Vite-ийн bundledDev горимд @tailwindcss/vite-ийн crash засагдсан, @tailwindcss/oxide native binding байхгүй платформ дээр WASM руу шилжих боломжтой болсон.\n\nRuby %w болон %W литерал, Slim, Haml template-ийн class илрүүлэлт сайжирсан. Хэрэв та эдгээр загваруудыг ашигладаг бол шинэчлэх нь зүйтэй.",
-   "published": "2026-11-02T21:16:50Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "efad017cf38376cd",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/tencent-hy4-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/iajKgHHs29vQXYUZMuMOy/061c4066e956c6ecb840b3a697cd97d2/image__100_.png",
-   "title": "Tencent Hy4 now available on AI Gateway",
-   "summary_en": "Hy4 from Tencent is now available on AI Gateway , at 50% off through December 31, 2026. Hy4 supports reasoning , tool calling , structured outputs , and image input, and has a 1M-token context window for work across a codebase or many documents. Hy4 is the first Hy model with vision. It can pick out fine detail in an image and read complex charts. It also supports computer use in both command-line and graphical interfaces. Compared with Hy4 Preview , it follows instructions more closely and does better with long context, long-running tasks, and deep research. Use tencent/hy4 as the model…",
-   "title_mn": "Tencent Hy4 загвар Vercel AI Gateway дээр 50% хөнгөлөлттэйгээр гарлаа",
-   "summary_mn": "Tencent-ийн Hy4 загвар Vercel AI Gateway дээр боломжтой боллоо. Загвар reasoning, tool calling, structured output болон зураг оруулахыг дэмжиж, 1M токений context window-тай. 2026 оны 12-р сарын 31 хүртэл 50% хөнгөлөлттэй.",
-   "body_mn": "Tencent-ийн Hy4 загвар Vercel AI Gateway дээр боломжтой боллоо. Энэ загвар reasoning, tool calling, structured output болон зураг оруулах боломжийг дэмжиж, 1 сая токений context window-тай. Хөнгөлөлт 2026 оны 12-р сарын 31 хүртэл үргэлжилнэ.\n\nHy4 нь Hy загваруудаас анх удаа vision чадвартай болсон. Зурган дахь нарийн дэлгэрэнгүйг таних, нарийн графикийг унших чадвартай. Мөн command-line болон график интерфейст computer use хийх боломжтой. Hy4 Preview-тэй харьцуулахад заавар дагах, урт context, удаан үргэлжилсэн даалгавар, deep research-д илүү сайн гэж мэдээлсэн.\n\nVercel CLI-ийг шинэчилж, setup командыг ажиллуулснаар Claude Code, Codex, Cursor зэрэг агентад tencent/hy4-ийг сонгож ашиглаж болно. AI Gateway нь provider-ийн үнийг хэвээр нь харуулах бөгөөд inference дээр платформын хураамж авдаггүй.\n\nТөлбөр, retry, failover болон routing дүрмийг нэг API-аар удирдах боломжтой. Hy4-ийг үнэгүй туршиж үзэх боломж энэ хугацаанд нээлттэй байна.",
-   "published": "2026-11-03T00:00:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ae220fbb5d394734",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-cli-now-diagnoses-setup-problems-with-vercel-doctor",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4Qq1edetewS59zvCuHHGI0/d5787b9ebff64a8fdf4df5104f1a6a78/slack-imgs.jpg",
-   "title": "Diagnose Vercel CLI setup problems with vercel doctor",
-   "summary_en": "Vercel CLI now includes vercel doctor , which checks your setup and shows the command that fixes each problem it finds. It checks the CLI version and install, your login and current team, the project link, and your project configuration in vercel.json . It also reports active incidents from the Vercel status page. Each check reports OK, Warning, Failed, or Skipped. When vercel upgrade can't update the installed CLI, the install check shows where the CLI runs from and how to reinstall it. Doctor runs without a login or a linked project, and it never prompts, logs in, or links a project, so…",
-   "title_mn": "Vercel CLI-д vercel doctor нэмэгдэж, тохиргооны асуудлыг шалгана",
-   "summary_mn": "Vercel CLI-д vercel doctor команд нэмэгдсэн бөгөөд тохиргооны асуудал бүрт засах командыг харуулна. CLI хувилбар, нэвтрэлт, төслийн холбоос, vercel.json-ийг шалгаж, идэвхтэй incident-уудыг мэдээлнэ. Команд нэвтрэлтгүйгээр ажиллана.",
-   "body_mn": "Vercel CLI-д vercel doctor команд нэмэгдлээ. Энэ команд таны тохиргоог шалгаж, олдсон асуудал бүрт яг ямар команд ажиллуулахыг харуулна.\n\nШалгалт нь CLI-ийн хувилбар болон суулгалт, нэвтэрсэн эрх, одоогийн team, төслийн холбоос, vercel.json тохиргоог хамардаг. Мөн Vercel статусын хуудаснаас идэвхтэй incident-уудыг тайлагнана. Шалгалт бүр OK, Warning, Failed эсвэл Skipped статустай.\n\nЭнэ командыг нэвтрэлт эсвэл холбосон төсөлгүйгээр ажиллуулж болно. Мөн асуулт асуух эсвэл нэвтрэх шаардлагагүй тул coding agent-ууд засварын санал болгохоосоо өмнө ашиглах боломжтой. --json флаг ашиглавал статус болон санал болгох командуудыг бүтэцлэгдсэн байдлаар авна.\n\nCLI-ээ шинэчилж, vercel doctor-ыг ажиллуулаарай. Дэлгэрэнгүйг команд тайлбарын баримтаас үзнэ үү.",
-   "published": "2026-11-03T00:00:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "18fde97f9ff03e7d",
-   "subtopic": "packages",
-   "source": "JavaScript Weekly",
-   "source_label": "JavaScript Weekly",
-   "url": "https://javascriptweekly.com/issues/809",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/dhcgdjewfv50joacutkm.jpg",
-   "title": "What Claude spends building with 12 JavaScript stacks",
-   "summary_en": "#​809 — November 3, 2026 Read on the Web JavaScript Weekly The AI Cost of JavaScript Frameworks Nolan Lawson had Claude build the same app five times in each of twelve JS stacks to test common \"X is better for agents\" claims. Costs varied significantly between runs, and Gautam Parab found that the observed cost ranges overlapped or touched for most pairs of frameworks. But a clearer difference was in the median amount of JavaScript sent to browsers: 0KB for Astro, 18K for Hono+htmx, 36K for SvelteKit, and 115–142K for React Router, TanStack Start and Next.js. If you've gone \"hands-free\"…",
-   "title_mn": "Node 26 LTS, Vitest 5.1, Rspack 2.3 болон Leaflet 2.0 Beta: долоо хоногийн гол багц хувилбарууд",
-   "summary_mn": "JavaScript Weekly-ийн энэ дугаарт Node.js 26 LTS, Vitest 5.1, Rspack 2.3 болон Leaflet 2.0 Beta 1 зэрэг чухал хувилбарууд багтжээ. Cloudflare Workers Temporal API-г дэмжиж эхэллээ. GitHub Actions pull_request_target-ийн өгөгдмөл тохиргоо өөрчлөгдөнө.",
-   "body_mn": "JavaScript Weekly-ийн энэ дугаарт Node.js 26 LTS, Node.js 27 alpha, Vitest 5.1, Rspack 2.3, Leaflet 2.0 Beta 1 зэрэг хэд хэдэн чухал багц, хэрэгслийн шинэчлэл гарсан байна.\n\nNode 26 одоо 'Lithium' LTS шугам болсон бөгөөд Node 27 нь Node-ийн шинэ хувилбарын үйл явцын дагуу анхны alpha хувилбараа гаргасан. Vitest 5.1-д --since-last-run флаг нэмэгдэж, зөвхөн засвар хийгдсэн тестүүдийг дахин ажиллуулах боломжтой боллоо. Мөн интерактив snapshot шалгах онцлог бий.\n\nRspack 2.3 нь Rust дээр суурилсан webpack-ийн альтернатив бөгөөд SWC Next болон шинэ parser-ээ нэвтрүүлжээ. Багийн мэдээлснээр бүтээх хугацаа 5-20%-иар хурдсан. Leaflet 2.0 Beta 1 нь арав гаруй жилийн дараах анхны том хувилбар бөгөөд tree-shake хийх боломжтой, TypeScript төрлүүдтэй болж, default export-ийг хассан.\n\nCloudflare Workers нь Temporal API-г temporal compatibility flag-ээр дэмжиж эхэлсэн бөгөөд 12-р сарын 1-ээс үндсэн байдлаар идэвхжинэ. GitHub Actions нь нийтийн repo-д pull_request_target-ийг 12-р сарын 2-оос өгөгдмөлөөр блоклох тул CI тохиргоогоо шалгах хэрэгтэй. Мөн Effect 4.1, pnpm 12.17, ESLint 10.14.0, Nuxt DevTools v4 гарсан.",
-   "published": "2026-11-03T00:00:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5a2f5551571953b1",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
-   "image": "https://opengraph.githubassets.com/ab0198d793f6ecde4f0b616c56288e6d5eebda1b7926e0aa6d238a5b433b1653/anthropics/claude-code/releases/tag/v2.1.317",
-   "title": "claude-code v2.1.317",
-   "summary_en": "What's changed Added a warning to /schedule when a new cloud scheduled task gets connectors you did not ask for, with how to remove them Added a check that asks before a web or shell tool call sends your account email address to the network Added onFailure: \"block\" for Agent SDK hook callbacks, so a callback that fails blocks the action instead of letting it run Added a notice in Claude Desktop's Code tab when your organization's remote managed settings haven't loaded for the session, and another once they do Added a notice when auto mode's check has no answer for a subagent's tool call…",
-   "title_mn": "claude-code v2.1.317 хувилбар шинэчлэлтүүд гарлаа",
-   "summary_mn": "Claude Code хэрэгслийн шинэ хувилбар гарч, Agent SDK дэгээний алдаа боловсруулалт болон OTel метрикэд нэмэлтүүд орлоо. Мөн зарим холболтын салгалт болон тохиргооны алдаануудыг засжээ.",
-   "body_mn": "Claude Code хэрэгслийн v2.1.317 хувилбар нь хөгжүүлэгчдийн ажлыг илүү хялбар, аюулгүй болгох олон шинэ боломж, засваруудыг багтаасан байна. Тухайлбал, шинээр үүсэх үед үл мэдэгдэх холбогч нэмэгдсэн тохиолдолд /schedule команд анхааруулга өгдөг болжээ.\n\nМөн Agent SDK дэгээний буцаалтад onFailure: \"block\" утгыг нэмснээр алдаа гарсан үед үйлдлийг зогсоох боломжтой болсон бөгөөд OpenTelemetry (OTel) метрик болон үйл явдлуудад анхааруулга болон хяналтын мэдээллүүд нэмэгдсэн байна.\n\nТүүнчлэн админуудад зориулсан Claude apps gateway API-д өртгийн тайлан урих боломж нэмэгдсэн нь хөгжүүлэгч болон байгууллагын зардлыг хянах боломжийг бүрдүүлжээ. Төслийн болон локал MCP серверүүд салгагддаг байсан зэрэг олон техникийн алдааг засжээ.",
-   "published": "2026-11-03T01:25:46Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9f8ab173fb9513a1",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/how-mercor-ships-internal-apps-and-billions-of-production-tokens-on-one-platform",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5vGpD5V08d8nBJdtHDny9Y/8b374ea52dff57e94f7de466a46466bf/customer_story_og_card_og_card__1_.jpg",
-   "title": "How Mercor ships internal apps and billions of production tokens on one platform",
-   "summary_en": "Mercor on Vercel Batch jobs cut from 12 hours to 2 hours 18M requests and 63B tokens routed through AI Gateway in 10 days Expert access provisioned in seconds via Vercel Passport Over 2,000 projects created by hundreds of internal builders Mercor connects hundreds of thousands of domain experts with frontier AI labs, helping those labs generate the human data they need to train and evaluate leading models. It also runs large batches of automated grading jobs to evaluate models for labs and enterprises. Demand arrives in bursts that can push model traffic to peak capacity for days, even as…",
-   "title_mn": "Mercor компани Vercel AI Gateway ашиглан хэдэн тэрбум токен удирдав",
-   "summary_mn": "Mercor компани Vercel AI Gateway болон Passport ашиглан 10 хоногийн дотор 63 тэрбум токен удирдан чиглүүлж, загварын хурд болон аюулгүй байдлаа сайжруулжээ.",
-   "body_mn": "Хиймэл оюун ухааны лабораториудад экспертүүдийг холбож өгдөг Mercor компани Vercel AI Gateway болон Vercel Passport үйлчилгээг ашиглан өөрсдийн инженерчлэл болон аюулгүй байдлын дэд бүтцээ өргөжүүлжээ. Тэд эхний 10 хоногт л гэхэд 18 сая хүсэлт, 63 тэрбум токенийг ямар нэгэн хязгаарлалтад оролгүйгээр AI Gateway-ээр дамжуулан боловсруулсан байна.\n\nӨмнө нь олон төрлийн үйлчилгээ ашигладаг байсан нь хэрэглээний хязгаарлалт болон хүлээлт үүсгэж, багцуудыг боловсруулахад удаашруулдаг байжээ. Харин AI Gateway-ийн failover буюу урсгал чиглүүлэлтийн ачаар энэ асуудал шийдвэрлэгдэж, ажлын цаг эрс багассан байна.\n\nМөн Mercor-ын олон зуун инженерүүд хувийн түлхүүр, дуусах хугацаа болон токений хязгаарлалт бүхий open-source загваруудыг ашиглаж эхэлжээ. Энэ нь аюулгүй байдлыг хангахын зэрэгцээ дотоод багуудад шаардлагатай аппликейшнүүдийг хурдан бүтээх боломжийг олгож байна.",
-   "published": "2026-11-03T04:00:00Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "71448f5b64f6d581",
-   "subtopic": "ai-devtools",
-   "source": "ollama/ollama",
-   "source_label": "ollama/ollama",
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
-   "image": "https://opengraph.githubassets.com/91b70c277489e659a73c35ec4dfce8e21020afababba65c7ca91ebcc0eaec4e7/ollama/ollama/releases/tag/v0.40.14",
-   "title": "ollama v0.40.14",
-   "summary_en": "What's Changed ollama launch claude now applies the model's output token limit for Claude Code, so cloud models no longer run into the 128k default cap Cloud web search responses on /api/chat are now decoded correctly, including compressed responses OpenAI-compatible endpoints no longer override a model's packaged sampler defaults — clients that send no temperature / top_p get the model's own values instead of 1.0, matching /api/chat /v1/responses now preserves readable input content, including prior assistant refusals, instead of flattening it Ollama's app can now retry ChatGPT disconnect…",
-   "title_mn": "Ollama v0.40.14 хувилбар шинэ боломжуудтайгаар гарлаа",
-   "summary_mn": "Ollama v0.40.14 шинэчлэлтээр Claude Code-ын гаратын токений хязгаарлалтыг зөв тохируулж, вэб хайлтын хариуг зөв задлах болон OpenAI-тэй нийцтэй төгсгөлүүдийг сайжруулжээ.",
-   "body_mn": "Ollama хэрэгслийн v0.40.14 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд зориулсан олон чухал сайжруулалтыг хийсэн байна. Тухайлбал, ollama launch claude команд нь Claude Code-д зориулсан загварын гаратын токений хязгаарлалтыг зөв хэрэглэх болсноор үүлэн загварууд үндсэн 128k хязгаарлалтад орохгүй ажиллах боломжтой болжээ.\n\nМөн /api/chat дахь үүлэн вэб хайлтын хариуг шахсан өгөгдлийг оруулаад зөв задлах чадвартай болсон байна. OpenAI-тэй нийцтэй төгсгөлүүд нь үсрэх утга буюу temperature/top_p тохиргоог хүчингүй болгохгүйгээр загварын өөрийн утгыг хадгалдаг болжээ.\n\nҮүнээс гадна ollama launch codex нь холболтыг шалгах боломжтой болж, MLX дээрх том үгсийн санд зориулсан top-k sampling илүү хурдан ажиллах зэрэг техникийн засварууд орсон байна.",
-   "published": "2026-11-03T06:57:31Z",
-   "added": "2026-11-04T14:58:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b26ff97c8c8c2738",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "GamesIndustry.biz",
-   "url": "https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games",
-   "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-02-at-17.44.04.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-   "title": "Anthropic adds rule to stop Claude Code recreating existing games",
-   "summary_en": "Anthropic has updated its AI coding tool Claude Code so it stops building clones of existing video games.",
-   "title_mn": "Anthropic компаниийн Claude Code хэрэгсэлд тоглоом хуулбарлахыг хориглосон шинэ дүрэм нэмэгдл",
-   "summary_mn": "Anthropic компани Claude Code хэрэгсэлд алдартай видео тоглоомуудыг хуулбарлаж бүтээхээс сэргийлэх шинэ дүрмийг нэмжээ.",
-   "body_mn": "Anthropic компани өөрийн Claude Code болон Claude Opus 5.5 загваруудад видео тоглоом клойд хийх буюу хуулбарлахыг хориглосон дотоод системийн дүрмийг шинэчлэн нэмсэн байна. Энэхүү өөрчлөлт нь хэрэглэгчдэд бусдын оюуны өмчийг зөрчихгүйгээр зөвхөн өөрийн дизайн, хөрөнгөд суурилсан эсвэл төрөл бүрийн анхны тоглоом бүтээх боломжийг олгох зорилготой юм.\n\nТехникийн ажилтан Addy Osmani уг шинэчлэлийг баталж, анхны тоглоом болон жанрын тоглоом бүтээх үйл явц хэвийн үргэлжилнэ гэдгийг мэдэгджээ. Гэсэн хэдий ч хөгжүүлэгчдийн дунд уг хориг нь зарим хууль ёсны хөгжүүлэлтийн ажлуудад саад учруулж болзошгүй гэсэн болгоомжлол байна.",
-   "published": "2026-11-02T17:50:20Z",
-   "added": "2026-11-05T08:49:33Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e19d87eb994b6dbd",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "Startup Fortune",
-   "url": "https://startupfortune.com/qwen4-nears-launch-as-alibabas-open-source-promise-faces-real-doubt/",
-   "image": "https://startupfortune.com/wp-content/uploads/2026/11/qwen-alibaba-junyang-lin.jpg",
-   "title": "Qwen4 Nears Launch as Alibaba's Open Source Promise Faces Real Doubt",
-   "summary_en": "Qwen4 nears launch as Alibaba faces doubts over its open-source pledge after Qwen 3.7 shipped closed following a leadership exodus at the Qwen team.",
-   "title_mn": "Alibaba компани Qwen4 загвараа гаргахаар бэлтгэж байна",
-   "summary_mn": "Alibaba Cloud компани Qwen4 загварын гэр бүлийг тун удахгүй гаргахаар төлөвлөж байгаа ба нээлттэй эх сурвалжтай эсэх нь хөгжүүлэгчдийн дунд эргэлзээ төрүүлж байна.",
-   "body_mn": "Alibaba Cloud компанийн CTO Feifei Li Амстердам хотод болсон Apsara бага хурлын үеэр Qwen4 загвар ойрын хугацаанд гарах боломжтойг мэдэгджээ. Qwen код репозитор дахь өөрчлөлтүүдээс харахад qwen4-max, qwen4-plus болон qwen4-coder-plus хувилбарууд 1 сая токенийн контекц цонхтой байж магадгүй байна.\n\nГэсэн хэдий ч өмнөх Qwen 3.7 болон Qwen3.8-Omni-Flash загварууд нээлттэй жингүйгээр зөвхөн API хэлбэрээр гарсан нь хөгжүүлэгчдийн дунд нээлттэй эх сурвалжийн бодлогын талаар эргэлзээ төрүүлээд байна. Qwen загварууд Hugging Face дээр 700 сая гаруй таталт авсан бөгөөд энэ удаагийн шинэ загварын лицензийн нөхцөл хөгжүүлэгчдийн хувьд чухал асуудал болоод байна.",
-   "published": "2026-11-02T18:54:13Z",
-   "added": "2026-11-05T08:49:33Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "fc7d7fd5bbc6edd8",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "xAI",
-   "url": "https://x.ai/news/data-bot",
-   "image": "https://media.x.ai/v1/website/heres-your-og-image-i-used-the-grok-bot-og-template-in-pink-b3fd12e9.png",
-   "title": "Giving every team a data scientist with Grok Bot",
-   "summary_en": "Data Bot is a Team Bot in Grok Bot that the data science team teaches, so every team can query the warehouse, run analyses, and get answers the way a data scientist would.",
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-02T19:49:43Z",
-   "added": "2026-11-05T08:49:33Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "791370b08bfad83a",
    "subtopic": "xai",
    "source": "xAI (Google News)",
@@ -957,6 +757,26 @@
    "added": "2026-11-06T22:36:33Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2d0102cbc785a2dc",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-token-scanning-expands-to-more-public-sources",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4Czfbb2sJlw59NPcdMH9rd/0f654bd8fe1f74a5c57e283b8668dc37/Vercel_token_scanning_expands_to_more_public_sources_og.png",
+   "title": "Vercel token scanning expands to more public sources",
+   "summary_en": "Vercel has partnered with Truffle Security to expand automated detection and revocation of publicly exposed Vercel tokens. Revoking exposed credentials helps prevent unauthorized access to your projects and unexpected costs from unauthorized use of services such as Vercel Sandbox and Vercel AI Gateway . If your token is revoked, you’ll receive an email from us explaining why. Truffle Security reports tokens exposed in public sources including GitHub, GitLab, Docker, npm, PyPI, Hugging Face, Android APKs, and Firefox Add-ons. Vercel has revoked hundreds of tokens reported by Truffle Security…",
+   "title_mn": "Vercel токенуудыг нийтийн эх сурвалжуудаас илрүүлж автоматаар цуцалж эхэллээ",
+   "summary_mn": "Vercel, Truffle Security-тэй хамтран нийтэд илэрсэн Vercel токенуудыг илрүүлж, цуцлах механизмаа өргөтгөлөө. Токен алдагдсан тохиолдолд хэрэглэгчид имэйлээр мэдэгдэл авна.",
+   "body_mn": "Vercel, Truffle Security-тэй хамтран нийтэд нээлттэй эх сурвалжуудад илэрсэн Vercel токенуудыг автоматаар илрүүлж, цуцлах системээ өргөтгөжээ. Truffle Security нь GitHub, GitLab, Docker, npm, PyPI, Hugging Face, Android APK болон Firefox Add-ons зэрэг эх сурвалжид илэрсэн токенуудыг мэдээлсэн бөгөөд Vercel эдгээрээс хэдэн зуун токеныг аль хэдийн цуцалжээ.\n\nМөн Vercel-ийн тусдаа сканнер шинэ сар бүрийн Common Crawl өгөгдлийн санг шалгаж, олдсон Vercel токенуудыг автоматаар цуцалдаг болжээ. Токен цуцлагдсан тохиолдолд хөгжүүлэгч имэйлээр шалтгааныг нь мэдэх болно.\n\nЭнэ нь хөгжүүлэгчдэд чухал, учир нь токен алдагдсан тохиолдолд Vercel Sandbox эсвэл Vercel AI Gateway зэрэг үйлчилгээг зөвшөөрөлгүй ашиглаж, санаандгүй зардал үүсэх эрсдэл багасна. Токенуудаа хэрхэн үүсгэх, scope тохируулах, удирдах талаар Vercel-ийн access token баримт бичгээс дэлгэрэнгүй үзэж болно.\n\nЗөвлөмж: API токеноо кодын репозитори эсвэл нийтийн багцад хэзээ ч бүү оруулаарай. Орчны хувьсагч ашиглаж, шаардлагатай scope-оор хязгаарлаарай.",
+   "published": "2026-11-04T13:00:00Z",
+   "added": "2026-11-07T02:29:27Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
   }
  }
 ]

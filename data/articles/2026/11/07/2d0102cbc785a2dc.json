@@ -1,0 +1,17 @@
+{
+ "id": "2d0102cbc785a2dc",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-token-scanning-expands-to-more-public-sources",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4Czfbb2sJlw59NPcdMH9rd/0f654bd8fe1f74a5c57e283b8668dc37/Vercel_token_scanning_expands_to_more_public_sources_og.png",
+ "title": "Vercel token scanning expands to more public sources",
+ "summary_en": "Vercel has partnered with Truffle Security to expand automated detection and revocation of publicly exposed Vercel tokens. Revoking exposed credentials helps prevent unauthorized access to your projects and unexpected costs from unauthorized use of services such as Vercel Sandbox and Vercel AI Gateway . If your token is revoked, you’ll receive an email from us explaining why. Truffle Security reports tokens exposed in public sources including GitHub, GitLab, Docker, npm, PyPI, Hugging Face, Android APKs, and Firefox Add-ons. Vercel has revoked hundreds of tokens reported by Truffle Security…",
+ "title_mn": "Vercel токенуудыг нийтийн эх сурвалжуудаас илрүүлж автоматаар цуцалж эхэллээ",
+ "summary_mn": "Vercel, Truffle Security-тэй хамтран нийтэд илэрсэн Vercel токенуудыг илрүүлж, цуцлах механизмаа өргөтгөлөө. Токен алдагдсан тохиолдолд хэрэглэгчид имэйлээр мэдэгдэл авна.",
+ "body_mn": "Vercel, Truffle Security-тэй хамтран нийтэд нээлттэй эх сурвалжуудад илэрсэн Vercel токенуудыг автоматаар илрүүлж, цуцлах системээ өргөтгөжээ. Truffle Security нь GitHub, GitLab, Docker, npm, PyPI, Hugging Face, Android APK болон Firefox Add-ons зэрэг эх сурвалжид илэрсэн токенуудыг мэдээлсэн бөгөөд Vercel эдгээрээс хэдэн зуун токеныг аль хэдийн цуцалжээ.\n\nМөн Vercel-ийн тусдаа сканнер шинэ сар бүрийн Common Crawl өгөгдлийн санг шалгаж, олдсон Vercel токенуудыг автоматаар цуцалдаг болжээ. Токен цуцлагдсан тохиолдолд хөгжүүлэгч имэйлээр шалтгааныг нь мэдэх болно.\n\nЭнэ нь хөгжүүлэгчдэд чухал, учир нь токен алдагдсан тохиолдолд Vercel Sandbox эсвэл Vercel AI Gateway зэрэг үйлчилгээг зөвшөөрөлгүй ашиглаж, санаандгүй зардал үүсэх эрсдэл багасна. Токенуудаа хэрхэн үүсгэх, scope тохируулах, удирдах талаар Vercel-ийн access token баримт бичгээс дэлгэрэнгүй үзэж болно.\n\nЗөвлөмж: API токеноо кодын репозитори эсвэл нийтийн багцад хэзээ ч бүү оруулаарай. Орчны хувьсагч ашиглаж, шаардлагатай scope-оор хязгаарлаарай.",
+ "published": "2026-11-04T13:00:00Z",
+ "added": "2026-11-07T02:29:27Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
