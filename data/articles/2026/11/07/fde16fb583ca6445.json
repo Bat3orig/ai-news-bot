@@ -1,0 +1,17 @@
+{
+ "id": "fde16fb583ca6445",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
+ "title": "Gemini Omni 1.2 Flash now available on AI Gateway",
+ "summary_en": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per call, up to 30 seconds total, or refine generated clips in follow-up calls using previousInteractionId . Output supports 360p, 720p, 1080p, and 4K in 16:9 or 9:16. Use generateText or streamText in AI SDK to receive the generated video as a file. Generate a video Use…",
+ "title_mn": "Gemini Omni 1.2 Flash загвар Vercel AI Gateway-д нэмэгдлээ",
+ "summary_mn": "Google-ийн Gemini Omni 1.2 Flash загвар Vercel AI Gateway дээр ашиглах боломжтой боллоо. Тус загвар нь текстээс 3-15 секундын дуутай видео үүсгэх, засварлах болон 4K чанараар дүрс гаргах боломжийг олгож байна.",
+ "body_mn": "Vercel өөрийн AI Gateway платформ дээрээ Google-ийн Gemini Omni 1.2 Flash загварыг албан ёсоор дэмжиж эхэлснийг зарлалаа. Хөгжүүлэгчид Google-ийн тусдаа бүртгэлгүйгээр, нэг API түлхүүрээр AI SDK ашиглан текстээс шууд видео контент үүсгэх боломжтой болсон байна.\n\nGemini Omni 1.2 Flash нь 3-аас 15 секундын урттай, аудиотой видео бичлэг үүсгэх эсвэл зургаан лавлах зурагт үндэслэн эх бичлэгийг засварлах чадвартай. Түүнчлэн нэг дуудлагаар бичлэгийн уртыг 3-10 секундээр сунгаж, нийт 30 секунд хүртэл үргэлжлүүлэх боломжтой бөгөөд 360p-ээс 4K хүртэлх нягтрал, 16:9 болон 9:16 харьцааг дэмждэг.\n\nAI Gateway-ээр дамжуулан `google/gemini-omni-1.2-flash` моделоор хандан AI SDK-ийн `generateText` эсвэл `streamText` функцээр файлуудаа хүлээн авах боломжтой. Vercel-ийн зүгээс үнийн нэмэгдэлгүйгээр хэрэглээг хянах, Zero Data Retention болон failover зэрэг боломжуудыг санал болгож байна.",
+ "published": "2026-11-05T00:00:00Z",
+ "added": "2026-11-07T15:48:49Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

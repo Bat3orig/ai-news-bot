@@ -1,0 +1,17 @@
+{
+ "id": "451c2b94a1b7c040",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.46.0",
+ "image": "https://opengraph.githubassets.com/6855f5dc518684447bc1771c9d2cad547f45c51a35362e050c226cf648deca6d/openai/openai-python/releases/tag/v3.46.0",
+ "title": "openai-python v3.46.0",
+ "summary_en": "3.46.0 (2026-11-05) Features api: add Australia, India, and Japan residency options ( #4246 ) ( 2634b87 ) api: add GPT-6 Rosalind to the model catalog ( #4243 ) ( 0f8e5f3 ) api: add image complexity and GIF and SVG output controls ( #4247 ) ( 0152e3a ) api: expand agent turn errors and image and audio options ( #4245 ) ( 1b2fb74 ) Chores deps: bump github/codeql-action/init from 4.39.0 to 4.39.1 ( #4230 ) ( c9fe335 )",
+ "title_mn": "openai-python v3.46.0 хувилбарт GPT-6 Rosalind ба GIF/SVG удирдлага нэмэгдлээ",
+ "summary_mn": "OpenAI Python сангийн v3.46.0 хувилбарт GPT-6 Rosalind загвар, GIF болон SVG зураг гаргах сонголтууд нэмэгдлээ. Түүнчлэн Австрали, Энэтхэг, Япон улсуудад өгөгдөл хадгалах дэмжлэг орсон байна.",
+ "body_mn": "OpenAI-ийн албан ёсны openai-python сангийн v3.46.0 хувилбар гарлаа. Тус шинэчлэлтийн хамгийн гол өөрчлөлт нь загварын санд GPT-6 Rosalind-ийг нэмсэн явдал бөгөөд хөгжүүлэгчид API-аар дамжуулан шинэ загварыг турших боломжтой болж байна.\n\nМөн медиа үүсгэх тал дээр томоохон дэвшил гарч, зургийн нарийн төвөгтэй байдлыг тохируулах болон GIF, SVG хэлбэрээр үр дүн авах шинэ тохиргоонууд орж иржээ. Үүнээс гадна агентын алдааны удирдлага (agent turn errors), аудио сонголтууд өргөжсөн байна.\n\nБүс нутгийн дата хадгалалтын (residency) хувьд Австрали, Энэтхэг, Япон улсуудын сонголтууд нэмэгдсэн нь байгууллагын түвшний стандартыг хангахад туслах юм. Хөгжүүлэгчид `pip install --upgrade openai` тушаалаар сангаа шинэчлэн ашиглах боломжтой.",
+ "published": "2026-11-05T00:55:06Z",
+ "added": "2026-11-07T15:48:49Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

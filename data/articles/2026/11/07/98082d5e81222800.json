@@ -1,0 +1,17 @@
+{
+ "id": "98082d5e81222800",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/c5cbcf8c4cf48ebef3a68f5be108915e8051d6b3-1056x594.jpg?w=1200&q=70&fit=max&auto=format",
+ "title": "Workflow lab: Test ideas with code layers and the Figma agent",
+ "summary_en": "Bringing code onto the canvas gives teams a shared space to compare working prototypes side by side, refine a direction, and collaborate on ideas with teammates. This workflow shows how a designer uses code layers and the Figma agent to explore a new feature.",
+ "title_mn": "Figma: Код давхаргууд нээлттэй бета болж, Figma Agent албан ёсоор гарлаа",
+ "summary_mn": "Figma-гийн canvas дээр кодоор ажиллах code layers боломж нээлттэй бета хувилбарт шилжиж, Figma Agent хэрэгсэл нийтийн хэрэглээнд (GA) нэвтэрлээ.",
+ "body_mn": "Figma платформ дизайн болон бодит кодыг нэг орон зайд холбох code layers боломжоо нээлттэй бета туршилтад шилжүүлж байгааг зарлалаа. Үүний зэрэгцээ дизайны систем, загвар бүтээхэд туслах Figma Agent бүх нийтийн хэрэглээнд (GA) гарсан байна.\n\nХөгжүүлэгчид болон дизайнерууд GitHub репозиторыг шууд холбон канвас руу кодын давхарга болгон оруулж, Figma Agent-д текст промптоор даалгавар өгөн хэд хэдэн хувилбарыг зэрэг үүсгэж, интерактив байдлаар турших боломжтой болжээ. Мөн Notion дахь шаардлагын баримтыг ашиглан код давхарга үүсгэх холбоос нэмэгдсэн байна.\n\nЭнэхүү шинэчлэл нь гаднын төрөл бүрийн код бичих хэрэгслүүд хооронд шилжих шаардлагагүйгээр бодит прототайпийг багийн бүх гишүүн нэг канвас дээр зэрэг туршиж, дизайны системийн өөрчлөлтийг хурдан боловсруулах боломж олгож байна.",
+ "published": "2026-11-04T22:12:00Z",
+ "added": "2026-11-07T15:48:49Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

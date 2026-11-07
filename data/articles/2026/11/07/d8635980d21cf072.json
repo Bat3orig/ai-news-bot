@@ -1,0 +1,17 @@
+{
+ "id": "d8635980d21cf072",
+ "subtopic": "packages",
+ "source": "Node Weekly",
+ "source_label": "Node Weekly",
+ "url": "https://nodeweekly.com/issues/646",
+ "image": "https://res.cloudinary.com/cpress/image/upload/v1653576619/lgfqinzbdqttwmhvljxb.png",
+ "title": "Node 27's first alpha brings breaking changes",
+ "summary_en": "#​646 — November 5, 2026 Read on the Web Node.js 27 Alpha: The First Release Under Node's New Schedule — Under Node's new release model , each major release spends six months in alpha before stable release — so v27's final is due next April. Alphas are built from main with breaking changes, and are meant for library authors / testing rather than prod. V8 15.6 brings Math.sumPrecise() , Iterator.zip() and other iterator helpers by default, and import defer and immutable ArrayBuffer s are available behind flags. There's a new default heap limit of half of physical memory (clamped between 256MB…",
+ "title_mn": "Node.js 27-ийн анхны альфа хувилбар болон Parcel 3 гарав",
+ "summary_mn": "Node.js 27 Alpha шинэ V8 15.6 болон memory өөрчлөлтүүдтэй гарсан бол багцлагч Parcel 3 Rust хэл дээр шинэчлэгдэн 100 дахин хурдаслаа. Мөн Fastify, Hono зэрэг фрэймворкуудад чухал аюулгүй байдлын засварууд оржээ.",
+ "body_mn": "Node.js баг v27 хувилбарын анхны альфаг танилцууллаа. Шинэ загварын дагуу тогтвортой хувилбар гарахаас өмнө 6 сар альфа төлөвт туршигдах бөгөөд V8 15.6 хөдөлгүүрийн шинэ боломжууд, шинэ default heap хязгаарлалт, v8.serialize() формат болон native fs.glob зэрэг өөрчлөлтүүдийг багтаасан байна.\n\nТүүнчлэн вэб төслийн багцлагч Parcel 3 Alpha гарсан нь том мэдээ байв. Цөмийг нь бие даасан Rust бинар болгон бүрэн дахин бичсэнээр том monorepo төслүүдийн бүтээх хугацаа 100 дахин хурдасчээ. Залгаасуудыг Rust, Go, Swift эсвэл ердийн JS/TS дээр бичих боломжтой болсон байна.\n\nЭнэ долоо хоногт сервер фрэймворкуудын хувьд ч завгүй байж, Fastify 5.12.8, Hono 4.13.16, Nuxt 4.6.4 зэрэг хувилбарууд чухал хамгаалалтын засваруудыг хүргэжээ. Мөн багцын эх сурвалжийг баталгаажуулах mise хэрэгсэл зэрэг экосистемийн олон чухал дэвшлүүд гарсан байна.",
+ "published": "2026-11-05T00:00:00Z",
+ "added": "2026-11-07T15:48:49Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

@@ -718,5 +718,145 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "81d65575d8acdbeb",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/anthropic-expands-claude-marketplace-with-partner-agents-and-products/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-expands-claude-marketplace-with-partner-agents-and-products.jpg",
+   "title": "Anthropic Expands Claude Marketplace with Partner Agents and Products",
+   "summary_en": "Anthropic announced on November 4, 2026 an expansion of Claude Marketplace with partner agents and products for security, developer infrastructure, creative work, and productivity. The marketplace contains more than 25 p...",
+   "title_mn": "Anthropic байгууллагын Claude Marketplace платформоо хамтрагч агентуудаар өргөжүүллээ",
+   "summary_mn": "Anthropic компани Claude Marketplace-дээ аюулгүй байдал, дэд бүтэц, бүтээмжийн чиглэлийн 25 гаруй түншийн агент болон бүтээгдэхүүнийг нэмлээ. Байгууллагууд үүнийг урьдчилсан гэрээний зардлаасаа шууд тооцуулан худалдан авах боломжтой болжээ.",
+   "body_mn": "Anthropic байгууллагын Claude Marketplace платформын хүрээгээ тэлж, хамтрагч компаниудын 25 гаруй агент болон бүтээгдэхүүнийг каталогидоо нэмснийг зарлалаа. Энэхүү өргөтгөлд Chainguard, Checkmarx, Datadog, Netlify зэрэг хөгжүүлэгч болон дэд бүтцийн хэрэгслүүд багтсан байна.\n\nЭрх бүхий энтерпрайз хэрэглэгчид Anthropic-той байгуулсан урьдчилсан гэрээний төсвөөсөө эдгээр түншүүдийн программ хангамжийг худалдан авахад шууд тооцуулах боломжтой болжээ. Шинээр нэмэгдсэн хэрэгслүүдийн дунд тусгаарлагдсан microVM дотор кодын эмзэг байдлыг шалгах Chainguard Harness, агентуудын ажиллагааг хянах Datadog Agent Observability болон бүрэн хэмжээний веб байршуулах Netlify Enterprise багтаж байна.\n\nҮүнээс гадна Cyera, Rubrik зэрэг кибер аюулгүй байдлын системүүд болон Asana, Zoom-ийн ажлын урсгалын агентууд тус зах зээлд нэгджээ. Энэ нь хөгжүүлэгчид болон байгууллагуудад Claude экосистем дотор төрөл бүрийн дэд бүтэц, автоматжуулалтын хэрэгслүүдийг худалдан авалтын нэгдсэн системээр дамжуулан нэвтрүүлэх боломжийг олгож байна.",
+   "published": "2026-11-04T19:30:01Z",
+   "added": "2026-11-07T15:48:49Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "30d60c4284621e8a",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v45.2.3",
+   "image": "https://opengraph.githubassets.com/5c3291ec12a5bfde3554e40561eda03ed372d225e190c080f2189389780a322a/electron/electron/releases/tag/v45.2.3",
+   "title": "electron v45.2.3",
+   "summary_en": "Release Notes for v45.2.3 Other Changes Backported fixes from upstream ANGLE, Chromium, Dawn, FFmpeg, minigbm, PDFium, Skia and V8. #55592 Documentation Documentation changes: #55600",
+   "title_mn": "Electron v45.2.3 хувилбар гарлаа",
+   "summary_mn": "Electron v45.2.3 хувилбар гарч, ANGLE, Chromium, V8, Skia зэрэг суурь бүрэлдэхүүнүүдийн шинэчлэлтүүдийг backport хийн орууллаа.",
+   "body_mn": "Дэсктоп аппликейшн хөгжүүлэлтийн Electron фрэймворк v45.2.3 хувилбараа гаргалаа.\n\nЭнэхүү засварын хувилбарт upstream түвшний хэд хэдэн гол бүрэлдэхүүн хэсгээс засваруудыг backport хийж нэгтгэжээ. Үүнд ANGLE, Chromium, Dawn, FFmpeg, minigbm, PDFium, Skia болон V8 хөдөлгүүрийн засварууд багтсан байна.\n\nТүүнчлэн баримт бичгийн шинэчлэлтүүд багтсан тул хөгжүүлэгчид дэсктоп аппликейшнийхээ аюулгүй байдал, тогтвортой ажиллагааг хангахын тулд уг хувилбар руу шинэчлэхийг зөвлөж байна.",
+   "published": "2026-11-04T21:21:59Z",
+   "added": "2026-11-07T15:48:49Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "98082d5e81222800",
+   "subtopic": "design-systems",
+   "source": "Figma Blog",
+   "source_label": "Figma Blog",
+   "url": "https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/",
+   "image": "https://cdn.sanity.io/images/599r6htc/regionalized/c5cbcf8c4cf48ebef3a68f5be108915e8051d6b3-1056x594.jpg?w=1200&q=70&fit=max&auto=format",
+   "title": "Workflow lab: Test ideas with code layers and the Figma agent",
+   "summary_en": "Bringing code onto the canvas gives teams a shared space to compare working prototypes side by side, refine a direction, and collaborate on ideas with teammates. This workflow shows how a designer uses code layers and the Figma agent to explore a new feature.",
+   "title_mn": "Figma: Код давхаргууд нээлттэй бета болж, Figma Agent албан ёсоор гарлаа",
+   "summary_mn": "Figma-гийн canvas дээр кодоор ажиллах code layers боломж нээлттэй бета хувилбарт шилжиж, Figma Agent хэрэгсэл нийтийн хэрэглээнд (GA) нэвтэрлээ.",
+   "body_mn": "Figma платформ дизайн болон бодит кодыг нэг орон зайд холбох code layers боломжоо нээлттэй бета туршилтад шилжүүлж байгааг зарлалаа. Үүний зэрэгцээ дизайны систем, загвар бүтээхэд туслах Figma Agent бүх нийтийн хэрэглээнд (GA) гарсан байна.\n\nХөгжүүлэгчид болон дизайнерууд GitHub репозиторыг шууд холбон канвас руу кодын давхарга болгон оруулж, Figma Agent-д текст промптоор даалгавар өгөн хэд хэдэн хувилбарыг зэрэг үүсгэж, интерактив байдлаар турших боломжтой болжээ. Мөн Notion дахь шаардлагын баримтыг ашиглан код давхарга үүсгэх холбоос нэмэгдсэн байна.\n\nЭнэхүү шинэчлэл нь гаднын төрөл бүрийн код бичих хэрэгслүүд хооронд шилжих шаардлагагүйгээр бодит прототайпийг багийн бүх гишүүн нэг канвас дээр зэрэг туршиж, дизайны системийн өөрчлөлтийг хурдан боловсруулах боломж олгож байна.",
+   "published": "2026-11-04T22:12:00Z",
+   "added": "2026-11-07T15:48:49Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fde16fb583ca6445",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
+   "title": "Gemini Omni 1.2 Flash now available on AI Gateway",
+   "summary_en": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per call, up to 30 seconds total, or refine generated clips in follow-up calls using previousInteractionId . Output supports 360p, 720p, 1080p, and 4K in 16:9 or 9:16. Use generateText or streamText in AI SDK to receive the generated video as a file. Generate a video Use…",
+   "title_mn": "Gemini Omni 1.2 Flash загвар Vercel AI Gateway-д нэмэгдлээ",
+   "summary_mn": "Google-ийн Gemini Omni 1.2 Flash загвар Vercel AI Gateway дээр ашиглах боломжтой боллоо. Тус загвар нь текстээс 3-15 секундын дуутай видео үүсгэх, засварлах болон 4K чанараар дүрс гаргах боломжийг олгож байна.",
+   "body_mn": "Vercel өөрийн AI Gateway платформ дээрээ Google-ийн Gemini Omni 1.2 Flash загварыг албан ёсоор дэмжиж эхэлснийг зарлалаа. Хөгжүүлэгчид Google-ийн тусдаа бүртгэлгүйгээр, нэг API түлхүүрээр AI SDK ашиглан текстээс шууд видео контент үүсгэх боломжтой болсон байна.\n\nGemini Omni 1.2 Flash нь 3-аас 15 секундын урттай, аудиотой видео бичлэг үүсгэх эсвэл зургаан лавлах зурагт үндэслэн эх бичлэгийг засварлах чадвартай. Түүнчлэн нэг дуудлагаар бичлэгийн уртыг 3-10 секундээр сунгаж, нийт 30 секунд хүртэл үргэлжлүүлэх боломжтой бөгөөд 360p-ээс 4K хүртэлх нягтрал, 16:9 болон 9:16 харьцааг дэмждэг.\n\nAI Gateway-ээр дамжуулан `google/gemini-omni-1.2-flash` моделоор хандан AI SDK-ийн `generateText` эсвэл `streamText` функцээр файлуудаа хүлээн авах боломжтой. Vercel-ийн зүгээс үнийн нэмэгдэлгүйгээр хэрэглээг хянах, Zero Data Retention болон failover зэрэг боломжуудыг санал болгож байна.",
+   "published": "2026-11-05T00:00:00Z",
+   "added": "2026-11-07T15:48:49Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d8635980d21cf072",
+   "subtopic": "packages",
+   "source": "Node Weekly",
+   "source_label": "Node Weekly",
+   "url": "https://nodeweekly.com/issues/646",
+   "image": "https://res.cloudinary.com/cpress/image/upload/v1653576619/lgfqinzbdqttwmhvljxb.png",
+   "title": "Node 27's first alpha brings breaking changes",
+   "summary_en": "#​646 — November 5, 2026 Read on the Web Node.js 27 Alpha: The First Release Under Node's New Schedule — Under Node's new release model , each major release spends six months in alpha before stable release — so v27's final is due next April. Alphas are built from main with breaking changes, and are meant for library authors / testing rather than prod. V8 15.6 brings Math.sumPrecise() , Iterator.zip() and other iterator helpers by default, and import defer and immutable ArrayBuffer s are available behind flags. There's a new default heap limit of half of physical memory (clamped between 256MB…",
+   "title_mn": "Node.js 27-ийн анхны альфа хувилбар болон Parcel 3 гарав",
+   "summary_mn": "Node.js 27 Alpha шинэ V8 15.6 болон memory өөрчлөлтүүдтэй гарсан бол багцлагч Parcel 3 Rust хэл дээр шинэчлэгдэн 100 дахин хурдаслаа. Мөн Fastify, Hono зэрэг фрэймворкуудад чухал аюулгүй байдлын засварууд оржээ.",
+   "body_mn": "Node.js баг v27 хувилбарын анхны альфаг танилцууллаа. Шинэ загварын дагуу тогтвортой хувилбар гарахаас өмнө 6 сар альфа төлөвт туршигдах бөгөөд V8 15.6 хөдөлгүүрийн шинэ боломжууд, шинэ default heap хязгаарлалт, v8.serialize() формат болон native fs.glob зэрэг өөрчлөлтүүдийг багтаасан байна.\n\nТүүнчлэн вэб төслийн багцлагч Parcel 3 Alpha гарсан нь том мэдээ байв. Цөмийг нь бие даасан Rust бинар болгон бүрэн дахин бичсэнээр том monorepo төслүүдийн бүтээх хугацаа 100 дахин хурдасчээ. Залгаасуудыг Rust, Go, Swift эсвэл ердийн JS/TS дээр бичих боломжтой болсон байна.\n\nЭнэ долоо хоногт сервер фрэймворкуудын хувьд ч завгүй байж, Fastify 5.12.8, Hono 4.13.16, Nuxt 4.6.4 зэрэг хувилбарууд чухал хамгаалалтын засваруудыг хүргэжээ. Мөн багцын эх сурвалжийг баталгаажуулах mise хэрэгсэл зэрэг экосистемийн олон чухал дэвшлүүд гарсан байна.",
+   "published": "2026-11-05T00:00:00Z",
+   "added": "2026-11-07T15:48:49Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c30b322513faf4e6",
+   "subtopic": "vibe-coding",
+   "source": "Cursor Changelog",
+   "source_label": "Cursor Changelog",
+   "url": "https://cursor.com/changelog/build-live-apps",
+   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png",
+   "title": "Build Live Apps in Cursor",
+   "summary_en": "Build and deploy web apps directly in Cursor with cloud agents handling hosting, database, auth, and deployment.",
+   "title_mn": "Cursor дээр аппликэйшнийг шууд хөгжүүлж байршуулах шинэ боломж нэмэгдлээ",
+   "summary_mn": "Cursor-ийн cloud agent нь зөвхөн код бичих бус апп-ыг бүтээж, Postgres сан, auth тохируулан шууд вэб холбоос болгон байршуулах боломжтой боллоо. Хэрэглэгчид өөрсдийн санаагаа хэдхэн минутад бодит ажиллагаатай бүтээгдэхүүн болгох боломжтой.",
+   "body_mn": "Cursor засварлагчийн шинэ шинэчлэлтээр хөгжүүлэгчид өөрсдийн хийсэн төслийг зөвхөн localhost дээр үлдээхгүйгээр шууд олон нийтэд нээлттэй эсвэл байгууллага дотроо хуваалцах live апп болгон байршуулах боломжтой боллоо. Энэхүү боломж нь үүлэн агентаар (cloud agent) ажилладаг.\n\nАшиглахын тулд үүлэн агент эхлүүлээд ямар аппликэйшн хийхийг хүсэж байгаагаа бичихэд хангалттай. Үүний дараа Cursor нь бүтцийг бэлдэж, шаардлагатай бол Postgres өгөгдлийн сан үүсгэн, Cursor SSO-той нэвтрэлтийг холбож, хостингийг бүрэн тохируулж өгнө. Байгууллагын нууц өгөгдөл, нууц үг шаардлагатай бол агент танаас шууд асууж холболт үүсгэнэ.\n\nАппликэйшнийг нийтлэхийн өмнө нууц түлхүүр код дотор ил гарсан эсэхийг агент болон тусгай алгоритмаар шалгах тул аюулгүй байдал хангагдана. Бүх шалгалт дууссаны дараа танд шууд зочлох боломжтой домэйн холбоос үүсэж очих бөгөөд энэ боломжийг төлбөртэй багцын хэрэглэгчид яг одоо турших боломжтой.",
+   "published": "2026-11-05T00:00:00Z",
+   "added": "2026-11-07T15:48:49Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "451c2b94a1b7c040",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.46.0",
+   "image": "https://opengraph.githubassets.com/6855f5dc518684447bc1771c9d2cad547f45c51a35362e050c226cf648deca6d/openai/openai-python/releases/tag/v3.46.0",
+   "title": "openai-python v3.46.0",
+   "summary_en": "3.46.0 (2026-11-05) Features api: add Australia, India, and Japan residency options ( #4246 ) ( 2634b87 ) api: add GPT-6 Rosalind to the model catalog ( #4243 ) ( 0f8e5f3 ) api: add image complexity and GIF and SVG output controls ( #4247 ) ( 0152e3a ) api: expand agent turn errors and image and audio options ( #4245 ) ( 1b2fb74 ) Chores deps: bump github/codeql-action/init from 4.39.0 to 4.39.1 ( #4230 ) ( c9fe335 )",
+   "title_mn": "openai-python v3.46.0 хувилбарт GPT-6 Rosalind ба GIF/SVG удирдлага нэмэгдлээ",
+   "summary_mn": "OpenAI Python сангийн v3.46.0 хувилбарт GPT-6 Rosalind загвар, GIF болон SVG зураг гаргах сонголтууд нэмэгдлээ. Түүнчлэн Австрали, Энэтхэг, Япон улсуудад өгөгдөл хадгалах дэмжлэг орсон байна.",
+   "body_mn": "OpenAI-ийн албан ёсны openai-python сангийн v3.46.0 хувилбар гарлаа. Тус шинэчлэлтийн хамгийн гол өөрчлөлт нь загварын санд GPT-6 Rosalind-ийг нэмсэн явдал бөгөөд хөгжүүлэгчид API-аар дамжуулан шинэ загварыг турших боломжтой болж байна.\n\nМөн медиа үүсгэх тал дээр томоохон дэвшил гарч, зургийн нарийн төвөгтэй байдлыг тохируулах болон GIF, SVG хэлбэрээр үр дүн авах шинэ тохиргоонууд орж иржээ. Үүнээс гадна агентын алдааны удирдлага (agent turn errors), аудио сонголтууд өргөжсөн байна.\n\nБүс нутгийн дата хадгалалтын (residency) хувьд Австрали, Энэтхэг, Япон улсуудын сонголтууд нэмэгдсэн нь байгууллагын түвшний стандартыг хангахад туслах юм. Хөгжүүлэгчид `pip install --upgrade openai` тушаалаар сангаа шинэчлэн ашиглах боломжтой.",
+   "published": "2026-11-05T00:55:06Z",
+   "added": "2026-11-07T15:48:49Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
  }
 ]

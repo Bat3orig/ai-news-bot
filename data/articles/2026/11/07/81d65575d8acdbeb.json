@@ -1,0 +1,17 @@
+{
+ "id": "81d65575d8acdbeb",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-expands-claude-marketplace-with-partner-agents-and-products/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-expands-claude-marketplace-with-partner-agents-and-products.jpg",
+ "title": "Anthropic Expands Claude Marketplace with Partner Agents and Products",
+ "summary_en": "Anthropic announced on November 4, 2026 an expansion of Claude Marketplace with partner agents and products for security, developer infrastructure, creative work, and productivity. The marketplace contains more than 25 p...",
+ "title_mn": "Anthropic байгууллагын Claude Marketplace платформоо хамтрагч агентуудаар өргөжүүллээ",
+ "summary_mn": "Anthropic компани Claude Marketplace-дээ аюулгүй байдал, дэд бүтэц, бүтээмжийн чиглэлийн 25 гаруй түншийн агент болон бүтээгдэхүүнийг нэмлээ. Байгууллагууд үүнийг урьдчилсан гэрээний зардлаасаа шууд тооцуулан худалдан авах боломжтой болжээ.",
+ "body_mn": "Anthropic байгууллагын Claude Marketplace платформын хүрээгээ тэлж, хамтрагч компаниудын 25 гаруй агент болон бүтээгдэхүүнийг каталогидоо нэмснийг зарлалаа. Энэхүү өргөтгөлд Chainguard, Checkmarx, Datadog, Netlify зэрэг хөгжүүлэгч болон дэд бүтцийн хэрэгслүүд багтсан байна.\n\nЭрх бүхий энтерпрайз хэрэглэгчид Anthropic-той байгуулсан урьдчилсан гэрээний төсвөөсөө эдгээр түншүүдийн программ хангамжийг худалдан авахад шууд тооцуулах боломжтой болжээ. Шинээр нэмэгдсэн хэрэгслүүдийн дунд тусгаарлагдсан microVM дотор кодын эмзэг байдлыг шалгах Chainguard Harness, агентуудын ажиллагааг хянах Datadog Agent Observability болон бүрэн хэмжээний веб байршуулах Netlify Enterprise багтаж байна.\n\nҮүнээс гадна Cyera, Rubrik зэрэг кибер аюулгүй байдлын системүүд болон Asana, Zoom-ийн ажлын урсгалын агентууд тус зах зээлд нэгджээ. Энэ нь хөгжүүлэгчид болон байгууллагуудад Claude экосистем дотор төрөл бүрийн дэд бүтэц, автоматжуулалтын хэрэгслүүдийг худалдан авалтын нэгдсэн системээр дамжуулан нэвтрүүлэх боломжийг олгож байна.",
+ "published": "2026-11-04T19:30:01Z",
+ "added": "2026-11-07T15:48:49Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}
