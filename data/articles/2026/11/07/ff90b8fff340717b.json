@@ -1,0 +1,17 @@
+{
+ "id": "ff90b8fff340717b",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "ProPakistani",
+ "url": "https://propakistani.pk/2026/11/04/anthropic-building-tool-to-expose-chinese-models-secretly-using-claude/",
+ "image": "https://propakistani.pk/wp-content/uploads/2026/06/Anthropic-2.jpg",
+ "title": "Anthropic Building Tool to Expose Chinese Models Secretly Using Claude",
+ "summary_en": "Anthropic is developing an open-source tool that could expose AI companies secretly using Claude to generate responses while claiming the answers came",
+ "title_mn": "Anthropic AI загваруудын жинхэнэ эх үүсвэрийг баталгаажуулах FlashProve хэрэгслийг бүтээж байна",
+ "summary_mn": "Anthropic компани бусад хиймэл оюун ухааны компаниуд Claude загварыг нууцаар ашиглаж байгаа эсэхийг шалгах FlashProve хэрэгслийг хөгжүүлж эхэлжээ.",
+ "body_mn": "Anthropic компани хиймэл оюун ухааны загваруудын хариу аль системээс гарсныг математикийн болон криптографийн аргаар баталгаажуулах FlashProve хэрэгслийг бүтээж байгаа ажээ. Энэхүү систем нь зарим компаниуд Claude загварын хариуг өөрийн загварынх мэтээр нууцаар ашиглаж байгаа үйлдэлтэй тэмцэхэд чиглэгдсэн байна.\n\nӨмнө нь Anthropic компани Moonshot AI болон бусад зарим лабораториудыг хэрэглэгчдийн хүсэлтийг Claude руу нууцаар дамжуулж байсан хэмээн буруутгаж байсан юм. FlashProve хэрэгсэл нь дотоод жинг илрүүлэхгүйгээр өгөгдсөн хариу аль загварт хамаарахыг батлах боломжийг олгоно.\n\nЭнэхүү криптографийн баталгаажуулалт нь хиймэл оюун ухааны салбар дахь загварын хулгай болон үйлчилгээний нөхцөл зөрчих зөрчилтэй тэмцэх чухал алхам болох юм.",
+ "published": "2026-11-04T16:37:25Z",
+ "added": "2026-11-07T09:05:21Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

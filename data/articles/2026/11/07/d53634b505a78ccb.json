@@ -1,0 +1,17 @@
+{
+ "id": "d53634b505a78ccb",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+ "image": "https://github.blog/wp-content/uploads/2026/11/694394305-f9d288c4-2862-48ff-aadf-b307e5ead674.png",
+ "title": "GitHub Copilot is now available in Xcode’s coding assistant",
+ "summary_en": "You can now work with GitHub Copilot directly in Xcode’s built-in coding assistant, bringing Copilot into your native Xcode workflow. The integration is now in public preview, available starting with…",
+ "title_mn": "GitHub Copilot Xcode кодчиллын туслахад нэгдлээ",
+ "summary_mn": "GitHub Copilot одоо Xcode-ийн суурилуулсан кодчиллын туслахад шууд ашиглах боломжтой боллоо. Энэхүү интеграци нь Xcode 27.3 бета хувилбараас эхлэн олон нийтийн урьдчилсан байдлаар нээгдээд байна.",
+ "body_mn": "Хөгжүүлэгчид одоо GitHub Copilot-г Xcode-ийн уугуул кодчиллын туслах дотор шууд ашиглах боломжтой боллоо. Энэхүү шинэ интеграци нь macOS Tahoe 26.6 эсвэл түүнээс дээш үйлдлийн систем дээр ажиллах Xcode 27.3 бета хувилбараас эхлэн public preview хэлбэрээр хэрэглэгчдэд хүрч байна.\n\nӨмнө нь ашиглагдаж байсан GitHub Copilot for Xcode өргөтгөл нь тусдаа хувилбар хэвээр үлдэх тул хөгжүүлэгчид өөрсдийн ажлын урсгалд тохирох хувилбарыг сонгох боломжтой. Apple Developer таталт хэсгээс Xcode 27.3 бета хувилбарыг татаж авсны дараа Xcode > Settings > Intelligence цэсээр дамжуулан Copilot-г тохируулах боломжтой.\n\nБүх төрлийн Copilot төлөвлөгөөг уг интеграци дэмжих бөгөөд хөгжүүлэгчид санал хүсэлтээ GitHub Copilot for Xcode репозитори эсвэл Apple Feedback Assistant-аар дамжуулан хуваалцах боломжтой юм. Энэ нь iOS болон Mac хөгжүүлэгчдэд AI туслахыг ашиглах ажлыг илүү хялбар болгож байна.",
+ "published": "2026-11-04T19:10:40Z",
+ "added": "2026-11-07T09:05:21Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

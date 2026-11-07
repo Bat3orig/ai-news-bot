@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "791370b08bfad83a",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "Unite.AI",
-   "url": "https://www.unite.ai/xai-introduces-data-bot-to-bring-shared-analytics-skills-to-grok-bot/",
-   "image": "https://www.unite.ai/wp-content/uploads/2026/11/xai-data-bot-grok-bot-cover.jpg",
-   "title": "xAI Introduces Data Bot to Bring Shared Analytics Skills to Grok Bot",
-   "summary_en": "xAI introduced Data Bot on November 2, 2026, as a Team Bot in Grok Bot built by SpaceXSI’s data science team to handle warehouse queries and analytical work using shared team practices, with results formatted for each us...",
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-02T20:01:05Z",
-   "added": "2026-11-05T08:49:33Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "1e514bab4f48d521",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Next Web",
-   "url": "https://thenextweb.com/news/anthropic-message-threads-beta-claude-api-agents",
-   "image": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.jpg",
-   "title": "Anthropic’s message threads let Claude agents skip resending chats",
-   "summary_en": "Anthropic's message threads beta lets agents send only new messages to Claude instead of the whole conversation, cutting wait times on long sessions.",
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-02T20:16:05Z",
-   "added": "2026-11-05T08:49:33Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2c85bb8bfb93234b",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Business Insider",
-   "url": "https://www.businessinsider.com/anthropic-claude-smart-reports-ai-usage-costs-inefficiences-2026-11",
-   "image": "https://i.insider.com/6ae8f0d1d8cc18cf79510436?width=1200&format=jpeg",
-   "title": "Claude's new AI report card tool gives companies a closer look at costs — and flags 'inefficiencies'",
-   "summary_en": "The \"smart reports\" tool for Claude Enterprise users is designed to analyze a sample of a team's transcripts and group work into categories.",
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-02T22:02:00Z",
-   "added": "2026-11-05T08:49:33Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "92958f923c4a1ac5",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "India Today",
-   "url": "https://www.indiatoday.in/technology/news/story/can-ai-fix-another-ais-brain-mit-researchers-use-gpt-6-astra-to-boost-qwens-maths-skills-3031134-2026-11-03",
-   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/astra-fixes-qwen-031805711-16x9_0.png?VersionId=z_SWoq7YSStutqU82RHuyWDDiEYalFz.",
-   "title": "Can AI fix another AI's brain? MIT researchers use GPT-6 Astra to boost Qwen's maths skills",
-   "summary_en": "What happens when one AI tries to fix another? MIT researchers used OpenAI's GPT-6 Astra to modify Alibaba's Qwen AI model directly, boosting its maths scores without retraining it.",
-   "title_mn": "MIT судлаачид GPT-6 Astra-аар Qwen3.5-0.8B загварын математикийн чадварыг сайжруулжээ",
-   "summary_mn": "MIT-ийн судлаачид GPT-6 Astra-д Qwen3.5-0.8B загварын жинг шууд засах зөвшөөрөл өгчээ. Загварын жингийн 0.016% өөрчилснөөр MATH-500 оноо 7.9%-иас 48.1% болж өссөн гэжээ.",
-   "body_mn": "India Today-ийн мэдээлснээр MIT-ийн судлаачид OpenAI-ийн GPT-6 Astra-г ашиглан Alibaba-ийн Qwen3.5-0.8B загварын дотоод жинг шууд засах туршилт хийжээ. Энэ нь загварыг дахин сургахгүйгээр хийгдсэн гэж мэдээлсэн байна.\n\nСудалгааны бичиг баримтын дагуу Астра давтагдсан үндэслэлийн гогцоог олж, 131,072 жинг өөрчилсөн байна. Ингэснээр MATH-500-ийн оноо 7.9%-иас 48.1% болж, GSM8K 13.8%-иас 67.1% болж, IFEval 21%-иас 62.3% болсон гэжээ. Судлаачид шинэ математик мэдлэг нэмээгүй, зөвхөн байгаа чадварыг ашиглахад саад болсон асуудлыг засснаа тодорхойлсон.\n\nХөгжүүлэгчдэд энэ нь жингийн түвшний засвар хийх боломж нээж байгаа ч туршилт эхний шатандаа байгааг анхаарах хэрэгтэй. Судлаачид туршилтын лог болон аргачлалыг нийтэлсэн байна.",
-   "published": "2026-11-03T04:18:19Z",
-   "added": "2026-11-05T16:59:35Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2e4f71c66da5eea9",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Anthropic",
-   "url": "https://www.anthropic.com/research/provable-inference",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
-   "title": "Progress on provable inference for large language models",
-   "summary_en": "Sharing progress on a powerful type of cryptographic proof known as a zkSNARK, which is uniquely fit for provable inference.",
-   "title_mn": "Anthropic хэлний загварын үр дүнг баталгаажуулах FlashProve zkSNARK системийг танилцуулжээ",
-   "summary_mn": "Anthropic болон EPFL, MIT зэрэг судлаачид AI хариултыг тодорхой загвараар гаргасныг криптографийн баталгаагаар нотлох provable inference аргыг судалжээ. Судалгааны код, Lean баталгаа Apache 2.0 лицензээр нээлттэй байна.",
-   "body_mn": "Anthropic-ийн судлаачид хэрэглэгч AI хариултыг тодорхой загвараас гаралтай эсэхийг шалгах боломжгүй асуудлыг тайлбарласан. Үйлчилгээ үзүүлэгч зарим хүсэлтийг өөр загварт чиглүүлж болзошгүй гэж дурджээ.\n\nСудалгаа zkSNARK төрлийн криптографийн баталгаан дээр суурилж, FlashProve гэсэн системийг танилцуулсан байна. Энэ систем загвар commit хийж, хариулт бүрийг тухайн загвараас гарсан гэдгийг нотлох боломжтой. Код, Lean баталгаа, документаци Apache 2.0 лицензээр нээлттэй гаргасан.\n\nХөгжүүлэгчдэд энэ нь AI API-н хариултыг баталгаажуулах, үйлчилгээ үзүүлэгчдийн найдвартай байдлыг шалгах шинэ арга замыг нээж байна. Гэхдээ энэ нь эрт үе шатны судалгаа гэдгийг санах хэрэгтэй.",
-   "published": "2026-11-03T04:43:45Z",
-   "added": "2026-11-05T16:59:35Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9e92cb22222322d0",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "CyberSecurityNews",
-   "url": "https://cybersecuritynews.com/anthropic-enables-edr-monitoring/",
-   "image": "http://cybersecuritynews.com/wp-content/uploads/2026/11/Anthropic-Enables-EDR-Monitoring.webp",
-   "title": "Anthropic Enables EDR Monitoring in Claude Cowork to Detect Hidden AI Agent Activity",
-   "summary_en": "Anthropic has introduced a beta integration that lets businesses run endpoint detection and response sensors inside Claude Cowork’s local virtual machine.",
-   "title_mn": "Anthropic Claude Cowork-д EDR хяналтын бета интеграц нэмжээ",
-   "summary_mn": "Anthropic бизнесүүд Claude Cowork-ийн орон нутгийн виртуал машин дотор endpoint detection and response сенсор ажиллуулах боломжийг бета хэлбэрээр нээжээ. Энэ нь Team болон Enterprise төлөвлөгөөнд macOS болон Windows дээр боломжтой.",
-   "body_mn": "CyberSecurityNews-ийн мэдээлснээр Anthropic Claude Cowork-ийн орон нутгийн виртуал машин дотор EDR сенсор ажиллуулах бета интеграцийг танилцуулжээ. Ингэснээр компьютер дээрх аюулгүй байдлын программ Cowork-ийн доторх shell команд болон кодыг харж чадахгүй байсан асуудал шийдэгдэнэ.\n\nИнтеграц нь Team болон Enterprise төлөвлөгөөтэй, macOS болон Windows дээр ажиллана. Claude Desktop 4.4212.0 ба түүнээс дээш хувилбар шаардлагатай. Windows дээр MSIX, Virtual Machine Platform зэрэг нөхцөл хэрэгтэй. Хяналтыг MDM эсвэл Intune зэрэг хэрэгсэлээр тохируулна. Anthropic-ийн серверт явдаг Cowork сесс энд хамрагдахгүй.\n\nХөгжүүлэгч болон аюулгүй байдлын багуудад сенсорын өгөгдөл вендор рүү явдаг тул өгөгдөл боловсруулалтыг шалгах хэрэгтэй. Бета хугацаанд Anthropic нэмэлт төлбөр авахгүй, харин вендорууд төлбөр авч болзошгүй.",
-   "published": "2026-11-03T04:53:56Z",
-   "added": "2026-11-05T16:59:35Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ff7d1b20051c1eea",
-   "subtopic": "css-web",
-   "source": "Smashing Magazine",
-   "source_label": "Smashing Magazine",
-   "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
-   "image": "https://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
-   "title": "Modern CSS Might Make Your Front-End More Complex",
-   "summary_en": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
-   "title_mn": "Орчин үеийн CSS фронтенд кодыг илүү нарийн төвөгтэй болгож магадгүй гэж Smashing Magazine бичжээ",
-   "summary_mn": "Container query гэх мэт шинэ CSS функцууд JavaScript-тэй хамт ажиллахдаа гэнэтийн алдаа үүсгэж болно гэж Smashing Magazine нийтлэлдээ дүгнэжээ. Зөвхөн код устгах нь төвөгтэй байдлыг бууруулдаггүй гэдгийг жишээгээр харуулжээ.",
-   "body_mn": "Smashing Magazine-ийн нийтлэлд ResizeObserver-ийг container query-ээр солих нь кодын diff-ийг цэвэрсгэж мэт боловч дараа нь layout-ийн алдаа гарч болохыг жишээгээр харуулжээ. Зарим карт алга болох, таблетад гарчиг гэнэт томрох зэрэг асуудал CSS-ийн хэдэн мөрөөс үүдэлтэй байдаг.\n\nЗохиолч CSS, JavaScript, CSS cascade болон browser-ийн rendering хоорондын харьцааг орон сууцны хамтран амьдрахтай зүйрлэжээ. Шинэ функц бүр бусад хэсэгтэйгээ хэрхэн нийцэж буйг ойлгохгүй бол системийн тогтвортой байдал алдагдана. Иймд зөвхөн кодын мөрийн тоо биш, системийн ойлгомжтой байдлыг хэмжих хэрэгтэй гэж үзжээ.\n\nNASA-ийн жишээ гэх мэт ч биш, харин Front-end хөгжүүлэгчдэд шууд хэрэгтэй практик анхааруулга юм. Шинэ CSS функц ашиглахдаа хуучин JavaScript логиктой хэрхэн харилцахыг урьдчилан шалгах нь чухал.",
-   "published": "2026-11-03T10:00:00Z",
-   "added": "2026-11-05T16:59:35Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c911ca89ec90e9e1",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "ZDNET",
-   "url": "https://www.zdnet.com/innovation/claude-code-message-threads-speed-test/",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/anthropic_004de4.jpg",
-   "title": "Is Claude Code truly faster with message threads? I did the math on my logs",
-   "summary_en": "Claude Code’s update could save you time during demanding, hours-long coding sessions at no extra cost. But by how much? Here's my real-world result.",
-   "title_mn": "Claude API-ийн message threads хүсэлтийн хурдыг 35%-иар сайжруулна",
-   "summary_mn": "Anthropic Messages API-д message threads функцийг нэмсэн нь хүсэлт бүрт бүтэн яриаг дахин илгээх шаардлагыг арилгана. Anthropic-ийн мэдээлснээр том контекстод median time-to-first-token 35%-иар буурна. Токений хэрэглээ болон rate limit өөрчлөгдөөгүй.",
-   "body_mn": "Anthropic Claude-ийн Messages API-д message threads гэдэг шинэ боломжийг нэвтрүүллээ. Энэ нь яриа бүрийг дахин дахин илгээхийн оронд зөвхөн өөрчлөгдсөн хэсгийг илгээх зарчмаар ажиллана. Claude Code-ийн ихэнх хэрэглэгчдэд энэ функц анхнаасаа идэвхтэй байна. API хэрэглэгчид хүсэлтдээ thread параметрийг ашиглан асаах боломжтой.\n\nAnthropic-ийн хэмжилтээр 500,000-аас 1 сая токений контекст бүхий хүсэлтэд median time-to-first-token 35%-иар буурдаг. Зохиогч өөрийн Claude Code логийг шинжилж, нэг session-д хэдэн минутын хэмнэлт гарна гэж тооцоолсон байна.\n\nХамгийн чухал зүйл бол энэ функц токений зардлыг бууруулдаггүй. Модель нь яриаг бүтнээр нь боловсруулсаар байгаа тул токений хэрэглээ, rate limit хэвээр үлдэнэ. Харин prompt caching-тэй хамт ашиглавал ажлын ачааллыг бууруулж болно.\n\nХөгжүүлэгчдэд энэ нь удаан үргэлжилдэг coding agent болон зураг, баримт их дамжуулдаг ажлын урсгалд хариу хугацааг сайжруулах шинэ арга юм. Хэрэгжүүлэхдээ хүсэлтийн бүтэц болон thread параметрийн баримтыг шалгах хэрэгтэй.",
-   "published": "2026-11-03T13:11:36Z",
-   "added": "2026-11-05T22:37:17Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2b4786f99076579d",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-   "image": "https://github.blog/wp-content/uploads/2026/11/689797142-96dbb0c9-dccb-41f6-8990-acf5c575db04.webp",
-   "title": "GitHub Copilot is now available in JetBrains Air",
-   "summary_en": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your…",
-   "title_mn": "GitHub Copilot одоо JetBrains Air дээр ажиллах боломжтой боллоо",
-   "summary_mn": "GitHub Copilot нь JetBrains Air дээр ажиллах боломжтой боллоо. Интеграци нь Agent Client Protocol (ACP) ашиглаж, JetBrains IDE дотор болон cloud дээр даалгавар гүйцэтгэнэ. Cloud даалгаврыг Docker контейнер дотор ажиллуулна.",
-   "body_mn": "GitHub Copilot-ийг JetBrains Air дээр ашиглах боломж нээгдлээ. Хөгжүүлэгч кодлох даалгавраа Copilot-д шилжүүлж, гүйцэтгэлийг хянаж, үр дүнг шалгах боломжтой. Интеграци нь Agent Client Protocol (ACP) стандартыг ашигладаг.\n\nОрон нутгийн даалгаварт Air-ийг JetBrains IDE дотор суулгаад GitHub Copilot-ийг сонгож, Copilot акаунтаа холбоно. Cloud даалгаврын хувьд JetBrains акаунт, Air Teams-тэй бизнесийн байгууллага, Copilot захиалга, мөн Air администратороос идэвхжүүлэлт шаардлагатай.\n\nCloud даалгаврууд Docker контейнер дотор шинэ виртуал машин дээр ажилладаг. Бүх трафик прокси-оор дамжиж, даалгавруудын хооронд төлөв хадгалагддаггүй. Copilot нь орон нутгийн орчиндоо нөлөөлөлгүйгээр build, test, багц суулгах боломжтой.\n\nХөгжүүлэгчдэд энэ нь JetBrains орчинд агентын ажлыг аюулгүй, тусгаарлагдсан байдлаар туршихад тустай. Ашиглахаасаа өмнө байгууллагынхаа тохиргоо болон захиалгын нөхцөлийг шалгах хэрэгтэй.",
-   "published": "2026-11-03T15:11:46Z",
-   "added": "2026-11-05T22:37:17Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2ab2b7de92950e4d",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Blog",
-   "source_label": "GitHub Blog",
-   "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
-   "image": "https://github.blog/wp-content/uploads/2026/11/692880266-19c28791-dea3-4df2-beab-3916036a4d0b.png?fit=1280%2C720",
-   "title": "Arnis turns any place on Earth into a Minecraft world",
-   "summary_en": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.",
-   "title_mn": "Arnis: нээлттэй эх код дэлхийн аливаа газрыг Minecraft ертөнц болгоно",
-   "summary_mn": "Louis Erbkamm-ийн нээлттэй эх Arnis төсөл OpenStreetMap-ийн өгөгдөл ашиглан бодит газрыг Minecraft ертөнц болгоно. Төсөл 2022 оноос хойш 900,000 орчим татагдсан. Зохиогч GitHub Copilot-ийг issue шинжлэх, засвар хийхэд ашигладаг.",
-   "body_mn": "Герман хүн Louis Erbkamm нээлттэй эх Arnis төслөө 2022 онд эхлүүлсэн. Төсөл нь OpenStreetMap болон бусад эх сурвалжаас бодит газрын өгөгдөл авч, Minecraft дээр тоглоход боломжтой ертөнц үүсгэдэг. Төсөл GitHub дээр 900,000 орчим татагдсан бөгөөд 70 орчим хувь нэмэр оруулагчтай.\n\nТөслийн анхны хувилбар Python-оор бичигдсэн бөгөөд зөвхөн OpenStreetMap дээр суурилсан байв. Одоо төслийг Rust руу шилжүүлж байгаа бөгөөд хувь нэмэр оруулагчид 20 орчим хэлнээ орчуулсан. Өндрийн мэдээлэл нэмсний дараа геоспатиал мэргэжилтнүүд идэвхтэй оролцжээ.\n\nЗохиогч бүх pull request-ийг өөрөө шалгадаг тул ажил удаан хугацаанд хуримтлагддаг. Тэрээр GitHub Copilot-ийг нээлттэй issue-үүдийн тоймд, алдааны эх сурвалжийг олоход болон засвар хийхэд ашигладаг. Түүний хэлснээр AI ашигласнаас хойш код шалгалт болон баримтжуулалт нэмэгджээ.\n\nХөгжүүлэгчдэд энэ нь нээлттэй эх төслийг ганцаараа хүүхэлдэхэд AI хэрхэн тусалдагийн жишээ юм. Харин энэ нь жишээ туршлага бөгөөд Copilot-ийн шинэ функцийн мэдээлэл биш байна.",
-   "published": "2026-11-03T16:00:00Z",
-   "added": "2026-11-05T22:37:17Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "f1a111e72742f0df",
    "subtopic": "vibe-coding",
    "source": "Simon Willison",
@@ -777,6 +577,146 @@
    "added": "2026-11-07T02:29:27Z",
    "ai": "claude:claude-haiku-5-5",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1be4fdd8e6ca80f0",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "image": "",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "summary_en": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "title_mn": "OpenAI Pierre Computer Company-г худалдан авахаар боллоо",
+   "summary_mn": "OpenAI компани код бичих, ойлгох, хянах Codex хэрэгслүүдээ өргөжүүлэх зорилгоор Pierre Computer Company-г худалдаж авч байна.",
+   "body_mn": "OpenAI компани код хөгжүүлэлтийн боломжоо нэмэгдүүлэх зорилгоор Pierre Computer Company-г худалдаж авахаар болсноо зарлалаа. Энэхүү худалдан авалтаар дамжуулан компани хөгжүүлэгчдэд зориулсан Codex хэрэгслүүдийн чадавхыг сайжруулах ажээ.\n\nЭнэхүү алхам нь программ хангамж бүтээх, кодыг автоматаар хянах болон ойлгох үйл явцыг илүү боловсронгуй болгоход чиглэж байна. Хөгжүүлэгчид OpenAI-ийн хэрэгслүүдийг ашиглан кодыг илүү хурдан бөгөөд үр дүнтэй шалгах боломж бүрдэх юм.\n\nТехнологийн зах зээлийн хувьд энэхүү нэгдэл нь хиймэл оюун ухаанд суурилсан код бичих туслахуудын өрсөлдөөнийг улам хурцатгах төлөвтэй байна.",
+   "published": "2026-11-04T14:30:00Z",
+   "added": "2026-11-07T09:05:21Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "639da1a915140db7",
+   "subtopic": "design-systems",
+   "source": "Figma Blog",
+   "source_label": "Figma Blog",
+   "url": "https://www.figma.com/blog/how-figma-manages-sandboxes-at-scale/",
+   "image": "https://cdn.sanity.io/images/599r6htc/regionalized/1f632f8ec0296b43dd068d97d6d3228ef1197ae9-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
+   "title": "How Figma manages sandboxes at scale",
+   "summary_en": "Figma’s AI products require tens of thousands of sandboxes to run untrusted code safely. That’s why we built Nimbus: a platform that makes sandboxes fast, reliable, and easy for Figma product teams and operators to manage.",
+   "title_mn": "Figma платформ хиймэл оюун ухаанд зориулсан Nimbus sandbox системийг танилцууллаа",
+   "summary_mn": "Figma нь хиймэл оюун ухааны агентуудын аюулгүй байдлыг хангах зорилгоор олон арван мянган sandboxes орчинг удирдах Nimbus платформыг бүтээжээ.",
+   "body_mn": "Figma компани өөрсдийн хиймэл оюун ухааны бүтээгдэхүүнүүдэд зориулсан аюулгүй, найдвартай ажиллах Nimbus нэртэй төвлөрсөн sandbox удирдлагын платформыг танилцууллаа. AI агентууд болон бусад кодыг аюулгүй орчинд ажиллуулах шаардлагаас үүдэн энэхүү платформыг бүтээсэн байна.\n\nNimbus нь Kubernetes операторын загвартай төстэй бөгөөд хөгжүүлэгчдэд энгийн API интерфейс ашиглан sandbox үүсгэх, удирдах, устгах боломжийг олгодог. Ингэснээр бүтээгдэхүүний багууд дэд бүтцийн нарийн төвөгтэй байдалд санаа зоволгүйгээр агентуудынхаа онцлогт анхаарлаа хандуулах юм.\n\nМөн тус компани canvas дээр шууд ажиллах Figma Make нэртэй шинэ хэрэгслийг зарласан бөгөөд энэ нь хөгжүүлэгчдэд санаанаас аппликейшн бүтээхэд туслах ажээ.",
+   "published": "2026-11-04T16:23:00Z",
+   "added": "2026-11-07T09:05:21Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ff90b8fff340717b",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "ProPakistani",
+   "url": "https://propakistani.pk/2026/11/04/anthropic-building-tool-to-expose-chinese-models-secretly-using-claude/",
+   "image": "https://propakistani.pk/wp-content/uploads/2026/06/Anthropic-2.jpg",
+   "title": "Anthropic Building Tool to Expose Chinese Models Secretly Using Claude",
+   "summary_en": "Anthropic is developing an open-source tool that could expose AI companies secretly using Claude to generate responses while claiming the answers came",
+   "title_mn": "Anthropic AI загваруудын жинхэнэ эх үүсвэрийг баталгаажуулах FlashProve хэрэгслийг бүтээж байна",
+   "summary_mn": "Anthropic компани бусад хиймэл оюун ухааны компаниуд Claude загварыг нууцаар ашиглаж байгаа эсэхийг шалгах FlashProve хэрэгслийг хөгжүүлж эхэлжээ.",
+   "body_mn": "Anthropic компани хиймэл оюун ухааны загваруудын хариу аль системээс гарсныг математикийн болон криптографийн аргаар баталгаажуулах FlashProve хэрэгслийг бүтээж байгаа ажээ. Энэхүү систем нь зарим компаниуд Claude загварын хариуг өөрийн загварынх мэтээр нууцаар ашиглаж байгаа үйлдэлтэй тэмцэхэд чиглэгдсэн байна.\n\nӨмнө нь Anthropic компани Moonshot AI болон бусад зарим лабораториудыг хэрэглэгчдийн хүсэлтийг Claude руу нууцаар дамжуулж байсан хэмээн буруутгаж байсан юм. FlashProve хэрэгсэл нь дотоод жинг илрүүлэхгүйгээр өгөгдсөн хариу аль загварт хамаарахыг батлах боломжийг олгоно.\n\nЭнэхүү криптографийн баталгаажуулалт нь хиймэл оюун ухааны салбар дахь загварын хулгай болон үйлчилгээний нөхцөл зөрчих зөрчилтэй тэмцэх чухал алхам болох юм.",
+   "published": "2026-11-04T16:37:25Z",
+   "added": "2026-11-07T09:05:21Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "944c67163165b1e1",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/kimi-k3-1-pro-now-has-more-zdr-providers-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/225AWAIWv2RMha71Mbfsw/edfbfcc4a6f9ff01d4be571d03d672f4/Vercel_x_Moonshot.png",
+   "title": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway",
+   "summary_en": "Kimi K3.1 Pro and its higher-speed version, Kimi K3.1 Pro Highspeed , are now available on AI Gateway from more Zero Data Retention (ZDR) providers. Until today, Moonshot AI was the only provider serving either model. K3.1 Pro improves on earlier Kimi models in coding, 3D modeling, and financial analysis, and can carry long agent runs from a small fix to a full project. Both models have a 1M-token context window and accept image input, and Highspeed suits interactive work like coding agents, where response time matters. Call either model through the AI SDK , the Chat Completions , Responses…",
+   "title_mn": "Vercel AI Gateway дээр Kimi K3.1 Pro загварууд нэмэгдлээ",
+   "summary_mn": "Moonshot AI-ийн Kimi K3.1 Pro болон Highspeed загварууд Vercel AI Gateway дээр Zero Data Retention дэмжлэгтэйгээр ашиглагдах боломжтой боллоо.",
+   "body_mn": "Vercel компани AI Gateway үйлчилгээндээ Moonshot AI-ийн Kimi K3.1 Pro болон Kimi K3.1 Pro Highspeed загваруудыг нэмснээ зарлалаа. Эдгээр загварууд нь 1 сая токенийн контекст цонхтой бөгөөд код бичих, санхүүгийн шинжилгээ хийх зэрэг нарийн төвөгтэй ажлуудад зориулагдсан байна.\n\nХөгжүүлэгчид AI SDK, Chat Completions API болон Claude Code, Cursor зэрэг агентуудаар дамжуулан уг загваруудыг дуудаж ашиглах боломжтой. Мөн Zero Data Retention (ZDR) тохиргоог идэвхжүүлснээр өгөгдлийн нууцлалыг бүрэн хангах боломжтой ажээ.\n\nЭнэхүү интеграци нь хөгжүүлэгчдэд төрөл бүрийн AI загваруудыг нэгдсэн API-аар дамжуулан хялбар удирдах, өртөг болон гүйцэтгэлийг хянах боломжийг олгож байна.",
+   "published": "2026-11-04T17:00:00Z",
+   "added": "2026-11-07T09:05:21Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "920f95f072877f53",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Blockchain News",
+   "url": "https://blockchain.news/news/kimi-k3-1-pro-amd-instinct-gpus",
+   "image": "https://image.blockchain.news:443/features/9EE0AA0B1F3BD20BCCC7C00CFFD871DCA35D15A36341179DDF6072A1E953606D.jpg",
+   "title": "Moonshot AI's Kimi K3.1 Pro Deployed on AMD Instinct MI355X GPUs",
+   "summary_en": "Moonshot AI's Kimi K3.1 Pro, a 2.8T-parameter model, is deployed on AMD Instinct MI355X GPUs with ATOM and vLLM support for multimodal AI tasks.",
+   "title_mn": "Moonshot AI-ийн Kimi K3.1 Pro загвар AMD Instinct MI355X график карт дээр ажиллах боломжтой боллоо",
+   "summary_mn": "Moonshot AI компани 2.8 их наяд параметр бүхий Kimi K3.1 Pro загвараа AMD Instinct MI355X GPU дээр оновчтой байдлаар байршуулснаа зарлалаа.",
+   "body_mn": "Moonshot AI өөрийн хамгийн сүүлийн үеийн олон талт Kimi K3.1 Pro хиймэл оюун ухааны загвараа AMD Instinct MI355X график карт дээр амжилттай байршуулжээ. Тус загвар нь 2.8 их наяд нийт параметр болон 104 тэрбум идэвхтэй параметр бүхий эрлийз архитектуртай бөгөөд 1 сая токенийн контекстийг дэмждэг.\n\nЭнэхүү байршуулалтад AMD-ийн ATOM дүгнэлтийн хөдөлгүүр болон vLLM сан ашиглагдсан бөгөөд санах ойн оновчлолын ачаар нэг зангилаа дээр бүрэн ажиллах боломжтой болсон байна. Тодруулбал, vLLM ашигласнаар токен үүсгэх хугацаа 27 хувиар хурიდсаж байгааг туршилтаар тогтоожээ.\n\nKimi K3.1 Pro нь OCRBench болон бусад нарийн төвөгтэй шалгуур үзүүлэлтүүдэд өндөр оноо авсан бөгөөд энэ нь AMD-ийн техник хангамж дээр том хэмжээний хэлний загваруудыг амжилттай ажиллуулах боломжтойг харуулж байна.",
+   "published": "2026-11-04T17:09:00Z",
+   "added": "2026-11-07T09:05:21Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9c7e0f9ef29e94e2",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/atomic-start-hooks-in-the-workflow-sdk",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1t2DaV8IVnp7ibDYvEqXvN/3292f4d1cf23f6e6bbf4e12d1a2c9923/image__65_.png",
+   "title": "Workflow SDK adds idempotent starts",
+   "summary_en": "The Workflow SDK 's start() function can now admit a run and claim a hook in one atomic step. Duplicate workflow starts fail safely. The atomic start replaces the previous getHookByToken() -then- start() pattern, whose gap between the lookup and the start left a documented duplicate-start race. Subscribe to messages inside the run The claimed Hook exists from the moment the run is admitted, so resumeHook works even before the run begins executing, and early payloads are buffered and delivered in order. Inside the workflow, createHook({ token }) with the same token binds to the…",
+   "title_mn": "Workflow SDK idempotent starts функцтэй боллоо",
+   "summary_mn": "Workflow SDK-ийн start() функц ажиллагааг нэг алхамаар эхлүүлж, хуурамч давхардлыг аюулгүйгээр татгалздаг боллоо. Энэ нь getHookByToken() болон start() хоорондын race condition алдааг бүрэн шийдэж байна.",
+   "body_mn": "Workflow SDK-ийн start() функц нь run-ийг зөвшөөрч, hook-ийг нэг атомын алхмаарclaim хийх боломжтой боллоо. Ингэснээр өмнө нь ашиглаж байсан lookup болон start хоорондын зай буюу давхар эхлэхrace condition асуудлыг найдвартай шийдэж өгч байна.\n\nТокен нь idempotency түлхүүр болж ажиллах бөгөөд захиалга, нэхэмжлэх эсвэл хүсэлтийн ID-аар дамжин ирнэ. Яг нэг run үүнийг эзэмших ба давхар start() дуудахад HookConflictError алдааг буцааж, дурын давхардлыг амжилттай татгалзана. Энэхүү шинэчлэл нь ажлын урсгалыг илүү тогтвортой болгож байна.\n\nХөгжүүлэгчид workflow 5.4.0 хувилбар руу шинэчилж, idempotency баримт бичигтэй танилцан ашиглаж эхлэх боломжтой. experimental_minRetention тохиргоог идэвхжүүлснээр run дууссаны дараа ч токенийг хадгалж, хожуу ирсэн давхар хүсэлтүүдийг татгалзах боломжтой хэвээр үлдэх юм.",
+   "published": "2026-11-04T18:55:00Z",
+   "added": "2026-11-07T09:05:21Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d53634b505a78ccb",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+   "image": "https://github.blog/wp-content/uploads/2026/11/694394305-f9d288c4-2862-48ff-aadf-b307e5ead674.png",
+   "title": "GitHub Copilot is now available in Xcode’s coding assistant",
+   "summary_en": "You can now work with GitHub Copilot directly in Xcode’s built-in coding assistant, bringing Copilot into your native Xcode workflow. The integration is now in public preview, available starting with…",
+   "title_mn": "GitHub Copilot Xcode кодчиллын туслахад нэгдлээ",
+   "summary_mn": "GitHub Copilot одоо Xcode-ийн суурилуулсан кодчиллын туслахад шууд ашиглах боломжтой боллоо. Энэхүү интеграци нь Xcode 27.3 бета хувилбараас эхлэн олон нийтийн урьдчилсан байдлаар нээгдээд байна.",
+   "body_mn": "Хөгжүүлэгчид одоо GitHub Copilot-г Xcode-ийн уугуул кодчиллын туслах дотор шууд ашиглах боломжтой боллоо. Энэхүү шинэ интеграци нь macOS Tahoe 26.6 эсвэл түүнээс дээш үйлдлийн систем дээр ажиллах Xcode 27.3 бета хувилбараас эхлэн public preview хэлбэрээр хэрэглэгчдэд хүрч байна.\n\nӨмнө нь ашиглагдаж байсан GitHub Copilot for Xcode өргөтгөл нь тусдаа хувилбар хэвээр үлдэх тул хөгжүүлэгчид өөрсдийн ажлын урсгалд тохирох хувилбарыг сонгох боломжтой. Apple Developer таталт хэсгээс Xcode 27.3 бета хувилбарыг татаж авсны дараа Xcode > Settings > Intelligence цэсээр дамжуулан Copilot-г тохируулах боломжтой.\n\nБүх төрлийн Copilot төлөвлөгөөг уг интеграци дэмжих бөгөөд хөгжүүлэгчид санал хүсэлтээ GitHub Copilot for Xcode репозитори эсвэл Apple Feedback Assistant-аар дамжуулан хуваалцах боломжтой юм. Энэ нь iOS болон Mac хөгжүүлэгчдэд AI туслахыг ашиглах ажлыг илүү хялбар болгож байна.",
+   "published": "2026-11-04T19:10:40Z",
+   "added": "2026-11-07T09:05:21Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
   }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "920f95f072877f53",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Blockchain News",
+ "url": "https://blockchain.news/news/kimi-k3-1-pro-amd-instinct-gpus",
+ "image": "https://image.blockchain.news:443/features/9EE0AA0B1F3BD20BCCC7C00CFFD871DCA35D15A36341179DDF6072A1E953606D.jpg",
+ "title": "Moonshot AI's Kimi K3.1 Pro Deployed on AMD Instinct MI355X GPUs",
+ "summary_en": "Moonshot AI's Kimi K3.1 Pro, a 2.8T-parameter model, is deployed on AMD Instinct MI355X GPUs with ATOM and vLLM support for multimodal AI tasks.",
+ "title_mn": "Moonshot AI-ийн Kimi K3.1 Pro загвар AMD Instinct MI355X график карт дээр ажиллах боломжтой боллоо",
+ "summary_mn": "Moonshot AI компани 2.8 их наяд параметр бүхий Kimi K3.1 Pro загвараа AMD Instinct MI355X GPU дээр оновчтой байдлаар байршуулснаа зарлалаа.",
+ "body_mn": "Moonshot AI өөрийн хамгийн сүүлийн үеийн олон талт Kimi K3.1 Pro хиймэл оюун ухааны загвараа AMD Instinct MI355X график карт дээр амжилттай байршуулжээ. Тус загвар нь 2.8 их наяд нийт параметр болон 104 тэрбум идэвхтэй параметр бүхий эрлийз архитектуртай бөгөөд 1 сая токенийн контекстийг дэмждэг.\n\nЭнэхүү байршуулалтад AMD-ийн ATOM дүгнэлтийн хөдөлгүүр болон vLLM сан ашиглагдсан бөгөөд санах ойн оновчлолын ачаар нэг зангилаа дээр бүрэн ажиллах боломжтой болсон байна. Тодруулбал, vLLM ашигласнаар токен үүсгэх хугацаа 27 хувиар хурიდсаж байгааг туршилтаар тогтоожээ.\n\nKimi K3.1 Pro нь OCRBench болон бусад нарийн төвөгтэй шалгуур үзүүлэлтүүдэд өндөр оноо авсан бөгөөд энэ нь AMD-ийн техник хангамж дээр том хэмжээний хэлний загваруудыг амжилттай ажиллуулах боломжтойг харуулж байна.",
+ "published": "2026-11-04T17:09:00Z",
+ "added": "2026-11-07T09:05:21Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

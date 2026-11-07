@@ -1,0 +1,17 @@
+{
+ "id": "639da1a915140db7",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/how-figma-manages-sandboxes-at-scale/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/1f632f8ec0296b43dd068d97d6d3228ef1197ae9-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
+ "title": "How Figma manages sandboxes at scale",
+ "summary_en": "Figma’s AI products require tens of thousands of sandboxes to run untrusted code safely. That’s why we built Nimbus: a platform that makes sandboxes fast, reliable, and easy for Figma product teams and operators to manage.",
+ "title_mn": "Figma платформ хиймэл оюун ухаанд зориулсан Nimbus sandbox системийг танилцууллаа",
+ "summary_mn": "Figma нь хиймэл оюун ухааны агентуудын аюулгүй байдлыг хангах зорилгоор олон арван мянган sandboxes орчинг удирдах Nimbus платформыг бүтээжээ.",
+ "body_mn": "Figma компани өөрсдийн хиймэл оюун ухааны бүтээгдэхүүнүүдэд зориулсан аюулгүй, найдвартай ажиллах Nimbus нэртэй төвлөрсөн sandbox удирдлагын платформыг танилцууллаа. AI агентууд болон бусад кодыг аюулгүй орчинд ажиллуулах шаардлагаас үүдэн энэхүү платформыг бүтээсэн байна.\n\nNimbus нь Kubernetes операторын загвартай төстэй бөгөөд хөгжүүлэгчдэд энгийн API интерфейс ашиглан sandbox үүсгэх, удирдах, устгах боломжийг олгодог. Ингэснээр бүтээгдэхүүний багууд дэд бүтцийн нарийн төвөгтэй байдалд санаа зоволгүйгээр агентуудынхаа онцлогт анхаарлаа хандуулах юм.\n\nМөн тус компани canvas дээр шууд ажиллах Figma Make нэртэй шинэ хэрэгслийг зарласан бөгөөд энэ нь хөгжүүлэгчдэд санаанаас аппликейшн бүтээхэд туслах ажээ.",
+ "published": "2026-11-04T16:23:00Z",
+ "added": "2026-11-07T09:05:21Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
