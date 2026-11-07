@@ -1,0 +1,17 @@
+{
+ "id": "6e405dbcc88f5a73",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Yahoo Tech",
+ "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-cracks-down-video-game-060034811.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/1ee0ac2b52bce1f88afaebb54083ceff4dfbfe289c419db6660a1fcdb1d036b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdigital_trends_973%2Fb58dcca5737056f5710114fbd7f37a62.jpg",
+ "title": "Anthropic cracks down on video game cloning with new Claude restrictions",
+ "summary_en": "AI has been making its way into video game development for a while now, but the recent developments have started raising some serious concerns. Popular games are being reverse-engineered with AI assistance, recreated for web browsers, and made playable on platforms they were never released for. Between all that, indie developers have started pulling down […]",
+ "title_mn": "Anthropic видео тоглоом хуулбарлахыг хориглох шинэ хязгаарлалт нэмэв",
+ "summary_mn": "Anthropic компани Claude Code хэрэгсэлдээ тодорхой видео тоглоомуудыг дахин бүтээх буюу хуулбарлахыг хориглосон шинэ зааварчилгаа нэмлээ.",
+ "body_mn": "Сүүлийн үед хиймэл оюун ухааны тусламжтайгаар алдартай видео тоглоомуудыг вэб хөтөч рүү хөрвүүлэх, эсвэл бусад систем дээр тоглуулах боломжтой болгож байгаатай холбоотойгоор зохиогчийн эрхийн асуудал хурцаар тавигдах болсон. Үүнтэй холбоотойгоор Anthropic компани Claude Code хэрэгсэлдээ тодорхой видео тоглоомуудыг хуулбарлахыг хориглосон шинэ хязгаарлалтуудыг нэвтрүүлснийг тус компани баталжээ. Шинэ дүрэм нь Claude-д хуучин тоглоомуудын кодыг дахин бичих, тэдгээрийг дуурайж бүтээхийг хориглож байгаа боловч хөгжүүлэгчид өөрсдийн оригиналь тоглоом болон төрөл жанрын төслүүд дээр ажиллах боломжийг хэвээр үлдээжээ.\n\nЭнэхүү арга хэмжээ нь тоглоом хөгжүүлэгч жижиг студиуд хиймэл оюун ухааны тусламжтайгаар бүтээлээ алдахаас эмээж демо хувилбаруудаа татахад хүрсэн нөхцөл байдлын дагуу хийгдсэн чухал алхам юм. Хэдийгээр эх кодыг задлан шинжлэх, тоглоом клойд хийх явдлыг хумих зорилготой боловч энд ямар нэг хэмжээгээр үндсэн хөгжүүлэгчдэд хүндрэл үүсэх эсэх нь одоогоор анхаарал татаж байна.",
+ "published": "2026-11-05T06:00:00Z",
+ "added": "2026-11-07T19:45:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

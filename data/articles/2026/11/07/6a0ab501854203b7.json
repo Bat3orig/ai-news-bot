@@ -1,0 +1,17 @@
+{
+ "id": "6a0ab501854203b7",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Startup Fortune",
+ "url": "https://startupfortune.com/moonshot-ai-releases-full-weights-for-28-trillion-parameter-kimi-k31-pro/",
+ "image": "https://startupfortune.com/wp-content/uploads/2026/11/moonshot-ai-kimi-k3-1-pro-claude-opus-5-5.jpg",
+ "title": "Moonshot AI Releases Full Weights For 2.8 Trillion Parameter Kimi K3.1 Pro",
+ "summary_en": "Moonshot AI released Kimi K3.1 Pro's full 2.8-trillion-parameter weights on Hugging Face Nov 4, beating Opus 5.5 on 16 of 37 benchmark tests.",
+ "title_mn": "Moonshot AI 2.8 триллион параметр бүхий Kimi K3.1 Pro загварын жинг нээв",
+ "summary_mn": "Moonshot AI компани 2.8 триллион параметр бүхий Kimi K3.1 Pro загварын жинг Hugging Face дээр ямар нэг хязгаарлалтгүйгээр үнэ төлбөргүй нийтэллээ.",
+ "body_mn": "Moonshot AI компани 2.8 триллион нийт параметр бүхий Kimi K3.1 Pro загварын бүрэн жинг Hugging Face дээр олон нийтэд үнэ төлбөргүй нээлттэй болголоо. Уг загвар нь MoE архитектуртай бөгөөд нэг токены хувьд 104 тэрбум идэвхтэй параметр ажилладаг нь тооцооллын зардлыг хэмнэхэд чухал нөлөөтэй юм. Загварын кодын сан нь 96 safetensors хэсгээс бүрдсэн 1.56 терабайт хэмжээтэй байна.\n\nГүйцэтгэлийн хувьд Kimi K3.1 Pro нь Anthropic-ийн тэргүүлэгч загваруудтай өрсөлдөхүйц үр дүнг үзүүлж байгаа бөгөөд код бичих, агент систем болон санхүүгийн судалгаа хийхэд илүүтэйгээр тохируулагджээ. Гэсэн хэдий ч энэхүү том загварийг өөрөө байршуулж ажиллуулахад Nvidia B300 зэрэг хүчирхэг GPU-ууд шаардлагатай юм. Мөн арилжааны зорилгоор бусдад үйлчилгээ үзүүлж, жилийн орлого нь 20 сая ам.доллараас давсан тохиолдолд Moonshot компанитай тусгай гэрээ байгуулах шаардлагатай лицензийн нөхцөлтэй аж.",
+ "published": "2026-11-05T02:55:48Z",
+ "added": "2026-11-07T19:45:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

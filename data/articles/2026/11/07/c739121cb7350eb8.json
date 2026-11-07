@@ -1,0 +1,17 @@
+{
+ "id": "c739121cb7350eb8",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Pandaily",
+ "url": "https://pandaily.com/huawei-ascend-day-zero-kimi-k3-1-pro-vllm-ascend-sglang-atlas-900-a3-950-superpod",
+ "image": "https://cms-image.pandaily.com/1/kimi_33c8d3fc24.png",
+ "title": "Huawei Ascend Adds Day-Zero Support for Kimi K3.1 Pro Across Atlas A3 and Ascend 950 SuperPoDs",
+ "summary_en": "Huawei says vLLM Ascend and SGLang run Moonshot AI's 2.8-trillion-parameter Kimi K3.1 Pro on Atlas 800 A3, Atlas 900 A3 SuperPoD and Ascend 950 SuperPoD from launch day.",
+ "title_mn": "Huawei Ascend системд Kimi K3.1 Pro загварын өдрийн дэмжлэг нэмэгдэв",
+ "summary_mn": "Huawei компани Moonshot AI-ийн Kimi K3.1 Pro загварыг Atlas болон Ascend SuperPoD дээр шууд ажиллуулах боломжтой болсноо зарлалаа.",
+ "body_mn": "Huawei компани vLLM Ascend болон SGLang сангуудыг ашиглан Moonshot AI-ийн 2.8 триллион параметр бүхий Kimi K3.1 Pro загварт гаргасан даяар нээлттэй өдрийн дэмжлэгээ (day-zero support) албан ёсоор зарлалаа. Энэхүү интеграци нь Atlas 800 A3, Atlas 900 A3 SuperPoD болон Ascend 950 SuperPoD системүүдийг хамарч байна.\n\nЭнэхүү дэмжлэг нь томоохон хэмжээний Mixture-of-Experts (MoE) загваруудыг Huawei-ийн оффис болон дата төвийн аппарат хангамж дээр үр дүнтэй ажиллуулах боломжийг бүрдүүлж байгаагаараа чухал юм. Хөгжүүлэгчид болон хиймэл оюун ухааны инженерүүд Kimi K3.1 Pro загварын өндөр хүчин чадлыг дотоод дэд бүтцэд шууд ашиглаж, агент суурьтай ажлын урсгалыг хөгжүүлэх боломжтой болж байна.",
+ "published": "2026-11-05T02:27:42Z",
+ "added": "2026-11-07T19:45:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

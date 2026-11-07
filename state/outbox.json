@@ -858,5 +858,85 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c739121cb7350eb8",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Pandaily",
+   "url": "https://pandaily.com/huawei-ascend-day-zero-kimi-k3-1-pro-vllm-ascend-sglang-atlas-900-a3-950-superpod",
+   "image": "https://cms-image.pandaily.com/1/kimi_33c8d3fc24.png",
+   "title": "Huawei Ascend Adds Day-Zero Support for Kimi K3.1 Pro Across Atlas A3 and Ascend 950 SuperPoDs",
+   "summary_en": "Huawei says vLLM Ascend and SGLang run Moonshot AI's 2.8-trillion-parameter Kimi K3.1 Pro on Atlas 800 A3, Atlas 900 A3 SuperPoD and Ascend 950 SuperPoD from launch day.",
+   "title_mn": "Huawei Ascend системд Kimi K3.1 Pro загварын өдрийн дэмжлэг нэмэгдэв",
+   "summary_mn": "Huawei компани Moonshot AI-ийн Kimi K3.1 Pro загварыг Atlas болон Ascend SuperPoD дээр шууд ажиллуулах боломжтой болсноо зарлалаа.",
+   "body_mn": "Huawei компани vLLM Ascend болон SGLang сангуудыг ашиглан Moonshot AI-ийн 2.8 триллион параметр бүхий Kimi K3.1 Pro загварт гаргасан даяар нээлттэй өдрийн дэмжлэгээ (day-zero support) албан ёсоор зарлалаа. Энэхүү интеграци нь Atlas 800 A3, Atlas 900 A3 SuperPoD болон Ascend 950 SuperPoD системүүдийг хамарч байна.\n\nЭнэхүү дэмжлэг нь томоохон хэмжээний Mixture-of-Experts (MoE) загваруудыг Huawei-ийн оффис болон дата төвийн аппарат хангамж дээр үр дүнтэй ажиллуулах боломжийг бүрдүүлж байгаагаараа чухал юм. Хөгжүүлэгчид болон хиймэл оюун ухааны инженерүүд Kimi K3.1 Pro загварын өндөр хүчин чадлыг дотоод дэд бүтцэд шууд ашиглаж, агент суурьтай ажлын урсгалыг хөгжүүлэх боломжтой болж байна.",
+   "published": "2026-11-05T02:27:42Z",
+   "added": "2026-11-07T19:45:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6a0ab501854203b7",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Startup Fortune",
+   "url": "https://startupfortune.com/moonshot-ai-releases-full-weights-for-28-trillion-parameter-kimi-k31-pro/",
+   "image": "https://startupfortune.com/wp-content/uploads/2026/11/moonshot-ai-kimi-k3-1-pro-claude-opus-5-5.jpg",
+   "title": "Moonshot AI Releases Full Weights For 2.8 Trillion Parameter Kimi K3.1 Pro",
+   "summary_en": "Moonshot AI released Kimi K3.1 Pro's full 2.8-trillion-parameter weights on Hugging Face Nov 4, beating Opus 5.5 on 16 of 37 benchmark tests.",
+   "title_mn": "Moonshot AI 2.8 триллион параметр бүхий Kimi K3.1 Pro загварын жинг нээв",
+   "summary_mn": "Moonshot AI компани 2.8 триллион параметр бүхий Kimi K3.1 Pro загварын жинг Hugging Face дээр ямар нэг хязгаарлалтгүйгээр үнэ төлбөргүй нийтэллээ.",
+   "body_mn": "Moonshot AI компани 2.8 триллион нийт параметр бүхий Kimi K3.1 Pro загварын бүрэн жинг Hugging Face дээр олон нийтэд үнэ төлбөргүй нээлттэй болголоо. Уг загвар нь MoE архитектуртай бөгөөд нэг токены хувьд 104 тэрбум идэвхтэй параметр ажилладаг нь тооцооллын зардлыг хэмнэхэд чухал нөлөөтэй юм. Загварын кодын сан нь 96 safetensors хэсгээс бүрдсэн 1.56 терабайт хэмжээтэй байна.\n\nГүйцэтгэлийн хувьд Kimi K3.1 Pro нь Anthropic-ийн тэргүүлэгч загваруудтай өрсөлдөхүйц үр дүнг үзүүлж байгаа бөгөөд код бичих, агент систем болон санхүүгийн судалгаа хийхэд илүүтэйгээр тохируулагджээ. Гэсэн хэдий ч энэхүү том загварийг өөрөө байршуулж ажиллуулахад Nvidia B300 зэрэг хүчирхэг GPU-ууд шаардлагатай юм. Мөн арилжааны зорилгоор бусдад үйлчилгээ үзүүлж, жилийн орлого нь 20 сая ам.доллараас давсан тохиолдолд Moonshot компанитай тусгай гэрээ байгуулах шаардлагатай лицензийн нөхцөлтэй аж.",
+   "published": "2026-11-05T02:55:48Z",
+   "added": "2026-11-07T19:45:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "38121c807a6520fa",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "36氪",
+   "url": "https://eu.36kr.com/en/p/4055498420524934",
+   "image": "https://img.36krcdn.com/hsossms/20261105/v2_52fa556e80d84ca4a1e6cf51ae48d62e@5091053@ai_oswg920050oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+   "title": "AI Era Business Strategy: Tencent's WorkBuddy-Centric Layout, Alibaba's Qwen AI, ByteDance's Doubao AI – Leading Competitive Enterprise AI Development",
+   "summary_en": "Tencent has officially launched a full-spectrum suite of AI-powered office solutions, deeply integrated with its expansive digital ecosystem, to secure a first-mover competitive advantage in the fast-growing global AI office technology track. This end-to-end integrated AI office portfolio unifies Tencent’s mature ecosystem resources, covering intelligent collaboration, automated document processing, smart meeting management, and AI-assisted workflow optimization, addressing the surging market demand for efficient, scenario-adaptive smart office tools amid fierce industry competition. By…",
+   "title_mn": "Tencent компани WorkBuddy болон AI оффисын шийдлүүдээ танилцууллаа",
+   "summary_mn": "Tencent компани WorkBuddy болон Tencent Cloud Drive хэрэгслүүдийг багтаасан AI оффисын шинэ системээ танилцуулж, агентуудын хамтын ажиллагааг сайжруулжээ.",
+   "body_mn": "Саяхан болсон Tencent Global Digital Ecosystem Conference хурлын үеэр тус компани AI оффисын салбарт хийсэн томоохон шинэчлэлтүүдээ зарлалаа. Үүнд WorkBuddy төвийг түшиглэсэн Buddy One оффисын систем багтаж байгаа бөгөөд Tencent Docs, Tencent Meeting, Tencent Cloud Drive зэрэг бүтээгдэхүүнүүдийг нэгдмэл данс, мэдээллийн сантай холбож өгчээ. Ингэснээр хэрэглэгчид олон янзын аппликейшн хооронд гараар шилжих шаардлагагүйгээр хиймэл оюун ухаанаар дамжуулан ажлаа нэгдсэн байдлаар гүйцэтгэх боломжтой болж байна.\n\nМөн компани Agents эрин үеийн санах ойн орон зай гэж тодорхойлсон Tencent Cloud Drive үйлчилгээг нэвтрүүлжээ. Энэхүү шийдэл нь зөвхөн файл хадгалахаас гадна хиймэл оюун ухааны агентуудын гүйцэтгэсэн ажлын түүх, хамтран ажиллах явцад боловсруулсан дүрмүүдийг аюулгүйгээр хадгалж, байгууллагын хэмжээнд хэрэглэгдэхүүн болгон хувиргах зорилготой юм. Энэ нь хөгжүүлэгчид болон байгууллагуудад AI-д суурилсан ажлын урсгалыг илүү үр дүнтэй зохион байгуулах боломжийг олгож байна.",
+   "published": "2026-11-05T05:20:27Z",
+   "added": "2026-11-07T19:45:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6e405dbcc88f5a73",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-cracks-down-video-game-060034811.html",
+   "image": "https://s.yimg.com/lo/mysterio/api/1ee0ac2b52bce1f88afaebb54083ceff4dfbfe289c419db6660a1fcdb1d036b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdigital_trends_973%2Fb58dcca5737056f5710114fbd7f37a62.jpg",
+   "title": "Anthropic cracks down on video game cloning with new Claude restrictions",
+   "summary_en": "AI has been making its way into video game development for a while now, but the recent developments have started raising some serious concerns. Popular games are being reverse-engineered with AI assistance, recreated for web browsers, and made playable on platforms they were never released for. Between all that, indie developers have started pulling down […]",
+   "title_mn": "Anthropic видео тоглоом хуулбарлахыг хориглох шинэ хязгаарлалт нэмэв",
+   "summary_mn": "Anthropic компани Claude Code хэрэгсэлдээ тодорхой видео тоглоомуудыг дахин бүтээх буюу хуулбарлахыг хориглосон шинэ зааварчилгаа нэмлээ.",
+   "body_mn": "Сүүлийн үед хиймэл оюун ухааны тусламжтайгаар алдартай видео тоглоомуудыг вэб хөтөч рүү хөрвүүлэх, эсвэл бусад систем дээр тоглуулах боломжтой болгож байгаатай холбоотойгоор зохиогчийн эрхийн асуудал хурцаар тавигдах болсон. Үүнтэй холбоотойгоор Anthropic компани Claude Code хэрэгсэлдээ тодорхой видео тоглоомуудыг хуулбарлахыг хориглосон шинэ хязгаарлалтуудыг нэвтрүүлснийг тус компани баталжээ. Шинэ дүрэм нь Claude-д хуучин тоглоомуудын кодыг дахин бичих, тэдгээрийг дуурайж бүтээхийг хориглож байгаа боловч хөгжүүлэгчид өөрсдийн оригиналь тоглоом болон төрөл жанрын төслүүд дээр ажиллах боломжийг хэвээр үлдээжээ.\n\nЭнэхүү арга хэмжээ нь тоглоом хөгжүүлэгч жижиг студиуд хиймэл оюун ухааны тусламжтайгаар бүтээлээ алдахаас эмээж демо хувилбаруудаа татахад хүрсэн нөхцөл байдлын дагуу хийгдсэн чухал алхам юм. Хэдийгээр эх кодыг задлан шинжлэх, тоглоом клойд хийх явдлыг хумих зорилготой боловч энд ямар нэг хэмжээгээр үндсэн хөгжүүлэгчдэд хүндрэл үүсэх эсэх нь одоогоор анхаарал татаж байна.",
+   "published": "2026-11-05T06:00:00Z",
+   "added": "2026-11-07T19:45:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
  }
 ]

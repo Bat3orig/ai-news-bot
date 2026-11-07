@@ -1,0 +1,17 @@
+{
+ "id": "38121c807a6520fa",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "36氪",
+ "url": "https://eu.36kr.com/en/p/4055498420524934",
+ "image": "https://img.36krcdn.com/hsossms/20261105/v2_52fa556e80d84ca4a1e6cf51ae48d62e@5091053@ai_oswg920050oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+ "title": "AI Era Business Strategy: Tencent's WorkBuddy-Centric Layout, Alibaba's Qwen AI, ByteDance's Doubao AI – Leading Competitive Enterprise AI Development",
+ "summary_en": "Tencent has officially launched a full-spectrum suite of AI-powered office solutions, deeply integrated with its expansive digital ecosystem, to secure a first-mover competitive advantage in the fast-growing global AI office technology track. This end-to-end integrated AI office portfolio unifies Tencent’s mature ecosystem resources, covering intelligent collaboration, automated document processing, smart meeting management, and AI-assisted workflow optimization, addressing the surging market demand for efficient, scenario-adaptive smart office tools amid fierce industry competition. By…",
+ "title_mn": "Tencent компани WorkBuddy болон AI оффисын шийдлүүдээ танилцууллаа",
+ "summary_mn": "Tencent компани WorkBuddy болон Tencent Cloud Drive хэрэгслүүдийг багтаасан AI оффисын шинэ системээ танилцуулж, агентуудын хамтын ажиллагааг сайжруулжээ.",
+ "body_mn": "Саяхан болсон Tencent Global Digital Ecosystem Conference хурлын үеэр тус компани AI оффисын салбарт хийсэн томоохон шинэчлэлтүүдээ зарлалаа. Үүнд WorkBuddy төвийг түшиглэсэн Buddy One оффисын систем багтаж байгаа бөгөөд Tencent Docs, Tencent Meeting, Tencent Cloud Drive зэрэг бүтээгдэхүүнүүдийг нэгдмэл данс, мэдээллийн сантай холбож өгчээ. Ингэснээр хэрэглэгчид олон янзын аппликейшн хооронд гараар шилжих шаардлагагүйгээр хиймэл оюун ухаанаар дамжуулан ажлаа нэгдсэн байдлаар гүйцэтгэх боломжтой болж байна.\n\nМөн компани Agents эрин үеийн санах ойн орон зай гэж тодорхойлсон Tencent Cloud Drive үйлчилгээг нэвтрүүлжээ. Энэхүү шийдэл нь зөвхөн файл хадгалахаас гадна хиймэл оюун ухааны агентуудын гүйцэтгэсэн ажлын түүх, хамтран ажиллах явцад боловсруулсан дүрмүүдийг аюулгүйгээр хадгалж, байгууллагын хэмжээнд хэрэглэгдэхүүн болгон хувиргах зорилготой юм. Энэ нь хөгжүүлэгчид болон байгууллагуудад AI-д суурилсан ажлын урсгалыг илүү үр дүнтэй зохион байгуулах боломжийг олгож байна.",
+ "published": "2026-11-05T05:20:27Z",
+ "added": "2026-11-07T19:45:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
