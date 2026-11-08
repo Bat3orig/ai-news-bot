@@ -1,0 +1,17 @@
+{
+ "id": "33edc5cc6f7856b3",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/taming-typography-modern-css-reset/",
+ "image": "https://css-tricks.com/wp-content/uploads/2019/02/text-wrap.png",
+ "title": "Taming Typography: Building a Modern CSS Reset",
+ "summary_en": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts. Taming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "title_mn": "Орчин үеийн CSS боломжуудаар типографийн reset бүтээх нь",
+ "summary_mn": "CSS-Tricks орчин үеийн CSS-ийн text-wrap: pretty, text-box-trim, cqi нэгж зэргийг ашиглан типографийн шинэ reset stylesheet бүтээх зааврыг танилцууллаа. Эдгээр шийдлүүд нь текстийн уншигдах чанар, зөв мөр хуваалтыг хялбарчилж байна.",
+ "body_mn": "Вэб хөгжүүлэлтэд текстийн хэв маягийг удирдах CSS-ийн шинэ стандартууд олноор нэвтэрч байна. CSS-Tricks-ээс гаргасан tidy-typography.css нь гарчиг болон эх бичвэрийн мөр хуваалтыг оновчлох, үсгийн фонт солигдох үеийн үсрэлтийг багасгах, зайн хэмжээг зөв тохируулах орчин үеийн шийдлүүдийг нэгтгэжээ.\n\nУг шийдэлд text-wrap: pretty болон balance шинж чанаруудыг ашигласнаар сүүлийн мөрөнд ганц үг тасран үлдэхээс (orphan) сэргийлж, JavaScript нэмэлт кодгүйгээр текстийг тэгш хуваарилж байна. Мөн контейнер кверигийн cqi нэгжийг clamp() функцтэй хослуулснаар гарчгийн хэмжээг дэлгэцийн өргөнөөс биш, байрлаж буй баганынхаа хэмжээнээс хамаарч уян хатан өөрчлөгддөг болгосон нь онцлог юм.\n\nҮүнээс гадна text-box-trim болон text-box-edge шинж чанаруудаар үсгийн мөрийн илүү зайг хасч, текстийг бусад элементтэй нарийн тэгшлэх боломжийг харуулжээ. Эдгээр шинэ чанарууд нь бүх хөтөч дээр бүрэн нэвтрээгүй тул @supports ашиглан аюулгүй байдлаар нэвтрүүлэхийг зөвлөсөн байна.",
+ "published": "2026-11-05T14:55:31Z",
+ "added": "2026-11-08T09:44:57Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

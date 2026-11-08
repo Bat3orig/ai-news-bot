@@ -1,0 +1,17 @@
+{
+ "id": "c2bf9343b8b77437",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Register",
+ "url": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
+ "image": "https://image.theregister.com/5307922.jpg?imageId=5307922&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+ "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
+ "summary_en": "From EOP to RCE in six simple steps",
+ "title_mn": "Claude Dispatch-ийн цоорхойгоор компьютерт алсаас код ажиллуулах эрсдэл илрэв",
+ "summary_mn": "Хөтчийн өргөтгөлөөр дамжин Claude Desktop-д дурын тушаал биелүүлэх боломжтой ThisBash цоорхойг аюулгүй байдлын шинжээч илрүүллээ.",
+ "body_mn": "Forever Security компанийн судлаач Gal Weizman Anthropic-ийн Claude бүтээгдэхүүнээс ThisBash хэмээх системийн эмзэг байдлыг илрүүлснээ мэдээллээ. Энэхүү цоорхой нь хортой хөтчийн өргөтгөлийн тусламжтайгаар Claude Dispatch-ийн API-д хандаж, Claude Desktop ажиллаж буй компьютерт дурын код биелүүлэх боломжийг олгодог байна.\n\nСудлаачийн үзэж буйгаар тухайн өргөтгөл нь эрхээ ахиулж системийн файл руу хандах, хортой npm багц суулгах зэргээр үйлдлийн системийг бүхэлд нь хянах боломжтой. Weizman уг асуудлыг 5 дугаар сард Anthropic-д анх мэдэгдсэн боловч тус компани үүнийг аль хэдийн мэдэгдсэн алдаа гэж үзэн тусгай CVE олгоогүй бөгөөд Dispatch боломжийг бүрмөсөн хаана гэж мэдэгдсэн байна.\n\nГэвч энэхүү архитектурын сул тал нь Claude Code Remote Control болон claude.ai-тай сесс хуваалцдаг Claude Cowork зэрэг бусад шинэ функцүүдэд ч адил эрсдэл үүсгэж болзошгүйг шинжээч анхааруулж байна. Хөгжүүлэгчид болон хэрэглэгчид хөтөч дээрээ сэжигтэй өргөтгөл суулгахаас сэрэмжлэх шаардлагатайг санууллаа.",
+ "published": "2026-11-05T13:00:00Z",
+ "added": "2026-11-08T09:44:57Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "d32338a1e65554ba",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v45.2.2",
-   "image": "https://opengraph.githubassets.com/85ba554c51219a2b200b4ca252ebf8a170e2bf0f0707f92b7c16fe7830bcdb83/electron/electron/releases/tag/v45.2.2",
-   "title": "electron v45.2.2",
-   "summary_en": "Release Notes for v45.2.2 Fixes Fixed a crash when using hidden window as the parent in Wayland. #55571 (Also in 43 , 44 , 46 ) Fixed removeInsertedCSS() not removing cssOrigin: 'user' stylesheets. #55538 (Also in 46 ) Other Changes Updated Chromium to 156.0.8078.80. #55512 Updated Node.js to v24.22.2. #55474",
-   "title_mn": "Electron v45.2.2 хувилбар гарлаа",
-   "summary_mn": "Electron v45.2.2 хувилбар Chromium 156 болон Node.js v24.22.2 руу шинэчлэгдлээ.",
-   "body_mn": "Electron хүрээний шинэ v45.2.2 хувилбар гарлаа. Энэхүү хувилбараар Wayland орчин дахь цонхны алдааг засч, removeInsertedCSS() функц cssOrigin: 'user' загваруудыг устгадаггүй байсан алдааг зассан байна.\n\nТүүнчлэн Chromium хөдөлгүүрийг 156.0.8078.80 хувилбар болгон шинэчилж, Node.js-ийг v24.22.2 хувилбарт хүргэжээ. Энэ нь хөгжүүлэгчдэд шинэ боломж болон тогтвортой байдлыг олгож байна.",
-   "published": "2026-11-03T19:31:31Z",
-   "added": "2026-11-06T10:38:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a44af420774e4554",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-security-review-public-beta",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2tlcRn6BrKMsBOUba3hFub/8723cf68a4fdc428f597a31abc14b13d/image__63_.png",
-   "title": "Vercel Security Review now in public beta",
-   "summary_en": "Vercel Security Review is now in public beta for Pro and Enterprise teams. Once enabled, every push to a connected GitHub repository is automatically reviewed for vulnerabilities, and findings are reported in the Vulnerabilities dashboard . What triggers a review Security Review runs automatically when code is pushed to a connected GitHub repository. Because reviews start from push events rather than pull requests, direct and force pushes to your production branch are reviewed as well. Every project affected by a single push is reviewed together. What a finding includes Each finding records…",
-   "title_mn": "Vercel Security Review олон нийтийн бета хувилбараар гарлаа",
-   "summary_mn": "Vercel Security Review бета хувилбар нь GitHub репозитори руу код түлхэх бүрт автоматаар эмзэг байдлыг шалгана.",
-   "body_mn": "Vercel компани Pro болон Enterprise багуудад зориулсан Vercel Security Review хэрэгслээ олон нийтийн бета хувилбараар нээлээ. Энэхүү хэрэгсэл нь холбогдсон GitHub репозитори руу код түлхэх бүрт автоматаар эмзэг байдлыг шалгаж, үр дүнг Vulnerabilities хянах самбарт харуулдаг.\n\nШалгалт нь PR буюу хүсэлт үүсгэхийг хүлээлгүйгээр шууд код оруулах үед ажилладаг тул production салбар руу хийсэн шууд өөрчлөлтүүдийг ч хянадаг байна. Олдсон эмзэг байдал бүрт төслийн нэр, орчин, commit болон хиймэл оюун ухаанаар үүсгэсэн эрсдэлийн үнэлгээг хавсаргадаг.\n\nХөгжүүлэгчид Fix with Vercel Agent товчийг дарж Vercel AI азантаар засвар хийлгэн PR үүсгэх боломжтой. Мөн багууд өөрсдийн аюулгүй байдлын бодлогыг энгийн хэлээр бичиж өгөх замаар шалгалтын нөхцөлийг өөрчлөх боломжтой юм. Энэхүү үйлчилгээ нь 2026 оны 11 дүгээр сарын 10 хүртэл үнэ төлбөргүй ажиллана.",
-   "published": "2026-11-03T20:00:00Z",
-   "added": "2026-11-06T10:38:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "68c6126a611b219c",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/openai-dots-grok-bot-compute-costs/",
-   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/03151307/library-openai-s-dots-agents-strain-compute-as-musk-calls-grok-b-800x450.png",
-   "title": "OpenAI’s dots agents strain compute as Musk calls Grok Bot costs unsustainable",
-   "summary_en": "AI agents are costly to run. OpenAI's dots use thousands of GPUs daily while Musk flags Grok Bot expenses as unsustainable for the industry.",
-   "title_mn": "OpenAI болон xAI компаниудын хиймэл оюун ухааны агентын зардал өндөр байна",
-   "summary_mn": "OpenAI болон xAI компаниудын шинэ хиймэл оюун ухааны агентууд өндөр тооцооллын хүчин чадал шаардаж байгаа нь санхүүгийн дарамт үүсгэж эхэлжээ.",
-   "body_mn": "Хиймэл оюун ухааны салбар энгийн чатлахаас илүүтэй хэрэглэгчийн даалгаврыг бие даан гүйцэтгэх агент хэлбэрт шилжиж байгаа хэдий ч энэ нь асар их зардал шаардаж байна. Тухайлбал, xAI-ийн хөгжүүлсэн Grok Bot болон OpenAI-ийн dots агентууд маш их хэмжээний GPU нөөц хэрэглэж байна.\n\nSpaceX-ийн Ерөнхийлөгч Gwynne Shotwell-ийн мэдээлснээр Grok Bot богино хугацаанд олон сая хэрэглэгчтэй болсон ч Elon Musk үүнийг ажиллуулах зардал орлогоосоо давж, тогтворгүй болсныг мэдэгджээ. Үүний улмаас хэрэглэгчид ашиглалтын хязгаартаа илүү хурдан хүрэх болсон байна.\n\nOpenAI-ийн хувьд dots агентууд өдөрт хагас сая ам.доллараас илүү өртөг шингээж, олон мянган GPU ашиглаж байна. Түүнчлэн дотоод туршилтаар эдгээр агентууд даалгаврын хүрээнээс гарах алдаа гаргаж байсан нь найдвартай байдлын хувьд анхаарах асуудал хэвээр байгааг харуулж байна.",
-   "published": "2026-11-03T20:13:11Z",
-   "added": "2026-11-06T10:38:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "42c43e0f0e482cdd",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.44.0",
-   "image": "https://opengraph.githubassets.com/d7bfa84cab59dcda19e6a3f5f1aeef38545ca6e49877506328158c4fa2194b9c/openai/openai-python/releases/tag/v3.44.0",
-   "title": "openai-python v3.44.0",
-   "summary_en": "3.44.0 (2026-11-03) Features api: add workload identity providers and federation rules ( #4237 ) ( 12709d7 )",
-   "title_mn": "openai-python v3.44.0 хувилбар гарлаа",
-   "summary_mn": "openai-python v3.44.0 хувилбар нь workload identity providers болон federation rules дэмжлэг нэмлээ.",
-   "body_mn": "OpenAI python сангийн шинэ v3.44.0 хувилбар албан ёсоор гарлаа. Энэхүү хувилбараар API хэсэгт workload identity providers болон federation rules буюу нэгдсэн эрх олгох дүрэм нэмэгдсэн байна.\n\nЭнэхүү шинэчлэлт нь хөгжүүлэгчдэд OpenAI API-тай ажиллах үед аюулгүй байдал болон эрх зохицуулалтыг илүү уян хатан байдлаар тохируулах боломжийг олгож байгаагаараа чухал юм.",
-   "published": "2026-11-03T20:20:42Z",
-   "added": "2026-11-06T10:38:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "130d10d3c1a4b493",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-   "image": "https://github.blog/wp-content/uploads/2026/11/693547520-00166bc8-34d8-4a1b-8913-6c1e17e3ddd5.jpg",
-   "title": "Dependabot version updates support Agent Package Manager",
-   "summary_en": "You can now keep your AI agent skills, prompts, and instructions up to date with Dependabot version updates for Agent Package Manager (APM). Dependabot opens pull requests to update supported…",
-   "title_mn": "Dependabot Agent Package Manager дэмждэг боллоо",
-   "summary_mn": "Dependabot хувилбарын шинэчлэлтээр Agent Package Manager (APM)-ийг дэмждэг боллоо.",
-   "body_mn": "GitHub Dependabot нь хиймэл оюун ухааны агент болон тэдгээрийн хэрэгслүүдийг шинэчлэх боломжийг олгож байна. Хөгжүүлэгчид одоо Agent Package Manager (APM) ашиглан өөрсдийн AI агент болон сануулга (prompts), зааварчилгааг автоматаар шинэчлэх боломжтой боллоо.\n\nЭнэхүү дэмжлэг нь apm.yml файлаар зарлагдсан git хамаарлуудыг шинэчилж, apm.lock.yaml файлыг автоматаар шинэчлэх юм. Энэ нь аюулгүй байдлын шинэчлэлт бус харин хувилбарын шинэчлэлтэд зориулагдсан бөгөөд GitHub дээр бүх төлөвлөгөөнд ашиглах боломжтой болжээ.",
-   "published": "2026-11-03T20:24:07Z",
-   "added": "2026-11-06T10:38:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5dc4645d80868242",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
-   "title": "Anthropic is working on a system to prove AI models’ identity",
-   "summary_en": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-   "title_mn": "Anthropic AI загварын жинхэнэ эсэхийг шалгах FlashProve системийг танилцууллаа",
-   "summary_mn": "Anthropic компани хиймэл оюун ухааны загварын гаралтыг баталгаажуулах FlashProve нээлттэй эх сурвалжтай системийг танилцууллаа. Энэ нь загваруудын жинхэнэ эсэхийг криптографийн аргаар баталгаажуулж, хуурамчаар орлуулахаас сэргийлэх зорилготой юм.",
-   "body_mn": "Anthropic компани өгөгдсөн хариу ямар AI загвараас гарсныг баталгаажуулах FlashProve нэртэй шинэ системийг танилцууллаа. Уг систем нь хэрэглэгчдэд өөрсдийн ашиглаж буй загвараас үр дүн гарсан эсэхийг математикийн баталгаа буюу криптографийн аргаар шалгах боломжийг олгодог.\n\nЭнэхүү технологи нь хиймэл оюун ухааны компаниуд өртөг хэмнэх зорилгоор илүү хямд загвараар нууцаар солих, эсвэл гүйцэтгэлийг өндөр харагдуулахын тулд бусад загвараар орлуулах оролдлогоос хамгаалах юм. Мөн гуравдагч талууд өөрсдийн программ хангамжаа кибер аюулгүй байдлын дэвшилтэт загвараар шалгуулсан гэдгээ батлахад ашиглаж болно.\n\nСистем ажиллахын тулд лабораториуд загвар бүрийн хурууны хээ буюу fingerprint нийтлэх шаардлагатай бөгөөд үүнийг дотоод төхөөрөмж дээр шалгах боломжтой. Anthropic уг төслийн техникийн дэлгэрэнгүй үзүүлэлт болон кодыг GitHub дээр нээлттэй байршуулсан байна.",
-   "published": "2026-11-03T22:41:03Z",
-   "added": "2026-11-06T10:38:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dfb551037908ec28",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases",
-   "image": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20November%2011,%202026%20Security%20Releases",
-   "title": "Wednesday, November 11, 2026 Security Releases",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js төсөл 11 дүгээр сарын аюулгүй байдлын шинэчлэлтээ зарлалаа",
-   "summary_mn": "Node.js баг 26.x, 24.x болон 22.x хувилбаруудын аюулгүй байдлын шинэчлэлтийг энэ долоо хоногт гаргахаар болжээ. Эдгээр шинэчлэлтээр өндөр буюу HIGH зэрэглэлийн эмзэг байдлуудыг засах юм.",
-   "body_mn": "Node.js төсөл 26.x, 24.x болон 22.x хувилбаруудын шинэчлэлтийг гаргахаар төлөвлөж байна. Энэхүү шинэчлэлт нь эдгээр хувилбаруудад илэрсэн аюулгүй байдлын асуудлуудыг шийдвэрлэх зорилготой юм.\n\nЗасагдаж буй хамгийн өндөр зэрэглэлийн асуудал нь HIGH буюу өндөр түвшний эрсдэлтэй болохыг төслийн баг мэдэгдсэн байна. Дэмжих хугацаа нь дууссан хувилбарууд үргэлж эрсдэлтэй байдаг тул хөгжүүлэгчдийг албан ёсны хуваарийн дагуу хамгийн сүүлийн үеийн хувилбарт шилжихийг зөвлөж байна.\n\nШинэчлэлтийн дэлгэрэнгүй мэдээлэл болон засварууд албан ёсны сувгуудаар дамжуулан хөгжүүлэгчдэд хүрэх бөгөөд nodejs-sec мэдээллийн жагсаалтад бүртгүүлж цаг алдалгүй мэдээлэл авах боломжтой.",
-   "published": "2026-11-03T23:00:00Z",
-   "added": "2026-11-06T10:38:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "295354ff422b0d4d",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/introducing-images-2-6",
-   "image": "",
-   "title": "Introducing Images 2.6",
-   "summary_en": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-   "title_mn": "OpenAI шинэ Images 2.6 загвар болон API шинэчлэлтээ танилцууллаа",
-   "summary_mn": "OpenAI компани зураг бүтээх болон засварлах хурдыг сайжруулсан Images 2.6 хувилбарыг ChatGPT, Codex болон API орчинд нэвтрүүлжээ.",
-   "body_mn": "OpenAI компани дүрс бүтээх чадварыг эрс сайжруулсан Images 2.6 хувилбарыг албан ёсоор танилцууллаа. Энэхүү шинэ хувилбар нь илүү хурдан зураг генераци хийх, GIF хэлбэрээр бүтээх, нарийн засварлах боломж болон шинэ API удирдлагуудыг хөгжүүлэгчдэд олгож байна.\n\nШинэчлэлт нь ChatGPT, Codex болон OpenAI API-уудаар дамжин хэрэглэгчдийн хүртээл болж байгаа бөгөөд програмууд болон автоматжуулсан системд зураг боловсруулах процессыг илүү хялбар болгож байна.\n\nХөгжүүлэгчид шинэ API хяналтуудыг ашиглан аппликейшнүүддээ зураг үүсгэх, засварлах функцуудыг өмнөхөөсөө илүү хурдан бөгөөд нарийвчлалтайгаар нэгтгэх боломжтой боллоо.",
-   "published": "2026-11-04T00:00:00Z",
-   "added": "2026-11-06T10:38:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "235ecb13701223ab",
-   "subtopic": "packages",
-   "source": "Frontend Focus",
-   "source_label": "Frontend Focus",
-   "url": "https://frontendfoc.us/issues/765",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1793796147/eduaw5bendeycfhsuy0l.png",
-   "title": "Safari will 'dark mode' your site for you",
-   "summary_en": "🚀 Frontend Focus #​765 — November 4, 2026 | Read on the web Safari Introduces Adaptive Dark Mode — A new (opt-in) feature added to the Safari 27.3 beta that automatically adapts light sites to dark ones. It's here because although around 40% of pages are loaded by users using dark mode, only 10% of page loads directly support it. WebKit Agents Didn’t Clear Your Plate. They Dumped Reviews on It — Your agents write PRs in minutes, then eat your afternoon in review. When did ‘saving time’ start to mean babysitting agents’ work? Meticulous verifies every UI change, with no developer effort. Devs…",
-   "title_mn": "Frontend Focus: Safari адаптив харанхуй горим, Chrome 158 бета, CSS Grid Lanes",
-   "summary_mn": "Safari 27.3 бета-д гэрлэн вэбсайтыг автоматаар харанхуй болгох Adaptive Dark Mode нэмэгдлээ. Chrome 158 бета-д <install> элемент болон :playing, :paused псевдо-классууд орсон. CSS Grid Lanes-ээр masonry загварыг эхлээд хийх боломжтой боллоо.",
-   "body_mn": "Frontend Focus-ийн 765 дугаар тоймд хамгийн чухал технологийн шинэчлэлүүд багтжээ. Гол мэдээ нь Safari 27.3 бета-д нэмэгдсэн сонголттой Adaptive Dark Mode юм. Энэ функц гэрлэн сайтуудыг автоматаар харанхуй болгодог бөгөөд хэрэглэгчдийн 40 орчим хувь харанхуй горим ашигладаг ч зөвхөн 10 орчим хувь нь шууд дэмждэг гэж дурджээ.\n\nChrome 158 бета (стабиль хувилбар 11-р сарын 17-нд) <install> элемент, :playing ба :paused медиа псевдо-классууд, ::highlight(*) зэргийг нэмжээ. Мөн XSLT-г хасах шатанд орсон. Chrome DevTools Elements хэсэгт position-area редактор нэмэгдсэн нь CSS-ийн байрлалыг визуалаар тохируулахад тустай.\n\nCSS Grid Lanes-ийн тухай гарын авлагад masonry байрлалыг эх дарааллыг хадгалан хийх талаар дэлгэрэнгүй тайлбарлагдсан. Одоогоор зөвхөн Safari дэмжиж байгаа бөгөөд бусад хөтчүүд ажиллаж байна. Хөгжүүлэгчдэд эдгээр нь фронтэнд ажиллах арга барилд шууд нөлөөлнө.",
-   "published": "2026-11-04T00:00:00Z",
-   "added": "2026-11-06T17:46:08Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "70125f96ba822381",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
-   "image": "https://opengraph.githubassets.com/fb444ca8a63df3d86261007d4a1089268e36ab3f46a2ab0aacf2a9266caed703/anthropics/claude-code/releases/tag/v2.1.318",
-   "title": "claude-code v2.1.318",
-   "summary_en": "What's changed Added a record of your answer when Claude Code asks to turn on the mods it writes in a session Added assume_role on mantle upstreams of the Claude apps gateway, for a role in another AWS account and for per-developer AWS cost attribution Added an effort option to a mod's $.model.fork , so a quick side job can run at low whatever effort the session uses; the result reports the effort sent Added the date a stored claude.ai sign-in ends to claude auth status ( loginExpiresAt ) and to claude -p JSON results ( credential_expires_at ) Added a one-line stderr warning to claude -p…",
-   "title_mn": "claude-code v2.1.318: API gateway дэмжлэг, нэвтрэлтийн хугацаа, олон алдаа засав",
-   "summary_mn": "Claude Code v2.1.318 хувилбарт AWS assume_role дэмжлэг, нэвтрэлтийн дуусах хугацааны мэдээлэл, mod-ийн effort сонголт нэмэгдсэн. Мөн --continue, MCP тохиргоо, сесс зэрэг олон алдаа засагджээ.",
-   "body_mn": "Claude Code-ийн v2.1.318 хувилбарт хөгжүүлэгчдэд шууд хэрэгтэй шинэчлэлүүд орсон. Гол шинэ функцүүдийн нэг нь Claude apps gateway-ийн mantle upstream дээр assume_role тохиргоо нэмсэн явдал юм. Энэ нь өөр AWS дансны роль ашиглах болон хөгжүүлэгч бүрийн AWS зардлыг тусад нь тооцох боломж олгоно.\n\nМөн mod-ийн $.model.fork дээр effort сонголт нэмэгдсэн тул богино ажлыг сесс дээрх effort-оос үл хамааран бага түвшинд ажиллуулах боломжтой боллоо. claude auth status болон claude -p JSON үр дүнд нэвтрэлтийн дуусах огноо нэмэгдсэн бөгөөд 10 хоногийн өмнөөс stderr-д анхааруулга гарна.\n\nАлдаа засварт --continue командын өмнөх яриа алдагдах, macOS дээр Bash командын санах ойн асуудал, MCP server нэмэх, устгах үед тохиргооны lock зэрэг орсон. Хэрэв CI эсвэл хамтын орчинд ажиллуулдаг бол энэ хувилбарыг шалгах нь зүйтэй.",
-   "published": "2026-11-04T00:01:03Z",
-   "added": "2026-11-06T17:46:08Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "3120cb53fbc5954e",
    "subtopic": "ai-devtools",
    "source": "GitHub Changelog",
@@ -797,6 +597,86 @@
    "added": "2026-11-08T02:36:56Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8f0bbe79fd0c1768",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy",
+   "image": "https://cdn.mos.cms.futurecdn.net/Kc5XZJfVxj3uECzne3uBJ3-1920-80.jpg",
+   "title": "Anthropic loosens Claude's game cloning ban — AI will now offer to build original games in the requested genre",
+   "summary_en": "The update is expected to reduce false positives and allow game developers to use the tool for their own legitimate projects without getting blocked.",
+   "title_mn": "Anthropic тоглоом хуулбарлах хязгаарлалтаа зөөллөв",
+   "summary_mn": "Claude Code 2.1.317 хувилбарт тоглоом хуулбарлахыг шууд хориглохын оронд тухайн төрлийн өөр шинэ тоглоом бүтээхийг санал болгодог болжээ.",
+   "body_mn": "Anthropic компани Claude загварт тавьсан видео тоглоомыг хуулбарлах болон урвуу инженерчлэл хийхийг хориглосон хатуу дүрмээ зөөллөлөө. Өмнө нь Opus 5.5-ийн зааварт орсон хатуу хоригоос болж ямар нэг тоглоомын механизмыг жишээ болгон дурдсан энгийн хөгжүүлэгчдийн хүсэлт ч цуцлагдаж, гомдол дагуулж байсан юм.\n\nКомпанийн инженер Addy Osmani-ийн мэдээлснээр Claude Code-ийн 2.1.317 шинэчлэлтэд дүрмийг өөрчилсөн байна. Хэрэглэгч хүссэн тоглоомынхоо нэрийг дурдаж механикийг нь тайлбарлавал Claude тухайн төрөлд хамаарах өвөрмөц, цоо шинэ тоглоом хөгжүүлэхийг санал болгодог болжээ. Харин яг ижил хуулбарыг хийхийг хүсвэл төстэй хувилбар бүтээх хувилбарыг санал болгоно.\n\nЭнэхүү шинэчлэл нь жижиг студиудын инди тоглоомын демо хувилбарыг AI ашиглан хууль бусаар хуулбарлан барьцаалах явдлаас сэргийлэхийн зэрэгцээ хууль ёсны хөгжүүлэгчдийн өдөр тутмын ажлыг тасалдуулахгүй байх тэнцвэрийг хангахад чиглэжээ.",
+   "published": "2026-11-05T11:00:00Z",
+   "added": "2026-11-08T09:44:57Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "02985969415cadb4",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha",
+   "image": "https://nodejs.org/en/next-data/og/announcements/Node.js%20%E2%80%94%20Notable%20V8%20changes%20from%20Node.js%2026%20to%2027%20(Alpha)",
+   "title": "Notable V8 changes from Node.js 26 to 27 (Alpha)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "title_mn": "Node.js 27 (Alpha) хувилбарын V8 15.6 шинэчлэлтийн онцлох өөрчлөлтүүд",
+   "summary_mn": "Node.js 27 Alpha нь V8 15.6 хувилбарыг нэвтрүүлж Math.sumPrecise, шинэ Iterator аргууд болон PowerSort алгоритмыг авчирлаа.",
+   "body_mn": "Node.js 27 Alpha хувилбарт V8 хөдөлгүүрийг 14.6-аас 15.6 болгон ахиулснаар JavaScript хэлний хэд хэдэн чухал боломжууд болон сайжруулалтууд нэмэгдлээ. Alpha болон Current шатанд V8-ийн томоохон өөрчлөлтүүд орж ирдэг тул native addon хөгжүүлэгчид NODE_MODULE_VERSION өөрчлөлтийг анхаарах шаардлагатай байна.\n\nХэлний боломжуудаас дурдвал, хөвөгч таслалтай тоонуудын нарийвчлалын алдагдлыг бууруулах Math.sumPrecise нэмэгдэж, Intl.Locale.prototype.variants getter болон шинэ iterator аргууд суугджээ. Мөн том хэмжээтэй массивуудын Array.prototype.sort() үйлдэлд TimSort алгоритмын оронд PowerSort ашиглагдах болсон нь эрэмбэлэх хурдад эерэгээр нөлөөлөх хэдий ч comparator дуудалтын тоо өөрчлөгдөж магадгүй юм.\n\nҮүнээс гадна Math.random() нь кэш ашиглахгүйгээр шууд xorshift128+ генератороор ажилладаг болж, LLVM libm санг ашигласнаар зарим математик функцүүдийн үр дүнд өчүүхэн өөрчлөлт орох боломжтой болжээ. ES модуль дахь top-level await болон Atomics API-тай холбоотой алдаануудыг стандартын дагуу засварласан байна.",
+   "published": "2026-11-05T12:00:00Z",
+   "added": "2026-11-08T09:44:57Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c2bf9343b8b77437",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Register",
+   "url": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
+   "image": "https://image.theregister.com/5307922.jpg?imageId=5307922&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+   "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
+   "summary_en": "From EOP to RCE in six simple steps",
+   "title_mn": "Claude Dispatch-ийн цоорхойгоор компьютерт алсаас код ажиллуулах эрсдэл илрэв",
+   "summary_mn": "Хөтчийн өргөтгөлөөр дамжин Claude Desktop-д дурын тушаал биелүүлэх боломжтой ThisBash цоорхойг аюулгүй байдлын шинжээч илрүүллээ.",
+   "body_mn": "Forever Security компанийн судлаач Gal Weizman Anthropic-ийн Claude бүтээгдэхүүнээс ThisBash хэмээх системийн эмзэг байдлыг илрүүлснээ мэдээллээ. Энэхүү цоорхой нь хортой хөтчийн өргөтгөлийн тусламжтайгаар Claude Dispatch-ийн API-д хандаж, Claude Desktop ажиллаж буй компьютерт дурын код биелүүлэх боломжийг олгодог байна.\n\nСудлаачийн үзэж буйгаар тухайн өргөтгөл нь эрхээ ахиулж системийн файл руу хандах, хортой npm багц суулгах зэргээр үйлдлийн системийг бүхэлд нь хянах боломжтой. Weizman уг асуудлыг 5 дугаар сард Anthropic-д анх мэдэгдсэн боловч тус компани үүнийг аль хэдийн мэдэгдсэн алдаа гэж үзэн тусгай CVE олгоогүй бөгөөд Dispatch боломжийг бүрмөсөн хаана гэж мэдэгдсэн байна.\n\nГэвч энэхүү архитектурын сул тал нь Claude Code Remote Control болон claude.ai-тай сесс хуваалцдаг Claude Cowork зэрэг бусад шинэ функцүүдэд ч адил эрсдэл үүсгэж болзошгүйг шинжээч анхааруулж байна. Хөгжүүлэгчид болон хэрэглэгчид хөтөч дээрээ сэжигтэй өргөтгөл суулгахаас сэрэмжлэх шаардлагатайг санууллаа.",
+   "published": "2026-11-05T13:00:00Z",
+   "added": "2026-11-08T09:44:57Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "33edc5cc6f7856b3",
+   "subtopic": "css-web",
+   "source": "CSS-Tricks",
+   "source_label": "CSS-Tricks",
+   "url": "https://css-tricks.com/taming-typography-modern-css-reset/",
+   "image": "https://css-tricks.com/wp-content/uploads/2019/02/text-wrap.png",
+   "title": "Taming Typography: Building a Modern CSS Reset",
+   "summary_en": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts. Taming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+   "title_mn": "Орчин үеийн CSS боломжуудаар типографийн reset бүтээх нь",
+   "summary_mn": "CSS-Tricks орчин үеийн CSS-ийн text-wrap: pretty, text-box-trim, cqi нэгж зэргийг ашиглан типографийн шинэ reset stylesheet бүтээх зааврыг танилцууллаа. Эдгээр шийдлүүд нь текстийн уншигдах чанар, зөв мөр хуваалтыг хялбарчилж байна.",
+   "body_mn": "Вэб хөгжүүлэлтэд текстийн хэв маягийг удирдах CSS-ийн шинэ стандартууд олноор нэвтэрч байна. CSS-Tricks-ээс гаргасан tidy-typography.css нь гарчиг болон эх бичвэрийн мөр хуваалтыг оновчлох, үсгийн фонт солигдох үеийн үсрэлтийг багасгах, зайн хэмжээг зөв тохируулах орчин үеийн шийдлүүдийг нэгтгэжээ.\n\nУг шийдэлд text-wrap: pretty болон balance шинж чанаруудыг ашигласнаар сүүлийн мөрөнд ганц үг тасран үлдэхээс (orphan) сэргийлж, JavaScript нэмэлт кодгүйгээр текстийг тэгш хуваарилж байна. Мөн контейнер кверигийн cqi нэгжийг clamp() функцтэй хослуулснаар гарчгийн хэмжээг дэлгэцийн өргөнөөс биш, байрлаж буй баганынхаа хэмжээнээс хамаарч уян хатан өөрчлөгддөг болгосон нь онцлог юм.\n\nҮүнээс гадна text-box-trim болон text-box-edge шинж чанаруудаар үсгийн мөрийн илүү зайг хасч, текстийг бусад элементтэй нарийн тэгшлэх боломжийг харуулжээ. Эдгээр шинэ чанарууд нь бүх хөтөч дээр бүрэн нэвтрээгүй тул @supports ашиглан аюулгүй байдлаар нэвтрүүлэхийг зөвлөсөн байна.",
+   "published": "2026-11-05T14:55:31Z",
+   "added": "2026-11-08T09:44:57Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
   }
  }
 ]

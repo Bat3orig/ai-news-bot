@@ -1,0 +1,17 @@
+{
+ "id": "02985969415cadb4",
+ "subtopic": "node",
+ "source": "Node.js Blog",
+ "source_label": "Node.js Blog",
+ "url": "https://nodejs.org/en/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha",
+ "image": "https://nodejs.org/en/next-data/og/announcements/Node.js%20%E2%80%94%20Notable%20V8%20changes%20from%20Node.js%2026%20to%2027%20(Alpha)",
+ "title": "Notable V8 changes from Node.js 26 to 27 (Alpha)",
+ "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+ "title_mn": "Node.js 27 (Alpha) хувилбарын V8 15.6 шинэчлэлтийн онцлох өөрчлөлтүүд",
+ "summary_mn": "Node.js 27 Alpha нь V8 15.6 хувилбарыг нэвтрүүлж Math.sumPrecise, шинэ Iterator аргууд болон PowerSort алгоритмыг авчирлаа.",
+ "body_mn": "Node.js 27 Alpha хувилбарт V8 хөдөлгүүрийг 14.6-аас 15.6 болгон ахиулснаар JavaScript хэлний хэд хэдэн чухал боломжууд болон сайжруулалтууд нэмэгдлээ. Alpha болон Current шатанд V8-ийн томоохон өөрчлөлтүүд орж ирдэг тул native addon хөгжүүлэгчид NODE_MODULE_VERSION өөрчлөлтийг анхаарах шаардлагатай байна.\n\nХэлний боломжуудаас дурдвал, хөвөгч таслалтай тоонуудын нарийвчлалын алдагдлыг бууруулах Math.sumPrecise нэмэгдэж, Intl.Locale.prototype.variants getter болон шинэ iterator аргууд суугджээ. Мөн том хэмжээтэй массивуудын Array.prototype.sort() үйлдэлд TimSort алгоритмын оронд PowerSort ашиглагдах болсон нь эрэмбэлэх хурдад эерэгээр нөлөөлөх хэдий ч comparator дуудалтын тоо өөрчлөгдөж магадгүй юм.\n\nҮүнээс гадна Math.random() нь кэш ашиглахгүйгээр шууд xorshift128+ генератороор ажилладаг болж, LLVM libm санг ашигласнаар зарим математик функцүүдийн үр дүнд өчүүхэн өөрчлөлт орох боломжтой болжээ. ES модуль дахь top-level await болон Atomics API-тай холбоотой алдаануудыг стандартын дагуу засварласан байна.",
+ "published": "2026-11-05T12:00:00Z",
+ "added": "2026-11-08T09:44:57Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

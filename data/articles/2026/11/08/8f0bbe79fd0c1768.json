@@ -1,0 +1,17 @@
+{
+ "id": "8f0bbe79fd0c1768",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Tom's Hardware",
+ "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy",
+ "image": "https://cdn.mos.cms.futurecdn.net/Kc5XZJfVxj3uECzne3uBJ3-1920-80.jpg",
+ "title": "Anthropic loosens Claude's game cloning ban — AI will now offer to build original games in the requested genre",
+ "summary_en": "The update is expected to reduce false positives and allow game developers to use the tool for their own legitimate projects without getting blocked.",
+ "title_mn": "Anthropic тоглоом хуулбарлах хязгаарлалтаа зөөллөв",
+ "summary_mn": "Claude Code 2.1.317 хувилбарт тоглоом хуулбарлахыг шууд хориглохын оронд тухайн төрлийн өөр шинэ тоглоом бүтээхийг санал болгодог болжээ.",
+ "body_mn": "Anthropic компани Claude загварт тавьсан видео тоглоомыг хуулбарлах болон урвуу инженерчлэл хийхийг хориглосон хатуу дүрмээ зөөллөлөө. Өмнө нь Opus 5.5-ийн зааварт орсон хатуу хоригоос болж ямар нэг тоглоомын механизмыг жишээ болгон дурдсан энгийн хөгжүүлэгчдийн хүсэлт ч цуцлагдаж, гомдол дагуулж байсан юм.\n\nКомпанийн инженер Addy Osmani-ийн мэдээлснээр Claude Code-ийн 2.1.317 шинэчлэлтэд дүрмийг өөрчилсөн байна. Хэрэглэгч хүссэн тоглоомынхоо нэрийг дурдаж механикийг нь тайлбарлавал Claude тухайн төрөлд хамаарах өвөрмөц, цоо шинэ тоглоом хөгжүүлэхийг санал болгодог болжээ. Харин яг ижил хуулбарыг хийхийг хүсвэл төстэй хувилбар бүтээх хувилбарыг санал болгоно.\n\nЭнэхүү шинэчлэл нь жижиг студиудын инди тоглоомын демо хувилбарыг AI ашиглан хууль бусаар хуулбарлан барьцаалах явдлаас сэргийлэхийн зэрэгцээ хууль ёсны хөгжүүлэгчдийн өдөр тутмын ажлыг тасалдуулахгүй байх тэнцвэрийг хангахад чиглэжээ.",
+ "published": "2026-11-05T11:00:00Z",
+ "added": "2026-11-08T09:44:57Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
