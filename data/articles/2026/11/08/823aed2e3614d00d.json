@@ -1,0 +1,17 @@
+{
+ "id": "823aed2e3614d00d",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Business Insider",
+ "url": "https://www.businessinsider.com/anthropic-engineer-addy-osmani-cognitive-surrender-warning-2026-11",
+ "image": "https://i.insider.com/6aeb404b9270da3cc6667f24?width=1200&format=jpeg",
+ "title": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work",
+ "summary_en": "\"When you can't explain the answer to a question, even by way of your agent, you've ceded ownership,\" Claude Code engineer Addy Osmani wrote.",
+ "title_mn": "Anthropic-ийн инженер AI хэрэгслээс шалтгаалсан сэтгэхүйн сулралын талаар анхааруулав",
+ "summary_mn": "Claude Code багийн инженер Addy Osmani AI агентуудад хэт найдах нь инженерүүдийн шүүмжлэлт сэтгэлгээг сулруулж байгааг анхаарууллаа.",
+ "body_mn": "Anthropic компанийн Claude Code багийн инженер Addy Osmani өдөр тутмын ажил нь AI агентууд руу шилжих тусам хөгжүүлэгчдийн шүүмжлэлт сэтгэлгээ суларч буйг анхааруулжээ. Тэрээр агентуудыг бүрэн ашиглаж, өөрийн гардан бичих кодыг эрс цөөлсөн ч өдөр тутмын ажилд гүн бодох шаардлага багасаж байгааг онцолсон байна.\n\nТүүний тайлбарласнаар AI ашиглалтад гурван түвшин байдаг: ажлыг даалгасан ч эцсийн хяналтыг гартаа байлгах (cognitive offloading), AI-ийн гаргасан үр дүнг шууд дараагийн алхам болгох (deferral), мөн загварын хариултад бүрэн найдах буюу танин мэдэхүйн бууж өгөлт (cognitive surrender). Сүүлийн хэлбэрийг байнга давтах нь хөгжүүлэгчийн ур чадварыг доройтуулах эрсдэлтэй гэж тэрээр үзэж байна.\n\nOsmani инженерүүдийг AI ашиглахаа зогсоох биш, харин код шалгах циклийг зуршил болгож, хариултыг хүлээж авахаасаа өмнө таамаглал дэвшүүлдэг байхыг уриалжээ. Чухал биш даалгавруудыг бүрэн даалгаж болох ч системийн үндсэн логик болон хариултыг тайлбарлаж чадахаа болих нь эрсдэлтэйг тэрээр сануулсан байна.",
+ "published": "2026-11-05T10:00:00Z",
+ "added": "2026-11-08T02:36:56Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

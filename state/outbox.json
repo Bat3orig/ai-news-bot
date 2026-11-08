@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "f1a111e72742f0df",
-   "subtopic": "vibe-coding",
-   "source": "Simon Willison",
-   "source_label": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-   "image": "",
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "summary_en": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing with one of the examples from the paper and I'm delighted to share that Qwen 3.8 27B running on my…",
-   "title_mn": "Qwen 3.8 27B лаптоп дээр моделийн жинг уншиж, тайлбарлаж чадна",
-   "summary_mn": "Simon Willison Qwen 3.8 27B моделийг лаптоп дээрээ ажиллуулж, нейрон сүлжээний raw жинг уншиж тодорхойлох туршилт хийжээ. Энэ нь GPT-6 Astra-гийн “Weight-Space Programming” судалгаанд үндэслэсэн юм.",
-   "body_mn": "Simon Willison Sparks of Weight-Space Programming судалгаанд дурдсан жишээг Qwen 3.8 27B дээр туршиж үзсэн тухай бичжээ. Судалгааны зохиогчид LLM нь зөвхөн текст хэлбэрээр өгөгдсөн моделийн жинг уншаад, ямар тоглоом сургагдсаныг тодорхойлж чаддаг гэж үзжээ.\n\nЖишээ нь Breakout, Pong, Pac-Man, Freeway гэсэн 10x10 торон дээрх энгийн тоглоомуудад сургагдсан дөрвөн нейрон сүлжээ дээр явагдсан. Жингийг floating point тоонуудын хэлбэрээр өгч, аливаа код ажиллуулахгүйгээр “Ямар тоглоомд сургагдсан бэ?” гэсэн асуулт асуусан байна.\n\nWillison-ийн хэлснээр судалгааны GitHub repository-д бэлэн prompt файлууд байдаг бөгөөд тэдгээрийг өөрийн LLM CLI хэрэгсэл дээр -f болон --fragment сонголтоор URL-аас шууд уншуулан туршиж болно. Жишээ нь llm-openrouter plugin суулгасан орчинд ажиллуулах боломжтой.\n\nХөгжүүлэгчдэд энэ нь LLM-ийг зөвхөн текст болон кодоор биш, моделийн дотоод параметрээр нь ажиллуулах сонирхолтой туршилт юм. Гэхдээ судалгааны шүүмжлэгчид зохиогчид хоёр асуудлыг хольсон гэж үзсэн тул үр дүнг болгоомжтой ойлгох хэрэгтэй.",
-   "published": "2026-11-03T16:29:48Z",
-   "added": "2026-11-05T22:37:17Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "da38bc697163569b",
-   "subtopic": "gemini",
-   "source": "Google DeepMind",
-   "source_label": "Google DeepMind",
-   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-   "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw",
-   "title": "Agentic cheminformatics with Google Antigravity",
-   "summary_en": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-   "title_mn": "Google Antigravity дээр агент ашиглан химийн судалгааны ажлыг хурдасгах нь",
-   "summary_mn": "Google DeepMind Antigravity дээр зориулсан Cheminformatics Skills багцыг танилцуулж, эмийн хайлтын ажлыг нэг цагт багтаах жишээг харуулжээ. RDKit, ChEMBL, PubChem дээр суурилсан.",
-   "body_mn": "Google DeepMind Antigravity платформ дээр ажилладаг шинэ Cheminformatics Skills багцаар эмийн хөгжүүлэлтийн ажлын урсгалыг хэрхэн хурдасгахыг харуулжээ. Жишээнд өвчтөнд хэрэглэгддэг уушгины хорт хавдрын эмүүдээс агент мянга мянган нэгдлийг хайж, matched molecular pair шинжилгээ хийж, шинэ rigidified macrocycle нэгдлүүдийг санал болгож, нэг цагийн дотор синтезийн замуудыг гаргасан гэдэг.\n\nСистемийн хуваарилалт нь хэлний загвар ажлын урсгал, мэдээллийн сангаас хайлт, шинжлэх ухааны гүйцэтгэлийг хариуцдаг бол молекулын тооцоололтыг детерминистик химийн хэрэгслүүд гүйцэтгэдэг. Суурь нь нээлттэй эхийн RDKit бөгөөд ChEMBL болон PubChem-ийн холбогчууд нэмэгдсэн.\n\nНийтлэлд rigidification буюу молекулыг хатууруулах эмчилгээний техникийг тайлбарласан. Эргэх холбоостой молекул нь олон хэлбэрт эргэх тул холбогдохдоо энтропийн алдагдал үүсч, потенц буурдаг. Нэмэлт холбоо нэмснээр молекулыг зөв хэлбэрт барьж, идэвхийг нэмэгдүүлж болно.\n\nПрограм хөгжүүлэгчдэд энэ нь агентийг domain-specific skill-ээр тэжээж, шинжлэх ухааны ажилд ашиглах жишээ юм. Нийтлэлд үнэ, хугацааны хязгаар зэрэг нарийн мэдээлэл дурдаагүй.",
-   "published": "2026-11-03T17:01:49Z",
-   "added": "2026-11-05T22:37:17Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5eb4cd6c810cd2ef",
-   "subtopic": "nextjs",
-   "source": "Next.js Blog",
-   "source_label": "Next.js Blog",
-   "url": "https://nextjs.org/blog/november-2026-security-release",
-   "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/november-2026-security-release/twitter-card.png",
-   "title": "November 2026 Security Release",
-   "summary_en": "The November 2026 security release for Next.js is now available",
-   "title_mn": "Next.js v16.4.5 ба v15.5.29: аюулгүй байдлын засвар гарлаа",
-   "summary_mn": "Next.js 2026 оны 11-р сарын аюулгүй байдлын шинэчлэлт гарч, v16.4.5 (Active LTS) болон v15.5.29 (Maintenance LTS) хувилбаруудад засвар нэмэгдлээ. Хэрэглэгчид dependency-гээ шууд шинэчлэх шаардлагатай.",
-   "body_mn": "Next.js баг өмнө нь зарлаж байсан аюулгүй байдлын шинэчлэлтээ гаргасан. Засвар нь v16.4.5 (Active LTS) болон v15.5.29 (Maintenance LTS) хувилбарт орсон байна. Төслүүдээ шинэчилж dependency-гээ засахыг зөвлөж байна.\n\nЗасварласан гол асуудлууд нь Cache Components идэвхжсэн үед кэшлэгдсэн агуулгыг root parameter-ийн утгуудаар ялгалгүйгээр дахин ашиглах, unstable_cache болон use cache функцүүдийн хооронд харилцан нөлөөлөх, хуудасны shell-ийг бусад URL-д буруу хуваалцах, мөн нэмэлт binary аргументууд ижил cache identity үүсгэх зэрэг байна. Эдгээр нь олон хэрэглэгчтэй системд өөрийн мэдээлэл бусдад очих эрсдэлтэй.\n\nМөн self-hosted орчинд HTTP/1.1 reverse proxy-ийн ард pipelined хүсэлт дээр хариу буруу хүлээн авагчид очих асуудал тэмдэглэгдсэн. Энэ нь бүх тохиргоонд хамаарахгүй.\n\nХөгжүүлэгчдэд энэ нь шууд хэрэгтэй шинэчлэлт юм. Cache Components болон self-hosted байршуулалттай төслүүд онцгой анхаарах хэрэгтэй.",
-   "published": "2026-11-03T18:00:00Z",
-   "added": "2026-11-05T22:37:17Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d72e2316abd8ac03",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-ci-no-longer-requires-a-linked-vercel-project",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6TBLiyunUHOsnzTtW2EwQw/e56fc3a30e3546bd26834529383ac69f/image__64_.png",
-   "title": "Vercel CI no longer requires a linked Vercel project",
-   "summary_en": "Vercel CI can now run on a GitHub repository that has no Vercel project. Until now you had to create an empty project just to connect the repository. To enable it, you need: The Vercel GitHub App installed with access to the repository Your GitHub account connected to your Vercel account Write or admin permission on the repository Then, from a clone of the repository, run: CI is enabled for the team your CLI is set to. Pass --scope <team> to use a different one. From the next push, tasks run as configured in your repository. Private GitHub repositories only. Public repositories and other Git…",
-   "title_mn": "Vercel CI одоо Vercel төсөлгүйгээр GitHub repository дээр ажиллана",
-   "summary_mn": "Vercel CI одоо Vercel төсөл үүсгэхгүйгээр GitHub repository дээр ажиллах боломжтой боллоо. Одоогоор зөвхөн хувийн GitHub repository-д дэмжигдэнэ.",
-   "body_mn": "Өмнө нь Vercel CI ажиллуулахын тулд хоосон Vercel төсөл үүсгэж repository-гоо холбох шаардлагатай байв. Шинэ өөрчлөлтөөр энэ алхам шаардлагагүй болсон.\n\nАжиллуулахын тулд Vercel GitHub App-ыг repository-д эрхтэйгээр суулгасан, GitHub хаягаа Vercel хаягтай холбосон, repository дээр write эсвэл admin эрхтэй байх хэрэгтэй. Дараа нь repository-ийн clone дээрээс Vercel CLI-ээр холбох командыг ажиллуулна.\n\nCI нь CLI-ийн тохируулсан багт идэвхждэг бөгөөд өөр баг сонгох бол --scope сонголтыг ашиглана. Дараагийн push-оос эхлээд repository-д тохируулсан таскууд ажиллана.\n\nОдоогоор зөвхөн хувийн GitHub repository дэмжигдэж байгаа бөгөөд нийтийн repository болон бусад Git үйлчилгээ дэмжигдээгүй. Таскуудыг тохируулах талаар Vercel CI баримт бичгээс үзнэ үү.",
-   "published": "2026-11-03T18:00:00Z",
-   "added": "2026-11-05T22:37:17Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "aa5f6d4023340855",
-   "subtopic": "css-web",
-   "source": "CSS-Tricks",
-   "source_label": "CSS-Tricks",
-   "url": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
-   "image": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp",
-   "title": "Re-Implementing :nth-child() With Modern CSS",
-   "summary_en": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements. Re-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
-   "title_mn": "О орчин үеийн CSS болон style query ашиглан :nth-child()-г шинээр бүтээх нь",
-   "summary_mn": "Зохиогч CSS-ийн шинэ if() функц болон style query ашиглан :nth-child() сонгогчийг динамикаар утгаа өөрчлөх боломжтой болгон хэрхэн дахин бүтээж болохыг тайлбарлажээ.",
-   "body_mn": "Энэхүү нийтлэлд :nth-child() сонгогчийн утгыг хувьсагчаар шууд удирдаж, өөрчлөх боломжийг орчин үеийн CSS-ийн боломжуудаар хэрхэн шийдэх талаар харуулсан байна. Энэ нь ихэвчлэн практикт шаардлагагүй мэт санагдавч шинэ боломжуудыг туршиж суралцахад тустай юм.\n\nЖишээ болгон container дээр хувьсагч зарлаж, if() болон style() функцүүдийг хослуулан тодорхой индекс эсвэл муж бүхий элементүүдийг сонгож байна. Мөн mod() функцийг ашиглан тодорхой үржвэр бүхий элементүүдийг хялбархан шүүж болохыг харуулжээ.\n\nЭнэ арга нь кодын бүтцийг бага зэрэг давхардуулж харагдуулж болох талтай ч синтаксийг илүү уян хатан болгодог. Вэб хөгжүүлэгчид CSS-ийн шинэ боломжуудыг практикт хэрхэн ашиглаж болохыг ойлгоход энэхүү туршилт сонирхолтой бөгөөд хэрэгтэй мэдээлэл болно.",
-   "published": "2026-11-03T14:50:32Z",
-   "added": "2026-11-06T03:00:10Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6ce153507fa22338",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.43.0",
-   "image": "https://opengraph.githubassets.com/e3f3f9019cb06613b071e6fd9e4c6213287b1e01961a70e1894dca514d67cd9a/openai/openai-python/releases/tag/v3.43.0",
-   "title": "openai-python v3.43.0",
-   "summary_en": "3.43.0 (2026-11-03) Features api: expand Live Responses delegation tools ( #4233 ) ( f6e8480 ) responses: accumulate rich WebSocket progress ( #4224 ) ( 48cdad3 ) responses: add WebSocket lane overflow isolation ( #4225 ) ( 16bdad1 ) Chores deps: bump actions/setup-node from 4.4.0 to 7.1.0 ( #4229 ) ( abbfb27 ) deps: bump actions/setup-python from 7.0.0 to 7.1.0 ( #4232 ) ( 49f9a59 ) deps: bump pypa/gh-action-pypi-publish from 1.14.2 to 1.14.3 ( #4228 ) ( f43f29b )",
-   "title_mn": "openai-python v3.43.0 хувилбар шинэ боломжуудтайгаар гарлаа",
-   "summary_mn": "openai-python сангийн 3.43.0 хувилбар нь Live Responses делегацийн хэрэгслүүдийг өргөжүүлж, WebSocket дээр суурилсан дэвшилтэт боломжуудыг нэмжээ.",
-   "body_mn": "OpenAI python сангийн шинэ 3.43.0 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр хөгжүүлэгчдэд зориулсан хэд хэдэн чухал боломжууд нэмэгдсэн байна.\n\nҮүнд Live Responses делегацийн хэрэгслүүдийг өргөжүүлсэн бөгөөд WebSocket ашиглан явцын мэдээллийг хуримтлуулах, WebSocket lane overflow тусгаарлалт зэрэг техникийн сайжруулалтууд багтжээ.\n\nМөн GitHub Action болон бусад хамааралтай сангуудын хувилбаруудыг шинэчилсэн нь хөгжүүлэгчдийн ажиллах орчныг илүү тогтвортой болгож байна.",
-   "published": "2026-11-03T18:05:44Z",
-   "added": "2026-11-06T03:00:10Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4c700a9925383864",
-   "subtopic": "nextjs",
-   "source": "vercel/next.js",
-   "source_label": "vercel/next.js",
-   "url": "https://github.com/vercel/next.js/releases/tag/v15.5.29",
-   "image": "https://opengraph.githubassets.com/92f43d19c1336ebff4b1214fb8e5c354279dcea6285406635b1f94f868ec02d7/vercel/next.js/releases/tag/v15.5.29",
-   "title": "next.js v15.5.29",
-   "summary_en": "This release contains security fixes for the following advisories: Moderate Cross-client response injection and disclosure in self-hosted Next.js applications forwarding fetched responses SVG rejection bypass in Next.js image optimization HttpOnly cookie exposure through internal response header on Next.js Edge runtime routes",
-   "title_mn": "Next.js v15.5.29 хувилбар аюулгүй байдлын засвартайгаар гарлаа",
-   "summary_mn": "Next.js v15.5.29 хувилбар нь self-hosted аппликейшнүүдийн cross-client response injection болон SVG image optimization зэрэг аюулгүй байдлын эмзэг байдлуудыг заслаа.",
-   "body_mn": "Next.js фреймворкийн v15.5.29 засварын хувилбар гарсныг зарлалаа. Энэхүү хувилбар нь хөгжүүлэгчдийн анхаарах ёстой хэд хэдэн чухал эмзэг байдлыг зассан байна.\n\nҮүнд self-hosted Next.js аппликейшн дээрх cross-client response injection болон мэдээлэл задлах эрсдэл, зураг оновчлол дахь SVG rejection bypass зэрэг асуудлууд багтжээ. Мөн Edge runtime роутуудын хувьд HttpOnly күүкийн аюулгүй байдлыг сайжруулсан байна.\n\nЭнэхүү шинэчлэлт нь бүтээгдэхүүнийхээ аюулгүй байдлыг хангахад чухал ач холбогдолтой тул төслүүдээ яаралтай шинэчлэхийг зөвлөж байна.",
-   "published": "2026-11-03T18:38:27Z",
-   "added": "2026-11-06T03:00:10Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ce5fa60b13f17ee4",
-   "subtopic": "nextjs",
-   "source": "vercel/next.js",
-   "source_label": "vercel/next.js",
-   "url": "https://github.com/vercel/next.js/releases/tag/v16.4.5",
-   "image": "https://opengraph.githubassets.com/60001ec6e065d15ea99699c8c3130f30e7a6ca7f40011b7ac95945470aa112a3/vercel/next.js/releases/tag/v16.4.5",
-   "title": "next.js v16.4.5",
-   "summary_en": "This release contains security fixes for the following advisories: Moderate Cross-tenant sensitive information disclosure in Next.js 'use cache' when called through unstable_cache Cache leak across root param values in nested 'use cache' functions (follow-up) Cache poisoning of shared fallback shells in Cache Components via request-supplied placeholder route params Cross-user cache disclosure and poisoning in Next.js use cache with binary arguments Cross-client response injection and disclosure in self-hosted Next.js applications forwarding fetched responses SVG rejection bypass in Next.js…",
-   "title_mn": "Next.js v16.4.5 хувилбар cache болон аюулгүй байдлын засвартай гарлаа",
-   "summary_mn": "Next.js v16.4.5 хувилбар нь 'use cache' болон кэшлэлтийн эмзэг байдлуудыг засах чухал засваруудыг багтаажээ.",
-   "body_mn": "Next.js фреймворкийн v16.4.5 хувилбар худалдаанд гарч, кэш болон аюулгүй байдлын холбогдолтой олон чухал засваруудыг хүргэлээ. Энэхүү хувилбар нь хөгжүүлэгчдийн анхаарах ёстой эмзэг байдлуудыг шийдвэрлэсэн байна.\n\nҮүнд 'use cache' функц ашиглах үеийн cross-tenant мэдээлэл задлагдах эрсдэл, кэш хоорондын мэдээлэл алдагдах болон binary аргуудтай холбоотой кэш disclosure асуудлууд багтжээ. Мөн self-hosted хувилбаруудын cross-client response injection болон SVG optimization асуудлуудыг мөн зассан байна.\n\nЭнэхүү хувилбар нь кэшлэлтийн механизмыг өргөнөөр ашигладаг томоохон аппликейшнүүдэд нэн чухал шинэчлэлт болж байна.",
-   "published": "2026-11-03T18:38:39Z",
-   "added": "2026-11-06T03:00:10Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8d4357c4fd1cd453",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v44.10.2",
-   "image": "https://opengraph.githubassets.com/1fb5e9257b9742539953cd01e62ff1b439f1a4869c2817e2f71b77b2ec987c2a/electron/electron/releases/tag/v44.10.2",
-   "title": "electron v44.10.2",
-   "summary_en": "Release Notes for v44.10.2 Fixes Fixed a crash when using hidden window as the parent in Wayland. #55572 (Also in 43 , 45 , 46 ) Other Changes Backported fixes from upstream ANGLE, Chromium, libaom, libvpx, PDFium, Skia, V8 and WebRTC. #55515 Updated Node.js to v24.22.2. #55473",
-   "title_mn": "Electron v44.10.2 хувилбар гарлаа",
-   "summary_mn": "Electron v44.10.2 хувилбар Wayland орчин дахь алдааг засч, Node.js v24.22.2 болгон шинэчиллээ.",
-   "body_mn": "Electron хүрээний хөгжүүлэгчид v44.10.2 хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэчлэлтээр Wayland орчин дотор нууц цонхыг эцэг цонхоор ашиглах үед үүсдэг байсан гэнэтийн зогсолтын (crash) алдааг амжилттай зассан байна.\n\nМөн ANGLE, Chromium, libaom, libvpx, PDFium, Skia, V8 болон WebRTC зэрэг суурь сангаас гаргасан чухал засваруудыг энэхүү хувилбарт нэгтгэжээ.\n\nҮүний сацуу Node.js платформыг v24.22.2 хувилбар болгон шинэчилсэн нь хөгжүүлэгчдэд аюулгүй байдал болон тогтвортой байдлын сайжруулалтыг авчирч байна.",
-   "published": "2026-11-03T18:56:47Z",
-   "added": "2026-11-06T10:38:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a064bbfd00a70046",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v43.8.7",
-   "image": "https://opengraph.githubassets.com/fcf86544157e945a3f0e9e328a21f9003abd30a2495b596099be140ef1c11aaf/electron/electron/releases/tag/v43.8.7",
-   "title": "electron v43.8.7",
-   "summary_en": "Release Notes for v43.8.7 Fixes Fixed a crash when using hidden window as the parent in Wayland. #55569 (Also in 44 , 45 , 46 )",
-   "title_mn": "Electron v43.8.7 хувилбар гарлаа",
-   "summary_mn": "Electron v43.8.7 хувилбарт Wayland орчин дахь цонхны алдааг заслаа.",
-   "body_mn": "Electron баг v43.8.7 засварын хувилбарыг гаргалаа. Энэхүү хувилбар нь гол төлөв Wayland орчин дахь алдааг засахад чиглэжээ.\n\nТодруулбал, нууц цонхыг эцэг цонх болгон ашиглах үед гардаг байсан гэнэтийн зогсолтыг энэхүү хувилбараар зассан байна. Энэхүү засвар нь 44, 45, 46 хувилбаруудад мөн тусгагдсан болно.",
-   "published": "2026-11-03T18:56:48Z",
-   "added": "2026-11-06T10:38:43Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "d32338a1e65554ba",
    "subtopic": "electron",
    "source": "electron/electron",
@@ -956,6 +756,46 @@
    "published": "2026-11-05T08:00:00Z",
    "added": "2026-11-07T23:17:47Z",
    "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "14e90e72d3401ddf",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber",
+   "image": "",
+   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "summary_en": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+   "title_mn": "OpenAI кибер аюулгүй байдлын шинэ загвар GPT-6 Cyber-ийг танилцууллаа",
+   "summary_mn": "OpenAI эмзэг байдлыг илрүүлж засах чадвартай, зөвшөөрөгдсөн хүрээнд ажиллахаар тохируулагдсан GPT-6 Cyber моделио зарлалаа.",
+   "body_mn": "OpenAI компани системийн эмзэг байдлыг илрүүлж, аюулгүй байдлын засваруудыг боловсруулах зориулалттай GPT-6 Cyber загвараа албан ёсоор танилцууллаа. Энэхүү шинэ загвар нь кибер аюулгүй байдлын мэргэжилтнүүд болон хөгжүүлэгчдэд зориулсан тусгай агент юм.\n\nGPT-6 Cyber нь ашиглагдах боломжтой эмзэг цэгүүдийг бие даан илрүүлж, шаардлагатай засварын кодыг боловсруулах өндөр чадвартай. Хамгийн гол нь зөвхөн хэрэглэгчийн зөвшөөрсөн хүрээнд ажиллаж, ёс зүйн болон аюулгүй байдлын хязгаарлалтыг давахаас сэргийлсэн тохируулгатай бүтээгджээ.",
+   "published": "2026-11-05T09:00:00Z",
+   "added": "2026-11-08T02:36:56Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "823aed2e3614d00d",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Business Insider",
+   "url": "https://www.businessinsider.com/anthropic-engineer-addy-osmani-cognitive-surrender-warning-2026-11",
+   "image": "https://i.insider.com/6aeb404b9270da3cc6667f24?width=1200&format=jpeg",
+   "title": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work",
+   "summary_en": "\"When you can't explain the answer to a question, even by way of your agent, you've ceded ownership,\" Claude Code engineer Addy Osmani wrote.",
+   "title_mn": "Anthropic-ийн инженер AI хэрэгслээс шалтгаалсан сэтгэхүйн сулралын талаар анхааруулав",
+   "summary_mn": "Claude Code багийн инженер Addy Osmani AI агентуудад хэт найдах нь инженерүүдийн шүүмжлэлт сэтгэлгээг сулруулж байгааг анхаарууллаа.",
+   "body_mn": "Anthropic компанийн Claude Code багийн инженер Addy Osmani өдөр тутмын ажил нь AI агентууд руу шилжих тусам хөгжүүлэгчдийн шүүмжлэлт сэтгэлгээ суларч буйг анхааруулжээ. Тэрээр агентуудыг бүрэн ашиглаж, өөрийн гардан бичих кодыг эрс цөөлсөн ч өдөр тутмын ажилд гүн бодох шаардлага багасаж байгааг онцолсон байна.\n\nТүүний тайлбарласнаар AI ашиглалтад гурван түвшин байдаг: ажлыг даалгасан ч эцсийн хяналтыг гартаа байлгах (cognitive offloading), AI-ийн гаргасан үр дүнг шууд дараагийн алхам болгох (deferral), мөн загварын хариултад бүрэн найдах буюу танин мэдэхүйн бууж өгөлт (cognitive surrender). Сүүлийн хэлбэрийг байнга давтах нь хөгжүүлэгчийн ур чадварыг доройтуулах эрсдэлтэй гэж тэрээр үзэж байна.\n\nOsmani инженерүүдийг AI ашиглахаа зогсоох биш, харин код шалгах циклийг зуршил болгож, хариултыг хүлээж авахаасаа өмнө таамаглал дэвшүүлдэг байхыг уриалжээ. Чухал биш даалгавруудыг бүрэн даалгаж болох ч системийн үндсэн логик болон хариултыг тайлбарлаж чадахаа болих нь эрсдэлтэйг тэрээр сануулсан байна.",
+   "published": "2026-11-05T10:00:00Z",
+   "added": "2026-11-08T02:36:56Z",
+   "ai": "gemini:gemini-3.8-flash",
    "score": 3
   }
  }
