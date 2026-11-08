@@ -1,0 +1,17 @@
+{
+ "id": "a7a49b442f2da86a",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.47.0",
+ "image": "https://opengraph.githubassets.com/8f2ae3fc4a08219017ce66bc409b0da2cecbc0d9328edd4996ed722d56f29bab/openai/openai-python/releases/tag/v3.47.0",
+ "title": "openai-python v3.47.0",
+ "summary_en": "3.47.0 (2026-11-05) Features api: add a model option for Responses ( #4249 ) ( 090098f )",
+ "title_mn": "openai-python v3.47.0: Responses API-д model сонголт нэмэгдлээ",
+ "summary_mn": "OpenAI-ийн Python SDK-ийн 3.47.0 хувилбар 2026 оны 11-р сарын 5-нд гарсан. Хувилбарт Responses API-д model сонголтыг нэмсэн шинэчлэл багтжээ.",
+ "body_mn": "OpenAI-ийн rasmi Python SDK openai-python-ийн 3.47.0 хувилбар 2026 оны 11-р сарын 5-нд гарсан. Энэ хувилбарын changelog-д гол шинэчлэл нь Responses API-д model параметрийг нэмсэн явдал юм.\n\nChangelog-д зөвхөн \"api: add a model option for Responses\" гэсэн нэг feature бичигдсэн байна. Pull request дугаар #4249 болон commit 090098f-ийг холбон харуулсан. Нарийн параметрийн нэр, өгөгдмөл утга зэрэг дэлгэрэнгүй мэдээлэл энэ текстэд байхгүй.\n\nDeveloper-ийн хувьд SDK-г шинэчлэх нь Responses API дуудлагадаа model-ийг шууд тодорхойлох боломжтой болгож байна. Хэрэв таны код одоо model-ийг өөр аргаар тохируулж байгаа бол шинэ хувилбарт шилжихээс өмнө changelog-оо шалгаарай.",
+ "published": "2026-11-05T18:04:10Z",
+ "added": "2026-11-08T16:27:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

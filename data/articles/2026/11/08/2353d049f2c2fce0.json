@@ -1,0 +1,17 @@
+{
+ "id": "2353d049f2c2fce0",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2ZF3gzAxqGfFmHG5jCSOoa/1c99ef7ca41798b01e1a8a2273f38f65/schedules-og.png",
+ "title": "Vercel Schedules is now in public beta",
+ "summary_en": "Vercel Schedules is now in public beta on all plans. Run tasks on a recurring cadence or at a single point in time, in production, preview, or custom environments. Schedules in vercel.json can target a private Vercel Function, an HTTP path, or a Vercel Queue topic, and schedules created at runtime target a Queue topic. Any schedule can be enabled, disabled, or run on demand without redeploying. Define a static schedule: Adding a schedule/v1beta trigger makes the function private. It has no public URL and only the Vercel schedule infrastructure can invoke it. Handle the dispatch: Create a…",
+ "title_mn": "Vercel Schedules нийтийн бета хувилбараар бүх төлөвлөгөөнд боломжтой боллоо",
+ "summary_mn": "Vercel Schedules бүх төлөвлөгөөнд нийтийн бетагаар гарлаа. Давтамжтай эсвэл нэг удаагийн ажлуудыг production, preview болон өөрчилсөн орчинд ажиллуулах боломжтой. Энэ нь Cron Jobs-ийн залгамжлагч юм.",
+ "body_mn": "Vercel Schedules бүх төлөвлөгөөнд нийтийн бета хувилбараар боломжтой боллоо. Үүгээр давтамжтай эсвэл нэг цэгт ажиллах ажлуудыг production, preview болон өөрчилсөн орчинд төлөвлөх боломжтой.\n\nvercel.json дотор тохируулсан schedule нь private Vercel Function, HTTP зам эсвэл Vercel Queue topic руу чиглэж болно. Ажлын үед үүсгэсэн schedule нь Queue topic руу чиглэнэ. Schedule-ийг дахин deploy хийлгүйгээр идэвхжүүлэх, идэвхгүй болгох, шууд ажиллуулах боломжтой.\n\nschedule/v1beta trigger нэмэхэд функц нь private болж, зөвхөн Vercel schedule дэд бүтэц дуудах боломжтой. Dispatch-ийг @vercel/schedules багцын handleSchedule-ээр боловсруулна.\n\nҮнийн хувьд Pro болон Enterprise төлөвлөгөөнд 1 сая ажиллагаа 5 доллар, 1 сая үүсгэлт 10 доллар. Hobby төлөвлөгөөнд сард 500 үүсгэлт, 5000 ажиллагаа үнэгүй. Cron Jobs-тэй хамт ажиллах бөгөөд шилжүүлэх гарын авлага бий.",
+ "published": "2026-11-05T17:00:00Z",
+ "added": "2026-11-08T16:27:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

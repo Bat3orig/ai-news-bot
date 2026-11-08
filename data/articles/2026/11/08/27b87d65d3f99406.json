@@ -1,0 +1,17 @@
+{
+ "id": "27b87d65d3f99406",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
+ "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+ "summary_en": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+ "title_mn": "Gemini Omni 1.2 Flash: 15 секундын видеог илүү хямд үнээр гаргах боломжтой боллоо",
+ "summary_mn": "Google Gemini Omni 1.2 Flash загварыг Gemini API болон Gemini for business дээр ерөнхийдөө боломжтой болгожээ. Загвар 15 секундын видео үүсгэх, олон шатт яриагаар засах боломжийг санал болгож, үнэ өмнөхөөсөө 30%-иар буурсан.",
+ "body_mn": "Google Gemini Omni 1.2 Flash загварыг Gemini API болон Gemini for business дээр ерөнхийдөө боломжтой болгож эхэллээ. Шинэ загвар нь уугуул 15 секундын видео үүсгэх, олон шатт харилцан ярианаар видеог засах, лавлагаа зургийг илүү сайн дагах чадвартай.\n\nҮнийн хувьд 720p видеоны секунд тутмын үнэ 0.07 доллар бөгөөд Omni 1.1-тэй харьцуулахад 30%-иар буурсан. Хөгжүүлэгчид 360p эсвэл 720p-ээр хурдан драфт гаргаж, дараа нь 1080p эсвэл 4K хүртэл өсгөх ажлын урсгалыг ашиглаж зардлаа бууруулах боломжтой.\n\nӨмнөх хувилбарт видеоны урт 10 секунд байсан бол одоо 3-15 секундын хооронд секунд тутмаар тохируулах боломжтой. Зураг, богино хөдөлгөөний клип болон аудио дохиогоор генерацийг чиглүүлэх боломжтой бөгөөд дүрийн болон бүтээгдэхүүний дүрс эхнээс төгсгөл хүртэл тогтвортой байна.\n\nЭнэ нь бүтээгдэхүүний видео реклам, каталогийн видео, виртуал оёдлын туршилт зэрэг програмд API-аар интеграц хийх хөгжүүлэгчдэд шууд ашигтай. Үнэ, урт, засварлах боломж гурвын хувьд өөрчлөлт нь API дуудалтын зардал болон ажлын урсгалд шууд нөлөөлнө.",
+ "published": "2026-11-05T17:00:00Z",
+ "added": "2026-11-08T16:27:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "e2ba23cdc2c8dae2",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+ "image": "https://github.blog/wp-content/uploads/2026/01/4ba0cd42388a255e04c78e5143548f22e577d68e0f15f68e6a3c76c18b927981-1920x1080-1.png",
+ "title": "Inside GitHub’s new Git storage architecture",
+ "summary_en": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.",
+ "title_mn": "GitHub шинэ Git хадгалалтын архитектурынхаа дэлгэрэнгүйг нийтлэв",
+ "summary_mn": "GitHub нь агент хөгжүүлэлтэд зориулсан шинэ Git хадгалалтын архитектураа танилцуулав. Туршилтад нэг repo дээр 5,000 зэрэгцээ агент, секундэд 7,200 push-ийг давсан гэжээ.",
+ "body_mn": "GitHub GitHub Universe дээр шинэ Git хадгалалтын архитектураа зарлаж, дэлгэрэнгүйг blog-оор нийтэлжээ. Дотоод туршилтаар нэг repository дээр 5,000 зэрэгцээ агент ажиллаж, секундэд 7,200 push хийгдэх боломжтойг харуулсан гэж мэдээлсэн.\n\nГол зарчим нь нэг бичилт бүр зохион байгуулалт шаарддаггүй гэдэгт суурилна. Git объектууд immutable тул хоёр бичээч зэрэг хадгалж болно. Харин reference шинэчлэлт л санал нийцэл шаарддаг. Энэ нь storage, serving, repository удирдлагыг бие даан масштабжуулах боломж олгодог.\n\nҮүнээс гадна 99.99999% repository-г Azure руу шилжүүлж, Azure Blob Storage дээр суурилсан virtual replica-г нэвтрүүлсэн. Хөгжүүлэгчдэд Git өөрөө хэвээр байх бөгөөд push, fetch, branch-ийн хэрэглээ өөрчлөгдөхгүй гэж онцолжээ. Цуврал нийтлэлийн эхний хэсэг учраас дэлгэрэнгүй техникийн мэдээлэл дараагийн постуудад багтана.",
+ "published": "2026-11-05T20:23:21Z",
+ "added": "2026-11-08T16:27:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

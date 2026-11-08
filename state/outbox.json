@@ -678,5 +678,105 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "27b87d65d3f99406",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "summary_en": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+   "title_mn": "Gemini Omni 1.2 Flash: 15 секундын видеог илүү хямд үнээр гаргах боломжтой боллоо",
+   "summary_mn": "Google Gemini Omni 1.2 Flash загварыг Gemini API болон Gemini for business дээр ерөнхийдөө боломжтой болгожээ. Загвар 15 секундын видео үүсгэх, олон шатт яриагаар засах боломжийг санал болгож, үнэ өмнөхөөсөө 30%-иар буурсан.",
+   "body_mn": "Google Gemini Omni 1.2 Flash загварыг Gemini API болон Gemini for business дээр ерөнхийдөө боломжтой болгож эхэллээ. Шинэ загвар нь уугуул 15 секундын видео үүсгэх, олон шатт харилцан ярианаар видеог засах, лавлагаа зургийг илүү сайн дагах чадвартай.\n\nҮнийн хувьд 720p видеоны секунд тутмын үнэ 0.07 доллар бөгөөд Omni 1.1-тэй харьцуулахад 30%-иар буурсан. Хөгжүүлэгчид 360p эсвэл 720p-ээр хурдан драфт гаргаж, дараа нь 1080p эсвэл 4K хүртэл өсгөх ажлын урсгалыг ашиглаж зардлаа бууруулах боломжтой.\n\nӨмнөх хувилбарт видеоны урт 10 секунд байсан бол одоо 3-15 секундын хооронд секунд тутмаар тохируулах боломжтой. Зураг, богино хөдөлгөөний клип болон аудио дохиогоор генерацийг чиглүүлэх боломжтой бөгөөд дүрийн болон бүтээгдэхүүний дүрс эхнээс төгсгөл хүртэл тогтвортой байна.\n\nЭнэ нь бүтээгдэхүүний видео реклам, каталогийн видео, виртуал оёдлын туршилт зэрэг програмд API-аар интеграц хийх хөгжүүлэгчдэд шууд ашигтай. Үнэ, урт, засварлах боломж гурвын хувьд өөрчлөлт нь API дуудалтын зардал болон ажлын урсгалд шууд нөлөөлнө.",
+   "published": "2026-11-05T17:00:00Z",
+   "added": "2026-11-08T16:27:50Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2353d049f2c2fce0",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2ZF3gzAxqGfFmHG5jCSOoa/1c99ef7ca41798b01e1a8a2273f38f65/schedules-og.png",
+   "title": "Vercel Schedules is now in public beta",
+   "summary_en": "Vercel Schedules is now in public beta on all plans. Run tasks on a recurring cadence or at a single point in time, in production, preview, or custom environments. Schedules in vercel.json can target a private Vercel Function, an HTTP path, or a Vercel Queue topic, and schedules created at runtime target a Queue topic. Any schedule can be enabled, disabled, or run on demand without redeploying. Define a static schedule: Adding a schedule/v1beta trigger makes the function private. It has no public URL and only the Vercel schedule infrastructure can invoke it. Handle the dispatch: Create a…",
+   "title_mn": "Vercel Schedules нийтийн бета хувилбараар бүх төлөвлөгөөнд боломжтой боллоо",
+   "summary_mn": "Vercel Schedules бүх төлөвлөгөөнд нийтийн бетагаар гарлаа. Давтамжтай эсвэл нэг удаагийн ажлуудыг production, preview болон өөрчилсөн орчинд ажиллуулах боломжтой. Энэ нь Cron Jobs-ийн залгамжлагч юм.",
+   "body_mn": "Vercel Schedules бүх төлөвлөгөөнд нийтийн бета хувилбараар боломжтой боллоо. Үүгээр давтамжтай эсвэл нэг цэгт ажиллах ажлуудыг production, preview болон өөрчилсөн орчинд төлөвлөх боломжтой.\n\nvercel.json дотор тохируулсан schedule нь private Vercel Function, HTTP зам эсвэл Vercel Queue topic руу чиглэж болно. Ажлын үед үүсгэсэн schedule нь Queue topic руу чиглэнэ. Schedule-ийг дахин deploy хийлгүйгээр идэвхжүүлэх, идэвхгүй болгох, шууд ажиллуулах боломжтой.\n\nschedule/v1beta trigger нэмэхэд функц нь private болж, зөвхөн Vercel schedule дэд бүтэц дуудах боломжтой. Dispatch-ийг @vercel/schedules багцын handleSchedule-ээр боловсруулна.\n\nҮнийн хувьд Pro болон Enterprise төлөвлөгөөнд 1 сая ажиллагаа 5 доллар, 1 сая үүсгэлт 10 доллар. Hobby төлөвлөгөөнд сард 500 үүсгэлт, 5000 ажиллагаа үнэгүй. Cron Jobs-тэй хамт ажиллах бөгөөд шилжүүлэх гарын авлага бий.",
+   "published": "2026-11-05T17:00:00Z",
+   "added": "2026-11-08T16:27:50Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a7a49b442f2da86a",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.47.0",
+   "image": "https://opengraph.githubassets.com/8f2ae3fc4a08219017ce66bc409b0da2cecbc0d9328edd4996ed722d56f29bab/openai/openai-python/releases/tag/v3.47.0",
+   "title": "openai-python v3.47.0",
+   "summary_en": "3.47.0 (2026-11-05) Features api: add a model option for Responses ( #4249 ) ( 090098f )",
+   "title_mn": "openai-python v3.47.0: Responses API-д model сонголт нэмэгдлээ",
+   "summary_mn": "OpenAI-ийн Python SDK-ийн 3.47.0 хувилбар 2026 оны 11-р сарын 5-нд гарсан. Хувилбарт Responses API-д model сонголтыг нэмсэн шинэчлэл багтжээ.",
+   "body_mn": "OpenAI-ийн rasmi Python SDK openai-python-ийн 3.47.0 хувилбар 2026 оны 11-р сарын 5-нд гарсан. Энэ хувилбарын changelog-д гол шинэчлэл нь Responses API-д model параметрийг нэмсэн явдал юм.\n\nChangelog-д зөвхөн \"api: add a model option for Responses\" гэсэн нэг feature бичигдсэн байна. Pull request дугаар #4249 болон commit 090098f-ийг холбон харуулсан. Нарийн параметрийн нэр, өгөгдмөл утга зэрэг дэлгэрэнгүй мэдээлэл энэ текстэд байхгүй.\n\nDeveloper-ийн хувьд SDK-г шинэчлэх нь Responses API дуудлагадаа model-ийг шууд тодорхойлох боломжтой болгож байна. Хэрэв таны код одоо model-ийг өөр аргаар тохируулж байгаа бол шинэ хувилбарт шилжихээс өмнө changelog-оо шалгаарай.",
+   "published": "2026-11-05T18:04:10Z",
+   "added": "2026-11-08T16:27:50Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c190694f83b49aa7",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/anthropic-introduces-read-only-personal-finance-beta-in-claude/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-introduces-read-only-personal-finance-beta-in-claude.jpg",
+   "title": "Anthropic Introduces Read-Only Personal Finance Beta in Claude",
+   "summary_en": "Anthropic announced Personal Finance in Claude on November 5, 2026, introducing a beta that lets eligible US subscribers connect financial accounts through Plaid and ask questions about their balances, transactions and s...",
+   "title_mn": "Anthropic Claude-д унших эрхтэй Personal Finance бета туршилтыг эхлүүлжээ",
+   "summary_mn": "Anthropic 2026 оны 11-р сарын 5-нд Claude-д санхүүгийн мэдээллийг зөвхөн унших Personal Finance бетаг зарлав. Plaid-ээр дамжуулан АНУ-ын Pro, Max, Ultra хэрэглэгчид холбогдох боломжтой.",
+   "body_mn": "Anthropic 2026 оны 11-р сарын 5-нд Claude-д Personal Finance гэсэн бета функцийг зарлав. Энэ функцээр АНУ-ын эligible хэрэглэгчид банк болон бусад санхүүгийн дансаа Plaid-ээр холбож, үлдэгдэл, гүйлгээ, зарцуулалтын талаар асуулт асууж болно. Функц зөвхөн уншихад зориулагдсан бөгөөд Claude мөнгө шилжүүлэх, удирдах, хөрөнгө оруулах боломжгүй.\n\nТуршилт аажмаар нээгдэж байгаа бөгөөд зөвхөн Pro, Max, Ultra тарифтай хэрэглэгчдэд, web, Claude Desktop, iOS болон Android аппликейшнд явагдана. Free, Team, Enterprise тарифууд хамрагдахгүй. Anthropic-ийн жишээнд нийт 4,309.37 долларын зарлагыг ангилж, сарын хооронд харьцуулах зэрэг боломжууд харагдсан.\n\nХөгжүүлэгчдэд ач холбогдол нь Claude-ийн хэрэглэгчийн мэдээлэлтэй ажиллах шинэ хэрэглээний талбар нэмэгдэж буйд оршино. Гэхдээ өгөгдөл чатын түүхэд хадгалагдах, шared link-ээр мэдээлэл алдагдах эрсдэл зэрэг нууцлалын нөхцлүүдийг анхаарах хэрэгтэй.",
+   "published": "2026-11-05T18:17:02Z",
+   "added": "2026-11-08T16:27:50Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e2ba23cdc2c8dae2",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Blog",
+   "source_label": "GitHub Blog",
+   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+   "image": "https://github.blog/wp-content/uploads/2026/01/4ba0cd42388a255e04c78e5143548f22e577d68e0f15f68e6a3c76c18b927981-1920x1080-1.png",
+   "title": "Inside GitHub’s new Git storage architecture",
+   "summary_en": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.",
+   "title_mn": "GitHub шинэ Git хадгалалтын архитектурынхаа дэлгэрэнгүйг нийтлэв",
+   "summary_mn": "GitHub нь агент хөгжүүлэлтэд зориулсан шинэ Git хадгалалтын архитектураа танилцуулав. Туршилтад нэг repo дээр 5,000 зэрэгцээ агент, секундэд 7,200 push-ийг давсан гэжээ.",
+   "body_mn": "GitHub GitHub Universe дээр шинэ Git хадгалалтын архитектураа зарлаж, дэлгэрэнгүйг blog-оор нийтэлжээ. Дотоод туршилтаар нэг repository дээр 5,000 зэрэгцээ агент ажиллаж, секундэд 7,200 push хийгдэх боломжтойг харуулсан гэж мэдээлсэн.\n\nГол зарчим нь нэг бичилт бүр зохион байгуулалт шаарддаггүй гэдэгт суурилна. Git объектууд immutable тул хоёр бичээч зэрэг хадгалж болно. Харин reference шинэчлэлт л санал нийцэл шаарддаг. Энэ нь storage, serving, repository удирдлагыг бие даан масштабжуулах боломж олгодог.\n\nҮүнээс гадна 99.99999% repository-г Azure руу шилжүүлж, Azure Blob Storage дээр суурилсан virtual replica-г нэвтрүүлсэн. Хөгжүүлэгчдэд Git өөрөө хэвээр байх бөгөөд push, fetch, branch-ийн хэрэглээ өөрчлөгдөхгүй гэж онцолжээ. Цуврал нийтлэлийн эхний хэсэг учраас дэлгэрэнгүй техникийн мэдээлэл дараагийн постуудад багтана.",
+   "published": "2026-11-05T20:23:21Z",
+   "added": "2026-11-08T16:27:50Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]
