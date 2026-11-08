@@ -1,0 +1,17 @@
+{
+ "id": "0778fb85d9153ba6",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+ "image": "https://github.blog/wp-content/uploads/2026/11/696868472-6c036efb-44d8-4ca7-babf-92362eeca4f2.jpeg",
+ "title": "Usage metrics API flags telemetry and version gaps",
+ "summary_en": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in…",
+ "title_mn": "GitHub Copilot usage metrics API нь телеметр болон хувилбарын дутууг илрүүлдэг боллоо",
+ "summary_mn": "Copilot usage metrics API одоо клиент телеметргүй болон хуучин IDE эсвэл extension хувилбартай хэрэглэгчдийг харуулдаг. Шинэ талбарууд enterprise болон organization тайланд нэмэгдлээ.",
+ "body_mn": "GitHub Copilot usage metrics API нь клиент телеметргүй хэрэглэгчид болон IDE эсвэл extension-ийн доод хувилбараас доош ажиллаж буй хэрэглэгчдийг харуулах шинэ талбаруудтай боллоо. Эдгээр талбар нь enterprise болон organization тайланд хэрэглэгч бүрт, өдөр бүр нөлөөлсөн хэрэглэгчдийн тоотой нэмэгдсэн.\n\nТелеметргүй хэрэглэгч нь идэвхтэй гэж тооцогддог боловч мөрийн тоо, feature болон моделийн задаргаа гэх мэт дэлгэрэнгүй мэдээлэл байхгүй. Үүний шалтгаан нь хуучин editor эсвэл extension, IDE-ийн телеметр идэвхгүй байх, proxy болон firewall-ууд event-ийг блоклох зэрэг байж болно.\n\nЭнэ өөрчлөлт нь администраторуудад хэн дээр асуудал байгааг тодорхой харуулж, дэмжлэгийн хүсэлтгүйгээр засварлах боломжийг олгоно. Хөгжүүлэгч биш ч Copilot-ийг байгууллагад ашигладаг багуудад хэрэгтэй.",
+ "published": "2026-11-06T00:08:31Z",
+ "added": "2026-11-08T20:41:02Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

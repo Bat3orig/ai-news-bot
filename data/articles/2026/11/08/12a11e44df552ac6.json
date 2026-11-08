@@ -1,0 +1,17 @@
+{
+ "id": "12a11e44df552ac6",
+ "subtopic": "packages",
+ "source": "React Status",
+ "source_label": "React Status",
+ "url": "https://react.statuscode.com/issues/496",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ouvobggjw2zmigv3z8xx.jpg",
+ "title": "Redux Toolkit's road to 3.0",
+ "summary_en": "#​496 — November 6, 2026 Read on the Web React Status Discord Dropping Electron and React Native for a Rust Rewrite — Discord, one of React Native's best-known users, is moving away, with its CTO 𝕏 showing off a Rust desktop client built on GPUI using 290MB of RAM, with mobile keeping native UI over Rust code shared with the desktop client. Tom Warren (The Verge) ▶️ Just prior to this reveal, Software Mansion interviewed Discord's Chas Jhin about how React Native development works at Discord's scale, in the ominously titled 'Maybe React Native Is Impossible' . Run AI Coding Models on Your…",
+ "title_mn": "Redux Toolkit 3.0, Parcel 3 Alpha, Next.js Go route handler болон Discord-ийн Rust шилжилт",
+ "summary_mn": "React Status долоо хоногийн тойм: Redux Toolkit 3.0-ийн замын зураглал, Parcel 3 Alpha Rust дээр, Next.js-ийн туршилтын Go route handler зэрэг гол мэдээ.",
+ "body_mn": "Redux Toolkit-ийн зам зураглалд RTK 3.0 нь ойролцоогоор зургаа-найман сарын дараа ESM-only болж, React 19-ийн хэмжээтэй breaking өөрчлөлттэй гарах гэж байна. Үүнээс өмнө 2.x хувилбарууд суурь ажлыг хийнэ. Parcel 3 Alpha нь Rust binary дээр суурилсан бөгөөд React Compiler, Tailwind, MDX-ийг шууд дэмждэг. Хүйтэн build нь v2-оос 100 дахин хурдан гэж мэдээлсэн.\n\nNext.js нь App Router-ийн route-ийг route.go файлаар бичих туршилтын PR-ийг нэгтгэжээ. Үүнийг Turbopack хөрвүүлж, Go-оор ажилладаг worker-т ажиллуулна. Мөн 2026 оны 11-р сарын аюулгүй байдлын шинэчлэл гарсан тул 16.4.5 эсвэл 15.5.29 хувилбар руу шинэчлэх хэрэгтэй.\n\nVercel Data Cache-ийг Runtime Cache руу нэгтгэж, шинэ унших, бичих үнийн загвар гаргажээ. Discord нь Electron болон React Native-аас Rust дээр суурилсан клиент рүү шилжиж буйг мэдээлсэн. Мөн Vega OS SDK 2.0 гарсан нь React Compiler болон Hermes v1-ийг дэмжинэ.\n\nЭнэ тойм нь хөгжүүлэгчдэд хэрэгтэй олон шинэ сан, шинэчлэлийг нэг дор харуулдаг.",
+ "published": "2026-11-06T00:00:00Z",
+ "added": "2026-11-08T20:41:02Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

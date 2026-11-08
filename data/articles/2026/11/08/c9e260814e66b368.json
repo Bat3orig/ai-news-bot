@@ -1,0 +1,17 @@
+{
+ "id": "c9e260814e66b368",
+ "subtopic": "vibe-coding",
+ "source": "Cursor Changelog",
+ "source_label": "Cursor Changelog",
+ "url": "https://cursor.com/changelog/voice-chat",
+ "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
+ "title": "Voice Chat with Agents",
+ "summary_en": "Talk with your agents in a realtime voice call on desktop, web, and iOS.",
+ "title_mn": "Cursor-т агенттай бодит цагийн дуут чат нэмэгдлээ",
+ "summary_mn": "Cursor хэрэглэгчид агенттайгаа дуугаар ярилцаж, өөрчлөлт тайлбарлаж, явцын мэдээлэл сонсох боломжтой боллоо. Үүнийг Agents Window, IDE, web болон iOS дээр ашиглана.",
+ "body_mn": "Cursor нь агенттайгаа бодит цагийн дуудлагаар ярих боломжийг нэмсэн. Хэрэглэгч дуугаар өөрчлөлт тайлбарлаж, агент юу хийж байгааг асууж, явцын шинэчлэлийг сонсож болно. Энэ нь Agents Window, IDE, web болон Cursor for iOS дээр ажиллана.\n\nAgent idle байгаа үед чатын талбар хоосон байвал Send товчны хажууд байрлах Start voice chat гэсэн долгионы товчийг дарна. iOS дээр \"Hey Siri, call Cursor\" гэж хэлж шинэ агенттай дуудлага эхлүүлж, Lock Screen-ээс Live Activity-ээр дуугүй болгох эсвэл таслах боломжтой.\n\nДуу чат Grok Voice дээр ажилладаг бөгөөд Voice settings-ээс олон дуу сонгож болно. Privacy Mode асаалттай үед zero data retention горимоор ажиллана. Энэ нь өмнөх Voice Mode гэж нэрлэгдэж байсан dictation-оос ялгаатай, хоёр талын харилцаа юм.\n\nХөгжүүлэгчид Cursor-ийг шинэчилж, docs-оос дэлгэрэнгүй уншиж туршиж үзэх боломжтой.",
+ "published": "2026-11-06T00:00:00Z",
+ "added": "2026-11-08T20:41:02Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}

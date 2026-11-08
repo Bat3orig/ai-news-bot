@@ -1,0 +1,17 @@
+{
+ "id": "525555dfe497cbaa",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+ "image": "https://github.blog/wp-content/uploads/2026/11/696871374-0c1024be-79ea-4fd2-a050-2b8f2df34847.jpeg",
+ "title": "Usage metrics API adds code review details and addressed rate",
+ "summary_en": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed…",
+ "title_mn": "GitHub Copilot хэрэглээний метрик API код хяналтын нарийвчилсан мэдээллийг нэмл.",
+ "summary_mn": "GitHub Copilot-ын хэрэглээний метрик API нь код хяналтын санал хүсэлтийн үр дүн болон хөгжүүлэгчдийн хэрэгжүүлсэн хувийг харуулдаг боллоо. Ингэснээр хөгжүүлэгчид Copilot-ын тусламжтай хэрхэн ажиллаж байгааг нарийвчлан хянах боломжтой болж байна.",
+ "body_mn": "GitHub байгууллага болон аж ахуйн нэгжийн түвшний Copilot хэрэглээний метрик тайландаа шинэ боломж нэмлээ. Үүнд тухайн репозитори дээр Copilot-ын шалгасан pull request-үүд хүний өөрчлөлтгүйгээр шууд нэгдсэн эсэх болон хөгжүүлэгчид хяналтын сэтгэгдэл дээр хэрхэн ажилласныг харуулдаг copilot_code_review объект нэмэгджээ.\n\nЭнэхүү шинэ талбарууд нь хөгжүүлэгчид код хяналтын саналыг бодитойгоор ашиглаж байгаа эсэх, ямар төрлийн сэтгэгдлүүд илүү үр дүнтэй байгааг хянах боломж олгодог. Мөн захиалгат заавар, чадвар болон MCP серверүүд ямар ялгаа авчирч байгааг шинжлэхэд тусална.\n\nБагууд энэхүү функцээр дамжуулан Copilot-ын кодад үзүүлж буй нөлөөллийг илүү бодитойгоор хэмжих боломжтой болж байна. Дэлгэрэнгүй мэдээллийг Copilot хэрэглээний метрик API-ийн баримт бичгээс авах боломжтой.",
+ "published": "2026-11-06T00:19:07Z",
+ "added": "2026-11-08T20:41:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

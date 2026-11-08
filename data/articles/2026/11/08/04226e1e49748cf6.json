@@ -1,0 +1,17 @@
+{
+ "id": "04226e1e49748cf6",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Anthropic",
+ "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+ "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0c1a04cc7042949252ee54565755780fe21d5ecf-1200x630.jpg",
+ "title": "How scientists use Claude",
+ "summary_en": "We analyzed 207,000 research sessions to learn how Claude is used in science, why some tasks get more use than others, and how AI could speed up discovery.",
+ "title_mn": "Anthropic: Эрдэмтэд Claude-г хэрхэн ашиглаж буйн судалгаа",
+ "summary_mn": "Anthropic эрдэм шинжилгээний ажилд Claude, Claude Code болон Claude Science-г хэрхэн ашиглаж буйг судлав. Мэдээллийн шинжилгээ, бичвэр бичихэд хамгийн их ашигладаг гэж тайлагнасан.",
+ "body_mn": "Anthropic эрдэмтдийн Claude-ийн хэрэглээг хамгаалагдсан өгөгдлийн дэд бүтцээр судалсан тайланг нийтэлжээ. Тайлангийн дагуу компьютерийн шинжлэх ухаан, математик, статистик зэрэг албан ёсны шинжлэх ухаанд Claude хүн амаас харьцангуй илүү ашиглагддаг. Харин эрүүл мэнд болон лабораторид суурилсан физикийн салбарт бага ашиглагддаг.\n\nЭрдэмтэд Claude-г өгөгдөл шинжлэх болон бичиг баримт бичихэд илүү ашигладаг бол өгөгдөл цуглуулах, таамаглал гаргахад бага ашигладаг гэжээ. Энэ нь салбар бүрийн даалгаврын шинж чанартай холбоотой гэж тайланд дурджээ.\n\nТайланд одоогийн чадварын түвшиндээ зарим салбарт судалгааны гаралт хоёр дахин нэмэгдэж болно гэсэн тооцоо багтжээ. Хамгийн их нөлөөтэй салбар нь AI-г бүтээдэг салбарууд байж магадгүй гэж үзсэн нь хөгжүүлэгчдэд ч сонирхолтой байна.\n\nЭнэ тайлан нь шууд бүтээгдэхүүний шинэчлэл биш ч AI хэрэглээний хэв маягийг ойлгоход ашигтай мэдээлэл юм.",
+ "published": "2026-11-05T23:29:34Z",
+ "added": "2026-11-08T20:41:02Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

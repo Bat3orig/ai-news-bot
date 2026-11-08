@@ -778,5 +778,145 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "04226e1e49748cf6",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Anthropic",
+   "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0c1a04cc7042949252ee54565755780fe21d5ecf-1200x630.jpg",
+   "title": "How scientists use Claude",
+   "summary_en": "We analyzed 207,000 research sessions to learn how Claude is used in science, why some tasks get more use than others, and how AI could speed up discovery.",
+   "title_mn": "Anthropic: Эрдэмтэд Claude-г хэрхэн ашиглаж буйн судалгаа",
+   "summary_mn": "Anthropic эрдэм шинжилгээний ажилд Claude, Claude Code болон Claude Science-г хэрхэн ашиглаж буйг судлав. Мэдээллийн шинжилгээ, бичвэр бичихэд хамгийн их ашигладаг гэж тайлагнасан.",
+   "body_mn": "Anthropic эрдэмтдийн Claude-ийн хэрэглээг хамгаалагдсан өгөгдлийн дэд бүтцээр судалсан тайланг нийтэлжээ. Тайлангийн дагуу компьютерийн шинжлэх ухаан, математик, статистик зэрэг албан ёсны шинжлэх ухаанд Claude хүн амаас харьцангуй илүү ашиглагддаг. Харин эрүүл мэнд болон лабораторид суурилсан физикийн салбарт бага ашиглагддаг.\n\nЭрдэмтэд Claude-г өгөгдөл шинжлэх болон бичиг баримт бичихэд илүү ашигладаг бол өгөгдөл цуглуулах, таамаглал гаргахад бага ашигладаг гэжээ. Энэ нь салбар бүрийн даалгаврын шинж чанартай холбоотой гэж тайланд дурджээ.\n\nТайланд одоогийн чадварын түвшиндээ зарим салбарт судалгааны гаралт хоёр дахин нэмэгдэж болно гэсэн тооцоо багтжээ. Хамгийн их нөлөөтэй салбар нь AI-г бүтээдэг салбарууд байж магадгүй гэж үзсэн нь хөгжүүлэгчдэд ч сонирхолтой байна.\n\nЭнэ тайлан нь шууд бүтээгдэхүүний шинэчлэл биш ч AI хэрэглээний хэв маягийг ойлгоход ашигтай мэдээлэл юм.",
+   "published": "2026-11-05T23:29:34Z",
+   "added": "2026-11-08T20:41:02Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "806e32dbedfa7e5e",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/humans-and-ampersand-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/18CgCYFxjOjnQJt7A7QCml/ac681af1f15dbf06deef9a3596150a6b/image.png",
+   "title": "Ampersand from Humans& now available on AI Gateway",
+   "summary_en": "Ampersand from Humans& is now available on AI Gateway for free through November 13, 2026. Ampersand is a model for group conversations. Humans& built Ampersand on Z.ai 's open-weight GLM 5.3 and trained it with reinforcement learning in simulated group conversations that run for up to months of simulated time. Most chat models are built for one person asking a question and the model answering it. Ampersand is trained to take part in a conversation between several people. It reads every message, including the ones not addressed to it, and after each one it decides whether to reply or stay…",
+   "title_mn": "Ampersand загварыг Vercel AI Gateway дээр 2026 оны 11-р сарын 13 хүртэл үнэгүй ашиглах боломжтой боллоо",
+   "summary_mn": "Humans& компанийн бүлгийн чатад зориулсан Ampersand загвар AI Gateway дээр нээлттэй боллоо. Загвар нь Z.ai-ийн GLM 5.3 дээр суурилсан бөгөөд humansand/ampersand-v0.1 нэрээр дуудна.",
+   "body_mn": "Vercel AI Gateway дээр Humans& компанийн Ampersand загварыг 2026 оны 11-р сарын 13 хүртэл үнэгүй ашиглах боломжтой болсон. Загвар нь Z.ai-ийн нээлттэй жинтэй GLM 5.3 дээр суурилж, бүлгийн яриан дээр reinforcement learning-ээр сургагдсан.\n\nЭнэ загвар нь олон хүнтэй харилцаанд оролцож, бүх мессежийг уншина. Мессеж бүрийн дараа хариулах эсвэл чимээгүй байхаа шийддэг. Хэрэглэгчийн хүсэлт, эсрэг санал зөрүүг ойлгож, шаардлагатай үед асуулт асууж эсвэл контекст нэмдэг. Загварыг AI SDK, OpenAI-тай нийцтэй Chat Completions API болон кодын агентаар дуудаж болно.\n\nХөгжүүлэгчид send_message болон pass гэсэн хоёр функцийг өөрсдийн хэрэглээнд тодорхойлж, гүйцэтгэдэг. Claude Code, Codex, Cursor зэрэг агентад Vercel CLI-р тохируулж болно.\n\nAI Gateway нь моделийн үнэд нэмэлт маржин авдаггүй, BYOK хүсэлтэд ч платформын хураамж авдаггүй гэдгийг онцолсон.",
+   "published": "2026-11-06T00:00:00Z",
+   "added": "2026-11-08T20:41:02Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "12a11e44df552ac6",
+   "subtopic": "packages",
+   "source": "React Status",
+   "source_label": "React Status",
+   "url": "https://react.statuscode.com/issues/496",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ouvobggjw2zmigv3z8xx.jpg",
+   "title": "Redux Toolkit's road to 3.0",
+   "summary_en": "#​496 — November 6, 2026 Read on the Web React Status Discord Dropping Electron and React Native for a Rust Rewrite — Discord, one of React Native's best-known users, is moving away, with its CTO 𝕏 showing off a Rust desktop client built on GPUI using 290MB of RAM, with mobile keeping native UI over Rust code shared with the desktop client. Tom Warren (The Verge) ▶️ Just prior to this reveal, Software Mansion interviewed Discord's Chas Jhin about how React Native development works at Discord's scale, in the ominously titled 'Maybe React Native Is Impossible' . Run AI Coding Models on Your…",
+   "title_mn": "Redux Toolkit 3.0, Parcel 3 Alpha, Next.js Go route handler болон Discord-ийн Rust шилжилт",
+   "summary_mn": "React Status долоо хоногийн тойм: Redux Toolkit 3.0-ийн замын зураглал, Parcel 3 Alpha Rust дээр, Next.js-ийн туршилтын Go route handler зэрэг гол мэдээ.",
+   "body_mn": "Redux Toolkit-ийн зам зураглалд RTK 3.0 нь ойролцоогоор зургаа-найман сарын дараа ESM-only болж, React 19-ийн хэмжээтэй breaking өөрчлөлттэй гарах гэж байна. Үүнээс өмнө 2.x хувилбарууд суурь ажлыг хийнэ. Parcel 3 Alpha нь Rust binary дээр суурилсан бөгөөд React Compiler, Tailwind, MDX-ийг шууд дэмждэг. Хүйтэн build нь v2-оос 100 дахин хурдан гэж мэдээлсэн.\n\nNext.js нь App Router-ийн route-ийг route.go файлаар бичих туршилтын PR-ийг нэгтгэжээ. Үүнийг Turbopack хөрвүүлж, Go-оор ажилладаг worker-т ажиллуулна. Мөн 2026 оны 11-р сарын аюулгүй байдлын шинэчлэл гарсан тул 16.4.5 эсвэл 15.5.29 хувилбар руу шинэчлэх хэрэгтэй.\n\nVercel Data Cache-ийг Runtime Cache руу нэгтгэж, шинэ унших, бичих үнийн загвар гаргажээ. Discord нь Electron болон React Native-аас Rust дээр суурилсан клиент рүү шилжиж буйг мэдээлсэн. Мөн Vega OS SDK 2.0 гарсан нь React Compiler болон Hermes v1-ийг дэмжинэ.\n\nЭнэ тойм нь хөгжүүлэгчдэд хэрэгтэй олон шинэ сан, шинэчлэлийг нэг дор харуулдаг.",
+   "published": "2026-11-06T00:00:00Z",
+   "added": "2026-11-08T20:41:02Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c9e260814e66b368",
+   "subtopic": "vibe-coding",
+   "source": "Cursor Changelog",
+   "source_label": "Cursor Changelog",
+   "url": "https://cursor.com/changelog/voice-chat",
+   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
+   "title": "Voice Chat with Agents",
+   "summary_en": "Talk with your agents in a realtime voice call on desktop, web, and iOS.",
+   "title_mn": "Cursor-т агенттай бодит цагийн дуут чат нэмэгдлээ",
+   "summary_mn": "Cursor хэрэглэгчид агенттайгаа дуугаар ярилцаж, өөрчлөлт тайлбарлаж, явцын мэдээлэл сонсох боломжтой боллоо. Үүнийг Agents Window, IDE, web болон iOS дээр ашиглана.",
+   "body_mn": "Cursor нь агенттайгаа бодит цагийн дуудлагаар ярих боломжийг нэмсэн. Хэрэглэгч дуугаар өөрчлөлт тайлбарлаж, агент юу хийж байгааг асууж, явцын шинэчлэлийг сонсож болно. Энэ нь Agents Window, IDE, web болон Cursor for iOS дээр ажиллана.\n\nAgent idle байгаа үед чатын талбар хоосон байвал Send товчны хажууд байрлах Start voice chat гэсэн долгионы товчийг дарна. iOS дээр \"Hey Siri, call Cursor\" гэж хэлж шинэ агенттай дуудлага эхлүүлж, Lock Screen-ээс Live Activity-ээр дуугүй болгох эсвэл таслах боломжтой.\n\nДуу чат Grok Voice дээр ажилладаг бөгөөд Voice settings-ээс олон дуу сонгож болно. Privacy Mode асаалттай үед zero data retention горимоор ажиллана. Энэ нь өмнөх Voice Mode гэж нэрлэгдэж байсан dictation-оос ялгаатай, хоёр талын харилцаа юм.\n\nХөгжүүлэгчид Cursor-ийг шинэчилж, docs-оос дэлгэрэнгүй уншиж туршиж үзэх боломжтой.",
+   "published": "2026-11-06T00:00:00Z",
+   "added": "2026-11-08T20:41:02Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0778fb85d9153ba6",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+   "image": "https://github.blog/wp-content/uploads/2026/11/696868472-6c036efb-44d8-4ca7-babf-92362eeca4f2.jpeg",
+   "title": "Usage metrics API flags telemetry and version gaps",
+   "summary_en": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in…",
+   "title_mn": "GitHub Copilot usage metrics API нь телеметр болон хувилбарын дутууг илрүүлдэг боллоо",
+   "summary_mn": "Copilot usage metrics API одоо клиент телеметргүй болон хуучин IDE эсвэл extension хувилбартай хэрэглэгчдийг харуулдаг. Шинэ талбарууд enterprise болон organization тайланд нэмэгдлээ.",
+   "body_mn": "GitHub Copilot usage metrics API нь клиент телеметргүй хэрэглэгчид болон IDE эсвэл extension-ийн доод хувилбараас доош ажиллаж буй хэрэглэгчдийг харуулах шинэ талбаруудтай боллоо. Эдгээр талбар нь enterprise болон organization тайланд хэрэглэгч бүрт, өдөр бүр нөлөөлсөн хэрэглэгчдийн тоотой нэмэгдсэн.\n\nТелеметргүй хэрэглэгч нь идэвхтэй гэж тооцогддог боловч мөрийн тоо, feature болон моделийн задаргаа гэх мэт дэлгэрэнгүй мэдээлэл байхгүй. Үүний шалтгаан нь хуучин editor эсвэл extension, IDE-ийн телеметр идэвхгүй байх, proxy болон firewall-ууд event-ийг блоклох зэрэг байж болно.\n\nЭнэ өөрчлөлт нь администраторуудад хэн дээр асуудал байгааг тодорхой харуулж, дэмжлэгийн хүсэлтгүйгээр засварлах боломжийг олгоно. Хөгжүүлэгч биш ч Copilot-ийг байгууллагад ашигладаг багуудад хэрэгтэй.",
+   "published": "2026-11-06T00:08:31Z",
+   "added": "2026-11-08T20:41:02Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "525555dfe497cbaa",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+   "image": "https://github.blog/wp-content/uploads/2026/11/696871374-0c1024be-79ea-4fd2-a050-2b8f2df34847.jpeg",
+   "title": "Usage metrics API adds code review details and addressed rate",
+   "summary_en": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed…",
+   "title_mn": "GitHub Copilot хэрэглээний метрик API код хяналтын нарийвчилсан мэдээллийг нэмл.",
+   "summary_mn": "GitHub Copilot-ын хэрэглээний метрик API нь код хяналтын санал хүсэлтийн үр дүн болон хөгжүүлэгчдийн хэрэгжүүлсэн хувийг харуулдаг боллоо. Ингэснээр хөгжүүлэгчид Copilot-ын тусламжтай хэрхэн ажиллаж байгааг нарийвчлан хянах боломжтой болж байна.",
+   "body_mn": "GitHub байгууллага болон аж ахуйн нэгжийн түвшний Copilot хэрэглээний метрик тайландаа шинэ боломж нэмлээ. Үүнд тухайн репозитори дээр Copilot-ын шалгасан pull request-үүд хүний өөрчлөлтгүйгээр шууд нэгдсэн эсэх болон хөгжүүлэгчид хяналтын сэтгэгдэл дээр хэрхэн ажилласныг харуулдаг copilot_code_review объект нэмэгджээ.\n\nЭнэхүү шинэ талбарууд нь хөгжүүлэгчид код хяналтын саналыг бодитойгоор ашиглаж байгаа эсэх, ямар төрлийн сэтгэгдлүүд илүү үр дүнтэй байгааг хянах боломж олгодог. Мөн захиалгат заавар, чадвар болон MCP серверүүд ямар ялгаа авчирч байгааг шинжлэхэд тусална.\n\nБагууд энэхүү функцээр дамжуулан Copilot-ын кодад үзүүлж буй нөлөөллийг илүү бодитойгоор хэмжих боломжтой болж байна. Дэлгэрэнгүй мэдээллийг Copilot хэрэглээний метрик API-ийн баримт бичгээс авах боломжтой.",
+   "published": "2026-11-06T00:19:07Z",
+   "added": "2026-11-08T20:41:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "30f209ecd6c49478",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3AZR3NtzCWP6v0OwTd1gAI/5c65b1f32d3aa739b0503ae4a739696e/image.png",
+   "title": "Token Pass credit now applies automatically across AI Gateway",
+   "summary_en": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and providers. When Token Pass credit runs out for the billing period, requests from a standard key or OIDC token fall back to your team's AI Gateway credits. Token Pass keys still stop until the next billing period. Requests served through the Token Pass provider remain Zero Data…",
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-06T01:00:00Z",
+   "added": "2026-11-08T20:41:02Z",
+   "ai": "",
+   "score": null
+  }
  }
 ]

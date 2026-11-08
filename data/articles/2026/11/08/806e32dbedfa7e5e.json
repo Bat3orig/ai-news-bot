@@ -1,0 +1,17 @@
+{
+ "id": "806e32dbedfa7e5e",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/humans-and-ampersand-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/18CgCYFxjOjnQJt7A7QCml/ac681af1f15dbf06deef9a3596150a6b/image.png",
+ "title": "Ampersand from Humans& now available on AI Gateway",
+ "summary_en": "Ampersand from Humans& is now available on AI Gateway for free through November 13, 2026. Ampersand is a model for group conversations. Humans& built Ampersand on Z.ai 's open-weight GLM 5.3 and trained it with reinforcement learning in simulated group conversations that run for up to months of simulated time. Most chat models are built for one person asking a question and the model answering it. Ampersand is trained to take part in a conversation between several people. It reads every message, including the ones not addressed to it, and after each one it decides whether to reply or stay…",
+ "title_mn": "Ampersand загварыг Vercel AI Gateway дээр 2026 оны 11-р сарын 13 хүртэл үнэгүй ашиглах боломжтой боллоо",
+ "summary_mn": "Humans& компанийн бүлгийн чатад зориулсан Ampersand загвар AI Gateway дээр нээлттэй боллоо. Загвар нь Z.ai-ийн GLM 5.3 дээр суурилсан бөгөөд humansand/ampersand-v0.1 нэрээр дуудна.",
+ "body_mn": "Vercel AI Gateway дээр Humans& компанийн Ampersand загварыг 2026 оны 11-р сарын 13 хүртэл үнэгүй ашиглах боломжтой болсон. Загвар нь Z.ai-ийн нээлттэй жинтэй GLM 5.3 дээр суурилж, бүлгийн яриан дээр reinforcement learning-ээр сургагдсан.\n\nЭнэ загвар нь олон хүнтэй харилцаанд оролцож, бүх мессежийг уншина. Мессеж бүрийн дараа хариулах эсвэл чимээгүй байхаа шийддэг. Хэрэглэгчийн хүсэлт, эсрэг санал зөрүүг ойлгож, шаардлагатай үед асуулт асууж эсвэл контекст нэмдэг. Загварыг AI SDK, OpenAI-тай нийцтэй Chat Completions API болон кодын агентаар дуудаж болно.\n\nХөгжүүлэгчид send_message болон pass гэсэн хоёр функцийг өөрсдийн хэрэглээнд тодорхойлж, гүйцэтгэдэг. Claude Code, Codex, Cursor зэрэг агентад Vercel CLI-р тохируулж болно.\n\nAI Gateway нь моделийн үнэд нэмэлт маржин авдаггүй, BYOK хүсэлтэд ч платформын хураамж авдаггүй гэдгийг онцолсон.",
+ "published": "2026-11-06T00:00:00Z",
+ "added": "2026-11-08T20:41:02Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
