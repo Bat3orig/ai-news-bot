@@ -1,0 +1,17 @@
+{
+ "id": "cc9249299f5d778e",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+ "image": "https://github.blog/wp-content/uploads/2026/11/698051474-0d2c8b20-3218-4997-9ca1-ca913297b62f.jpeg",
+ "title": "Copilot code review: API management and review overview updates",
+ "summary_en": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,…",
+ "title_mn": "GitHub Copilot код хяналтын API болон тойм шинэчлэгдл?",
+ "summary_mn": "GitHub Copilot код хяналтын тохиргоог REST болон GraphQL API-гаар удирдах боломжтой боллоо. Мөн тойм сэтгэгдэл илүү хураангуй болж, шинэ санал хүсэлт өгөх боломж нэмэгдсэн байна.",
+ "body_mn": "GitHub Copilot код хяналтын (code review) тохиргоог одоо байгууллагын бодлогоос эхлээд бие даасан репозитор хүртэл REST болон GraphQL API-гаар дамжуулан удирдах боломжтой боллоо. Эдгээр шинэчлэлт нь Copilot Pro, Business болон Enterprise төлөвлөгөө хэрэглэгчдэд нээлттэй байна.\n\nКод хяналтын тойм (review overview) илүү хураангуй болж, олдсон үр дүнгүүдийг нэг дор харуулах болжээ. Хэрэв үр дүнтэй санал нийлэхгүй эсвэл сэтгэгдэл хэт урт байвал 👎 товчийг дарж шалтгааныг сонгон санал хүсэлтээ өгөх боломжтой бөгөөд энэ нь Copilot-ийн ажиллагааг сайжруулахад ашиглагдана.\n\nAPI-гийн шинэ боломжуудыг ашиглахын тулд администраторын эрх шаардлагатай бөгөөд REST API нь вэб интерфейстэй ижил төвөгтэй байдлын түвшнийг дэмждэг. Гэсэн хэдий ч байгууллагын тохиргооны төслүүд нь GitHub Apps эсвэл нарийн тохируулсан token-уудыг хараахан дэмжихгүй байгааг анхаарах хэрэгтэй.",
+ "published": "2026-11-07T00:27:19Z",
+ "added": "2026-11-09T17:12:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

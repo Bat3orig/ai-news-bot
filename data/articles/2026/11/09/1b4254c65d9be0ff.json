@@ -1,0 +1,17 @@
+{
+ "id": "1b4254c65d9be0ff",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7GBRL4iPtI99gtYPzGUJgT/89543d900cd8337eb22bb11c9712218c/image.png",
+ "title": "Chat SDK agents can now stream generative UI with json-render",
+ "summary_en": "You can now stream generative UI from your Chat SDK agent with json-render . With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapter then posts the card in its platform’s native format, such as Block Kit on Slack and Adaptive Cards on Teams. The catalog covers tables, charts, buttons, and more, so there’s no separate tool to build and maintain for each message shape. Stream cards as the model writes streamCard posts the card once its root element has content and updates the message as new elements stream in. Edits go out…",
+ "title_mn": "Chat SDK агентүүд json-render ашиглан UI стрим хийх боломжтой боллоо",
+ "summary_mn": "Vercel-ийн Chat SDK нь json-render ашиглан генератив UI стрим хийх боломжтой болсныг зарлалаа. Энэ нь агентүүдэд Slack болон Teams платформ дээрх карточка хэлбэрээр мэдээлэл харуулах боломж олгоно.",
+ "body_mn": "Vercel платформын шинэчлэлтээр Chat SDK агентүүд json-render сангийн тусламжтайгаар генератив буюу динамик хэрэглэгчийн интерфейсийг (UI) бодит цаг хугацаанд стрим хийх боломжтой боллоо. Хөгжүүлэгчид компонентуудын төрөлжсөн каталог ашиглан JSON спецификац бичих бөгөөд үүнийг json-render нь Chat SDK карт руу хөрвүүлдэг байна.\n\nЭнэхүү шинэ функц нь Slack дээрх Block Kit болон Teams дээрх Adaptive Cards зэрэг платформ бүрийн уугуул формат руу автоматаар хөрвүүлж харуулдаг. Ингэснээр мессеж бүрт зориулж тусдаа хэрэгсэл үүсгэж, хөгжүүлж, засвар үйлчилгээ хийх шаардлагагүй болж байна.\n\nМөн streamCard болон toCard функцуудын тусламжтайгаар датаны бүрэн бүтэн байдлыг шалгаж, гарсан алдааг загвар (model) руу буцаан залруулах боломжтой. Хөгжүүлэгчид баримт бичигтэй танилцаж эсвэл тоглоомын талбар (playground) дээр туршиж үзэх боломжтой юм.",
+ "published": "2026-11-06T21:00:00Z",
+ "added": "2026-11-09T17:12:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "e596bcb992c50d91",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1niBXkJBLE2dMacHn111Tu/ceeb7fab36345234afbffffdb9587a83/image__110_.png",
+ "title": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
+ "summary_en": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This model can generate upwards of 1,000 tokens per second . Ultrafast serves the October 17 update of DeepSeek V4.1 Flash through Fireworks' accelerated serverless endpoint. It is suited to interactive coding, reasoning, and agentic workflows where applications need to generate output and move to the next step quickly. The model has a 1M-token context window for working with large codebases and long inputs. It is available in public preview without a waitroom or session time limit. Use it by setting…",
+ "title_mn": "DeepSeek V4.1 Flash Ultrafast загвар AI Gateway дээр ашиглах боломжтой боллоо",
+ "summary_mn": "DeepSeek V4.1 Flash 1017 Ultrafast загвар AI Gateway дээр нэмэгдсэн бөгөөд секундэд 1,000 гаруй токен үүсгэх хурдтайгаар ажиллах юм.",
+ "body_mn": "DeepSeek V4.1 Flash 1017 Ultrafast загвар Fireworks сервэрээр дамжин AI Gateway дээр албан ёсоор нэмэгдлээ. Энэхүү загвар нь секундэд 1,000 гаруй токен генераци хийх чадвартай бөгөөд интерактив код бичих, логик бодолт болон агентэд суурилсан ажлын урсгалд маш тохиромжтой юм.\n\nУг загвар нь 1 сая токенийн контекст цонхтой бөгөөд том хэмжээний кодын сан болон урт оролтын өгөгдөлтэй ажиллахад зориулагдсан байна. Хөгжүүлэгчид хамгийн сүүлийн үеийн Vercel CLI суулган deepseek/deepseek-v4.1-flash-1017-ultrafast нэрээр тохируулан ашиглах боломжтой.\n\nAI Gateway нь үйлчилгээ үзүүлэгчийн үнийг ямар нэгэн нэмэгдэлгүйгээр хүргэдэг бөгөөд Zero DataRetention дэмжлэг, аппликейшний найдвартай ажиллагааг хангахад туслах олон төрлийн тохиргоог санал болгодог байна.",
+ "published": "2026-11-07T00:00:00Z",
+ "added": "2026-11-09T17:12:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

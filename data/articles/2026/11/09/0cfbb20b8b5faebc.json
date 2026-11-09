@@ -1,0 +1,17 @@
+{
+ "id": "0cfbb20b8b5faebc",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+ "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo-stripe.png",
+ "title": "Beyond code generation: A developer’s guide to agentic engineering",
+ "summary_en": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.",
+ "title_mn": "Код бичихээс цааш: Агентэд суурилсан инженерчлэлийн хөтөч",
+ "summary_mn": "GitHub дээрх коммитын тоо дээд амжилт тогтоож буй энэ үед хөгжүүлэгчид агентийн тусламжтайгаар төлөвлөх, бүтээн байгуулах, шалгах үе шатыг хэрхэн оновчтой болгох талаар өгүүлжээ.",
+ "body_mn": "Энэ оны аравдугаар сард GitHub дээрх долоо хоногийн коммитын тоо 1.2 тэрбумаас давж, өмнөх оны мөн үеэс 400 хувиар өсжээ. Гэсэн хэдий ч код бичих хурд нэмэгдсэн ч хөгжүүлэгчдийн бүтээмж үүнтэй зэрэгцэн өссөн эсэх нь анхаарал татаж байна. Faros AI-ийн судалгаагаар хиймэл оюун ухааныг өргөнөөр ашиглах үед пул хүсэлтүүдийг (PR) шалгах хугацаа мэдэгдэхүйц удааширчээ.\n\nПрограм хангамж бүтээхэд ганцхан санал болгох prompt бичихээс илүүтэй төлөвлөх, хэрэгжүүлэх, шалгах, хянах зэрэг олон үе шат шаардлагатай байдаг. GitHub Copilot зэрэг хэрэгслүүд нь олон төрлийн эх сурвалжаас контекстийг нэгтгэж, хөгжүүлэгчдэд төлөвлөгөө гаргах, шийдвэр гаргахад тусалдаг.\n\nЭнэхүү нийтлэл нь хөгжүүлэгчдэд агентийн тусламжтайгаар хэрхэн илүү үр дүнтэй ажиллаж, кодын стандартаа алдалгүйгээр төслөө хугацаанд нь хүргэх талаар практик зөвлөгөөг өгч байна.",
+ "published": "2026-11-06T22:15:59Z",
+ "added": "2026-11-09T17:12:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

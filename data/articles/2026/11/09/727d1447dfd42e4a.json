@@ -1,0 +1,17 @@
+{
+ "id": "727d1447dfd42e4a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "FourWeekMBA",
+ "url": "https://fourweekmba.com/ai-anthropic-claude-dreaming-took-wiki-score-from-13-to-48/",
+ "image": "https://i0.wp.com/fourweekmba.com/wp-content/uploads/2026/11/chart_w1301-1.png?fit=1200%2C1200&ssl=1",
+ "title": "Anthropic: Claude ‘Dreaming’ Took Wiki Score From 13% to 48%",
+ "summary_en": "95,000+ executives read Business Engineer for the AI strategy frameworks cited by ChatGPT, Claude, and Perplexity. A note on sourcing. All results are from Anthropic’s engineering post “The components of agent memory” by Lance Martin, published 6 November 2026, and come from Anthropic’s own evaluations. The 46 times and 35-point figures are our arithmetic. We […]",
+ "title_mn": "Anthropic: Claude-ийн санах ойн шинэчлэлт гүйцэтгэлийг эрс сайжруулав",
+ "summary_mn": "Anthropic компани Claude агентийн санах ойн менежмент болон \"dreaming\" буюу өмнөх алдаагаа дүгнэж санах ойгоо цэгцлэх чадварын талаар инженерчлэлийн шинэ мэдээлэл нийтэлжээ.",
+ "body_mn": "Anthropic компани агентийн санах ойн бүтэц болон сесс хооронд мэдээллээ хадгалах аргуудын талаар шинэ инженерчлэлийн нийтлэл гаргажээ. Тэдний тодорхойлсноор \"dreaming\" буюу санах ойн өгөгдлийг цэгцлэх процесс нь Claude-ийн баримт бичгээс мэдээлэл хайх, дүн шинжилгээ хийх чадварыг эрс сайжруулдаг байна.\n\nТуршилтаар Claude-ийн санах ойн сессийн тоог нэмэгдүүлэхэд томоохон баримт бичгийн хүрээнд гүйцэтгэх чадвар нь 13 хувиас 48 хувь хүртэл өссөн байна. Энэ нь зөвхөн загварын хувилбараас гадна санах ойг хэрхэн зохион байгуулж, шалгаж байгаагаас агентийн үр дүн шууд хамаарч байгааг харуулж байна.\n\nЭнэхүү шинэчлэлт нь хиймэл оюун ухааны агентийн хөгжүүлэлтэд чухал алхам болж байгаа бөгөөд хөгжүүлэгчдэд агентийнхаа контекст болон санах ойн удирдлагыг илүү ухаалгаар тохируулах боломжийг олгож байна.",
+ "published": "2026-11-06T21:29:44Z",
+ "added": "2026-11-09T17:12:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "eb1486319416969d",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/XjRrN5hZhlEhKtaKK82HX/21cb9a2fc8061a972c50e795f492248a/Vercel_x_DeepSeek.png",
+ "title": "AI Gateway adds DeepSeek Search and Fetch tools",
+ "summary_en": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway . Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read. Use both tools with any model that supports tool calling, using one AI Gateway API key. No separate DeepSeek account is required, and you can keep the same tools when switching model providers. These helpers are available in AI SDK 6.0.321 and later on v6, or 7.0.160 and later on v7. Update with pnpm add ai@latest and set your AI_GATEWAY_API_KEY . To combine search and page retrieval, pass both…",
+ "title_mn": "AI Gateway руу DeepSeek Search болон Fetch хэрэгслүүд нэмэгдлээ",
+ "summary_mn": "Vercel-ийн AI Gateway үйлчилгээнд DeepSeek Search болон Fetch хэрэгслүүд нэмэгдлээ. Энэ нь хөгжүүлэгчдэд вэб хуудас хайх болон контентыг Markdown формат руу татаж унших боломж олгодог.",
+ "body_mn": "Vercel компани өөрийн AI Gateway платфорстоо DeepSeek Search болон DeepSeek Fetch хэрэгслүүдийг албан ёсоор нэмсэн байна. Search хэрэгсэл нь холбогдох вэб хуудсыг гарчиг, URL болон хураангуй мэдээллийн хамт олдог бол Fetch хэрэгсэл нь хуудасны агуулгыг загварт (model) уншихад хялбар Markdown формат руу хөрвүүлж татаж авдаг.\n\nЭдгээр хэрэгслүүдийг AI Gateway-ийн ганцхан API түлхүүр ашиглан тусдаа DeepSeek аккаунт шаардлагагүйгээр ашиглах боломжтой. AI SDK 6 болон 7 хувилбаруудыг ашиглан эдгээр хэрэгслийг хялбархан нэгтгэх боломжтой бөгөөд хайлтын болон контент татах үйлчилгээ тус бүр 1,000 хүсэлт тутамд 0.75 ам.долларын үнэтэй байна.\n\nAI Gateway нь загваруудыг дуудах, ашиглалт болон өртгийг хянах, алдаа гарсан үед дахин оролдох болон чиглүүлэлтийг тохируулах нэгдсэн API-аар хангадаг бөгөөд хөгжүүлэгчдэд бүтээмж өндөртэй ажиллах нөхцөлийг бүрдүүлж байна.",
+ "published": "2026-11-06T21:00:00Z",
+ "added": "2026-11-09T17:12:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

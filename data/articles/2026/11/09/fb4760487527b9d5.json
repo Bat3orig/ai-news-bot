@@ -1,0 +1,17 @@
+{
+ "id": "fb4760487527b9d5",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5nTuYmLKAP5U6aTI3wr4oq/983b7c0fd00a1bd3c09b6bd3b33e9de1/image__71_.png",
+ "title": "Vercel CLI can now set new projects to expire",
+ "summary_en": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI prints the date and time when the project expires. The flag only applies when vercel deploy creates the project. If you deploy to an existing project with the flag, its expiration doesn't change and the CLI prints a warning. To remove a project's expiration, run vercel project…",
+ "title_mn": "Vercel CLI дээр түр төслүүдэд ашиглагдах хугацаа тохируулах боломжтой боллоо",
+ "summary_mn": "Vercel CLI-д vercel deploy команд ашиглан шинэ төсөл үүсгэхэд автоматаар устах хугацаа тохируулах боломж нэмэгдл.",
+ "body_mn": "Vercel хөгжүүлэгчид зориулж vercel deploy команд дээр --delete-project-after флагийг нэмж гаргалаа. Энэхүү шинэ боломжийн тусламжтайгаар прототип, демо болон туршилтын аппликейшнуудыг гар аргаар цэвэрлэх шаардлагагүйгээр автоматаар устгах хугацааг тохируулах боломжтой болж байна.\n\nДэмжигдэх хугацааны сонголтуудад 1h, 1d, 1w, 2w болон 30d багтаж байгаа бөгөөд команд ажиллах үед төсөл хэзээ устах цаг хугацааг хэвлэж харуулна. Энэхүү флаг нь зөвхөн шинэ төсөл үүсгэх үед л үйлчлэх ба аль хэдийн үүссэн төсөлд ашиглавал ямар нэгэн өөрчлөлт орохгүй бөгөөд анхааруулга өгөх аж.\n\nХэрэв төслийн хугацаа дуусч устахаас сэргийлж хадгалахыг хүсвэл vercel project keep командыг ашиглаж болно. Энэхүү шинэчлэлтийг ашиглахын тулд Vercel CLI-г v65.12.0 эсвэл түүнээс дээш хувилбар руу шинэчлэх шаардлагатай.",
+ "published": "2026-11-06T18:00:00Z",
+ "added": "2026-11-09T17:12:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
