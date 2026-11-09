@@ -1,0 +1,17 @@
+{
+ "id": "4d594555ff87ccd7",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.4.0",
+ "image": "https://opengraph.githubassets.com/8ef808c2dd7cd26b81d3df7cd1294531fe479ad49c6d975a0179010fec3e31c7/nestjs/nest/releases/tag/v12.4.0",
+ "title": "nest v12.4.0",
+ "summary_en": "v12.4.0 (2026-11-06) Features platform-node #18396 feat(node): let the node adapter set locals for every view ( @thekhegay ) Bug fixes microservices #18418 fix(microservices): ignore an mqtt server's own replies under wildcards ( @pavstev ) #18413 fix(microservices): reach handlers whose string pattern reads as json ( @pavstev ) #18392 fix(microservices): forward grpc call options on request streams ( @DenisCDev ) #18393 fix(microservices): await the mqtt close and reset the client state ( @hktitof ) common #18419 fix(common): keep the fields of grouped item errors in parse array pipe (…",
+ "title_mn": "NestJS v12.4.0: MQTT, Node, Fastify болон middleware-ийн олон алдааг засав",
+ "summary_mn": "NestJS-ийн v12.4.0 хувилбар microservices, Node, Fastify болон core хэсгийн олон алдааг засч, Node адаптер дээр шинэ боломж нэмжээ. Серверийн хөгжүүлэгчдэд шинэчлэх нь ашигтай.",
+ "body_mn": "NestJS v12.4.0 хувилбар 2026 оны 11 дүгээр сарын 6-нд гарсан. Хувилбарт Node адаптерт view-д локал утга тохируулах боломж нэмэгдсэн бөгөөд node-ийн view нэрийг шийдэх, render хийх хэсгүүдэд засвар орсон.\n\nМикросервисийн хэсэгт MQTT серверийн хариултыг үл тоох, gRPC дуудлагын сонголтыг request stream дээр дамжуулах, MQTT холболтыг хаах үйлдлийг засварлав. Core хэсэгт middleware-ийг subpath дээр зөв ажиллуулах, provider override-ийн утгыг зөв хэрэглэх зэрэг засвар бий.\n\nМөн express, node, fastify-д rxjs-ийг peer dependency болгож тохируулсан нь суулгалтад нөлөөлж болно. Хөгжүүлэгчид package.json-оо шалгаж, microservices болон static файлын тохиргоогоо туршиж үзэх хэрэгтэй.",
+ "published": "2026-11-06T10:11:54Z",
+ "added": "2026-11-09T06:58:00Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
