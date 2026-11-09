@@ -1,0 +1,17 @@
+{
+ "id": "e44b8ea4fb07e373",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
+ "image": "https://opengraph.githubassets.com/e642310791af8c3f5ca73158f8f407b144eb2fc1d2e48a916ccef1c68c9d4163/ollama/ollama/releases/tag/v0.40.15",
+ "title": "ollama v0.40.15",
+ "summary_en": "MiMo V2.6 Xiaomi MiMo's mimo-v2.6 , a 9B model built for code and agent workflows, is now supported in Ollama. ollama run mimo-v2.6 AutoTrust decision models AutoTrust decision models read text and return choices, yes or no probabilities, and ratings for the questions you supply. The family includes 9b, 35b, and 27b-vl sizes — the 35b and 27b-vl sizes can also read images. ollama run autotrust-jev \" A customer says their card was charged twice. \" --ask \" Is this a billing issue? \" Note: autotrust-jev is supported on Apple silicon in this release. What's Changed ollama launch now supports…",
+ "title_mn": "Ollama v0.40.15 хувилбар MiMo V2.6 болон AutoTrust загваруудын дэмжлэгтэйгээр гарлаа",
+ "summary_mn": "Ollama v0.40.15 шинэ хувилбар гарч, Xiaomi-ийн код бичих болон агент ажлын урсгалд зориулсан MiMo V2.6 загвар болон шийдвэр гаргах AutoTrust загваруудыг албан ёсоор дэмждэг боллоо. Мөн олон шинэ боломж, сайжруулалтууд нэмэгдсэн байна.",
+ "body_mn": "Ollama хэрэгслийн шинэ v0.40.15 хувилбар хөгжүүлэгчдийн хүлээж байсан олон сонирхолтой шинэчлэлтүүдийг авчирлаа. Тухайлбал, Xiaomi компанийн код бичих болон агентуудын ажлын урсгалд тусгайлан бүтээсэн 9 тэрбум параметр бүхий mimo-v2.6 загвар Ollama дээр шууд ажилладаг болжээ. Үүнээс гадна текст уншиж сонголт, тийм/үгүй магадлал, үнэлгээ буцаадаг AutoTrust шийдвэр гаргах загваруудын гэр бүлийг (9b, 35b, 27b-vl хэмжээтэй) дэмждэг болсон байна.\n\nЭнэхүү шинэчлэлтээр Kimi Code CLI дэмжлэг нэмэгдэж, хуучин kimi-cli тохиргоог шилжүүлэх боломжтой болсон бөгөөд Claude Desktop болон Pi хэрэгслүүдийн загвар сонгогч Ollama-ийн загваруудыг автоматаар таньдаг болжээ. Түүнчлэн Recurrent болон vision GGUF загварууд нэгэн зэрэг олон хүсэлт боловсруулах чадвартай болсон нь локал орчинд LLM туршиж буй хөгжүүлэгчдэд томоохон давуу талыг олгож байна.",
+ "published": "2026-11-06T01:47:18Z",
+ "added": "2026-11-09T00:23:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

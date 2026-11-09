@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "3120cb53fbc5954e",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-   "image": "https://github.blog/wp-content/uploads/2026/11/692697342-1fcb18df-03bf-4266-a109-f6f85f5e2427.jpeg",
-   "title": "BYOK and enterprise custom models in the Copilot usage API",
-   "summary_en": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of…",
-   "title_mn": "GitHub Copilot usage API одоо BYOK болон custom загваруудыг тусад нь харуулна",
-   "summary_mn": "Copilot usage metrics API нь bring your own key (BYOK) хэрэглээг Copilot-ийн хостлодог загваруудаас тусад нь харуулдаг боллоо. Local BYOK болон custom загваруудыг enterprise болон organization тайланд 1 өдрийн болон 28 өдрийн хугацаагаар авч болно.",
-   "body_mn": "GitHub дээр Copilot usage metrics API шинэчлэгдэж, bring your own key (BYOK) хэрэглээг одоо Copilot-ийн хостлодог загваруудын хэрэглээнээс тусад нь харуулах боломжтой боллоо. Тайлан нь хоёр төрлийн BYOK-ийг хамардаг: хөгжүүлэгчийн өөрийн provider түлхүүртэй холбогдсон загвар болон local загварууд.\n\nLocal BYOK гэдэгт Ollama, Foundry Local, LM Studio, llama-server зэрэг хэрэгслүүдээр ажиллуулсан загварууд багтана. Өмнө нь эдгээр нэр нь Copilot-ийн загваруудтай давхцдаг байсан тул нийт тоонд холилдож байсан юм.\n\nШинэчлэл нь enterprise болон organization тайлан дээр хэрэглэгч тус бүр болон нийлбэр түвшинд, 1 өдрийн болон 28 өдрийн тайланд хамаарна. Хэрэгжүүлэх талаар дэлгэрэнгүйг GitHub-ийн Copilot usage metrics API баримтаас үзэж болно.",
-   "published": "2026-11-04T00:32:19Z",
-   "added": "2026-11-06T17:46:08Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "33c76d41fa119f10",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.45.0",
-   "image": "https://opengraph.githubassets.com/a9bb3c676b34c0816ec2bc7b3309668478f4437a1d474b7a5d97e7e4e199c6d4/openai/openai-python/releases/tag/v3.45.0",
-   "title": "openai-python v3.45.0",
-   "summary_en": "3.45.0 (2026-11-03) Features api: add 12-hour Responses caching and cache-write usage ( #4240 ) ( 5f717b5 ) api: add project service tier settings ( #4239 ) ( 1a2a3d0 ) Documentation clarify generated-file ownership ( #4241 ) ( 0309a8c )",
-   "title_mn": "openai-python v3.45.0: Responses кэшийг 12 цаг хүртэл хадгалах боломж нэмэгдлээ",
-   "summary_mn": "openai-python v3.45.0 хувилбарт Responses API-д 12 цагийн кэш болон cache-write usage нэмэгдсэн. Мөн project service tier тохиргоо орсон. 2026 оны 11-р сарын 3-ны хувилбар юм.",
-   "body_mn": "openai-python SDK-ийн 3.45.0 хувилбар 2026 оны 11-р сарын 3-нд гарлаа. Гол шинэ функц нь Responses API-д 12 цагийн кэшлэлт нэмсэн явдал юм. Энэ нь давтагдах хүсэлтийн хариуг хадгалж, хэрэглээг бууруулахад тустай.\n\nМөн cache-write usage нэмэгдсэн тул кэшийн бичилтийн хэрэглээг usage талбараас харах боломжтой боллоо. Нэмж project service tier тохиргоо гарсан нь төслийн түвшинд үйлчилгээний давхаргыг удирдахад ашиглагдана.\n\nБаримтжуулалтын хувьд generated файлын эзэмшлийг тодорхойлсон засвар орсон. Хөгжүүлэгчид SDK-г шинэчлэхдээ кэшийн тохиргоо болон usage-ийн бүтцийг шалгах нь зүйтэй.",
-   "published": "2026-11-04T02:23:23Z",
-   "added": "2026-11-06T17:46:08Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ff5eda8df39f999b",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.9.1",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.9.1",
-   "summary_en": "v14.9.1",
-   "title_mn": "Motion v14.9.1 хувилбар гарлаа",
-   "summary_mn": "Motion (өмнө нь Framer Motion) анимацийн сангийн v14.9.1 хувилбар гарлаа. Мэдээллийн эх сурвалжид зөвхөн хувилбарын дугаар байгаа тул дэлгэрэнгүй өөрчлөлт тодорхойгүй байна.",
-   "body_mn": "Motion анимацийн сангийн v14.9.1 хувилбар GitHub дээр нийтлэгдлээ. Motion нь өмнө нь Framer Motion нэрээр мэдэгдэж байсан React-д зориулсан анимацийн сан юм.\n\nЭх сурвалжид хувилбарын дугаараас өөр дэлгэрэнгүй тайлбар байхгүй тул шинэ функц эсвэл засварын талаар баттай зүйл хэлэх боломжгүй байна. Хөгжүүлэгчид релиз тэмдэглэлийг GitHub дээрээс шалгаж, суулгахаасаа өмнө өөрчлөлтийг харах нь зүйтэй.",
-   "published": "2026-11-04T06:29:03Z",
-   "added": "2026-11-06T17:46:08Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a3433e936d2c04bf",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-   "image": "",
-   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "summary_en": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-   "title_mn": "Daybreak Red загвар AWS GovCloud орчинд нээгдлээ",
-   "summary_mn": "GPT-5.6 Cyber загвар бүхий Daybreak Red нь Amazon Bedrock платформоор дамжин AWS GovCloud (US-East) орчинд албан ёсоор боломжтой боллоо. Энэхүү шинэ боломж нь зөвшөөрөгдсөн хэрэглэгчдэд кибер аюулгүй байдлын тусгай ажлыг гүйцэтгэхэд зориулагдсан юм.",
-   "body_mn": "OpenAI компани өөрийн дэвшилтэт GPT-5.6 Cyber загварт суурилсан Daybreak Red системийг AWS GovCloud (US-East) бүсэд гаргаснаа зарлалаа. Энэхүү бүтээгдэхүүн нь Amazon Bedrock үйлчилгээгээр дамжин хэрэглэгчдэд хүрч байгаа бөгөөд холбогдох байгууллагууд кибер аюулгүй байдлын чиглэлээр албан ёсны болон зөвшөөрөгдсөн ажлуудаа гүйцэтгэхэд ашиглах боломжтой ажээ.\n\nЭнэхүү интеграци нь төрийн болон тусгай хамгаалалттай салбарын хөгжүүлэгчид болон аюулгүй байдлын мэргэжилтнүүдэд OpenAI-ийн хамгийн сүүлийн үеийн загваруудыг найдвартай үүлэн орчинд ашиглах нөхцөлийг бүрдүүлж байна. Тус загвар нь кибер аюулгүй байдлын дүн шинжилгээ болон хамгаалалтын чиглэлээр өндөр гүйцэтгэлтэй ажиллахад чиглэгдсэн болно.",
-   "published": "2026-11-04T07:00:00Z",
-   "added": "2026-11-06T17:46:08Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "fbaa86a829ad59fd",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "image": "",
-   "title": "A thousand fewer paths to root",
-   "summary_en": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-   "title_mn": "OpenAI Linux цөөн дэх эрх ярианы сул талуудыг илрүүлжээ",
-   "summary_mn": "OpenAI компани Linux цөм дэх орон нутгийн эрх яриаг нэмэгдүүлэх 948 сул талыг олж, шалган, автоматаар засвар үүсгэх бие даасан шугам хоолой (pipeline) бүтээжээ. Энэхүү технологи нь системийн аюулгүй байдлыг сайжруулахад чухал алхам болж байна.",
-   "body_mn": "OpenAI компани Linux цөөн дэх сул талуудыг илрүүлж, автоматаар засварлах боломжтой шинэ бие даасан шугам хоолойг хөгжүүлсэн байна. Тус систем нь орон нутгийн эрх яриаг нэмэгдүүлэх буюу орон нутгийн эрх зэрэглэлээ ахиулах 948 сул талыг олж тогтоон, тэдгээрийг нарийвчлан шалгаж, зохих засварын кодуудыг автоматаар гаргаж чаджээ.\n\nЭнэхүү шийдэл нь хөгжүүлэгчид болон системийн админуудын хувьд томоохон дэвшил болж байгаа юм. Том хэлний загварууд болон хиймэл оюун ухааны агентлаг хэрэгслүүд нь зөвхөн код бичих төдийгүй нарийн төвөгтэй программ хангамжийн аюулгүй байдлыг хангах, эмзэг байдлыг илрүүлж засах ажилд хэрхэн үр дүнтэй ашиглагдаж болохыг уг мэдээ харуулж байна.",
-   "published": "2026-11-04T08:00:00Z",
-   "added": "2026-11-06T17:46:08Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b6aaa6c753cec0bb",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Decoder",
-   "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
-   "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
-   "summary_en": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single sampling parameter. Anthropic's response to the loophole? A compliance warning.",
-   "title_mn": "Anthropic Claude загваруудын текст усан тэмдэглэгээг өргөжүүлж байна",
-   "summary_mn": "Anthropic компани Claude Opus 4.6, Sonnet 4.5 зэрэг хэд хэдэн хуучин загваруудад текст усан тэмдэглэгээ нэмэх болсноо зарлалаа. Зарим загварын хувьд санамсаргүй байдлын параметрүүдийг үндсэн төлөвт нь үлдээхэд усан тэмдгийг тойрч гарах боломжтой хэвээр байна.",
-   "body_mn": "Anthropic компани API хэрэглэгчиддээ илгээсэн мэйлээрээ дамжуулан Claude Opus 4.6, Claude Opus 4.5, Claude Sonnet 4.5 болон Claude Haiku 4.5 загваруудад арваннэгдүгээр сарын 16-наас эхлэн текст усан тэмдэглэгээ (watermark) нэмэхээр болсноо мэдэгдлээ. Amazon Bedrock дээр уг шинэчлэл хэрэгжихэд хэд хоног илүү шаардагдаж магадгүй юм.\n\nШинэ мэдээллээр эдгээр загварын зарим дээр temperature, top_p, top_k зэрэг санамсаргүй байдлыг хянадаг параметрүүдийг анхдагч утгаараа байхад л усан тэмдэг идэвхждэг байна. Хөгжүүлэгчид Эдгээр тохиргоог бага зэрэг өөрчлөхөд л усан тэмдгийг алгасах боломжтой байгаа нь анхаарал татаж байна.\n\nЕвропын Холбооны AI Act хуулийн шаардлагын хүрээнд хэрэгжиж буй энэхүү усан тэмдэглэгээ нь үг сонголтод үл мэдэгдэх статистик хэв маягийг шингээх бөгөөд гаралтын хурд болон чанарт нөлөөлөхгүй гэж тус компани мэдэгджээ. Гэсэн хэдий ч API хэрэглэгчид болон хөгжүүлэгчдийн хувьд тохиргооны энэхүү цоорхойг анхаарах шаардлагатай ажээ.",
-   "published": "2026-11-04T08:00:00Z",
-   "added": "2026-11-06T17:46:08Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a7b1f713b7179f87",
-   "subtopic": "nestjs",
-   "source": "nestjs/nest",
-   "source_label": "nestjs/nest",
-   "url": "https://github.com/nestjs/nest/releases/tag/v12.3.3",
-   "image": "https://opengraph.githubassets.com/06e64247ebac7e101cf83e42fcf307e0574c061c40b1fa17315cd333d77b18d7/nestjs/nest",
-   "title": "nest v12.3.3",
-   "summary_en": "v12.3.3",
-   "title_mn": "NestJS v12.3.3 шинэчлэлт гарлаа",
-   "summary_mn": "NestJS фрэймворкийн v12.3.3 хувилбар албан ёсоор гарч, хөгжүүлэгчдэд хүрлээ.",
-   "body_mn": "NestJS баг v12.3.3 хувилбарыг гаргалаа. Энэхүү шинэчлэлт нь сервер талын TypeScript програмуудыг хөгжүүлэх явцыг илүү тогтвортой болгох засваруудыг агуулж байна.\n\nХөгжүүлэгчид уг хувилбар руу шилжсэнээр алдаануудаас ангижирч, төслийнхөө гүйцэтгэлийг сайжруулах боломжтой юм.",
-   "published": "2026-11-04T09:35:00Z",
-   "added": "2026-11-06T22:36:33Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2e6a221cac7d2de4",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/introducing-vercel-schedules",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/a8qC8AzRhcMq7pyEnyzsP/36b609a62176ba645bbde61ef0af23d1/image.png",
-   "title": "Introducing Vercel Schedules",
-   "summary_en": "Cron jobs are useful for work that needs to happen regularly. You can use them to do things such as back up your database on a schedule, or keep data in sync between two systems. You define them once in code and then can update them by editing their config and redeploying. But today, agents interact with users as work evolves, and schedules need to be updated in real time. We built Vercel Schedules to allow agents and applications to create, change, or cancel one-time and recurring schedules through code, without redeploying. What are Vercel Schedules? Schedules builds on the static approach…",
-   "title_mn": "Vercel Schedules: Агент болон аппликейшнүүдэд зориулсан динамик хуваарь",
-   "summary_mn": "Vercel Schedules хэрэгсэл нь код болон JS SDK ашиглан хиймэл оюун ухааны агент болон аппликейшнүүдэд цагийн хуваарийг шууд үүсгэх, өөрчлөх боломжийг олгож байна.",
-   "body_mn": "Vercel компани хөгжүүлэгчдэд зориулсан Vercel Schedules хэрэгслээ албан ёсоор танилцууллаа. Уг шинэ боломж нь хиймэл оюун ухааны агент болон аппликейшнүүдэд дахин байршуулалт хийлгүйгээр код дотроосоо нэг удаагийн болон давтагдах ажлын хуваарийг удирдах боломжийг олгодог.\n\nУламжлалт Cron job болон өгөгдлийн сангийн тусламжтайгаар цаг товлох аргыг боловсронгуй болгож, агентууд ажиллаж байх явцдаа бодит цаг хугацаанд хуваарь үүсгэх эсвэл цуцлах боломжийг бүрдүүлжээ. Тухайлбал, хэрэглэгч агентаас өглөө бүр тодорхой мэдээллийг хураангуйлж бэлтгэхийг хүсэхэд уг хэрэгсэл тухайн ажлыг автоматаар хуваарьт оруулдаг байна.\n\nХөгжүүлэгчид үүнийг static байдлаар vercel.json файлд тохируулах эсвэл dynamic байдлаар JavaScript SDK, CLI болон API ашиглан ажиллуулах боломжтой. Мөн Vercel Queues болон хувийн функцүүдтэй нягт уялдаж ажилладаг бөгөөд бүтээгдэхүүн рүү оруулахаасаа өмнө Preview орчинд тест хийх боломжтой юм.",
-   "published": "2026-11-04T13:00:00Z",
-   "added": "2026-11-06T22:36:33Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2d0102cbc785a2dc",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-token-scanning-expands-to-more-public-sources",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4Czfbb2sJlw59NPcdMH9rd/0f654bd8fe1f74a5c57e283b8668dc37/Vercel_token_scanning_expands_to_more_public_sources_og.png",
-   "title": "Vercel token scanning expands to more public sources",
-   "summary_en": "Vercel has partnered with Truffle Security to expand automated detection and revocation of publicly exposed Vercel tokens. Revoking exposed credentials helps prevent unauthorized access to your projects and unexpected costs from unauthorized use of services such as Vercel Sandbox and Vercel AI Gateway . If your token is revoked, you’ll receive an email from us explaining why. Truffle Security reports tokens exposed in public sources including GitHub, GitLab, Docker, npm, PyPI, Hugging Face, Android APKs, and Firefox Add-ons. Vercel has revoked hundreds of tokens reported by Truffle Security…",
-   "title_mn": "Vercel токенуудыг нийтийн эх сурвалжуудаас илрүүлж автоматаар цуцалж эхэллээ",
-   "summary_mn": "Vercel, Truffle Security-тэй хамтран нийтэд илэрсэн Vercel токенуудыг илрүүлж, цуцлах механизмаа өргөтгөлөө. Токен алдагдсан тохиолдолд хэрэглэгчид имэйлээр мэдэгдэл авна.",
-   "body_mn": "Vercel, Truffle Security-тэй хамтран нийтэд нээлттэй эх сурвалжуудад илэрсэн Vercel токенуудыг автоматаар илрүүлж, цуцлах системээ өргөтгөжээ. Truffle Security нь GitHub, GitLab, Docker, npm, PyPI, Hugging Face, Android APK болон Firefox Add-ons зэрэг эх сурвалжид илэрсэн токенуудыг мэдээлсэн бөгөөд Vercel эдгээрээс хэдэн зуун токеныг аль хэдийн цуцалжээ.\n\nМөн Vercel-ийн тусдаа сканнер шинэ сар бүрийн Common Crawl өгөгдлийн санг шалгаж, олдсон Vercel токенуудыг автоматаар цуцалдаг болжээ. Токен цуцлагдсан тохиолдолд хөгжүүлэгч имэйлээр шалтгааныг нь мэдэх болно.\n\nЭнэ нь хөгжүүлэгчдэд чухал, учир нь токен алдагдсан тохиолдолд Vercel Sandbox эсвэл Vercel AI Gateway зэрэг үйлчилгээг зөвшөөрөлгүй ашиглаж, санаандгүй зардал үүсэх эрсдэл багасна. Токенуудаа хэрхэн үүсгэх, scope тохируулах, удирдах талаар Vercel-ийн access token баримт бичгээс дэлгэрэнгүй үзэж болно.\n\nЗөвлөмж: API токеноо кодын репозитори эсвэл нийтийн багцад хэзээ ч бүү оруулаарай. Орчны хувьсагч ашиглаж, шаардлагатай scope-оор хязгаарлаарай.",
-   "published": "2026-11-04T13:00:00Z",
-   "added": "2026-11-07T02:29:27Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "1be4fdd8e6ca80f0",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/openai-to-acquire-pierre",
-   "image": "",
-   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-   "summary_en": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-   "title_mn": "OpenAI Pierre Computer Company-г худалдан авахаар боллоо",
-   "summary_mn": "OpenAI компани код бичих, ойлгох, хянах Codex хэрэгслүүдээ өргөжүүлэх зорилгоор Pierre Computer Company-г худалдаж авч байна.",
-   "body_mn": "OpenAI компани код хөгжүүлэлтийн боломжоо нэмэгдүүлэх зорилгоор Pierre Computer Company-г худалдаж авахаар болсноо зарлалаа. Энэхүү худалдан авалтаар дамжуулан компани хөгжүүлэгчдэд зориулсан Codex хэрэгслүүдийн чадавхыг сайжруулах ажээ.\n\nЭнэхүү алхам нь программ хангамж бүтээх, кодыг автоматаар хянах болон ойлгох үйл явцыг илүү боловсронгуй болгоход чиглэж байна. Хөгжүүлэгчид OpenAI-ийн хэрэгслүүдийг ашиглан кодыг илүү хурдан бөгөөд үр дүнтэй шалгах боломж бүрдэх юм.\n\nТехнологийн зах зээлийн хувьд энэхүү нэгдэл нь хиймэл оюун ухаанд суурилсан код бичих туслахуудын өрсөлдөөнийг улам хурцатгах төлөвтэй байна.",
-   "published": "2026-11-04T14:30:00Z",
-   "added": "2026-11-07T09:05:21Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "639da1a915140db7",
    "subtopic": "design-systems",
    "source": "Figma Blog",
@@ -917,6 +717,66 @@
    "added": "2026-11-08T20:41:02Z",
    "ai": "",
    "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4f69a4c006e42f46",
+   "subtopic": "ai-devtools",
+   "source": "openai/codex",
+   "source_label": "openai/codex",
+   "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
+   "image": "https://opengraph.githubassets.com/7523025ed8317d6dba3b8f2424edd66ab8b0679c6b4ef53b464c771e106c2697/openai/codex/releases/tag/rust-v0.167.0",
+   "title": "codex 0.167.0",
+   "summary_en": "New Features Open the agent command center with codex agents --no-daemon . The command center and session picker now mark unread results ( #58238 , #58239 , #58263 , #58264 ). Switch between connected backends from the terminal session picker and keep your drafts when switching ( #58280 , #58457 ). Preview local image attachments while composing on supported terminals, and open viewed local images from clickable transcript paths ( #58261 , #58446 ). Find API key and cloud provider options under “Sign in another way.” Enable gcp_setup_wizard to set up Google Cloud Vertex AI with Application…",
+   "title_mn": "Codex 0.167.0 хувилбар шинэ боломжуудтай гарлаа",
+   "summary_mn": "Codex 0.167.0 хувилбар нь агент команд төв, Google Cloud Vertex AI тохиргоо болон терминал session picker-ээс шууд backends хооронд шилжих боломжийг нэмжээ. Мөн олон тооны алдааг засаж, хэрэглэгчийн туршлагыг сайжруулсан байна.",
+   "body_mn": "Хөгжүүлэгчдэд зориулсан Codex хэрэгслийн 0.167.0 шинэ хувилбар албан ёсны шинэчлэлтүүд болон сайжруулалтуудтайгаар гарлаа. Шинэ хувилбарт агент команд төвийг нээх codex agents --no-daemon команд нэмэгдсэн ба сесс сонгогч нь уншаагүй үр дүнгүүдийг тусгайлан тэмдэглэдэг болжээ. Терминал сесс сонгогчоос холбогдсон backends хооронд саадгүй шилжих, шилжих явцдаа нооргоо хадгалах боломжтой болсон нь хөгжүүлэгчдийн ажлыг хөнгөвчилж байна.\n\nМөн дэмжигдсэн терминалуудад орон нутгийн зураг хавсралтыг урьдчилан харах, холбогдох файлын мөрөөр шууд нээх боломж бүрджээ. Тохиргооны хэсэгт API түлхүүр болон үүлэн үйлчилгээ үзүүлэгч сонголтууд нэмэгдсэнээс гадна Google Cloud Vertex AI-г Application Default Credentials эсвэл credential файлаар тохируулах gcp_setup_wizard функц суужээ. Linux musl билйдүүдийн хувьд санах ойн ашиглалтыг бууруулахын тулд allocator arenas тоог цөөлсөн байна.\n\nЭнэхүү шинэчлэлт нь AI агент болон код бичих хэрэгслүүдийг өдөр тутмын ажилдаа ашигладаг хөгжүүлэгчдэд терминал орчинд ажиллахад илүү уян хатан, хурдан бөгөөд алдаагүй туршлагыг олгож байгаагаараа чухал юм.",
+   "published": "2026-11-06T01:42:19Z",
+   "added": "2026-11-09T00:23:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e44b8ea4fb07e373",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
+   "image": "https://opengraph.githubassets.com/e642310791af8c3f5ca73158f8f407b144eb2fc1d2e48a916ccef1c68c9d4163/ollama/ollama/releases/tag/v0.40.15",
+   "title": "ollama v0.40.15",
+   "summary_en": "MiMo V2.6 Xiaomi MiMo's mimo-v2.6 , a 9B model built for code and agent workflows, is now supported in Ollama. ollama run mimo-v2.6 AutoTrust decision models AutoTrust decision models read text and return choices, yes or no probabilities, and ratings for the questions you supply. The family includes 9b, 35b, and 27b-vl sizes — the 35b and 27b-vl sizes can also read images. ollama run autotrust-jev \" A customer says their card was charged twice. \" --ask \" Is this a billing issue? \" Note: autotrust-jev is supported on Apple silicon in this release. What's Changed ollama launch now supports…",
+   "title_mn": "Ollama v0.40.15 хувилбар MiMo V2.6 болон AutoTrust загваруудын дэмжлэгтэйгээр гарлаа",
+   "summary_mn": "Ollama v0.40.15 шинэ хувилбар гарч, Xiaomi-ийн код бичих болон агент ажлын урсгалд зориулсан MiMo V2.6 загвар болон шийдвэр гаргах AutoTrust загваруудыг албан ёсоор дэмждэг боллоо. Мөн олон шинэ боломж, сайжруулалтууд нэмэгдсэн байна.",
+   "body_mn": "Ollama хэрэгслийн шинэ v0.40.15 хувилбар хөгжүүлэгчдийн хүлээж байсан олон сонирхолтой шинэчлэлтүүдийг авчирлаа. Тухайлбал, Xiaomi компанийн код бичих болон агентуудын ажлын урсгалд тусгайлан бүтээсэн 9 тэрбум параметр бүхий mimo-v2.6 загвар Ollama дээр шууд ажилладаг болжээ. Үүнээс гадна текст уншиж сонголт, тийм/үгүй магадлал, үнэлгээ буцаадаг AutoTrust шийдвэр гаргах загваруудын гэр бүлийг (9b, 35b, 27b-vl хэмжээтэй) дэмждэг болсон байна.\n\nЭнэхүү шинэчлэлтээр Kimi Code CLI дэмжлэг нэмэгдэж, хуучин kimi-cli тохиргоог шилжүүлэх боломжтой болсон бөгөөд Claude Desktop болон Pi хэрэгслүүдийн загвар сонгогч Ollama-ийн загваруудыг автоматаар таньдаг болжээ. Түүнчлэн Recurrent болон vision GGUF загварууд нэгэн зэрэг олон хүсэлт боловсруулах чадвартай болсон нь локал орчинд LLM туршиж буй хөгжүүлэгчдэд томоохон давуу талыг олгож байна.",
+   "published": "2026-11-06T01:47:18Z",
+   "added": "2026-11-09T00:23:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "226e16ddfa1243fa",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "www.tokenpost.com",
+   "url": "https://www.tokenpost.com/news/technology/49816",
+   "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/cdb35398c2d02e8f78245c3a08b402ab51f8d46d4dc1d77e1dfe2031cb625919.webp",
+   "title": "Kimi K3.1 Pro (Max) Ranks First Among Open-Weight Agent Models",
+   "summary_en": "It placed 13th across all models, with results drawn from more than 17,500 extended agent-task sessions submitted by users globally.",
+   "title_mn": "Kimi K3.1 Pro (Max) нь open-weight агент загваруудыг тэргүүллээ",
+   "summary_mn": "Moonshot AI компанийн бүтээсэн 2.8 триллион параметр бүхий Kimi K3.1 Pro (Max) загвар нь нээлттэй жинтэй агент загваруудын дунд ажил, програмчлал болон чатын төрөлд нэгдүгээрт эрэмбэлэгдлээ. Тус компани загварын жинг саяхан Hugging Face дээр нийтэлсэн юм.",
+   "body_mn": "Moonshot AI компанийн гаргасан Kimi K3.1 Pro (Max) загвар нь дэлхий даяарх хэрэглэгчдийн ирүүлсэн 17,500 гаруй өргөтгөсөн агентын сесс дээр суурилсан үнэлгээгээр open-weight буюу нээлттэй жинтэй загваруудын дунд тэргүүн байр эзэлжээ. Энэхүү загвар нь shell команд гүйцэтгэх Bash Reliability болон удирдагдах чадварын үзүүлэлтүүдээрээ нээлттэй загваруудаас хамгийн өндөр оноог авсан байна.\n\nKimi K3.1 Pro нь Mixture of Experts (MoE) архитектуртай бөгөөд нийт 2.8 триллион параметр хэдий ч хүсэлт бүрт 104 тэрбум актив параметр ашигладаг. Ойролцоогоор 1 сая токенийн контекст цонхыг дэмждэг энэхүү загвар нь програмчлал, 3D бүтээл, санхүүгийн судалгаа болон нарийн төвөгтэй агентын ажлуудад голлон чиглэдэг.\n\nНээлттэй жинтэйгээр хөгжүүлэгчдэд хүртээмжтэй болж буй энэхүү загвар нь локал болон сервер дээр суурилсан AI шийдлүүдийг хөгжүүлэхэд чухал алхам болж байна.",
+   "published": "2026-11-06T04:29:00Z",
+   "added": "2026-11-09T00:23:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]

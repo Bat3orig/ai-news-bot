@@ -1,0 +1,17 @@
+{
+ "id": "4f69a4c006e42f46",
+ "subtopic": "ai-devtools",
+ "source": "openai/codex",
+ "source_label": "openai/codex",
+ "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
+ "image": "https://opengraph.githubassets.com/7523025ed8317d6dba3b8f2424edd66ab8b0679c6b4ef53b464c771e106c2697/openai/codex/releases/tag/rust-v0.167.0",
+ "title": "codex 0.167.0",
+ "summary_en": "New Features Open the agent command center with codex agents --no-daemon . The command center and session picker now mark unread results ( #58238 , #58239 , #58263 , #58264 ). Switch between connected backends from the terminal session picker and keep your drafts when switching ( #58280 , #58457 ). Preview local image attachments while composing on supported terminals, and open viewed local images from clickable transcript paths ( #58261 , #58446 ). Find API key and cloud provider options under “Sign in another way.” Enable gcp_setup_wizard to set up Google Cloud Vertex AI with Application…",
+ "title_mn": "Codex 0.167.0 хувилбар шинэ боломжуудтай гарлаа",
+ "summary_mn": "Codex 0.167.0 хувилбар нь агент команд төв, Google Cloud Vertex AI тохиргоо болон терминал session picker-ээс шууд backends хооронд шилжих боломжийг нэмжээ. Мөн олон тооны алдааг засаж, хэрэглэгчийн туршлагыг сайжруулсан байна.",
+ "body_mn": "Хөгжүүлэгчдэд зориулсан Codex хэрэгслийн 0.167.0 шинэ хувилбар албан ёсны шинэчлэлтүүд болон сайжруулалтуудтайгаар гарлаа. Шинэ хувилбарт агент команд төвийг нээх codex agents --no-daemon команд нэмэгдсэн ба сесс сонгогч нь уншаагүй үр дүнгүүдийг тусгайлан тэмдэглэдэг болжээ. Терминал сесс сонгогчоос холбогдсон backends хооронд саадгүй шилжих, шилжих явцдаа нооргоо хадгалах боломжтой болсон нь хөгжүүлэгчдийн ажлыг хөнгөвчилж байна.\n\nМөн дэмжигдсэн терминалуудад орон нутгийн зураг хавсралтыг урьдчилан харах, холбогдох файлын мөрөөр шууд нээх боломж бүрджээ. Тохиргооны хэсэгт API түлхүүр болон үүлэн үйлчилгээ үзүүлэгч сонголтууд нэмэгдсэнээс гадна Google Cloud Vertex AI-г Application Default Credentials эсвэл credential файлаар тохируулах gcp_setup_wizard функц суужээ. Linux musl билйдүүдийн хувьд санах ойн ашиглалтыг бууруулахын тулд allocator arenas тоог цөөлсөн байна.\n\nЭнэхүү шинэчлэлт нь AI агент болон код бичих хэрэгслүүдийг өдөр тутмын ажилдаа ашигладаг хөгжүүлэгчдэд терминал орчинд ажиллахад илүү уян хатан, хурдан бөгөөд алдаагүй туршлагыг олгож байгаагаараа чухал юм.",
+ "published": "2026-11-06T01:42:19Z",
+ "added": "2026-11-09T00:23:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "226e16ddfa1243fa",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "www.tokenpost.com",
+ "url": "https://www.tokenpost.com/news/technology/49816",
+ "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/cdb35398c2d02e8f78245c3a08b402ab51f8d46d4dc1d77e1dfe2031cb625919.webp",
+ "title": "Kimi K3.1 Pro (Max) Ranks First Among Open-Weight Agent Models",
+ "summary_en": "It placed 13th across all models, with results drawn from more than 17,500 extended agent-task sessions submitted by users globally.",
+ "title_mn": "Kimi K3.1 Pro (Max) нь open-weight агент загваруудыг тэргүүллээ",
+ "summary_mn": "Moonshot AI компанийн бүтээсэн 2.8 триллион параметр бүхий Kimi K3.1 Pro (Max) загвар нь нээлттэй жинтэй агент загваруудын дунд ажил, програмчлал болон чатын төрөлд нэгдүгээрт эрэмбэлэгдлээ. Тус компани загварын жинг саяхан Hugging Face дээр нийтэлсэн юм.",
+ "body_mn": "Moonshot AI компанийн гаргасан Kimi K3.1 Pro (Max) загвар нь дэлхий даяарх хэрэглэгчдийн ирүүлсэн 17,500 гаруй өргөтгөсөн агентын сесс дээр суурилсан үнэлгээгээр open-weight буюу нээлттэй жинтэй загваруудын дунд тэргүүн байр эзэлжээ. Энэхүү загвар нь shell команд гүйцэтгэх Bash Reliability болон удирдагдах чадварын үзүүлэлтүүдээрээ нээлттэй загваруудаас хамгийн өндөр оноог авсан байна.\n\nKimi K3.1 Pro нь Mixture of Experts (MoE) архитектуртай бөгөөд нийт 2.8 триллион параметр хэдий ч хүсэлт бүрт 104 тэрбум актив параметр ашигладаг. Ойролцоогоор 1 сая токенийн контекст цонхыг дэмждэг энэхүү загвар нь програмчлал, 3D бүтээл, санхүүгийн судалгаа болон нарийн төвөгтэй агентын ажлуудад голлон чиглэдэг.\n\nНээлттэй жинтэйгээр хөгжүүлэгчдэд хүртээмжтэй болж буй энэхүү загвар нь локал болон сервер дээр суурилсан AI шийдлүүдийг хөгжүүлэхэд чухал алхам болж байна.",
+ "published": "2026-11-06T04:29:00Z",
+ "added": "2026-11-09T00:23:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
