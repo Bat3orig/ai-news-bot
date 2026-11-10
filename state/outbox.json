@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "d8635980d21cf072",
-   "subtopic": "packages",
-   "source": "Node Weekly",
-   "source_label": "Node Weekly",
-   "url": "https://nodeweekly.com/issues/646",
-   "image": "https://res.cloudinary.com/cpress/image/upload/v1653576619/lgfqinzbdqttwmhvljxb.png",
-   "title": "Node 27's first alpha brings breaking changes",
-   "summary_en": "#​646 — November 5, 2026 Read on the Web Node.js 27 Alpha: The First Release Under Node's New Schedule — Under Node's new release model , each major release spends six months in alpha before stable release — so v27's final is due next April. Alphas are built from main with breaking changes, and are meant for library authors / testing rather than prod. V8 15.6 brings Math.sumPrecise() , Iterator.zip() and other iterator helpers by default, and import defer and immutable ArrayBuffer s are available behind flags. There's a new default heap limit of half of physical memory (clamped between 256MB…",
-   "title_mn": "Node.js 27-ийн анхны альфа хувилбар болон Parcel 3 гарав",
-   "summary_mn": "Node.js 27 Alpha шинэ V8 15.6 болон memory өөрчлөлтүүдтэй гарсан бол багцлагч Parcel 3 Rust хэл дээр шинэчлэгдэн 100 дахин хурдаслаа. Мөн Fastify, Hono зэрэг фрэймворкуудад чухал аюулгүй байдлын засварууд оржээ.",
-   "body_mn": "Node.js баг v27 хувилбарын анхны альфаг танилцууллаа. Шинэ загварын дагуу тогтвортой хувилбар гарахаас өмнө 6 сар альфа төлөвт туршигдах бөгөөд V8 15.6 хөдөлгүүрийн шинэ боломжууд, шинэ default heap хязгаарлалт, v8.serialize() формат болон native fs.glob зэрэг өөрчлөлтүүдийг багтаасан байна.\n\nТүүнчлэн вэб төслийн багцлагч Parcel 3 Alpha гарсан нь том мэдээ байв. Цөмийг нь бие даасан Rust бинар болгон бүрэн дахин бичсэнээр том monorepo төслүүдийн бүтээх хугацаа 100 дахин хурдасчээ. Залгаасуудыг Rust, Go, Swift эсвэл ердийн JS/TS дээр бичих боломжтой болсон байна.\n\nЭнэ долоо хоногт сервер фрэймворкуудын хувьд ч завгүй байж, Fastify 5.12.8, Hono 4.13.16, Nuxt 4.6.4 зэрэг хувилбарууд чухал хамгаалалтын засваруудыг хүргэжээ. Мөн багцын эх сурвалжийг баталгаажуулах mise хэрэгсэл зэрэг экосистемийн олон чухал дэвшлүүд гарсан байна.",
-   "published": "2026-11-05T00:00:00Z",
-   "added": "2026-11-07T15:48:49Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c30b322513faf4e6",
-   "subtopic": "vibe-coding",
-   "source": "Cursor Changelog",
-   "source_label": "Cursor Changelog",
-   "url": "https://cursor.com/changelog/build-live-apps",
-   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png",
-   "title": "Build Live Apps in Cursor",
-   "summary_en": "Build and deploy web apps directly in Cursor with cloud agents handling hosting, database, auth, and deployment.",
-   "title_mn": "Cursor дээр аппликэйшнийг шууд хөгжүүлж байршуулах шинэ боломж нэмэгдлээ",
-   "summary_mn": "Cursor-ийн cloud agent нь зөвхөн код бичих бус апп-ыг бүтээж, Postgres сан, auth тохируулан шууд вэб холбоос болгон байршуулах боломжтой боллоо. Хэрэглэгчид өөрсдийн санаагаа хэдхэн минутад бодит ажиллагаатай бүтээгдэхүүн болгох боломжтой.",
-   "body_mn": "Cursor засварлагчийн шинэ шинэчлэлтээр хөгжүүлэгчид өөрсдийн хийсэн төслийг зөвхөн localhost дээр үлдээхгүйгээр шууд олон нийтэд нээлттэй эсвэл байгууллага дотроо хуваалцах live апп болгон байршуулах боломжтой боллоо. Энэхүү боломж нь үүлэн агентаар (cloud agent) ажилладаг.\n\nАшиглахын тулд үүлэн агент эхлүүлээд ямар аппликэйшн хийхийг хүсэж байгаагаа бичихэд хангалттай. Үүний дараа Cursor нь бүтцийг бэлдэж, шаардлагатай бол Postgres өгөгдлийн сан үүсгэн, Cursor SSO-той нэвтрэлтийг холбож, хостингийг бүрэн тохируулж өгнө. Байгууллагын нууц өгөгдөл, нууц үг шаардлагатай бол агент танаас шууд асууж холболт үүсгэнэ.\n\nАппликэйшнийг нийтлэхийн өмнө нууц түлхүүр код дотор ил гарсан эсэхийг агент болон тусгай алгоритмаар шалгах тул аюулгүй байдал хангагдана. Бүх шалгалт дууссаны дараа танд шууд зочлох боломжтой домэйн холбоос үүсэж очих бөгөөд энэ боломжийг төлбөртэй багцын хэрэглэгчид яг одоо турших боломжтой.",
-   "published": "2026-11-05T00:00:00Z",
-   "added": "2026-11-07T15:48:49Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "451c2b94a1b7c040",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.46.0",
-   "image": "https://opengraph.githubassets.com/6855f5dc518684447bc1771c9d2cad547f45c51a35362e050c226cf648deca6d/openai/openai-python/releases/tag/v3.46.0",
-   "title": "openai-python v3.46.0",
-   "summary_en": "3.46.0 (2026-11-05) Features api: add Australia, India, and Japan residency options ( #4246 ) ( 2634b87 ) api: add GPT-6 Rosalind to the model catalog ( #4243 ) ( 0f8e5f3 ) api: add image complexity and GIF and SVG output controls ( #4247 ) ( 0152e3a ) api: expand agent turn errors and image and audio options ( #4245 ) ( 1b2fb74 ) Chores deps: bump github/codeql-action/init from 4.39.0 to 4.39.1 ( #4230 ) ( c9fe335 )",
-   "title_mn": "openai-python v3.46.0 хувилбарт GPT-6 Rosalind ба GIF/SVG удирдлага нэмэгдлээ",
-   "summary_mn": "OpenAI Python сангийн v3.46.0 хувилбарт GPT-6 Rosalind загвар, GIF болон SVG зураг гаргах сонголтууд нэмэгдлээ. Түүнчлэн Австрали, Энэтхэг, Япон улсуудад өгөгдөл хадгалах дэмжлэг орсон байна.",
-   "body_mn": "OpenAI-ийн албан ёсны openai-python сангийн v3.46.0 хувилбар гарлаа. Тус шинэчлэлтийн хамгийн гол өөрчлөлт нь загварын санд GPT-6 Rosalind-ийг нэмсэн явдал бөгөөд хөгжүүлэгчид API-аар дамжуулан шинэ загварыг турших боломжтой болж байна.\n\nМөн медиа үүсгэх тал дээр томоохон дэвшил гарч, зургийн нарийн төвөгтэй байдлыг тохируулах болон GIF, SVG хэлбэрээр үр дүн авах шинэ тохиргоонууд орж иржээ. Үүнээс гадна агентын алдааны удирдлага (agent turn errors), аудио сонголтууд өргөжсөн байна.\n\nБүс нутгийн дата хадгалалтын (residency) хувьд Австрали, Энэтхэг, Япон улсуудын сонголтууд нэмэгдсэн нь байгууллагын түвшний стандартыг хангахад туслах юм. Хөгжүүлэгчид `pip install --upgrade openai` тушаалаар сангаа шинэчлэн ашиглах боломжтой.",
-   "published": "2026-11-05T00:55:06Z",
-   "added": "2026-11-07T15:48:49Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c739121cb7350eb8",
-   "subtopic": "kimi",
-   "source": "Kimi (Google News)",
-   "source_label": "Pandaily",
-   "url": "https://pandaily.com/huawei-ascend-day-zero-kimi-k3-1-pro-vllm-ascend-sglang-atlas-900-a3-950-superpod",
-   "image": "https://cms-image.pandaily.com/1/kimi_33c8d3fc24.png",
-   "title": "Huawei Ascend Adds Day-Zero Support for Kimi K3.1 Pro Across Atlas A3 and Ascend 950 SuperPoDs",
-   "summary_en": "Huawei says vLLM Ascend and SGLang run Moonshot AI's 2.8-trillion-parameter Kimi K3.1 Pro on Atlas 800 A3, Atlas 900 A3 SuperPoD and Ascend 950 SuperPoD from launch day.",
-   "title_mn": "Huawei Ascend системд Kimi K3.1 Pro загварын өдрийн дэмжлэг нэмэгдэв",
-   "summary_mn": "Huawei компани Moonshot AI-ийн Kimi K3.1 Pro загварыг Atlas болон Ascend SuperPoD дээр шууд ажиллуулах боломжтой болсноо зарлалаа.",
-   "body_mn": "Huawei компани vLLM Ascend болон SGLang сангуудыг ашиглан Moonshot AI-ийн 2.8 триллион параметр бүхий Kimi K3.1 Pro загварт гаргасан даяар нээлттэй өдрийн дэмжлэгээ (day-zero support) албан ёсоор зарлалаа. Энэхүү интеграци нь Atlas 800 A3, Atlas 900 A3 SuperPoD болон Ascend 950 SuperPoD системүүдийг хамарч байна.\n\nЭнэхүү дэмжлэг нь томоохон хэмжээний Mixture-of-Experts (MoE) загваруудыг Huawei-ийн оффис болон дата төвийн аппарат хангамж дээр үр дүнтэй ажиллуулах боломжийг бүрдүүлж байгаагаараа чухал юм. Хөгжүүлэгчид болон хиймэл оюун ухааны инженерүүд Kimi K3.1 Pro загварын өндөр хүчин чадлыг дотоод дэд бүтцэд шууд ашиглаж, агент суурьтай ажлын урсгалыг хөгжүүлэх боломжтой болж байна.",
-   "published": "2026-11-05T02:27:42Z",
-   "added": "2026-11-07T19:45:51Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6a0ab501854203b7",
-   "subtopic": "kimi",
-   "source": "Kimi (Google News)",
-   "source_label": "Startup Fortune",
-   "url": "https://startupfortune.com/moonshot-ai-releases-full-weights-for-28-trillion-parameter-kimi-k31-pro/",
-   "image": "https://startupfortune.com/wp-content/uploads/2026/11/moonshot-ai-kimi-k3-1-pro-claude-opus-5-5.jpg",
-   "title": "Moonshot AI Releases Full Weights For 2.8 Trillion Parameter Kimi K3.1 Pro",
-   "summary_en": "Moonshot AI released Kimi K3.1 Pro's full 2.8-trillion-parameter weights on Hugging Face Nov 4, beating Opus 5.5 on 16 of 37 benchmark tests.",
-   "title_mn": "Moonshot AI 2.8 триллион параметр бүхий Kimi K3.1 Pro загварын жинг нээв",
-   "summary_mn": "Moonshot AI компани 2.8 триллион параметр бүхий Kimi K3.1 Pro загварын жинг Hugging Face дээр ямар нэг хязгаарлалтгүйгээр үнэ төлбөргүй нийтэллээ.",
-   "body_mn": "Moonshot AI компани 2.8 триллион нийт параметр бүхий Kimi K3.1 Pro загварын бүрэн жинг Hugging Face дээр олон нийтэд үнэ төлбөргүй нээлттэй болголоо. Уг загвар нь MoE архитектуртай бөгөөд нэг токены хувьд 104 тэрбум идэвхтэй параметр ажилладаг нь тооцооллын зардлыг хэмнэхэд чухал нөлөөтэй юм. Загварын кодын сан нь 96 safetensors хэсгээс бүрдсэн 1.56 терабайт хэмжээтэй байна.\n\nГүйцэтгэлийн хувьд Kimi K3.1 Pro нь Anthropic-ийн тэргүүлэгч загваруудтай өрсөлдөхүйц үр дүнг үзүүлж байгаа бөгөөд код бичих, агент систем болон санхүүгийн судалгаа хийхэд илүүтэйгээр тохируулагджээ. Гэсэн хэдий ч энэхүү том загварийг өөрөө байршуулж ажиллуулахад Nvidia B300 зэрэг хүчирхэг GPU-ууд шаардлагатай юм. Мөн арилжааны зорилгоор бусдад үйлчилгээ үзүүлж, жилийн орлого нь 20 сая ам.доллараас давсан тохиолдолд Moonshot компанитай тусгай гэрээ байгуулах шаардлагатай лицензийн нөхцөлтэй аж.",
-   "published": "2026-11-05T02:55:48Z",
-   "added": "2026-11-07T19:45:51Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "38121c807a6520fa",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "36氪",
-   "url": "https://eu.36kr.com/en/p/4055498420524934",
-   "image": "https://img.36krcdn.com/hsossms/20261105/v2_52fa556e80d84ca4a1e6cf51ae48d62e@5091053@ai_oswg920050oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-   "title": "AI Era Business Strategy: Tencent's WorkBuddy-Centric Layout, Alibaba's Qwen AI, ByteDance's Doubao AI – Leading Competitive Enterprise AI Development",
-   "summary_en": "Tencent has officially launched a full-spectrum suite of AI-powered office solutions, deeply integrated with its expansive digital ecosystem, to secure a first-mover competitive advantage in the fast-growing global AI office technology track. This end-to-end integrated AI office portfolio unifies Tencent’s mature ecosystem resources, covering intelligent collaboration, automated document processing, smart meeting management, and AI-assisted workflow optimization, addressing the surging market demand for efficient, scenario-adaptive smart office tools amid fierce industry competition. By…",
-   "title_mn": "Tencent компани WorkBuddy болон AI оффисын шийдлүүдээ танилцууллаа",
-   "summary_mn": "Tencent компани WorkBuddy болон Tencent Cloud Drive хэрэгслүүдийг багтаасан AI оффисын шинэ системээ танилцуулж, агентуудын хамтын ажиллагааг сайжруулжээ.",
-   "body_mn": "Саяхан болсон Tencent Global Digital Ecosystem Conference хурлын үеэр тус компани AI оффисын салбарт хийсэн томоохон шинэчлэлтүүдээ зарлалаа. Үүнд WorkBuddy төвийг түшиглэсэн Buddy One оффисын систем багтаж байгаа бөгөөд Tencent Docs, Tencent Meeting, Tencent Cloud Drive зэрэг бүтээгдэхүүнүүдийг нэгдмэл данс, мэдээллийн сантай холбож өгчээ. Ингэснээр хэрэглэгчид олон янзын аппликейшн хооронд гараар шилжих шаардлагагүйгээр хиймэл оюун ухаанаар дамжуулан ажлаа нэгдсэн байдлаар гүйцэтгэх боломжтой болж байна.\n\nМөн компани Agents эрин үеийн санах ойн орон зай гэж тодорхойлсон Tencent Cloud Drive үйлчилгээг нэвтрүүлжээ. Энэхүү шийдэл нь зөвхөн файл хадгалахаас гадна хиймэл оюун ухааны агентуудын гүйцэтгэсэн ажлын түүх, хамтран ажиллах явцад боловсруулсан дүрмүүдийг аюулгүйгээр хадгалж, байгууллагын хэмжээнд хэрэглэгдэхүүн болгон хувиргах зорилготой юм. Энэ нь хөгжүүлэгчид болон байгууллагуудад AI-д суурилсан ажлын урсгалыг илүү үр дүнтэй зохион байгуулах боломжийг олгож байна.",
-   "published": "2026-11-05T05:20:27Z",
-   "added": "2026-11-07T19:45:51Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6e405dbcc88f5a73",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-cracks-down-video-game-060034811.html",
-   "image": "https://s.yimg.com/lo/mysterio/api/1ee0ac2b52bce1f88afaebb54083ceff4dfbfe289c419db6660a1fcdb1d036b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdigital_trends_973%2Fb58dcca5737056f5710114fbd7f37a62.jpg",
-   "title": "Anthropic cracks down on video game cloning with new Claude restrictions",
-   "summary_en": "AI has been making its way into video game development for a while now, but the recent developments have started raising some serious concerns. Popular games are being reverse-engineered with AI assistance, recreated for web browsers, and made playable on platforms they were never released for. Between all that, indie developers have started pulling down […]",
-   "title_mn": "Anthropic видео тоглоом хуулбарлахыг хориглох шинэ хязгаарлалт нэмэв",
-   "summary_mn": "Anthropic компани Claude Code хэрэгсэлдээ тодорхой видео тоглоомуудыг дахин бүтээх буюу хуулбарлахыг хориглосон шинэ зааварчилгаа нэмлээ.",
-   "body_mn": "Сүүлийн үед хиймэл оюун ухааны тусламжтайгаар алдартай видео тоглоомуудыг вэб хөтөч рүү хөрвүүлэх, эсвэл бусад систем дээр тоглуулах боломжтой болгож байгаатай холбоотойгоор зохиогчийн эрхийн асуудал хурцаар тавигдах болсон. Үүнтэй холбоотойгоор Anthropic компани Claude Code хэрэгсэлдээ тодорхой видео тоглоомуудыг хуулбарлахыг хориглосон шинэ хязгаарлалтуудыг нэвтрүүлснийг тус компани баталжээ. Шинэ дүрэм нь Claude-д хуучин тоглоомуудын кодыг дахин бичих, тэдгээрийг дуурайж бүтээхийг хориглож байгаа боловч хөгжүүлэгчид өөрсдийн оригиналь тоглоом болон төрөл жанрын төслүүд дээр ажиллах боломжийг хэвээр үлдээжээ.\n\nЭнэхүү арга хэмжээ нь тоглоом хөгжүүлэгч жижиг студиуд хиймэл оюун ухааны тусламжтайгаар бүтээлээ алдахаас эмээж демо хувилбаруудаа татахад хүрсэн нөхцөл байдлын дагуу хийгдсэн чухал алхам юм. Хэдийгээр эх кодыг задлан шинжлэх, тоглоом клойд хийх явдлыг хумих зорилготой боловч энд ямар нэг хэмжээгээр үндсэн хөгжүүлэгчдэд хүндрэл үүсэх эсэх нь одоогоор анхаарал татаж байна.",
-   "published": "2026-11-05T06:00:00Z",
-   "added": "2026-11-07T19:45:51Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6182214b16f65e62",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "METR",
-   "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
-   "image": "https://metr.org/assets/images/ai-rd-acceleration-assessment/home-card.png",
-   "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-   "summary_en": "METR's high-access assessment of the degree to which AI is accelerating AI research and development at Anthropic.",
-   "title_mn": "Anthropic компанид хиймэл оюун ухааны R&D хурдац тогтоосон нь",
-   "summary_mn": "METR байгууллага Anthropic компанид хиймэл оюун ухааны судалгаа хөгжүүлэлтийн хурдац болон эрсдэлийн үнэлгээ хийжээ.",
-   "body_mn": "METR байгууллагын судлаачид 2026 оны 8 дугаар сарын 12-ноос 10 дугаар сарын 29-ний хооронд Anthropic компанид хандалт хийж, хиймэл оюун ухааны системүүд R&D процессыг хэр зэрэг хурдасгаж байгааг судалсан байна. Үнэлгээний явцад урьдчилан бэлтгэх, бататгах сургалт, тооцооллын нөөц болон дотоод загваруудын үр дүнг нарийвчлан шинжлэхийг зорьжээ.\n\nГэвч Anthropic компани өрсөлдөгч хөгжүүлэгчдэд нөлөөлж болзошгүй нууц мэдээллийг хамгаалах зорилгоор нотлох баримтуудын дийлэнх хэсгийг хассан байна. Үүний улмаас олон нийт тайлан дахь дүгнэлтийг бие даан шалгах боломж хязгаарлагдмал болж, METR-ийн гаргасан субъектив дүгнэлтэд голлон найдахад хүрсэн аж.\n\nЭнэхүү тайлан нь хиймэл оюун ухаан хөгжүүлэгч компаниуд өөрсдөө өөрсдийнхөө технологиор хөгжлөө хурдасгах эрсдэл болон түүнийг хянах боломжийн талаар чухал асуудлуудыг хөндөж байна. Хөгжүүлэгчид болон судлаачдын хувьд frontier AI хөгжүүлэлтийн аюулгүй байдал, ил тод байдлын сорилтуудыг ойлгоход энэ нь үнэтэй мэдээлэл болж байна.",
-   "published": "2026-11-05T08:00:00Z",
-   "added": "2026-11-07T23:17:47Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "14e90e72d3401ddf",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/introducing-gpt-6-cyber",
-   "image": "",
-   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "summary_en": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-   "title_mn": "OpenAI кибер аюулгүй байдлын шинэ загвар GPT-6 Cyber-ийг танилцууллаа",
-   "summary_mn": "OpenAI эмзэг байдлыг илрүүлж засах чадвартай, зөвшөөрөгдсөн хүрээнд ажиллахаар тохируулагдсан GPT-6 Cyber моделио зарлалаа.",
-   "body_mn": "OpenAI компани системийн эмзэг байдлыг илрүүлж, аюулгүй байдлын засваруудыг боловсруулах зориулалттай GPT-6 Cyber загвараа албан ёсоор танилцууллаа. Энэхүү шинэ загвар нь кибер аюулгүй байдлын мэргэжилтнүүд болон хөгжүүлэгчдэд зориулсан тусгай агент юм.\n\nGPT-6 Cyber нь ашиглагдах боломжтой эмзэг цэгүүдийг бие даан илрүүлж, шаардлагатай засварын кодыг боловсруулах өндөр чадвартай. Хамгийн гол нь зөвхөн хэрэглэгчийн зөвшөөрсөн хүрээнд ажиллаж, ёс зүйн болон аюулгүй байдлын хязгаарлалтыг давахаас сэргийлсэн тохируулгатай бүтээгджээ.",
-   "published": "2026-11-05T09:00:00Z",
-   "added": "2026-11-08T02:36:56Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "823aed2e3614d00d",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Business Insider",
-   "url": "https://www.businessinsider.com/anthropic-engineer-addy-osmani-cognitive-surrender-warning-2026-11",
-   "image": "https://i.insider.com/6aeb404b9270da3cc6667f24?width=1200&format=jpeg",
-   "title": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work",
-   "summary_en": "\"When you can't explain the answer to a question, even by way of your agent, you've ceded ownership,\" Claude Code engineer Addy Osmani wrote.",
-   "title_mn": "Anthropic-ийн инженер AI хэрэгслээс шалтгаалсан сэтгэхүйн сулралын талаар анхааруулав",
-   "summary_mn": "Claude Code багийн инженер Addy Osmani AI агентуудад хэт найдах нь инженерүүдийн шүүмжлэлт сэтгэлгээг сулруулж байгааг анхаарууллаа.",
-   "body_mn": "Anthropic компанийн Claude Code багийн инженер Addy Osmani өдөр тутмын ажил нь AI агентууд руу шилжих тусам хөгжүүлэгчдийн шүүмжлэлт сэтгэлгээ суларч буйг анхааруулжээ. Тэрээр агентуудыг бүрэн ашиглаж, өөрийн гардан бичих кодыг эрс цөөлсөн ч өдөр тутмын ажилд гүн бодох шаардлага багасаж байгааг онцолсон байна.\n\nТүүний тайлбарласнаар AI ашиглалтад гурван түвшин байдаг: ажлыг даалгасан ч эцсийн хяналтыг гартаа байлгах (cognitive offloading), AI-ийн гаргасан үр дүнг шууд дараагийн алхам болгох (deferral), мөн загварын хариултад бүрэн найдах буюу танин мэдэхүйн бууж өгөлт (cognitive surrender). Сүүлийн хэлбэрийг байнга давтах нь хөгжүүлэгчийн ур чадварыг доройтуулах эрсдэлтэй гэж тэрээр үзэж байна.\n\nOsmani инженерүүдийг AI ашиглахаа зогсоох биш, харин код шалгах циклийг зуршил болгож, хариултыг хүлээж авахаасаа өмнө таамаглал дэвшүүлдэг байхыг уриалжээ. Чухал биш даалгавруудыг бүрэн даалгаж болох ч системийн үндсэн логик болон хариултыг тайлбарлаж чадахаа болих нь эрсдэлтэйг тэрээр сануулсан байна.",
-   "published": "2026-11-05T10:00:00Z",
-   "added": "2026-11-08T02:36:56Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "8f0bbe79fd0c1768",
    "subtopic": "anthropic",
    "source": "Anthropic (Google News)",
@@ -877,6 +677,46 @@
    "added": "2026-11-09T17:12:02Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0dba9d44ccc6b95d",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Courthouse News",
+   "url": "https://www.courthousenews.com/anthropic-must-face-claims-its-claude-max-pitch-misled-users",
+   "image": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg",
+   "title": "Anthropic must face claims its Claude Max pitch misled users",
+   "summary_en": "A federal judge said customers could reasonably read Anthropic’s promise of “5x or 20x more usage” as applying monthly.",
+   "title_mn": "Anthropic Claude Max төлөвлөгөөний хэрэглээний хязгаарлалтын маргаанаар шүүхэд дуудагдав",
+   "summary_mn": "АНУ-ын шүүгч Anthropic компани Claude Max багцынхаа «5x эсвэл 20x илүү хэрэглээ» амлалтаар хэрэглэгчдийг төөрөлдүүлсэн байж болзошгүй гэж үзэн нэхэмжлэлийг хэрэгсэхгүй болгохоос татгалзлаа. Хэрэглэгчид сарын турш ашиглах хэмжээгээр бус өдөр тутмын богино хуралдааны хязгаарлалтаар харьцангуй бага эрх авч байгаагаа шүүмжилжээ.",
+   "body_mn": "Калифорнийн холбооны шүүгч Алекс Це Anthropic компанид холбогдох Claude Max хэрэглэгчдийн төлөөлсөн нэхэмжлэлийг үргэлжлүүлэх шийдвэр гаргав. Тус компани Claude Max 5x болон 20x багцууд нь Pro хувилбараас тав эсвэл хорь дахин их хэрэглээ олгоно гэж сурталчилдаг боловч долоо хоногийн хязгаар нь үүнээс бага байгааг хэрэглэгчид шүүмжилсэн байна.\n\nНэхэмжлэгчдийн тооцоолсноор Max 20x хэрэглэгчид Pro-оос долоо хоногт ердөө 6 дахин их, харин Max 5x хэрэглэгчид 3.5 дахин их эрх авч байгаа ажээ. Anthropic компани энэхүү хязгаарлалт нь таван цагийн сесс бүрт үйлчлхийг тусламжийн хуудас дээрээ тайлбарласан гэж мэтгэлцсэн ч шүүгч үүнийг үндсэн худалдааны хуудаснаас хол хоёр линкний цаана байрладаг хэмээн үзэж татгалзжээ.\n\nШүүх хэрэглэгчид төлбөрөө сар бүр төлдөг тул энэхүү амлалтыг бүтэн сарын хугацаанд хэрэгжинэ гэж ойлгох нь зүй ёсных гэж үзсэн байна. Тус маргаан нь хиймэл оюун ухааны үйлчилгээ үзүүлэгчдийн хэрэглээний хязгаарлалт болон маркетингийн амлалтын хоорондын зөрчилдөөнийг хуулийн хүрээнд хөндсөн анхны томоохон тохиолдлуудын нэг болж байна.",
+   "published": "2026-11-07T04:11:33Z",
+   "added": "2026-11-10T00:47:05Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7c930b9633325058",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Asia Times",
+   "url": "https://asiatimes.com/2026/11/what-alibaba-left-blank-about-qwen4/",
+   "image": "https://asiatimes.com/wp-content/uploads/2026/11/Qwen4-China-AI-Alibaba-Artificial-Intelligence-China-Tech.jpg",
+   "title": "What Alibaba left blank about Qwen4",
+   "summary_en": "A company whose machines are trained to predict the next word has left one for us to supply. On Friday (November 6), Alibaba’s Qwen released a poster",
+   "title_mn": "Alibaba Qwen4-ийн тухай нууцлаг постер гаргаж, моделийн нэр болон бенчмарк зарлаагүй",
+   "summary_mn": "Alibaba-ийн Qwen баг 11-р сарын 6-нд Qwen4 гэж таамаглуулж болох постер нийтлэв. Постер дээр моделийн нэр, гарах огноо, техникийн мэдээлэл байхгүй. Компанийн өмнөх илтгэлээс харахад томоохон хиймэл оюуны дэд бүтэц бэлтгэж байгаа нь тодорхой байна.",
+   "body_mn": "Alibaba-ийн Qwen баг 11-р сарын 6-нд шинэ постер нийтлэв. Постер дээр хятад сонгодог шүлгийн нэг мөр бүтэн бус байрлаж, \"The becoming begins\" гэсэн англи үг дагалдсан байна. Тайлбарт нь Qwen4 гэдэг нэр таамаглагдаж байгаа ч компани гарах огноо, техникийн мэдээлэл, бенчмарк зарлаагүй.\n\nПостерын зураг Чжуанзигийн домогт гардаг Кун гэдэг асар том загасыг дүрсэлсэн бөгөөд тэр нь Пэн шувуу болон хувирдаг. Энэ нь жижиг загвараас том загвар руу шилжих зорилготой гэж тайлбарлагдаж байна.\n\nAlibaba-ийн гүйцэтгэх захирал Эдди Ву 9-р сарын 22-ны Apsara бага хурлаар Zhenwu V900 чип, 500,000 карт хүртэлх кластер, 2032 он гэхэд 20 гигават дата төвийн хүчин чадлын зорилт зарласан. Энэ нь загварын цаана дэд бүтэц бэлтгэж байгааг харуулж байна.\n\nХөгжүүлэгчдэд энэ нь чухал, учир нь Qwen-ийн нээлттэй жингийн загварууд аль хэдийн өргөн тархсан. Өнөөдөр Qwen-ээс гаралтай загварын хувилбарууд илүү их ашиглагдаж байгаа тул Qwen4 гарвал шинэ загвар, API болон локал ажиллуулах боломжийг хүлээж байгаа нь зүйтэй.",
+   "published": "2026-11-07T05:09:54Z",
+   "added": "2026-11-10T00:47:05Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
   }
  }
 ]
