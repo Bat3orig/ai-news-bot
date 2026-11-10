@@ -1,0 +1,17 @@
+{
+ "id": "69121cd6e2161c65",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/glm-5-3-flash-is-now-available-in-token-pass",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4EWqeXhnwi0B9RmYultrDe/c2130d5b88ce2800d7aebf655ae94261/og_flash-token-pass-og.png",
+ "title": "GLM 5.3 Flash is now available in Token Pass",
+ "summary_en": "Token Pass now includes GLM 5.3 Flash , alongside Kimi K3, GLM 5.3, and DeepSeek V4.1 Flash (with more models to come). GLM 5.3 Flash is Z.ai's native multimodal coding model with a 1M-token context window. Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gateway . Use it with any coding agent such as fx , Pi , Cline , Command Code etc. or build your own with the AI SDK, with Zero Data Retention enabled by default. Add GLM 5.3 Flash from the Token Pass page in your team's AI Gateway dashboard, or read the Token Pass documentation for…",
+ "title_mn": "Vercel Token Pass үйлчилгээнд GLM 5.3 Flash загвар нэмэгдлээ",
+ "summary_mn": "Vercel-ийн Token Pass платформд 1 сая жетоны контекст цонхтой Z.ai-ийн GLM 5.3 Flash код бичих загвар нэмэгдлээ.",
+ "body_mn": "Vercel компани Pro багийн хэрэглэгчдэд зориулсан Token Pass үйлчилгээндээ шинээр GLM 5.3 Flash загварыг нэмсэн байна. Энэхүү загвар нь Z.ai компаниас гаргасан үндсэн олон талт код бичих загвар бөгөөд бүтэн 1 сая жетоны контекст цонхыг дэмждэг ажээ.\n\nToken Pass нь сарын 30 долларын төлбөртэйгээр 80 долларын кредит олгодог бөгөөд AI Gateway дамжуулан ажилладаг. Хөгжүүлэгчид fx, Pi, Cline, Command Code зэрэг ямар ч код бичих агенттай хамтатган ашиглах эсвэл AI SDK ашиглан өөрийн агентыг бүтээх боломжтой юм.\n\nМөн энэхүү үйлчилгээ нь өгөгдлийг хадгалдаггүй (Zero Data Retention) горимоор анхдагч байдлаар ажилладаг тул кодын аюулгүй байдал болон нууцлалыг хангахад тохиромжтой шийдэл болж өгч байна.",
+ "published": "2026-11-09T00:00:00Z",
+ "added": "2026-11-10T07:55:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

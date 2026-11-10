@@ -1,0 +1,17 @@
+{
+ "id": "2a2df2e35f235153",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "HackerNoon",
+ "url": "https://hackernoon.com/secure-code-benchmark-finds-top-coding-agents-write-secure-code-only-25percent-of-the-time",
+ "image": "https://hackernoon.imgix.net/images/n5ld9fKE5xhTwn7KxPGA8cNuAi42-y383awj.png",
+ "title": "Secure Code Benchmark Finds Top Coding Agents Write Secure Code Only 25% of the Time",
+ "summary_en": "A 450-task benchmark built from real CVEs shows even the best AI coding agent writes code that's both working and secure only 25% of the time.",
+ "title_mn": "Secure Code Benchmark: Коoding agents аюулгүй код бичих нь ердөө 25 хувь байна",
+ "summary_mn": "Шинэ судалгаагаар AI coding agents функцийн хувьд 73-91% амжилттай ажилладаг ч аюулгүй байдлын шаардлагыг ердөө 25% хангасан код бичдэг нь тогтоогджээ.",
+ "body_mn": "Alibaba Cloud-ийн судлаачдын танилцуулсан Last Secure Code Benchmark (LSCBench) нь AI coding agents буюу хиймэл оюуны код бичих агентуудын аюулгүй байдлын түвшинг шалгадаг цогц үнэлгээ юм. Энэхүү бенчмарк нь 150 бодит эмзэг байдал дээр суурилсан бөгөөд 7 хэл, 24 төрлийн CWE-г хамарсан 450 даалгаврыг агуулдаг.\n\nСудалгаагаар хөгжүүлэгчдийн өргөн ашиглаж буй AI агентууд функцийн хувьд 73.6%-аас 91.3%-ийн гүйцэтгэл үзүүлж байгаа хэдий ч бичсэн код нь аюулгүй байдлын шаардлагыг бүрэн хангаж чадахгүй байгааг харуулжээ. Тухайлбал, хамгийн хүчтэй гэгдэх Claude Fable 5 загвар л гэхэд функциональ болон аюулгүй байдлын шалгуурыг хамтдаа 25.1%-д л хангасан байна.\n\nЭнэ нь код бичих явцыг хялбарчилж буй vibes coding буюу хиймэл оюунд даалгаж кодоо бичүүлэх хандлага нь нууц түлхүүр алдах, хамгаалалтын алдаа гаргах зэрэг эрсдэлийг дагуулж болзошгүйг сануулж байна. Хөгжүүлэгчид агентуудын бичсэн кодын логикийг шалгахаас гадна аюулгүй байдлын тал дээр нь онцгой анхаарах шаардлагатайг уг үнэлгээ харуулж байна.",
+ "published": "2026-11-08T13:18:46Z",
+ "added": "2026-11-10T07:55:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

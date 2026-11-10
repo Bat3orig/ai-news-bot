@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "8f0bbe79fd0c1768",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Tom's Hardware",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy",
-   "image": "https://cdn.mos.cms.futurecdn.net/Kc5XZJfVxj3uECzne3uBJ3-1920-80.jpg",
-   "title": "Anthropic loosens Claude's game cloning ban — AI will now offer to build original games in the requested genre",
-   "summary_en": "The update is expected to reduce false positives and allow game developers to use the tool for their own legitimate projects without getting blocked.",
-   "title_mn": "Anthropic тоглоом хуулбарлах хязгаарлалтаа зөөллөв",
-   "summary_mn": "Claude Code 2.1.317 хувилбарт тоглоом хуулбарлахыг шууд хориглохын оронд тухайн төрлийн өөр шинэ тоглоом бүтээхийг санал болгодог болжээ.",
-   "body_mn": "Anthropic компани Claude загварт тавьсан видео тоглоомыг хуулбарлах болон урвуу инженерчлэл хийхийг хориглосон хатуу дүрмээ зөөллөлөө. Өмнө нь Opus 5.5-ийн зааварт орсон хатуу хоригоос болж ямар нэг тоглоомын механизмыг жишээ болгон дурдсан энгийн хөгжүүлэгчдийн хүсэлт ч цуцлагдаж, гомдол дагуулж байсан юм.\n\nКомпанийн инженер Addy Osmani-ийн мэдээлснээр Claude Code-ийн 2.1.317 шинэчлэлтэд дүрмийг өөрчилсөн байна. Хэрэглэгч хүссэн тоглоомынхоо нэрийг дурдаж механикийг нь тайлбарлавал Claude тухайн төрөлд хамаарах өвөрмөц, цоо шинэ тоглоом хөгжүүлэхийг санал болгодог болжээ. Харин яг ижил хуулбарыг хийхийг хүсвэл төстэй хувилбар бүтээх хувилбарыг санал болгоно.\n\nЭнэхүү шинэчлэл нь жижиг студиудын инди тоглоомын демо хувилбарыг AI ашиглан хууль бусаар хуулбарлан барьцаалах явдлаас сэргийлэхийн зэрэгцээ хууль ёсны хөгжүүлэгчдийн өдөр тутмын ажлыг тасалдуулахгүй байх тэнцвэрийг хангахад чиглэжээ.",
-   "published": "2026-11-05T11:00:00Z",
-   "added": "2026-11-08T09:44:57Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "02985969415cadb4",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha",
-   "image": "https://nodejs.org/en/next-data/og/announcements/Node.js%20%E2%80%94%20Notable%20V8%20changes%20from%20Node.js%2026%20to%2027%20(Alpha)",
-   "title": "Notable V8 changes from Node.js 26 to 27 (Alpha)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 27 (Alpha) хувилбарын V8 15.6 шинэчлэлтийн онцлох өөрчлөлтүүд",
-   "summary_mn": "Node.js 27 Alpha нь V8 15.6 хувилбарыг нэвтрүүлж Math.sumPrecise, шинэ Iterator аргууд болон PowerSort алгоритмыг авчирлаа.",
-   "body_mn": "Node.js 27 Alpha хувилбарт V8 хөдөлгүүрийг 14.6-аас 15.6 болгон ахиулснаар JavaScript хэлний хэд хэдэн чухал боломжууд болон сайжруулалтууд нэмэгдлээ. Alpha болон Current шатанд V8-ийн томоохон өөрчлөлтүүд орж ирдэг тул native addon хөгжүүлэгчид NODE_MODULE_VERSION өөрчлөлтийг анхаарах шаардлагатай байна.\n\nХэлний боломжуудаас дурдвал, хөвөгч таслалтай тоонуудын нарийвчлалын алдагдлыг бууруулах Math.sumPrecise нэмэгдэж, Intl.Locale.prototype.variants getter болон шинэ iterator аргууд суугджээ. Мөн том хэмжээтэй массивуудын Array.prototype.sort() үйлдэлд TimSort алгоритмын оронд PowerSort ашиглагдах болсон нь эрэмбэлэх хурдад эерэгээр нөлөөлөх хэдий ч comparator дуудалтын тоо өөрчлөгдөж магадгүй юм.\n\nҮүнээс гадна Math.random() нь кэш ашиглахгүйгээр шууд xorshift128+ генератороор ажилладаг болж, LLVM libm санг ашигласнаар зарим математик функцүүдийн үр дүнд өчүүхэн өөрчлөлт орох боломжтой болжээ. ES модуль дахь top-level await болон Atomics API-тай холбоотой алдаануудыг стандартын дагуу засварласан байна.",
-   "published": "2026-11-05T12:00:00Z",
-   "added": "2026-11-08T09:44:57Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c2bf9343b8b77437",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Register",
-   "url": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
-   "image": "https://image.theregister.com/5307922.jpg?imageId=5307922&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-   "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
-   "summary_en": "From EOP to RCE in six simple steps",
-   "title_mn": "Claude Dispatch-ийн цоорхойгоор компьютерт алсаас код ажиллуулах эрсдэл илрэв",
-   "summary_mn": "Хөтчийн өргөтгөлөөр дамжин Claude Desktop-д дурын тушаал биелүүлэх боломжтой ThisBash цоорхойг аюулгүй байдлын шинжээч илрүүллээ.",
-   "body_mn": "Forever Security компанийн судлаач Gal Weizman Anthropic-ийн Claude бүтээгдэхүүнээс ThisBash хэмээх системийн эмзэг байдлыг илрүүлснээ мэдээллээ. Энэхүү цоорхой нь хортой хөтчийн өргөтгөлийн тусламжтайгаар Claude Dispatch-ийн API-д хандаж, Claude Desktop ажиллаж буй компьютерт дурын код биелүүлэх боломжийг олгодог байна.\n\nСудлаачийн үзэж буйгаар тухайн өргөтгөл нь эрхээ ахиулж системийн файл руу хандах, хортой npm багц суулгах зэргээр үйлдлийн системийг бүхэлд нь хянах боломжтой. Weizman уг асуудлыг 5 дугаар сард Anthropic-д анх мэдэгдсэн боловч тус компани үүнийг аль хэдийн мэдэгдсэн алдаа гэж үзэн тусгай CVE олгоогүй бөгөөд Dispatch боломжийг бүрмөсөн хаана гэж мэдэгдсэн байна.\n\nГэвч энэхүү архитектурын сул тал нь Claude Code Remote Control болон claude.ai-тай сесс хуваалцдаг Claude Cowork зэрэг бусад шинэ функцүүдэд ч адил эрсдэл үүсгэж болзошгүйг шинжээч анхааруулж байна. Хөгжүүлэгчид болон хэрэглэгчид хөтөч дээрээ сэжигтэй өргөтгөл суулгахаас сэрэмжлэх шаардлагатайг санууллаа.",
-   "published": "2026-11-05T13:00:00Z",
-   "added": "2026-11-08T09:44:57Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "33edc5cc6f7856b3",
-   "subtopic": "css-web",
-   "source": "CSS-Tricks",
-   "source_label": "CSS-Tricks",
-   "url": "https://css-tricks.com/taming-typography-modern-css-reset/",
-   "image": "https://css-tricks.com/wp-content/uploads/2019/02/text-wrap.png",
-   "title": "Taming Typography: Building a Modern CSS Reset",
-   "summary_en": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts. Taming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
-   "title_mn": "Орчин үеийн CSS боломжуудаар типографийн reset бүтээх нь",
-   "summary_mn": "CSS-Tricks орчин үеийн CSS-ийн text-wrap: pretty, text-box-trim, cqi нэгж зэргийг ашиглан типографийн шинэ reset stylesheet бүтээх зааврыг танилцууллаа. Эдгээр шийдлүүд нь текстийн уншигдах чанар, зөв мөр хуваалтыг хялбарчилж байна.",
-   "body_mn": "Вэб хөгжүүлэлтэд текстийн хэв маягийг удирдах CSS-ийн шинэ стандартууд олноор нэвтэрч байна. CSS-Tricks-ээс гаргасан tidy-typography.css нь гарчиг болон эх бичвэрийн мөр хуваалтыг оновчлох, үсгийн фонт солигдох үеийн үсрэлтийг багасгах, зайн хэмжээг зөв тохируулах орчин үеийн шийдлүүдийг нэгтгэжээ.\n\nУг шийдэлд text-wrap: pretty болон balance шинж чанаруудыг ашигласнаар сүүлийн мөрөнд ганц үг тасран үлдэхээс (orphan) сэргийлж, JavaScript нэмэлт кодгүйгээр текстийг тэгш хуваарилж байна. Мөн контейнер кверигийн cqi нэгжийг clamp() функцтэй хослуулснаар гарчгийн хэмжээг дэлгэцийн өргөнөөс биш, байрлаж буй баганынхаа хэмжээнээс хамаарч уян хатан өөрчлөгддөг болгосон нь онцлог юм.\n\nҮүнээс гадна text-box-trim болон text-box-edge шинж чанаруудаар үсгийн мөрийн илүү зайг хасч, текстийг бусад элементтэй нарийн тэгшлэх боломжийг харуулжээ. Эдгээр шинэ чанарууд нь бүх хөтөч дээр бүрэн нэвтрээгүй тул @supports ашиглан аюулгүй байдлаар нэвтрүүлэхийг зөвлөсөн байна.",
-   "published": "2026-11-05T14:55:31Z",
-   "added": "2026-11-08T09:44:57Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "27b87d65d3f99406",
-   "subtopic": "gemini",
-   "source": "Google AI Blog",
-   "source_label": "Google AI Blog",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "summary_en": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
-   "title_mn": "Gemini Omni 1.2 Flash: 15 секундын видеог илүү хямд үнээр гаргах боломжтой боллоо",
-   "summary_mn": "Google Gemini Omni 1.2 Flash загварыг Gemini API болон Gemini for business дээр ерөнхийдөө боломжтой болгожээ. Загвар 15 секундын видео үүсгэх, олон шатт яриагаар засах боломжийг санал болгож, үнэ өмнөхөөсөө 30%-иар буурсан.",
-   "body_mn": "Google Gemini Omni 1.2 Flash загварыг Gemini API болон Gemini for business дээр ерөнхийдөө боломжтой болгож эхэллээ. Шинэ загвар нь уугуул 15 секундын видео үүсгэх, олон шатт харилцан ярианаар видеог засах, лавлагаа зургийг илүү сайн дагах чадвартай.\n\nҮнийн хувьд 720p видеоны секунд тутмын үнэ 0.07 доллар бөгөөд Omni 1.1-тэй харьцуулахад 30%-иар буурсан. Хөгжүүлэгчид 360p эсвэл 720p-ээр хурдан драфт гаргаж, дараа нь 1080p эсвэл 4K хүртэл өсгөх ажлын урсгалыг ашиглаж зардлаа бууруулах боломжтой.\n\nӨмнөх хувилбарт видеоны урт 10 секунд байсан бол одоо 3-15 секундын хооронд секунд тутмаар тохируулах боломжтой. Зураг, богино хөдөлгөөний клип болон аудио дохиогоор генерацийг чиглүүлэх боломжтой бөгөөд дүрийн болон бүтээгдэхүүний дүрс эхнээс төгсгөл хүртэл тогтвортой байна.\n\nЭнэ нь бүтээгдэхүүний видео реклам, каталогийн видео, виртуал оёдлын туршилт зэрэг програмд API-аар интеграц хийх хөгжүүлэгчдэд шууд ашигтай. Үнэ, урт, засварлах боломж гурвын хувьд өөрчлөлт нь API дуудалтын зардал болон ажлын урсгалд шууд нөлөөлнө.",
-   "published": "2026-11-05T17:00:00Z",
-   "added": "2026-11-08T16:27:50Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2353d049f2c2fce0",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2ZF3gzAxqGfFmHG5jCSOoa/1c99ef7ca41798b01e1a8a2273f38f65/schedules-og.png",
-   "title": "Vercel Schedules is now in public beta",
-   "summary_en": "Vercel Schedules is now in public beta on all plans. Run tasks on a recurring cadence or at a single point in time, in production, preview, or custom environments. Schedules in vercel.json can target a private Vercel Function, an HTTP path, or a Vercel Queue topic, and schedules created at runtime target a Queue topic. Any schedule can be enabled, disabled, or run on demand without redeploying. Define a static schedule: Adding a schedule/v1beta trigger makes the function private. It has no public URL and only the Vercel schedule infrastructure can invoke it. Handle the dispatch: Create a…",
-   "title_mn": "Vercel Schedules нийтийн бета хувилбараар бүх төлөвлөгөөнд боломжтой боллоо",
-   "summary_mn": "Vercel Schedules бүх төлөвлөгөөнд нийтийн бетагаар гарлаа. Давтамжтай эсвэл нэг удаагийн ажлуудыг production, preview болон өөрчилсөн орчинд ажиллуулах боломжтой. Энэ нь Cron Jobs-ийн залгамжлагч юм.",
-   "body_mn": "Vercel Schedules бүх төлөвлөгөөнд нийтийн бета хувилбараар боломжтой боллоо. Үүгээр давтамжтай эсвэл нэг цэгт ажиллах ажлуудыг production, preview болон өөрчилсөн орчинд төлөвлөх боломжтой.\n\nvercel.json дотор тохируулсан schedule нь private Vercel Function, HTTP зам эсвэл Vercel Queue topic руу чиглэж болно. Ажлын үед үүсгэсэн schedule нь Queue topic руу чиглэнэ. Schedule-ийг дахин deploy хийлгүйгээр идэвхжүүлэх, идэвхгүй болгох, шууд ажиллуулах боломжтой.\n\nschedule/v1beta trigger нэмэхэд функц нь private болж, зөвхөн Vercel schedule дэд бүтэц дуудах боломжтой. Dispatch-ийг @vercel/schedules багцын handleSchedule-ээр боловсруулна.\n\nҮнийн хувьд Pro болон Enterprise төлөвлөгөөнд 1 сая ажиллагаа 5 доллар, 1 сая үүсгэлт 10 доллар. Hobby төлөвлөгөөнд сард 500 үүсгэлт, 5000 ажиллагаа үнэгүй. Cron Jobs-тэй хамт ажиллах бөгөөд шилжүүлэх гарын авлага бий.",
-   "published": "2026-11-05T17:00:00Z",
-   "added": "2026-11-08T16:27:50Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a7a49b442f2da86a",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.47.0",
-   "image": "https://opengraph.githubassets.com/8f2ae3fc4a08219017ce66bc409b0da2cecbc0d9328edd4996ed722d56f29bab/openai/openai-python/releases/tag/v3.47.0",
-   "title": "openai-python v3.47.0",
-   "summary_en": "3.47.0 (2026-11-05) Features api: add a model option for Responses ( #4249 ) ( 090098f )",
-   "title_mn": "openai-python v3.47.0: Responses API-д model сонголт нэмэгдлээ",
-   "summary_mn": "OpenAI-ийн Python SDK-ийн 3.47.0 хувилбар 2026 оны 11-р сарын 5-нд гарсан. Хувилбарт Responses API-д model сонголтыг нэмсэн шинэчлэл багтжээ.",
-   "body_mn": "OpenAI-ийн rasmi Python SDK openai-python-ийн 3.47.0 хувилбар 2026 оны 11-р сарын 5-нд гарсан. Энэ хувилбарын changelog-д гол шинэчлэл нь Responses API-д model параметрийг нэмсэн явдал юм.\n\nChangelog-д зөвхөн \"api: add a model option for Responses\" гэсэн нэг feature бичигдсэн байна. Pull request дугаар #4249 болон commit 090098f-ийг холбон харуулсан. Нарийн параметрийн нэр, өгөгдмөл утга зэрэг дэлгэрэнгүй мэдээлэл энэ текстэд байхгүй.\n\nDeveloper-ийн хувьд SDK-г шинэчлэх нь Responses API дуудлагадаа model-ийг шууд тодорхойлох боломжтой болгож байна. Хэрэв таны код одоо model-ийг өөр аргаар тохируулж байгаа бол шинэ хувилбарт шилжихээс өмнө changelog-оо шалгаарай.",
-   "published": "2026-11-05T18:04:10Z",
-   "added": "2026-11-08T16:27:50Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c190694f83b49aa7",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Unite.AI",
-   "url": "https://www.unite.ai/anthropic-introduces-read-only-personal-finance-beta-in-claude/",
-   "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-introduces-read-only-personal-finance-beta-in-claude.jpg",
-   "title": "Anthropic Introduces Read-Only Personal Finance Beta in Claude",
-   "summary_en": "Anthropic announced Personal Finance in Claude on November 5, 2026, introducing a beta that lets eligible US subscribers connect financial accounts through Plaid and ask questions about their balances, transactions and s...",
-   "title_mn": "Anthropic Claude-д унших эрхтэй Personal Finance бета туршилтыг эхлүүлжээ",
-   "summary_mn": "Anthropic 2026 оны 11-р сарын 5-нд Claude-д санхүүгийн мэдээллийг зөвхөн унших Personal Finance бетаг зарлав. Plaid-ээр дамжуулан АНУ-ын Pro, Max, Ultra хэрэглэгчид холбогдох боломжтой.",
-   "body_mn": "Anthropic 2026 оны 11-р сарын 5-нд Claude-д Personal Finance гэсэн бета функцийг зарлав. Энэ функцээр АНУ-ын эligible хэрэглэгчид банк болон бусад санхүүгийн дансаа Plaid-ээр холбож, үлдэгдэл, гүйлгээ, зарцуулалтын талаар асуулт асууж болно. Функц зөвхөн уншихад зориулагдсан бөгөөд Claude мөнгө шилжүүлэх, удирдах, хөрөнгө оруулах боломжгүй.\n\nТуршилт аажмаар нээгдэж байгаа бөгөөд зөвхөн Pro, Max, Ultra тарифтай хэрэглэгчдэд, web, Claude Desktop, iOS болон Android аппликейшнд явагдана. Free, Team, Enterprise тарифууд хамрагдахгүй. Anthropic-ийн жишээнд нийт 4,309.37 долларын зарлагыг ангилж, сарын хооронд харьцуулах зэрэг боломжууд харагдсан.\n\nХөгжүүлэгчдэд ач холбогдол нь Claude-ийн хэрэглэгчийн мэдээлэлтэй ажиллах шинэ хэрэглээний талбар нэмэгдэж буйд оршино. Гэхдээ өгөгдөл чатын түүхэд хадгалагдах, шared link-ээр мэдээлэл алдагдах эрсдэл зэрэг нууцлалын нөхцлүүдийг анхаарах хэрэгтэй.",
-   "published": "2026-11-05T18:17:02Z",
-   "added": "2026-11-08T16:27:50Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e2ba23cdc2c8dae2",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Blog",
-   "source_label": "GitHub Blog",
-   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-   "image": "https://github.blog/wp-content/uploads/2026/01/4ba0cd42388a255e04c78e5143548f22e577d68e0f15f68e6a3c76c18b927981-1920x1080-1.png",
-   "title": "Inside GitHub’s new Git storage architecture",
-   "summary_en": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.",
-   "title_mn": "GitHub шинэ Git хадгалалтын архитектурынхаа дэлгэрэнгүйг нийтлэв",
-   "summary_mn": "GitHub нь агент хөгжүүлэлтэд зориулсан шинэ Git хадгалалтын архитектураа танилцуулав. Туршилтад нэг repo дээр 5,000 зэрэгцээ агент, секундэд 7,200 push-ийг давсан гэжээ.",
-   "body_mn": "GitHub GitHub Universe дээр шинэ Git хадгалалтын архитектураа зарлаж, дэлгэрэнгүйг blog-оор нийтэлжээ. Дотоод туршилтаар нэг repository дээр 5,000 зэрэгцээ агент ажиллаж, секундэд 7,200 push хийгдэх боломжтойг харуулсан гэж мэдээлсэн.\n\nГол зарчим нь нэг бичилт бүр зохион байгуулалт шаарддаггүй гэдэгт суурилна. Git объектууд immutable тул хоёр бичээч зэрэг хадгалж болно. Харин reference шинэчлэлт л санал нийцэл шаарддаг. Энэ нь storage, serving, repository удирдлагыг бие даан масштабжуулах боломж олгодог.\n\nҮүнээс гадна 99.99999% repository-г Azure руу шилжүүлж, Azure Blob Storage дээр суурилсан virtual replica-г нэвтрүүлсэн. Хөгжүүлэгчдэд Git өөрөө хэвээр байх бөгөөд push, fetch, branch-ийн хэрэглээ өөрчлөгдөхгүй гэж онцолжээ. Цуврал нийтлэлийн эхний хэсэг учраас дэлгэрэнгүй техникийн мэдээлэл дараагийн постуудад багтана.",
-   "published": "2026-11-05T20:23:21Z",
-   "added": "2026-11-08T16:27:50Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "04226e1e49748cf6",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Anthropic",
-   "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0c1a04cc7042949252ee54565755780fe21d5ecf-1200x630.jpg",
-   "title": "How scientists use Claude",
-   "summary_en": "We analyzed 207,000 research sessions to learn how Claude is used in science, why some tasks get more use than others, and how AI could speed up discovery.",
-   "title_mn": "Anthropic: Эрдэмтэд Claude-г хэрхэн ашиглаж буйн судалгаа",
-   "summary_mn": "Anthropic эрдэм шинжилгээний ажилд Claude, Claude Code болон Claude Science-г хэрхэн ашиглаж буйг судлав. Мэдээллийн шинжилгээ, бичвэр бичихэд хамгийн их ашигладаг гэж тайлагнасан.",
-   "body_mn": "Anthropic эрдэмтдийн Claude-ийн хэрэглээг хамгаалагдсан өгөгдлийн дэд бүтцээр судалсан тайланг нийтэлжээ. Тайлангийн дагуу компьютерийн шинжлэх ухаан, математик, статистик зэрэг албан ёсны шинжлэх ухаанд Claude хүн амаас харьцангуй илүү ашиглагддаг. Харин эрүүл мэнд болон лабораторид суурилсан физикийн салбарт бага ашиглагддаг.\n\nЭрдэмтэд Claude-г өгөгдөл шинжлэх болон бичиг баримт бичихэд илүү ашигладаг бол өгөгдөл цуглуулах, таамаглал гаргахад бага ашигладаг гэжээ. Энэ нь салбар бүрийн даалгаврын шинж чанартай холбоотой гэж тайланд дурджээ.\n\nТайланд одоогийн чадварын түвшиндээ зарим салбарт судалгааны гаралт хоёр дахин нэмэгдэж болно гэсэн тооцоо багтжээ. Хамгийн их нөлөөтэй салбар нь AI-г бүтээдэг салбарууд байж магадгүй гэж үзсэн нь хөгжүүлэгчдэд ч сонирхолтой байна.\n\nЭнэ тайлан нь шууд бүтээгдэхүүний шинэчлэл биш ч AI хэрэглээний хэв маягийг ойлгоход ашигтай мэдээлэл юм.",
-   "published": "2026-11-05T23:29:34Z",
-   "added": "2026-11-08T20:41:02Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "806e32dbedfa7e5e",
    "subtopic": "vercel-cloud",
    "source": "Vercel",
@@ -717,6 +517,126 @@
    "added": "2026-11-10T00:47:05Z",
    "ai": "claude:claude-haiku-5-5",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fad1a2f0e1ff9069",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Startup Fortune",
+   "url": "https://startupfortune.com/alibabas-qoder-makes-a-mystery-coding-model-called-qoduck-free-to-use/",
+   "image": "https://startupfortune.com/wp-content/uploads/2026/11/qoder-qoduck-alibaba.jpg",
+   "title": "Alibaba's Qoder makes a mystery coding model called Qoduck free to use",
+   "summary_en": "Alibaba's Qoder launched the stealth model Qoduck on November 7, free within a daily quota for individuals. Its maker and benchmarks remain undisclosed.",
+   "title_mn": "Alibaba-ийн Qoder код бичих хэрэгсэлд шинэ Qoduck загварыг үнэгүй нэмжээ",
+   "summary_mn": "Alibaba компанийн Qoder хөгжүүлэлтийн хэрэгсэлд Qoduck нэртэй нууцлаг загварыг нэмж, тодорхой хязгаар хүртэл үнэгүй ашиглах боломжтой болголоо. Энэхүү загвар нь 1 сая токенийн контекст цонхтой байж магадгүй хэмээн хөгжүүлэгчид таамаглаж байна.",
+   "body_mn": "Alibaba компанийн бүтээсэн Qoder код бичих хэрэгсэлд Qoduck хэмээх шинэ загвар нэмэгдсэн байна. Тус компанийн баримт бичигт дурдсанаар, Free болон Ultra төлөвлөгөөний хувь хүний хэрэглэгчид өдөр тутмын эрхийнхээ хүрээнд уг загварыг ямар нэгэн кредит зарцуулалгүйгээр үнэгүй ашиглах боломжтой аж.\n\nКомпани уг загварын гарал үүсэл болон жинхэнэ нэрийг нууц хэвээр үлдээсэн бөгөөд хөгжүүлэгчид үүнийг удахгүй гарах Qwen 4 загварын туршилтын хувилбар байж магадгүй хэмээн таамаглаж байна. Учир нь Qoduck загвар нь 1 сая токенийн контекст цонхыг дэмждэг байж болзошгүй тухай мэдээлэл таржээ.\n\nХөгжүүлэгчдийн хувьд энэ нь өдөр тутмын кодын ажлаа ямар нэгэн нэмэлт төлбөргүйгээр туршиж үзэх шинэ боломжийг олгож байгаа бөгөөд agentic болон код бичих чадвараараа анхаарал татаж байна.",
+   "published": "2026-11-08T00:22:28Z",
+   "added": "2026-11-10T07:55:44Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b0fb767be4e62e02",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Reuters",
+   "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
+   "image": "",
+   "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
+   "summary_en": "",
+   "title_mn": "Anthropic компани хиймэл оюун ухааны дата төвүүдэд зориулж 3.4 тэрбум ам.долларын гэрээ байгуулжээ",
+   "summary_mn": "Anthropic компани хиймэл оюун ухааны дата төвүүдийн эрчим хүчний хэрэгцээг хангахад зориулж 3.4 тэрбум ам.долларын генератор худалдаж авах гэрээ байгуулсан тухай Financial Times мэдээллээ.",
+   "body_mn": "Financial Times сонины мэдээлснээр, Anthropic компани хиймэл оюун ухааны дата төвүүдийнхээ цахилгаан хангамжийг нэмэгдүүлэх зорилгоор 3.4 тэрбум ам.долларын өртөг бүхий генератор нийлүүлэх гэрээ байгуулжээ. Хиймэл оюун ухааны загваруудын сургалт болон ажиллагаа нь асар их эрчим хүч шаардаж байгаа энэ үед уг дэд бүтцийн хөрөнгө оруулалт чухал алхам болж байна.\n\nЭнэхүү дэд бүтцийн өргөжүүлэлт нь компанид илүү том загвруудыг бүтээх, хэрэглэгчдийн хүсэлтийг тасалдалгүйгээр гүйцэтгэхэд шаардлагатай тооцоолох хүчин чадлыг бүрдүүлэхэд тусална.\n\nХөгжүүлэгчдийн хувьд шууд код бичихэд нөлөөлөхгүй ч Claude загваруудын хүчин чадал, найдвартай ажиллагаа цаашид өргөжих суурь нөхцөлийг бүрдүүлж байгаагаараа ач холбогдолтой юм.",
+   "published": "2026-11-08T12:54:10Z",
+   "added": "2026-11-10T07:55:44Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2a2df2e35f235153",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "HackerNoon",
+   "url": "https://hackernoon.com/secure-code-benchmark-finds-top-coding-agents-write-secure-code-only-25percent-of-the-time",
+   "image": "https://hackernoon.imgix.net/images/n5ld9fKE5xhTwn7KxPGA8cNuAi42-y383awj.png",
+   "title": "Secure Code Benchmark Finds Top Coding Agents Write Secure Code Only 25% of the Time",
+   "summary_en": "A 450-task benchmark built from real CVEs shows even the best AI coding agent writes code that's both working and secure only 25% of the time.",
+   "title_mn": "Secure Code Benchmark: Коoding agents аюулгүй код бичих нь ердөө 25 хувь байна",
+   "summary_mn": "Шинэ судалгаагаар AI coding agents функцийн хувьд 73-91% амжилттай ажилладаг ч аюулгүй байдлын шаардлагыг ердөө 25% хангасан код бичдэг нь тогтоогджээ.",
+   "body_mn": "Alibaba Cloud-ийн судлаачдын танилцуулсан Last Secure Code Benchmark (LSCBench) нь AI coding agents буюу хиймэл оюуны код бичих агентуудын аюулгүй байдлын түвшинг шалгадаг цогц үнэлгээ юм. Энэхүү бенчмарк нь 150 бодит эмзэг байдал дээр суурилсан бөгөөд 7 хэл, 24 төрлийн CWE-г хамарсан 450 даалгаврыг агуулдаг.\n\nСудалгаагаар хөгжүүлэгчдийн өргөн ашиглаж буй AI агентууд функцийн хувьд 73.6%-аас 91.3%-ийн гүйцэтгэл үзүүлж байгаа хэдий ч бичсэн код нь аюулгүй байдлын шаардлагыг бүрэн хангаж чадахгүй байгааг харуулжээ. Тухайлбал, хамгийн хүчтэй гэгдэх Claude Fable 5 загвар л гэхэд функциональ болон аюулгүй байдлын шалгуурыг хамтдаа 25.1%-д л хангасан байна.\n\nЭнэ нь код бичих явцыг хялбарчилж буй vibes coding буюу хиймэл оюунд даалгаж кодоо бичүүлэх хандлага нь нууц түлхүүр алдах, хамгаалалтын алдаа гаргах зэрэг эрсдэлийг дагуулж болзошгүйг сануулж байна. Хөгжүүлэгчид агентуудын бичсэн кодын логикийг шалгахаас гадна аюулгүй байдлын тал дээр нь онцгой анхаарах шаардлагатайг уг үнэлгээ харуулж байна.",
+   "published": "2026-11-08T13:18:46Z",
+   "added": "2026-11-10T07:55:44Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3f50de5d8d1904d9",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "TeslaNorth.com",
+   "url": "https://teslanorth.com/2026/11/08/grok-bot-usage-limits-musk/",
+   "image": "https://cdn.teslanorth.com/wp-content/uploads/2026/11/featured-19-1200x675.jpg",
+   "title": "Grok Bot Usage Limits Draw Complaints as Musk Vows to Investigate",
+   "summary_en": "Elon Musk says Grok Bot fixes for token efficiency and smarter behavior are underway after a subscriber said his US$200 plan ran out in 14 hours.",
+   "title_mn": "Grok Bot-ийн хэрэглээний хязгаарлалтад хэрэглэгчид гомдоллож, Elon Musk шалгахаа амлав",
+   "summary_mn": "Grok Bot-ийн эрчимтэй хэрэглээний улмаас 200 долларын багц хэдхэн цагийн дотор дуусаж байгаа талаар гомдол гарсан ба Elon Musk уг асуудлыг судлахаа мэдэгдэв.",
+   "body_mn": "SpaceXAI-ийн Grok Bot үйлчилгээний хэрэглээний хязгаарлалт хэт бага байгаа нь хэрэглэгчдийн шүүмжлэлийг дагуулж байна. Тодруулбал, сарын 200 долларын Ultra багцтай хэрэглэгч ердөө 14 цагийн дотор бүх квотоо шавхсан тухай X платформ дээр гомдол гаргажээ.\n\nКомпанийн тэргүүн Elon Musk энэ асуудалд хариу өгч, жетоны үр ашгийг дээшлүүлэх, илүү ухаалаг ажиллах горимуудыг сайжруулах ажлыг хийж эхэлснийг мэдэгдсэн байна. Гэсэн хэдий ч тэрээр уг өөрчлөлтүүд хэзээ гарах болон хязгаарлалтын лимит нэмэгдэх эсэх талаар тодорхой мэдээлэл өгөөгүй байна.\n\nСүүлийн үед хиймэл оюуны агентуудын тооцоолол болон жетон зарцуулалт өндөр байгаа нь компаниудад санхүүгийн болон сервер ачааллын дарамт учруулж эхэлжээ. Хөгжүүлэгчид болон төлбөртэй хэрэглэгчид агентуудын автоматжуулсан ажлын урсгалыг ашиглах явцад квот хэт хурдан дуусаж байгаа нь бүтээмжид сөргөөр нөлөөлж байна.",
+   "published": "2026-11-08T14:06:49Z",
+   "added": "2026-11-10T07:55:44Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ff2dd2217396363c",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Engadget",
+   "url": "https://www.engadget.com/2309308/spacexai-grok-bot-availability-plans/",
+   "image": "https://www.engadget.com/img/gallery/spacexai-grok-bot-availability-just-keeps-growing-heres-which-plans-offer-it/l-intro-1793897295.jpg",
+   "title": "SpaceXAI Grok Bot Availability Just Keeps Growing - Here's Which Plans Offer It",
+   "summary_en": "SpaceXAI 's Grok Bot can handle multi-step work on a cloud computer, but you'll need to figure out the jumble of subscription plans first.",
+   "title_mn": "SpaceXAI компани Grok Bot ашиглах боломжийг Cursor болон бусад багц руу өргөжүүллээ",
+   "summary_mn": "SpaceXAI болон Cursor компаниудын хамтын ажиллагааны хүрээнд Grok Bot-ийг Cursor Pro, Teams болон олон төрлийн шинэ багцуудад нэвтрүүллээ.",
+   "body_mn": "SpaceXAI компани өөрийн хиймэл оюуны агент болох Grok Bot-ийг хэрэглэгчдэд илүү хүртээмжтэй болгох зорилгоор Cursor-ийн төрөл бүрийн захиалгын багцуудад нэгтгэснээ зарлалаа. Үүнд Cursor Pro, Pro+, Teams болон SuperGrok зэрэг багцууд багтаж байна.\n\nGrok Bot нь хэрэглэгчийн өмнөөс хөтөч, файлын систем, терминал ашиглан даалгаврыг бие даан гүйцэтгэх чадвартай хиймэл оюуны багийн гишүүн юм. Энэ нь кодын алдаа шалгах, үйлчлүүлэгчдийн тайлан гаргах, борлуулалтын судалгаа хийх зэрэг олон төрлийн ажлыг компьютер унтарсан үед ч ард нь ажиллуулах боломжийг олгодог.\n\nХэдийгээр уг агент нь даалгаврыг автоматаар гүйцэтгэдэг ч капча, нэвтрэх хэсэг зэрэг хүний оролцоо шаардсан үед зогсож зөвшөөрөл хүлээдэг. Төлбөртэй багцуудын хувьд жетон болон агент алхмуудаар хэрэглээг хэмждэг бөгөөд долоо хоног бүр квот шинэчлэгддэг байна.",
+   "published": "2026-11-08T23:45:00Z",
+   "added": "2026-11-10T07:55:44Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "69121cd6e2161c65",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/glm-5-3-flash-is-now-available-in-token-pass",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4EWqeXhnwi0B9RmYultrDe/c2130d5b88ce2800d7aebf655ae94261/og_flash-token-pass-og.png",
+   "title": "GLM 5.3 Flash is now available in Token Pass",
+   "summary_en": "Token Pass now includes GLM 5.3 Flash , alongside Kimi K3, GLM 5.3, and DeepSeek V4.1 Flash (with more models to come). GLM 5.3 Flash is Z.ai's native multimodal coding model with a 1M-token context window. Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gateway . Use it with any coding agent such as fx , Pi , Cline , Command Code etc. or build your own with the AI SDK, with Zero Data Retention enabled by default. Add GLM 5.3 Flash from the Token Pass page in your team's AI Gateway dashboard, or read the Token Pass documentation for…",
+   "title_mn": "Vercel Token Pass үйлчилгээнд GLM 5.3 Flash загвар нэмэгдлээ",
+   "summary_mn": "Vercel-ийн Token Pass платформд 1 сая жетоны контекст цонхтой Z.ai-ийн GLM 5.3 Flash код бичих загвар нэмэгдлээ.",
+   "body_mn": "Vercel компани Pro багийн хэрэглэгчдэд зориулсан Token Pass үйлчилгээндээ шинээр GLM 5.3 Flash загварыг нэмсэн байна. Энэхүү загвар нь Z.ai компаниас гаргасан үндсэн олон талт код бичих загвар бөгөөд бүтэн 1 сая жетоны контекст цонхыг дэмждэг ажээ.\n\nToken Pass нь сарын 30 долларын төлбөртэйгээр 80 долларын кредит олгодог бөгөөд AI Gateway дамжуулан ажилладаг. Хөгжүүлэгчид fx, Pi, Cline, Command Code зэрэг ямар ч код бичих агенттай хамтатган ашиглах эсвэл AI SDK ашиглан өөрийн агентыг бүтээх боломжтой юм.\n\nМөн энэхүү үйлчилгээ нь өгөгдлийг хадгалдаггүй (Zero Data Retention) горимоор анхдагч байдлаар ажилладаг тул кодын аюулгүй байдал болон нууцлалыг хангахад тохиромжтой шийдэл болж өгч байна.",
+   "published": "2026-11-09T00:00:00Z",
+   "added": "2026-11-10T07:55:44Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]
