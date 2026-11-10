@@ -1,0 +1,17 @@
+{
+ "id": "29a1c92a58caa3f3",
+ "subtopic": "react-native",
+ "source": "Expo Changelog",
+ "source_label": "Expo Changelog",
+ "url": "https://expo.dev/changelog/concurrency-groups-and-hooks-for-workflows",
+ "image": "https://og.expo.dev/?theme=universe&title=Concurrency+groups+and+hooks+for+Workflows&description=Cancel+or+queue+overlapping+workflow+runs+with+concurrency+groups%2C+and+add+your+own+steps+to+pre-packaged+jobs+with+hooks.",
+ "title": "Concurrency groups and hooks for Workflows",
+ "summary_en": "Cancel or queue overlapping workflow runs with concurrency groups, and add your own steps to pre-packaged jobs with hooks.",
+ "title_mn": "Expo Workflows-т concurrency бүлэг болон hooks дэмжлэг нэмэгдлээ",
+ "summary_mn": "Expo Workflows нь concurrency-ийн тусгай бүлэг, экспресс болон дарааллын системтэй болж, бүх ажлуудад hook ашиглах боломжтой боллоо.",
+ "body_mn": "Expo баг Workflows системдээ хөгжүүлэгчдийн ажлыг хөнгөвчлөх чухал шинэчлэлтүүдийг хийсэн тухай зарлалаа. Үүнд concurrency буюу зэрэгцээ ажиллагааны тохиргоонд өөрийн хүссэн бүлэг, экспресс болон дараалалд оруулах боломжууд нэмэгдсэн байна.\n\nӨмнө нь зөвхөн ижил төстэй ажиллагааг цуцлах боломжтой байсан бол одоо group утгыг загвар (template) хэлбэрээр тохируулж, ижил утгатай ажиллах хүсэлтүүдийг цуцлах эсвэл дараалалд хүлээлгэх боломжтой болжээ. Жишээлбэл, main салбар дээр ажиллаж буй коммит нь өмнөх ажил дуусахыг хүлээдэг болсноор deployments тасалдахаас сэргийлнэ.\n\nҮүнээс гадна pre-packaged ажлуудад зориулсан hook-уудын дэмжлэг өргөжиж, хөгжүүлэгчид өөрсдийн нэмэлт алхмуудыг (жишээ нь PostHog руу sourcemap илгээх гэх мэт) хялбархан оруулах боломжтой боллоо.",
+ "published": "2026-11-09T13:00:00Z",
+ "added": "2026-11-10T21:42:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

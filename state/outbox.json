@@ -878,5 +878,85 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "952d2516af2e9054",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/control-room",
+   "image": "",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "summary_en": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+   "title_mn": "OpenAI: За загварын ажлыг хянах, зогсоох Control Room систем",
+   "summary_mn": "OpenAI судалгааны дэд бүтцэд ажиллаж буй загваруудын ачааллыг хянаж, аюулгүй байдлын үүднээс шууд зогсоох боломжтой Control Room системийг танилцууллаа.",
+   "body_mn": "OpenAI компани судалгааны дэд бүтцэд ажиллаж буй загваруудын ажлын ачааллыг төвлөрсөн байдлаар хянах, шаардлагатай үед шууд зогсоох зорилготой Control Room нэртэй шинэ системийг танилцууллаа. Энэхүү систем нь хиймэл оюун ухааны судалгаа болон хөгжүүлэлтийн явцад аюулгүй байдал, хамгаалалтын эрсдэл үүссэн үед үйл ажиллагааг түргэн шуурхай хязгаарлахад туслах юм.\n\nИнженерүүд болон судалгааны багуудад зориулсан уг хэрэгсэл нь модель болон агентуудын нөөцийн ашиглалтыг бодит цаг хугацаанд хянах боломжийг олгоно. Томоохон хэмжээний тооцоолол шаардсан ажлуудыг удирдах, хяналтаа алдахгүй байхад уг систем чухал үүрэг гүйцэтгэнэ.\n\nAI загваруудын масштаб болон хүчин чадал нэмэгдэхийн хэрээр дэд бүтцийн аюулгүй байдлыг хангах нь чухал сорилт болж байгаа бөгөөд Control Room нь энэхүү асуудлыг шийдвэрлэх гол алхмуудын нэг болж байна.",
+   "published": "2026-11-09T13:00:00Z",
+   "added": "2026-11-10T21:42:47Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "29a1c92a58caa3f3",
+   "subtopic": "react-native",
+   "source": "Expo Changelog",
+   "source_label": "Expo Changelog",
+   "url": "https://expo.dev/changelog/concurrency-groups-and-hooks-for-workflows",
+   "image": "https://og.expo.dev/?theme=universe&title=Concurrency+groups+and+hooks+for+Workflows&description=Cancel+or+queue+overlapping+workflow+runs+with+concurrency+groups%2C+and+add+your+own+steps+to+pre-packaged+jobs+with+hooks.",
+   "title": "Concurrency groups and hooks for Workflows",
+   "summary_en": "Cancel or queue overlapping workflow runs with concurrency groups, and add your own steps to pre-packaged jobs with hooks.",
+   "title_mn": "Expo Workflows-т concurrency бүлэг болон hooks дэмжлэг нэмэгдлээ",
+   "summary_mn": "Expo Workflows нь concurrency-ийн тусгай бүлэг, экспресс болон дарааллын системтэй болж, бүх ажлуудад hook ашиглах боломжтой боллоо.",
+   "body_mn": "Expo баг Workflows системдээ хөгжүүлэгчдийн ажлыг хөнгөвчлөх чухал шинэчлэлтүүдийг хийсэн тухай зарлалаа. Үүнд concurrency буюу зэрэгцээ ажиллагааны тохиргоонд өөрийн хүссэн бүлэг, экспресс болон дараалалд оруулах боломжууд нэмэгдсэн байна.\n\nӨмнө нь зөвхөн ижил төстэй ажиллагааг цуцлах боломжтой байсан бол одоо group утгыг загвар (template) хэлбэрээр тохируулж, ижил утгатай ажиллах хүсэлтүүдийг цуцлах эсвэл дараалалд хүлээлгэх боломжтой болжээ. Жишээлбэл, main салбар дээр ажиллаж буй коммит нь өмнөх ажил дуусахыг хүлээдэг болсноор deployments тасалдахаас сэргийлнэ.\n\nҮүнээс гадна pre-packaged ажлуудад зориулсан hook-уудын дэмжлэг өргөжиж, хөгжүүлэгчид өөрсдийн нэмэлт алхмуудыг (жишээ нь PostHog руу sourcemap илгээх гэх мэт) хялбархан оруулах боломжтой боллоо.",
+   "published": "2026-11-09T13:00:00Z",
+   "added": "2026-11-10T21:42:47Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "04c197710c687789",
+   "subtopic": "motion",
+   "source": "motiondivision/motion",
+   "source_label": "motiondivision/motion",
+   "url": "https://github.com/motiondivision/motion/releases/tag/v14.11.1",
+   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+   "title": "motion v14.11.1",
+   "summary_en": "v14.11.1",
+   "title_mn": "motion v14.11.1 хувилбар гарлаа",
+   "summary_mn": "Motion анимацийн сангийн шинэ v14.11.1 хувилбар хэрэглэгчдийн хүртээл боллоо.",
+   "body_mn": "Motion хөдөлгөөн болон анимацийн санг хөгжүүлэгчид v14.11.1 шинэ хувилбарыг албан ёсоор гаргажээ. Энэхүү хувилбарт голчлон жижиг алдаануудыг засаж, гүйцэтгэлийг сайжруулахад анхаарсан байна.\n\nВеб болон UI хөгжүүлэгчид Motion сангийн шинэ хувилбаруудыг ашиглан илүү уян хатан, өндөр бүтээмжтэй анимациудыг төслүүддээ суулгах боломжтой хэвээр байна.",
+   "published": "2026-11-09T13:12:28Z",
+   "added": "2026-11-10T21:42:47Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "44b8b2f3bd7a412e",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Geeky Gadgets",
+   "url": "https://www.geeky-gadgets.com/qwen-4-preview-first-look/",
+   "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/qwen-preview-performance.jpg",
+   "title": "Qwen 4 Beats Deepseek 4.1 Flash in Web Tasks on Half the Tokens",
+   "summary_en": "Qwen 4 Max reportedly features a massive 1 million token context window. Early World of AI tests highlight efficiency beating Deepseek 4.1.",
+   "title_mn": "Alibaba-гийн Qwen 4 цуврал загвар гарч, веб даалгаваруудад өндөр үр дүнтэй ажиллаж байна",
+   "summary_mn": "Alibaba компани Qwen 4 загварын цувралаа танилцуулж, токен зарцуулалт багатайгаар нарийн төвөгтэй симуляци болон тоглоом бүтээх чадвараа харууллаа.",
+   "body_mn": "Alibaba-гийн хөгжүүлж буй Qwen 4 загварын цуврал нь техникийн болон бүтээлч даалгавруудад гайхалтай үр дүн үзүүлж эхэлжээ. Тус цувралд Qwen 4 Max, Flash, Plus болон 27B зэрэг хувилбарууд багтаж байгаа бөгөөд 1 сая токений контекст цонхыг дэмжих чадвартай аж.\n\nТуршилтын явцад Qwen 4 загвар нь биореакторын симуляци хийх, динамик усны механикеар тоноглогдсон Minecraft загварын тоглоом бүтээх зэрэг нарийн төвөгтэй ажлуудыг өндөр үр дүнтэй гүйцэтгэсэн байна. Тухайлбал, 2D RPG тоглоом болон виртуал орчныг ганцхан HTML файлаар бүтээх чадвараа харуулжээ.\n\nЭнэхүү open-weight загваруудын шинэчлэлт нь хөгжүүлэгчид болон хиймэл оюун ухааны салбарт томоохон дэвшил авчирч байгаа бөгөөд нээлттэй эх сурвалжтай загваруудын өрсөлдөөнийг улам хурцатгаж байна.",
+   "published": "2026-11-09T14:14:16Z",
+   "added": "2026-11-10T21:42:47Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
  }
 ]
