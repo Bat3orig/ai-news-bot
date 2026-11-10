@@ -1,0 +1,17 @@
+{
+ "id": "cfd192eda4f22e6c",
+ "subtopic": "vibe-coding",
+ "source": "Simon Willison",
+ "source_label": "Simon Willison",
+ "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+ "image": "https://static.simonwillison.net/static/2026/details-summary-card.webp",
+ "title": "Hide your slop PR descriptions behind",
+ "summary_en": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is that they are too good. An agent-written PR description is accurate and comprehensive. It describes the problem, the detailed solution, and the steps taken to verify it. That's a lot of information…",
+ "title_mn": "AI агентийн PR-ийн тайлбарыг <details> тагаар хэрхэн цэгцлэх вэ",
+ "summary_mn": "Simon Willison Claude Code болон Codex-ийн нээсэн PR-ийн урт тайлбарыг хүнд ойлгомжтой болгох арга барилаа санал болгож байна. Нээлтийн догол мөрийг хүн өөрөө бичиж, бүх текстийг <details><summary> дотор нуух юм.",
+ "body_mn": "Simon Willison өөрийн төслүүдийн ихэнх өөрчлөлтийг Claude Code болон Codex-ийн нээсэн pull request-ээр хийдэг гэж бичжээ. PR нь ажлын нэгж болж, commit-уудыг нэгтгэж, шийдвэрийг баримтлах хэрэгсэл юм. Харин агентийн бичсэн тайлбар маш нарийн бөгөөд урт тул уншихад хэцүү байдаг.\n\nТүүний санал болгож буй арга бол PR-ийн эхний догол мөрийг хүн өөрөө сонгож, хамгийн товч, ойлгомжтой танилцуулга болгох явдал юм. Дараа нь агентийн бүрэн текстийг HTML-ийн <details><summary> элементэд оруулна. Summary хэсэгт загварын нэр, зарим тохиолдолд effort түвшинг бичиж, жишээ нь \"Claude Opus 5.5 Medium\" гэх мэт. GitHub Markdown дээр энэ тагууд ажиллаж, хэрэглэгч зөвхөн товч хэсгийг харж, дэлгэрэнгүйг хүсвэл нээнэ.\n\nМөн тэрээр <details> ба <summary> тагуудын дарааллыг санахад \"details-summary\" гэж хэлэхийг зөвлөжээ. Энэ арга нь хялбар, бага хүчин зүйлтэй боловч AI-аар бичсэн ажлыг хүнд ойлгомжтой болгох практик арга юм. Хөгжүүлэгчид PR-оо илүү цэвэрхэн, уншихад амар болгохыг хүсвэл энэ аргыг туршиж болно.",
+ "published": "2026-11-09T04:25:05Z",
+ "added": "2026-11-10T15:59:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

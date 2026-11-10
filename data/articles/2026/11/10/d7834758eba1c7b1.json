@@ -1,0 +1,17 @@
+{
+ "id": "d7834758eba1c7b1",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1nxbUaUVfuEnDEKT9lRXrY/a709d6455cfbd73f7ef021e13322f8b4/Vercel_x_Anthropic.png",
+ "title": "Claude Fable 5.2 now available on AI Gateway",
+ "summary_en": "Claude Fable 5.2 from Anthropic is now available on AI Gateway . Fable 5.2 is built for open-ended technical work and improves on earlier Fable models in coding, reasoning, and vision. It can run long, ambiguous tasks unattended, and works as an orchestrator that hands simpler tasks to smaller models, or as an advisor that other Claude models consult on harder problems. It also communicates more clearly and generates output faster than earlier Fable models. Effort runs from low to max , with high as the API default. Fable 5.2 has cybersecurity and biology safety classifiers enabled. Access…",
+ "title_mn": "Claude Fable 5.2 загвар Vercel AI Gateway дээр боломжтой боллоо",
+ "summary_mn": "Anthropic-ийн Claude Fable 5.2 загвар AI Gateway дээр гарлаа. Кибер аюулгүй байдал болон биологийн классификатор идэвхтэй, мөн өгөгдөл хадгалалт шаардлагатай.",
+ "body_mn": "Anthropic-ийн Claude Fable 5.2 загвар одоо AI Gateway-д боломжтой боллоо. Загвар нь кодчилол, эргэцүүлэн бодох, харааны ойлголтод өмнөх Fable загвараас сайжирсан гэж мэдээлсэн. Урт, тодорхой бус даалгаврыг хяналтгүй гүйцэтгэх боломжтой бөгөөд хялбар даалгавруудыг жижиг загвартай хуваалцах orchestrator болж ажиллана.\n\nЗагварт кибер аюулгүй байдал болон биологийн аюулгүй байдлын классификатор идэвхтэй байдаг. Загвар нь Zero Data Retention-г дэмждэггүй бөгөөд prompt болон хариултыг 30 хоног хадгална. ZDR идэвхтэй бол AI Gateway хүсэлтийг илгээхгүй алдаа буцаана. Классификатор хүсэлтийг татгалзвал providerOptions.gateway дотор models массив нэмж fallback загвар тохируулах боломжтой.\n\nAI SDK, Chat Completions, Responses, Anthropic Messages API эсвэл Claude Code, Codex, Cursor зэрэг coding agent-ээр дуудаж болно. Загварын нэр нь anthropic/claude-fable-5.2 юм. Хөгжүүлэгчид төлбөр, хязгаарыг AI Gateway-ийн баримтаас шалгах хэрэгтэй.",
+ "published": "2026-11-09T00:00:00Z",
+ "added": "2026-11-10T15:59:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

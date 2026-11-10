@@ -1,0 +1,17 @@
+{
+ "id": "d338e00c02b9a9c6",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.4.1",
+ "image": "https://opengraph.githubassets.com/d8432e01a6b61d3b36d2787d1da720bc8a75ea721e00814c41a7e9e118749a68/nestjs/nest/releases/tag/v12.4.1",
+ "title": "nest v12.4.1",
+ "summary_en": "v12.4.1 (2026-11-09) Features platform-node #18435 feat(node): inject requests into the node adapter like the fastify one ( @thekhegay ) #18439 feat(node): set req.route on the node adapter like express does ( @thekhegay ) Bug fixes core #18385 fix(core): roll back modules on failed lazy load ( @Asadshah7950 ) Enhancements common , core #18429 fix(core,common): warn when decorator metadata is missing ( @kamilmysliwiec ) Dependencies platform-ws #18468 chore(deps): bump ws from 8.22.0 to 8.22.1 ( @dependabot[bot] ) Committers: 8 Abdellatif Anaflous ( @hktitof ) Asad Ali Shah ( @Asadshah7950 )…",
+ "title_mn": "NestJS v12.4.1: Node адаптерт хүсэлт оруулах, req.route дэмжлэг нэмэгдлээ",
+ "summary_mn": "NestJS v12.4.1 хувилбар Node платформ дээр Fastify-тай адилхан хүсэлтийг inject хийх боломж болон req.route тохиргоог нэмжээ. Мөн модуль ачаалах алдааны дараа буцаах засвар орсон.",
+ "body_mn": "NestJS v12.4.1 хувилбарт platform-node багцад шинэ боломжууд нэмэгджээ. Node адаптерт Fastify-ийн адил хүсэлтүүдийг inject хийх боломж гарсан бөгөөд express-ийн адил req.route тохируулдаг болсон.\n\nМөн core багцад модулийг lazy load амжилтгүй болсон үед буцаах засвар орсон. Харин common болон core багцад decorator metadata дутуу байвал анхааруулга гаргадаг болсон. Ws багцыг 8.22.1 хувилбарт шинэчилжээ.\n\nХөгжүүлэгчдэд тестийн хүсэлт, маршрутын мэдээлэл дээр тулгуурласан middleware-ийг Node адаптер дээр илүү хялбар бичих боломж гарч байна. Шинэчлэхийн өмнө decorator metadata-ийн анхааруулгыг шалгахыг зөвлөж байна.",
+ "published": "2026-11-09T08:01:22Z",
+ "added": "2026-11-10T15:59:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

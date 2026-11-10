@@ -1,0 +1,17 @@
+{
+ "id": "57ea3648c45ff449",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/ai-gateway-production-index-november-2026",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5sdDYdCG5ozpdjNNyFpGgP/52e02883b34e063b359cc249f177cb17/nov-og-blog-stacked-bars_4x.png",
+ "title": "Decision models take 26% of requests; Anthropic now wins new teams 2:1",
+ "summary_en": "AI Gateway Production Index — November 2026 Every month, AI Gateway routes more than 100 trillion tokens between production applications and AI labs. That traffic gives us a view of what AI usage looks like in today’s enterprise and startup landscape across language, decision, voice, image, and video models. We publish it here monthly. See the Production Index reports from August , September , and October . November 2026 Summary In six weeks, decision models grew to one in four gateway requests, while accounting for half a cent of every dollar spent. Close to a third of all paid teams used…",
+ "title_mn": "AI Gateway-ийн 11-р сарын үзүүлэлт: шийдвэрийн загвар хүсэлтийн 26%-ийг эзэлжээ",
+ "summary_mn": "Vercel-ийн AI Gateway 10-р сард шийдвэр гаргах загваруудыг 26% орчим хүсэлтэд ашигласан гэж мэдээллээ. Шинэ багуудын 2 дахин олон нь Anthropic-ийг сонгожээ.",
+ "body_mn": "Vercel сар бүр AI Gateway-ээр дамжсан хэрэглээний тайланг нийтэлдэг бөгөөд 11-р сарын тайланд 100 их наяд токеныг давсан урсгалын талаар дурдсан байна. Тайланд шийдвэр гаргах загварууд зургаан долоо хоногийн дотор хүсэлтийн дөрөвний нэг орчим болж өссөнийг тэмдэглэжээ. Гэхдээ эдгээр нь нийт зардлын 0.53%-ийг л эзэлдэг.\n\nМөн 10-р сард төлбөртэй багуудын гуравны нэг орчим шийдвэрийн загвар ашигласан байна. Харин дуу хоолойн загвар ашиглагч багуудын хувь 7-р сарын 4%-иас 10-р сард 11% орчим болсон. OpenAI болон Anthropic хоёр төлбөртэй багуудын ижил хувийг эзэлж, шинэ багууд 10-р сард Anthropic-ийг хоёр дахин их сонгосон гэжээ.\n\nХөгжүүлэгчдэд энэ нь загвар сонгох стратегид нөлөөлж болно. Жижиг, хурдан шийдвэр гаргах ажлыг загварт шилжүүлж, зардлыг бууруулах боломж харагдаж байна. Тайлан нь бие даасан туршилтын үр дүн биш тул дүгнэлтээ өөрийн ачаалалд тулгуурлан шалгах хэрэгтэй.",
+ "published": "2026-11-09T05:00:00Z",
+ "added": "2026-11-10T15:59:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

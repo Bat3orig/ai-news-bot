@@ -638,5 +638,245 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "80ae2f0e7e0fb8dc",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "ShiftDelete.Net",
+   "url": "https://shiftdelete.net/en/arete-27b",
+   "image": "",
+   "title": "Arete-27B: Nous Research Retrains Qwen to Cut Chinese Propaganda",
+   "summary_en": "",
+   "title_mn": "Nous Research Qwen-ийг дахин сургаж, Хятадын суртал ухуулгыг бууруулжээ",
+   "summary_mn": "Nous Research компани Alibaba-ийн Qwen загварыг дахин сургаж, Arete-27B нэрээр танилцуулсан. Эх сурвалж Хятадын суртал ухуулгын хариултыг багасгасан гэж мэдээлжээ.",
+   "body_mn": "Nous Research судалгааны баг Alibaba-ийн Qwen загварт суурилсан Arete-27B загварыг танилцуулсан. Мэдээлэлд дурдсанаар загварыг дахин сургаж, Хятадын төрийн суртал ухуулгад хамаарах хариултуудыг багасгахад чиглүүлжээ.\n\nЭнэ мэдээ нь эх материалд зөвхөн гарчиг болон товч тайлбар байгаа тул техникийн дэлгэрэнгүй, сургалтын аргачлал, benchmark үр дүн, лицензийн нөхцөл зэргийг баталгаатай хэлэх боломжгүй байна.\n\nХөгжүүлэгчдэд энэ нь нээлттэй жинтэй суурь загварыг өөрчлөн дахин сургах, тусгайлан тохируулах практик жишээ болж чадна. Гэхдээ загварын чанар, найдвартай байдлыг хэрэгжүүлэхээс өмнө бие даан шалгах шаардлагатай.",
+   "published": "2026-11-08T06:32:47Z",
+   "added": "2026-11-10T15:59:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9122a5763f76dcec",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/workflow-writes-now-use-websockets-on-vercel",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/27da8pLzXd8AyEJK20xjUJ/e77075b2ad88245b75447ec57aaa4da4/image__5_.png",
+   "title": "Workflow SDK now writes over WebSockets on Vercel",
+   "summary_en": "The Workflow SDK now sends event writes and stream writes to Vercel Workflows over a WebSocket by default, replacing one HTTP request per write, or per write group for streams. No code change is needed beyond upgrading to workflow@5.2.0 or later. Once you deploy the upgrade, new runs use it. In-flight runs finish on the deployment they started on. Existing streaming code works as is. A step that writes a burst of chunks, like AI tokens, sends them over the WebSocket once it opens: Streams keep pace with AI output In a benchmark replaying an AI agent's token stream, v5.2.0, which writes…",
+   "title_mn": "Workflow SDK одоо Vercel дээр WebSocket-ээр бичдэг боллоо",
+   "summary_mn": "Workflow SDK 5.2.0 хувилбараас эхлэн үйл явдлын болон stream бичилтийг HTTP хүсэлтийн оронд WebSocket-ээр илгээдэг боллоо. Код өөрчлөх шаардлагагүй.",
+   "body_mn": "Vercel-ийн Workflow SDK одоо event бичилт болон stream бичилтийг анхдагчаар WebSocket холболтоор Vercel Workflows рүү илгээдэг боллоо. Өмнө нь бичилт бүрт буюу stream-ийн бүлэг бүрт тусдаа HTTP хүсэлт илгээдэг байсан.\n\nШинэчлэлд workflow@5.2.0 эсвэл түүнээс дээш хувилбар шаардлагатай. Шинэ хувилбар deploy хийгдсэний дараах шинэ run-ууд автоматаар ашиглана. Үргэлжилж буй run-ууд өмнөх deployment дээрээ дуусна.\n\nVercel-ийн benchmark-д AI агентын token stream-ийг дахин тоглуулахад v5.2.0 нь бүтэн хариултыг v4.8.12-оос 4.2 дахин хурдан хүргэжээ. Олон алхамтай workflow-ууд HTTP хүсэлт бага илгээх тул хурд, зардлын аль алинд нь ашигтай. Хэрэв та 4.x хувилбар дээр байгаа бол v5 нь major хувилбар тул эхлээд upgrade guide-ийг уншаарай.",
+   "published": "2026-11-09T00:00:00Z",
+   "added": "2026-11-10T15:59:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "684c94612e164b63",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/build-disk-space-on-vercel-increased-to-64-gb",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6iguhONg4zfAtIaGg826cN/0917eb6ab36737149db6bc153ce604ca/image__4_.png",
+   "title": "Build disk space on Vercel increased to 64 GB",
+   "summary_en": "Disk space for Vercel builds has increased from 32 GB to 64 GB on Basic and Standard machines, matching the capacity already available on Enhanced and Turbo. The additional space provides more room for the packages your project uses and the files generated during a build, reducing the risk of running out of disk space. The change applies automatically across all plans and build machine types at no additional charge, with no configuration changes required. Learn more in the build machine documentation . Read more",
+   "title_mn": "Vercel build-ийн дискний хэмжээ 32 GB-аас 64 GB болж нэмэгдлээ",
+   "summary_mn": "Basic болон Standard машинд build хийх дискний хэмжээ 32 GB-аас 64 GB болсон. Энэ өөрчлөлт нэмэлт төлбөргүй бөгөөд бүх төлөвлөгөөнд автоматаар хамаарна.",
+   "body_mn": "Vercel build хийх дискний хэмжээ Basic болон Standard машинд 32 GB-аас 64 GB хүртэл нэмэгдсэн. Энэ нь Enhanced болон Turbo машинд аль хэдийн байсан хэмжээтэй адил болжээ.\n\nНэмэгдсэн зай нь проектын ашигладаг багцууд болон build явцад үүсэх файлуудад илүү орон зай өгч, дискний хязгаар дүүрэх эрсдлийг бууруулна. Өөрчлөлт бүх төлөвлөгөө болон build машины төрөлд автоматаар хамаарах бөгөөд нэмэлт тохиргоо хийх шаардлагагүй.\n\nТом проект, олон багцтай фронтенд болон монорепо бүхий багуудад build алдаа багасах боломжтой. Дэлгэрэнгүйг Vercel-ийн build machine баримт бичгээс харж болно.",
+   "published": "2026-11-09T00:00:00Z",
+   "added": "2026-11-10T15:59:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5cf797f491c9570e",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3Y4tmuSrVjuQrTdHnKBOlE/213c8a5bb9fc3304dbfafb6cfb2d8a4a/preview.jpg",
+   "title": "Vercel Container Registry now supports 2 GB compressed image layers",
+   "summary_en": "Vercel Container Registry now supports compressed image layers of up to 2 GB each, up from 500 MB, the total image size limit stays 15 GB. The registry works with standard workflows like docker push , docker pull , and docker tag , and pushing an image creates the repository on the fly. Repositories can be made public for read-only pull access by any Vercel team, or shared with specific teams up to 100 from the dashboard or with vercel vcr permissions . The Vercel Managed Images that Vercel Sandbox runs on are served from ordinary public repositories, built with the same public-repository…",
+   "title_mn": "Vercel Container Registry нь 2 GB хүртэлх compressed layer дэмжиж эхлэв",
+   "summary_mn": "Vercel Container Registry-ийн нэг compressed image layer-ийн хэмжээ 500 MB-аас 2 GB хүртэл нэмэгдлээ. Нийт image-ийн хязгаар 15 GB хэвээр байна.",
+   "body_mn": "Vercel Container Registry одоо нэг compressed image layer-ийг 2 GB хүртэл дэмжиж байна. Өмнө нь энэ хязгаар 500 MB байсан. Нийт image-ийн хэмжээний хязгаар 15 GB-аар хэвээр байна.\n\nRegistry нь docker push, docker pull, docker tag зэрэг стандарт ажлын урсгалтай ажилладаг. Image push хийхэд repository автоматаар үүсдэг. Repository-г dashboard эсвэл vercel vcr permissions командаар нийтэд эсвэл 100 хүртэлх багт нээж болно.\n\nVercel CLI v58.3.0 ба түүнээс дээш хувилбарт vercel vcr командуудаар repository, image, tag удирдана. GitHub Actions дээр vercel/vcr-action/login action-ийг GitHub OIDC-тэй ашиглаж, урт хугацааны registry нууц үгийн шаардлагыг арилгаж болно. Image-ийн background оновчлол бүтэлгүйтвэл dashboard дээр алдааны статус харагдана.",
+   "published": "2026-11-09T00:00:00Z",
+   "added": "2026-11-10T15:59:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d7834758eba1c7b1",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1nxbUaUVfuEnDEKT9lRXrY/a709d6455cfbd73f7ef021e13322f8b4/Vercel_x_Anthropic.png",
+   "title": "Claude Fable 5.2 now available on AI Gateway",
+   "summary_en": "Claude Fable 5.2 from Anthropic is now available on AI Gateway . Fable 5.2 is built for open-ended technical work and improves on earlier Fable models in coding, reasoning, and vision. It can run long, ambiguous tasks unattended, and works as an orchestrator that hands simpler tasks to smaller models, or as an advisor that other Claude models consult on harder problems. It also communicates more clearly and generates output faster than earlier Fable models. Effort runs from low to max , with high as the API default. Fable 5.2 has cybersecurity and biology safety classifiers enabled. Access…",
+   "title_mn": "Claude Fable 5.2 загвар Vercel AI Gateway дээр боломжтой боллоо",
+   "summary_mn": "Anthropic-ийн Claude Fable 5.2 загвар AI Gateway дээр гарлаа. Кибер аюулгүй байдал болон биологийн классификатор идэвхтэй, мөн өгөгдөл хадгалалт шаардлагатай.",
+   "body_mn": "Anthropic-ийн Claude Fable 5.2 загвар одоо AI Gateway-д боломжтой боллоо. Загвар нь кодчилол, эргэцүүлэн бодох, харааны ойлголтод өмнөх Fable загвараас сайжирсан гэж мэдээлсэн. Урт, тодорхой бус даалгаврыг хяналтгүй гүйцэтгэх боломжтой бөгөөд хялбар даалгавруудыг жижиг загвартай хуваалцах orchestrator болж ажиллана.\n\nЗагварт кибер аюулгүй байдал болон биологийн аюулгүй байдлын классификатор идэвхтэй байдаг. Загвар нь Zero Data Retention-г дэмждэггүй бөгөөд prompt болон хариултыг 30 хоног хадгална. ZDR идэвхтэй бол AI Gateway хүсэлтийг илгээхгүй алдаа буцаана. Классификатор хүсэлтийг татгалзвал providerOptions.gateway дотор models массив нэмж fallback загвар тохируулах боломжтой.\n\nAI SDK, Chat Completions, Responses, Anthropic Messages API эсвэл Claude Code, Codex, Cursor зэрэг coding agent-ээр дуудаж болно. Загварын нэр нь anthropic/claude-fable-5.2 юм. Хөгжүүлэгчид төлбөр, хязгаарыг AI Gateway-ийн баримтаас шалгах хэрэгтэй.",
+   "published": "2026-11-09T00:00:00Z",
+   "added": "2026-11-10T15:59:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "757a175d1806fffb",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/muse-ember-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png",
+   "title": "Muse Ember now available on AI Gateway",
+   "summary_en": "Muse Ember from Meta is now available on AI Gateway . It is a lightweight reasoning model for the high-volume parts of an agent run, such as coding sub-tasks, tool calls, and document analysis. Muse Ember handles the bounded tasks agents repeat many times in a single run, like implementing a helper function, calling a tool, or summarizing a document. The model accepts text, image, and video input with a 1M-token context window, so an agent can pass it code, screenshots, documents, and clips in the same run. Tool calling lets your application feed each result into the next step. Reasoning…",
+   "title_mn": "Meta-ийн Muse Ember загвар AI Gateway дээр гарлаа",
+   "summary_mn": "Meta-ийн Muse Ember нь агентын өндөр давтамжтай алхмуудад зориулсан хөнгөн reasoning загвар юм. 1M token context window-тай бөгөөд текст, зураг, видеог оруулна.",
+   "body_mn": "Meta-ийн Muse Ember загвар одоо AI Gateway дээр боломжтой боллоо. Загвар нь кодын дэд даалгавар, tool call, баримт бичгийн шинжилгээ зэрэг агентын run дотор олон дахин давтагддаг хязгаарлагдмал ажлуудад зориулагдсан.\n\nЗагвар текст, зураг, видео оруулах боломжтой бөгөөд 1M token-ийн context window-тай. Tool calling-ээр үр дүнг дараагийн алхамд дамжуулж болно. Reasoning effort-ийг minimal-аас max хүртэл тохируулах боломжтой.\n\nAI SDK, Chat Completions, Responses, Anthropic Messages API эсвэл coding agent-ээр дуудаж болно. Agent дотроос meta/muse-ember гэж сонгоно. Дэлгэрэнгүйг coding agents гарын авлагаас харна уу.",
+   "published": "2026-11-09T00:00:00Z",
+   "added": "2026-11-10T15:59:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cfd192eda4f22e6c",
+   "subtopic": "vibe-coding",
+   "source": "Simon Willison",
+   "source_label": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+   "image": "https://static.simonwillison.net/static/2026/details-summary-card.webp",
+   "title": "Hide your slop PR descriptions behind",
+   "summary_en": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is that they are too good. An agent-written PR description is accurate and comprehensive. It describes the problem, the detailed solution, and the steps taken to verify it. That's a lot of information…",
+   "title_mn": "AI агентийн PR-ийн тайлбарыг <details> тагаар хэрхэн цэгцлэх вэ",
+   "summary_mn": "Simon Willison Claude Code болон Codex-ийн нээсэн PR-ийн урт тайлбарыг хүнд ойлгомжтой болгох арга барилаа санал болгож байна. Нээлтийн догол мөрийг хүн өөрөө бичиж, бүх текстийг <details><summary> дотор нуух юм.",
+   "body_mn": "Simon Willison өөрийн төслүүдийн ихэнх өөрчлөлтийг Claude Code болон Codex-ийн нээсэн pull request-ээр хийдэг гэж бичжээ. PR нь ажлын нэгж болж, commit-уудыг нэгтгэж, шийдвэрийг баримтлах хэрэгсэл юм. Харин агентийн бичсэн тайлбар маш нарийн бөгөөд урт тул уншихад хэцүү байдаг.\n\nТүүний санал болгож буй арга бол PR-ийн эхний догол мөрийг хүн өөрөө сонгож, хамгийн товч, ойлгомжтой танилцуулга болгох явдал юм. Дараа нь агентийн бүрэн текстийг HTML-ийн <details><summary> элементэд оруулна. Summary хэсэгт загварын нэр, зарим тохиолдолд effort түвшинг бичиж, жишээ нь \"Claude Opus 5.5 Medium\" гэх мэт. GitHub Markdown дээр энэ тагууд ажиллаж, хэрэглэгч зөвхөн товч хэсгийг харж, дэлгэрэнгүйг хүсвэл нээнэ.\n\nМөн тэрээр <details> ба <summary> тагуудын дарааллыг санахад \"details-summary\" гэж хэлэхийг зөвлөжээ. Энэ арга нь хялбар, бага хүчин зүйлтэй боловч AI-аар бичсэн ажлыг хүнд ойлгомжтой болгох практик арга юм. Хөгжүүлэгчид PR-оо илүү цэвэрхэн, уншихад амар болгохыг хүсвэл энэ аргыг туршиж болно.",
+   "published": "2026-11-09T04:25:05Z",
+   "added": "2026-11-10T15:59:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "57ea3648c45ff449",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/ai-gateway-production-index-november-2026",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5sdDYdCG5ozpdjNNyFpGgP/52e02883b34e063b359cc249f177cb17/nov-og-blog-stacked-bars_4x.png",
+   "title": "Decision models take 26% of requests; Anthropic now wins new teams 2:1",
+   "summary_en": "AI Gateway Production Index — November 2026 Every month, AI Gateway routes more than 100 trillion tokens between production applications and AI labs. That traffic gives us a view of what AI usage looks like in today’s enterprise and startup landscape across language, decision, voice, image, and video models. We publish it here monthly. See the Production Index reports from August , September , and October . November 2026 Summary In six weeks, decision models grew to one in four gateway requests, while accounting for half a cent of every dollar spent. Close to a third of all paid teams used…",
+   "title_mn": "AI Gateway-ийн 11-р сарын үзүүлэлт: шийдвэрийн загвар хүсэлтийн 26%-ийг эзэлжээ",
+   "summary_mn": "Vercel-ийн AI Gateway 10-р сард шийдвэр гаргах загваруудыг 26% орчим хүсэлтэд ашигласан гэж мэдээллээ. Шинэ багуудын 2 дахин олон нь Anthropic-ийг сонгожээ.",
+   "body_mn": "Vercel сар бүр AI Gateway-ээр дамжсан хэрэглээний тайланг нийтэлдэг бөгөөд 11-р сарын тайланд 100 их наяд токеныг давсан урсгалын талаар дурдсан байна. Тайланд шийдвэр гаргах загварууд зургаан долоо хоногийн дотор хүсэлтийн дөрөвний нэг орчим болж өссөнийг тэмдэглэжээ. Гэхдээ эдгээр нь нийт зардлын 0.53%-ийг л эзэлдэг.\n\nМөн 10-р сард төлбөртэй багуудын гуравны нэг орчим шийдвэрийн загвар ашигласан байна. Харин дуу хоолойн загвар ашиглагч багуудын хувь 7-р сарын 4%-иас 10-р сард 11% орчим болсон. OpenAI болон Anthropic хоёр төлбөртэй багуудын ижил хувийг эзэлж, шинэ багууд 10-р сард Anthropic-ийг хоёр дахин их сонгосон гэжээ.\n\nХөгжүүлэгчдэд энэ нь загвар сонгох стратегид нөлөөлж болно. Жижиг, хурдан шийдвэр гаргах ажлыг загварт шилжүүлж, зардлыг бууруулах боломж харагдаж байна. Тайлан нь бие даасан туршилтын үр дүн биш тул дүгнэлтээ өөрийн ачаалалд тулгуурлан шалгах хэрэгтэй.",
+   "published": "2026-11-09T05:00:00Z",
+   "added": "2026-11-10T15:59:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "68a0b8691a72d0a0",
+   "subtopic": "nestjs",
+   "source": "nestjs/nest",
+   "source_label": "nestjs/nest",
+   "url": "https://github.com/nestjs/nest/releases/tag/v11.2.9",
+   "image": "https://opengraph.githubassets.com/9a094b63a7ce0c448798c3c8f7242a977048685aab3ac6fd02f3046f5bb99ddf/nestjs/nest/releases/tag/v11.2.9",
+   "title": "nest v11.2.9",
+   "summary_en": "What's changed @nestjs/core fix(core): run wildcard middleware on excluded routes of every version @nestjs/platform-express fix(deps): update dependency multer to v2.5.0 — resolves GHSA-q7qp-rjg7-q26m ( #18421 ) @nestjs/platform-fastify fix(fastify): end the authority of absolute-form targets at the query — an absolute-form request target with a / after a query that comes before its path is now answered with 404 fix(deps): update dependency fastify to v5.12.8 — resolves the advisories published against fastify up to 5.12.4; find-my-way moves to 9.10.0 with it, so http://host?a=b is now…",
+   "title_mn": "NestJS v11.2.9: multer аюулгүй байдлын засвар, Fastify-ийн замын өөрчлөлт",
+   "summary_mn": "NestJS v11.2.9 хувилбарт multer v2.5.0 шинэчлэлт орсон бөгөөд GHSA-q7qp-rjg7-q26m эмзэг байдлыг засжээ. Fastify дээр absolute-form хүсэлтийн зам өөрчлөгдсөн.",
+   "body_mn": "NestJS v11.2.9 хувилбарт @nestjs/platform-express багцын multer хамаарлыг v2.5.0 хүртэл шинэчилсэн нь GHSA-q7qp-rjg7-q26m эмзэг байдлыг засдаг. Энэ нь файл байршуулалттай апп ажиллуулдаг хөгжүүлэгчдэд чухал засвар юм.\n\n@nestjs/core-д wildcard middleware-ийг бүх хувилбарт exclude хийгдсэн маршрут дээр ажиллуулах засвар орсон. Харин @nestjs/platform-fastify-д absolute-form хүсэлтийн зам асуулгын тэмдэгтээс өмнө байвал 404 хариулах болсон. Fastify-ийг 5.12.8 хүртэл шинэчилсэн бөгөөд find-my-way 9.10.0 болж, http://host?a=b хүсэлт одоо / зам руу чиглэгдэнэ.\n\nЭдгээр өөрчлөлтүүд нь маршрутлалт болон аюулгүй байдалд шууд нөлөөлдөг тул шинэчлэхээс өмнө тестийн хэрэгслүүдээрээ шалгахыг зөвлөж байна.",
+   "published": "2026-11-09T07:53:24Z",
+   "added": "2026-11-10T15:59:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d338e00c02b9a9c6",
+   "subtopic": "nestjs",
+   "source": "nestjs/nest",
+   "source_label": "nestjs/nest",
+   "url": "https://github.com/nestjs/nest/releases/tag/v12.4.1",
+   "image": "https://opengraph.githubassets.com/d8432e01a6b61d3b36d2787d1da720bc8a75ea721e00814c41a7e9e118749a68/nestjs/nest/releases/tag/v12.4.1",
+   "title": "nest v12.4.1",
+   "summary_en": "v12.4.1 (2026-11-09) Features platform-node #18435 feat(node): inject requests into the node adapter like the fastify one ( @thekhegay ) #18439 feat(node): set req.route on the node adapter like express does ( @thekhegay ) Bug fixes core #18385 fix(core): roll back modules on failed lazy load ( @Asadshah7950 ) Enhancements common , core #18429 fix(core,common): warn when decorator metadata is missing ( @kamilmysliwiec ) Dependencies platform-ws #18468 chore(deps): bump ws from 8.22.0 to 8.22.1 ( @dependabot[bot] ) Committers: 8 Abdellatif Anaflous ( @hktitof ) Asad Ali Shah ( @Asadshah7950 )…",
+   "title_mn": "NestJS v12.4.1: Node адаптерт хүсэлт оруулах, req.route дэмжлэг нэмэгдлээ",
+   "summary_mn": "NestJS v12.4.1 хувилбар Node платформ дээр Fastify-тай адилхан хүсэлтийг inject хийх боломж болон req.route тохиргоог нэмжээ. Мөн модуль ачаалах алдааны дараа буцаах засвар орсон.",
+   "body_mn": "NestJS v12.4.1 хувилбарт platform-node багцад шинэ боломжууд нэмэгджээ. Node адаптерт Fastify-ийн адил хүсэлтүүдийг inject хийх боломж гарсан бөгөөд express-ийн адил req.route тохируулдаг болсон.\n\nМөн core багцад модулийг lazy load амжилтгүй болсон үед буцаах засвар орсон. Харин common болон core багцад decorator metadata дутуу байвал анхааруулга гаргадаг болсон. Ws багцыг 8.22.1 хувилбарт шинэчилжээ.\n\nХөгжүүлэгчдэд тестийн хүсэлт, маршрутын мэдээлэл дээр тулгуурласан middleware-ийг Node адаптер дээр илүү хялбар бичих боломж гарч байна. Шинэчлэхийн өмнө decorator metadata-ийн анхааруулгыг шалгахыг зөвлөж байна.",
+   "published": "2026-11-09T08:01:22Z",
+   "added": "2026-11-10T15:59:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e15d5465519d3635",
+   "subtopic": "motion",
+   "source": "motiondivision/motion",
+   "source_label": "motiondivision/motion",
+   "url": "https://github.com/motiondivision/motion/releases/tag/v14.11.0",
+   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+   "title": "motion v14.11.0",
+   "summary_en": "v14.11.0",
+   "title_mn": "Motion v14.11.0 шинэ хувилбар гарлаа",
+   "summary_mn": "Motion-ийн v14.11.0 хувилбар гарсан ч өөрчлөлтийн дэлгэрэнгүй тайлбар эх сурвалжид байхгүй байна. Motion нь өмнө Framer Motion нэрээр мэдэгдэж байсан анимацийн сан юм.",
+   "body_mn": "Motion анимацийн сангийн v14.11.0 хувилбар гарсан тухай GitHub-ийн мэдээлэлд дурдагджээ. Харин хувилбарын дэлгэрэнгүй өөрчлөлт, шинэ функц эсвэл засварын жагсаалт энэ эх сурвалжид орсон байхгүй.\n\nMotion нь өмнө Framer Motion нэрээр мэдэгдэж байсан React болон бусад вэб төслүүдэд ашигладаг анимацийн сан юм. Өмнөх v14.10.0 болон v14.9.1 хувилбаруудтай харьцуулахад шинэчлэлтийн агуулгыг шалгах шаардлагатай.\n\nХөгжүүлэгчид хувилбарын тэмдэглэлийг GitHub дээрээс шалгаж, шинэчлэхийн өмнө анимацийн кодоо туршихыг зөвлөж байна.",
+   "published": "2026-11-09T10:31:22Z",
+   "added": "2026-11-10T15:59:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "db73b2d9083f5a48",
+   "subtopic": "nestjs",
+   "source": "nestjs/nest",
+   "source_label": "nestjs/nest",
+   "url": "https://github.com/nestjs/nest/releases/tag/v12.4.2",
+   "image": "https://opengraph.githubassets.com/b115f4ac79eacf338f045b6fdde9d0396886d43fd7b4d84f95a9316cb7b7f416/nestjs/nest",
+   "title": "nest v12.4.2",
+   "summary_en": "v12.4.2",
+   "title_mn": "NestJS v12.4.2 хувилбар гарлаа",
+   "summary_mn": "NestJS фреймворкийн v12.4.2 хувилбар нийтлэгдлээ. Эх мэдээллээс зөвхөн хувилбарын дугаар олдсон тул дэлгэрэнгүй өөрчлөлтийг release notes-оос шалгах хэрэгтэй.",
+   "body_mn": "NestJS фреймворкийн шинэ хувилбар v12.4.2 гарсан тухай мэдээлэл GitHub-ийн nestjs/nest репозиторид нийтлэгдлээ. Эх мэдээлэлд хувилбарын дугаараас өөр дэлгэрэнгүй тайлбар байхгүй байна.\n\nӨмнөх v12.4.0 болон v12.4.1 хувилбаруудтай харьцуулахад энэ нь жижиг засвар эсвэл алдаа засах шинэчлэл байж магадгүй. Гэхдээ энэ нь баталгаагүй тул хөгжүүлэгчид өөрчлөлтийн жагсаалтыг GitHub-ийн release хуудаснаас шалгаж, production орчинд шинэчлэхийн өмнө туршилт хийх нь зүйтэй.",
+   "published": "2026-11-09T12:09:46Z",
+   "added": "2026-11-10T15:59:36Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
  }
 ]

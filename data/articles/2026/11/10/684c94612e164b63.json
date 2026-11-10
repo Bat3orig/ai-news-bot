@@ -1,0 +1,17 @@
+{
+ "id": "684c94612e164b63",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/build-disk-space-on-vercel-increased-to-64-gb",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6iguhONg4zfAtIaGg826cN/0917eb6ab36737149db6bc153ce604ca/image__4_.png",
+ "title": "Build disk space on Vercel increased to 64 GB",
+ "summary_en": "Disk space for Vercel builds has increased from 32 GB to 64 GB on Basic and Standard machines, matching the capacity already available on Enhanced and Turbo. The additional space provides more room for the packages your project uses and the files generated during a build, reducing the risk of running out of disk space. The change applies automatically across all plans and build machine types at no additional charge, with no configuration changes required. Learn more in the build machine documentation . Read more",
+ "title_mn": "Vercel build-ийн дискний хэмжээ 32 GB-аас 64 GB болж нэмэгдлээ",
+ "summary_mn": "Basic болон Standard машинд build хийх дискний хэмжээ 32 GB-аас 64 GB болсон. Энэ өөрчлөлт нэмэлт төлбөргүй бөгөөд бүх төлөвлөгөөнд автоматаар хамаарна.",
+ "body_mn": "Vercel build хийх дискний хэмжээ Basic болон Standard машинд 32 GB-аас 64 GB хүртэл нэмэгдсэн. Энэ нь Enhanced болон Turbo машинд аль хэдийн байсан хэмжээтэй адил болжээ.\n\nНэмэгдсэн зай нь проектын ашигладаг багцууд болон build явцад үүсэх файлуудад илүү орон зай өгч, дискний хязгаар дүүрэх эрсдлийг бууруулна. Өөрчлөлт бүх төлөвлөгөө болон build машины төрөлд автоматаар хамаарах бөгөөд нэмэлт тохиргоо хийх шаардлагагүй.\n\nТом проект, олон багцтай фронтенд болон монорепо бүхий багуудад build алдаа багасах боломжтой. Дэлгэрэнгүйг Vercel-ийн build machine баримт бичгээс харж болно.",
+ "published": "2026-11-09T00:00:00Z",
+ "added": "2026-11-10T15:59:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "db73b2d9083f5a48",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.4.2",
+ "image": "https://opengraph.githubassets.com/b115f4ac79eacf338f045b6fdde9d0396886d43fd7b4d84f95a9316cb7b7f416/nestjs/nest",
+ "title": "nest v12.4.2",
+ "summary_en": "v12.4.2",
+ "title_mn": "NestJS v12.4.2 хувилбар гарлаа",
+ "summary_mn": "NestJS фреймворкийн v12.4.2 хувилбар нийтлэгдлээ. Эх мэдээллээс зөвхөн хувилбарын дугаар олдсон тул дэлгэрэнгүй өөрчлөлтийг release notes-оос шалгах хэрэгтэй.",
+ "body_mn": "NestJS фреймворкийн шинэ хувилбар v12.4.2 гарсан тухай мэдээлэл GitHub-ийн nestjs/nest репозиторид нийтлэгдлээ. Эх мэдээлэлд хувилбарын дугаараас өөр дэлгэрэнгүй тайлбар байхгүй байна.\n\nӨмнөх v12.4.0 болон v12.4.1 хувилбаруудтай харьцуулахад энэ нь жижиг засвар эсвэл алдаа засах шинэчлэл байж магадгүй. Гэхдээ энэ нь баталгаагүй тул хөгжүүлэгчид өөрчлөлтийн жагсаалтыг GitHub-ийн release хуудаснаас шалгаж, production орчинд шинэчлэхийн өмнө туршилт хийх нь зүйтэй.",
+ "published": "2026-11-09T12:09:46Z",
+ "added": "2026-11-10T15:59:36Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
