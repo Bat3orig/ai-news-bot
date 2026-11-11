@@ -1,0 +1,17 @@
+{
+ "id": "014c73a59fcce634",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Interesting Engineering",
+ "url": "https://interestingengineering.com/ai-robotics/anthropic-claude-fable-5-2-operating-system",
+ "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-design-2026-11-10T014425.857.jpg",
+ "title": "Claude Fable 5.2 builds a working operating system with 1,000 agents in eight days",
+ "summary_en": "Anthropic is giving Claude increasingly difficult engineering assignments, and its latest models are delivering some remarkable results.",
+ "title_mn": "Claude Fable 5.2 найман хоногт 1000 агентаар ажлын үйлдлийн систем бүтээжээ",
+ "summary_mn": "Anthropic-ийн Claude Fable 5.2 загвар 1000 гаруй агентыг удирдан найман хоногт ажиллагаатай үйлдлийн систем бүтээжээ. Мөн RoboDojo бенчмарк дээр 64.9% амжилт үзүүлсэн гэж мэдээлжээ.",
+ "body_mn": "Anthropic-ийн шинэ Claude Fable 5.2 болон Claude Mythos 5.2 загварууд программ хангамж, робот техник, математик зэрэг хүнд даалгаврыг шийдэх зорилготой гарсан. Туршилтын үеэр Fable 5.2 нь 1000 гаруй дэд агентыг удирдан найман хоногийн турш үйлдлийн систем бүтээжээ.\n\nЭнэ системд өөрийн kernel, төхөөрөмжийн драйвер, байнгын файл хадгалалт, график интерфэйс, нэвтрэх дэлгэц, суулгагч болон Claude-ийн суурилсан функц багтсан гэж мэдээлсэн. Систем нь лаптоп дээр ачаалагдаж ажилласан гэнэ. Мөн загвар гурван электрон төхөөрөмжийн дизайныг гаргаж, хэвлэмэл самбарыг нэг өдрөөс бага хугацаанд үйлдвэрлэхэд бэлэн болгожээ.\n\nRoboDojo робот бенчмарк дээр Fable 5.2 нь 64.9% амжилт үзүүлсэн бөгөөд Fable 5.1-ийн 27.6%-аас нэлээд өссөн байна. Mythos 5.2 нь CVE Rediscovery үнэлгээнд 89.6% оноо авсан гэж мэдээлсэн. Эдгээр нь үнэлгээний үр дүн бөгөөд бодит ажлын чанарыг шууд илэрхийлэхгүй тул хөгжүүлэгчид өөрсдийн ажлын урсгал дээр туршиж үзэх нь зүйтэй.",
+ "published": "2026-11-09T20:42:00Z",
+ "added": "2026-11-11T16:48:19Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

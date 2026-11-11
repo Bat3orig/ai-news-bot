@@ -1,0 +1,17 @@
+{
+ "id": "62a726ee9e2c8204",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
+ "image": "https://opengraph.githubassets.com/f2af3ea69c9dfb0d5db39045af3edef9af425f5ce3e146a419d65058355ef655/anthropics/claude-code/releases/tag/v2.1.322",
+ "title": "claude-code v2.1.322",
+ "summary_en": "What's changed Added fast mode on Vertex in the global, us and eu regions, falling back to standard speed if Vertex refuses it",
+ "title_mn": "Claude Code v2.1.322: Vertex дээр fast mode дэмжлэг нэмэгдлээ",
+ "summary_mn": "Claude Code v2.1.322 хувилбарт Vertex-ийн global, us, eu бүс нутагт fast mode нэмэгдлээ. Vertex fast mode-ийг татгалзвал стандарт хурдаар автоматаар шилжинэ.",
+ "body_mn": "Claude Code-ийн v2.1.322 хувилбарт Vertex дээр fast mode-ийг нэмжээ. Энэ горим global, us болон eu бүс нутагт ажиллана.\n\nХэрэв Vertex fast mode хүсэлтийг татгалзвал Claude Code автоматаар стандарт хурдтай горимд шилжинэ. Ингэснээр хэрэглэгч тасалдалгүйгээр ажлаа үргэлжлүүлэх боломжтой.\n\nЭнэ өөрчлөлт нь Vertex дээр Claude-ийг ашигладаг байгууллагуудад хурдан хариу авах боломжийг нээж өгнө. Хөгжүүлэгчид шинэчлэлтээ хийхдээ бүс нутгийн тохиргоогоо шалгаж үзвэл зохистой.\n\n",
+ "published": "2026-11-10T02:29:43Z",
+ "added": "2026-11-11T16:48:19Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

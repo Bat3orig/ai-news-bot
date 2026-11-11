@@ -738,5 +738,245 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ae94fa2d4f64ad42",
+   "subtopic": "nextjs",
+   "source": "vercel/next.js",
+   "source_label": "vercel/next.js",
+   "url": "https://github.com/vercel/next.js/releases/tag/v16.4.6",
+   "image": "https://opengraph.githubassets.com/8da8aa645fca8c27f1743ebe87f2b52b6f3406ca23f4db50290cfaa07b4b6c9f/vercel/next.js/releases/tag/v16.4.6",
+   "title": "next.js v16.4.6",
+   "summary_en": "Note This release is backporting bug fixes. It does not include all pending features/changes on canary. Core Changes [lts-active] Pin Tailwind to 4.3.3 in create-next-app and tests ( #101061 , #101176 ) ( #101307 ) [lts-active] Automatically compress route handler responses if not already compressed ( #101280 ) [lts-active] Turbopack GC fixes for dev ( #100279 , #100370 ) ( #101308 ) Credits Huge thanks to @lukesandberg and @eps1lon for helping!",
+   "title_mn": "Next.js v16.4.6 хувилбар гарлаа: Tailwind 4.3.3 тогтоож, route handler хариултыг автоматаар шахна",
+   "summary_mn": "Next.js v16.4.6 нь баг засварын backport хувилбар юм. create-next-app болон тестүүдэд Tailwind 4.3.3 хувилбарыг тогтоож, route handler-ийн хариултыг автоматаар шахах болсон. Turbopack-ийн dev горимын GC асуудлуудыг мөн засжээ.",
+   "body_mn": "Next.js v16.4.6 хувилбар нь canary дээр бэлэн болсон бүх функцийг агуулаагүй, харин LTS дээр идэвхтэй байгаа засваруудыг багтаасан backport хувилбар юм.\n\nГол өөрчлөлтүүд нь create-next-app болон тестийн орчинд Tailwind CSS-ийг 4.3.3 хувилбарт тогтоох, мөн route handler-ийн хариултуудыг хэрэв өмнө нь шахагдаагүй бол автоматаар шахах явдал юм. Мөн Turbopack-ийн dev горимд хамаарах хэрэглээний санах ойн цуглуулагчийн (GC) хоёр асуудлыг засжээ.\n\nХөгжүүлэгчдэд энэ нь ялангуяа LTS хувилбар ашиглагчдад хамаатай. Route handler-ийн автомат шахалт API-ийн хариултын хэмжээг бууруулах боломжтой ч, хэрэв таны хариулт аль хэдийн шахагдсан бол өөрчлөлт гарахгүй. Upgrade хийхээсээ өмнө changelog-оо шалгаарай.",
+   "published": "2026-11-09T20:27:17Z",
+   "added": "2026-11-11T16:48:19Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "014c73a59fcce634",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Interesting Engineering",
+   "url": "https://interestingengineering.com/ai-robotics/anthropic-claude-fable-5-2-operating-system",
+   "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-design-2026-11-10T014425.857.jpg",
+   "title": "Claude Fable 5.2 builds a working operating system with 1,000 agents in eight days",
+   "summary_en": "Anthropic is giving Claude increasingly difficult engineering assignments, and its latest models are delivering some remarkable results.",
+   "title_mn": "Claude Fable 5.2 найман хоногт 1000 агентаар ажлын үйлдлийн систем бүтээжээ",
+   "summary_mn": "Anthropic-ийн Claude Fable 5.2 загвар 1000 гаруй агентыг удирдан найман хоногт ажиллагаатай үйлдлийн систем бүтээжээ. Мөн RoboDojo бенчмарк дээр 64.9% амжилт үзүүлсэн гэж мэдээлжээ.",
+   "body_mn": "Anthropic-ийн шинэ Claude Fable 5.2 болон Claude Mythos 5.2 загварууд программ хангамж, робот техник, математик зэрэг хүнд даалгаврыг шийдэх зорилготой гарсан. Туршилтын үеэр Fable 5.2 нь 1000 гаруй дэд агентыг удирдан найман хоногийн турш үйлдлийн систем бүтээжээ.\n\nЭнэ системд өөрийн kernel, төхөөрөмжийн драйвер, байнгын файл хадгалалт, график интерфэйс, нэвтрэх дэлгэц, суулгагч болон Claude-ийн суурилсан функц багтсан гэж мэдээлсэн. Систем нь лаптоп дээр ачаалагдаж ажилласан гэнэ. Мөн загвар гурван электрон төхөөрөмжийн дизайныг гаргаж, хэвлэмэл самбарыг нэг өдрөөс бага хугацаанд үйлдвэрлэхэд бэлэн болгожээ.\n\nRoboDojo робот бенчмарк дээр Fable 5.2 нь 64.9% амжилт үзүүлсэн бөгөөд Fable 5.1-ийн 27.6%-аас нэлээд өссөн байна. Mythos 5.2 нь CVE Rediscovery үнэлгээнд 89.6% оноо авсан гэж мэдээлсэн. Эдгээр нь үнэлгээний үр дүн бөгөөд бодит ажлын чанарыг шууд илэрхийлэхгүй тул хөгжүүлэгчид өөрсдийн ажлын урсгал дээр туршиж үзэх нь зүйтэй.",
+   "published": "2026-11-09T20:42:00Z",
+   "added": "2026-11-11T16:48:19Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "756b395aedd8b82e",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-sandbox-snapshot-creation-is-now-up-to-10x-faster",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3Kx2eGDsv1d8kbZCKHFjvw/b18f48c92a064439ab18337f71949dbc/image__70_.png",
+   "title": "Vercel Sandbox snapshot creation is now up to 10x faster",
+   "summary_en": "Vercel Sandbox now creates snapshots up to 10x faster. Median time to snapshot is under 0.4 seconds, down from 4.4 seconds. Snapshot restore speed has also improved by 50% from 500ms to 250ms at p50. Snapshots are now able to write and restore by re-using frames within the Vercel Hive Snapshot (VHS) format. VHS now indexes data in a more efficient way which means that more read and write operations can be done in parallel. Snapshots can now restore more of your Sandbox base image in parallel with user data, leading to overall faster operations. Persistent sandboxes, the default, snapshot…",
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-09T21:00:00Z",
+   "added": "2026-11-11T16:48:19Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4f95a9a7722c6f04",
+   "subtopic": "design-systems",
+   "source": "Figma Blog",
+   "source_label": "Figma Blog",
+   "url": "https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/",
+   "image": "https://cdn.sanity.io/images/599r6htc/regionalized/e45f20141c28283bd8a1a0a1889c5f8e9befd922-7680x4320.png?w=1200&q=70&fit=max&auto=format",
+   "title": "6 easy ways to use the Figma agent right now",
+   "summary_en": "From making designs more expressive and automating busywork, to exploring more possibilities on the canvas, here are six ways to push designers further with the Figma agent.",
+   "title_mn": "Figma agent-ийг дизайнерууд canvas дээр шууд ашиглах 6 арга",
+   "summary_mn": "Figma шинэ Figma agent-ийг canvas дээр шууд ажиллуулах боломжийг зарлажээ. Нийтлэлд хурлын тэмдэглэл холбох, сэтгэгдэл нэгтгэх, custom shader бүтээх зэрэг 6 жишээ багтсан байна.",
+   "body_mn": "Figma өөрийн дизайны канвас дээр шууд ажиллах зориулалттай Figma agent-ийг нээлттэй болгож, түүнийг ашиглах 6 практик аргыг танилцуулжээ. Агент нь дизайнерын ажлын урсгалд чиглэсэн бөгөөд хэрэглэгч чатын хайрцаг дээр + товчийг дарж коннектороор Granola, Notion, Google Drive зэрэг аппуудыг холбож болно.\n\nНийтлэлд дурдсанаар агентыг хурлын тэмдэглэл эсвэл транскриптээс санал хүсэлтийг авч дизайн дээр тайлбар нэмэхэд ашиглаж болно. Мөн сэтгэгдлийн олон дугаарыг нэгтгэж, санал болгож буй өөрчлөлтийг шууд дизайнд хэрэгжүүлэх боломжтой. /comments-do-try-consider зэрэг skill-үүдээр ажлын урсгалыг давтаж болдог гэжээ.\n\nХөгжүүлэгчдэд хамааралтай хэсэг нь shader-ийн туршилт юм. Агентаар код дээр суурилсан эффект бүтээж, зургийн олон файлд нэг ижил эффект хэрэглэх боломжтой. Энэ нь Figma дээрх дизайн ба фронтенд хөгжүүлэлтийн хоорондох зайг багасгахад тус болж болзошгүй ч нийтлэлд кодын гаралтын талаар дэлгэрэнгүй мэдээлэл байхгүй.",
+   "published": "2026-11-09T21:46:00Z",
+   "added": "2026-11-11T16:48:19Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c270cf5d73ac55b2",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+   "image": "https://opengraph.githubassets.com/a784a87ada4e29a6e11994845504bfe2db75c4254ef58aaf9d9e9981e48489a1/ollama/ollama/releases/tag/v0.40.16",
+   "title": "ollama v0.40.16",
+   "summary_en": "Ripple Preview Ripple Preview from Ricursive Intelligence is a 65B dense model built for agentic coding. ollama run ripple-preview What's Changed Qwen3.8 Flash Next uses about 27 GiB less memory on Apple silicon ollama launch claude always routes Claude Code to the selected model ollama launch explains when a cloud model has been retired /v1/responses respects truncation and no longer silently truncates by default /v1/models returns an empty list instead of null when no models are installed CUDA 13.5 support for Windows on ARM Updated llama.cpp Full Changelog : v0.40.15...v0.40.16",
+   "title_mn": "Ollama v0.40.16: Claude Code-ийг сонгосон загвар руу чиглүүлж, Apple silicon дээр санах ой хэмнэнэ",
+   "summary_mn": "Ollama v0.40.16 хувилбар гарсан бөгөөд ollama launch claude Claude Code-ийг сонгосон загвар руу үргэлж чиглүүлдэг болсон. Apple silicon дээр Qwen3.8 Flash Next бараг 27 GiB санах ой бага хэрэглэнэ.",
+   "body_mn": "Ollama v0.40.16 нь орон нутагт LLM ажиллуулах хэрэгсэлд чиглэсэн шинэчлэл юм. Хувилбарт Ricursive Intelligence-ийн 65B dense загвар болох Ripple Preview нэмэгдсэн бөгөөд agentic coding зорилготой гэж тодорхойлсон байна.\n\nХөгжүүлэгчдэд хамгийн хэрэгтэй өөрчлөлт нь ollama launch claude командын зан байдал юм. Одоо Claude Code нь сонгосон загвар руу тогтмол чиглэгдэх бөгөөд ollama launch нь хэрэв cloud загвар цуцлагдсан бол үүнийг тайлбарладаг болжээ. Мөн Apple silicon дээр Qwen3.8 Flash Next бараг 27 GiB санах ой бага ашиглана.\n\nӨөр нэмэлт өөрчлөлтүүдэд /v1/responses endpoint truncation-ийг хүндэтгэж, анхдагчаар өгөгдлийг чимээгүйгээр таслахгүй болсон. /v1/models нь загвар суулгаагүй үед null биш хоосон жагсаалт буцаана. Windows on ARM дээр CUDA 13.5 дэмжлэг, шинэчлэгдсэн llama.cpp багтсан байна.",
+   "published": "2026-11-09T23:45:36Z",
+   "added": "2026-11-11T16:48:19Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ffd0277ad7cd64c2",
+   "subtopic": "vibe-coding",
+   "source": "Simon Willison",
+   "source_label": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+   "image": "https://static.simonwillison.net/static/2026/beep-locator-card.jpg",
+   "title": "Locating the source of a mysterious beep with Claude",
+   "summary_en": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I really didn't want to dig through every one of those boxes. So I had Claude Code build Beep Locator , a software system for triangulating the source of a mysterious beep using multiple devices scattered around the room. Here's what Beep Locator looks like after it has been running for a while: You…",
+   "title_mn": "Claude Code-оор гэрийн дуу чимээний эх сурвалжийг олох систем бүтээсэн туршлага",
+   "summary_mn": "Simon Willison Claude Code ашиглан олон төхөөрөмжөөр дуу чимээний эх сурвалжийг триангуляцлах Beep Locator системийг бүтээжээ. Систем нь 40 см орчим нарийвчлалтай байрлалыг олсон байна.",
+   "body_mn": "Simon Willison гэрийнхээ агуулахын өрөөнд байнга гарч байсан хэн нэгний дуу чимээг олохын тулд Claude Code ашиглан Beep Locator системийг бүтээжээ. Систем нь Python вэб сервер дээр ажилладаг бөгөөд утас, таблет, компьютер зэрэг олон төхөөрөмж дээр браузераар сонсогчоор холбогдоно. Төхөөрөмжүүд WebSocket-ээр серверт холбогдож, микрофоноор дуу барина.\n\nТехникийн хувьд сонсогч бүр 60 секундын аудио буфер хадгалж, detector.js дээр Fast Fourier Transform болон high-pass шүүлтүүр ашиглан beep илрүүлдэг. Дараа нь үйл явдлуудыг сервэрт илгээж, олон төхөөрөмжийн хугацааны зөрүүгээр байрлалыг тооцоолдог. Нийтлэлд дурдсанаар эхлээд Rough mode болон цэхэлтийн горимоор туршиж, системд итгэх итгэлээ бэхжүүлжээ.\n\nХөгжүүлэгчдэд энэ жишээ нь AI кодын агентыг бодит асуудлыг шийдэхэд хэрхэн ашиглахыг харуулна. Эхлээд судалгааны цаас олж, алгоритмаа сонгож, туршилтын горимуудыг нэмсэн нь агентад бодит дадлагын ажлын урсгал өгч болохыг харуулжээ. Систем нь нарийвчлал нь 40 см орчим байсан тул бодит ашиглалтад хангалттай гэж үзсэн байна.",
+   "published": "2026-11-09T23:57:21Z",
+   "added": "2026-11-11T16:48:19Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b0eaf51fe58e0700",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20yZQiIRVIrL4Y5mvQlsTe/3c8935388762292ca142432e205b9b9f/Vercel_x_MiniMax.png",
+   "title": "MiniMax H3 Image and Highspeed now available on AI Gateway",
+   "summary_en": "MiniMax H3 Image and MiniMax H3 Image Highspeed are now available on AI Gateway. Generate images from text or edit existing images with one API key and no separate MiniMax account. Both models support custom dimensions and aspect ratios, including 2K and 4K outputs. Use a text prompt to create a product visual or illustration, then pass the image back with instructions to change colors, subjects, or composition. The Highspeed variant offers faster generation with the same generation and editing options. Use minimax/minimax-h3-image or minimax/minimax-h3-image-highspeed as the model name: To…",
+   "title_mn": "MiniMax H3 Image загваруудыг Vercel AI Gateway дээр ашиглах боломжтой боллоо",
+   "summary_mn": "MiniMax H3 Image болон Highspeed загварууд AI Gateway дээр гарлаа. Нэг API түлхүүрээр зураг үүсгэж, засварлах боломжтой бөгөөд 2K, 4K гаралт дэмжигдэнэ.",
+   "body_mn": "Vercel-ийн AI Gateway дээр MiniMax H3 Image болон MiniMax H3 Image Highspeed загварууд нэмэгдлээ. Хөгжүүлэгчид тусдаа MiniMax бүртгэлгүйгээр нэг API түлхүүрээр текстээс зураг үүсгэх болон одоо байгаа зургийг засварлах боломжтой.\n\nЗагварууд захиалгат хэмжээ, харьцаа, 2K болон 4K гаралтыг дэмждэг. Highspeed хувилбар нь ижил боломжтой ч илүү хурдан үүсгэдэг гэж мэдээлсэн. Загварын нэр нь minimax/minimax-h3-image эсвэл minimax/minimax-h3-image-highspeed байна. Мөн OpenAI-тай нийцтэй /v1/images/generations болон /v1/images/edits маршрутуудыг дэмжиж байна.\n\nAI Gateway нь провайдерын үнийг нэмэлтгүйгээр тусгадаг бөгөөд inference дээр платформын хураамж байхгүй гэж заасан. Хэрэглээ болон зардлыг dashboard-аас хянах боломжтой. Бүтээгчдэд OpenAI-тай ижил interface ашиглан зургийн функц нэмэх боломж нээгдэж байна.",
+   "published": "2026-11-10T00:00:00Z",
+   "added": "2026-11-11T16:48:19Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "88a13733978cf5be",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
+   "title": "Gemini 4 Carbon now available on AI Gateway",
+   "summary_en": "Gemini 4 Carbon from Google is now available on AI Gateway. It is available at 50% off through November 30, 2026: Gemini 4 Carbon is built for complex software engineering, sustained agentic work, and cybersecurity defense. It has a 1M-token context window for working with large codebases and long inputs. On engineering tasks, Carbon carries demanding work through multiple stages, with improvements in coding, full-stack web development, and scientific reasoning. Its cybersecurity capabilities span finding vulnerabilities, validating their risk, and developing patches. Google also reports…",
+   "title_mn": "Gemini 4 Carbon загвар Vercel AI Gateway дээр боломжтой боллоо",
+   "summary_mn": "Google-ийн Gemini 4 Carbon загвар Vercel AI Gateway дээр нээгдлээ. 2026 оны 11-р сарын 30 хүртэл 50% хөнгөлөлттэй. Загварын 1M токений контекст цонх нь том кодын сан болон урт оролтыг боловсруулахад зориулагдсан.",
+   "body_mn": "Vercel-ийн AI Gateway дээр Google-ийн Gemini 4 Carbon загвар нэмэгдлээ. Загварыг google/gemini-4-carbon нэрээр дуудна. Тус загвар нь нарийн төвөгтэй програм хангамжийн инженерчлэл, удаан үргэлжилэх агент ажил, кибер аюулгүй байдлын хамгаалалтад зориулагдсан гэж бичигдсэн байна.\n\nЗагварын гол онцлогууд нь 1M токений контекст цонх бөгөөд том кодын санг болон урт оролтыг боловсруулах боломжтой. Google нь олон шатлалтай даалгаврыг илүү найдвартай гүйцэтгэх, хангалтгүй мэдээллийн үед илүү сайн хамтран ажиллах чадвар сайжирсныг дурдсан. Аюулгүй байдлын чиглэлд эмзэг байдлыг олох, эрсдлийг шалгах, засварын код бичих чадвартай гэжээ.\n\nХөгжүүлэгчид загварыг Claude Code, Codex, Cursor зэрэг кодын агентууд дээр Vercel CLI-ээр тохируулан ашиглах боломжтой. AI Gateway нь провайдерын үнээр, нэмэлт хураамжгүйгээр ажилладаг бөгөөд BYOK хүсэлтэд мөн хамаарна. Хөнгөлөлт 2026 оны 11-р сарын 30 хүртэл үргэлжилнэ.\n\nЭнэ нь хөгжүүлэгчдэд өндөр чадалтай загварыг нэг API-аар, бага зардлаар туршиж үзэх боломж олгож байна.\n\n",
+   "published": "2026-11-10T00:00:00Z",
+   "added": "2026-11-11T16:48:19Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "31ba41902b20c28a",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/speed-insights-and-web-analytics-now-support-custom-environments",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5kTmvzPXrjGgMWSyLZiFRR/28d77a8ecc8c0f215b7777f98997939b/image__1_.png",
+   "title": "Speed Insights and Web Analytics now support custom environments",
+   "summary_en": "Speed Insights and Web Analytics now fully support custom environments . Previously, data captured on deployments to a custom environment was attributed to the Preview environment. That data is now attributed to the custom environment it came from, so you can track performance and traffic for staging, QA, or canary environments separately from Production and Preview. You can view this data in several places: Dashboard: use the Environment dropdown in Speed Insights and Web Analytics to pick a custom environment CLI: query it with the vc metrics command Query builder: filter and break down by…",
+   "title_mn": "Speed Insights болон Web Analytics өөрсдийн орчныг дэмжлээ",
+   "summary_mn": "Vercel-ийн Speed Insights болон Web Analytics нь custom environment-ийн өгөгдлийг Preview-ээс тусад нь харуулах боллоо. Staging, QA, canary орчинд гүйцэтгэл, трафикийг тусад нь хянах боломжтой.",
+   "body_mn": "Vercel-ийн Speed Insights болон Web Analytics хэрэгслүүд custom environment-ийг бүрэн дэмжих боллоо. Өмнө нь custom орчны өгөгдөл Preview орчинд тооцогддог байсан бол одоо тухайн орчинд хамаарч хадгалагдана.\n\nЭнэ нь staging, QA, canary орчны гүйцэтгэл болон трафикийг Production болон Preview-ээс тусад нь шинжлэх боломж олгоно. Өгөгдлийг Dashboard дээрх Environment хэсгээс, vc metrics CLI командаар, Query builder-ээр, мөн Aggregation API-аар (зөвхөн Web Analytics) авч болно.\n\nЭнэ өөрчлөлт зөвхөн өгөгдлийг хэрхэн ангилахад нөлөөлнө. Шинэ өгөгдлийн цэг цуглуулагдахгүй бөгөөд тохиргоо өөрчлөх шаардлагагүй. Custom environment нь Pro болон Enterprise төлөвлөгөөнд боломжтой.\n\n",
+   "published": "2026-11-10T00:00:00Z",
+   "added": "2026-11-11T16:48:19Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "00a3012896f8eb60",
+   "subtopic": "packages",
+   "source": "JavaScript Weekly",
+   "source_label": "JavaScript Weekly",
+   "url": "https://javascriptweekly.com/issues/810",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/oxtotle26xtvjolphndc.jpg",
+   "title": "How X (Twitter) is rebuilding its web app",
+   "summary_en": "#​810 — November 10, 2026 Read on the Web JavaScript Weekly How X (Twitter) is Rebuilding Its Web App — X is replacing 3 servers with one app built on React, Vite and Fastify. Yagiz, famed for his performance work on Node, explains the streaming architecture behind it, along with some bottlenecks they had to fix, like how hundreds of tiny JavaScript files slowed startup. Yagiz Nizipli (X Engineering Blog) Why Standard Webhooks Hit 118m npm Downloads a Month — OpenAI, Anthropic, and Gemini all sign webhooks with Standard Webhooks, the open spec Svix started. That's one finding in the State of…",
+   "title_mn": "X шинэ вэб аппаа React, Vite, Fastify дээр дахин бичиж байна; Parcel 3 Rust-аар бичигдэв",
+   "summary_mn": "JavaScript Weekly-ийн энэ дугаарт X-ийн React, Vite, Fastify дээрх шинэ вэб апп, Parcel 3 alpha Rust bundler, Storybook 11 Beta зэрэг чухал хэрэгслүүд багтжээ. Vite-ийн dev сервер дээрх критик RCE эмзэг байдлыг мөн анхааруулжээ.",
+   "body_mn": "JavaScript Weekly-ийн энэ дугаарт хэд хэдэн чухал хэрэгсэл, хувилбар дурдагдсан. Хамгийн онцлох нь Parcel 3 alpha бөгөөд bundler-ийг Rust-аар дахин бичсэн. Баг нь cold build дээр React Spectrum-ийн жишээгээр Parcel 2-оос 100 дахин хурдан гэж мэдээлсэн. Node шаардлагагүй standalone binary хэлбэрээр ажиллаж, Rust, Go, Swift дээр бичсэн native plugin-ийг дэмжинэ.\n\nStorybook 11 Beta нь UI компонентын хөгжүүлэлтийг агентад илүү ээлтэй болгож, албан ёсны skills, Claude болон Codex plugin, headless CLI хэрэгслүүдтэй ирлээ. Playwright 1.65 нь тест runner-ээ Bun дээр ажиллуулах боломжтой болгож, шинэ failures reporter нэмжээ. TypeScript 7-ийн Go-д суурилсан компайлер WebAssembly туршилтын хувилбартай болсон.\n\nАюулгүй байдлын хувьд Vite-ийн --host эсвэл server.host тохиргоотой dev сервер дээр критик remote code execution эмзэг байдал илэрсэн тул 8.3.7, 8.2.5, 8.1.7, 7.3.8 эсвэл 6.4.6 хувилбар руу шинэчлэх хэрэгтэй. Next.js 16.4.5 болон 15.5.29 нь долоон аюулгүй байдлын асуудлыг засжээ.\n\nНode 27 alpha нь V8 15.6 дээр суурилж, Math.sumPrecise зэрэг шинэ боломжуудтай. Энэ нь хөгжүүлэгчдэд шинэ JavaScript онцлогуудыг туршихад тустай.\n\n",
+   "published": "2026-11-10T00:00:00Z",
+   "added": "2026-11-11T16:48:19Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "62a726ee9e2c8204",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
+   "image": "https://opengraph.githubassets.com/f2af3ea69c9dfb0d5db39045af3edef9af425f5ce3e146a419d65058355ef655/anthropics/claude-code/releases/tag/v2.1.322",
+   "title": "claude-code v2.1.322",
+   "summary_en": "What's changed Added fast mode on Vertex in the global, us and eu regions, falling back to standard speed if Vertex refuses it",
+   "title_mn": "Claude Code v2.1.322: Vertex дээр fast mode дэмжлэг нэмэгдлээ",
+   "summary_mn": "Claude Code v2.1.322 хувилбарт Vertex-ийн global, us, eu бүс нутагт fast mode нэмэгдлээ. Vertex fast mode-ийг татгалзвал стандарт хурдаар автоматаар шилжинэ.",
+   "body_mn": "Claude Code-ийн v2.1.322 хувилбарт Vertex дээр fast mode-ийг нэмжээ. Энэ горим global, us болон eu бүс нутагт ажиллана.\n\nХэрэв Vertex fast mode хүсэлтийг татгалзвал Claude Code автоматаар стандарт хурдтай горимд шилжинэ. Ингэснээр хэрэглэгч тасалдалгүйгээр ажлаа үргэлжлүүлэх боломжтой.\n\nЭнэ өөрчлөлт нь Vertex дээр Claude-ийг ашигладаг байгууллагуудад хурдан хариу авах боломжийг нээж өгнө. Хөгжүүлэгчид шинэчлэлтээ хийхдээ бүс нутгийн тохиргоогоо шалгаж үзвэл зохистой.\n\n",
+   "published": "2026-11-10T02:29:43Z",
+   "added": "2026-11-11T16:48:19Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8e490e1731d13e09",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.49.0",
+   "image": "https://opengraph.githubassets.com/192d0bc19af43d6049f64ba04ab44e6fd2024153078b2bcc09593cc0ac7df7a9/openai/openai-python/releases/tag/v3.49.0",
+   "title": "openai-python v3.49.0",
+   "summary_en": "3.49.0 (2026-11-10) Features api: add typed async function tools ( #4264 ) ( ea07983 ) Bug Fixes encode microphone recordings as valid PCM WAV ( #3900 ) ( 13c000d )",
+   "title_mn": "openai-python v3.49.0: async function tools болон WAV кодчилолын засвар",
+   "summary_mn": "OpenAI-ийн Python SDK v3.49.0 хувилбарт typed async function tools нэмэгдэж, микрофоны бичлэгийг хүчинтэй PCM WAV хэлбэрээр кодлох алдаа засагдлаа.",
+   "body_mn": "OpenAI-ийн openai-python SDK-ийн 3.49.0 хувилбар 2026 оны 11-р сарын 10-нд гарсан. Шинэ онцлог нь api хэсэгт typed async function tools нэмэгдсэн явдал юм. Ингэснээр async функцүүдийг tool болгон ашиглахад төрөлжсөн дэмжлэг авна.\n\nМөн засварт микрофоны бичлэгийг хүчинтэй PCM WAV форматаар кодлох алдаа засагдсан. Энэ нь аудио оролттой ажилладаг програмуудын найдвартай байдлыг сайжруулна.\n\nХөгжүүлэгчдэд энэ хувилбар нь асинхрон tool-оор ажилладаг агент болон аудио апп бичиж буй хүмүүст шууд хамаарна. Шинэчлэлт хийхээс өмнө changelog-ийг шалгах нь зүйтэй.\n\n",
+   "published": "2026-11-10T06:47:04Z",
+   "added": "2026-11-11T16:48:19Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]

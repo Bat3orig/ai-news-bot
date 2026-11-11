@@ -1,0 +1,17 @@
+{
+ "id": "ffd0277ad7cd64c2",
+ "subtopic": "vibe-coding",
+ "source": "Simon Willison",
+ "source_label": "Simon Willison",
+ "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+ "image": "https://static.simonwillison.net/static/2026/beep-locator-card.jpg",
+ "title": "Locating the source of a mysterious beep with Claude",
+ "summary_en": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I really didn't want to dig through every one of those boxes. So I had Claude Code build Beep Locator , a software system for triangulating the source of a mysterious beep using multiple devices scattered around the room. Here's what Beep Locator looks like after it has been running for a while: You…",
+ "title_mn": "Claude Code-оор гэрийн дуу чимээний эх сурвалжийг олох систем бүтээсэн туршлага",
+ "summary_mn": "Simon Willison Claude Code ашиглан олон төхөөрөмжөөр дуу чимээний эх сурвалжийг триангуляцлах Beep Locator системийг бүтээжээ. Систем нь 40 см орчим нарийвчлалтай байрлалыг олсон байна.",
+ "body_mn": "Simon Willison гэрийнхээ агуулахын өрөөнд байнга гарч байсан хэн нэгний дуу чимээг олохын тулд Claude Code ашиглан Beep Locator системийг бүтээжээ. Систем нь Python вэб сервер дээр ажилладаг бөгөөд утас, таблет, компьютер зэрэг олон төхөөрөмж дээр браузераар сонсогчоор холбогдоно. Төхөөрөмжүүд WebSocket-ээр серверт холбогдож, микрофоноор дуу барина.\n\nТехникийн хувьд сонсогч бүр 60 секундын аудио буфер хадгалж, detector.js дээр Fast Fourier Transform болон high-pass шүүлтүүр ашиглан beep илрүүлдэг. Дараа нь үйл явдлуудыг сервэрт илгээж, олон төхөөрөмжийн хугацааны зөрүүгээр байрлалыг тооцоолдог. Нийтлэлд дурдсанаар эхлээд Rough mode болон цэхэлтийн горимоор туршиж, системд итгэх итгэлээ бэхжүүлжээ.\n\nХөгжүүлэгчдэд энэ жишээ нь AI кодын агентыг бодит асуудлыг шийдэхэд хэрхэн ашиглахыг харуулна. Эхлээд судалгааны цаас олж, алгоритмаа сонгож, туршилтын горимуудыг нэмсэн нь агентад бодит дадлагын ажлын урсгал өгч болохыг харуулжээ. Систем нь нарийвчлал нь 40 см орчим байсан тул бодит ашиглалтад хангалттай гэж үзсэн байна.",
+ "published": "2026-11-09T23:57:21Z",
+ "added": "2026-11-11T16:48:19Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

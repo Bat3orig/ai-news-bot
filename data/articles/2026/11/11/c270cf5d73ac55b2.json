@@ -1,0 +1,17 @@
+{
+ "id": "c270cf5d73ac55b2",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+ "image": "https://opengraph.githubassets.com/a784a87ada4e29a6e11994845504bfe2db75c4254ef58aaf9d9e9981e48489a1/ollama/ollama/releases/tag/v0.40.16",
+ "title": "ollama v0.40.16",
+ "summary_en": "Ripple Preview Ripple Preview from Ricursive Intelligence is a 65B dense model built for agentic coding. ollama run ripple-preview What's Changed Qwen3.8 Flash Next uses about 27 GiB less memory on Apple silicon ollama launch claude always routes Claude Code to the selected model ollama launch explains when a cloud model has been retired /v1/responses respects truncation and no longer silently truncates by default /v1/models returns an empty list instead of null when no models are installed CUDA 13.5 support for Windows on ARM Updated llama.cpp Full Changelog : v0.40.15...v0.40.16",
+ "title_mn": "Ollama v0.40.16: Claude Code-ийг сонгосон загвар руу чиглүүлж, Apple silicon дээр санах ой хэмнэнэ",
+ "summary_mn": "Ollama v0.40.16 хувилбар гарсан бөгөөд ollama launch claude Claude Code-ийг сонгосон загвар руу үргэлж чиглүүлдэг болсон. Apple silicon дээр Qwen3.8 Flash Next бараг 27 GiB санах ой бага хэрэглэнэ.",
+ "body_mn": "Ollama v0.40.16 нь орон нутагт LLM ажиллуулах хэрэгсэлд чиглэсэн шинэчлэл юм. Хувилбарт Ricursive Intelligence-ийн 65B dense загвар болох Ripple Preview нэмэгдсэн бөгөөд agentic coding зорилготой гэж тодорхойлсон байна.\n\nХөгжүүлэгчдэд хамгийн хэрэгтэй өөрчлөлт нь ollama launch claude командын зан байдал юм. Одоо Claude Code нь сонгосон загвар руу тогтмол чиглэгдэх бөгөөд ollama launch нь хэрэв cloud загвар цуцлагдсан бол үүнийг тайлбарладаг болжээ. Мөн Apple silicon дээр Qwen3.8 Flash Next бараг 27 GiB санах ой бага ашиглана.\n\nӨөр нэмэлт өөрчлөлтүүдэд /v1/responses endpoint truncation-ийг хүндэтгэж, анхдагчаар өгөгдлийг чимээгүйгээр таслахгүй болсон. /v1/models нь загвар суулгаагүй үед null биш хоосон жагсаалт буцаана. Windows on ARM дээр CUDA 13.5 дэмжлэг, шинэчлэгдсэн llama.cpp багтсан байна.",
+ "published": "2026-11-09T23:45:36Z",
+ "added": "2026-11-11T16:48:19Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "31ba41902b20c28a",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/speed-insights-and-web-analytics-now-support-custom-environments",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5kTmvzPXrjGgMWSyLZiFRR/28d77a8ecc8c0f215b7777f98997939b/image__1_.png",
+ "title": "Speed Insights and Web Analytics now support custom environments",
+ "summary_en": "Speed Insights and Web Analytics now fully support custom environments . Previously, data captured on deployments to a custom environment was attributed to the Preview environment. That data is now attributed to the custom environment it came from, so you can track performance and traffic for staging, QA, or canary environments separately from Production and Preview. You can view this data in several places: Dashboard: use the Environment dropdown in Speed Insights and Web Analytics to pick a custom environment CLI: query it with the vc metrics command Query builder: filter and break down by…",
+ "title_mn": "Speed Insights болон Web Analytics өөрсдийн орчныг дэмжлээ",
+ "summary_mn": "Vercel-ийн Speed Insights болон Web Analytics нь custom environment-ийн өгөгдлийг Preview-ээс тусад нь харуулах боллоо. Staging, QA, canary орчинд гүйцэтгэл, трафикийг тусад нь хянах боломжтой.",
+ "body_mn": "Vercel-ийн Speed Insights болон Web Analytics хэрэгслүүд custom environment-ийг бүрэн дэмжих боллоо. Өмнө нь custom орчны өгөгдөл Preview орчинд тооцогддог байсан бол одоо тухайн орчинд хамаарч хадгалагдана.\n\nЭнэ нь staging, QA, canary орчны гүйцэтгэл болон трафикийг Production болон Preview-ээс тусад нь шинжлэх боломж олгоно. Өгөгдлийг Dashboard дээрх Environment хэсгээс, vc metrics CLI командаар, Query builder-ээр, мөн Aggregation API-аар (зөвхөн Web Analytics) авч болно.\n\nЭнэ өөрчлөлт зөвхөн өгөгдлийг хэрхэн ангилахад нөлөөлнө. Шинэ өгөгдлийн цэг цуглуулагдахгүй бөгөөд тохиргоо өөрчлөх шаардлагагүй. Custom environment нь Pro болон Enterprise төлөвлөгөөнд боломжтой.\n\n",
+ "published": "2026-11-10T00:00:00Z",
+ "added": "2026-11-11T16:48:19Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

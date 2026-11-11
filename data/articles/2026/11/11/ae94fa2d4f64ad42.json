@@ -1,0 +1,17 @@
+{
+ "id": "ae94fa2d4f64ad42",
+ "subtopic": "nextjs",
+ "source": "vercel/next.js",
+ "source_label": "vercel/next.js",
+ "url": "https://github.com/vercel/next.js/releases/tag/v16.4.6",
+ "image": "https://opengraph.githubassets.com/8da8aa645fca8c27f1743ebe87f2b52b6f3406ca23f4db50290cfaa07b4b6c9f/vercel/next.js/releases/tag/v16.4.6",
+ "title": "next.js v16.4.6",
+ "summary_en": "Note This release is backporting bug fixes. It does not include all pending features/changes on canary. Core Changes [lts-active] Pin Tailwind to 4.3.3 in create-next-app and tests ( #101061 , #101176 ) ( #101307 ) [lts-active] Automatically compress route handler responses if not already compressed ( #101280 ) [lts-active] Turbopack GC fixes for dev ( #100279 , #100370 ) ( #101308 ) Credits Huge thanks to @lukesandberg and @eps1lon for helping!",
+ "title_mn": "Next.js v16.4.6 хувилбар гарлаа: Tailwind 4.3.3 тогтоож, route handler хариултыг автоматаар шахна",
+ "summary_mn": "Next.js v16.4.6 нь баг засварын backport хувилбар юм. create-next-app болон тестүүдэд Tailwind 4.3.3 хувилбарыг тогтоож, route handler-ийн хариултыг автоматаар шахах болсон. Turbopack-ийн dev горимын GC асуудлуудыг мөн засжээ.",
+ "body_mn": "Next.js v16.4.6 хувилбар нь canary дээр бэлэн болсон бүх функцийг агуулаагүй, харин LTS дээр идэвхтэй байгаа засваруудыг багтаасан backport хувилбар юм.\n\nГол өөрчлөлтүүд нь create-next-app болон тестийн орчинд Tailwind CSS-ийг 4.3.3 хувилбарт тогтоох, мөн route handler-ийн хариултуудыг хэрэв өмнө нь шахагдаагүй бол автоматаар шахах явдал юм. Мөн Turbopack-ийн dev горимд хамаарах хэрэглээний санах ойн цуглуулагчийн (GC) хоёр асуудлыг засжээ.\n\nХөгжүүлэгчдэд энэ нь ялангуяа LTS хувилбар ашиглагчдад хамаатай. Route handler-ийн автомат шахалт API-ийн хариултын хэмжээг бууруулах боломжтой ч, хэрэв таны хариулт аль хэдийн шахагдсан бол өөрчлөлт гарахгүй. Upgrade хийхээсээ өмнө changelog-оо шалгаарай.",
+ "published": "2026-11-09T20:27:17Z",
+ "added": "2026-11-11T16:48:19Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

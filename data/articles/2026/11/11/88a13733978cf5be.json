@@ -1,0 +1,17 @@
+{
+ "id": "88a13733978cf5be",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
+ "title": "Gemini 4 Carbon now available on AI Gateway",
+ "summary_en": "Gemini 4 Carbon from Google is now available on AI Gateway. It is available at 50% off through November 30, 2026: Gemini 4 Carbon is built for complex software engineering, sustained agentic work, and cybersecurity defense. It has a 1M-token context window for working with large codebases and long inputs. On engineering tasks, Carbon carries demanding work through multiple stages, with improvements in coding, full-stack web development, and scientific reasoning. Its cybersecurity capabilities span finding vulnerabilities, validating their risk, and developing patches. Google also reports…",
+ "title_mn": "Gemini 4 Carbon загвар Vercel AI Gateway дээр боломжтой боллоо",
+ "summary_mn": "Google-ийн Gemini 4 Carbon загвар Vercel AI Gateway дээр нээгдлээ. 2026 оны 11-р сарын 30 хүртэл 50% хөнгөлөлттэй. Загварын 1M токений контекст цонх нь том кодын сан болон урт оролтыг боловсруулахад зориулагдсан.",
+ "body_mn": "Vercel-ийн AI Gateway дээр Google-ийн Gemini 4 Carbon загвар нэмэгдлээ. Загварыг google/gemini-4-carbon нэрээр дуудна. Тус загвар нь нарийн төвөгтэй програм хангамжийн инженерчлэл, удаан үргэлжилэх агент ажил, кибер аюулгүй байдлын хамгаалалтад зориулагдсан гэж бичигдсэн байна.\n\nЗагварын гол онцлогууд нь 1M токений контекст цонх бөгөөд том кодын санг болон урт оролтыг боловсруулах боломжтой. Google нь олон шатлалтай даалгаврыг илүү найдвартай гүйцэтгэх, хангалтгүй мэдээллийн үед илүү сайн хамтран ажиллах чадвар сайжирсныг дурдсан. Аюулгүй байдлын чиглэлд эмзэг байдлыг олох, эрсдлийг шалгах, засварын код бичих чадвартай гэжээ.\n\nХөгжүүлэгчид загварыг Claude Code, Codex, Cursor зэрэг кодын агентууд дээр Vercel CLI-ээр тохируулан ашиглах боломжтой. AI Gateway нь провайдерын үнээр, нэмэлт хураамжгүйгээр ажилладаг бөгөөд BYOK хүсэлтэд мөн хамаарна. Хөнгөлөлт 2026 оны 11-р сарын 30 хүртэл үргэлжилнэ.\n\nЭнэ нь хөгжүүлэгчдэд өндөр чадалтай загварыг нэг API-аар, бага зардлаар туршиж үзэх боломж олгож байна.\n\n",
+ "published": "2026-11-10T00:00:00Z",
+ "added": "2026-11-11T16:48:19Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}

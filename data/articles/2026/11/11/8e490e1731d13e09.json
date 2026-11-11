@@ -1,0 +1,17 @@
+{
+ "id": "8e490e1731d13e09",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.49.0",
+ "image": "https://opengraph.githubassets.com/192d0bc19af43d6049f64ba04ab44e6fd2024153078b2bcc09593cc0ac7df7a9/openai/openai-python/releases/tag/v3.49.0",
+ "title": "openai-python v3.49.0",
+ "summary_en": "3.49.0 (2026-11-10) Features api: add typed async function tools ( #4264 ) ( ea07983 ) Bug Fixes encode microphone recordings as valid PCM WAV ( #3900 ) ( 13c000d )",
+ "title_mn": "openai-python v3.49.0: async function tools болон WAV кодчилолын засвар",
+ "summary_mn": "OpenAI-ийн Python SDK v3.49.0 хувилбарт typed async function tools нэмэгдэж, микрофоны бичлэгийг хүчинтэй PCM WAV хэлбэрээр кодлох алдаа засагдлаа.",
+ "body_mn": "OpenAI-ийн openai-python SDK-ийн 3.49.0 хувилбар 2026 оны 11-р сарын 10-нд гарсан. Шинэ онцлог нь api хэсэгт typed async function tools нэмэгдсэн явдал юм. Ингэснээр async функцүүдийг tool болгон ашиглахад төрөлжсөн дэмжлэг авна.\n\nМөн засварт микрофоны бичлэгийг хүчинтэй PCM WAV форматаар кодлох алдаа засагдсан. Энэ нь аудио оролттой ажилладаг програмуудын найдвартай байдлыг сайжруулна.\n\nХөгжүүлэгчдэд энэ хувилбар нь асинхрон tool-оор ажилладаг агент болон аудио апп бичиж буй хүмүүст шууд хамаарна. Шинэчлэлт хийхээс өмнө changelog-ийг шалгах нь зүйтэй.\n\n",
+ "published": "2026-11-10T06:47:04Z",
+ "added": "2026-11-11T16:48:19Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

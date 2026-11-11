@@ -1,0 +1,17 @@
+{
+ "id": "00a3012896f8eb60",
+ "subtopic": "packages",
+ "source": "JavaScript Weekly",
+ "source_label": "JavaScript Weekly",
+ "url": "https://javascriptweekly.com/issues/810",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/oxtotle26xtvjolphndc.jpg",
+ "title": "How X (Twitter) is rebuilding its web app",
+ "summary_en": "#​810 — November 10, 2026 Read on the Web JavaScript Weekly How X (Twitter) is Rebuilding Its Web App — X is replacing 3 servers with one app built on React, Vite and Fastify. Yagiz, famed for his performance work on Node, explains the streaming architecture behind it, along with some bottlenecks they had to fix, like how hundreds of tiny JavaScript files slowed startup. Yagiz Nizipli (X Engineering Blog) Why Standard Webhooks Hit 118m npm Downloads a Month — OpenAI, Anthropic, and Gemini all sign webhooks with Standard Webhooks, the open spec Svix started. That's one finding in the State of…",
+ "title_mn": "X шинэ вэб аппаа React, Vite, Fastify дээр дахин бичиж байна; Parcel 3 Rust-аар бичигдэв",
+ "summary_mn": "JavaScript Weekly-ийн энэ дугаарт X-ийн React, Vite, Fastify дээрх шинэ вэб апп, Parcel 3 alpha Rust bundler, Storybook 11 Beta зэрэг чухал хэрэгслүүд багтжээ. Vite-ийн dev сервер дээрх критик RCE эмзэг байдлыг мөн анхааруулжээ.",
+ "body_mn": "JavaScript Weekly-ийн энэ дугаарт хэд хэдэн чухал хэрэгсэл, хувилбар дурдагдсан. Хамгийн онцлох нь Parcel 3 alpha бөгөөд bundler-ийг Rust-аар дахин бичсэн. Баг нь cold build дээр React Spectrum-ийн жишээгээр Parcel 2-оос 100 дахин хурдан гэж мэдээлсэн. Node шаардлагагүй standalone binary хэлбэрээр ажиллаж, Rust, Go, Swift дээр бичсэн native plugin-ийг дэмжинэ.\n\nStorybook 11 Beta нь UI компонентын хөгжүүлэлтийг агентад илүү ээлтэй болгож, албан ёсны skills, Claude болон Codex plugin, headless CLI хэрэгслүүдтэй ирлээ. Playwright 1.65 нь тест runner-ээ Bun дээр ажиллуулах боломжтой болгож, шинэ failures reporter нэмжээ. TypeScript 7-ийн Go-д суурилсан компайлер WebAssembly туршилтын хувилбартай болсон.\n\nАюулгүй байдлын хувьд Vite-ийн --host эсвэл server.host тохиргоотой dev сервер дээр критик remote code execution эмзэг байдал илэрсэн тул 8.3.7, 8.2.5, 8.1.7, 7.3.8 эсвэл 6.4.6 хувилбар руу шинэчлэх хэрэгтэй. Next.js 16.4.5 болон 15.5.29 нь долоон аюулгүй байдлын асуудлыг засжээ.\n\nНode 27 alpha нь V8 15.6 дээр суурилж, Math.sumPrecise зэрэг шинэ боломжуудтай. Энэ нь хөгжүүлэгчдэд шинэ JavaScript онцлогуудыг туршихад тустай.\n\n",
+ "published": "2026-11-10T00:00:00Z",
+ "added": "2026-11-11T16:48:19Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

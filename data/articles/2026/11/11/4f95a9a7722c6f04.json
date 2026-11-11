@@ -1,0 +1,17 @@
+{
+ "id": "4f95a9a7722c6f04",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/e45f20141c28283bd8a1a0a1889c5f8e9befd922-7680x4320.png?w=1200&q=70&fit=max&auto=format",
+ "title": "6 easy ways to use the Figma agent right now",
+ "summary_en": "From making designs more expressive and automating busywork, to exploring more possibilities on the canvas, here are six ways to push designers further with the Figma agent.",
+ "title_mn": "Figma agent-ийг дизайнерууд canvas дээр шууд ашиглах 6 арга",
+ "summary_mn": "Figma шинэ Figma agent-ийг canvas дээр шууд ажиллуулах боломжийг зарлажээ. Нийтлэлд хурлын тэмдэглэл холбох, сэтгэгдэл нэгтгэх, custom shader бүтээх зэрэг 6 жишээ багтсан байна.",
+ "body_mn": "Figma өөрийн дизайны канвас дээр шууд ажиллах зориулалттай Figma agent-ийг нээлттэй болгож, түүнийг ашиглах 6 практик аргыг танилцуулжээ. Агент нь дизайнерын ажлын урсгалд чиглэсэн бөгөөд хэрэглэгч чатын хайрцаг дээр + товчийг дарж коннектороор Granola, Notion, Google Drive зэрэг аппуудыг холбож болно.\n\nНийтлэлд дурдсанаар агентыг хурлын тэмдэглэл эсвэл транскриптээс санал хүсэлтийг авч дизайн дээр тайлбар нэмэхэд ашиглаж болно. Мөн сэтгэгдлийн олон дугаарыг нэгтгэж, санал болгож буй өөрчлөлтийг шууд дизайнд хэрэгжүүлэх боломжтой. /comments-do-try-consider зэрэг skill-үүдээр ажлын урсгалыг давтаж болдог гэжээ.\n\nХөгжүүлэгчдэд хамааралтай хэсэг нь shader-ийн туршилт юм. Агентаар код дээр суурилсан эффект бүтээж, зургийн олон файлд нэг ижил эффект хэрэглэх боломжтой. Энэ нь Figma дээрх дизайн ба фронтенд хөгжүүлэлтийн хоорондох зайг багасгахад тус болж болзошгүй ч нийтлэлд кодын гаралтын талаар дэлгэрэнгүй мэдээлэл байхгүй.",
+ "published": "2026-11-09T21:46:00Z",
+ "added": "2026-11-11T16:48:19Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
