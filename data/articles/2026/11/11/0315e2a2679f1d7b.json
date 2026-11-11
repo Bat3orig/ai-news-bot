@@ -1,0 +1,17 @@
+{
+ "id": "0315e2a2679f1d7b",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.48.0",
+ "image": "https://opengraph.githubassets.com/d97e2fa226aaf210f892ba0450bb101ba03eaeb6879d301feb2c205fa4e3275e/openai/openai-python/releases/tag/v3.48.0",
+ "title": "openai-python v3.48.0",
+ "summary_en": "3.48.0 (2026-11-09) Features api: add stream options for agent sessions ( #4251 ) ( c6fc264 ) api: recognize gpt-6-rosalind in beta Responses ( #4257 ) ( 3774b7e ) Chores api: retain agent scheduling support ( #4255 ) ( a1175a3 ) deps: bump locked multidict from 6.9.1 to 7.1.0 ( #4259 ) ( 28cdb1b ) deps-dev: bump the python-maintenance group with 5 updates ( #4258 ) ( 4b10e22 ) deps-dev: bump types-requests from 2.33.0.20261006 to 2.33.0.20261030 ( #4260 ) ( de498d7 ) Documentation consolidate AGENTS.md guidance ( #4254 ) ( 44b1555 )",
+ "title_mn": "openai-python v3.48.0 гарлаа: Агент сессэд зориулсан стрийминг тохиргоо нэмэгдэв",
+ "summary_mn": "OpenAI Python сангийн v3.48.0 хувилбар гарч, агент сессүүдэд стрийминг тохируулах боломж нэмэгдсэнээс гадна шинэ загварын дэмжлэгийг багтаажээ.",
+ "body_mn": "OpenAI компани албан ёсны openai-python сангийнхаа v3.48.0 шинэчлэлтийг танилцууллаа. Энэхүү хувилбарт агент хөгжүүлэлт болон шинэ загваруудтай ажиллах хөгжүүлэгчдэд зориулсан хэд хэдэн чухал өөрчлөлт орсон байна.\n\nГол шинэчлэлт нь агент сессүүдэд (agent sessions) зориулсан stream options дэмжлэг нэмэгдсэн явдал юм. Үүний зэрэгцээ бета хувилбарын Responses хэсэгт gpt-6-rosalind загварыг таних боломжтой болсон нь дараагийн үеийн загварын туршилтуудтай нийцтэй ажиллах нөхцөлийг бүрдүүлж байна.\n\nМөн төслийн хамаарлуудыг шинэчилж, AGENTS.md удирдамж баримт бичгийг эмхэтгэн сайжруулсан тул OpenAI агентуудыг хөгжүүлж буй хөгжүүлэгчид тус хувилбар луу ахиулах нь зүйтэй юм.",
+ "published": "2026-11-09T16:12:58Z",
+ "added": "2026-11-11T01:37:37Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

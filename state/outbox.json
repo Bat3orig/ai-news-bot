@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "806e32dbedfa7e5e",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/humans-and-ampersand-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/18CgCYFxjOjnQJt7A7QCml/ac681af1f15dbf06deef9a3596150a6b/image.png",
-   "title": "Ampersand from Humans& now available on AI Gateway",
-   "summary_en": "Ampersand from Humans& is now available on AI Gateway for free through November 13, 2026. Ampersand is a model for group conversations. Humans& built Ampersand on Z.ai 's open-weight GLM 5.3 and trained it with reinforcement learning in simulated group conversations that run for up to months of simulated time. Most chat models are built for one person asking a question and the model answering it. Ampersand is trained to take part in a conversation between several people. It reads every message, including the ones not addressed to it, and after each one it decides whether to reply or stay…",
-   "title_mn": "Ampersand загварыг Vercel AI Gateway дээр 2026 оны 11-р сарын 13 хүртэл үнэгүй ашиглах боломжтой боллоо",
-   "summary_mn": "Humans& компанийн бүлгийн чатад зориулсан Ampersand загвар AI Gateway дээр нээлттэй боллоо. Загвар нь Z.ai-ийн GLM 5.3 дээр суурилсан бөгөөд humansand/ampersand-v0.1 нэрээр дуудна.",
-   "body_mn": "Vercel AI Gateway дээр Humans& компанийн Ampersand загварыг 2026 оны 11-р сарын 13 хүртэл үнэгүй ашиглах боломжтой болсон. Загвар нь Z.ai-ийн нээлттэй жинтэй GLM 5.3 дээр суурилж, бүлгийн яриан дээр reinforcement learning-ээр сургагдсан.\n\nЭнэ загвар нь олон хүнтэй харилцаанд оролцож, бүх мессежийг уншина. Мессеж бүрийн дараа хариулах эсвэл чимээгүй байхаа шийддэг. Хэрэглэгчийн хүсэлт, эсрэг санал зөрүүг ойлгож, шаардлагатай үед асуулт асууж эсвэл контекст нэмдэг. Загварыг AI SDK, OpenAI-тай нийцтэй Chat Completions API болон кодын агентаар дуудаж болно.\n\nХөгжүүлэгчид send_message болон pass гэсэн хоёр функцийг өөрсдийн хэрэглээнд тодорхойлж, гүйцэтгэдэг. Claude Code, Codex, Cursor зэрэг агентад Vercel CLI-р тохируулж болно.\n\nAI Gateway нь моделийн үнэд нэмэлт маржин авдаггүй, BYOK хүсэлтэд ч платформын хураамж авдаггүй гэдгийг онцолсон.",
-   "published": "2026-11-06T00:00:00Z",
-   "added": "2026-11-08T20:41:02Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "12a11e44df552ac6",
-   "subtopic": "packages",
-   "source": "React Status",
-   "source_label": "React Status",
-   "url": "https://react.statuscode.com/issues/496",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ouvobggjw2zmigv3z8xx.jpg",
-   "title": "Redux Toolkit's road to 3.0",
-   "summary_en": "#​496 — November 6, 2026 Read on the Web React Status Discord Dropping Electron and React Native for a Rust Rewrite — Discord, one of React Native's best-known users, is moving away, with its CTO 𝕏 showing off a Rust desktop client built on GPUI using 290MB of RAM, with mobile keeping native UI over Rust code shared with the desktop client. Tom Warren (The Verge) ▶️ Just prior to this reveal, Software Mansion interviewed Discord's Chas Jhin about how React Native development works at Discord's scale, in the ominously titled 'Maybe React Native Is Impossible' . Run AI Coding Models on Your…",
-   "title_mn": "Redux Toolkit 3.0, Parcel 3 Alpha, Next.js Go route handler болон Discord-ийн Rust шилжилт",
-   "summary_mn": "React Status долоо хоногийн тойм: Redux Toolkit 3.0-ийн замын зураглал, Parcel 3 Alpha Rust дээр, Next.js-ийн туршилтын Go route handler зэрэг гол мэдээ.",
-   "body_mn": "Redux Toolkit-ийн зам зураглалд RTK 3.0 нь ойролцоогоор зургаа-найман сарын дараа ESM-only болж, React 19-ийн хэмжээтэй breaking өөрчлөлттэй гарах гэж байна. Үүнээс өмнө 2.x хувилбарууд суурь ажлыг хийнэ. Parcel 3 Alpha нь Rust binary дээр суурилсан бөгөөд React Compiler, Tailwind, MDX-ийг шууд дэмждэг. Хүйтэн build нь v2-оос 100 дахин хурдан гэж мэдээлсэн.\n\nNext.js нь App Router-ийн route-ийг route.go файлаар бичих туршилтын PR-ийг нэгтгэжээ. Үүнийг Turbopack хөрвүүлж, Go-оор ажилладаг worker-т ажиллуулна. Мөн 2026 оны 11-р сарын аюулгүй байдлын шинэчлэл гарсан тул 16.4.5 эсвэл 15.5.29 хувилбар руу шинэчлэх хэрэгтэй.\n\nVercel Data Cache-ийг Runtime Cache руу нэгтгэж, шинэ унших, бичих үнийн загвар гаргажээ. Discord нь Electron болон React Native-аас Rust дээр суурилсан клиент рүү шилжиж буйг мэдээлсэн. Мөн Vega OS SDK 2.0 гарсан нь React Compiler болон Hermes v1-ийг дэмжинэ.\n\nЭнэ тойм нь хөгжүүлэгчдэд хэрэгтэй олон шинэ сан, шинэчлэлийг нэг дор харуулдаг.",
-   "published": "2026-11-06T00:00:00Z",
-   "added": "2026-11-08T20:41:02Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c9e260814e66b368",
-   "subtopic": "vibe-coding",
-   "source": "Cursor Changelog",
-   "source_label": "Cursor Changelog",
-   "url": "https://cursor.com/changelog/voice-chat",
-   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
-   "title": "Voice Chat with Agents",
-   "summary_en": "Talk with your agents in a realtime voice call on desktop, web, and iOS.",
-   "title_mn": "Cursor-т агенттай бодит цагийн дуут чат нэмэгдлээ",
-   "summary_mn": "Cursor хэрэглэгчид агенттайгаа дуугаар ярилцаж, өөрчлөлт тайлбарлаж, явцын мэдээлэл сонсох боломжтой боллоо. Үүнийг Agents Window, IDE, web болон iOS дээр ашиглана.",
-   "body_mn": "Cursor нь агенттайгаа бодит цагийн дуудлагаар ярих боломжийг нэмсэн. Хэрэглэгч дуугаар өөрчлөлт тайлбарлаж, агент юу хийж байгааг асууж, явцын шинэчлэлийг сонсож болно. Энэ нь Agents Window, IDE, web болон Cursor for iOS дээр ажиллана.\n\nAgent idle байгаа үед чатын талбар хоосон байвал Send товчны хажууд байрлах Start voice chat гэсэн долгионы товчийг дарна. iOS дээр \"Hey Siri, call Cursor\" гэж хэлж шинэ агенттай дуудлага эхлүүлж, Lock Screen-ээс Live Activity-ээр дуугүй болгох эсвэл таслах боломжтой.\n\nДуу чат Grok Voice дээр ажилладаг бөгөөд Voice settings-ээс олон дуу сонгож болно. Privacy Mode асаалттай үед zero data retention горимоор ажиллана. Энэ нь өмнөх Voice Mode гэж нэрлэгдэж байсан dictation-оос ялгаатай, хоёр талын харилцаа юм.\n\nХөгжүүлэгчид Cursor-ийг шинэчилж, docs-оос дэлгэрэнгүй уншиж туршиж үзэх боломжтой.",
-   "published": "2026-11-06T00:00:00Z",
-   "added": "2026-11-08T20:41:02Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0778fb85d9153ba6",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
-   "image": "https://github.blog/wp-content/uploads/2026/11/696868472-6c036efb-44d8-4ca7-babf-92362eeca4f2.jpeg",
-   "title": "Usage metrics API flags telemetry and version gaps",
-   "summary_en": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in…",
-   "title_mn": "GitHub Copilot usage metrics API нь телеметр болон хувилбарын дутууг илрүүлдэг боллоо",
-   "summary_mn": "Copilot usage metrics API одоо клиент телеметргүй болон хуучин IDE эсвэл extension хувилбартай хэрэглэгчдийг харуулдаг. Шинэ талбарууд enterprise болон organization тайланд нэмэгдлээ.",
-   "body_mn": "GitHub Copilot usage metrics API нь клиент телеметргүй хэрэглэгчид болон IDE эсвэл extension-ийн доод хувилбараас доош ажиллаж буй хэрэглэгчдийг харуулах шинэ талбаруудтай боллоо. Эдгээр талбар нь enterprise болон organization тайланд хэрэглэгч бүрт, өдөр бүр нөлөөлсөн хэрэглэгчдийн тоотой нэмэгдсэн.\n\nТелеметргүй хэрэглэгч нь идэвхтэй гэж тооцогддог боловч мөрийн тоо, feature болон моделийн задаргаа гэх мэт дэлгэрэнгүй мэдээлэл байхгүй. Үүний шалтгаан нь хуучин editor эсвэл extension, IDE-ийн телеметр идэвхгүй байх, proxy болон firewall-ууд event-ийг блоклох зэрэг байж болно.\n\nЭнэ өөрчлөлт нь администраторуудад хэн дээр асуудал байгааг тодорхой харуулж, дэмжлэгийн хүсэлтгүйгээр засварлах боломжийг олгоно. Хөгжүүлэгч биш ч Copilot-ийг байгууллагад ашигладаг багуудад хэрэгтэй.",
-   "published": "2026-11-06T00:08:31Z",
-   "added": "2026-11-08T20:41:02Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "525555dfe497cbaa",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
-   "image": "https://github.blog/wp-content/uploads/2026/11/696871374-0c1024be-79ea-4fd2-a050-2b8f2df34847.jpeg",
-   "title": "Usage metrics API adds code review details and addressed rate",
-   "summary_en": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed…",
-   "title_mn": "GitHub Copilot хэрэглээний метрик API код хяналтын нарийвчилсан мэдээллийг нэмл.",
-   "summary_mn": "GitHub Copilot-ын хэрэглээний метрик API нь код хяналтын санал хүсэлтийн үр дүн болон хөгжүүлэгчдийн хэрэгжүүлсэн хувийг харуулдаг боллоо. Ингэснээр хөгжүүлэгчид Copilot-ын тусламжтай хэрхэн ажиллаж байгааг нарийвчлан хянах боломжтой болж байна.",
-   "body_mn": "GitHub байгууллага болон аж ахуйн нэгжийн түвшний Copilot хэрэглээний метрик тайландаа шинэ боломж нэмлээ. Үүнд тухайн репозитори дээр Copilot-ын шалгасан pull request-үүд хүний өөрчлөлтгүйгээр шууд нэгдсэн эсэх болон хөгжүүлэгчид хяналтын сэтгэгдэл дээр хэрхэн ажилласныг харуулдаг copilot_code_review объект нэмэгджээ.\n\nЭнэхүү шинэ талбарууд нь хөгжүүлэгчид код хяналтын саналыг бодитойгоор ашиглаж байгаа эсэх, ямар төрлийн сэтгэгдлүүд илүү үр дүнтэй байгааг хянах боломж олгодог. Мөн захиалгат заавар, чадвар болон MCP серверүүд ямар ялгаа авчирч байгааг шинжлэхэд тусална.\n\nБагууд энэхүү функцээр дамжуулан Copilot-ын кодад үзүүлж буй нөлөөллийг илүү бодитойгоор хэмжих боломжтой болж байна. Дэлгэрэнгүй мэдээллийг Copilot хэрэглээний метрик API-ийн баримт бичгээс авах боломжтой.",
-   "published": "2026-11-06T00:19:07Z",
-   "added": "2026-11-08T20:41:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "30f209ecd6c49478",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3AZR3NtzCWP6v0OwTd1gAI/5c65b1f32d3aa739b0503ae4a739696e/image.png",
-   "title": "Token Pass credit now applies automatically across AI Gateway",
-   "summary_en": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and providers. When Token Pass credit runs out for the billing period, requests from a standard key or OIDC token fall back to your team's AI Gateway credits. Token Pass keys still stop until the next billing period. Requests served through the Token Pass provider remain Zero Data…",
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-06T01:00:00Z",
-   "added": "2026-11-08T20:41:02Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4f69a4c006e42f46",
-   "subtopic": "ai-devtools",
-   "source": "openai/codex",
-   "source_label": "openai/codex",
-   "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
-   "image": "https://opengraph.githubassets.com/7523025ed8317d6dba3b8f2424edd66ab8b0679c6b4ef53b464c771e106c2697/openai/codex/releases/tag/rust-v0.167.0",
-   "title": "codex 0.167.0",
-   "summary_en": "New Features Open the agent command center with codex agents --no-daemon . The command center and session picker now mark unread results ( #58238 , #58239 , #58263 , #58264 ). Switch between connected backends from the terminal session picker and keep your drafts when switching ( #58280 , #58457 ). Preview local image attachments while composing on supported terminals, and open viewed local images from clickable transcript paths ( #58261 , #58446 ). Find API key and cloud provider options under “Sign in another way.” Enable gcp_setup_wizard to set up Google Cloud Vertex AI with Application…",
-   "title_mn": "Codex 0.167.0 хувилбар шинэ боломжуудтай гарлаа",
-   "summary_mn": "Codex 0.167.0 хувилбар нь агент команд төв, Google Cloud Vertex AI тохиргоо болон терминал session picker-ээс шууд backends хооронд шилжих боломжийг нэмжээ. Мөн олон тооны алдааг засаж, хэрэглэгчийн туршлагыг сайжруулсан байна.",
-   "body_mn": "Хөгжүүлэгчдэд зориулсан Codex хэрэгслийн 0.167.0 шинэ хувилбар албан ёсны шинэчлэлтүүд болон сайжруулалтуудтайгаар гарлаа. Шинэ хувилбарт агент команд төвийг нээх codex agents --no-daemon команд нэмэгдсэн ба сесс сонгогч нь уншаагүй үр дүнгүүдийг тусгайлан тэмдэглэдэг болжээ. Терминал сесс сонгогчоос холбогдсон backends хооронд саадгүй шилжих, шилжих явцдаа нооргоо хадгалах боломжтой болсон нь хөгжүүлэгчдийн ажлыг хөнгөвчилж байна.\n\nМөн дэмжигдсэн терминалуудад орон нутгийн зураг хавсралтыг урьдчилан харах, холбогдох файлын мөрөөр шууд нээх боломж бүрджээ. Тохиргооны хэсэгт API түлхүүр болон үүлэн үйлчилгээ үзүүлэгч сонголтууд нэмэгдсэнээс гадна Google Cloud Vertex AI-г Application Default Credentials эсвэл credential файлаар тохируулах gcp_setup_wizard функц суужээ. Linux musl билйдүүдийн хувьд санах ойн ашиглалтыг бууруулахын тулд allocator arenas тоог цөөлсөн байна.\n\nЭнэхүү шинэчлэлт нь AI агент болон код бичих хэрэгслүүдийг өдөр тутмын ажилдаа ашигладаг хөгжүүлэгчдэд терминал орчинд ажиллахад илүү уян хатан, хурдан бөгөөд алдаагүй туршлагыг олгож байгаагаараа чухал юм.",
-   "published": "2026-11-06T01:42:19Z",
-   "added": "2026-11-09T00:23:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e44b8ea4fb07e373",
-   "subtopic": "ai-devtools",
-   "source": "ollama/ollama",
-   "source_label": "ollama/ollama",
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
-   "image": "https://opengraph.githubassets.com/e642310791af8c3f5ca73158f8f407b144eb2fc1d2e48a916ccef1c68c9d4163/ollama/ollama/releases/tag/v0.40.15",
-   "title": "ollama v0.40.15",
-   "summary_en": "MiMo V2.6 Xiaomi MiMo's mimo-v2.6 , a 9B model built for code and agent workflows, is now supported in Ollama. ollama run mimo-v2.6 AutoTrust decision models AutoTrust decision models read text and return choices, yes or no probabilities, and ratings for the questions you supply. The family includes 9b, 35b, and 27b-vl sizes — the 35b and 27b-vl sizes can also read images. ollama run autotrust-jev \" A customer says their card was charged twice. \" --ask \" Is this a billing issue? \" Note: autotrust-jev is supported on Apple silicon in this release. What's Changed ollama launch now supports…",
-   "title_mn": "Ollama v0.40.15 хувилбар MiMo V2.6 болон AutoTrust загваруудын дэмжлэгтэйгээр гарлаа",
-   "summary_mn": "Ollama v0.40.15 шинэ хувилбар гарч, Xiaomi-ийн код бичих болон агент ажлын урсгалд зориулсан MiMo V2.6 загвар болон шийдвэр гаргах AutoTrust загваруудыг албан ёсоор дэмждэг боллоо. Мөн олон шинэ боломж, сайжруулалтууд нэмэгдсэн байна.",
-   "body_mn": "Ollama хэрэгслийн шинэ v0.40.15 хувилбар хөгжүүлэгчдийн хүлээж байсан олон сонирхолтой шинэчлэлтүүдийг авчирлаа. Тухайлбал, Xiaomi компанийн код бичих болон агентуудын ажлын урсгалд тусгайлан бүтээсэн 9 тэрбум параметр бүхий mimo-v2.6 загвар Ollama дээр шууд ажилладаг болжээ. Үүнээс гадна текст уншиж сонголт, тийм/үгүй магадлал, үнэлгээ буцаадаг AutoTrust шийдвэр гаргах загваруудын гэр бүлийг (9b, 35b, 27b-vl хэмжээтэй) дэмждэг болсон байна.\n\nЭнэхүү шинэчлэлтээр Kimi Code CLI дэмжлэг нэмэгдэж, хуучин kimi-cli тохиргоог шилжүүлэх боломжтой болсон бөгөөд Claude Desktop болон Pi хэрэгслүүдийн загвар сонгогч Ollama-ийн загваруудыг автоматаар таньдаг болжээ. Түүнчлэн Recurrent болон vision GGUF загварууд нэгэн зэрэг олон хүсэлт боловсруулах чадвартай болсон нь локал орчинд LLM туршиж буй хөгжүүлэгчдэд томоохон давуу талыг олгож байна.",
-   "published": "2026-11-06T01:47:18Z",
-   "added": "2026-11-09T00:23:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "226e16ddfa1243fa",
-   "subtopic": "kimi",
-   "source": "Kimi (Google News)",
-   "source_label": "www.tokenpost.com",
-   "url": "https://www.tokenpost.com/news/technology/49816",
-   "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/cdb35398c2d02e8f78245c3a08b402ab51f8d46d4dc1d77e1dfe2031cb625919.webp",
-   "title": "Kimi K3.1 Pro (Max) Ranks First Among Open-Weight Agent Models",
-   "summary_en": "It placed 13th across all models, with results drawn from more than 17,500 extended agent-task sessions submitted by users globally.",
-   "title_mn": "Kimi K3.1 Pro (Max) нь open-weight агент загваруудыг тэргүүллээ",
-   "summary_mn": "Moonshot AI компанийн бүтээсэн 2.8 триллион параметр бүхий Kimi K3.1 Pro (Max) загвар нь нээлттэй жинтэй агент загваруудын дунд ажил, програмчлал болон чатын төрөлд нэгдүгээрт эрэмбэлэгдлээ. Тус компани загварын жинг саяхан Hugging Face дээр нийтэлсэн юм.",
-   "body_mn": "Moonshot AI компанийн гаргасан Kimi K3.1 Pro (Max) загвар нь дэлхий даяарх хэрэглэгчдийн ирүүлсэн 17,500 гаруй өргөтгөсөн агентын сесс дээр суурилсан үнэлгээгээр open-weight буюу нээлттэй жинтэй загваруудын дунд тэргүүн байр эзэлжээ. Энэхүү загвар нь shell команд гүйцэтгэх Bash Reliability болон удирдагдах чадварын үзүүлэлтүүдээрээ нээлттэй загваруудаас хамгийн өндөр оноог авсан байна.\n\nKimi K3.1 Pro нь Mixture of Experts (MoE) архитектуртай бөгөөд нийт 2.8 триллион параметр хэдий ч хүсэлт бүрт 104 тэрбум актив параметр ашигладаг. Ойролцоогоор 1 сая токенийн контекст цонхыг дэмждэг энэхүү загвар нь програмчлал, 3D бүтээл, санхүүгийн судалгаа болон нарийн төвөгтэй агентын ажлуудад голлон чиглэдэг.\n\nНээлттэй жинтэйгээр хөгжүүлэгчдэд хүртээмжтэй болж буй энэхүү загвар нь локал болон сервер дээр суурилсан AI шийдлүүдийг хөгжүүлэхэд чухал алхам болж байна.",
-   "published": "2026-11-06T04:29:00Z",
-   "added": "2026-11-09T00:23:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "80732d7169b45d95",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.10.0",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.10.0",
-   "summary_en": "v14.10.0",
-   "title_mn": "Motion v14.10.0 хувилбар гарлаа",
-   "summary_mn": "Motion (өмнө нь Framer Motion) анимацийн сангийн v14.10.0 хувилбар гарсан байна. Нийтлэлд зөвхөн хувилбарын дугаар бичигдсэн тул өөрчлөлтийн дэлгэрэнгүйг эх репозиторидоос шалгах хэрэгтэй.",
-   "body_mn": "Motion-ийн GitHub репозиторид v14.10.0 хувилбар гарсан тухай мэдээлэл ирлээ. Motion нь React болон бусад фронтенд төслүүдэд анимаци хийх сан бөгөөд өмнө нь Framer Motion нэрээр алдартай байсан.\n\nЭх мэдээнд хувилбарын дэлгэрэнгүй тэмдэглэл байхгүй тул шинэчлэлийн агуулгыг тодорхой хэлэх боломжгүй байна. Хөгжүүлэгчид өөрчлөлтийн жагсаалтыг GitHub-ийн release хуудаснаас үзэх нь зүйтэй.\n\nХуучин v14.9.1 хувилбартай харьцуулахад шинэ хувилбар гарсан тул төслөө шинэчлэхээсээ өмнө туршилт хийхийг зөвлөж байна.",
-   "published": "2026-11-06T09:25:56Z",
-   "added": "2026-11-09T06:58:00Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "4d594555ff87ccd7",
    "subtopic": "nestjs",
    "source": "nestjs/nest",
@@ -957,6 +757,26 @@
    "added": "2026-11-10T21:42:47Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0315e2a2679f1d7b",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.48.0",
+   "image": "https://opengraph.githubassets.com/d97e2fa226aaf210f892ba0450bb101ba03eaeb6879d301feb2c205fa4e3275e/openai/openai-python/releases/tag/v3.48.0",
+   "title": "openai-python v3.48.0",
+   "summary_en": "3.48.0 (2026-11-09) Features api: add stream options for agent sessions ( #4251 ) ( c6fc264 ) api: recognize gpt-6-rosalind in beta Responses ( #4257 ) ( 3774b7e ) Chores api: retain agent scheduling support ( #4255 ) ( a1175a3 ) deps: bump locked multidict from 6.9.1 to 7.1.0 ( #4259 ) ( 28cdb1b ) deps-dev: bump the python-maintenance group with 5 updates ( #4258 ) ( 4b10e22 ) deps-dev: bump types-requests from 2.33.0.20261006 to 2.33.0.20261030 ( #4260 ) ( de498d7 ) Documentation consolidate AGENTS.md guidance ( #4254 ) ( 44b1555 )",
+   "title_mn": "openai-python v3.48.0 гарлаа: Агент сессэд зориулсан стрийминг тохиргоо нэмэгдэв",
+   "summary_mn": "OpenAI Python сангийн v3.48.0 хувилбар гарч, агент сессүүдэд стрийминг тохируулах боломж нэмэгдсэнээс гадна шинэ загварын дэмжлэгийг багтаажээ.",
+   "body_mn": "OpenAI компани албан ёсны openai-python сангийнхаа v3.48.0 шинэчлэлтийг танилцууллаа. Энэхүү хувилбарт агент хөгжүүлэлт болон шинэ загваруудтай ажиллах хөгжүүлэгчдэд зориулсан хэд хэдэн чухал өөрчлөлт орсон байна.\n\nГол шинэчлэлт нь агент сессүүдэд (agent sessions) зориулсан stream options дэмжлэг нэмэгдсэн явдал юм. Үүний зэрэгцээ бета хувилбарын Responses хэсэгт gpt-6-rosalind загварыг таних боломжтой болсон нь дараагийн үеийн загварын туршилтуудтай нийцтэй ажиллах нөхцөлийг бүрдүүлж байна.\n\nМөн төслийн хамаарлуудыг шинэчилж, AGENTS.md удирдамж баримт бичгийг эмхэтгэн сайжруулсан тул OpenAI агентуудыг хөгжүүлж буй хөгжүүлэгчид тус хувилбар луу ахиулах нь зүйтэй юм.",
+   "published": "2026-11-09T16:12:58Z",
+   "added": "2026-11-11T01:37:37Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
   }
  }
 ]
