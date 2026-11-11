@@ -1,0 +1,17 @@
+{
+ "id": "caeb7e86cac5a33f",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "IBM",
+ "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert",
+ "image": "https://www.ibm.com/content/dam/worldwide-content/creative-assets/s-migr/ul/image/ibm-produced/2026-aug/enterprise-it-security-ls-super-v12.png/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+ "title": "IBM plans to bring Anthropic’s Claude Mythos cyber reasoning into IBM Concert",
+ "summary_en": "Frontier AI cyber reasoning meets enterprise exposure management to help uncover unknown vulnerabilities and accelerate remediation at AI scale.",
+ "title_mn": "IBM Anthropic-ийн Claude Mythos загварыг IBM Concert системд нэгтгэхээр төлөвлөв",
+ "summary_mn": "IBM компани Anthropic-ийн Claude Mythos загварын кибер үндэслэл гаргах чадварыг IBM Concert системд нэтгэж, кодын сул тал илрүүлэх ажиллагааг сайжруулахаар болжээ.",
+ "body_mn": "IBM компани өөрийн IBM Concert платформдоо Anthropic-ийн Claude Mythos загварын кибер аюулгүй байдлын дэвшилтэт боломжуудыг нэгтгэхээр болсноо зарлалаа. Энэхүү төлөвлөгөө нь байгууллагын аюулгүй байдлын багуудад уламжлалт сканнеруудын олж харж чадахгүй байгаа нуугдмал сул талуудыг илрүүлэхэд туслах зорилготой юм.\n\nШинэ интеграци нь Mythos загварт суурилсан AI кодын сканнерыг Concert Protect-ийн эрсдэлийн удирдлагын боломжуудтай хослуулах юм. Ингэснээр хэрэглэгчид өөрсдийн сонгосон кодын сангуудыг шинжилж, код бичих явц дахь логикийн алдаа болон болзошгүй нуле-дэй сул талуудыг илрүүлж засварлах боломж бүрдэнэ.\n\nУг хамтын ажиллагаа нь кибер аюулгүй байдлын салбарт хиймэл оюун ухааныг ашиглах бас нэгэн чухал алхам болж байна. Уламжлалт сканнерууд нь зөвхөн мэдэгдэж буй CVE бүртгэл дээр тулгуурладаг бол Claude Mythos загвар нь кодын бүтцийг гүнзгий задлан шинжилж, халдлага үйлдэгдэх боломжит замуудыг урьдчилан таамаглах чадвартай ажээ.",
+ "published": "2026-11-09T18:13:02Z",
+ "added": "2026-11-11T08:41:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

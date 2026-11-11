@@ -1,0 +1,17 @@
+{
+ "id": "caa9073cefb43725",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+ "image": "",
+ "title": "ChatGPT Enterprise now available in AWS Marketplace",
+ "summary_en": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+ "title_mn": "ChatGPT Enterprise AWS Marketplace дээр албан ёсоор гарлаа",
+ "summary_mn": "ChatGPT Enterprise одоо AWS Marketplace дээр худалдаалагдаж эхэлсэн бөгөөд байгууллагууд AWS-ийн худалдан авалтын системээр дамжуулан хялбар байдлаар авах боломжтой болжээ.",
+ "body_mn": "OpenAI компани өөрийн бизнес болон байгууллагын хэрэглэгчдэд зориулсан ChatGPT Enterprise үйлчилгээгээ AWS Marketplace платформ дээр байршуулснаа зарлалаа. Энэхүү алхам нь байгууллагуудад AWS-ийн худалдан авалтын болон тооцооны системийг ашиглан худалдан авалтаа хялбаршуулах боломжийг олгож байна.\n\nAWS Marketplace дээр гарсанаар компаниуд өөрсдийн өмнөх AWS гэрээ болон төлбөрийн сувгуудаа ашиглан ChatGPT Enterprise үйлчилгээг шууд нэгтгэх боломжтой болж байна. Энэ нь корпорацийн түвшний худалдан авалтын процессор болон IT менежерүүдэд үйлчилгээг авахад илүү дөхөм болж буй чухал шийдвэр юм.\n\nOpenAI болон үүлэн тооцооллынмонополуудын хамтын ажиллагаа өргөжиж байгаагийн нэг илрэл энэ бөгөөд байгууллагын хэрэглэгчдэд зориулсан аюулгүй байдал, өгөгдлийн нууцлалын стандартыг хангасан хиймэл оюун ухааны хэрэгслийг зах зээлд илүү хүртээмжтэй болгож байна.",
+ "published": "2026-11-09T19:00:00Z",
+ "added": "2026-11-11T08:41:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

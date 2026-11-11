@@ -1,0 +1,17 @@
+{
+ "id": "a5f8a40050a3a9f7",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "TechCrunch",
+ "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+ "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
+ "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+ "summary_en": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+ "title_mn": "Anthropic шинэ Mythos 5.2 болон Fable 5.2 загваруудаа танилцууллаа",
+ "summary_mn": "Anthropic компани код бичих, логик сэтгэлгээ болон дүрс боловсруулах чадвараараа илүү сайжирсан Mythos 5.2 болон Fable 5.2 загваруудаа худалдаанд гаргалаа.",
+ "body_mn": "Anthropic компани өөрийн хамгийн дэвшилтэт хиймэл оюун ухааны загварууд болох Mythos 5.2 болон Fable 5.2 хувилбаруудыг албан ёсоор танилцууллаа. Шинэ загварууд нь код бичих, логик үндэслэл гаргах болон визуал чадваруудаараа өмнөх хувилбаруудаасаа эрс сайжирсан бөгөөд хэрэглэгчидтэй илүү тодорхой харилцах чадвартай болжээ.\n\nКомпани Fable загварынхаа үнийг нэг сая оролтын токенийн хувьд 10 доллараас 8 доллар болгон бууруулсан нь зах зээл дэх гол өрсөлдөгчдийн бүтээгдэхүүнүүдтэй харьцуулахад үнийн хувьд илүү өрсөлдөхүйц болгож байна. Түүнчлэн шинэ загвар нь хариу өгөх хурдыг 30 хувиар сайжруулсан бөгөөд enterprise хэрэглэгчдэд зориулсан zero data retention (ZDR) бодлогыг бүрэн дэмждэг байна.\n\nЭнэхүү шинэчлэл нь Anthropic компанийн хувьд хиймэл оюун ухааны хөгжүүлэлтийн хурдац болон аюулгүй байдлын үнэлгээг шинэ түвшинд гаргаж буй чухал үйл явдал болж байна. Загварууд нь онолын физик болон математикийн нээлтүүдэд амжилттай туршигдсан бөгөөд инженерүүд болон судлаачдад өргөн боломжийг олгож байна.",
+ "published": "2026-11-09T19:24:51Z",
+ "added": "2026-11-11T08:41:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

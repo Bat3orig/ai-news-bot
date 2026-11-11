@@ -1,0 +1,17 @@
+{
+ "id": "8827aad4505e69ef",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+ "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w1200-h630-n-nu-rw",
+ "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+ "summary_en": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+ "title_mn": "Google DeepMind Gemini Robotics 2.5 загvurtéo танилцууллаа",
+ "summary_mn": "Google DeepMind компани роботын чадварыг бодит амьдралд түргэн сургах чадвартай Gemini Robotics 2.5 загvurtéo танилцууллаа. Энэхүү загвар нь даалгаврын нарийвчлалыг 30-100% сайжруулж, хурдыг 20-30% нэмэгдүүлжээ.",
+ "body_mn": "Google DeepMind компани роботын физик оюун ухааныг шинэ түвшинд гаргах Gemini Robotics 2.5 загvurtéo албан ёсоор танилцууллаа. Энэхүү загвар нь роботуудад өдөр тутмын энгийн ур чадвараас эхлээд үйлдвэрийн дамжлага хүртэл олон төрлийн даалгаврыг илүү хурдан бөгөөд аюулгүйгээр гүйцэтгэх боломжийг олгодог.\n\nШинэ хувилбар нь даалгаврын цар хүрээ, гүйцэтгэл, нарийн төвөгтэй байдлаар 200 гаруй ялгаатай даалгаврууд дээр туршигдсан бөгөөд хоол зөөх, бэлэг боох зэрэг нарийн манипуляци шаардсан ажлуудыг өндөр нарийвчлалтайгаар хийдэг. Өмнөх загваруудтай харьцуулахад амжилтын хувь 30-аас 100 хувиар өсөж, гүйцэтгэх хугацаа 20-30 хувиар хурдассан байна.\n\nDeepMind энэхүү загвараа Apptronik болон Mercedes-Benz компаниудтай хамтран Унгар, Герман дахь авто машин үйлдвэрлэлийн шугам дээр Apollo 2 хүн дүрст роботуудад амжилттай туршиж үзжээ. Роботууд авто машины эд ангиудыг ялгах даалгаврыг 96 хувийн амжилттайгаар бие даан гүйцэтгэсэн нь үйлдвэрлэлийн салбарт бодит хэрэглээ болон нэвтрэхэд томоохон алхам болж байна.",
+ "published": "2026-11-09T19:51:47Z",
+ "added": "2026-11-11T08:41:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

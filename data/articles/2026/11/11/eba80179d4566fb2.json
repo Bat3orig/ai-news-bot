@@ -1,0 +1,17 @@
+{
+ "id": "eba80179d4566fb2",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Amazon Web Services (AWS)",
+ "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+ "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/09/ML-22025-featured-image.png",
+ "title": "Introducing Claude Fable 5.2 on AWS | Amazon Web Services",
+ "summary_en": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
+ "title_mn": "Anthropic-ийн Claude Fable 5.2 болон Mythos 5.2 загварууд AWS Bedrock дээр гарлаа",
+ "summary_mn": "Anthropic компани програмчлал болон шинжлэх ухааны нарийн төвөгтэй ажлуудад зориулсан Claude Fable 5.2 болон Claude Mythos 5.2 загваруудыг Amazon Bedrock дээр албан ёсоор гаргалаа. Эдгээр загвар нь олон цагаар бие даан ажиллаж, өөрийн алдааг засварлах чадвартай.",
+ "body_mn": "Amazon Web Services (AWS) болон Anthropic компаниуд хамтран Claude Fable 5.2 болон Claude Mythos 5.2 загваруудыг Amazon Bedrock болон AWS орчинд ашиглах боломжтой болсныг зарлалаа. Claude Fable 5.2 нь програмчлал, математик, шинжлэх ухааны нарийн төвөгтэй асуудлуудыг шийдвэрлэхэд чиглэсэн хамгийн өндөр чадвартай загвар юм.\n\nFable 5.2 нь олон алхамт ажлыг бие даан гүйцэтгэх, гарсан алдаагаа өөрөө шалгаж засах, хэдэн цаг эсвэл өдрөөр ч тасалдалгүй ажиллах чадвартай аж. Мөн энэхүү загвар нь Anthropic-ийн туршилтаар өмнөх хувилбаруудаас илүү найдвартай ажиллаж, хийсвэрлэл бага гаргадаг болох нь тогтоогджээ. Кибер аюулгүй байдал болон амь шинжлэх ухааны салбарт зориулсан Claude Mythos 5.2 загварыг тусгай баталгаажуулалтын хөтөлбөрөөр дамжуулан ашиглах боломжтой.\n\nAWS дээр хөгжүүлэгчид Claude Fable 5.2 загварыг Amazon Bedrock болон Anthropic Messages API ашиглан программын коддоо хялбархан холбох боломжтой. Мөн AWS SDK болон AWS CLI ашиглан хөгжүүлэлт хийх боломжтой бөгөөд Enterprise Frontier Safeguards (EFS) болон дата хадгалалтын тохиргоогоор дамжуулан мэдээллийн аюулгүй байдлыг хангах нөхцөлийг бүрдүүлжээ.",
+ "published": "2026-11-09T20:04:37Z",
+ "added": "2026-11-11T08:41:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

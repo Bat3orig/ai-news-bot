@@ -1,0 +1,17 @@
+{
+ "id": "c3e83f52babd6034",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "CRN",
+ "url": "https://www.crn.com/news/networking/2026/cisco-puts-anthropic-s-claude-mythos-behind-ai-defense-red-teaming",
+ "image": "https://www.crn.com/news/networking/2026/media_118f15189c56fbe40704d0d5bd480b4adfe389282.jpg?width=1200&format=pjpg&optimize=medium",
+ "title": "Cisco Puts Anthropic’s Claude Mythos Behind AI Defense Red Teaming",
+ "summary_en": "Cisco AI Defense is one of the first AI security products to add Anthropic’s Claude Mythos to its adaptive red teaming engine. Cisco’s DJ Sampath tells CRN why partners can use it to red team every client environment deploying AI agents.",
+ "title_mn": "Cisco AI Defense системд Anthropic-ийн Claude Mythos загварыг нэгтгэв",
+ "summary_mn": "Cisco компани хиймэл оюуны хамгаалалтын AI Defense бүтээгдэхүүндээ Anthropic-ийн Claude Mythos загварыг нэвтрүүлж эхэлжээ. Энэ нь агентуудыг аюулгүй болгох чиглэлээр крас тийминг хийхэд чухал үүрэг гүйцэтгэнэ.",
+ "body_mn": "Cisco компани Австралийн Мельбурн хотод болсон Cisco Live APJC арга хэмжээний үеэр өөрийн AI Defense бүтээгдэхүүндээ Anthropic-ийн Claude Mythos загварыг ашиглахаа зарлалаа. Энэхүү алхам нь хиймэл оюуны агентууд болон аппликейшнуудыг хамгаалах салбарт чухал шинэчлэл болж байна.\n\nAI Defense хэрэгсэл нь аж ахуйн нэгжүүдийг өгөгдлийн алдагдлаас хамгаалах, AI хэрэгслийн зохисгүй хэрэглээг хянах зорилготой юм. Уламжлалт стандарт сорилтуудаас гадна хэрэглэгчид өөрсдийн хүссэн шалгуураа энгийн хэлээр тодорхойлон олон шатлалт дайралтыг шалгах адаптив крас тийминг хийх боломжтой болж байна. Claude Mythos загвар нь энэхүү системд довтлогчийн түвшний сэтгэлгээг нэмж өгдөг.\n\nCisco компани Claude Mythos загварыг хамгаалагдсан санах ойн буюу сэндбокст ажиллуулж, бүрэн хяналт болон аудитын боломжийг бүрдүүлжээ. Мөн уг систем нь Amazon Bedrock болон Amazon CloudWatch-ийг дэмждэг болсноор хэрэглэгчид болон түншүүд токен зарцуулалт болон хөрөнгө оруулалтын үр өгөөжөө нэг хяналтын самбараас харах боломжтой болсон байна.",
+ "published": "2026-11-09T20:00:00Z",
+ "added": "2026-11-11T08:41:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
