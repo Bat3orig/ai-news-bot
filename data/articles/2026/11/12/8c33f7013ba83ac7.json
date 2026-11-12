@@ -1,0 +1,17 @@
+{
+ "id": "8c33f7013ba83ac7",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Register",
+ "url": "https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693",
+ "image": "https://image.theregister.com/5247969.jpg?imageId=5247969&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+ "title": "Microsoft is giving Claude the keys to UK Copilot tenants by default",
+ "summary_en": "Admins have until December 9 to review access settings as Anthropic processes data in the US",
+ "title_mn": "Microsoft Copilot-ийн UK хэрэглэгчдэд Claude-ийг анхдагчаар идэвхжүүлнэ",
+ "summary_mn": "Microsoft 12-р сарын 9-нөөс эхлэн Их Британийн Copilot хэрэглэгчдийн Anthropic Claude загварт хандалтыг анхдагчаар идэвхжүүлнэ. Администраторууд хугацаанд нь тохиргоогоо шалгаж, өгөгдөл АНУ-д боловсруулагдах тухай нөхцөлийг үнэлэх шаардлагатай.",
+ "body_mn": "The Register-ийн мэдээлснээр Microsoft 12-р сарын 9-нөөс эхлэн Их Британийн Copilot хэрэглэгчдэд Anthropic-ийн Claude загварт хандах боломжийг анхдагчаар идэвхжүүлнэ. Администратор тохиргоогоо өөрчлөөгүй бол автоматаар нээгдэнэ гэсэн үг.\n\nAnthropic нь Microsoft-ийн subprocessor байдлаар ажиллах бөгөөд холбогдох өгөгдлийг АНУ-д боловсруулдаг гэж Microsoft баримт бичигтээ тэмдэглэжээ. Их Британийн хэрэглэгчид Microsoft-ийн EU Data Boundary-д хамрагдаагүй тул энэ өөрчлөлт хийгдэж байгаа юм.\n\nМөн Microsoft Claude-ийн хандалтыг зөвхөн Microsoft 365-д хязгаарласан тохиргоог татан авч байна. Хөгжүүлэгч болон байгууллагын администраторууд өгөгдлийн нууцлал, хамрах хүрээний шаардлагаа шалгаж, шаардлагатай бол Claude-ийг идэвхгүй болгох хэрэгтэй.",
+ "published": "2026-11-10T11:30:00Z",
+ "added": "2026-11-12T20:13:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

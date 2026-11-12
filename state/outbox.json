@@ -678,5 +678,205 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "997d250d70873514",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "FourWeekMBA",
+   "url": "https://fourweekmba.com/ai-grok-4-8-in-rl-after-a-57-day-wait-as-xai-dumps-jax-for-cpp/",
+   "image": "",
+   "title": "Grok 4.8 in RL After a 57-Day Wait as xAI Dumps JAX for C++",
+   "summary_en": "",
+   "title_mn": "xAI Grok 4.8-ийг сургалтын RL шатанд оруулж, JAX-аас C++ руу шилжжээ",
+   "summary_mn": "FourWeekMBA-ийн мэдээлснээр xAI Grok 4.8 загвараа reinforcement learning (RL) шатанд оруулсан бөгөөд 57 хоногийн хүлээлтийн дараа энэ алхам хийгдсэн байна. Мөн компани JAX-аас C++ руу шилжсэн гэж тайлагнасан.",
+   "body_mn": "FourWeekMBA-ийн мэдээлснээр xAI Grok 4.8 загвараа reinforcement learning (RL) шатанд оруулжээ. Энэ нь 57 хоногийн хүлээлтийн дараа хийгдсэн гэж тэмдэглэсэн байна.\n\nМөн мэдээнд xAI JAX-аас C++ руу шилжсэн гэж дурдсан байна. Ямар технологийн шийдэл, ямар хүрээнд шилжсэн талаар мэдээлэл тодорхойгүй байна, тиймээс энэ мэдээллийг эх мэдээний үндсэн агуулгаас цааш тайлбарлах боломжгүй.\n\nХөгжүүлэгчдэд энэ мэдээ нь Grok загварын хөгжүүлэлтийн явцыг харуулж байгаа ч одоогоор API эсвэл SDK-ийн шинэ боломж, хугацаа, үнэ тодорхойгүй тул шууд ашиглах зүйл алга.",
+   "published": "2026-11-10T10:54:46Z",
+   "added": "2026-11-12T20:13:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3ddbcb4a2c8e31a6",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Breakingthenews.net",
+   "url": "https://breakingthenews.net/Article/Musk-plans-limited-Grok-4.8-rollout-later-this-week/67526613",
+   "image": "https://cdn.ttweb.net/News/images/410795.jpg?preset=w800_q70",
+   "title": "Musk plans limited Grok 4.8 rollout later this week",
+   "summary_en": "Tesla CEO and the world's richest man Elon Musk said on Tuesday that SpaceX's artificial intelligence subsidiary SpaceX Super Intelligence (SpaceXSI), formerly known as xAI, plans to begin a limited r...",
+   "title_mn": "Маск Grok 4.8-ийг энэ долоо хоногт хязгаарлагдмал хэмжээгээр нээнэ гэв",
+   "summary_mn": "Элон Маск SpaceX-ийн хиймэл оюуны охин компани SpaceXSI (өмнө нь xAI) Grok 4.8-ийн хязгаарлагдмал нэвтрүүлгийг энэ долоо хоногт эхлүүлэхээр төлөвлөж байгаагаа мэдэгдлээ. Мэдээлэлд нэвтрүүлгийн дэлгэрэнгүй нөхцөл дурдагдаагүй.",
+   "body_mn": "Tesla-ийн гүйцэтгэх захирал Элон Маск Вторник гарагт SpaceX-ийн хиймэл оюуны охин компани SpaceXSI (өмнө нь xAI) Grok 4.8-ийн хязгаарлагдмал нэвтрүүлгийг энэ долоо хоногт эхлүүлэхээр төлөвлөж байгаагаа мэдэгдсэн байна.\n\nМэдээнд хэн нэвтрүүлгийн хүрээнд багтах, ямар тарифтай эсвэл API-аар хандах эсэх талаар дурдаагүй. Тиймээс хөгжүүлэгчдэд хэрэглэх боломжтой эсэх одоогоор тодорхойгүй байна.\n\nGrok 4.8-ийн талаарх энэ мэдээ нь загварын шинэ хувилбар гарах ойрын хугацааны төлөвлөгөөг харуулж байна. Хөгжүүлэгчид rate limit, үнийн мэдээлэл, API-ийн баримт гарах эсэхийг дараа нь хянах хэрэгтэй.",
+   "published": "2026-11-10T11:08:00Z",
+   "added": "2026-11-12T20:13:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8c33f7013ba83ac7",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Register",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693",
+   "image": "https://image.theregister.com/5247969.jpg?imageId=5247969&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+   "title": "Microsoft is giving Claude the keys to UK Copilot tenants by default",
+   "summary_en": "Admins have until December 9 to review access settings as Anthropic processes data in the US",
+   "title_mn": "Microsoft Copilot-ийн UK хэрэглэгчдэд Claude-ийг анхдагчаар идэвхжүүлнэ",
+   "summary_mn": "Microsoft 12-р сарын 9-нөөс эхлэн Их Британийн Copilot хэрэглэгчдийн Anthropic Claude загварт хандалтыг анхдагчаар идэвхжүүлнэ. Администраторууд хугацаанд нь тохиргоогоо шалгаж, өгөгдөл АНУ-д боловсруулагдах тухай нөхцөлийг үнэлэх шаардлагатай.",
+   "body_mn": "The Register-ийн мэдээлснээр Microsoft 12-р сарын 9-нөөс эхлэн Их Британийн Copilot хэрэглэгчдэд Anthropic-ийн Claude загварт хандах боломжийг анхдагчаар идэвхжүүлнэ. Администратор тохиргоогоо өөрчлөөгүй бол автоматаар нээгдэнэ гэсэн үг.\n\nAnthropic нь Microsoft-ийн subprocessor байдлаар ажиллах бөгөөд холбогдох өгөгдлийг АНУ-д боловсруулдаг гэж Microsoft баримт бичигтээ тэмдэглэжээ. Их Британийн хэрэглэгчид Microsoft-ийн EU Data Boundary-д хамрагдаагүй тул энэ өөрчлөлт хийгдэж байгаа юм.\n\nМөн Microsoft Claude-ийн хандалтыг зөвхөн Microsoft 365-д хязгаарласан тохиргоог татан авч байна. Хөгжүүлэгч болон байгууллагын администраторууд өгөгдлийн нууцлал, хамрах хүрээний шаардлагаа шалгаж, шаардлагатай бол Claude-ийг идэвхгүй болгох хэрэгтэй.",
+   "published": "2026-11-10T11:30:00Z",
+   "added": "2026-11-12T20:13:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f321c904268bcef2",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w1200-h630-n-nu-rw",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "summary_en": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+   "title_mn": "DeepMind AlphaProof Code: Signal-ийн криптограф кодыг AI-аар формал баталгаажуулав",
+   "summary_mn": "Google DeepMind нь AlphaProof Code нэртэй agentic фреймворкоор Signal протоколын бодит кодын аюулгүй байдлын шинж чанаруудыг Lean ашиглан математикийн нотолгоотойгоор баталгаажуулжээ. Ажил нь дөрвөн долоо хоног үргэлжилсэн бөгөөд зуун мянга биш зургаан сая гаруй мөр Lean код үүсгэсэн.",
+   "body_mn": "Google DeepMind судлаачид Signal-ийн криптограф протоколын бодит кодыг AlphaProof Code гэх agentic фреймворк ашиглан формал баталгаажуулалтаар шалгажээ. Энэ нь өмнө нь олон жилийн турш хүндэтгэлтэй асуудал байсан гэж тэмдэглэгдсэн.\n\nАжлын явцад хүмүүс аюулгүй байдлын зорилтуудыг математик тодорхойлолт болгон хөрвүүлж, Gemini Carbon загварт суурилсан агентууд нотолгоо бичсэн. Үүний үр дүнд Lean хэлээр зургаан саяас илүү мөр код үүсгэсэн байна. Агентууд нотолгоог шалгаж, хүний шалгалт шаардлагатай хэсгийг кодын ердөө нэг хувь хүртэл багасгасан гэж мэдээлсэн.\n\nСудлаачид хоёр өмнө засагдсан алдааг буцаан оруулж, систем алдаатай хувилбарыг аюултай гэдгийг баталгаажуулж чадсан. Хөгжүүлэгчдэд энэ нь AI агентууд кодын аюулгүй байдлыг формал аргаар шалгах боломжтой болохыг харуулж байгаа техникийн томоохон алхам юм.",
+   "published": "2026-11-10T12:02:28Z",
+   "added": "2026-11-12T20:13:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ef83b8dc18b1604d",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-1440x810.png",
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "summary_en": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+   "title_mn": "Google Cloud эрүүл мэндийн салбарт зориулсан Gemini платформыг урьдчилан харуулав",
+   "summary_mn": "Google Cloud эмнэлгийн мэдээлэл, эмнэлгийн бичиг баримт, даатгалын ажлыг зохицуулах Gemini for healthcare платформыг танилцууллаа. Үүний хамт Gemini Decisions API урьдчилан харагдах хэлбэрээр гарсан.",
+   "body_mn": "Google Cloud Gemini for healthcare платформыг танилцуулсан бөгөөд энэ нь эрүүл мэндийн байгууллагын өгөгдлийн системүүдийг нэгтгэж, олон алхамтай ажлын урсгалыг гүйцэтгэх зорилготой. Платформ нь электрон эмнэлгийн бүртгэл, биллингийн систем, клиникийн удирдамж болон Medicare өгөгдлийн санд холбогдож чаддаг гэж дурдсан.\n\nМэдээнд эмнэлгүүд клиницистийн долоо хоногийн бичиг баримтад ойролцоогоор 28 цаг зарцуулдаг гэж тэмдэглэсэн. Платформ нь эмнэлгийн бичиг баримтын нэгтгэл, урьдчилан зөвшөөрөл шалгах зэрэг ажлыг хязгаарлагдсан дүрмийн дотор, хүний хяналттайгаар гүйцэтгэнэ. Урьдчилсан хувилбар HCA Healthcare, Highmark Health, Northwell Health зэрэг түншүүдтэйгээр эхэлжээ.\n\nХөгжүүлэгчдэд сонирхолтой нь Gemini Decisions API бөгөөд энэ нь Gemini Decision загварыг ашиглан хурдан, тооцоологдсон олон төрлийн шийдвэр гаргах боломжийг санал болгодог. Харин API-ийн дэлгэрэнгүй баримт, үнэ, хандалтын нөхцөл мэдээнд дурдагдаагүй.",
+   "published": "2026-11-10T13:00:00Z",
+   "added": "2026-11-12T20:13:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6d8eb3bcd497222d",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
+   "title": "Gemini 4 Carbon is now available",
+   "summary_en": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
+   "title_mn": "Google Gemini 4 Carbon загвар developer-т нээлттэй боллоо",
+   "summary_mn": "Google Gemini 4 Carbon загварыг API-аар, Google AI Studio болон Gemini for business-ээр хөгжүүлэгчдэд нээлттэй болгосон. Үнэ нь 1 сая input token-д $2, output token-д $10 бөгөөд Antigravity дээрх /swarm функц туршилтад орлоо.",
+   "body_mn": "Google DeepMind Gemini 4 Carbon загварыг хөгжүүлэгчид, компаниуд, эрдэмтэд болон хэрэглэгчдэд нээлттэй болгосноо зарлалаа. Carbon нь кибер аюулгүй байдал, урт хугацааны agent ажлын урсгал, программ хангамжийн инженерчлэл зэрэгт хамгийн хүчтэй загвар юм.\n\nAPI-аар Google AI Studio болон Gemini for business дээр бүх төлбөртэй хөгжүүлэгч, компанид боломжтой. Нэвтрүүлгийн үе шатны үнэ Gemini 4 Argon-тай адил буюу сая input token-д $2, сая output token-д $10. Google AI Ultra захиалагчид Antigravity, Gemini апп болон Search-ийн AI Mode-д хандах боломжтой.\n\nШинэ /swarm функц нь нэг prompt-ийг агентуудын багт хуваах боломж олгоно. Архитектур, зохицуулалт, аудит зэрэг хүнд үүрэгт Carbon, харин хөнгөн ажилд илүү хурдан загвар ашиглах боломжтой. Google нийтлэлдээ Three.js дээр суурилсан 3D төсөл, мөн 906K гурвалжинтай дахин бүтээсэн жишээг харуулсан.\n\nМөн Artificial Analysis-тай хамтран шинэ Multimodal Knowledge Agent (MKA) benchmark-ыг танилцуулсан бөгөөд Carbon энд 2-р байранд орж, дундаж ажлын зардал дээд загвараас 6 дахин бага гэжээ. Хөгжүүлэгчдэд энэ нь агент ажлын урсгалыг илүү үнэ бага хийх боломжтойг харуулж байна.",
+   "published": "2026-11-10T16:03:47Z",
+   "added": "2026-11-12T20:13:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "21811e8275c133f5",
+   "subtopic": "react-native",
+   "source": "Expo Changelog",
+   "source_label": "Expo Changelog",
+   "url": "https://expo.dev/changelog/supabase-integration-with-expo",
+   "image": "https://cdn.sanity.io/images/9r24npb8/production/1f83715550d9da277c3ea4e5bfbfea739ba049ec-2400x1350.png?rect=0,45,2400,1260&w=1200&h=630&fm=webp&q=80&auto=format",
+   "title": "One command to connect Supabase with Expo",
+   "summary_en": "Create a Supabase project, install the SDK, and write your keys into every EAS environment with one command from the EAS CLI.",
+   "title_mn": "Expo-д нэг командаар Supabase холбох боломж нэмэгдлээ",
+   "summary_mn": "Expo CLI-д Supabase төсөл үүсгэж, SDK суулгаж, орчны хувьсагчдыг автоматаар тохируулах командыг нэвтрүүлжээ. Үүнд expo-sqlite тохиргоо болон local development орно.",
+   "body_mn": "Expo шинэ командаар Supabase төсөл үүсгэж, @supabase/supabase-js болон expo-sqlite суулгаж, EXPO_PUBLIC_SUPABASE_URL болон EXPO_PUBLIC_SUPABASE_PUBLISHABLE_KEY утгуудыг .env.local болон Expo орчны хувьсагчид руу бичдэг. Production, Preview, Development орчин бүр нэг төсөлд холбогдоно.\n\nХэрэв төсөл аль хэдийн байгаа бол --link сонголтоор холбож болно. Нууц үгийг Expo хадгалдаггүй, харин Supabase-ийн dashboard дээрээс шинэчилж болно. Сессийг expo-sqlite-д хадгалдаг тул AsyncStorage шаардлагагүй.\n\nЭнэ нь Expo Go дээр ажиллана, гэхдээ expo-sqlite-д тохиргоо нэмэх эсвэл native сан ашиглах бол development build хэрэгтэй. Локал хөгжүүлэлтэд npx supabase start ашиглан Postgres болон auth-ийг өөрийн машин дээр ажиллуулж болно.\n\nДаалгавар: eas-cli 21.8.0 эсвэл түүнээс шинэ хувилбарыг суулгаад eas integrations:supabase:connect командыг ажиллуулна уу. Row level security-г заавал идэвхжүүлэхийг анхаарна уу.",
+   "published": "2026-11-10T16:15:37Z",
+   "added": "2026-11-12T20:13:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "338a44a8c475b83e",
+   "subtopic": "css-web",
+   "source": "CSS-Tricks",
+   "source_label": "CSS-Tricks",
+   "url": "https://css-tricks.com/css-using-declarations-just-once/",
+   "image": "https://css-tricks.com/wp-content/uploads/2018/04/ellipses-brackets.jpg",
+   "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
+   "summary_en": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy? CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+   "title_mn": "CSS Dedup хэрэгслээр UDJO техникийг 20 сайт дээр шалгажээ",
+   "summary_mn": "18 жил настай CSS оновчлолын UDJO арга одоо ч үр дүнтэй эсэхийг 20 вэбсайтын жишээн дээр туршжээ. Туршилтад CSS Dedup хэрэгслийг ашигласан.",
+   "body_mn": "CSS оновчлол нь хэдий энгийн мэт харагдах боловч CSS хурдан хөгжиж буй тул шинэ боломжууд үргэлж гарч ирдэг. Энэ нийтлэлд 18 настай UDJO буюу using declarations just once техникийг авч үзэж, давхардсан declaration-уудыг нэг дүрэмд нэгтгэх аргыг тайлбарлана.\n\nЗохиолч CSS Dedup хэмээх хэрэгслийг бүтээж, 20 вэбсайтыг шинжлэн файлын хэмжээнд хэрхэн нөлөөлөхийг харжээ. Аюулгүй гэж тооцогдсон болон хэмжээг бууруулах боломжтой хувилбаруудыг хоёуланг нь туршсан.\n\nДүгнэлтээр UDJO өнөөдөр ч ажилладаг бөгөөд зарим тохиолдолд файлын хэмжээг бууруулдаг. Гэхдээ үр дүн нь selector-ийн урт болон засвар үйлчилгээний боломжоос хамаарна. Зохиолч шахалтын дараах үр дүнг хараахан туршаагүй гэжээ.\n\nВеб хөгжүүлэгчдэд энэ нь CSS-ээ цэвэрлэх, давхардлыг багасгах практик зөвлөмж юм.",
+   "published": "2026-11-10T16:42:18Z",
+   "added": "2026-11-12T20:13:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ce169ea5d1f169f1",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "title": "C++ language server now auto-configures MSBuild builds",
+   "summary_en": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a…",
+   "title_mn": "GitHub Copilot CLI-ийн C++ language server MSBuild-ийг автоматаар тохируулна",
+   "summary_mn": "Microsoft C++ Language Server нь MSBuild төслүүдэд compile_commands.json файлыг автоматаар үүсгэх болсон. Ингэснээр агент тохиргооны нэмэлт алхам хийх шаардлагагүй болно.",
+   "body_mn": "GitHub Copilot CLI-д зориулсан Microsoft C++ Language Server одоо MSBuild compile commands extractor-ийг өөрөө агуулж, автоматаар ажиллуулдаг болжээ. Өмнө нь go-to-definition, find references зэрэг функцүүдийн тулд compile_commands.json файлыг гараар үүсгэх эсвэл Copilot-д тусгай skill ажиллуулуулах шаардлагатай байв.\n\nЭнэ өөрчлөлт нь тохиргооны хугацаа болон токен зарцуулалтыг бууруулна. Бусад build систем дээр та өөрийн compile_commands.json файлыг ашиглах эсвэл skill-ээр үүсгэж болно.\n\nSuilmaa суулгахдаа Microsoft C++ Language Server quick start-ыг дагаж, EULA-г зөвшөөрнө. Идэвхтэй GitHub Copilot захиалга шаардлагатай.\n\nХөгжүүлэгчдэд энэ нь C++ төслүүдэд AI агентын код ойлголтыг илүү хурдан, найдвартай болгох алхам юм.",
+   "published": "2026-11-10T17:04:10Z",
+   "added": "2026-11-12T20:13:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "deb4c16bb33e8e88",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Meetings.png?resize=1200,675",
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "summary_en": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+   "title_mn": "Anthropic Claude Meetings, Whiteboards, Sheets хэрэгслүүдийг танилцуулав",
+   "summary_mn": "Anthropic видео уулзалтад оролцож даалгавар гүйцэтгэх Claude Meetings, Claude Whiteboards болон Claude Sheets-ийг beta хэлбэрээр гаргалаа. Claude Data нь бүрэн нээлттэй болсон.",
+   "body_mn": "Anthropic ажлын байрны шинэ функцүүдийг зарлаж, Claude Meetings нь видео уулзалтад оролцож, хурлын төлөвлөгөө, даалгавар гаргаж өгдөг. Одоогоор Google Meet дээр, Team болон Enterprise төлөвлөгөөнд beta хэлбэрээр боломжтой. Гадны зочин оролцохоор admin зөвшөөрөх шаардлагатай.\n\nClaude Whiteboards нь багийн хамтарсан самбар дээр санаа, цагийн хуваарь гаргадаг. Claude Sheets нь хүснэгт үүсгэж, томьёо, формат, dropdown нэмдэг бөгөөд хэрэглэгчид хамтдаа засаж болно. Хоёулаа төлбөртэй төлөвлөгөөнд beta-гаар боломжтой.\n\nМөн Claude Dashboards нэрийг Claude Data болгон өөрчилж, бүх төлбөртэй хэрэглэгчдэд нээлттэй болгожээ. Энэ нь data warehouse, CRM-тэй холбогдоно.\n\nХөгжүүлэгчдэд шууд техникийн шинэ API биш ч Claude-ийн нэвтрүүлэх олон шинэ багаж нь ажлын урсгалд нөлөөлөх болно.",
+   "published": "2026-11-10T17:30:00Z",
+   "added": "2026-11-12T20:13:39Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
  }
 ]

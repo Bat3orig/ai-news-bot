@@ -1,0 +1,17 @@
+{
+ "id": "6d8eb3bcd497222d",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
+ "title": "Gemini 4 Carbon is now available",
+ "summary_en": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
+ "title_mn": "Google Gemini 4 Carbon загвар developer-т нээлттэй боллоо",
+ "summary_mn": "Google Gemini 4 Carbon загварыг API-аар, Google AI Studio болон Gemini for business-ээр хөгжүүлэгчдэд нээлттэй болгосон. Үнэ нь 1 сая input token-д $2, output token-д $10 бөгөөд Antigravity дээрх /swarm функц туршилтад орлоо.",
+ "body_mn": "Google DeepMind Gemini 4 Carbon загварыг хөгжүүлэгчид, компаниуд, эрдэмтэд болон хэрэглэгчдэд нээлттэй болгосноо зарлалаа. Carbon нь кибер аюулгүй байдал, урт хугацааны agent ажлын урсгал, программ хангамжийн инженерчлэл зэрэгт хамгийн хүчтэй загвар юм.\n\nAPI-аар Google AI Studio болон Gemini for business дээр бүх төлбөртэй хөгжүүлэгч, компанид боломжтой. Нэвтрүүлгийн үе шатны үнэ Gemini 4 Argon-тай адил буюу сая input token-д $2, сая output token-д $10. Google AI Ultra захиалагчид Antigravity, Gemini апп болон Search-ийн AI Mode-д хандах боломжтой.\n\nШинэ /swarm функц нь нэг prompt-ийг агентуудын багт хуваах боломж олгоно. Архитектур, зохицуулалт, аудит зэрэг хүнд үүрэгт Carbon, харин хөнгөн ажилд илүү хурдан загвар ашиглах боломжтой. Google нийтлэлдээ Three.js дээр суурилсан 3D төсөл, мөн 906K гурвалжинтай дахин бүтээсэн жишээг харуулсан.\n\nМөн Artificial Analysis-тай хамтран шинэ Multimodal Knowledge Agent (MKA) benchmark-ыг танилцуулсан бөгөөд Carbon энд 2-р байранд орж, дундаж ажлын зардал дээд загвараас 6 дахин бага гэжээ. Хөгжүүлэгчдэд энэ нь агент ажлын урсгалыг илүү үнэ бага хийх боломжтойг харуулж байна.",
+ "published": "2026-11-10T16:03:47Z",
+ "added": "2026-11-12T20:13:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}

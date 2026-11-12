@@ -1,0 +1,17 @@
+{
+ "id": "21811e8275c133f5",
+ "subtopic": "react-native",
+ "source": "Expo Changelog",
+ "source_label": "Expo Changelog",
+ "url": "https://expo.dev/changelog/supabase-integration-with-expo",
+ "image": "https://cdn.sanity.io/images/9r24npb8/production/1f83715550d9da277c3ea4e5bfbfea739ba049ec-2400x1350.png?rect=0,45,2400,1260&w=1200&h=630&fm=webp&q=80&auto=format",
+ "title": "One command to connect Supabase with Expo",
+ "summary_en": "Create a Supabase project, install the SDK, and write your keys into every EAS environment with one command from the EAS CLI.",
+ "title_mn": "Expo-д нэг командаар Supabase холбох боломж нэмэгдлээ",
+ "summary_mn": "Expo CLI-д Supabase төсөл үүсгэж, SDK суулгаж, орчны хувьсагчдыг автоматаар тохируулах командыг нэвтрүүлжээ. Үүнд expo-sqlite тохиргоо болон local development орно.",
+ "body_mn": "Expo шинэ командаар Supabase төсөл үүсгэж, @supabase/supabase-js болон expo-sqlite суулгаж, EXPO_PUBLIC_SUPABASE_URL болон EXPO_PUBLIC_SUPABASE_PUBLISHABLE_KEY утгуудыг .env.local болон Expo орчны хувьсагчид руу бичдэг. Production, Preview, Development орчин бүр нэг төсөлд холбогдоно.\n\nХэрэв төсөл аль хэдийн байгаа бол --link сонголтоор холбож болно. Нууц үгийг Expo хадгалдаггүй, харин Supabase-ийн dashboard дээрээс шинэчилж болно. Сессийг expo-sqlite-д хадгалдаг тул AsyncStorage шаардлагагүй.\n\nЭнэ нь Expo Go дээр ажиллана, гэхдээ expo-sqlite-д тохиргоо нэмэх эсвэл native сан ашиглах бол development build хэрэгтэй. Локал хөгжүүлэлтэд npx supabase start ашиглан Postgres болон auth-ийг өөрийн машин дээр ажиллуулж болно.\n\nДаалгавар: eas-cli 21.8.0 эсвэл түүнээс шинэ хувилбарыг суулгаад eas integrations:supabase:connect командыг ажиллуулна уу. Row level security-г заавал идэвхжүүлэхийг анхаарна уу.",
+ "published": "2026-11-10T16:15:37Z",
+ "added": "2026-11-12T20:13:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

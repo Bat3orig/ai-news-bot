@@ -1,0 +1,17 @@
+{
+ "id": "3ddbcb4a2c8e31a6",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Breakingthenews.net",
+ "url": "https://breakingthenews.net/Article/Musk-plans-limited-Grok-4.8-rollout-later-this-week/67526613",
+ "image": "https://cdn.ttweb.net/News/images/410795.jpg?preset=w800_q70",
+ "title": "Musk plans limited Grok 4.8 rollout later this week",
+ "summary_en": "Tesla CEO and the world's richest man Elon Musk said on Tuesday that SpaceX's artificial intelligence subsidiary SpaceX Super Intelligence (SpaceXSI), formerly known as xAI, plans to begin a limited r...",
+ "title_mn": "Маск Grok 4.8-ийг энэ долоо хоногт хязгаарлагдмал хэмжээгээр нээнэ гэв",
+ "summary_mn": "Элон Маск SpaceX-ийн хиймэл оюуны охин компани SpaceXSI (өмнө нь xAI) Grok 4.8-ийн хязгаарлагдмал нэвтрүүлгийг энэ долоо хоногт эхлүүлэхээр төлөвлөж байгаагаа мэдэгдлээ. Мэдээлэлд нэвтрүүлгийн дэлгэрэнгүй нөхцөл дурдагдаагүй.",
+ "body_mn": "Tesla-ийн гүйцэтгэх захирал Элон Маск Вторник гарагт SpaceX-ийн хиймэл оюуны охин компани SpaceXSI (өмнө нь xAI) Grok 4.8-ийн хязгаарлагдмал нэвтрүүлгийг энэ долоо хоногт эхлүүлэхээр төлөвлөж байгаагаа мэдэгдсэн байна.\n\nМэдээнд хэн нэвтрүүлгийн хүрээнд багтах, ямар тарифтай эсвэл API-аар хандах эсэх талаар дурдаагүй. Тиймээс хөгжүүлэгчдэд хэрэглэх боломжтой эсэх одоогоор тодорхойгүй байна.\n\nGrok 4.8-ийн талаарх энэ мэдээ нь загварын шинэ хувилбар гарах ойрын хугацааны төлөвлөгөөг харуулж байна. Хөгжүүлэгчид rate limit, үнийн мэдээлэл, API-ийн баримт гарах эсэхийг дараа нь хянах хэрэгтэй.",
+ "published": "2026-11-10T11:08:00Z",
+ "added": "2026-11-12T20:13:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

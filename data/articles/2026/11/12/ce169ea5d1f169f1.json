@@ -1,0 +1,17 @@
+{
+ "id": "ce169ea5d1f169f1",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+ "title": "C++ language server now auto-configures MSBuild builds",
+ "summary_en": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a…",
+ "title_mn": "GitHub Copilot CLI-ийн C++ language server MSBuild-ийг автоматаар тохируулна",
+ "summary_mn": "Microsoft C++ Language Server нь MSBuild төслүүдэд compile_commands.json файлыг автоматаар үүсгэх болсон. Ингэснээр агент тохиргооны нэмэлт алхам хийх шаардлагагүй болно.",
+ "body_mn": "GitHub Copilot CLI-д зориулсан Microsoft C++ Language Server одоо MSBuild compile commands extractor-ийг өөрөө агуулж, автоматаар ажиллуулдаг болжээ. Өмнө нь go-to-definition, find references зэрэг функцүүдийн тулд compile_commands.json файлыг гараар үүсгэх эсвэл Copilot-д тусгай skill ажиллуулуулах шаардлагатай байв.\n\nЭнэ өөрчлөлт нь тохиргооны хугацаа болон токен зарцуулалтыг бууруулна. Бусад build систем дээр та өөрийн compile_commands.json файлыг ашиглах эсвэл skill-ээр үүсгэж болно.\n\nSuilmaa суулгахдаа Microsoft C++ Language Server quick start-ыг дагаж, EULA-г зөвшөөрнө. Идэвхтэй GitHub Copilot захиалга шаардлагатай.\n\nХөгжүүлэгчдэд энэ нь C++ төслүүдэд AI агентын код ойлголтыг илүү хурдан, найдвартай болгох алхам юм.",
+ "published": "2026-11-10T17:04:10Z",
+ "added": "2026-11-12T20:13:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

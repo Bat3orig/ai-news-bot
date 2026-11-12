@@ -1,0 +1,17 @@
+{
+ "id": "f321c904268bcef2",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+ "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w1200-h630-n-nu-rw",
+ "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+ "summary_en": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+ "title_mn": "DeepMind AlphaProof Code: Signal-ийн криптограф кодыг AI-аар формал баталгаажуулав",
+ "summary_mn": "Google DeepMind нь AlphaProof Code нэртэй agentic фреймворкоор Signal протоколын бодит кодын аюулгүй байдлын шинж чанаруудыг Lean ашиглан математикийн нотолгоотойгоор баталгаажуулжээ. Ажил нь дөрвөн долоо хоног үргэлжилсэн бөгөөд зуун мянга биш зургаан сая гаруй мөр Lean код үүсгэсэн.",
+ "body_mn": "Google DeepMind судлаачид Signal-ийн криптограф протоколын бодит кодыг AlphaProof Code гэх agentic фреймворк ашиглан формал баталгаажуулалтаар шалгажээ. Энэ нь өмнө нь олон жилийн турш хүндэтгэлтэй асуудал байсан гэж тэмдэглэгдсэн.\n\nАжлын явцад хүмүүс аюулгүй байдлын зорилтуудыг математик тодорхойлолт болгон хөрвүүлж, Gemini Carbon загварт суурилсан агентууд нотолгоо бичсэн. Үүний үр дүнд Lean хэлээр зургаан саяас илүү мөр код үүсгэсэн байна. Агентууд нотолгоог шалгаж, хүний шалгалт шаардлагатай хэсгийг кодын ердөө нэг хувь хүртэл багасгасан гэж мэдээлсэн.\n\nСудлаачид хоёр өмнө засагдсан алдааг буцаан оруулж, систем алдаатай хувилбарыг аюултай гэдгийг баталгаажуулж чадсан. Хөгжүүлэгчдэд энэ нь AI агентууд кодын аюулгүй байдлыг формал аргаар шалгах боломжтой болохыг харуулж байгаа техникийн томоохон алхам юм.",
+ "published": "2026-11-10T12:02:28Z",
+ "added": "2026-11-12T20:13:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

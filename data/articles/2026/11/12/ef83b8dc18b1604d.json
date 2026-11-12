@@ -1,0 +1,17 @@
+{
+ "id": "ef83b8dc18b1604d",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-1440x810.png",
+ "title": "Google Cloud launches Gemini for healthcare.",
+ "summary_en": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+ "title_mn": "Google Cloud эрүүл мэндийн салбарт зориулсан Gemini платформыг урьдчилан харуулав",
+ "summary_mn": "Google Cloud эмнэлгийн мэдээлэл, эмнэлгийн бичиг баримт, даатгалын ажлыг зохицуулах Gemini for healthcare платформыг танилцууллаа. Үүний хамт Gemini Decisions API урьдчилан харагдах хэлбэрээр гарсан.",
+ "body_mn": "Google Cloud Gemini for healthcare платформыг танилцуулсан бөгөөд энэ нь эрүүл мэндийн байгууллагын өгөгдлийн системүүдийг нэгтгэж, олон алхамтай ажлын урсгалыг гүйцэтгэх зорилготой. Платформ нь электрон эмнэлгийн бүртгэл, биллингийн систем, клиникийн удирдамж болон Medicare өгөгдлийн санд холбогдож чаддаг гэж дурдсан.\n\nМэдээнд эмнэлгүүд клиницистийн долоо хоногийн бичиг баримтад ойролцоогоор 28 цаг зарцуулдаг гэж тэмдэглэсэн. Платформ нь эмнэлгийн бичиг баримтын нэгтгэл, урьдчилан зөвшөөрөл шалгах зэрэг ажлыг хязгаарлагдсан дүрмийн дотор, хүний хяналттайгаар гүйцэтгэнэ. Урьдчилсан хувилбар HCA Healthcare, Highmark Health, Northwell Health зэрэг түншүүдтэйгээр эхэлжээ.\n\nХөгжүүлэгчдэд сонирхолтой нь Gemini Decisions API бөгөөд энэ нь Gemini Decision загварыг ашиглан хурдан, тооцоологдсон олон төрлийн шийдвэр гаргах боломжийг санал болгодог. Харин API-ийн дэлгэрэнгүй баримт, үнэ, хандалтын нөхцөл мэдээнд дурдагдаагүй.",
+ "published": "2026-11-10T13:00:00Z",
+ "added": "2026-11-12T20:13:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

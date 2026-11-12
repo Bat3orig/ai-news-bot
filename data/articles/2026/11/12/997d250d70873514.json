@@ -1,0 +1,17 @@
+{
+ "id": "997d250d70873514",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "FourWeekMBA",
+ "url": "https://fourweekmba.com/ai-grok-4-8-in-rl-after-a-57-day-wait-as-xai-dumps-jax-for-cpp/",
+ "image": "",
+ "title": "Grok 4.8 in RL After a 57-Day Wait as xAI Dumps JAX for C++",
+ "summary_en": "",
+ "title_mn": "xAI Grok 4.8-ийг сургалтын RL шатанд оруулж, JAX-аас C++ руу шилжжээ",
+ "summary_mn": "FourWeekMBA-ийн мэдээлснээр xAI Grok 4.8 загвараа reinforcement learning (RL) шатанд оруулсан бөгөөд 57 хоногийн хүлээлтийн дараа энэ алхам хийгдсэн байна. Мөн компани JAX-аас C++ руу шилжсэн гэж тайлагнасан.",
+ "body_mn": "FourWeekMBA-ийн мэдээлснээр xAI Grok 4.8 загвараа reinforcement learning (RL) шатанд оруулжээ. Энэ нь 57 хоногийн хүлээлтийн дараа хийгдсэн гэж тэмдэглэсэн байна.\n\nМөн мэдээнд xAI JAX-аас C++ руу шилжсэн гэж дурдсан байна. Ямар технологийн шийдэл, ямар хүрээнд шилжсэн талаар мэдээлэл тодорхойгүй байна, тиймээс энэ мэдээллийг эх мэдээний үндсэн агуулгаас цааш тайлбарлах боломжгүй.\n\nХөгжүүлэгчдэд энэ мэдээ нь Grok загварын хөгжүүлэлтийн явцыг харуулж байгаа ч одоогоор API эсвэл SDK-ийн шинэ боломж, хугацаа, үнэ тодорхойгүй тул шууд ашиглах зүйл алга.",
+ "published": "2026-11-10T10:54:46Z",
+ "added": "2026-11-12T20:13:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

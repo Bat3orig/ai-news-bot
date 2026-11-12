@@ -1,0 +1,17 @@
+{
+ "id": "deb4c16bb33e8e88",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "TechCrunch",
+ "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+ "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Meetings.png?resize=1200,675",
+ "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+ "summary_en": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+ "title_mn": "Anthropic Claude Meetings, Whiteboards, Sheets хэрэгслүүдийг танилцуулав",
+ "summary_mn": "Anthropic видео уулзалтад оролцож даалгавар гүйцэтгэх Claude Meetings, Claude Whiteboards болон Claude Sheets-ийг beta хэлбэрээр гаргалаа. Claude Data нь бүрэн нээлттэй болсон.",
+ "body_mn": "Anthropic ажлын байрны шинэ функцүүдийг зарлаж, Claude Meetings нь видео уулзалтад оролцож, хурлын төлөвлөгөө, даалгавар гаргаж өгдөг. Одоогоор Google Meet дээр, Team болон Enterprise төлөвлөгөөнд beta хэлбэрээр боломжтой. Гадны зочин оролцохоор admin зөвшөөрөх шаардлагатай.\n\nClaude Whiteboards нь багийн хамтарсан самбар дээр санаа, цагийн хуваарь гаргадаг. Claude Sheets нь хүснэгт үүсгэж, томьёо, формат, dropdown нэмдэг бөгөөд хэрэглэгчид хамтдаа засаж болно. Хоёулаа төлбөртэй төлөвлөгөөнд beta-гаар боломжтой.\n\nМөн Claude Dashboards нэрийг Claude Data болгон өөрчилж, бүх төлбөртэй хэрэглэгчдэд нээлттэй болгожээ. Энэ нь data warehouse, CRM-тэй холбогдоно.\n\nХөгжүүлэгчдэд шууд техникийн шинэ API биш ч Claude-ийн нэвтрүүлэх олон шинэ багаж нь ажлын урсгалд нөлөөлөх болно.",
+ "published": "2026-11-10T17:30:00Z",
+ "added": "2026-11-12T20:13:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

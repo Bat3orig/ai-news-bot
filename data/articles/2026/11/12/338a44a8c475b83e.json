@@ -1,0 +1,17 @@
+{
+ "id": "338a44a8c475b83e",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/css-using-declarations-just-once/",
+ "image": "https://css-tricks.com/wp-content/uploads/2018/04/ellipses-brackets.jpg",
+ "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
+ "summary_en": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy? CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "title_mn": "CSS Dedup хэрэгслээр UDJO техникийг 20 сайт дээр шалгажээ",
+ "summary_mn": "18 жил настай CSS оновчлолын UDJO арга одоо ч үр дүнтэй эсэхийг 20 вэбсайтын жишээн дээр туршжээ. Туршилтад CSS Dedup хэрэгслийг ашигласан.",
+ "body_mn": "CSS оновчлол нь хэдий энгийн мэт харагдах боловч CSS хурдан хөгжиж буй тул шинэ боломжууд үргэлж гарч ирдэг. Энэ нийтлэлд 18 настай UDJO буюу using declarations just once техникийг авч үзэж, давхардсан declaration-уудыг нэг дүрэмд нэгтгэх аргыг тайлбарлана.\n\nЗохиолч CSS Dedup хэмээх хэрэгслийг бүтээж, 20 вэбсайтыг шинжлэн файлын хэмжээнд хэрхэн нөлөөлөхийг харжээ. Аюулгүй гэж тооцогдсон болон хэмжээг бууруулах боломжтой хувилбаруудыг хоёуланг нь туршсан.\n\nДүгнэлтээр UDJO өнөөдөр ч ажилладаг бөгөөд зарим тохиолдолд файлын хэмжээг бууруулдаг. Гэхдээ үр дүн нь selector-ийн урт болон засвар үйлчилгээний боломжоос хамаарна. Зохиолч шахалтын дараах үр дүнг хараахан туршаагүй гэжээ.\n\nВеб хөгжүүлэгчдэд энэ нь CSS-ээ цэвэрлэх, давхардлыг багасгах практик зөвлөмж юм.",
+ "published": "2026-11-10T16:42:18Z",
+ "added": "2026-11-12T20:13:39Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
