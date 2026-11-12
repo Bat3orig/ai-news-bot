@@ -1,0 +1,17 @@
+{
+ "id": "08fbe9297303a4ca",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "AI Magazine",
+ "url": "https://aimagazine.com/news/alibaba-qwenwork-leads-as-bytedance-tencent-axe-ai-portals",
+ "image": "https://assets.bizclikmedia.net/1200/43bb6b69eb576e16b28b39ff6eb88e6e:4094bc2117cf879a4657b425450135d6/gettyimages-523738180.jpg.jpg",
+ "title": "Alibaba QwenWork Rises as ByteDance & Tencent Axe AI Portals",
+ "summary_en": "Chen Yusen, Vice President of Alibaba Group, bets on context with QwenWork as rivals ByteDance and Tencent axe standalone agent portals in China's cull",
+ "title_mn": "Alibaba QwenWork ажлын хиймэл оюун агент платформыг público beta хэлбэрээр нээлээ",
+ "summary_mn": "Alibaba QwenWork нь аж ахуйн нэгж болон хувь хүмүүст зориулсан нэгдсэн ажлын AI агент платформ бөгөөд 8-р сарын 3-нд public beta хэлбэрээр нээгдсэн. Энэ нь ByteDance Coze болон Tencent Yuanqi зэрэг бие даасан агент порталуудын төгсгөлтэй зэрэгцэж байна.",
+ "body_mn": "Alibaba QwenWork нь хиймэл оюун ухаанд суурилсан ажлын агент платформ бөгөөд 8-р сарын 3-нд public beta хэлбэрээр нээгдсэн. Платформ нь өөрийн агент чадвар, вэб хөгжүүлэлт болон олон төрлийн мультимодал үүсгэлтийг нэг дор нэгтгэдэг. HTML хуудас үүсгэх, домэйн болон өгөгдлийн сангийн үйлчилгээг холбож, бэлэн вэб аппликешн гаргах боломжтой гэж мэдээлсэн байна.\n\nЭнэ мэдээ нь ByteDance-ийн Coze Enterprise Edition болон Tencent-ийн Yuanqi платформ хаагдаж байгаатай зэрэгцэж гарсан. 36Kr-ийн мэдээлснээр Хятадын томоохон компаниуд болон стартапуудын нийт 38 бүтээгдэхүүн хаагдсан эсвэл нэгдсэн байна. Alibaba QwenWork нь Qoderwork, Mulerun, Wukong зэрэг одоо байгаа агент платформуудыг нэгтгэсэн гэж тайлбарлагдсан.\n\nAlibaba QwenWork-ийг DingTalk-ийн desktop болон mobile хувилбарт суулгасан агент хэлбэрээр оруулах төлөвлөгөөтэй байгаа бөгөөд DingTalk нь 20 сая гаруй байгууллагад үйлчилдэг гэж мэдээлсэн. Yunqi Conference дээр QwenWork-ийн удирдагч Chen Yusen \"Enterprise Context\" бүтээгдэхүүнийг танилцуулсан.\n\nХөгжүүлэгчдэд энэ нь агент системийг тусдаа портал биш, корпорацийн мэдээллийн систем, cloud infrastructure-д шууд холбох чиг хандлага гарч байгааг харуулж байна. Харин платформын дэлгэрэнгүй API болон хөгжүүлэгчийн баримт тодорхой бус хэвээр байгаа тул олон нийтэд нээлттэй боломжуудыг хүлээж үзэх хэрэгтэй.",
+ "published": "2026-11-09T19:31:09Z",
+ "added": "2026-11-12T03:58:15Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
