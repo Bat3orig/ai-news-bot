@@ -1,0 +1,17 @@
+{
+ "id": "cc6e25d32e376bd0",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgogipF_6VgFSzsnZ_UFUM5FfzGyk1MOv5SRi3PSivRHjxs6IsO0fmOdDjQsDJHiKcnxJ8T89NMMYiqo_NEEtv0EoQsafjOFuZ-Te6famJBJKegqDnf1b63Hdzkls7IO1JOtSNjb5Hatb4Ny8Zu46mggCXYKvHf3Ne9Qc4ZRfLBmLnZ7omPEHAjDfJRQEKu/s1700-nu-rw-lo-l85-e365/fable.jpg",
+ "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+ "summary_en": "Anthropic releases Claude Fable 5.2 and Mythos 5.2, with Fable scoring 76.3% on a multi-stage cyberattack benchmark.",
+ "title_mn": "Anthropic Claude Fable 5.2 болон Mythos 5.2 загваруудыг танилцууллаа",
+ "summary_mn": "Anthropic компани програмчлал, логик сэтгэлгээ, харааны чадвараараа сайжирсан Claude Fable 5.2 болон Mythos 5.2 загваруудыг гаргалаа.",
+ "body_mn": "Anthropic компани програмчлал, логик сэтгэлгээ болон харааны чадвараараа тэргүүлэгч Claude Fable 5.2 болон Mythos 5.2 загваруудаа албан ёсоор танилцууллаа. Эдгээр загварууд нь нарийн төвөгтэй программ хангамжийн шилжилт хийх, электрон төхөөрөмж зохиох зэрэг олон дэвшилтэт ажлыг гүйцэтгэх чадвартай ажээ.\n\nТуршилтын явцад Fable 5.2 загвар нь CyScenarioBench кибер халдлагын тестэд 76.3%-ийн амжилт үзүүлж, өмнөх хувилбарууд болон өрсөлдөгч загваруудыг ардаа орхисон байна. Мөн Claude Security хэрэгслийг тасралтгүй код сканнердах, автоматаар алдаа засах функцээр шинэчилжээ.\n\nШинэ загварууд нь AWS, Google Cloud, Microsoft Azure зэрэг бүх үндсэн платформууд дээр ашиглах боломжтой болсон. Хөгжүүлэгчид эдгээр загваруудыг ашиглан кодыг илүү хурдан бөгөөд аюулгүй байдлаар хөгжүүлэх боломж бүрдлээ.",
+ "published": "2026-11-10T08:16:00Z",
+ "added": "2026-11-12T12:15:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

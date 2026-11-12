@@ -1,0 +1,17 @@
+{
+ "id": "9092d5eb66f29547",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/singapore-airlines-travel-work",
+ "image": "",
+ "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+ "summary_en": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+ "title_mn": "Singapore Airlines OpenAI технологийн тусламжтайгаар үйлчилгээгээ сайжруулав",
+ "summary_mn": "Singapore Airlines компани харилцагчийн үйлчилгээ, аялал жуулчлалын хайлт болон ажилтнуудын бүтээмжийг сайжруулахад OpenAI загварууд болон API ашиглаж байна.",
+ "body_mn": "Singapore Airlines компани хэрэглэгчийн дэмжлэг, аяллын хайлт болон ажилтнуудын бүтээмжийг нэмэгдүүлэх зорилгоор OpenAI-ийн загварууд болон API ашиглаж эхэлжээ. Тус компани Kris чатботаараа дамжуулан хэрэглэгчийн сэтгэл ханамжийн үнэлгээг (CSAT) хоёр дахин өсгөж чадсан байна.\n\nЭнэхүү интеграци нь хэрэглэгчийн хүсэлтийг илүү хурдан бөгөөд оновчтой шийдвэрлэхэд тусалж байна. Хөгжүүлэгчдийн хувьд томоохон компаниуд LLM технологи бодит бүтээгдэхүүнд хэрхэн амжилттай нэвтэрч буйн тод жишээ юм.",
+ "published": "2026-11-10T08:00:00Z",
+ "added": "2026-11-12T12:15:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

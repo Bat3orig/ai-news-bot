@@ -1,0 +1,17 @@
+{
+ "id": "971c463321128dd8",
+ "subtopic": "motion",
+ "source": "motiondivision/motion",
+ "source_label": "motiondivision/motion",
+ "url": "https://github.com/motiondivision/motion/releases/tag/v14.12.0",
+ "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+ "title": "motion v14.12.0",
+ "summary_en": "v14.12.0",
+ "title_mn": "Motion v14.12.0 хувилбар гарлаа",
+ "summary_mn": "Motion анимацийн сангийн шинэ v14.12.0 хувилбар хэрэглэгчдэд хүрлээ.",
+ "body_mn": "Фронтенд хөгжүүлэлтийн алдартай анимацийн сан болох Motion (хуучнаар Framer Motion) v14.12.0 хувилбараа гаргалаа. Энэхүү шинэчлэлтийн дэлгэрэнгүй өөрчлөлтүүд болон сайжруулалтууд албан ёсны сан дээр байршсан байна.\n\nХөгжүүлэгчид веб болон аппликейшний хөдөлгөөнт дүрс, анимацийг илүү хялбар бөгөөд өндөр гүйцэтгэлтэйгээр хийхэд энэхүү сан чухал үүрэг гүйцэтгэсээр байна.",
+ "published": "2026-11-10T08:42:43Z",
+ "added": "2026-11-12T12:15:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
