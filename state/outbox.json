@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "68a0b8691a72d0a0",
-   "subtopic": "nestjs",
-   "source": "nestjs/nest",
-   "source_label": "nestjs/nest",
-   "url": "https://github.com/nestjs/nest/releases/tag/v11.2.9",
-   "image": "https://opengraph.githubassets.com/9a094b63a7ce0c448798c3c8f7242a977048685aab3ac6fd02f3046f5bb99ddf/nestjs/nest/releases/tag/v11.2.9",
-   "title": "nest v11.2.9",
-   "summary_en": "What's changed @nestjs/core fix(core): run wildcard middleware on excluded routes of every version @nestjs/platform-express fix(deps): update dependency multer to v2.5.0 — resolves GHSA-q7qp-rjg7-q26m ( #18421 ) @nestjs/platform-fastify fix(fastify): end the authority of absolute-form targets at the query — an absolute-form request target with a / after a query that comes before its path is now answered with 404 fix(deps): update dependency fastify to v5.12.8 — resolves the advisories published against fastify up to 5.12.4; find-my-way moves to 9.10.0 with it, so http://host?a=b is now…",
-   "title_mn": "NestJS v11.2.9: multer аюулгүй байдлын засвар, Fastify-ийн замын өөрчлөлт",
-   "summary_mn": "NestJS v11.2.9 хувилбарт multer v2.5.0 шинэчлэлт орсон бөгөөд GHSA-q7qp-rjg7-q26m эмзэг байдлыг засжээ. Fastify дээр absolute-form хүсэлтийн зам өөрчлөгдсөн.",
-   "body_mn": "NestJS v11.2.9 хувилбарт @nestjs/platform-express багцын multer хамаарлыг v2.5.0 хүртэл шинэчилсэн нь GHSA-q7qp-rjg7-q26m эмзэг байдлыг засдаг. Энэ нь файл байршуулалттай апп ажиллуулдаг хөгжүүлэгчдэд чухал засвар юм.\n\n@nestjs/core-д wildcard middleware-ийг бүх хувилбарт exclude хийгдсэн маршрут дээр ажиллуулах засвар орсон. Харин @nestjs/platform-fastify-д absolute-form хүсэлтийн зам асуулгын тэмдэгтээс өмнө байвал 404 хариулах болсон. Fastify-ийг 5.12.8 хүртэл шинэчилсэн бөгөөд find-my-way 9.10.0 болж, http://host?a=b хүсэлт одоо / зам руу чиглэгдэнэ.\n\nЭдгээр өөрчлөлтүүд нь маршрутлалт болон аюулгүй байдалд шууд нөлөөлдөг тул шинэчлэхээс өмнө тестийн хэрэгслүүдээрээ шалгахыг зөвлөж байна.",
-   "published": "2026-11-09T07:53:24Z",
-   "added": "2026-11-10T15:59:36Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d338e00c02b9a9c6",
-   "subtopic": "nestjs",
-   "source": "nestjs/nest",
-   "source_label": "nestjs/nest",
-   "url": "https://github.com/nestjs/nest/releases/tag/v12.4.1",
-   "image": "https://opengraph.githubassets.com/d8432e01a6b61d3b36d2787d1da720bc8a75ea721e00814c41a7e9e118749a68/nestjs/nest/releases/tag/v12.4.1",
-   "title": "nest v12.4.1",
-   "summary_en": "v12.4.1 (2026-11-09) Features platform-node #18435 feat(node): inject requests into the node adapter like the fastify one ( @thekhegay ) #18439 feat(node): set req.route on the node adapter like express does ( @thekhegay ) Bug fixes core #18385 fix(core): roll back modules on failed lazy load ( @Asadshah7950 ) Enhancements common , core #18429 fix(core,common): warn when decorator metadata is missing ( @kamilmysliwiec ) Dependencies platform-ws #18468 chore(deps): bump ws from 8.22.0 to 8.22.1 ( @dependabot[bot] ) Committers: 8 Abdellatif Anaflous ( @hktitof ) Asad Ali Shah ( @Asadshah7950 )…",
-   "title_mn": "NestJS v12.4.1: Node адаптерт хүсэлт оруулах, req.route дэмжлэг нэмэгдлээ",
-   "summary_mn": "NestJS v12.4.1 хувилбар Node платформ дээр Fastify-тай адилхан хүсэлтийг inject хийх боломж болон req.route тохиргоог нэмжээ. Мөн модуль ачаалах алдааны дараа буцаах засвар орсон.",
-   "body_mn": "NestJS v12.4.1 хувилбарт platform-node багцад шинэ боломжууд нэмэгджээ. Node адаптерт Fastify-ийн адил хүсэлтүүдийг inject хийх боломж гарсан бөгөөд express-ийн адил req.route тохируулдаг болсон.\n\nМөн core багцад модулийг lazy load амжилтгүй болсон үед буцаах засвар орсон. Харин common болон core багцад decorator metadata дутуу байвал анхааруулга гаргадаг болсон. Ws багцыг 8.22.1 хувилбарт шинэчилжээ.\n\nХөгжүүлэгчдэд тестийн хүсэлт, маршрутын мэдээлэл дээр тулгуурласан middleware-ийг Node адаптер дээр илүү хялбар бичих боломж гарч байна. Шинэчлэхийн өмнө decorator metadata-ийн анхааруулгыг шалгахыг зөвлөж байна.",
-   "published": "2026-11-09T08:01:22Z",
-   "added": "2026-11-10T15:59:36Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e15d5465519d3635",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.11.0",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.11.0",
-   "summary_en": "v14.11.0",
-   "title_mn": "Motion v14.11.0 шинэ хувилбар гарлаа",
-   "summary_mn": "Motion-ийн v14.11.0 хувилбар гарсан ч өөрчлөлтийн дэлгэрэнгүй тайлбар эх сурвалжид байхгүй байна. Motion нь өмнө Framer Motion нэрээр мэдэгдэж байсан анимацийн сан юм.",
-   "body_mn": "Motion анимацийн сангийн v14.11.0 хувилбар гарсан тухай GitHub-ийн мэдээлэлд дурдагджээ. Харин хувилбарын дэлгэрэнгүй өөрчлөлт, шинэ функц эсвэл засварын жагсаалт энэ эх сурвалжид орсон байхгүй.\n\nMotion нь өмнө Framer Motion нэрээр мэдэгдэж байсан React болон бусад вэб төслүүдэд ашигладаг анимацийн сан юм. Өмнөх v14.10.0 болон v14.9.1 хувилбаруудтай харьцуулахад шинэчлэлтийн агуулгыг шалгах шаардлагатай.\n\nХөгжүүлэгчид хувилбарын тэмдэглэлийг GitHub дээрээс шалгаж, шинэчлэхийн өмнө анимацийн кодоо туршихыг зөвлөж байна.",
-   "published": "2026-11-09T10:31:22Z",
-   "added": "2026-11-10T15:59:36Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "db73b2d9083f5a48",
-   "subtopic": "nestjs",
-   "source": "nestjs/nest",
-   "source_label": "nestjs/nest",
-   "url": "https://github.com/nestjs/nest/releases/tag/v12.4.2",
-   "image": "https://opengraph.githubassets.com/b115f4ac79eacf338f045b6fdde9d0396886d43fd7b4d84f95a9316cb7b7f416/nestjs/nest",
-   "title": "nest v12.4.2",
-   "summary_en": "v12.4.2",
-   "title_mn": "NestJS v12.4.2 хувилбар гарлаа",
-   "summary_mn": "NestJS фреймворкийн v12.4.2 хувилбар нийтлэгдлээ. Эх мэдээллээс зөвхөн хувилбарын дугаар олдсон тул дэлгэрэнгүй өөрчлөлтийг release notes-оос шалгах хэрэгтэй.",
-   "body_mn": "NestJS фреймворкийн шинэ хувилбар v12.4.2 гарсан тухай мэдээлэл GitHub-ийн nestjs/nest репозиторид нийтлэгдлээ. Эх мэдээлэлд хувилбарын дугаараас өөр дэлгэрэнгүй тайлбар байхгүй байна.\n\nӨмнөх v12.4.0 болон v12.4.1 хувилбаруудтай харьцуулахад энэ нь жижиг засвар эсвэл алдаа засах шинэчлэл байж магадгүй. Гэхдээ энэ нь баталгаагүй тул хөгжүүлэгчид өөрчлөлтийн жагсаалтыг GitHub-ийн release хуудаснаас шалгаж, production орчинд шинэчлэхийн өмнө туршилт хийх нь зүйтэй.",
-   "published": "2026-11-09T12:09:46Z",
-   "added": "2026-11-10T15:59:36Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "952d2516af2e9054",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/control-room",
-   "image": "",
-   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-   "summary_en": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-   "title_mn": "OpenAI: За загварын ажлыг хянах, зогсоох Control Room систем",
-   "summary_mn": "OpenAI судалгааны дэд бүтцэд ажиллаж буй загваруудын ачааллыг хянаж, аюулгүй байдлын үүднээс шууд зогсоох боломжтой Control Room системийг танилцууллаа.",
-   "body_mn": "OpenAI компани судалгааны дэд бүтцэд ажиллаж буй загваруудын ажлын ачааллыг төвлөрсөн байдлаар хянах, шаардлагатай үед шууд зогсоох зорилготой Control Room нэртэй шинэ системийг танилцууллаа. Энэхүү систем нь хиймэл оюун ухааны судалгаа болон хөгжүүлэлтийн явцад аюулгүй байдал, хамгаалалтын эрсдэл үүссэн үед үйл ажиллагааг түргэн шуурхай хязгаарлахад туслах юм.\n\nИнженерүүд болон судалгааны багуудад зориулсан уг хэрэгсэл нь модель болон агентуудын нөөцийн ашиглалтыг бодит цаг хугацаанд хянах боломжийг олгоно. Томоохон хэмжээний тооцоолол шаардсан ажлуудыг удирдах, хяналтаа алдахгүй байхад уг систем чухал үүрэг гүйцэтгэнэ.\n\nAI загваруудын масштаб болон хүчин чадал нэмэгдэхийн хэрээр дэд бүтцийн аюулгүй байдлыг хангах нь чухал сорилт болж байгаа бөгөөд Control Room нь энэхүү асуудлыг шийдвэрлэх гол алхмуудын нэг болж байна.",
-   "published": "2026-11-09T13:00:00Z",
-   "added": "2026-11-10T21:42:47Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "29a1c92a58caa3f3",
-   "subtopic": "react-native",
-   "source": "Expo Changelog",
-   "source_label": "Expo Changelog",
-   "url": "https://expo.dev/changelog/concurrency-groups-and-hooks-for-workflows",
-   "image": "https://og.expo.dev/?theme=universe&title=Concurrency+groups+and+hooks+for+Workflows&description=Cancel+or+queue+overlapping+workflow+runs+with+concurrency+groups%2C+and+add+your+own+steps+to+pre-packaged+jobs+with+hooks.",
-   "title": "Concurrency groups and hooks for Workflows",
-   "summary_en": "Cancel or queue overlapping workflow runs with concurrency groups, and add your own steps to pre-packaged jobs with hooks.",
-   "title_mn": "Expo Workflows-т concurrency бүлэг болон hooks дэмжлэг нэмэгдлээ",
-   "summary_mn": "Expo Workflows нь concurrency-ийн тусгай бүлэг, экспресс болон дарааллын системтэй болж, бүх ажлуудад hook ашиглах боломжтой боллоо.",
-   "body_mn": "Expo баг Workflows системдээ хөгжүүлэгчдийн ажлыг хөнгөвчлөх чухал шинэчлэлтүүдийг хийсэн тухай зарлалаа. Үүнд concurrency буюу зэрэгцээ ажиллагааны тохиргоонд өөрийн хүссэн бүлэг, экспресс болон дараалалд оруулах боломжууд нэмэгдсэн байна.\n\nӨмнө нь зөвхөн ижил төстэй ажиллагааг цуцлах боломжтой байсан бол одоо group утгыг загвар (template) хэлбэрээр тохируулж, ижил утгатай ажиллах хүсэлтүүдийг цуцлах эсвэл дараалалд хүлээлгэх боломжтой болжээ. Жишээлбэл, main салбар дээр ажиллаж буй коммит нь өмнөх ажил дуусахыг хүлээдэг болсноор deployments тасалдахаас сэргийлнэ.\n\nҮүнээс гадна pre-packaged ажлуудад зориулсан hook-уудын дэмжлэг өргөжиж, хөгжүүлэгчид өөрсдийн нэмэлт алхмуудыг (жишээ нь PostHog руу sourcemap илгээх гэх мэт) хялбархан оруулах боломжтой боллоо.",
-   "published": "2026-11-09T13:00:00Z",
-   "added": "2026-11-10T21:42:47Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "04c197710c687789",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.11.1",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.11.1",
-   "summary_en": "v14.11.1",
-   "title_mn": "motion v14.11.1 хувилбар гарлаа",
-   "summary_mn": "Motion анимацийн сангийн шинэ v14.11.1 хувилбар хэрэглэгчдийн хүртээл боллоо.",
-   "body_mn": "Motion хөдөлгөөн болон анимацийн санг хөгжүүлэгчид v14.11.1 шинэ хувилбарыг албан ёсоор гаргажээ. Энэхүү хувилбарт голчлон жижиг алдаануудыг засаж, гүйцэтгэлийг сайжруулахад анхаарсан байна.\n\nВеб болон UI хөгжүүлэгчид Motion сангийн шинэ хувилбаруудыг ашиглан илүү уян хатан, өндөр бүтээмжтэй анимациудыг төслүүддээ суулгах боломжтой хэвээр байна.",
-   "published": "2026-11-09T13:12:28Z",
-   "added": "2026-11-10T21:42:47Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "44b8b2f3bd7a412e",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "Geeky Gadgets",
-   "url": "https://www.geeky-gadgets.com/qwen-4-preview-first-look/",
-   "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/qwen-preview-performance.jpg",
-   "title": "Qwen 4 Beats Deepseek 4.1 Flash in Web Tasks on Half the Tokens",
-   "summary_en": "Qwen 4 Max reportedly features a massive 1 million token context window. Early World of AI tests highlight efficiency beating Deepseek 4.1.",
-   "title_mn": "Alibaba-гийн Qwen 4 цуврал загвар гарч, веб даалгаваруудад өндөр үр дүнтэй ажиллаж байна",
-   "summary_mn": "Alibaba компани Qwen 4 загварын цувралаа танилцуулж, токен зарцуулалт багатайгаар нарийн төвөгтэй симуляци болон тоглоом бүтээх чадвараа харууллаа.",
-   "body_mn": "Alibaba-гийн хөгжүүлж буй Qwen 4 загварын цуврал нь техникийн болон бүтээлч даалгавруудад гайхалтай үр дүн үзүүлж эхэлжээ. Тус цувралд Qwen 4 Max, Flash, Plus болон 27B зэрэг хувилбарууд багтаж байгаа бөгөөд 1 сая токений контекст цонхыг дэмжих чадвартай аж.\n\nТуршилтын явцад Qwen 4 загвар нь биореакторын симуляци хийх, динамик усны механикеар тоноглогдсон Minecraft загварын тоглоом бүтээх зэрэг нарийн төвөгтэй ажлуудыг өндөр үр дүнтэй гүйцэтгэсэн байна. Тухайлбал, 2D RPG тоглоом болон виртуал орчныг ганцхан HTML файлаар бүтээх чадвараа харуулжээ.\n\nЭнэхүү open-weight загваруудын шинэчлэлт нь хөгжүүлэгчид болон хиймэл оюун ухааны салбарт томоохон дэвшил авчирч байгаа бөгөөд нээлттэй эх сурвалжтай загваруудын өрсөлдөөнийг улам хурцатгаж байна.",
-   "published": "2026-11-09T14:14:16Z",
-   "added": "2026-11-10T21:42:47Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0315e2a2679f1d7b",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.48.0",
-   "image": "https://opengraph.githubassets.com/d97e2fa226aaf210f892ba0450bb101ba03eaeb6879d301feb2c205fa4e3275e/openai/openai-python/releases/tag/v3.48.0",
-   "title": "openai-python v3.48.0",
-   "summary_en": "3.48.0 (2026-11-09) Features api: add stream options for agent sessions ( #4251 ) ( c6fc264 ) api: recognize gpt-6-rosalind in beta Responses ( #4257 ) ( 3774b7e ) Chores api: retain agent scheduling support ( #4255 ) ( a1175a3 ) deps: bump locked multidict from 6.9.1 to 7.1.0 ( #4259 ) ( 28cdb1b ) deps-dev: bump the python-maintenance group with 5 updates ( #4258 ) ( 4b10e22 ) deps-dev: bump types-requests from 2.33.0.20261006 to 2.33.0.20261030 ( #4260 ) ( de498d7 ) Documentation consolidate AGENTS.md guidance ( #4254 ) ( 44b1555 )",
-   "title_mn": "openai-python v3.48.0 гарлаа: Агент сессэд зориулсан стрийминг тохиргоо нэмэгдэв",
-   "summary_mn": "OpenAI Python сангийн v3.48.0 хувилбар гарч, агент сессүүдэд стрийминг тохируулах боломж нэмэгдсэнээс гадна шинэ загварын дэмжлэгийг багтаажээ.",
-   "body_mn": "OpenAI компани албан ёсны openai-python сангийнхаа v3.48.0 шинэчлэлтийг танилцууллаа. Энэхүү хувилбарт агент хөгжүүлэлт болон шинэ загваруудтай ажиллах хөгжүүлэгчдэд зориулсан хэд хэдэн чухал өөрчлөлт орсон байна.\n\nГол шинэчлэлт нь агент сессүүдэд (agent sessions) зориулсан stream options дэмжлэг нэмэгдсэн явдал юм. Үүний зэрэгцээ бета хувилбарын Responses хэсэгт gpt-6-rosalind загварыг таних боломжтой болсон нь дараагийн үеийн загварын туршилтуудтай нийцтэй ажиллах нөхцөлийг бүрдүүлж байна.\n\nМөн төслийн хамаарлуудыг шинэчилж, AGENTS.md удирдамж баримт бичгийг эмхэтгэн сайжруулсан тул OpenAI агентуудыг хөгжүүлж буй хөгжүүлэгчид тус хувилбар луу ахиулах нь зүйтэй юм.",
-   "published": "2026-11-09T16:12:58Z",
-   "added": "2026-11-11T01:37:37Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "caeb7e86cac5a33f",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "IBM",
-   "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert",
-   "image": "https://www.ibm.com/content/dam/worldwide-content/creative-assets/s-migr/ul/image/ibm-produced/2026-aug/enterprise-it-security-ls-super-v12.png/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
-   "title": "IBM plans to bring Anthropic’s Claude Mythos cyber reasoning into IBM Concert",
-   "summary_en": "Frontier AI cyber reasoning meets enterprise exposure management to help uncover unknown vulnerabilities and accelerate remediation at AI scale.",
-   "title_mn": "IBM Anthropic-ийн Claude Mythos загварыг IBM Concert системд нэгтгэхээр төлөвлөв",
-   "summary_mn": "IBM компани Anthropic-ийн Claude Mythos загварын кибер үндэслэл гаргах чадварыг IBM Concert системд нэтгэж, кодын сул тал илрүүлэх ажиллагааг сайжруулахаар болжээ.",
-   "body_mn": "IBM компани өөрийн IBM Concert платформдоо Anthropic-ийн Claude Mythos загварын кибер аюулгүй байдлын дэвшилтэт боломжуудыг нэгтгэхээр болсноо зарлалаа. Энэхүү төлөвлөгөө нь байгууллагын аюулгүй байдлын багуудад уламжлалт сканнеруудын олж харж чадахгүй байгаа нуугдмал сул талуудыг илрүүлэхэд туслах зорилготой юм.\n\nШинэ интеграци нь Mythos загварт суурилсан AI кодын сканнерыг Concert Protect-ийн эрсдэлийн удирдлагын боломжуудтай хослуулах юм. Ингэснээр хэрэглэгчид өөрсдийн сонгосон кодын сангуудыг шинжилж, код бичих явц дахь логикийн алдаа болон болзошгүй нуле-дэй сул талуудыг илрүүлж засварлах боломж бүрдэнэ.\n\nУг хамтын ажиллагаа нь кибер аюулгүй байдлын салбарт хиймэл оюун ухааныг ашиглах бас нэгэн чухал алхам болж байна. Уламжлалт сканнерууд нь зөвхөн мэдэгдэж буй CVE бүртгэл дээр тулгуурладаг бол Claude Mythos загвар нь кодын бүтцийг гүнзгий задлан шинжилж, халдлага үйлдэгдэх боломжит замуудыг урьдчилан таамаглах чадвартай ажээ.",
-   "published": "2026-11-09T18:13:02Z",
-   "added": "2026-11-11T08:41:23Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "7b83d38ee358d0f3",
    "subtopic": "anthropic",
    "source": "Anthropic (Google News)",
@@ -877,6 +677,46 @@
    "added": "2026-11-12T20:13:39Z",
    "ai": "claude:claude-haiku-5-5",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5f50657e793b69be",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-wants-claude-join-meetings-173006469.html",
+   "image": "https://s.yimg.com/lo/mysterio/api/20c9a07c93b091889eea66b51de0cbdfea3fadd63d8065d7366236fa35528819/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faxios_527%2F63936f35137292da46a1ed0e48cf4333.png",
+   "title": "Anthropic wants Claude to join your meetings",
+   "summary_en": "Anthropic wants its Claude AI assistant to become a participant in your next work meeting, taking notes, answering questions and even starting on assignments while everyone is still on the call.",
+   "title_mn": "Anthropic компани Claude Meetings болон ажлын байрны хэрэгслүүдээ танилцууллаа",
+   "summary_mn": "Anthropic компани Google Meet-д шууд оролцож тэмдэглэл хөтлөх, төлөвлөгөө гаргах чадвартай Claude Meetings хэрэгслийг танилцууллаа. Мөн Claude Whiteboards, Claude Sheets болон интерактив холбогч хэрэгслүүдийг Team, Enterprise хэрэглэгчдэд нээжээ.",
+   "body_mn": "Anthropic компани мэдлэгийн ажилтнууд болон хөгжүүлэгчдийн бүтээмжийг нэмэгдүүлэх зорилготой ажлын байрны шинэ хэрэгслүүдийн багцыг албан ёсоор зарлалаа. Үүний гол цөм нь Claude Meetings бөгөөд Google Meet дуудлагад оролцож, оролцогчдын яриаг сонсон тэмдэглэл хөтлөх, асуултад хариулах, даалгавар болон цагийн хуваарь гаргах чадвартай юм. Энэхүү хэрэгсэл нь Team болон Enterprise хэрэглэгчдэд бета хэлбэрээр нээгдэж байна.\n\nҮүнээс гадна багуудад зориулсан Claude Whiteboards хамтын ажиллагааны самбар, хиймэл оюун ухааны тусламжтайгаар хүснэгт үүсгэх Claude Sheets хэрэгслүүдийг платформдоо нэмжээ. Өмнө нь Claude Dashboards гэгдэж байсан Claude Data хэрэгсэл нь мөн өргөн хүрээнд нээгдэж, хэрэглэгчдэд компаниасаа өгөгдөл шүүж тайлан гаргах боломжийг олгож байна. Adobe, Atlassian, HubSpot зэрэг түншүүдийн аппликейшнуудыг Claude дотроос шууд ашиглах интерактив холбогчдыг мөн өргөжүүлжээ.\n\nЭнэхүү шинэчлэлт нь код бичих явцыг хурдасгадаг байсан Claude-ийг оффисын бусад өдөр тутмын ажилд бүрэн нэвтрүүлэх алхам болж байна. Хөгжүүлэгчид болон багууд хамтын ажиллагааны хэрэгслүүд дэх даалгавраа автоматжуулах шинэ боломжтой болж байгаа юм.",
+   "published": "2026-11-10T17:30:06Z",
+   "added": "2026-11-13T01:17:36Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "314303ae2e75548a",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Martin Cid Magazine",
+   "url": "https://www.martincid.com/technology-sv/tech-ai/elon-musk-grok-4-8-c-cpp-rewrite-delay/",
+   "image": "https://images.martincid.com/2026/11/elon-musk-scaled.jpg?f=orig",
+   "title": "Elon Musk says a from-scratch C/C++ rewrite is why Grok 4.8 ran late",
+   "summary_en": "Grok 4.8 has finished pre-training and is in reinforcement learning on homegrown code that replaces JAX and SGLang. A soft rollout to Grok Bot users is due this",
+   "title_mn": "Elon Musk: Grok 4.8 загварын хугацаа хойшлогдсон шалтгаан нь C/C++ хэл рүү шилжсэнтэй холбоотой",
+   "summary_mn": "xAI компани Grok 4.8 загварын өмнөх JAX болон SGLang фрэймворкуудыг хаяж, бүх сургалт болон дүгнэлтийн стекээ C/C++ хэл дээр шинээр бичсэний улмаас хугацаа нь хойшлогджээ. Одоо уг загвар нь RL (Reinforcement Learning) үе шатандаа явж байна.",
+   "body_mn": "Elon Musk-ийн өгсөн мэдээллээр xAI компани Grok 4.8 загварынхаа хөгжүүлэлтийг дуусгах хугацааг хойшлуулсан шалтгаан нь программ хангамжийн суурь стекээ бүрэн шинэчилсэнтэй холбоотой аж. Баг нь өмнө нь ашиглаж байсан Python дээр суурилсан JAX болон SGLang гэх мэт гуравдагч талын нээлттэй эх сурвалжийн фрэймворкуудыг орхиж, бүх сургалт (training) болон дүгнэлтийн (inference) стекээ C/C++ дээр эхнээс нь шинээр бичжээ.\n\nШинэ код нь SpaceX-ийн Starlink төслийн инженерүүдийн бичсэн программ дээр үндэслэсэн бөгөөд Nvidia-ийн GB300 чипүүдийн кластерт шууд зохицон ажиллахаар оновчлогдсон байна. Supervised fine-tuning (SFT) өгөгдлийг цэвэрлэж дууссаны дараа уг загвар одоо Reinforcement Learning (RL) үе шатанд шилжиж, үнэлгээний үзүүлэлтүүд нь өссөөр байгаа аж.\n\nЭнэхүү өөрчлөлт нь хөгжүүлэгчид болон инженерүүдийн хувьд дэд бүтцийн хяналтыг өөрсдөдөө бүрэн авах, техник хангамжийн түвшинд гүйцэтгэлийг эрс сайжруулах зорилготой техникийн чухал алхам юм. Гэсэн хэдий ч гуравдагч талын нийтлэг сангүйгээр бүх алдааг өөрсдөө засварлах шаардлагатай болж байгаа нь тодорхой эрсдэл дагуулж байна.",
+   "published": "2026-11-10T17:41:05Z",
+   "added": "2026-11-13T01:17:36Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "5f50657e793b69be",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Yahoo Tech",
+ "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-wants-claude-join-meetings-173006469.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/20c9a07c93b091889eea66b51de0cbdfea3fadd63d8065d7366236fa35528819/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faxios_527%2F63936f35137292da46a1ed0e48cf4333.png",
+ "title": "Anthropic wants Claude to join your meetings",
+ "summary_en": "Anthropic wants its Claude AI assistant to become a participant in your next work meeting, taking notes, answering questions and even starting on assignments while everyone is still on the call.",
+ "title_mn": "Anthropic компани Claude Meetings болон ажлын байрны хэрэгслүүдээ танилцууллаа",
+ "summary_mn": "Anthropic компани Google Meet-д шууд оролцож тэмдэглэл хөтлөх, төлөвлөгөө гаргах чадвартай Claude Meetings хэрэгслийг танилцууллаа. Мөн Claude Whiteboards, Claude Sheets болон интерактив холбогч хэрэгслүүдийг Team, Enterprise хэрэглэгчдэд нээжээ.",
+ "body_mn": "Anthropic компани мэдлэгийн ажилтнууд болон хөгжүүлэгчдийн бүтээмжийг нэмэгдүүлэх зорилготой ажлын байрны шинэ хэрэгслүүдийн багцыг албан ёсоор зарлалаа. Үүний гол цөм нь Claude Meetings бөгөөд Google Meet дуудлагад оролцож, оролцогчдын яриаг сонсон тэмдэглэл хөтлөх, асуултад хариулах, даалгавар болон цагийн хуваарь гаргах чадвартай юм. Энэхүү хэрэгсэл нь Team болон Enterprise хэрэглэгчдэд бета хэлбэрээр нээгдэж байна.\n\nҮүнээс гадна багуудад зориулсан Claude Whiteboards хамтын ажиллагааны самбар, хиймэл оюун ухааны тусламжтайгаар хүснэгт үүсгэх Claude Sheets хэрэгслүүдийг платформдоо нэмжээ. Өмнө нь Claude Dashboards гэгдэж байсан Claude Data хэрэгсэл нь мөн өргөн хүрээнд нээгдэж, хэрэглэгчдэд компаниасаа өгөгдөл шүүж тайлан гаргах боломжийг олгож байна. Adobe, Atlassian, HubSpot зэрэг түншүүдийн аппликейшнуудыг Claude дотроос шууд ашиглах интерактив холбогчдыг мөн өргөжүүлжээ.\n\nЭнэхүү шинэчлэлт нь код бичих явцыг хурдасгадаг байсан Claude-ийг оффисын бусад өдөр тутмын ажилд бүрэн нэвтрүүлэх алхам болж байна. Хөгжүүлэгчид болон багууд хамтын ажиллагааны хэрэгслүүд дэх даалгавраа автоматжуулах шинэ боломжтой болж байгаа юм.",
+ "published": "2026-11-10T17:30:06Z",
+ "added": "2026-11-13T01:17:36Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

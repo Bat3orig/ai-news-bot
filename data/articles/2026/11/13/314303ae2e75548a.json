@@ -1,0 +1,17 @@
+{
+ "id": "314303ae2e75548a",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Martin Cid Magazine",
+ "url": "https://www.martincid.com/technology-sv/tech-ai/elon-musk-grok-4-8-c-cpp-rewrite-delay/",
+ "image": "https://images.martincid.com/2026/11/elon-musk-scaled.jpg?f=orig",
+ "title": "Elon Musk says a from-scratch C/C++ rewrite is why Grok 4.8 ran late",
+ "summary_en": "Grok 4.8 has finished pre-training and is in reinforcement learning on homegrown code that replaces JAX and SGLang. A soft rollout to Grok Bot users is due this",
+ "title_mn": "Elon Musk: Grok 4.8 загварын хугацаа хойшлогдсон шалтгаан нь C/C++ хэл рүү шилжсэнтэй холбоотой",
+ "summary_mn": "xAI компани Grok 4.8 загварын өмнөх JAX болон SGLang фрэймворкуудыг хаяж, бүх сургалт болон дүгнэлтийн стекээ C/C++ хэл дээр шинээр бичсэний улмаас хугацаа нь хойшлогджээ. Одоо уг загвар нь RL (Reinforcement Learning) үе шатандаа явж байна.",
+ "body_mn": "Elon Musk-ийн өгсөн мэдээллээр xAI компани Grok 4.8 загварынхаа хөгжүүлэлтийг дуусгах хугацааг хойшлуулсан шалтгаан нь программ хангамжийн суурь стекээ бүрэн шинэчилсэнтэй холбоотой аж. Баг нь өмнө нь ашиглаж байсан Python дээр суурилсан JAX болон SGLang гэх мэт гуравдагч талын нээлттэй эх сурвалжийн фрэймворкуудыг орхиж, бүх сургалт (training) болон дүгнэлтийн (inference) стекээ C/C++ дээр эхнээс нь шинээр бичжээ.\n\nШинэ код нь SpaceX-ийн Starlink төслийн инженерүүдийн бичсэн программ дээр үндэслэсэн бөгөөд Nvidia-ийн GB300 чипүүдийн кластерт шууд зохицон ажиллахаар оновчлогдсон байна. Supervised fine-tuning (SFT) өгөгдлийг цэвэрлэж дууссаны дараа уг загвар одоо Reinforcement Learning (RL) үе шатанд шилжиж, үнэлгээний үзүүлэлтүүд нь өссөөр байгаа аж.\n\nЭнэхүү өөрчлөлт нь хөгжүүлэгчид болон инженерүүдийн хувьд дэд бүтцийн хяналтыг өөрсдөдөө бүрэн авах, техник хангамжийн түвшинд гүйцэтгэлийг эрс сайжруулах зорилготой техникийн чухал алхам юм. Гэсэн хэдий ч гуравдагч талын нийтлэг сангүйгээр бүх алдааг өөрсдөө засварлах шаардлагатай болж байгаа нь тодорхой эрсдэл дагуулж байна.",
+ "published": "2026-11-10T17:41:05Z",
+ "added": "2026-11-13T01:17:36Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
