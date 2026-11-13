@@ -1,0 +1,17 @@
+{
+ "id": "e09c77a9ac2bb834",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+ "image": "https://github.blog/wp-content/uploads/2026/11/700374691-69ca0c74-ac8e-4638-82f6-46417790e655.png",
+ "title": "Gemini 4 Carbon in GitHub Copilot",
+ "summary_en": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation…",
+ "title_mn": "Gemini 4 Carbon загвар GitHub Copilot-д нэмэгдлээ",
+ "summary_mn": "Google-ийн хамгийн сүүлийн үеийн Gemini 4 Carbon загвар GitHub Copilot-д албан ёсоор ашиглагдаж эхэллээ.",
+ "body_mn": "Google-ийн бүтээсэн Gemini 4 Carbon загвар нь GitHub Copilot дээр бүх нийтийн хэрэглээнд нээлттэй боллоо. Энэхүү загвар нь нарийн төвөгтэй код бичих, агент болон логик боловсруулалтын ажлуудад зориулагдсан ба аюулгүй код генераци хийхэд онцгой анхаарсан байна.\n\nЭнэхүү загвар нь Copilot Pro+, Max, Business болон Enterprise хэрэглэгчдэд ашиглахад бэлэн болсон бөгөөд хэрэглэгчид загвар сонгогч цэснээс сонгох боломжтой. Байгууллагын админууд Copilot тохиргоон дахь бодлогоор дамжуулан хандалтыг удирдах боломжтой юм.\n\nGemini 4 Carbon нь хэрэглээнд суурилсан тооцооллоор үйлчилгээ үзүүлэгчийн жагсаалтын үнээр тооцогдоно. Шинэ загварыг туршиж үзэхээр хөгжүүлэгчид баримт бичигтэй танилцаж эхлэх боломжтой.",
+ "published": "2026-11-10T19:26:51Z",
+ "added": "2026-11-13T08:21:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

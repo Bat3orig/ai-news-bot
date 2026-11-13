@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "7b83d38ee358d0f3",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Anthropic",
-   "url": "https://www.anthropic.com/research/claude-electronics-design",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b953cc611ebe78f0b84e996dd54a614efd38b3f4-2000x1125.jpg",
-   "title": "Claude can design electronic prototypes from start to finish",
-   "summary_en": "We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry.",
-   "title_mn": "Anthropic: Claude загвар цахим төхөөрөмж болон хавтангуудыг бүрэн зохион бүтээх чадвартай боллоо",
-   "summary_mn": "Anthropic компани Diode Computers-тай хамтран шинэ Claude Fable 5.2 загварынхаа тусламжтайгаар цахим самбар, хатуу биет төхөөрөмжүүдийг эхнээс нь дуустал зохион бүтээх туршилт амжилттай болсныг зарлалаа.",
-   "body_mn": "Anthropic компани өөрийн Claude Fable 5.2 загварыг ашиглан электрон төхөөрөмжүүд болон хэвлэмэл хавтангуудыг (PCB) эхнээс нь дуустал зохион бүтээх туршилт хийсэн талаар мэдээллээ. Өмнөх үеийн загварууд энэ тал дээр хязгаарлагдмал боломжтой байсан бол шинэ хувилбар нь геометрийн нарийн төвөгтэй бодлогуудыг шийдвэрлэх чадвартай болжээ.\n\nТуршилтын хүрээнд уг загвар нь чанга яригч, дуут туслахын төхөөрөмж, болон гар удирдлагатай виртуал тэжээвэр амьтан гэсэн гурван төхөөрөмжийн схем зураг, компонент байрлуулалт, зэс холболтын замнал, 3D загварчлал болон програм хангамжийн фирмвэрийг бүрэн бичсэн байна. Инженерүүд Claude-ийн зааврын дагуу эдгээр төхөөрөмжүүдийг бодитоор угсарч ажиллуулсан бөгөөд хэлхээнд ямар нэгэн засвар хийх шаардлагагүйгээр хэвийн ажиллажээ.\n\nЭнэхүү дэвшил нь хиймэл оюун ухаан зөвхөн код бичих болон текст боловсруулахаас гадна физик төхөөрөмж зохион бүтээх, үйлдвэрлэлийн хязгаарлалтыг тооцоолох түвшинд хүрснийг харуулж байна. Хөгжүүлэгчид болон инженерүүдийн хувьд энэ нь аппарат хангамжийн загварчлалын процессыг эрс хурдасгах боломжийг олгож байна.",
-   "published": "2026-11-09T18:58:57Z",
-   "added": "2026-11-11T08:41:23Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "caa9073cefb43725",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "image": "",
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "summary_en": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-   "title_mn": "ChatGPT Enterprise AWS Marketplace дээр албан ёсоор гарлаа",
-   "summary_mn": "ChatGPT Enterprise одоо AWS Marketplace дээр худалдаалагдаж эхэлсэн бөгөөд байгууллагууд AWS-ийн худалдан авалтын системээр дамжуулан хялбар байдлаар авах боломжтой болжээ.",
-   "body_mn": "OpenAI компани өөрийн бизнес болон байгууллагын хэрэглэгчдэд зориулсан ChatGPT Enterprise үйлчилгээгээ AWS Marketplace платформ дээр байршуулснаа зарлалаа. Энэхүү алхам нь байгууллагуудад AWS-ийн худалдан авалтын болон тооцооны системийг ашиглан худалдан авалтаа хялбаршуулах боломжийг олгож байна.\n\nAWS Marketplace дээр гарсанаар компаниуд өөрсдийн өмнөх AWS гэрээ болон төлбөрийн сувгуудаа ашиглан ChatGPT Enterprise үйлчилгээг шууд нэгтгэх боломжтой болж байна. Энэ нь корпорацийн түвшний худалдан авалтын процессор болон IT менежерүүдэд үйлчилгээг авахад илүү дөхөм болж буй чухал шийдвэр юм.\n\nOpenAI болон үүлэн тооцооллынмонополуудын хамтын ажиллагаа өргөжиж байгаагийн нэг илрэл энэ бөгөөд байгууллагын хэрэглэгчдэд зориулсан аюулгүй байдал, өгөгдлийн нууцлалын стандартыг хангасан хиймэл оюун ухааны хэрэгслийг зах зээлд илүү хүртээмжтэй болгож байна.",
-   "published": "2026-11-09T19:00:00Z",
-   "added": "2026-11-11T08:41:23Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "983352b040d4db0c",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.321",
-   "image": "https://opengraph.githubassets.com/85f2b1107bb6950f8a3ead18ca0274fe284bf439f13a70dfcab92d2ca3572eac/anthropics/claude-code/releases/tag/v2.1.321",
-   "title": "claude-code v2.1.321",
-   "summary_en": "What's changed Added Claude Fable 5.2 ( claude-fable-5-2 ), now the default Fable model — 1M context, $8/$40 per Mtok with $0.20/Mtok cache reads Added --settings <file> to claude remote-control , which applies a settings file to every session it starts; if the file changes, no new session starts until you restart claude remote-control Fixed MCP OAuth requests sending secrets such as refresh tokens to another host when a server redirected them Fixed a case where a read-only Bash command ran outside the sandbox without a permission prompt Fixed a case where Bash permission checks judged a…",
-   "title_mn": "claude-code v2.1.321 хувилбар гарч, Claude Fable 5.2 загварыг үндсэн болголоо",
-   "summary_mn": "Claude Code хэрэгслийн шинэ шинэчлэлтээр Claude Fable 5.2 загвар үндсэн болж нэмэгдсэн ба олон төрлийн алдаа засвар, сайжруулалтууд хийгджээ.",
-   "body_mn": "Anthropic компаниас хөгжүүлдэг Claude Code команд мөрний хэрэгслийн v2.1.321 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтийн хамгийн гол өөрчлөлт нь Claude Fable 5.2 (claude-fable-5-2) загварыг үндсэн Fable загвараар сонгож, 1 сая токенийн контекст болон санах ойн уншилтын хямд үнийн бодлогыг нэвтрүүлсэн явдал юм.\n\nМөн шинэ хувилбарт --settings <file> тохиргооны нэмэлт орж ирснээр алсын удирдлагын сесс бүрт тохиргооны файлыг автоматаар ашиглах боломжтой болсон. Үүнээс гадна MCP OAuth хүсэлтүүд болон Bash командуудын сандрын аюулгүй байдалтай холбоотой зарим чухал алдаануудыг засварлажээ.\n\nWindows үйлдлийн систем дэх файлын өөрчлөлтийг хянах hooks ажиллагаа, санах ойн тооцоолол болон олон төрлийн фолдерын ажлын урсгал дахь алдаануудыг зассан байна. Хөгжүүлэгчид энэхүү шинэ хувилбарыг ашигласнаар илүү хурдан бөгөөд найдвартай байдлаар хиймэл оюун ухааны тусламжтайгаар код бичих орчныг бүрдүүлэх боломжтой боллоо.",
-   "published": "2026-11-09T19:22:30Z",
-   "added": "2026-11-11T08:41:23Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a5f8a40050a3a9f7",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
-   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-   "summary_en": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-   "title_mn": "Anthropic шинэ Mythos 5.2 болон Fable 5.2 загваруудаа танилцууллаа",
-   "summary_mn": "Anthropic компани код бичих, логик сэтгэлгээ болон дүрс боловсруулах чадвараараа илүү сайжирсан Mythos 5.2 болон Fable 5.2 загваруудаа худалдаанд гаргалаа.",
-   "body_mn": "Anthropic компани өөрийн хамгийн дэвшилтэт хиймэл оюун ухааны загварууд болох Mythos 5.2 болон Fable 5.2 хувилбаруудыг албан ёсоор танилцууллаа. Шинэ загварууд нь код бичих, логик үндэслэл гаргах болон визуал чадваруудаараа өмнөх хувилбаруудаасаа эрс сайжирсан бөгөөд хэрэглэгчидтэй илүү тодорхой харилцах чадвартай болжээ.\n\nКомпани Fable загварынхаа үнийг нэг сая оролтын токенийн хувьд 10 доллараас 8 доллар болгон бууруулсан нь зах зээл дэх гол өрсөлдөгчдийн бүтээгдэхүүнүүдтэй харьцуулахад үнийн хувьд илүү өрсөлдөхүйц болгож байна. Түүнчлэн шинэ загвар нь хариу өгөх хурдыг 30 хувиар сайжруулсан бөгөөд enterprise хэрэглэгчдэд зориулсан zero data retention (ZDR) бодлогыг бүрэн дэмждэг байна.\n\nЭнэхүү шинэчлэл нь Anthropic компанийн хувьд хиймэл оюун ухааны хөгжүүлэлтийн хурдац болон аюулгүй байдлын үнэлгээг шинэ түвшинд гаргаж буй чухал үйл явдал болж байна. Загварууд нь онолын физик болон математикийн нээлтүүдэд амжилттай туршигдсан бөгөөд инженерүүд болон судлаачдад өргөн боломжийг олгож байна.",
-   "published": "2026-11-09T19:24:51Z",
-   "added": "2026-11-11T08:41:23Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8827aad4505e69ef",
-   "subtopic": "gemini",
-   "source": "Google DeepMind",
-   "source_label": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-   "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w1200-h630-n-nu-rw",
-   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-   "summary_en": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-   "title_mn": "Google DeepMind Gemini Robotics 2.5 загvurtéo танилцууллаа",
-   "summary_mn": "Google DeepMind компани роботын чадварыг бодит амьдралд түргэн сургах чадвартай Gemini Robotics 2.5 загvurtéo танилцууллаа. Энэхүү загвар нь даалгаврын нарийвчлалыг 30-100% сайжруулж, хурдыг 20-30% нэмэгдүүлжээ.",
-   "body_mn": "Google DeepMind компани роботын физик оюун ухааныг шинэ түвшинд гаргах Gemini Robotics 2.5 загvurtéo албан ёсоор танилцууллаа. Энэхүү загвар нь роботуудад өдөр тутмын энгийн ур чадвараас эхлээд үйлдвэрийн дамжлага хүртэл олон төрлийн даалгаврыг илүү хурдан бөгөөд аюулгүйгээр гүйцэтгэх боломжийг олгодог.\n\nШинэ хувилбар нь даалгаврын цар хүрээ, гүйцэтгэл, нарийн төвөгтэй байдлаар 200 гаруй ялгаатай даалгаврууд дээр туршигдсан бөгөөд хоол зөөх, бэлэг боох зэрэг нарийн манипуляци шаардсан ажлуудыг өндөр нарийвчлалтайгаар хийдэг. Өмнөх загваруудтай харьцуулахад амжилтын хувь 30-аас 100 хувиар өсөж, гүйцэтгэх хугацаа 20-30 хувиар хурдассан байна.\n\nDeepMind энэхүү загвараа Apptronik болон Mercedes-Benz компаниудтай хамтран Унгар, Герман дахь авто машин үйлдвэрлэлийн шугам дээр Apollo 2 хүн дүрст роботуудад амжилттай туршиж үзжээ. Роботууд авто машины эд ангиудыг ялгах даалгаврыг 96 хувийн амжилттайгаар бие даан гүйцэтгэсэн нь үйлдвэрлэлийн салбарт бодит хэрэглээ болон нэвтрэхэд томоохон алхам болж байна.",
-   "published": "2026-11-09T19:51:47Z",
-   "added": "2026-11-11T08:41:23Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c3e83f52babd6034",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "CRN",
-   "url": "https://www.crn.com/news/networking/2026/cisco-puts-anthropic-s-claude-mythos-behind-ai-defense-red-teaming",
-   "image": "https://www.crn.com/news/networking/2026/media_118f15189c56fbe40704d0d5bd480b4adfe389282.jpg?width=1200&format=pjpg&optimize=medium",
-   "title": "Cisco Puts Anthropic’s Claude Mythos Behind AI Defense Red Teaming",
-   "summary_en": "Cisco AI Defense is one of the first AI security products to add Anthropic’s Claude Mythos to its adaptive red teaming engine. Cisco’s DJ Sampath tells CRN why partners can use it to red team every client environment deploying AI agents.",
-   "title_mn": "Cisco AI Defense системд Anthropic-ийн Claude Mythos загварыг нэгтгэв",
-   "summary_mn": "Cisco компани хиймэл оюуны хамгаалалтын AI Defense бүтээгдэхүүндээ Anthropic-ийн Claude Mythos загварыг нэвтрүүлж эхэлжээ. Энэ нь агентуудыг аюулгүй болгох чиглэлээр крас тийминг хийхэд чухал үүрэг гүйцэтгэнэ.",
-   "body_mn": "Cisco компани Австралийн Мельбурн хотод болсон Cisco Live APJC арга хэмжээний үеэр өөрийн AI Defense бүтээгдэхүүндээ Anthropic-ийн Claude Mythos загварыг ашиглахаа зарлалаа. Энэхүү алхам нь хиймэл оюуны агентууд болон аппликейшнуудыг хамгаалах салбарт чухал шинэчлэл болж байна.\n\nAI Defense хэрэгсэл нь аж ахуйн нэгжүүдийг өгөгдлийн алдагдлаас хамгаалах, AI хэрэгслийн зохисгүй хэрэглээг хянах зорилготой юм. Уламжлалт стандарт сорилтуудаас гадна хэрэглэгчид өөрсдийн хүссэн шалгуураа энгийн хэлээр тодорхойлон олон шатлалт дайралтыг шалгах адаптив крас тийминг хийх боломжтой болж байна. Claude Mythos загвар нь энэхүү системд довтлогчийн түвшний сэтгэлгээг нэмж өгдөг.\n\nCisco компани Claude Mythos загварыг хамгаалагдсан санах ойн буюу сэндбокст ажиллуулж, бүрэн хяналт болон аудитын боломжийг бүрдүүлжээ. Мөн уг систем нь Amazon Bedrock болон Amazon CloudWatch-ийг дэмждэг болсноор хэрэглэгчид болон түншүүд токен зарцуулалт болон хөрөнгө оруулалтын үр өгөөжөө нэг хяналтын самбараас харах боломжтой болсон байна.",
-   "published": "2026-11-09T20:00:00Z",
-   "added": "2026-11-11T08:41:23Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "eba80179d4566fb2",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Amazon Web Services (AWS)",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
-   "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/09/ML-22025-featured-image.png",
-   "title": "Introducing Claude Fable 5.2 on AWS | Amazon Web Services",
-   "summary_en": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
-   "title_mn": "Anthropic-ийн Claude Fable 5.2 болон Mythos 5.2 загварууд AWS Bedrock дээр гарлаа",
-   "summary_mn": "Anthropic компани програмчлал болон шинжлэх ухааны нарийн төвөгтэй ажлуудад зориулсан Claude Fable 5.2 болон Claude Mythos 5.2 загваруудыг Amazon Bedrock дээр албан ёсоор гаргалаа. Эдгээр загвар нь олон цагаар бие даан ажиллаж, өөрийн алдааг засварлах чадвартай.",
-   "body_mn": "Amazon Web Services (AWS) болон Anthropic компаниуд хамтран Claude Fable 5.2 болон Claude Mythos 5.2 загваруудыг Amazon Bedrock болон AWS орчинд ашиглах боломжтой болсныг зарлалаа. Claude Fable 5.2 нь програмчлал, математик, шинжлэх ухааны нарийн төвөгтэй асуудлуудыг шийдвэрлэхэд чиглэсэн хамгийн өндөр чадвартай загвар юм.\n\nFable 5.2 нь олон алхамт ажлыг бие даан гүйцэтгэх, гарсан алдаагаа өөрөө шалгаж засах, хэдэн цаг эсвэл өдрөөр ч тасалдалгүй ажиллах чадвартай аж. Мөн энэхүү загвар нь Anthropic-ийн туршилтаар өмнөх хувилбаруудаас илүү найдвартай ажиллаж, хийсвэрлэл бага гаргадаг болох нь тогтоогджээ. Кибер аюулгүй байдал болон амь шинжлэх ухааны салбарт зориулсан Claude Mythos 5.2 загварыг тусгай баталгаажуулалтын хөтөлбөрөөр дамжуулан ашиглах боломжтой.\n\nAWS дээр хөгжүүлэгчид Claude Fable 5.2 загварыг Amazon Bedrock болон Anthropic Messages API ашиглан программын коддоо хялбархан холбох боломжтой. Мөн AWS SDK болон AWS CLI ашиглан хөгжүүлэлт хийх боломжтой бөгөөд Enterprise Frontier Safeguards (EFS) болон дата хадгалалтын тохиргоогоор дамжуулан мэдээллийн аюулгүй байдлыг хангах нөхцөлийг бүрдүүлжээ.",
-   "published": "2026-11-09T20:04:37Z",
-   "added": "2026-11-11T08:41:23Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ae94fa2d4f64ad42",
-   "subtopic": "nextjs",
-   "source": "vercel/next.js",
-   "source_label": "vercel/next.js",
-   "url": "https://github.com/vercel/next.js/releases/tag/v16.4.6",
-   "image": "https://opengraph.githubassets.com/8da8aa645fca8c27f1743ebe87f2b52b6f3406ca23f4db50290cfaa07b4b6c9f/vercel/next.js/releases/tag/v16.4.6",
-   "title": "next.js v16.4.6",
-   "summary_en": "Note This release is backporting bug fixes. It does not include all pending features/changes on canary. Core Changes [lts-active] Pin Tailwind to 4.3.3 in create-next-app and tests ( #101061 , #101176 ) ( #101307 ) [lts-active] Automatically compress route handler responses if not already compressed ( #101280 ) [lts-active] Turbopack GC fixes for dev ( #100279 , #100370 ) ( #101308 ) Credits Huge thanks to @lukesandberg and @eps1lon for helping!",
-   "title_mn": "Next.js v16.4.6 хувилбар гарлаа: Tailwind 4.3.3 тогтоож, route handler хариултыг автоматаар шахна",
-   "summary_mn": "Next.js v16.4.6 нь баг засварын backport хувилбар юм. create-next-app болон тестүүдэд Tailwind 4.3.3 хувилбарыг тогтоож, route handler-ийн хариултыг автоматаар шахах болсон. Turbopack-ийн dev горимын GC асуудлуудыг мөн засжээ.",
-   "body_mn": "Next.js v16.4.6 хувилбар нь canary дээр бэлэн болсон бүх функцийг агуулаагүй, харин LTS дээр идэвхтэй байгаа засваруудыг багтаасан backport хувилбар юм.\n\nГол өөрчлөлтүүд нь create-next-app болон тестийн орчинд Tailwind CSS-ийг 4.3.3 хувилбарт тогтоох, мөн route handler-ийн хариултуудыг хэрэв өмнө нь шахагдаагүй бол автоматаар шахах явдал юм. Мөн Turbopack-ийн dev горимд хамаарах хэрэглээний санах ойн цуглуулагчийн (GC) хоёр асуудлыг засжээ.\n\nХөгжүүлэгчдэд энэ нь ялангуяа LTS хувилбар ашиглагчдад хамаатай. Route handler-ийн автомат шахалт API-ийн хариултын хэмжээг бууруулах боломжтой ч, хэрэв таны хариулт аль хэдийн шахагдсан бол өөрчлөлт гарахгүй. Upgrade хийхээсээ өмнө changelog-оо шалгаарай.",
-   "published": "2026-11-09T20:27:17Z",
-   "added": "2026-11-11T16:48:19Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "014c73a59fcce634",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Interesting Engineering",
-   "url": "https://interestingengineering.com/ai-robotics/anthropic-claude-fable-5-2-operating-system",
-   "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-design-2026-11-10T014425.857.jpg",
-   "title": "Claude Fable 5.2 builds a working operating system with 1,000 agents in eight days",
-   "summary_en": "Anthropic is giving Claude increasingly difficult engineering assignments, and its latest models are delivering some remarkable results.",
-   "title_mn": "Claude Fable 5.2 найман хоногт 1000 агентаар ажлын үйлдлийн систем бүтээжээ",
-   "summary_mn": "Anthropic-ийн Claude Fable 5.2 загвар 1000 гаруй агентыг удирдан найман хоногт ажиллагаатай үйлдлийн систем бүтээжээ. Мөн RoboDojo бенчмарк дээр 64.9% амжилт үзүүлсэн гэж мэдээлжээ.",
-   "body_mn": "Anthropic-ийн шинэ Claude Fable 5.2 болон Claude Mythos 5.2 загварууд программ хангамж, робот техник, математик зэрэг хүнд даалгаврыг шийдэх зорилготой гарсан. Туршилтын үеэр Fable 5.2 нь 1000 гаруй дэд агентыг удирдан найман хоногийн турш үйлдлийн систем бүтээжээ.\n\nЭнэ системд өөрийн kernel, төхөөрөмжийн драйвер, байнгын файл хадгалалт, график интерфэйс, нэвтрэх дэлгэц, суулгагч болон Claude-ийн суурилсан функц багтсан гэж мэдээлсэн. Систем нь лаптоп дээр ачаалагдаж ажилласан гэнэ. Мөн загвар гурван электрон төхөөрөмжийн дизайныг гаргаж, хэвлэмэл самбарыг нэг өдрөөс бага хугацаанд үйлдвэрлэхэд бэлэн болгожээ.\n\nRoboDojo робот бенчмарк дээр Fable 5.2 нь 64.9% амжилт үзүүлсэн бөгөөд Fable 5.1-ийн 27.6%-аас нэлээд өссөн байна. Mythos 5.2 нь CVE Rediscovery үнэлгээнд 89.6% оноо авсан гэж мэдээлсэн. Эдгээр нь үнэлгээний үр дүн бөгөөд бодит ажлын чанарыг шууд илэрхийлэхгүй тул хөгжүүлэгчид өөрсдийн ажлын урсгал дээр туршиж үзэх нь зүйтэй.",
-   "published": "2026-11-09T20:42:00Z",
-   "added": "2026-11-11T16:48:19Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "756b395aedd8b82e",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-sandbox-snapshot-creation-is-now-up-to-10x-faster",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3Kx2eGDsv1d8kbZCKHFjvw/b18f48c92a064439ab18337f71949dbc/image__70_.png",
-   "title": "Vercel Sandbox snapshot creation is now up to 10x faster",
-   "summary_en": "Vercel Sandbox now creates snapshots up to 10x faster. Median time to snapshot is under 0.4 seconds, down from 4.4 seconds. Snapshot restore speed has also improved by 50% from 500ms to 250ms at p50. Snapshots are now able to write and restore by re-using frames within the Vercel Hive Snapshot (VHS) format. VHS now indexes data in a more efficient way which means that more read and write operations can be done in parallel. Snapshots can now restore more of your Sandbox base image in parallel with user data, leading to overall faster operations. Persistent sandboxes, the default, snapshot…",
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-09T21:00:00Z",
-   "added": "2026-11-11T16:48:19Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "4f95a9a7722c6f04",
    "subtopic": "design-systems",
    "source": "Figma Blog",
@@ -717,6 +517,126 @@
    "added": "2026-11-13T01:17:36Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c0101f36ad82bf91",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27_Hero_2784x156.width-1300.jpg",
+   "title": "Gemini Intelligence: New features, on more devices",
+   "summary_en": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+   "title_mn": "Google Gemini Intelligence шинэ төхөөрөмжүүд болон боломжуудаар өргөжлөв",
+   "summary_mn": "Gemini Intelligence шинэ төхөөрөмжүүдэд нэвтэрч, Create My Widget болон Task Automation зэрэг шинэ боломжуудыг нэмлээ.",
+   "body_mn": "Google компани Gemini Intelligence системээ Pixel 10 цуврал болон Motorola-ийн шинэ төхөөрөмжүүдэд албан ёсоор нэвтрүүлж эхэлснийг зарлалаа. Шинэчлэлтийн хүрээнд дуу хоолойгоор тэмдэглэл хөтлөх Rambler 4 үйлчилгээ болон Task automation боломжууд олон улсад өргөжиж байна.\n\nМөн хэрэглэгч өөрийн хүссэн дата болон виджетийг энгийн тайлбараар үүсгэх Create My Widget боломж удахгүй нээгдэнэ. Энэ нь Gmail, Calendar зэрэг апп-уудаас мэдээлэл татаж, үндсэн дэлгэц болон Pixel Watch дээр харуулах юм.\n\nТүүнчлэн Android Auto дээр ухаалаг сануулга өгөх функц нэмэгдэж байгаа нь хэрэглэгчдэд өдөр тутмын ажлаа илүү хялбар удирдах боломжийг олгоно.",
+   "published": "2026-11-10T19:00:00Z",
+   "added": "2026-11-13T08:21:30Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e09c77a9ac2bb834",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "image": "https://github.blog/wp-content/uploads/2026/11/700374691-69ca0c74-ac8e-4638-82f6-46417790e655.png",
+   "title": "Gemini 4 Carbon in GitHub Copilot",
+   "summary_en": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation…",
+   "title_mn": "Gemini 4 Carbon загвар GitHub Copilot-д нэмэгдлээ",
+   "summary_mn": "Google-ийн хамгийн сүүлийн үеийн Gemini 4 Carbon загвар GitHub Copilot-д албан ёсоор ашиглагдаж эхэллээ.",
+   "body_mn": "Google-ийн бүтээсэн Gemini 4 Carbon загвар нь GitHub Copilot дээр бүх нийтийн хэрэглээнд нээлттэй боллоо. Энэхүү загвар нь нарийн төвөгтэй код бичих, агент болон логик боловсруулалтын ажлуудад зориулагдсан ба аюулгүй код генераци хийхэд онцгой анхаарсан байна.\n\nЭнэхүү загвар нь Copilot Pro+, Max, Business болон Enterprise хэрэглэгчдэд ашиглахад бэлэн болсон бөгөөд хэрэглэгчид загвар сонгогч цэснээс сонгох боломжтой. Байгууллагын админууд Copilot тохиргоон дахь бодлогоор дамжуулан хандалтыг удирдах боломжтой юм.\n\nGemini 4 Carbon нь хэрэглээнд суурилсан тооцооллоор үйлчилгээ үзүүлэгчийн жагсаалтын үнээр тооцогдоно. Шинэ загварыг туршиж үзэхээр хөгжүүлэгчид баримт бичигтэй танилцаж эхлэх боломжтой.",
+   "published": "2026-11-10T19:26:51Z",
+   "added": "2026-11-13T08:21:30Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ecb076ca2320dc76",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Decoder",
+   "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/09/claude_code_logo.png",
+   "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+   "summary_en": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take notes, is coming soon. Step by step, Anthropic is turning Claude into a central work platform for teams that brings many other apps together in one place.",
+   "title_mn": "Anthropic Claude-д Sheets, Whiteboards болон Plugins нэмлээ",
+   "summary_mn": "Anthropic компани Claude-д хүснэгт, самбар, платформ хоорондын холболтууд болон Meeting notes хэрэгслүүдийг нэмж байна.",
+   "body_mn": "Anthropic компани Claude аппликейшнийг бүтээмжийн бүрэн хэмжээний орчин болгох үүднээс олон шинэ хамтын ажиллагааны боломжуудыг нэмж байгаагаа зарлалаа. Тухайлбал, Claude Sheets нь багуудад хиймэл оюун ухааны тусламжтайгаар хүснэгт үүсгэх, засварлах боломжийг олгох бөгөөд Claude Whiteboards нь санаа бодлоо нэгтгэхэд туслах ажээ.\n\nМөн хуучин Dashboards гэгдэж байсан Claude Data нь Snowflake болон Salesforce зэрэг хэрэгслүүдтэй холбогдож дата дүрслэл үүсгэх юм. Үүнээс гадна Adobe, Atlassian зэрэг түншүүдийн аппликейшнүүдийг Claude дотор шууд суулгах Interactive Connectors болон хурал тэмдэглэх Claude Meetings хэрэгслүүд удахгүй нээгдэнэ.\n\nБайгууллагын хэрэглэгчдэд зориулж аудитын лог, тусгаарлагдсан виртуал машин болон compliance API зэрэг аюулгүй байдлын хяналтуудыг мөн хангажээ.",
+   "published": "2026-11-10T19:52:18Z",
+   "added": "2026-11-13T08:21:30Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f9967ffd557c781e",
+   "subtopic": "vibe-coding",
+   "source": "Builder.io Blog",
+   "source_label": "Builder.io Blog",
+   "url": "https://www.builder.io/blog/ai-agent-frameworks",
+   "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F46bc722aae0b4726b1fb9749fb03626a?width=1200",
+   "title": "10 Best AI Agent Frameworks in 2026",
+   "summary_en": "Compare the 10 best AI agent frameworks in 2026 by use case, language, features, and trade-offs. Find the right framework for your AI agent.",
+   "title_mn": "2026 оны шилдэг 10 AI Agent фрэймворк",
+   "summary_mn": "Хөгжүүлэгчдэд зориулсан Agent фрэймворкуудын тойм гарч, Agent-Native, LangGraph, Mastra зэрэг хэрэгслүүдийг онцоллоо.",
+   "body_mn": "Хөгжүүлэгчдийн дунд AI агентуудын хэрэглээ өнгөрсөн жилийн хугацаанд бараг хоёр дахин өсч, судалгаанд оролцогчдын 90% нь агентуудад дата бичих эрх олгож байгаа ажээ. AI агент бүтээхэд туслах хэрэгслүүдээс дараах фрэймворкууд онцгой анхаарал татаж байна.\n\nAgent-Native бол TypeScript хөгжүүлэгчдэд зориулсан нээлттэй эх сурвалжтай фрэймворк бөгөөд хэрэглэгч болон агент нэг UI дээр хамтран ажиллах боломжийг олгодог. LangGraph нь олон алхамт, баталгаажуулалт шаардсан ажлын урсгалыг графи хэлбэрээр зурах боломжийг олгодог бол Mastra нь агентууд, санах ой болон үнэлгээг нэг багцад багтаасан TypeScript бэкенд юм.\n\nМөн OpenAI Agents SDK болон Claude Agent SDK зэрэг албан ёсны хэрэгслүүд хөгжүүлэгчдэд өөрийн бүтээгдэхүүнд агент нэгтгэх, даалгавар хуваарилах, хамгаалалтын хязгаар тогтоох өргөн боломжийг олгож байна. Хөгжүүлэгчид төслийн онцлогоос хамааран өөрт тохирох фрэймворкийг сонгож ашиглах боломжтой.",
+   "published": "2026-11-10T20:18:55Z",
+   "added": "2026-11-13T08:21:30Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cb2764737aa75116",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Ars Technica",
+   "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+   "summary_en": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+   "title_mn": "Grok Build агент нууц мэдээлэл болон SpaceXSI-ийн дата алдагдуулжээ",
+   "summary_mn": "xAI болон SpaceX-ийн нэгдсэн Grok Build платформын хэрэглэгчдийн хуваалцсан аппликейшнүүдийн линкээр дамжин нууц мэдээллүүд алдагджээ.",
+   "body_mn": "Аюулгүй байдлын Claroc фирмийн судалгаагаар xAI болон SpaceX-ийн нэгдсэн SpaceXSI компанийн Grok Build вибе-кодинг агентаар бүтээгдсэн аппликейшнүүдээс нууц мэдээлэл алдагдсан болохыг тогтоожээ. Уг платформ нь хэрэглэгчдэд бүтээсэн аппаа бусадтай хуваалцах зорилгоор санамсаргүй үгс бүхий URL линк үүсгэдэг боловч дизайны алдаанаас болж хэн дуртай нь идэвхтэй төслүүдийг жагсааж үзэх боломжтой байжээ.\n\nАлдагдсан мэдээллүүдийн дунд дотоод бизнес төлөвлөгөө, зар сурталчилгааны санал, ажилчдын нэр болон ID дугаар зэрэг нууц баримтууд багтсан байна. Хамгийн сонирхолтой нь SpaceXSI компанийн өөрийнх нь борлуулалтын багийн нууц төлөвлөгөө, газарзүйн бүсчлэлийн зураг зэрэг 24 аппын дата мөн ил гарсан байжээ.\n\nClaroc компани энэ тухай мэдээлсний дараа SpaceXSI холбогдох линкүүдийг устгаж алдааг засварласан байна. Энэ нь хиймэл оюун ухаанаар хурдан программ бүтээх үед хандалтын хяналт болон аюулгүй байдлыг сайтар анхаарах шаардлагатайг харуулсан чухал сануулга боллоо.",
+   "published": "2026-11-10T21:12:59Z",
+   "added": "2026-11-13T08:21:30Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9901e0cbe3f763e4",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0",
+   "image": "https://opengraph.githubassets.com/bcd5e59967a2f73bf3eacb4befa089decef79e0d5676a5b102123b734e534286/ollama/ollama/releases/tag/v0.40.17-rc0",
+   "title": "ollama v0.40.17",
+   "summary_en": "What's Changed Improve ChatGPT CLI restore and graceful restart by @hoyyeva in #19583 cmd/launch: use thinking metadata for OpenCode settings by @hoyyeva in #19409 llm: use mmap for Vulkan integrated GPUs by @dhiltgen in #19640 rpreslar4765/Ollama by @rpreslar4765 in #17163 mlx: support concurrent generation by @dhiltgen in #19197 llama.cpp: version bump b12257 by @dhiltgen in #19646 MLX, MLX-C: version bump by @dhiltgen in #19647 New Contributors @rpreslar4765 made their first contribution in #17163 Full Changelog : v0.40.16...v0.40.17-rc0",
+   "title_mn": "Ollama v0.40.17 huwilbar garlaa",
+   "summary_mn": "Ollama v0.40.17 huwilbar ni ChatGPT CLI sergeeh, Vulkan bolon MLX-tei holbootoi shinechleluudtei garlaa.",
+   "body_mn": "Ollama tool-iin v0.40.17 huwilbar gargasan ba negdsen Vulkan GPU-d zoriulsan mmap ashiglah, MLX-iin zereg zereg ajillahiig demjih zereg buten uurchlultuud hiigdjee.\n\nMun llama.cpp bolon MLX-C versiig shiinuulsen ba niithel coderuud bolon local LLM ashiglagchdiin huvid ajillagaanii hurd, togtwortoi baidliig saijruulna.\n\nEnehuu shinechlel ni local hardware deer model ajilluulj bui hugjuululegchded asuudal shiideh bolon chadavhiig nemeh ashigtai bolovsruulalt bolson baina.",
+   "published": "2026-11-10T22:25:00Z",
+   "added": "2026-11-13T08:21:30Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
   }
  }
 ]

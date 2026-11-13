@@ -1,0 +1,17 @@
+{
+ "id": "ecb076ca2320dc76",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Decoder",
+ "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+ "image": "https://the-decoder.com/wp-content/uploads/2026/09/claude_code_logo.png",
+ "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+ "summary_en": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take notes, is coming soon. Step by step, Anthropic is turning Claude into a central work platform for teams that brings many other apps together in one place.",
+ "title_mn": "Anthropic Claude-д Sheets, Whiteboards болон Plugins нэмлээ",
+ "summary_mn": "Anthropic компани Claude-д хүснэгт, самбар, платформ хоорондын холболтууд болон Meeting notes хэрэгслүүдийг нэмж байна.",
+ "body_mn": "Anthropic компани Claude аппликейшнийг бүтээмжийн бүрэн хэмжээний орчин болгох үүднээс олон шинэ хамтын ажиллагааны боломжуудыг нэмж байгаагаа зарлалаа. Тухайлбал, Claude Sheets нь багуудад хиймэл оюун ухааны тусламжтайгаар хүснэгт үүсгэх, засварлах боломжийг олгох бөгөөд Claude Whiteboards нь санаа бодлоо нэгтгэхэд туслах ажээ.\n\nМөн хуучин Dashboards гэгдэж байсан Claude Data нь Snowflake болон Salesforce зэрэг хэрэгслүүдтэй холбогдож дата дүрслэл үүсгэх юм. Үүнээс гадна Adobe, Atlassian зэрэг түншүүдийн аппликейшнүүдийг Claude дотор шууд суулгах Interactive Connectors болон хурал тэмдэглэх Claude Meetings хэрэгслүүд удахгүй нээгдэнэ.\n\nБайгууллагын хэрэглэгчдэд зориулж аудитын лог, тусгаарлагдсан виртуал машин болон compliance API зэрэг аюулгүй байдлын хяналтуудыг мөн хангажээ.",
+ "published": "2026-11-10T19:52:18Z",
+ "added": "2026-11-13T08:21:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

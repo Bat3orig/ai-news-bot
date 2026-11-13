@@ -1,0 +1,17 @@
+{
+ "id": "c0101f36ad82bf91",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27_Hero_2784x156.width-1300.jpg",
+ "title": "Gemini Intelligence: New features, on more devices",
+ "summary_en": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+ "title_mn": "Google Gemini Intelligence шинэ төхөөрөмжүүд болон боломжуудаар өргөжлөв",
+ "summary_mn": "Gemini Intelligence шинэ төхөөрөмжүүдэд нэвтэрч, Create My Widget болон Task Automation зэрэг шинэ боломжуудыг нэмлээ.",
+ "body_mn": "Google компани Gemini Intelligence системээ Pixel 10 цуврал болон Motorola-ийн шинэ төхөөрөмжүүдэд албан ёсоор нэвтрүүлж эхэлснийг зарлалаа. Шинэчлэлтийн хүрээнд дуу хоолойгоор тэмдэглэл хөтлөх Rambler 4 үйлчилгээ болон Task automation боломжууд олон улсад өргөжиж байна.\n\nМөн хэрэглэгч өөрийн хүссэн дата болон виджетийг энгийн тайлбараар үүсгэх Create My Widget боломж удахгүй нээгдэнэ. Энэ нь Gmail, Calendar зэрэг апп-уудаас мэдээлэл татаж, үндсэн дэлгэц болон Pixel Watch дээр харуулах юм.\n\nТүүнчлэн Android Auto дээр ухаалаг сануулга өгөх функц нэмэгдэж байгаа нь хэрэглэгчдэд өдөр тутмын ажлаа илүү хялбар удирдах боломжийг олгоно.",
+ "published": "2026-11-10T19:00:00Z",
+ "added": "2026-11-13T08:21:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

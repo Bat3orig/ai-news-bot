@@ -1,0 +1,17 @@
+{
+ "id": "cb2764737aa75116",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Ars Technica",
+ "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+ "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+ "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+ "summary_en": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+ "title_mn": "Grok Build агент нууц мэдээлэл болон SpaceXSI-ийн дата алдагдуулжээ",
+ "summary_mn": "xAI болон SpaceX-ийн нэгдсэн Grok Build платформын хэрэглэгчдийн хуваалцсан аппликейшнүүдийн линкээр дамжин нууц мэдээллүүд алдагджээ.",
+ "body_mn": "Аюулгүй байдлын Claroc фирмийн судалгаагаар xAI болон SpaceX-ийн нэгдсэн SpaceXSI компанийн Grok Build вибе-кодинг агентаар бүтээгдсэн аппликейшнүүдээс нууц мэдээлэл алдагдсан болохыг тогтоожээ. Уг платформ нь хэрэглэгчдэд бүтээсэн аппаа бусадтай хуваалцах зорилгоор санамсаргүй үгс бүхий URL линк үүсгэдэг боловч дизайны алдаанаас болж хэн дуртай нь идэвхтэй төслүүдийг жагсааж үзэх боломжтой байжээ.\n\nАлдагдсан мэдээллүүдийн дунд дотоод бизнес төлөвлөгөө, зар сурталчилгааны санал, ажилчдын нэр болон ID дугаар зэрэг нууц баримтууд багтсан байна. Хамгийн сонирхолтой нь SpaceXSI компанийн өөрийнх нь борлуулалтын багийн нууц төлөвлөгөө, газарзүйн бүсчлэлийн зураг зэрэг 24 аппын дата мөн ил гарсан байжээ.\n\nClaroc компани энэ тухай мэдээлсний дараа SpaceXSI холбогдох линкүүдийг устгаж алдааг засварласан байна. Энэ нь хиймэл оюун ухаанаар хурдан программ бүтээх үед хандалтын хяналт болон аюулгүй байдлыг сайтар анхаарах шаардлагатайг харуулсан чухал сануулга боллоо.",
+ "published": "2026-11-10T21:12:59Z",
+ "added": "2026-11-13T08:21:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

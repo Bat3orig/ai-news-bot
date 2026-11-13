@@ -1,0 +1,17 @@
+{
+ "id": "9901e0cbe3f763e4",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0",
+ "image": "https://opengraph.githubassets.com/bcd5e59967a2f73bf3eacb4befa089decef79e0d5676a5b102123b734e534286/ollama/ollama/releases/tag/v0.40.17-rc0",
+ "title": "ollama v0.40.17",
+ "summary_en": "What's Changed Improve ChatGPT CLI restore and graceful restart by @hoyyeva in #19583 cmd/launch: use thinking metadata for OpenCode settings by @hoyyeva in #19409 llm: use mmap for Vulkan integrated GPUs by @dhiltgen in #19640 rpreslar4765/Ollama by @rpreslar4765 in #17163 mlx: support concurrent generation by @dhiltgen in #19197 llama.cpp: version bump b12257 by @dhiltgen in #19646 MLX, MLX-C: version bump by @dhiltgen in #19647 New Contributors @rpreslar4765 made their first contribution in #17163 Full Changelog : v0.40.16...v0.40.17-rc0",
+ "title_mn": "Ollama v0.40.17 huwilbar garlaa",
+ "summary_mn": "Ollama v0.40.17 huwilbar ni ChatGPT CLI sergeeh, Vulkan bolon MLX-tei holbootoi shinechleluudtei garlaa.",
+ "body_mn": "Ollama tool-iin v0.40.17 huwilbar gargasan ba negdsen Vulkan GPU-d zoriulsan mmap ashiglah, MLX-iin zereg zereg ajillahiig demjih zereg buten uurchlultuud hiigdjee.\n\nMun llama.cpp bolon MLX-C versiig shiinuulsen ba niithel coderuud bolon local LLM ashiglagchdiin huvid ajillagaanii hurd, togtwortoi baidliig saijruulna.\n\nEnehuu shinechlel ni local hardware deer model ajilluulj bui hugjuululegchded asuudal shiideh bolon chadavhiig nemeh ashigtai bolovsruulalt bolson baina.",
+ "published": "2026-11-10T22:25:00Z",
+ "added": "2026-11-13T08:21:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

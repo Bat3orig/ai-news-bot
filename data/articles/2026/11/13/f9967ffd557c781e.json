@@ -1,0 +1,17 @@
+{
+ "id": "f9967ffd557c781e",
+ "subtopic": "vibe-coding",
+ "source": "Builder.io Blog",
+ "source_label": "Builder.io Blog",
+ "url": "https://www.builder.io/blog/ai-agent-frameworks",
+ "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F46bc722aae0b4726b1fb9749fb03626a?width=1200",
+ "title": "10 Best AI Agent Frameworks in 2026",
+ "summary_en": "Compare the 10 best AI agent frameworks in 2026 by use case, language, features, and trade-offs. Find the right framework for your AI agent.",
+ "title_mn": "2026 оны шилдэг 10 AI Agent фрэймворк",
+ "summary_mn": "Хөгжүүлэгчдэд зориулсан Agent фрэймворкуудын тойм гарч, Agent-Native, LangGraph, Mastra зэрэг хэрэгслүүдийг онцоллоо.",
+ "body_mn": "Хөгжүүлэгчдийн дунд AI агентуудын хэрэглээ өнгөрсөн жилийн хугацаанд бараг хоёр дахин өсч, судалгаанд оролцогчдын 90% нь агентуудад дата бичих эрх олгож байгаа ажээ. AI агент бүтээхэд туслах хэрэгслүүдээс дараах фрэймворкууд онцгой анхаарал татаж байна.\n\nAgent-Native бол TypeScript хөгжүүлэгчдэд зориулсан нээлттэй эх сурвалжтай фрэймворк бөгөөд хэрэглэгч болон агент нэг UI дээр хамтран ажиллах боломжийг олгодог. LangGraph нь олон алхамт, баталгаажуулалт шаардсан ажлын урсгалыг графи хэлбэрээр зурах боломжийг олгодог бол Mastra нь агентууд, санах ой болон үнэлгээг нэг багцад багтаасан TypeScript бэкенд юм.\n\nМөн OpenAI Agents SDK болон Claude Agent SDK зэрэг албан ёсны хэрэгслүүд хөгжүүлэгчдэд өөрийн бүтээгдэхүүнд агент нэгтгэх, даалгавар хуваарилах, хамгаалалтын хязгаар тогтоох өргөн боломжийг олгож байна. Хөгжүүлэгчид төслийн онцлогоос хамааран өөрт тохирох фрэймворкийг сонгож ашиглах боломжтой.",
+ "published": "2026-11-10T20:18:55Z",
+ "added": "2026-11-13T08:21:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
