@@ -1,0 +1,17 @@
+{
+ "id": "16edd2976ebd2d53",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Amazon Web Services (AWS)",
+ "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
+ "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-22229-featured-image.png",
+ "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock | Amazon Web Services",
+ "summary_en": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching, and use the model as a coding assistant in OpenCode.",
+ "title_mn": "Kimi K3.1 Pro Highspeed загвар Amazon Bedrock дээр нэмэгдлە",
+ "summary_mn": "Moonshot AI-ийн Kimi K3.1 Pro Highspeed загвар Amazon Bedrock дээр албан ёсоор гарлаа. Энэхүү загвар нь 1 сая токенийн контекст цонхтой бөгөөд энгийн хувилбараасаа 2-3 дахин хурдан ажиллах чадвартай.",
+ "body_mn": "Moonshot AI компанийн бүтээсэн Kimi K3.1 Pro Highspeed загвар Amazon Bedrock платформд нэмэгдлээ. Энэхүү загвар нь 3 триллион параметр бүхий open-weight архитектурт суурилсан бөгөөд 1 сая токенийн урт контекст цонхыг дэмждэг. Шинэ Highspeed хувилбар нь өмнөх K3.1 Pro загвараас 2-3 дахин хурдан гаралтын токен үүсгэх чадвартай ажээ.\n\nУг загвар нь урт хугацааны агентын ажлууд, санхүүгийн загварчлал, оффисын баримт бичиг боловсруулах болон тоглоомын хөдөлгүүртэй холбоотой код бичих зэрэг нарийн төвөгтэй ажлуудад илүү оновчтой болж сайжирсан байна. Мөн багаж дуудах (tool calling), бүтцэлсэн гаралтын өгөгдөл, дүрсийн оролт зэрэг дэвшилтэт боломжуудыг дэмждэг.\nХөгжүүлэгчид Amazon Bedrock-ийн Chat Completions болон Responses API ашиглан OpenAI-тэй нийцтэйгээр уг загварт холбогдох боломжтой. AWS мөн Flex болон Standard зэрэг үйлчилгээний түвшнүүдийг санал болгож байгаа бөгөөд Flex түвшин нь зардлыг бууруулах зорилгоор хямд үнээр ажиллах юм.",
+ "published": "2026-11-11T01:07:19Z",
+ "added": "2026-11-13T16:38:14Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

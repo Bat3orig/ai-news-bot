@@ -1,0 +1,17 @@
+{
+ "id": "8af3949aa1458f70",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
+ "title": "Gemini Decision 1 now available on AI Gateway",
+ "summary_en": "Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without generating output tokens. Use google/gemini-decision-1 with the AI SDK, TypeSafe-compatible API, or Decisions API. PDF, audio, and video inputs are supported through AI SDK 7. The TypeSafe-compatible and Decisions APIs support text and image inputs. AI Gateway provides a unified way to access models and…",
+ "title_mn": "Google-ийн Gemini Decision 1 загвар AI Gateway-д нэмэгдлە",
+ "summary_mn": "Google-ийн олон төрлийн өгөгдөл боловсруулах Gemini Decision 1 загвар AI Gateway дээр ашиглах боломжтой боллоо. Энэхүү загвар нь хүсэлт чиглүүлэх, бодлого шалгах зэрэг ажлыг гаралтын токен үүсгэлгүйгээр гүйцэтгэдэг.",
+ "body_mn": "Google компани олон төрлийн өгөгдөл буюу текст, зураг, аудио, видео болон PDF файлыг зэрэг боловсруулах чадвартай Gemini Decision 1 загвараа AI Gateway системд албан ёсоор нэмлээ. Энэхүү шинэ шийдэл нь Boolean магадлал, сонголт болон оноо буцаах замаар хэрэглэгчийн хүсэлтийг чиглүүлэх, үйл ажиллагааны бодлогод нийцэж буй эсэхийг шалгах, агентын хэрэгслүүдийг шүүхэд зориулагдсан болно.\n\nХөгжүүлэгчид google/gemini-decision-1 загварыг AI SDK, TypeSafe-д нийцтэй API эсвэл Decisions API ашиглан төслүүддээ холбох боломжтой. Мөн AI SDK 7 хувилбараар дамжуулан PDF, аудио болон видео оролт өгөх боломжтой болсон бол TypeSafe болон Decisions API нь үндсэн текст болон зургийн оролтыг дэмжиж байна.\nAI Gateway нь хөгжүүлэгчдэд загваруудын хэрэглээ, өртөг зардлыг нэгдсэн байдлаар хянах боломжийг олгодог. Шийдвэр гаргах дуудлагууд нь бусад загварын хүсэлтүүдийн адил системийн бүртгэлд (logs) орж, төсвийн хязгаарлалтад тооцогдох юм.\n\nЭнэхүү загварыг ашиглаж эхлэхийн тулд албан ёсны шийдвэр гаргах тухай баримт бичгийг үзэж, төслийн онцлогт тохируулан тохируулах боломжтой.",
+ "published": "2026-11-11T00:00:00Z",
+ "added": "2026-11-13T16:38:14Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

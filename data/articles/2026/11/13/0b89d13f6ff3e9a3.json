@@ -1,0 +1,17 @@
+{
+ "id": "0b89d13f6ff3e9a3",
+ "subtopic": "packages",
+ "source": "Frontend Focus",
+ "source_label": "Frontend Focus",
+ "url": "https://frontendfoc.us/issues/766",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1794399820/g4ohjfqewzkqxwe6thco.png",
+ "title": "Responsive design is more than resizing a window",
+ "summary_en": "🚀 Frontend Focus #​766 — November 11, 2026 | Read on the web Beyond the Viewport: Introducing Site Seeing — Making a design responsive means tackling more than just resizing, with real users often having on-screen keyboards, split views, docked DevTools, and other things open, or even using oddly sized in-app browsers. Ahmad's new, free browser-based tool is designed to preview your layouts in these awkward contexts. Ahmad Shadeed Run AI Coding Models on Your Own Machine — Local models are now good enough for everyday coding. Learn to run them on your own Mac or GPU, wire them into your…",
+ "title_mn": "Frontend Focus #766: Орчин үеийн вэб хөгжүүлэлт ба шинэ хэрэгслүүд",
+ "summary_mn": "Frontend Focus мэдээллийн товхимолын шинэ дугаарт вэб хөгжүүлэлтийн хариу үйлдэл үзүүлэх чадвар, AI агентуудад зориулсан орчин үеийн вэб удирдамж болон Firefox 160 хувилбарын шинэ боломжуудыг танилцууллаа.",
+ "body_mn": "Frontend Focus сонины 766 дахь дугаарт орчин үеийн вэб хөгжүүлэлтийн чиг хандлага болон хөгжүүлэгчдэд хэрэгтэй шинэ багаж хэрэгслүүдийг онцолжээ. Тухайлбал, дэлгэцийн хэмжээг өөрчлөхөөс гадна гар, хуваагдмал дэлгэц зэрэг бодит нөхцөл байдалд дизайныг шалгах зориулалттай шинэ хөтөч дээр суурилсан хэрэгсэл гарсан байна.\n\nAI агентуудад вэб стандарт, HTML/CSS шилдэг туршлагыг зааж чиглүүлэх орчин үеийн вэб удирдамж 1.0 хувилбар тогтвортой болжээ. Үүнд Google, Edge, Mozilla зэрэг томоохон компаниудын төлөөлөгчид хамтран ажилласан байна. Мөн Firefox 160 хувилбар тогтвортой байдалд шилжиж, Web Speech API ашиглан төхөөрөмж дээр дуу хоолой таних боломжтой болжээ.\n\nҮүнээс гадна macOS үйлдлийн системд зориулсан ердөө 18MB хэмжээтэй Zigzag хэмээх хөнгөн хөтөч гарсан бол GitHub дээр ACCESSIBILITY.md файлыг автоматаар хүлээн зөвшөөрч харуулах боломжтой болжээ. Энэ нь хөгжүүлэгчдэд бүтээгдэхүүнээ хүртээмжтэй байлгахад тусална.",
+ "published": "2026-11-11T00:00:00Z",
+ "added": "2026-11-13T16:38:14Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "c2c6a20dbc6898a9",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "TechNode",
+ "url": "https://technode.com/2026/11/11/alibaba-opens-qwen4-max-preview-with-a-million-token-context-window/",
+ "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261013-cn-364764.jpg?fit=2000%2C1334&ssl=1",
+ "title": "Alibaba opens Qwen4-Max preview with a million-token context window",
+ "summary_en": "Alibaba opened a preview of Qwen4-Max, the flagship model in its next-generation Qwen family, on Wednesday. The model supports image and video inputs and",
+ "title_mn": "Alibaba Qwen4-Max урьдчилан үзэх хувилбараа гаргалаа, 1 сая токений контексттэй",
+ "summary_mn": "Alibaba Qwen4-Max урьдчилсан хувилбарыг нээлээ. Загвар зураг, видео оролтыг дэмжиж, 1 сая токен хүртэлх контекстийг боловсруулна. Хөгжүүлэгчид Token Plan захиалгаар хандах боломжтой.",
+ "body_mn": "Alibaba Qwen шинэ үеийн Qwen family-ийн туг загвар болох Qwen4-Max-ийн урьдчилсан хувилбарыг Лхагва гарагт нээжээ. Загвар зураг болон видео оролтыг дэмждэг бөгөөд нэг удаагийн хүсэлтэд 1 сая токен хүртэлх контекстийг боловсруулах чадвартай.\n\nХөгжүүлэгчид загварт Alibaba-ийн Token Plan захиалгаар хандах боломжтой. Мөн Qwen апп, Qoder, QwenWork болон QwenStudio дээр эрт хандалтаар туршиж болно.\n\nЭнэ нь Qwen4 цуврал бүрэн гараагүй ч гэсэн хөгжүүлэгчдэд урт контекст бүхий олон төрлийн оролттой загварыг туршиж, агент болон кодын ажлын урсгалдаа шалгах боломжийг олгож байна. Харин жин, үнийн дэлгэрэнгүй мэдээлэл одоогоор нийтлэгдээгүй байна.",
+ "published": "2026-11-11T06:54:42Z",
+ "added": "2026-11-13T16:38:14Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}

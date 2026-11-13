@@ -1,0 +1,17 @@
+{
+ "id": "ea98db5e4e4784e4",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Pandaily",
+ "url": "https://pandaily.com/alibaba-qwen-code-1-0-preview-qoder-harness-open-source-agent-core",
+ "image": "https://cms-image.pandaily.com/1/qwencode_40c5112649.png",
+ "title": "Alibaba Folds Qoder's Harness Into Qwen Code 1.0 Preview and Open-Sources the Combined Agent Core",
+ "summary_en": "Alibaba's Qwen Code 1.0 Preview opens Qoder's harness as an embeddable agent core, with an event bus that scales from one process to many nodes and centralized MCP and sandbox management.",
+ "title_mn": "Qwen Code 1.0 Preview-д Qoder-ийн harness нэгдэж, агентын цөмийг нээлттэй болгов",
+ "summary_mn": "Alibaba Qwen Code 1.0 Preview-ийн хүрээнд Qoder-ийн harness-ийг суулгаж болох agent core болгон нээлттэй кодоор гаргалаа. Event bus, MCP болон sandbox-ийн удирдлага нэг процессоос олон зангилаа хүртэл өргөтгөнө.",
+ "body_mn": "Alibaba Qwen Code 1.0 Preview-д Qoder-ийн harness-ийг нэгтгэж, суулгаж болох agent core хэлбэрээр нээлттэй кодоор гаргажээ. Энэ нь хөгжүүлэгчдэд өөрсдийн агентдаа суулгах боломжтой цөм өгнө.\n\nЭнэхүү core нь event bus-тай бөгөөд нэг процессоос эхлээд олон зангилаа хүртэл өргөжих чадвартай гэж мэдээлсэн. Мөн MCP болон sandbox-ийн удирдлагыг төвлөрсөн байдлаар хийдэг.\n\nХөгжүүлэгчдэд энэ нь кодын агент бүтээхдээ MCP болон sandbox-ийг нэг дор удирдах, олон зангилаа дээр ажиллуулах загварт сонирхолтой суурь болж магадгүй юм.",
+ "published": "2026-11-11T07:43:48Z",
+ "added": "2026-11-13T16:38:14Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

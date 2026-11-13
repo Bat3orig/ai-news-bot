@@ -638,5 +638,145 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8af3949aa1458f70",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
+   "title": "Gemini Decision 1 now available on AI Gateway",
+   "summary_en": "Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without generating output tokens. Use google/gemini-decision-1 with the AI SDK, TypeSafe-compatible API, or Decisions API. PDF, audio, and video inputs are supported through AI SDK 7. The TypeSafe-compatible and Decisions APIs support text and image inputs. AI Gateway provides a unified way to access models and…",
+   "title_mn": "Google-ийн Gemini Decision 1 загвар AI Gateway-д нэмэгдлە",
+   "summary_mn": "Google-ийн олон төрлийн өгөгдөл боловсруулах Gemini Decision 1 загвар AI Gateway дээр ашиглах боломжтой боллоо. Энэхүү загвар нь хүсэлт чиглүүлэх, бодлого шалгах зэрэг ажлыг гаралтын токен үүсгэлгүйгээр гүйцэтгэдэг.",
+   "body_mn": "Google компани олон төрлийн өгөгдөл буюу текст, зураг, аудио, видео болон PDF файлыг зэрэг боловсруулах чадвартай Gemini Decision 1 загвараа AI Gateway системд албан ёсоор нэмлээ. Энэхүү шинэ шийдэл нь Boolean магадлал, сонголт болон оноо буцаах замаар хэрэглэгчийн хүсэлтийг чиглүүлэх, үйл ажиллагааны бодлогод нийцэж буй эсэхийг шалгах, агентын хэрэгслүүдийг шүүхэд зориулагдсан болно.\n\nХөгжүүлэгчид google/gemini-decision-1 загварыг AI SDK, TypeSafe-д нийцтэй API эсвэл Decisions API ашиглан төслүүддээ холбох боломжтой. Мөн AI SDK 7 хувилбараар дамжуулан PDF, аудио болон видео оролт өгөх боломжтой болсон бол TypeSafe болон Decisions API нь үндсэн текст болон зургийн оролтыг дэмжиж байна.\nAI Gateway нь хөгжүүлэгчдэд загваруудын хэрэглээ, өртөг зардлыг нэгдсэн байдлаар хянах боломжийг олгодог. Шийдвэр гаргах дуудлагууд нь бусад загварын хүсэлтүүдийн адил системийн бүртгэлд (logs) орж, төсвийн хязгаарлалтад тооцогдох юм.\n\nЭнэхүү загварыг ашиглаж эхлэхийн тулд албан ёсны шийдвэр гаргах тухай баримт бичгийг үзэж, төслийн онцлогт тохируулан тохируулах боломжтой.",
+   "published": "2026-11-11T00:00:00Z",
+   "added": "2026-11-13T16:38:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0b89d13f6ff3e9a3",
+   "subtopic": "packages",
+   "source": "Frontend Focus",
+   "source_label": "Frontend Focus",
+   "url": "https://frontendfoc.us/issues/766",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1794399820/g4ohjfqewzkqxwe6thco.png",
+   "title": "Responsive design is more than resizing a window",
+   "summary_en": "🚀 Frontend Focus #​766 — November 11, 2026 | Read on the web Beyond the Viewport: Introducing Site Seeing — Making a design responsive means tackling more than just resizing, with real users often having on-screen keyboards, split views, docked DevTools, and other things open, or even using oddly sized in-app browsers. Ahmad's new, free browser-based tool is designed to preview your layouts in these awkward contexts. Ahmad Shadeed Run AI Coding Models on Your Own Machine — Local models are now good enough for everyday coding. Learn to run them on your own Mac or GPU, wire them into your…",
+   "title_mn": "Frontend Focus #766: Орчин үеийн вэб хөгжүүлэлт ба шинэ хэрэгслүүд",
+   "summary_mn": "Frontend Focus мэдээллийн товхимолын шинэ дугаарт вэб хөгжүүлэлтийн хариу үйлдэл үзүүлэх чадвар, AI агентуудад зориулсан орчин үеийн вэб удирдамж болон Firefox 160 хувилбарын шинэ боломжуудыг танилцууллаа.",
+   "body_mn": "Frontend Focus сонины 766 дахь дугаарт орчин үеийн вэб хөгжүүлэлтийн чиг хандлага болон хөгжүүлэгчдэд хэрэгтэй шинэ багаж хэрэгслүүдийг онцолжээ. Тухайлбал, дэлгэцийн хэмжээг өөрчлөхөөс гадна гар, хуваагдмал дэлгэц зэрэг бодит нөхцөл байдалд дизайныг шалгах зориулалттай шинэ хөтөч дээр суурилсан хэрэгсэл гарсан байна.\n\nAI агентуудад вэб стандарт, HTML/CSS шилдэг туршлагыг зааж чиглүүлэх орчин үеийн вэб удирдамж 1.0 хувилбар тогтвортой болжээ. Үүнд Google, Edge, Mozilla зэрэг томоохон компаниудын төлөөлөгчид хамтран ажилласан байна. Мөн Firefox 160 хувилбар тогтвортой байдалд шилжиж, Web Speech API ашиглан төхөөрөмж дээр дуу хоолой таних боломжтой болжээ.\n\nҮүнээс гадна macOS үйлдлийн системд зориулсан ердөө 18MB хэмжээтэй Zigzag хэмээх хөнгөн хөтөч гарсан бол GitHub дээр ACCESSIBILITY.md файлыг автоматаар хүлээн зөвшөөрч харуулах боломжтой болжээ. Энэ нь хөгжүүлэгчдэд бүтээгдэхүүнээ хүртээмжтэй байлгахад тусална.",
+   "published": "2026-11-11T00:00:00Z",
+   "added": "2026-11-13T16:38:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0da2a3ce8ca2ed1b",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "title": "GitHub App support for Enterprise Copilot seat management",
+   "summary_en": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible…",
+   "title_mn": "GitHub App дэмжлэг Enterprise Copilot суудлын менежментэд нэмэгдлээ",
+   "summary_mn": "Enterprise түвшний GitHub App-ууд байгууллагын Copilot суудал хуваарилах API-г дуудах боломжтой боллоо. Шинэ зөвшөөрлийн тусламжтайгаар хэрэглэгчид болон багуудын эрхийг хялбар удирдах юм.",
+   "body_mn": "GitHub байгууллагын түвшний аппликейшнүүдэд Copilot суудал удирдлагын API-г ашиглах боломжийг нээж өглөө. Үүний үр дүнд байгууллагын админууд болон хөгжүүлэгчийн багууд хэн хэрэглэгчдэд Copilot суудал хуваарилагдсаныг програмчлалын аргаар хянах боломжтой болж байна.\n\nЭнэхүү боломжийг ашиглахын тулд Enterprise GitHub Apps системд байгууллагын нарийн түвшний зөвшөөрөл буюу Copilot лиценз менежментийн эрхийг олгох шаардлагатай юм. Энэ нь том хэмжээний компаниудад хөгжүүлэгчдийнхээ хиймэл оюун уурхайн хэрэгслийн хүртээмжийг автоматаар удирдах ажлыг ихээхэн хөнгөвчилж байна.\n\nGitHub энэхүү шинэчлэлттэй холбоотойгоор хөгжүүлэгчдэд зориулсан зөвлөгөө, техникийн гарын авлагуудыг хоёр долоо хоног тутамд хүргэх мэдээллийн товхимолоороо дамжуулан хуваалцаж эхэлжээ.",
+   "published": "2026-11-11T00:10:31Z",
+   "added": "2026-11-13T16:38:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a0aea58706982d5f",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "TeslaNorth.com",
+   "url": "https://teslanorth.com/2026/11/10/grok-build-apps-private-data-claroc/",
+   "image": "https://cdn.teslanorth.com/wp-content/uploads/2026/10/grok-official-og-1.jpg",
+   "title": "Grok Build’s App Sharing Puts Private Data at Risk, Researchers Say",
+   "summary_en": "Claroc says Grok-built apps exposed private data, including staff-created SpaceXSI and X tools. Publishing defaults are under scrutiny.",
+   "title_mn": "Grok Build-ийн апп хуваалцах тохиргоо хувийн мэдээллийг эрсдэлд оруулж болзошгүй",
+   "summary_mn": "Claroc аюулгүй байдлын фирмийн мэдээлснээр Grok Build ашиглан бүтээсэн олон мянган аппликейшн ямар ч нэвтрэлтгүйгээр нээлттэй үлджээ.",
+   "body_mn": "Claroc аюулгүй байдлын фирмийн тайланд дурдсанаар, xAI болон SpaceX-ийн хиймэл оюун уурхайн хэрэгсэл болох Grok Build ашиглан бүтээгдсэн 35 мянга гаруй апп ямар нэгэн нэвтрэлт шаардалгүйгээр олон нийтэд нээлттэй байсан байна. Эдгээр аппуудын дийлэнх нь энгийн тоглоом, тооцоолуур байсан хэдий ч 650 орчим нь хувийн болон дотоод мэдээлэл агуулж байжээ.\n\nСудалгаагаар Tesla компани болон бусад байгууллагуудын ажилтнуудын мэдээлэл, эмнэлгийн үзлэгийн дүнгүүд зэрэг нууцлалтай баримтууд интернетэд ил гарсан болохыг тогтоожээ. Хөгжүүлэгчид хиймэл оюун уурхайн тусламжтайгаар хурдан хугацаанд апп бүтээх хэдий ч үүнийг олон нийтэд дэлгэхээс өмнө хандалтын эрх болон аюулгүй байдлын тохиргоогоо нягтлах шаардлагатайг энэхүү явдал сануулж байна.\n\nАюулгүй байдлын мэргэжилтнүүдийн мэдээллээр зарим платформ дээрх апп үүсгэхэд холбоос эзэмшсэн хэн бүхэнд харагдах тохиргоо анхдагч байдлаар идэвхтэй байсан нь уг асуудалд нөлөөлжээ. Компаниуд хиймэл оюун уурхайн хэрэгслийг ашиглахдаа өгөгдлийн нууцлалд онцгой анхаарах хэрэгтэйг уг судалгаа харуулж байна.",
+   "published": "2026-11-11T00:42:33Z",
+   "added": "2026-11-13T16:38:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "16edd2976ebd2d53",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Amazon Web Services (AWS)",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
+   "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-22229-featured-image.png",
+   "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock | Amazon Web Services",
+   "summary_en": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching, and use the model as a coding assistant in OpenCode.",
+   "title_mn": "Kimi K3.1 Pro Highspeed загвар Amazon Bedrock дээр нэмэгдлە",
+   "summary_mn": "Moonshot AI-ийн Kimi K3.1 Pro Highspeed загвар Amazon Bedrock дээр албан ёсоор гарлаа. Энэхүү загвар нь 1 сая токенийн контекст цонхтой бөгөөд энгийн хувилбараасаа 2-3 дахин хурдан ажиллах чадвартай.",
+   "body_mn": "Moonshot AI компанийн бүтээсэн Kimi K3.1 Pro Highspeed загвар Amazon Bedrock платформд нэмэгдлээ. Энэхүү загвар нь 3 триллион параметр бүхий open-weight архитектурт суурилсан бөгөөд 1 сая токенийн урт контекст цонхыг дэмждэг. Шинэ Highspeed хувилбар нь өмнөх K3.1 Pro загвараас 2-3 дахин хурдан гаралтын токен үүсгэх чадвартай ажээ.\n\nУг загвар нь урт хугацааны агентын ажлууд, санхүүгийн загварчлал, оффисын баримт бичиг боловсруулах болон тоглоомын хөдөлгүүртэй холбоотой код бичих зэрэг нарийн төвөгтэй ажлуудад илүү оновчтой болж сайжирсан байна. Мөн багаж дуудах (tool calling), бүтцэлсэн гаралтын өгөгдөл, дүрсийн оролт зэрэг дэвшилтэт боломжуудыг дэмждэг.\nХөгжүүлэгчид Amazon Bedrock-ийн Chat Completions болон Responses API ашиглан OpenAI-тэй нийцтэйгээр уг загварт холбогдох боломжтой. AWS мөн Flex болон Standard зэрэг үйлчилгээний түвшнүүдийг санал болгож байгаа бөгөөд Flex түвшин нь зардлыг бууруулах зорилгоор хямд үнээр ажиллах юм.",
+   "published": "2026-11-11T01:07:19Z",
+   "added": "2026-11-13T16:38:14Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c2c6a20dbc6898a9",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "TechNode",
+   "url": "https://technode.com/2026/11/11/alibaba-opens-qwen4-max-preview-with-a-million-token-context-window/",
+   "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261013-cn-364764.jpg?fit=2000%2C1334&ssl=1",
+   "title": "Alibaba opens Qwen4-Max preview with a million-token context window",
+   "summary_en": "Alibaba opened a preview of Qwen4-Max, the flagship model in its next-generation Qwen family, on Wednesday. The model supports image and video inputs and",
+   "title_mn": "Alibaba Qwen4-Max урьдчилан үзэх хувилбараа гаргалаа, 1 сая токений контексттэй",
+   "summary_mn": "Alibaba Qwen4-Max урьдчилсан хувилбарыг нээлээ. Загвар зураг, видео оролтыг дэмжиж, 1 сая токен хүртэлх контекстийг боловсруулна. Хөгжүүлэгчид Token Plan захиалгаар хандах боломжтой.",
+   "body_mn": "Alibaba Qwen шинэ үеийн Qwen family-ийн туг загвар болох Qwen4-Max-ийн урьдчилсан хувилбарыг Лхагва гарагт нээжээ. Загвар зураг болон видео оролтыг дэмждэг бөгөөд нэг удаагийн хүсэлтэд 1 сая токен хүртэлх контекстийг боловсруулах чадвартай.\n\nХөгжүүлэгчид загварт Alibaba-ийн Token Plan захиалгаар хандах боломжтой. Мөн Qwen апп, Qoder, QwenWork болон QwenStudio дээр эрт хандалтаар туршиж болно.\n\nЭнэ нь Qwen4 цуврал бүрэн гараагүй ч гэсэн хөгжүүлэгчдэд урт контекст бүхий олон төрлийн оролттой загварыг туршиж, агент болон кодын ажлын урсгалдаа шалгах боломжийг олгож байна. Харин жин, үнийн дэлгэрэнгүй мэдээлэл одоогоор нийтлэгдээгүй байна.",
+   "published": "2026-11-11T06:54:42Z",
+   "added": "2026-11-13T16:38:14Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ea98db5e4e4784e4",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Pandaily",
+   "url": "https://pandaily.com/alibaba-qwen-code-1-0-preview-qoder-harness-open-source-agent-core",
+   "image": "https://cms-image.pandaily.com/1/qwencode_40c5112649.png",
+   "title": "Alibaba Folds Qoder's Harness Into Qwen Code 1.0 Preview and Open-Sources the Combined Agent Core",
+   "summary_en": "Alibaba's Qwen Code 1.0 Preview opens Qoder's harness as an embeddable agent core, with an event bus that scales from one process to many nodes and centralized MCP and sandbox management.",
+   "title_mn": "Qwen Code 1.0 Preview-д Qoder-ийн harness нэгдэж, агентын цөмийг нээлттэй болгов",
+   "summary_mn": "Alibaba Qwen Code 1.0 Preview-ийн хүрээнд Qoder-ийн harness-ийг суулгаж болох agent core болгон нээлттэй кодоор гаргалаа. Event bus, MCP болон sandbox-ийн удирдлага нэг процессоос олон зангилаа хүртэл өргөтгөнө.",
+   "body_mn": "Alibaba Qwen Code 1.0 Preview-д Qoder-ийн harness-ийг нэгтгэж, суулгаж болох agent core хэлбэрээр нээлттэй кодоор гаргажээ. Энэ нь хөгжүүлэгчдэд өөрсдийн агентдаа суулгах боломжтой цөм өгнө.\n\nЭнэхүү core нь event bus-тай бөгөөд нэг процессоос эхлээд олон зангилаа хүртэл өргөжих чадвартай гэж мэдээлсэн. Мөн MCP болон sandbox-ийн удирдлагыг төвлөрсөн байдлаар хийдэг.\n\nХөгжүүлэгчдэд энэ нь кодын агент бүтээхдээ MCP болон sandbox-ийг нэг дор удирдах, олон зангилаа дээр ажиллуулах загварт сонирхолтой суурь болж магадгүй юм.",
+   "published": "2026-11-11T07:43:48Z",
+   "added": "2026-11-13T16:38:14Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]

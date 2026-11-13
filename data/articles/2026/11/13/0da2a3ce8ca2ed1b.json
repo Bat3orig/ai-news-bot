@@ -1,0 +1,17 @@
+{
+ "id": "0da2a3ce8ca2ed1b",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+ "title": "GitHub App support for Enterprise Copilot seat management",
+ "summary_en": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible…",
+ "title_mn": "GitHub App дэмжлэг Enterprise Copilot суудлын менежментэд нэмэгдлээ",
+ "summary_mn": "Enterprise түвшний GitHub App-ууд байгууллагын Copilot суудал хуваарилах API-г дуудах боломжтой боллоо. Шинэ зөвшөөрлийн тусламжтайгаар хэрэглэгчид болон багуудын эрхийг хялбар удирдах юм.",
+ "body_mn": "GitHub байгууллагын түвшний аппликейшнүүдэд Copilot суудал удирдлагын API-г ашиглах боломжийг нээж өглөө. Үүний үр дүнд байгууллагын админууд болон хөгжүүлэгчийн багууд хэн хэрэглэгчдэд Copilot суудал хуваарилагдсаныг програмчлалын аргаар хянах боломжтой болж байна.\n\nЭнэхүү боломжийг ашиглахын тулд Enterprise GitHub Apps системд байгууллагын нарийн түвшний зөвшөөрөл буюу Copilot лиценз менежментийн эрхийг олгох шаардлагатай юм. Энэ нь том хэмжээний компаниудад хөгжүүлэгчдийнхээ хиймэл оюун уурхайн хэрэгслийн хүртээмжийг автоматаар удирдах ажлыг ихээхэн хөнгөвчилж байна.\n\nGitHub энэхүү шинэчлэлттэй холбоотойгоор хөгжүүлэгчдэд зориулсан зөвлөгөө, техникийн гарын авлагуудыг хоёр долоо хоног тутамд хүргэх мэдээллийн товхимолоороо дамжуулан хуваалцаж эхэлжээ.",
+ "published": "2026-11-11T00:10:31Z",
+ "added": "2026-11-13T16:38:14Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
