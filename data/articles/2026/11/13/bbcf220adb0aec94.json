@@ -1,0 +1,17 @@
+{
+ "id": "bbcf220adb0aec94",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "The Decoder",
+ "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+ "image": "https://the-decoder.com/wp-content/uploads/2026/05/grok_xai_logo.png",
+ "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+ "summary_en": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting. SpaceXSI took only its own 24 employee apps offline. The rest remain accessible.",
+ "title_mn": "Grok Build хэрэгслээр бүтээгдсэн мянга мянган апп нууцлалын алдагдалтай байна",
+ "summary_mn": "Claroc компани xAI-ийн шинэ нэр болох SpaceXSI-ийн Grok Build хэрэгслээс үүдэлтэй аюулгүй байдлын томоохон эмзэг байдлыг илрүүлжээ. Нийтдээ 35,000 гаруй апп ямар ч нэвтрэх эрхгүйгээр олон нийтэд ил тод байсны дотор компанийн дотоод борлуулалтын төлөвлөгөө багтжээ.",
+ "body_mn": "Аюулгүй байдлын Claroc компани xAI (одоогийн SpaceXSI)-ийн хиймэл оюун ухааны туслах болох Grok Build хэрэгслээс үүдэлтэй аюулгүй байдлын ноцтой алдааг олж илрүүлжээ. Шинжилгээгээр Grok ашиглан бүтээгдсэн 37,571 аппын 94.7 хувь буюу 35,578 апп нь ямар нэгэн нууц үг, нэвтрэлтгүйгээр интернетэд шууд нээлттэй байсан нь тогтоогджээ. Эдгээрт эмнэлгийн эрчимт эмчилгээний дата, ажилтнуудын нууц үг болон SpaceXSI-ийн дотоод борлуулалтын төлөвлөгөө зэрэг эмзэг мэдээллүүд багтсан байна.\n\nСудалгаагаар энэхүү эмзэг байдал нь уг хэрэгслийн хуваалцах холбоосыг үүсгэх механизсаас үүдэлтэй аж. Grok Build ашиглан бүтээсэн апп-д зориулж үүсгэдэг дэндөмэйнүүд нь passive DNS мэдээллийн санд автоматаар бүртгэгддэг тул хакерууд болон судлаачид хайж олох боломжтой байжээ. Түүнчлэн олон нийтэд нээлттэй болгох тохиргоо нь анхдагчаар урьдчилан сонгогдсон байсан нь хэрэглэгчид санамсаргүйгээр өөрийн аппыг ил болгоход хүргэсэн байна.\n\nЭнэхүү асуудал нь хиймэл оюун ухаанаар програм хангамж хөгжүүлэх буюу vibe coding хандлага газар авч буй энэ үед хөгжүүлэгчид болон компаниудад өгөгдлийн аюулгүй байдлаа чанд сахих шаардлагатайг сануулсан томоохон анхааруулга болж байна. SpaceXSI компани асуудлыг илрүүлсний дараа өөрсдийн аппуудыг нууцалсан хэдий ч бусад байгууллагуудын бүтээсэн олон мянган апп одоо ч эрсдэлтэй хэвээр байна.",
+ "published": "2026-11-11T12:58:29Z",
+ "added": "2026-11-13T22:19:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

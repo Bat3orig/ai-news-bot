@@ -1,0 +1,17 @@
+{
+ "id": "833534b672b8daa3",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+ "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw",
+ "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+ "summary_en": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+ "title_mn": "Google DeepMind AlphaGenome 2 загвараа танилцууллаа",
+ "summary_mn": "Google DeepMind хүний DNA-гийн хувьсахуй болон эсийн төрлүүдийн хамаарлыг судлах шинэ үеийн AlphaGenome 2 загварыг зарлалаа.",
+ "body_mn": "Google DeepMind компани хүний DNA дараалал эсийн янз бүрийн төрөлд хэрхэн нөлөөлдгийг урьдчилан таамаглах чадвартай AlphaGenome 2 загвараа албан ёсоор танилцууллаа. Энэхүү шинэ загвар нь эсийн биологи болон хүний генетикийг холбож, өвчний үүсгүүр шалтгааныг тодорхойлоход судлаачдад хүчирхэг хэрэгсэл болох юм.\n\nAlphaGenome 2 нь өмнөх хувилбараа бодвол эсийн түвшинд генийн илэрхийлэлд нөлөөлөх хувьсалыг бараг хоёр дахин илүү нарийвчлалтайгаар таньж чадна. Уг загварыг 68 эдийн 100 сая гаруй хувь хүний эсийн профиль дээр сургасан бөгөөд судалгааны зорилгоор AlphaGenome API-аар дамжуулан хэрэглэх боломжтой болжээ.\n\nЭнэхүү шинэчлэл нь эрдэмтдэд ховор өвчин, нарийн төвөгтэй шинж тэмдгүүд болон биологийн суурь судалгааг гүнзгийрүүлэн судлахад үнэтэй хувь нэмэр оруулах юм.",
+ "published": "2026-11-11T15:00:15Z",
+ "added": "2026-11-13T22:19:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

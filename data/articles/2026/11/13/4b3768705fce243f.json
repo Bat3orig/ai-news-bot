@@ -1,0 +1,17 @@
+{
+ "id": "4b3768705fce243f",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Decoder",
+ "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+ "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_moat-1200x670.png",
+ "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+ "summary_en": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies.",
+ "title_mn": "Anthropic компани Nvidia-гийн CUDA давуу талыг хиймэл оюун ухаанаар хэрхэн даван туулж байгаа тухай зарлав",
+ "summary_mn": "Anthropic компани Claude загвараа AMD GPU руу хүний оролцоо бараг үгүйгээр ердөө гуравхан хоногт шилжүүлж чадсанаа зарлажээ.",
+ "body_mn": "Nvidia компанийн зах зээл дээрх хамгийн том давуу тал нь хөгжүүлэгчдийг өөрийн экосистемд түгждэг CUDA программ хангамж байсаар ирсэн. Тэгвэл Anthropic компани хөрөнгө оруулагчдад зориулсан танилцуулгадаа өөрийн Claude загварыг өөр өөр чип архитектурт шилжүүлэх ажлыг хиймэл оюун ухааны тусламжтайгаар эрс хялбаршуулж чадсанаа мэдэгджээ.\n\nУламжлалт аргаар шинэ чип дээр загвар суулгахад олон инженерүүд сар гаруй хуцуац зарцуулдаг байсан бол Anthropic компани энэ удаад AMD GPU дээр өөрийн Mythos загварыг ашиглан ердөө гуравхан хоногт амжилттай хэрэгжүүлсэн байна. Загвар нь шаардлагатай код болон кернелүүдийн бараг 100 хувийг өөрөө бичжээ.\n\nЭнэхүү олон чиптэй ажиллах стратеги нь компаниудад Nvidia-гаас хамааралтай байдлыг багасгаж, техник хангамжийн зах зээл дэх үнэ өртөг болон нийлүүлэлтийн хүндрэлийг даван туулахад томоохон түлхэц болно. Anthropic нь тооцооллын нөөцийг оновчтой ашиглах замаар зардлаа бууруулахаар ажиллаж байна.",
+ "published": "2026-11-11T14:28:29Z",
+ "added": "2026-11-13T22:19:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

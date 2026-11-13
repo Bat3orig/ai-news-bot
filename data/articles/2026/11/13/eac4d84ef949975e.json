@@ -1,0 +1,17 @@
+{
+ "id": "eac4d84ef949975e",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1566.max-1440x810.jpg",
+ "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+ "summary_en": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+ "title_mn": "Google Tabletop болон шинэ Gemini Decisions API-г зарлалаа",
+ "summary_mn": "Google Labs хамтран ажиллах Tabletop туршилтын төслийг танилцуулж, хурдан бөгөөд олон төрлийн шийдвэр гаргах Gemini Decisions API-г нээлээ.",
+ "body_mn": "Google компани хэрэглэгчдэд бодит цаг хугацаанд хамтран төлөвлөгөө гаргах, санал асуулга үүсгэх боломжийг олгох Tabletop нэртэй шинэ туршилтын төслийг танилцууллаа. Хэрэглэгчид холбоос болон файл нэмж, Gemini-д суурилсан @tabletop тусламжтайгаар хуваарь болон зардлын хуваарилалт үүсгэх боломжтой.\n\nҮүний зэрэгцээ хөгжүүлэгчдэд зориулсан Gemini Decisions API гарсан бөгөөд энэ нь Gemini Decision загвараар ажилладаг байна. Энэхүү API нь хурдан бөгөөд оновчтой олон төрлийн мультимодаль шийдвэр гаргахад туслах зорилготой ажээ.\n\nШинэ хэрэгслүүд нь хөгжүүлэгчид болон хамт олонд хамтран ажиллах шинэ боломжуудыг олгож байгаа бөгөөд Google Labs-ар дамжуулан туршиж үзэх боломжтой юм.",
+ "published": "2026-11-11T16:00:00Z",
+ "added": "2026-11-13T22:19:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

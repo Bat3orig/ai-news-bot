@@ -778,5 +778,85 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bbcf220adb0aec94",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "The Decoder",
+   "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/05/grok_xai_logo.png",
+   "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+   "summary_en": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting. SpaceXSI took only its own 24 employee apps offline. The rest remain accessible.",
+   "title_mn": "Grok Build хэрэгслээр бүтээгдсэн мянга мянган апп нууцлалын алдагдалтай байна",
+   "summary_mn": "Claroc компани xAI-ийн шинэ нэр болох SpaceXSI-ийн Grok Build хэрэгслээс үүдэлтэй аюулгүй байдлын томоохон эмзэг байдлыг илрүүлжээ. Нийтдээ 35,000 гаруй апп ямар ч нэвтрэх эрхгүйгээр олон нийтэд ил тод байсны дотор компанийн дотоод борлуулалтын төлөвлөгөө багтжээ.",
+   "body_mn": "Аюулгүй байдлын Claroc компани xAI (одоогийн SpaceXSI)-ийн хиймэл оюун ухааны туслах болох Grok Build хэрэгслээс үүдэлтэй аюулгүй байдлын ноцтой алдааг олж илрүүлжээ. Шинжилгээгээр Grok ашиглан бүтээгдсэн 37,571 аппын 94.7 хувь буюу 35,578 апп нь ямар нэгэн нууц үг, нэвтрэлтгүйгээр интернетэд шууд нээлттэй байсан нь тогтоогджээ. Эдгээрт эмнэлгийн эрчимт эмчилгээний дата, ажилтнуудын нууц үг болон SpaceXSI-ийн дотоод борлуулалтын төлөвлөгөө зэрэг эмзэг мэдээллүүд багтсан байна.\n\nСудалгаагаар энэхүү эмзэг байдал нь уг хэрэгслийн хуваалцах холбоосыг үүсгэх механизсаас үүдэлтэй аж. Grok Build ашиглан бүтээсэн апп-д зориулж үүсгэдэг дэндөмэйнүүд нь passive DNS мэдээллийн санд автоматаар бүртгэгддэг тул хакерууд болон судлаачид хайж олох боломжтой байжээ. Түүнчлэн олон нийтэд нээлттэй болгох тохиргоо нь анхдагчаар урьдчилан сонгогдсон байсан нь хэрэглэгчид санамсаргүйгээр өөрийн аппыг ил болгоход хүргэсэн байна.\n\nЭнэхүү асуудал нь хиймэл оюун ухаанаар програм хангамж хөгжүүлэх буюу vibe coding хандлага газар авч буй энэ үед хөгжүүлэгчид болон компаниудад өгөгдлийн аюулгүй байдлаа чанд сахих шаардлагатайг сануулсан томоохон анхааруулга болж байна. SpaceXSI компани асуудлыг илрүүлсний дараа өөрсдийн аппуудыг нууцалсан хэдий ч бусад байгууллагуудын бүтээсэн олон мянган апп одоо ч эрсдэлтэй хэвээр байна.",
+   "published": "2026-11-11T12:58:29Z",
+   "added": "2026-11-13T22:19:18Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4b3768705fce243f",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Decoder",
+   "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_moat-1200x670.png",
+   "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+   "summary_en": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies.",
+   "title_mn": "Anthropic компани Nvidia-гийн CUDA давуу талыг хиймэл оюун ухаанаар хэрхэн даван туулж байгаа тухай зарлав",
+   "summary_mn": "Anthropic компани Claude загвараа AMD GPU руу хүний оролцоо бараг үгүйгээр ердөө гуравхан хоногт шилжүүлж чадсанаа зарлажээ.",
+   "body_mn": "Nvidia компанийн зах зээл дээрх хамгийн том давуу тал нь хөгжүүлэгчдийг өөрийн экосистемд түгждэг CUDA программ хангамж байсаар ирсэн. Тэгвэл Anthropic компани хөрөнгө оруулагчдад зориулсан танилцуулгадаа өөрийн Claude загварыг өөр өөр чип архитектурт шилжүүлэх ажлыг хиймэл оюун ухааны тусламжтайгаар эрс хялбаршуулж чадсанаа мэдэгджээ.\n\nУламжлалт аргаар шинэ чип дээр загвар суулгахад олон инженерүүд сар гаруй хуцуац зарцуулдаг байсан бол Anthropic компани энэ удаад AMD GPU дээр өөрийн Mythos загварыг ашиглан ердөө гуравхан хоногт амжилттай хэрэгжүүлсэн байна. Загвар нь шаардлагатай код болон кернелүүдийн бараг 100 хувийг өөрөө бичжээ.\n\nЭнэхүү олон чиптэй ажиллах стратеги нь компаниудад Nvidia-гаас хамааралтай байдлыг багасгаж, техник хангамжийн зах зээл дэх үнэ өртөг болон нийлүүлэлтийн хүндрэлийг даван туулахад томоохон түлхэц болно. Anthropic нь тооцооллын нөөцийг оновчтой ашиглах замаар зардлаа бууруулахаар ажиллаж байна.",
+   "published": "2026-11-11T14:28:29Z",
+   "added": "2026-11-13T22:19:18Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "833534b672b8daa3",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "summary_en": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+   "title_mn": "Google DeepMind AlphaGenome 2 загвараа танилцууллаа",
+   "summary_mn": "Google DeepMind хүний DNA-гийн хувьсахуй болон эсийн төрлүүдийн хамаарлыг судлах шинэ үеийн AlphaGenome 2 загварыг зарлалаа.",
+   "body_mn": "Google DeepMind компани хүний DNA дараалал эсийн янз бүрийн төрөлд хэрхэн нөлөөлдгийг урьдчилан таамаглах чадвартай AlphaGenome 2 загвараа албан ёсоор танилцууллаа. Энэхүү шинэ загвар нь эсийн биологи болон хүний генетикийг холбож, өвчний үүсгүүр шалтгааныг тодорхойлоход судлаачдад хүчирхэг хэрэгсэл болох юм.\n\nAlphaGenome 2 нь өмнөх хувилбараа бодвол эсийн түвшинд генийн илэрхийлэлд нөлөөлөх хувьсалыг бараг хоёр дахин илүү нарийвчлалтайгаар таньж чадна. Уг загварыг 68 эдийн 100 сая гаруй хувь хүний эсийн профиль дээр сургасан бөгөөд судалгааны зорилгоор AlphaGenome API-аар дамжуулан хэрэглэх боломжтой болжээ.\n\nЭнэхүү шинэчлэл нь эрдэмтдэд ховор өвчин, нарийн төвөгтэй шинж тэмдгүүд болон биологийн суурь судалгааг гүнзгийрүүлэн судлахад үнэтэй хувь нэмэр оруулах юм.",
+   "published": "2026-11-11T15:00:15Z",
+   "added": "2026-11-13T22:19:18Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "eac4d84ef949975e",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1566.max-1440x810.jpg",
+   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+   "summary_en": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+   "title_mn": "Google Tabletop болон шинэ Gemini Decisions API-г зарлалаа",
+   "summary_mn": "Google Labs хамтран ажиллах Tabletop туршилтын төслийг танилцуулж, хурдан бөгөөд олон төрлийн шийдвэр гаргах Gemini Decisions API-г нээлээ.",
+   "body_mn": "Google компани хэрэглэгчдэд бодит цаг хугацаанд хамтран төлөвлөгөө гаргах, санал асуулга үүсгэх боломжийг олгох Tabletop нэртэй шинэ туршилтын төслийг танилцууллаа. Хэрэглэгчид холбоос болон файл нэмж, Gemini-д суурилсан @tabletop тусламжтайгаар хуваарь болон зардлын хуваарилалт үүсгэх боломжтой.\n\nҮүний зэрэгцээ хөгжүүлэгчдэд зориулсан Gemini Decisions API гарсан бөгөөд энэ нь Gemini Decision загвараар ажилладаг байна. Энэхүү API нь хурдан бөгөөд оновчтой олон төрлийн мультимодаль шийдвэр гаргахад туслах зорилготой ажээ.\n\nШинэ хэрэгслүүд нь хөгжүүлэгчид болон хамт олонд хамтран ажиллах шинэ боломжуудыг олгож байгаа бөгөөд Google Labs-ар дамжуулан туршиж үзэх боломжтой юм.",
+   "published": "2026-11-11T16:00:00Z",
+   "added": "2026-11-13T22:19:18Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]
