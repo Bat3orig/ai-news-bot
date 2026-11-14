@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "9092d5eb66f29547",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/singapore-airlines-travel-work",
-   "image": "",
-   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-   "summary_en": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-   "title_mn": "Singapore Airlines OpenAI технологийн тусламжтайгаар үйлчилгээгээ сайжруулав",
-   "summary_mn": "Singapore Airlines компани харилцагчийн үйлчилгээ, аялал жуулчлалын хайлт болон ажилтнуудын бүтээмжийг сайжруулахад OpenAI загварууд болон API ашиглаж байна.",
-   "body_mn": "Singapore Airlines компани хэрэглэгчийн дэмжлэг, аяллын хайлт болон ажилтнуудын бүтээмжийг нэмэгдүүлэх зорилгоор OpenAI-ийн загварууд болон API ашиглаж эхэлжээ. Тус компани Kris чатботаараа дамжуулан хэрэглэгчийн сэтгэл ханамжийн үнэлгээг (CSAT) хоёр дахин өсгөж чадсан байна.\n\nЭнэхүү интеграци нь хэрэглэгчийн хүсэлтийг илүү хурдан бөгөөд оновчтой шийдвэрлэхэд тусалж байна. Хөгжүүлэгчдийн хувьд томоохон компаниуд LLM технологи бодит бүтээгдэхүүнд хэрхэн амжилттай нэвтэрч буйн тод жишээ юм.",
-   "published": "2026-11-10T08:00:00Z",
-   "added": "2026-11-12T12:15:46Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "cc6e25d32e376bd0",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Hacker News",
-   "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgogipF_6VgFSzsnZ_UFUM5FfzGyk1MOv5SRi3PSivRHjxs6IsO0fmOdDjQsDJHiKcnxJ8T89NMMYiqo_NEEtv0EoQsafjOFuZ-Te6famJBJKegqDnf1b63Hdzkls7IO1JOtSNjb5Hatb4Ny8Zu46mggCXYKvHf3Ne9Qc4ZRfLBmLnZ7omPEHAjDfJRQEKu/s1700-nu-rw-lo-l85-e365/fable.jpg",
-   "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-   "summary_en": "Anthropic releases Claude Fable 5.2 and Mythos 5.2, with Fable scoring 76.3% on a multi-stage cyberattack benchmark.",
-   "title_mn": "Anthropic Claude Fable 5.2 болон Mythos 5.2 загваруудыг танилцууллаа",
-   "summary_mn": "Anthropic компани програмчлал, логик сэтгэлгээ, харааны чадвараараа сайжирсан Claude Fable 5.2 болон Mythos 5.2 загваруудыг гаргалаа.",
-   "body_mn": "Anthropic компани програмчлал, логик сэтгэлгээ болон харааны чадвараараа тэргүүлэгч Claude Fable 5.2 болон Mythos 5.2 загваруудаа албан ёсоор танилцууллаа. Эдгээр загварууд нь нарийн төвөгтэй программ хангамжийн шилжилт хийх, электрон төхөөрөмж зохиох зэрэг олон дэвшилтэт ажлыг гүйцэтгэх чадвартай ажээ.\n\nТуршилтын явцад Fable 5.2 загвар нь CyScenarioBench кибер халдлагын тестэд 76.3%-ийн амжилт үзүүлж, өмнөх хувилбарууд болон өрсөлдөгч загваруудыг ардаа орхисон байна. Мөн Claude Security хэрэгслийг тасралтгүй код сканнердах, автоматаар алдаа засах функцээр шинэчилжээ.\n\nШинэ загварууд нь AWS, Google Cloud, Microsoft Azure зэрэг бүх үндсэн платформууд дээр ашиглах боломжтой болсон. Хөгжүүлэгчид эдгээр загваруудыг ашиглан кодыг илүү хурдан бөгөөд аюулгүй байдлаар хөгжүүлэх боломж бүрдлээ.",
-   "published": "2026-11-10T08:16:00Z",
-   "added": "2026-11-12T12:15:46Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "971c463321128dd8",
-   "subtopic": "motion",
-   "source": "motiondivision/motion",
-   "source_label": "motiondivision/motion",
-   "url": "https://github.com/motiondivision/motion/releases/tag/v14.12.0",
-   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
-   "title": "motion v14.12.0",
-   "summary_en": "v14.12.0",
-   "title_mn": "Motion v14.12.0 хувилбар гарлаа",
-   "summary_mn": "Motion анимацийн сангийн шинэ v14.12.0 хувилбар хэрэглэгчдэд хүрлээ.",
-   "body_mn": "Фронтенд хөгжүүлэлтийн алдартай анимацийн сан болох Motion (хуучнаар Framer Motion) v14.12.0 хувилбараа гаргалаа. Энэхүү шинэчлэлтийн дэлгэрэнгүй өөрчлөлтүүд болон сайжруулалтууд албан ёсны сан дээр байршсан байна.\n\nХөгжүүлэгчид веб болон аппликейшний хөдөлгөөнт дүрс, анимацийг илүү хялбар бөгөөд өндөр гүйцэтгэлтэйгээр хийхэд энэхүү сан чухал үүрэг гүйцэтгэсээр байна.",
-   "published": "2026-11-10T08:42:43Z",
-   "added": "2026-11-12T12:15:46Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "991ad48e8559b2fe",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt",
-   "image": "",
-   "title": "Introducing Businesses in ChatGPT",
-   "summary_en": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-   "title_mn": "ChatGPT-д бизнесийн мэдээллээ удирдах шинэ боломж нэмэгдлээ",
-   "summary_mn": "OpenAI компани бизнесийн байгууллагуудад зориулсан шинэ боломжийг танилцууллаа. Энэ нь ChatGPT дээрх өөрийн бизнесийн мэдээллээ удирдах, харагдац болон хэрэглэгчдийн оролцоог хянах боломжийг олгодог.",
-   "body_mn": "OpenAI компани ChatGPT платформдоо бизнесийн байгууллагуудад зориулсан шинэ боломжийг албан ёсоор нэвтрүүлж эхэлснийг мэдэгдлээ. Энэхүү шинэ функц нь компаниудад өөрсдийн бизнесийн мэдээллийг төвлөрүүлж удирдах, хэрэглэгчид болон сониррогчдод тухайн бизнес хэрхэн харагдаж байгаа талаар үнэ цэнэтэй мэдээлэл авах боломжийг олгох юм.\n\nШинэ хэрэгслийн тусламжтайгаар бизнеслэгчид хэрэглэгчдийн сонирхлыг бодит үйлдэл болгон хувиргах боломжтой болж байна. Хиймэл оюун ухааны хэрэгслүүд өдөр тутмын хэрэглээнээс бизнес болон маркетинг руу илүү гүнзгий нэвтэрч байгаа энэ үед уг шинэчлэл нь компаниудад хэрэглэгчидтэйгээ харилцах цоо шинэ сувгийг нээж өгч байгаагаараа чухал ач холбогдолтой юм.",
-   "published": "2026-11-10T10:00:00Z",
-   "added": "2026-11-12T12:15:46Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "997d250d70873514",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "FourWeekMBA",
-   "url": "https://fourweekmba.com/ai-grok-4-8-in-rl-after-a-57-day-wait-as-xai-dumps-jax-for-cpp/",
-   "image": "",
-   "title": "Grok 4.8 in RL After a 57-Day Wait as xAI Dumps JAX for C++",
-   "summary_en": "",
-   "title_mn": "xAI Grok 4.8-ийг сургалтын RL шатанд оруулж, JAX-аас C++ руу шилжжээ",
-   "summary_mn": "FourWeekMBA-ийн мэдээлснээр xAI Grok 4.8 загвараа reinforcement learning (RL) шатанд оруулсан бөгөөд 57 хоногийн хүлээлтийн дараа энэ алхам хийгдсэн байна. Мөн компани JAX-аас C++ руу шилжсэн гэж тайлагнасан.",
-   "body_mn": "FourWeekMBA-ийн мэдээлснээр xAI Grok 4.8 загвараа reinforcement learning (RL) шатанд оруулжээ. Энэ нь 57 хоногийн хүлээлтийн дараа хийгдсэн гэж тэмдэглэсэн байна.\n\nМөн мэдээнд xAI JAX-аас C++ руу шилжсэн гэж дурдсан байна. Ямар технологийн шийдэл, ямар хүрээнд шилжсэн талаар мэдээлэл тодорхойгүй байна, тиймээс энэ мэдээллийг эх мэдээний үндсэн агуулгаас цааш тайлбарлах боломжгүй.\n\nХөгжүүлэгчдэд энэ мэдээ нь Grok загварын хөгжүүлэлтийн явцыг харуулж байгаа ч одоогоор API эсвэл SDK-ийн шинэ боломж, хугацаа, үнэ тодорхойгүй тул шууд ашиглах зүйл алга.",
-   "published": "2026-11-10T10:54:46Z",
-   "added": "2026-11-12T20:13:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3ddbcb4a2c8e31a6",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "Breakingthenews.net",
-   "url": "https://breakingthenews.net/Article/Musk-plans-limited-Grok-4.8-rollout-later-this-week/67526613",
-   "image": "https://cdn.ttweb.net/News/images/410795.jpg?preset=w800_q70",
-   "title": "Musk plans limited Grok 4.8 rollout later this week",
-   "summary_en": "Tesla CEO and the world's richest man Elon Musk said on Tuesday that SpaceX's artificial intelligence subsidiary SpaceX Super Intelligence (SpaceXSI), formerly known as xAI, plans to begin a limited r...",
-   "title_mn": "Маск Grok 4.8-ийг энэ долоо хоногт хязгаарлагдмал хэмжээгээр нээнэ гэв",
-   "summary_mn": "Элон Маск SpaceX-ийн хиймэл оюуны охин компани SpaceXSI (өмнө нь xAI) Grok 4.8-ийн хязгаарлагдмал нэвтрүүлгийг энэ долоо хоногт эхлүүлэхээр төлөвлөж байгаагаа мэдэгдлээ. Мэдээлэлд нэвтрүүлгийн дэлгэрэнгүй нөхцөл дурдагдаагүй.",
-   "body_mn": "Tesla-ийн гүйцэтгэх захирал Элон Маск Вторник гарагт SpaceX-ийн хиймэл оюуны охин компани SpaceXSI (өмнө нь xAI) Grok 4.8-ийн хязгаарлагдмал нэвтрүүлгийг энэ долоо хоногт эхлүүлэхээр төлөвлөж байгаагаа мэдэгдсэн байна.\n\nМэдээнд хэн нэвтрүүлгийн хүрээнд багтах, ямар тарифтай эсвэл API-аар хандах эсэх талаар дурдаагүй. Тиймээс хөгжүүлэгчдэд хэрэглэх боломжтой эсэх одоогоор тодорхойгүй байна.\n\nGrok 4.8-ийн талаарх энэ мэдээ нь загварын шинэ хувилбар гарах ойрын хугацааны төлөвлөгөөг харуулж байна. Хөгжүүлэгчид rate limit, үнийн мэдээлэл, API-ийн баримт гарах эсэхийг дараа нь хянах хэрэгтэй.",
-   "published": "2026-11-10T11:08:00Z",
-   "added": "2026-11-12T20:13:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8c33f7013ba83ac7",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Register",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693",
-   "image": "https://image.theregister.com/5247969.jpg?imageId=5247969&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-   "title": "Microsoft is giving Claude the keys to UK Copilot tenants by default",
-   "summary_en": "Admins have until December 9 to review access settings as Anthropic processes data in the US",
-   "title_mn": "Microsoft Copilot-ийн UK хэрэглэгчдэд Claude-ийг анхдагчаар идэвхжүүлнэ",
-   "summary_mn": "Microsoft 12-р сарын 9-нөөс эхлэн Их Британийн Copilot хэрэглэгчдийн Anthropic Claude загварт хандалтыг анхдагчаар идэвхжүүлнэ. Администраторууд хугацаанд нь тохиргоогоо шалгаж, өгөгдөл АНУ-д боловсруулагдах тухай нөхцөлийг үнэлэх шаардлагатай.",
-   "body_mn": "The Register-ийн мэдээлснээр Microsoft 12-р сарын 9-нөөс эхлэн Их Британийн Copilot хэрэглэгчдэд Anthropic-ийн Claude загварт хандах боломжийг анхдагчаар идэвхжүүлнэ. Администратор тохиргоогоо өөрчлөөгүй бол автоматаар нээгдэнэ гэсэн үг.\n\nAnthropic нь Microsoft-ийн subprocessor байдлаар ажиллах бөгөөд холбогдох өгөгдлийг АНУ-д боловсруулдаг гэж Microsoft баримт бичигтээ тэмдэглэжээ. Их Британийн хэрэглэгчид Microsoft-ийн EU Data Boundary-д хамрагдаагүй тул энэ өөрчлөлт хийгдэж байгаа юм.\n\nМөн Microsoft Claude-ийн хандалтыг зөвхөн Microsoft 365-д хязгаарласан тохиргоог татан авч байна. Хөгжүүлэгч болон байгууллагын администраторууд өгөгдлийн нууцлал, хамрах хүрээний шаардлагаа шалгаж, шаардлагатай бол Claude-ийг идэвхгүй болгох хэрэгтэй.",
-   "published": "2026-11-10T11:30:00Z",
-   "added": "2026-11-12T20:13:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f321c904268bcef2",
-   "subtopic": "gemini",
-   "source": "Google DeepMind",
-   "source_label": "Google DeepMind",
-   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-   "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w1200-h630-n-nu-rw",
-   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-   "summary_en": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-   "title_mn": "DeepMind AlphaProof Code: Signal-ийн криптограф кодыг AI-аар формал баталгаажуулав",
-   "summary_mn": "Google DeepMind нь AlphaProof Code нэртэй agentic фреймворкоор Signal протоколын бодит кодын аюулгүй байдлын шинж чанаруудыг Lean ашиглан математикийн нотолгоотойгоор баталгаажуулжээ. Ажил нь дөрвөн долоо хоног үргэлжилсэн бөгөөд зуун мянга биш зургаан сая гаруй мөр Lean код үүсгэсэн.",
-   "body_mn": "Google DeepMind судлаачид Signal-ийн криптограф протоколын бодит кодыг AlphaProof Code гэх agentic фреймворк ашиглан формал баталгаажуулалтаар шалгажээ. Энэ нь өмнө нь олон жилийн турш хүндэтгэлтэй асуудал байсан гэж тэмдэглэгдсэн.\n\nАжлын явцад хүмүүс аюулгүй байдлын зорилтуудыг математик тодорхойлолт болгон хөрвүүлж, Gemini Carbon загварт суурилсан агентууд нотолгоо бичсэн. Үүний үр дүнд Lean хэлээр зургаан саяас илүү мөр код үүсгэсэн байна. Агентууд нотолгоог шалгаж, хүний шалгалт шаардлагатай хэсгийг кодын ердөө нэг хувь хүртэл багасгасан гэж мэдээлсэн.\n\nСудлаачид хоёр өмнө засагдсан алдааг буцаан оруулж, систем алдаатай хувилбарыг аюултай гэдгийг баталгаажуулж чадсан. Хөгжүүлэгчдэд энэ нь AI агентууд кодын аюулгүй байдлыг формал аргаар шалгах боломжтой болохыг харуулж байгаа техникийн томоохон алхам юм.",
-   "published": "2026-11-10T12:02:28Z",
-   "added": "2026-11-12T20:13:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ef83b8dc18b1604d",
-   "subtopic": "gemini",
-   "source": "Google AI Blog",
-   "source_label": "Google AI Blog",
-   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-1440x810.png",
-   "title": "Google Cloud launches Gemini for healthcare.",
-   "summary_en": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-   "title_mn": "Google Cloud эрүүл мэндийн салбарт зориулсан Gemini платформыг урьдчилан харуулав",
-   "summary_mn": "Google Cloud эмнэлгийн мэдээлэл, эмнэлгийн бичиг баримт, даатгалын ажлыг зохицуулах Gemini for healthcare платформыг танилцууллаа. Үүний хамт Gemini Decisions API урьдчилан харагдах хэлбэрээр гарсан.",
-   "body_mn": "Google Cloud Gemini for healthcare платформыг танилцуулсан бөгөөд энэ нь эрүүл мэндийн байгууллагын өгөгдлийн системүүдийг нэгтгэж, олон алхамтай ажлын урсгалыг гүйцэтгэх зорилготой. Платформ нь электрон эмнэлгийн бүртгэл, биллингийн систем, клиникийн удирдамж болон Medicare өгөгдлийн санд холбогдож чаддаг гэж дурдсан.\n\nМэдээнд эмнэлгүүд клиницистийн долоо хоногийн бичиг баримтад ойролцоогоор 28 цаг зарцуулдаг гэж тэмдэглэсэн. Платформ нь эмнэлгийн бичиг баримтын нэгтгэл, урьдчилан зөвшөөрөл шалгах зэрэг ажлыг хязгаарлагдсан дүрмийн дотор, хүний хяналттайгаар гүйцэтгэнэ. Урьдчилсан хувилбар HCA Healthcare, Highmark Health, Northwell Health зэрэг түншүүдтэйгээр эхэлжээ.\n\nХөгжүүлэгчдэд сонирхолтой нь Gemini Decisions API бөгөөд энэ нь Gemini Decision загварыг ашиглан хурдан, тооцоологдсон олон төрлийн шийдвэр гаргах боломжийг санал болгодог. Харин API-ийн дэлгэрэнгүй баримт, үнэ, хандалтын нөхцөл мэдээнд дурдагдаагүй.",
-   "published": "2026-11-10T13:00:00Z",
-   "added": "2026-11-12T20:13:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6d8eb3bcd497222d",
-   "subtopic": "gemini",
-   "source": "Google DeepMind",
-   "source_label": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "title": "Gemini 4 Carbon is now available",
-   "summary_en": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
-   "title_mn": "Google Gemini 4 Carbon загвар developer-т нээлттэй боллоо",
-   "summary_mn": "Google Gemini 4 Carbon загварыг API-аар, Google AI Studio болон Gemini for business-ээр хөгжүүлэгчдэд нээлттэй болгосон. Үнэ нь 1 сая input token-д $2, output token-д $10 бөгөөд Antigravity дээрх /swarm функц туршилтад орлоо.",
-   "body_mn": "Google DeepMind Gemini 4 Carbon загварыг хөгжүүлэгчид, компаниуд, эрдэмтэд болон хэрэглэгчдэд нээлттэй болгосноо зарлалаа. Carbon нь кибер аюулгүй байдал, урт хугацааны agent ажлын урсгал, программ хангамжийн инженерчлэл зэрэгт хамгийн хүчтэй загвар юм.\n\nAPI-аар Google AI Studio болон Gemini for business дээр бүх төлбөртэй хөгжүүлэгч, компанид боломжтой. Нэвтрүүлгийн үе шатны үнэ Gemini 4 Argon-тай адил буюу сая input token-д $2, сая output token-д $10. Google AI Ultra захиалагчид Antigravity, Gemini апп болон Search-ийн AI Mode-д хандах боломжтой.\n\nШинэ /swarm функц нь нэг prompt-ийг агентуудын багт хуваах боломж олгоно. Архитектур, зохицуулалт, аудит зэрэг хүнд үүрэгт Carbon, харин хөнгөн ажилд илүү хурдан загвар ашиглах боломжтой. Google нийтлэлдээ Three.js дээр суурилсан 3D төсөл, мөн 906K гурвалжинтай дахин бүтээсэн жишээг харуулсан.\n\nМөн Artificial Analysis-тай хамтран шинэ Multimodal Knowledge Agent (MKA) benchmark-ыг танилцуулсан бөгөөд Carbon энд 2-р байранд орж, дундаж ажлын зардал дээд загвараас 6 дахин бага гэжээ. Хөгжүүлэгчдэд энэ нь агент ажлын урсгалыг илүү үнэ бага хийх боломжтойг харуулж байна.",
-   "published": "2026-11-10T16:03:47Z",
-   "added": "2026-11-12T20:13:39Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "21811e8275c133f5",
    "subtopic": "react-native",
    "source": "Expo Changelog",
@@ -757,6 +557,106 @@
    "added": "2026-11-14T02:33:42Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cfb6a365ccc739ae",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/python-3-15-now-available-as-a-vercel-managed-image",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2E6JVvILIHYD5ETg1BfVAQ/57728733dd64b252498fad00b04d97dd/download__6_.jpeg",
+   "title": "Python 3.15 now available as a Vercel Managed Image",
+   "summary_en": "Python 3.15 is now available as a Vercel Managed Image for Vercel Sandbox . To run a sandbox with Python 3.15, select vercel/sandbox/python:3.15 using the image option in either SDK or the --image flag in the CLI. The default universal image ( vercel/sandbox/universal:latest ) still ships Python 3.14 and is scheduled to switch to Python 3.15 on December 16, 2026. Learn more in the Vercel Sandbox images documentation . Read more",
+   "title_mn": "Vercel Sandbox орчинд Python 3.15 хувилбар албан ёсоор дэмжигдлээ",
+   "summary_mn": "Vercel Sandbox дээр Python 3.15 менежменттэй образ ашиглах боломжтой болсон бөгөөд үндсэн universal image хувилбар ирэх сард шинэчлэгдэнэ.",
+   "body_mn": "Vercel компани Sandbox орчиндоо Python 3.15 хувилбарыг албан ёсоор нэмлээ. Хөгжүүлэгчид SDK эсвэл CLI ашиглан vercel/sandbox/python:3.15 гэсэн образыг сонгосноор уг хувилбар дээр төслөө ажиллуулах боломжтой болж байна.\n\nОдоогоор үндсэн universal образ буюу vercel/sandbox/universal:latest нь Python 3.14 хувилбарыг ашиглаж байгаа ба 2026 оны 12 дугаар сарын 16-нд Python 3.15 рүү шилжихээр төлөвлөгджээ.",
+   "published": "2026-11-12T00:00:00Z",
+   "added": "2026-11-14T09:40:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d5504ac50c42ed4e",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/inkling-2-small-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2HNVh7RuhyFA2VRBrWsjQx/59ec6d243e41a4327055f5c208843eb5/Vercel_x_Thinking_Machines.png",
+   "title": "Inkling 2 Small now available on AI Gateway",
+   "summary_en": "Inkling 2 Small from Thinking Machines is now available on AI Gateway. The multimodal reasoning model supports coding agents, visual understanding, and professional knowledge work, with text and image inputs and text output. Inkling 2 Small can work through extended coding tasks, use tools to gather information, and turn that information into documents, spreadsheets, and other deliverables. Its visual capabilities include reading text in images, interpreting charts and infographics, and inspecting interfaces. For visual development, it can use screenshots to check the output of the code it…",
+   "title_mn": "Thinking Machines компаниас Inkling 2 Small загварыг AI Gateway рүү нэмлээ",
+   "summary_mn": "AI Gateway дээр Thinking Machines-ийн Inkling 2 Small загвар нэмэгдсэн нь код бичих, дүрслэл ойлгох болон өргөн хүрээний ажлуудыг гүйцэтгэх боломж олгож байна.",
+   "body_mn": "Thinking Machines компанийн бүтээсэн Inkling 2 Small олон төрлийн өгөгдөл боловсруулах загвар AI Gateway дээр албан ёсоор боломжтой боллоо. Энэхүү загвар нь код бичих агент болон визуаль ойлголт шаардсан мэргэжлийн ажлуудыг хийхэд зориулагдсан бөгөөд текст болон зурган оролтыг дэмждэг.\n\nInkling 2 Small нь хөгжүүлэлтийн явцад дэлгэцийн зураг ашиглан бичсэн кодынхоо үр дүнг шалгах, баримт бичиг болон хүснэгт үүсгэх чадвартай. Хөгжүүлэгчид Vercel CLI ашиглан уг загварыг өөрийн агентуудад хялбархан холбож ашиглах боломжтой.",
+   "published": "2026-11-12T00:00:00Z",
+   "added": "2026-11-14T09:40:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "06b62e6ecdcf3313",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
+   "title": "Gemini 4 Hydrogen now available on AI Gateway",
+   "summary_en": "Gemini 4 Hydrogen from Google is now available on AI Gateway. Gemini 4 Hydrogen succeeds Gemini 3.8 Flash, improving agentic coding, knowledge work, and tool use while staying in the same latency class. It handles longer engineering tasks and produces better-researched documents, spreadsheets, and presentations in fewer agent steps. Hydrogen follows system instructions, formatting requirements, and task boundaries more closely, with more reliable tool orchestration across long conversations. Improvements in visual reasoning and technical problem-solving support multimodal workflows, while…",
+   "title_mn": "Gemini 4 Hydrogen загвар Vercel AI Gateway дээр боломжтой боллоо",
+   "summary_mn": "Google-ийн Gemini 4 Hydrogen загвар Vercel AI Gateway дээр нээлттэй болсон. Загвар нь agent-ийн кодчилол, tool use болон урт даалгаврын чанарыг сайжруулсан бөгөөд google/gemini-4-hydrogen гэсэн нэрээр дуудна.",
+   "body_mn": "Google-ийн Gemini 4 Hydrogen загвар Vercel AI Gateway платформ дээр боломжтой боллоо. Энэ загвар Gemini 3.8 Flash-ийн залгамжлагч бөгөөд latency түвшнээ хадгалсаар агent-ийн кодчилол, мэдлэгт суурилсан ажил болон tool use чадварыг сайжруулсан гэж мэдээлсэн.\n\nHydrogen нь урт инженерийн даалгавруудыг илүү цөөн agent алхмаар гүйцэтгэх, баримт бичиг, хүснэгт, презентацийг илүү сайн бэлтгэх чадвартай. Системийн заавар, формат болон даалгаврын хязгаарыг илүү нарийн дагах бөгөөд урт харилцан яриан дахь tool orchestration найдвартай болсон.\n\nМөн visual reasoning болон техникийн асуудал шийдвэрлэх чадвар сайжирсан тул multimodal ажлын урсгалд тустай. Search-д суурилсан хариултад баталгаагүй мэдэгдэл багасч, кодын тайланд зохиомол tool эсвэл тестийн үр дүн гаргах асуудал бууруулсан гэж тодорхойлсон.\n\nЗагварыг Claude Code, Codex, Cursor зэрэг хэрэгсэлд ашиглах боломжтой. Vercel CLI-ийг шинэчилж суулгаад setup командыг ажиллуулаад agent-д google/gemini-4-hydrogen сонгоно. Үнийг провайдерын үнээр, нэмэлт маржингүйгээр тооцдог гэж заасан.",
+   "published": "2026-11-12T00:00:00Z",
+   "added": "2026-11-14T09:40:38Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3d73e6ed96bd13cd",
+   "subtopic": "packages",
+   "source": "Node Weekly",
+   "source_label": "Node Weekly",
+   "url": "https://nodeweekly.com/issues/647",
+   "image": "https://res.cloudinary.com/cpress/image/upload/v1653576619/lgfqinzbdqttwmhvljxb.png",
+   "title": "22 Node, Bun and Deno stacks benchmarked",
+   "summary_en": "#​647 — November 12, 2026 Read on the Web An Experimental 'Green Threads' Implementation for Node — James has opened a PR that adds a new, lightweight kind of worker that shares a small pool of OS threads, with each worker getting its own V8 isolate (but no Node APIs). His numbers show a thousand of them using about 1GB of memory vs 6.7GB for regular worker threads. Early days, but a promising idea that deserves feedback. James M Snell Debug Errors and Agents Faster: Sentry Changelog Live — A walkthrough of what’s new for debugging errors and performance issues, including fixing production…",
+   "title_mn": "Node.js 27 alpha, Fastify дээр шилжсэн X, AWS Emulator болон бусад долоо хоногийн тоймууд",
+   "summary_mn": "Node Weekly-ийн энэ дугаарт Node.js 27 alpha, Node 22/24/26 аюулгүй байдлын шинэчлэл, X-ийн Fastify дээрх шинэ backend, AWS-ийн албан ёсны локал emulator зэрэг гол мэдээ багтжээ. Node.js-ийн хувилбаруудыг нэн даруй шинэчлэх шаардлагатай.",
+   "body_mn": "Node Weekly-ийн энэ дугаарт JavaScript экосистемийн хэд хэдэн чухал мэдээ багтжээ. Хамгийн анхаарал татсан нь Node.js 22.23.5, 24.22.3, 26.13.1 хувилбарууд бөгөөд HTTP/2, TLS, zlib болон permission model-ийн олон аюулгүй байдлын алдааг засжээ. Тэдгээрийн долоо нь 'high' зэрэглэлтэй гэж үнэлэгдсэн тул шинэчлэх нь чухал.\n\nNode.js 27 alpha хувилбарын талаар тойм нийтлэл гарсан. Энд iterator helpers, promise-д суурилсан node:net/promises API, хуучин flag-гүй болсон virtual file system болон v27-ийн breaking change-үүд багтсан. Мөн browser-тай ижил Web Worker API Node-ийн main branch дээр идэвхжсэн тул дараагийн alpha-д гарч магадгүй.\n\nX нь вэб аппликейшнаа Fastify болон Platformatic Watt дээр дахин бүтээж, Node 26 дээр worker threads ашиглаж байгаа тухай тайлбар бий. Netlify Server, Val Town-ийн хаагдах тухай мэдээ, node:yaml модулийн санал зэрэг бусад мэдээ ч бий.\n\nAWS Emulator нь Rust-аар бичигдсэн албан ёсны локал эмулятор бөгөөд AWS SDK болон CLI-г локал endpoint руу чиглүүлэх боломжтой. Үйлчилгээний олон интерфэйсийг дэмжиж, агент-д зориулагдсан гэж тайлбарласан. Мөн bee-js пакетын release процесс хакердсан тухай тайлбар нь npm-ийн trusted publishing аюулгүй байдлын сэрэмжлүүлэг юм.",
+   "published": "2026-11-12T00:00:00Z",
+   "added": "2026-11-14T09:40:38Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4f80e67c95492b02",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-managed-npm-credentials",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2VsYzD4yEsm6inCdh44C80/9d6277ca54a3ae1c0065cb23316731df/download__2_.jpeg",
+   "title": "Vercel Sandbox now supports managed npm credentials",
+   "summary_en": "Vercel Sandbox can now install your team's private npm packages using credentials stored in team Shared Environment Variables . Custom registries such as GitHub Packages and JFrog Artifactory are also supported. Pass credentials: { npm: true } when creating a sandbox to let it use your team's existing npm credentials. Tokens stay outside the sandbox. The firewall adds authentication to install requests sent to your configured registries, so a coding agent can install dependencies without seeing the tokens. Update your Sandbox SDK or CLI to the latest version. Read the npm credentials…",
+   "title_mn": "Vercel Sandbox хувийн npm пакетуудыг managed credentials-аар суулгах боломжтой боллоо",
+   "summary_mn": "Vercel Sandbox нь багийн Shared Environment Variables-д хадгалсан credentials-аар хувийн npm пакет суулгах боломжтой боллоо. GitHub Packages болон JFrog Artifactory зэрэг custom registry-г дэмжинэ.",
+   "body_mn": "Vercel Sandbox одоо багийнхаа хувийн npm пакетуудыг Shared Environment Variables-д хадгалсан credentials ашиглан суулгах боломжтой боллоо. Мөн GitHub Packages, JFrog Artifactory зэрэг custom registry-г дэмжиж байна.\n\nSandbox үүсгэх үед credentials: { npm: true } гэж заахад тухайн sandbox багийн одоо байгаа npm credentials-ийг ашиглана. Энэ нь хувийн пакет суулгах процессыг ихэвчлэн гар аргаар тохируулахгүйгээр хийх боломжийг олгоно.\n\nTokens нь sandbox-ийн гадна үлддэг. Firewall нь суулгах хүсэлтүүдэд тохируулсан registry-д нэвтрэх эрхийг нэмдэг тул coding agent токеныг харахгүйгээр dependencies суулгаж чадна. Энэ нь аюулгүй байдлын талаас чухал давуу тал юм.\n\nХөгжүүлэгчид Sandbox SDK эсвэл CLI-ийнхээ хамгийн сүүлийн хувилбарыг суулгах шаардлагатай. Дэлгэрэнгүй заавар нь Vercel-ийн npm credentials баримт бичигт байна.",
+   "published": "2026-11-12T01:56:00Z",
+   "added": "2026-11-14T09:40:38Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
   }
  }
 ]

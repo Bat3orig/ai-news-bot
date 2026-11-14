@@ -1,0 +1,17 @@
+{
+ "id": "4f80e67c95492b02",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-managed-npm-credentials",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2VsYzD4yEsm6inCdh44C80/9d6277ca54a3ae1c0065cb23316731df/download__2_.jpeg",
+ "title": "Vercel Sandbox now supports managed npm credentials",
+ "summary_en": "Vercel Sandbox can now install your team's private npm packages using credentials stored in team Shared Environment Variables . Custom registries such as GitHub Packages and JFrog Artifactory are also supported. Pass credentials: { npm: true } when creating a sandbox to let it use your team's existing npm credentials. Tokens stay outside the sandbox. The firewall adds authentication to install requests sent to your configured registries, so a coding agent can install dependencies without seeing the tokens. Update your Sandbox SDK or CLI to the latest version. Read the npm credentials…",
+ "title_mn": "Vercel Sandbox хувийн npm пакетуудыг managed credentials-аар суулгах боломжтой боллоо",
+ "summary_mn": "Vercel Sandbox нь багийн Shared Environment Variables-д хадгалсан credentials-аар хувийн npm пакет суулгах боломжтой боллоо. GitHub Packages болон JFrog Artifactory зэрэг custom registry-г дэмжинэ.",
+ "body_mn": "Vercel Sandbox одоо багийнхаа хувийн npm пакетуудыг Shared Environment Variables-д хадгалсан credentials ашиглан суулгах боломжтой боллоо. Мөн GitHub Packages, JFrog Artifactory зэрэг custom registry-г дэмжиж байна.\n\nSandbox үүсгэх үед credentials: { npm: true } гэж заахад тухайн sandbox багийн одоо байгаа npm credentials-ийг ашиглана. Энэ нь хувийн пакет суулгах процессыг ихэвчлэн гар аргаар тохируулахгүйгээр хийх боломжийг олгоно.\n\nTokens нь sandbox-ийн гадна үлддэг. Firewall нь суулгах хүсэлтүүдэд тохируулсан registry-д нэвтрэх эрхийг нэмдэг тул coding agent токеныг харахгүйгээр dependencies суулгаж чадна. Энэ нь аюулгүй байдлын талаас чухал давуу тал юм.\n\nХөгжүүлэгчид Sandbox SDK эсвэл CLI-ийнхээ хамгийн сүүлийн хувилбарыг суулгах шаардлагатай. Дэлгэрэнгүй заавар нь Vercel-ийн npm credentials баримт бичигт байна.",
+ "published": "2026-11-12T01:56:00Z",
+ "added": "2026-11-14T09:40:38Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "cfb6a365ccc739ae",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/python-3-15-now-available-as-a-vercel-managed-image",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2E6JVvILIHYD5ETg1BfVAQ/57728733dd64b252498fad00b04d97dd/download__6_.jpeg",
+ "title": "Python 3.15 now available as a Vercel Managed Image",
+ "summary_en": "Python 3.15 is now available as a Vercel Managed Image for Vercel Sandbox . To run a sandbox with Python 3.15, select vercel/sandbox/python:3.15 using the image option in either SDK or the --image flag in the CLI. The default universal image ( vercel/sandbox/universal:latest ) still ships Python 3.14 and is scheduled to switch to Python 3.15 on December 16, 2026. Learn more in the Vercel Sandbox images documentation . Read more",
+ "title_mn": "Vercel Sandbox орчинд Python 3.15 хувилбар албан ёсоор дэмжигдлээ",
+ "summary_mn": "Vercel Sandbox дээр Python 3.15 менежменттэй образ ашиглах боломжтой болсон бөгөөд үндсэн universal image хувилбар ирэх сард шинэчлэгдэнэ.",
+ "body_mn": "Vercel компани Sandbox орчиндоо Python 3.15 хувилбарыг албан ёсоор нэмлээ. Хөгжүүлэгчид SDK эсвэл CLI ашиглан vercel/sandbox/python:3.15 гэсэн образыг сонгосноор уг хувилбар дээр төслөө ажиллуулах боломжтой болж байна.\n\nОдоогоор үндсэн universal образ буюу vercel/sandbox/universal:latest нь Python 3.14 хувилбарыг ашиглаж байгаа ба 2026 оны 12 дугаар сарын 16-нд Python 3.15 рүү шилжихээр төлөвлөгджээ.",
+ "published": "2026-11-12T00:00:00Z",
+ "added": "2026-11-14T09:40:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

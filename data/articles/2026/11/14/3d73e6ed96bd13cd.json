@@ -1,0 +1,17 @@
+{
+ "id": "3d73e6ed96bd13cd",
+ "subtopic": "packages",
+ "source": "Node Weekly",
+ "source_label": "Node Weekly",
+ "url": "https://nodeweekly.com/issues/647",
+ "image": "https://res.cloudinary.com/cpress/image/upload/v1653576619/lgfqinzbdqttwmhvljxb.png",
+ "title": "22 Node, Bun and Deno stacks benchmarked",
+ "summary_en": "#​647 — November 12, 2026 Read on the Web An Experimental 'Green Threads' Implementation for Node — James has opened a PR that adds a new, lightweight kind of worker that shares a small pool of OS threads, with each worker getting its own V8 isolate (but no Node APIs). His numbers show a thousand of them using about 1GB of memory vs 6.7GB for regular worker threads. Early days, but a promising idea that deserves feedback. James M Snell Debug Errors and Agents Faster: Sentry Changelog Live — A walkthrough of what’s new for debugging errors and performance issues, including fixing production…",
+ "title_mn": "Node.js 27 alpha, Fastify дээр шилжсэн X, AWS Emulator болон бусад долоо хоногийн тоймууд",
+ "summary_mn": "Node Weekly-ийн энэ дугаарт Node.js 27 alpha, Node 22/24/26 аюулгүй байдлын шинэчлэл, X-ийн Fastify дээрх шинэ backend, AWS-ийн албан ёсны локал emulator зэрэг гол мэдээ багтжээ. Node.js-ийн хувилбаруудыг нэн даруй шинэчлэх шаардлагатай.",
+ "body_mn": "Node Weekly-ийн энэ дугаарт JavaScript экосистемийн хэд хэдэн чухал мэдээ багтжээ. Хамгийн анхаарал татсан нь Node.js 22.23.5, 24.22.3, 26.13.1 хувилбарууд бөгөөд HTTP/2, TLS, zlib болон permission model-ийн олон аюулгүй байдлын алдааг засжээ. Тэдгээрийн долоо нь 'high' зэрэглэлтэй гэж үнэлэгдсэн тул шинэчлэх нь чухал.\n\nNode.js 27 alpha хувилбарын талаар тойм нийтлэл гарсан. Энд iterator helpers, promise-д суурилсан node:net/promises API, хуучин flag-гүй болсон virtual file system болон v27-ийн breaking change-үүд багтсан. Мөн browser-тай ижил Web Worker API Node-ийн main branch дээр идэвхжсэн тул дараагийн alpha-д гарч магадгүй.\n\nX нь вэб аппликейшнаа Fastify болон Platformatic Watt дээр дахин бүтээж, Node 26 дээр worker threads ашиглаж байгаа тухай тайлбар бий. Netlify Server, Val Town-ийн хаагдах тухай мэдээ, node:yaml модулийн санал зэрэг бусад мэдээ ч бий.\n\nAWS Emulator нь Rust-аар бичигдсэн албан ёсны локал эмулятор бөгөөд AWS SDK болон CLI-г локал endpoint руу чиглүүлэх боломжтой. Үйлчилгээний олон интерфэйсийг дэмжиж, агент-д зориулагдсан гэж тайлбарласан. Мөн bee-js пакетын release процесс хакердсан тухай тайлбар нь npm-ийн trusted publishing аюулгүй байдлын сэрэмжлүүлэг юм.",
+ "published": "2026-11-12T00:00:00Z",
+ "added": "2026-11-14T09:40:38Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

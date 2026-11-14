@@ -1,0 +1,17 @@
+{
+ "id": "06b62e6ecdcf3313",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
+ "title": "Gemini 4 Hydrogen now available on AI Gateway",
+ "summary_en": "Gemini 4 Hydrogen from Google is now available on AI Gateway. Gemini 4 Hydrogen succeeds Gemini 3.8 Flash, improving agentic coding, knowledge work, and tool use while staying in the same latency class. It handles longer engineering tasks and produces better-researched documents, spreadsheets, and presentations in fewer agent steps. Hydrogen follows system instructions, formatting requirements, and task boundaries more closely, with more reliable tool orchestration across long conversations. Improvements in visual reasoning and technical problem-solving support multimodal workflows, while…",
+ "title_mn": "Gemini 4 Hydrogen загвар Vercel AI Gateway дээр боломжтой боллоо",
+ "summary_mn": "Google-ийн Gemini 4 Hydrogen загвар Vercel AI Gateway дээр нээлттэй болсон. Загвар нь agent-ийн кодчилол, tool use болон урт даалгаврын чанарыг сайжруулсан бөгөөд google/gemini-4-hydrogen гэсэн нэрээр дуудна.",
+ "body_mn": "Google-ийн Gemini 4 Hydrogen загвар Vercel AI Gateway платформ дээр боломжтой боллоо. Энэ загвар Gemini 3.8 Flash-ийн залгамжлагч бөгөөд latency түвшнээ хадгалсаар агent-ийн кодчилол, мэдлэгт суурилсан ажил болон tool use чадварыг сайжруулсан гэж мэдээлсэн.\n\nHydrogen нь урт инженерийн даалгавруудыг илүү цөөн agent алхмаар гүйцэтгэх, баримт бичиг, хүснэгт, презентацийг илүү сайн бэлтгэх чадвартай. Системийн заавар, формат болон даалгаврын хязгаарыг илүү нарийн дагах бөгөөд урт харилцан яриан дахь tool orchestration найдвартай болсон.\n\nМөн visual reasoning болон техникийн асуудал шийдвэрлэх чадвар сайжирсан тул multimodal ажлын урсгалд тустай. Search-д суурилсан хариултад баталгаагүй мэдэгдэл багасч, кодын тайланд зохиомол tool эсвэл тестийн үр дүн гаргах асуудал бууруулсан гэж тодорхойлсон.\n\nЗагварыг Claude Code, Codex, Cursor зэрэг хэрэгсэлд ашиглах боломжтой. Vercel CLI-ийг шинэчилж суулгаад setup командыг ажиллуулаад agent-д google/gemini-4-hydrogen сонгоно. Үнийг провайдерын үнээр, нэмэлт маржингүйгээр тооцдог гэж заасан.",
+ "published": "2026-11-12T00:00:00Z",
+ "added": "2026-11-14T09:40:38Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}
