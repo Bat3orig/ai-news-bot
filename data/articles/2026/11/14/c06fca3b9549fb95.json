@@ -1,0 +1,17 @@
+{
+ "id": "c06fca3b9549fb95",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
+ "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+ "summary_en": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+ "title_mn": "Gemini Decisions API болон Gemini Decision 1 загвар танилцуулагдлаа",
+ "summary_mn": "Google компани олон төрлийн мультимедиа өгөгдлийг нэг дор үнэлж, хурдан шийдвэр гаргах Gemini Decisions API болон Gemini Decision 1 загварыг зарлалаа.",
+ "body_mn": "Google AI Studio дээр ашиглах боломжтой болсон Gemini Decisions API нь хөгжүүлэгчдэд текстийн болон мультимедиа оролтод суурилсан тийм/үгүй, сонголттой асуултуудыг богино хугацаанд үнэлэх боломжийг олгож байна. Шинэ Gemini Decision 1 загвар нь нэг удаагийн дамжуулалтаар 1,000 хүртэлх асуултад итгэлцлийн оноо тооцож хариулах чадвартай.\n\nЭнэхүү шинэ шийдэл нь агент чиглүүлэлт, бодлогын шалгалт болон контент үнэлэх зэрэг ажлуудад маш бага хоцролттойгоор ажиллахаар бүтээгджээ. Мөн оролтын токены үнэ хямд бөгөөд гарц токен төлбөргүй байх нь хөгжүүлэгчдэд зардал хэмнэх давуу талыг олгож байна.",
+ "published": "2026-11-11T18:00:00Z",
+ "added": "2026-11-14T02:33:42Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

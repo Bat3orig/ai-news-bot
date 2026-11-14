@@ -1,0 +1,17 @@
+{
+ "id": "ab42248d8bdf61c3",
+ "subtopic": "node",
+ "source": "Node.js Blog",
+ "source_label": "Node.js Blog",
+ "url": "https://nodejs.org/en/blog/release/v26.13.1",
+ "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.13.1%20(LTS)",
+ "title": "Node.js 26.13.1 (LTS)",
+ "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+ "title_mn": "Node.js 26.13.1 (LTS) хувилбар албан ёсоор гарлаа",
+ "summary_mn": "Node.js 26 цувралын шинэ LTS хувилбар болох Node.js 26.13.1 бэлэн боллоо. Уг шинэчлэлт нь олон төрлийн платформ болон архитектурт зориулсан бинар файлуудыг агуулж байна.",
+ "body_mn": "Node.js 26 LTS хувилбарын шинэчлэлт болох Node.js 26.13.1 албан ёсоор хэрэглэгчдийн хүртээл боллоо. Хөгжүүлэгчид Windows x64/ARM64, macOS Apple Silicon болон Intel, мөн Linux орчинд зориулсан суулгагч болон tarball файлуудыг татан авч ашиглах боломжтой.\n\nЭнэхүү хувилбар нь орчин үеийн JavaScript хөгжүүлэлтийн шаардлагыг хангаж, тогтвортой ажиллагааг санал болгодог. Шинэ боломжууд болон засваруудын дэлгэрэнгүйг албан ёсны баримтжуулалтаас харж болно.",
+ "published": "2026-11-11T16:45:20Z",
+ "added": "2026-11-14T02:33:42Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

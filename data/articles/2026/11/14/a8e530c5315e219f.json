@@ -1,0 +1,17 @@
+{
+ "id": "a8e530c5315e219f",
+ "subtopic": "node",
+ "source": "Node.js Blog",
+ "source_label": "Node.js Blog",
+ "url": "https://nodejs.org/en/blog/release/v22.23.5",
+ "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2022.23.5%20(LTS)",
+ "title": "Node.js 22.23.5 (LTS)",
+ "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+ "title_mn": "Node.js 22.23.5 (LTS) хувилбар гарлаа",
+ "summary_mn": "Node.js 22 LTS хувилбарын шинэ шинэчлэлт болох v22.23.5 албан ёсоор гарлаа. Энэхүү хувилбар нь Windows, macOS болон Linux системүүдэд зориулсан суурилуулагч файлууд болон баримтжуулалтыг багтаасан болно.",
+ "body_mn": "Node.js платформын урт хугацааны дэмжлэгтэй (LTS) 22-р салбарын шинэ хувилбар болох Node.js 22.23.5 бэлэн боллоо. Хөгжүүлэгчид албан ёсны вэб сайтаас Windows, macOS, болон Linux үйлдлийн системүүдэд зориулсан 32 болон 64 бит хувилбарууд, мөн ARM архитектурын суулгагч болон бинар файлуудыг татаж авах боломжтой.\n\nЭнэхүү засвар болон тогтворжуулалтын шинэчлэлт нь үйлдвэрлэлийн орчинд ажиллаж буй серверийн аппликейшнүүдийн найдвартай ажиллагааг хангахад чухал үүрэгтэй. Төслүүдээ шинэчлэх явцдаа API баримтжуулалтыг сайтар шалгаж байхыг зөвлөж байна.",
+ "published": "2026-11-11T16:44:58Z",
+ "added": "2026-11-14T02:33:42Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

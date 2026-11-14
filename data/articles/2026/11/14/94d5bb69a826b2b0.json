@@ -1,0 +1,17 @@
+{
+ "id": "94d5bb69a826b2b0",
+ "subtopic": "node",
+ "source": "Node.js Blog",
+ "source_label": "Node.js Blog",
+ "url": "https://nodejs.org/en/blog/release/v24.22.3",
+ "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.3%20(LTS)",
+ "title": "Node.js 24.22.3 (LTS)",
+ "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+ "title_mn": "Node.js 24.22.3 (LTS) шинэчлэлт гарлаа",
+ "summary_mn": "Node.js 24 LTS хувилбарын шинэ засвар болох v24.22.3 хувилбар албан ёсоор цацагдлаа. Хөгжүүлэгчид төрөл бүрийн платформ дээрх суулгагч болон эх кодыг татаж авах боломжтой.",
+ "body_mn": "Node.js 24 LTS салбарын шинэ шинэчлэлт болох Node.js 24.22.3 хувилбар гарсан байна. Энэхүү хувилбарт төрөл бүрийн үйлдлийн системд зориулсан пакетууд багтсан бөгөөд хөгжүүлэгчид macOS Apple Silicon, Windows болон Linux орчин руу хялбархан суулгах боломжтой.\n\nПлатформын тогтвортой байдлыг хангах үүднээс энэхүү LTS хувилбар руу шилжих нь чухал юм. Бүх төрлийн суулгах файлууд болон API баримтуудыг Node.js сангаас албан ёсоор авах боломжтой.",
+ "published": "2026-11-11T16:45:11Z",
+ "added": "2026-11-14T02:33:42Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

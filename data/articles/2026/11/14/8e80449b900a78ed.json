@@ -1,0 +1,17 @@
+{
+ "id": "8e80449b900a78ed",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "TeslaNorth.com",
+ "url": "https://teslanorth.com/2026/11/11/grok-bot-1-0-slack-teams-meetings/",
+ "image": "https://cdn.teslanorth.com/wp-content/uploads/2026/09/grok-bot-teams-web.jpg",
+ "title": "Grok Bot 1.0 Brings AI Teammates to Slack, Teams and Meetings",
+ "summary_en": "Grok Bot introduces version 1.0 with shared AI teammates, Slack and Teams collaboration, and meeting support on selected plans.",
+ "title_mn": "Grok Bot 1.0 нь Slack болон Microsoft Teams-т нэгдлээ",
+ "summary_mn": "Grok Bot хувилбар 1.0 нь багуудад зориулсан хамтын ажиллагааны хэрэгслүүд, Slack болон Teams платформуудтай ажиллах боломжтойгоор албан ёсоор гарлаа.",
+ "body_mn": "Grok Bot албан ёсны 1.0 хувилбараа гаргаж, багийн хамтын ажиллагааг сайжруулах зорилгоор Slack, Microsoft Teams зэрэг платформуудад нэгтгэснээ зарлалаа. Энэхүү шинэ хувилбар нь багийн гишүүдтэй хамт ажиллах, ду ду ду ду ду ду ду...\n\nХамтарсан ботууд нь хэлэлцүүлгийг дагаж, шийдвэр гаргалтыг бүртгэхээс гадна хурал уулзалтуудад оролцох боломжтой байна. Гэсэн хэдий ч зарим дэвшилтэт боломжууд зөвхөн Team болон Enterprise багц хэрэглэгчдэд нээлттэй ажээ.",
+ "published": "2026-11-11T19:16:20Z",
+ "added": "2026-11-14T02:33:42Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
