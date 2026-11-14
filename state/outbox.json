@@ -658,5 +658,85 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "613614863eabc382",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v45.3.1",
+   "image": "https://opengraph.githubassets.com/856dfe69bf59357113b68c535f882b1c0ffe2a9f00791e1bf9ef597d53def2a2/electron/electron/releases/tag/v45.3.1",
+   "title": "electron v45.3.1",
+   "summary_en": "Release Notes for v45.3.1 Fixes Fixed a macOS notification observer leak when unsubscribing via another method. #55732 (Also in 44 , 46 ) Stopped trusting certificates issued by eMudhra 's revoked RSA intermediates. #55742 (Also in 43 , 44 , 46 )",
+   "title_mn": "Electron v45.3.1: macOS мэдэгдлийн ажиглагчийн алдагдал засагдаж, eMudhra гэрчилгээ хасагдлаа",
+   "summary_mn": "Electron-ийн v45.3.1 хувилбар гарлаа. Энэ хувилбарт macOS дээр мэдэгдлийн observer-ийн алдагдал засагдсан, мөн eMudhra-ийн хүчингүй болсон RSA завсрын гэрчилгээнд итгэхээ больсон.",
+   "body_mn": "Electron-ийн v45.3.1 хувилбарт хоёр засвар орсон. Эхнийх нь macOS дээр мэдэгдлийн observer-ийн алдагдлыг засах явдал юм. Энэ алдагдал нь өөр аргаар бүртгэлээс гарахад илэрдэг байсан бөгөөд #55732 issue-д бүртгэгдсэн. Энэ засвар 44 болон 46 хувилбарт мөн орсон.\n\nХоёрдахь засвар нь eMudhra-ийн хүчингүй болсон RSA завсрын гэрчилгээнүүдэд итгэхээ зогсоох явдал юм. Энэ нь аюулгүй байдлын үүднээс чухал өөрчлөлт бөгөөд #55742 PR-ээр орсон. Засвар 43, 44, 46 хувилбаруудад мөн хамаарна.\n\nElectron-оор апп хөгжүүлдэг хүмүүс энэ шинэчлэлтийг аль болох хурдан суулгах хэрэгтэй. Ялангуяа гэрчилгээний шалгалтад тулгуурласан апп-уудад энэ нь шууд нөлөөлнө.",
+   "published": "2026-11-12T02:05:25Z",
+   "added": "2026-11-14T16:16:50Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "81f5f210f13c0b99",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "TOKENPOST",
+   "url": "https://www.tokenpost.com/news/technology/55124",
+   "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/a056578b68df807def7f88269e237c3337992dc4023b959bca381a5aad46af19.webp",
+   "title": "SpaceXSI’s Grok Bot 1.0 Adds Slack, Teams and Meeting Support",
+   "summary_en": "Coworkers can share one bot on Team or Enterprise plans. Joining calls requires an Ultra plan.",
+   "title_mn": "Grok Bot 1.0 Slack, Teams болон хурлын дэмжлэгтэй боллоо",
+   "summary_mn": "SpaceXSI-ийн Grok Bot 1.0 нь Slack болон Microsoft Teams-д хуваалцсан AI агент болгон ажиллаж, хурлд нэгдэх боломжтой боллоо. Хурлд нэгдэхэд Ultra план шаардлагатай.",
+   "body_mn": "SpaceXSI-ийн Grok Bot 1.0 хамтран ажиллах AI агентыг Slack болон Microsoft Teams-д авчирч, Google Meet, Zoom, Microsoft Teams дээрх хурлд нэгдэх боломжийг олгож байна. Microsoft Teams нь чат болон хурал хоёуланг дэмждэг.\n\nБагийн чат болон хурлын контекстыг нэгтгэн авч явах, хугацаа дуусах ажлыг сануулах, дуусаагүй даалгаврыг олох, асуудлыг хүнд дамжуулах боломжтой. Энэ агентыг хуваалцсан байдлаар Team эсвэл Enterprise планд суулгана.\n\nХурлд нэгдэх функц Ultra планд шаардлагатай. Бета хугацаа 2026 оны 8-р сарын 11-нд эхэлсэн бөгөөд 11-р сарын 11-нд Grok Bot 1.0 хувилбар гарсан гэж мэдээлсэн. Хөгжүүлэгчдэд шууд API мэдээлэл дурдагдаагүй боловч ажлын урсгалын интеграцид ач холбогдолтой.",
+   "published": "2026-11-12T08:24:55Z",
+   "added": "2026-11-14T16:16:50Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "94de19949393b135",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Technology Org",
+   "url": "https://www.technology.org/2026/11/12/grok-build-flaw-leaks-data-spacexsi-claroc/",
+   "image": "",
+   "title": "Grok Build Flaw Exposed Data From Thousands of Apps, Including SpaceXSI’s Own",
+   "summary_en": "",
+   "title_mn": "Grok Build алдаа мянга мянган аппын өгөгдлийг илрүүлсэн, үүнд SpaceXSI-ийнх ч багтжээ",
+   "summary_mn": "Technology Org-ийн мэдээлснээр Grok Build-ийн алдаанаас олон аппын өгөгдөл ил гарсан бөгөөд SpaceXSI-ийн өөрийн өгөгдөл ч орсон байна.",
+   "body_mn": "Technology Org Grok Build-ийн алдаанаас мянга мянган аппын өгөгдөл ил гарсныг мэдээлсэн. Үүнд SpaceXSI-ийн өөрийн технологи ч багтсан байна.\n\nТекст хязгаарлагдмал байгаа тул алдааны техникийн шинж чанар, засвар, хугацааны дэлгэрэнгүй мэдээлэл тодорхойгүй. Хөгжүүлэгчдэд AI кодын агентаар бүтээсэн аппын аюулгүй байдлыг шалгах шаардлагатай гэдгийг сануулж байна.",
+   "published": "2026-11-12T09:54:00Z",
+   "added": "2026-11-14T16:16:50Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9211d4cd82ed95b4",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Help Net Security",
+   "url": "https://www.helpnetsecurity.com/2026/11/12/stolen-claude-api-keys-remote-controlled-implant/",
+   "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/12064238/claude-hand-1500.webp",
+   "title": "Stolen Claude API keys can turn Claude Code into a remote-controlled implant",
+   "summary_en": "Darktrace used stolen Claude API keys to steer Claude Code through memory stores in a lab, exfiltrating a 1 GB file via Anthropic’s own API.",
+   "title_mn": "Хулгайлагдсан Claude API түлхүүрээр Claude Code-ийг алсаас удирдах хортой код болгож болно",
+   "summary_mn": "Darktrace судалгаагаар Claude Code-ийг memory stores болон Files API ашиглан алсаас удирдах боломжтойг лабораторид харуулжээ. Халдагчид эхлээд хэрэглэгчийн Claude итгэмжлэлийг авсан байх шаардлагатай.",
+   "body_mn": "Darktrace судлаачид Claude Code-ийг лабораторийн орчинд алсаас удирддаг хортой код болгож чадсан. Ажлыг Claude platform-ийн memory stores функцээр дамжуулж, 1 GB файлыг Claude Files API-р гадагш гаргажээ. Бүх траффик api.anthropic.com руу явсан тул энгийн inference дуудлагатай адил харагддаг.\n\nЭнэ арга нь эхлээд хэрэглэгчийн машиныг эвдэж, Claude итгэмжлэлийг олж авахыг шаарддаг. Darktrace-ийн хэлснээр платформын уулзвар алдаа огт ашиглаагүй бөгөөд бодит тохиолдол бүртгэгдээгүй байна. Memory stores нь API-аар workspace-д нэмэгдэх боломжтой ба Managed Agents ашигладаг эсэхээс үл хамааран ажилладаг.\n\nТуршилтад дээд талын зөвлөмж нь --dangerously-skip-permissions туг бүхий процессыг тогтмол эхлүүлэх байв. Darktrace OpenAI-д мөн ижил төстэй файл оруулах endpoint байдгийг дурдсан. Хөгжүүлэгчид API түлхүүрийн эрх, хандалтын хязгаарыг чанд тохируулах хэрэгтэй.",
+   "published": "2026-11-12T11:00:21Z",
+   "added": "2026-11-14T16:16:50Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "613614863eabc382",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v45.3.1",
+ "image": "https://opengraph.githubassets.com/856dfe69bf59357113b68c535f882b1c0ffe2a9f00791e1bf9ef597d53def2a2/electron/electron/releases/tag/v45.3.1",
+ "title": "electron v45.3.1",
+ "summary_en": "Release Notes for v45.3.1 Fixes Fixed a macOS notification observer leak when unsubscribing via another method. #55732 (Also in 44 , 46 ) Stopped trusting certificates issued by eMudhra 's revoked RSA intermediates. #55742 (Also in 43 , 44 , 46 )",
+ "title_mn": "Electron v45.3.1: macOS мэдэгдлийн ажиглагчийн алдагдал засагдаж, eMudhra гэрчилгээ хасагдлаа",
+ "summary_mn": "Electron-ийн v45.3.1 хувилбар гарлаа. Энэ хувилбарт macOS дээр мэдэгдлийн observer-ийн алдагдал засагдсан, мөн eMudhra-ийн хүчингүй болсон RSA завсрын гэрчилгээнд итгэхээ больсон.",
+ "body_mn": "Electron-ийн v45.3.1 хувилбарт хоёр засвар орсон. Эхнийх нь macOS дээр мэдэгдлийн observer-ийн алдагдлыг засах явдал юм. Энэ алдагдал нь өөр аргаар бүртгэлээс гарахад илэрдэг байсан бөгөөд #55732 issue-д бүртгэгдсэн. Энэ засвар 44 болон 46 хувилбарт мөн орсон.\n\nХоёрдахь засвар нь eMudhra-ийн хүчингүй болсон RSA завсрын гэрчилгээнүүдэд итгэхээ зогсоох явдал юм. Энэ нь аюулгүй байдлын үүднээс чухал өөрчлөлт бөгөөд #55742 PR-ээр орсон. Засвар 43, 44, 46 хувилбаруудад мөн хамаарна.\n\nElectron-оор апп хөгжүүлдэг хүмүүс энэ шинэчлэлтийг аль болох хурдан суулгах хэрэгтэй. Ялангуяа гэрчилгээний шалгалтад тулгуурласан апп-уудад энэ нь шууд нөлөөлнө.",
+ "published": "2026-11-12T02:05:25Z",
+ "added": "2026-11-14T16:16:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

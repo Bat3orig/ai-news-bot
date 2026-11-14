@@ -1,0 +1,17 @@
+{
+ "id": "9211d4cd82ed95b4",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Help Net Security",
+ "url": "https://www.helpnetsecurity.com/2026/11/12/stolen-claude-api-keys-remote-controlled-implant/",
+ "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/12064238/claude-hand-1500.webp",
+ "title": "Stolen Claude API keys can turn Claude Code into a remote-controlled implant",
+ "summary_en": "Darktrace used stolen Claude API keys to steer Claude Code through memory stores in a lab, exfiltrating a 1 GB file via Anthropic’s own API.",
+ "title_mn": "Хулгайлагдсан Claude API түлхүүрээр Claude Code-ийг алсаас удирдах хортой код болгож болно",
+ "summary_mn": "Darktrace судалгаагаар Claude Code-ийг memory stores болон Files API ашиглан алсаас удирдах боломжтойг лабораторид харуулжээ. Халдагчид эхлээд хэрэглэгчийн Claude итгэмжлэлийг авсан байх шаардлагатай.",
+ "body_mn": "Darktrace судлаачид Claude Code-ийг лабораторийн орчинд алсаас удирддаг хортой код болгож чадсан. Ажлыг Claude platform-ийн memory stores функцээр дамжуулж, 1 GB файлыг Claude Files API-р гадагш гаргажээ. Бүх траффик api.anthropic.com руу явсан тул энгийн inference дуудлагатай адил харагддаг.\n\nЭнэ арга нь эхлээд хэрэглэгчийн машиныг эвдэж, Claude итгэмжлэлийг олж авахыг шаарддаг. Darktrace-ийн хэлснээр платформын уулзвар алдаа огт ашиглаагүй бөгөөд бодит тохиолдол бүртгэгдээгүй байна. Memory stores нь API-аар workspace-д нэмэгдэх боломжтой ба Managed Agents ашигладаг эсэхээс үл хамааран ажилладаг.\n\nТуршилтад дээд талын зөвлөмж нь --dangerously-skip-permissions туг бүхий процессыг тогтмол эхлүүлэх байв. Darktrace OpenAI-д мөн ижил төстэй файл оруулах endpoint байдгийг дурдсан. Хөгжүүлэгчид API түлхүүрийн эрх, хандалтын хязгаарыг чанд тохируулах хэрэгтэй.",
+ "published": "2026-11-12T11:00:21Z",
+ "added": "2026-11-14T16:16:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

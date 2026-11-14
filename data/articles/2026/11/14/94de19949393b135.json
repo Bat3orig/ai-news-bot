@@ -1,0 +1,17 @@
+{
+ "id": "94de19949393b135",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Technology Org",
+ "url": "https://www.technology.org/2026/11/12/grok-build-flaw-leaks-data-spacexsi-claroc/",
+ "image": "",
+ "title": "Grok Build Flaw Exposed Data From Thousands of Apps, Including SpaceXSI’s Own",
+ "summary_en": "",
+ "title_mn": "Grok Build алдаа мянга мянган аппын өгөгдлийг илрүүлсэн, үүнд SpaceXSI-ийнх ч багтжээ",
+ "summary_mn": "Technology Org-ийн мэдээлснээр Grok Build-ийн алдаанаас олон аппын өгөгдөл ил гарсан бөгөөд SpaceXSI-ийн өөрийн өгөгдөл ч орсон байна.",
+ "body_mn": "Technology Org Grok Build-ийн алдаанаас мянга мянган аппын өгөгдөл ил гарсныг мэдээлсэн. Үүнд SpaceXSI-ийн өөрийн технологи ч багтсан байна.\n\nТекст хязгаарлагдмал байгаа тул алдааны техникийн шинж чанар, засвар, хугацааны дэлгэрэнгүй мэдээлэл тодорхойгүй. Хөгжүүлэгчдэд AI кодын агентаар бүтээсэн аппын аюулгүй байдлыг шалгах шаардлагатай гэдгийг сануулж байна.",
+ "published": "2026-11-12T09:54:00Z",
+ "added": "2026-11-14T16:16:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
