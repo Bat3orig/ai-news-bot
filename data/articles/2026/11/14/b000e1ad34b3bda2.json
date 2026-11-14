@@ -1,0 +1,17 @@
+{
+ "id": "b000e1ad34b3bda2",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Brave New Coin",
+ "url": "https://bravenewcoin.com/insights/anthropics-claude-ai-blocks-pokemon-fan-games-over-copyright-concerns-what-changed",
+ "image": "https://bravenewcoin.com/wp-content/uploads/2026/11/Anthropics-Claude-AI-Blocks-Pokemon-Fan-Games-image1.jpg",
+ "title": "Anthropic's Claude AI Blocks Pokémon Fan Games Over Copyright Concerns—What Changed?",
+ "summary_en": "Anthropic’s Claude AI has begun rejecting requests to create Pokémon-related game assets, raising new questions for fan developers using generative tools to build unofficial projects.",
+ "title_mn": "Anthropic-ийн Claude AI Pokémon сонирхогчдын тоглоомын контент бүтээхийг хязгаарлав",
+ "summary_mn": "Anthropic компани зохиогчийн эрхийн асуудлаас шалтгаалан Claude загварт Pokémon-той холбоотой фэн тоглоомын контент үүсгэхийг хориглов.",
+ "body_mn": "Anthropic-ийн Claude AI хөгжүүлэгчдийн Pokémon фэн тоглоом бүтээх хүсэлтийг татгалзаж эхэлсэн нь хөгжүүлэгчдийн дунд яригдаж байна. Тус хиймэл оюун ухаан нь Pokémon персонажууд, спрайт, зураг болон бусад франчайзын элементүүдийг бүтээхээс татгалзаж байгаа аж.\n\nЭнэхүү хязгаарлалт нь Pokémon Arena 2D тоглоомыг хөгжүүлж буй Big Kid Nation багийнхан Claude-аас тусламж хүсэх явцад илэрсэн байна. Тоглоомын код бичих, спрайт засах зэрэгт хиймэл оюун ухаан ашигладаг хөгжүүлэгчид зохиогчийн эрхтэй холбоотой энэхүү хоригт хүндрэлтэй тулгарчээ.\n\nЭнэ нь Anthropic компанийн оюуны өмчийг хамгаалах бодлого болон Claude Code хэрэгслийн шинэ хязгаарлалтуудтай холбоотой юм. Иймд хөгжүүлэгчид алдартай брэнд, тоглоомын контент бүтээхэд хиймэл оюун ухаан ашиглах үедээ анхаарах шаардлагатай болж байна.",
+ "published": "2026-11-12T15:23:50Z",
+ "added": "2026-11-14T20:50:19Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

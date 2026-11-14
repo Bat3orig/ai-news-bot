@@ -1,0 +1,17 @@
+{
+ "id": "28ee4304f336c685",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Help Net Security",
+ "url": "https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/",
+ "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/27125835/claude-vortex.webp",
+ "title": "Self-hosted Claude Managed Agents keeps agent credentials in your environment",
+ "summary_en": "Anthropic has released a self-hosted version of Claude Managed Agents. Companies can run the agent harness, sandboxes, credentials, and session history in",
+ "title_mn": "Anthropic компани өөрийн сервер дээр ажиллах Claude Managed Agents хувилбарыг гаргалаа",
+ "summary_mn": "Anthropic компани хөгжүүлэгчид болон компаниудад агентын үйл ажиллагаа, эрх, дата түүхээ өөрийнхөө сервер дээр бүрэн хянах боломжийг олгох Claude Managed Agents үйлчилгээг танилцууллаа.",
+ "body_mn": "Anthropic компани Claude Managed Agents үйлчилгээнийхээ өөрийн сервер дээр байршуулах (self-hosted) хувилбарыг зарлалаа. Компаниуд одоо агент гарц, сандбокр, нууц үг болон сессийн түүхээ өөрсдийн үүлэн орчин эсвэл дотоод сервер дээрээ (on-premise) ажиллуулах боломжтой болж байна. Энэхүү хувилбар нь арваннэгдүгээр сарын 12-ноос хувийн бета хэлбэрээр нээгджээ.\n\nЭнэхүү өөрчлөлт нь кодын алдаа засах, релиз тестлэх, систем дэх анхааруулгыг шалгах зэрэг ажлыг автоматжуулдаг компаниудад маш чухал юм. Өмнө нь хэрэглэгчид зөвхөн сандбокр орчноо өөрсдөө байршуулдаг байсан бол одоо сервер болон PostgreSQL мэдээллийн баазыг бүрэн хянах боломжтой болж байна. Загварын хүсэлтүүдийг Anthropic шууд, Amazon Bedrock, Google Agent Platform эсвэл Microsoft Foundry руу чиглүүлж болно.\n\nAnthropic энэхүү системд аюулгүй байдлын дөрвөн үндсэн зарчмыг суулгажээ. Үүнд код болон Claude хоорондын харилцааг тусгаарлах, credential буюу нууц эрхийг сандбокр дотор оруулахгүй байх, зөвшөөрөгдсөн хостуудын жагсаалтаар сүлжээг хязгаарлах зэрэг орно. Мөн агентын хийсэн алхам бүрийг OpenTelemetry ашиглан экспортолж, дотоод мониторингийн хэрэгслүүдээр хянах боломжтой болгожээ.",
+ "published": "2026-11-12T18:07:00Z",
+ "added": "2026-11-14T20:50:19Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

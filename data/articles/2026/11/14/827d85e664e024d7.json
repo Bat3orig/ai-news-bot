@@ -1,0 +1,17 @@
+{
+ "id": "827d85e664e024d7",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/beyond-12-columns/",
+ "image": "https://css-tricks.com/wp-content/uploads/2026/10/css-tricks-1-8.webp",
+ "title": "Beyond 12 Columns: Designing Layouts With Personality",
+ "summary_en": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character. Beyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "title_mn": "12 баганын хэв маягаас хальж, вэб дизайн хийх нь",
+ "summary_mn": "Вэб сайтын загвар зохиохдоо олон жилийн турш стандарт болсон 12 баганын grid системээс татгалзаж, брэндийн өвөрмөц онцлог, хэрэглэгчийн зан төлөвт тохирсон layout гаргах тухай өгүүлжээ.",
+ "body_mn": "Олон жилийн өмнөөс вэб хуудас байгуулахад floats, positioning, улмаар Bootstrap зэрэг фреймворкуудын санал болгодог 12 баганын grid систем стандарт болж тогтсон юм. Энэ нь дизайныг төлөвлөхөд дөхөм байсан хэдий ч бүх сайтууд нэгэн хэвэнд цутгасан мэт ижилхэн харагдахад хүргэж байна.\n\nCSS Grid бий болсноор вэб дизайны боломж хязгааргүй болсон ч дизайнерууд шууд л хуудсыг тэнцүү 12 баганад хувааж эхэлдэг хэвээр байна. Гэвч ямар нэгэн компонент байрлуулахаас өмнө тухайн компани бусдаас юугаараа ялгарах, ямар түүх өгүүлэх ёстойг судлах нь чухал юм.\n\nЗагварын хэмжээ, байрлал, элементүүдийн харилцан хамаарал нь хэрэглэгчийн тухайн сайтыг хүлээж авах мэдрэмжид шууд нөлөөлдөг. Жишээлбэл, ер бусын үйл ажиллагаатай зорилтот үзэгчдэд зориулсан сайтад ердийн стандарт компонентуудын цуглуулга тохирохгүй байж болно.\n\nТиймээс эхлээд компанийнхаа онцлог, үнэт зүйлийг тодорхойлсны үндсэн дээр layout-аа сонгох нь хэрэглэгчдэд илүү амьд, өвөрмөц сэтгэгдэл төрүүлэх боломжийг олгодог байна.",
+ "published": "2026-11-12T16:06:55Z",
+ "added": "2026-11-14T20:50:19Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

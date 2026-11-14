@@ -1,0 +1,17 @@
+{
+ "id": "775dfcf035d0e832",
+ "subtopic": "node",
+ "source": "Node.js Blog",
+ "source_label": "Node.js Blog",
+ "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
+ "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.0%20(Alpha)",
+ "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
+ "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+ "title_mn": "Node.js 27.0.0-alpha.0.1.0 альфа хувилбар гарлаа",
+ "summary_mn": "Node.js платформын дараагийн томоохон хувилбарын анхны альфа хувилбар болох Node.js 27.0.0-alpha.0.1.0 гарлаа.",
+ "body_mn": "Node.js хөгжүүлэгчид 27 дугаар хувилбарын анхны альфа хувилбар болох Node.js 27.0.0-alpha.0.1.0-ийг олон нийтэд зарлалаа. Энэхүү хувилбар нь Windows, macOS, Linux болон бусад томоохон үйлдлийн системүүдэд зориулсан суулгагч болон бинар файлуудыг багтаасан байна.\n\nАльфа хувилбар нь хөгжүүлэгчид болон туршигчдад шинэ боломжуудыг эрт үе шатанд туршиж үзэх, гарч болох алдааг илрүүлэх боломжийг олгодог. Шинэ хувилбарын албан ёсны баримт бичиг болон татаж авах линкүүд Node.js вэбсайтад байршжээ.\n\nЭнэхүү хувилбар нь бүтээгдэхүүний албан ёсны тогтвортой (LTS) хувилбар хараахан биш тул production орчинд ашиглахыг зөвлөдөггүй бөгөөд зөвхөн туршилт болон хөгжүүлэлтийн зорилгоор ашиглах юм.",
+ "published": "2026-11-12T13:36:10Z",
+ "added": "2026-11-14T20:50:19Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

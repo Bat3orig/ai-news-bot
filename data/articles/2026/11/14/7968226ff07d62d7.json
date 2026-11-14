@@ -1,0 +1,17 @@
+{
+ "id": "7968226ff07d62d7",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/workflow-sdk-5",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/53qBpYRXUQUiGElIwTieXq/658ec87179c80c70cd1f2523de9c412c/workflow-sdk-5-og.jpg",
+ "title": "Workflow SDK 5: built for production",
+ "summary_en": "When we first launched Workflow SDK, the goal was simple: write regular async JavaScript, and let the SDK keep it running through crashes, deployments, and long waits. Last year, we shipped just that , with the world-class developer experience Vercel is known for. Then we watched what our customers built with it. More than 4 billion steps and 700 million runs later, two clear patterns have emerged. The first is automation : Traditional workflows that move data, process orders, coordinate background jobs, manage subscriptions, and run ETL and data pipelines. The second is agents and harnesses…",
+ "title_mn": "Vercel Workflow SDK 5 хувилбар гарлаа",
+ "summary_mn": "Vercel компани Workflow SDK 5 хувилбараа гаргалаа. Энэ нь төгсгөл хоорондын шифрлэлт, үйл явдлын лог болон сайжруулсан trace харагдацтай.",
+ "body_mn": "Vercel компани Workflow SDK-ийн шинэ 5 дугаар хувилбарыг албан ёсоор гаргалаа. Өнөөг хүртэл 4 тэрбум гаруй алхам, 700 сая гаруй ажиллагааг амжилттай гүйцэтгэсэн уг хэрэгсэл нь бүтээмж, найдвартай байдал, аюулгүй байдлыг хангах зорилгоор шинэчлэгджээ.\n\nШинэ хувилбарт Workflow болон step оролт гаралт, stream өгөгдлийг AES-256-GCM ашиглан кодлох төгсгөл хоорондын (end-to-end) шифрлэлтийг нэвтрүүлсэн байна. Ингэснээр Vercel болон бусад backend системүүд зөвхөн ciphertext буюу шифрлэгдсэн өгөгдлийг хадгалах бөгөөд мэдээллийн аюулгүй байдал сайжирч байна.\n\nМөн experimental_retention тохиргоог ашиглан ажиллагаа дуусмагц мэдээллийг автоматаар устгах боломжтой болсон бөгөөд trace харагдац шинэчлэгдэж, run attributes ашиглан тодорхой захиалгын ID зэргээр хайлт хийх боломжтой болжээ. Энэ нь хөгжүүлэгчдэд агентууд болон автоматжуулалтын ажлыг илүү найдвартай удирдах боломжийг олгоно.",
+ "published": "2026-11-12T13:00:00Z",
+ "added": "2026-11-14T20:50:19Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

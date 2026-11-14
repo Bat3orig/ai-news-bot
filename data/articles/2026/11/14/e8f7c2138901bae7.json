@@ -1,0 +1,17 @@
+{
+ "id": "e8f7c2138901bae7",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/53964310f42e5cb65e0c17606f8ec8aa96448a7e-960x540.png?w=1200&q=70&fit=max&auto=format",
+ "title": "How 3D transforms and Figma’s agent brought a launch video to life",
+ "summary_en": "See how Figma’s Brand Studio team combined 3D design, agent-built plugins, shaders, and motion to create a video together on the canvas.",
+ "title_mn": "Figma-ийн 3D хувиргалт болон AI агент шинэ видео бүтээв",
+ "summary_mn": "Figma Brand Studio баг 3D transform эффект болон Figma агент ашиглан шинэ сурталчилгааны видео бүтээжээ.",
+ "body_mn": "Figma компани өөрийн 3D transform болон AI агентийн боломжуудыг ашиглан бүтээсэн шинэ видео төслөө танилцууллаа. Энэхүү төсөл нь дизайнеруудад зураг, текст, вектор болон фрэймүүдийг орон зайд эргүүлэх, налуулах, байрлуулах боломжийг олгодог.\n\nДизайнерууд Figma агентийг ашиглан Z тэнхлэгийн дагуу элементүүдийг давтах, геометр байгуулах зэрэг цаг хугацаа шаардсан ажлуудыг автоматжуулсан байна. Ингэснээр агентийн тусламжтайгаар тооцоолол хийлгэж, дизайнерууд өөрсдөө бүтээлч ажилдаа төвлөрөх боломж бүрджээ.\n\nЭнэхүү шинэ боломж нь UI/UX дизайнеруудын хамтын ажиллагааг сайжруулаад зогсохгүй зураг төслөөс эхлээд хөдөлгөөнт дүрслэл хүртэлх ажлыг хялбарчилж байна.",
+ "published": "2026-11-12T14:00:00Z",
+ "added": "2026-11-14T20:50:19Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

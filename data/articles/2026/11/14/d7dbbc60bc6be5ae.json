@@ -1,0 +1,17 @@
+{
+ "id": "d7dbbc60bc6be5ae",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "PPC Land",
+ "url": "https://ppc.land/anthropic-bans-claude-built-fake-sites-aimed-at-gaming-ai-answers/",
+ "image": "https://ppc.land/content/images/2026/11/mp-og-c448c694-08b0-44b5-afe2-4df53e8fbb62.png",
+ "title": "Anthropic bans Claude-built fake sites aimed at gaming AI answers",
+ "summary_en": "Campaigns no longer face a blanket Claude ban on personalized vote targeting, and journalism exits the high-risk list. What else changes for brands from today?",
+ "title_mn": "Anthropic компани Claude загварын хэрэглээний шинэ бодлого зарлалаа",
+ "summary_mn": "Anthropic компани Claude загварын Usage Policy-г шинэчилж, хуурамч сэтгэгдэл болон хайлтын системийг манипуляци хийхийг хориглов.",
+ "body_mn": "Anthropic компани Claude загварынхаа хэрэглээний шинэчилсэн бодлогыг албан ёсоор хэрэгжүүлж эхэллээ. Энэхүү шинэ бодлого нь маркетинг, улс төр, хэвлэл мэдээллийн салбарт хиймэл оюун ухаан ашиглах дүрэм журмыг тодорхой болгож байна.\n\nЯлангуяа хайлтын систем болон хиймэл оюун ухааны хариултыг төөрөгдүүлэх зорилгоор хуурамч сэтгэгдэл, хуурамч хаяг, сайтуудын сүлжээ үүсгэхийг хатуу хоригложээ. Мөн өндөр эрсдэлтэй хэрэглээний жагсаалтаас автоматжуулсан мэдээ контент бүтээхийг хассан байна.\n\nХэрэглэгчид болон хөгжүүлэгчдийн хувьд бодлогын хэрэгжилтэд анхааруулга өгөх, хязгаарлах зэрэг шинэ арга хэмжээнүүд нэмэгдсэн нь API болон платформ ашиглагчдад анхаарах ёстой чухал өөрчлөлт юм.",
+ "published": "2026-11-12T14:54:29Z",
+ "added": "2026-11-14T20:50:19Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

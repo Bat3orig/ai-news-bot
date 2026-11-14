@@ -1,0 +1,17 @@
+{
+ "id": "c7a410ad3b862809",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+ "title": "Introducing Gemini 4 Hydrogen",
+ "summary_en": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+ "title_mn": "Google DeepMind шинэ Gemini 4 Hydrogen загвараа танилцууллаа",
+ "summary_mn": "Google DeepMind хурдан бөгөөд үр ашигтай ажиллах зориулалттай Gemini 4 Hydrogen загварыг танилцууллаа. Энэ загвар нь API болон Google Antigravity орчинд ашиглагдах юм.",
+ "body_mn": "Google DeepMind компани өдөр тутмын код бичих болон агентын ажлын урсгалд зориулсан хурдан бөгөөд өндөр бүтээмжтэй Gemini 4 Hydrogen загварынхаа талаар мэдээллээ. Carbon болон Argon загварууд нь гүнзгий сэтгэх шаардлагатай архитектурын нарийн асуудлуудад зориулагдсан бол Hydrogen нь өдөр тутмын ажлыг хурдан гүйцэтгэх зорилготой юм.\n\nHydrogen загвар нь Artificial Analysis Intelligence Index жагсаалтад өндөр оноо авсан бөгөөд Google AI Studio, Gemini API болон бусад платформ дээр 1 сая токенийн контекст цонхтойгоор сая оролт тутамд 1.50 ам.доллар, гаралт тутамд 7.50 ам.долларын үнэтэйгээр худалдаалагдаж байна. Өмнөх Gemini 3.8 Flash загвартай харьцуулахад даалгаврыг 2.5 дахин хурдан гүйцэтгэж, алдаа гаргах магадлалыг 5 дахин бууруулжээ.\n\nМөн Google Antigravity орчинд шинээр Orchestrator хэрэгслийг нэвтрүүлсэн бөгөөд энэ нь Carbon болон Hydrogen загваруудыг хооронд нь динамикаар сольж ажиллах боломжийг олгодог. Ингэснээр хөгжүүлэгчид параллель агентуудыг ажиллуулж, квот болон токенийн зардлыг хэмнэн төслөө илүү хурдан хүлээлгэн өгөх боломжтой болж байна.",
+ "published": "2026-11-12T18:00:50Z",
+ "added": "2026-11-14T20:50:19Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

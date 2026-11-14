@@ -738,5 +738,225 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7968226ff07d62d7",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/workflow-sdk-5",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/53qBpYRXUQUiGElIwTieXq/658ec87179c80c70cd1f2523de9c412c/workflow-sdk-5-og.jpg",
+   "title": "Workflow SDK 5: built for production",
+   "summary_en": "When we first launched Workflow SDK, the goal was simple: write regular async JavaScript, and let the SDK keep it running through crashes, deployments, and long waits. Last year, we shipped just that , with the world-class developer experience Vercel is known for. Then we watched what our customers built with it. More than 4 billion steps and 700 million runs later, two clear patterns have emerged. The first is automation : Traditional workflows that move data, process orders, coordinate background jobs, manage subscriptions, and run ETL and data pipelines. The second is agents and harnesses…",
+   "title_mn": "Vercel Workflow SDK 5 хувилбар гарлаа",
+   "summary_mn": "Vercel компани Workflow SDK 5 хувилбараа гаргалаа. Энэ нь төгсгөл хоорондын шифрлэлт, үйл явдлын лог болон сайжруулсан trace харагдацтай.",
+   "body_mn": "Vercel компани Workflow SDK-ийн шинэ 5 дугаар хувилбарыг албан ёсоор гаргалаа. Өнөөг хүртэл 4 тэрбум гаруй алхам, 700 сая гаруй ажиллагааг амжилттай гүйцэтгэсэн уг хэрэгсэл нь бүтээмж, найдвартай байдал, аюулгүй байдлыг хангах зорилгоор шинэчлэгджээ.\n\nШинэ хувилбарт Workflow болон step оролт гаралт, stream өгөгдлийг AES-256-GCM ашиглан кодлох төгсгөл хоорондын (end-to-end) шифрлэлтийг нэвтрүүлсэн байна. Ингэснээр Vercel болон бусад backend системүүд зөвхөн ciphertext буюу шифрлэгдсэн өгөгдлийг хадгалах бөгөөд мэдээллийн аюулгүй байдал сайжирч байна.\n\nМөн experimental_retention тохиргоог ашиглан ажиллагаа дуусмагц мэдээллийг автоматаар устгах боломжтой болсон бөгөөд trace харагдац шинэчлэгдэж, run attributes ашиглан тодорхой захиалгын ID зэргээр хайлт хийх боломжтой болжээ. Энэ нь хөгжүүлэгчдэд агентууд болон автоматжуулалтын ажлыг илүү найдвартай удирдах боломжийг олгоно.",
+   "published": "2026-11-12T13:00:00Z",
+   "added": "2026-11-14T20:50:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5f5031b06bcca8f0",
+   "subtopic": "nestjs",
+   "source": "nestjs/nest",
+   "source_label": "nestjs/nest",
+   "url": "https://github.com/nestjs/nest/releases/tag/v12.5.0",
+   "image": "https://opengraph.githubassets.com/d548bea0c19676d83887caedbf0af12d1677ab3873293b5ea5100a86932eb33f/nestjs/nest/releases/tag/v12.5.0",
+   "title": "nest v12.5.0",
+   "summary_en": "v12.5.0 (2026-11-12) Notable changes New options WsAdapter takes maxPayload , the largest message a client may send (1 MB by default, was 100 MB; a gateway's own maxPayload takes precedence, 0 lifts the limit); a larger message closes the connection with code 1009 – 109e52cd9b IoAdapter takes maxWaitingMessages , the number of a client's messages of one event that may wait beyond those being handled (10,000 by default; Infinity lifts it) – c98b5f782e TCP server: maxConcurrentMessages (1000 per connection by default; 0 lifts it) – 42c619cd69 gRPC server: maxPendingResponses (1000 by default…",
+   "title_mn": "NestJS v12.5.0 хувилбар шинэ боломжуудтайгаар гарлаа",
+   "summary_mn": "NestJS v12.5.0 хувилбарт WebSocket, TCP, gRPC болон Redis серверүүдэд зориулсан шинэ хязгаарлалт, тохиргоонууд нэмэгдлээ.",
+   "body_mn": "NestJS фреймворкийн v12.5.0 шинэ хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр сервер болон сүлжээний холболтуудыг илүү нарийвчлалтай удирдах олон шинэ тохиргоо, хязгаарлалтууд нэмэгдсэн байна.\n\nТухайлбал, WsAdapter дээр maxPayload буюу үйлчлүүлэгчийн илгээх мессежийн дээд хэмжээг тохируулах боломжтой болсон бөгөөд анхдагчаар 1 MB болж өөрчлөгджээ. Түүнчлэн IoAdapter дээр maxWaitingMessages, TCP серверед maxConcurrentMessages, gRPC болон Redis серверүүдэд урсгал хянах шинэ хязгаарлалтууд орсон байна.\n\nМөн multipart хүсэлтүүдийн хязгаарлалт, TCP дамжуулалтын buffer хэмжээ болон стрип хийх HTTP хариунууд дээр Serializer ашиглах боломжууд сайжирсан нь бэкенд хөгжүүлэгчдийн ажилд томоохон дэвшил авчирна.",
+   "published": "2026-11-12T13:19:45Z",
+   "added": "2026-11-14T20:50:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "775dfcf035d0e832",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
+   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.0%20(Alpha)",
+   "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "title_mn": "Node.js 27.0.0-alpha.0.1.0 альфа хувилбар гарлаа",
+   "summary_mn": "Node.js платформын дараагийн томоохон хувилбарын анхны альфа хувилбар болох Node.js 27.0.0-alpha.0.1.0 гарлаа.",
+   "body_mn": "Node.js хөгжүүлэгчид 27 дугаар хувилбарын анхны альфа хувилбар болох Node.js 27.0.0-alpha.0.1.0-ийг олон нийтэд зарлалаа. Энэхүү хувилбар нь Windows, macOS, Linux болон бусад томоохон үйлдлийн системүүдэд зориулсан суулгагч болон бинар файлуудыг багтаасан байна.\n\nАльфа хувилбар нь хөгжүүлэгчид болон туршигчдад шинэ боломжуудыг эрт үе шатанд туршиж үзэх, гарч болох алдааг илрүүлэх боломжийг олгодог. Шинэ хувилбарын албан ёсны баримт бичиг болон татаж авах линкүүд Node.js вэбсайтад байршжээ.\n\nЭнэхүү хувилбар нь бүтээгдэхүүний албан ёсны тогтвортой (LTS) хувилбар хараахан биш тул production орчинд ашиглахыг зөвлөдөггүй бөгөөд зөвхөн туршилт болон хөгжүүлэлтийн зорилгоор ашиглах юм.",
+   "published": "2026-11-12T13:36:10Z",
+   "added": "2026-11-14T20:50:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e8f7c2138901bae7",
+   "subtopic": "design-systems",
+   "source": "Figma Blog",
+   "source_label": "Figma Blog",
+   "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
+   "image": "https://cdn.sanity.io/images/599r6htc/regionalized/53964310f42e5cb65e0c17606f8ec8aa96448a7e-960x540.png?w=1200&q=70&fit=max&auto=format",
+   "title": "How 3D transforms and Figma’s agent brought a launch video to life",
+   "summary_en": "See how Figma’s Brand Studio team combined 3D design, agent-built plugins, shaders, and motion to create a video together on the canvas.",
+   "title_mn": "Figma-ийн 3D хувиргалт болон AI агент шинэ видео бүтээв",
+   "summary_mn": "Figma Brand Studio баг 3D transform эффект болон Figma агент ашиглан шинэ сурталчилгааны видео бүтээжээ.",
+   "body_mn": "Figma компани өөрийн 3D transform болон AI агентийн боломжуудыг ашиглан бүтээсэн шинэ видео төслөө танилцууллаа. Энэхүү төсөл нь дизайнеруудад зураг, текст, вектор болон фрэймүүдийг орон зайд эргүүлэх, налуулах, байрлуулах боломжийг олгодог.\n\nДизайнерууд Figma агентийг ашиглан Z тэнхлэгийн дагуу элементүүдийг давтах, геометр байгуулах зэрэг цаг хугацаа шаардсан ажлуудыг автоматжуулсан байна. Ингэснээр агентийн тусламжтайгаар тооцоолол хийлгэж, дизайнерууд өөрсдөө бүтээлч ажилдаа төвлөрөх боломж бүрджээ.\n\nЭнэхүү шинэ боломж нь UI/UX дизайнеруудын хамтын ажиллагааг сайжруулаад зогсохгүй зураг төслөөс эхлээд хөдөлгөөнт дүрслэл хүртэлх ажлыг хялбарчилж байна.",
+   "published": "2026-11-12T14:00:00Z",
+   "added": "2026-11-14T20:50:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6376f992ba9d7e93",
+   "subtopic": "motion",
+   "source": "motiondivision/motion",
+   "source_label": "motiondivision/motion",
+   "url": "https://github.com/motiondivision/motion/releases/tag/v14.13.0",
+   "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+   "title": "motion v14.13.0",
+   "summary_en": "v14.13.0",
+   "title_mn": "Motion v14.13.0 шинэчлэлт гарлаа",
+   "summary_mn": "Motion анимацийн сангийн v14.13.0 шинэ хувилбар албан ёсоор гаргалаа.",
+   "body_mn": "Motion фреймворкийн хөгжүүлэгчид v14.13.0 хувилбарыг олон нийтэд хүргэлээ. Энэхүү шинэ хувилбар нь анимацийн болон хөдөлгөөнт эффектүүдийг вэб болон дизайн дээр хэрэгжүүлэхэд зориулагдсан чухал шинэчлэлтүүдийг агуулж байна.\n\nReact болон бусад орчин үеийн вэб технологиудтай хослуулан ашигладаг уг сан нь хөгжүүлэгчдэд өндөр гүйцэтгэлтэй, цэвэрхэн хөдөлгөөнт дүрслэл хийхэд тусалдаг. Шинэ хувилбарын дэлгэрэнгүй өөрчлөлтийг төслийн албан ёсны репозитороос харж болно.",
+   "published": "2026-11-12T14:25:16Z",
+   "added": "2026-11-14T20:50:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d7dbbc60bc6be5ae",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "PPC Land",
+   "url": "https://ppc.land/anthropic-bans-claude-built-fake-sites-aimed-at-gaming-ai-answers/",
+   "image": "https://ppc.land/content/images/2026/11/mp-og-c448c694-08b0-44b5-afe2-4df53e8fbb62.png",
+   "title": "Anthropic bans Claude-built fake sites aimed at gaming AI answers",
+   "summary_en": "Campaigns no longer face a blanket Claude ban on personalized vote targeting, and journalism exits the high-risk list. What else changes for brands from today?",
+   "title_mn": "Anthropic компани Claude загварын хэрэглээний шинэ бодлого зарлалаа",
+   "summary_mn": "Anthropic компани Claude загварын Usage Policy-г шинэчилж, хуурамч сэтгэгдэл болон хайлтын системийг манипуляци хийхийг хориглов.",
+   "body_mn": "Anthropic компани Claude загварынхаа хэрэглээний шинэчилсэн бодлогыг албан ёсоор хэрэгжүүлж эхэллээ. Энэхүү шинэ бодлого нь маркетинг, улс төр, хэвлэл мэдээллийн салбарт хиймэл оюун ухаан ашиглах дүрэм журмыг тодорхой болгож байна.\n\nЯлангуяа хайлтын систем болон хиймэл оюун ухааны хариултыг төөрөгдүүлэх зорилгоор хуурамч сэтгэгдэл, хуурамч хаяг, сайтуудын сүлжээ үүсгэхийг хатуу хоригложээ. Мөн өндөр эрсдэлтэй хэрэглээний жагсаалтаас автоматжуулсан мэдээ контент бүтээхийг хассан байна.\n\nХэрэглэгчид болон хөгжүүлэгчдийн хувьд бодлогын хэрэгжилтэд анхааруулга өгөх, хязгаарлах зэрэг шинэ арга хэмжээнүүд нэмэгдсэн нь API болон платформ ашиглагчдад анхаарах ёстой чухал өөрчлөлт юм.",
+   "published": "2026-11-12T14:54:29Z",
+   "added": "2026-11-14T20:50:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b000e1ad34b3bda2",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Brave New Coin",
+   "url": "https://bravenewcoin.com/insights/anthropics-claude-ai-blocks-pokemon-fan-games-over-copyright-concerns-what-changed",
+   "image": "https://bravenewcoin.com/wp-content/uploads/2026/11/Anthropics-Claude-AI-Blocks-Pokemon-Fan-Games-image1.jpg",
+   "title": "Anthropic's Claude AI Blocks Pokémon Fan Games Over Copyright Concerns—What Changed?",
+   "summary_en": "Anthropic’s Claude AI has begun rejecting requests to create Pokémon-related game assets, raising new questions for fan developers using generative tools to build unofficial projects.",
+   "title_mn": "Anthropic-ийн Claude AI Pokémon сонирхогчдын тоглоомын контент бүтээхийг хязгаарлав",
+   "summary_mn": "Anthropic компани зохиогчийн эрхийн асуудлаас шалтгаалан Claude загварт Pokémon-той холбоотой фэн тоглоомын контент үүсгэхийг хориглов.",
+   "body_mn": "Anthropic-ийн Claude AI хөгжүүлэгчдийн Pokémon фэн тоглоом бүтээх хүсэлтийг татгалзаж эхэлсэн нь хөгжүүлэгчдийн дунд яригдаж байна. Тус хиймэл оюун ухаан нь Pokémon персонажууд, спрайт, зураг болон бусад франчайзын элементүүдийг бүтээхээс татгалзаж байгаа аж.\n\nЭнэхүү хязгаарлалт нь Pokémon Arena 2D тоглоомыг хөгжүүлж буй Big Kid Nation багийнхан Claude-аас тусламж хүсэх явцад илэрсэн байна. Тоглоомын код бичих, спрайт засах зэрэгт хиймэл оюун ухаан ашигладаг хөгжүүлэгчид зохиогчийн эрхтэй холбоотой энэхүү хоригт хүндрэлтэй тулгарчээ.\n\nЭнэ нь Anthropic компанийн оюуны өмчийг хамгаалах бодлого болон Claude Code хэрэгслийн шинэ хязгаарлалтуудтай холбоотой юм. Иймд хөгжүүлэгчид алдартай брэнд, тоглоомын контент бүтээхэд хиймэл оюун ухаан ашиглах үедээ анхаарах шаардлагатай болж байна.",
+   "published": "2026-11-12T15:23:50Z",
+   "added": "2026-11-14T20:50:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "827d85e664e024d7",
+   "subtopic": "css-web",
+   "source": "CSS-Tricks",
+   "source_label": "CSS-Tricks",
+   "url": "https://css-tricks.com/beyond-12-columns/",
+   "image": "https://css-tricks.com/wp-content/uploads/2026/10/css-tricks-1-8.webp",
+   "title": "Beyond 12 Columns: Designing Layouts With Personality",
+   "summary_en": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character. Beyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+   "title_mn": "12 баганын хэв маягаас хальж, вэб дизайн хийх нь",
+   "summary_mn": "Вэб сайтын загвар зохиохдоо олон жилийн турш стандарт болсон 12 баганын grid системээс татгалзаж, брэндийн өвөрмөц онцлог, хэрэглэгчийн зан төлөвт тохирсон layout гаргах тухай өгүүлжээ.",
+   "body_mn": "Олон жилийн өмнөөс вэб хуудас байгуулахад floats, positioning, улмаар Bootstrap зэрэг фреймворкуудын санал болгодог 12 баганын grid систем стандарт болж тогтсон юм. Энэ нь дизайныг төлөвлөхөд дөхөм байсан хэдий ч бүх сайтууд нэгэн хэвэнд цутгасан мэт ижилхэн харагдахад хүргэж байна.\n\nCSS Grid бий болсноор вэб дизайны боломж хязгааргүй болсон ч дизайнерууд шууд л хуудсыг тэнцүү 12 баганад хувааж эхэлдэг хэвээр байна. Гэвч ямар нэгэн компонент байрлуулахаас өмнө тухайн компани бусдаас юугаараа ялгарах, ямар түүх өгүүлэх ёстойг судлах нь чухал юм.\n\nЗагварын хэмжээ, байрлал, элементүүдийн харилцан хамаарал нь хэрэглэгчийн тухайн сайтыг хүлээж авах мэдрэмжид шууд нөлөөлдөг. Жишээлбэл, ер бусын үйл ажиллагаатай зорилтот үзэгчдэд зориулсан сайтад ердийн стандарт компонентуудын цуглуулга тохирохгүй байж болно.\n\nТиймээс эхлээд компанийнхаа онцлог, үнэт зүйлийг тодорхойлсны үндсэн дээр layout-аа сонгох нь хэрэглэгчдэд илүү амьд, өвөрмөц сэтгэгдэл төрүүлэх боломжийг олгодог байна.",
+   "published": "2026-11-12T16:06:55Z",
+   "added": "2026-11-14T20:50:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f19cddd04797ae7d",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.width-1300.png",
+   "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+   "summary_en": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+   "title_mn": "Google Search хайлт Gemini 4 Hydrogen загвараар шинэчлэгдлээ",
+   "summary_mn": "Google Search дэлхий даяар Gemini 4 Hydrogen загварт шилжиж, нарийн төвөгтэй асуултуудад хүснэгт, зураг бүхий илүү тодорхой хариулт өгдөг боллоо.",
+   "body_mn": "Google компани өөрийн үндсэн хайгч болох Google Search системдээ цоо шинэ Gemini 4 Hydrogen загварыг дэлхий даяар нэвтрүүлж байгаагаа зарлалаа. Энэхүү шинэчлэл нь хэрэглэгчдийн асуултын цаад санааг илүү гүнзгий ойлгож, олон талт нарийн төвөгтэй асуултуудад нэгэн зэрэг хариу өгөх чадвартай юм.\n\nHydrogen загвар нь хайлтын үр дүнг хүснэгт, зураг болон бүтэцлэгдсэн мэдээлэл хэлбэрээр үзүүлж, аялал, худалдаа болон бусад өдөр тутмын хэрэгцээт мэдээллээ хялбар олоход тусална. Энэ нь Google Search-ийн хувьд хиймэл оюун ухааны технологи дээр суурилсан хамгийн том шинэчлэл юм.\n\nБүтээгдэхүүний удирдлагын багийн мэдээлснээр шинэ загвар нь хэрэглэгчдэд мэдээллийг төвөггүй олж авах, илүү дүрслэг бөгөөд ойлгомжтой байдлаар харилцах боломжийг бүрдүүлж байна. Хэрэглэгчид өөрсдийн асуултаа энгийн ярианы хэлээр асууж энэхүү шинэ боломжийг туршиж үзэх боломжтой.",
+   "published": "2026-11-12T18:00:00Z",
+   "added": "2026-11-14T20:50:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c7a410ad3b862809",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "summary_en": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+   "title_mn": "Google DeepMind шинэ Gemini 4 Hydrogen загвараа танилцууллаа",
+   "summary_mn": "Google DeepMind хурдан бөгөөд үр ашигтай ажиллах зориулалттай Gemini 4 Hydrogen загварыг танилцууллаа. Энэ загвар нь API болон Google Antigravity орчинд ашиглагдах юм.",
+   "body_mn": "Google DeepMind компани өдөр тутмын код бичих болон агентын ажлын урсгалд зориулсан хурдан бөгөөд өндөр бүтээмжтэй Gemini 4 Hydrogen загварынхаа талаар мэдээллээ. Carbon болон Argon загварууд нь гүнзгий сэтгэх шаардлагатай архитектурын нарийн асуудлуудад зориулагдсан бол Hydrogen нь өдөр тутмын ажлыг хурдан гүйцэтгэх зорилготой юм.\n\nHydrogen загвар нь Artificial Analysis Intelligence Index жагсаалтад өндөр оноо авсан бөгөөд Google AI Studio, Gemini API болон бусад платформ дээр 1 сая токенийн контекст цонхтойгоор сая оролт тутамд 1.50 ам.доллар, гаралт тутамд 7.50 ам.долларын үнэтэйгээр худалдаалагдаж байна. Өмнөх Gemini 3.8 Flash загвартай харьцуулахад даалгаврыг 2.5 дахин хурдан гүйцэтгэж, алдаа гаргах магадлалыг 5 дахин бууруулжээ.\n\nМөн Google Antigravity орчинд шинээр Orchestrator хэрэгслийг нэвтрүүлсэн бөгөөд энэ нь Carbon болон Hydrogen загваруудыг хооронд нь динамикаар сольж ажиллах боломжийг олгодог. Ингэснээр хөгжүүлэгчид параллель агентуудыг ажиллуулж, квот болон токенийн зардлыг хэмнэн төслөө илүү хурдан хүлээлгэн өгөх боломжтой болж байна.",
+   "published": "2026-11-12T18:00:50Z",
+   "added": "2026-11-14T20:50:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "28ee4304f336c685",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Help Net Security",
+   "url": "https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/",
+   "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/27125835/claude-vortex.webp",
+   "title": "Self-hosted Claude Managed Agents keeps agent credentials in your environment",
+   "summary_en": "Anthropic has released a self-hosted version of Claude Managed Agents. Companies can run the agent harness, sandboxes, credentials, and session history in",
+   "title_mn": "Anthropic компани өөрийн сервер дээр ажиллах Claude Managed Agents хувилбарыг гаргалаа",
+   "summary_mn": "Anthropic компани хөгжүүлэгчид болон компаниудад агентын үйл ажиллагаа, эрх, дата түүхээ өөрийнхөө сервер дээр бүрэн хянах боломжийг олгох Claude Managed Agents үйлчилгээг танилцууллаа.",
+   "body_mn": "Anthropic компани Claude Managed Agents үйлчилгээнийхээ өөрийн сервер дээр байршуулах (self-hosted) хувилбарыг зарлалаа. Компаниуд одоо агент гарц, сандбокр, нууц үг болон сессийн түүхээ өөрсдийн үүлэн орчин эсвэл дотоод сервер дээрээ (on-premise) ажиллуулах боломжтой болж байна. Энэхүү хувилбар нь арваннэгдүгээр сарын 12-ноос хувийн бета хэлбэрээр нээгджээ.\n\nЭнэхүү өөрчлөлт нь кодын алдаа засах, релиз тестлэх, систем дэх анхааруулгыг шалгах зэрэг ажлыг автоматжуулдаг компаниудад маш чухал юм. Өмнө нь хэрэглэгчид зөвхөн сандбокр орчноо өөрсдөө байршуулдаг байсан бол одоо сервер болон PostgreSQL мэдээллийн баазыг бүрэн хянах боломжтой болж байна. Загварын хүсэлтүүдийг Anthropic шууд, Amazon Bedrock, Google Agent Platform эсвэл Microsoft Foundry руу чиглүүлж болно.\n\nAnthropic энэхүү системд аюулгүй байдлын дөрвөн үндсэн зарчмыг суулгажээ. Үүнд код болон Claude хоорондын харилцааг тусгаарлах, credential буюу нууц эрхийг сандбокр дотор оруулахгүй байх, зөвшөөрөгдсөн хостуудын жагсаалтаар сүлжээг хязгаарлах зэрэг орно. Мөн агентын хийсэн алхам бүрийг OpenTelemetry ашиглан экспортолж, дотоод мониторингийн хэрэгслүүдээр хянах боломжтой болгожээ.",
+   "published": "2026-11-12T18:07:00Z",
+   "added": "2026-11-14T20:50:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]
