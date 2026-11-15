@@ -1,0 +1,17 @@
+{
+ "id": "5703e3103df0e903",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "kpmg.com",
+ "url": "https://kpmg.com/us/en/media/news/kpmg-launches-cybersecurity-services-powered-by-anthropics-claude-mythos.html",
+ "image": "https://kpmg.com/kpmg-us/content/dam/kpmg/corporate-communications/image/2026/Anthropic_Cyber_tn.png",
+ "title": "KPMG Launches Cybersecurity Services Powered by Anthropic’s Claude Mythos",
+ "summary_en": "KPMG LLP announces new capabilities that use Claude Mythos, Anthropic's most capable AI model for cybersecurity.",
+ "title_mn": "KPMG компани Anthropic Claude Mythos загварт суурилсан кибер аюулгүй байдлын үйлчилгээг нэвтрүүлл",
+ "summary_mn": "KPMG компани програм хангамжийн эмзэг байдлыг илрүүлэх зорилгоор Anthropic-ийн Claude Mythos AI загварыг ашиглаж эхэллээ.",
+ "body_mn": "KPMG LLP компани үйлчлүүлэгчдийнхээ программ хангамжийн эмзэг байдлыг илрүүлэх, кибер эрсдэлийг бууруулах зорилгоор Anthropic-ийн хамгийн хүчирхэг кибер аюулгүй байдлын AI загвар болох Claude Mythos-ийг үйлчилгээндээ нэвтрүүлж байгаагаа зарлалаа.\n\nЭнэхүү хамтын ажиллагаа нь байгууллагуудад аюулгүй байдлын эрсдэлийг зөв эрэмбэлэх, кибер довтолгооноос урьдчилан сэргийлэхэд туслах юм. Claude Mythos нь эмзэг байдлыг илрүүлэхээс гадна бизнест хамгийн чухал хэсгүүдийг түргэн шуурхай засварлахад чиглэгддэгээрээ онцлогтой.",
+ "published": "2026-11-12T20:06:56Z",
+ "added": "2026-11-15T07:24:54Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

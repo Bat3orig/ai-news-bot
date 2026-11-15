@@ -1,0 +1,17 @@
+{
+ "id": "7463347d7e0f9c38",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Yahoo Tech",
+ "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-expands-claudes-workplace-arsenal-133007151.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/8c1c947153b20d1494b0f54e92b8d3a69901fb79bbf4d5152c154d8807b00c7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fc87226f1a92881e70a3bd21fcc305b3f.jpg",
+ "title": "Anthropic Expands Claude's Workplace Arsenal to Rival Google and Microsoft: What Its New AI Tools Can Do Differently",
+ "summary_en": "Anthropic has expanded Claude’s capabilities beyond chatbot conversations with AI-powered spreadsheets, meeting assistants, collaborative whiteboards and deeper integrations designed to take on Alphabet Inc.’s Google’s and Microsoft Corp.’s workplace productivity ecosystems. Claude Sheets Takes on Excel and Google Sheets At...",
+ "title_mn": "Anthropic компани Claude хэрэгсэлд Sheets, Meetings болон Whiteboards нэмл",
+ "summary_mn": "Anthropic компани Claude-ийн боломжийг өргөжүүлж, AI хүчээр ажилладаг Claude Sheets, Meetings, Whiteboards болон Data хэрэгслүүдийг олон нийтэд танилцууллаа.",
+ "body_mn": "Anthropic компани хиймэл оюуны боломжтой ажлын байрны бүтээмжийн экосистемийг бий болгох зорилгоор Claude Sheets, Claude Meetings, Claude Whiteboards зэрэг шинэ хэрэгслүүдийг танилцууллаа. Claude Sheets нь хүснэгт үүсгэх, засварлах, томьёо оруулах болон бодит цаг хугацаанд хамтран ажиллах боломжийг олгох ба Excel болон CSV формат руу экспортлох боломжтой юм.\n\nМөн Claude Meetings нь Google Meet дуудлагад оролцож тэмдэглэл хөтлөх, шийдвэр болон үүрэг даалгавруудыг нэгтгэн бүртгэх үүрэгтэйгээр нэмэгдсэн байна. Энэ нь Team болон Enterprise хэрэглэгчдэд зориулагдсан бөгөөд дуудлагын явцад гарсан санаануудыг Claude Whiteboards хэрэгслээр дамжуулан самбар дээр зохион байгуулах боломжтой ажээ.\n\nЭдгээр шинэчлэлтүүд нь хөгжүүлэгчид болон багуудад төслийн явц, дата аналитик, brainstorming хийх ажлуудаа нэг платформ дээр холбож, гар ажиллагааг багасгах замаар ажлын бүтээмжийг эрс сайжруулах зорилготой юм.",
+ "published": "2026-11-12T13:30:07Z",
+ "added": "2026-11-15T07:24:54Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5cbbee7437055134",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/kimi-k3-1-pro-is-now-available-in-token-pass",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/48N5I83qq8jHJZNdkeg0HL/4d0da22e300782d229f4741f269fec36/download__5_.jpeg",
+ "title": "Kimi K3.1 Pro is now available in Token Pass",
+ "summary_en": "Token Pass now includes Kimi K3.1 Pro , Moonshot AI’s most capable model for coding and agentic workflows, with vision, tool use, and a 1M context window. Token Pass is an Early Access subscription for Pro teams that includes Kimi K3, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash, with more models to come. For $30 per team per month, you get $150 in monthly credit to use in coding agents connected to AI Gateway , including fx , Pi , Cline , and Command Code , as well as agents you build with the AI SDK. Requests served through Token Pass have zero data retention. Subscribe on the Token…",
+ "title_mn": "Vercel Token Pass үйлчилгээнд Kimi K3.1 Pro загварыг нэмлээ",
+ "summary_mn": "Vercel-ийн Token Pass захиалгад Moonshot AI-ийн Kimi K3.1 Pro загвар нэмэгдлээ. 1 сая контекст цонхтой уг загварыг AI Gateway-ээр дамжуулан coding agent болон AI SDK-д шууд ашиглах боломжтой.",
+ "body_mn": "Vercel компани Pro багуудад зориулсан Token Pass үйлчилгээндээ Moonshot AI-ийн Kimi K3.1 Pro загварыг албан ёсоор орууллаа. Kimi K3.1 Pro нь 1 сая токены өргөн контекст цонхтой, зураг боловсруулах болон tool use чадвартай бөгөөд код бичих болон agentic ажлын урсгалуудад өндөр бүтээмжтэй ажиллахаар зохион бүтээгдсэн загвар юм.\n\nToken Pass нь багийн 30 ам.долларын сарын төлбөрөөр 150 ам.долларын хиймэл оюуны кредит олгодог Early Access захиалгын хөтөлбөр юм. Хөгжүүлэгчид энэхүү эрхээ AI Gateway-тэй холбогдсон fx, Pi, Cline, Command Code зэрэг код бичих туслахууд болон AI SDK ашиглан бүтээсэн системүүддээ хуваарилан зарцуулах боломжтой болж байна.\n\nТүүнчлэн Token Pass-аар дамжиж буй бүх хүсэлтүүд өгөгдөл хадгалахгүй (zero data retention) нөхцөлтэй ажилладаг тул хөгжүүлэгчид нууцлал өндөртэй кодын сангаа холбоход эрсдэлгүй юм. Шинэ загварыг ашиглахын тулд AI Gateway самбараас Token Pass-аа идэвхжүүлж, агентын тохиргооноос moonshotai/kimi-k3.1-pro хувилбарыг сонгоход хангалттай.",
+ "published": "2026-11-12T20:56:38Z",
+ "added": "2026-11-15T07:24:54Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

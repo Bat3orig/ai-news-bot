@@ -1,0 +1,17 @@
+{
+ "id": "67672a694e389b29",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/business/customer-stories/amplitude",
+ "image": "",
+ "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+ "summary_en": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+ "title_mn": "Amplitude компани OpenAI загваруудыг ашиглан бүтээгдэхүүнээ хурдан хөгжүүлж байна",
+ "summary_mn": "Amplitude компани OpenAI загваруудад суурилсан Wave агентаа ашиглан програм хангамжийн шинэчлэлтийг 1-2 хоногийн дотор хийдэг болжээ.",
+ "body_mn": "Amplitude компани голчлон OpenAI загваруудад суурилсан Wave нэртэй бүтээгдэхүүний идэвхтэй агентаа ашиглан хөгжүүлэлтийн процессыг хурдасгаж байна. Тус агент нь юу хийх шаардлагатайг тодорхойлж, код бичих агентуудын тусламжтайгаар өөрчлөлтийг хурдан нэвтрүүлж, үр нөлөөг нь хэмжих боломжийг олгодог.\n\nЭнэхүү кейс нь хөгжүүлэгчид болон бүтээгдэхүүний багууд AI агентуудыг ашиглан ажлын урсгалаа хэрхэн хялбарчилж, бүтээгдэхүүн зах зээлд гаргах хугацааг эрс богинорох боломжтойг харуулж байна.",
+ "published": "2026-11-12T20:00:00Z",
+ "added": "2026-11-15T07:24:54Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "49f1f468d640ead7",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.50.0",
+ "image": "https://opengraph.githubassets.com/383f4954f23a96d055706c96a19ce4bc16dd4ee35c0e6fac9f7622d4cf755ecf/openai/openai-python/releases/tag/v3.50.0",
+ "title": "openai-python v3.50.0",
+ "summary_en": "3.50.0 (2026-11-12) Features api: expose reasoning input transformations on responses ( #4268 ) ( 734f75b ) Chores deps: bump astral-sh/setup-uv from 10.3.0 to 10.3.3 ( #4261 ) ( 0ebd006 ) Documentation simplify review handoff instructions ( #4266 ) ( 141a89a )",
+ "title_mn": "openai-python v3.50.0 хувилбар шинэ боломжтойгоор гарлаа",
+ "summary_mn": "OpenAI Python сангийн v3.50.0 хувилбар нь reasoning input transformations API-г дэмждэг боллоо.",
+ "body_mn": "OpenAI албан ёсны Python хөгжүүлэлтийн сангийн v3.50.0 хувилбарыг гаргалаа. Энэхүү шинэ хувилбарт API хүсэлт дээр reasoning input transformations буюу эргэцүүлэн бодох оролтын хувиргалтуудыг шууд ашиглах боломжийг нээж өгсөн байна.\n\nМөн хөгжүүлэлтийн явцад setup-uv багцыг шинэчилж, баримт бичгийн зааварчилгааг хялбаршуулсан зэрэг засварууд багтжээ. Python ашиглан OpenAI API-тай ажилладаг хөгжүүлэгчдэд энэхүү шинэчлэлт нь загварын дэвшилтэт боломжуудыг илүү хялбар удирдах боломжийг олгоно.",
+ "published": "2026-11-12T19:26:07Z",
+ "added": "2026-11-15T07:24:54Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

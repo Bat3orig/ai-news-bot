@@ -1,0 +1,17 @@
+{
+ "id": "b5faa1f9096e526d",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v11.2.10",
+ "image": "https://opengraph.githubassets.com/f8203b9720f4991dae5864ffe553a0cc136e5b7ae0f6057b680a41bef053a8ae/nestjs/nest/releases/tag/v11.2.10",
+ "title": "nest v11.2.10",
+ "summary_en": "What's changed @nestjs/common fix(common): let a null depth print every level in the console logger — backport of #18480 fix(common): count empty strings toward the json log record cap fix(common): check the json log record cap before converting values fix(common): limit the error messages of parsed array items in total fix(common): rethrow non-validation errors in the parse array pipe fix(common): drop the value of validation errors that have children fix(common): reject a buffer sent in place of a validated class fix(common): reject a buffer held by a nested validated property fix(common)…",
+ "title_mn": "NestJS фреймворкийн v11.2.10 хувилбар гарлаа",
+ "summary_mn": "NestJS фреймворкийн v11.2.10 шинэ хувилбар гарч, олон тооны алдаа засалт болон сайжруулалтуудыг хийлээ.",
+ "body_mn": "NestJS баг v11.2.10 хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэ хувилбарт @nestjs/common болон @nestjs/core багцууд дээр олон чухал засварууд орсон байна. Тухайлбал, консол логгер дээр null гүнийг дэмжих, JSON лог рекорд хязгаарлалтыг шалгах зэрэг сайжруулалтууд хийгджээ.\n\nМөн core модулийн хувьд middleware болон exception filter-үүдтэй холбоотой алдаануудыг зассан бөгөөд серверийн гүйцэтгэл, тогтвортой байдлыг сайжруулахад анхаарсан байна. Backend хөгжүүлэгчид энэхүү шинэ хувилбар руу шилжсэнээр кодын найдвартай байдлаа нэмэгдүүлэх боломжтой.",
+ "published": "2026-11-12T18:52:32Z",
+ "added": "2026-11-15T07:24:54Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
