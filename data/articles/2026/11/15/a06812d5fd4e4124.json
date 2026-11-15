@@ -1,0 +1,17 @@
+{
+ "id": "a06812d5fd4e4124",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v45.3.2",
+ "image": "https://opengraph.githubassets.com/3694315b051dad4b1d873dd3951a745ace1a5e33dc6a59f9e1dd44801d94a1c1/electron/electron/releases/tag/v45.3.2",
+ "title": "electron v45.3.2",
+ "summary_en": "Release Notes for v45.3.2 Fixes Fixed a browser process crash when DevTools Fetch interception resumed or continued a paused response. #55758 (Also in 44 , 46 ) Fixed canvas font and document.fonts.check() rejecting leading whitespace. #55737 (Also in 44 ) Fixed cookies set shortly before quitting sometimes not being saved to disk. #55773 (Also in 46 ) Other Changes Backported fixes from upstream ANGLE, Chromium, Dawn, Skia and V8. #55747 Updated Chromium to 156.0.8078.100. #55750",
+ "title_mn": "Electron v45.3.2: DevTools Fetch болон cookie хадгалах алдаа засагдлаа",
+ "summary_mn": "Electron 45.3.2 хувилбарт DevTools Fetch интерцепт үед browser процесс унах алдаа, canvas фонт болон document.fonts.check() алдаа, quit хийхээс өмнөх cookie хадгалагдахгүй алдаа засагджээ. Chromium 156.0.8078.100 болгож шинэчлэгдсэн.",
+ "body_mn": "Electron 45.3.2 нь засварын хувилбар бөгөөд гол өөрчлөлтүүд нь браузерын процессын унах алдаа болон хадгалалтын асуудлуудыг засна.\n\nDevTools Fetch интерцепт хийгдсэн хариултыг үргэлжлүүлэх эсвэл резюме хийх үед browser процесс унадаг байсан алдааг засжээ. Мөн canvas фонт болон document.fonts.check() эхний хоосон зайг буруу татгалздаг асуудал засагдсан.\n\nQuit хийхээс богино хугацааны өмнө тохируулсан cookie-ууд заримдаа диск дээр хадгалагддаггүй байсан алдааг засжээ. Chromium 156.0.8078.100 хүртэл шинэчлэгдсэн.\n\nElectron-оор апп хөгжүүлдэг хүмүүс энэ засварыг шинэчлэх нь зүйтэй.",
+ "published": "2026-11-13T00:47:03Z",
+ "added": "2026-11-15T14:53:26Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

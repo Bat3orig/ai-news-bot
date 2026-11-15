@@ -1,0 +1,17 @@
+{
+ "id": "874622a1ca4e7708",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6DW2zkrfyqHeXa4yctgx5E/bc577b7993b7eb370d1dd637f81ca921/vercel-security-review-no-longer-requires-a-linked-vercel-pr.png",
+ "title": "Vercel Security Review no longer requires a linked Vercel project",
+ "summary_en": "You can now scan code changes for vulnerabilities with Vercel Security Review in GitHub repositories that have not yet been linked to a Vercel project. By default, Security Review covers all unlinked repositories the Vercel GitHub App can access in a connected GitHub account. You can limit coverage to selected connected accounts or individual repositories in Agent settings. Once enabled, each push to a covered repository automatically triggers a review of its code changes. Security Review checks commits directly in repositories with Security Review enabled, without requiring a Vercel project…",
+ "title_mn": "Vercel Security Review одоо холбогдсон Vercel төсөлгүйгээр ажиллана",
+ "summary_mn": "Vercel Security Review нь Vercel төсөлд холбогдоогүй GitHub repository-уудын код өөрчлөлтийг шалгах боломжтой боллоо. Push бүрт автоматаар шалгалт хийгдэх бөгөөд тохиргоог Agent settings-ээс хийнэ.",
+ "body_mn": "Vercel Security Review одоо Vercel төсөлд холбоогүй GitHub repository-уудад ажиллах боллоо. Өмнө нь шалгалт хийхэд төсөл болон deployment шаардлагатай байсан бол одоо commit-уудыг шууд шалгана.\n\nТохиргооны дагуу Vercel GitHub App-д хандах боломжтой холбоотой бүх холбогдоогүй repository анхдагчаар хамрагдана. Хүсвэл тодорхой account эсвэл repository-оор хязгаарлаж болно. Идэвхжүүлсний дараа repository-д push хийх бүрт код өөрчлөлтийн шалгалт автоматаар эхэлдэг.\n\nХэрэв repository нь Vercel төсөлтэй холбогдсон бөгөөд deployment үүсгэж байвал шалгалт төсөл болон deployment-ийн нэмэлт контекстийг ашиглана. Хөгжүүлэгчдэд энэ нь аюулгүй байдлын шалгалтыг CI-ээс гадуур, хурдан эхлүүлэх боломж олгоно.",
+ "published": "2026-11-13T00:00:00Z",
+ "added": "2026-11-15T14:53:26Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

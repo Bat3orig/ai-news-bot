@@ -1,0 +1,17 @@
+{
+ "id": "f74ed46f18528d40",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
+ "image": "https://opengraph.githubassets.com/a7057a66b0fb85c1be2633a3200c824cb71fe02f96225ae71f9c803e7c7f8934/anthropics/claude-code/releases/tag/v2.1.323",
+ "title": "claude-code v2.1.323",
+ "summary_en": "What's changed Added Code Mode, an experimental opt-in in which Claude writes JavaScript to call its tools; see https://code.claude.com/docs/en/code-mode to turn it on, or to turn it off for an organization Added engines[\"claude-code\"] to plugin.json : plugins outside their stated Claude Code version range are not installed, updated or loaded, and install and update pick the newest version that fits Added type checking of a plugin's TypeScript hooks module to claude plugin validate ; each finding is a warning, and --strict fails on it Added to claude plugin validate the $ nouns a mod's…",
+ "title_mn": "Claude Code v2.1.323: Code Mode туршилтын горим, plugin шалгалт нэмэгдлээ",
+ "summary_mn": "Claude Code v2.1.323 хувилбарт Claude JavaScript бичиж өөрийн tool-уудыг дуудах туршилтын Code Mode нэмэгдлээ. Мөн plugin.json-ийн engines талбар, TypeScript hook-ийн шалгалт зэрэг олон засвар орсон.",
+ "body_mn": "Anthropic-ийн Claude Code v2.1.323 хувилбарт хамгийн гол шинэ онцлог нь Code Mode юм. Энэ туршилтын горимд Claude tool-уудаа дуудах JavaScript кодыг өөрөө бичдэг. Горимыг идэвхжүүлэх эсвэл байгууллагад унтраах боломжтой бөгөөд тохиргооны заавар docs хаягт бий.\n\nPlugin-ийн талаар plugin.json дотор engines[\"claude-code\"] талбар нэмэгдсэн. Энэ талбарт заасан Claude Code-ийн хувилбарын хүрээнээс гадуур байгаа plugin суухгүй, шинэчлэгдэхгүй, ачаалагдахгүй. claude plugin validate командад TypeScript hook модулийн шалгалт нэмэгдэж, --strict флаг нь анхааруулгыг алдаа болгож чадна.\n\nМөн hook-ууд удаан ажиллах үед claude -p болон SDK сессэнд 30 секунд тутам progress heartbeat илгээдэг болсон. Энэ нь Claude Desktop зэрэг хост програм турн-ийг hung гэж дуусгахгүй гэсэн үг. Нэмж, CLAUDE_CODE_DISABLE_AGENT_PROGRESS_SUMMARIES тохиргоо, bash allow дүрмийн анхааруулга зэрэг олон засвар орсон. CLI ашигладаг, plugin бичдэг хөгжүүлэгчдэд энэ хувилбар ач холбогдолтой.",
+ "published": "2026-11-12T22:12:13Z",
+ "added": "2026-11-15T14:53:26Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "aea0c1ebf138aa33",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-sandbox-starts-up-to-four-times-faster",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/78JIcK9YWnxDGHidXVBtUN/c92097446b4775ed53a9d8604a536952/download__8_.jpeg",
+ "title": "Vercel Sandbox starts up to 4x faster",
+ "summary_en": "Vercel Sandbox now initializes up to 4x faster outside the Washington, D.C. ( iad1 ) region when reused image data is served from a regional cache. Initialization now reads cached image data close to where the sandbox runs, avoiding round trips to origin image storage in iad1 on cache hits. Regional caching supports managed and custom images backed by Vercel Container Registry, including snapshots based on those images. In internal end-to-end benchmarks with Vercel Managed Images , startup time fell about 75% in Paris and from about 3.5s to 1.05s in Seoul. Regions closer to origin storage…",
+ "title_mn": "Vercel Sandbox эхлэх хурд 4 дахин хурдаслаа",
+ "summary_mn": "Vercel Sandbox дахин ашиглагдсан image өгөгдлийг бүс дотроо cache-ээс уншдаг болсон тул iad1 бүсийн гадна эхлэх хугацаа эрс багассан. Managed болон custom image-д хамаарна. Paris болон Seoul-д хугацаа мэдэгдэхүйц буурчээ.",
+ "body_mn": "Vercel Sandbox одоо iad1 (Вашингтон D.C.) бүсээс бусад бүсэд дахин ашиглагдсан image өгөгдлийг регионы cache-ээс уншиж, эхлэх хугацааг up to 4 дахин богиносгосон. Cache hit тохиолдолд эх image хадгалалт руу iad1-д хүрэх шаардлагагүй болно.\n\nVercel Container Registry дээр суурилсан managed болон custom image, түүнд үндэслэсэн snapshot-уудад энэ сайжруулалт хамаарна. Компанийн дотоод end-to-end шалгалтад Managed Images ашиглахад эхлэх хугацаа Paris-д ойролцоогоор 75%, Seoul-д 3.5 секундээс 1.05 секунд болж буурсан байна.\n\nЭх image хадгалалтад ойр бүсүүдэд сайжруулалт бага байх нь ойлгомжтой, учир нь хүсэлт аль хэдийн богино замыг туулдаг. Дэлгэрэнгүйг Vercel Sandbox баримт бичгээс харна уу.\n\nХөгжүүлэгчдэд энэ нь агент эсвэл түр орчин ашигладаг апп-уудын хариу хугацааг шууд сайжруулна.",
+ "published": "2026-11-13T00:00:00Z",
+ "added": "2026-11-15T14:53:26Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

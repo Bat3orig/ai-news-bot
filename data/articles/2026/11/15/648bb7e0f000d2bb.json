@@ -1,0 +1,17 @@
+{
+ "id": "648bb7e0f000d2bb",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+ "image": "https://github.blog/wp-content/uploads/2026/11/5b5fed0ce69f241f469053d4f178383688adb2fb7ef44dff82c1a2dd6a626fa1-1920x1080-1.png",
+ "title": "Build once, run on any agent: A practical guide to agent skills",
+ "summary_en": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them.",
+ "title_mn": "Agent skills: нэг удаа бичээд хэд хэдэн агент дээр ажиллуулах практик гарын авлага",
+ "summary_mn": "GitHub agent skills-ийг SKILL.md бүхий хувилбарлагдсан directory хэлбэрээр тайлбарлаж, Proof Agent болон Data Forge жишээгээр тусгаарлагдсан verifier, skill-үүдийн хамтын ажиллагааг харуулжээ. Skill нь эрх, credential олгохгүй гэдгийг онцолсон.",
+ "body_mn": "GitHub блог agent skills-ийн талаар практик гарын авлага нийтэлжээ. Skill гэдэг нь репетитив ажлыг тайлбарласан SKILL.md файл бүхий хувилбарлагдсан directory бөгөөд олон агентын хооронд хуваалцах боломжтой. Гэхдээ skill нь өөрөө мэдээллийн сангийн хандалт эсвэл эрх олгодоггүй, орчин нь tool, credential, permission-ийг хангах ёстой.\n\nЖишээ болгон Proof Agent авч үзсэн. Агент өөрийн ажлыг өөрөө шалгавал тайлбар нь дүгнэлтэд нөлөөлж болзошгүй тул тусдаа verifier агент ашиглаж, олдворт нотолгоо хавсаргадаг. Ийм зарчмыг self-verification is not verification гэж товч томъёолжээ.\n\nData Forge нь олон skill-ийг хамтад нь ажиллуулах жишээ юм. forge-init нь төслийн контекстийг манифест хадгалж, forge-builder нь issue-ээс pull request хүртэл ажлыг зохицуулна. Нэг skill-ийг өөрчлөхөд бусад нь хамаарахгүй. Харин удирдлага, төлөв, аудитын бүртгэл шаардлагатай ажлуудад skill биш application илүү тохиромжтой гэж зөвлөжээ.",
+ "published": "2026-11-12T22:54:52Z",
+ "added": "2026-11-15T14:53:26Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

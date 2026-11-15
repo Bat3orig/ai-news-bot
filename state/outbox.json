@@ -678,5 +678,225 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4debedad4e9a64fe",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v43.8.10",
+   "image": "https://opengraph.githubassets.com/a81501c67cb00a8bb1e9c2bcdc4d2da44ff3b2f2664a9b17ff4af075cecb45c3/electron/electron/releases/tag/v43.8.10",
+   "title": "electron v43.8.10",
+   "summary_en": "Release Notes for v43.8.10 Other Changes Backported fixes from upstream ANGLE, Chromium, Dawn, icu, Skia and V8. #55749",
+   "title_mn": "Electron v43.8.10 хувилбар гарлаа: upstream засваруудыг буцаан нэвтрүүлжээ",
+   "summary_mn": "Electron v43.8.10 хувилбарт ANGLE, Chromium, Dawn, icu, Skia болон V8-ийн upstream засваруудыг backport хийжээ. Энэ нь шинэ функц биш, харин аюулгүй байдал болон тогтвортой ажиллагаанд чиглэсэн засвар юм.",
+   "body_mn": "Electron-ийн хөгжүүлэгчид v43.8.10 хувилбарыг гаргалаа. Энэ хувилбарын тэмдэглэлд шинэ функц дурдаагүй бөгөөд гол хэсэг нь upstream төслүүдээс авсан засваруудыг хуулбарласан явдал юм.\n\nБackport хийгдсэн эх сурвалжууд нь ANGLE, Chromium, Dawn, icu, Skia болон V8 юм. Эдгээр нь Electron-ийн доорх рендерлэлт, график, JavaScript хөдөлгүүрийн үндсэн сангууд тул аппликейшнүүдийн тогтвортой байдалд шууд нөлөөлдөг.\n\nХөгжүүлэгчдэд энэ хувилбар нь хэрэв одоо Electron v43 дээр ажиллаж байгаа бол шинэчлэх шалтгаан болно. Гэхдээ томоохон API өөрчлөлт байхгүй тул шинэчлэлтийн эрсдэл бага байх магадлалтай. Тэмдэглэлийн дагуу шинэчлэлтээс өмнө тестийн орчинд шалгах нь зүйтэй.",
+   "published": "2026-11-12T21:20:57Z",
+   "added": "2026-11-15T14:53:26Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a8eec540a4f4c56a",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v44.11.3",
+   "image": "https://opengraph.githubassets.com/4d884bef2e48943b5754263aca5c245eebe6ff7dc9e67820800b6b8772df483a/electron/electron/releases/tag/v44.11.3",
+   "title": "electron v44.11.3",
+   "summary_en": "Release Notes for v44.11.3 Fixes Fixed a browser process crash when DevTools Fetch interception resumed or continued a paused response. #55759 (Also in 45 , 46 ) Other Changes Backported fixes from upstream ANGLE, Chromium, Dawn, icu, Skia and V8. #55748",
+   "title_mn": "Electron v44.11.3: DevTools Fetch интерцепцийн үед гарах browser crash засагдлаа",
+   "summary_mn": "Electron v44.11.3 хувилбар DevTools Fetch интерцепцид хариу үйлдэл паузтай байхад browser процесс унадаг алдааг засжээ. Мөн upstream-ийн засваруудыг нэмсэн байна.",
+   "body_mn": "Electron v44.11.3 хувилбар нь гол засвартаа browser процессын crash-ийг багтаасан. Алдаа нь DevTools Fetch интерцепт хийгдсэн хариуг түр зогсоох эсвэл үргэлжлүүлэх үед гарч байсан.\n\nМөн энэ хувилбар 45 болон 46 хувилбарт бас хамааралтай гэж тэмдэглэгдсэн байна. Үүний дээр ANGLE, Chromium, Dawn, icu, Skia, V8 зэрэг upstream сангуудын засваруудыг backport хийжээ.\n\nDevTools-ээр network интерцепт ашигладаг хөгжүүлэгчдэд энэ засвар чухал. Crash нь debugging хийж байх үед тохиолдох тул шинэчлэх нь ажлын урсгалыг тогтвортой болгоно.",
+   "published": "2026-11-12T21:37:50Z",
+   "added": "2026-11-15T14:53:26Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f74ed46f18528d40",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
+   "image": "https://opengraph.githubassets.com/a7057a66b0fb85c1be2633a3200c824cb71fe02f96225ae71f9c803e7c7f8934/anthropics/claude-code/releases/tag/v2.1.323",
+   "title": "claude-code v2.1.323",
+   "summary_en": "What's changed Added Code Mode, an experimental opt-in in which Claude writes JavaScript to call its tools; see https://code.claude.com/docs/en/code-mode to turn it on, or to turn it off for an organization Added engines[\"claude-code\"] to plugin.json : plugins outside their stated Claude Code version range are not installed, updated or loaded, and install and update pick the newest version that fits Added type checking of a plugin's TypeScript hooks module to claude plugin validate ; each finding is a warning, and --strict fails on it Added to claude plugin validate the $ nouns a mod's…",
+   "title_mn": "Claude Code v2.1.323: Code Mode туршилтын горим, plugin шалгалт нэмэгдлээ",
+   "summary_mn": "Claude Code v2.1.323 хувилбарт Claude JavaScript бичиж өөрийн tool-уудыг дуудах туршилтын Code Mode нэмэгдлээ. Мөн plugin.json-ийн engines талбар, TypeScript hook-ийн шалгалт зэрэг олон засвар орсон.",
+   "body_mn": "Anthropic-ийн Claude Code v2.1.323 хувилбарт хамгийн гол шинэ онцлог нь Code Mode юм. Энэ туршилтын горимд Claude tool-уудаа дуудах JavaScript кодыг өөрөө бичдэг. Горимыг идэвхжүүлэх эсвэл байгууллагад унтраах боломжтой бөгөөд тохиргооны заавар docs хаягт бий.\n\nPlugin-ийн талаар plugin.json дотор engines[\"claude-code\"] талбар нэмэгдсэн. Энэ талбарт заасан Claude Code-ийн хувилбарын хүрээнээс гадуур байгаа plugin суухгүй, шинэчлэгдэхгүй, ачаалагдахгүй. claude plugin validate командад TypeScript hook модулийн шалгалт нэмэгдэж, --strict флаг нь анхааруулгыг алдаа болгож чадна.\n\nМөн hook-ууд удаан ажиллах үед claude -p болон SDK сессэнд 30 секунд тутам progress heartbeat илгээдэг болсон. Энэ нь Claude Desktop зэрэг хост програм турн-ийг hung гэж дуусгахгүй гэсэн үг. Нэмж, CLAUDE_CODE_DISABLE_AGENT_PROGRESS_SUMMARIES тохиргоо, bash allow дүрмийн анхааруулга зэрэг олон засвар орсон. CLI ашигладаг, plugin бичдэг хөгжүүлэгчдэд энэ хувилбар ач холбогдолтой.",
+   "published": "2026-11-12T22:12:13Z",
+   "added": "2026-11-15T14:53:26Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "648bb7e0f000d2bb",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Blog",
+   "source_label": "GitHub Blog",
+   "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+   "image": "https://github.blog/wp-content/uploads/2026/11/5b5fed0ce69f241f469053d4f178383688adb2fb7ef44dff82c1a2dd6a626fa1-1920x1080-1.png",
+   "title": "Build once, run on any agent: A practical guide to agent skills",
+   "summary_en": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them.",
+   "title_mn": "Agent skills: нэг удаа бичээд хэд хэдэн агент дээр ажиллуулах практик гарын авлага",
+   "summary_mn": "GitHub agent skills-ийг SKILL.md бүхий хувилбарлагдсан directory хэлбэрээр тайлбарлаж, Proof Agent болон Data Forge жишээгээр тусгаарлагдсан verifier, skill-үүдийн хамтын ажиллагааг харуулжээ. Skill нь эрх, credential олгохгүй гэдгийг онцолсон.",
+   "body_mn": "GitHub блог agent skills-ийн талаар практик гарын авлага нийтэлжээ. Skill гэдэг нь репетитив ажлыг тайлбарласан SKILL.md файл бүхий хувилбарлагдсан directory бөгөөд олон агентын хооронд хуваалцах боломжтой. Гэхдээ skill нь өөрөө мэдээллийн сангийн хандалт эсвэл эрх олгодоггүй, орчин нь tool, credential, permission-ийг хангах ёстой.\n\nЖишээ болгон Proof Agent авч үзсэн. Агент өөрийн ажлыг өөрөө шалгавал тайлбар нь дүгнэлтэд нөлөөлж болзошгүй тул тусдаа verifier агент ашиглаж, олдворт нотолгоо хавсаргадаг. Ийм зарчмыг self-verification is not verification гэж товч томъёолжээ.\n\nData Forge нь олон skill-ийг хамтад нь ажиллуулах жишээ юм. forge-init нь төслийн контекстийг манифест хадгалж, forge-builder нь issue-ээс pull request хүртэл ажлыг зохицуулна. Нэг skill-ийг өөрчлөхөд бусад нь хамаарахгүй. Харин удирдлага, төлөв, аудитын бүртгэл шаардлагатай ажлуудад skill биш application илүү тохиромжтой гэж зөвлөжээ.",
+   "published": "2026-11-12T22:54:52Z",
+   "added": "2026-11-15T14:53:26Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "874622a1ca4e7708",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6DW2zkrfyqHeXa4yctgx5E/bc577b7993b7eb370d1dd637f81ca921/vercel-security-review-no-longer-requires-a-linked-vercel-pr.png",
+   "title": "Vercel Security Review no longer requires a linked Vercel project",
+   "summary_en": "You can now scan code changes for vulnerabilities with Vercel Security Review in GitHub repositories that have not yet been linked to a Vercel project. By default, Security Review covers all unlinked repositories the Vercel GitHub App can access in a connected GitHub account. You can limit coverage to selected connected accounts or individual repositories in Agent settings. Once enabled, each push to a covered repository automatically triggers a review of its code changes. Security Review checks commits directly in repositories with Security Review enabled, without requiring a Vercel project…",
+   "title_mn": "Vercel Security Review одоо холбогдсон Vercel төсөлгүйгээр ажиллана",
+   "summary_mn": "Vercel Security Review нь Vercel төсөлд холбогдоогүй GitHub repository-уудын код өөрчлөлтийг шалгах боломжтой боллоо. Push бүрт автоматаар шалгалт хийгдэх бөгөөд тохиргоог Agent settings-ээс хийнэ.",
+   "body_mn": "Vercel Security Review одоо Vercel төсөлд холбоогүй GitHub repository-уудад ажиллах боллоо. Өмнө нь шалгалт хийхэд төсөл болон deployment шаардлагатай байсан бол одоо commit-уудыг шууд шалгана.\n\nТохиргооны дагуу Vercel GitHub App-д хандах боломжтой холбоотой бүх холбогдоогүй repository анхдагчаар хамрагдана. Хүсвэл тодорхой account эсвэл repository-оор хязгаарлаж болно. Идэвхжүүлсний дараа repository-д push хийх бүрт код өөрчлөлтийн шалгалт автоматаар эхэлдэг.\n\nХэрэв repository нь Vercel төсөлтэй холбогдсон бөгөөд deployment үүсгэж байвал шалгалт төсөл болон deployment-ийн нэмэлт контекстийг ашиглана. Хөгжүүлэгчдэд энэ нь аюулгүй байдлын шалгалтыг CI-ээс гадуур, хурдан эхлүүлэх боломж олгоно.",
+   "published": "2026-11-13T00:00:00Z",
+   "added": "2026-11-15T14:53:26Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "aea0c1ebf138aa33",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-sandbox-starts-up-to-four-times-faster",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/78JIcK9YWnxDGHidXVBtUN/c92097446b4775ed53a9d8604a536952/download__8_.jpeg",
+   "title": "Vercel Sandbox starts up to 4x faster",
+   "summary_en": "Vercel Sandbox now initializes up to 4x faster outside the Washington, D.C. ( iad1 ) region when reused image data is served from a regional cache. Initialization now reads cached image data close to where the sandbox runs, avoiding round trips to origin image storage in iad1 on cache hits. Regional caching supports managed and custom images backed by Vercel Container Registry, including snapshots based on those images. In internal end-to-end benchmarks with Vercel Managed Images , startup time fell about 75% in Paris and from about 3.5s to 1.05s in Seoul. Regions closer to origin storage…",
+   "title_mn": "Vercel Sandbox эхлэх хурд 4 дахин хурдаслаа",
+   "summary_mn": "Vercel Sandbox дахин ашиглагдсан image өгөгдлийг бүс дотроо cache-ээс уншдаг болсон тул iad1 бүсийн гадна эхлэх хугацаа эрс багассан. Managed болон custom image-д хамаарна. Paris болон Seoul-д хугацаа мэдэгдэхүйц буурчээ.",
+   "body_mn": "Vercel Sandbox одоо iad1 (Вашингтон D.C.) бүсээс бусад бүсэд дахин ашиглагдсан image өгөгдлийг регионы cache-ээс уншиж, эхлэх хугацааг up to 4 дахин богиносгосон. Cache hit тохиолдолд эх image хадгалалт руу iad1-д хүрэх шаардлагагүй болно.\n\nVercel Container Registry дээр суурилсан managed болон custom image, түүнд үндэслэсэн snapshot-уудад энэ сайжруулалт хамаарна. Компанийн дотоод end-to-end шалгалтад Managed Images ашиглахад эхлэх хугацаа Paris-д ойролцоогоор 75%, Seoul-д 3.5 секундээс 1.05 секунд болж буурсан байна.\n\nЭх image хадгалалтад ойр бүсүүдэд сайжруулалт бага байх нь ойлгомжтой, учир нь хүсэлт аль хэдийн богино замыг туулдаг. Дэлгэрэнгүйг Vercel Sandbox баримт бичгээс харна уу.\n\nХөгжүүлэгчдэд энэ нь агент эсвэл түр орчин ашигладаг апп-уудын хариу хугацааг шууд сайжруулна.",
+   "published": "2026-11-13T00:00:00Z",
+   "added": "2026-11-15T14:53:26Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "02006c824db5ce40",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2IAhl0SUuhQvatXfUJ6fbt/e2406cd91ed04136e25398e0504e7011/download__4_.jpeg",
+   "title": "Build cache size limit on Vercel increased to 5 GB",
+   "summary_en": "The build cache size limit on all Vercel build machines has been increased to 5 GB. This allows projects to save more installed dependencies and framework files for reuse between deployments, which can reduce install and build times. Build machines are the compute environments that install dependencies and build your project before deployment. Previously, caches were discarded if they exceeded 1.5 GB on Basic and Standard, 3 GB on Enhanced, or 4.75 GB on Turbo, leaving the next build without a cache. The change applies automatically across all build machine types at no additional charge…",
+   "title_mn": "Vercel build cache хэмжээний хязгаар 5 GB болж нэмэгдлээ",
+   "summary_mn": "Vercel-ийн бүх build машин дээр build cache-ийн дээд хэмжээ 5 GB болж нэмэгдлээ. Өмнө нь хязгаараас хэтэрсэн cache устдаг байсан. Өөрчлөлт нэмэлт төлбөргүй, тохиргоо шаардахгүй автоматаар хэрэгжинэ.",
+   "body_mn": "Vercel-ийн build cache-ийн хэмжээний хязгаар бүх build машин дээр 5 GB болж нэмэгдлээ. Ингэснээр проектууд суулгасан dependency болон framework файлуудаа илүү олон удаа дахин ашиглах боломжтой болно.\n\nӨмнө Basic болон Standard дээр 1.5 GB, Enhanced дээр 3 GB, Turbo дээр 4.75 GB-аас хэтэрсэн cache устгагдаж, дараагийн build cache-гүй эхэлдэг байв.\n\nӨөрчлөлт бүх build машины төрөлд автоматаар хамаарах бөгөөд нэмэлт төлбөр байхгүй, тохиргоо шаардахгүй. Дэлгэрэнгүйг build cache баримт бичгээс үзнэ үү.\n\nТомоохон dependency-тэй проектуудад install болон build хугацаа богиносох боломжтой.",
+   "published": "2026-11-13T00:00:00Z",
+   "added": "2026-11-15T14:53:26Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "374a6e03bf631fe0",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5rbqGCTWeha8qMmIA5H0DD/2aa4be09ebb1d031bc95f73f1e0c937f/Vercel_x_Parallel.png",
+   "title": "Parallel Decisions now available on AI Gateway for free",
+   "summary_en": "Parallel Decisions Fast from Parallel is now available on AI Gateway and is free through November 23, 2026. It searches the live web to answer typed questions about companies, products, policies, and other changing information, returning probabilities and cited evidence for your application to act on. Use it to enrich CRM records, check eligibility, route leads, or verify claims against current sources. Boolean questions return the probability of yes, Choice questions select from options you define, and Score questions assess an ordered rubric. Related questions share context and retrieved…",
+   "title_mn": "Parallel Decisions загвар AI Gateway дээр 2026 оны 11-р сарын 23 хүртэл үнэгүй",
+   "summary_mn": "Parallel Decisions Fast загвар AI Gateway дээр нээгдлээ. Загвар бодит цагийн веб хайж, магадлал болон эшлэлтэй хариулт өгдөг. Model нэр нь parallel/parallel-decisions-fast.",
+   "body_mn": "Parallel-ийн Decisions Fast загвар AI Gateway дээр боломжтой боллоо. Үнэгүй хугацаа 2026 оны 11-р сарын 23 хүртэл үргэлжилнэ.\n\nЗагвар компани, бүтээгдэхүүн, бодлого зэрэг өөрчлөгддөг мэдээллийн талаар асуултад бодит цагийн веб хайлтаар хариулж, магадлал болон эшлэлтэй нотолгоо буцаана. Boolean асуулт нь \"тийм\" магадлалыг, Choice асуулт өгсөн сонголтоос сонгож, Score асуулт эрэмбэтэй rubric-ээр үнэлнэ.\n\nCRM бичлэг баяжуулах, эрх шалгах, лийд чиглүүлэх, мэдэгдлийг шалгахад ашиглаж болно. Хүсэлтүүд логоор болон зардлын төсвөөр AI Gateway-д хянагдана. Нэмэлт Parallel бүртгэл шаардахгүй.\n\nХөгжүүлэгчид магадлал босгоос дээш бол автомат үйлдэл хийж, найдваргүй үр дүнг шалгалтад илгээх боломжтой.",
+   "published": "2026-11-13T00:00:00Z",
+   "added": "2026-11-15T14:53:26Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2f3087ddd8ad1f85",
+   "subtopic": "packages",
+   "source": "React Status",
+   "source_label": "React Status",
+   "url": "https://react.statuscode.com/issues/497",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/jmcergdduhiy3e6s1glp.jpg",
+   "title": "shadcn's next thing: UI SDK",
+   "summary_en": "#​497 — November 13, 2026 Read on the Web React Status Declarative Dragging — Rather than designing drag and drop interactions as needed, what if you could declare the possible outcomes and let a library work out the interaction? Dragology is an experimental React library for SVG interfaces that does just that. There are lots of demos to try. Horowitz, Blinn, and Heer Debug Errors and Agents Faster: Sentry Changelog Live — A walkthrough of what’s new for debugging errors and performance issues, including fixing production bugs with Seer and tracing the agents you build. Live Q&A. Nov 18…",
+   "title_mn": "React долоо хоногийн тойм: shadcn UI SDK, Storybook 11 beta, Vite аюулгүй байдлын засвар",
+   "summary_mn": "shadcn болон Vercel-ийн UI SDK бета, Storybook 11 beta, React form-ийн шинэ баримт, Vite-ийн критик алдааны засвар зэрэг хамгийн чухал хэдэн зүйл энэ долоо хоногт гарлаа.",
+   "body_mn": "Энэ долоо хоногийн React тоймд хэд хэдэн чухал сан, хэрэгслийн мэдээлэл багтжээ. Хамгийн гол нь Vercel болон shadcn-ийн UI SDK бөгөөд энэ нь keyboard navigation, popup, drag and drop зэрэг үйлдлүүдийг өөрийн компонентэд нийлүүлэх боломжтой headless behavior сан юм. Одоогоор бета шатанд байна.\n\nStorybook 11 beta-д React төслүүдийн component metadata илүү хурдан, нарийвчлалтай болсон, type-safe stories болон агентад зориулсан албан ёсны skills нэмэгджээ. Эцсийн хувилбар 12-р сард гарна.\n\nVite-ийн критик алдаа --host эсвэл server.host тохиргоотой dev сервер дээр алсын кодын гүйцэтгэлд хүргэдэг тул 8.3.7, 8.2.5, 8.1.7, 7.3.8 эсвэл 6.4.6 хувилбар руу шинэчлэх шаардлагатай.\n\nМөн React-ийн <form> баримт Action-ийн дараа талбарын утгыг хэрхэн хадгалахыг тайлбарлаж, requestFormReset-д тусдаа лавлагаа хуудас нэмэгджээ. X (Twitter) веб апп React, Relay, Vite дээр шилжсэн тухай судалгаа, Exact гэх Rust-д суурилсан шинэ framework зэрэг сонирхолтой зүйлс ч багтсан байна.",
+   "published": "2026-11-13T00:00:00Z",
+   "added": "2026-11-15T14:53:26Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9980634491b60ca7",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "TOKENPOST",
+   "url": "https://www.tokenpost.com/news/technology/56080",
+   "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/1d8487541036b1f7549b4ad5fcc17b01b955b847e62eab5379fa671b7973672f.webp",
+   "title": "Kiro Adds Grok 4.7 to Four Paid Plans for AI-Assisted Coding",
+   "summary_en": "The model is available in Kiro’s IDE, command-line interface, Crew and web app. Requests above 200,000 tokens carry a 5.4 times credit rate.",
+   "title_mn": "Kiro хөтөлбөр Grok 4.7-ийг дөрвөн төлбөртэй багцдаа нэмлээ",
+   "summary_mn": "Kiro 11-р сарын 10-нд xAI-ийн Grok 4.7 загварыг туршилтын горимоор Pro, Pro+, Pro Max, Power багцад нэмсэн. Загвар 500,000 токеноор context-тэй, том хүсэлтэд илүү credit зардалтай.",
+   "body_mn": "Kiro 11-р сарын 10-нд xAI-ийн Grok 4.7 загварыг туршилтын горимоор Pro, Pro+, Pro Max болон Power багцын захиалагчдад нэмсэн. Загварыг Kiro-ийн IDE, command-line interface, Crew болон веб апп дээр ашиглаж болно.\n\nGrok 4.7 нь 500,000 токены context window-тай бөгөөд төслийн их хэмжээний мэдээллийг нэг хүсэлтэд авч үзэх боломжтой. 200,000 токен хүртэлх хүсэлт суурь credit хурдны 2.7 дахин, түүнээс давсан хүсэлт 5.4 дахин өртөгтэй.\n\nЗагварыг харагдуулахын тулд Kiro-г дахин ачаалах эсвэл restart хийх шаардлагатай. Kiro бол Amazon Web Services-ийн техник-зохиомжийн хөгжүүлэлтийн платформ юм.",
+   "published": "2026-11-13T00:05:00Z",
+   "added": "2026-11-15T14:53:26Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a06812d5fd4e4124",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v45.3.2",
+   "image": "https://opengraph.githubassets.com/3694315b051dad4b1d873dd3951a745ace1a5e33dc6a59f9e1dd44801d94a1c1/electron/electron/releases/tag/v45.3.2",
+   "title": "electron v45.3.2",
+   "summary_en": "Release Notes for v45.3.2 Fixes Fixed a browser process crash when DevTools Fetch interception resumed or continued a paused response. #55758 (Also in 44 , 46 ) Fixed canvas font and document.fonts.check() rejecting leading whitespace. #55737 (Also in 44 ) Fixed cookies set shortly before quitting sometimes not being saved to disk. #55773 (Also in 46 ) Other Changes Backported fixes from upstream ANGLE, Chromium, Dawn, Skia and V8. #55747 Updated Chromium to 156.0.8078.100. #55750",
+   "title_mn": "Electron v45.3.2: DevTools Fetch болон cookie хадгалах алдаа засагдлаа",
+   "summary_mn": "Electron 45.3.2 хувилбарт DevTools Fetch интерцепт үед browser процесс унах алдаа, canvas фонт болон document.fonts.check() алдаа, quit хийхээс өмнөх cookie хадгалагдахгүй алдаа засагджээ. Chromium 156.0.8078.100 болгож шинэчлэгдсэн.",
+   "body_mn": "Electron 45.3.2 нь засварын хувилбар бөгөөд гол өөрчлөлтүүд нь браузерын процессын унах алдаа болон хадгалалтын асуудлуудыг засна.\n\nDevTools Fetch интерцепт хийгдсэн хариултыг үргэлжлүүлэх эсвэл резюме хийх үед browser процесс унадаг байсан алдааг засжээ. Мөн canvas фонт болон document.fonts.check() эхний хоосон зайг буруу татгалздаг асуудал засагдсан.\n\nQuit хийхээс богино хугацааны өмнө тохируулсан cookie-ууд заримдаа диск дээр хадгалагддаггүй байсан алдааг засжээ. Chromium 156.0.8078.100 хүртэл шинэчлэгдсэн.\n\nElectron-оор апп хөгжүүлдэг хүмүүс энэ засварыг шинэчлэх нь зүйтэй.",
+   "published": "2026-11-13T00:47:03Z",
+   "added": "2026-11-15T14:53:26Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]

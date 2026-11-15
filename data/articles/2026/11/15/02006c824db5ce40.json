@@ -1,0 +1,17 @@
+{
+ "id": "02006c824db5ce40",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2IAhl0SUuhQvatXfUJ6fbt/e2406cd91ed04136e25398e0504e7011/download__4_.jpeg",
+ "title": "Build cache size limit on Vercel increased to 5 GB",
+ "summary_en": "The build cache size limit on all Vercel build machines has been increased to 5 GB. This allows projects to save more installed dependencies and framework files for reuse between deployments, which can reduce install and build times. Build machines are the compute environments that install dependencies and build your project before deployment. Previously, caches were discarded if they exceeded 1.5 GB on Basic and Standard, 3 GB on Enhanced, or 4.75 GB on Turbo, leaving the next build without a cache. The change applies automatically across all build machine types at no additional charge…",
+ "title_mn": "Vercel build cache хэмжээний хязгаар 5 GB болж нэмэгдлээ",
+ "summary_mn": "Vercel-ийн бүх build машин дээр build cache-ийн дээд хэмжээ 5 GB болж нэмэгдлээ. Өмнө нь хязгаараас хэтэрсэн cache устдаг байсан. Өөрчлөлт нэмэлт төлбөргүй, тохиргоо шаардахгүй автоматаар хэрэгжинэ.",
+ "body_mn": "Vercel-ийн build cache-ийн хэмжээний хязгаар бүх build машин дээр 5 GB болж нэмэгдлээ. Ингэснээр проектууд суулгасан dependency болон framework файлуудаа илүү олон удаа дахин ашиглах боломжтой болно.\n\nӨмнө Basic болон Standard дээр 1.5 GB, Enhanced дээр 3 GB, Turbo дээр 4.75 GB-аас хэтэрсэн cache устгагдаж, дараагийн build cache-гүй эхэлдэг байв.\n\nӨөрчлөлт бүх build машины төрөлд автоматаар хамаарах бөгөөд нэмэлт төлбөр байхгүй, тохиргоо шаардахгүй. Дэлгэрэнгүйг build cache баримт бичгээс үзнэ үү.\n\nТомоохон dependency-тэй проектуудад install болон build хугацаа богиносох боломжтой.",
+ "published": "2026-11-13T00:00:00Z",
+ "added": "2026-11-15T14:53:26Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

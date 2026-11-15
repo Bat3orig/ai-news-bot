@@ -1,0 +1,17 @@
+{
+ "id": "9980634491b60ca7",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "TOKENPOST",
+ "url": "https://www.tokenpost.com/news/technology/56080",
+ "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/1d8487541036b1f7549b4ad5fcc17b01b955b847e62eab5379fa671b7973672f.webp",
+ "title": "Kiro Adds Grok 4.7 to Four Paid Plans for AI-Assisted Coding",
+ "summary_en": "The model is available in Kiro’s IDE, command-line interface, Crew and web app. Requests above 200,000 tokens carry a 5.4 times credit rate.",
+ "title_mn": "Kiro хөтөлбөр Grok 4.7-ийг дөрвөн төлбөртэй багцдаа нэмлээ",
+ "summary_mn": "Kiro 11-р сарын 10-нд xAI-ийн Grok 4.7 загварыг туршилтын горимоор Pro, Pro+, Pro Max, Power багцад нэмсэн. Загвар 500,000 токеноор context-тэй, том хүсэлтэд илүү credit зардалтай.",
+ "body_mn": "Kiro 11-р сарын 10-нд xAI-ийн Grok 4.7 загварыг туршилтын горимоор Pro, Pro+, Pro Max болон Power багцын захиалагчдад нэмсэн. Загварыг Kiro-ийн IDE, command-line interface, Crew болон веб апп дээр ашиглаж болно.\n\nGrok 4.7 нь 500,000 токены context window-тай бөгөөд төслийн их хэмжээний мэдээллийг нэг хүсэлтэд авч үзэх боломжтой. 200,000 токен хүртэлх хүсэлт суурь credit хурдны 2.7 дахин, түүнээс давсан хүсэлт 5.4 дахин өртөгтэй.\n\nЗагварыг харагдуулахын тулд Kiro-г дахин ачаалах эсвэл restart хийх шаардлагатай. Kiro бол Amazon Web Services-ийн техник-зохиомжийн хөгжүүлэлтийн платформ юм.",
+ "published": "2026-11-13T00:05:00Z",
+ "added": "2026-11-15T14:53:26Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

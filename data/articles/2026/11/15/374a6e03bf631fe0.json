@@ -1,0 +1,17 @@
+{
+ "id": "374a6e03bf631fe0",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5rbqGCTWeha8qMmIA5H0DD/2aa4be09ebb1d031bc95f73f1e0c937f/Vercel_x_Parallel.png",
+ "title": "Parallel Decisions now available on AI Gateway for free",
+ "summary_en": "Parallel Decisions Fast from Parallel is now available on AI Gateway and is free through November 23, 2026. It searches the live web to answer typed questions about companies, products, policies, and other changing information, returning probabilities and cited evidence for your application to act on. Use it to enrich CRM records, check eligibility, route leads, or verify claims against current sources. Boolean questions return the probability of yes, Choice questions select from options you define, and Score questions assess an ordered rubric. Related questions share context and retrieved…",
+ "title_mn": "Parallel Decisions загвар AI Gateway дээр 2026 оны 11-р сарын 23 хүртэл үнэгүй",
+ "summary_mn": "Parallel Decisions Fast загвар AI Gateway дээр нээгдлээ. Загвар бодит цагийн веб хайж, магадлал болон эшлэлтэй хариулт өгдөг. Model нэр нь parallel/parallel-decisions-fast.",
+ "body_mn": "Parallel-ийн Decisions Fast загвар AI Gateway дээр боломжтой боллоо. Үнэгүй хугацаа 2026 оны 11-р сарын 23 хүртэл үргэлжилнэ.\n\nЗагвар компани, бүтээгдэхүүн, бодлого зэрэг өөрчлөгддөг мэдээллийн талаар асуултад бодит цагийн веб хайлтаар хариулж, магадлал болон эшлэлтэй нотолгоо буцаана. Boolean асуулт нь \"тийм\" магадлалыг, Choice асуулт өгсөн сонголтоос сонгож, Score асуулт эрэмбэтэй rubric-ээр үнэлнэ.\n\nCRM бичлэг баяжуулах, эрх шалгах, лийд чиглүүлэх, мэдэгдлийг шалгахад ашиглаж болно. Хүсэлтүүд логоор болон зардлын төсвөөр AI Gateway-д хянагдана. Нэмэлт Parallel бүртгэл шаардахгүй.\n\nХөгжүүлэгчид магадлал босгоос дээш бол автомат үйлдэл хийж, найдваргүй үр дүнг шалгалтад илгээх боломжтой.",
+ "published": "2026-11-13T00:00:00Z",
+ "added": "2026-11-15T14:53:26Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

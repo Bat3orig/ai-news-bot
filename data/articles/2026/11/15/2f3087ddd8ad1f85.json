@@ -1,0 +1,17 @@
+{
+ "id": "2f3087ddd8ad1f85",
+ "subtopic": "packages",
+ "source": "React Status",
+ "source_label": "React Status",
+ "url": "https://react.statuscode.com/issues/497",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/jmcergdduhiy3e6s1glp.jpg",
+ "title": "shadcn's next thing: UI SDK",
+ "summary_en": "#​497 — November 13, 2026 Read on the Web React Status Declarative Dragging — Rather than designing drag and drop interactions as needed, what if you could declare the possible outcomes and let a library work out the interaction? Dragology is an experimental React library for SVG interfaces that does just that. There are lots of demos to try. Horowitz, Blinn, and Heer Debug Errors and Agents Faster: Sentry Changelog Live — A walkthrough of what’s new for debugging errors and performance issues, including fixing production bugs with Seer and tracing the agents you build. Live Q&A. Nov 18…",
+ "title_mn": "React долоо хоногийн тойм: shadcn UI SDK, Storybook 11 beta, Vite аюулгүй байдлын засвар",
+ "summary_mn": "shadcn болон Vercel-ийн UI SDK бета, Storybook 11 beta, React form-ийн шинэ баримт, Vite-ийн критик алдааны засвар зэрэг хамгийн чухал хэдэн зүйл энэ долоо хоногт гарлаа.",
+ "body_mn": "Энэ долоо хоногийн React тоймд хэд хэдэн чухал сан, хэрэгслийн мэдээлэл багтжээ. Хамгийн гол нь Vercel болон shadcn-ийн UI SDK бөгөөд энэ нь keyboard navigation, popup, drag and drop зэрэг үйлдлүүдийг өөрийн компонентэд нийлүүлэх боломжтой headless behavior сан юм. Одоогоор бета шатанд байна.\n\nStorybook 11 beta-д React төслүүдийн component metadata илүү хурдан, нарийвчлалтай болсон, type-safe stories болон агентад зориулсан албан ёсны skills нэмэгджээ. Эцсийн хувилбар 12-р сард гарна.\n\nVite-ийн критик алдаа --host эсвэл server.host тохиргоотой dev сервер дээр алсын кодын гүйцэтгэлд хүргэдэг тул 8.3.7, 8.2.5, 8.1.7, 7.3.8 эсвэл 6.4.6 хувилбар руу шинэчлэх шаардлагатай.\n\nМөн React-ийн <form> баримт Action-ийн дараа талбарын утгыг хэрхэн хадгалахыг тайлбарлаж, requestFormReset-д тусдаа лавлагаа хуудас нэмэгджээ. X (Twitter) веб апп React, Relay, Vite дээр шилжсэн тухай судалгаа, Exact гэх Rust-д суурилсан шинэ framework зэрэг сонирхолтой зүйлс ч багтсан байна.",
+ "published": "2026-11-13T00:00:00Z",
+ "added": "2026-11-15T14:53:26Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

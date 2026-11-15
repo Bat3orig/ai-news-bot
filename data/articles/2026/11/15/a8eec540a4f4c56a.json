@@ -1,0 +1,17 @@
+{
+ "id": "a8eec540a4f4c56a",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v44.11.3",
+ "image": "https://opengraph.githubassets.com/4d884bef2e48943b5754263aca5c245eebe6ff7dc9e67820800b6b8772df483a/electron/electron/releases/tag/v44.11.3",
+ "title": "electron v44.11.3",
+ "summary_en": "Release Notes for v44.11.3 Fixes Fixed a browser process crash when DevTools Fetch interception resumed or continued a paused response. #55759 (Also in 45 , 46 ) Other Changes Backported fixes from upstream ANGLE, Chromium, Dawn, icu, Skia and V8. #55748",
+ "title_mn": "Electron v44.11.3: DevTools Fetch интерцепцийн үед гарах browser crash засагдлаа",
+ "summary_mn": "Electron v44.11.3 хувилбар DevTools Fetch интерцепцид хариу үйлдэл паузтай байхад browser процесс унадаг алдааг засжээ. Мөн upstream-ийн засваруудыг нэмсэн байна.",
+ "body_mn": "Electron v44.11.3 хувилбар нь гол засвартаа browser процессын crash-ийг багтаасан. Алдаа нь DevTools Fetch интерцепт хийгдсэн хариуг түр зогсоох эсвэл үргэлжлүүлэх үед гарч байсан.\n\nМөн энэ хувилбар 45 болон 46 хувилбарт бас хамааралтай гэж тэмдэглэгдсэн байна. Үүний дээр ANGLE, Chromium, Dawn, icu, Skia, V8 зэрэг upstream сангуудын засваруудыг backport хийжээ.\n\nDevTools-ээр network интерцепт ашигладаг хөгжүүлэгчдэд энэ засвар чухал. Crash нь debugging хийж байх үед тохиолдох тул шинэчлэх нь ажлын урсгалыг тогтвортой болгоно.",
+ "published": "2026-11-12T21:37:50Z",
+ "added": "2026-11-15T14:53:26Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "4debedad4e9a64fe",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v43.8.10",
+ "image": "https://opengraph.githubassets.com/a81501c67cb00a8bb1e9c2bcdc4d2da44ff3b2f2664a9b17ff4af075cecb45c3/electron/electron/releases/tag/v43.8.10",
+ "title": "electron v43.8.10",
+ "summary_en": "Release Notes for v43.8.10 Other Changes Backported fixes from upstream ANGLE, Chromium, Dawn, icu, Skia and V8. #55749",
+ "title_mn": "Electron v43.8.10 хувилбар гарлаа: upstream засваруудыг буцаан нэвтрүүлжээ",
+ "summary_mn": "Electron v43.8.10 хувилбарт ANGLE, Chromium, Dawn, icu, Skia болон V8-ийн upstream засваруудыг backport хийжээ. Энэ нь шинэ функц биш, харин аюулгүй байдал болон тогтвортой ажиллагаанд чиглэсэн засвар юм.",
+ "body_mn": "Electron-ийн хөгжүүлэгчид v43.8.10 хувилбарыг гаргалаа. Энэ хувилбарын тэмдэглэлд шинэ функц дурдаагүй бөгөөд гол хэсэг нь upstream төслүүдээс авсан засваруудыг хуулбарласан явдал юм.\n\nБackport хийгдсэн эх сурвалжууд нь ANGLE, Chromium, Dawn, icu, Skia болон V8 юм. Эдгээр нь Electron-ийн доорх рендерлэлт, график, JavaScript хөдөлгүүрийн үндсэн сангууд тул аппликейшнүүдийн тогтвортой байдалд шууд нөлөөлдөг.\n\nХөгжүүлэгчдэд энэ хувилбар нь хэрэв одоо Electron v43 дээр ажиллаж байгаа бол шинэчлэх шалтгаан болно. Гэхдээ томоохон API өөрчлөлт байхгүй тул шинэчлэлтийн эрсдэл бага байх магадлалтай. Тэмдэглэлийн дагуу шинэчлэлтээс өмнө тестийн орчинд шалгах нь зүйтэй.",
+ "published": "2026-11-12T21:20:57Z",
+ "added": "2026-11-15T14:53:26Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
