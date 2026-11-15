@@ -1,0 +1,17 @@
+{
+ "id": "240ba29a092f83af",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "PYMNTS.com",
+ "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/",
+ "image": "https://www.pymnts.com/wp-content/uploads/2026/11/SB4-AI-rankings-robot-assembly.jpg",
+ "title": "Anthropic’s Claude Tops AI Rankings as OpenAI Limits Cyber Model",
+ "summary_en": "The frontier changed hands again this week. Anthropic’s Claude Fable 5.2 moved past Google’s Gemini 4 Carbon on the Artificial Analysis Intelligence",
+ "title_mn": "Claude Fable 5.2 загвар Artificial Analysis индексийг тэргүүлж эхэллээ",
+ "summary_mn": "Anthropic-ийн Claude Fable 5.2 загвар хараат бус Artificial Analysis үнэлгээгээр 65 оноо авч Gemini 4 Carbon-ийг ардаа орхилоо. Байгууллагууд одоо төлөвлөлт болон гүйцэтгэлийн даалгавруудыг өөр өөр өртөгтэй модел руу чиглүүлж ашиглах хандлага руу шилжиж байна.",
+ "body_mn": "Хиймэл оюуны салбарын өрсөлдөөнд тэргүүлэгчид дахин өөрчлөгдлөө. Тэргүүлэх лабораториудын иш татдаг хараат бус Artificial Analysis Intelligence Index үнэлгээгээр Anthropic-ийн шинэ Claude Fable 5.2 загвар 65 оноо авч, Google-ийн Gemini 4 Carbon загварыг гүйцэн нэгдүгээрт жагслаа. Уг загварыг Jump Trading, Balyasny, Box зэрэг санхүү, технологийн томоохон байгууллагууд бодит ажилдаа хэдийн нэвтрүүлээд байна.\n\nЗах зээлд нэгэн зэрэг өөр чиглэлийн шийдлүүд ч гарч байна. Тухайлбал, Meta саяхан давтагддаг агентын ажлуудад зориулан нэг сая input token нь ердөө $0.10 үнэтэй Muse Ember загвараа танилцуулсан бол OpenAI хамгийн өндөр чадамжтай GPT-6 Cyber кибер аюулгүй байдлын загвараа зөвхөн баталгаажсан хэрэглэгчдэд хязгаартай ашиглах журмаар олгож эхэллээ.\n\nХөгжүүлэгчид болон байгууллагуудын хувьд ганц хүчирхэг модел сонгох биш, харин ерөнхий төлөвлөлтийг том моделоор хийлгээд жижиг гүйцэтгэлийг хямд моделуудад хуваарилах (routing) архитектур үндсэн чиг хандлага болж байна.",
+ "published": "2026-11-13T01:14:49Z",
+ "added": "2026-11-15T20:04:01Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

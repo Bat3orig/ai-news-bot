@@ -898,5 +898,45 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "240ba29a092f83af",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "PYMNTS.com",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/",
+   "image": "https://www.pymnts.com/wp-content/uploads/2026/11/SB4-AI-rankings-robot-assembly.jpg",
+   "title": "Anthropic’s Claude Tops AI Rankings as OpenAI Limits Cyber Model",
+   "summary_en": "The frontier changed hands again this week. Anthropic’s Claude Fable 5.2 moved past Google’s Gemini 4 Carbon on the Artificial Analysis Intelligence",
+   "title_mn": "Claude Fable 5.2 загвар Artificial Analysis индексийг тэргүүлж эхэллээ",
+   "summary_mn": "Anthropic-ийн Claude Fable 5.2 загвар хараат бус Artificial Analysis үнэлгээгээр 65 оноо авч Gemini 4 Carbon-ийг ардаа орхилоо. Байгууллагууд одоо төлөвлөлт болон гүйцэтгэлийн даалгавруудыг өөр өөр өртөгтэй модел руу чиглүүлж ашиглах хандлага руу шилжиж байна.",
+   "body_mn": "Хиймэл оюуны салбарын өрсөлдөөнд тэргүүлэгчид дахин өөрчлөгдлөө. Тэргүүлэх лабораториудын иш татдаг хараат бус Artificial Analysis Intelligence Index үнэлгээгээр Anthropic-ийн шинэ Claude Fable 5.2 загвар 65 оноо авч, Google-ийн Gemini 4 Carbon загварыг гүйцэн нэгдүгээрт жагслаа. Уг загварыг Jump Trading, Balyasny, Box зэрэг санхүү, технологийн томоохон байгууллагууд бодит ажилдаа хэдийн нэвтрүүлээд байна.\n\nЗах зээлд нэгэн зэрэг өөр чиглэлийн шийдлүүд ч гарч байна. Тухайлбал, Meta саяхан давтагддаг агентын ажлуудад зориулан нэг сая input token нь ердөө $0.10 үнэтэй Muse Ember загвараа танилцуулсан бол OpenAI хамгийн өндөр чадамжтай GPT-6 Cyber кибер аюулгүй байдлын загвараа зөвхөн баталгаажсан хэрэглэгчдэд хязгаартай ашиглах журмаар олгож эхэллээ.\n\nХөгжүүлэгчид болон байгууллагуудын хувьд ганц хүчирхэг модел сонгох биш, харин ерөнхий төлөвлөлтийг том моделоор хийлгээд жижиг гүйцэтгэлийг хямд моделуудад хуваарилах (routing) архитектур үндсэн чиг хандлага болж байна.",
+   "published": "2026-11-13T01:14:49Z",
+   "added": "2026-11-15T20:04:01Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ec15e885f792ea61",
+   "subtopic": "ai-devtools",
+   "source": "openai/codex",
+   "source_label": "openai/codex",
+   "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0",
+   "image": "https://opengraph.githubassets.com/02a97479389cf18d651dbdc5b23188e7801125d21dac1db75b043b35f474cf98/openai/codex/releases/tag/rust-v0.169.0",
+   "title": "codex 0.169.0",
+   "summary_en": "New Features The opt-in terminal workspace supports multiple side-chat tabs. Switch between them with the keyboard or mouse, and reopen saved local side chats after restarting Codex. ( #59784 , #60152 , #60181 ) Search older tasks from the agent command center by name, prompt preview, or working directory. ( #60286 ) Turn on Collapse turn details in the full-screen transcript to fold completed activity beneath each prompt while keeping answers visible and tool output searchable. ( #60554 , #60555 , #60556 , #60557 ) Add or edit custom model providers from the terminal. With custom gateway…",
+   "title_mn": "Codex 0.169.0 хувилбар гарлаа",
+   "summary_mn": "Codex 0.169.0 хувилбарт терминалын олон side-chat таб, хуучин даалгаврыг хайх боломж болон дурын model provider-ийг шууд терминалаас тохируулах дэмжлэг нэмэгдлээ. Мөн аюулгүй байдалтай холбоотой чухал засварууд орсон байна.",
+   "body_mn": "OpenAI-ийн хөгжүүлэгчдийн агент хэрэгсэл Codex 0.169.0 хувилбар шинэчлэгдлээ. Шинэ хувилбарт терминалын ажлын талбарт олон side-chat таб нээх боломжтой болсон бөгөөд тэдгээрийн хооронд гар болон хулганаар шилжих, Codex-ийг дахин асаасны дараа хадгалсан чатуудыг сэргээх боломжтой болсон байна. Түүнчлэн агентын удирдлагын хэсгээс өмнөх даалгавруудыг нэр, prompt болон ажлын сангаар нь хайх боломж нэмэгджээ.\n\nХөгжүүлэгчид одоо терминалаас өөрсдийн model provider-уудыг шууд үүсгэж, тохируулах боломжтой болсон ба SSH эсвэл хөтөчгүй орчинд device code ашиглан gateway onboarding хийх боломж нээгдэв. macOS болон Linux дээр Cloud холболтыг сонгон идэвхжүүлснээр терминалаас зураг илгээх, моделын reasoning түвшинг сонгох, үүлэн яриаг архивлах үйлдлүүдийг хийж болно.\n\nАюулгүй байдлын хувьд codex exec команд нь найдвартай бус санд төслийн тохиргоо болон MCP серверүүдийг автоматаар идэвхгүй болгох хамгаалалттай болсон тул итгэмжлэлийг --trust тугаар тусгайлан баталгаажуулах шаардлагатай. Мөн санах ойн сан болсон SQLite хувилбарыг 3.54 болгон шинэчилж, плагинуудын давхардсан таталтыг багасгасан байна.",
+   "published": "2026-11-13T08:39:10Z",
+   "added": "2026-11-15T20:04:01Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
  }
 ]
