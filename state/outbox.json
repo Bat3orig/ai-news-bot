@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "4b3768705fce243f",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Decoder",
-   "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_moat-1200x670.png",
-   "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
-   "summary_en": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies.",
-   "title_mn": "Anthropic компани Nvidia-гийн CUDA давуу талыг хиймэл оюун ухаанаар хэрхэн даван туулж байгаа тухай зарлав",
-   "summary_mn": "Anthropic компани Claude загвараа AMD GPU руу хүний оролцоо бараг үгүйгээр ердөө гуравхан хоногт шилжүүлж чадсанаа зарлажээ.",
-   "body_mn": "Nvidia компанийн зах зээл дээрх хамгийн том давуу тал нь хөгжүүлэгчдийг өөрийн экосистемд түгждэг CUDA программ хангамж байсаар ирсэн. Тэгвэл Anthropic компани хөрөнгө оруулагчдад зориулсан танилцуулгадаа өөрийн Claude загварыг өөр өөр чип архитектурт шилжүүлэх ажлыг хиймэл оюун ухааны тусламжтайгаар эрс хялбаршуулж чадсанаа мэдэгджээ.\n\nУламжлалт аргаар шинэ чип дээр загвар суулгахад олон инженерүүд сар гаруй хуцуац зарцуулдаг байсан бол Anthropic компани энэ удаад AMD GPU дээр өөрийн Mythos загварыг ашиглан ердөө гуравхан хоногт амжилттай хэрэгжүүлсэн байна. Загвар нь шаардлагатай код болон кернелүүдийн бараг 100 хувийг өөрөө бичжээ.\n\nЭнэхүү олон чиптэй ажиллах стратеги нь компаниудад Nvidia-гаас хамааралтай байдлыг багасгаж, техник хангамжийн зах зээл дэх үнэ өртөг болон нийлүүлэлтийн хүндрэлийг даван туулахад томоохон түлхэц болно. Anthropic нь тооцооллын нөөцийг оновчтой ашиглах замаар зардлаа бууруулахаар ажиллаж байна.",
-   "published": "2026-11-11T14:28:29Z",
-   "added": "2026-11-13T22:19:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "833534b672b8daa3",
-   "subtopic": "gemini",
-   "source": "Google DeepMind",
-   "source_label": "Google DeepMind",
-   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-   "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw",
-   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-   "summary_en": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-   "title_mn": "Google DeepMind AlphaGenome 2 загвараа танилцууллаа",
-   "summary_mn": "Google DeepMind хүний DNA-гийн хувьсахуй болон эсийн төрлүүдийн хамаарлыг судлах шинэ үеийн AlphaGenome 2 загварыг зарлалаа.",
-   "body_mn": "Google DeepMind компани хүний DNA дараалал эсийн янз бүрийн төрөлд хэрхэн нөлөөлдгийг урьдчилан таамаглах чадвартай AlphaGenome 2 загвараа албан ёсоор танилцууллаа. Энэхүү шинэ загвар нь эсийн биологи болон хүний генетикийг холбож, өвчний үүсгүүр шалтгааныг тодорхойлоход судлаачдад хүчирхэг хэрэгсэл болох юм.\n\nAlphaGenome 2 нь өмнөх хувилбараа бодвол эсийн түвшинд генийн илэрхийлэлд нөлөөлөх хувьсалыг бараг хоёр дахин илүү нарийвчлалтайгаар таньж чадна. Уг загварыг 68 эдийн 100 сая гаруй хувь хүний эсийн профиль дээр сургасан бөгөөд судалгааны зорилгоор AlphaGenome API-аар дамжуулан хэрэглэх боломжтой болжээ.\n\nЭнэхүү шинэчлэл нь эрдэмтдэд ховор өвчин, нарийн төвөгтэй шинж тэмдгүүд болон биологийн суурь судалгааг гүнзгийрүүлэн судлахад үнэтэй хувь нэмэр оруулах юм.",
-   "published": "2026-11-11T15:00:15Z",
-   "added": "2026-11-13T22:19:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "eac4d84ef949975e",
-   "subtopic": "gemini",
-   "source": "Google AI Blog",
-   "source_label": "Google AI Blog",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1566.max-1440x810.jpg",
-   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-   "summary_en": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-   "title_mn": "Google Tabletop болон шинэ Gemini Decisions API-г зарлалаа",
-   "summary_mn": "Google Labs хамтран ажиллах Tabletop туршилтын төслийг танилцуулж, хурдан бөгөөд олон төрлийн шийдвэр гаргах Gemini Decisions API-г нээлээ.",
-   "body_mn": "Google компани хэрэглэгчдэд бодит цаг хугацаанд хамтран төлөвлөгөө гаргах, санал асуулга үүсгэх боломжийг олгох Tabletop нэртэй шинэ туршилтын төслийг танилцууллаа. Хэрэглэгчид холбоос болон файл нэмж, Gemini-д суурилсан @tabletop тусламжтайгаар хуваарь болон зардлын хуваарилалт үүсгэх боломжтой.\n\nҮүний зэрэгцээ хөгжүүлэгчдэд зориулсан Gemini Decisions API гарсан бөгөөд энэ нь Gemini Decision загвараар ажилладаг байна. Энэхүү API нь хурдан бөгөөд оновчтой олон төрлийн мультимодаль шийдвэр гаргахад туслах зорилготой ажээ.\n\nШинэ хэрэгслүүд нь хөгжүүлэгчид болон хамт олонд хамтран ажиллах шинэ боломжуудыг олгож байгаа бөгөөд Google Labs-ар дамжуулан туршиж үзэх боломжтой юм.",
-   "published": "2026-11-11T16:00:00Z",
-   "added": "2026-11-13T22:19:18Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a8e530c5315e219f",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v22.23.5",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2022.23.5%20(LTS)",
-   "title": "Node.js 22.23.5 (LTS)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 22.23.5 (LTS) хувилбар гарлаа",
-   "summary_mn": "Node.js 22 LTS хувилбарын шинэ шинэчлэлт болох v22.23.5 албан ёсоор гарлаа. Энэхүү хувилбар нь Windows, macOS болон Linux системүүдэд зориулсан суурилуулагч файлууд болон баримтжуулалтыг багтаасан болно.",
-   "body_mn": "Node.js платформын урт хугацааны дэмжлэгтэй (LTS) 22-р салбарын шинэ хувилбар болох Node.js 22.23.5 бэлэн боллоо. Хөгжүүлэгчид албан ёсны вэб сайтаас Windows, macOS, болон Linux үйлдлийн системүүдэд зориулсан 32 болон 64 бит хувилбарууд, мөн ARM архитектурын суулгагч болон бинар файлуудыг татаж авах боломжтой.\n\nЭнэхүү засвар болон тогтворжуулалтын шинэчлэлт нь үйлдвэрлэлийн орчинд ажиллаж буй серверийн аппликейшнүүдийн найдвартай ажиллагааг хангахад чухал үүрэгтэй. Төслүүдээ шинэчлэх явцдаа API баримтжуулалтыг сайтар шалгаж байхыг зөвлөж байна.",
-   "published": "2026-11-11T16:44:58Z",
-   "added": "2026-11-14T02:33:42Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "94d5bb69a826b2b0",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v24.22.3",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.3%20(LTS)",
-   "title": "Node.js 24.22.3 (LTS)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 24.22.3 (LTS) шинэчлэлт гарлаа",
-   "summary_mn": "Node.js 24 LTS хувилбарын шинэ засвар болох v24.22.3 хувилбар албан ёсоор цацагдлаа. Хөгжүүлэгчид төрөл бүрийн платформ дээрх суулгагч болон эх кодыг татаж авах боломжтой.",
-   "body_mn": "Node.js 24 LTS салбарын шинэ шинэчлэлт болох Node.js 24.22.3 хувилбар гарсан байна. Энэхүү хувилбарт төрөл бүрийн үйлдлийн системд зориулсан пакетууд багтсан бөгөөд хөгжүүлэгчид macOS Apple Silicon, Windows болон Linux орчин руу хялбархан суулгах боломжтой.\n\nПлатформын тогтвортой байдлыг хангах үүднээс энэхүү LTS хувилбар руу шилжих нь чухал юм. Бүх төрлийн суулгах файлууд болон API баримтуудыг Node.js сангаас албан ёсоор авах боломжтой.",
-   "published": "2026-11-11T16:45:11Z",
-   "added": "2026-11-14T02:33:42Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ab42248d8bdf61c3",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v26.13.1",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.13.1%20(LTS)",
-   "title": "Node.js 26.13.1 (LTS)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 26.13.1 (LTS) хувилбар албан ёсоор гарлаа",
-   "summary_mn": "Node.js 26 цувралын шинэ LTS хувилбар болох Node.js 26.13.1 бэлэн боллоо. Уг шинэчлэлт нь олон төрлийн платформ болон архитектурт зориулсан бинар файлуудыг агуулж байна.",
-   "body_mn": "Node.js 26 LTS хувилбарын шинэчлэлт болох Node.js 26.13.1 албан ёсоор хэрэглэгчдийн хүртээл боллоо. Хөгжүүлэгчид Windows x64/ARM64, macOS Apple Silicon болон Intel, мөн Linux орчинд зориулсан суулгагч болон tarball файлуудыг татан авч ашиглах боломжтой.\n\nЭнэхүү хувилбар нь орчин үеийн JavaScript хөгжүүлэлтийн шаардлагыг хангаж, тогтвортой ажиллагааг санал болгодог. Шинэ боломжууд болон засваруудын дэлгэрэнгүйг албан ёсны баримтжуулалтаас харж болно.",
-   "published": "2026-11-11T16:45:20Z",
-   "added": "2026-11-14T02:33:42Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c06fca3b9549fb95",
-   "subtopic": "gemini",
-   "source": "Google AI Blog",
-   "source_label": "Google AI Blog",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
-   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-   "summary_en": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-   "title_mn": "Gemini Decisions API болон Gemini Decision 1 загвар танилцуулагдлаа",
-   "summary_mn": "Google компани олон төрлийн мультимедиа өгөгдлийг нэг дор үнэлж, хурдан шийдвэр гаргах Gemini Decisions API болон Gemini Decision 1 загварыг зарлалаа.",
-   "body_mn": "Google AI Studio дээр ашиглах боломжтой болсон Gemini Decisions API нь хөгжүүлэгчдэд текстийн болон мультимедиа оролтод суурилсан тийм/үгүй, сонголттой асуултуудыг богино хугацаанд үнэлэх боломжийг олгож байна. Шинэ Gemini Decision 1 загвар нь нэг удаагийн дамжуулалтаар 1,000 хүртэлх асуултад итгэлцлийн оноо тооцож хариулах чадвартай.\n\nЭнэхүү шинэ шийдэл нь агент чиглүүлэлт, бодлогын шалгалт болон контент үнэлэх зэрэг ажлуудад маш бага хоцролттойгоор ажиллахаар бүтээгджээ. Мөн оролтын токены үнэ хямд бөгөөд гарц токен төлбөргүй байх нь хөгжүүлэгчдэд зардал хэмнэх давуу талыг олгож байна.",
-   "published": "2026-11-11T18:00:00Z",
-   "added": "2026-11-14T02:33:42Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8e80449b900a78ed",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "TeslaNorth.com",
-   "url": "https://teslanorth.com/2026/11/11/grok-bot-1-0-slack-teams-meetings/",
-   "image": "https://cdn.teslanorth.com/wp-content/uploads/2026/09/grok-bot-teams-web.jpg",
-   "title": "Grok Bot 1.0 Brings AI Teammates to Slack, Teams and Meetings",
-   "summary_en": "Grok Bot introduces version 1.0 with shared AI teammates, Slack and Teams collaboration, and meeting support on selected plans.",
-   "title_mn": "Grok Bot 1.0 нь Slack болон Microsoft Teams-т нэгдлээ",
-   "summary_mn": "Grok Bot хувилбар 1.0 нь багуудад зориулсан хамтын ажиллагааны хэрэгслүүд, Slack болон Teams платформуудтай ажиллах боломжтойгоор албан ёсоор гарлаа.",
-   "body_mn": "Grok Bot албан ёсны 1.0 хувилбараа гаргаж, багийн хамтын ажиллагааг сайжруулах зорилгоор Slack, Microsoft Teams зэрэг платформуудад нэгтгэснээ зарлалаа. Энэхүү шинэ хувилбар нь багийн гишүүдтэй хамт ажиллах, ду ду ду ду ду ду ду...\n\nХамтарсан ботууд нь хэлэлцүүлгийг дагаж, шийдвэр гаргалтыг бүртгэхээс гадна хурал уулзалтуудад оролцох боломжтой байна. Гэсэн хэдий ч зарим дэвшилтэт боломжууд зөвхөн Team болон Enterprise багц хэрэглэгчдэд нээлттэй ажээ.",
-   "published": "2026-11-11T19:16:20Z",
-   "added": "2026-11-14T02:33:42Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "cfb6a365ccc739ae",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/python-3-15-now-available-as-a-vercel-managed-image",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2E6JVvILIHYD5ETg1BfVAQ/57728733dd64b252498fad00b04d97dd/download__6_.jpeg",
-   "title": "Python 3.15 now available as a Vercel Managed Image",
-   "summary_en": "Python 3.15 is now available as a Vercel Managed Image for Vercel Sandbox . To run a sandbox with Python 3.15, select vercel/sandbox/python:3.15 using the image option in either SDK or the --image flag in the CLI. The default universal image ( vercel/sandbox/universal:latest ) still ships Python 3.14 and is scheduled to switch to Python 3.15 on December 16, 2026. Learn more in the Vercel Sandbox images documentation . Read more",
-   "title_mn": "Vercel Sandbox орчинд Python 3.15 хувилбар албан ёсоор дэмжигдлээ",
-   "summary_mn": "Vercel Sandbox дээр Python 3.15 менежменттэй образ ашиглах боломжтой болсон бөгөөд үндсэн universal image хувилбар ирэх сард шинэчлэгдэнэ.",
-   "body_mn": "Vercel компани Sandbox орчиндоо Python 3.15 хувилбарыг албан ёсоор нэмлээ. Хөгжүүлэгчид SDK эсвэл CLI ашиглан vercel/sandbox/python:3.15 гэсэн образыг сонгосноор уг хувилбар дээр төслөө ажиллуулах боломжтой болж байна.\n\nОдоогоор үндсэн universal образ буюу vercel/sandbox/universal:latest нь Python 3.14 хувилбарыг ашиглаж байгаа ба 2026 оны 12 дугаар сарын 16-нд Python 3.15 рүү шилжихээр төлөвлөгджээ.",
-   "published": "2026-11-12T00:00:00Z",
-   "added": "2026-11-14T09:40:38Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d5504ac50c42ed4e",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/inkling-2-small-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2HNVh7RuhyFA2VRBrWsjQx/59ec6d243e41a4327055f5c208843eb5/Vercel_x_Thinking_Machines.png",
-   "title": "Inkling 2 Small now available on AI Gateway",
-   "summary_en": "Inkling 2 Small from Thinking Machines is now available on AI Gateway. The multimodal reasoning model supports coding agents, visual understanding, and professional knowledge work, with text and image inputs and text output. Inkling 2 Small can work through extended coding tasks, use tools to gather information, and turn that information into documents, spreadsheets, and other deliverables. Its visual capabilities include reading text in images, interpreting charts and infographics, and inspecting interfaces. For visual development, it can use screenshots to check the output of the code it…",
-   "title_mn": "Thinking Machines компаниас Inkling 2 Small загварыг AI Gateway рүү нэмлээ",
-   "summary_mn": "AI Gateway дээр Thinking Machines-ийн Inkling 2 Small загвар нэмэгдсэн нь код бичих, дүрслэл ойлгох болон өргөн хүрээний ажлуудыг гүйцэтгэх боломж олгож байна.",
-   "body_mn": "Thinking Machines компанийн бүтээсэн Inkling 2 Small олон төрлийн өгөгдөл боловсруулах загвар AI Gateway дээр албан ёсоор боломжтой боллоо. Энэхүү загвар нь код бичих агент болон визуаль ойлголт шаардсан мэргэжлийн ажлуудыг хийхэд зориулагдсан бөгөөд текст болон зурган оролтыг дэмждэг.\n\nInkling 2 Small нь хөгжүүлэлтийн явцад дэлгэцийн зураг ашиглан бичсэн кодынхоо үр дүнг шалгах, баримт бичиг болон хүснэгт үүсгэх чадвартай. Хөгжүүлэгчид Vercel CLI ашиглан уг загварыг өөрийн агентуудад хялбархан холбож ашиглах боломжтой.",
-   "published": "2026-11-12T00:00:00Z",
-   "added": "2026-11-14T09:40:38Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "06b62e6ecdcf3313",
    "subtopic": "vercel-cloud",
    "source": "Vercel",
@@ -937,6 +737,26 @@
    "added": "2026-11-15T20:04:01Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cf7c49f9c9ac6ac2",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Startup Fortune",
+   "url": "https://startupfortune.com/claude-suffers-login-outage-across-claudeai-and-claude-code-while-microsoft-365-connector-stays-down/",
+   "image": "https://startupfortune.com/wp-content/uploads/2026/11/claude-outage-anthropic.jpg",
+   "title": "Claude Suffers Login Outage Across Claude.ai and Claude Code While Microsoft 365 Connector Stays Down",
+   "summary_en": "Claude.ai and Claude Code have a login outage while the Microsoft 365 connector fails due to a Microsoft incident. What Anthropic has said so far.",
+   "title_mn": "Claude.ai болон Claude Code платформд нэвтрэх үед саатал үүслээ",
+   "summary_mn": "Anthropic-ийн Claude.ai, Claude Code зэрэг үйлчилгээнүүдэд нэвтрэх баталгаажуулалт доголдож, Microsoft 365 холбогч ажиллахгүй байна. Энэ нь кодын автоматжуулалт болон ажлын урсгалд Claude ашигладаг багуудад саад учруулж байна.",
+   "body_mn": "Anthropic компанийн Claude.ai болон Claude Code системүүдэд хэрэглэгч нэвтрэх үед алдаа зааж, зарим үйлчилгээ тасалдсан тухай статус хуудсандаа мэдээллээ. 11 дүгээр сарын 13-ны өглөөний байдлаар Claude.ai бүрэн тасалдаж, харин Claude Console болон Claude Code хэсэгчилсэн сааталтай горимд шилжсэн байна.\n\nҮүний зэрэгцээ Microsoft-ын талд гарсан дэд бүтцийн томоохон саатлын улмаас Claude-ийн Microsoft 365 холбогч (connector) пүрэв гарагаас хойш ажиллахгүй болжээ. Үүнээс үүдэн Outlook, Teams, SharePoint зэрэг хэрэгслүүдээс өгөгдөл татах болон Claude for Outlook нэмэлт өргөтгөлийн ажиллагаа түр зогсоод байна.\n\nЭнэхүү саатал нь хөгжүүлэлтийн өдөр тутмын явцад Claude Code зэрэг хэрэгсэлд найдаж ажилладаг инженер, хөгжүүлэгчдийн бүтээмжид шууд нөлөөлж байна. Гуравдагч хиймэл оюуны агентад найдах нь тухайн үйлчилгээ болон түүний хамааралтай гадаад дэд бүтцийн найдвартай ажиллагаанаас шууд хамаардаг болохыг энэ удаагийн үйл явдал харууллаа.",
+   "published": "2026-11-13T10:02:46Z",
+   "added": "2026-11-16T00:06:11Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
   }
  }
 ]

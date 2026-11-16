@@ -1,0 +1,17 @@
+{
+ "id": "cf7c49f9c9ac6ac2",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Startup Fortune",
+ "url": "https://startupfortune.com/claude-suffers-login-outage-across-claudeai-and-claude-code-while-microsoft-365-connector-stays-down/",
+ "image": "https://startupfortune.com/wp-content/uploads/2026/11/claude-outage-anthropic.jpg",
+ "title": "Claude Suffers Login Outage Across Claude.ai and Claude Code While Microsoft 365 Connector Stays Down",
+ "summary_en": "Claude.ai and Claude Code have a login outage while the Microsoft 365 connector fails due to a Microsoft incident. What Anthropic has said so far.",
+ "title_mn": "Claude.ai болон Claude Code платформд нэвтрэх үед саатал үүслээ",
+ "summary_mn": "Anthropic-ийн Claude.ai, Claude Code зэрэг үйлчилгээнүүдэд нэвтрэх баталгаажуулалт доголдож, Microsoft 365 холбогч ажиллахгүй байна. Энэ нь кодын автоматжуулалт болон ажлын урсгалд Claude ашигладаг багуудад саад учруулж байна.",
+ "body_mn": "Anthropic компанийн Claude.ai болон Claude Code системүүдэд хэрэглэгч нэвтрэх үед алдаа зааж, зарим үйлчилгээ тасалдсан тухай статус хуудсандаа мэдээллээ. 11 дүгээр сарын 13-ны өглөөний байдлаар Claude.ai бүрэн тасалдаж, харин Claude Console болон Claude Code хэсэгчилсэн сааталтай горимд шилжсэн байна.\n\nҮүний зэрэгцээ Microsoft-ын талд гарсан дэд бүтцийн томоохон саатлын улмаас Claude-ийн Microsoft 365 холбогч (connector) пүрэв гарагаас хойш ажиллахгүй болжээ. Үүнээс үүдэн Outlook, Teams, SharePoint зэрэг хэрэгслүүдээс өгөгдөл татах болон Claude for Outlook нэмэлт өргөтгөлийн ажиллагаа түр зогсоод байна.\n\nЭнэхүү саатал нь хөгжүүлэлтийн өдөр тутмын явцад Claude Code зэрэг хэрэгсэлд найдаж ажилладаг инженер, хөгжүүлэгчдийн бүтээмжид шууд нөлөөлж байна. Гуравдагч хиймэл оюуны агентад найдах нь тухайн үйлчилгээ болон түүний хамааралтай гадаад дэд бүтцийн найдвартай ажиллагаанаас шууд хамаардаг болохыг энэ удаагийн үйл явдал харууллаа.",
+ "published": "2026-11-13T10:02:46Z",
+ "added": "2026-11-16T00:06:11Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}
