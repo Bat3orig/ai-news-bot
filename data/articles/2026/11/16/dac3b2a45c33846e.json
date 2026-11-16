@@ -1,0 +1,17 @@
+{
+ "id": "dac3b2a45c33846e",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Crypto Briefing",
+ "url": "https://cryptobriefing.com/arcticrat-malware-xai-grok-sms-codes/",
+ "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13080432/library-zimperium-uncovers-arcticrat-malware-using-xai-s-grok-to-800x450.png",
+ "title": "Zimperium uncovers ArcticRAT malware using xAI’s Grok to mine stolen SMS codes",
+ "summary_en": "Zimperium exposes ArcticRAT, an Android trojan using xAI's Grok AI to extract OTPs and financial data from stolen SMS messages.",
+ "title_mn": "ArcticRAT хортой програм SMS код боловсруулахад xAI-ын Grok загварыг ашиглаж байна",
+ "summary_mn": "Zimperium компанийн илрүүлсэн Android үйлдлийн системийн ArcticRAT троян програм нь хулгайлсан мессеж болон нэг удаагийн кодыг шүүхэд xAI-ын Grok загварыг ашиглаж эхэлжээ.",
+ "body_mn": "Аюулгүй байдлын Zimperium компани zLabs баг Android үйлдлийн системд зориулсан ArcticRAT хэмээх алсын удирдлагатай троян програмын шинэ хувилбарыг илрүүлжээ. Анхандаа крипто аппликейшнуудыг чиглэж байсан энэхүү хортой програм нь хэрэглэгчийн хулгайлсан мессеж болон санхүүгийн мэдээллийг шүүх зорилгоор xAI-ын Grok API-г ашигладаг болсон байна.\n\nGrok загвар нь хортой програмын цуглуулсан SMS болон суулгасан аппликейшнуудын жагсаалтаас нэг удаагийн нууц үг (OTP) болон гүйлгээний мэдэгдлүүдийг ялган авч, бүтэцлэгдсэн JSON хэлбэрээр халдагч руу буцаадаг аж. Энэ нь хиймэл оюун ухааны ерөнхий зориулалтын API-г гэмт хэргийн зорилгоор ашиглаж буй томоохон жишээ болж байна.\n\nСудлаачид уг хортой програмын 78 өвөрмөц хувилбар, 21 команд болон удирдлагын (C2) IP хаягийг илрүүлсэн бөгөөд гол дэд бүтдүүд нь Хонконг болон Герман улсад байршиж байгааг тогтоожээ. Энэхүү аюул занал нь хөгжүүлэгчид болон аюулгүй байдлын мэргэжилтнүүдэд API хандалтын аюулгүй байдалд анхаарах шаардлагатайг сануулж байна.",
+ "published": "2026-11-13T13:04:41Z",
+ "added": "2026-11-16T06:58:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "06b62e6ecdcf3313",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
-   "title": "Gemini 4 Hydrogen now available on AI Gateway",
-   "summary_en": "Gemini 4 Hydrogen from Google is now available on AI Gateway. Gemini 4 Hydrogen succeeds Gemini 3.8 Flash, improving agentic coding, knowledge work, and tool use while staying in the same latency class. It handles longer engineering tasks and produces better-researched documents, spreadsheets, and presentations in fewer agent steps. Hydrogen follows system instructions, formatting requirements, and task boundaries more closely, with more reliable tool orchestration across long conversations. Improvements in visual reasoning and technical problem-solving support multimodal workflows, while…",
-   "title_mn": "Gemini 4 Hydrogen загвар Vercel AI Gateway дээр боломжтой боллоо",
-   "summary_mn": "Google-ийн Gemini 4 Hydrogen загвар Vercel AI Gateway дээр нээлттэй болсон. Загвар нь agent-ийн кодчилол, tool use болон урт даалгаврын чанарыг сайжруулсан бөгөөд google/gemini-4-hydrogen гэсэн нэрээр дуудна.",
-   "body_mn": "Google-ийн Gemini 4 Hydrogen загвар Vercel AI Gateway платформ дээр боломжтой боллоо. Энэ загвар Gemini 3.8 Flash-ийн залгамжлагч бөгөөд latency түвшнээ хадгалсаар агent-ийн кодчилол, мэдлэгт суурилсан ажил болон tool use чадварыг сайжруулсан гэж мэдээлсэн.\n\nHydrogen нь урт инженерийн даалгавруудыг илүү цөөн agent алхмаар гүйцэтгэх, баримт бичиг, хүснэгт, презентацийг илүү сайн бэлтгэх чадвартай. Системийн заавар, формат болон даалгаврын хязгаарыг илүү нарийн дагах бөгөөд урт харилцан яриан дахь tool orchestration найдвартай болсон.\n\nМөн visual reasoning болон техникийн асуудал шийдвэрлэх чадвар сайжирсан тул multimodal ажлын урсгалд тустай. Search-д суурилсан хариултад баталгаагүй мэдэгдэл багасч, кодын тайланд зохиомол tool эсвэл тестийн үр дүн гаргах асуудал бууруулсан гэж тодорхойлсон.\n\nЗагварыг Claude Code, Codex, Cursor зэрэг хэрэгсэлд ашиглах боломжтой. Vercel CLI-ийг шинэчилж суулгаад setup командыг ажиллуулаад agent-д google/gemini-4-hydrogen сонгоно. Үнийг провайдерын үнээр, нэмэлт маржингүйгээр тооцдог гэж заасан.",
-   "published": "2026-11-12T00:00:00Z",
-   "added": "2026-11-14T09:40:38Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3d73e6ed96bd13cd",
-   "subtopic": "packages",
-   "source": "Node Weekly",
-   "source_label": "Node Weekly",
-   "url": "https://nodeweekly.com/issues/647",
-   "image": "https://res.cloudinary.com/cpress/image/upload/v1653576619/lgfqinzbdqttwmhvljxb.png",
-   "title": "22 Node, Bun and Deno stacks benchmarked",
-   "summary_en": "#​647 — November 12, 2026 Read on the Web An Experimental 'Green Threads' Implementation for Node — James has opened a PR that adds a new, lightweight kind of worker that shares a small pool of OS threads, with each worker getting its own V8 isolate (but no Node APIs). His numbers show a thousand of them using about 1GB of memory vs 6.7GB for regular worker threads. Early days, but a promising idea that deserves feedback. James M Snell Debug Errors and Agents Faster: Sentry Changelog Live — A walkthrough of what’s new for debugging errors and performance issues, including fixing production…",
-   "title_mn": "Node.js 27 alpha, Fastify дээр шилжсэн X, AWS Emulator болон бусад долоо хоногийн тоймууд",
-   "summary_mn": "Node Weekly-ийн энэ дугаарт Node.js 27 alpha, Node 22/24/26 аюулгүй байдлын шинэчлэл, X-ийн Fastify дээрх шинэ backend, AWS-ийн албан ёсны локал emulator зэрэг гол мэдээ багтжээ. Node.js-ийн хувилбаруудыг нэн даруй шинэчлэх шаардлагатай.",
-   "body_mn": "Node Weekly-ийн энэ дугаарт JavaScript экосистемийн хэд хэдэн чухал мэдээ багтжээ. Хамгийн анхаарал татсан нь Node.js 22.23.5, 24.22.3, 26.13.1 хувилбарууд бөгөөд HTTP/2, TLS, zlib болон permission model-ийн олон аюулгүй байдлын алдааг засжээ. Тэдгээрийн долоо нь 'high' зэрэглэлтэй гэж үнэлэгдсэн тул шинэчлэх нь чухал.\n\nNode.js 27 alpha хувилбарын талаар тойм нийтлэл гарсан. Энд iterator helpers, promise-д суурилсан node:net/promises API, хуучин flag-гүй болсон virtual file system болон v27-ийн breaking change-үүд багтсан. Мөн browser-тай ижил Web Worker API Node-ийн main branch дээр идэвхжсэн тул дараагийн alpha-д гарч магадгүй.\n\nX нь вэб аппликейшнаа Fastify болон Platformatic Watt дээр дахин бүтээж, Node 26 дээр worker threads ашиглаж байгаа тухай тайлбар бий. Netlify Server, Val Town-ийн хаагдах тухай мэдээ, node:yaml модулийн санал зэрэг бусад мэдээ ч бий.\n\nAWS Emulator нь Rust-аар бичигдсэн албан ёсны локал эмулятор бөгөөд AWS SDK болон CLI-г локал endpoint руу чиглүүлэх боломжтой. Үйлчилгээний олон интерфэйсийг дэмжиж, агент-д зориулагдсан гэж тайлбарласан. Мөн bee-js пакетын release процесс хакердсан тухай тайлбар нь npm-ийн trusted publishing аюулгүй байдлын сэрэмжлүүлэг юм.",
-   "published": "2026-11-12T00:00:00Z",
-   "added": "2026-11-14T09:40:38Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4f80e67c95492b02",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-managed-npm-credentials",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2VsYzD4yEsm6inCdh44C80/9d6277ca54a3ae1c0065cb23316731df/download__2_.jpeg",
-   "title": "Vercel Sandbox now supports managed npm credentials",
-   "summary_en": "Vercel Sandbox can now install your team's private npm packages using credentials stored in team Shared Environment Variables . Custom registries such as GitHub Packages and JFrog Artifactory are also supported. Pass credentials: { npm: true } when creating a sandbox to let it use your team's existing npm credentials. Tokens stay outside the sandbox. The firewall adds authentication to install requests sent to your configured registries, so a coding agent can install dependencies without seeing the tokens. Update your Sandbox SDK or CLI to the latest version. Read the npm credentials…",
-   "title_mn": "Vercel Sandbox хувийн npm пакетуудыг managed credentials-аар суулгах боломжтой боллоо",
-   "summary_mn": "Vercel Sandbox нь багийн Shared Environment Variables-д хадгалсан credentials-аар хувийн npm пакет суулгах боломжтой боллоо. GitHub Packages болон JFrog Artifactory зэрэг custom registry-г дэмжинэ.",
-   "body_mn": "Vercel Sandbox одоо багийнхаа хувийн npm пакетуудыг Shared Environment Variables-д хадгалсан credentials ашиглан суулгах боломжтой боллоо. Мөн GitHub Packages, JFrog Artifactory зэрэг custom registry-г дэмжиж байна.\n\nSandbox үүсгэх үед credentials: { npm: true } гэж заахад тухайн sandbox багийн одоо байгаа npm credentials-ийг ашиглана. Энэ нь хувийн пакет суулгах процессыг ихэвчлэн гар аргаар тохируулахгүйгээр хийх боломжийг олгоно.\n\nTokens нь sandbox-ийн гадна үлддэг. Firewall нь суулгах хүсэлтүүдэд тохируулсан registry-д нэвтрэх эрхийг нэмдэг тул coding agent токеныг харахгүйгээр dependencies суулгаж чадна. Энэ нь аюулгүй байдлын талаас чухал давуу тал юм.\n\nХөгжүүлэгчид Sandbox SDK эсвэл CLI-ийнхээ хамгийн сүүлийн хувилбарыг суулгах шаардлагатай. Дэлгэрэнгүй заавар нь Vercel-ийн npm credentials баримт бичигт байна.",
-   "published": "2026-11-12T01:56:00Z",
-   "added": "2026-11-14T09:40:38Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "613614863eabc382",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v45.3.1",
-   "image": "https://opengraph.githubassets.com/856dfe69bf59357113b68c535f882b1c0ffe2a9f00791e1bf9ef597d53def2a2/electron/electron/releases/tag/v45.3.1",
-   "title": "electron v45.3.1",
-   "summary_en": "Release Notes for v45.3.1 Fixes Fixed a macOS notification observer leak when unsubscribing via another method. #55732 (Also in 44 , 46 ) Stopped trusting certificates issued by eMudhra 's revoked RSA intermediates. #55742 (Also in 43 , 44 , 46 )",
-   "title_mn": "Electron v45.3.1: macOS мэдэгдлийн ажиглагчийн алдагдал засагдаж, eMudhra гэрчилгээ хасагдлаа",
-   "summary_mn": "Electron-ийн v45.3.1 хувилбар гарлаа. Энэ хувилбарт macOS дээр мэдэгдлийн observer-ийн алдагдал засагдсан, мөн eMudhra-ийн хүчингүй болсон RSA завсрын гэрчилгээнд итгэхээ больсон.",
-   "body_mn": "Electron-ийн v45.3.1 хувилбарт хоёр засвар орсон. Эхнийх нь macOS дээр мэдэгдлийн observer-ийн алдагдлыг засах явдал юм. Энэ алдагдал нь өөр аргаар бүртгэлээс гарахад илэрдэг байсан бөгөөд #55732 issue-д бүртгэгдсэн. Энэ засвар 44 болон 46 хувилбарт мөн орсон.\n\nХоёрдахь засвар нь eMudhra-ийн хүчингүй болсон RSA завсрын гэрчилгээнүүдэд итгэхээ зогсоох явдал юм. Энэ нь аюулгүй байдлын үүднээс чухал өөрчлөлт бөгөөд #55742 PR-ээр орсон. Засвар 43, 44, 46 хувилбаруудад мөн хамаарна.\n\nElectron-оор апп хөгжүүлдэг хүмүүс энэ шинэчлэлтийг аль болох хурдан суулгах хэрэгтэй. Ялангуяа гэрчилгээний шалгалтад тулгуурласан апп-уудад энэ нь шууд нөлөөлнө.",
-   "published": "2026-11-12T02:05:25Z",
-   "added": "2026-11-14T16:16:50Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "81f5f210f13c0b99",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "TOKENPOST",
-   "url": "https://www.tokenpost.com/news/technology/55124",
-   "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/a056578b68df807def7f88269e237c3337992dc4023b959bca381a5aad46af19.webp",
-   "title": "SpaceXSI’s Grok Bot 1.0 Adds Slack, Teams and Meeting Support",
-   "summary_en": "Coworkers can share one bot on Team or Enterprise plans. Joining calls requires an Ultra plan.",
-   "title_mn": "Grok Bot 1.0 Slack, Teams болон хурлын дэмжлэгтэй боллоо",
-   "summary_mn": "SpaceXSI-ийн Grok Bot 1.0 нь Slack болон Microsoft Teams-д хуваалцсан AI агент болгон ажиллаж, хурлд нэгдэх боломжтой боллоо. Хурлд нэгдэхэд Ultra план шаардлагатай.",
-   "body_mn": "SpaceXSI-ийн Grok Bot 1.0 хамтран ажиллах AI агентыг Slack болон Microsoft Teams-д авчирч, Google Meet, Zoom, Microsoft Teams дээрх хурлд нэгдэх боломжийг олгож байна. Microsoft Teams нь чат болон хурал хоёуланг дэмждэг.\n\nБагийн чат болон хурлын контекстыг нэгтгэн авч явах, хугацаа дуусах ажлыг сануулах, дуусаагүй даалгаврыг олох, асуудлыг хүнд дамжуулах боломжтой. Энэ агентыг хуваалцсан байдлаар Team эсвэл Enterprise планд суулгана.\n\nХурлд нэгдэх функц Ultra планд шаардлагатай. Бета хугацаа 2026 оны 8-р сарын 11-нд эхэлсэн бөгөөд 11-р сарын 11-нд Grok Bot 1.0 хувилбар гарсан гэж мэдээлсэн. Хөгжүүлэгчдэд шууд API мэдээлэл дурдагдаагүй боловч ажлын урсгалын интеграцид ач холбогдолтой.",
-   "published": "2026-11-12T08:24:55Z",
-   "added": "2026-11-14T16:16:50Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "94de19949393b135",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "Technology Org",
-   "url": "https://www.technology.org/2026/11/12/grok-build-flaw-leaks-data-spacexsi-claroc/",
-   "image": "",
-   "title": "Grok Build Flaw Exposed Data From Thousands of Apps, Including SpaceXSI’s Own",
-   "summary_en": "",
-   "title_mn": "Grok Build алдаа мянга мянган аппын өгөгдлийг илрүүлсэн, үүнд SpaceXSI-ийнх ч багтжээ",
-   "summary_mn": "Technology Org-ийн мэдээлснээр Grok Build-ийн алдаанаас олон аппын өгөгдөл ил гарсан бөгөөд SpaceXSI-ийн өөрийн өгөгдөл ч орсон байна.",
-   "body_mn": "Technology Org Grok Build-ийн алдаанаас мянга мянган аппын өгөгдөл ил гарсныг мэдээлсэн. Үүнд SpaceXSI-ийн өөрийн технологи ч багтсан байна.\n\nТекст хязгаарлагдмал байгаа тул алдааны техникийн шинж чанар, засвар, хугацааны дэлгэрэнгүй мэдээлэл тодорхойгүй. Хөгжүүлэгчдэд AI кодын агентаар бүтээсэн аппын аюулгүй байдлыг шалгах шаардлагатай гэдгийг сануулж байна.",
-   "published": "2026-11-12T09:54:00Z",
-   "added": "2026-11-14T16:16:50Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9211d4cd82ed95b4",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Help Net Security",
-   "url": "https://www.helpnetsecurity.com/2026/11/12/stolen-claude-api-keys-remote-controlled-implant/",
-   "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/12064238/claude-hand-1500.webp",
-   "title": "Stolen Claude API keys can turn Claude Code into a remote-controlled implant",
-   "summary_en": "Darktrace used stolen Claude API keys to steer Claude Code through memory stores in a lab, exfiltrating a 1 GB file via Anthropic’s own API.",
-   "title_mn": "Хулгайлагдсан Claude API түлхүүрээр Claude Code-ийг алсаас удирдах хортой код болгож болно",
-   "summary_mn": "Darktrace судалгаагаар Claude Code-ийг memory stores болон Files API ашиглан алсаас удирдах боломжтойг лабораторид харуулжээ. Халдагчид эхлээд хэрэглэгчийн Claude итгэмжлэлийг авсан байх шаардлагатай.",
-   "body_mn": "Darktrace судлаачид Claude Code-ийг лабораторийн орчинд алсаас удирддаг хортой код болгож чадсан. Ажлыг Claude platform-ийн memory stores функцээр дамжуулж, 1 GB файлыг Claude Files API-р гадагш гаргажээ. Бүх траффик api.anthropic.com руу явсан тул энгийн inference дуудлагатай адил харагддаг.\n\nЭнэ арга нь эхлээд хэрэглэгчийн машиныг эвдэж, Claude итгэмжлэлийг олж авахыг шаарддаг. Darktrace-ийн хэлснээр платформын уулзвар алдаа огт ашиглаагүй бөгөөд бодит тохиолдол бүртгэгдээгүй байна. Memory stores нь API-аар workspace-д нэмэгдэх боломжтой ба Managed Agents ашигладаг эсэхээс үл хамааран ажилладаг.\n\nТуршилтад дээд талын зөвлөмж нь --dangerously-skip-permissions туг бүхий процессыг тогтмол эхлүүлэх байв. Darktrace OpenAI-д мөн ижил төстэй файл оруулах endpoint байдгийг дурдсан. Хөгжүүлэгчид API түлхүүрийн эрх, хандалтын хязгаарыг чанд тохируулах хэрэгтэй.",
-   "published": "2026-11-12T11:00:21Z",
-   "added": "2026-11-14T16:16:50Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7968226ff07d62d7",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/workflow-sdk-5",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/53qBpYRXUQUiGElIwTieXq/658ec87179c80c70cd1f2523de9c412c/workflow-sdk-5-og.jpg",
-   "title": "Workflow SDK 5: built for production",
-   "summary_en": "When we first launched Workflow SDK, the goal was simple: write regular async JavaScript, and let the SDK keep it running through crashes, deployments, and long waits. Last year, we shipped just that , with the world-class developer experience Vercel is known for. Then we watched what our customers built with it. More than 4 billion steps and 700 million runs later, two clear patterns have emerged. The first is automation : Traditional workflows that move data, process orders, coordinate background jobs, manage subscriptions, and run ETL and data pipelines. The second is agents and harnesses…",
-   "title_mn": "Vercel Workflow SDK 5 хувилбар гарлаа",
-   "summary_mn": "Vercel компани Workflow SDK 5 хувилбараа гаргалаа. Энэ нь төгсгөл хоорондын шифрлэлт, үйл явдлын лог болон сайжруулсан trace харагдацтай.",
-   "body_mn": "Vercel компани Workflow SDK-ийн шинэ 5 дугаар хувилбарыг албан ёсоор гаргалаа. Өнөөг хүртэл 4 тэрбум гаруй алхам, 700 сая гаруй ажиллагааг амжилттай гүйцэтгэсэн уг хэрэгсэл нь бүтээмж, найдвартай байдал, аюулгүй байдлыг хангах зорилгоор шинэчлэгджээ.\n\nШинэ хувилбарт Workflow болон step оролт гаралт, stream өгөгдлийг AES-256-GCM ашиглан кодлох төгсгөл хоорондын (end-to-end) шифрлэлтийг нэвтрүүлсэн байна. Ингэснээр Vercel болон бусад backend системүүд зөвхөн ciphertext буюу шифрлэгдсэн өгөгдлийг хадгалах бөгөөд мэдээллийн аюулгүй байдал сайжирч байна.\n\nМөн experimental_retention тохиргоог ашиглан ажиллагаа дуусмагц мэдээллийг автоматаар устгах боломжтой болсон бөгөөд trace харагдац шинэчлэгдэж, run attributes ашиглан тодорхой захиалгын ID зэргээр хайлт хийх боломжтой болжээ. Энэ нь хөгжүүлэгчдэд агентууд болон автоматжуулалтын ажлыг илүү найдвартай удирдах боломжийг олгоно.",
-   "published": "2026-11-12T13:00:00Z",
-   "added": "2026-11-14T20:50:19Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5f5031b06bcca8f0",
-   "subtopic": "nestjs",
-   "source": "nestjs/nest",
-   "source_label": "nestjs/nest",
-   "url": "https://github.com/nestjs/nest/releases/tag/v12.5.0",
-   "image": "https://opengraph.githubassets.com/d548bea0c19676d83887caedbf0af12d1677ab3873293b5ea5100a86932eb33f/nestjs/nest/releases/tag/v12.5.0",
-   "title": "nest v12.5.0",
-   "summary_en": "v12.5.0 (2026-11-12) Notable changes New options WsAdapter takes maxPayload , the largest message a client may send (1 MB by default, was 100 MB; a gateway's own maxPayload takes precedence, 0 lifts the limit); a larger message closes the connection with code 1009 – 109e52cd9b IoAdapter takes maxWaitingMessages , the number of a client's messages of one event that may wait beyond those being handled (10,000 by default; Infinity lifts it) – c98b5f782e TCP server: maxConcurrentMessages (1000 per connection by default; 0 lifts it) – 42c619cd69 gRPC server: maxPendingResponses (1000 by default…",
-   "title_mn": "NestJS v12.5.0 хувилбар шинэ боломжуудтайгаар гарлаа",
-   "summary_mn": "NestJS v12.5.0 хувилбарт WebSocket, TCP, gRPC болон Redis серверүүдэд зориулсан шинэ хязгаарлалт, тохиргоонууд нэмэгдлээ.",
-   "body_mn": "NestJS фреймворкийн v12.5.0 шинэ хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр сервер болон сүлжээний холболтуудыг илүү нарийвчлалтай удирдах олон шинэ тохиргоо, хязгаарлалтууд нэмэгдсэн байна.\n\nТухайлбал, WsAdapter дээр maxPayload буюу үйлчлүүлэгчийн илгээх мессежийн дээд хэмжээг тохируулах боломжтой болсон бөгөөд анхдагчаар 1 MB болж өөрчлөгджээ. Түүнчлэн IoAdapter дээр maxWaitingMessages, TCP серверед maxConcurrentMessages, gRPC болон Redis серверүүдэд урсгал хянах шинэ хязгаарлалтууд орсон байна.\n\nМөн multipart хүсэлтүүдийн хязгаарлалт, TCP дамжуулалтын buffer хэмжээ болон стрип хийх HTTP хариунууд дээр Serializer ашиглах боломжууд сайжирсан нь бэкенд хөгжүүлэгчдийн ажилд томоохон дэвшил авчирна.",
-   "published": "2026-11-12T13:19:45Z",
-   "added": "2026-11-14T20:50:19Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "775dfcf035d0e832",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.0%20(Alpha)",
-   "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 27.0.0-alpha.0.1.0 альфа хувилбар гарлаа",
-   "summary_mn": "Node.js платформын дараагийн томоохон хувилбарын анхны альфа хувилбар болох Node.js 27.0.0-alpha.0.1.0 гарлаа.",
-   "body_mn": "Node.js хөгжүүлэгчид 27 дугаар хувилбарын анхны альфа хувилбар болох Node.js 27.0.0-alpha.0.1.0-ийг олон нийтэд зарлалаа. Энэхүү хувилбар нь Windows, macOS, Linux болон бусад томоохон үйлдлийн системүүдэд зориулсан суулгагч болон бинар файлуудыг багтаасан байна.\n\nАльфа хувилбар нь хөгжүүлэгчид болон туршигчдад шинэ боломжуудыг эрт үе шатанд туршиж үзэх, гарч болох алдааг илрүүлэх боломжийг олгодог. Шинэ хувилбарын албан ёсны баримт бичиг болон татаж авах линкүүд Node.js вэбсайтад байршжээ.\n\nЭнэхүү хувилбар нь бүтээгдэхүүний албан ёсны тогтвортой (LTS) хувилбар хараахан биш тул production орчинд ашиглахыг зөвлөдөггүй бөгөөд зөвхөн туршилт болон хөгжүүлэлтийн зорилгоор ашиглах юм.",
-   "published": "2026-11-12T13:36:10Z",
-   "added": "2026-11-14T20:50:19Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "e8f7c2138901bae7",
    "subtopic": "design-systems",
    "source": "Figma Blog",
@@ -757,6 +557,126 @@
    "added": "2026-11-16T00:06:11Z",
    "ai": "gemini:gemini-3.8-flash",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3c9e6385d46d7a88",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/anthropic-investigates-claude-authentication-errors/",
+   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13053438/library-anthropic-investigates-authentication-errors-hitting-cla-800x450.png",
+   "title": "Anthropic investigates authentication errors hitting Claude AI and Claude Code",
+   "summary_en": "Anthropic is investigating elevated authentication errors disrupting access to claude.ai, Claude Code, and platform.claude.com for some users.",
+   "title_mn": "Claude AI болон Claude Code хэрэглэгчид нэвтрэх алдаатай тулгарлаа",
+   "summary_mn": "Anthropic компанийн claude.ai, Claude Code болон platform.claude.com үйлчилгээнүүдэд нэвтрэхэд хүндрэл үүсч, хэрэглэгчид OAuth болон баталгаажуулалтын алдаатай тулгарч байна.",
+   "body_mn": "Anthropic компанид хэрэглэгчид системийг ашиглах үед баталгаажуулалтын өндөр түвшний алдаанууд гарч эхэлсэн тул шалгаж эхэлжээ. Энэхүү саатал нь зөвхөн хэрэглэгчийн чат апп төдийгүй Claude Code болон платформын үйлчилгээнд мөн нөлөөлсөн байна.\n\nХэрэглэгчид хугацаа нь дууссан итгэмжлэл, нэвтрэх эрхийн алдаа, OAuth сессийн асуудлуудтай тулгарч байгаагаа мэдээлжээ. Системийн энэхүү саатал нь өдөр тутмын ажлын урсгалд нь энэхүү хэрэгслийг ашигладаг хөгжүүлэгчдэд хүндрэл учруулж болзошгүй юм.\n\nAnthropic компани асуудлыг шийдвэрлэхээр ажиллаж байгаа бөгөөд хэрэглэгчдэд цаг тухай бүрт нь мэдээлэл хүргэхээ мэдэгдсэн байна. Өмнө нь энэ оны есдүгээр сард мөн ижил төстэй нэвтрэлтийн алдаа гарч байсан түүхтэй.",
+   "published": "2026-11-13T10:34:46Z",
+   "added": "2026-11-16T06:58:11Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "30f5ce152acc8d52",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "title": "Manage AI Scan for repositories using the REST API",
+   "summary_en": "You can now turn GitHub code scanning’s AI Scan for repositories on or off with the REST API at the organization and repository levels. This public preview adds a repository_scan…",
+   "title_mn": "REST API ашиглан репозиторуудын AI Scan-ийг удирдах боломжтой боллоо",
+   "summary_mn": "GitHub код шалгах AI Scan функцийг байгууллага болон репозиторын түвшинд REST API ашиглан асаах, унтраах боломжтой нийтийн урьдчилсан хувилбар гарлаа.",
+   "body_mn": "GitHub код шалгах систем дэх AI Scan функцийг репозиторын түвшинд REST API ашиглан удирдах боломжтой болж өргөжлөө. Энэхүү нийтийн урьдчилсан хувилбар нь байгууллага эсвэл репозиторын тохиргоог нэг бүрчлэн өөрчлөхгүйгээр скрипт болон дэд бүтцийн код ашиглан AI Scan-ийг нэвтрүүлэх боломжийг олгож байна.\n\nХөгжүүлэгчид AI Scan enablement төгсгөлийн цэг дээр repository_scan шинж чанарыг идэвхжүүлсэн эсвэл идэвхгүй болгож тохируулах боломжтой. Энэ нь одоо байгаа pr_scan тохиргоотой яг ижил зарчмаар ажилладаг бөгөөд хоёуланг нь нэг хүсэлтээр шинэчлэх боломжтой юм.\n\nЭнэхүү боломж нь байгууллагын эзэмшилд байдаг нийтийн репозиторууд болон GitHub Code Security эсвэл GitHub Advanced Security бүхий хувийн репозиторууд дээр ашиглагддаг. Enterprise эзэмшигчид эхлээд enterprise бодлого дээр AI Scan-ийг зөвшөөрсөн байх шаардлагатай ба GitHub Enterprise Server дээр дэмжигддэггүй.",
+   "published": "2026-11-13T12:22:41Z",
+   "added": "2026-11-16T06:58:11Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e65ecb80cf95bc11",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Cybernews",
+   "url": "https://cybernews.com/security/alibaba-qwen-chinese-propaganda-reeducation/",
+   "image": "",
+   "title": "Qwen3.8-27B censorship cut by US AI lab’s tuning",
+   "summary_en": "",
+   "title_mn": "АНУ-ын AI лабораторийн тохиргоо Qwen3.8-27B загварын цензурыг бууруулжээ",
+   "summary_mn": "АНУ-ын хиймэл оюун ухааны лаборатори Alibaba-гийн Qwen3.8-27B загварыг дахин сургаж, цензур болон хязгаарлалтыг нь бууруулсан байна.",
+   "body_mn": "АНУ-ын судалгааны лабораториуд нээлттэй жинтэй загваруудыг өөрсдийн хэрэгцээнд тохируулан өөрчлөх ажил үргэлжилсээр байна. Тухайлбал, Alibaba-гийн бүтээсэн Qwen3.8-27B загварыг дахин сургаж, цензур болон хязгаарлалтын түвшнийг нь бууруулсан шинэ хувилбар гарчээ.\n\nЭнэхүү өөрчлөлт нь хөгжүүлэгчид болон судлаачдад загварын үндсэн чадварыг алдагдуулахгүйгээр илүү чөлөөтэй ашиглах боломжийг олгох зорилготой юм. Уг сайжруулалт нь нээлттэй эхийн болон нээлттэй жинтэй загваруудыг өөрчлөн хөгжүүлэх чиг хандлагын нэг хэсэг юм.",
+   "published": "2026-11-13T12:40:02Z",
+   "added": "2026-11-16T06:58:11Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dac3b2a45c33846e",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/arcticrat-malware-xai-grok-sms-codes/",
+   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13080432/library-zimperium-uncovers-arcticrat-malware-using-xai-s-grok-to-800x450.png",
+   "title": "Zimperium uncovers ArcticRAT malware using xAI’s Grok to mine stolen SMS codes",
+   "summary_en": "Zimperium exposes ArcticRAT, an Android trojan using xAI's Grok AI to extract OTPs and financial data from stolen SMS messages.",
+   "title_mn": "ArcticRAT хортой програм SMS код боловсруулахад xAI-ын Grok загварыг ашиглаж байна",
+   "summary_mn": "Zimperium компанийн илрүүлсэн Android үйлдлийн системийн ArcticRAT троян програм нь хулгайлсан мессеж болон нэг удаагийн кодыг шүүхэд xAI-ын Grok загварыг ашиглаж эхэлжээ.",
+   "body_mn": "Аюулгүй байдлын Zimperium компани zLabs баг Android үйлдлийн системд зориулсан ArcticRAT хэмээх алсын удирдлагатай троян програмын шинэ хувилбарыг илрүүлжээ. Анхандаа крипто аппликейшнуудыг чиглэж байсан энэхүү хортой програм нь хэрэглэгчийн хулгайлсан мессеж болон санхүүгийн мэдээллийг шүүх зорилгоор xAI-ын Grok API-г ашигладаг болсон байна.\n\nGrok загвар нь хортой програмын цуглуулсан SMS болон суулгасан аппликейшнуудын жагсаалтаас нэг удаагийн нууц үг (OTP) болон гүйлгээний мэдэгдлүүдийг ялган авч, бүтэцлэгдсэн JSON хэлбэрээр халдагч руу буцаадаг аж. Энэ нь хиймэл оюун ухааны ерөнхий зориулалтын API-г гэмт хэргийн зорилгоор ашиглаж буй томоохон жишээ болж байна.\n\nСудлаачид уг хортой програмын 78 өвөрмөц хувилбар, 21 команд болон удирдлагын (C2) IP хаягийг илрүүлсэн бөгөөд гол дэд бүтдүүд нь Хонконг болон Герман улсад байршиж байгааг тогтоожээ. Энэхүү аюул занал нь хөгжүүлэгчид болон аюулгүй байдлын мэргэжилтнүүдэд API хандалтын аюулгүй байдалд анхаарах шаардлагатайг сануулж байна.",
+   "published": "2026-11-13T13:04:41Z",
+   "added": "2026-11-16T06:58:11Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5ea974dd998f8fda",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+   "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "summary_en": "It’s not here to buy your burritos for you.",
+   "title_mn": "Anthropic компани хэрэглэгчдэд зориулсан Claude Duet агент хэрэгслээ танилцууллаа",
+   "summary_mn": "Anthropic компани мэргэжилтнүүд болон жижиг бизнес эрхлэгчдэд зориулсан Claude Duet AI агентыг туршилтын байдлаар гаргалаа. Уг апп нь имэйл, календарь, Google Docs, Slack зэрэг үйлчилгээтэй холбогдож өдөр тутмын ажлыг зохион байгуулахад тусалдаг.",
+   "body_mn": "Anthropic компани хэрэглэгчдэд зориулсан шинэ AI агент болох Claude Duet-ийг танилцууллаа. Энэхүү судалгааны хувилбар нь код бичдэггүй мэргэжилтнүүд болон жижиг бизнес эрхлэгчдэд ажлаа зохион байгуулахад туслах зорилготой юм.\n\nDuet апп нь Claude-ийн энгийн бөгөөд цэвэр дизайнтай бөгөөд iPhone төхөөрөмжүүдийг бүрэн дэмждэг. Хэрэглэгчид ажлын имэйл, календарь, Google Docs болон Slack зэрэг бүтээмжийн хэрэгслүүдээ холбосноор уг агент өгөгдлүүдийг нэгтгэн дүгнэж, өдөр тутмын ажлыг сануулах болон мессеж ноороглох зэргээр тусалдаг байна.\n\nОдоогоор Claude Duet нь АНУ дахь Pro, Max болон Ultra эрхтэй хэрэглэгчдэд хязгаарлагдмал байдлаар нээлттэй байгаа аж. Энэ нь өдөр тутмын ажлын урсгалыг хөнгөвчлөх зорилготой бөгөөд хэрэглэгчийн өгөгдлийг цуглуулан өөрийн санаачилгаар сануулга өгдөг онцлогтой юм.",
+   "published": "2026-11-13T14:00:00Z",
+   "added": "2026-11-16T06:58:11Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dd184b1630c4650c",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/xai-prioritizes-ai-coding-grok-bot/",
+   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13090947/library-xai-prioritizes-ai-coding-tools-and-its-grok-bot-agent-p-800x450.png",
+   "title": "xAI prioritizes AI coding tools and its Grok Bot agent product",
+   "summary_en": "xAI shifts focus to AI coding tools, with Grok Build, Grok 4.7's 500,000-token window, AWS Kiro access and the new Grok Bot 1.0 for teams.",
+   "title_mn": "xAI компани AI код бичих хэрэгслүүд болон Grok Bot агентаа нэн тэргүүнд тавьж байна",
+   "summary_mn": "xAI компани хөгжүүлэгчдийн зах зээлд өрсөлдөх зорилгоор Grok Build, Grok 4.7 болон шинээр зарлагдсан Grok Bot 1.0 хэрэгслүүд рүү нөөц бололцоогоо төвлөрүүлж байна. 500,000 токенийн контекст цонх бүхий Grok 4.7 нь урт хугацааны програмчлалын ажлыг гүйцэтгэхэд чиглэгджээ.",
+   "body_mn": "xAI компани хөгжүүлэгчдэд зориулсан AI код бичих хэрэгслүүд болон Grok агент бүтээгдэхүүнүүддээ үйл ажиллагаагаа төвлөрүүлж эхэллээ. Тус компани нь терминал дээр ажилладаг код бичих агент Grok Build, урт програмчлалын сессүүдэд зориулсан Grok 4.7 болон ажлын байрны чатад ажилладаг Grok Bot 1.0 хэрэгслүүдийг гол болгож байна.\n\nGrok Build нь 500,000 токенийн том контекст цонх бүхий Grok 4.7 загвараар ажилладаг бөгөөд энэ нь код суурийн томоохон хэсгийг нэг дор харах боломжийг олгодог. Мөн AWS-ийн Kiro платформд туршилтын журмаар нэгтгэгдсэн нь хөгжүүлэгчдэд IDE болон CLI орчноос ашиглах боломжийг өгч байна.\n\nШинээр танилцуулагдсан Grok Bot 1.0 нь Slack болон Microsoft Teams-тэй интеграцчилж, багийн хамтын ажиллагааг дэмжих зорилготой юм. xAI компани энэхүү хэрэгслүүдээ хямд өртөгтэйгээр болон янз бүрийн багц хэлбэрээр санал болгож байгаа нь зах зээл дэх өрсөлдөөнийг улам хурцатгаж байна.",
+   "published": "2026-11-13T14:09:53Z",
+   "added": "2026-11-16T06:58:11Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
   }
  }
 ]

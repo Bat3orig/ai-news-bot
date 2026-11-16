@@ -1,0 +1,17 @@
+{
+ "id": "dd184b1630c4650c",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Crypto Briefing",
+ "url": "https://cryptobriefing.com/xai-prioritizes-ai-coding-grok-bot/",
+ "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13090947/library-xai-prioritizes-ai-coding-tools-and-its-grok-bot-agent-p-800x450.png",
+ "title": "xAI prioritizes AI coding tools and its Grok Bot agent product",
+ "summary_en": "xAI shifts focus to AI coding tools, with Grok Build, Grok 4.7's 500,000-token window, AWS Kiro access and the new Grok Bot 1.0 for teams.",
+ "title_mn": "xAI компани AI код бичих хэрэгслүүд болон Grok Bot агентаа нэн тэргүүнд тавьж байна",
+ "summary_mn": "xAI компани хөгжүүлэгчдийн зах зээлд өрсөлдөх зорилгоор Grok Build, Grok 4.7 болон шинээр зарлагдсан Grok Bot 1.0 хэрэгслүүд рүү нөөц бололцоогоо төвлөрүүлж байна. 500,000 токенийн контекст цонх бүхий Grok 4.7 нь урт хугацааны програмчлалын ажлыг гүйцэтгэхэд чиглэгджээ.",
+ "body_mn": "xAI компани хөгжүүлэгчдэд зориулсан AI код бичих хэрэгслүүд болон Grok агент бүтээгдэхүүнүүддээ үйл ажиллагаагаа төвлөрүүлж эхэллээ. Тус компани нь терминал дээр ажилладаг код бичих агент Grok Build, урт програмчлалын сессүүдэд зориулсан Grok 4.7 болон ажлын байрны чатад ажилладаг Grok Bot 1.0 хэрэгслүүдийг гол болгож байна.\n\nGrok Build нь 500,000 токенийн том контекст цонх бүхий Grok 4.7 загвараар ажилладаг бөгөөд энэ нь код суурийн томоохон хэсгийг нэг дор харах боломжийг олгодог. Мөн AWS-ийн Kiro платформд туршилтын журмаар нэгтгэгдсэн нь хөгжүүлэгчдэд IDE болон CLI орчноос ашиглах боломжийг өгч байна.\n\nШинээр танилцуулагдсан Grok Bot 1.0 нь Slack болон Microsoft Teams-тэй интеграцчилж, багийн хамтын ажиллагааг дэмжих зорилготой юм. xAI компани энэхүү хэрэгслүүдээ хямд өртөгтэйгээр болон янз бүрийн багц хэлбэрээр санал болгож байгаа нь зах зээл дэх өрсөлдөөнийг улам хурцатгаж байна.",
+ "published": "2026-11-13T14:09:53Z",
+ "added": "2026-11-16T06:58:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

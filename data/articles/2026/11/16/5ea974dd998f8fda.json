@@ -1,0 +1,17 @@
+{
+ "id": "5ea974dd998f8fda",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Verge",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+ "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+ "summary_en": "It’s not here to buy your burritos for you.",
+ "title_mn": "Anthropic компани хэрэглэгчдэд зориулсан Claude Duet агент хэрэгслээ танилцууллаа",
+ "summary_mn": "Anthropic компани мэргэжилтнүүд болон жижиг бизнес эрхлэгчдэд зориулсан Claude Duet AI агентыг туршилтын байдлаар гаргалаа. Уг апп нь имэйл, календарь, Google Docs, Slack зэрэг үйлчилгээтэй холбогдож өдөр тутмын ажлыг зохион байгуулахад тусалдаг.",
+ "body_mn": "Anthropic компани хэрэглэгчдэд зориулсан шинэ AI агент болох Claude Duet-ийг танилцууллаа. Энэхүү судалгааны хувилбар нь код бичдэггүй мэргэжилтнүүд болон жижиг бизнес эрхлэгчдэд ажлаа зохион байгуулахад туслах зорилготой юм.\n\nDuet апп нь Claude-ийн энгийн бөгөөд цэвэр дизайнтай бөгөөд iPhone төхөөрөмжүүдийг бүрэн дэмждэг. Хэрэглэгчид ажлын имэйл, календарь, Google Docs болон Slack зэрэг бүтээмжийн хэрэгслүүдээ холбосноор уг агент өгөгдлүүдийг нэгтгэн дүгнэж, өдөр тутмын ажлыг сануулах болон мессеж ноороглох зэргээр тусалдаг байна.\n\nОдоогоор Claude Duet нь АНУ дахь Pro, Max болон Ultra эрхтэй хэрэглэгчдэд хязгаарлагдмал байдлаар нээлттэй байгаа аж. Энэ нь өдөр тутмын ажлын урсгалыг хөнгөвчлөх зорилготой бөгөөд хэрэглэгчийн өгөгдлийг цуглуулан өөрийн санаачилгаар сануулга өгдөг онцлогтой юм.",
+ "published": "2026-11-13T14:00:00Z",
+ "added": "2026-11-16T06:58:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

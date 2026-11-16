@@ -1,0 +1,17 @@
+{
+ "id": "3c9e6385d46d7a88",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Crypto Briefing",
+ "url": "https://cryptobriefing.com/anthropic-investigates-claude-authentication-errors/",
+ "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13053438/library-anthropic-investigates-authentication-errors-hitting-cla-800x450.png",
+ "title": "Anthropic investigates authentication errors hitting Claude AI and Claude Code",
+ "summary_en": "Anthropic is investigating elevated authentication errors disrupting access to claude.ai, Claude Code, and platform.claude.com for some users.",
+ "title_mn": "Claude AI болон Claude Code хэрэглэгчид нэвтрэх алдаатай тулгарлаа",
+ "summary_mn": "Anthropic компанийн claude.ai, Claude Code болон platform.claude.com үйлчилгээнүүдэд нэвтрэхэд хүндрэл үүсч, хэрэглэгчид OAuth болон баталгаажуулалтын алдаатай тулгарч байна.",
+ "body_mn": "Anthropic компанид хэрэглэгчид системийг ашиглах үед баталгаажуулалтын өндөр түвшний алдаанууд гарч эхэлсэн тул шалгаж эхэлжээ. Энэхүү саатал нь зөвхөн хэрэглэгчийн чат апп төдийгүй Claude Code болон платформын үйлчилгээнд мөн нөлөөлсөн байна.\n\nХэрэглэгчид хугацаа нь дууссан итгэмжлэл, нэвтрэх эрхийн алдаа, OAuth сессийн асуудлуудтай тулгарч байгаагаа мэдээлжээ. Системийн энэхүү саатал нь өдөр тутмын ажлын урсгалд нь энэхүү хэрэгслийг ашигладаг хөгжүүлэгчдэд хүндрэл учруулж болзошгүй юм.\n\nAnthropic компани асуудлыг шийдвэрлэхээр ажиллаж байгаа бөгөөд хэрэглэгчдэд цаг тухай бүрт нь мэдээлэл хүргэхээ мэдэгдсэн байна. Өмнө нь энэ оны есдүгээр сард мөн ижил төстэй нэвтрэлтийн алдаа гарч байсан түүхтэй.",
+ "published": "2026-11-13T10:34:46Z",
+ "added": "2026-11-16T06:58:11Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
