@@ -678,5 +678,165 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dde13a6350f0c89d",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+   "image": "https://github.blog/wp-content/uploads/2026/11/703838156-68e44341-f202-4a1d-8cec-072b5e8d1027.png",
+   "title": "Gemini 4 Hydrogen in GitHub Copilot",
+   "summary_en": "Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction…",
+   "title_mn": "Gemini 4 Hydrogen GitHub Copilot-д ерөнхийдөө боломжтой боллоо",
+   "summary_mn": "Google-ийн Gemini 4 Hydrogen Flash загвар GitHub Copilot-д ерөнхийдөө боломжтой боллоо. Агентлаг кодлолд, хэрэгслийн дуудалтад болон олон алхамт ажлын урсгалд зориулагдсан.",
+   "body_mn": "Gemini 4 Hydrogen, Google-ийн хамгийн сүүлийн Flash загвар GitHub Copilot-д ерөнхийдөө боломжтой боллоо. Загвар нь хурдан, үр ашигтай агентлаг кодлол, tool use болон олон алхамт ажлын урсгалд зориулагдсан бөгөөд Gemini 3.8 Flash-аас зааврыг илүү сайн дагадаг гэж мэдээлсэн.\n\nЗагварыг Copilot Pro, Pro+, Max, Business болон Enterprise хэрэглэгчид model picker-ээс сонгож болно. Нэвтрүүлэлт аажмаар явагдах тул зарим хэрэглэгчид тэр даруй харахгүй байж магадгүй.\n\nCopilot Enterprise болон Business админууд model policy-р дамжуулан хандалтыг удирдах боломжтой. Загварын үнэ нь provider-ийн жагсаалтын үнээр, usage-based биллингээр тооцогдоно.",
+   "published": "2026-11-13T18:23:48Z",
+   "added": "2026-11-16T16:47:09Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2b6ceace85f3ec57",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6pGmq99fGbiLaw1QHMkFv9/1f27d46d6acbaa9b5cd4798c198e44fd/doc-b485e47e-01da-40de-beef-3c91841c07f9-1794604053576.png",
+   "title": "Token Pass now includes $150 in tokens for $30/month",
+   "summary_en": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month. The credit applies to featured open-weight models served through AI Gateway , including Kimi K3, Kimi K3.1 Pro, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash. Credit resets each billing period with no rollover. When it runs out, requests using standard AI Gateway keys or OIDC tokens fall back to the team's AI Gateway balance, while requests using Token Pass-scoped keys stop with no overage charges. Token Pass is an Early Access add-on for Pro teams, with limited spots and a waitlist…",
+   "title_mn": "Vercel Token Pass сарын 30 доллараар 150 доллар хүртэл токен санал болгож байна",
+   "summary_mn": "Vercel Token Pass багцад сар бүр багийн 30 долларын төлбөрөөр 150 долларын токен багтахаар болсон, өмнө нь 80 доллар байсан. Кредит нь AI Gateway-ээр дамжих нээлттэй жинтэй загварт хүчинтэй.",
+   "body_mn": "Vercel Token Pass багц нэг багт сар бүр 30 долларын төлбөрөөр багтах токены хэмжээг 80 доллараас 150 доллар болгож нэмэгдүүлжээ. Кредит нь AI Gateway-ээр үйлчлэх Kimi K3, Kimi K3.1 Pro, GLM 5.3, GLM 5.3 Flash болон DeepSeek V4.1 Flash зэрэг онцлох нээлттэй жинтэй загваруудад хүчинтэй.\n\nКредит билling period бүрт шинэчлэгдэх бөгөөд дараагийн сард шилжихгүй. Кредит дууссан үед стандарт AI Gateway түлхүүр эсвэл OIDC токенууд багийн AI Gateway үлдэгдлээр үргэлжилнэ, харин Token Pass-ын түлхүүртэй хүсэлтүүд илүү төлбөргүйгээр зогсоно.\n\nToken Pass нь Pro багцтай холбогдсон Early Access нэмэлт үйлчилгээ бөгөөд суудал хязгаарлагдмал. Холбогдохын тулд Vercel CLI-д vercel token-pass командыг ажиллуулж, эсвэл AI Gateway дэмжих агентдаа Token Pass API түлхүүр ашиглана. Энэ нь кодлох агентуудын зардлыг тодорхой болгох боломжтой.",
+   "published": "2026-11-13T18:42:00Z",
+   "added": "2026-11-16T16:47:09Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a1083582ad5b5c03",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
+   "image": "https://opengraph.githubassets.com/ca414a63fb742e07df3b58de50ceef171f71b798d2612e6065dc31ed18aad7f5/anthropics/claude-code/releases/tag/v2.1.325",
+   "title": "claude-code v2.1.325",
+   "summary_en": "What's changed Fixed a security issue in how zstd-compressed responses are decoded Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once Claude has read or edited a Jupyter notebook Added a line under the error shown when your organization's policy blocks a request, saying how to continue: run /rewind and change the message, or run /clear Added a note for Claude when a sandboxed git checkout , git stash or autostash pull cannot update protected files such as those in .claude Fixed /security-review and skills' inline git commands stopping…",
+   "title_mn": "Claude Code v2.1.325: аюулгүй байдал болон олон алдааг засав",
+   "summary_mn": "Claude Code v2.1.325 хувилбарт zstd шахсан хариултыг декодлох аюулгүй байдлын асуудлыг засч, /security-review болон worktree-тэй холбоотой алдаа засагдсан. Мөн VS Code-ийн терминалд notebook-ийн тусламжийн зөвлөмж нэмэгдсэн.",
+   "body_mn": "Claude Code-ийн v2.1.325 хувилбар нь ихэнхдээ алдаа засах шинэчлэлт юм. Хамгийн чухал нь zstd-ээр шахсан хариултыг декодлох аюулгүй байдлын асуудлыг засч, харин /security-review болон skills-ийн git командууд worktree болон bare repo-д алдаа өгдөг байсныг засварласан.\n\nМөн шинэ онцлог нэмэгдсэн: VS Code болон төстэй интеграцчилсан терминалд Jupyter notebook-ийн нүдийг дахин ажиллуулах тухай зөвлөмж гарна. Байгууллагын бодлогоор хүсэлт блоклогдсон үед /rewind эсвэл /clear ашиглан үргэлжлүүлэх заавар харагдана.\n\nSubagent-ууд үндсэн сессийн загвараар файлын унших болон MCP үр дүнг тооцдог алдааг засварласан. Third-party gateway дээрх context length алдааны асуудал, /stats-ийн Active days тооцоолол зэрэг олон бяцхан засвар багтсан тул шинэчлэхийг зөвлөж байна.",
+   "published": "2026-11-13T20:40:01Z",
+   "added": "2026-11-16T16:47:09Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "862b82cce5532207",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+   "image": "https://github.blog/wp-content/uploads/2026/11/645867806-878ea927-48c9-4765-a896-4a5f3d7b8f2e.jpg",
+   "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+   "summary_en": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date…",
+   "title_mn": "GitHub Copilot: зарим загваруудыг 12-р сарын 14-нд хасна",
+   "summary_mn": "GitHub 2026 оны 12-р сарын 14-нд Copilot-ийн зарим загваруудыг бүх туршлагаас хасна. Claude Haiku 4.5 нь жилийн төлөвлөгөөтэй хувь хэрэглэгчдэд хэвээр үлдэнэ.",
+   "body_mn": "GitHub Copilot-ийн зарим загваруудыг 2026 оны 12-р сарын 14-нд Copilot Chat, inline edits, ask болон agent горим, код дуусгалт зэрэг бүх туршлагаас хасахаа зарлалаа. Жагсаалтын дэлгэрэнгүй нэр текстэд бүрэн ирээгүй байна.\n\nClaude Haiku 4.5 загварыг жилийн төлөвлөгөөтэй хувь Copilot хэрэглэгчид хэвээр ашиглах боломжтой. Бусад хэрэглэгчид хасагдах өдрөөс өмнө workflow болон интеграцаа дэмжигдсэн загварт шилжүүлэх шаардлагатай.\n\nEnterprise болон Business байгууллагууд Copilot settings-ийн model policy-оор орлуулах загваруудыг идэвхжүүлэх боломжтой. Хэрэв глобал default-ыг унтраасан бол гараар идэвхжүүлнэ. Девелоперт энэ нь API болон CI дэх загварын нэрийг шинэчлэх хугацааны шаардлага болно.",
+   "published": "2026-11-13T20:40:05Z",
+   "added": "2026-11-16T16:47:09Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b8279d85652e3e97",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.51.0",
+   "image": "https://opengraph.githubassets.com/d85bb203907bae927606a2fd6e368bb9f32ae8a968eb9e083d04248850f5cee5/openai/openai-python/releases/tag/v3.51.0",
+   "title": "openai-python v3.51.0",
+   "summary_en": "3.51.0 (2026-11-12) Features api: expand agent, image, Live, and external key support ( #4269 ) ( 59738a2 )",
+   "title_mn": "openai-python v3.51.0 гарлаа: agent, image, Live болон external key дэмжлэг нэмэгдлээ",
+   "summary_mn": "OpenAI-ийн Python SDK-ийн 3.51.0 хувилбар гарсан бөгөөд api хэсэгт agent, image, Live болон external key-ийн дэмжлэгийг өргөтгөжээ. Хувилбарын тайлбарт дэлгэрэнгүй тоо мэдээлэл өгөөгүй байна.",
+   "body_mn": "OpenAI-ийн openai-python SDK-ийн шинэ 3.51.0 хувилбар 2026 оны 11-р сарын 12-ны өдөр гарсан гэж хувилбарын тэмдэглэлд дурджээ.\n\nХувилбарын тэмдэглэлд api хэсэгт agent, image, Live болон external key-ийн дэмжлэгийг өргөтгөсөн гэж бичсэн байна. Мөн энэ өөрчлөлтийг #4269 pull request-тэй холбож, commit 59738a2-ээр бүртгэжээ.\n\nЭнэ нь Python-оор OpenAI API дээр суурилсан апп бичдэг хөгжүүлэгчдэд шууд хамаарна. Шинэ хувилбарт шинэчлэх тохиолдолд agent болон image-тэй холбоотой функцүүдийг SDK-аар ашиглах боломж нээгдэх магадлалтай. Гэхдээ тэмдэглэлд тодорхой API өөрчлөлт, breaking change-ийн талаар мэдээлэл байхгүй тул шинэчлэхийн өмнө changelog-ийг нарийвчлан шалгахыг зөвлөж байна.",
+   "published": "2026-11-13T21:12:49Z",
+   "added": "2026-11-16T16:47:09Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "12418f9c0ee65d2b",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6tryQEh3VSGURHidm4Bzvw/5a7daa7c669ba75441a0ea4971036b79/download__9_.jpeg",
+   "title": "Daemons can now send traces to Vercel Tracing",
+   "summary_en": "Vercel Daemons can now send OpenTelemetry traces to Vercel Tracing , allowing you and your agents to inspect background worker operations alongside the rest of your project's traces. Vercel provides each daemon with a Unix socket for receiving OTLP/HTTP traces and sets the socket's path in VERCEL_OTEL_SOCKET_PATH . Upgrading @vercel/otel to version 2.3.0 or later enables automatic trace export for Node.js daemons using the default configuration. The SDK detects this socket and sends the spans your worker records to Vercel. These spans are available through the Vercel CLI , which can search…",
+   "title_mn": "Vercel Daemons одоо трейсээ Vercel Tracing рүү илгээх боломжтой боллоо",
+   "summary_mn": "Vercel Daemons нь OpenTelemetry трейсүүдээ Vercel Tracing рүү илгээж, background worker-ийн үйл ажиллагааг проектийн бусад трейстэй зэрэгцүүлэн харах боломжтой боллоо. @vercel/otel 2.3.0 ба түүнээс дээш хувилбар автоматаар экспорт хийнэ.",
+   "body_mn": "Vercel Daemons одоо OpenTelemetry трейсүүдээ Vercel Tracing рүү илгээх боломжтой боллоо. Энэ нь хөгжүүлэгч болон агентууд background worker-ийн үйл ажиллагааг проектийн бусад трейстэй хамт шалгах боломжийг олгоно.\n\nVercel нь daemon бүрт OTLP/HTTP трейс хүлээн авах Unix socket өгч, түүний замыг VERCEL_OTEL_SOCKET_PATH орчны хувьсагчид тавьдаг. @vercel/otel 2.3.0 эсвэл түүнээс дээш хувилбарт шинэчилбэл Node.js daemon-уудад стандарт тохиргоогоор автоматаар трейс экспортлох болно. SDK socket-ийг илрүүлж, worker-ийн бичсэн span-уудыг Vercel рүү илгээнэ.\n\nЗөвлөмжийн дагуу OpenTelemetry-г worker эхлэхээс өмнө инициализ хийх шаардлагатай. Span-уудад Vercel CLI-аар проектын доторх service name-ээр хайж, JSON хэлбэрээр авах боломж бий. Жишээ нь сүүлийн нэг цагийн daemon span-уудыг JSON-оор татах командыг тайлбарт өгсөн байна.\n\nЭнэ өөрчлөлт нь background job болон worker-уудаа Vercel дээр ажиллуулдаг хөгжүүлэгчдэд алдаа хайх, гүйцэтгэлийг хянахад илүү хялбар орчин бүрдүүлнэ. Дэлгэрэнгүйг daemon tracing баримт бичгээс харж болно.",
+   "published": "2026-11-13T22:24:00Z",
+   "added": "2026-11-16T16:47:09Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f36760f448903c88",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Anthropic",
+   "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+   "image": "https://assets.claude.com/04a298be2efa241bd5a4a810b97c62bb8ef257dc.jpg",
+   "title": "Building strong safety evaluations",
+   "summary_en": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
+   "title_mn": "Anthropic: Аюулгүй байдлын үнэлгээг хэрхэн зөв бүтээх вэ",
+   "summary_mn": "Anthropic AI загваруудын аюулгүй байдлын үнэлгээ (safety eval) бүтээх зөвлөмжүүдийг нийтэлжээ. Үнэлгээ нь ямар эрсдэлийг хэмжиж байгаа, хэн оролцох ёстой, сандбокс орчинд ажиллуулах шаардлагатай тухай тайлбарлана.",
+   "body_mn": "Anthropic компани AI загваруудын аюулгүй байдлын үнэлгээ (safety eval) хэрхэн бүтээх талаар дэлгэрэнгүй зөвлөмж нийтэллээ. Аюулгүй байдлын үнэлгээ нь загварын гаргах шийдвэр, нэмэлт хамгаалалт болон дараагийн сургалтын чиглэлд нөлөөлдөг тул найдвартай байх нь чухал гэж тэд онцолжээ.\n\nБичлэгт safety eval нь загварын харьцангуй чадвар биш, харин хор хөнөөл үүсгэх магадлал, хариултын эрсдэлийг хэмждэг гэж тайлбарласан байна. Жишээлбэл, хэрэглэгч шууд хортой зөвлөгөө хүсэх, эсвэл эмийн тунг асуух зэрэг тохиолдлууд орно. Мөн AI үнэлгээ нь амархан гажуудах, хэмжих зүйлээ зөв хэмждэггүй, давтан шалгахад хүндрэлтэй байдаг талаар анхаарууллаа.\n\nТүүнчлэн сэтгэл судлалын салбарын replication асуудлаас суралцахыг санал болгож, preregistration, илүү сайн хэмжилт, найдвартай статистик зэргийг чухалчилжээ. Үнэлгээнд домэйн мэргэжилтэн, арга зүйн мэргэжилтнүүдийг эхнээс нь оролцуулах шаардлагатай гэжээ.\n\nМөн cyber үнэлгээг интернетгүй sandbox орчинд, бодит цагт хянаж ажиллуулах хэрэгтэйг анхааруулсан байна. Хөгжүүлэгчдэд энэ нь AI загваруудын аюулгүй байдлын тайлан, системийн картыг илүү шүүмжлэлтэйгээр уншихад тусална.",
+   "published": "2026-11-14T01:40:13Z",
+   "added": "2026-11-16T16:47:09Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "04bc288951abfbc1",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Decoder",
+   "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
+   "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+   "summary_en": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort.",
+   "title_mn": "Anthropic: Claude Opus 5.5-тэй ажиллахад хуучин prompt-ийн арга зам саатуулж байна",
+   "summary_mn": "Anthropic хэрэглэгчдэд Claude Opus 5.5-ийн хувьд \"think hard\" зэрэг хуучин prompt-ийн зуршлыг хасахыг зөвлөжээ. Medium effort түвшин нь Opus 5-ийн High түвшинтэй адил гүйцэтгэлтэй гэж мэдээлжээ.",
+   "body_mn": "Anthropic хэрэглэгчдээ Claude Opus 5.5-тэй ажиллахдаа өмнөх үеийн загваруудад зориулсан prompt-ийн зуршлуудыг хасах хэрэгтэйг зөвлөжээ. Opus 5.5 нь Pro, Max, Ultra болон Team төлөвлөгөөний анхдагч загвар болсон бөгөөд өмнөхөөсөө өөрөөр ажилладаг гэж компани тайлбарлав.\n\nЗөвлөмжийн нэг нь \"think hard\" эсвэл \"think carefully\" гэх мэт үгсийг prompt-оос хасах явдал юм. Компанийн хэлснээр загвар өөрөө дотооддоо сэтгэдэг бөгөөд даалгаварт тохируулан reasoning гүнийг сонгодог. Тэдний туршилтаар эдгээр үггүйгээр хариулт хурдан эхэлж, чанар мэдэгдэхүйц буураагүй байна.\n\nМөн Anthropic анхдагч effort түвшинг Medium-аар эхлүүлэхийг санал болгож байна. Тэдний дотоод туршилтаар Opus 5.5 Medium дээр өмнөх Opus 5-ийн High түвшний гүйцэтгэлтэй тэнцсэн гэжээ. Хэрэв Medium хангалтгүй бол зөвхөн High руу шилжих хэрэгтэй. Мөн Sonnet-ийг Extra High эсвэл Max дээр ажиллуулбал Opus 5.5-тай ойролцоо өртөг гарна гэж дурдсан байна.\n\nБусад зөвлөмжүүд нь даалгавраа нэг мессежээр бүрэн тайлбарлах, диаграм болон хүснэгтийг текст биш зураг эсвэл файлаар хавсаргах, эцсийн баримт бичгийг шууд хүсэх, дизайны хувьд тодорхой хэв маягийг нэрлэх зэрэг байна. Connector-оор файл болон системээ холбосон хэрэглэгчид илүү тохируулсан үр дүн авдаг гэжээ.\n\nХөгжүүлэгчдэд энэ нь Claude API болон Claude Code-д effort түвшин, prompt бүтцийг шинэчлэх практик зөвлөгөө юм. Гэхдээ мэдээнд API-ийн үнийн өөрчлөлтийн дэлгэрэнгүй тоо байхгүй тул шууд мэдээлэл биш зөвлөмж гэж ойлгох нь зөв.",
+   "published": "2026-11-14T16:50:52Z",
+   "added": "2026-11-16T16:47:09Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "a1083582ad5b5c03",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
+ "image": "https://opengraph.githubassets.com/ca414a63fb742e07df3b58de50ceef171f71b798d2612e6065dc31ed18aad7f5/anthropics/claude-code/releases/tag/v2.1.325",
+ "title": "claude-code v2.1.325",
+ "summary_en": "What's changed Fixed a security issue in how zstd-compressed responses are decoded Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once Claude has read or edited a Jupyter notebook Added a line under the error shown when your organization's policy blocks a request, saying how to continue: run /rewind and change the message, or run /clear Added a note for Claude when a sandboxed git checkout , git stash or autostash pull cannot update protected files such as those in .claude Fixed /security-review and skills' inline git commands stopping…",
+ "title_mn": "Claude Code v2.1.325: аюулгүй байдал болон олон алдааг засав",
+ "summary_mn": "Claude Code v2.1.325 хувилбарт zstd шахсан хариултыг декодлох аюулгүй байдлын асуудлыг засч, /security-review болон worktree-тэй холбоотой алдаа засагдсан. Мөн VS Code-ийн терминалд notebook-ийн тусламжийн зөвлөмж нэмэгдсэн.",
+ "body_mn": "Claude Code-ийн v2.1.325 хувилбар нь ихэнхдээ алдаа засах шинэчлэлт юм. Хамгийн чухал нь zstd-ээр шахсан хариултыг декодлох аюулгүй байдлын асуудлыг засч, харин /security-review болон skills-ийн git командууд worktree болон bare repo-д алдаа өгдөг байсныг засварласан.\n\nМөн шинэ онцлог нэмэгдсэн: VS Code болон төстэй интеграцчилсан терминалд Jupyter notebook-ийн нүдийг дахин ажиллуулах тухай зөвлөмж гарна. Байгууллагын бодлогоор хүсэлт блоклогдсон үед /rewind эсвэл /clear ашиглан үргэлжлүүлэх заавар харагдана.\n\nSubagent-ууд үндсэн сессийн загвараар файлын унших болон MCP үр дүнг тооцдог алдааг засварласан. Third-party gateway дээрх context length алдааны асуудал, /stats-ийн Active days тооцоолол зэрэг олон бяцхан засвар багтсан тул шинэчлэхийг зөвлөж байна.",
+ "published": "2026-11-13T20:40:01Z",
+ "added": "2026-11-16T16:47:09Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

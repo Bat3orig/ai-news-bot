@@ -1,0 +1,17 @@
+{
+ "id": "04bc288951abfbc1",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Decoder",
+ "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+ "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
+ "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+ "summary_en": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort.",
+ "title_mn": "Anthropic: Claude Opus 5.5-тэй ажиллахад хуучин prompt-ийн арга зам саатуулж байна",
+ "summary_mn": "Anthropic хэрэглэгчдэд Claude Opus 5.5-ийн хувьд \"think hard\" зэрэг хуучин prompt-ийн зуршлыг хасахыг зөвлөжээ. Medium effort түвшин нь Opus 5-ийн High түвшинтэй адил гүйцэтгэлтэй гэж мэдээлжээ.",
+ "body_mn": "Anthropic хэрэглэгчдээ Claude Opus 5.5-тэй ажиллахдаа өмнөх үеийн загваруудад зориулсан prompt-ийн зуршлуудыг хасах хэрэгтэйг зөвлөжээ. Opus 5.5 нь Pro, Max, Ultra болон Team төлөвлөгөөний анхдагч загвар болсон бөгөөд өмнөхөөсөө өөрөөр ажилладаг гэж компани тайлбарлав.\n\nЗөвлөмжийн нэг нь \"think hard\" эсвэл \"think carefully\" гэх мэт үгсийг prompt-оос хасах явдал юм. Компанийн хэлснээр загвар өөрөө дотооддоо сэтгэдэг бөгөөд даалгаварт тохируулан reasoning гүнийг сонгодог. Тэдний туршилтаар эдгээр үггүйгээр хариулт хурдан эхэлж, чанар мэдэгдэхүйц буураагүй байна.\n\nМөн Anthropic анхдагч effort түвшинг Medium-аар эхлүүлэхийг санал болгож байна. Тэдний дотоод туршилтаар Opus 5.5 Medium дээр өмнөх Opus 5-ийн High түвшний гүйцэтгэлтэй тэнцсэн гэжээ. Хэрэв Medium хангалтгүй бол зөвхөн High руу шилжих хэрэгтэй. Мөн Sonnet-ийг Extra High эсвэл Max дээр ажиллуулбал Opus 5.5-тай ойролцоо өртөг гарна гэж дурдсан байна.\n\nБусад зөвлөмжүүд нь даалгавраа нэг мессежээр бүрэн тайлбарлах, диаграм болон хүснэгтийг текст биш зураг эсвэл файлаар хавсаргах, эцсийн баримт бичгийг шууд хүсэх, дизайны хувьд тодорхой хэв маягийг нэрлэх зэрэг байна. Connector-оор файл болон системээ холбосон хэрэглэгчид илүү тохируулсан үр дүн авдаг гэжээ.\n\nХөгжүүлэгчдэд энэ нь Claude API болон Claude Code-д effort түвшин, prompt бүтцийг шинэчлэх практик зөвлөгөө юм. Гэхдээ мэдээнд API-ийн үнийн өөрчлөлтийн дэлгэрэнгүй тоо байхгүй тул шууд мэдээлэл биш зөвлөмж гэж ойлгох нь зөв.",
+ "published": "2026-11-14T16:50:52Z",
+ "added": "2026-11-16T16:47:09Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

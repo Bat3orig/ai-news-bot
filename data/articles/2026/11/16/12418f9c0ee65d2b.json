@@ -1,0 +1,17 @@
+{
+ "id": "12418f9c0ee65d2b",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6tryQEh3VSGURHidm4Bzvw/5a7daa7c669ba75441a0ea4971036b79/download__9_.jpeg",
+ "title": "Daemons can now send traces to Vercel Tracing",
+ "summary_en": "Vercel Daemons can now send OpenTelemetry traces to Vercel Tracing , allowing you and your agents to inspect background worker operations alongside the rest of your project's traces. Vercel provides each daemon with a Unix socket for receiving OTLP/HTTP traces and sets the socket's path in VERCEL_OTEL_SOCKET_PATH . Upgrading @vercel/otel to version 2.3.0 or later enables automatic trace export for Node.js daemons using the default configuration. The SDK detects this socket and sends the spans your worker records to Vercel. These spans are available through the Vercel CLI , which can search…",
+ "title_mn": "Vercel Daemons одоо трейсээ Vercel Tracing рүү илгээх боломжтой боллоо",
+ "summary_mn": "Vercel Daemons нь OpenTelemetry трейсүүдээ Vercel Tracing рүү илгээж, background worker-ийн үйл ажиллагааг проектийн бусад трейстэй зэрэгцүүлэн харах боломжтой боллоо. @vercel/otel 2.3.0 ба түүнээс дээш хувилбар автоматаар экспорт хийнэ.",
+ "body_mn": "Vercel Daemons одоо OpenTelemetry трейсүүдээ Vercel Tracing рүү илгээх боломжтой боллоо. Энэ нь хөгжүүлэгч болон агентууд background worker-ийн үйл ажиллагааг проектийн бусад трейстэй хамт шалгах боломжийг олгоно.\n\nVercel нь daemon бүрт OTLP/HTTP трейс хүлээн авах Unix socket өгч, түүний замыг VERCEL_OTEL_SOCKET_PATH орчны хувьсагчид тавьдаг. @vercel/otel 2.3.0 эсвэл түүнээс дээш хувилбарт шинэчилбэл Node.js daemon-уудад стандарт тохиргоогоор автоматаар трейс экспортлох болно. SDK socket-ийг илрүүлж, worker-ийн бичсэн span-уудыг Vercel рүү илгээнэ.\n\nЗөвлөмжийн дагуу OpenTelemetry-г worker эхлэхээс өмнө инициализ хийх шаардлагатай. Span-уудад Vercel CLI-аар проектын доторх service name-ээр хайж, JSON хэлбэрээр авах боломж бий. Жишээ нь сүүлийн нэг цагийн daemon span-уудыг JSON-оор татах командыг тайлбарт өгсөн байна.\n\nЭнэ өөрчлөлт нь background job болон worker-уудаа Vercel дээр ажиллуулдаг хөгжүүлэгчдэд алдаа хайх, гүйцэтгэлийг хянахад илүү хялбар орчин бүрдүүлнэ. Дэлгэрэнгүйг daemon tracing баримт бичгээс харж болно.",
+ "published": "2026-11-13T22:24:00Z",
+ "added": "2026-11-16T16:47:09Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

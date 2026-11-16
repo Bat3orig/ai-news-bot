@@ -1,0 +1,17 @@
+{
+ "id": "dde13a6350f0c89d",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+ "image": "https://github.blog/wp-content/uploads/2026/11/703838156-68e44341-f202-4a1d-8cec-072b5e8d1027.png",
+ "title": "Gemini 4 Hydrogen in GitHub Copilot",
+ "summary_en": "Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction…",
+ "title_mn": "Gemini 4 Hydrogen GitHub Copilot-д ерөнхийдөө боломжтой боллоо",
+ "summary_mn": "Google-ийн Gemini 4 Hydrogen Flash загвар GitHub Copilot-д ерөнхийдөө боломжтой боллоо. Агентлаг кодлолд, хэрэгслийн дуудалтад болон олон алхамт ажлын урсгалд зориулагдсан.",
+ "body_mn": "Gemini 4 Hydrogen, Google-ийн хамгийн сүүлийн Flash загвар GitHub Copilot-д ерөнхийдөө боломжтой боллоо. Загвар нь хурдан, үр ашигтай агентлаг кодлол, tool use болон олон алхамт ажлын урсгалд зориулагдсан бөгөөд Gemini 3.8 Flash-аас зааврыг илүү сайн дагадаг гэж мэдээлсэн.\n\nЗагварыг Copilot Pro, Pro+, Max, Business болон Enterprise хэрэглэгчид model picker-ээс сонгож болно. Нэвтрүүлэлт аажмаар явагдах тул зарим хэрэглэгчид тэр даруй харахгүй байж магадгүй.\n\nCopilot Enterprise болон Business админууд model policy-р дамжуулан хандалтыг удирдах боломжтой. Загварын үнэ нь provider-ийн жагсаалтын үнээр, usage-based биллингээр тооцогдоно.",
+ "published": "2026-11-13T18:23:48Z",
+ "added": "2026-11-16T16:47:09Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

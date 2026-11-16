@@ -1,0 +1,17 @@
+{
+ "id": "2b6ceace85f3ec57",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6pGmq99fGbiLaw1QHMkFv9/1f27d46d6acbaa9b5cd4798c198e44fd/doc-b485e47e-01da-40de-beef-3c91841c07f9-1794604053576.png",
+ "title": "Token Pass now includes $150 in tokens for $30/month",
+ "summary_en": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month. The credit applies to featured open-weight models served through AI Gateway , including Kimi K3, Kimi K3.1 Pro, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash. Credit resets each billing period with no rollover. When it runs out, requests using standard AI Gateway keys or OIDC tokens fall back to the team's AI Gateway balance, while requests using Token Pass-scoped keys stop with no overage charges. Token Pass is an Early Access add-on for Pro teams, with limited spots and a waitlist…",
+ "title_mn": "Vercel Token Pass сарын 30 доллараар 150 доллар хүртэл токен санал болгож байна",
+ "summary_mn": "Vercel Token Pass багцад сар бүр багийн 30 долларын төлбөрөөр 150 долларын токен багтахаар болсон, өмнө нь 80 доллар байсан. Кредит нь AI Gateway-ээр дамжих нээлттэй жинтэй загварт хүчинтэй.",
+ "body_mn": "Vercel Token Pass багц нэг багт сар бүр 30 долларын төлбөрөөр багтах токены хэмжээг 80 доллараас 150 доллар болгож нэмэгдүүлжээ. Кредит нь AI Gateway-ээр үйлчлэх Kimi K3, Kimi K3.1 Pro, GLM 5.3, GLM 5.3 Flash болон DeepSeek V4.1 Flash зэрэг онцлох нээлттэй жинтэй загваруудад хүчинтэй.\n\nКредит билling period бүрт шинэчлэгдэх бөгөөд дараагийн сард шилжихгүй. Кредит дууссан үед стандарт AI Gateway түлхүүр эсвэл OIDC токенууд багийн AI Gateway үлдэгдлээр үргэлжилнэ, харин Token Pass-ын түлхүүртэй хүсэлтүүд илүү төлбөргүйгээр зогсоно.\n\nToken Pass нь Pro багцтай холбогдсон Early Access нэмэлт үйлчилгээ бөгөөд суудал хязгаарлагдмал. Холбогдохын тулд Vercel CLI-д vercel token-pass командыг ажиллуулж, эсвэл AI Gateway дэмжих агентдаа Token Pass API түлхүүр ашиглана. Энэ нь кодлох агентуудын зардлыг тодорхой болгох боломжтой.",
+ "published": "2026-11-13T18:42:00Z",
+ "added": "2026-11-16T16:47:09Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}

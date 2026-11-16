@@ -1,0 +1,17 @@
+{
+ "id": "862b82cce5532207",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+ "image": "https://github.blog/wp-content/uploads/2026/11/645867806-878ea927-48c9-4765-a896-4a5f3d7b8f2e.jpg",
+ "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+ "summary_en": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date…",
+ "title_mn": "GitHub Copilot: зарим загваруудыг 12-р сарын 14-нд хасна",
+ "summary_mn": "GitHub 2026 оны 12-р сарын 14-нд Copilot-ийн зарим загваруудыг бүх туршлагаас хасна. Claude Haiku 4.5 нь жилийн төлөвлөгөөтэй хувь хэрэглэгчдэд хэвээр үлдэнэ.",
+ "body_mn": "GitHub Copilot-ийн зарим загваруудыг 2026 оны 12-р сарын 14-нд Copilot Chat, inline edits, ask болон agent горим, код дуусгалт зэрэг бүх туршлагаас хасахаа зарлалаа. Жагсаалтын дэлгэрэнгүй нэр текстэд бүрэн ирээгүй байна.\n\nClaude Haiku 4.5 загварыг жилийн төлөвлөгөөтэй хувь Copilot хэрэглэгчид хэвээр ашиглах боломжтой. Бусад хэрэглэгчид хасагдах өдрөөс өмнө workflow болон интеграцаа дэмжигдсэн загварт шилжүүлэх шаардлагатай.\n\nEnterprise болон Business байгууллагууд Copilot settings-ийн model policy-оор орлуулах загваруудыг идэвхжүүлэх боломжтой. Хэрэв глобал default-ыг унтраасан бол гараар идэвхжүүлнэ. Девелоперт энэ нь API болон CI дэх загварын нэрийг шинэчлэх хугацааны шаардлага болно.",
+ "published": "2026-11-13T20:40:05Z",
+ "added": "2026-11-16T16:47:09Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}
