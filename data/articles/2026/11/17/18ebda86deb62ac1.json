@@ -1,0 +1,17 @@
+{
+ "id": "18ebda86deb62ac1",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Wccftech",
+ "url": "https://wccftech.com/claude-fable-5-2-creates-stunning-underwater-world-in-just-97-kb-runs-at-180-fps-without-a-game-engine/",
+ "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-41.jpg",
+ "title": "Claude Fable 5.2 Creates Stunning Underwater World In Just 97 KB, Runs At 180 FPS On An RTX 5070 Ti Without A Game Engine",
+ "summary_en": "Claude Fable 5.2 generates Abyssal Garden, a stunning 97 KB underwater world running in a browser at a reported 180 FPS without a game engine.",
+ "title_mn": "Claude Fable 5.2 ямар ч хөдөлгүүргүй 97 KB хэмжээтэй интерактив 3D орчин үүсгэжээ",
+ "summary_mn": "Claude Code ашиглан WebGPU дээр ажилладаг 97 KB хэмжээтэй 'Abyssal Garden' төслийг процедурал кодоор бүрэн бүтээжээ. Энэ нь RTX 5070 Ti дээр 180 FPS хүрдэг.",
+ "body_mn": "Anthropic-ийн Claude Fable 5.2 загварын тусламжтайгаар ямар нэгэн бэлэн тоглоомын хөдөлгүүр (Three.js, Babylon.js зэрэг), гаднын бүтэц (textures), 3D загвар ашиглалгүйгээр дан 97 KB бүхий HTML файлд багтсан далайн гүний интерактив орчныг амжилттай бүтээжээ. Noniv хэмээх хөгжүүлэгч Claude Code ашиглан 'Abyssal Garden' нэртэй уг төслийг хийсэн байна.\n\nЭнэхүү орчин нь вэб хөтөч дээр WebGPU ашиглан ажилладаг бөгөөд бүх зүйлсийг ачаалах үед кодоор процедурал байдлаар үүсгэдэг. Claude загвар нь WGSL шэйдерүүд, GPU-ээр сийлсэн далайн ёроол, ойролцоогоор 2 сая замаг, ургамал, хэдэн арван мянган чулуу, далайн амьтдыг бүрэн кодоор тооцоолон гаргажээ. Дуу авиаг ч мөн Web Audio API-аар бодит цагт синтез хийж байна.\n\nХөгжүүлэгчийн мэдээлснээр уг төсөл RTX 5070 Ti график карт дээр 1440p нягтралтайгаар 180 FPS хүрч ажиллаж байгаа бөгөөд гар утас зэрэг сул төхөөрөмжүүдэд зориулсан график тохиргоог ч агуулжээ. Эх код нь MIT лицензээр нээлттэй гарсан бөгөөд Chrome болон Edge дээр шууд туршиж үзэх боломжтой юм.",
+ "published": "2026-11-15T15:11:03Z",
+ "added": "2026-11-17T08:42:50Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

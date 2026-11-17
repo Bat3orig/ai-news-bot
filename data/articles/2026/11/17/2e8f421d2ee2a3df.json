@@ -1,0 +1,17 @@
+{
+ "id": "2e8f421d2ee2a3df",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+ "image": "",
+ "title": "A step toward defining the Standard Model on a lattice",
+ "summary_en": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+ "title_mn": "GPT-6 Astra физикийн Стандарт загварын баталгаанд тусалжээ",
+ "summary_mn": "OpenAI-ийн GPT-6 Astra загвар онолын физикийн салбарт Стандарт загварыг тороор тодорхойлох нарийн математик баталгаа гаргахад дэмжлэг үзүүлсэн байна.",
+ "body_mn": "OpenAI компани онолын физикийн салбарт гаргасан судалгааны ажлаасаа хуваалцаж, Стандарт загварыг (Standard Model) тор дээр тодорхойлох чиглэлээр GPT-6 Astra загварыг ашигласан туршлагаа нийтэллээ.\n\nСудалгааны хүрээнд тус хиймэл оюуны загвар нь физикийн нарийн төвөгтэй санааг математикийн бүрэн хэмжээний дэлгэрэнгүй баталгаа болгон боловсруулахад голлох тусламжийг үзүүлсэн байна.",
+ "published": "2026-11-15T22:00:01Z",
+ "added": "2026-11-17T08:42:50Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

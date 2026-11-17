@@ -1,0 +1,17 @@
+{
+ "id": "dc1ef78483e2e42f",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2aBIEKewKIpdYSPv9E76Wn/5a0957249bafced81d33df0534df0187/Vercel_x_Qwen.png",
+ "title": "Qwen4-Max now available on AI Gateway",
+ "summary_en": "Alibaba’s Qwen4-Max is now available on AI Gateway . It’s a reasoning model for coding and long-running agent tasks, with image input, a 1M-token context window, tool calling, and structured outputs. With access to the appropriate tools, agents using Qwen4-Max can: Build 3D scenes and games: Work with Blender, Unity, Unreal Engine, and Godot, running what the agent builds and using visual feedback to fix issues. Analyze documents and create reports: Work across documents and images to produce spreadsheets, presentations, and reports with source citations. Alibaba reports 35% fewer tokens…",
+ "title_mn": "Qwen4-Max загвар Vercel AI Gateway дээр нэмэгдлээ",
+ "summary_mn": "Vercel AI Gateway 1 сая токен контексттэй Qwen4-Max загварыг дэмжиж эхэллээ. Үүнийг Claude Code, Cursor зэрэг агент хэрэгслүүдэд шууд ашиглах боломжтой.",
+ "body_mn": "Alibaba-ийн шинэ сэтгэн бодох чадвартай Qwen4-Max загвар Vercel AI Gateway дээр албан ёсоор гарлаа. Энэхүү загвар нь кодчилол болон урт хугацаанд ажиллах агентуудад зориулагдсан бөгөөд зураг хүлээн авах чадвар, 1 сая токены контекст цонх, tool calling болон бүтэцлэгдсэн өгөгдөл (structured outputs) гаргах боломжуудтай.\n\nQwen4-Max нь зохих хэрэгслүүдийн тусламжтайгаар Blender, Unity, Unreal Engine, Godot зэрэг дээр 3D орчин бүтээж, визуал үр дүнгээ шинжлэн алдаагаа засах чадвартай. Мөн Alibaba-ийн тайлбарласнаар уг загвар Work360 бенчмарк дээр өмнөх Qwen3.8-Max загвартай харьцуулахад 35% цөөн токен зарцуулдаг болсон байна.\n\nХөгжүүлэгчид Vercel CLI-ийн хамгийн сүүлийн хувилбарыг суулгаад Claude Code, Codex, Cursor зэрэг код бичих агентууддаа `alibaba/qwen4-max` загварыг шууд сонгон тохируулж ашиглах боломжтой боллоо.",
+ "published": "2026-11-15T20:00:00Z",
+ "added": "2026-11-17T08:42:50Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

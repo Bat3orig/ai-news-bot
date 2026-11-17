@@ -1,0 +1,17 @@
+{
+ "id": "55301efca077ecf8",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "CEO Insights Asia",
+ "url": "https://www.ceoinsightsasia.com/news/alibaba-says-new-ai-model-cuts-task-costs-by-60-percent-nwid-15046.html",
+ "image": "https://www.ceoinsightsasia.com/uploaded_images/newstransfer/6cc4kAlibaba4.jpg",
+ "title": "Alibaba Says New AI Model Cuts Task Costs by 60 Percent",
+ "summary_en": "Alibaba has concentrated its AI initiatives primarily on seizing the enterprise AI sector and fostering an open-source community to surpass local competitors.",
+ "title_mn": "Alibaba 2.4 их наяд параметртэй Qwen4-Max загвараа танилцууллаа",
+ "summary_mn": "Alibaba шинэ Qwen4-Max загвараа зарлалаа. Нийт 2.4T параметртэй уг загвар нь токен тутамд ердөө 71B параметр идэвхжүүлж, даалгавар гүйцэтгэх зардлыг 60%-иар бууруулжээ.",
+ "body_mn": "Alibaba Group өөрсдийн хамгийн хүчирхэг хиймэл оюуны загвар болох Qwen4-Max-ийг албан ёсоор танилцууллаа. Шинэ загвар нь кибер аюулгүй байдлыг сайжруулахад чиглэсэн тусгай шүүлтүүрүүдтэй бөгөөд сул тал илрүүлэх хамгаалалтын чадварыг хадгалж, халдлага үйлдэхэд ашиглагдах өгөгдлүүдийг сургалтын шатнаас хассан байна.\n\nQwen4-Max нь өмнөх Qwen3.8-Max-тай адил нийт 2.4 их наяд параметрийн хэмжээтэй боловч Mixture-of-Experts архитектурын ачаар токен тус бүрд 71 тэрбум параметр л идэвхжүүлдэг. Энэ нь өмнөх хувилбараас 25 хувиар бага бөгөөд учир шалтгаан тайлбарлах чадварыг нэмэгдүүлж, даалгаврын дундаж өртгийг 60 хувиар бууруулсан гэж Alibaba мэдэгдэв.\n\nУг загвар нь одоогоор QwenCloud-оор дамжин хөгжүүлэгчдэд нээлттэй байгаа бөгөөд оролтын үнэ 1 сая токен тутамд 7.5 центээр тогтжээ. Alibaba ойрын хугацаанд дэлхийн хөгжүүлэгчдэд зориулан Qwen4 цувралын нээлттэй жинтэй (open-weight) жижиг хувилбаруудыг нийтэд цацахаа баталсан байна.",
+ "published": "2026-11-16T01:55:32Z",
+ "added": "2026-11-17T08:42:50Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

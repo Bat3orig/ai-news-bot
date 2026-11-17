@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "49f1f468d640ead7",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.50.0",
-   "image": "https://opengraph.githubassets.com/383f4954f23a96d055706c96a19ce4bc16dd4ee35c0e6fac9f7622d4cf755ecf/openai/openai-python/releases/tag/v3.50.0",
-   "title": "openai-python v3.50.0",
-   "summary_en": "3.50.0 (2026-11-12) Features api: expose reasoning input transformations on responses ( #4268 ) ( 734f75b ) Chores deps: bump astral-sh/setup-uv from 10.3.0 to 10.3.3 ( #4261 ) ( 0ebd006 ) Documentation simplify review handoff instructions ( #4266 ) ( 141a89a )",
-   "title_mn": "openai-python v3.50.0 хувилбар шинэ боломжтойгоор гарлаа",
-   "summary_mn": "OpenAI Python сангийн v3.50.0 хувилбар нь reasoning input transformations API-г дэмждэг боллоо.",
-   "body_mn": "OpenAI албан ёсны Python хөгжүүлэлтийн сангийн v3.50.0 хувилбарыг гаргалаа. Энэхүү шинэ хувилбарт API хүсэлт дээр reasoning input transformations буюу эргэцүүлэн бодох оролтын хувиргалтуудыг шууд ашиглах боломжийг нээж өгсөн байна.\n\nМөн хөгжүүлэлтийн явцад setup-uv багцыг шинэчилж, баримт бичгийн зааварчилгааг хялбаршуулсан зэрэг засварууд багтжээ. Python ашиглан OpenAI API-тай ажилладаг хөгжүүлэгчдэд энэхүү шинэчлэлт нь загварын дэвшилтэт боломжуудыг илүү хялбар удирдах боломжийг олгоно.",
-   "published": "2026-11-12T19:26:07Z",
-   "added": "2026-11-15T07:24:54Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "67672a694e389b29",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/business/customer-stories/amplitude",
-   "image": "",
-   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-   "summary_en": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-   "title_mn": "Amplitude компани OpenAI загваруудыг ашиглан бүтээгдэхүүнээ хурдан хөгжүүлж байна",
-   "summary_mn": "Amplitude компани OpenAI загваруудад суурилсан Wave агентаа ашиглан програм хангамжийн шинэчлэлтийг 1-2 хоногийн дотор хийдэг болжээ.",
-   "body_mn": "Amplitude компани голчлон OpenAI загваруудад суурилсан Wave нэртэй бүтээгдэхүүний идэвхтэй агентаа ашиглан хөгжүүлэлтийн процессыг хурдасгаж байна. Тус агент нь юу хийх шаардлагатайг тодорхойлж, код бичих агентуудын тусламжтайгаар өөрчлөлтийг хурдан нэвтрүүлж, үр нөлөөг нь хэмжих боломжийг олгодог.\n\nЭнэхүү кейс нь хөгжүүлэгчид болон бүтээгдэхүүний багууд AI агентуудыг ашиглан ажлын урсгалаа хэрхэн хялбарчилж, бүтээгдэхүүн зах зээлд гаргах хугацааг эрс богинорох боломжтойг харуулж байна.",
-   "published": "2026-11-12T20:00:00Z",
-   "added": "2026-11-15T07:24:54Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5703e3103df0e903",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "kpmg.com",
-   "url": "https://kpmg.com/us/en/media/news/kpmg-launches-cybersecurity-services-powered-by-anthropics-claude-mythos.html",
-   "image": "https://kpmg.com/kpmg-us/content/dam/kpmg/corporate-communications/image/2026/Anthropic_Cyber_tn.png",
-   "title": "KPMG Launches Cybersecurity Services Powered by Anthropic’s Claude Mythos",
-   "summary_en": "KPMG LLP announces new capabilities that use Claude Mythos, Anthropic's most capable AI model for cybersecurity.",
-   "title_mn": "KPMG компани Anthropic Claude Mythos загварт суурилсан кибер аюулгүй байдлын үйлчилгээг нэвтрүүлл",
-   "summary_mn": "KPMG компани програм хангамжийн эмзэг байдлыг илрүүлэх зорилгоор Anthropic-ийн Claude Mythos AI загварыг ашиглаж эхэллээ.",
-   "body_mn": "KPMG LLP компани үйлчлүүлэгчдийнхээ программ хангамжийн эмзэг байдлыг илрүүлэх, кибер эрсдэлийг бууруулах зорилгоор Anthropic-ийн хамгийн хүчирхэг кибер аюулгүй байдлын AI загвар болох Claude Mythos-ийг үйлчилгээндээ нэвтрүүлж байгаагаа зарлалаа.\n\nЭнэхүү хамтын ажиллагаа нь байгууллагуудад аюулгүй байдлын эрсдэлийг зөв эрэмбэлэх, кибер довтолгооноос урьдчилан сэргийлэхэд туслах юм. Claude Mythos нь эмзэг байдлыг илрүүлэхээс гадна бизнест хамгийн чухал хэсгүүдийг түргэн шуурхай засварлахад чиглэгддэгээрээ онцлогтой.",
-   "published": "2026-11-12T20:06:56Z",
-   "added": "2026-11-15T07:24:54Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5cbbee7437055134",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/kimi-k3-1-pro-is-now-available-in-token-pass",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/48N5I83qq8jHJZNdkeg0HL/4d0da22e300782d229f4741f269fec36/download__5_.jpeg",
-   "title": "Kimi K3.1 Pro is now available in Token Pass",
-   "summary_en": "Token Pass now includes Kimi K3.1 Pro , Moonshot AI’s most capable model for coding and agentic workflows, with vision, tool use, and a 1M context window. Token Pass is an Early Access subscription for Pro teams that includes Kimi K3, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash, with more models to come. For $30 per team per month, you get $150 in monthly credit to use in coding agents connected to AI Gateway , including fx , Pi , Cline , and Command Code , as well as agents you build with the AI SDK. Requests served through Token Pass have zero data retention. Subscribe on the Token…",
-   "title_mn": "Vercel Token Pass үйлчилгээнд Kimi K3.1 Pro загварыг нэмлээ",
-   "summary_mn": "Vercel-ийн Token Pass захиалгад Moonshot AI-ийн Kimi K3.1 Pro загвар нэмэгдлээ. 1 сая контекст цонхтой уг загварыг AI Gateway-ээр дамжуулан coding agent болон AI SDK-д шууд ашиглах боломжтой.",
-   "body_mn": "Vercel компани Pro багуудад зориулсан Token Pass үйлчилгээндээ Moonshot AI-ийн Kimi K3.1 Pro загварыг албан ёсоор орууллаа. Kimi K3.1 Pro нь 1 сая токены өргөн контекст цонхтой, зураг боловсруулах болон tool use чадвартай бөгөөд код бичих болон agentic ажлын урсгалуудад өндөр бүтээмжтэй ажиллахаар зохион бүтээгдсэн загвар юм.\n\nToken Pass нь багийн 30 ам.долларын сарын төлбөрөөр 150 ам.долларын хиймэл оюуны кредит олгодог Early Access захиалгын хөтөлбөр юм. Хөгжүүлэгчид энэхүү эрхээ AI Gateway-тэй холбогдсон fx, Pi, Cline, Command Code зэрэг код бичих туслахууд болон AI SDK ашиглан бүтээсэн системүүддээ хуваарилан зарцуулах боломжтой болж байна.\n\nТүүнчлэн Token Pass-аар дамжиж буй бүх хүсэлтүүд өгөгдөл хадгалахгүй (zero data retention) нөхцөлтэй ажилладаг тул хөгжүүлэгчид нууцлал өндөртэй кодын сангаа холбоход эрсдэлгүй юм. Шинэ загварыг ашиглахын тулд AI Gateway самбараас Token Pass-аа идэвхжүүлж, агентын тохиргооноос moonshotai/kimi-k3.1-pro хувилбарыг сонгоход хангалттай.",
-   "published": "2026-11-12T20:56:38Z",
-   "added": "2026-11-15T07:24:54Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4debedad4e9a64fe",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v43.8.10",
-   "image": "https://opengraph.githubassets.com/a81501c67cb00a8bb1e9c2bcdc4d2da44ff3b2f2664a9b17ff4af075cecb45c3/electron/electron/releases/tag/v43.8.10",
-   "title": "electron v43.8.10",
-   "summary_en": "Release Notes for v43.8.10 Other Changes Backported fixes from upstream ANGLE, Chromium, Dawn, icu, Skia and V8. #55749",
-   "title_mn": "Electron v43.8.10 хувилбар гарлаа: upstream засваруудыг буцаан нэвтрүүлжээ",
-   "summary_mn": "Electron v43.8.10 хувилбарт ANGLE, Chromium, Dawn, icu, Skia болон V8-ийн upstream засваруудыг backport хийжээ. Энэ нь шинэ функц биш, харин аюулгүй байдал болон тогтвортой ажиллагаанд чиглэсэн засвар юм.",
-   "body_mn": "Electron-ийн хөгжүүлэгчид v43.8.10 хувилбарыг гаргалаа. Энэ хувилбарын тэмдэглэлд шинэ функц дурдаагүй бөгөөд гол хэсэг нь upstream төслүүдээс авсан засваруудыг хуулбарласан явдал юм.\n\nБackport хийгдсэн эх сурвалжууд нь ANGLE, Chromium, Dawn, icu, Skia болон V8 юм. Эдгээр нь Electron-ийн доорх рендерлэлт, график, JavaScript хөдөлгүүрийн үндсэн сангууд тул аппликейшнүүдийн тогтвортой байдалд шууд нөлөөлдөг.\n\nХөгжүүлэгчдэд энэ хувилбар нь хэрэв одоо Electron v43 дээр ажиллаж байгаа бол шинэчлэх шалтгаан болно. Гэхдээ томоохон API өөрчлөлт байхгүй тул шинэчлэлтийн эрсдэл бага байх магадлалтай. Тэмдэглэлийн дагуу шинэчлэлтээс өмнө тестийн орчинд шалгах нь зүйтэй.",
-   "published": "2026-11-12T21:20:57Z",
-   "added": "2026-11-15T14:53:26Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a8eec540a4f4c56a",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v44.11.3",
-   "image": "https://opengraph.githubassets.com/4d884bef2e48943b5754263aca5c245eebe6ff7dc9e67820800b6b8772df483a/electron/electron/releases/tag/v44.11.3",
-   "title": "electron v44.11.3",
-   "summary_en": "Release Notes for v44.11.3 Fixes Fixed a browser process crash when DevTools Fetch interception resumed or continued a paused response. #55759 (Also in 45 , 46 ) Other Changes Backported fixes from upstream ANGLE, Chromium, Dawn, icu, Skia and V8. #55748",
-   "title_mn": "Electron v44.11.3: DevTools Fetch интерцепцийн үед гарах browser crash засагдлаа",
-   "summary_mn": "Electron v44.11.3 хувилбар DevTools Fetch интерцепцид хариу үйлдэл паузтай байхад browser процесс унадаг алдааг засжээ. Мөн upstream-ийн засваруудыг нэмсэн байна.",
-   "body_mn": "Electron v44.11.3 хувилбар нь гол засвартаа browser процессын crash-ийг багтаасан. Алдаа нь DevTools Fetch интерцепт хийгдсэн хариуг түр зогсоох эсвэл үргэлжлүүлэх үед гарч байсан.\n\nМөн энэ хувилбар 45 болон 46 хувилбарт бас хамааралтай гэж тэмдэглэгдсэн байна. Үүний дээр ANGLE, Chromium, Dawn, icu, Skia, V8 зэрэг upstream сангуудын засваруудыг backport хийжээ.\n\nDevTools-ээр network интерцепт ашигладаг хөгжүүлэгчдэд энэ засвар чухал. Crash нь debugging хийж байх үед тохиолдох тул шинэчлэх нь ажлын урсгалыг тогтвортой болгоно.",
-   "published": "2026-11-12T21:37:50Z",
-   "added": "2026-11-15T14:53:26Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f74ed46f18528d40",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
-   "image": "https://opengraph.githubassets.com/a7057a66b0fb85c1be2633a3200c824cb71fe02f96225ae71f9c803e7c7f8934/anthropics/claude-code/releases/tag/v2.1.323",
-   "title": "claude-code v2.1.323",
-   "summary_en": "What's changed Added Code Mode, an experimental opt-in in which Claude writes JavaScript to call its tools; see https://code.claude.com/docs/en/code-mode to turn it on, or to turn it off for an organization Added engines[\"claude-code\"] to plugin.json : plugins outside their stated Claude Code version range are not installed, updated or loaded, and install and update pick the newest version that fits Added type checking of a plugin's TypeScript hooks module to claude plugin validate ; each finding is a warning, and --strict fails on it Added to claude plugin validate the $ nouns a mod's…",
-   "title_mn": "Claude Code v2.1.323: Code Mode туршилтын горим, plugin шалгалт нэмэгдлээ",
-   "summary_mn": "Claude Code v2.1.323 хувилбарт Claude JavaScript бичиж өөрийн tool-уудыг дуудах туршилтын Code Mode нэмэгдлээ. Мөн plugin.json-ийн engines талбар, TypeScript hook-ийн шалгалт зэрэг олон засвар орсон.",
-   "body_mn": "Anthropic-ийн Claude Code v2.1.323 хувилбарт хамгийн гол шинэ онцлог нь Code Mode юм. Энэ туршилтын горимд Claude tool-уудаа дуудах JavaScript кодыг өөрөө бичдэг. Горимыг идэвхжүүлэх эсвэл байгууллагад унтраах боломжтой бөгөөд тохиргооны заавар docs хаягт бий.\n\nPlugin-ийн талаар plugin.json дотор engines[\"claude-code\"] талбар нэмэгдсэн. Энэ талбарт заасан Claude Code-ийн хувилбарын хүрээнээс гадуур байгаа plugin суухгүй, шинэчлэгдэхгүй, ачаалагдахгүй. claude plugin validate командад TypeScript hook модулийн шалгалт нэмэгдэж, --strict флаг нь анхааруулгыг алдаа болгож чадна.\n\nМөн hook-ууд удаан ажиллах үед claude -p болон SDK сессэнд 30 секунд тутам progress heartbeat илгээдэг болсон. Энэ нь Claude Desktop зэрэг хост програм турн-ийг hung гэж дуусгахгүй гэсэн үг. Нэмж, CLAUDE_CODE_DISABLE_AGENT_PROGRESS_SUMMARIES тохиргоо, bash allow дүрмийн анхааруулга зэрэг олон засвар орсон. CLI ашигладаг, plugin бичдэг хөгжүүлэгчдэд энэ хувилбар ач холбогдолтой.",
-   "published": "2026-11-12T22:12:13Z",
-   "added": "2026-11-15T14:53:26Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "648bb7e0f000d2bb",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Blog",
-   "source_label": "GitHub Blog",
-   "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-   "image": "https://github.blog/wp-content/uploads/2026/11/5b5fed0ce69f241f469053d4f178383688adb2fb7ef44dff82c1a2dd6a626fa1-1920x1080-1.png",
-   "title": "Build once, run on any agent: A practical guide to agent skills",
-   "summary_en": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them.",
-   "title_mn": "Agent skills: нэг удаа бичээд хэд хэдэн агент дээр ажиллуулах практик гарын авлага",
-   "summary_mn": "GitHub agent skills-ийг SKILL.md бүхий хувилбарлагдсан directory хэлбэрээр тайлбарлаж, Proof Agent болон Data Forge жишээгээр тусгаарлагдсан verifier, skill-үүдийн хамтын ажиллагааг харуулжээ. Skill нь эрх, credential олгохгүй гэдгийг онцолсон.",
-   "body_mn": "GitHub блог agent skills-ийн талаар практик гарын авлага нийтэлжээ. Skill гэдэг нь репетитив ажлыг тайлбарласан SKILL.md файл бүхий хувилбарлагдсан directory бөгөөд олон агентын хооронд хуваалцах боломжтой. Гэхдээ skill нь өөрөө мэдээллийн сангийн хандалт эсвэл эрх олгодоггүй, орчин нь tool, credential, permission-ийг хангах ёстой.\n\nЖишээ болгон Proof Agent авч үзсэн. Агент өөрийн ажлыг өөрөө шалгавал тайлбар нь дүгнэлтэд нөлөөлж болзошгүй тул тусдаа verifier агент ашиглаж, олдворт нотолгоо хавсаргадаг. Ийм зарчмыг self-verification is not verification гэж товч томъёолжээ.\n\nData Forge нь олон skill-ийг хамтад нь ажиллуулах жишээ юм. forge-init нь төслийн контекстийг манифест хадгалж, forge-builder нь issue-ээс pull request хүртэл ажлыг зохицуулна. Нэг skill-ийг өөрчлөхөд бусад нь хамаарахгүй. Харин удирдлага, төлөв, аудитын бүртгэл шаардлагатай ажлуудад skill биш application илүү тохиромжтой гэж зөвлөжээ.",
-   "published": "2026-11-12T22:54:52Z",
-   "added": "2026-11-15T14:53:26Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "874622a1ca4e7708",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6DW2zkrfyqHeXa4yctgx5E/bc577b7993b7eb370d1dd637f81ca921/vercel-security-review-no-longer-requires-a-linked-vercel-pr.png",
-   "title": "Vercel Security Review no longer requires a linked Vercel project",
-   "summary_en": "You can now scan code changes for vulnerabilities with Vercel Security Review in GitHub repositories that have not yet been linked to a Vercel project. By default, Security Review covers all unlinked repositories the Vercel GitHub App can access in a connected GitHub account. You can limit coverage to selected connected accounts or individual repositories in Agent settings. Once enabled, each push to a covered repository automatically triggers a review of its code changes. Security Review checks commits directly in repositories with Security Review enabled, without requiring a Vercel project…",
-   "title_mn": "Vercel Security Review одоо холбогдсон Vercel төсөлгүйгээр ажиллана",
-   "summary_mn": "Vercel Security Review нь Vercel төсөлд холбогдоогүй GitHub repository-уудын код өөрчлөлтийг шалгах боломжтой боллоо. Push бүрт автоматаар шалгалт хийгдэх бөгөөд тохиргоог Agent settings-ээс хийнэ.",
-   "body_mn": "Vercel Security Review одоо Vercel төсөлд холбоогүй GitHub repository-уудад ажиллах боллоо. Өмнө нь шалгалт хийхэд төсөл болон deployment шаардлагатай байсан бол одоо commit-уудыг шууд шалгана.\n\nТохиргооны дагуу Vercel GitHub App-д хандах боломжтой холбоотой бүх холбогдоогүй repository анхдагчаар хамрагдана. Хүсвэл тодорхой account эсвэл repository-оор хязгаарлаж болно. Идэвхжүүлсний дараа repository-д push хийх бүрт код өөрчлөлтийн шалгалт автоматаар эхэлдэг.\n\nХэрэв repository нь Vercel төсөлтэй холбогдсон бөгөөд deployment үүсгэж байвал шалгалт төсөл болон deployment-ийн нэмэлт контекстийг ашиглана. Хөгжүүлэгчдэд энэ нь аюулгүй байдлын шалгалтыг CI-ээс гадуур, хурдан эхлүүлэх боломж олгоно.",
-   "published": "2026-11-13T00:00:00Z",
-   "added": "2026-11-15T14:53:26Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "aea0c1ebf138aa33",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-sandbox-starts-up-to-four-times-faster",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/78JIcK9YWnxDGHidXVBtUN/c92097446b4775ed53a9d8604a536952/download__8_.jpeg",
-   "title": "Vercel Sandbox starts up to 4x faster",
-   "summary_en": "Vercel Sandbox now initializes up to 4x faster outside the Washington, D.C. ( iad1 ) region when reused image data is served from a regional cache. Initialization now reads cached image data close to where the sandbox runs, avoiding round trips to origin image storage in iad1 on cache hits. Regional caching supports managed and custom images backed by Vercel Container Registry, including snapshots based on those images. In internal end-to-end benchmarks with Vercel Managed Images , startup time fell about 75% in Paris and from about 3.5s to 1.05s in Seoul. Regions closer to origin storage…",
-   "title_mn": "Vercel Sandbox эхлэх хурд 4 дахин хурдаслаа",
-   "summary_mn": "Vercel Sandbox дахин ашиглагдсан image өгөгдлийг бүс дотроо cache-ээс уншдаг болсон тул iad1 бүсийн гадна эхлэх хугацаа эрс багассан. Managed болон custom image-д хамаарна. Paris болон Seoul-д хугацаа мэдэгдэхүйц буурчээ.",
-   "body_mn": "Vercel Sandbox одоо iad1 (Вашингтон D.C.) бүсээс бусад бүсэд дахин ашиглагдсан image өгөгдлийг регионы cache-ээс уншиж, эхлэх хугацааг up to 4 дахин богиносгосон. Cache hit тохиолдолд эх image хадгалалт руу iad1-д хүрэх шаардлагагүй болно.\n\nVercel Container Registry дээр суурилсан managed болон custom image, түүнд үндэслэсэн snapshot-уудад энэ сайжруулалт хамаарна. Компанийн дотоод end-to-end шалгалтад Managed Images ашиглахад эхлэх хугацаа Paris-д ойролцоогоор 75%, Seoul-д 3.5 секундээс 1.05 секунд болж буурсан байна.\n\nЭх image хадгалалтад ойр бүсүүдэд сайжруулалт бага байх нь ойлгомжтой, учир нь хүсэлт аль хэдийн богино замыг туулдаг. Дэлгэрэнгүйг Vercel Sandbox баримт бичгээс харна уу.\n\nХөгжүүлэгчдэд энэ нь агент эсвэл түр орчин ашигладаг апп-уудын хариу хугацааг шууд сайжруулна.",
-   "published": "2026-11-13T00:00:00Z",
-   "added": "2026-11-15T14:53:26Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "02006c824db5ce40",
    "subtopic": "vercel-cloud",
    "source": "Vercel",
@@ -677,6 +477,146 @@
    "added": "2026-11-17T00:35:50Z",
    "ai": "claude:claude-haiku-5-5",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "18ebda86deb62ac1",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Wccftech",
+   "url": "https://wccftech.com/claude-fable-5-2-creates-stunning-underwater-world-in-just-97-kb-runs-at-180-fps-without-a-game-engine/",
+   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-41.jpg",
+   "title": "Claude Fable 5.2 Creates Stunning Underwater World In Just 97 KB, Runs At 180 FPS On An RTX 5070 Ti Without A Game Engine",
+   "summary_en": "Claude Fable 5.2 generates Abyssal Garden, a stunning 97 KB underwater world running in a browser at a reported 180 FPS without a game engine.",
+   "title_mn": "Claude Fable 5.2 ямар ч хөдөлгүүргүй 97 KB хэмжээтэй интерактив 3D орчин үүсгэжээ",
+   "summary_mn": "Claude Code ашиглан WebGPU дээр ажилладаг 97 KB хэмжээтэй 'Abyssal Garden' төслийг процедурал кодоор бүрэн бүтээжээ. Энэ нь RTX 5070 Ti дээр 180 FPS хүрдэг.",
+   "body_mn": "Anthropic-ийн Claude Fable 5.2 загварын тусламжтайгаар ямар нэгэн бэлэн тоглоомын хөдөлгүүр (Three.js, Babylon.js зэрэг), гаднын бүтэц (textures), 3D загвар ашиглалгүйгээр дан 97 KB бүхий HTML файлд багтсан далайн гүний интерактив орчныг амжилттай бүтээжээ. Noniv хэмээх хөгжүүлэгч Claude Code ашиглан 'Abyssal Garden' нэртэй уг төслийг хийсэн байна.\n\nЭнэхүү орчин нь вэб хөтөч дээр WebGPU ашиглан ажилладаг бөгөөд бүх зүйлсийг ачаалах үед кодоор процедурал байдлаар үүсгэдэг. Claude загвар нь WGSL шэйдерүүд, GPU-ээр сийлсэн далайн ёроол, ойролцоогоор 2 сая замаг, ургамал, хэдэн арван мянган чулуу, далайн амьтдыг бүрэн кодоор тооцоолон гаргажээ. Дуу авиаг ч мөн Web Audio API-аар бодит цагт синтез хийж байна.\n\nХөгжүүлэгчийн мэдээлснээр уг төсөл RTX 5070 Ti график карт дээр 1440p нягтралтайгаар 180 FPS хүрч ажиллаж байгаа бөгөөд гар утас зэрэг сул төхөөрөмжүүдэд зориулсан график тохиргоог ч агуулжээ. Эх код нь MIT лицензээр нээлттэй гарсан бөгөөд Chrome болон Edge дээр шууд туршиж үзэх боломжтой юм.",
+   "published": "2026-11-15T15:11:03Z",
+   "added": "2026-11-17T08:42:50Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b2af3a7815dcafce",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Decoder",
+   "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
+   "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+   "summary_en": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton.",
+   "title_mn": "Claude Fable 5.2 зургийг диффуз ашиглалгүй виртуал бийрээр зурж сурчээ",
+   "summary_mn": "Fable 5.2 нь бэлэн диффуз загварын оронд Python кодоор бийрийн хөдөлгөөн, будгийн физикийг дуурайн алдаагаа засах замаар бодит мэт уран зураг бүтээж байна.",
+   "body_mn": "Anthropic-ийн Claude Fable 5.2 загвар нь Midjourney зэрэг ердийн диффуз загваруудаас ялгаатай шинэ арга барилаар бодит мэт уран зургуудыг зурж эхэлжээ. Загвар нь зургийг шууд үүсгэхийн оронд виртуал зотон дээр бийрийн ширхэг, будгийн урсац, физик бүтцийг тооцоолсон кодоор мянга мянган бийрийн таталт хийж зурдаг байна.\n\nAnthropic-ийн судлаач Jake Eaton-ий үзүүлснээр тус загвар ойролцоогоор 700,000 бийрийн даралт хийсэн Python скрипт (1,000-аас 2,000 мөр код) ажиллуулж, авто зогсоолын дэлгүүрийн тэргэнцрийн бодит мэт зургийг гаргаж авчээ. Загвар нь зурж байх явцдаа алдаа гарвал бодит зураач шиг буцаах товч ашиглалгүйгээр дээрээс нь өөр өнгөөр давхарлан засвар хийдэг нь онцлог юм.\n\nИнженер Michael Graczyk-ийн хуваалцсан туршилтаар шувуу зурж байхдаа загвар нь хүний гарын бага зэргийн салганалтыг дуурайлган муруй таталт хийж, алдаагаа өд шиг болгон хувиргасан байна. Энэхүү дараалсан төлөвлөлт болон физик хязгаарлалтад дасан зохицох чадвар нь Fable 5.2 загварын урт хугацааны нарийн төвөгтэй агент даалгавруудыг гүйцэтгэх суурь чадварыг харуулж байна.",
+   "published": "2026-11-15T15:47:13Z",
+   "added": "2026-11-17T08:42:50Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dc1ef78483e2e42f",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2aBIEKewKIpdYSPv9E76Wn/5a0957249bafced81d33df0534df0187/Vercel_x_Qwen.png",
+   "title": "Qwen4-Max now available on AI Gateway",
+   "summary_en": "Alibaba’s Qwen4-Max is now available on AI Gateway . It’s a reasoning model for coding and long-running agent tasks, with image input, a 1M-token context window, tool calling, and structured outputs. With access to the appropriate tools, agents using Qwen4-Max can: Build 3D scenes and games: Work with Blender, Unity, Unreal Engine, and Godot, running what the agent builds and using visual feedback to fix issues. Analyze documents and create reports: Work across documents and images to produce spreadsheets, presentations, and reports with source citations. Alibaba reports 35% fewer tokens…",
+   "title_mn": "Qwen4-Max загвар Vercel AI Gateway дээр нэмэгдлээ",
+   "summary_mn": "Vercel AI Gateway 1 сая токен контексттэй Qwen4-Max загварыг дэмжиж эхэллээ. Үүнийг Claude Code, Cursor зэрэг агент хэрэгслүүдэд шууд ашиглах боломжтой.",
+   "body_mn": "Alibaba-ийн шинэ сэтгэн бодох чадвартай Qwen4-Max загвар Vercel AI Gateway дээр албан ёсоор гарлаа. Энэхүү загвар нь кодчилол болон урт хугацаанд ажиллах агентуудад зориулагдсан бөгөөд зураг хүлээн авах чадвар, 1 сая токены контекст цонх, tool calling болон бүтэцлэгдсэн өгөгдөл (structured outputs) гаргах боломжуудтай.\n\nQwen4-Max нь зохих хэрэгслүүдийн тусламжтайгаар Blender, Unity, Unreal Engine, Godot зэрэг дээр 3D орчин бүтээж, визуал үр дүнгээ шинжлэн алдаагаа засах чадвартай. Мөн Alibaba-ийн тайлбарласнаар уг загвар Work360 бенчмарк дээр өмнөх Qwen3.8-Max загвартай харьцуулахад 35% цөөн токен зарцуулдаг болсон байна.\n\nХөгжүүлэгчид Vercel CLI-ийн хамгийн сүүлийн хувилбарыг суулгаад Claude Code, Codex, Cursor зэрэг код бичих агентууддаа `alibaba/qwen4-max` загварыг шууд сонгон тохируулж ашиглах боломжтой боллоо.",
+   "published": "2026-11-15T20:00:00Z",
+   "added": "2026-11-17T08:42:50Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2e8f421d2ee2a3df",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "image": "",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "summary_en": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "title_mn": "GPT-6 Astra физикийн Стандарт загварын баталгаанд тусалжээ",
+   "summary_mn": "OpenAI-ийн GPT-6 Astra загвар онолын физикийн салбарт Стандарт загварыг тороор тодорхойлох нарийн математик баталгаа гаргахад дэмжлэг үзүүлсэн байна.",
+   "body_mn": "OpenAI компани онолын физикийн салбарт гаргасан судалгааны ажлаасаа хуваалцаж, Стандарт загварыг (Standard Model) тор дээр тодорхойлох чиглэлээр GPT-6 Astra загварыг ашигласан туршлагаа нийтэллээ.\n\nСудалгааны хүрээнд тус хиймэл оюуны загвар нь физикийн нарийн төвөгтэй санааг математикийн бүрэн хэмжээний дэлгэрэнгүй баталгаа болгон боловсруулахад голлох тусламжийг үзүүлсэн байна.",
+   "published": "2026-11-15T22:00:01Z",
+   "added": "2026-11-17T08:42:50Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ee464def624c91a0",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/seedance-2-5-flash-now-available-on-ai-gateway",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3PVusyg4GJTngxeJbW91dE/670e505710206670276c64b772a40692/image__21_.png",
+   "title": "Seedance 2.5 Flash now available on AI Gateway",
+   "summary_en": "ByteDance’s Seedance 2.5 Flash is now available on AI Gateway . Seedance 2.5 Flash is a faster, lower-cost version of Seedance 2.5 . The output is close to the standard model in human realism, reference-based editing, and prompt adherence. Generate videos with synchronized audio from text prompts or image, video, and audio references. Clips can be 4 to 30 seconds long at up to 720p and 24 frames per second, in landscape, square, or portrait formats. You can also edit or extend existing videos, or provide images to set the first and last frames. Use bytedance/seedance-2.5-flash with AI SDK 7…",
+   "title_mn": "ByteDance-ийн Seedance 2.5 Flash видео загвар Vercel AI Gateway-д нэмэгдлээ",
+   "summary_mn": "Vercel AI Gateway-д аудио бүхий видео үүсгэх Seedance 2.5 Flash загвар орлоо. AI SDK 7-оор дамжуулан 720p нягтралтай, 4-30 секундын видео боловсруулах боломжтой.",
+   "body_mn": "Vercel компани AI Gateway платформдоо ByteDance-ийн Seedance 2.5 Flash загварыг нэмж байгааг зарлалаа. Энэхүү хувилбар нь Seedance 2.5 загвартай дүйцэхүйц бодит дүрслэл болон зааварчилгааг чанд мөрдөх чадварыг хадгалсан бөгөөд илүү хурдан, өртөг багатайгаараа онцлог юм.\n\nSeedance 2.5 Flash нь текст болон зураг, видео, аудио жишигт үндэслэн аудиотой синхрончлогдсон видео үүсгэдэг. Хөгжүүлэгчид 720p нягтралтай, секундэд 24 кадрын давтамжтай, 4-өөс 30 секундын урттай хэвтээ, босоо эсвэл дөрвөлжин видеонуудыг боловсруулах боломжтой. Мөн бэлэн видеог засах, эхлэл төгсгөлийн кадруудыг зургаар тодорхойлох боломжийг дэмждэг.\n\nУг загварыг AI SDK 7 сан дээр bytedance/seedance-2.5-flash тодорхойлогчоор дуудан ашиглах бөгөөд жишиг зураг, видеоны холбоосыг inputReferences параметрээр дамжуулж болно. Мөн Vercel-ийн загварын туршилтын талбарт турших боломжтой.",
+   "published": "2026-11-16T00:00:00Z",
+   "added": "2026-11-17T08:42:50Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8dbc1c69e8740970",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/set-budgets-for-projects-and-products-in-spend-management",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/70OQRkf2udoqKajYXkpRsa/623d391faec14896f98a32cf4b52060e/budgets_og_final.png",
+   "title": "Set budgets for projects and products in Spend Management",
+   "summary_en": "Spend Management now supports budgets for individual projects and products, alongside existing team budgets. Project budgets: Track spend for one project and optionally pause its production deployments when the budget is reached, without pausing other projects. Product budgets: Track spend on one product, such as Fast Data Transfer, across your team. Only team and project budgets support automatic pausing of production deployments. Open the new Spend Management page to manage budgets, view spend for the current billing cycle, and see which thresholds have been reached. Vercel sends…",
+   "title_mn": "Vercel Spend Management: Төсөл болон бүтээгдэхүүн тус бүрд төсөв тогтоох боломжтой боллоо",
+   "summary_mn": "Vercel-ийн Spend Management хэрэгсэлд нэг бүрчлэн төсөл болон бүтээгдэхүүнд төсөв тогтоох боломж нэмэгдлээ. Төсөв хэтэрсэн үед тухайн төслийн деплойг автоматаар зогсоох боломжтой.",
+   "body_mn": "Vercel платформ зардлын хяналтын Spend Management системээ өргөтгөж, багийн нийт төсвөөс гадна тодорхой төсөл болон бүтээгдэхүүн тус бүрд төсөв тогтоох боломжийг нэвтрүүллээ.\n\nШинэ боломжийн хүрээнд төслийн төсөв хэтэрсэн үед бусад төслүүдэд нөлөөлөхгүйгээр зөвхөн тухайн төслийн продакшн деплойг автоматаар түр зогсоох тохиргоо хийж болно. Мөн Fast Data Transfer зэрэг тусдаа бүтээгдэхүүнд багийн хэмжээнд зарцуулах дээд лимитийг зааж өгөх боломжтой. Төсөв 50%, 75% болон 100%-д хүрэх үед Vercel автоматаар мэдэгдэл илгээнэ.\n\nЭдгээр тохиргоог вэб удирдлагын хуудаснаас гадна Vercel CLI ашиглан хийх боломжтой. Шинэ боломж нь Pro болон Enterprise багуудад ямар нэгэн нэмэлт төлбөргүйгээр нээгдэж байна.",
+   "published": "2026-11-16T00:00:00Z",
+   "added": "2026-11-17T08:42:50Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "55301efca077ecf8",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "CEO Insights Asia",
+   "url": "https://www.ceoinsightsasia.com/news/alibaba-says-new-ai-model-cuts-task-costs-by-60-percent-nwid-15046.html",
+   "image": "https://www.ceoinsightsasia.com/uploaded_images/newstransfer/6cc4kAlibaba4.jpg",
+   "title": "Alibaba Says New AI Model Cuts Task Costs by 60 Percent",
+   "summary_en": "Alibaba has concentrated its AI initiatives primarily on seizing the enterprise AI sector and fostering an open-source community to surpass local competitors.",
+   "title_mn": "Alibaba 2.4 их наяд параметртэй Qwen4-Max загвараа танилцууллаа",
+   "summary_mn": "Alibaba шинэ Qwen4-Max загвараа зарлалаа. Нийт 2.4T параметртэй уг загвар нь токен тутамд ердөө 71B параметр идэвхжүүлж, даалгавар гүйцэтгэх зардлыг 60%-иар бууруулжээ.",
+   "body_mn": "Alibaba Group өөрсдийн хамгийн хүчирхэг хиймэл оюуны загвар болох Qwen4-Max-ийг албан ёсоор танилцууллаа. Шинэ загвар нь кибер аюулгүй байдлыг сайжруулахад чиглэсэн тусгай шүүлтүүрүүдтэй бөгөөд сул тал илрүүлэх хамгаалалтын чадварыг хадгалж, халдлага үйлдэхэд ашиглагдах өгөгдлүүдийг сургалтын шатнаас хассан байна.\n\nQwen4-Max нь өмнөх Qwen3.8-Max-тай адил нийт 2.4 их наяд параметрийн хэмжээтэй боловч Mixture-of-Experts архитектурын ачаар токен тус бүрд 71 тэрбум параметр л идэвхжүүлдэг. Энэ нь өмнөх хувилбараас 25 хувиар бага бөгөөд учир шалтгаан тайлбарлах чадварыг нэмэгдүүлж, даалгаврын дундаж өртгийг 60 хувиар бууруулсан гэж Alibaba мэдэгдэв.\n\nУг загвар нь одоогоор QwenCloud-оор дамжин хөгжүүлэгчдэд нээлттэй байгаа бөгөөд оролтын үнэ 1 сая токен тутамд 7.5 центээр тогтжээ. Alibaba ойрын хугацаанд дэлхийн хөгжүүлэгчдэд зориулан Qwen4 цувралын нээлттэй жинтэй (open-weight) жижиг хувилбаруудыг нийтэд цацахаа баталсан байна.",
+   "published": "2026-11-16T01:55:32Z",
+   "added": "2026-11-17T08:42:50Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
   }
  }
 ]

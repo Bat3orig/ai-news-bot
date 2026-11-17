@@ -1,0 +1,17 @@
+{
+ "id": "b2af3a7815dcafce",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Decoder",
+ "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+ "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
+ "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+ "summary_en": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton.",
+ "title_mn": "Claude Fable 5.2 зургийг диффуз ашиглалгүй виртуал бийрээр зурж сурчээ",
+ "summary_mn": "Fable 5.2 нь бэлэн диффуз загварын оронд Python кодоор бийрийн хөдөлгөөн, будгийн физикийг дуурайн алдаагаа засах замаар бодит мэт уран зураг бүтээж байна.",
+ "body_mn": "Anthropic-ийн Claude Fable 5.2 загвар нь Midjourney зэрэг ердийн диффуз загваруудаас ялгаатай шинэ арга барилаар бодит мэт уран зургуудыг зурж эхэлжээ. Загвар нь зургийг шууд үүсгэхийн оронд виртуал зотон дээр бийрийн ширхэг, будгийн урсац, физик бүтцийг тооцоолсон кодоор мянга мянган бийрийн таталт хийж зурдаг байна.\n\nAnthropic-ийн судлаач Jake Eaton-ий үзүүлснээр тус загвар ойролцоогоор 700,000 бийрийн даралт хийсэн Python скрипт (1,000-аас 2,000 мөр код) ажиллуулж, авто зогсоолын дэлгүүрийн тэргэнцрийн бодит мэт зургийг гаргаж авчээ. Загвар нь зурж байх явцдаа алдаа гарвал бодит зураач шиг буцаах товч ашиглалгүйгээр дээрээс нь өөр өнгөөр давхарлан засвар хийдэг нь онцлог юм.\n\nИнженер Michael Graczyk-ийн хуваалцсан туршилтаар шувуу зурж байхдаа загвар нь хүний гарын бага зэргийн салганалтыг дуурайлган муруй таталт хийж, алдаагаа өд шиг болгон хувиргасан байна. Энэхүү дараалсан төлөвлөлт болон физик хязгаарлалтад дасан зохицох чадвар нь Fable 5.2 загварын урт хугацааны нарийн төвөгтэй агент даалгавруудыг гүйцэтгэх суурь чадварыг харуулж байна.",
+ "published": "2026-11-15T15:47:13Z",
+ "added": "2026-11-17T08:42:50Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

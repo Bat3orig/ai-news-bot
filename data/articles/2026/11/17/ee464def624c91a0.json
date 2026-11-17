@@ -1,0 +1,17 @@
+{
+ "id": "ee464def624c91a0",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/seedance-2-5-flash-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3PVusyg4GJTngxeJbW91dE/670e505710206670276c64b772a40692/image__21_.png",
+ "title": "Seedance 2.5 Flash now available on AI Gateway",
+ "summary_en": "ByteDance’s Seedance 2.5 Flash is now available on AI Gateway . Seedance 2.5 Flash is a faster, lower-cost version of Seedance 2.5 . The output is close to the standard model in human realism, reference-based editing, and prompt adherence. Generate videos with synchronized audio from text prompts or image, video, and audio references. Clips can be 4 to 30 seconds long at up to 720p and 24 frames per second, in landscape, square, or portrait formats. You can also edit or extend existing videos, or provide images to set the first and last frames. Use bytedance/seedance-2.5-flash with AI SDK 7…",
+ "title_mn": "ByteDance-ийн Seedance 2.5 Flash видео загвар Vercel AI Gateway-д нэмэгдлээ",
+ "summary_mn": "Vercel AI Gateway-д аудио бүхий видео үүсгэх Seedance 2.5 Flash загвар орлоо. AI SDK 7-оор дамжуулан 720p нягтралтай, 4-30 секундын видео боловсруулах боломжтой.",
+ "body_mn": "Vercel компани AI Gateway платформдоо ByteDance-ийн Seedance 2.5 Flash загварыг нэмж байгааг зарлалаа. Энэхүү хувилбар нь Seedance 2.5 загвартай дүйцэхүйц бодит дүрслэл болон зааварчилгааг чанд мөрдөх чадварыг хадгалсан бөгөөд илүү хурдан, өртөг багатайгаараа онцлог юм.\n\nSeedance 2.5 Flash нь текст болон зураг, видео, аудио жишигт үндэслэн аудиотой синхрончлогдсон видео үүсгэдэг. Хөгжүүлэгчид 720p нягтралтай, секундэд 24 кадрын давтамжтай, 4-өөс 30 секундын урттай хэвтээ, босоо эсвэл дөрвөлжин видеонуудыг боловсруулах боломжтой. Мөн бэлэн видеог засах, эхлэл төгсгөлийн кадруудыг зургаар тодорхойлох боломжийг дэмждэг.\n\nУг загварыг AI SDK 7 сан дээр bytedance/seedance-2.5-flash тодорхойлогчоор дуудан ашиглах бөгөөд жишиг зураг, видеоны холбоосыг inputReferences параметрээр дамжуулж болно. Мөн Vercel-ийн загварын туршилтын талбарт турших боломжтой.",
+ "published": "2026-11-16T00:00:00Z",
+ "added": "2026-11-17T08:42:50Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
