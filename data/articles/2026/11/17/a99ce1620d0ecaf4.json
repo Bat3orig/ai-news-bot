@@ -1,0 +1,17 @@
+{
+ "id": "a99ce1620d0ecaf4",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v45.3.3",
+ "image": "https://opengraph.githubassets.com/91809cd3763c700cb49331c854fb677d642fd3560a3024a1018a31ed197327fd/electron/electron/releases/tag/v45.3.3",
+ "title": "electron v45.3.3",
+ "summary_en": "Release Notes for v45.3.3 Fixes Fixed a race where a DevTools extension's devtools_page could run before chrome.devtools was available. #55794 (Also in 44 , 46 ) Other Changes Updated Node.js to v24.22.3. #55753",
+ "title_mn": "Electron v45.3.3 гарлаа: DevTools extension-ий race алдаа засагдлаа",
+ "summary_mn": "Electron v45.3.3 хувилбарт DevTools extension-ий devtools_page chrome.devtools-ийн бэлэн болохоосоо өмнө ажилладаг race алдааг засжээ. Node.js-ийг v24.22.3 хувилбар руу шинэчилсэн.",
+ "body_mn": "Electron-ийн шинэ v45.3.3 хувилбар гарлаа. Гол засвар нь DevTools extension-ий devtools_page нь chrome.devtools бэлэн болохоосоо өмнө ажилладаг race нөхцлийг засах явдал юм. Энэ засвар 44 болон 46 хувилбарт мөн орсон гэж тэмдэглэгджээ.\n\nМөн Node.js-ийг v24.22.3 хувилбар руу шинэчилсэн байна.\n\nDevTools extension ашигладаг Electron хөгжүүлэгчдэд энэ засвар чухал бөгөөд хувилбараа шинэчлэх нь зүйтэй.",
+ "published": "2026-11-14T20:52:24Z",
+ "added": "2026-11-17T00:35:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

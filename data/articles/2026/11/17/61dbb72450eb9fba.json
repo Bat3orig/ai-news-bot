@@ -1,0 +1,17 @@
+{
+ "id": "61dbb72450eb9fba",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2025/07/13/cursor-header.jpg",
+ "title": "Cursor confirms security breach led to malicious Claude Code extension",
+ "summary_en": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.",
+ "title_mn": "Cursor-ийн дотоод нэвтрэлтээс болж хор хөнөөлтэй Claude Code өргөтгөл тараагдсан",
+ "summary_mn": "Cursor компани Fireworks AI-аас хулгайлагдсан түлхүүрээр халдлага болсныг баталжээ. Халдагчид Cursor-ийн extension marketplace-т Claude Code-ийн хортой хуулбар оруулж, ойролцоогоор 11 цагийн турш байршуулсан байна.",
+ "body_mn": "Cursor компани өөрийн AI код editor-т нэвтэрсэн халдлагын тухай шинэ тайланд мэдээлэв. Халдлага Fireworks AI-аас олж авсан хандалтын түлхүүрээс эхэлсэн бөгөөд халдагчид Cursor-тай хуваалцсан хадгалах сангаас өгөгдөл хуулжээ.\n\nХалдагчид 2025 оны AI кодын агентын trace-ууд болон зарим нийтлэгдсэн API credential-уудыг ашиглан Cursor-ийн SaaS үйлчилгээнүүдэд нэвтэрчээ. Cursor хэрэглэгчдийн 0.05-аас бага хувь нь trace-ууд ил болсон, 0.01-ээс бага хувь нь credential-уудаа алдсан гэж мэдэгджээ.\n\nХамгийн ноцтой нь 10-р сарын 29-нд халдагчид Anthropic-ийн Claude Code өргөтгөлийн хортой хувилбаруудыг (2.1.312, 2.1.313) Cursor-ийн VS Code marketplace-т байршуулсан явдал юм. Өргөтгөл 11 орчим цагийн турш боломжтой байсан бөгөөд SSH backdoor суулгах оролдлого хийдэг байжээ. Судлаачид кодын алдаанаас болж ихэнх Windows болон macOS системд backdoor ажиллаагүй гэж тэмдэглэсэн.\n\nХөгжүүлэгчдэд энэ нь extension татаж авсан эсэхээ шалгах, credential-уудаа эргүүлэн сольж, AI агентын trace-д нууц мэдээлэл үлдэхгүй байлгах шаардлагатайг сануулж байна.",
+ "published": "2026-11-14T17:27:25Z",
+ "added": "2026-11-17T00:35:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
