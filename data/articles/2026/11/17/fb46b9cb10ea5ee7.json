@@ -1,0 +1,17 @@
+{
+ "id": "fb46b9cb10ea5ee7",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "The Defiant",
+ "url": "https://thedefiant.io/frontier/ai/alibaba-launches-qwen4-max-with-lower-api-prices",
+ "image": "",
+ "title": "Alibaba Launches Qwen4-Max With Lower API Prices",
+ "summary_en": "",
+ "title_mn": "Alibaba Qwen4-Max загварыг API-ийн нэмэлт үнэ бууруулсан байдлаар нээлээ",
+ "summary_mn": "Alibaba Qwen4-Max загварыг нээж, API-ийн үнийг бууруулсан тухай The Defiant мэдээлсэн. Энэ нь хөгжүүлэгчдэд хямд API хэрэглэх боломж нэмэгдэхийг илтгэнэ.",
+ "body_mn": "Alibaba өөрийн Qwen4-Max загварыг нээлттэй болгож, API-ийн үнийг бууруулсан тухай The Defiant сайт мэдээлсэн. Мэдээ нь товч бөгөөд дэлгэрэнгүй техникийн мэдээлэл агуулаагүй байна.\n\nХөгжүүлэгчдэд энэ нь Qwen загварыг өндөр чанартай, харьцангуй хямд API-гаар ашиглах боломжийг нэмэгдүүлэх гэсэн үг юм. Үнийн бууралт нь прототип болон үйлдвэрлэлийн хэрэглээний зардлыг бууруулж болно.\n\nДэлгэрэнгүй үнийн хүснэгт, токены хязгаар, API-ийн өөрчлөлтийг албан ёсны баримт бичгээс шалгах нь зүйтэй.",
+ "published": "2026-11-16T03:22:13Z",
+ "added": "2026-11-17T18:00:30Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

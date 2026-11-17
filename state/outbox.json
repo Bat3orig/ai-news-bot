@@ -618,5 +618,65 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fb46b9cb10ea5ee7",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "The Defiant",
+   "url": "https://thedefiant.io/frontier/ai/alibaba-launches-qwen4-max-with-lower-api-prices",
+   "image": "",
+   "title": "Alibaba Launches Qwen4-Max With Lower API Prices",
+   "summary_en": "",
+   "title_mn": "Alibaba Qwen4-Max загварыг API-ийн нэмэлт үнэ бууруулсан байдлаар нээлээ",
+   "summary_mn": "Alibaba Qwen4-Max загварыг нээж, API-ийн үнийг бууруулсан тухай The Defiant мэдээлсэн. Энэ нь хөгжүүлэгчдэд хямд API хэрэглэх боломж нэмэгдэхийг илтгэнэ.",
+   "body_mn": "Alibaba өөрийн Qwen4-Max загварыг нээлттэй болгож, API-ийн үнийг бууруулсан тухай The Defiant сайт мэдээлсэн. Мэдээ нь товч бөгөөд дэлгэрэнгүй техникийн мэдээлэл агуулаагүй байна.\n\nХөгжүүлэгчдэд энэ нь Qwen загварыг өндөр чанартай, харьцангуй хямд API-гаар ашиглах боломжийг нэмэгдүүлэх гэсэн үг юм. Үнийн бууралт нь прототип болон үйлдвэрлэлийн хэрэглээний зардлыг бууруулж болно.\n\nДэлгэрэнгүй үнийн хүснэгт, токены хязгаар, API-ийн өөрчлөлтийг албан ёсны баримт бичгээс шалгах нь зүйтэй.",
+   "published": "2026-11-16T03:22:13Z",
+   "added": "2026-11-17T18:00:30Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c19318beb8d8a33a",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/agent-evals",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/37vK1b2WXqlYnat7DPTF47/f61f24f23f4bb0dbc30ab010f217431b/agents_are_users.png",
+   "title": "Agents are users, so your software needs evals",
+   "summary_en": "Agents are now users of software, doing work on people's behalf. Whether you're building the agent or the software it uses (API, CLI, MCP server, SDK), evals give you a way to measure how well that work gets done. Agents probably missed your launch video and billboard on Highway 101, but they still go through the same funnel a human does to find and use a product: Discovery , Selection , Access , and Success . You can build evals for any stage of this funnel. Here, we’ll focus on the final stage, Success : whether the agent completes the user’s task correctly. That's more difficult to check…",
+   "title_mn": "Vercel: Агентууд хэрэглэгч тул програм хангамжид eval хэрэгтэй",
+   "summary_mn": "Vercel блогоос AI агентууд програм хангамжийг хэрэглэгч шиг ашигладаг тул API, CLI, MCP болон SDK-д eval туршилт хэрэгтэйг тайлбарлав. Жишээ нь sfbeans CLI-ийн кофе захиалгын даалгавар юм.",
+   "body_mn": "Vercel блогт AI агентууд хэрэглэгчийн өмнөөс ажил гүйцэтгэдэг тул API, CLI, MCP сервер болон SDK-ийг хийгчид агентын үр дүнг хэмжих eval туршилт хэрэгтэйг тайлбарласан байна. Eval нь нэг удаагийн туршилтаас ялгаатай, олон удаа ажиллуулж үр дүнг хэмждэг туршилт юм.\n\nНийтлэлд туршилтын түвшинг тодорхойлсон: тодорхойлогч тест (0 LLM дуудлага), нэг эргэлттэй eval (1) болон бүтэн даалгаврыг шалгах E2E eval (2 ба түүнээс дээш). Хамгийн хямд, хурдан тестүүд туршилтын суурь байх ёстой гэж зөвлөжээ.\n\nЖишээнд sfbeans гэх кофе захиалгын CLI-ийг авч үзсэн бөгөөд агент хамгийн зөв кафе, үнэ, цагийг сонгож чадаж байгаа эсэхийг шалгах шаардлагатайг харуулсан. Хөгжүүлэгчдэд AI-д ээлтэй API бүтээх үед зөвхөн статус код биш, зорилгод хүрсэн эсэхийг хэмжих нь чухал гэдгийг сануулж байна.",
+   "published": "2026-11-16T05:00:00Z",
+   "added": "2026-11-17T18:00:30Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "99ce4045d64de1c9",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/ai-gateway-now-supports-private-inference",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2y4c8ndvzbvOnwPqJkLJVa/d171f430e0e967f21f06c54240c0f5be/download__4_.png",
+   "title": "AI Gateway now supports Private Inference",
+   "summary_en": "Private Inference connects your own model endpoints to AI Gateway . Enterprises running fine-tuned, self-hosted, or prerelease models used to need separate keys, client code, and logs for them. Those models can now run through the same authentication, SDKs and APIs , and observability as catalog models , so every model your team uses is managed in one place. Use Private Inference to: Switch between private and catalog models: Call private models through Chat Completions, Responses, or Messages. AI Gateway translates each request to your endpoint's format, so switching only changes the model…",
+   "title_mn": "Vercel AI Gateway одоо Private Inference дэмжиж байна",
+   "summary_mn": "Vercel AI Gateway-д өөрийн загвар endpoint-уудыг холбож, каталогийн загвартайгаа адил нэг API, нэвтрэлт, логоор удирдах боломж нэмэгдлээ. Vercel CLI 65.16.0 хувилбараас эхлэн дэмжинэ.",
+   "body_mn": "Vercel AI Gateway-д Private Inference функц нэмэгдсэн нь өөрийн тохируулсан, fine-tune хийсэн болон self-hosted загваруудыг каталогийн загвартай адил authentication, SDK, API болон observability-ээр удирдах боломжийг олгож байна. Хэрэглэгч зөвхөн загварын ID-г солихоор Chat Completions, Responses эсвэл Messages форматаар дуудах боломжтой.\n\nЗагварууд зөвхөн Vercel багийнхан харах боломжтой бөгөөд нийтийн каталогт харагдахгүй. Credential-ууд шифрлэгдэн хадгалагдах бөгөөд provider тус бүрт Zero Data Retention идэвхжүүлж болно. Claude Code, Codex, Cursor зэрэг coding agent-уудтай холбож ашиглах боломжтой.\n\nТүүнчлэн private endpoint амжилтгүй болбол каталогийн загвар руу fallback хийх сонголттой. Тохируулахдаа Vercel CLI 65.16.0 буюу түүнээс дээш хувилбар шаардлагатай, загварыг private/<slug> ID-гаар дуудна.",
+   "published": "2026-11-16T07:47:00Z",
+   "added": "2026-11-17T18:00:30Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
  }
 ]
