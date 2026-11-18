@@ -1,0 +1,17 @@
+{
+ "id": "0f405421fd54a98a",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2SwiRCJ2yQI6jiStpqx4n4/f327115564457532b4d646d8b597a55f/Vercel_x_OpenAI.png",
+ "title": "GPT-6.2 Astra and Sol now available on AI Gateway",
+ "summary_en": "GPT-6.2 Astra and GPT-6.2 Sol from OpenAI are now available on AI Gateway . GPT-6.2 Astra: for complex, multi-step projects, with improvements to implementing and testing changes in existing codebases, following document templates, and computer use GPT-6.2 Sol: for everyday coding, writing, and agent workflows, including building interactive web applications from a written brief Use openai/gpt-6.2-astra or openai/gpt-6.2-sol as the model ID. For the API examples, set AI_GATEWAY_API_KEY to your AI Gateway API key . Both models also support the Responses API . For lower latency at higher…",
+ "title_mn": "GPT-6.2 Astra болон Sol загварууд AI Gateway дээр боломжтой боллоо",
+ "summary_mn": "OpenAI-ийн GPT-6.2 Astra болон Sol загварууд Vercel AI Gateway дээр нээгдэж, Responses API, fast mode болон Ultrafast service tier-ийг дэмжинэ. Astra-ийн Ultrafast гаралтын үнэ GPT-6 Astra-аас 60% бага.",
+ "body_mn": "OpenAI-ийн GPT-6.2 Astra болон GPT-6.2 Sol загварууд AI Gateway дээр боломжтой боллоо. Astra нь олон алхамтай том төслүүд, одоо байгаа кодын сан дээр өөрчлөлт хийж туршихад илүү сайжирсан. Sol нь өдөр тутмын кодлолт, бичвэр, агентын workflow болон бичсэн тодорхойлолтоос интерактив веб аппликейшн бүтээхэд тохиромжтой.\n\nЗагваруудыг openai/gpt-6.2-astra эсвэл openai/gpt-6.2-sol model ID-аар дуудна. Responses API-г дэмжинэ. Хурдан горим болон Ultrafast service tier-ийг providerOptions.openai.serviceTier эсвэл service_tier параметрээр идэвхжүүлж болно. Ultrafast-ийн гаралтын токений үнэ GPT-6 Astra-аас 60% бага гэж заасан.\n\nCodex, Cursor зэрэг coding agent-үүдээс Vercel CLI-ээр тохируулан ашиглах боломжтой. Хөгжүүлэгчдэд хурд, үнэ, загварын сонголтыг өөрсдийн workflow-д тааруулах шинэ хоёр сонголт нэмэгдлээ.",
+ "published": "2026-11-17T00:00:00Z",
+ "added": "2026-11-18T17:42:08Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}

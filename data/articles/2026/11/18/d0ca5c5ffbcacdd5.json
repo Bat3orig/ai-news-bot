@@ -1,0 +1,17 @@
+{
+ "id": "d0ca5c5ffbcacdd5",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png",
+ "title": "MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway",
+ "summary_en": "Microsoft’s MAI-Image-2.7 and MAI-Image-2.7-Flash are now available in public preview on AI Gateway . Both increase the maximum output size to 2048 x 2048 pixels and add transparent backgrounds for generated and edited images. Generate images from text or edit existing images with one AI Gateway API key, without a Microsoft account. Both models support photorealistic images, text rendering, and targeted edits to products, portraits, and layouts. Use up to five reference images to guide edits or combine subjects. MAI-Image-2.7 ( microsoft/mai-image-2.7 ): for final assets where image quality…",
+ "title_mn": "MAI-Image-2.7 загварууд AI Gateway дээр public preview-д гарлаа",
+ "summary_mn": "Microsoft-ийн MAI-Image-2.7 болон Flash хувилбар AI Gateway дээр public preview-д нээгдэж, 2048 x 2048 пикселийн гаралт, тунгалаг дэвсгэрийг дэмжинэ. Нэг API key-ээр текстээс зураг үүсгэх болон засах боломжтой.",
+ "body_mn": "Microsoft-ийн MAI-Image-2.7 болон MAI-Image-2.7-Flash загварууд AI Gateway дээр public preview-д боломжтой боллоо. Хоёр загвар хамгийн их гаралтын хэмжээг 2048 x 2048 пиксель болгож, үүсгэсэн болон засварласан зурагт тунгалаг дэвсгэр нэмсэн.\n\nMAI-Image-2.7 нь эцсийн материалд чанарыг тэргүүлэх, Flash нь хурдан, хямд үнэтэй туршилт болон хувилбар үүсгэхэд тохиромжтой. Зургийн дээр продукт, портрет, layout-ийг чиглэлтэй засах, эсвэл дээд тал нь таван reference зургийг ашиглах боломжтой. AI_GATEWAY_API_KEY ашиглан AI SDK 6 эсвэл AI CLI-аас дуудаж болно.\n\nХөгжүүлэгчдэд энэ нь зураг үүсгэх функцийг өөрийн аппликейшнд нэмэхэд нэг API key-тэй хүрэхэд хялбар болгож байна.",
+ "published": "2026-11-17T00:00:00Z",
+ "added": "2026-11-18T17:42:08Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

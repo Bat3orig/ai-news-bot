@@ -1,0 +1,17 @@
+{
+ "id": "bbd598c18d75ada7",
+ "subtopic": "packages",
+ "source": "JavaScript Weekly",
+ "source_label": "JavaScript Weekly",
+ "url": "https://javascriptweekly.com/issues/811",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/rmedfrw5ofajinij51fv.jpg",
+ "title": "The top 10 things AI gets wrong in web development",
+ "summary_en": "#​811 — November 17, 2026 Read on the Web JavaScript Weekly npkill 1.0: Not Just for node_modules Anymore — npx npkill has long offered a way to find and remove waste from node_modules folders. Its first release in two years now also hunts down caches and build outputs like .next and .turbo , with 'profiles' for 20 ecosystems. If you're new to the tool, its homepage provides a good introduction. Juan Torres Agents Didn’t Clear Your Plate. They Dumped Reviews on It — Your agents write PRs in minutes, then eat your afternoon in review. When did ‘saving time’ start to mean babysitting agents’…",
+ "title_mn": "npkill 1.0, UI SDK, Prettier 3.10 болон Node.js-ийн шинэчлэлтүүд онцлов",
+ "summary_mn": "JavaScript Weekly-ийн энэ дугаарт npkill 1.0, shadcn-ийн UI SDK, Prettier 3.10, PixiJS 3D, Node.js-ийн аюулгүй байдлын шинэчлэлт зэрэг чухал сангууд онцлогдсон байна.",
+ "body_mn": "npkill 1.0 нь node_modules-ээс гадна .next, .turbo зэрэг кэш болон build гаралтыг олж устгана. 20 экосистемд зориулсан profile-тай. shadcn болон Vercel-ийн UI SDK нь React, Vue, Svelte, Solid дээр зориулсан 50 гаруй хандалттай, доод түвшний behavior-уудыг санал болгож, focus, keyboard, popup, drag and drop зэргийг өөрийн компонент дотор нийлүүлэх боломжтой.\n\nPrettier 3.10 шинэ JavaScript proposal болон Flow синтакс дэмжиж, Zig-д суурилсан Yuku parser-ийг сонголтоор ашиглах plugin нэмсэн. PixiJS 3D нь WebGPU-д тулгуурласан, WebGL 2 нөөцтэй rendering engine-ээ open beta-д гаргасан. Node.js v26.13.1 (LTS), v24.22.3, v22.23.5 аюулгүй байдлын хувилбарууд HTTP/2 болон HTTPS-ийн алдааг засч, сервер унах болон санах ойн мэдээлэл алдах эрсдлийг арилгасан.\n\nМөн Solid 2.0 тогтвортой болж npm дээр 2.0.0 гарсан, Chrome-ийн Cross-Origin Storage API санал болгосон зэрэг мэдээ багтжээ. Хөгжүүлэгчид эдгээр сангуудын шинэ хувилбарыг шалгах хэрэгтэй.",
+ "published": "2026-11-17T00:00:00Z",
+ "added": "2026-11-18T17:42:08Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "0581208c30a28abd",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png",
+ "title": "Decision-1.1 now available on AI Gateway",
+ "summary_en": "Decision-1.1 from Microsoft AI is now available on AI Gateway. It is more accurate, better calibrated, and faster than Decision-1. The decision model returns structured answers instead of free-form text for tasks such as routing support requests, choosing which model should handle a request, selecting the next step in a workflow, or grading AI responses. Boolean: the probability that a condition is true Choice: a selected category and probabilities for each option Score: a numerical rating on a scale you define Multiple questions can share the same input in one request. Better calibration…",
+ "title_mn": "Decision-1.1 загвар Vercel AI Gateway дээр боломжтой боллоо",
+ "summary_mn": "Microsoft AI-ийн Decision-1.1 загвар AI Gateway дээр нээгдсэн бөгөөд өмнөх Decision-1-ээс илүү нарийвчлалтай, сайн калибрлэгдсэн, хурдан гэж мэдээлэв. Загвар бүтэцлэгдсэн хариулт буцаадаг.",
+ "body_mn": "Microsoft AI-ийн Decision-1.1 загвар Vercel AI Gateway дээр боломжтой боллоо. Шинэ загвар нь өмнөх хувилбараасаа илүү нарийвчлалтай, магадлалын үнэлгээ нь бодит зөв байдалтай илүү таарч, хурдан ажилладаг гэж мэдээлсэн.\n\nЗагвар нь чөлөөт текстийн оронд бүтэцлэгдсэн хариулт буцаадаг. Boolean-д нөхцөл үнэн байх магадлал, Choice-д сонгогдсон ангилал болон сонголт бүрийн магадлал, Score-д тодорхойлсон масштабын үнэлгээ гарна. Нэг хүсэлтэд олон асуулт нэг оролтоор хамт асууж болно. Загварыг сольхдоо model ID-г microsoft/decision-1.1 болгоход хангалттай.\n\nAI SDK, OpenAI-тай нийцтэй Decisions API болон AI CLI-аар дуудах боломжтой. Decision хүсэлтүүд request log-д харагдаж, budget-д тооцогдож, fallback дэмжинэ. Хөгжүүлэгчдэд маршрутчлал, workflow-ийн дараагийн алхам сонгох, хариултыг үнэлэх зэрэгт ашиглах боломжтой.",
+ "published": "2026-11-17T00:00:00Z",
+ "added": "2026-11-18T17:42:08Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "4237694406e5909a",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7lP7n53mCmuWyV7AKURe2m/df3b873e5e73dc2878d7cb13d6d9a3c1/pr_preview_builds_og.png",
+ "title": "Pull-request-only preset now available for preview builds",
+ "summary_en": "A new Ignored Build Step preset lets you skip preview builds for branches without an open pull request. Production deployments and previews for branches with open pull requests continue to build. On GitHub and GitLab projects, skipped preview deployments are canceled before consuming any Build CPU Minutes. To enable this, open your project’s Deployments > Configuration . Under Ignored Build Step , select Only build previews for pull requests from the Behavior menu and click Save . Learn more in the Ignored Build Step documentation . Read more",
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-17T02:37:03Z",
+ "added": "2026-11-18T17:42:08Z",
+ "ai": "",
+ "score": null
+}

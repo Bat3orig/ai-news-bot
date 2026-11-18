@@ -1,0 +1,17 @@
+{
+ "id": "96c29577c9dfa6c3",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
+ "image": "https://opengraph.githubassets.com/3040c3eaaedb0b2acd5bd42cdca9f7589df49c04f85cc0eeac6e357c6c6e8013/anthropics/claude-code/releases/tag/v2.1.326",
+ "title": "claude-code v2.1.326",
+ "summary_en": "What's changed Added support for turning on Code Mode while agent teams are enabled; if you already turned it on, sessions with teams on now start in Code Mode Added a startup warning when an --allowedTools , --disallowedTools or --tools value has an entry that doesn't look like a complete rule Added a message explaining why MCP servers stop loading when an administrator adds managed-mcp.json during a session Added a row to /status that says when your provider or an environment variable such as DISABLE_TELEMETRY turns features off Added a note in /plugin and claude plugin list when a…",
+ "title_mn": "Claude Code v2.1.326: Code Mode, MCP болон permission-ийн алдаа засагдлаа",
+ "summary_mn": "Anthropic-ийн Claude Code CLI v2.1.326 хувилбар гарлаа. Agent team идэвхтэй үед Code Mode дэмжих, MCP серверийн ачаалалтай холбоотой засвар, Bash болон permission-ийн олон алдааг засварласан.",
+ "body_mn": "Claude Code v2.1.326 хувилбарт agent team идэвхжсэн үед Code Mode дэмжих боломж нэмэгдэж, team-тэй session-үүд Code Mode-д шууд эхэлдэг болсон. Мөн --allowedTools, --disallowedTools, --tools утгууд бүрэн бус дүрэмтэй байвал анхааруулга гарна.\n\nMCP талд managed-mcp.json нэмэгдэх үед серверүүд яагаад ачаалагдахаа больсныг тайлбарлах мессеж орсон. Мөн MCP headersHelper ажиллахгүй үед бусад session-үүдэд серверийг алдахгүй болгосон. OpenTelemetry-д OTEL_RESOURCE_INCLUDE_HOST хувьсагч нэмэгдсэн.\n\nAbort, засварын хувьд Bash командын файл устгах, бичих үйлдлийг транскриптэд зөв ангилах, Edit deny дүрмийн асуудал, sandbox дээрх Linux symlink алдаа, settings файлын гүн утгуудыг 64 түвшнээс дээш бол унагаах зэрэг олон алдааг засжээ.",
+ "published": "2026-11-16T22:11:05Z",
+ "added": "2026-11-18T17:42:08Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

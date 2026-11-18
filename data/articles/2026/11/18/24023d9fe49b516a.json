@@ -1,0 +1,17 @@
+{
+ "id": "24023d9fe49b516a",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.52.0",
+ "image": "https://opengraph.githubassets.com/28ec8dd9b790b27570c4a8f5c76d2676fd2e45d7b7fa9906724eea01a3152dc8/openai/openai-python/releases/tag/v3.52.0",
+ "title": "openai-python v3.52.0",
+ "summary_en": "3.52.0 (2026-11-16) Features api: add schedule pause reasons ( #4278 ) ( a996ce2 ) api: deliver beta Agents session errors as stream events ( #4281 ) ( 690fba9 )",
+ "title_mn": "openai-python v3.52.0: schedule pause шалтгаан, Agents session алдаа stream-ээр",
+ "summary_mn": "OpenAI-ийн Python SDK v3.52.0 хувилбар гарлаа. Шинэчлэлд schedule pause шалтгаан нэмэгдэж, beta Agents session-ийн алдааг stream event-үүдээр дамжуулах боломж орсон.",
+ "body_mn": "openai-python v3.52.0 хувилбар 2026 оны 11 дүгээр сарын 16-нд гарсан. Шинэчлэлийн гол хэсэг api модулиад schedule pause reasons нэмсэн явдал юм. Энэ нь schedule-ийг түр зогсоох шалтгааныг API-аас илүү тодорхой авах боломж олгоно.\n\nМөн beta Agents session-ийн алдааг stream event хэлбэрээр хүлээн авдаг болсон. Энэ нь stream ашиглан ажилладаг агент программ хөгжүүлэгчдэд алдааг илүү шууд боловсруулах боломж олгоно.\n\nӨмнөх 3.50 болон 3.51 хувилбартай харьцуулахад энэ бол жижиг, тодорхой өөрчлөлттэй хувилбар юм. Хэрэв Agents beta ашигладаг бол кодоо шалгах хэрэгтэй.",
+ "published": "2026-11-16T22:40:22Z",
+ "added": "2026-11-18T17:42:08Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
