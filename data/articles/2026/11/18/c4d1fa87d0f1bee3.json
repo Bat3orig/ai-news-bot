@@ -1,0 +1,17 @@
+{
+ "id": "c4d1fa87d0f1bee3",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Geeky Gadgets",
+ "url": "https://www.geeky-gadgets.com/qwen-max/",
+ "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/qwen-four-max-benchmark.jpg",
+ "title": "Alibaba Launches Qwen 4 Max with 1 Million Token Context Window",
+ "summary_en": "Alibaba's Qwen 4 Max model improves upon its predecessor with a 1 million token context window, yet struggles against cheaper rivals in tests.",
+ "title_mn": "Alibaba компани 1 сая токенийн контексттэй Qwen 4 Max загварыг танилцууллаа",
+ "summary_mn": "Alibaba компани текст, дүрс болон видео ойлгох чадвартай, 1 сая токенийн контекст цонх бүхий шинэ үеийн Qwen 4 Max загвараа зарлалаа.",
+ "body_mn": "Alibaba компани хиймэл оюун ухааны зах зээлд өрсөлдөх шинэ флагман загвар болох Qwen 4 Max-ийг албан ёсоор танилцууллаа. Энэхүү олон талт (multimodal) загвар нь текст, зураг, видеог нэгэн зэрэг боловсруулах чадвартай бөгөөд 1 сая токенийн урт контекст цонхыг дэмждэг.\n\nШинэ загвар нь холимог эксперт архитектурыг (MoE) ашигладаг бөгөөд өмнөх Qwen 3.8 Max загвартай харьцуулахад токений зарцуулалтыг 50 хүртэл хувиар бууруулж, даалгаврын дундаж өртгийг 60 гаруй хувиар хэмнэх боломжтой аж. API үнийн хувьд 1 сая оролтын токенийг 1.50 ам доллар, гаралтын токенийг 4.50 ам доллараар тогтоожээ.\n\nКод бичих болон вэб хөгжүүлэлтийн чиглэлээр Code Arena дээр сайн үр үзүүлсэн бөгөөд хэрэглэгчид Unity ашиглан 3D тоглоом бүтээх, нарийн төвөгтэй интерфейс үүсгэх зэрэг ажлуудад туршиж байна. Alibaba ойрын хугацаанд 27 тэрбум параметр бүхий нээлттэй жинтэй хувилбарыг гаргахаар төлөвлөж байна.",
+ "published": "2026-11-17T09:47:31Z",
+ "added": "2026-11-18T23:44:40Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

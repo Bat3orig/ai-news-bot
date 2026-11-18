@@ -1,0 +1,17 @@
+{
+ "id": "ac3cdf47554fcaf1",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Anthropic",
+ "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+ "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
+ "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+ "summary_en": "Claude Fable 5.2 has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity.",
+ "title_mn": "Claude Fable 5.2 хар нүхний физикийн хоёр нээлттэй асуудлыг шийдсэн гэжээ",
+ "summary_mn": "Anthropic-ийн нийтлэлд Claude Fable 5.2 нь квант гравитацийн голомтод байгаа хоёр асуудлыг шийдсэн гэж мэдэгджээ. Хар нүх үүсэх фазын шилжилт хурц байдгийг харуулсан тооцоо гэжээ.",
+ "body_mn": "Anthropic нийтлэлдээ Claude Fable 5.2 загвар хар нүхний физикийн хоёр асуудлыг шийдсэн гэж мэдэгджээ. Нэгдүгээр асуудал нь онолын ертөнцийг халаахад хар нүх үүсэх фазын шилжилт хурц эсвэл зөөлөн эсэх тухай юм. 1983 онд Hawking болон Page хурц гэж үзсэн боловч тэдний тооцоо харьцангуй ерөнхий харьцангуйн онолд тулгуурласан байв.\n\nClaude энэхүү тооцоог квант талд хийж, олон хуулбар агентуудаар ажиллуулан шалгасан гэжээ. Үр дүнд нь шилжилт хурц болохыг харуулсан гэж нийтлэлд дурджээ. Хоёр дахь асуудал нь хоёр хэмжээст онолын ертөнцтэй холбоотой.\n\nЭнэ нь шинжлэх ухааны судалгааны чадвар харуулсан тохиолдол боловч программистуудад шууд хэрэглэгдэх хэрэгсэл биш юм. Бие даасан шалгалт хийгдээгүй тул үр дүнг болгоомжтой авч үзэх хэрэгтэй.",
+ "published": "2026-11-17T08:00:00Z",
+ "added": "2026-11-18T23:44:40Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

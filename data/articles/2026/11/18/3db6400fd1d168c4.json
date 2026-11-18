@@ -1,0 +1,17 @@
+{
+ "id": "3db6400fd1d168c4",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "HackerNoon",
+ "url": "https://hackernoon.com/claude-fable-52-why-anthropics-most-expensive-model-can-end-up-the-cheapest",
+ "image": "https://hackernoon.imgix.net/images/WgOKoJKnu6c6jqD2UtvN7rgBH093-xc93qor.jpeg",
+ "title": "Claude Fable 5.2: Why Anthropic's Most Expensive Model Can End Up the Cheapest",
+ "summary_en": "Claude Fable 5.2 explained by Alexander Volchek, host of ToTheMoon: how it differs from Opus 5.5, why Max mode can do worse than Medium, and when it pays off.",
+ "title_mn": "Claude Fable 5.2: Anthropic-ийн модель хэрхэн хамгийн хямд байж болох вэ?",
+ "summary_mn": "Anthropic компанийн гаргасан Claude Fable 5.2 модель нь энгийн шинэчлэлт биш бөгөөд урт хугацааны даалгаврыг бие даан шалгаж гүйцэтгэх чадвартай цоо шинэ систем юм.",
+ "body_mn": "Anthropic компани Claude Fable 5.2 загварыг танилцуулсан нь энгийн нэг цэгэн шинэчлэлт биш харин цоо шинэ түвшний систем юм. Энэхүү модель нь урт хугацааны нарийн төвөгтэй ажлуудыг гүйцэтгэх явцдаа өөрийнхөө үйлдлийг бие даан шалгаж, алдааг засварлах чадвартай.\n\nFable загварын гарал үүсэл нь кибер аюулгүй байдал болон эмзэг байдлыг илрүүлэх зорилгоор бүтээгдсэн Mythos загварын гэр бүлээс улбаатай. Хөгжүүлэгчид үүнийг ашиглан дотоод систем, вэбсайт болон серверийн аюулгүй байдлыг шалгаж, хүний гараар илрүүлэхэд хүндрэлтэй олон алдааг богино хугацаанд хаах боломжтой болж байна.\n\nГэсэн хэдий ч энэ модель нь горимоосоо шалтгаалаад үр дүн нь өөр өөр байж болох тул Max болон Medium горимуудыг зөв сонгож ашиглах нь чухал юм. Токенуудын тоогоор бус эцсийн үр дүнгээр нь харьцуулах шаардлагатайг мэргэжилтнүүд онцолж байна.",
+ "published": "2026-11-17T09:04:28Z",
+ "added": "2026-11-18T23:44:40Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

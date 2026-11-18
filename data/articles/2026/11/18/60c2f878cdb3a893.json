@@ -1,0 +1,17 @@
+{
+ "id": "60c2f878cdb3a893",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "International Business Times Australia",
+ "url": "https://www.ibtimes.com.au/grok-users-report-possible-outage-trackers-conflict-1878759",
+ "image": "https://d.ibtimes.com.au/en/full/1893729/grok-420-beta-2-powers-xai-advances-model-tops.png",
+ "title": "Grok Down? Users Report Problems With Elon Musk's AI Chatbot as xAI Has Yet to Confirm Late-Night Disruption",
+ "summary_en": "Users reported problems with xAI's Grok chatbot early Tuesday, but conflicting outage trackers and the absence of an official xAI alert left the scale and cause unclear.",
+ "title_mn": "Grok ажиллахгүй болсон гэсэн хэрэглэгчдийн гомдол гарч байна",
+ "summary_mn": "Өглөө Grok чатботыг ашиглах үед алдаа гарсан тухай Downdetector дээр хэрэглэгчид мэдээлсэн ч xAI энэ тухай албан ёсоор мэдээлээгүй байна. Сүүлийн 90 хоногт Instatus 37 удаагийн тасалдал бүртгэжээ.",
+ "body_mn": "Grok чатботод алдаа гарсан тухай хэрэглэгчид Downdetector болон бусад сайтуудаар мэдээлсэн боловч гарсан шалтгаан, хэмжээ тодорхойгүй байна. xAI өөрийн статус хуудсандаа нээлттэй тасалдлыг бүртгээгүй байжээ.\n\nСүүлийн үед Grok дээр олон тасалдал гарсан гэж бүртгэгдсэн. 9-р сарын 3-ны өдөр нэг дор 14 цаг үргэлжилсэн том тасалдал гарсан бөгөөд Instatus сүүлийн 90 хоногт 37 тасалдал тэмдэглэжээ. Мөн Grok API-д найдсан бизнесүүдэд энэ нь нөлөөлдөг.\n\nХөгжүүлэгчид API-ийн статусыг xAI-ийн албан ёсны хуудсаар шалгаж, алдааг хэрэглэгчийн талд шалгах хэрэгтэй. Хэрэв статус хуудсанд асуудал байхгүй бол орон нутгийн холболт эсвэл кэш шалтгаан байж болно.",
+ "published": "2026-11-17T06:32:09Z",
+ "added": "2026-11-18T23:44:40Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

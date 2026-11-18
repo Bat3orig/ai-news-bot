@@ -698,5 +698,105 @@
    "ai": "",
    "score": null
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "60c2f878cdb3a893",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "International Business Times Australia",
+   "url": "https://www.ibtimes.com.au/grok-users-report-possible-outage-trackers-conflict-1878759",
+   "image": "https://d.ibtimes.com.au/en/full/1893729/grok-420-beta-2-powers-xai-advances-model-tops.png",
+   "title": "Grok Down? Users Report Problems With Elon Musk's AI Chatbot as xAI Has Yet to Confirm Late-Night Disruption",
+   "summary_en": "Users reported problems with xAI's Grok chatbot early Tuesday, but conflicting outage trackers and the absence of an official xAI alert left the scale and cause unclear.",
+   "title_mn": "Grok ажиллахгүй болсон гэсэн хэрэглэгчдийн гомдол гарч байна",
+   "summary_mn": "Өглөө Grok чатботыг ашиглах үед алдаа гарсан тухай Downdetector дээр хэрэглэгчид мэдээлсэн ч xAI энэ тухай албан ёсоор мэдээлээгүй байна. Сүүлийн 90 хоногт Instatus 37 удаагийн тасалдал бүртгэжээ.",
+   "body_mn": "Grok чатботод алдаа гарсан тухай хэрэглэгчид Downdetector болон бусад сайтуудаар мэдээлсэн боловч гарсан шалтгаан, хэмжээ тодорхойгүй байна. xAI өөрийн статус хуудсандаа нээлттэй тасалдлыг бүртгээгүй байжээ.\n\nСүүлийн үед Grok дээр олон тасалдал гарсан гэж бүртгэгдсэн. 9-р сарын 3-ны өдөр нэг дор 14 цаг үргэлжилсэн том тасалдал гарсан бөгөөд Instatus сүүлийн 90 хоногт 37 тасалдал тэмдэглэжээ. Мөн Grok API-д найдсан бизнесүүдэд энэ нь нөлөөлдөг.\n\nХөгжүүлэгчид API-ийн статусыг xAI-ийн албан ёсны хуудсаар шалгаж, алдааг хэрэглэгчийн талд шалгах хэрэгтэй. Хэрэв статус хуудсанд асуудал байхгүй бол орон нутгийн холболт эсвэл кэш шалтгаан байж болно.",
+   "published": "2026-11-17T06:32:09Z",
+   "added": "2026-11-18T23:44:40Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ac3cdf47554fcaf1",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Anthropic",
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+   "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
+   "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+   "summary_en": "Claude Fable 5.2 has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity.",
+   "title_mn": "Claude Fable 5.2 хар нүхний физикийн хоёр нээлттэй асуудлыг шийдсэн гэжээ",
+   "summary_mn": "Anthropic-ийн нийтлэлд Claude Fable 5.2 нь квант гравитацийн голомтод байгаа хоёр асуудлыг шийдсэн гэж мэдэгджээ. Хар нүх үүсэх фазын шилжилт хурц байдгийг харуулсан тооцоо гэжээ.",
+   "body_mn": "Anthropic нийтлэлдээ Claude Fable 5.2 загвар хар нүхний физикийн хоёр асуудлыг шийдсэн гэж мэдэгджээ. Нэгдүгээр асуудал нь онолын ертөнцийг халаахад хар нүх үүсэх фазын шилжилт хурц эсвэл зөөлөн эсэх тухай юм. 1983 онд Hawking болон Page хурц гэж үзсэн боловч тэдний тооцоо харьцангуй ерөнхий харьцангуйн онолд тулгуурласан байв.\n\nClaude энэхүү тооцоог квант талд хийж, олон хуулбар агентуудаар ажиллуулан шалгасан гэжээ. Үр дүнд нь шилжилт хурц болохыг харуулсан гэж нийтлэлд дурджээ. Хоёр дахь асуудал нь хоёр хэмжээст онолын ертөнцтэй холбоотой.\n\nЭнэ нь шинжлэх ухааны судалгааны чадвар харуулсан тохиолдол боловч программистуудад шууд хэрэглэгдэх хэрэгсэл биш юм. Бие даасан шалгалт хийгдээгүй тул үр дүнг болгоомжтой авч үзэх хэрэгтэй.",
+   "published": "2026-11-17T08:00:00Z",
+   "added": "2026-11-18T23:44:40Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8cdeb253c0b9c55b",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.1",
+   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.1%20(Alpha)",
+   "title": "Node.js 27.0.0-alpha.0.1.1 (Alpha)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "title_mn": "Node.js 27.0.0-alpha.0.1.1 (Alpha) хувилбар гарлаа",
+   "summary_mn": "Node.js platform-ийн шинэ alpha хувилбар болох v27.0.0-alpha.0.1.1 албан ёсоор гарч, хөгжүүлэгчдэд туршиж үзэх боломжтой боллоо.",
+   "body_mn": "Node.js баг шинэ alpha хувилбар болох v27.0.0-alpha.0.1.1-ийг хөгжүүлэгчдэд зориулан гаргалаа. Энэхүү хувилбар нь Windows, macOS болон Linux үйлдлийн системүүдэд зориулсан суурилуулагч болон binary файлуудыг агуулж байна.\n\nЭнэхүү alpha хувилбарыг ашиглан хөгжүүлэгчид удахгүй гарах шинэ боломжуудыг өөрийн төслүүд дээр туршиж, гарч болзошгүй алдаануудыг шалгах боломжтой юм. Шинэ хувилбарын албан ёсны баримт бичиг болон татаж авах линкүүд Node.js вэбсайтад байршжээ.\n\nAlpha хувилбар тул бүтээгдэхүүний бодит орчинд (production) шууд ашиглахаас болгоомжилж, зөвхөн туршилт болон хөгжүүлэлтийн зорилгоор ашиглахыг зөвлөж байна.",
+   "published": "2026-11-17T08:41:07Z",
+   "added": "2026-11-18T23:44:40Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3db6400fd1d168c4",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "HackerNoon",
+   "url": "https://hackernoon.com/claude-fable-52-why-anthropics-most-expensive-model-can-end-up-the-cheapest",
+   "image": "https://hackernoon.imgix.net/images/WgOKoJKnu6c6jqD2UtvN7rgBH093-xc93qor.jpeg",
+   "title": "Claude Fable 5.2: Why Anthropic's Most Expensive Model Can End Up the Cheapest",
+   "summary_en": "Claude Fable 5.2 explained by Alexander Volchek, host of ToTheMoon: how it differs from Opus 5.5, why Max mode can do worse than Medium, and when it pays off.",
+   "title_mn": "Claude Fable 5.2: Anthropic-ийн модель хэрхэн хамгийн хямд байж болох вэ?",
+   "summary_mn": "Anthropic компанийн гаргасан Claude Fable 5.2 модель нь энгийн шинэчлэлт биш бөгөөд урт хугацааны даалгаврыг бие даан шалгаж гүйцэтгэх чадвартай цоо шинэ систем юм.",
+   "body_mn": "Anthropic компани Claude Fable 5.2 загварыг танилцуулсан нь энгийн нэг цэгэн шинэчлэлт биш харин цоо шинэ түвшний систем юм. Энэхүү модель нь урт хугацааны нарийн төвөгтэй ажлуудыг гүйцэтгэх явцдаа өөрийнхөө үйлдлийг бие даан шалгаж, алдааг засварлах чадвартай.\n\nFable загварын гарал үүсэл нь кибер аюулгүй байдал болон эмзэг байдлыг илрүүлэх зорилгоор бүтээгдсэн Mythos загварын гэр бүлээс улбаатай. Хөгжүүлэгчид үүнийг ашиглан дотоод систем, вэбсайт болон серверийн аюулгүй байдлыг шалгаж, хүний гараар илрүүлэхэд хүндрэлтэй олон алдааг богино хугацаанд хаах боломжтой болж байна.\n\nГэсэн хэдий ч энэ модель нь горимоосоо шалтгаалаад үр дүн нь өөр өөр байж болох тул Max болон Medium горимуудыг зөв сонгож ашиглах нь чухал юм. Токенуудын тоогоор бус эцсийн үр дүнгээр нь харьцуулах шаардлагатайг мэргэжилтнүүд онцолж байна.",
+   "published": "2026-11-17T09:04:28Z",
+   "added": "2026-11-18T23:44:40Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c4d1fa87d0f1bee3",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Geeky Gadgets",
+   "url": "https://www.geeky-gadgets.com/qwen-max/",
+   "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/qwen-four-max-benchmark.jpg",
+   "title": "Alibaba Launches Qwen 4 Max with 1 Million Token Context Window",
+   "summary_en": "Alibaba's Qwen 4 Max model improves upon its predecessor with a 1 million token context window, yet struggles against cheaper rivals in tests.",
+   "title_mn": "Alibaba компани 1 сая токенийн контексттэй Qwen 4 Max загварыг танилцууллаа",
+   "summary_mn": "Alibaba компани текст, дүрс болон видео ойлгох чадвартай, 1 сая токенийн контекст цонх бүхий шинэ үеийн Qwen 4 Max загвараа зарлалаа.",
+   "body_mn": "Alibaba компани хиймэл оюун ухааны зах зээлд өрсөлдөх шинэ флагман загвар болох Qwen 4 Max-ийг албан ёсоор танилцууллаа. Энэхүү олон талт (multimodal) загвар нь текст, зураг, видеог нэгэн зэрэг боловсруулах чадвартай бөгөөд 1 сая токенийн урт контекст цонхыг дэмждэг.\n\nШинэ загвар нь холимог эксперт архитектурыг (MoE) ашигладаг бөгөөд өмнөх Qwen 3.8 Max загвартай харьцуулахад токений зарцуулалтыг 50 хүртэл хувиар бууруулж, даалгаврын дундаж өртгийг 60 гаруй хувиар хэмнэх боломжтой аж. API үнийн хувьд 1 сая оролтын токенийг 1.50 ам доллар, гаралтын токенийг 4.50 ам доллараар тогтоожээ.\n\nКод бичих болон вэб хөгжүүлэлтийн чиглэлээр Code Arena дээр сайн үр үзүүлсэн бөгөөд хэрэглэгчид Unity ашиглан 3D тоглоом бүтээх, нарийн төвөгтэй интерфейс үүсгэх зэрэг ажлуудад туршиж байна. Alibaba ойрын хугацаанд 27 тэрбум параметр бүхий нээлттэй жинтэй хувилбарыг гаргахаар төлөвлөж байна.",
+   "published": "2026-11-17T09:47:31Z",
+   "added": "2026-11-18T23:44:40Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
  }
 ]
