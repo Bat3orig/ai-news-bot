@@ -1,0 +1,17 @@
+{
+ "id": "e61ed1655ef0d7cf",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "The Edge Malaysia",
+ "url": "https://theedgemalaysia.com/node/825876",
+ "image": "https://assets.theedgemarkets.com/468470848-Signage_at_the_Alibaba_Group_Holding_Ltd_HQ_in_Hangzhou,_China_Bl-CONF-APP_1.jpg",
+ "title": "Alibaba unveils new flagship AI model in riposte to US rivals",
+ "summary_en": "(Nov 16): Alibaba Group Holding Ltd launched a new flagship AI model, claiming performance that rivals Anthropic PBC and OpenAI in China’s latest challenge to US leaders.",
+ "title_mn": "Alibaba компани Америкийн өрсөлдөгчдөд хариу барих шинэ Qwen4-Max загвараа танилцууллаа",
+ "summary_mn": "Alibaba Group компани Anthropic болон OpenAI-тай өрсөлдөхүйц чадвартай, код бичих болон логик боловсруулалтаараа тэргүүлэгч Qwen4-Max загвараа гаргалаа.",
+ "body_mn": "Хятадын технологийн аварга Alibaba Group компани өөрийн хиймэл оюун ухааны шинэ тэргүүлэгч загвар болох Qwen4-Max-ийг албан ёсоор танилцууллаа. Тус компани шинэ загвар нь програмчлалын тестүүдээр Anthropic-ийн Claude Fable 5.1 болон Moonshot-ийн Kimi K3.1 Pro зэрэг өрсөлдөгчдөөсөө давсан үзүүлэлт үзүүлсэн хэмээн мэдэгдэв.\n\nШинэ загвар нь код бичих болон бодолт хийх чадвараараа дэлхийн шилдэг модельтой дүйцэхүйц түвшинд хүрсэн ч одоогоор жинг нь шууд татаж аваад ашиглах боломжтой нээлттэй буюу open-weight хэлбэрээр гаргаагүй байна. Гэхдээ ойрын хугацаанд илүү жижиг хувилбаруудыг нь олон нийтэд нээлттэй болгохоо амласан юм. Alibaba компани нь өөрийн T-Head чип үйлдвэрлэлийн нэгжээр дамжуулан Хятадын дотоод зах зээлд хамгийн хүчирхэг хиймэл оюун ухааны чирүүдийг бүтээхээр ажиллаж байна.\n\nГүйцэтгэх захирал Eddie Wu-гийн удирдлага дор тус компани загвараас эхлээд дэд бүтэц, чип үйлдвэрлэл хүртэлх бүтэн экосистемийг бүрдүүлж байгаа аж. Мөн шинээр гаргасан загвартаа кибер аюулгүй байдлын дэвшилтэт хяналтуудыг нэгтгэж, Хиймэл оюун ухааны Ерөнхий Оюун Ухаан (AGI) руу хүрэх үндсэн зорилгынхоо хүрээнд дата төвүүдийн хүчин чадлаа эрчимтэй өргөжүүлж байна.",
+ "published": "2026-11-16T03:44:04Z",
+ "added": "2026-11-18T01:05:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

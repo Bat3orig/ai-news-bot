@@ -1,0 +1,17 @@
+{
+ "id": "a26403ec2e7e0ed6",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Anthropic",
+ "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+ "image": "https://assets.claude.com/87317c13cd86cd0b62244c430e91d0bb13b920a1.jpg",
+ "title": "Updating our coordinated vulnerability disclosure policy timelines",
+ "summary_en": "We’re shortening our vulnerability disclosure window from 90 days to 30 days for high- and critical-severity issues, and to 45 days for all other issues.",
+ "title_mn": "Anthropic эмзэг байдлыг мэдээлэх хугацааг богиносгожээ",
+ "summary_mn": "Anthropic компани эмзэг байдлыг зохицуулалттайгаар зарлах (CVD) хугацааг өндөр эрсдэлтэй тохиолдолд 90 хоногоос 30 хоног болгон богиносоголоо.",
+ "body_mn": "Хиймэл оюун ухааны загварууд эмзэг байдал илрүүлэх чадвар нь эрс сайжирснтай холбогдуулан Anthropic компани өөрийн CVD бодлогын хугацааг шинэчиллээ. 2027 оны нэгдүгээр сарын 1-нээс эхлэн өндөр болон критик эрсдэлтэй эмзэг байдлын хугацааг 90 хоногоос 30 хоног болгож бууруулж байна.\n\nЭнэхүү өөрчлөлт нь хиймэл оюун ухаан хөгжихийн хэрээр алдааг засах хурдыг нэмэгдүүлэх, хамгаалагчдад илүү хурдан хариу үйлдэл үзүүлэх боломжийг олгох зорилготой юм. Засвар хийхэд хүндрэлтэй дэд бүтцийн хувьд тусгайлан хугацаа тохиролцох аж.",
+ "published": "2026-11-16T14:32:51Z",
+ "added": "2026-11-18T01:05:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

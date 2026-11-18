@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "02006c824db5ce40",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2IAhl0SUuhQvatXfUJ6fbt/e2406cd91ed04136e25398e0504e7011/download__4_.jpeg",
-   "title": "Build cache size limit on Vercel increased to 5 GB",
-   "summary_en": "The build cache size limit on all Vercel build machines has been increased to 5 GB. This allows projects to save more installed dependencies and framework files for reuse between deployments, which can reduce install and build times. Build machines are the compute environments that install dependencies and build your project before deployment. Previously, caches were discarded if they exceeded 1.5 GB on Basic and Standard, 3 GB on Enhanced, or 4.75 GB on Turbo, leaving the next build without a cache. The change applies automatically across all build machine types at no additional charge…",
-   "title_mn": "Vercel build cache хэмжээний хязгаар 5 GB болж нэмэгдлээ",
-   "summary_mn": "Vercel-ийн бүх build машин дээр build cache-ийн дээд хэмжээ 5 GB болж нэмэгдлээ. Өмнө нь хязгаараас хэтэрсэн cache устдаг байсан. Өөрчлөлт нэмэлт төлбөргүй, тохиргоо шаардахгүй автоматаар хэрэгжинэ.",
-   "body_mn": "Vercel-ийн build cache-ийн хэмжээний хязгаар бүх build машин дээр 5 GB болж нэмэгдлээ. Ингэснээр проектууд суулгасан dependency болон framework файлуудаа илүү олон удаа дахин ашиглах боломжтой болно.\n\nӨмнө Basic болон Standard дээр 1.5 GB, Enhanced дээр 3 GB, Turbo дээр 4.75 GB-аас хэтэрсэн cache устгагдаж, дараагийн build cache-гүй эхэлдэг байв.\n\nӨөрчлөлт бүх build машины төрөлд автоматаар хамаарах бөгөөд нэмэлт төлбөр байхгүй, тохиргоо шаардахгүй. Дэлгэрэнгүйг build cache баримт бичгээс үзнэ үү.\n\nТомоохон dependency-тэй проектуудад install болон build хугацаа богиносох боломжтой.",
-   "published": "2026-11-13T00:00:00Z",
-   "added": "2026-11-15T14:53:26Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "374a6e03bf631fe0",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5rbqGCTWeha8qMmIA5H0DD/2aa4be09ebb1d031bc95f73f1e0c937f/Vercel_x_Parallel.png",
-   "title": "Parallel Decisions now available on AI Gateway for free",
-   "summary_en": "Parallel Decisions Fast from Parallel is now available on AI Gateway and is free through November 23, 2026. It searches the live web to answer typed questions about companies, products, policies, and other changing information, returning probabilities and cited evidence for your application to act on. Use it to enrich CRM records, check eligibility, route leads, or verify claims against current sources. Boolean questions return the probability of yes, Choice questions select from options you define, and Score questions assess an ordered rubric. Related questions share context and retrieved…",
-   "title_mn": "Parallel Decisions загвар AI Gateway дээр 2026 оны 11-р сарын 23 хүртэл үнэгүй",
-   "summary_mn": "Parallel Decisions Fast загвар AI Gateway дээр нээгдлээ. Загвар бодит цагийн веб хайж, магадлал болон эшлэлтэй хариулт өгдөг. Model нэр нь parallel/parallel-decisions-fast.",
-   "body_mn": "Parallel-ийн Decisions Fast загвар AI Gateway дээр боломжтой боллоо. Үнэгүй хугацаа 2026 оны 11-р сарын 23 хүртэл үргэлжилнэ.\n\nЗагвар компани, бүтээгдэхүүн, бодлого зэрэг өөрчлөгддөг мэдээллийн талаар асуултад бодит цагийн веб хайлтаар хариулж, магадлал болон эшлэлтэй нотолгоо буцаана. Boolean асуулт нь \"тийм\" магадлалыг, Choice асуулт өгсөн сонголтоос сонгож, Score асуулт эрэмбэтэй rubric-ээр үнэлнэ.\n\nCRM бичлэг баяжуулах, эрх шалгах, лийд чиглүүлэх, мэдэгдлийг шалгахад ашиглаж болно. Хүсэлтүүд логоор болон зардлын төсвөөр AI Gateway-д хянагдана. Нэмэлт Parallel бүртгэл шаардахгүй.\n\nХөгжүүлэгчид магадлал босгоос дээш бол автомат үйлдэл хийж, найдваргүй үр дүнг шалгалтад илгээх боломжтой.",
-   "published": "2026-11-13T00:00:00Z",
-   "added": "2026-11-15T14:53:26Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2f3087ddd8ad1f85",
-   "subtopic": "packages",
-   "source": "React Status",
-   "source_label": "React Status",
-   "url": "https://react.statuscode.com/issues/497",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/jmcergdduhiy3e6s1glp.jpg",
-   "title": "shadcn's next thing: UI SDK",
-   "summary_en": "#​497 — November 13, 2026 Read on the Web React Status Declarative Dragging — Rather than designing drag and drop interactions as needed, what if you could declare the possible outcomes and let a library work out the interaction? Dragology is an experimental React library for SVG interfaces that does just that. There are lots of demos to try. Horowitz, Blinn, and Heer Debug Errors and Agents Faster: Sentry Changelog Live — A walkthrough of what’s new for debugging errors and performance issues, including fixing production bugs with Seer and tracing the agents you build. Live Q&A. Nov 18…",
-   "title_mn": "React долоо хоногийн тойм: shadcn UI SDK, Storybook 11 beta, Vite аюулгүй байдлын засвар",
-   "summary_mn": "shadcn болон Vercel-ийн UI SDK бета, Storybook 11 beta, React form-ийн шинэ баримт, Vite-ийн критик алдааны засвар зэрэг хамгийн чухал хэдэн зүйл энэ долоо хоногт гарлаа.",
-   "body_mn": "Энэ долоо хоногийн React тоймд хэд хэдэн чухал сан, хэрэгслийн мэдээлэл багтжээ. Хамгийн гол нь Vercel болон shadcn-ийн UI SDK бөгөөд энэ нь keyboard navigation, popup, drag and drop зэрэг үйлдлүүдийг өөрийн компонентэд нийлүүлэх боломжтой headless behavior сан юм. Одоогоор бета шатанд байна.\n\nStorybook 11 beta-д React төслүүдийн component metadata илүү хурдан, нарийвчлалтай болсон, type-safe stories болон агентад зориулсан албан ёсны skills нэмэгджээ. Эцсийн хувилбар 12-р сард гарна.\n\nVite-ийн критик алдаа --host эсвэл server.host тохиргоотой dev сервер дээр алсын кодын гүйцэтгэлд хүргэдэг тул 8.3.7, 8.2.5, 8.1.7, 7.3.8 эсвэл 6.4.6 хувилбар руу шинэчлэх шаардлагатай.\n\nМөн React-ийн <form> баримт Action-ийн дараа талбарын утгыг хэрхэн хадгалахыг тайлбарлаж, requestFormReset-д тусдаа лавлагаа хуудас нэмэгджээ. X (Twitter) веб апп React, Relay, Vite дээр шилжсэн тухай судалгаа, Exact гэх Rust-д суурилсан шинэ framework зэрэг сонирхолтой зүйлс ч багтсан байна.",
-   "published": "2026-11-13T00:00:00Z",
-   "added": "2026-11-15T14:53:26Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9980634491b60ca7",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "TOKENPOST",
-   "url": "https://www.tokenpost.com/news/technology/56080",
-   "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/1d8487541036b1f7549b4ad5fcc17b01b955b847e62eab5379fa671b7973672f.webp",
-   "title": "Kiro Adds Grok 4.7 to Four Paid Plans for AI-Assisted Coding",
-   "summary_en": "The model is available in Kiro’s IDE, command-line interface, Crew and web app. Requests above 200,000 tokens carry a 5.4 times credit rate.",
-   "title_mn": "Kiro хөтөлбөр Grok 4.7-ийг дөрвөн төлбөртэй багцдаа нэмлээ",
-   "summary_mn": "Kiro 11-р сарын 10-нд xAI-ийн Grok 4.7 загварыг туршилтын горимоор Pro, Pro+, Pro Max, Power багцад нэмсэн. Загвар 500,000 токеноор context-тэй, том хүсэлтэд илүү credit зардалтай.",
-   "body_mn": "Kiro 11-р сарын 10-нд xAI-ийн Grok 4.7 загварыг туршилтын горимоор Pro, Pro+, Pro Max болон Power багцын захиалагчдад нэмсэн. Загварыг Kiro-ийн IDE, command-line interface, Crew болон веб апп дээр ашиглаж болно.\n\nGrok 4.7 нь 500,000 токены context window-тай бөгөөд төслийн их хэмжээний мэдээллийг нэг хүсэлтэд авч үзэх боломжтой. 200,000 токен хүртэлх хүсэлт суурь credit хурдны 2.7 дахин, түүнээс давсан хүсэлт 5.4 дахин өртөгтэй.\n\nЗагварыг харагдуулахын тулд Kiro-г дахин ачаалах эсвэл restart хийх шаардлагатай. Kiro бол Amazon Web Services-ийн техник-зохиомжийн хөгжүүлэлтийн платформ юм.",
-   "published": "2026-11-13T00:05:00Z",
-   "added": "2026-11-15T14:53:26Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a06812d5fd4e4124",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v45.3.2",
-   "image": "https://opengraph.githubassets.com/3694315b051dad4b1d873dd3951a745ace1a5e33dc6a59f9e1dd44801d94a1c1/electron/electron/releases/tag/v45.3.2",
-   "title": "electron v45.3.2",
-   "summary_en": "Release Notes for v45.3.2 Fixes Fixed a browser process crash when DevTools Fetch interception resumed or continued a paused response. #55758 (Also in 44 , 46 ) Fixed canvas font and document.fonts.check() rejecting leading whitespace. #55737 (Also in 44 ) Fixed cookies set shortly before quitting sometimes not being saved to disk. #55773 (Also in 46 ) Other Changes Backported fixes from upstream ANGLE, Chromium, Dawn, Skia and V8. #55747 Updated Chromium to 156.0.8078.100. #55750",
-   "title_mn": "Electron v45.3.2: DevTools Fetch болон cookie хадгалах алдаа засагдлаа",
-   "summary_mn": "Electron 45.3.2 хувилбарт DevTools Fetch интерцепт үед browser процесс унах алдаа, canvas фонт болон document.fonts.check() алдаа, quit хийхээс өмнөх cookie хадгалагдахгүй алдаа засагджээ. Chromium 156.0.8078.100 болгож шинэчлэгдсэн.",
-   "body_mn": "Electron 45.3.2 нь засварын хувилбар бөгөөд гол өөрчлөлтүүд нь браузерын процессын унах алдаа болон хадгалалтын асуудлуудыг засна.\n\nDevTools Fetch интерцепт хийгдсэн хариултыг үргэлжлүүлэх эсвэл резюме хийх үед browser процесс унадаг байсан алдааг засжээ. Мөн canvas фонт болон document.fonts.check() эхний хоосон зайг буруу татгалздаг асуудал засагдсан.\n\nQuit хийхээс богино хугацааны өмнө тохируулсан cookie-ууд заримдаа диск дээр хадгалагддаггүй байсан алдааг засжээ. Chromium 156.0.8078.100 хүртэл шинэчлэгдсэн.\n\nElectron-оор апп хөгжүүлдэг хүмүүс энэ засварыг шинэчлэх нь зүйтэй.",
-   "published": "2026-11-13T00:47:03Z",
-   "added": "2026-11-15T14:53:26Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "240ba29a092f83af",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "PYMNTS.com",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/",
-   "image": "https://www.pymnts.com/wp-content/uploads/2026/11/SB4-AI-rankings-robot-assembly.jpg",
-   "title": "Anthropic’s Claude Tops AI Rankings as OpenAI Limits Cyber Model",
-   "summary_en": "The frontier changed hands again this week. Anthropic’s Claude Fable 5.2 moved past Google’s Gemini 4 Carbon on the Artificial Analysis Intelligence",
-   "title_mn": "Claude Fable 5.2 загвар Artificial Analysis индексийг тэргүүлж эхэллээ",
-   "summary_mn": "Anthropic-ийн Claude Fable 5.2 загвар хараат бус Artificial Analysis үнэлгээгээр 65 оноо авч Gemini 4 Carbon-ийг ардаа орхилоо. Байгууллагууд одоо төлөвлөлт болон гүйцэтгэлийн даалгавруудыг өөр өөр өртөгтэй модел руу чиглүүлж ашиглах хандлага руу шилжиж байна.",
-   "body_mn": "Хиймэл оюуны салбарын өрсөлдөөнд тэргүүлэгчид дахин өөрчлөгдлөө. Тэргүүлэх лабораториудын иш татдаг хараат бус Artificial Analysis Intelligence Index үнэлгээгээр Anthropic-ийн шинэ Claude Fable 5.2 загвар 65 оноо авч, Google-ийн Gemini 4 Carbon загварыг гүйцэн нэгдүгээрт жагслаа. Уг загварыг Jump Trading, Balyasny, Box зэрэг санхүү, технологийн томоохон байгууллагууд бодит ажилдаа хэдийн нэвтрүүлээд байна.\n\nЗах зээлд нэгэн зэрэг өөр чиглэлийн шийдлүүд ч гарч байна. Тухайлбал, Meta саяхан давтагддаг агентын ажлуудад зориулан нэг сая input token нь ердөө $0.10 үнэтэй Muse Ember загвараа танилцуулсан бол OpenAI хамгийн өндөр чадамжтай GPT-6 Cyber кибер аюулгүй байдлын загвараа зөвхөн баталгаажсан хэрэглэгчдэд хязгаартай ашиглах журмаар олгож эхэллээ.\n\nХөгжүүлэгчид болон байгууллагуудын хувьд ганц хүчирхэг модел сонгох биш, харин ерөнхий төлөвлөлтийг том моделоор хийлгээд жижиг гүйцэтгэлийг хямд моделуудад хуваарилах (routing) архитектур үндсэн чиг хандлага болж байна.",
-   "published": "2026-11-13T01:14:49Z",
-   "added": "2026-11-15T20:04:01Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ec15e885f792ea61",
-   "subtopic": "ai-devtools",
-   "source": "openai/codex",
-   "source_label": "openai/codex",
-   "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0",
-   "image": "https://opengraph.githubassets.com/02a97479389cf18d651dbdc5b23188e7801125d21dac1db75b043b35f474cf98/openai/codex/releases/tag/rust-v0.169.0",
-   "title": "codex 0.169.0",
-   "summary_en": "New Features The opt-in terminal workspace supports multiple side-chat tabs. Switch between them with the keyboard or mouse, and reopen saved local side chats after restarting Codex. ( #59784 , #60152 , #60181 ) Search older tasks from the agent command center by name, prompt preview, or working directory. ( #60286 ) Turn on Collapse turn details in the full-screen transcript to fold completed activity beneath each prompt while keeping answers visible and tool output searchable. ( #60554 , #60555 , #60556 , #60557 ) Add or edit custom model providers from the terminal. With custom gateway…",
-   "title_mn": "Codex 0.169.0 хувилбар гарлаа",
-   "summary_mn": "Codex 0.169.0 хувилбарт терминалын олон side-chat таб, хуучин даалгаврыг хайх боломж болон дурын model provider-ийг шууд терминалаас тохируулах дэмжлэг нэмэгдлээ. Мөн аюулгүй байдалтай холбоотой чухал засварууд орсон байна.",
-   "body_mn": "OpenAI-ийн хөгжүүлэгчдийн агент хэрэгсэл Codex 0.169.0 хувилбар шинэчлэгдлээ. Шинэ хувилбарт терминалын ажлын талбарт олон side-chat таб нээх боломжтой болсон бөгөөд тэдгээрийн хооронд гар болон хулганаар шилжих, Codex-ийг дахин асаасны дараа хадгалсан чатуудыг сэргээх боломжтой болсон байна. Түүнчлэн агентын удирдлагын хэсгээс өмнөх даалгавруудыг нэр, prompt болон ажлын сангаар нь хайх боломж нэмэгджээ.\n\nХөгжүүлэгчид одоо терминалаас өөрсдийн model provider-уудыг шууд үүсгэж, тохируулах боломжтой болсон ба SSH эсвэл хөтөчгүй орчинд device code ашиглан gateway onboarding хийх боломж нээгдэв. macOS болон Linux дээр Cloud холболтыг сонгон идэвхжүүлснээр терминалаас зураг илгээх, моделын reasoning түвшинг сонгох, үүлэн яриаг архивлах үйлдлүүдийг хийж болно.\n\nАюулгүй байдлын хувьд codex exec команд нь найдвартай бус санд төслийн тохиргоо болон MCP серверүүдийг автоматаар идэвхгүй болгох хамгаалалттай болсон тул итгэмжлэлийг --trust тугаар тусгайлан баталгаажуулах шаардлагатай. Мөн санах ойн сан болсон SQLite хувилбарыг 3.54 болгон шинэчилж, плагинуудын давхардсан таталтыг багасгасан байна.",
-   "published": "2026-11-13T08:39:10Z",
-   "added": "2026-11-15T20:04:01Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "cf7c49f9c9ac6ac2",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Startup Fortune",
-   "url": "https://startupfortune.com/claude-suffers-login-outage-across-claudeai-and-claude-code-while-microsoft-365-connector-stays-down/",
-   "image": "https://startupfortune.com/wp-content/uploads/2026/11/claude-outage-anthropic.jpg",
-   "title": "Claude Suffers Login Outage Across Claude.ai and Claude Code While Microsoft 365 Connector Stays Down",
-   "summary_en": "Claude.ai and Claude Code have a login outage while the Microsoft 365 connector fails due to a Microsoft incident. What Anthropic has said so far.",
-   "title_mn": "Claude.ai болон Claude Code платформд нэвтрэх үед саатал үүслээ",
-   "summary_mn": "Anthropic-ийн Claude.ai, Claude Code зэрэг үйлчилгээнүүдэд нэвтрэх баталгаажуулалт доголдож, Microsoft 365 холбогч ажиллахгүй байна. Энэ нь кодын автоматжуулалт болон ажлын урсгалд Claude ашигладаг багуудад саад учруулж байна.",
-   "body_mn": "Anthropic компанийн Claude.ai болон Claude Code системүүдэд хэрэглэгч нэвтрэх үед алдаа зааж, зарим үйлчилгээ тасалдсан тухай статус хуудсандаа мэдээллээ. 11 дүгээр сарын 13-ны өглөөний байдлаар Claude.ai бүрэн тасалдаж, харин Claude Console болон Claude Code хэсэгчилсэн сааталтай горимд шилжсэн байна.\n\nҮүний зэрэгцээ Microsoft-ын талд гарсан дэд бүтцийн томоохон саатлын улмаас Claude-ийн Microsoft 365 холбогч (connector) пүрэв гарагаас хойш ажиллахгүй болжээ. Үүнээс үүдэн Outlook, Teams, SharePoint зэрэг хэрэгслүүдээс өгөгдөл татах болон Claude for Outlook нэмэлт өргөтгөлийн ажиллагаа түр зогсоод байна.\n\nЭнэхүү саатал нь хөгжүүлэлтийн өдөр тутмын явцад Claude Code зэрэг хэрэгсэлд найдаж ажилладаг инженер, хөгжүүлэгчдийн бүтээмжид шууд нөлөөлж байна. Гуравдагч хиймэл оюуны агентад найдах нь тухайн үйлчилгээ болон түүний хамааралтай гадаад дэд бүтцийн найдвартай ажиллагаанаас шууд хамаардаг болохыг энэ удаагийн үйл явдал харууллаа.",
-   "published": "2026-11-13T10:02:46Z",
-   "added": "2026-11-16T00:06:11Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3c9e6385d46d7a88",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/anthropic-investigates-claude-authentication-errors/",
-   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13053438/library-anthropic-investigates-authentication-errors-hitting-cla-800x450.png",
-   "title": "Anthropic investigates authentication errors hitting Claude AI and Claude Code",
-   "summary_en": "Anthropic is investigating elevated authentication errors disrupting access to claude.ai, Claude Code, and platform.claude.com for some users.",
-   "title_mn": "Claude AI болон Claude Code хэрэглэгчид нэвтрэх алдаатай тулгарлаа",
-   "summary_mn": "Anthropic компанийн claude.ai, Claude Code болон platform.claude.com үйлчилгээнүүдэд нэвтрэхэд хүндрэл үүсч, хэрэглэгчид OAuth болон баталгаажуулалтын алдаатай тулгарч байна.",
-   "body_mn": "Anthropic компанид хэрэглэгчид системийг ашиглах үед баталгаажуулалтын өндөр түвшний алдаанууд гарч эхэлсэн тул шалгаж эхэлжээ. Энэхүү саатал нь зөвхөн хэрэглэгчийн чат апп төдийгүй Claude Code болон платформын үйлчилгээнд мөн нөлөөлсөн байна.\n\nХэрэглэгчид хугацаа нь дууссан итгэмжлэл, нэвтрэх эрхийн алдаа, OAuth сессийн асуудлуудтай тулгарч байгаагаа мэдээлжээ. Системийн энэхүү саатал нь өдөр тутмын ажлын урсгалд нь энэхүү хэрэгслийг ашигладаг хөгжүүлэгчдэд хүндрэл учруулж болзошгүй юм.\n\nAnthropic компани асуудлыг шийдвэрлэхээр ажиллаж байгаа бөгөөд хэрэглэгчдэд цаг тухай бүрт нь мэдээлэл хүргэхээ мэдэгдсэн байна. Өмнө нь энэ оны есдүгээр сард мөн ижил төстэй нэвтрэлтийн алдаа гарч байсан түүхтэй.",
-   "published": "2026-11-13T10:34:46Z",
-   "added": "2026-11-16T06:58:11Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "30f5ce152acc8d52",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
-   "title": "Manage AI Scan for repositories using the REST API",
-   "summary_en": "You can now turn GitHub code scanning’s AI Scan for repositories on or off with the REST API at the organization and repository levels. This public preview adds a repository_scan…",
-   "title_mn": "REST API ашиглан репозиторуудын AI Scan-ийг удирдах боломжтой боллоо",
-   "summary_mn": "GitHub код шалгах AI Scan функцийг байгууллага болон репозиторын түвшинд REST API ашиглан асаах, унтраах боломжтой нийтийн урьдчилсан хувилбар гарлаа.",
-   "body_mn": "GitHub код шалгах систем дэх AI Scan функцийг репозиторын түвшинд REST API ашиглан удирдах боломжтой болж өргөжлөө. Энэхүү нийтийн урьдчилсан хувилбар нь байгууллага эсвэл репозиторын тохиргоог нэг бүрчлэн өөрчлөхгүйгээр скрипт болон дэд бүтцийн код ашиглан AI Scan-ийг нэвтрүүлэх боломжийг олгож байна.\n\nХөгжүүлэгчид AI Scan enablement төгсгөлийн цэг дээр repository_scan шинж чанарыг идэвхжүүлсэн эсвэл идэвхгүй болгож тохируулах боломжтой. Энэ нь одоо байгаа pr_scan тохиргоотой яг ижил зарчмаар ажилладаг бөгөөд хоёуланг нь нэг хүсэлтээр шинэчлэх боломжтой юм.\n\nЭнэхүү боломж нь байгууллагын эзэмшилд байдаг нийтийн репозиторууд болон GitHub Code Security эсвэл GitHub Advanced Security бүхий хувийн репозиторууд дээр ашиглагддаг. Enterprise эзэмшигчид эхлээд enterprise бодлого дээр AI Scan-ийг зөвшөөрсөн байх шаардлагатай ба GitHub Enterprise Server дээр дэмжигддэггүй.",
-   "published": "2026-11-13T12:22:41Z",
-   "added": "2026-11-16T06:58:11Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "e65ecb80cf95bc11",
    "subtopic": "qwen",
    "source": "Qwen (Google News)",
@@ -677,6 +477,146 @@
    "added": "2026-11-17T18:00:30Z",
    "ai": "claude:claude-haiku-5-5",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "00f4e0e7fffc20d3",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/372IeofQ6t5FBuXP3G64yF/68d94d1711699cbcdac5e88b8fcb22a5/deployments_og_final.png",
+   "title": "Single-second static deployments now support more assets",
+   "summary_en": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST API . With the CLI, run: Newly supported file types include: Styles and data: CSS, JSON, XML, plain text, and web manifests Images: SVG, PNG, JPEG, GIF, WebP, AVIF, and ICO Fonts: WOFF, WOFF2, TTF, OTF, and EOT Documents and media: PDF, MP4, WebM, MP3, WAV, and OGG Instant…",
+   "title_mn": "Vercel-ийн нэг секундэд байршуулах үйлчилгээ илүү олон төрлийн файлыг дэмждэг боллоо",
+   "summary_mn": "Vercel-ийн ямар нэгэн бүтээх шатлалгүйгээр статик сайт байршуулдаг үйлчилгээ одоо CSS, зураг, фонт болон бусад файлуудыг HTML, Markdown-той хамт дэмждэг боллоо.",
+   "body_mn": "Vercel компани ямар нэгэн тусгай угсрах (build) шатлалгүйгээр статик сайтуудыг ердөө нэг секундын дотор шууд байршуулах боломжоо өргөжүүллээ. Үүний үр дүнд хөгжүүлэгчид landing page, CSS стилийн файл, зураг, фонтууд болон бусад статик хөрөнгүүдийг Vercel CLI эсвэл REST API ашиглан нэг дор байршуулах боломжтой болж байна.\n\nЭнэхүү шинэ боломж нь хэв маяг, өгөгдлийн файлууд (CSS, JSON, XML, Web manifest), зураг (SVG, PNG, JPEG, WebP, AVIF) болон медиа файлуудыг (PDF, MP4, MP3 гэх мэт) бүрэн дэмжинэ. Нэг удаагийн байршуулалтад 100 хүртэлх файл, нийтдээ 25 MB-аас хэтрэхгүй хэмжээтэй байх шаардлагатай бөгөөд Vercel тохиргоо хийх шаардлагагүйгээр эдгээр сайтуудыг автоматаар ялган таньж ажилладаг.\n\nХэрэв таны төсөл дээрх хязгаарлалтаас хэтэрсэн, JavaScript файлуудыг агуулсан эсвэл vercel.json зэрэг тусгай тохиргооны файлтай байвал хуучин аргаараа буюу стандарт угсралтын горимоор ажиллах болно. Энэхүү шинэчлэлт нь Vercel-ийн бүх хэрэглэгчдийн дунд шат дараатайгаар нэвтэрч байна.",
+   "published": "2026-11-16T00:00:00Z",
+   "added": "2026-11-18T01:05:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bf0ed5ee90c5bee3",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-sandbox-python-sdk-1-0-is-now-available",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4TYWwtQiQiVSvMw1sCxBE/9da96e165597d1bd0026c9f642053a72/vercel_sandbox_python_sdk_og_final.png",
+   "title": "Vercel Sandbox Python SDK 1.0 is now available",
+   "summary_en": "The Vercel Sandbox Python SDK has reached 1.0, stabilizing its public API and bringing feature parity with the TypeScript SDK. Use it to run AI-generated code, test changes, and analyze datasets in isolated sandboxes from your Python application. The SDK includes context managers for automatic sandbox cleanup and AnyIO -based async support for asyncio and Trio. For synchronous code, use vercel.sandbox.sync . Install with uv add 'vercel-sandbox>=1.0' and configure authentication . If you’re upgrading from 0.x, review the 1.0 release notes for breaking changes, including the switch to bytes…",
+   "title_mn": "Vercel Sandbox Python SDK 1.0 хувилбар гарлаа",
+   "summary_mn": "Vercel Sandbox Python SDK албан ёсны 1.0 хувилбартаа хүрч, TypeScript SDK-тэй ижил түвшний боломж болон тогтвортой API-г санал болгож байна.",
+   "body_mn": "Vercel Sandbox Python SDK албан ёсны 1.0 хувилбараа гаргаснаар олон нийтэд зориулсан API-гаа тогтворжуулж, TypeScript SDK-тэй ижил түвшний функцүүдийг хангаж эхэллээ. Энэхүү хэрэгслийг ашиглан Python аппликейшн дотроороо хиймэл оюун ухаанаар үүсгэгдсэн кодыг аюулгүй орчинд ажиллуулах, өөрчлөлтийг шалгах, дата шинжилгээ хийх боломжтой юм.\n\nШинэ SDK нь тусгаарлагдсан орчныг автоматаар цэвэрлэх context managers болон asyncio, Trio-д зориулсан AnyIO суурьтай асинхрон дэмжлэгийг бүрэн багтаасан. Синхрон код бичиж буй хөгжүүлэгчид vercel.sandbox.sync модулийг ашиглах боломжтой бөгөөд uv add 'vercel-sandbox>=1.0' гэсэн команд ашиглан хялбархан суулгах юм.\n\nХэрэв та 0.x хувилбар ашиглаж байсан бол командыг ажиллуулах болон үр дүнг авах явцад byte төрөл рүү шилжсэн зэрэгbreaking changes буюу зарим суурь өөрчлөлтийг 1.0 хувилбарын гарын авлагаас харж шалгах шаардлагатай.",
+   "published": "2026-11-16T00:00:00Z",
+   "added": "2026-11-18T01:05:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e61ed1655ef0d7cf",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "The Edge Malaysia",
+   "url": "https://theedgemalaysia.com/node/825876",
+   "image": "https://assets.theedgemarkets.com/468470848-Signage_at_the_Alibaba_Group_Holding_Ltd_HQ_in_Hangzhou,_China_Bl-CONF-APP_1.jpg",
+   "title": "Alibaba unveils new flagship AI model in riposte to US rivals",
+   "summary_en": "(Nov 16): Alibaba Group Holding Ltd launched a new flagship AI model, claiming performance that rivals Anthropic PBC and OpenAI in China’s latest challenge to US leaders.",
+   "title_mn": "Alibaba компани Америкийн өрсөлдөгчдөд хариу барих шинэ Qwen4-Max загвараа танилцууллаа",
+   "summary_mn": "Alibaba Group компани Anthropic болон OpenAI-тай өрсөлдөхүйц чадвартай, код бичих болон логик боловсруулалтаараа тэргүүлэгч Qwen4-Max загвараа гаргалаа.",
+   "body_mn": "Хятадын технологийн аварга Alibaba Group компани өөрийн хиймэл оюун ухааны шинэ тэргүүлэгч загвар болох Qwen4-Max-ийг албан ёсоор танилцууллаа. Тус компани шинэ загвар нь програмчлалын тестүүдээр Anthropic-ийн Claude Fable 5.1 болон Moonshot-ийн Kimi K3.1 Pro зэрэг өрсөлдөгчдөөсөө давсан үзүүлэлт үзүүлсэн хэмээн мэдэгдэв.\n\nШинэ загвар нь код бичих болон бодолт хийх чадвараараа дэлхийн шилдэг модельтой дүйцэхүйц түвшинд хүрсэн ч одоогоор жинг нь шууд татаж аваад ашиглах боломжтой нээлттэй буюу open-weight хэлбэрээр гаргаагүй байна. Гэхдээ ойрын хугацаанд илүү жижиг хувилбаруудыг нь олон нийтэд нээлттэй болгохоо амласан юм. Alibaba компани нь өөрийн T-Head чип үйлдвэрлэлийн нэгжээр дамжуулан Хятадын дотоод зах зээлд хамгийн хүчирхэг хиймэл оюун ухааны чирүүдийг бүтээхээр ажиллаж байна.\n\nГүйцэтгэх захирал Eddie Wu-гийн удирдлага дор тус компани загвараас эхлээд дэд бүтэц, чип үйлдвэрлэл хүртэлх бүтэн экосистемийг бүрдүүлж байгаа аж. Мөн шинээр гаргасан загвартаа кибер аюулгүй байдлын дэвшилтэт хяналтуудыг нэгтгэж, Хиймэл оюун ухааны Ерөнхий Оюун Ухаан (AGI) руу хүрэх үндсэн зорилгынхоо хүрээнд дата төвүүдийн хүчин чадлаа эрчимтэй өргөжүүлж байна.",
+   "published": "2026-11-16T03:44:04Z",
+   "added": "2026-11-18T01:05:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5d78bf1a9e9a1d34",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Wccftech",
+   "url": "https://wccftech.com/alibabas-new-qwen4-max-fails-to-overtake-moonshots-kimi-k3-1-pro-retaining-the-same-parameter-count-with-a-lower-price-and-revamped-native-vision-moe-architecture/",
+   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Alibaba-Qwen4-Max-Cover-Image-1-1920x852.jpg",
+   "title": "Alibaba’s New Qwen4-Max Fails To Overtake Moonshot’s Kimi K3.1 Pro, Retaining The Same Parameter Count With A Lower Price And Revamped Native-Vision MoE Architecture",
+   "summary_en": "Qwen4-Max has 2.4 trillion parameters and a 3:1 GDN-to-QSA layer stack, yet it lands 3 points behind Kimi on the Intelligence Index.",
+   "title_mn": "Alibaba-гийн Qwen4-Max шинэ архитектур болон хямд өртөгтэйгээр зах зээлд гарлаа",
+   "summary_mn": "Alibaba компани 2.4 их наяд параметртэй, сайжруулсан Mixture of Experts архитектур бүхий Qwen4-Max загвараа танилцуулж, ашиглалтын үнийг хямдрууллаа.",
+   "body_mn": "Alibaba компани олон хүний хүлээлт үүсгэсэн шинэ Qwen4-Max загвараа танилцуулсан нь өртөг болон үр ашгийн хувьд томоохон дэвшил авчирсан ч шинэ үеийн цоо шинэ босгыг тогтоож чадсангүй. Энэхүү загвар нь өмнөх Qwen3.8 Max загвартайгаа ижил 2.4 их наяд параметртэй хэвээр байгаа боловч сайжруулсан Mixture of Experts (MoE) архитектур болон илүү оновчтой чиглүүлэгч механизмыг ашиглаж байна.\n\nШинэ загвар нь ГGDN (Gated DeltaNet) болон QSA (Qwen Sparse Attention) зэрэг шинэлэг архитектурын өөрчлөлтүүдийг агуулж байгаа юм. GDN нь ярианы явцын тэмдэглэлийг байнга шинэчилж санах ойн ачааллыг бууруулдаг бол QSA нь сая хүртэлх токен бүхий урт баримт бичгүүдээс шаардлагатай нарийн деталиудыг маш хурдан шүүж олох зорилгоор ажилладаг. Ингэснээр сая токен унших хурд 7 дахин нэмэгдэж байна.\n\nҮнийн хувьд Qwen4-Max нь 1 сая оролт (input) токен тутамд 1.5 ам доллар, гаргалт (output) тутамд 4.5 ам доллар байхаар тогтоогдсон нь өмнөх загвараас хамаагүй хямд бөгөөд implicit caching буюу далд кэшлэлтийн үнийг 70 хувиар хямдруулсан байна. Энэ нь хиймэл оюун ухааны өргөн хэмжээний хэрэглээтэй аж ахуйн нэгжүүдэд зардлаа ихээхэн хэмнэх боломжийг олгож байна.",
+   "published": "2026-11-16T10:49:18Z",
+   "added": "2026-11-18T01:05:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "266caba6b6750510",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+   "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg",
+   "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+   "summary_en": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes.",
+   "title_mn": "Anthropic компани Claude Mythos болон Fable 5.2 загваруудынхаа аюулгүй байдлын бодлогыг шинэчиллээ",
+   "summary_mn": "Anthropic компани кибер аюулгүй байдлын инженерчлэлд зориулсан Mythos 5.2 болон энгийн хэрэглэгчдэд зориулсан Fable 5.2 загваруудыг гаргаж, алдаа илрүүлэх болон аюулгүй байдлын хоригуудыг сайжрууллаа.",
+   "body_mn": "Anthropic компани кибер аюулгүй байдлын инженерчлэлд чиглэсэн Claude Mythos 5.2 загварыг сонгомол түншүүддээ, харин ердийн хэрэглэгчдэд Fable 5.2 хувилбарыг тус тус хүргэлээ. Mythos 5.2 нь кибер аюулгүй байдлын судалгаа, эмзэг байдал илрүүлэх, засах тал дээр өмнөх хувилбаруудаасаа хол илүү гарсан бөгөөд Anthropic-ийн үнэлгээгээр алдаа илрүүлэх чадвар нь Claude Opus 5.5-аас 10.2%-иар өндөр байгаа юм.\n\nХарин энгийн хэрэглэгчдэд зориулсан Fable 5.2 загварт илүү чанга аюулгүй байдлын хоригууд үйлчилдэг. Тухайлбал, хортой халдлага үйлдэх, пенетерэйшн тест хийх зэрэг өндөр эрсдэлтэй үйлдэл илэрсэн тохиолдолд уг загвар нь хүсэлтийг автоматаар хязгаарладаг байна. Гэсэн хэдий ч хөгжүүлэгчдийн хувьд Fable 5.1 хувилбар дээр тохиолдож байсан үндэслэлгүй хоригууд буюу хэвийн үйлдэл хийхэд хүртэл блоклогддог асуудал Fable 5.2 дээр ойролцоогоор 60 хувиар буурсан нь ажиллагааг илүү хялбар болгожээ.\n\nЭнэхүү ялгаа нь зорилтот хэрэглээ болон аюулгүй байдлын түвшнээс хамаарч загвар тус бүрд өөр өөр хамгаалалтын давхаргууд ажиллаж байгаатай холбоотой бөгөөд Anthropic хөгжүүлэгчид болон судлаачдад зориулсан дэвшилтэт хэрэгслүүдийг үргэлжлүүлэн сайжруулсаар байна.",
+   "published": "2026-11-16T11:00:00Z",
+   "added": "2026-11-18T01:05:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4de5b31c92efda2a",
+   "subtopic": "tauri",
+   "source": "tauri-apps/tauri",
+   "source_label": "tauri-apps/tauri",
+   "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v2.12.6",
+   "image": "https://opengraph.githubassets.com/c50ea4f87ef64d1a95283b0454230d07335ca04e6fb6ba262e6462722f988702/tauri-apps/tauri/releases/tag/tauri-v2.12.6",
+   "title": "tauri v2.12.6",
+   "summary_en": "Cargo Audit Fetching advisory database from `https://github.com/RustSec/advisory-db.git` Loaded 1509 security advisories (from /home/runner/.cargo/advisory-db) Updating crates.io index Scanning Cargo.lock for vulnerabilities (1029 crate dependencies) Crate: fxhash Version: 0.2.1 Warning: unmaintained Title: fxhash - no longer maintained Date: 2025-09-05 ID: RUSTSEC-2025-0057 URL: https://rustsec.org/advisories/RUSTSEC-2025-0057 Solution: No fixed upgrade is available! Crate: paste Version: 1.0.15 Warning: unmaintained Title: paste - no longer maintained Date: 2024-10-07 ID: RUSTSEC-2024-0436…",
+   "title_mn": "Tauri v2.12.6 хувилбар гарлаа",
+   "summary_mn": "Tauri v2.12.6 хувилбар гарч, үндсэн бус урсгалаас үйл явдал ялгаруулах үеийн гацалт болон Linux дээрх цонхны хэмжээг өөрчлөх алдааг засжээ.",
+   "body_mn": "Tauri фрэймворкийн шинэ v2.12.6 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр үндсэн бус урсгалаас (non-main thread) event ялгаруулах үед гарч байсан deadlock буюу гацалтын асуудлыг амжилттай зассан байна.\n\nМөн Linux үйлдлийн систем дээр хүрээгүй цонхны зах орчимд мэдрэгчтэй үйлдлүүд хийхэд resize drag автоматаар эхэлдэг байсан алдааг засжээ. macOS дээр апп дахин ачаалахад фокус алдагдахгүй байх сайжруулалт орсон бөгөөд tauri-runtime болон бусад сангууд шинэчлэгдсэн байна.",
+   "published": "2026-11-16T12:43:50Z",
+   "added": "2026-11-18T01:05:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a26403ec2e7e0ed6",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Anthropic",
+   "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+   "image": "https://assets.claude.com/87317c13cd86cd0b62244c430e91d0bb13b920a1.jpg",
+   "title": "Updating our coordinated vulnerability disclosure policy timelines",
+   "summary_en": "We’re shortening our vulnerability disclosure window from 90 days to 30 days for high- and critical-severity issues, and to 45 days for all other issues.",
+   "title_mn": "Anthropic эмзэг байдлыг мэдээлэх хугацааг богиносгожээ",
+   "summary_mn": "Anthropic компани эмзэг байдлыг зохицуулалттайгаар зарлах (CVD) хугацааг өндөр эрсдэлтэй тохиолдолд 90 хоногоос 30 хоног болгон богиносоголоо.",
+   "body_mn": "Хиймэл оюун ухааны загварууд эмзэг байдал илрүүлэх чадвар нь эрс сайжирснтай холбогдуулан Anthropic компани өөрийн CVD бодлогын хугацааг шинэчиллээ. 2027 оны нэгдүгээр сарын 1-нээс эхлэн өндөр болон критик эрсдэлтэй эмзэг байдлын хугацааг 90 хоногоос 30 хоног болгож бууруулж байна.\n\nЭнэхүү өөрчлөлт нь хиймэл оюун ухаан хөгжихийн хэрээр алдааг засах хурдыг нэмэгдүүлэх, хамгаалагчдад илүү хурдан хариу үйлдэл үзүүлэх боломжийг олгох зорилготой юм. Засвар хийхэд хүндрэлтэй дэд бүтцийн хувьд тусгайлан хугацаа тохиролцох аж.",
+   "published": "2026-11-16T14:32:51Z",
+   "added": "2026-11-18T01:05:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
   }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "5d78bf1a9e9a1d34",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Wccftech",
+ "url": "https://wccftech.com/alibabas-new-qwen4-max-fails-to-overtake-moonshots-kimi-k3-1-pro-retaining-the-same-parameter-count-with-a-lower-price-and-revamped-native-vision-moe-architecture/",
+ "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Alibaba-Qwen4-Max-Cover-Image-1-1920x852.jpg",
+ "title": "Alibaba’s New Qwen4-Max Fails To Overtake Moonshot’s Kimi K3.1 Pro, Retaining The Same Parameter Count With A Lower Price And Revamped Native-Vision MoE Architecture",
+ "summary_en": "Qwen4-Max has 2.4 trillion parameters and a 3:1 GDN-to-QSA layer stack, yet it lands 3 points behind Kimi on the Intelligence Index.",
+ "title_mn": "Alibaba-гийн Qwen4-Max шинэ архитектур болон хямд өртөгтэйгээр зах зээлд гарлаа",
+ "summary_mn": "Alibaba компани 2.4 их наяд параметртэй, сайжруулсан Mixture of Experts архитектур бүхий Qwen4-Max загвараа танилцуулж, ашиглалтын үнийг хямдрууллаа.",
+ "body_mn": "Alibaba компани олон хүний хүлээлт үүсгэсэн шинэ Qwen4-Max загвараа танилцуулсан нь өртөг болон үр ашгийн хувьд томоохон дэвшил авчирсан ч шинэ үеийн цоо шинэ босгыг тогтоож чадсангүй. Энэхүү загвар нь өмнөх Qwen3.8 Max загвартайгаа ижил 2.4 их наяд параметртэй хэвээр байгаа боловч сайжруулсан Mixture of Experts (MoE) архитектур болон илүү оновчтой чиглүүлэгч механизмыг ашиглаж байна.\n\nШинэ загвар нь ГGDN (Gated DeltaNet) болон QSA (Qwen Sparse Attention) зэрэг шинэлэг архитектурын өөрчлөлтүүдийг агуулж байгаа юм. GDN нь ярианы явцын тэмдэглэлийг байнга шинэчилж санах ойн ачааллыг бууруулдаг бол QSA нь сая хүртэлх токен бүхий урт баримт бичгүүдээс шаардлагатай нарийн деталиудыг маш хурдан шүүж олох зорилгоор ажилладаг. Ингэснээр сая токен унших хурд 7 дахин нэмэгдэж байна.\n\nҮнийн хувьд Qwen4-Max нь 1 сая оролт (input) токен тутамд 1.5 ам доллар, гаргалт (output) тутамд 4.5 ам доллар байхаар тогтоогдсон нь өмнөх загвараас хамаагүй хямд бөгөөд implicit caching буюу далд кэшлэлтийн үнийг 70 хувиар хямдруулсан байна. Энэ нь хиймэл оюун ухааны өргөн хэмжээний хэрэглээтэй аж ахуйн нэгжүүдэд зардлаа ихээхэн хэмнэх боломжийг олгож байна.",
+ "published": "2026-11-16T10:49:18Z",
+ "added": "2026-11-18T01:05:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

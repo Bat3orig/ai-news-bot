@@ -1,0 +1,17 @@
+{
+ "id": "00f4e0e7fffc20d3",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/372IeofQ6t5FBuXP3G64yF/68d94d1711699cbcdac5e88b8fcb22a5/deployments_og_final.png",
+ "title": "Single-second static deployments now support more assets",
+ "summary_en": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST API . With the CLI, run: Newly supported file types include: Styles and data: CSS, JSON, XML, plain text, and web manifests Images: SVG, PNG, JPEG, GIF, WebP, AVIF, and ICO Fonts: WOFF, WOFF2, TTF, OTF, and EOT Documents and media: PDF, MP4, WebM, MP3, WAV, and OGG Instant…",
+ "title_mn": "Vercel-ийн нэг секундэд байршуулах үйлчилгээ илүү олон төрлийн файлыг дэмждэг боллоо",
+ "summary_mn": "Vercel-ийн ямар нэгэн бүтээх шатлалгүйгээр статик сайт байршуулдаг үйлчилгээ одоо CSS, зураг, фонт болон бусад файлуудыг HTML, Markdown-той хамт дэмждэг боллоо.",
+ "body_mn": "Vercel компани ямар нэгэн тусгай угсрах (build) шатлалгүйгээр статик сайтуудыг ердөө нэг секундын дотор шууд байршуулах боломжоо өргөжүүллээ. Үүний үр дүнд хөгжүүлэгчид landing page, CSS стилийн файл, зураг, фонтууд болон бусад статик хөрөнгүүдийг Vercel CLI эсвэл REST API ашиглан нэг дор байршуулах боломжтой болж байна.\n\nЭнэхүү шинэ боломж нь хэв маяг, өгөгдлийн файлууд (CSS, JSON, XML, Web manifest), зураг (SVG, PNG, JPEG, WebP, AVIF) болон медиа файлуудыг (PDF, MP4, MP3 гэх мэт) бүрэн дэмжинэ. Нэг удаагийн байршуулалтад 100 хүртэлх файл, нийтдээ 25 MB-аас хэтрэхгүй хэмжээтэй байх шаардлагатай бөгөөд Vercel тохиргоо хийх шаардлагагүйгээр эдгээр сайтуудыг автоматаар ялган таньж ажилладаг.\n\nХэрэв таны төсөл дээрх хязгаарлалтаас хэтэрсэн, JavaScript файлуудыг агуулсан эсвэл vercel.json зэрэг тусгай тохиргооны файлтай байвал хуучин аргаараа буюу стандарт угсралтын горимоор ажиллах болно. Энэхүү шинэчлэлт нь Vercel-ийн бүх хэрэглэгчдийн дунд шат дараатайгаар нэвтэрч байна.",
+ "published": "2026-11-16T00:00:00Z",
+ "added": "2026-11-18T01:05:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

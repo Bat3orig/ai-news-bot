@@ -1,0 +1,17 @@
+{
+ "id": "4de5b31c92efda2a",
+ "subtopic": "tauri",
+ "source": "tauri-apps/tauri",
+ "source_label": "tauri-apps/tauri",
+ "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v2.12.6",
+ "image": "https://opengraph.githubassets.com/c50ea4f87ef64d1a95283b0454230d07335ca04e6fb6ba262e6462722f988702/tauri-apps/tauri/releases/tag/tauri-v2.12.6",
+ "title": "tauri v2.12.6",
+ "summary_en": "Cargo Audit Fetching advisory database from `https://github.com/RustSec/advisory-db.git` Loaded 1509 security advisories (from /home/runner/.cargo/advisory-db) Updating crates.io index Scanning Cargo.lock for vulnerabilities (1029 crate dependencies) Crate: fxhash Version: 0.2.1 Warning: unmaintained Title: fxhash - no longer maintained Date: 2025-09-05 ID: RUSTSEC-2025-0057 URL: https://rustsec.org/advisories/RUSTSEC-2025-0057 Solution: No fixed upgrade is available! Crate: paste Version: 1.0.15 Warning: unmaintained Title: paste - no longer maintained Date: 2024-10-07 ID: RUSTSEC-2024-0436…",
+ "title_mn": "Tauri v2.12.6 хувилбар гарлаа",
+ "summary_mn": "Tauri v2.12.6 хувилбар гарч, үндсэн бус урсгалаас үйл явдал ялгаруулах үеийн гацалт болон Linux дээрх цонхны хэмжээг өөрчлөх алдааг засжээ.",
+ "body_mn": "Tauri фрэймворкийн шинэ v2.12.6 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр үндсэн бус урсгалаас (non-main thread) event ялгаруулах үед гарч байсан deadlock буюу гацалтын асуудлыг амжилттай зассан байна.\n\nМөн Linux үйлдлийн систем дээр хүрээгүй цонхны зах орчимд мэдрэгчтэй үйлдлүүд хийхэд resize drag автоматаар эхэлдэг байсан алдааг засжээ. macOS дээр апп дахин ачаалахад фокус алдагдахгүй байх сайжруулалт орсон бөгөөд tauri-runtime болон бусад сангууд шинэчлэгдсэн байна.",
+ "published": "2026-11-16T12:43:50Z",
+ "added": "2026-11-18T01:05:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

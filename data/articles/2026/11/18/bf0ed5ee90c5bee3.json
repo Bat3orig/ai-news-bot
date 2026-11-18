@@ -1,0 +1,17 @@
+{
+ "id": "bf0ed5ee90c5bee3",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-sandbox-python-sdk-1-0-is-now-available",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4TYWwtQiQiVSvMw1sCxBE/9da96e165597d1bd0026c9f642053a72/vercel_sandbox_python_sdk_og_final.png",
+ "title": "Vercel Sandbox Python SDK 1.0 is now available",
+ "summary_en": "The Vercel Sandbox Python SDK has reached 1.0, stabilizing its public API and bringing feature parity with the TypeScript SDK. Use it to run AI-generated code, test changes, and analyze datasets in isolated sandboxes from your Python application. The SDK includes context managers for automatic sandbox cleanup and AnyIO -based async support for asyncio and Trio. For synchronous code, use vercel.sandbox.sync . Install with uv add 'vercel-sandbox>=1.0' and configure authentication . If you’re upgrading from 0.x, review the 1.0 release notes for breaking changes, including the switch to bytes…",
+ "title_mn": "Vercel Sandbox Python SDK 1.0 хувилбар гарлаа",
+ "summary_mn": "Vercel Sandbox Python SDK албан ёсны 1.0 хувилбартаа хүрч, TypeScript SDK-тэй ижил түвшний боломж болон тогтвортой API-г санал болгож байна.",
+ "body_mn": "Vercel Sandbox Python SDK албан ёсны 1.0 хувилбараа гаргаснаар олон нийтэд зориулсан API-гаа тогтворжуулж, TypeScript SDK-тэй ижил түвшний функцүүдийг хангаж эхэллээ. Энэхүү хэрэгслийг ашиглан Python аппликейшн дотроороо хиймэл оюун ухаанаар үүсгэгдсэн кодыг аюулгүй орчинд ажиллуулах, өөрчлөлтийг шалгах, дата шинжилгээ хийх боломжтой юм.\n\nШинэ SDK нь тусгаарлагдсан орчныг автоматаар цэвэрлэх context managers болон asyncio, Trio-д зориулсан AnyIO суурьтай асинхрон дэмжлэгийг бүрэн багтаасан. Синхрон код бичиж буй хөгжүүлэгчид vercel.sandbox.sync модулийг ашиглах боломжтой бөгөөд uv add 'vercel-sandbox>=1.0' гэсэн команд ашиглан хялбархан суулгах юм.\n\nХэрэв та 0.x хувилбар ашиглаж байсан бол командыг ажиллуулах болон үр дүнг авах явцад byte төрөл рүү шилжсэн зэрэгbreaking changes буюу зарим суурь өөрчлөлтийг 1.0 хувилбарын гарын авлагаас харж шалгах шаардлагатай.",
+ "published": "2026-11-16T00:00:00Z",
+ "added": "2026-11-18T01:05:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "266caba6b6750510",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg",
+ "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+ "summary_en": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes.",
+ "title_mn": "Anthropic компани Claude Mythos болон Fable 5.2 загваруудынхаа аюулгүй байдлын бодлогыг шинэчиллээ",
+ "summary_mn": "Anthropic компани кибер аюулгүй байдлын инженерчлэлд зориулсан Mythos 5.2 болон энгийн хэрэглэгчдэд зориулсан Fable 5.2 загваруудыг гаргаж, алдаа илрүүлэх болон аюулгүй байдлын хоригуудыг сайжрууллаа.",
+ "body_mn": "Anthropic компани кибер аюулгүй байдлын инженерчлэлд чиглэсэн Claude Mythos 5.2 загварыг сонгомол түншүүддээ, харин ердийн хэрэглэгчдэд Fable 5.2 хувилбарыг тус тус хүргэлээ. Mythos 5.2 нь кибер аюулгүй байдлын судалгаа, эмзэг байдал илрүүлэх, засах тал дээр өмнөх хувилбаруудаасаа хол илүү гарсан бөгөөд Anthropic-ийн үнэлгээгээр алдаа илрүүлэх чадвар нь Claude Opus 5.5-аас 10.2%-иар өндөр байгаа юм.\n\nХарин энгийн хэрэглэгчдэд зориулсан Fable 5.2 загварт илүү чанга аюулгүй байдлын хоригууд үйлчилдэг. Тухайлбал, хортой халдлага үйлдэх, пенетерэйшн тест хийх зэрэг өндөр эрсдэлтэй үйлдэл илэрсэн тохиолдолд уг загвар нь хүсэлтийг автоматаар хязгаарладаг байна. Гэсэн хэдий ч хөгжүүлэгчдийн хувьд Fable 5.1 хувилбар дээр тохиолдож байсан үндэслэлгүй хоригууд буюу хэвийн үйлдэл хийхэд хүртэл блоклогддог асуудал Fable 5.2 дээр ойролцоогоор 60 хувиар буурсан нь ажиллагааг илүү хялбар болгожээ.\n\nЭнэхүү ялгаа нь зорилтот хэрэглээ болон аюулгүй байдлын түвшнээс хамаарч загвар тус бүрд өөр өөр хамгаалалтын давхаргууд ажиллаж байгаатай холбоотой бөгөөд Anthropic хөгжүүлэгчид болон судлаачдад зориулсан дэвшилтэт хэрэгслүүдийг үргэлжлүүлэн сайжруулсаар байна.",
+ "published": "2026-11-16T11:00:00Z",
+ "added": "2026-11-18T01:05:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
