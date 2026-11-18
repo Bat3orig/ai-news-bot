@@ -1,0 +1,17 @@
+{
+ "id": "7d188b742715c3bc",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/iajKgHHs29vQXYUZMuMOy/061c4066e956c6ecb840b3a697cd97d2/image__100_.png",
+ "title": "Hy4 Flash now available on AI Gateway for 50% off",
+ "summary_en": "Hy4 Flash from Tencent is now available on AI Gateway with an introductory 50% discount on input, cached input, and output tokens through November 29, 2026. Hy4 Flash is the new lower-cost model in the Hy4 family. It keeps the full Hy4 feature set at roughly a tenth of the price per token: reasoning with preserved thinking across turns, tool calling, structured outputs, prompt caching, and image input, with the same 1M-token context window. Reasoning can be turned off for requests that don't need it, which suits high-volume coding, agent, and document workloads. Use tencent/hy4-flash as the…",
+ "title_mn": "AI Gateway дээр Tencent-ийн Hy4 Flash загвар 50% хямдарлаа",
+ "summary_mn": "Tencent-ийн Hy4 Flash загвар AI Gateway дээр нэмэгдэж, 11 дүгээр сарын 29 хүртэл 50%-ийн хямдралтайгаар ашиглагдах боломжтой боллоо. Энэхүү загвар нь 1 сая токенийн контекст цонх болон бүрэн боломжуудыг бага үнээр санал болгож байна.",
+ "body_mn": "Tencent компанийн шинэ Hy4 Flash загвар AI Gateway дээр албан ёсоор гарч, оролт, кешлэгдсэн оролт болон гаралт токенууд дээр 11 дүгээр сарын 29 хүртэл 50%-ийн хямдрал зарлалаа. Hy4 Flash нь өмнөх Hy4 загварынхаа үндсэн боломжуудыг хадгалан үлдсэн бөгөөд нэг токений үнийг ойролцоогоор арав дахин бууруулсан байна.\n\nЭнэхүү загвар нь эргэлт хоорондын санаа бодлыг хадгалах, функц дуудах (tool calling), бүтцэд орон зай гаргах, промпт кешлэлт, зургийн оролт зэрэг бүх үндсэн шинж чанарыг дэмжихийн зэрэгцээ 1 сая токенийн контекст цонхтой хэвээр үлджээ. Шаардлагагүй үед эргэцүүлэл (reasoning)-ийг унтрааж болох тул өндөр ачаалалтай код бичих, агент болон баримт бичиг боловсруулах ажилд маш тохиромжтой.\n\nClaude Code, Codex, Cursor зэрэг хэрэгслүүдэд ашиглахын тулд хэрэглэгчид Vercel CLI-ийн хамгийн сүүлийн хувилбарыг суулгаж, тохиргоо хийхэд хангалттай. AI Gateway нь үйлчилгээ үзүүлэгчдийн үнийг нэмэгдэлгүйгээр нэгдсэн API-аар хангаж, өгөгдөл хадгалахгүй байх (Zero Data Retention) болон зардлын хязгаарлалтын дэмжлэг үзүүлдэг.",
+ "published": "2026-11-16T17:00:00Z",
+ "added": "2026-11-18T08:45:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

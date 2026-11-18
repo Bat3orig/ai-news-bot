@@ -1,0 +1,17 @@
+{
+ "id": "4eca17a808cb9db0",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/1password-figma-make/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format",
+ "title": "How 1Password uses Figma Make to design for trust and certainty",
+ "summary_en": "From autofill to AI agent approvals, every 1Password interaction counts. Here's how the design team uses Figma Make to design moments users trust.",
+ "title_mn": "1Password компани Figma Make ашиглан дизайн боловсруулж байна",
+ "summary_mn": "Аюулгүй байдлын 1Password компани Figma Make хэрэгслийг ашиглан хэрэглэгчдийн итгэлийг хүлээсэн UI дизайн гаргаж байна. Дизайн системээ AI хэрэгслүүдэд зориулан автоматжуулж байна.",
+ "body_mn": "1Password компани хэрэглэгчдэд итгэлцлийг бий болгох үүднээс Figma Make болон Figma AI бүх боломжуудыг ашиглаж эхэлжээ. Компанийн дизайны баг олон жилийн турш бий болгосон зааварчилгаа, контент дизайн, бүрэлдэхүүн хэсгүүдээ хиймэл оюун ухааны агентууд шууд ойлгож ажиллахаар баримтжуулсан байна.\n\nИнгэснээр хөгжүүлэгчид болон дизайрнерууд Figma Make ашиглан кодын бүтцийг хадгалсан байдлаар шууд прототип хийх боломжтой болжээ. Figma-ийн Code Connect технологийн тусламжтайгаар бүрэлдэхүүн хэсгүүд нь багийн хуваалцсан Figma сан болон кодын сан хоорондоо шууд уялдаж ажилладаг.\n\nЭнэхүү арга нь дизайны багт бүтээгдэхүүний өөрчлөлтийг хурдан хийх, агентуудад тодорхой хязгаарлалт, дүрэм журмын хүрээнд UI үүсгэх боломжийг олгож байна.",
+ "published": "2026-11-16T18:03:00Z",
+ "added": "2026-11-18T08:45:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

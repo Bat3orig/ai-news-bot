@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "e65ecb80cf95bc11",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "Cybernews",
-   "url": "https://cybernews.com/security/alibaba-qwen-chinese-propaganda-reeducation/",
-   "image": "",
-   "title": "Qwen3.8-27B censorship cut by US AI lab’s tuning",
-   "summary_en": "",
-   "title_mn": "АНУ-ын AI лабораторийн тохиргоо Qwen3.8-27B загварын цензурыг бууруулжээ",
-   "summary_mn": "АНУ-ын хиймэл оюун ухааны лаборатори Alibaba-гийн Qwen3.8-27B загварыг дахин сургаж, цензур болон хязгаарлалтыг нь бууруулсан байна.",
-   "body_mn": "АНУ-ын судалгааны лабораториуд нээлттэй жинтэй загваруудыг өөрсдийн хэрэгцээнд тохируулан өөрчлөх ажил үргэлжилсээр байна. Тухайлбал, Alibaba-гийн бүтээсэн Qwen3.8-27B загварыг дахин сургаж, цензур болон хязгаарлалтын түвшнийг нь бууруулсан шинэ хувилбар гарчээ.\n\nЭнэхүү өөрчлөлт нь хөгжүүлэгчид болон судлаачдад загварын үндсэн чадварыг алдагдуулахгүйгээр илүү чөлөөтэй ашиглах боломжийг олгох зорилготой юм. Уг сайжруулалт нь нээлттэй эхийн болон нээлттэй жинтэй загваруудыг өөрчлөн хөгжүүлэх чиг хандлагын нэг хэсэг юм.",
-   "published": "2026-11-13T12:40:02Z",
-   "added": "2026-11-16T06:58:11Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dac3b2a45c33846e",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/arcticrat-malware-xai-grok-sms-codes/",
-   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13080432/library-zimperium-uncovers-arcticrat-malware-using-xai-s-grok-to-800x450.png",
-   "title": "Zimperium uncovers ArcticRAT malware using xAI’s Grok to mine stolen SMS codes",
-   "summary_en": "Zimperium exposes ArcticRAT, an Android trojan using xAI's Grok AI to extract OTPs and financial data from stolen SMS messages.",
-   "title_mn": "ArcticRAT хортой програм SMS код боловсруулахад xAI-ын Grok загварыг ашиглаж байна",
-   "summary_mn": "Zimperium компанийн илрүүлсэн Android үйлдлийн системийн ArcticRAT троян програм нь хулгайлсан мессеж болон нэг удаагийн кодыг шүүхэд xAI-ын Grok загварыг ашиглаж эхэлжээ.",
-   "body_mn": "Аюулгүй байдлын Zimperium компани zLabs баг Android үйлдлийн системд зориулсан ArcticRAT хэмээх алсын удирдлагатай троян програмын шинэ хувилбарыг илрүүлжээ. Анхандаа крипто аппликейшнуудыг чиглэж байсан энэхүү хортой програм нь хэрэглэгчийн хулгайлсан мессеж болон санхүүгийн мэдээллийг шүүх зорилгоор xAI-ын Grok API-г ашигладаг болсон байна.\n\nGrok загвар нь хортой програмын цуглуулсан SMS болон суулгасан аппликейшнуудын жагсаалтаас нэг удаагийн нууц үг (OTP) болон гүйлгээний мэдэгдлүүдийг ялган авч, бүтэцлэгдсэн JSON хэлбэрээр халдагч руу буцаадаг аж. Энэ нь хиймэл оюун ухааны ерөнхий зориулалтын API-г гэмт хэргийн зорилгоор ашиглаж буй томоохон жишээ болж байна.\n\nСудлаачид уг хортой програмын 78 өвөрмөц хувилбар, 21 команд болон удирдлагын (C2) IP хаягийг илрүүлсэн бөгөөд гол дэд бүтдүүд нь Хонконг болон Герман улсад байршиж байгааг тогтоожээ. Энэхүү аюул занал нь хөгжүүлэгчид болон аюулгүй байдлын мэргэжилтнүүдэд API хандалтын аюулгүй байдалд анхаарах шаардлагатайг сануулж байна.",
-   "published": "2026-11-13T13:04:41Z",
-   "added": "2026-11-16T06:58:11Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5ea974dd998f8fda",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-   "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-   "summary_en": "It’s not here to buy your burritos for you.",
-   "title_mn": "Anthropic компани хэрэглэгчдэд зориулсан Claude Duet агент хэрэгслээ танилцууллаа",
-   "summary_mn": "Anthropic компани мэргэжилтнүүд болон жижиг бизнес эрхлэгчдэд зориулсан Claude Duet AI агентыг туршилтын байдлаар гаргалаа. Уг апп нь имэйл, календарь, Google Docs, Slack зэрэг үйлчилгээтэй холбогдож өдөр тутмын ажлыг зохион байгуулахад тусалдаг.",
-   "body_mn": "Anthropic компани хэрэглэгчдэд зориулсан шинэ AI агент болох Claude Duet-ийг танилцууллаа. Энэхүү судалгааны хувилбар нь код бичдэггүй мэргэжилтнүүд болон жижиг бизнес эрхлэгчдэд ажлаа зохион байгуулахад туслах зорилготой юм.\n\nDuet апп нь Claude-ийн энгийн бөгөөд цэвэр дизайнтай бөгөөд iPhone төхөөрөмжүүдийг бүрэн дэмждэг. Хэрэглэгчид ажлын имэйл, календарь, Google Docs болон Slack зэрэг бүтээмжийн хэрэгслүүдээ холбосноор уг агент өгөгдлүүдийг нэгтгэн дүгнэж, өдөр тутмын ажлыг сануулах болон мессеж ноороглох зэргээр тусалдаг байна.\n\nОдоогоор Claude Duet нь АНУ дахь Pro, Max болон Ultra эрхтэй хэрэглэгчдэд хязгаарлагдмал байдлаар нээлттэй байгаа аж. Энэ нь өдөр тутмын ажлын урсгалыг хөнгөвчлөх зорилготой бөгөөд хэрэглэгчийн өгөгдлийг цуглуулан өөрийн санаачилгаар сануулга өгдөг онцлогтой юм.",
-   "published": "2026-11-13T14:00:00Z",
-   "added": "2026-11-16T06:58:11Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dd184b1630c4650c",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/xai-prioritizes-ai-coding-grok-bot/",
-   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13090947/library-xai-prioritizes-ai-coding-tools-and-its-grok-bot-agent-p-800x450.png",
-   "title": "xAI prioritizes AI coding tools and its Grok Bot agent product",
-   "summary_en": "xAI shifts focus to AI coding tools, with Grok Build, Grok 4.7's 500,000-token window, AWS Kiro access and the new Grok Bot 1.0 for teams.",
-   "title_mn": "xAI компани AI код бичих хэрэгслүүд болон Grok Bot агентаа нэн тэргүүнд тавьж байна",
-   "summary_mn": "xAI компани хөгжүүлэгчдийн зах зээлд өрсөлдөх зорилгоор Grok Build, Grok 4.7 болон шинээр зарлагдсан Grok Bot 1.0 хэрэгслүүд рүү нөөц бололцоогоо төвлөрүүлж байна. 500,000 токенийн контекст цонх бүхий Grok 4.7 нь урт хугацааны програмчлалын ажлыг гүйцэтгэхэд чиглэгджээ.",
-   "body_mn": "xAI компани хөгжүүлэгчдэд зориулсан AI код бичих хэрэгслүүд болон Grok агент бүтээгдэхүүнүүддээ үйл ажиллагаагаа төвлөрүүлж эхэллээ. Тус компани нь терминал дээр ажилладаг код бичих агент Grok Build, урт програмчлалын сессүүдэд зориулсан Grok 4.7 болон ажлын байрны чатад ажилладаг Grok Bot 1.0 хэрэгслүүдийг гол болгож байна.\n\nGrok Build нь 500,000 токенийн том контекст цонх бүхий Grok 4.7 загвараар ажилладаг бөгөөд энэ нь код суурийн томоохон хэсгийг нэг дор харах боломжийг олгодог. Мөн AWS-ийн Kiro платформд туршилтын журмаар нэгтгэгдсэн нь хөгжүүлэгчдэд IDE болон CLI орчноос ашиглах боломжийг өгч байна.\n\nШинээр танилцуулагдсан Grok Bot 1.0 нь Slack болон Microsoft Teams-тэй интеграцчилж, багийн хамтын ажиллагааг дэмжих зорилготой юм. xAI компани энэхүү хэрэгслүүдээ хямд өртөгтэйгээр болон янз бүрийн багц хэлбэрээр санал болгож байгаа нь зах зээл дэх өрсөлдөөнийг улам хурцатгаж байна.",
-   "published": "2026-11-13T14:09:53Z",
-   "added": "2026-11-16T06:58:11Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dde13a6350f0c89d",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
-   "image": "https://github.blog/wp-content/uploads/2026/11/703838156-68e44341-f202-4a1d-8cec-072b5e8d1027.png",
-   "title": "Gemini 4 Hydrogen in GitHub Copilot",
-   "summary_en": "Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction…",
-   "title_mn": "Gemini 4 Hydrogen GitHub Copilot-д ерөнхийдөө боломжтой боллоо",
-   "summary_mn": "Google-ийн Gemini 4 Hydrogen Flash загвар GitHub Copilot-д ерөнхийдөө боломжтой боллоо. Агентлаг кодлолд, хэрэгслийн дуудалтад болон олон алхамт ажлын урсгалд зориулагдсан.",
-   "body_mn": "Gemini 4 Hydrogen, Google-ийн хамгийн сүүлийн Flash загвар GitHub Copilot-д ерөнхийдөө боломжтой боллоо. Загвар нь хурдан, үр ашигтай агентлаг кодлол, tool use болон олон алхамт ажлын урсгалд зориулагдсан бөгөөд Gemini 3.8 Flash-аас зааврыг илүү сайн дагадаг гэж мэдээлсэн.\n\nЗагварыг Copilot Pro, Pro+, Max, Business болон Enterprise хэрэглэгчид model picker-ээс сонгож болно. Нэвтрүүлэлт аажмаар явагдах тул зарим хэрэглэгчид тэр даруй харахгүй байж магадгүй.\n\nCopilot Enterprise болон Business админууд model policy-р дамжуулан хандалтыг удирдах боломжтой. Загварын үнэ нь provider-ийн жагсаалтын үнээр, usage-based биллингээр тооцогдоно.",
-   "published": "2026-11-13T18:23:48Z",
-   "added": "2026-11-16T16:47:09Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2b6ceace85f3ec57",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6pGmq99fGbiLaw1QHMkFv9/1f27d46d6acbaa9b5cd4798c198e44fd/doc-b485e47e-01da-40de-beef-3c91841c07f9-1794604053576.png",
-   "title": "Token Pass now includes $150 in tokens for $30/month",
-   "summary_en": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month. The credit applies to featured open-weight models served through AI Gateway , including Kimi K3, Kimi K3.1 Pro, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash. Credit resets each billing period with no rollover. When it runs out, requests using standard AI Gateway keys or OIDC tokens fall back to the team's AI Gateway balance, while requests using Token Pass-scoped keys stop with no overage charges. Token Pass is an Early Access add-on for Pro teams, with limited spots and a waitlist…",
-   "title_mn": "Vercel Token Pass сарын 30 доллараар 150 доллар хүртэл токен санал болгож байна",
-   "summary_mn": "Vercel Token Pass багцад сар бүр багийн 30 долларын төлбөрөөр 150 долларын токен багтахаар болсон, өмнө нь 80 доллар байсан. Кредит нь AI Gateway-ээр дамжих нээлттэй жинтэй загварт хүчинтэй.",
-   "body_mn": "Vercel Token Pass багц нэг багт сар бүр 30 долларын төлбөрөөр багтах токены хэмжээг 80 доллараас 150 доллар болгож нэмэгдүүлжээ. Кредит нь AI Gateway-ээр үйлчлэх Kimi K3, Kimi K3.1 Pro, GLM 5.3, GLM 5.3 Flash болон DeepSeek V4.1 Flash зэрэг онцлох нээлттэй жинтэй загваруудад хүчинтэй.\n\nКредит билling period бүрт шинэчлэгдэх бөгөөд дараагийн сард шилжихгүй. Кредит дууссан үед стандарт AI Gateway түлхүүр эсвэл OIDC токенууд багийн AI Gateway үлдэгдлээр үргэлжилнэ, харин Token Pass-ын түлхүүртэй хүсэлтүүд илүү төлбөргүйгээр зогсоно.\n\nToken Pass нь Pro багцтай холбогдсон Early Access нэмэлт үйлчилгээ бөгөөд суудал хязгаарлагдмал. Холбогдохын тулд Vercel CLI-д vercel token-pass командыг ажиллуулж, эсвэл AI Gateway дэмжих агентдаа Token Pass API түлхүүр ашиглана. Энэ нь кодлох агентуудын зардлыг тодорхой болгох боломжтой.",
-   "published": "2026-11-13T18:42:00Z",
-   "added": "2026-11-16T16:47:09Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a1083582ad5b5c03",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
-   "image": "https://opengraph.githubassets.com/ca414a63fb742e07df3b58de50ceef171f71b798d2612e6065dc31ed18aad7f5/anthropics/claude-code/releases/tag/v2.1.325",
-   "title": "claude-code v2.1.325",
-   "summary_en": "What's changed Fixed a security issue in how zstd-compressed responses are decoded Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once Claude has read or edited a Jupyter notebook Added a line under the error shown when your organization's policy blocks a request, saying how to continue: run /rewind and change the message, or run /clear Added a note for Claude when a sandboxed git checkout , git stash or autostash pull cannot update protected files such as those in .claude Fixed /security-review and skills' inline git commands stopping…",
-   "title_mn": "Claude Code v2.1.325: аюулгүй байдал болон олон алдааг засав",
-   "summary_mn": "Claude Code v2.1.325 хувилбарт zstd шахсан хариултыг декодлох аюулгүй байдлын асуудлыг засч, /security-review болон worktree-тэй холбоотой алдаа засагдсан. Мөн VS Code-ийн терминалд notebook-ийн тусламжийн зөвлөмж нэмэгдсэн.",
-   "body_mn": "Claude Code-ийн v2.1.325 хувилбар нь ихэнхдээ алдаа засах шинэчлэлт юм. Хамгийн чухал нь zstd-ээр шахсан хариултыг декодлох аюулгүй байдлын асуудлыг засч, харин /security-review болон skills-ийн git командууд worktree болон bare repo-д алдаа өгдөг байсныг засварласан.\n\nМөн шинэ онцлог нэмэгдсэн: VS Code болон төстэй интеграцчилсан терминалд Jupyter notebook-ийн нүдийг дахин ажиллуулах тухай зөвлөмж гарна. Байгууллагын бодлогоор хүсэлт блоклогдсон үед /rewind эсвэл /clear ашиглан үргэлжлүүлэх заавар харагдана.\n\nSubagent-ууд үндсэн сессийн загвараар файлын унших болон MCP үр дүнг тооцдог алдааг засварласан. Third-party gateway дээрх context length алдааны асуудал, /stats-ийн Active days тооцоолол зэрэг олон бяцхан засвар багтсан тул шинэчлэхийг зөвлөж байна.",
-   "published": "2026-11-13T20:40:01Z",
-   "added": "2026-11-16T16:47:09Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "862b82cce5532207",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-   "image": "https://github.blog/wp-content/uploads/2026/11/645867806-878ea927-48c9-4765-a896-4a5f3d7b8f2e.jpg",
-   "title": "Upcoming deprecation of selected GitHub Copilot models in December",
-   "summary_en": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date…",
-   "title_mn": "GitHub Copilot: зарим загваруудыг 12-р сарын 14-нд хасна",
-   "summary_mn": "GitHub 2026 оны 12-р сарын 14-нд Copilot-ийн зарим загваруудыг бүх туршлагаас хасна. Claude Haiku 4.5 нь жилийн төлөвлөгөөтэй хувь хэрэглэгчдэд хэвээр үлдэнэ.",
-   "body_mn": "GitHub Copilot-ийн зарим загваруудыг 2026 оны 12-р сарын 14-нд Copilot Chat, inline edits, ask болон agent горим, код дуусгалт зэрэг бүх туршлагаас хасахаа зарлалаа. Жагсаалтын дэлгэрэнгүй нэр текстэд бүрэн ирээгүй байна.\n\nClaude Haiku 4.5 загварыг жилийн төлөвлөгөөтэй хувь Copilot хэрэглэгчид хэвээр ашиглах боломжтой. Бусад хэрэглэгчид хасагдах өдрөөс өмнө workflow болон интеграцаа дэмжигдсэн загварт шилжүүлэх шаардлагатай.\n\nEnterprise болон Business байгууллагууд Copilot settings-ийн model policy-оор орлуулах загваруудыг идэвхжүүлэх боломжтой. Хэрэв глобал default-ыг унтраасан бол гараар идэвхжүүлнэ. Девелоперт энэ нь API болон CI дэх загварын нэрийг шинэчлэх хугацааны шаардлага болно.",
-   "published": "2026-11-13T20:40:05Z",
-   "added": "2026-11-16T16:47:09Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b8279d85652e3e97",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.51.0",
-   "image": "https://opengraph.githubassets.com/d85bb203907bae927606a2fd6e368bb9f32ae8a968eb9e083d04248850f5cee5/openai/openai-python/releases/tag/v3.51.0",
-   "title": "openai-python v3.51.0",
-   "summary_en": "3.51.0 (2026-11-12) Features api: expand agent, image, Live, and external key support ( #4269 ) ( 59738a2 )",
-   "title_mn": "openai-python v3.51.0 гарлаа: agent, image, Live болон external key дэмжлэг нэмэгдлээ",
-   "summary_mn": "OpenAI-ийн Python SDK-ийн 3.51.0 хувилбар гарсан бөгөөд api хэсэгт agent, image, Live болон external key-ийн дэмжлэгийг өргөтгөжээ. Хувилбарын тайлбарт дэлгэрэнгүй тоо мэдээлэл өгөөгүй байна.",
-   "body_mn": "OpenAI-ийн openai-python SDK-ийн шинэ 3.51.0 хувилбар 2026 оны 11-р сарын 12-ны өдөр гарсан гэж хувилбарын тэмдэглэлд дурджээ.\n\nХувилбарын тэмдэглэлд api хэсэгт agent, image, Live болон external key-ийн дэмжлэгийг өргөтгөсөн гэж бичсэн байна. Мөн энэ өөрчлөлтийг #4269 pull request-тэй холбож, commit 59738a2-ээр бүртгэжээ.\n\nЭнэ нь Python-оор OpenAI API дээр суурилсан апп бичдэг хөгжүүлэгчдэд шууд хамаарна. Шинэ хувилбарт шинэчлэх тохиолдолд agent болон image-тэй холбоотой функцүүдийг SDK-аар ашиглах боломж нээгдэх магадлалтай. Гэхдээ тэмдэглэлд тодорхой API өөрчлөлт, breaking change-ийн талаар мэдээлэл байхгүй тул шинэчлэхийн өмнө changelog-ийг нарийвчлан шалгахыг зөвлөж байна.",
-   "published": "2026-11-13T21:12:49Z",
-   "added": "2026-11-16T16:47:09Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "12418f9c0ee65d2b",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6tryQEh3VSGURHidm4Bzvw/5a7daa7c669ba75441a0ea4971036b79/download__9_.jpeg",
-   "title": "Daemons can now send traces to Vercel Tracing",
-   "summary_en": "Vercel Daemons can now send OpenTelemetry traces to Vercel Tracing , allowing you and your agents to inspect background worker operations alongside the rest of your project's traces. Vercel provides each daemon with a Unix socket for receiving OTLP/HTTP traces and sets the socket's path in VERCEL_OTEL_SOCKET_PATH . Upgrading @vercel/otel to version 2.3.0 or later enables automatic trace export for Node.js daemons using the default configuration. The SDK detects this socket and sends the spans your worker records to Vercel. These spans are available through the Vercel CLI , which can search…",
-   "title_mn": "Vercel Daemons одоо трейсээ Vercel Tracing рүү илгээх боломжтой боллоо",
-   "summary_mn": "Vercel Daemons нь OpenTelemetry трейсүүдээ Vercel Tracing рүү илгээж, background worker-ийн үйл ажиллагааг проектийн бусад трейстэй зэрэгцүүлэн харах боломжтой боллоо. @vercel/otel 2.3.0 ба түүнээс дээш хувилбар автоматаар экспорт хийнэ.",
-   "body_mn": "Vercel Daemons одоо OpenTelemetry трейсүүдээ Vercel Tracing рүү илгээх боломжтой боллоо. Энэ нь хөгжүүлэгч болон агентууд background worker-ийн үйл ажиллагааг проектийн бусад трейстэй хамт шалгах боломжийг олгоно.\n\nVercel нь daemon бүрт OTLP/HTTP трейс хүлээн авах Unix socket өгч, түүний замыг VERCEL_OTEL_SOCKET_PATH орчны хувьсагчид тавьдаг. @vercel/otel 2.3.0 эсвэл түүнээс дээш хувилбарт шинэчилбэл Node.js daemon-уудад стандарт тохиргоогоор автоматаар трейс экспортлох болно. SDK socket-ийг илрүүлж, worker-ийн бичсэн span-уудыг Vercel рүү илгээнэ.\n\nЗөвлөмжийн дагуу OpenTelemetry-г worker эхлэхээс өмнө инициализ хийх шаардлагатай. Span-уудад Vercel CLI-аар проектын доторх service name-ээр хайж, JSON хэлбэрээр авах боломж бий. Жишээ нь сүүлийн нэг цагийн daemon span-уудыг JSON-оор татах командыг тайлбарт өгсөн байна.\n\nЭнэ өөрчлөлт нь background job болон worker-уудаа Vercel дээр ажиллуулдаг хөгжүүлэгчдэд алдаа хайх, гүйцэтгэлийг хянахад илүү хялбар орчин бүрдүүлнэ. Дэлгэрэнгүйг daemon tracing баримт бичгээс харж болно.",
-   "published": "2026-11-13T22:24:00Z",
-   "added": "2026-11-16T16:47:09Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "f36760f448903c88",
    "subtopic": "anthropic",
    "source": "Anthropic (Google News)",
@@ -617,6 +417,126 @@
    "added": "2026-11-18T01:05:51Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9aac4255dc9fce58",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Decoder",
+   "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude-2.png",
+   "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+   "summary_en": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more than 400. A \"Dreaming\" process retroactively corrects faulty memories.",
+   "title_mn": "Anthropic: AI агентын санах ойд юу хадгалахаас илүү юуг мартах нь чухал",
+   "summary_mn": "Anthropic компани Claude агентын сесс хоорондын мэдээллийн санах ойг судлахад хэт их архив үүсгэхээс илүүтэй зорилтот тэмдэглэл хөтлөх нь илүү үр дүнтэй болохыг тогтоожээ. Мөн загвар өөрийн тэмдэглэлээ эргэн харах буюу 'зүүдлэх' аргаар алдаагаа засдаг байна.",
+   "body_mn": "AI агентуудтай олон өдрийн турш төсөл дээр ажиллахад сесс бүр шинээр эхэлдэг тул тодорхой хязгаар тулгардаг. Anthropic компани судалгаандаа Claude загвар сесс хооронд мэдээллийг хэрхэн хадгалж үлдэх талаар судалжээ. Үүний тулд Claude өөрийн уншиж болох тусгай хавтсанд тэмдэглэл үлдээх аргуудыг туршиж үзсэн байна.\n\nСудалгаанаас харахад өмнөх үеийн загварууд бүх зүйлийг эмх замбараагүй хадгалж, үр ашиггүй ажилладаг байсан бол илүү шинэ загварууд зөвхөн төлөвлөгөө, стратегийг тэмдэглэж илүү өндөр үр дүнд хүрсэн байна. Тухайлбал, агентуудад тодорхой зорилго өгч, тэмдэглэлээ хэрхэн ашиглахыг зааж өгөх нь чухал аж. Гэсэн хэдий ч агент буруу тэмдэглэлд итгэх эрсдэлтэй байдаг тул 'Dreaming' буюу зүүдлэх аргачлалыг боловсруулжээ. Энэ нь Claude завсарлагааны үеэр өмнөх сессийн тэмдэглэлийг бодит түүхтэй тулган шалгаж, алдаагаа засах боломжийг олгодог.\n\nЭнэхүү арга нь зөвхөн тоглоом тоглоход зориулагдаад зогсохгүй том хэмжээний баримт бичгийн сан болон вики үүсгэхэд маш үр дүнтэй болох нь батлагдсан байна. Claude вики болон хайлтын системийг хослуулан ашигласнаар олон баримт бичгээс мэдээлэл хайх чадвараа эрс сайжруулж чаджээ. Гэсэн хэдий ч тэмдэглэл хөтлөх нь нэмэлт тооцоолол шаардах болон цаг хугацаа алдах зэрэг сул талуудтай хэвээр байна.",
+   "published": "2026-11-16T15:28:34Z",
+   "added": "2026-11-18T08:45:22Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7f255190741c0179",
+   "subtopic": "css-web",
+   "source": "CSS-Tricks",
+   "source_label": "CSS-Tricks",
+   "url": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
+   "image": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png",
+   "title": "Staggering Scroll-Driven Animations with animation-range-start",
+   "summary_en": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value. Staggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+   "title_mn": "CSS scroll-driven хөдөлгөөнт дүрс болон animation-range-start шинж чанар",
+   "summary_mn": "CSS ашиглан хуудасны гүйлгэлттэй холбоотой хөдөлгөөнт дүрс үүсгэхэд нарийн төвөгтэй томьёо ашиглахын оронд орчин үеийн animation-range-start шинж чанарыг ашиглах нь илүү хялбар бөгөөд үр дүнтэй болохыг хэлэлцжээ.",
+   "body_mn": "Frontend хөгжүүлэлтэд scroll-driven буюу хуудас гүйлгэхэд зориулсан хөдөлгөөнт дүрсүүдийг үүсгэхдээ олон төрлийн шинэ CSS боломжууд болон математик томьёог хослуулан ашиглах нь элбэг байдаг. Зарим тохиолдолд энэ нь маш нарийн төвөгтэй алгоритм шаарддаг бөгөөд хөгжүүлэгчдийн хувьд ойлгоход хүндрэлтэй том томьёонууд бий болдог.\n\nГэсэн хэдий ч орчин үеийн CSS стандартууд нь цаг хугацаанд суурилсан хөдөлгөөнт дүрсээс гадна гүйлгэх явцад шууд хяналт тавих боломжийг хэдийнэ олгож эхэлсэн байна. Жишээлбэл, хуучны animation-delay шинж чанар нь гүйлгэх хөдөлгөөнд шууд нөлөөлдөггүй бол animation-range-start нь хөдөлгөөнт дүрс эхлэх цэгийг гүйлгэлийн явцтай уялдаатайгаар нарийн тохируулах боломжийг олгодог.\n\nТиймээс хэт төвөгтэй математик томьёо ашиглаж кодоо хүндрүүлэхийн оронд хөтөчийн дэмждэг native шинж чанарууд болох scroll timelines болон range тохиргоонуудыг ашиглах нь илүү цэвэр бөгөөд оновчтой шийдэл юм.",
+   "published": "2026-11-16T16:47:05Z",
+   "added": "2026-11-18T08:45:22Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0dce9358c2ec6d96",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "The Decoder",
+   "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+   "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+   "summary_en": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to release smaller Qwen4 models as open source.",
+   "title_mn": "Alibaba компани Opus 5.5 болон GPT-6-тай өрсөлдөх Qwen4-Max загвараа танилцууллаа",
+   "summary_mn": "Alibaba компанийн шинээр танилцуулсан Qwen4-Max нь 2.4 их наяд параметр бүхий томоохон mixture-of-experts загвар бөгөөд үнийг нь мэдэгдэхүйц бууруулж, салбар бүрийн мэргэжлийн ажлуудад зориулжээ.",
+   "body_mn": "Alibaba компани хиймэл оюун ухааны зах зээлд OpenAI-ийн GPT цуврал болон Anthropic-ийн загваруудтай өрсөлдөх зорилготой Qwen4-Max загвараа албан ёсоор танилцууллаа. Энэхүү шинэ флагман загвар нь илүү үр ашигтай архитектур болон хямд өртөгтэйгээрээ онцлог юм.\n\nQwen4-Max нь 2.4 их наяд параметр агуулсан хэдий ч нэг токен тутамд ердөө 71 тэрбум параметрийг идэвхжүүлдэг MoE архитектуртай бөгөөд 1 сая токенийн контекст цонхыг дэмждэг. Шинэ архитектур нь өмнөх контекстийг шахаж нэгтгэх замаар тооцооллын зардлыг эрс багасгаж чадсан байна. Alibaba-ийн дотоод болон гадаад хэмжүүрээр уг загвар нь аж үйлдвэр, шинжлэх ухаан, санхүүгийн салбарын даалгаваруудад өндөр үр дүнтэй болохоо харуулжээ.\n\nҮнийн хувьд Qwen4-Max нь өмнөх үеийн загваруудаа болон өрсөлдөгчдийн бүтээгдэхүүнийг бодвол API ашиглалтын өртгийг мэдэгдэхүйц хямдруулсан байна. Artificial Analysis болон бусад үнэлгээгээр энэхүү загвар нь гүйцэтгэл болон үнийн харьцаагаараа зах зээлд хүчтэй өрсөлдөгч болон гарч ирж байгаа ажээ.",
+   "published": "2026-11-16T16:58:45Z",
+   "added": "2026-11-18T08:45:22Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7d188b742715c3bc",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/iajKgHHs29vQXYUZMuMOy/061c4066e956c6ecb840b3a697cd97d2/image__100_.png",
+   "title": "Hy4 Flash now available on AI Gateway for 50% off",
+   "summary_en": "Hy4 Flash from Tencent is now available on AI Gateway with an introductory 50% discount on input, cached input, and output tokens through November 29, 2026. Hy4 Flash is the new lower-cost model in the Hy4 family. It keeps the full Hy4 feature set at roughly a tenth of the price per token: reasoning with preserved thinking across turns, tool calling, structured outputs, prompt caching, and image input, with the same 1M-token context window. Reasoning can be turned off for requests that don't need it, which suits high-volume coding, agent, and document workloads. Use tencent/hy4-flash as the…",
+   "title_mn": "AI Gateway дээр Tencent-ийн Hy4 Flash загвар 50% хямдарлаа",
+   "summary_mn": "Tencent-ийн Hy4 Flash загвар AI Gateway дээр нэмэгдэж, 11 дүгээр сарын 29 хүртэл 50%-ийн хямдралтайгаар ашиглагдах боломжтой боллоо. Энэхүү загвар нь 1 сая токенийн контекст цонх болон бүрэн боломжуудыг бага үнээр санал болгож байна.",
+   "body_mn": "Tencent компанийн шинэ Hy4 Flash загвар AI Gateway дээр албан ёсоор гарч, оролт, кешлэгдсэн оролт болон гаралт токенууд дээр 11 дүгээр сарын 29 хүртэл 50%-ийн хямдрал зарлалаа. Hy4 Flash нь өмнөх Hy4 загварынхаа үндсэн боломжуудыг хадгалан үлдсэн бөгөөд нэг токений үнийг ойролцоогоор арав дахин бууруулсан байна.\n\nЭнэхүү загвар нь эргэлт хоорондын санаа бодлыг хадгалах, функц дуудах (tool calling), бүтцэд орон зай гаргах, промпт кешлэлт, зургийн оролт зэрэг бүх үндсэн шинж чанарыг дэмжихийн зэрэгцээ 1 сая токенийн контекст цонхтой хэвээр үлджээ. Шаардлагагүй үед эргэцүүлэл (reasoning)-ийг унтрааж болох тул өндөр ачаалалтай код бичих, агент болон баримт бичиг боловсруулах ажилд маш тохиромжтой.\n\nClaude Code, Codex, Cursor зэрэг хэрэгслүүдэд ашиглахын тулд хэрэглэгчид Vercel CLI-ийн хамгийн сүүлийн хувилбарыг суулгаж, тохиргоо хийхэд хангалттай. AI Gateway нь үйлчилгээ үзүүлэгчдийн үнийг нэмэгдэлгүйгээр нэгдсэн API-аар хангаж, өгөгдөл хадгалахгүй байх (Zero Data Retention) болон зардлын хязгаарлалтын дэмжлэг үзүүлдэг.",
+   "published": "2026-11-16T17:00:00Z",
+   "added": "2026-11-18T08:45:22Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4eca17a808cb9db0",
+   "subtopic": "design-systems",
+   "source": "Figma Blog",
+   "source_label": "Figma Blog",
+   "url": "https://www.figma.com/blog/1password-figma-make/",
+   "image": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format",
+   "title": "How 1Password uses Figma Make to design for trust and certainty",
+   "summary_en": "From autofill to AI agent approvals, every 1Password interaction counts. Here's how the design team uses Figma Make to design moments users trust.",
+   "title_mn": "1Password компани Figma Make ашиглан дизайн боловсруулж байна",
+   "summary_mn": "Аюулгүй байдлын 1Password компани Figma Make хэрэгслийг ашиглан хэрэглэгчдийн итгэлийг хүлээсэн UI дизайн гаргаж байна. Дизайн системээ AI хэрэгслүүдэд зориулан автоматжуулж байна.",
+   "body_mn": "1Password компани хэрэглэгчдэд итгэлцлийг бий болгох үүднээс Figma Make болон Figma AI бүх боломжуудыг ашиглаж эхэлжээ. Компанийн дизайны баг олон жилийн турш бий болгосон зааварчилгаа, контент дизайн, бүрэлдэхүүн хэсгүүдээ хиймэл оюун ухааны агентууд шууд ойлгож ажиллахаар баримтжуулсан байна.\n\nИнгэснээр хөгжүүлэгчид болон дизайрнерууд Figma Make ашиглан кодын бүтцийг хадгалсан байдлаар шууд прототип хийх боломжтой болжээ. Figma-ийн Code Connect технологийн тусламжтайгаар бүрэлдэхүүн хэсгүүд нь багийн хуваалцсан Figma сан болон кодын сан хоорондоо шууд уялдаж ажилладаг.\n\nЭнэхүү арга нь дизайны багт бүтээгдэхүүний өөрчлөлтийг хурдан хийх, агентуудад тодорхой хязгаарлалт, дүрэм журмын хүрээнд UI үүсгэх боломжийг олгож байна.",
+   "published": "2026-11-16T18:03:00Z",
+   "added": "2026-11-18T08:45:22Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5759ca3f46335abe",
+   "subtopic": "nestjs",
+   "source": "nestjs/nest",
+   "source_label": "nestjs/nest",
+   "url": "https://github.com/nestjs/nest/releases/tag/v12.5.1",
+   "image": "https://opengraph.githubassets.com/5e82e566226b8719eb2853ff0bf5962f823e0aac926ac699b6e6fdd53cccf782/nestjs/nest/releases/tag/v12.5.1",
+   "title": "nest v12.5.1",
+   "summary_en": "v12.5.1 (2026-11-16) Features core #18523 feat(core): accept module metadata as the root module ( @kamilmysliwiec ) Bug fixes common #18515 fix(common): reject a date past the end of its month in parse date pipe ( @jaeminbird ) microservices #18521 fix(microservices): decode each value of a repeated kafka header ( @yuvrajtiwary-bitmesraece ) #18512 fix(microservices): stop a kafka connection attempt once the client is closed ( @BillWGong ) platform-node #18509 fix(node): render nunjucks views through an Environment ( @xh123637 ) Enhancements microservices #18525 feat(microservices): graceful…",
+   "title_mn": "NestJS v12.5.1: модуль metadata-г root модуль болгож, RMQ, TCP, MQTT серверүүдэд graceful shutdown нэмэв",
+   "summary_mn": "NestJS v12.5.1 хувилбар core дээр module metadata-г root модуль болгон ашиглах боломжийг нэмсэн. Microservices талд RMQ, TCP, MQTT, Redis, NATS серверүүдэд graceful shutdown дэмжлэг нэмэгдсэн.",
+   "body_mn": "NestJS-ийн v12.5.1 хувилбар 2026 оны 11 дүгээр сарын 16-нд гарлаа. Гол шинэ боломж бол core модульд module metadata-г root модуль болгон дамжуулах чадвар юм.\n\nMicroservices хэсэгт graceful shutdown дэмжлэг хамгийн их нэмэгдсэн. RMQ, TCP, MQTT серверүүд болон Redis, NATS серверүүд хаагдахдаа зөв зохицуулалттай болсон байна.\n\nМөн алдаа засварууд орсон. Kafka холболтын оролдлого клиент хаагдсан үед зогсох, давтагдах Kafka header бүрийг зөв декодлох, parse date pipe нь сарын төгсгөлөөс хэтэрсэн огноог татгалзах, Nunjucks view-г Environment-аар рендер хийх зэрэг засварууд багтжээ.\n\nХөгжүүлэгчдэд ялангуяа микросервис ашигладаг төслүүд graceful shutdown-ийн шинэчлэлийг шалгаж, шинэчлэлт хийх нь зүйтэй. Бусад өөрчлөлтүүд ихэвчлэн засвар тул шууд нөлөөлөх магадлал бага.",
+   "published": "2026-11-16T18:57:12Z",
+   "added": "2026-11-18T08:45:22Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
   }
  }
 ]

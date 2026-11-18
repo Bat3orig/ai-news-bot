@@ -1,0 +1,17 @@
+{
+ "id": "7f255190741c0179",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
+ "image": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png",
+ "title": "Staggering Scroll-Driven Animations with animation-range-start",
+ "summary_en": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value. Staggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "title_mn": "CSS scroll-driven хөдөлгөөнт дүрс болон animation-range-start шинж чанар",
+ "summary_mn": "CSS ашиглан хуудасны гүйлгэлттэй холбоотой хөдөлгөөнт дүрс үүсгэхэд нарийн төвөгтэй томьёо ашиглахын оронд орчин үеийн animation-range-start шинж чанарыг ашиглах нь илүү хялбар бөгөөд үр дүнтэй болохыг хэлэлцжээ.",
+ "body_mn": "Frontend хөгжүүлэлтэд scroll-driven буюу хуудас гүйлгэхэд зориулсан хөдөлгөөнт дүрсүүдийг үүсгэхдээ олон төрлийн шинэ CSS боломжууд болон математик томьёог хослуулан ашиглах нь элбэг байдаг. Зарим тохиолдолд энэ нь маш нарийн төвөгтэй алгоритм шаарддаг бөгөөд хөгжүүлэгчдийн хувьд ойлгоход хүндрэлтэй том томьёонууд бий болдог.\n\nГэсэн хэдий ч орчин үеийн CSS стандартууд нь цаг хугацаанд суурилсан хөдөлгөөнт дүрсээс гадна гүйлгэх явцад шууд хяналт тавих боломжийг хэдийнэ олгож эхэлсэн байна. Жишээлбэл, хуучны animation-delay шинж чанар нь гүйлгэх хөдөлгөөнд шууд нөлөөлдөггүй бол animation-range-start нь хөдөлгөөнт дүрс эхлэх цэгийг гүйлгэлийн явцтай уялдаатайгаар нарийн тохируулах боломжийг олгодог.\n\nТиймээс хэт төвөгтэй математик томьёо ашиглаж кодоо хүндрүүлэхийн оронд хөтөчийн дэмждэг native шинж чанарууд болох scroll timelines болон range тохиргоонуудыг ашиглах нь илүү цэвэр бөгөөд оновчтой шийдэл юм.",
+ "published": "2026-11-16T16:47:05Z",
+ "added": "2026-11-18T08:45:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

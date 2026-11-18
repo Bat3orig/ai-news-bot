@@ -1,0 +1,17 @@
+{
+ "id": "0dce9358c2ec6d96",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "The Decoder",
+ "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+ "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+ "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+ "summary_en": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to release smaller Qwen4 models as open source.",
+ "title_mn": "Alibaba компани Opus 5.5 болон GPT-6-тай өрсөлдөх Qwen4-Max загвараа танилцууллаа",
+ "summary_mn": "Alibaba компанийн шинээр танилцуулсан Qwen4-Max нь 2.4 их наяд параметр бүхий томоохон mixture-of-experts загвар бөгөөд үнийг нь мэдэгдэхүйц бууруулж, салбар бүрийн мэргэжлийн ажлуудад зориулжээ.",
+ "body_mn": "Alibaba компани хиймэл оюун ухааны зах зээлд OpenAI-ийн GPT цуврал болон Anthropic-ийн загваруудтай өрсөлдөх зорилготой Qwen4-Max загвараа албан ёсоор танилцууллаа. Энэхүү шинэ флагман загвар нь илүү үр ашигтай архитектур болон хямд өртөгтэйгээрээ онцлог юм.\n\nQwen4-Max нь 2.4 их наяд параметр агуулсан хэдий ч нэг токен тутамд ердөө 71 тэрбум параметрийг идэвхжүүлдэг MoE архитектуртай бөгөөд 1 сая токенийн контекст цонхыг дэмждэг. Шинэ архитектур нь өмнөх контекстийг шахаж нэгтгэх замаар тооцооллын зардлыг эрс багасгаж чадсан байна. Alibaba-ийн дотоод болон гадаад хэмжүүрээр уг загвар нь аж үйлдвэр, шинжлэх ухаан, санхүүгийн салбарын даалгаваруудад өндөр үр дүнтэй болохоо харуулжээ.\n\nҮнийн хувьд Qwen4-Max нь өмнөх үеийн загваруудаа болон өрсөлдөгчдийн бүтээгдэхүүнийг бодвол API ашиглалтын өртгийг мэдэгдэхүйц хямдруулсан байна. Artificial Analysis болон бусад үнэлгээгээр энэхүү загвар нь гүйцэтгэл болон үнийн харьцаагаараа зах зээлд хүчтэй өрсөлдөгч болон гарч ирж байгаа ажээ.",
+ "published": "2026-11-16T16:58:45Z",
+ "added": "2026-11-18T08:45:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

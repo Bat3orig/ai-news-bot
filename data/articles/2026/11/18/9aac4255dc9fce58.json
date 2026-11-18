@@ -1,0 +1,17 @@
+{
+ "id": "9aac4255dc9fce58",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Decoder",
+ "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+ "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude-2.png",
+ "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+ "summary_en": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more than 400. A \"Dreaming\" process retroactively corrects faulty memories.",
+ "title_mn": "Anthropic: AI агентын санах ойд юу хадгалахаас илүү юуг мартах нь чухал",
+ "summary_mn": "Anthropic компани Claude агентын сесс хоорондын мэдээллийн санах ойг судлахад хэт их архив үүсгэхээс илүүтэй зорилтот тэмдэглэл хөтлөх нь илүү үр дүнтэй болохыг тогтоожээ. Мөн загвар өөрийн тэмдэглэлээ эргэн харах буюу 'зүүдлэх' аргаар алдаагаа засдаг байна.",
+ "body_mn": "AI агентуудтай олон өдрийн турш төсөл дээр ажиллахад сесс бүр шинээр эхэлдэг тул тодорхой хязгаар тулгардаг. Anthropic компани судалгаандаа Claude загвар сесс хооронд мэдээллийг хэрхэн хадгалж үлдэх талаар судалжээ. Үүний тулд Claude өөрийн уншиж болох тусгай хавтсанд тэмдэглэл үлдээх аргуудыг туршиж үзсэн байна.\n\nСудалгаанаас харахад өмнөх үеийн загварууд бүх зүйлийг эмх замбараагүй хадгалж, үр ашиггүй ажилладаг байсан бол илүү шинэ загварууд зөвхөн төлөвлөгөө, стратегийг тэмдэглэж илүү өндөр үр дүнд хүрсэн байна. Тухайлбал, агентуудад тодорхой зорилго өгч, тэмдэглэлээ хэрхэн ашиглахыг зааж өгөх нь чухал аж. Гэсэн хэдий ч агент буруу тэмдэглэлд итгэх эрсдэлтэй байдаг тул 'Dreaming' буюу зүүдлэх аргачлалыг боловсруулжээ. Энэ нь Claude завсарлагааны үеэр өмнөх сессийн тэмдэглэлийг бодит түүхтэй тулган шалгаж, алдаагаа засах боломжийг олгодог.\n\nЭнэхүү арга нь зөвхөн тоглоом тоглоход зориулагдаад зогсохгүй том хэмжээний баримт бичгийн сан болон вики үүсгэхэд маш үр дүнтэй болох нь батлагдсан байна. Claude вики болон хайлтын системийг хослуулан ашигласнаар олон баримт бичгээс мэдээлэл хайх чадвараа эрс сайжруулж чаджээ. Гэсэн хэдий ч тэмдэглэл хөтлөх нь нэмэлт тооцоолол шаардах болон цаг хугацаа алдах зэрэг сул талуудтай хэвээр байна.",
+ "published": "2026-11-16T15:28:34Z",
+ "added": "2026-11-18T08:45:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
