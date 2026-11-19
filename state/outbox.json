@@ -18,5 +18,25 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8987d9de82e06f88",
+   "subtopic": "css-web",
+   "source": "CSS-Tricks",
+   "source_label": "CSS-Tricks",
+   "url": "https://css-tricks.com/almanac/functions/s/scroll-state/",
+   "image": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp",
+   "title": "scroll-state()",
+   "summary_en": "The CSS scroll-state() query, surprisingly, has nothing to do with whether you’re doom-scrolling in a state of existential dread. It does, however, allow you to change the CSS used based on scrolling behavior. scroll-state() originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+   "title_mn": "CSS scroll-state() запрос: JavaScript-гүйгээр гүйлгэлтээс хамаарсан загвар",
+   "summary_mn": "CSS scroll-state() нь гүйлгэх үйлдлээс хамаарч CSS загвар хэрэглэх боломжийг олгодог. Буцах товчлуур, наалддаг навигацийг JavaScript-гүйгээр хийх боломжтой гэж CSS-Tricks тайлбарлав.",
+   "body_mn": "CSS-Tricks scroll-state() запрос нь гүйлгэх үйлдлийн төлөвөөс хамааран CSS загвар хэрэглэх боломжийг олгодог шинэ механизм гэж тайлбарлжээ. Энэ нь функц биш, харин @container запрос шиг ажилладаг бөгөөд тухайн контейнерийн онцлогийн утга тохирч байвал доторх загвар идэвхжинэ.\n\nЗапрос дөрвөн онцлогтой: scrolled нь контейнер тодорхой чиглэлд гүйлгэгдсэнийг, scrollable нь гүйлгэх боломжтойг, stuck нь sticky элемент наалдсаныг, snapped нь snap цэг наалдсаныг шалгана. Жишээлбэл, доош гүйлгэхэд \"Back to Top\" товчлуур доош гарч ирж, дээш гүйлгэхэд буцаж алга болно.\n\nЭнэ нь JavaScript-ийн scroll listener бичих шаардлагыг багасгаж, интерфэйсийн кодыг хялбар болгоно. Гэхдээ зарим хөтөч дээр дэмжлэг хязгаарлагдмал байж болзошгүй тул production-д ашиглахаас өмнө дэмжлэгийн мэдээллийг шалгах нь зүйтэй.",
+   "published": "2026-11-19T14:57:54Z",
+   "added": "2026-11-19T15:01:12Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]
