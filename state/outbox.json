@@ -98,5 +98,25 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "791451d6c4b42eeb",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Dilco_header.2e16d0ba.fill-1200x600.jpg",
+   "title": "Distributed LLM Training Across Metros: Streaming DiLoCo in MaxText",
+   "summary_en": "Streaming DiLoCo in MaxText enables developers to efficiently train large language models across geographically distributed TPU slices by streaming parameter fragments instead of synchronizing full models at every step. This approach slashes cross-slice communication volume by over 60× and eliminates network stalls, allowing seamless multi-datacenter scaling without degrading model convergence or quality.",
+   "title_mn": "DiLoCo алгоритм: MaxText-д Streaming DiLoCo-гоор хотын хооронд LLM сургах боломж",
+   "summary_mn": "Google DeepMind болон Google Research-ийн боловсруулсан DiLoCo алгоритмыг MaxText дээр хэрэгжүүлсэн тухай техникийн нийтлэл гарлаа. Streaming DiLoCo нь WAN холболтын үед сүлжээний зогсолтыг багасгаж, датацентрүүдийн хооронд LLM сургах боломжийг нээж өгнө.",
+   "body_mn": "Уламжлалт LLM сургалт нэг том кластер дээр, өндөр өргөнтэй холболтоор бүх төхөөрөмжийг байнга синхрончлох шаардлагатай байдаг. Гэвч тоног төхөөрөмжийн болон зардлын хязгаарлалт улмаас нэг слайсыг цаашид өргөтгөхөд хүндрэлтэй болж байна.\n\nDiLoCo (Distributed Low-Communication) нь өргөн талбайн сүлжээ (WAN) дээр, өндөр latency, бага bandwidth-тэй холболтод тэсвэртэй сургалт хийх зориулалттай тараасан оновчлолын алгоритм юм. Энэ алгоритмд бүх төхөөрөмж алхам бүрт градиентаа синхрончлохын оронд M бие даасан бүлэг (learner) өөрсдөө олон локал алхам хийж, харин харилцаа холбоо цөөн тооны давтамжтай явагддаг. Нийтлэлд дурдсанаар харилцаа холбооны давтамж H-р багасч, нэг хэсэг нь бараг 1-2 эрэмбээр цөөрдөг боловч загварын чанар харьцуулахад ойрхон хэвээр байдаг.\n\nVanilla DiLoCo-д загварын бүх жинг нэг дор дамжуулдаг тул H алхам тутам сүлжээ түр зуур удаашрах асуудал гардаг. Streaming DiLoCo нь загварын параметрийг P хэсэгт хувааж, H алхамын хугацаанд хэсэг бүрийг яг нэг удаа синхрончилдог. Ингэснээр өндөр, хэлбэлзэлтэй bandwidth-ийн хэрэгцээ багасна.\n\nЭнэ нь хэд хэдэн датацентр эсвэл WAN холболт дээр LLM сургах хүсэлтэй инженерүүдэд ач холбогдолтой. Нийтлэлд JAX болон MaxText дээрх хэрэгжилтийн талаар дэлгэрэнгүй тайлбарласан бөгөөд MFU-ийн сайжруулалтын талаар бодит тоонууд үзүүлсэн байна.",
+   "published": "2026-11-19T18:31:03Z",
+   "added": "2026-11-19T18:31:03Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]
