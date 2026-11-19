@@ -1,0 +1,17 @@
+{
+ "id": "950490d3b87d8a5e",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "MarkTechPost",
+ "url": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+ "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-14534-2-scaled.png",
+ "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
+ "summary_en": "Anthropic AI Team Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript in 1 step. Latest release",
+ "title_mn": "Claude Code-д Code Mode нэмэгдэж, хэрэгслийн дуудлагыг хялбарчиллаа",
+ "summary_mn": "Anthropic компани Claude Code хэрэгсэлд JavaScript ашиглан олон хэрэгслийн дуудлагыг нэг алхамаар хийх Code Mode горимыг нэмжээ.",
+ "body_mn": "Anthropic компани Claude Code хэрэгсэлд туршилтын журмаар Code Mode горимыг нэмсэн бөгөөд энэ нь Claude-д олон шат дамжлагатай ажлыг JavaScript код бичих замаар нэг мөчлөгт гүйцэтгэх боломжийг олгодог. Шинэ горим нь v2.1.323 хувилбараас эхлэн нэвтэрсэн байна.\n\nУг горимын тусламжтайгаар хөгжүүлэгчид олон команд зэрэг ажиллуулах, нэг үр дүнг дараагийн дуудлагад шууд дамжуулах замаар токен болон цаг хугацааг ихээхэн хэмнэх боломжтой болжээ. Хөгжүүлэгчид shell орчин эсвэл тохиргооны файл дээр тусгай хувьсагч идэвхжүүлснээр энэхүү туршилтын горимыг ашиглаж эхлэх юм.\n\nКод бичих болон олон холбоотой хэрэгслийн дуудлага хийх шаардлагатай үед энэхүү горим нь агентын хариу өгөх хурдыг сайжруулж, шаардлагагүй round-trip үйлдлүүдийг багасгахад чиглэгдсэн байна.",
+ "published": "2026-11-18T06:53:28Z",
+ "added": "2026-11-19T04:01:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

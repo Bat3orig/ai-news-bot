@@ -1,0 +1,17 @@
+{
+ "id": "58da586369f33999",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+ "image": "",
+ "title": "Research acceleration: The jagged frontier",
+ "summary_en": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+ "title_mn": "Код бичих агентууд хиймэл оюун ухааны судалгааг хэрхэн хурдасгаж байна вэ?",
+ "summary_mn": "OpenAI код бичих агентууд AI судалгааг хэрхэн хурдасгаж байгааг хэмжиж, гүйцэтгэлийн онцлогийг шинжлэлээ.",
+ "body_mn": "OpenAI компани код бичих агентууд хиймэл оюун ухааны судалгааны ажлыг хэрхэн хурдасгаж байгааг судалж, тэдгээрийн гүйцэтгэлийн зарим чиглэлд жигд бус байгааг онцоллоо. Судалгаагаар агентуудын чадавх хөгжиж байгаа хэдий ч зарим нарийн төвөгтэй ажлууд дээр ялгаатай үр дүн гарч байгааг харуулсан байна.\n\nЭнэхүү судалгаа нь цаашид системүүд бие даан өөрийгөө сайжруулах (recursive self-improvement) боломжид хэрхэн нөлөөлөх талаар чухал ойлголтуудыг өгч байна. Хөгжүүлэгчид болон судлаачид агентуудын чадварыг бодит төслүүдэд ашиглахад анхаарах ёстой хүчин зүйлсийг үүнд үндэслэн тодорхойлж байна.",
+ "published": "2026-11-18T08:00:00Z",
+ "added": "2026-11-19T04:01:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "9026aaa1d5288963",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Robotics_Banner.2e16d0ba.fill-1200x600.jpg",
-   "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
-   "summary_en": "Google's Gemini 4 Hydrogen brings strong spatial and embodied reasoning capabilities to a fast, efficient model built specifically for robotics. To help developers put these capabilities to work, the new Robotics plugin for Google Antigravity transforms the platform into a comprehensive workbench supporting rapid hardware bring-up, MuJoCo simulation, and closed-loop control. Developers can leverage these tools to transition from an unboxed robot arm to a fully functional real-to-sim-to-real application in an afternoon using natural language prompts and day-one support in the google-genai SDKs.",
-   "title_mn": "Gemini 4 Hydrogen загвар болон роботын хэрэгсэл гарлаа",
-   "summary_mn": "Google компани робот техникийн хэрэглээнд зориулсан Gemini 4 Hydrogen загвар болон Google Antigravity платформд зориулсан шинэ Robotics залгаасыг танилцууллаа.",
-   "body_mn": "Google компани робот техникийн салбарт зориулсан Gemini 4 Hydrogen хэмээх хурдан бөгөөд үр ашигтай загвраа албан ёсоор танилцууллаа. Энэхүү загвар нь орон зайн болон бодит орчныг ойлгох чадварыг өндөр хурдаар гүйцэтгэх зориулалттай юм.\n\nХөгжүүлэгчдэд зориулж Google Antigravity платформд Robotics залгаасыг нэмсэн байна. Энэхүү хэрэгсэл нь роботын тоног төхөөрөмж холбох, загварчлах, удирдлагын код бичих процессыг нэг доп төвлөрүүлж, богино хугацаанд ажиллуулах боломжийг олгодог.\n\nBenchmark үнэлгээгээр Gemini 4 Hydrogen нь камерын зураг дээр үндэслэн 6 тэнхлэгт робот гарыг амжилттай удирдах чадвараа харуулжээ. Мөн МуJoCo физик симулятор шууд ажиллах боломжтой болсноор код бичих явцдаа роботын хөдөлгөөнийг урьдчилан шалгах боломж бүрдсэн байна.",
-   "published": "2026-11-19T02:00:58Z",
-   "added": "2026-11-19T02:00:58Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5a0ccf73fdd1f18c",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_41reuz41re.2e16d0ba.fill-1200x600.jpg",
-   "title": "Build full-stack Android apps with Gemini in Google AI Studio",
-   "summary_en": "Google AI Studio now lets developers build, test, and ship full-stack Kotlin Android apps from a single prompt—complete with Cloud Firestore, Firebase Authentication, Firebase AI Logic, a faster HD emulator with audio, visual screenshot debugging, and direct publishing to your personal Google Play library.",
-   "title_mn": "Google AI Studio дээр Android апп бүтээх боломжтой боллоо",
-   "summary_mn": "Google AI Studio хэрэгсэл нь Kotlin хэл дээр бүтэн стек бүхий Android апп зохиож, Google Play Store руу шууд байршуулах боломжийг нээлээ.",
-   "body_mn": "Google AI Studio систем нь Gemini 4 Carbon болон Hydrogen загваруудад түшиглэн хөгжүүлэгчдэд бүрэн хэмжээний Android аппликейшн бүтээх боломжийг олгож эхэлжээ. Ганцхан хүсэлт өгөхөд л өгөгдлийн сан, хэрэглэгчийн нэвтрэх хэсэг, AI боломжтой апп бэлэн болох юм.\n\nШинэчлэлтийн хүрээнд Google Play Store-той шууд интеграци хийгдсэн бөгөөд туршилтын аппаа .aab файлд шилжүүлэн өөрийн утсан дээр шууд татаж ажиллуулах боломжтой болсон. Энэ нь хөгжүүлэгчдэд USB кабель холбохгүйгээр хурдан туршилт хийх нөхцөлийг бүрдүүлж байна.\n\nТүүнчлэн хувийн загварын шрифр ашиглах, өндөр нарийвчлалтай эмулятор болон Firebase backend үйлчилгээг автоматаар холбох зэрэг дэвшилтэт боломжууд нэмэгджээ.",
-   "published": "2026-11-19T02:00:58Z",
-   "added": "2026-11-19T02:00:58Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9f06504f03344897",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Screenshot_2026-11-11_at_4.46.52P.2e16d0ba.fill-1200x600.png",
-   "title": "Agents are sessions, not requests: size GKE node pools for AI agent sessions",
-   "summary_en": "AI agent sessions remain active and idle for most of the workday, making traditional one-Pod-per-session allocations inefficient for cluster resources. By using open-source tools like Agent Substrate and AX on GKE, developers can park idle sessions in object storage to release compute resources while maintaining session state. This approach optimizes resource utilization and reduces Kubernetes node costs by up to 40%.",
-   "title_mn": "AI агентын сессүүдэд зориулсан GKE нод пул тохиргоо",
-   "summary_mn": "Kubernetes кластер дээр AI агентын сессийн ажиллагааг оновчтой болгож, ашиглаагүй сул зогсолтын зардлыг бууруулах аргачлалыг танилцууллаа.",
-   "body_mn": "Байгууллагууд код бичих агентуудаа хөгжүүлэгчийн зөөврийн компьютерээс хуваалцсан GKE кластер руу шилжүүлэх явцад зардлын асуудал тулгардаг. Энгийн вэб хүсэлтээс ялгаатай нь AI агент сесс бүтэн өдрийн турш нээлттэй байж, санах ойгоо хадгалдаг хэдий ч ихэнх цагт хэрэглэгчийн хариуг хүлээж сул зогсдог.\n\nСудалгаагаар агентын ажиллах хугацааны 78 орчим хувь нь хүлээхэд зарцуулагддаг байна. Үүнийг шийдвэрлэхийн тулд Agent Substrate болон AX платформ нь сессийг нээлттэй байлгахын зэрэгцээ түр ашиглагдаагүй төхөөрөмжийн нөөцийг суллах боломжийг олгодог.\n\nAgent Substrate 1.0 хувилбар нь Google Kubernetes Engine (GKE) дээр албан ёсоор нээлттэй болсон ба энэ нь агентын тооцоолол болон төлөв байдлыг хооронд нь салгаж зардлыг хэмнэхэд тусална.",
-   "published": "2026-11-19T02:00:58Z",
-   "added": "2026-11-19T02:00:58Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ced02c8bc1cc59d8",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/tpu-model-design-considerations-and-optimization-guide/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/header_image_image.2e16d0ba.fill-1200x600.jpg",
-   "title": "TPU Model Design Considerations and Optimization Guide",
-   "summary_en": "The newly launched AI-Hypercomputer/tpu-codesign guide provides hardware-grounded design rules to help developers maximize performance on TPUs for LLMs and Mixture-of-Experts (MoE) workloads. Key principles include aligning reduction and output dimensions to 256 for systolic arrays, adopting LatentMoE to compress routed token traffic, and mapping parallel axes directly onto physical links.",
-   "title_mn": "Google TPU загвар зохион бүтээх болон оновчлох гарын авлага",
-   "summary_mn": "Google компани TPU хурдасгуур дээр machine learning загваруудыг илүү үр дүнтэй ажиллуулах open-source гарын авлагыг гаргалаа.",
-   "body_mn": "Google компани TPU (Tensor Processing Unit) төхөөрөмжийн архитекторт тохируулан маширга сургалтын загваруудыг оновчлох зорилгоор AI-Hypercomputer/tpu-codesign нээлттэй эх сурвалж бүхий гарын авлагыг танилцууллаа. TPU нь ерөнхий зориулалтын бус, зөвхөн маш хурдан тооцоололд зориулагдсан тул тодорхой дүрэм баримтлах шаардлагатай байдаг.\n\nЭнэхүү гарын авлагад хэмжээсийн тохиргоо, MoE (Mixture-of-Experts) болон LatentMoE архитектурууд, паралель ажиллагааны стратегийн талаар дэлгэрэнгүй тусгажээ. Ялангуяа матриц болон давхаргын хэмжээг 256-ийн үржвэр байхаар сонгох нь тоног төхөөрөмжийн үр ашгийг дээд зэргээр нэмэгдүүлдэг.\n\nМөн шинээр гарч буй TPU 8-р үеийн төхөөрөмжүүдийн онцлог, түүний дотор нарийн FP4 болон санах ойн шинэ технологиудын талаарх мэдээллүүдийг багтаасан байна.",
-   "published": "2026-11-19T02:00:58Z",
-   "added": "2026-11-19T02:00:58Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "95aabee9f2fced38",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/blog-banner.2e16d0ba.fill-1200x600.png",
-   "title": "Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection",
-   "summary_en": "This guide walks developers through setting up Agent Anomaly Detection on the Gemini Enterprise Agent Platform to monitor AI agent telemetry and catch behavioral risks. It demonstrates how to deploy a sample customer support agent, trigger out-of-scope security findings, and configure proactive alerts using Cloud Monitoring and Security Command Center.",
-   "title_mn": "AI агентын хэвийн бус үйл ажиллагааг илрүүлэх хэрэгсэл",
-   "summary_mn": "Gemini платформ дээр агентуудын аюулгүй байдлыг хангаж, заагдсан хязгаараас гадуур үйлдэл хийхийг хянах Agent Anomaly Detection танилцуулагдлаа.",
-   "body_mn": "AI агентууд бие даан захидал унших, санхүүгийн гүйлгээ хийх зэрэг олон эрх мэдэлтэй болохын хэрээр тэдний гаргасан нэг буруу шийдвэр компанид өндөр өртөгтэй тусч болзошгүй юм. Эдгээр эрсдэлээс хамгаалах зорилгоор Gemini платформ дээр Agent Anomaly Detection систем ажиллаж эхэлжээ.\n\nЭнэхүү систем нь агентуудын үйл ажиллагааны түүх болон log мэдээллийг систем ачаалалгүйгээр цаана нь шалгаж, тухайн агент зорилгоосоо хазайсан эсвэл хортой үйлдэл хийсэн эсэхийг тодорхойлдог. Системийг туршиж үзэхэд зориулсан Jupyter notebook жишээг мөн бэлтгэжээ.\n\nХөгжүүлэгчид Cloud Logging болон тусгай орчныг ашиглан өөрсдийн бүтээсэн агентуудыг хяналтад оруулах боломжтой бөгөөд энэ нь OWASP стандарттай бүрэн нийцдэг байна.",
-   "published": "2026-11-19T02:00:58Z",
-   "added": "2026-11-19T02:00:58Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "005440d49aa89ed8",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/title-image.2e16d0ba.fill-1200x600.png",
-   "title": "Catch Go bugs that fuzzing misses with Gemini and a constraint solver",
-   "summary_en": "How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.",
-   "title_mn": "Go хэлний алдаа илрүүлэлтэд Gemini болон Z3 ашиглах нь",
-   "summary_mn": "Go хэлний код дахь нуугдмал алдаануудыг Gemini 4 Argon болон Z3 constraint solver ашиглан илрүүлэх шинэ аргачлал.",
-   "body_mn": "Go хэл дээр бичигдсэн програм хангамж дахь санах ойн хязгаараас хэтэрсэн алдаа эсвэл хэвийн бус ажиллагааг илрүүлэхэд энгийн fuzzing тест хангалтгүй байх тохиолдол гардаг. Үүнийг шийдвэрлэхийн тулд Gemini 4 Argon болон Z3 constraint solver хамтран ажиллах шинэ арга туршиж байна.\n\nКомпанийн ажилтан skill-lint хэрэгсэл дээр туршилт хийж, компиляторын үлдээсэн runtime.panicBounds шалгалтуудыг задлан шинжилж, Gemini загвараар дамжуулан Z3 формат руу хөрвүүлжээ. Ингэснээр агентод хяналтын урсгалыг шинжлэх, тодорхой алдаа гаргах оролтуудыг зохиох боломж олгож, энгийн тестүүдийн анзаараагүй нуугдмал алдааг амжилттай илрүүлсэн байна.",
-   "published": "2026-11-19T02:00:58Z",
-   "added": "2026-11-19T02:00:58Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "548af7c4772d0fa2",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Banner_-_1600x900.2e16d0ba.fill-1200x600.png",
-   "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
-   "summary_en": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks, AAD successfully caught 87% of harmful instructions carried out by agents without adding runtime latency. Developers can integrate AAD alongside semantic governance and strict tool limits as part of a defense-in-depth strategy to secure agentic applications.",
-   "title_mn": "Agent Anomaly Detection хамгаалалтын бенчмарк үр дүн",
-   "summary_mn": "Google-ийн Agent Anomaly Detection систем агентын хортой заль мэх болон зорилго алдагдахаас хэрхэн хамгаалдагийг олон улсын бенчмаркаар шалгалаа.",
-   "body_mn": "AI агентууд хэрэглэгчийн өмнөөс вэб хуудас үзэж, мөнгө шилжүүлэх үед өгөгдөл дамжуулан агентын зорилгыг өөрчлөх оролдлогууд (goal hijack) гардаг. Google компани өөрийн Agent Anomaly Detection системийг олон нийтэд танигдсан таван өөр агентын аюулгүй байдлын бенчмаркаар туршиж үзжээ.\n\nТуршилтаар уг систем нь агентын гүйцэтгэсэн хортой үйлдлүүдийн 87 хувийг амжилттай олж илрүүлсэн байна. Систем нь агентын үндсэн үйл ажиллагааны хэв маягийг судалж, зөрчил гарсан тохиолдолд шууд анхааруулдаг.\n\nЭнэхүү үр дүн нь OWASP Top 10 жагсаалтад багтсан агентын алдаа болон зөвшөөрөлгүй үйлдэл хийх эрсдэлээс хамгаалахад тун өндөр үр дүнтэй болохыг харуулж байна.",
-   "published": "2026-11-19T02:00:58Z",
-   "added": "2026-11-19T02:00:58Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "670d80cdae87ec1b",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_iu9r44iu9r.2e16d0ba.fill-1200x600.jpg",
-   "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
-   "summary_en": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including React, Angular, Lit, Flutter, SwiftUI, and Jetpack Compose—alongside agent SDKs for Python, TypeScript, and Dart. The release introduces bidirectional function calls, swappable inference formats, and secure data binding to help teams seamlessly integrate generative UI into their product stacks.",
-   "title_mn": "A2UI 1.0: Интерактив UI бүхий генератив AI платформ гарлаа",
-   "summary_mn": "Google компани AI агентуудтай харилцах харилцааг текстэн хэлбэрээс интерактив UI дэлгэц рүү шилжүүлэх A2UI 1.0 протоколыг зарлалаа.",
-   "body_mn": "Өнөөдрийн байдлаар AI агентуудтай хийх ихэнх харилцаа зөвхөн текстэн хэлбрээр явагдаж байгаа нь олон төрлийн сонголт хийхэд төвөгтэй байдаг. Үүнийг шийдвэрлэх зорилгоор A2UI 1.0 буюу генератив UI-д зориулсан нээлттэй протоколыг албан ёсоор танилцууллаа.\n\nЭнэхүү шинэ протокол нь AI агентад зөвхөн текст биш, харин интерактив карт, форм, график зэргийг шууд дүрслэн харуулах боломжийг олгодог. Хөгжүүлэгчид вэб, Android, iOS болон Python, TypeScript хэл дээрх SDK-уудыг ашиглан үүнийг өөрийн аппдаа суулгах боломжтой.\n\nAtlassian, Bloomberg, ByteDance зэрэгмод компаниуд хэдийнэ энэ стандартыг ашиглаж эхэлсэн бөгөөд Jira болон бусад платформ дээр агентуудтай илүү ойлгомжтой байдлаар харилцах нөхцөлийг бүрдүүлж байна.",
-   "published": "2026-11-19T02:00:58Z",
-   "added": "2026-11-19T02:00:58Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e842bdb797573ce3",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_yd9gceyd9g.2e16d0ba.fill-1200x600.jpg",
-   "title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
-   "summary_en": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for optimized Android performance, or use MediaPipe Tasks and LiteRT for cross-platform open-weight model integration. This local pipeline seamlessly pairs lightweight speech models with on-device small language models like Gemini Nano and Gemma 4 to enable real-time streaming transcription and low-latency synthesis.",
-   "title_mn": "Google AI Edge Gallery: Төхөөрөмж дээр ажиллах яриа таних болон үг ярианы систем",
-   "summary_mn": "Google компани төхөөрөмж дээр шууд ажиллах ASR болон TTS чадамжийг Google AI Edge Gallery-д нэмлээ. Энэ нь офлайн орчинд дуу хоолойгоор харилцах, хэл сурах боломжийг бүрдүүлж байна.",
-   "body_mn": "Google компани төхөөрөмж дээр шууд ажиллах Автомат яриа таних (ASR) болон Үг яриа руу хөрвүүлэх (TTS) чадамжийг Google AI Edge Gallery-д нэмж оруулснаа зарлалаа. Сүүлийн үеийн хөнгөн жинтэй загварууд гар утас болон зүүдэг төхөөрөмж дээр интернэтгүйгээр, бага сааталтайгаар ажиллах боломжтой болсон юм.\n\nЭнэхүү шинэ боломж нь Gemini Nano болон Gemma 4 зэрэг төхөөрөмж дээр ажиллах хэлний загваруудтай хослон хэрэглэгчдийн яриаг шууд хөрвүүлж, байгалийн дуугаралттайгаар хариу өгөх боломжийг олгож байна. Хөгжүүлэгчид аялал жуулчлал болон бусад интернэтгүй орчинд ажиллах XR Language Teacher showcase зэрэг аппликейшнуудыг хөгжүүлэх боломжтой болжээ.\n\nAndroid болонクロス-платформ хөгжүүлэгчдэд зориулж ML Kit-ийн GenAI Speech Recognition болон Text-to-Speech API-уудыг санал болгож байна. Эдгээр API нь NPU болон TPU төхөөрөмжүүдийн аппарат хангамжийн хурдатгалыг ашиглан бүтээгдэхүүний түвшний чанарыг ямар нэгэн төвөгтэй тохиргоогүйгээр олгодог.\n\nЭнэхүү хөгжүүлэлт нь хөгжүүлэгчдэд гар утас болон ухаалаг шил зэрэг төхөөрөмжүүдэд зориулсан дуу хоолойд суурилсан, офлайн ажиллах чадвартай аппликейшн бүтээхэд өргөн боломж нээж өгч байна.",
-   "published": "2026-11-19T02:00:58Z",
-   "added": "2026-11-19T02:00:58Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f871eb5cbc09ced7",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_1v7191v719.2e16d0ba.fill-1200x600_dXFZafA.jpg",
-   "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
-   "summary_en": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash Attention kernel, these strategies effectively manage attention compute and memory bottlenecks without materializing full key-value sequences in high-bandwidth memory. Developers can adopt these capabilities in MaxText v0.2.4 to achieve high Model FLOPs Utilization (MFU) across large-scale model training workflows.",
-   "title_mn": "MaxText ашиглан TPU дээр олон сая токен бүхий контекст сургалт хийх боломжтой боллоо",
-   "summary_mn": "Google Cloud JAX сургалтын MaxText системд контекст параллелизмын дэмжлэг нэмэгдлээ. Энэ нь TPU дээр 14 сая хүртэлх токен бүхий урт контексттэй загваруудыг сургах боломж олгож байна.",
-   "body_mn": "Google Cloud компани JAX сургалтын нээлттэй эх сурвалжтай MaxText хүрээнд урт контексттэй сургалтыг дэмжих болсноо зарлалаа. Орчин үеийн хиймэл оюун ухааны загварууд бүхэл бүтэн код сан эсвэл олон цагийн видеог уншиж боловсруулахын тулд сая сая токенийн контекст цонх шаардлагатай болж байгаа билээ.\n\nMaxText нь Cloud TPU дээр All-gather, A2A, P2P болон тэдгээрийн холимог гэсэн дөрвөн үндсэн контекст-параллель стратегийг дэмждэг болсон. Энэ нь Токамакс Splash Attention цөмтэй хослуулан ажилласнаар нэг дарааллыг бүхэл бүтэн сервер дамнуулан хуваарилах боломжийг олгодог байна. Жишээлбэл, Llama 3.1 8B загвар нь TPU 5p дээр 4 сая токен хүртэлх дараалалд 70 хувийн MFU буюу загварын флопсын ашиглалтад хүрч чаджээ.\n\nШинэчлэлтийн хүрээнд TPU 5p болон TPU 7 архитектур дээр контекстийг 14 сая токен хүртэл саадгүй сунгах боломжтой болсон бөгөөд TPU 7 нь 6 сая хүртэлх хэмжээнд 50 хувийн MFU-г тогтвортой хадгалж байна. Энэхүү функционац нь MaxText v0.2.4 хувилбарт албан ёсоор нэвтэрсэн байна.\n\nЭнэхүү дэвшил нь том хэмжээний хэлний загвар болон агент систем хөгжүүлж буй инженерүүдэд олон сая токен бүхий урт өгөгдөлтэй ажиллах сургалтын дэд бүтцийг оновчтой болгох чухал алхам болж байна.",
-   "published": "2026-11-19T02:00:58Z",
-   "added": "2026-11-19T02:00:58Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "cb1f592a974901d2",
    "subtopic": "gemini",
    "source": "Google Developers Blog",
@@ -637,6 +437,166 @@
    "added": "2026-11-19T03:30:53Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b25263b5a22241eb",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-board-is-now-available",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/33ItNeQcFqSJu8SRUQpMZW/c708ae3da08edf300f489fbc62457bde/vercel_board_og_final.png",
+   "title": "Vercel Board is now available",
+   "summary_en": "Vercel Board is now available on all plans. It’s an experimental message board that gives agents a shared, secure place to coordinate tasks and keep context together. Use Board to build agent workflows, swarms, and software factories with: Each task’s discussion and results kept together in one thread. Control over which channels agents and users can access and what they can do. Messages and replies that sync both ways with Slack, GitHub, and other tools through Vercel Connect . Use your own agents, harnesses, and execution environments. Agents access Board through the Vercel CLI or…",
+   "title_mn": "Vercel Board нь агентуудад даалгавар удирдах боломж олгоно",
+   "summary_mn": "Vercel Board нь хиймэл оюун ухааны агентуудад даалгавар зохицуулах, контекст хуваалцах аюулгүй орчныг бүрдүүлдэг туршилтын мессежийн самбар юм.",
+   "body_mn": "Vercel platform дээр агентуудын хамтын ажиллагааг сайжруулах зорилготой Vercel Board нэртэй шинэ туршилтын мессежийн самбар нээгдлээ. Энэхүү хэрэгсэл нь агентуудад даалгаврын явц, хэлэлцүүлэг болон үр дүнг нэг урсгалд нэгтгэн хадгалах боломжийг олгодог бөгөөд багуудад ажлаа илүү үр дүнтэй зохион байгуулах нөхцөлийг бүрдүүлдэг.\n\nПлатформын хэрэглэгчид сувгуудын хандалтын эрхийг нарийн хянаж, агентууд болон хэрэглэгчдийн хийх үйлдлийг хязгаарлах боломжтой. Мөн Vercel Connect үйлчилгээгээр дамжуулан мессеж болон хариултууд нь Slack, GitHub зэрэг бусад хэрэгслүүдтэй хоёр талын холболтоор автоматаар синхрончлогддог.\n\nХөгжүүлэгчид өөрсдийн агентууд болон гүйцэтгэх орчныг ашиглах боломжтой бөгөөд Vercel CLI эсвэл JavaScript SDK ашиглан Board-тай холбогдох юм. Энэ нь олон агентын хамтарсан ажлын урсгал (swarm) болон програм хангамжийн автомат үйлдвэрүүдийг хөгжүүлэхэд чухал алхам болж байна.",
+   "published": "2026-11-18T05:00:00Z",
+   "added": "2026-11-19T04:01:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bdfe24b61e9de659",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/parallel-web-search-is-free-on-ai-gateway-and-eve-through-january-31",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1JYJ9wk75kgyze16wuPDft/afc58a2c25240e39277e82324afe8e68/parallel_og_final.png",
+   "title": "Parallel web search is free on AI Gateway and eve through January 31",
+   "summary_en": "Parallel web search in fast mode is now free on AI Gateway through January 31, 2027, and Parallel is now the default web search for eve agents. The tool works with any AI Gateway model, with no separate Parallel API key. Parallel finds relevant web pages and returns links with short excerpts. You can filter results by website or publication date. In eve, the built-in web_search tool uses Parallel fast mode automatically when the model is served through AI Gateway. See the eve documentation for other search configurations. To use Parallel fast mode with the AI SDK, add…",
+   "title_mn": "Vercel AI Gateway дээр Parallel вэб хайлт түр хугацаанд үнэгүй боллоо",
+   "summary_mn": "Vercel AI Gateway дээрх Parallel вэб хайлтын хурдан горим 1 дүгээр сарын 31 хүртэл үнэгүй ажиллах ба eve агентуудын үндсэн хайлт боллоо.",
+   "body_mn": "Vercel компани AI Gateway дээрх Parallel вэб хайлтын хурдан горимыг 2027 оны 1 дүгээр сарын 31 хүртэл бүрэн үнэгүй болгосноо зарлалаа. Энэхүү хэрэгсэл нь тусгай Parallel API түлхүүргүйгээр AI Gateway-ийн аль ч загвартай хамтран ажиллах боломжтой юм.\n\nParallel нь холбогдох вэб хуудсуудыг хайж олохдоо богино хэсэгчилсэн мэдээлэл болон холбоосыг буцаадаг бөгөөд хэрэглэгчид үр дүнг вэбсайт эсвэл нийтлэгдсэн огноогоор шүүж ашиглах боломжтой. Мөн eve агентуудад энэхүү Parallel fast горим анхдагч вэб хайлтын хэрэгслээр автоматаар тохируулагдсан байна.\n\nХөгжүүлэгчид AI SDK ашиглахдаа code блоктонд шаардлагатай нэмэлтүүдийг оруулснаар уг хайлтын горимыг хялбархан ашиглаж эхлэх боломжтой. Энэхүү үнэгүй үйлчилгээ нь өгөгдөл хадгалахгүй байх (Zero Data Retention) горимыг анхдагчаар дэмждэг ажээ.",
+   "published": "2026-11-18T05:00:00Z",
+   "added": "2026-11-19T04:01:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "99be0c0a7e074380",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/managing-frontier-ai-risk",
+   "image": "",
+   "title": "Managing frontier AI risk: From training to deployment",
+   "summary_en": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+   "title_mn": "OpenAI хиймэл оюун ухааны эрсдэлийг хэрхэн удирддаг вэ?",
+   "summary_mn": "OpenAI загварын сургалтаас эхлээд ашиглалтад оруулах хүртэлх аюулгүй байдлын хяналт, хамгаалалтын арга хэрэгслүүдээ танилцууллаа.",
+   "body_mn": "OpenAI компани хиймэл оюун ухааны хөгжлийн явцад тулгарч болох эрсдэлийг загвар сургалтаас эхлэн бодит хэрэглээнд нэвтрүүлэх хүртэлх хугацаанд хэрхэн удирддаг талаар мэдээллээ. Үүнд загварын зохицол (alignment), тусгаарлагдсан орчин (sandbox), хориглох хамгаалалтууд болон байнгын хяналт зэрэг аргууд багтаж байна.\n\nХөгжүүлэгчид болон технологийн салбарынхан хиймэл оюун ухааны аюулгүй байдал, хариуцлагатай хөгжүүлэлтийн талаарх энэхүү туршлагаас суралцах боломжтой. Компанийн зүгээс дэвшилтэт технологийн эрсдэлийг бууруулах нь цаашдын бүтээгдэхүүний хөгжилд нэн чухал болохыг онцолж байна.",
+   "published": "2026-11-18T06:00:00Z",
+   "added": "2026-11-19T04:01:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "950490d3b87d8a5e",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "MarkTechPost",
+   "url": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-14534-2-scaled.png",
+   "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
+   "summary_en": "Anthropic AI Team Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript in 1 step. Latest release",
+   "title_mn": "Claude Code-д Code Mode нэмэгдэж, хэрэгслийн дуудлагыг хялбарчиллаа",
+   "summary_mn": "Anthropic компани Claude Code хэрэгсэлд JavaScript ашиглан олон хэрэгслийн дуудлагыг нэг алхамаар хийх Code Mode горимыг нэмжээ.",
+   "body_mn": "Anthropic компани Claude Code хэрэгсэлд туршилтын журмаар Code Mode горимыг нэмсэн бөгөөд энэ нь Claude-д олон шат дамжлагатай ажлыг JavaScript код бичих замаар нэг мөчлөгт гүйцэтгэх боломжийг олгодог. Шинэ горим нь v2.1.323 хувилбараас эхлэн нэвтэрсэн байна.\n\nУг горимын тусламжтайгаар хөгжүүлэгчид олон команд зэрэг ажиллуулах, нэг үр дүнг дараагийн дуудлагад шууд дамжуулах замаар токен болон цаг хугацааг ихээхэн хэмнэх боломжтой болжээ. Хөгжүүлэгчид shell орчин эсвэл тохиргооны файл дээр тусгай хувьсагч идэвхжүүлснээр энэхүү туршилтын горимыг ашиглаж эхлэх юм.\n\nКод бичих болон олон холбоотой хэрэгслийн дуудлага хийх шаардлагатай үед энэхүү горим нь агентын хариу өгөх хурдыг сайжруулж, шаардлагагүй round-trip үйлдлүүдийг багасгахад чиглэгдсэн байна.",
+   "published": "2026-11-18T06:53:28Z",
+   "added": "2026-11-19T04:01:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "58da586369f33999",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "image": "",
+   "title": "Research acceleration: The jagged frontier",
+   "summary_en": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+   "title_mn": "Код бичих агентууд хиймэл оюун ухааны судалгааг хэрхэн хурдасгаж байна вэ?",
+   "summary_mn": "OpenAI код бичих агентууд AI судалгааг хэрхэн хурдасгаж байгааг хэмжиж, гүйцэтгэлийн онцлогийг шинжлэлээ.",
+   "body_mn": "OpenAI компани код бичих агентууд хиймэл оюун ухааны судалгааны ажлыг хэрхэн хурдасгаж байгааг судалж, тэдгээрийн гүйцэтгэлийн зарим чиглэлд жигд бус байгааг онцоллоо. Судалгаагаар агентуудын чадавх хөгжиж байгаа хэдий ч зарим нарийн төвөгтэй ажлууд дээр ялгаатай үр дүн гарч байгааг харуулсан байна.\n\nЭнэхүү судалгаа нь цаашид системүүд бие даан өөрийгөө сайжруулах (recursive self-improvement) боломжид хэрхэн нөлөөлөх талаар чухал ойлголтуудыг өгч байна. Хөгжүүлэгчид болон судлаачид агентуудын чадварыг бодит төслүүдэд ашиглахад анхаарах ёстой хүчин зүйлсийг үүнд үндэслэн тодорхойлж байна.",
+   "published": "2026-11-18T08:00:00Z",
+   "added": "2026-11-19T04:01:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "67952d9a918d2536",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/inside-the-codex-sandbox",
+   "image": "",
+   "title": "Inside the Codex sandbox",
+   "summary_en": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+   "title_mn": "Codex sandbox орчны ажиллах зарчим болон аюулгүй байдлын хязгаарлалт",
+   "summary_mn": "OpenAI нь Codex систем хэрэглэгчийн компьютер дээр файлыг болон сүлжээг хэрхэн хянаж ажилладаг талаар танилцууллаа.",
+   "body_mn": "OpenAI компани Codex хэрэгслийн ажиллах үндсэн зарчим болон аюулгүй байдлын хязгаарлалтуудыг танилцууллаа. Энэхүү систем нь macOS, Linux болон Windows үйлдлийн системүүд дээр файлын систем болон сүлжээний хандалтыг хэрэглэгчийн хяналтын дор аюулгүй байдлаар гүйцэтгэх боломжийг олгодог байна.\n\nХөгжүүлэгчид хиймэл оюун ухааны туслах хэрэгсэл ашиглах явцдаа кодыг шууд ажиллуулах үед гарч болох эрсдэлээс урьдчилан сэргийлэхэд энэхүү сандбоксын бүтэц чухал үүрэгтэй. Систем нь команд гүйцэтгэх явцыг нарийн хянаж, зөвшөөрөгдсөн хүрээнээс хэтрэхгүй байх нөхцөлийг бүрдүүлдэг юм.\n\nЭнэхүү мэдээлэл нь локал орчинд кодын автомат гүйцэтгэл ашигладаг хөгжүүлэгчдэд аюулгүй байдлын тохиргоогоо зөв хийхэд тустай юм. OpenAI хөгжүүлэлтийн явцыг аюулгүй байлгах үүднээс хязгаарлалтын тохиргоог хэрэглэгч өөрөө удирдах боломжтойгоор шийдвэрлэжээ.",
+   "published": "2026-11-18T08:00:00Z",
+   "added": "2026-11-19T04:01:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0a961e0e6d20bccd",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/introducing-vercel-board",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca600397c120c7550d2d2c36/e9a2d078b2229c537525478b237c707a/og-board__1_.png",
+   "title": "Introducing Vercel Board",
+   "summary_en": "Software development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn't a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many agents and subagents. We ran into this coordination problem internally and started experimenting with a shared message board as a primitive on two key projects: Our security agents : We deployed a swarm of agents to analyze our codebases for vulnerabilities, push fixes and updates, and now we track…",
+   "title_mn": "Vercel Board: Олон агентуудын хамтын ажиллагааг зохицуулах туршилтын систем",
+   "summary_mn": "Vercel компани хөгжүүлэгчид болон хиймэл оюун ухааны агентуудын ажлыг уялдуулан зохицуулах Vercel Board системийг зарлалаа.",
+   "body_mn": "Vercel компани олон агентууд болон хөгжүүлэгчдийн баг хоорондын ажлыг уялдуулан зохицуулах зорилготой Vercel Board нэртэй туршилтын системийг албан ёсоор танилцууллаа. Энэхүү хэрэгсэл нь агентуудын гүйцэтгэж буй ажлын явц, даалгавар, лог болон дууссан үр дүнг нэгдсэн байдлаар хянах боломжийг олгодог.\n\nПлатформын хувьд Claude Code, Codex, Mastra зэрэг олон төрлийн агент болон орчныг дэмжих бөгөөд JavaScript SDK эсвэл CLI ашиглан холбогдох боломжтой. Хоёр талын синхрончлолын тусламжтайгаар Slack болон GitHub зэрэг хэрэгслүүдтэй холбогдон мэдээллийг автоматаар солилцдог байна.\n\nЭнэхүү шийдэл нь хөгжүүлэгчдэд хиймэл оюун ухааны олон агентуудыг нэг баг болгон ажиллуулах, автоматжуулсан процесст хяналт тавих шинэ боломжийг нээж өгч байгаагаараа онцлог юм.",
+   "published": "2026-11-18T08:00:00Z",
+   "added": "2026-11-19T04:01:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f2a61bd67314dd42",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Tekedia",
+   "url": "https://www.tekedia.com/alibaba-releases-qwen4-max-a-2-4-trillion-parameter-ai-model-with-improved-efficiency/",
+   "image": "https://www.tekedia.com/wp-content/uploads/2025/11/alibaba-qwen.jpg",
+   "title": "Alibaba Releases Qwen4-Max, a 2.4 Trillion-Parameter AI Model With Improved Efficiency",
+   "summary_en": "Alibaba is strengthening its position in the global artificial intelligence race with the release of Qwen4-Max, a new large language model reportedly containing 2.4 trillion parameters. The latest development highlights China’s growing ambitions in advanced AI and intensifies competition among technology companies seeking to build increasingly powerful and efficient models. According to the announcement, Qwen4-Max […]",
+   "title_mn": "Alibaba компани 2.4 их наяд параметртэй Qwen4-Max загварыг танилцууллаа",
+   "summary_mn": "Alibaba 2.4 их наяд параметр бүхий Qwen4-Max загвараа гаргасан бөгөөд өмнөх хувилбараасаа 50% бага токен зарцуулдаг байна.",
+   "body_mn": "Alibaba компани хиймэл оюун ухааны зах зээлд байр сууриа бэхжүүлэх зорилгоор 2.4 их наяд параметр бүхий Qwen4-Max нэртэй шинэ том хэлний загвараа танилцууллаа. Энэхүү загвар нь өмнөх хувилбараа бодвол токен зарцуулалтыг ойролцоогоор 50 хувиар бууруулж чадсан нь тооцооллын зардлыг хэмнэхэд чухал ач холбогдолтой юм.\n\nПараметрийн асар том хэмжээ нь загварын нарийн төвөгтэй мэдээллийг боловсруулах, хэв шинжийг таних чадварыг өсгөж байгаа бөгөөд токен хэмнэлт нь хөгжүүлэгчид болон бизнесийн хэрэглэгчдэд үйл ажиллагааны зардлаа бууруулах боломж олгоно. AI системүүдийг өргөн хүрээнд нэвтрүүлэхэд дэд бүтцийн зардал болон цахилгаан зарцуулалт өндөр байдаг тул энэхүү үр ашигтай байдал нь гол давуу тал болж байна.\n\nШинэ загвар нь OpenAI, Google, Anthropic зэрэг компаниудтай өрсөлдөх Alibaba-гийн стратегийн томоохон алхам бөгөөд хөгжүүлэгчид програм хангамж хөгжүүлэлт, автоматжуулалт болон бусад нарийн төвөгтэй ажлуудад ашиглах боломжтой юм.",
+   "published": "2026-11-18T09:51:47Z",
+   "added": "2026-11-19T04:01:02Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "b25263b5a22241eb",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-board-is-now-available",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/33ItNeQcFqSJu8SRUQpMZW/c708ae3da08edf300f489fbc62457bde/vercel_board_og_final.png",
+ "title": "Vercel Board is now available",
+ "summary_en": "Vercel Board is now available on all plans. It’s an experimental message board that gives agents a shared, secure place to coordinate tasks and keep context together. Use Board to build agent workflows, swarms, and software factories with: Each task’s discussion and results kept together in one thread. Control over which channels agents and users can access and what they can do. Messages and replies that sync both ways with Slack, GitHub, and other tools through Vercel Connect . Use your own agents, harnesses, and execution environments. Agents access Board through the Vercel CLI or…",
+ "title_mn": "Vercel Board нь агентуудад даалгавар удирдах боломж олгоно",
+ "summary_mn": "Vercel Board нь хиймэл оюун ухааны агентуудад даалгавар зохицуулах, контекст хуваалцах аюулгүй орчныг бүрдүүлдэг туршилтын мессежийн самбар юм.",
+ "body_mn": "Vercel platform дээр агентуудын хамтын ажиллагааг сайжруулах зорилготой Vercel Board нэртэй шинэ туршилтын мессежийн самбар нээгдлээ. Энэхүү хэрэгсэл нь агентуудад даалгаврын явц, хэлэлцүүлэг болон үр дүнг нэг урсгалд нэгтгэн хадгалах боломжийг олгодог бөгөөд багуудад ажлаа илүү үр дүнтэй зохион байгуулах нөхцөлийг бүрдүүлдэг.\n\nПлатформын хэрэглэгчид сувгуудын хандалтын эрхийг нарийн хянаж, агентууд болон хэрэглэгчдийн хийх үйлдлийг хязгаарлах боломжтой. Мөн Vercel Connect үйлчилгээгээр дамжуулан мессеж болон хариултууд нь Slack, GitHub зэрэг бусад хэрэгслүүдтэй хоёр талын холболтоор автоматаар синхрончлогддог.\n\nХөгжүүлэгчид өөрсдийн агентууд болон гүйцэтгэх орчныг ашиглах боломжтой бөгөөд Vercel CLI эсвэл JavaScript SDK ашиглан Board-тай холбогдох юм. Энэ нь олон агентын хамтарсан ажлын урсгал (swarm) болон програм хангамжийн автомат үйлдвэрүүдийг хөгжүүлэхэд чухал алхам болж байна.",
+ "published": "2026-11-18T05:00:00Z",
+ "added": "2026-11-19T04:01:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "99be0c0a7e074380",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/managing-frontier-ai-risk",
+ "image": "",
+ "title": "Managing frontier AI risk: From training to deployment",
+ "summary_en": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+ "title_mn": "OpenAI хиймэл оюун ухааны эрсдэлийг хэрхэн удирддаг вэ?",
+ "summary_mn": "OpenAI загварын сургалтаас эхлээд ашиглалтад оруулах хүртэлх аюулгүй байдлын хяналт, хамгаалалтын арга хэрэгслүүдээ танилцууллаа.",
+ "body_mn": "OpenAI компани хиймэл оюун ухааны хөгжлийн явцад тулгарч болох эрсдэлийг загвар сургалтаас эхлэн бодит хэрэглээнд нэвтрүүлэх хүртэлх хугацаанд хэрхэн удирддаг талаар мэдээллээ. Үүнд загварын зохицол (alignment), тусгаарлагдсан орчин (sandbox), хориглох хамгаалалтууд болон байнгын хяналт зэрэг аргууд багтаж байна.\n\nХөгжүүлэгчид болон технологийн салбарынхан хиймэл оюун ухааны аюулгүй байдал, хариуцлагатай хөгжүүлэлтийн талаарх энэхүү туршлагаас суралцах боломжтой. Компанийн зүгээс дэвшилтэт технологийн эрсдэлийг бууруулах нь цаашдын бүтээгдэхүүний хөгжилд нэн чухал болохыг онцолж байна.",
+ "published": "2026-11-18T06:00:00Z",
+ "added": "2026-11-19T04:01:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

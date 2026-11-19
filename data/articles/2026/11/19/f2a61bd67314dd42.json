@@ -1,0 +1,17 @@
+{
+ "id": "f2a61bd67314dd42",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Tekedia",
+ "url": "https://www.tekedia.com/alibaba-releases-qwen4-max-a-2-4-trillion-parameter-ai-model-with-improved-efficiency/",
+ "image": "https://www.tekedia.com/wp-content/uploads/2025/11/alibaba-qwen.jpg",
+ "title": "Alibaba Releases Qwen4-Max, a 2.4 Trillion-Parameter AI Model With Improved Efficiency",
+ "summary_en": "Alibaba is strengthening its position in the global artificial intelligence race with the release of Qwen4-Max, a new large language model reportedly containing 2.4 trillion parameters. The latest development highlights China’s growing ambitions in advanced AI and intensifies competition among technology companies seeking to build increasingly powerful and efficient models. According to the announcement, Qwen4-Max […]",
+ "title_mn": "Alibaba компани 2.4 их наяд параметртэй Qwen4-Max загварыг танилцууллаа",
+ "summary_mn": "Alibaba 2.4 их наяд параметр бүхий Qwen4-Max загвараа гаргасан бөгөөд өмнөх хувилбараасаа 50% бага токен зарцуулдаг байна.",
+ "body_mn": "Alibaba компани хиймэл оюун ухааны зах зээлд байр сууриа бэхжүүлэх зорилгоор 2.4 их наяд параметр бүхий Qwen4-Max нэртэй шинэ том хэлний загвараа танилцууллаа. Энэхүү загвар нь өмнөх хувилбараа бодвол токен зарцуулалтыг ойролцоогоор 50 хувиар бууруулж чадсан нь тооцооллын зардлыг хэмнэхэд чухал ач холбогдолтой юм.\n\nПараметрийн асар том хэмжээ нь загварын нарийн төвөгтэй мэдээллийг боловсруулах, хэв шинжийг таних чадварыг өсгөж байгаа бөгөөд токен хэмнэлт нь хөгжүүлэгчид болон бизнесийн хэрэглэгчдэд үйл ажиллагааны зардлаа бууруулах боломж олгоно. AI системүүдийг өргөн хүрээнд нэвтрүүлэхэд дэд бүтцийн зардал болон цахилгаан зарцуулалт өндөр байдаг тул энэхүү үр ашигтай байдал нь гол давуу тал болж байна.\n\nШинэ загвар нь OpenAI, Google, Anthropic зэрэг компаниудтай өрсөлдөх Alibaba-гийн стратегийн томоохон алхам бөгөөд хөгжүүлэгчид програм хангамж хөгжүүлэлт, автоматжуулалт болон бусад нарийн төвөгтэй ажлуудад ашиглах боломжтой юм.",
+ "published": "2026-11-18T09:51:47Z",
+ "added": "2026-11-19T04:01:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
