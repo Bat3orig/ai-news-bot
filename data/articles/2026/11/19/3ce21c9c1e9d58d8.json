@@ -1,0 +1,17 @@
+{
+ "id": "3ce21c9c1e9d58d8",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://news.ycombinator.com/item?id=50548660",
+ "image": "",
+ "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+ "summary_en": "Hi HN, we're Shane, Sam, and Abhi. Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/item?id=43103073 . It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races. Today we're sharing Mastra Factory, the open-source software factory we built to help maintain Mastra itself. At Mastra, we now average nearly 4M downloads per week, and with Factory our team now merges hundreds of PRs a week across the mastra-ai GitHub org. Last week, Factory opened and merged 238 PRs…",
+ "title_mn": "Mastra Factory: Mastra багийн нээлттэй эх сурвалжтай програм хангамжийн үйлдвэр",
+ "summary_mn": "TypeScript агент фреймворк болох Mastra-г хөгжүүлэгчид Mastra Factory нэртэй нээлттэй эх сурвалжтай программ хангамжийн үйлдвэрээ танилцууллаа. Энэхүү систем нь Slack дотор ажилладаг, удаан хугацааны сесс ашигладаг агент Kanban самбар юм.",
+ "body_mn": "Төрөл бүрийн софтвейр бүтээх явцыг автоматжуулах зорилготой Mastra Factory нь хөгжүүлэгчдэд олон сессийг зэрэг эхлүүлж, алдаа болон эмзэг байдал илрүүлэгч сканеруудыг ашиглах боломжийг олгодог. Тус систем нь Mastra-гийн удаан хугацааны сессүүдэд зориулсан агентууд, харилцааны санах ойн систем, эх сурвалжийн ишлэл бүхий Markdown Вики зэргийг дотроо агуулдаг байна.\n\nУг хэрэгсэл нь багийн ажлын явцыг хурдасгаж, өнгөрсөн долоо хоногт л гэхэд хүний оруулсан 630 хувь нэмэлтийн хажуугаар 238 PR-ыг автоматаар нээж нэгтгэжээ. Хөгжүүлэгчид веб UI ашиглахаас илүүтэйгээр Slack дотор шууд командуудаар удирдахыг илүүд үзэж байгаа аж.\n\nСофтвейр бүтээх явцад агентуудын оролцоог нэмэгдүүлэх уг шийдлийг хөгжүүлэгчид npm create factory гэсэн команд ашиглан өөрсдийн дэд бүтцэд бүрэн нээлттэй эх сурвалж хэлбэрээр татаж ажиллуулах боломжтой юм. Энэ нь хиймэл оюун ухааны тусламжтайгаар хөгжүүлэлтийн процесст томоохон дэвшил авчирч байна.",
+ "published": "2026-11-18T16:53:42Z",
+ "added": "2026-11-19T10:30:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
