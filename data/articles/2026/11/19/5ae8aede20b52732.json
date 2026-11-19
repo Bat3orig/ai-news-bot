@@ -1,0 +1,17 @@
+{
+ "id": "5ae8aede20b52732",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/colbymchenry/codegraph",
+ "image": "https://opengraph.githubassets.com/39f4535d5f7f3420b50b8e6892591f32806f603eb0f389b9901439473c8faaf8/colbymchenry/codegraph",
+ "title": "colbymchenry/codegraph",
+ "summary_en": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local https://colbymchenry.github.io/codegraph/ CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on X for updates. Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, Kiro, GitHub Copilot, and more with Semantic Code Intelligence The fastest complete code graph · surgical context · built for how agents actually work · 100% local **Kernel…",
+ "title_mn": "colbymchenry/codegraph: AI агентудад зориулсан орон нутгийн код граф хэрэгсэл",
+ "summary_mn": "CodeGraph нь AI агент болон хөгжүүлэгчдэд зориулсан 100% локал байдлаар ажилладаг хамгийн хурдан код граф үүсгэгч юм. Claude Code, Cursor, Copilot зэрэг олон төрлийн агент хэрэгслүүдийг нэг команмаар холбодог.",
+ "body_mn": "CodeGraph бол програм хангамжийн төслийн кодны бүтэц, хамаарлыг урьдчилан боловсруулж, AI агент болон хөгжүүлэгчдэд шаардлагатай контекстийг нэг дуудлагаар өгөх зориулалттай хэрэгсэл юм. Энэ нь Node.js шаардахгүйгээр өөрийн ажиллах орчныг бие даан суулгадаг.\n уг хэрэгсэл нь Claude Code, Cursor, Codex CLI, Gemini CLI, Windsurf, GitHub Copilot зэрэг зах зээл дээрх олон төрлийн AI хөгжүүлэлтийн агент болон IDE-д MCP серверийг автоматаар холбож өгдөг. Файлд өөрчлөлт орох бүрт код графыг автоматаар шинэчилж байдгаараа онцлог.\n\nХөгжүүлэгчдэд код доторх хамаарал, функц дуудлагыг гараар хайж цаг алдалгүйгээр тухайн агентад үнэн зөв мэдээллийг шууд дамжуулах боломжийг олгодог.",
+ "published": "2026-11-19T08:31:06Z",
+ "added": "2026-11-19T08:31:06Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

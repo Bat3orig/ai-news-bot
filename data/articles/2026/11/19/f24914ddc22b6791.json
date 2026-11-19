@@ -1,0 +1,17 @@
+{
+ "id": "f24914ddc22b6791",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/solidjs/solid",
+ "image": "https://repository-images.githubusercontent.com/130884470/ad63fd00-7ab2-11ea-9c57-6c114391183a",
+ "title": "solidjs/solid",
+ "summary_en": "A declarative, efficient, and flexible JavaScript library for building user interfaces. https://solidjs.com Website • Docs • Tutorial • Playground • Discord Solid is a declarative JavaScript library for building user interfaces. Instead of a Virtual DOM, it compiles templates to real DOM nodes and updates them with fine-grained reactivity. Declare your state and use it throughout your app — when a piece of state changes, only the code that depends on it re-runs. At a glance import { createSignal } from \"solid-js\"; import { render } from \"@solidjs/web\"; function Counter() { const [count…",
+ "title_mn": "solidjs/solid: Виртуал DOM-гүй, нарийн түвшний реактив бүхий UI фреймворк",
+ "summary_mn": "Solid бол Virtual DOM ашиглахгүйгээр JSX кодыг шууд DOM node руу хөрвүүлж ажилладаг орчин үеийн JavaScript номын сан юм. Төлөв өөрчлөгдөхөд зөвхөн холбоотой хэсэг нь шинэчлэгддэг тул өндөр бүтээмжтэй.",
+ "body_mn": "Solid бол хэрэглэгчийн интерфейс бүтээхэд зориулагдсан тун хурдан бөгөөд декларатив JavaScript номын сан юм. Энэ нь Virtual DOM-ийн оронд JSX загваруудыг бодит DOM үйлдлүүд болгон хөрвүүлж, нарийн түвшний реактив шинж чанараар шинэчилдэг.\n\nЭнэхүү сангийн бүрэлдэхүүн хэсгүүд нь энгийн функцүүд байх ба render хийх систем сурах шаардлагагүйгээр төлөв хэрхэн ашиглагдаж байгаагаар шууд зохицуулагддаг. Бүтээмжийн хувьд JS Framework Benchmark тестүүдэд оновчтой vanilla JavaScript-той дүйцэхүйц өндөр үр дүнтэй ажилладаг байна.\n\nSolid нь софтвер хөгжүүлэгчдэд зориулсан бүрэн хэмжээний SSR, стриминг, asynchronous чадамж болон TypeScript дэмжлэгийг өөртөө агуулсан. Vite экосистемтэй төгс нийцдэг бөгөөд орчин үеийн Firefox, Safari, Chrome, Edge болон Node.js, Deno орчинд дэмжигддэг.",
+ "published": "2026-11-19T08:31:06Z",
+ "added": "2026-11-19T08:31:06Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

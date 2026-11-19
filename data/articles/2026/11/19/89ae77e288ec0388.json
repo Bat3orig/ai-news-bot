@@ -1,0 +1,17 @@
+{
+ "id": "89ae77e288ec0388",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
+ "image": "https://repository-images.githubusercontent.com/1374667371/115696bf-0f7a-4de8-96e7-a22e2f73fe97",
+ "title": "qwdwqfwq/topconf-paper-figure-gallery",
+ "summary_en": "3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting https://qwdwqfwq.github.io/topconf-paper-figure-gallery/ 🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 🎨 顶会论文主图灵感画廊 顶会论文主图灵感画廊 · ICLR · ICML · NeurIPS · CVPR · ACL · AAAI · 2023–2026 💖 寻求赞助与资源支持 让科研绘图灵感持续开放，让开源工具走得更远。 欢迎个人与机构提供 资金赞助、模型 API 额度、GPU 算力或云资源 ，支持画廊维护、FigureForge 开发与效果验证。也欢迎通过贡献代码、推荐论文和分享项目支持我们！ 🤝 洽谈赞助 / 提供资源支持： 939123836@qq.com ✨ FigureForge 生图成品 以下是画廊 FigureForge 的实际生图示例。 机器人策略与执行 时空扩散 Transformer · 可控视频生成 湿磨芦苇秸秆浆料 ·…",
+ "title_mn": "qwdwqfwq/topconf-paper-figure-gallery: AI/ML 顶会论文主图画廊",
+ "summary_mn": "Энэхүү төсөл нь ICLR, ICML, NeurIPS зэрэг AI/ML салбарын нэр хүндтэй хуралдаануудын 2023-2026 оны шилдэг зураг, схемүүдийг цуглуулсан бөгөөд FigreForge хэрэгслээр дамжуулан загвар гаргах боломж олгодог.",
+ "body_mn": "Topconf Paper Figure Gallery нь хөгжүүлэгч болон судлаачдад зориулсан 3,500 гаруй Figure 1 болон Teaser зураг, архитектурын схемүүдийг агуулсан нээлттэй цуглуулга юм. Энэ нь шинжлэх ухааны өгүүлэл бичихэд зориулсан дизайны санаа болон загвар хайхад тусална.\n\nТөслийн нэг хэсэг болох FigureForge хэрэгсэл нь хэрэглэгчийн бичсэн тайлбар эсвэл PDF файлаас санаа авч, дээрх олон мянган顶会 (top conference) зургуудыг ашиглан browser дотроо шууд зураг зохиох боломжийг олгодог. Энэ нь серверт холбогдохгүйгээр локал байдлаар ажилладаг.\n\nСудлаачид болон инженерүүдэд өөрсдийн судалгааны ажил эсвэл системийн архитектурын зургийг мэргэжлийн түвшинд зохион байгуулахад маш хэрэгтэй хэрэгсэл юм.",
+ "published": "2026-11-19T08:31:06Z",
+ "added": "2026-11-19T08:31:06Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
