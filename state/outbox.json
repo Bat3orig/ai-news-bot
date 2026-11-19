@@ -258,5 +258,25 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ca00a114ef1e1616",
+   "subtopic": "vibe-coding",
+   "source": "Flavio Copes",
+   "source_label": "Flavio Copes",
+   "url": "https://flaviocopes.com/docker-coding-agent/",
+   "image": "https://flaviocopes.com/images/docker-coding-agent/og.jpg",
+   "title": "Give your coding agent its own Docker Engine",
+   "summary_en": "What Docker’s new direction means for coding agents, from testing a Postgres migration to reviewing an infrastructure change.",
+   "title_mn": "Coding agent-дээ тусдаа Docker Engine өгөх нь өгөгдлийн баазыг хамгаалдаг",
+   "summary_mn": "Docker Sandboxes нь coding agent-д өөрийн виртуал машин болон Docker Engine өгч, хөгжүүлэгчийн өгөгдлийн санд нөлөөлөхгүйгээр туршилт хийх боломж олгоно. Энэ нь Postgres migration зэрэг ажлыг аюулгүй турших хамгийн тохиромжтой арга юм.",
+   "body_mn": "Flavio Copes coding agent-д хэрэгтэй Docker-ийн шинэ хандлагыг тайлбарлажээ. Жишээ нь имэйлийг давтагдахгүй болгох migration-ыг зөвхөн хоосон өгөгдлийн санд туршвал хуучин давхардсан мөрүүд алдаа өгөх магадлал байна. Agent-д Postgres-ийг эхлүүлж, жинхэнэ өгөгдлийн шиг мөрүүдийг оруулж, migration-ыг туршиж болно.\n\nDocker Sandbox нь агентад өөрийн Linux kernel болон Docker Engine бүхий виртуал машин өгдөг. Agent-ийн Docker client зөвхөн тэр sandbox-ийн engine-тэй холбогдох тул бусад төслийн контейнер, өгөгдлийн сан хамгаалагдана. sbx CLI-г суулгаж, нэвтэрсний дараа жишээ командыг туршиж болно. Анхаарах зүйл: rw горим нь sandbox-д хийсэн өөрчлөлт таны файлд шууд нөлөөлнө.\n\nИлүү нөөц шаардлагатай тул жижиг CSS засвар дээр энэ нь хэт их байж болно. Харин worker дундаа унтарсан гэх мэт нарийн алдааг туршихад үнэ цэнтэй. Clone горим ашиглавал agent-д өөрийн checkout өгч, жинхэнэ код, өгөгдлийн сангаа хамгаалах боломжтой.",
+   "published": "2026-11-19T21:03:00Z",
+   "added": "2026-11-19T21:30:53Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]
