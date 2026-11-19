@@ -1,0 +1,17 @@
+{
+ "id": "da30645137037f00",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+ "image": "",
+ "title": "Get started with Daybreak Blue",
+ "summary_en": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+ "title_mn": "Daybreak Blue үйлчилгээг ашиглаж эхлэх нь",
+ "summary_mn": "Daybreak Blue үйлчилгээнд бүртгүүлж, тохиргоо хийх явц болон анхлан ашиглаж эхлэхэд анхаарах зүйлсийн видео танилцуулга.",
+ "body_mn": "Daybreak Blue шинэ үйлчилгээнд хэрхэн бүртгүүлж, тохиргоогоо хийх талаарх дэлгэрэнгүй видео гарын авлагыг хүргэж байна. Энэхүү танилцуулгаар дамжуулан хэрэглэгчид системд хэрхэн нэвтрэх болон анхны тохиргоогоо хийх туршлагатай танилцах боломжтой.\n\nШинэ хэрэгслийг ашиглаж эхлэхэд шаардлагатай алхмуудыг тодорхой үзүүлсэн нь хөгжүүлэгчид болон хэрэглэгчдэд хугацаа хэмнэхэд тусална.\n\nДэлгэрэнгүй мэдээллийг албан ёсны видео болон гарын авлагаас харна уу.",
+ "published": "2026-11-19T00:00:00Z",
+ "added": "2026-11-19T23:30:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -298,5 +298,85 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "82fe289fe466dcc1",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "image": "",
+   "title": "Explore the Codex Security Plugin",
+   "summary_en": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+   "title_mn": "Codex Security Plugin-ийн танилцуулга болон видео демо үзэх",
+   "summary_mn": "Codex Security Plugin хэрхэн ажиллаж байгааг харуулсан видео демог үзэж, төслийн эхлэлээс үр дүн хянах явцтай танилцаарай.",
+   "body_mn": "OpenAI компаниас шинээр гаргасан Codex Security Plugin-ийн талаарх видео демо танилцуулга гарлаа. Энэхүү бичлэгт уг залгаасыг хэрхэн тохируулж, ажлын урсгалдаа нэвтрүүлэх болон хөгжүүлэлтийн явцад гарсан үр дүнг хэрхэн хянах талаар алхам алхмаар харуулсан байна.\n\nПрограм хангамжийн аюулгүй байдлыг хангах, код шалгах үйл явцыг автоматжуулахад энэхүү хэрэгсэл чухал үүрэг гүйцэтгэх юм. Хөгжүүлэгчид кодын чанар болон аюулгүй байдлын шалгалтыг өөрийн ажлын урсгалд хялбар байдлаар нэгтгэх боломжтой болж байна.\n\nУг хэрэгслийн талаарх дэлгэрэнгүй мэдээлэл болон бодит хэрэглээг албан ёсны видео демоноос үзэж судлах боломжтой.",
+   "published": "2026-11-19T00:00:00Z",
+   "added": "2026-11-19T23:30:50Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "17b7a2b39f098895",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/business/learn/pr-scans-demo",
+   "image": "",
+   "title": "See PR scans in action",
+   "summary_en": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+   "title_mn": "Pull request дахь PR скан хийх үйл явцтай танилцах нь",
+   "summary_mn": "Pull request буюу хүсэлт шалгах явцад PR скан хийх үйл явцыг хэрхэн хянаж, үр дүнтэй ажиллахыг харуулсан видео гаргажээ.",
+   "body_mn": "OpenAI-аас хөгжүүлэгчдэд зориулан PR скан хийх боломжийг хэрхэн ашиглах талаарх видео үзүүлнг толилууллаа. Энэхүү бичлэгт кодаа хувь нэмэр оруулах үед буюу Pull request хийх явцад үүсэх скан хийх үйл явцыг хэрхэн шалгаж буйг харуулсан байна.\n\nКодын баталгаажуулалт болон аюулгүй байдлын шалгалтыг багийн гишүүд хялбархан хийхэд энэхүү боломж тусална. Хөгжүүлэгчид кодоо нэгтгэхээс өмнө болзошгүй алдааг илрүүлж засварлах боломжтой юм.\n\nЭнэхүү тойм нь ажлын урсгалаа сайжруулах хүсэлтэй хөгжүүлэгчдэд хэрэгтэй мэдээллийг өгч байна.",
+   "published": "2026-11-19T00:00:00Z",
+   "added": "2026-11-19T23:30:50Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "da30645137037f00",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "image": "",
+   "title": "Get started with Daybreak Blue",
+   "summary_en": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+   "title_mn": "Daybreak Blue үйлчилгээг ашиглаж эхлэх нь",
+   "summary_mn": "Daybreak Blue үйлчилгээнд бүртгүүлж, тохиргоо хийх явц болон анхлан ашиглаж эхлэхэд анхаарах зүйлсийн видео танилцуулга.",
+   "body_mn": "Daybreak Blue шинэ үйлчилгээнд хэрхэн бүртгүүлж, тохиргоогоо хийх талаарх дэлгэрэнгүй видео гарын авлагыг хүргэж байна. Энэхүү танилцуулгаар дамжуулан хэрэглэгчид системд хэрхэн нэвтрэх болон анхны тохиргоогоо хийх туршлагатай танилцах боломжтой.\n\nШинэ хэрэгслийг ашиглаж эхлэхэд шаардлагатай алхмуудыг тодорхой үзүүлсэн нь хөгжүүлэгчид болон хэрэглэгчдэд хугацаа хэмнэхэд тусална.\n\nДэлгэрэнгүй мэдээллийг албан ёсны видео болон гарын авлагаас харна уу.",
+   "published": "2026-11-19T00:00:00Z",
+   "added": "2026-11-19T23:30:50Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ab551d8efc811ca4",
+   "subtopic": "ai-devtools",
+   "source": "openai/codex",
+   "source_label": "openai/codex",
+   "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0",
+   "image": "https://opengraph.githubassets.com/1d6ce762c5c15025259680537dca5df2d7a9c9aedb37b1ecf3889fd6a9103470/openai/codex",
+   "title": "codex rust-v0.171.0",
+   "summary_en": "Release 0.171.0",
+   "title_mn": "codex rust v0.171.0 хувилбар гарлаа",
+   "summary_mn": "Codex хэрэгслийн Rust хэл дээрх v0.171.0 шинэ хувилбар албан ёсоор цацагдаж, хөгжүүлэгчдэд шинэ боломжуудыг хүргэлээ.",
+   "body_mn": "Codex төслийн Rust хэл дээр бичигдсэн хувилбарын шинэчлэл болох v0.171.0 хувилбар хэрэглэгчдийн хүртээл боллоо. Энэхүү хувилбарт хөгжүүлэлтийн явцыг сайжруулах болон алдаа засах ажлууд хийгдсэн байна.\n\nХөгжүүлэгчид уг шинэ хувилбарыг ашиглан өөрсдийн төслүүд дэх Codex хэрэгслийн ажиллагааг шинэчлэх боломжтой юм. Шинэчлэлтийн дэлгэрэнгүйг албан ёсны эх сурвалжаас үзнэ үү.",
+   "published": "2026-11-19T23:07:37Z",
+   "added": "2026-11-19T23:30:50Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "17b7a2b39f098895",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/business/learn/pr-scans-demo",
+ "image": "",
+ "title": "See PR scans in action",
+ "summary_en": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+ "title_mn": "Pull request дахь PR скан хийх үйл явцтай танилцах нь",
+ "summary_mn": "Pull request буюу хүсэлт шалгах явцад PR скан хийх үйл явцыг хэрхэн хянаж, үр дүнтэй ажиллахыг харуулсан видео гаргажээ.",
+ "body_mn": "OpenAI-аас хөгжүүлэгчдэд зориулан PR скан хийх боломжийг хэрхэн ашиглах талаарх видео үзүүлнг толилууллаа. Энэхүү бичлэгт кодаа хувь нэмэр оруулах үед буюу Pull request хийх явцад үүсэх скан хийх үйл явцыг хэрхэн шалгаж буйг харуулсан байна.\n\nКодын баталгаажуулалт болон аюулгүй байдлын шалгалтыг багийн гишүүд хялбархан хийхэд энэхүү боломж тусална. Хөгжүүлэгчид кодоо нэгтгэхээс өмнө болзошгүй алдааг илрүүлж засварлах боломжтой юм.\n\nЭнэхүү тойм нь ажлын урсгалаа сайжруулах хүсэлтэй хөгжүүлэгчдэд хэрэгтэй мэдээллийг өгч байна.",
+ "published": "2026-11-19T00:00:00Z",
+ "added": "2026-11-19T23:30:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

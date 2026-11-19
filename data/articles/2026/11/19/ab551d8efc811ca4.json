@@ -1,0 +1,17 @@
+{
+ "id": "ab551d8efc811ca4",
+ "subtopic": "ai-devtools",
+ "source": "openai/codex",
+ "source_label": "openai/codex",
+ "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0",
+ "image": "https://opengraph.githubassets.com/1d6ce762c5c15025259680537dca5df2d7a9c9aedb37b1ecf3889fd6a9103470/openai/codex",
+ "title": "codex rust-v0.171.0",
+ "summary_en": "Release 0.171.0",
+ "title_mn": "codex rust v0.171.0 хувилбар гарлаа",
+ "summary_mn": "Codex хэрэгслийн Rust хэл дээрх v0.171.0 шинэ хувилбар албан ёсоор цацагдаж, хөгжүүлэгчдэд шинэ боломжуудыг хүргэлээ.",
+ "body_mn": "Codex төслийн Rust хэл дээр бичигдсэн хувилбарын шинэчлэл болох v0.171.0 хувилбар хэрэглэгчдийн хүртээл боллоо. Энэхүү хувилбарт хөгжүүлэлтийн явцыг сайжруулах болон алдаа засах ажлууд хийгдсэн байна.\n\nХөгжүүлэгчид уг шинэ хувилбарыг ашиглан өөрсдийн төслүүд дэх Codex хэрэгслийн ажиллагааг шинэчлэх боломжтой юм. Шинэчлэлтийн дэлгэрэнгүйг албан ёсны эх сурвалжаас үзнэ үү.",
+ "published": "2026-11-19T23:07:37Z",
+ "added": "2026-11-19T23:30:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
