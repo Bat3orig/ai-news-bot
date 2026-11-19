@@ -1,0 +1,17 @@
+{
+ "id": "9342dbf934e428aa",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+ "image": "",
+ "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+ "summary_en": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+ "title_mn": "OpenAI нь ChatGPT-ийг хурдан ажиллуулахын тулд Codex дээр суурилсан Performance Factory системээ ашигладаг",
+ "summary_mn": "OpenAI ChatGPT-ийн гүйцэтгэлийн асуудлыг олж засах Performance Factory нэртэй системээ танилцуулав. Систем нь Codex дээр ажилладаг автомат ажлын урсгалуудаас бүрдэнэ. Эх сурвалжид дэлгэрэнгүй тоо баримт байхгүй байна.",
+ "body_mn": "OpenAI өөрийн инженерийн дотоод системийн талаар танилцуулга нийтэлжээ. Энэ систем нь ChatGPT-ийн гүйцэтгэлийн асуудлыг илрүүлж, засах зорилготой.\n\nPerformance Factory нь Codex-д суурилсан ажлын урсгалуудаар ажилладаг гэж тайлбарлагдсан байна. Эдгээр урсгалууд гүйцэтгэлийн асуудлыг олж, засварын өөрчлөлт санал болгодог гэж ойлгогдож байна.\n\nХөгжүүлэгчдэд энэ нь AI-д суурилсан код засварлах агентууд том үйлчилгээний гүйцэтгэлийг хэрхэн сайжруулж болохыг харуулсан жишээ юм. Харин эх текстэд тодорхой хэмжээ, хувь хэмжээ эсвэл үр дүнгийн тоо дурдагдаагүй тул нарийн дэлгэрэнгүйг хүлээн авах хэрэгтэй.",
+ "published": "2026-11-19T08:00:00Z",
+ "added": "2026-11-19T18:01:03Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
