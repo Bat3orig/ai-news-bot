@@ -113,9 +113,13 @@ python -m http.server -d public
 - 2026-11-19: fixed undated items never being processed (`56caaca`). Sorted as "now", they sat
   behind a 120+ item backlog: no GitHub Trending articles since 10/26 and no Google Developers Blog
   articles since 10/24 (its feed lost its dates). Undated items now go first, `limit` feeds first of all.
-- The backlog stays at 120–140 items, and the outbox holds 40 messages: cron runs only ~4×/day and
-  just ~2 of those runs fall inside the sending hours. Dated items older than 3 days drop out
-  unprocessed. External cron or a bigger `MAX_PER_RUN`/`max_per_send` is still undecided.
+- 2026-11-19: **external cron** set up by the user: cron-job.org (job "ai-news-bot", every 30 min,
+  Asia/Ulaanbaatar) POSTs `workflow_dispatch` to `.../actions/workflows/news.yml/dispatches` with a
+  fine-grained PAT of Bat3orig (Actions: read/write on this repo only; it expires, so renew it). The
+  GitHub `schedule` stays as a fallback; `concurrency: news-bot` prevents overlap. Before this, the
+  cron ran ~4×/day, the backlog was 120–140 items and the outbox 40.
+- 2026-11-19: a provider that times out or returns 5xx is skipped for the rest of the run, like 429
+  (gemini-3.8-flash timed out twice per run = 6 min lost).
 
 ## Status (2026-10-14)
 - Deployed and running. gemini-3.8-flash works part of the time (45 articles 10/09–10/14), so the
@@ -124,9 +128,6 @@ python -m http.server -d public
 - 2026-10-14: noise filter (block list, AI score, 7-day dedup) pushed by the user (`2187778`).
   The AI score and dedup are tested only with mocks, so check the "AI: low value" and
   "AI: duplicate story" log lines.
-- 2026-10-14: scheduled runs are delayed by GitHub: `*/30` cron actually ran every ~4–5 h
-  (20:45, 00:02, 05:08 UTC). An external cron that calls workflow_dispatch was suggested; the
-  user has not decided yet.
 - 2026-10-14: GitHub / Vibe coding topics and Packages added. New sources bootstrap silently on
   their first run, so the first posts arrive at the next feed update (trending updates daily).
 - **PENDING:** cleanup of old articles (still not done as of session end 2026-10-14). The user asked for it, but deleting was blocked. The review

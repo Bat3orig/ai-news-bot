@@ -13,6 +13,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import re
 from collections import Counter
 from datetime import datetime, timezone
 
@@ -329,6 +330,10 @@ def translate(items: list[Item], topics: Topics,
                 continue
             except (ProviderError, ValueError, requests.RequestException) as exc:
                 log.warning("AI %s:%s failed, falling back: %s", name, model, exc)
+                # A timeout or overload (5xx) usually repeats within the run and each timeout
+                # costs AI_TIMEOUT seconds: skip it until the next run (every 30 min).
+                if isinstance(exc, requests.Timeout) or re.match(r"HTTP 5\d\d", str(exc)):
+                    exhausted.add((name, model))
                 continue
             for rid, row in got.items():
                 row["ai"] = f"{name}:{model}"
