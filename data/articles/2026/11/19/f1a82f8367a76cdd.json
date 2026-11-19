@@ -1,0 +1,17 @@
+{
+ "id": "f1a82f8367a76cdd",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+ "image": "https://repository-images.githubusercontent.com/679086250/850fce55-365a-4e38-9a48-b1060bfb17c7",
+ "title": "XiaoYouChR/Ghost-Downloader-3",
+ "summary_en": "The only downloader you need. 下载器的集大成者。 https://gd.xychr.com/ 简体中文 | English Note Swiftproxy – Premium Global Residential Proxy Network Swiftproxy provides 90M+ real residential IPs across 220+ locations worldwide, helping users access global content and manage location-specific network connections. With rotating and static residential proxies, flexible geo-targeting, and HTTP(S)/SOCKS5 support, Swiftproxy is ideal for cross-region downloads, network testing, and browser automation. Free testing available, with 10% off using code PROXY90 . The only downloader you need Documentation · Watch…",
+ "title_mn": "Ghost-Downloader-3: Python дээр бичсэн олон протоколтой татагч программ",
+ "summary_mn": "Ghost-Downloader-3 бол Bilibili контент бүтээгчид зориулж эхэлсэн, одоо дөрвөн платформд ажилладаг нээлттэй эхийн татагч программ юм. Qt 6.6+ нь AVX заавар дэмждэггүй CPU-г дэмжихээ больсон. Arch Linux AUR-д багц гарсан.",
+ "body_mn": "Ghost-Downloader-3 бол Python хэл дээр бичигдсэн, олон төрлийн протоколоор файл татах боломжтой нээлттэй эхийн татагч программ юм. Анх Bilibili контент бүтээгчийн нөөцийг удирдах зорилгоор эхэлсэн боловч одоо дөрвөн платформд суулгагдах боломжтой болжээ. Төслийн README-д Feature Packs хэмээх плагин экосистем хөгжиж байгаа гэдгийг онцолсон байна.\n\nШинэ өөрчлөлтүүдийн дотор хамгийн чухал нь Qt 6.6-аас хойш AVX заавар дэмждэггүй CPU-д дэмжлэг үзүүлэхээ больсон явдал юм. Хуучин компьютер ашиглаж буй хэрэглэгчид үүнийг анхаарах хэрэгтэй. Мөн Arch Linux AUR-д ghost-downloader-bin болон ghost-downloader-git багцууд нийгмийн хүчээр бэлтгэгдсэн байна.\n\nПрограммыг Settings хэсгээс ghd командын мөрийн хэрэгслийг суулгаж болно. Лицензийн хувьд GPL v3.0-ээр тараагддаг. Хөгжүүлэгчид олон хэлээр орчуулах Crowdin төсөл, Issues хэсэг нээлттэй байна. Python дээр GUI татагч хөгжүүлэх сонирхолтой хүмүүст судлах сайн жишээ болно.\n\nЭнэ төсөл нь нэг үйлдлийн системд хязгаарлагдахгүй, олон протокол дэмждэг учраас хэрэглэгчийн суурь өргөн байж болно. Харин плагин системийг хөгжүүлэгчид хэрхэн ашиглахыг цаашид харах шаардлагатай.",
+ "published": "2026-11-19T09:01:00Z",
+ "added": "2026-11-19T09:01:00Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

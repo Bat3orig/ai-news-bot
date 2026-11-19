@@ -1,0 +1,17 @@
+{
+ "id": "4f07eea645524bc8",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/vllm-project/vllm-ascend",
+ "image": "https://opengraph.githubassets.com/c1b97e095415c4b0c01dc1575ae68ec7e1fb1861490d070be1a5b36db20f39e1/vllm-project/vllm-ascend",
+ "title": "vllm-project/vllm-ascend",
+ "summary_en": "Community maintained hardware plugin for vLLM on Huawei Ascend https://docs.vllm.ai/projects/ascend vLLM Ascend Plugin | About Ascend | Documentation | Support Matrix | #SIG-Ascend | Users Forum | Weekly Meeting | English | 中文 Latest News 🔥 [2026/10] We released the new official version v0.30.0 ! Please follow the official guide to start using vLLM Ascend Plugin on Ascend. [2026/08] We released the new official version v0.23.0 ! Please follow the official guide to start using vLLM Ascend Plugin on Ascend. [2026/05] We released the new official version v0.18.0 ! Please follow the official…",
+ "title_mn": "vllm-ascend: vLLM-ийг Huawei Ascend NPU дээр ажиллуулах хавсралт",
+ "summary_mn": "vllm-ascend нь vLLM-ийг Huawei Ascend NPU дээр тасралтгүй ажиллуулах, олон нийтийн дэмжлэгтэй hardware plugin юм. Transformer, MoE, embedding болон multimodal LLM-ууд дэмжигдсэн. Apache 2.0 лицензтэй.",
+ "body_mn": "vllm-ascend бол vLLM-ийг Huawei Ascend NPU дээр ажиллуулах олон нийтийн дэмжлэгтэй hardware plugin юм. Төслийн зорилго нь Ascend backend-ийг vLLM-ийн дотор hardware-pluggable загвараар холбох явдал бөгөөд vLLM нийгэмлэгийн санал болгож буй арга зам гэж тодорхойлогдсон.\n\nTransformer хэлбэрийн нээлттэй моделиуд, Mixture-of-Experts (MoE) архитектур, embedding болон олон төрлийн мэдээлэл боловсруулдаг LLM-ууд энэ plugin-оор ажиллах боломжтой гэж README-д дурдсан. Дэмжигдэх модель болон функцүүдийн дэлгэрэнгүйг Support Matrix-аас харж болно.\n\nТөсөл нь DeepWiki-тэй холбогдсон техникийн баримт, суурилуулах хувилбарын зөвлөмж, contributing заавартай. Ascend NPU-ийн нөөцийг хөгжүүлэлт, туршилтад ашиглах бол HiDevLab платформоор хандаж болно. Лицензийн хувьд Apache License 2.0.\n\nNVIDIA GPU-ийн оронд Ascend чипээр LLM ажиллуулах шаардлагатай инженерүүдэд энэ төсөл практик ач холбогдолтой.",
+ "published": "2026-11-19T09:01:00Z",
+ "added": "2026-11-19T09:01:00Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

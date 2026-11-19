@@ -1,0 +1,17 @@
+{
+ "id": "41c2e5d46ec97e41",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/SaladDay/cc-switch-cli",
+ "image": "https://opengraph.githubassets.com/e183b6eea9b2274b6b7dcb8d0e44fdce0f1c5e6ad35edd10cf2fab093509fef4/SaladDay/cc-switch-cli",
+ "title": "SaladDay/cc-switch-cli",
+ "summary_en": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI. CC-Switch CLI Manage Claude Code, Codex, Gemini, OpenCode, Hermes, OpenClaw, and Pi from one interactive TUI or scriptable CLI. English | 中文 | 日本語 📖 About This project is a CLI fork of CC-Switch . 🔄 The WebDAV sync feature is fully compatible with the upstream project. Changelog: CHANGELOG.md ❤️ Sponsor Thanks to 88API Token Aggregation Platform for sponsoring this project! 88API is a one-stop multi-model API platform operated by a Hong Kong company, built mainly for developers, creators and AI application…",
+ "title_mn": "cc-switch-cli: Claude Code, Codex болон бусад AI CLI-ийн API тохиргоог удирдах Rust хэрэгсэл",
+ "summary_mn": "cc-switch-cli нь Claude Code, Codex, Gemini, OpenCode болон бусад хэрэгслийн API тохиргоог TUI болон скриптэд тохиромжтой CLI-аар удирдана. Provider солих, OAuth аккаунт удирдах, хэд хэдэн терминал дээр өөр provider ашиглах боломжтой.",
+ "body_mn": "cc-switch-cli бол Claude Code, Codex, Gemini, OpenCode, Hermes, OpenClaw болон Pi зэрэг AI хэрэгслүүдийн API тохиргоог нэг дор удирдах Rust хэрэгсэл юм. Интерактив TUI болон скриптэд зориулсан командын мөр хоёулаа байна. Provider-уудыг нэг товшилтоор солих, endpoint олон байдлаар тохируулах, API түлхүүрээ удирдах боломжтой.\n\nОнцлогтой шинэ функц бол ChatGPT/Codex OAuth аккаунтуудыг орон нутагт удирдах явдал юм. Device-flow нэвтрэлт, аккаунт жагсаалт, анхдагч аккаунт сонгох, provider-т холбох зэрэг боломжууд бий. Claude Code-д Codex OAuth аккаунтыг локал proxy-гаар provider болгон ашиглах боломжтой. Start командаар олон терминал дээр өөр өөр provider-ийн сесс нэгэн зэрэг ажиллуулж болно.\n\nМэдээлэл авах ёстой зүйл: Homebrew-аар суулгасан бол built-in шинэчлэлтийн оронд brew-ээр шинэчлэх шаардлагатай. Өмнөх хувилбарын managed аккаунтууд дахин нэвтрэлт хийх шаардлагатай байж болно. Хэд хэдэн AI CLI-ийн тохиргоо нэг дороос хөтлөх хүсэлтэй хөгжүүлэгчдэд ашигтай.",
+ "published": "2026-11-19T09:01:00Z",
+ "added": "2026-11-19T09:01:00Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

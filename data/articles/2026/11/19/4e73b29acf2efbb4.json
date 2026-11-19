@@ -1,0 +1,17 @@
+{
+ "id": "4e73b29acf2efbb4",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/microsoft/edit",
+ "image": "https://opengraph.githubassets.com/9ea5aad8b2faa7fb1a0156ba8e5681929aeca583793742952c34c26ba3a08116/microsoft/edit",
+ "title": "microsoft/edit",
+ "summary_en": "We all edit. Edit A simple editor for simple needs. This editor pays homage to the classic MS-DOS Editor , but with a modern interface and input controls similar to VS Code. The goal is to provide an accessible editor that even users largely unfamiliar with terminals can easily use. Installation You can also download binaries from our Releases page . Windows You can install the latest version with WinGet: winget install Microsoft.Edit Linux (build from source) If your distribution does not provide binaries, or if you'd like to build your own, you can use our install script, provided you have…",
+ "title_mn": "microsoft/edit: MS-DOS Editor-т суурилсан, VS Code маягийн терминал засварлагч",
+ "summary_mn": "microsoft/edit нь хуучин MS-DOS Editor-т хандсан боловч VS Code шиг удирдлагатай, терминалд ажилладаг засварлагч юм. Rust-аар бичигдсэн, WinGet, Homebrew болон install script-ээр суулгах боломжтой. ICU ашигласан хайлт, орлуулах функцтэй.",
+ "body_mn": "microsoft/edit бол MS-DOS Editor-ийн уламжлалыг санасан боловч орчин үеийн интерфейс, VS Code-тай ойролцоо оролтын удирдлагатай терминал засварлагч юм. Зорилго нь терминалд огт дасаагүй хэрэглэгчдэд ч амархан ашиглагдах боломжтой редактор бүтээх явдал. Татаж авах binary-уудыг Releases хуудаснаас авч болно.\n\nSuulgах арга олон байна. WinGet-ээр хамгийн сүүлийн хувилбарыг суулгах, Homebrew-ээр суулгах, эсвэл install script ашиглан ~/.local/bin руу суулгах боломжтой. --dev сонголтоор main салбараас бүтээх, --system сонголтоор /usr/local/bin руу суулгах боломжтой. Каноник нэр нь edit, нэмэлт нэр нь msedit. Хуучин edit командтай мөргөлдөхөөс сэргийлж msedit нэр ашиглахыг зөвлөсөн байна.\n\nХайлт, орлуулах функц нь ICU номын санд нэмэлтээр тулгуурладаг. Анхдагчаар SONAME-уудыг хайх бөгөөд өөр суулгалттай бол орчны хувьсагчаар тохируулна. Тестийг cargo test --ignored командаар ажиллуулж болно.\n\nЭнэ нь хөнгөн терминал засварлагч хайж буй, Rust хэлний хөгжүүлэлтийн орчинд сонирхолтой төсөл юм.",
+ "published": "2026-11-19T09:01:00Z",
+ "added": "2026-11-19T09:01:00Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

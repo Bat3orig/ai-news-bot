@@ -1,0 +1,17 @@
+{
+ "id": "36bc5532a144ffd1",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/anthropics/claude-code-security-review",
+ "image": "https://opengraph.githubassets.com/b6e6e980419f08bf44c598724c315cba355812e0a20a0d9d5f11b7d780cd0841/anthropics/claude-code-security-review",
+ "title": "anthropics/claude-code-security-review",
+ "summary_en": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. Claude Code Security Reviewer An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. This action provides intelligent, context-aware security analysis for pull requests using Anthropic's Claude Code tool for deep semantic security analysis. See our blog post here for more details. Features AI-Powered Analysis : Uses Claude's advanced reasoning to detect security vulnerabilities with deep semantic understanding Diff-Aware…",
+ "title_mn": "claude-code-security-review: Claude-д суурилсан PR аюулгүй байдлын шалгалтын GitHub Action",
+ "summary_mn": "Anthropic-ийн Claude Code ашиглан pull request-ийн кодын өөрчлөлтийг аюулгүй байдлын эрсдэлд шалгадаг GitHub Action юм. Claude Code-д /security-review команд мөн байдаг. Prompt injection-оос хамгаалагдаагүй тул зөвхөн найдвартай PR-д ашиглахыг зөвлөжээ.",
+ "body_mn": "claude-code-security-review бол Anthropic-ийн Claude ашиглан кодын өөрчлөлтийг аюулгүй байдлын эрсдэлд шинжилдэг GitHub Action юм. Энэ хэрэгсэл pull request бүрийг семантик түвшинд шинжилж, контекстэд суурилсан дүгнэлт гаргадаг. Суулгахдаа .github/workflows/security.yml файлд нэмэх хэрэгтэй.\n\nТөслийн анхаарах зүйл бол prompt injection халдлагад хамгаалагдаагүй гэдэг явдал юм. Тиймээс зөвхөн найдвартай PR-д ажиллуулахыг зөвлөж байна. README нь \"Require approval for all external contributors\" сонголтыг идэвхжүүлж, гадны хөгжүүлэгчийн workflow-г сопровождагчийн зөвшөөрлийн дараа ажиллуулахыг санал болгодог.\n\nХэрэгсэл нь бага нөлөөтэй, худал эерэг илрүүлэлт өгдөг зарим төрлийн олдворыг автоматаар хасдаг. Энэ шүүлтүүрийг төслийн аюулгүй байдлын зорилтод тохируулж болно. Мөн Claude Code-ийн /security-review слэш команд нь ижил төстэй шинжилгээг орон нууцын хөгжүүлэлтийн орчинд шууд ажиллуулах боломж олгодог.\n\nДэлгэрэнгүй тохиргоо болон локал дээр тодорхой PR-г шалгах заавар нь docs хавтсанд байна. Төсөл MIT лицензтэй. CI дээр автомат аюулгүй байдлын шалгалт нэмэхийг хүсэж буй багуудад сонирхолтой хэрэгсэл юм.",
+ "published": "2026-11-19T09:01:00Z",
+ "added": "2026-11-19T09:01:00Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
