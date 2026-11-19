@@ -1,0 +1,17 @@
+{
+ "id": "60111729fcec9eb1",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/pyrefly",
+ "image": "https://opengraph.githubassets.com/1/pyrefly-org/pyrefly",
+ "title": "Pyrefly: a Rust type checker that's 15x faster than Mypy",
+ "summary_en": "You've probably felt it: you save a file, and your editor goes quiet while the type checker thinks. On a big codebase, that pause stretches into seconds, and suddenly the feedback loop that's supposed to help you is the thing slowing you down. Pyrefly is a bet that this doesn't have to be the tradeo... GitHub Repository: https://github.com/pyrefly-org/pyrefly",
+ "title_mn": "Pyrefly: Mypy-ээс 15 дахин хурдан Rust-д бичигдсэн Python type checker",
+ "summary_mn": "Pyrefly нь Rust-д бичигдсэн Python type checker болон language server юм. CLI болон редактор дээр ижил үр дүн өгч, Google болон Meta-гийн том кодын санд ашиглагддаг. Pydantic, Django, pytest-ийг дэмждэг.",
+ "body_mn": "Pyrefly бол Rust-д бичигдсэн Python-ийн type checker болон language server юм. Командын мөрөнд type checking хийж, редакторт go-to-definition, autocomplete, hover, inlay hints зэрэг функцийг өгдөг. README-д CLI болон редакторын үр дүн ижил гэж онцолсан байна.\n\nТөслийн мэдээлснээр секундэд 1.85 сая мөр код шалгадаг бөгөөд PyTorch-ийг Mypy болон Pyright-аас 15 дахин хурдан шалгадаг. IDE-д хадгалсны дараа дахин шалгалт ихэвчлэн 10 миллисекундээс бага хугацаанд дуусна. VS Code, Neovim, Zed зэрэгт интеграци бий.\n\nGoogle нь монорепод Pytype-ийг солих Python type checker болгон ашигладаг гэж тайлбарласан байна. Meta-д 20 сая мөр Python кодонд стандарт checker болгон ашиглагддаг. Microsoft-ийн Pylance мөн Type Server Protocol-оор Pyrefly-г ашиглаж чадна.\n\nPydantic, Django, pytest-д built-in дэмжлэгтэй. Туршилтын шинж чанар болгон PyTorch-ийн tensor хэлбэрийн алдааг олох боломжтой. Pyrefly init командаар Mypy эсвэл Pyright-аас шилжих, алдааг аажмаар засах хэрэгслүүд ч бий.\n\nPyrefly нь PyPI-д нийтлэгддэг тул суулгах нь хялбар. Яг командыг нь төслийн getting-started баримтаас шалгана уу. Том Python кодын сантай багуудад хамгийн ач холбогдолтой.",
+ "published": "2026-11-19T06:06:49Z",
+ "added": "2026-11-19T07:30:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

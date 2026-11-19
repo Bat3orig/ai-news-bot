@@ -1,0 +1,17 @@
+{
+ "id": "3475731b69a8d958",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/graphic-walker",
+ "image": "https://opengraph.githubassets.com/1/kanaries/graphic-walker",
+ "title": "A drag-and-drop data exploration tool you can embed as a React component",
+ "summary_en": "You've probably been in this situation: you need to give users some way to explore data, but standing up a full BI platform for that one feature feels like bringing a forklift to a grocery run. Graphic Walker takes a different approach—it's an open-source alternative to Tableau built to be embedded ... GitHub Repository: https://github.com/kanaries/graphic-walker",
+ "title_mn": "Graphic Walker: React хэрэглүүрт шууд суулгах боломжтой дата шинжилгээний хэрэгсэл",
+ "summary_mn": "Graphic Walker нь Tableau програмын нээлттэй эх сурвалжтай хувилбар бөгөөд React компонент хэлбэрээр веб апп дотроо шууд ашиглах боломжтой чирч тавих дата шинжилгээний хэрэгсэл юм. Тус хэрэгсэл нь вебийн веб веркерүүдийг ашиглан бүх тооцооллыг браузер дээр шууд гүйцэтгэдэг.",
+ "body_mn": "Веб програмуудад дата судлах, график дүрслэх боломжийг олохын тулд хүнд жинтэй BI платформ суулгах шаардлагагүйгээр Graphic Walker хэрэгслийг ашиглах боломжтой. Энэ нь хэрэглэгчдэд өгөгдлийг чирч тавин хялбархан график байгуулах боломжийг олгодог React компонент юм.\n\nПрограмын гол архитектур нь веб веркерүүдээр (web workers) тооцооллыг хийдэг тул сервер талын тусгай үйлчилгээ шаардахгүйгээр зөвхөн браузер дээр ажиллах чадвартай. Vega-lite дүрслэлийн грамматикаар суурилсан тул хэрэглэгчид өөрсдийн хүссэн графикаа уян хатан байдлаар үүсгэх боломжтой.\n\nМөн GeoJSON/TopoJSON дэмждэг тул газрын зургийн дата дүрслэх, байгалийн хэлээр асуулт асуух хиймэл оюуны боломж болон TerseSpec ашиглан код дотор хялбар график тодорхойлох функцуудыг багтаасан байна. Хөгжүүлэгчид npm сувгаар @kanaries/graphic-walker нэрээр суулгаж өөрийн апп дотроо ашиглах боломжтой.",
+ "published": "2026-11-19T06:08:25Z",
+ "added": "2026-11-19T07:30:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

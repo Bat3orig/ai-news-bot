@@ -1,0 +1,17 @@
+{
+ "id": "848fe8d5e375a48c",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/anyps5",
+ "image": "https://opengraph.githubassets.com/1/boykopovar/anyps5",
+ "title": "Porting PS5 executables to Linux and Windows by relinking, not emulating",
+ "summary_en": "You've probably seen PS5 emulation projects before—complex, resource-hungry, and still very much a work in progress. But what if you didn't need an emulator at all? That's the question AnyPS5 is answering. Instead of emulating the console, it takes a different route: relinking PS5 executables into n... GitHub Repository: https://github.com/boykopovar/anyps5",
+ "title_mn": "AnyPS5: PS5 executable-уудыг эмуляцигүйгээр Linux болон Windows-д relink хийх",
+ "summary_mn": "AnyPS5 нь PS5 executable-ийг эмуляторгүйгээр Linux болон Windows-ийн native binary болгон relink хийдэг C++ төсөл юм. SPIR-V shader recompiler, web converter зэрэг багтсан бөгөөд төсөл хөгжлийн явцдаа байна.",
+ "body_mn": "AnyPS5 нь PS5 executable-ийг эмуляцигүйгээр Linux болон Windows-ийн native binary болгон хөрвүүлдэг C++ хэрэгсэл юм. Relinker нь PS5 executable-ийг native форматад хөрвүүлж, системийн PRX сангуудын хэрэгжүүлэлтүүд dynamic linking-ээр холбогдоно. Ингэснээр эмуляторын runtime процесс байхгүй.\n\nШейдерийн recompiler нь SPIR-V гаргадаг бөгөөд ANYPS5_ENABLE_SPIRV_TOOLS-ээр build хийхэд Spirv-Tools-оор шалгагдана. macOS дээр, Apple silicon-д зориулсан relinker-only build бас байна. Файлаа төхөөрөмждөө хадгалдаг web converter ч бий.\n\nТөсөл нь сангийн хамрах хүрээг функцийн тоонд үндэслэн хувь хэмжээгээр харуулдаг бөгөөд энэ нь бүх PS5 системийн функц биш юм. Алдаа гарвал std::runtime_error зэрэг C++ exception шидэж, stderr-д мэдээлэл хэвлэдэг. Тоглоом тус бүрийн статусыг Game bring-up хэлэлцүүлгээс харж болно. SDL-ээр тохируулсан хянагч, keyboard, mouse-ийг anyps5-input.ini-ээр тохируулна.\n\nЭнэ нь C++ мэддэг, binary relinking-д сонирхолтой хөгжүүлэгчдэд зориулагдсан туршилтын төсөл юм. Бэлэн, найдвартай хэрэгсэл гэж үзэхгүй байх нь зүйтэй.",
+ "published": "2026-11-19T06:06:14Z",
+ "added": "2026-11-19T07:30:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

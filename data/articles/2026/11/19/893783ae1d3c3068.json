@@ -1,0 +1,17 @@
+{
+ "id": "893783ae1d3c3068",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/freeplane",
+ "image": "https://opengraph.githubassets.com/1/freeplane/freeplane",
+ "title": "Freeplane: mind mapping in Java with Swing and OSGi, plus formula support",
+ "summary_en": "You've probably tried a mind mapping tool at some point—maybe for a project plan, a study guide, or just to untangle a mess of ideas. And maybe you hit a wall: a paywall, a cloud-only sync requirement, or an interface that felt more like a sales funnel than a thinking tool. Freeplane is the answer t... GitHub Repository: https://github.com/freeplane/freeplane",
+ "title_mn": "Freeplane: Java хэл дээрх оюун ухааны зураглалын нээлттэй эх сурвалжтай хэрэгсэл",
+ "summary_mn": "Freeplane нь Java болон OSGi архитектур дээр суурилсан, томъёоны дэмжлэгтэй, үүлэн үйлчилгээнээс хамааралгүй оюун ухааны зураглал үүсгэх нээлттэй эх сурвалжтай програ юм. Энэ нь хэрэглэгчдэд санаагаа цэгцлэх, мэдээлэл хуваалцах боломжийг олгодог.",
+ "body_mn": "Freeplane нь Java болон OSGi, Java Swing технологи ашиглан бүтээгдсэн, олон жилийн түүхтэй, үнэ төлбөргүй бөгөөд нээлттэй эх сурвалжтай оюун ухааны зураглал (mind mapping) хийх хэрэгсэл юм. Уг програмыг ямар ч үйлдлийн систем дээр суулгаж ашиглахаас гадна зөөврийн USB дискнээс шууд ажиллуулах боломжтой нь үүлэн үйлчилгээ болон байнгын интернэт холболтоос хараат бус байх давуу талыг олгодог.\n\nЭнэхүү хэрэгсэл нь зөвхөн текст бичихэд зориулагдсан энгийн самбар биш бөгөөд зангилагдсан өгөгдөл дээр томъёо ашиглах боломжийг олгодог юм. Мөн модульчлагдсан OSGi архитектурын тусламжтайгаар хөгжүүлэгчид болон хэрэглэгчид өргөтгөл нэмж, програмын боломжийг өргөжүүлэх боломжтой.\n\nИнтерфэйсийн хувьд командын хайлт (command search) хийх боломжтой тул олон функцтэй Swing програмаас хүссэн цэс эсвэл үйлдлээ түргэн олоход тусална. Төслийн хөгжүүлэгчид одоогоорримд баримтжуулалт болон орчуулгын ажилд хувь нэмэр оруулах хүмүүсийг идэвхтэй хайж байна.",
+ "published": "2026-11-19T06:07:20Z",
+ "added": "2026-11-19T07:30:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

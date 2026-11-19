@@ -1,0 +1,17 @@
+{
+ "id": "27366cf74ba17dd3",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/plugins",
+ "image": "https://opengraph.githubassets.com/1/cursor/plugins",
+ "title": "Official Cursor plugins for popular dev tools, frameworks, and SaaS products",
+ "summary_en": "If you've spent any time wiring AI coding agents into your workflow, you've probably hit the same wall: the agent is capable, but it doesn't know how *you* work. It doesn't know your CI setup, your review standards, or the conventions your team actually follows. You end up re-explaining the same con... GitHub Repository: https://github.com/cursor/plugins",
+ "title_mn": "cursor/plugins: Cursor хиймэл оюуны агент боловсруулах албан ёсны плагинуудын сан",
+ "summary_mn": "Cursor/plugins нь багийн болон төслийн онцлогт тохируулан хиймэл оюуны агентийн зан төлөвийг удирдах боломжийг олгох албан ёсны плагинуудын цуглуулга юм. Тус сан нь monorepo бүтцээр хөгжүүлэгдсэн бөгөөд файл бүр өөрийн гэсэн plugin.json макро файлаар тоноглогдсон байна.",
+ "body_mn": "Хиймэл оюуны код бичих агентуудыг өөрийн ажлын урсгалд нэгтгэх үед агентууд тухайн багийн код бичих стандарт, CI тохиргоог мэдэхгүй байх асуудал түгээмэл тулгардаг. cursor/plugins сан нь энэхүү асуудлыг шийдвэрлэх зорилгоор хөгжүүлэгдсэн албан ёсны плагинуудын цуглуулга юм.\n\nУг сан нь monorepo бүтцээр хийгдсэн бөгөөд плагин бүр үндсэн директорт өөрийн гэсэн хавтсанд байршиж, plugin.json макро файлыг агуулдаг. Энэ нь хөгжүүлэгчдэд бусдын кодыг үзэж судлах, өөрийн плагиныг бүтээхэд загвар болгон ашиглах боломжийг олгож байгаагаараа онцлог юм.\n\nПлагинуудын хүрэх цар хүрээ өргөн бөгөөд Gmail, Google Drive, Calendar зэрэг бүтээмжийн хэрэгслүүдээс гадна код хянах, параллель агентуудыг удирдах, санах ойн менежмент хийх зэрэг хөгжүүлэгчдэд зориулсан ажлын урсгалуудыг багтаасан байна. Тухайлбал, агентийн гүйцэтгэлийг сайжруулах pstack болон thermos зэрэг өвөрмөц аргачлалуудыг кодоор дамжуулан хэрэгжүүлсэн байна.",
+ "published": "2026-11-19T06:07:52Z",
+ "added": "2026-11-19T07:30:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

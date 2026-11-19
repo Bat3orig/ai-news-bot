@@ -1,0 +1,17 @@
+{
+ "id": "574bf0c7a439e5a1",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/substrate",
+ "image": "https://opengraph.githubassets.com/1/agent-substrate/substrate",
+ "title": "Sandboxing millions of agents on Kubernetes by snapshotting idle ones",
+ "summary_en": "If you've ever tried to keep a fleet of agent sandboxes warm, you know the math doesn't work. Agents spend most of their lives waiting—on a model response, a tool call, a human in the loop—yet a standard container keeps burning memory the whole time it sits there doing nothing. Agent Substrate, an o... GitHub Repository: https://github.com/agent-substrate/substrate",
+ "title_mn": "Agent Substrate: Kubernetes дээр сая сая агентийг хамгаалалттай ажиллуулах систем",
+ "summary_mn": "Agent Substrate нь Kubernetes орчинд ажилладаг, идэвхгүй агентуудыг түр санах ойд хадгалж (snapshot) хүсэлт ирэхэд секундийн тал хүрэхгүй хугацаанд сэргээх чадвартай аюулгүй байдлын өндөр түвшний ажиллах орчин юм. Энэ нь хөгжүүлэгчдэд агентийн дэд бүтцийг өндөр нягтралтайгаар удирдах боломжийг олгодог.",
+ "body_mn": "Хиймэл оюуны агентууд ихэнх цагаа модель хариулах эсвэл хэрэглэгчийн оролцоог хүлээж сул зогсож өнгөрүүлдэг боловч энгийн контейнерууд санах ойг байнга ашигласаар байдаг. Agent Substrate төсөл нь сул зогсож буй агентуудын төлөвийг түр санах ойд хадгалж, хүсэлт ирэх үед 500 миллисекундээс бага хугацаанд сэргээх замаар энэ асуудлыг шийддэг.\n\nУг runtime нь агентийн тусгай SDK биш бөгөөд Kubernetes стандарт суурь дээр ажиллаж, микроVM болон gVisor технологиудыг ашиглан тусгаарлагдсан, найдвартай орчныг бүрдүүлдэг. Агент бүр криптографийн баталгаажуулалт болон SPIFFE X.509 гэрчилгээгээр хангагдах бөгөөд нууц үг, токеныг агентийн дотор хадгалахгүйгээр аюулгүй байдлыг хангадаг.\n\nЭнэхүү платформ нь агентийн болон дата төвийн нөөцийг хэмнэх зорилгоор Kubernetes дэд бүтцийг оновчлох хүсэлтэй хөгжүүлэгчдэд зориулагдсан бөгөөд Apache 2.0 лицензтэй нээлттэй эх сурвалжтай хөгжиж байна.",
+ "published": "2026-11-19T06:09:03Z",
+ "added": "2026-11-19T07:30:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

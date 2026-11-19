@@ -1,0 +1,17 @@
+{
+ "id": "e1894c95aefc948a",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/flowgram-ai",
+ "image": "https://opengraph.githubassets.com/1/bytedance/flowgram.ai",
+ "title": "A workflow framework with a canvas, node forms, and variable scope built in",
+ "summary_en": "You've probably had this thought: \"I could build a visual workflow builder for our AI product.\" Then you start listing what it actually takes—a draggable canvas, node configuration forms, a variable scope system that resolves references across nodes, plus the actual node types like LLM calls and con... GitHub Repository: https://github.com/bytedance/flowgram.ai",
+ "title_mn": "FlowGram: AI ажлын урсгал бүтээх canvas, form болон хувьсагчийн framework",
+ "summary_mn": "ByteDance-ийн FlowGram нь canvas, node тохиргооны форм, хувьсагчийн хамрах хүрээг бэлэн болгосон визуал workflow framework юм. Framework багцууд болон FlowGram Desktop preview хэлбэрээр гарсан бөгөөд HTTP болон MCP-ээр дуудах боломжтой.",
+ "body_mn": "FlowGram бол ByteDance-ийн бүтээсэн, визуал workflow хөгжүүлэх нээлттэй эхийн framework бөгөөд AI workflow платформ бүтээгчдэд зориулагдсан. Canvas, node тохиргооны форм, хувьсагчийн scope chain зэрэг хамгийн хүндрэлтэй хэсгүүдийг бэлэн болгож өгдөг. LLM, Condition, Code Editor зэрэг бэлэн node-ууд мөн багтсан.\n\nТүүнээс гадна FlowGram Desktop нэртэй macOS болон Windows-д зориулсан native Agent workspace preview хэлбэрээр гарсан. Чатаар даалгавар тодорхойлж, canvas дээр parallel салбар, join, loop зэргийг засах боломжтой. Node тус бүрийг туршиж, оролт гаралтыг шалгах, түүхэн snapshot харах боломжтой.\n\nWorkflow-уудыг версиудтай нийтэлж HTTP болон MCP хэрэглэгчдэд ашиглуулж, эсвэл бусад workflow-оос дуудах боломжтой. Import/export, англи болон хятад хэлний дэмжлэг, light/dark загвар зэрэг функцтэй.\n\nХөгжүүлэгчдэд энэ нь visual builder-ийг өөрийн платформд суулгах primitive-үүдийн багц гэж үзэж болно. Харин preview тул суулгагч нь гарын үсэггүй, macOS build-ууд notarize хийгдээгүй гэдгийг анхаарах хэрэгтэй. Суулгахдаа rep-ийн README-ийн заавар болон SHA-256 шалгалтыг ашиглана уу.",
+ "published": "2026-11-19T06:04:59Z",
+ "added": "2026-11-19T07:30:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
