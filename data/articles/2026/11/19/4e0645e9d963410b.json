@@ -1,0 +1,17 @@
+{
+ "id": "4e0645e9d963410b",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.328",
+ "image": "https://opengraph.githubassets.com/cb956e0313e453d1ba5080e2bb2510ad156dcebf68610b6ec5e7618b48f0d4e6/anthropics/claude-code/releases/tag/v2.1.328",
+ "title": "claude-code v2.1.328",
+ "summary_en": "What's changed Added auto mode for Claude Opus 4.6 and Sonnet 4.6 on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude apps gateway; interactive sessions with no permission mode start in it Added \"onFailure\": \"block\" for mcp_tool hooks, as for command and HTTP hooks: a hook whose call fails blocks the action Added a warning when a message from a session that skips permission prompts may be held and dropped by a cloud session Added a notice in /status and claude doctor when an OpenTelemetry exporter has no endpoint and its data would likely be lost Added…",
+ "title_mn": "claude-code v2.1.328 хувилбар шинэ боломжуудтайгаар гарлаа",
+ "summary_mn": "Claude Code хэрэгслийн шинэ хувилбарт Bedrock болон Google Cloud платформ дээрх Opus 4.6, Sonnet 4.6 загваруудад зориулсан авто горим нэмэгдэв.",
+ "body_mn": "Claude Code хэрэгслийн v2.1.328 шинэчлэлтээр Amazon Bedrock, Google Cloud Agent Platform, Microsoft Foundry зэрэг платформ дээр Claude Opus 4.6 болон Sonnet 4.6 загваруудад зориулсан автомат горимыг нэмжээ. Мөн зөвшөөрлийн горимгүйгээр эхлэх интерактив сессүүдийг дэмждэг болсон байна.\n\nТүүнчлэн mcp_tool хуукуудад onFailure: block тохиргоог нэмж, алдаа гарсан үед үйлдлийг таслах боломжтой болгожээ. Өөрийгөө байршуулах (self-hosted) ажиллуулагчдад зориулж repository фолдер нэрлэх --repository-folder параметр болон сессийн удирдлагын хэмжүүрүүдийг шинээр оруулсан байна.\n\nКод боловсруулах явцад гардаг зарим алдаануудыг зассан бөгөөд zsh дээрх Bash команд дахь зарим тэмдэгтүүдийн гажиг, терминал дахь дэлгэц хөлдөх зэрэг асуудлуудыг шийдвэрлэжээ. Энэ нь хөгжүүлэгчдэд агентын хэрэгслүүдийг илүү найдвартай ашиглах нөхцөлийг бүрдүүлж байна.",
+ "published": "2026-11-19T01:14:04Z",
+ "added": "2026-11-19T05:19:19Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

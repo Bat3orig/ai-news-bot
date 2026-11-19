@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "a275d53fb0d0d62c",
-   "subtopic": "packages",
-   "source": "Frontend Focus",
-   "source_label": "Frontend Focus",
-   "url": "https://frontendfoc.us/issues/767",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/jhi7bhjracqrzildsuo1.jpg",
-   "title": "What developers think of HTML right now",
-   "summary_en": "🚀 Frontend Focus #​767 — November 18, 2026 | Read on the web 🗳️ The State of HTML 2026 Results The State of HTML 2026 results are now out covering what developers are using, loving and struggling with, plus how much they use AI . Declarative, element-based features are winners, while form controls remain difficult. Some highlights: < details >/< summary > (72.5%) and < dialog > (67.8%) are the most used interactivity features, and use of the Popover API has reached 40% now that it works in every major browser. < select > and date inputs are the hardest elements to style, and customizable…",
-   "title_mn": "State of HTML 2026 судалгааны үр дүн болон Chrome 158 шинэчлэлтүүд",
-   "summary_mn": "State of HTML 2026 судалгаагаар хөгжүүлэгчдийн ашиглаж буй элементүүд болон тулгамдаж буй асуудлууд тодорхой боллоо. Мөн jQuery 4.1 болон тогтвортой Chrome 158 хувилбар гарлаа.",
-   "body_mn": "State of HTML 2026 судалгааны үр дүнгээр хөгжүүлэгчид dialog болон popover API зэрэг элементүүдийг өргөнөөр ашиглаж байгааг онцолжээ. Харин select элемент болон огнооны оролтуудыг загварчлахад хүндрэлтэй хэвээр байгаа аж. Судалгаагаар уугуул өгөгдлийн хүснэгтүүдийг эрэмбэлэх, шүүх боломжтой болгох нь хөгжүүлэгчдийн хүслийн жагсаалтыг тэргүүлжээ.\n\nҮүний зэрэгцээ Chrome 158 хувилбар тогтвортой байдалд шилжиж, шинэ элемента болон медиа төлөвийн pseudo-классуудыг нэвтрүүлсэн байна. Мөн jQuery 4.1 болон 3.8 хувилбарууд албан ёсоор гарсан бөгөөд 3.x цувралын сүүлийн боломжит шинэчлэлт болж байна.\n\nВэб хөгжүүлэлтэд AI хэрэгслүүдийг ашиглах үед гардаг алдаануудын талаарх Chrome багийн туршилт мөн нийтлэгдсэн байна. Орчин үеийн вэб удирдамж ашиглахгүйгээр AI агент нь вэб шилдэг туршлагуудын дөнгөж 50 хувийг л хангаж чадаж байгааг онцолжээ.",
-   "published": "2026-11-18T00:00:00Z",
-   "added": "2026-11-19T03:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "05bed177568c3b94",
-   "subtopic": "ai-devtools",
-   "source": "openai/codex",
-   "source_label": "openai/codex",
-   "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0",
-   "image": "https://opengraph.githubassets.com/f558a5f554fe1b077a534f82044fd2a5d202f2eeb0f5121d88192f6a94c5eda5/openai/codex/releases/tag/rust-v0.170.0",
-   "title": "codex 0.170.0",
-   "summary_en": "New Features Added WebRTC negotiation for realtime voice calls in the TUI. ( #61172 ) Added automatically refreshed authentication headers for OpenTelemetry HTTP exporters. ( #61028 ) Added experimental support for using identically named MCP servers across environments. ( #60905 ) Bug Fixes Oversized WebSocket requests now fall back to HTTP without unnecessary retries. ( #60840 , #60841 ) Fixed MCP OAuth credential races during cancellation, login, and logout. ( #60849 , #60981 ) Improved automatic reconnection for Cloud conversations and preserved active recovery turns when clients…",
-   "title_mn": "Codex 0.170.0 хувилбар шинэ боломж болон алдаа засвартайгаар гарлаа",
-   "summary_mn": "Codex 0.170.0 хувилбар нь TUI дотор бодит цагийн дуудлага хийх WebRTC, OpenTelemetry экспортер болон олон төрлийн алдаа засварыг багтаажээ.",
-   "body_mn": "Codex хэрэгслийн шинэ 0.170.0 хувилбар албан ёсоор гарлаа. Энэхүү хувилбарт TUI орчинд дуут дуудлага хийх зорилгоор WebRTC тохиролцоог нэмсэн бөгөөд OpenTelemetry HTTP экспортер руу илгээх аутентификаციის толгойг автоматаар шинэчилдэг болжээ. Мөн орчны хооронд ижил нэртэй MCP серверийг зэрэг ашиглах туршилтын дэмжлэгийг нэмсэн байна.\n\nТүүнчлэн хэт том WebSocket хүсэлтүүдийг шаардлагагүй дахин оролдлогогүйгээр HTTP рүү буцаадаг болгож, MCP OAuth итгэмжлэлийн алдаа болон цонхны файлын солилцооны асуудлуудыг зассан байна. Хөгжүүлэгчид sandbox болон аюулгүй байдлын тохиргоонуудыг илүү найдвартай удирдах боломжтой боллоо.",
-   "published": "2026-11-18T03:45:39Z",
-   "added": "2026-11-19T03:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b25263b5a22241eb",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-board-is-now-available",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/33ItNeQcFqSJu8SRUQpMZW/c708ae3da08edf300f489fbc62457bde/vercel_board_og_final.png",
-   "title": "Vercel Board is now available",
-   "summary_en": "Vercel Board is now available on all plans. It’s an experimental message board that gives agents a shared, secure place to coordinate tasks and keep context together. Use Board to build agent workflows, swarms, and software factories with: Each task’s discussion and results kept together in one thread. Control over which channels agents and users can access and what they can do. Messages and replies that sync both ways with Slack, GitHub, and other tools through Vercel Connect . Use your own agents, harnesses, and execution environments. Agents access Board through the Vercel CLI or…",
-   "title_mn": "Vercel Board нь агентуудад даалгавар удирдах боломж олгоно",
-   "summary_mn": "Vercel Board нь хиймэл оюун ухааны агентуудад даалгавар зохицуулах, контекст хуваалцах аюулгүй орчныг бүрдүүлдэг туршилтын мессежийн самбар юм.",
-   "body_mn": "Vercel platform дээр агентуудын хамтын ажиллагааг сайжруулах зорилготой Vercel Board нэртэй шинэ туршилтын мессежийн самбар нээгдлээ. Энэхүү хэрэгсэл нь агентуудад даалгаврын явц, хэлэлцүүлэг болон үр дүнг нэг урсгалд нэгтгэн хадгалах боломжийг олгодог бөгөөд багуудад ажлаа илүү үр дүнтэй зохион байгуулах нөхцөлийг бүрдүүлдэг.\n\nПлатформын хэрэглэгчид сувгуудын хандалтын эрхийг нарийн хянаж, агентууд болон хэрэглэгчдийн хийх үйлдлийг хязгаарлах боломжтой. Мөн Vercel Connect үйлчилгээгээр дамжуулан мессеж болон хариултууд нь Slack, GitHub зэрэг бусад хэрэгслүүдтэй хоёр талын холболтоор автоматаар синхрончлогддог.\n\nХөгжүүлэгчид өөрсдийн агентууд болон гүйцэтгэх орчныг ашиглах боломжтой бөгөөд Vercel CLI эсвэл JavaScript SDK ашиглан Board-тай холбогдох юм. Энэ нь олон агентын хамтарсан ажлын урсгал (swarm) болон програм хангамжийн автомат үйлдвэрүүдийг хөгжүүлэхэд чухал алхам болж байна.",
-   "published": "2026-11-18T05:00:00Z",
-   "added": "2026-11-19T04:01:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "bdfe24b61e9de659",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/parallel-web-search-is-free-on-ai-gateway-and-eve-through-january-31",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1JYJ9wk75kgyze16wuPDft/afc58a2c25240e39277e82324afe8e68/parallel_og_final.png",
-   "title": "Parallel web search is free on AI Gateway and eve through January 31",
-   "summary_en": "Parallel web search in fast mode is now free on AI Gateway through January 31, 2027, and Parallel is now the default web search for eve agents. The tool works with any AI Gateway model, with no separate Parallel API key. Parallel finds relevant web pages and returns links with short excerpts. You can filter results by website or publication date. In eve, the built-in web_search tool uses Parallel fast mode automatically when the model is served through AI Gateway. See the eve documentation for other search configurations. To use Parallel fast mode with the AI SDK, add…",
-   "title_mn": "Vercel AI Gateway дээр Parallel вэб хайлт түр хугацаанд үнэгүй боллоо",
-   "summary_mn": "Vercel AI Gateway дээрх Parallel вэб хайлтын хурдан горим 1 дүгээр сарын 31 хүртэл үнэгүй ажиллах ба eve агентуудын үндсэн хайлт боллоо.",
-   "body_mn": "Vercel компани AI Gateway дээрх Parallel вэб хайлтын хурдан горимыг 2027 оны 1 дүгээр сарын 31 хүртэл бүрэн үнэгүй болгосноо зарлалаа. Энэхүү хэрэгсэл нь тусгай Parallel API түлхүүргүйгээр AI Gateway-ийн аль ч загвартай хамтран ажиллах боломжтой юм.\n\nParallel нь холбогдох вэб хуудсуудыг хайж олохдоо богино хэсэгчилсэн мэдээлэл болон холбоосыг буцаадаг бөгөөд хэрэглэгчид үр дүнг вэбсайт эсвэл нийтлэгдсэн огноогоор шүүж ашиглах боломжтой. Мөн eve агентуудад энэхүү Parallel fast горим анхдагч вэб хайлтын хэрэгслээр автоматаар тохируулагдсан байна.\n\nХөгжүүлэгчид AI SDK ашиглахдаа code блоктонд шаардлагатай нэмэлтүүдийг оруулснаар уг хайлтын горимыг хялбархан ашиглаж эхлэх боломжтой. Энэхүү үнэгүй үйлчилгээ нь өгөгдөл хадгалахгүй байх (Zero Data Retention) горимыг анхдагчаар дэмждэг ажээ.",
-   "published": "2026-11-18T05:00:00Z",
-   "added": "2026-11-19T04:01:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "99be0c0a7e074380",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/managing-frontier-ai-risk",
-   "image": "",
-   "title": "Managing frontier AI risk: From training to deployment",
-   "summary_en": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-   "title_mn": "OpenAI хиймэл оюун ухааны эрсдэлийг хэрхэн удирддаг вэ?",
-   "summary_mn": "OpenAI загварын сургалтаас эхлээд ашиглалтад оруулах хүртэлх аюулгүй байдлын хяналт, хамгаалалтын арга хэрэгслүүдээ танилцууллаа.",
-   "body_mn": "OpenAI компани хиймэл оюун ухааны хөгжлийн явцад тулгарч болох эрсдэлийг загвар сургалтаас эхлэн бодит хэрэглээнд нэвтрүүлэх хүртэлх хугацаанд хэрхэн удирддаг талаар мэдээллээ. Үүнд загварын зохицол (alignment), тусгаарлагдсан орчин (sandbox), хориглох хамгаалалтууд болон байнгын хяналт зэрэг аргууд багтаж байна.\n\nХөгжүүлэгчид болон технологийн салбарынхан хиймэл оюун ухааны аюулгүй байдал, хариуцлагатай хөгжүүлэлтийн талаарх энэхүү туршлагаас суралцах боломжтой. Компанийн зүгээс дэвшилтэт технологийн эрсдэлийг бууруулах нь цаашдын бүтээгдэхүүний хөгжилд нэн чухал болохыг онцолж байна.",
-   "published": "2026-11-18T06:00:00Z",
-   "added": "2026-11-19T04:01:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "950490d3b87d8a5e",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "MarkTechPost",
-   "url": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-14534-2-scaled.png",
-   "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
-   "summary_en": "Anthropic AI Team Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript in 1 step. Latest release",
-   "title_mn": "Claude Code-д Code Mode нэмэгдэж, хэрэгслийн дуудлагыг хялбарчиллаа",
-   "summary_mn": "Anthropic компани Claude Code хэрэгсэлд JavaScript ашиглан олон хэрэгслийн дуудлагыг нэг алхамаар хийх Code Mode горимыг нэмжээ.",
-   "body_mn": "Anthropic компани Claude Code хэрэгсэлд туршилтын журмаар Code Mode горимыг нэмсэн бөгөөд энэ нь Claude-д олон шат дамжлагатай ажлыг JavaScript код бичих замаар нэг мөчлөгт гүйцэтгэх боломжийг олгодог. Шинэ горим нь v2.1.323 хувилбараас эхлэн нэвтэрсэн байна.\n\nУг горимын тусламжтайгаар хөгжүүлэгчид олон команд зэрэг ажиллуулах, нэг үр дүнг дараагийн дуудлагад шууд дамжуулах замаар токен болон цаг хугацааг ихээхэн хэмнэх боломжтой болжээ. Хөгжүүлэгчид shell орчин эсвэл тохиргооны файл дээр тусгай хувьсагч идэвхжүүлснээр энэхүү туршилтын горимыг ашиглаж эхлэх юм.\n\nКод бичих болон олон холбоотой хэрэгслийн дуудлага хийх шаардлагатай үед энэхүү горим нь агентын хариу өгөх хурдыг сайжруулж, шаардлагагүй round-trip үйлдлүүдийг багасгахад чиглэгдсэн байна.",
-   "published": "2026-11-18T06:53:28Z",
-   "added": "2026-11-19T04:01:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "58da586369f33999",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-   "image": "",
-   "title": "Research acceleration: The jagged frontier",
-   "summary_en": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-   "title_mn": "Код бичих агентууд хиймэл оюун ухааны судалгааг хэрхэн хурдасгаж байна вэ?",
-   "summary_mn": "OpenAI код бичих агентууд AI судалгааг хэрхэн хурдасгаж байгааг хэмжиж, гүйцэтгэлийн онцлогийг шинжлэлээ.",
-   "body_mn": "OpenAI компани код бичих агентууд хиймэл оюун ухааны судалгааны ажлыг хэрхэн хурдасгаж байгааг судалж, тэдгээрийн гүйцэтгэлийн зарим чиглэлд жигд бус байгааг онцоллоо. Судалгаагаар агентуудын чадавх хөгжиж байгаа хэдий ч зарим нарийн төвөгтэй ажлууд дээр ялгаатай үр дүн гарч байгааг харуулсан байна.\n\nЭнэхүү судалгаа нь цаашид системүүд бие даан өөрийгөө сайжруулах (recursive self-improvement) боломжид хэрхэн нөлөөлөх талаар чухал ойлголтуудыг өгч байна. Хөгжүүлэгчид болон судлаачид агентуудын чадварыг бодит төслүүдэд ашиглахад анхаарах ёстой хүчин зүйлсийг үүнд үндэслэн тодорхойлж байна.",
-   "published": "2026-11-18T08:00:00Z",
-   "added": "2026-11-19T04:01:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "67952d9a918d2536",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/inside-the-codex-sandbox",
-   "image": "",
-   "title": "Inside the Codex sandbox",
-   "summary_en": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-   "title_mn": "Codex sandbox орчны ажиллах зарчим болон аюулгүй байдлын хязгаарлалт",
-   "summary_mn": "OpenAI нь Codex систем хэрэглэгчийн компьютер дээр файлыг болон сүлжээг хэрхэн хянаж ажилладаг талаар танилцууллаа.",
-   "body_mn": "OpenAI компани Codex хэрэгслийн ажиллах үндсэн зарчим болон аюулгүй байдлын хязгаарлалтуудыг танилцууллаа. Энэхүү систем нь macOS, Linux болон Windows үйлдлийн системүүд дээр файлын систем болон сүлжээний хандалтыг хэрэглэгчийн хяналтын дор аюулгүй байдлаар гүйцэтгэх боломжийг олгодог байна.\n\nХөгжүүлэгчид хиймэл оюун ухааны туслах хэрэгсэл ашиглах явцдаа кодыг шууд ажиллуулах үед гарч болох эрсдэлээс урьдчилан сэргийлэхэд энэхүү сандбоксын бүтэц чухал үүрэгтэй. Систем нь команд гүйцэтгэх явцыг нарийн хянаж, зөвшөөрөгдсөн хүрээнээс хэтрэхгүй байх нөхцөлийг бүрдүүлдэг юм.\n\nЭнэхүү мэдээлэл нь локал орчинд кодын автомат гүйцэтгэл ашигладаг хөгжүүлэгчдэд аюулгүй байдлын тохиргоогоо зөв хийхэд тустай юм. OpenAI хөгжүүлэлтийн явцыг аюулгүй байлгах үүднээс хязгаарлалтын тохиргоог хэрэглэгч өөрөө удирдах боломжтойгоор шийдвэрлэжээ.",
-   "published": "2026-11-18T08:00:00Z",
-   "added": "2026-11-19T04:01:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0a961e0e6d20bccd",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/introducing-vercel-board",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca600397c120c7550d2d2c36/e9a2d078b2229c537525478b237c707a/og-board__1_.png",
-   "title": "Introducing Vercel Board",
-   "summary_en": "Software development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn't a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many agents and subagents. We ran into this coordination problem internally and started experimenting with a shared message board as a primitive on two key projects: Our security agents : We deployed a swarm of agents to analyze our codebases for vulnerabilities, push fixes and updates, and now we track…",
-   "title_mn": "Vercel Board: Олон агентуудын хамтын ажиллагааг зохицуулах туршилтын систем",
-   "summary_mn": "Vercel компани хөгжүүлэгчид болон хиймэл оюун ухааны агентуудын ажлыг уялдуулан зохицуулах Vercel Board системийг зарлалаа.",
-   "body_mn": "Vercel компани олон агентууд болон хөгжүүлэгчдийн баг хоорондын ажлыг уялдуулан зохицуулах зорилготой Vercel Board нэртэй туршилтын системийг албан ёсоор танилцууллаа. Энэхүү хэрэгсэл нь агентуудын гүйцэтгэж буй ажлын явц, даалгавар, лог болон дууссан үр дүнг нэгдсэн байдлаар хянах боломжийг олгодог.\n\nПлатформын хувьд Claude Code, Codex, Mastra зэрэг олон төрлийн агент болон орчныг дэмжих бөгөөд JavaScript SDK эсвэл CLI ашиглан холбогдох боломжтой. Хоёр талын синхрончлолын тусламжтайгаар Slack болон GitHub зэрэг хэрэгслүүдтэй холбогдон мэдээллийг автоматаар солилцдог байна.\n\nЭнэхүү шийдэл нь хөгжүүлэгчдэд хиймэл оюун ухааны олон агентуудыг нэг баг болгон ажиллуулах, автоматжуулсан процесст хяналт тавих шинэ боломжийг нээж өгч байгаагаараа онцлог юм.",
-   "published": "2026-11-18T08:00:00Z",
-   "added": "2026-11-19T04:01:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f2a61bd67314dd42",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "Tekedia",
-   "url": "https://www.tekedia.com/alibaba-releases-qwen4-max-a-2-4-trillion-parameter-ai-model-with-improved-efficiency/",
-   "image": "https://www.tekedia.com/wp-content/uploads/2025/11/alibaba-qwen.jpg",
-   "title": "Alibaba Releases Qwen4-Max, a 2.4 Trillion-Parameter AI Model With Improved Efficiency",
-   "summary_en": "Alibaba is strengthening its position in the global artificial intelligence race with the release of Qwen4-Max, a new large language model reportedly containing 2.4 trillion parameters. The latest development highlights China’s growing ambitions in advanced AI and intensifies competition among technology companies seeking to build increasingly powerful and efficient models. According to the announcement, Qwen4-Max […]",
-   "title_mn": "Alibaba компани 2.4 их наяд параметртэй Qwen4-Max загварыг танилцууллаа",
-   "summary_mn": "Alibaba 2.4 их наяд параметр бүхий Qwen4-Max загвараа гаргасан бөгөөд өмнөх хувилбараасаа 50% бага токен зарцуулдаг байна.",
-   "body_mn": "Alibaba компани хиймэл оюун ухааны зах зээлд байр сууриа бэхжүүлэх зорилгоор 2.4 их наяд параметр бүхий Qwen4-Max нэртэй шинэ том хэлний загвараа танилцууллаа. Энэхүү загвар нь өмнөх хувилбараа бодвол токен зарцуулалтыг ойролцоогоор 50 хувиар бууруулж чадсан нь тооцооллын зардлыг хэмнэхэд чухал ач холбогдолтой юм.\n\nПараметрийн асар том хэмжээ нь загварын нарийн төвөгтэй мэдээллийг боловсруулах, хэв шинжийг таних чадварыг өсгөж байгаа бөгөөд токен хэмнэлт нь хөгжүүлэгчид болон бизнесийн хэрэглэгчдэд үйл ажиллагааны зардлаа бууруулах боломж олгоно. AI системүүдийг өргөн хүрээнд нэвтрүүлэхэд дэд бүтцийн зардал болон цахилгаан зарцуулалт өндөр байдаг тул энэхүү үр ашигтай байдал нь гол давуу тал болж байна.\n\nШинэ загвар нь OpenAI, Google, Anthropic зэрэг компаниудтай өрсөлдөх Alibaba-гийн стратегийн томоохон алхам бөгөөд хөгжүүлэгчид програм хангамж хөгжүүлэлт, автоматжуулалт болон бусад нарийн төвөгтэй ажлуудад ашиглах боломжтой юм.",
-   "published": "2026-11-18T09:51:47Z",
-   "added": "2026-11-19T04:01:02Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "a3ed1e2bfd1a8426",
    "subtopic": "anthropic",
    "source": "Anthropic (Google News)",
@@ -437,6 +237,66 @@
    "added": "2026-11-19T05:01:05Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "13d3b59ffa2ca047",
+   "subtopic": "gemini",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+   "image": "",
+   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+   "summary_en": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 167 # Comments: 59",
+   "title_mn": "Gemini 4 Neon загвар гарч, Opus 5.5-тай өрсөлдөхүйц хурдтай болжээ",
+   "summary_mn": "Шинээр гарсан Gemini 4 Neon загвар маш өндөр хурдтай бөгөөд Opus 5.5-тай дүйцэхүйц гүйцэтгэл үзүүлж магадгүй байна.",
+   "body_mn": "Шинээр танилцуулагдсан Gemini 4 Neon загвар нь хурд болон бенчмарк үзүүлэлтээрээ анхаарал татаж байна. OpenRouter дээр хийсэн туршилтаар уг загвар секундэд 127 токен боловсруулах хурдтай ажилласан нь өмнөх хувилбаруудаас хамаагүй хурдан үзүүлэлт юм.\n\nГүйцэтгэлийн загварчлалаас харахад Gemini 4 Neon нь хурдны хувьд маш давуу бөгөөд Agent Duel тэргүүлэгчдийн жагсаалтад Anthropic-ийн Opus 5.5 загвартай ойролцоо түвшинд өрсөлдөх чадвартай гэж үнэлэгджээ.\n\nЭнэхүү хурдны өсөлт нь хөгжүүлэгчдэд бодит цагийн болон агент дээр суурилсан системүүдийг илүү үр дүнтэй бүтээх боломжийг олгож байгаа бөгөөд AI загваруудын зах зээл дэх өрсөлдөөнийг улам хурцатгаж байна.",
+   "published": "2026-11-19T00:29:45Z",
+   "added": "2026-11-19T05:19:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4e0645e9d963410b",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.328",
+   "image": "https://opengraph.githubassets.com/cb956e0313e453d1ba5080e2bb2510ad156dcebf68610b6ec5e7618b48f0d4e6/anthropics/claude-code/releases/tag/v2.1.328",
+   "title": "claude-code v2.1.328",
+   "summary_en": "What's changed Added auto mode for Claude Opus 4.6 and Sonnet 4.6 on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude apps gateway; interactive sessions with no permission mode start in it Added \"onFailure\": \"block\" for mcp_tool hooks, as for command and HTTP hooks: a hook whose call fails blocks the action Added a warning when a message from a session that skips permission prompts may be held and dropped by a cloud session Added a notice in /status and claude doctor when an OpenTelemetry exporter has no endpoint and its data would likely be lost Added…",
+   "title_mn": "claude-code v2.1.328 хувилбар шинэ боломжуудтайгаар гарлаа",
+   "summary_mn": "Claude Code хэрэгслийн шинэ хувилбарт Bedrock болон Google Cloud платформ дээрх Opus 4.6, Sonnet 4.6 загваруудад зориулсан авто горим нэмэгдэв.",
+   "body_mn": "Claude Code хэрэгслийн v2.1.328 шинэчлэлтээр Amazon Bedrock, Google Cloud Agent Platform, Microsoft Foundry зэрэг платформ дээр Claude Opus 4.6 болон Sonnet 4.6 загваруудад зориулсан автомат горимыг нэмжээ. Мөн зөвшөөрлийн горимгүйгээр эхлэх интерактив сессүүдийг дэмждэг болсон байна.\n\nТүүнчлэн mcp_tool хуукуудад onFailure: block тохиргоог нэмж, алдаа гарсан үед үйлдлийг таслах боломжтой болгожээ. Өөрийгөө байршуулах (self-hosted) ажиллуулагчдад зориулж repository фолдер нэрлэх --repository-folder параметр болон сессийн удирдлагын хэмжүүрүүдийг шинээр оруулсан байна.\n\nКод боловсруулах явцад гардаг зарим алдаануудыг зассан бөгөөд zsh дээрх Bash команд дахь зарим тэмдэгтүүдийн гажиг, терминал дахь дэлгэц хөлдөх зэрэг асуудлуудыг шийдвэрлэжээ. Энэ нь хөгжүүлэгчдэд агентын хэрэгслүүдийг илүү найдвартай ашиглах нөхцөлийг бүрдүүлж байна.",
+   "published": "2026-11-19T01:14:04Z",
+   "added": "2026-11-19T05:19:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "feef88d3a9ff51ca",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Intelligent Living",
+   "url": "https://www.intelligentliving.co/qwen4-max-alibaba-agent-tested/",
+   "image": "https://www.intelligentliving.co/wp-content/uploads/2026/11/qwen4-max-flagship-launch.jpg",
+   "title": "Qwen4-Max Is Here: Alibaba’s 2.4T Agent Powerhouse Tested",
+   "summary_en": "Alibaba's first Qwen 4 flagship explained: what Qwen4-Max does well, where independent tests disagree, and what it really costs per task.",
+   "title_mn": "Alibaba компани 2.4 триллион параметр бүхий Qwen4-Max загварыг танилцууллаа",
+   "summary_mn": "Alibaba-гийн шинээр гаргасан Qwen4-Max нь 2.4 триллион параметртэй MoE архитектуртай бөгөөд сая токенийн контекст цонхтой.",
+   "body_mn": "Alibaba компани Qwen 4 цувралын анхны ерөнхий зориулалтын загвар болох Qwen4-Max-ыг албан ёсоор гаргажээ. Уг загвар нь 2.4 триллион параметр бүхий mixture-of-experts (MoE) архитектуртай бөгөөд токен тутамд ердөө 71 тэрбум параметрийг идэвхжүүлдэг байна.\n\nQwen4-Max нь үндсэн харааны чадвар (native vision), нэг сая токенийн урт контекст цонх болон аргументчлалын чадварыг өөртөө шингээжээ. Компанийн зүгээс уг загвар нь өмнөх хувилбараасаа илүү өндөр үр ашигтай ажиллаж, агент болон мэргэжлийн ажлын даалгаваруудад өндөр гүйцэтгэл үзүүлнэ гэж мэдэгдсэн байна.\n\nArtificial Analysis зэрэг хараат бус байгууллагуудын туршилтаар уг загвар нь зах зээл дэх бусад тэргүүлэгч загваруудтай ойролцоо түвшинд өрсөлдөхүйц үр дүн үзүүлж эхэлжээ. Энэ нь хөгжүүлэгчид болон хиймэл оюун ухаан хэрэглэгчдэд илүү хэмнэлттэй, хүчирхэг сонголтыг санал болгож байна.",
+   "published": "2026-11-19T01:56:02Z",
+   "added": "2026-11-19T05:19:19Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]

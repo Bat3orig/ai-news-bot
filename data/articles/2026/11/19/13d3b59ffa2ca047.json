@@ -1,0 +1,17 @@
+{
+ "id": "13d3b59ffa2ca047",
+ "subtopic": "gemini",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+ "image": "",
+ "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+ "summary_en": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 167 # Comments: 59",
+ "title_mn": "Gemini 4 Neon загвар гарч, Opus 5.5-тай өрсөлдөхүйц хурдтай болжээ",
+ "summary_mn": "Шинээр гарсан Gemini 4 Neon загвар маш өндөр хурдтай бөгөөд Opus 5.5-тай дүйцэхүйц гүйцэтгэл үзүүлж магадгүй байна.",
+ "body_mn": "Шинээр танилцуулагдсан Gemini 4 Neon загвар нь хурд болон бенчмарк үзүүлэлтээрээ анхаарал татаж байна. OpenRouter дээр хийсэн туршилтаар уг загвар секундэд 127 токен боловсруулах хурдтай ажилласан нь өмнөх хувилбаруудаас хамаагүй хурдан үзүүлэлт юм.\n\nГүйцэтгэлийн загварчлалаас харахад Gemini 4 Neon нь хурдны хувьд маш давуу бөгөөд Agent Duel тэргүүлэгчдийн жагсаалтад Anthropic-ийн Opus 5.5 загвартай ойролцоо түвшинд өрсөлдөх чадвартай гэж үнэлэгджээ.\n\nЭнэхүү хурдны өсөлт нь хөгжүүлэгчдэд бодит цагийн болон агент дээр суурилсан системүүдийг илүү үр дүнтэй бүтээх боломжийг олгож байгаа бөгөөд AI загваруудын зах зээл дэх өрсөлдөөнийг улам хурцатгаж байна.",
+ "published": "2026-11-19T00:29:45Z",
+ "added": "2026-11-19T05:19:19Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "feef88d3a9ff51ca",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Intelligent Living",
+ "url": "https://www.intelligentliving.co/qwen4-max-alibaba-agent-tested/",
+ "image": "https://www.intelligentliving.co/wp-content/uploads/2026/11/qwen4-max-flagship-launch.jpg",
+ "title": "Qwen4-Max Is Here: Alibaba’s 2.4T Agent Powerhouse Tested",
+ "summary_en": "Alibaba's first Qwen 4 flagship explained: what Qwen4-Max does well, where independent tests disagree, and what it really costs per task.",
+ "title_mn": "Alibaba компани 2.4 триллион параметр бүхий Qwen4-Max загварыг танилцууллаа",
+ "summary_mn": "Alibaba-гийн шинээр гаргасан Qwen4-Max нь 2.4 триллион параметртэй MoE архитектуртай бөгөөд сая токенийн контекст цонхтой.",
+ "body_mn": "Alibaba компани Qwen 4 цувралын анхны ерөнхий зориулалтын загвар болох Qwen4-Max-ыг албан ёсоор гаргажээ. Уг загвар нь 2.4 триллион параметр бүхий mixture-of-experts (MoE) архитектуртай бөгөөд токен тутамд ердөө 71 тэрбум параметрийг идэвхжүүлдэг байна.\n\nQwen4-Max нь үндсэн харааны чадвар (native vision), нэг сая токенийн урт контекст цонх болон аргументчлалын чадварыг өөртөө шингээжээ. Компанийн зүгээс уг загвар нь өмнөх хувилбараасаа илүү өндөр үр ашигтай ажиллаж, агент болон мэргэжлийн ажлын даалгаваруудад өндөр гүйцэтгэл үзүүлнэ гэж мэдэгдсэн байна.\n\nArtificial Analysis зэрэг хараат бус байгууллагуудын туршилтаар уг загвар нь зах зээл дэх бусад тэргүүлэгч загваруудтай ойролцоо түвшинд өрсөлдөхүйц үр дүн үзүүлж эхэлжээ. Энэ нь хөгжүүлэгчид болон хиймэл оюун ухаан хэрэглэгчдэд илүү хэмнэлттэй, хүчирхэг сонголтыг санал болгож байна.",
+ "published": "2026-11-19T01:56:02Z",
+ "added": "2026-11-19T05:19:19Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
