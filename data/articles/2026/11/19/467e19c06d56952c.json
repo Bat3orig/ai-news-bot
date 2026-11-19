@@ -1,0 +1,17 @@
+{
+ "id": "467e19c06d56952c",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+ "image": "https://github.blog/wp-content/uploads/2026/11/708477214-1cb51fc6-9621-41e7-b5bb-ae9007edc021.png",
+ "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+ "summary_en": "The next generation of Microsoft AI (MAI) coding models has arrived in GitHub Copilot. Introducing MAI Code 2 and MAI Code 2 Flash, two new models that represent a major…",
+ "title_mn": "MAI Code 2 болон MAI Code 2 Flash GitHub Copilot-д нэмэгдлээ",
+ "summary_mn": "Microsoft AI-ийн бүтээсэн MAI Code 2 болон MAI Code 2 Flash загварууд GitHub Copilot-д албан ёсоор орж ирлээ.",
+ "body_mn": "Microsoft AI (MAI) код бичих загваруудын дараагийн үе болох MAI Code 2 болон MAI Code 2 Flash нь GitHub Copilot хэрэглэгчдэд ашиглагдаж эхэллээ. Эдгээр загварууд нь энгийн туслахаас эхлээд нарийн төвөгтэй программ хангамжийн инженерчлэл хүртэлх агентын ажлуудад зориулагдсан байна.\n\nХөгжүүлэгчид өөрсдийн ажлын онцлогт тохируулан эдгээр загваруудыг сонгож ашиглах боломжтой бөгөөд Copilot Enterprise болон Business төлөвлөгөө ашиглагчид администратор тохиргоогоор дамжуулан удирдах боломжтой. Шинэ загварууд нь хэрэглээнд суурилсан төлбөрийн нөхцөлтэйгээр санал болгогдож байна.",
+ "published": "2026-11-17T18:01:45Z",
+ "added": "2026-11-19T03:01:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

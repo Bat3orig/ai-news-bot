@@ -1,0 +1,17 @@
+{
+ "id": "8f6af8c44a4a1bfb",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+ "image": "",
+ "title": "Introducing GPT-6.2 Astra and Sol",
+ "summary_en": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+ "title_mn": "OpenAI компани GPT-6.2 Astra болон Sol загваруудыг танилцууллаа",
+ "summary_mn": "OpenAI компани мэргэжлийн түвшний гүйцэтгэл, код бичих чадвар, өртөг хэмнэсэн шинэ GPT-6.2 Astra болон Sol загваруудыг гаргалаа.",
+ "body_mn": "OpenAI-аас зарласнаар GPT-6.2 Astra болон Sol загварууд нь код бичих, компьютер ашиглах, мэргэжлийн түвшний гаралтын чанараараа илүү сайжирсан байна. Эдгээр шинэ загварууд нь ChatGPT Work, Codex болон API орчинд илүү хямд өртгөөр ажиллах юм.\n\nЭнэхүү шинэчлэлт нь хөгжүүлэгчид болон байгууллагуудад илүү өндөр үр бүтээмжтэй ажиллах боломжийг олгох бөгөөд OpenAI API болон бусад хэрэгслүүдэд шууд нэвтрэх боломжтойгоор тархаж байна.",
+ "published": "2026-11-17T17:45:00Z",
+ "added": "2026-11-19T03:01:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "0581208c30a28abd",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png",
-   "title": "Decision-1.1 now available on AI Gateway",
-   "summary_en": "Decision-1.1 from Microsoft AI is now available on AI Gateway. It is more accurate, better calibrated, and faster than Decision-1. The decision model returns structured answers instead of free-form text for tasks such as routing support requests, choosing which model should handle a request, selecting the next step in a workflow, or grading AI responses. Boolean: the probability that a condition is true Choice: a selected category and probabilities for each option Score: a numerical rating on a scale you define Multiple questions can share the same input in one request. Better calibration…",
-   "title_mn": "Decision-1.1 загвар Vercel AI Gateway дээр боломжтой боллоо",
-   "summary_mn": "Microsoft AI-ийн Decision-1.1 загвар AI Gateway дээр нээгдсэн бөгөөд өмнөх Decision-1-ээс илүү нарийвчлалтай, сайн калибрлэгдсэн, хурдан гэж мэдээлэв. Загвар бүтэцлэгдсэн хариулт буцаадаг.",
-   "body_mn": "Microsoft AI-ийн Decision-1.1 загвар Vercel AI Gateway дээр боломжтой боллоо. Шинэ загвар нь өмнөх хувилбараасаа илүү нарийвчлалтай, магадлалын үнэлгээ нь бодит зөв байдалтай илүү таарч, хурдан ажилладаг гэж мэдээлсэн.\n\nЗагвар нь чөлөөт текстийн оронд бүтэцлэгдсэн хариулт буцаадаг. Boolean-д нөхцөл үнэн байх магадлал, Choice-д сонгогдсон ангилал болон сонголт бүрийн магадлал, Score-д тодорхойлсон масштабын үнэлгээ гарна. Нэг хүсэлтэд олон асуулт нэг оролтоор хамт асууж болно. Загварыг сольхдоо model ID-г microsoft/decision-1.1 болгоход хангалттай.\n\nAI SDK, OpenAI-тай нийцтэй Decisions API болон AI CLI-аар дуудах боломжтой. Decision хүсэлтүүд request log-д харагдаж, budget-д тооцогдож, fallback дэмжинэ. Хөгжүүлэгчдэд маршрутчлал, workflow-ийн дараагийн алхам сонгох, хариултыг үнэлэх зэрэгт ашиглах боломжтой.",
-   "published": "2026-11-17T00:00:00Z",
-   "added": "2026-11-18T17:42:08Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d0ca5c5ffbcacdd5",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png",
-   "title": "MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway",
-   "summary_en": "Microsoft’s MAI-Image-2.7 and MAI-Image-2.7-Flash are now available in public preview on AI Gateway . Both increase the maximum output size to 2048 x 2048 pixels and add transparent backgrounds for generated and edited images. Generate images from text or edit existing images with one AI Gateway API key, without a Microsoft account. Both models support photorealistic images, text rendering, and targeted edits to products, portraits, and layouts. Use up to five reference images to guide edits or combine subjects. MAI-Image-2.7 ( microsoft/mai-image-2.7 ): for final assets where image quality…",
-   "title_mn": "MAI-Image-2.7 загварууд AI Gateway дээр public preview-д гарлаа",
-   "summary_mn": "Microsoft-ийн MAI-Image-2.7 болон Flash хувилбар AI Gateway дээр public preview-д нээгдэж, 2048 x 2048 пикселийн гаралт, тунгалаг дэвсгэрийг дэмжинэ. Нэг API key-ээр текстээс зураг үүсгэх болон засах боломжтой.",
-   "body_mn": "Microsoft-ийн MAI-Image-2.7 болон MAI-Image-2.7-Flash загварууд AI Gateway дээр public preview-д боломжтой боллоо. Хоёр загвар хамгийн их гаралтын хэмжээг 2048 x 2048 пиксель болгож, үүсгэсэн болон засварласан зурагт тунгалаг дэвсгэр нэмсэн.\n\nMAI-Image-2.7 нь эцсийн материалд чанарыг тэргүүлэх, Flash нь хурдан, хямд үнэтэй туршилт болон хувилбар үүсгэхэд тохиромжтой. Зургийн дээр продукт, портрет, layout-ийг чиглэлтэй засах, эсвэл дээд тал нь таван reference зургийг ашиглах боломжтой. AI_GATEWAY_API_KEY ашиглан AI SDK 6 эсвэл AI CLI-аас дуудаж болно.\n\nХөгжүүлэгчдэд энэ нь зураг үүсгэх функцийг өөрийн аппликейшнд нэмэхэд нэг API key-тэй хүрэхэд хялбар болгож байна.",
-   "published": "2026-11-17T00:00:00Z",
-   "added": "2026-11-18T17:42:08Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0f405421fd54a98a",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2SwiRCJ2yQI6jiStpqx4n4/f327115564457532b4d646d8b597a55f/Vercel_x_OpenAI.png",
-   "title": "GPT-6.2 Astra and Sol now available on AI Gateway",
-   "summary_en": "GPT-6.2 Astra and GPT-6.2 Sol from OpenAI are now available on AI Gateway . GPT-6.2 Astra: for complex, multi-step projects, with improvements to implementing and testing changes in existing codebases, following document templates, and computer use GPT-6.2 Sol: for everyday coding, writing, and agent workflows, including building interactive web applications from a written brief Use openai/gpt-6.2-astra or openai/gpt-6.2-sol as the model ID. For the API examples, set AI_GATEWAY_API_KEY to your AI Gateway API key . Both models also support the Responses API . For lower latency at higher…",
-   "title_mn": "GPT-6.2 Astra болон Sol загварууд AI Gateway дээр боломжтой боллоо",
-   "summary_mn": "OpenAI-ийн GPT-6.2 Astra болон Sol загварууд Vercel AI Gateway дээр нээгдэж, Responses API, fast mode болон Ultrafast service tier-ийг дэмжинэ. Astra-ийн Ultrafast гаралтын үнэ GPT-6 Astra-аас 60% бага.",
-   "body_mn": "OpenAI-ийн GPT-6.2 Astra болон GPT-6.2 Sol загварууд AI Gateway дээр боломжтой боллоо. Astra нь олон алхамтай том төслүүд, одоо байгаа кодын сан дээр өөрчлөлт хийж туршихад илүү сайжирсан. Sol нь өдөр тутмын кодлолт, бичвэр, агентын workflow болон бичсэн тодорхойлолтоос интерактив веб аппликейшн бүтээхэд тохиромжтой.\n\nЗагваруудыг openai/gpt-6.2-astra эсвэл openai/gpt-6.2-sol model ID-аар дуудна. Responses API-г дэмжинэ. Хурдан горим болон Ultrafast service tier-ийг providerOptions.openai.serviceTier эсвэл service_tier параметрээр идэвхжүүлж болно. Ultrafast-ийн гаралтын токений үнэ GPT-6 Astra-аас 60% бага гэж заасан.\n\nCodex, Cursor зэрэг coding agent-үүдээс Vercel CLI-ээр тохируулан ашиглах боломжтой. Хөгжүүлэгчдэд хурд, үнэ, загварын сонголтыг өөрсдийн workflow-д тааруулах шинэ хоёр сонголт нэмэгдлээ.",
-   "published": "2026-11-17T00:00:00Z",
-   "added": "2026-11-18T17:42:08Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "bbd598c18d75ada7",
-   "subtopic": "packages",
-   "source": "JavaScript Weekly",
-   "source_label": "JavaScript Weekly",
-   "url": "https://javascriptweekly.com/issues/811",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/rmedfrw5ofajinij51fv.jpg",
-   "title": "The top 10 things AI gets wrong in web development",
-   "summary_en": "#​811 — November 17, 2026 Read on the Web JavaScript Weekly npkill 1.0: Not Just for node_modules Anymore — npx npkill has long offered a way to find and remove waste from node_modules folders. Its first release in two years now also hunts down caches and build outputs like .next and .turbo , with 'profiles' for 20 ecosystems. If you're new to the tool, its homepage provides a good introduction. Juan Torres Agents Didn’t Clear Your Plate. They Dumped Reviews on It — Your agents write PRs in minutes, then eat your afternoon in review. When did ‘saving time’ start to mean babysitting agents’…",
-   "title_mn": "npkill 1.0, UI SDK, Prettier 3.10 болон Node.js-ийн шинэчлэлтүүд онцлов",
-   "summary_mn": "JavaScript Weekly-ийн энэ дугаарт npkill 1.0, shadcn-ийн UI SDK, Prettier 3.10, PixiJS 3D, Node.js-ийн аюулгүй байдлын шинэчлэлт зэрэг чухал сангууд онцлогдсон байна.",
-   "body_mn": "npkill 1.0 нь node_modules-ээс гадна .next, .turbo зэрэг кэш болон build гаралтыг олж устгана. 20 экосистемд зориулсан profile-тай. shadcn болон Vercel-ийн UI SDK нь React, Vue, Svelte, Solid дээр зориулсан 50 гаруй хандалттай, доод түвшний behavior-уудыг санал болгож, focus, keyboard, popup, drag and drop зэргийг өөрийн компонент дотор нийлүүлэх боломжтой.\n\nPrettier 3.10 шинэ JavaScript proposal болон Flow синтакс дэмжиж, Zig-д суурилсан Yuku parser-ийг сонголтоор ашиглах plugin нэмсэн. PixiJS 3D нь WebGPU-д тулгуурласан, WebGL 2 нөөцтэй rendering engine-ээ open beta-д гаргасан. Node.js v26.13.1 (LTS), v24.22.3, v22.23.5 аюулгүй байдлын хувилбарууд HTTP/2 болон HTTPS-ийн алдааг засч, сервер унах болон санах ойн мэдээлэл алдах эрсдлийг арилгасан.\n\nМөн Solid 2.0 тогтвортой болж npm дээр 2.0.0 гарсан, Chrome-ийн Cross-Origin Storage API санал болгосон зэрэг мэдээ багтжээ. Хөгжүүлэгчид эдгээр сангуудын шинэ хувилбарыг шалгах хэрэгтэй.",
-   "published": "2026-11-17T00:00:00Z",
-   "added": "2026-11-18T17:42:08Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4237694406e5909a",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7lP7n53mCmuWyV7AKURe2m/df3b873e5e73dc2878d7cb13d6d9a3c1/pr_preview_builds_og.png",
-   "title": "Pull-request-only preset now available for preview builds",
-   "summary_en": "A new Ignored Build Step preset lets you skip preview builds for branches without an open pull request. Production deployments and previews for branches with open pull requests continue to build. On GitHub and GitLab projects, skipped preview deployments are canceled before consuming any Build CPU Minutes. To enable this, open your project’s Deployments > Configuration . Under Ignored Build Step , select Only build previews for pull requests from the Behavior menu and click Save . Learn more in the Ignored Build Step documentation . Read more",
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-17T02:37:03Z",
-   "added": "2026-11-18T17:42:08Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "60c2f878cdb3a893",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "International Business Times Australia",
-   "url": "https://www.ibtimes.com.au/grok-users-report-possible-outage-trackers-conflict-1878759",
-   "image": "https://d.ibtimes.com.au/en/full/1893729/grok-420-beta-2-powers-xai-advances-model-tops.png",
-   "title": "Grok Down? Users Report Problems With Elon Musk's AI Chatbot as xAI Has Yet to Confirm Late-Night Disruption",
-   "summary_en": "Users reported problems with xAI's Grok chatbot early Tuesday, but conflicting outage trackers and the absence of an official xAI alert left the scale and cause unclear.",
-   "title_mn": "Grok ажиллахгүй болсон гэсэн хэрэглэгчдийн гомдол гарч байна",
-   "summary_mn": "Өглөө Grok чатботыг ашиглах үед алдаа гарсан тухай Downdetector дээр хэрэглэгчид мэдээлсэн ч xAI энэ тухай албан ёсоор мэдээлээгүй байна. Сүүлийн 90 хоногт Instatus 37 удаагийн тасалдал бүртгэжээ.",
-   "body_mn": "Grok чатботод алдаа гарсан тухай хэрэглэгчид Downdetector болон бусад сайтуудаар мэдээлсэн боловч гарсан шалтгаан, хэмжээ тодорхойгүй байна. xAI өөрийн статус хуудсандаа нээлттэй тасалдлыг бүртгээгүй байжээ.\n\nСүүлийн үед Grok дээр олон тасалдал гарсан гэж бүртгэгдсэн. 9-р сарын 3-ны өдөр нэг дор 14 цаг үргэлжилсэн том тасалдал гарсан бөгөөд Instatus сүүлийн 90 хоногт 37 тасалдал тэмдэглэжээ. Мөн Grok API-д найдсан бизнесүүдэд энэ нь нөлөөлдөг.\n\nХөгжүүлэгчид API-ийн статусыг xAI-ийн албан ёсны хуудсаар шалгаж, алдааг хэрэглэгчийн талд шалгах хэрэгтэй. Хэрэв статус хуудсанд асуудал байхгүй бол орон нутгийн холболт эсвэл кэш шалтгаан байж болно.",
-   "published": "2026-11-17T06:32:09Z",
-   "added": "2026-11-18T23:44:40Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ac3cdf47554fcaf1",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Anthropic",
-   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-   "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
-   "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-   "summary_en": "Claude Fable 5.2 has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity.",
-   "title_mn": "Claude Fable 5.2 хар нүхний физикийн хоёр нээлттэй асуудлыг шийдсэн гэжээ",
-   "summary_mn": "Anthropic-ийн нийтлэлд Claude Fable 5.2 нь квант гравитацийн голомтод байгаа хоёр асуудлыг шийдсэн гэж мэдэгджээ. Хар нүх үүсэх фазын шилжилт хурц байдгийг харуулсан тооцоо гэжээ.",
-   "body_mn": "Anthropic нийтлэлдээ Claude Fable 5.2 загвар хар нүхний физикийн хоёр асуудлыг шийдсэн гэж мэдэгджээ. Нэгдүгээр асуудал нь онолын ертөнцийг халаахад хар нүх үүсэх фазын шилжилт хурц эсвэл зөөлөн эсэх тухай юм. 1983 онд Hawking болон Page хурц гэж үзсэн боловч тэдний тооцоо харьцангуй ерөнхий харьцангуйн онолд тулгуурласан байв.\n\nClaude энэхүү тооцоог квант талд хийж, олон хуулбар агентуудаар ажиллуулан шалгасан гэжээ. Үр дүнд нь шилжилт хурц болохыг харуулсан гэж нийтлэлд дурджээ. Хоёр дахь асуудал нь хоёр хэмжээст онолын ертөнцтэй холбоотой.\n\nЭнэ нь шинжлэх ухааны судалгааны чадвар харуулсан тохиолдол боловч программистуудад шууд хэрэглэгдэх хэрэгсэл биш юм. Бие даасан шалгалт хийгдээгүй тул үр дүнг болгоомжтой авч үзэх хэрэгтэй.",
-   "published": "2026-11-17T08:00:00Z",
-   "added": "2026-11-18T23:44:40Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8cdeb253c0b9c55b",
-   "subtopic": "node",
-   "source": "Node.js Blog",
-   "source_label": "Node.js Blog",
-   "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.1",
-   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.1.1%20(Alpha)",
-   "title": "Node.js 27.0.0-alpha.0.1.1 (Alpha)",
-   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
-   "title_mn": "Node.js 27.0.0-alpha.0.1.1 (Alpha) хувилбар гарлаа",
-   "summary_mn": "Node.js platform-ийн шинэ alpha хувилбар болох v27.0.0-alpha.0.1.1 албан ёсоор гарч, хөгжүүлэгчдэд туршиж үзэх боломжтой боллоо.",
-   "body_mn": "Node.js баг шинэ alpha хувилбар болох v27.0.0-alpha.0.1.1-ийг хөгжүүлэгчдэд зориулан гаргалаа. Энэхүү хувилбар нь Windows, macOS болон Linux үйлдлийн системүүдэд зориулсан суурилуулагч болон binary файлуудыг агуулж байна.\n\nЭнэхүү alpha хувилбарыг ашиглан хөгжүүлэгчид удахгүй гарах шинэ боломжуудыг өөрийн төслүүд дээр туршиж, гарч болзошгүй алдаануудыг шалгах боломжтой юм. Шинэ хувилбарын албан ёсны баримт бичиг болон татаж авах линкүүд Node.js вэбсайтад байршжээ.\n\nAlpha хувилбар тул бүтээгдэхүүний бодит орчинд (production) шууд ашиглахаас болгоомжилж, зөвхөн туршилт болон хөгжүүлэлтийн зорилгоор ашиглахыг зөвлөж байна.",
-   "published": "2026-11-17T08:41:07Z",
-   "added": "2026-11-18T23:44:40Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3db6400fd1d168c4",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "HackerNoon",
-   "url": "https://hackernoon.com/claude-fable-52-why-anthropics-most-expensive-model-can-end-up-the-cheapest",
-   "image": "https://hackernoon.imgix.net/images/WgOKoJKnu6c6jqD2UtvN7rgBH093-xc93qor.jpeg",
-   "title": "Claude Fable 5.2: Why Anthropic's Most Expensive Model Can End Up the Cheapest",
-   "summary_en": "Claude Fable 5.2 explained by Alexander Volchek, host of ToTheMoon: how it differs from Opus 5.5, why Max mode can do worse than Medium, and when it pays off.",
-   "title_mn": "Claude Fable 5.2: Anthropic-ийн модель хэрхэн хамгийн хямд байж болох вэ?",
-   "summary_mn": "Anthropic компанийн гаргасан Claude Fable 5.2 модель нь энгийн шинэчлэлт биш бөгөөд урт хугацааны даалгаврыг бие даан шалгаж гүйцэтгэх чадвартай цоо шинэ систем юм.",
-   "body_mn": "Anthropic компани Claude Fable 5.2 загварыг танилцуулсан нь энгийн нэг цэгэн шинэчлэлт биш харин цоо шинэ түвшний систем юм. Энэхүү модель нь урт хугацааны нарийн төвөгтэй ажлуудыг гүйцэтгэх явцдаа өөрийнхөө үйлдлийг бие даан шалгаж, алдааг засварлах чадвартай.\n\nFable загварын гарал үүсэл нь кибер аюулгүй байдал болон эмзэг байдлыг илрүүлэх зорилгоор бүтээгдсэн Mythos загварын гэр бүлээс улбаатай. Хөгжүүлэгчид үүнийг ашиглан дотоод систем, вэбсайт болон серверийн аюулгүй байдлыг шалгаж, хүний гараар илрүүлэхэд хүндрэлтэй олон алдааг богино хугацаанд хаах боломжтой болж байна.\n\nГэсэн хэдий ч энэ модель нь горимоосоо шалтгаалаад үр дүн нь өөр өөр байж болох тул Max болон Medium горимуудыг зөв сонгож ашиглах нь чухал юм. Токенуудын тоогоор бус эцсийн үр дүнгээр нь харьцуулах шаардлагатайг мэргэжилтнүүд онцолж байна.",
-   "published": "2026-11-17T09:04:28Z",
-   "added": "2026-11-18T23:44:40Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c4d1fa87d0f1bee3",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "Geeky Gadgets",
-   "url": "https://www.geeky-gadgets.com/qwen-max/",
-   "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/qwen-four-max-benchmark.jpg",
-   "title": "Alibaba Launches Qwen 4 Max with 1 Million Token Context Window",
-   "summary_en": "Alibaba's Qwen 4 Max model improves upon its predecessor with a 1 million token context window, yet struggles against cheaper rivals in tests.",
-   "title_mn": "Alibaba компани 1 сая токенийн контексттэй Qwen 4 Max загварыг танилцууллаа",
-   "summary_mn": "Alibaba компани текст, дүрс болон видео ойлгох чадвартай, 1 сая токенийн контекст цонх бүхий шинэ үеийн Qwen 4 Max загвараа зарлалаа.",
-   "body_mn": "Alibaba компани хиймэл оюун ухааны зах зээлд өрсөлдөх шинэ флагман загвар болох Qwen 4 Max-ийг албан ёсоор танилцууллаа. Энэхүү олон талт (multimodal) загвар нь текст, зураг, видеог нэгэн зэрэг боловсруулах чадвартай бөгөөд 1 сая токенийн урт контекст цонхыг дэмждэг.\n\nШинэ загвар нь холимог эксперт архитектурыг (MoE) ашигладаг бөгөөд өмнөх Qwen 3.8 Max загвартай харьцуулахад токений зарцуулалтыг 50 хүртэл хувиар бууруулж, даалгаврын дундаж өртгийг 60 гаруй хувиар хэмнэх боломжтой аж. API үнийн хувьд 1 сая оролтын токенийг 1.50 ам доллар, гаралтын токенийг 4.50 ам доллараар тогтоожээ.\n\nКод бичих болон вэб хөгжүүлэлтийн чиглэлээр Code Arena дээр сайн үр үзүүлсэн бөгөөд хэрэглэгчид Unity ашиглан 3D тоглоом бүтээх, нарийн төвөгтэй интерфейс үүсгэх зэрэг ажлуудад туршиж байна. Alibaba ойрын хугацаанд 27 тэрбум параметр бүхий нээлттэй жинтэй хувилбарыг гаргахаар төлөвлөж байна.",
-   "published": "2026-11-17T09:47:31Z",
-   "added": "2026-11-18T23:44:40Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "10a12acb9645adcc",
    "subtopic": "gh-js",
    "source": "GitHub Trending TypeScript",
@@ -737,6 +537,66 @@
    "added": "2026-11-19T02:30:53Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b4c9476d5d9aa952",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "www.trendingtopics.eu",
+   "url": "https://www.trendingtopics.eu/anthropic-mythos-amd-chips-cuda-moat/",
+   "image": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/amd-instinct-mi455x-16x9-1-scaled-social.jpg",
+   "title": "Anthropic’s A.I. Got Claude Running on AMD Chips in Three Days",
+   "summary_en": "Anthropic says its Claude Mythos model ported Claude to AMD chips in three days, writing nearly all kernels itself. A dent in Nvidia's CUDA moat?",
+   "title_mn": "Anthropic Claude AMD чип дээр ажиллаж эхэлснийг зарлав",
+   "summary_mn": "Anthropic компани өөрсдийн дотоод Claude Mythos Preview загвараа ашиглан Claude-г AMD график чип дээр ердөө гурван хоногт ажиллуулж чаджээ. Энэ нь Nvidia-гийн CUDA монополыг эвдэх чухал алхам болж байна.",
+   "body_mn": "Anthropic компани IPO хийх үеэрээ хувьцаа эзэмшигчдэдээ танилцуулсан тайландаа өөрсдийн Claude Mythos Preview загвараа ашиглан Claude загварыг AMD график чип дээр ердөө гурван хоногийн дотор ямар ч хүний оролцоогүйгээр амжилттай ажиллуулснаа мэдэгдлээ. Өмнө нь ийм төрлийн платформ солих ажил нь хэдэн арван инженерийн багт 6-12 сарын хугацаа шаарддаг байжээ.\n\nУг туршилтаар Mythos загвар нь AMD-гийн MI355X акселератор дээр загварын тооцоолол хийхэд шаардлагатай код, цөмүүдийг бараг 100 хувь бие даан бичиж эсвэл хөрвүүлсэн байна. Үүний үр дүнд богино хугацаанд хэрэглэгдэхүйц түвшний гүйцэтгэлд хүрсэн аж. Anthropic нь одоогоор Amazon Trainium, Google TPU, Nvidia болон AMD GPU гэсэн дөрвөн өөр чип дээр загваруудаа зэрэг ажиллуулдаг байна.\n\nЭнэхүү ололт нь Nvidia-гийн зах зээл дэх давамгайлал болон программ хангамжийн монопол байдалд ноцтой сорилт болж байна. Компаниуд Nvidia-гаас хамааралгүйгээр өөр чип дээр ажиллах боломжтой болж байгаа нь хардвер нийлүүлэгчдийн хоорондын өрсөлдөөнийг улам хурцатгаж, хөгжүүлэгчдэд илүү олон сонголт олгож байгаа юм.",
+   "published": "2026-11-17T11:57:44Z",
+   "added": "2026-11-19T03:01:01Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8f6af8c44a4a1bfb",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "image": "",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "summary_en": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "title_mn": "OpenAI компани GPT-6.2 Astra болон Sol загваруудыг танилцууллаа",
+   "summary_mn": "OpenAI компани мэргэжлийн түвшний гүйцэтгэл, код бичих чадвар, өртөг хэмнэсэн шинэ GPT-6.2 Astra болон Sol загваруудыг гаргалаа.",
+   "body_mn": "OpenAI-аас зарласнаар GPT-6.2 Astra болон Sol загварууд нь код бичих, компьютер ашиглах, мэргэжлийн түвшний гаралтын чанараараа илүү сайжирсан байна. Эдгээр шинэ загварууд нь ChatGPT Work, Codex болон API орчинд илүү хямд өртгөөр ажиллах юм.\n\nЭнэхүү шинэчлэлт нь хөгжүүлэгчид болон байгууллагуудад илүү өндөр үр бүтээмжтэй ажиллах боломжийг олгох бөгөөд OpenAI API болон бусад хэрэгслүүдэд шууд нэвтрэх боломжтойгоор тархаж байна.",
+   "published": "2026-11-17T17:45:00Z",
+   "added": "2026-11-19T03:01:01Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "467e19c06d56952c",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+   "image": "https://github.blog/wp-content/uploads/2026/11/708477214-1cb51fc6-9621-41e7-b5bb-ae9007edc021.png",
+   "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+   "summary_en": "The next generation of Microsoft AI (MAI) coding models has arrived in GitHub Copilot. Introducing MAI Code 2 and MAI Code 2 Flash, two new models that represent a major…",
+   "title_mn": "MAI Code 2 болон MAI Code 2 Flash GitHub Copilot-д нэмэгдлээ",
+   "summary_mn": "Microsoft AI-ийн бүтээсэн MAI Code 2 болон MAI Code 2 Flash загварууд GitHub Copilot-д албан ёсоор орж ирлээ.",
+   "body_mn": "Microsoft AI (MAI) код бичих загваруудын дараагийн үе болох MAI Code 2 болон MAI Code 2 Flash нь GitHub Copilot хэрэглэгчдэд ашиглагдаж эхэллээ. Эдгээр загварууд нь энгийн туслахаас эхлээд нарийн төвөгтэй программ хангамжийн инженерчлэл хүртэлх агентын ажлуудад зориулагдсан байна.\n\nХөгжүүлэгчид өөрсдийн ажлын онцлогт тохируулан эдгээр загваруудыг сонгож ашиглах боломжтой бөгөөд Copilot Enterprise болон Business төлөвлөгөө ашиглагчид администратор тохиргоогоор дамжуулан удирдах боломжтой. Шинэ загварууд нь хэрэглээнд суурилсан төлбөрийн нөхцөлтэйгээр санал болгогдож байна.",
+   "published": "2026-11-17T18:01:45Z",
+   "added": "2026-11-19T03:01:01Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "b4c9476d5d9aa952",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "www.trendingtopics.eu",
+ "url": "https://www.trendingtopics.eu/anthropic-mythos-amd-chips-cuda-moat/",
+ "image": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/amd-instinct-mi455x-16x9-1-scaled-social.jpg",
+ "title": "Anthropic’s A.I. Got Claude Running on AMD Chips in Three Days",
+ "summary_en": "Anthropic says its Claude Mythos model ported Claude to AMD chips in three days, writing nearly all kernels itself. A dent in Nvidia's CUDA moat?",
+ "title_mn": "Anthropic Claude AMD чип дээр ажиллаж эхэлснийг зарлав",
+ "summary_mn": "Anthropic компани өөрсдийн дотоод Claude Mythos Preview загвараа ашиглан Claude-г AMD график чип дээр ердөө гурван хоногт ажиллуулж чаджээ. Энэ нь Nvidia-гийн CUDA монополыг эвдэх чухал алхам болж байна.",
+ "body_mn": "Anthropic компани IPO хийх үеэрээ хувьцаа эзэмшигчдэдээ танилцуулсан тайландаа өөрсдийн Claude Mythos Preview загвараа ашиглан Claude загварыг AMD график чип дээр ердөө гурван хоногийн дотор ямар ч хүний оролцоогүйгээр амжилттай ажиллуулснаа мэдэгдлээ. Өмнө нь ийм төрлийн платформ солих ажил нь хэдэн арван инженерийн багт 6-12 сарын хугацаа шаарддаг байжээ.\n\nУг туршилтаар Mythos загвар нь AMD-гийн MI355X акселератор дээр загварын тооцоолол хийхэд шаардлагатай код, цөмүүдийг бараг 100 хувь бие даан бичиж эсвэл хөрвүүлсэн байна. Үүний үр дүнд богино хугацаанд хэрэглэгдэхүйц түвшний гүйцэтгэлд хүрсэн аж. Anthropic нь одоогоор Amazon Trainium, Google TPU, Nvidia болон AMD GPU гэсэн дөрвөн өөр чип дээр загваруудаа зэрэг ажиллуулдаг байна.\n\nЭнэхүү ололт нь Nvidia-гийн зах зээл дэх давамгайлал болон программ хангамжийн монопол байдалд ноцтой сорилт болж байна. Компаниуд Nvidia-гаас хамааралгүйгээр өөр чип дээр ажиллах боломжтой болж байгаа нь хардвер нийлүүлэгчдийн хоорондын өрсөлдөөнийг улам хурцатгаж, хөгжүүлэгчдэд илүү олон сонголт олгож байгаа юм.",
+ "published": "2026-11-17T11:57:44Z",
+ "added": "2026-11-19T03:01:01Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
