@@ -178,6 +178,11 @@ sections:
         hashtag: Rust
         dedicated: true
         about: Trending GitHub repositories written in Rust
+      - id: gh-oss
+        name: Open source
+        hashtag: OpenSource
+        dedicated: true
+        about: Open source software projects for developers (libraries, frameworks, dev tools, AI/LLM tooling)
 
   # AI-аар код бичих (vibe coding): хэрэглээний зөвлөгөө, workflow, хэрэгслүүд.
   - id: vibe

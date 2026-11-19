@@ -315,6 +315,20 @@ sources:
     limit: 3
     ai_hint: *trending
 
+  # Нэг нийтлэл = нэг нээлттэй эхийн төсөл (өдөрт 5-7). Сэдэв нь өргөн (homelab, гэр
+  # бүлийн апп, 3D г.м.) тул зөвхөн software хөгжүүлэлтэд хамаатайг нь AI оноогоор шүүнэ.
+  - name: Open Source Projects
+    url: https://www.opensourceprojects.dev/rss
+    subtopic: gh-oss
+    ai_hint: >-
+      An article introducing one open source project (its GitHub link is in the text).
+      Only software development projects deserve score 3 or more: libraries, frameworks,
+      SDKs, developer tools, CLIs, databases/infrastructure, AI/LLM tooling for builders.
+      Score 1-2 for anything else: end-user/consumer apps, self-hosted home/family/media
+      apps, homelab, hardware, science/3D/research tools not aimed at developers.
+      Introduce it: what it does, key features, tech stack, who it is for and how to try it.
+      title_mn: "<repo name>: <what it does>".
+
   # ==================== Vibe coding ====================
   # AI-аар код бичих хэрэглээний зөвлөгөө, workflow (бизнесийн мэдээ биш)
   - name: Simon Willison
