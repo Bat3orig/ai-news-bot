@@ -1,0 +1,17 @@
+{
+ "id": "670d80cdae87ec1b",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_iu9r44iu9r.2e16d0ba.fill-1200x600.jpg",
+ "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+ "summary_en": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including React, Angular, Lit, Flutter, SwiftUI, and Jetpack Compose—alongside agent SDKs for Python, TypeScript, and Dart. The release introduces bidirectional function calls, swappable inference formats, and secure data binding to help teams seamlessly integrate generative UI into their product stacks.",
+ "title_mn": "A2UI 1.0: Интерактив UI бүхий генератив AI платформ гарлаа",
+ "summary_mn": "Google компани AI агентуудтай харилцах харилцааг текстэн хэлбэрээс интерактив UI дэлгэц рүү шилжүүлэх A2UI 1.0 протоколыг зарлалаа.",
+ "body_mn": "Өнөөдрийн байдлаар AI агентуудтай хийх ихэнх харилцаа зөвхөн текстэн хэлбрээр явагдаж байгаа нь олон төрлийн сонголт хийхэд төвөгтэй байдаг. Үүнийг шийдвэрлэх зорилгоор A2UI 1.0 буюу генератив UI-д зориулсан нээлттэй протоколыг албан ёсоор танилцууллаа.\n\nЭнэхүү шинэ протокол нь AI агентад зөвхөн текст биш, харин интерактив карт, форм, график зэргийг шууд дүрслэн харуулах боломжийг олгодог. Хөгжүүлэгчид вэб, Android, iOS болон Python, TypeScript хэл дээрх SDK-уудыг ашиглан үүнийг өөрийн аппдаа суулгах боломжтой.\n\nAtlassian, Bloomberg, ByteDance зэрэгмод компаниуд хэдийнэ энэ стандартыг ашиглаж эхэлсэн бөгөөд Jira болон бусад платформ дээр агентуудтай илүү ойлгомжтой байдлаар харилцах нөхцөлийг бүрдүүлж байна.",
+ "published": "2026-11-19T02:00:58Z",
+ "added": "2026-11-19T02:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

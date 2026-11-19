@@ -1,0 +1,17 @@
+{
+ "id": "f871eb5cbc09ced7",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_1v7191v719.2e16d0ba.fill-1200x600_dXFZafA.jpg",
+ "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
+ "summary_en": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash Attention kernel, these strategies effectively manage attention compute and memory bottlenecks without materializing full key-value sequences in high-bandwidth memory. Developers can adopt these capabilities in MaxText v0.2.4 to achieve high Model FLOPs Utilization (MFU) across large-scale model training workflows.",
+ "title_mn": "MaxText ашиглан TPU дээр олон сая токен бүхий контекст сургалт хийх боломжтой боллоо",
+ "summary_mn": "Google Cloud JAX сургалтын MaxText системд контекст параллелизмын дэмжлэг нэмэгдлээ. Энэ нь TPU дээр 14 сая хүртэлх токен бүхий урт контексттэй загваруудыг сургах боломж олгож байна.",
+ "body_mn": "Google Cloud компани JAX сургалтын нээлттэй эх сурвалжтай MaxText хүрээнд урт контексттэй сургалтыг дэмжих болсноо зарлалаа. Орчин үеийн хиймэл оюун ухааны загварууд бүхэл бүтэн код сан эсвэл олон цагийн видеог уншиж боловсруулахын тулд сая сая токенийн контекст цонх шаардлагатай болж байгаа билээ.\n\nMaxText нь Cloud TPU дээр All-gather, A2A, P2P болон тэдгээрийн холимог гэсэн дөрвөн үндсэн контекст-параллель стратегийг дэмждэг болсон. Энэ нь Токамакс Splash Attention цөмтэй хослуулан ажилласнаар нэг дарааллыг бүхэл бүтэн сервер дамнуулан хуваарилах боломжийг олгодог байна. Жишээлбэл, Llama 3.1 8B загвар нь TPU 5p дээр 4 сая токен хүртэлх дараалалд 70 хувийн MFU буюу загварын флопсын ашиглалтад хүрч чаджээ.\n\nШинэчлэлтийн хүрээнд TPU 5p болон TPU 7 архитектур дээр контекстийг 14 сая токен хүртэл саадгүй сунгах боломжтой болсон бөгөөд TPU 7 нь 6 сая хүртэлх хэмжээнд 50 хувийн MFU-г тогтвортой хадгалж байна. Энэхүү функционац нь MaxText v0.2.4 хувилбарт албан ёсоор нэвтэрсэн байна.\n\nЭнэхүү дэвшил нь том хэмжээний хэлний загвар болон агент систем хөгжүүлж буй инженерүүдэд олон сая токен бүхий урт өгөгдөлтэй ажиллах сургалтын дэд бүтцийг оновчтой болгох чухал алхам болж байна.",
+ "published": "2026-11-19T02:00:58Z",
+ "added": "2026-11-19T02:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

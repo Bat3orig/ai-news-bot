@@ -1,0 +1,17 @@
+{
+ "id": "e842bdb797573ce3",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_yd9gceyd9g.2e16d0ba.fill-1200x600.jpg",
+ "title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
+ "summary_en": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for optimized Android performance, or use MediaPipe Tasks and LiteRT for cross-platform open-weight model integration. This local pipeline seamlessly pairs lightweight speech models with on-device small language models like Gemini Nano and Gemma 4 to enable real-time streaming transcription and low-latency synthesis.",
+ "title_mn": "Google AI Edge Gallery: Төхөөрөмж дээр ажиллах яриа таних болон үг ярианы систем",
+ "summary_mn": "Google компани төхөөрөмж дээр шууд ажиллах ASR болон TTS чадамжийг Google AI Edge Gallery-д нэмлээ. Энэ нь офлайн орчинд дуу хоолойгоор харилцах, хэл сурах боломжийг бүрдүүлж байна.",
+ "body_mn": "Google компани төхөөрөмж дээр шууд ажиллах Автомат яриа таних (ASR) болон Үг яриа руу хөрвүүлэх (TTS) чадамжийг Google AI Edge Gallery-д нэмж оруулснаа зарлалаа. Сүүлийн үеийн хөнгөн жинтэй загварууд гар утас болон зүүдэг төхөөрөмж дээр интернэтгүйгээр, бага сааталтайгаар ажиллах боломжтой болсон юм.\n\nЭнэхүү шинэ боломж нь Gemini Nano болон Gemma 4 зэрэг төхөөрөмж дээр ажиллах хэлний загваруудтай хослон хэрэглэгчдийн яриаг шууд хөрвүүлж, байгалийн дуугаралттайгаар хариу өгөх боломжийг олгож байна. Хөгжүүлэгчид аялал жуулчлал болон бусад интернэтгүй орчинд ажиллах XR Language Teacher showcase зэрэг аппликейшнуудыг хөгжүүлэх боломжтой болжээ.\n\nAndroid болонクロス-платформ хөгжүүлэгчдэд зориулж ML Kit-ийн GenAI Speech Recognition болон Text-to-Speech API-уудыг санал болгож байна. Эдгээр API нь NPU болон TPU төхөөрөмжүүдийн аппарат хангамжийн хурдатгалыг ашиглан бүтээгдэхүүний түвшний чанарыг ямар нэгэн төвөгтэй тохиргоогүйгээр олгодог.\n\nЭнэхүү хөгжүүлэлт нь хөгжүүлэгчдэд гар утас болон ухаалаг шил зэрэг төхөөрөмжүүдэд зориулсан дуу хоолойд суурилсан, офлайн ажиллах чадвартай аппликейшн бүтээхэд өргөн боломж нээж өгч байна.",
+ "published": "2026-11-19T02:00:58Z",
+ "added": "2026-11-19T02:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

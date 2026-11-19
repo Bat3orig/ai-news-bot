@@ -1,0 +1,17 @@
+{
+ "id": "005440d49aa89ed8",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/title-image.2e16d0ba.fill-1200x600.png",
+ "title": "Catch Go bugs that fuzzing misses with Gemini and a constraint solver",
+ "summary_en": "How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.",
+ "title_mn": "Go хэлний алдаа илрүүлэлтэд Gemini болон Z3 ашиглах нь",
+ "summary_mn": "Go хэлний код дахь нуугдмал алдаануудыг Gemini 4 Argon болон Z3 constraint solver ашиглан илрүүлэх шинэ аргачлал.",
+ "body_mn": "Go хэл дээр бичигдсэн програм хангамж дахь санах ойн хязгаараас хэтэрсэн алдаа эсвэл хэвийн бус ажиллагааг илрүүлэхэд энгийн fuzzing тест хангалтгүй байх тохиолдол гардаг. Үүнийг шийдвэрлэхийн тулд Gemini 4 Argon болон Z3 constraint solver хамтран ажиллах шинэ арга туршиж байна.\n\nКомпанийн ажилтан skill-lint хэрэгсэл дээр туршилт хийж, компиляторын үлдээсэн runtime.panicBounds шалгалтуудыг задлан шинжилж, Gemini загвараар дамжуулан Z3 формат руу хөрвүүлжээ. Ингэснээр агентод хяналтын урсгалыг шинжлэх, тодорхой алдаа гаргах оролтуудыг зохиох боломж олгож, энгийн тестүүдийн анзаараагүй нуугдмал алдааг амжилттай илрүүлсэн байна.",
+ "published": "2026-11-19T02:00:58Z",
+ "added": "2026-11-19T02:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

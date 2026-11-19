@@ -1,0 +1,17 @@
+{
+ "id": "5a0ccf73fdd1f18c",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_41reuz41re.2e16d0ba.fill-1200x600.jpg",
+ "title": "Build full-stack Android apps with Gemini in Google AI Studio",
+ "summary_en": "Google AI Studio now lets developers build, test, and ship full-stack Kotlin Android apps from a single prompt—complete with Cloud Firestore, Firebase Authentication, Firebase AI Logic, a faster HD emulator with audio, visual screenshot debugging, and direct publishing to your personal Google Play library.",
+ "title_mn": "Google AI Studio дээр Android апп бүтээх боломжтой боллоо",
+ "summary_mn": "Google AI Studio хэрэгсэл нь Kotlin хэл дээр бүтэн стек бүхий Android апп зохиож, Google Play Store руу шууд байршуулах боломжийг нээлээ.",
+ "body_mn": "Google AI Studio систем нь Gemini 4 Carbon болон Hydrogen загваруудад түшиглэн хөгжүүлэгчдэд бүрэн хэмжээний Android аппликейшн бүтээх боломжийг олгож эхэлжээ. Ганцхан хүсэлт өгөхөд л өгөгдлийн сан, хэрэглэгчийн нэвтрэх хэсэг, AI боломжтой апп бэлэн болох юм.\n\nШинэчлэлтийн хүрээнд Google Play Store-той шууд интеграци хийгдсэн бөгөөд туршилтын аппаа .aab файлд шилжүүлэн өөрийн утсан дээр шууд татаж ажиллуулах боломжтой болсон. Энэ нь хөгжүүлэгчдэд USB кабель холбохгүйгээр хурдан туршилт хийх нөхцөлийг бүрдүүлж байна.\n\nТүүнчлэн хувийн загварын шрифр ашиглах, өндөр нарийвчлалтай эмулятор болон Firebase backend үйлчилгээг автоматаар холбох зэрэг дэвшилтэт боломжууд нэмэгджээ.",
+ "published": "2026-11-19T02:00:58Z",
+ "added": "2026-11-19T02:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

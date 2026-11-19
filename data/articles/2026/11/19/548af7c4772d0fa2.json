@@ -1,0 +1,17 @@
+{
+ "id": "548af7c4772d0fa2",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Banner_-_1600x900.2e16d0ba.fill-1200x600.png",
+ "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
+ "summary_en": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks, AAD successfully caught 87% of harmful instructions carried out by agents without adding runtime latency. Developers can integrate AAD alongside semantic governance and strict tool limits as part of a defense-in-depth strategy to secure agentic applications.",
+ "title_mn": "Agent Anomaly Detection хамгаалалтын бенчмарк үр дүн",
+ "summary_mn": "Google-ийн Agent Anomaly Detection систем агентын хортой заль мэх болон зорилго алдагдахаас хэрхэн хамгаалдагийг олон улсын бенчмаркаар шалгалаа.",
+ "body_mn": "AI агентууд хэрэглэгчийн өмнөөс вэб хуудас үзэж, мөнгө шилжүүлэх үед өгөгдөл дамжуулан агентын зорилгыг өөрчлөх оролдлогууд (goal hijack) гардаг. Google компани өөрийн Agent Anomaly Detection системийг олон нийтэд танигдсан таван өөр агентын аюулгүй байдлын бенчмаркаар туршиж үзжээ.\n\nТуршилтаар уг систем нь агентын гүйцэтгэсэн хортой үйлдлүүдийн 87 хувийг амжилттай олж илрүүлсэн байна. Систем нь агентын үндсэн үйл ажиллагааны хэв маягийг судалж, зөрчил гарсан тохиолдолд шууд анхааруулдаг.\n\nЭнэхүү үр дүн нь OWASP Top 10 жагсаалтад багтсан агентын алдаа болон зөвшөөрөлгүй үйлдэл хийх эрсдэлээс хамгаалахад тун өндөр үр дүнтэй болохыг харуулж байна.",
+ "published": "2026-11-19T02:00:58Z",
+ "added": "2026-11-19T02:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "95aabee9f2fced38",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/blog-banner.2e16d0ba.fill-1200x600.png",
+ "title": "Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection",
+ "summary_en": "This guide walks developers through setting up Agent Anomaly Detection on the Gemini Enterprise Agent Platform to monitor AI agent telemetry and catch behavioral risks. It demonstrates how to deploy a sample customer support agent, trigger out-of-scope security findings, and configure proactive alerts using Cloud Monitoring and Security Command Center.",
+ "title_mn": "AI агентын хэвийн бус үйл ажиллагааг илрүүлэх хэрэгсэл",
+ "summary_mn": "Gemini платформ дээр агентуудын аюулгүй байдлыг хангаж, заагдсан хязгаараас гадуур үйлдэл хийхийг хянах Agent Anomaly Detection танилцуулагдлаа.",
+ "body_mn": "AI агентууд бие даан захидал унших, санхүүгийн гүйлгээ хийх зэрэг олон эрх мэдэлтэй болохын хэрээр тэдний гаргасан нэг буруу шийдвэр компанид өндөр өртөгтэй тусч болзошгүй юм. Эдгээр эрсдэлээс хамгаалах зорилгоор Gemini платформ дээр Agent Anomaly Detection систем ажиллаж эхэлжээ.\n\nЭнэхүү систем нь агентуудын үйл ажиллагааны түүх болон log мэдээллийг систем ачаалалгүйгээр цаана нь шалгаж, тухайн агент зорилгоосоо хазайсан эсвэл хортой үйлдэл хийсэн эсэхийг тодорхойлдог. Системийг туршиж үзэхэд зориулсан Jupyter notebook жишээг мөн бэлтгэжээ.\n\nХөгжүүлэгчид Cloud Logging болон тусгай орчныг ашиглан өөрсдийн бүтээсэн агентуудыг хяналтад оруулах боломжтой бөгөөд энэ нь OWASP стандарттай бүрэн нийцдэг байна.",
+ "published": "2026-11-19T02:00:58Z",
+ "added": "2026-11-19T02:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
