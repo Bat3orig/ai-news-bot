@@ -360,6 +360,13 @@ sources:
     subtopic: vibe-coding
     ai_hint: *vibe
 
+  # Өдөрт 1-4 нийтлэл: Claude Code, Codex, Copilot CLI г.м. хэрэгслийг яаж ашиглах заавар.
+  # "ChatGPT Wallet" мэт бүтээгдэхүүний тойм нь оноогоор (2) хасагдана.
+  - name: Flavio Copes
+    url: https://flaviocopes.com/rss.xml
+    subtopic: vibe-coding
+    ai_hint: *vibe
+
   # ================= Холимог (бүх сэдэв) =================
   # subtopic заагаагүй: topics.yaml-ийн keywords-оор ангилна
   - name: Hacker News
