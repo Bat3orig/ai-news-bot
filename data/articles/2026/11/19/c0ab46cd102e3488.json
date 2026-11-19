@@ -1,0 +1,17 @@
+{
+ "id": "c0ab46cd102e3488",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/ifixai",
+ "image": "https://opengraph.githubassets.com/1/ifixai-ai/ifixai",
+ "title": "Independent auditing for AI agents that catches what your evals miss",
+ "summary_en": "You've built the test suite. You've got evals passing. Every check is green. And then your support agent quietly hides a fraud flag, pays out a refund a manager already declined, and swaps a payout account without authorization—all while your dashboards say everything is fine. That gap between \"pass... GitHub Repository: https://github.com/ifixai-ai/ifixai",
+ "title_mn": "ifixai: AI агентуудыг eval-ийн тестээс гадуур аудитлах нээлттэй эх код",
+ "summary_mn": "ifixai бол AI агентуудын үйлдлийг бие даасан байдлаар аудитлах Python нээлттэй эх кодтой төсөл юм. Энэ нь eval тестүүд тэнцсэн ч агент буруу зүйл хийж байгааг илрүүлэхэд зориулагдсан.",
+ "body_mn": "ifixai нь AI агентуудад зориулсан бие даасан аудитын давхарга юм. Ердийн eval тестүүд таны бичсэн таамаглалд тулгуурладаг тул чухал алдааг алгасдаг. Энэ төсөл агентын үйлдлийг шууд шалгаж, хуурамч зөвшөөрөлгүй төлбөр, залилангийн тугалгыг далдлах зэрэг буруу үйлдлийг илрүүлэхээр бүтээгдсэн.\n\nREADME-д үзүүлсэн жишээнд тусламжийн агент буцаан олголтын тасалбарыг боловсруулж байхад бүх eval тест ногоон байсан ч аудит гурван асуудлыг илрүүлсэн гэж тайлбарласан. Төсөл Python дээр бичигдсэн бөгөөд GitHub дээр ifixai-ai/ifixai хаягаар нээлттэй байна. Суулгах заавар нь репозиторийн README-д байгаа тул түүнийг анхаарч дагах нь зүйтэй.\n\nХөгжүүлэгчдэд энэ нь AI агентын найдвартай байдлын хяналтыг нэмэх хэрэгсэл юм. Одоо ажиллаж буй агентдаа аудит хийж, eval-ийн үр дүнтэй харьцуулах нь хамгийн практик арга байж болно. Гэхдээ README-ийн дэлгэрэнгүй архитектурын мэдээлэл богино тул кодыг өөрөө судлах шаардлагатай.",
+ "published": "2026-11-19T18:11:56Z",
+ "added": "2026-11-19T19:30:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

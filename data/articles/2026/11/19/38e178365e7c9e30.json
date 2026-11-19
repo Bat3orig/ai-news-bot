@@ -1,0 +1,17 @@
+{
+ "id": "38e178365e7c9e30",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/rust-anything",
+ "image": "https://opengraph.githubassets.com/1/erkamyaman/rust-anything",
+ "title": "Record what your app does, then port it to Rust piece by piece",
+ "summary_en": "You've got a working app in Node, Python, or Go, and you've decided to rewrite it in Rust. The performance argument is compelling. The problem is that nobody wants to be the person who ships a rewrite that quietly changes behavior in a dozen places nobody tested. rust-anything takes a different angl... GitHub Repository: https://github.com/erkamyaman/rust-anything",
+ "title_mn": "rust-anything: Node.js, Python болон бусад аппыг Rust-руу алхам алхмаар шилжүүлэх хэрэгсэл",
+ "summary_mn": "rust-anything нь одоо байгаа аппын зан төлөвийг бичиж аваад Rust-руу хэсэг хэсгээр шилжүүлж, бүрийг нь шалгах хэрэгсэл юм. Node.js, Python, C, Go, Ruby, Java хэлнүүдийг дэмжинэ.",
+ "body_mn": "rust-anything нь Node.js, Python, C, Go, Ruby болон Java дээр бичигдсэн аппыг Rust руу шилжүүлэхэд зориулагдсан нээлттэй эх кодтой хэрэгсэл юм. Гол санаа нь эхлээд аппын зан төлөвийг record командаар бичиж, дараа нь bridge командаар Rust crate болон хуучин API-г хадгалсан wrapper үүсгэх явдал юм.\n\ndiff командаар бичигдсэн бүх тохиолдлыг Rust кодонд дахин тоглуулж, бүх үр дүн таарах хүртэл шилжилт хийгдэхгүй. Эцэст нь app lift командаар бүх тест тэнцсэн үед цэвершүүн Rust апп болгон гаргаж авдаг. README-д Prettier-ийг Rust-руу шилжүүлсэн жишээ дурдсан бөгөөд 19 дахин хурдтай, 17,224 бичлэгт 0 зөрүүтэй гэж тайлбарласан.\n\nЭнэ арга нь том нэг удаагийн rewrite-ээс илүү аюулгүй гэдгийг харуулж байна. Хэсэг бүрийг шалгаж байж дараагийнхийг хийх тул аль ч үед ажиллаж буй систем үлдэнэ. Crates.io болон npm дээр суулгах боломжтой, MIT лицензтэй. Харин Rust кодыг та өөрөө бичих хэрэгтэй гэдгийг санаарай.",
+ "published": "2026-11-19T18:12:44Z",
+ "added": "2026-11-19T19:30:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

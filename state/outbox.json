@@ -198,5 +198,65 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c0ab46cd102e3488",
+   "subtopic": "gh-oss",
+   "source": "Open Source Projects",
+   "source_label": "Open Source Projects",
+   "url": "https://www.opensourceprojects.dev/post/ifixai",
+   "image": "https://opengraph.githubassets.com/1/ifixai-ai/ifixai",
+   "title": "Independent auditing for AI agents that catches what your evals miss",
+   "summary_en": "You've built the test suite. You've got evals passing. Every check is green. And then your support agent quietly hides a fraud flag, pays out a refund a manager already declined, and swaps a payout account without authorization—all while your dashboards say everything is fine. That gap between \"pass... GitHub Repository: https://github.com/ifixai-ai/ifixai",
+   "title_mn": "ifixai: AI агентуудыг eval-ийн тестээс гадуур аудитлах нээлттэй эх код",
+   "summary_mn": "ifixai бол AI агентуудын үйлдлийг бие даасан байдлаар аудитлах Python нээлттэй эх кодтой төсөл юм. Энэ нь eval тестүүд тэнцсэн ч агент буруу зүйл хийж байгааг илрүүлэхэд зориулагдсан.",
+   "body_mn": "ifixai нь AI агентуудад зориулсан бие даасан аудитын давхарга юм. Ердийн eval тестүүд таны бичсэн таамаглалд тулгуурладаг тул чухал алдааг алгасдаг. Энэ төсөл агентын үйлдлийг шууд шалгаж, хуурамч зөвшөөрөлгүй төлбөр, залилангийн тугалгыг далдлах зэрэг буруу үйлдлийг илрүүлэхээр бүтээгдсэн.\n\nREADME-д үзүүлсэн жишээнд тусламжийн агент буцаан олголтын тасалбарыг боловсруулж байхад бүх eval тест ногоон байсан ч аудит гурван асуудлыг илрүүлсэн гэж тайлбарласан. Төсөл Python дээр бичигдсэн бөгөөд GitHub дээр ifixai-ai/ifixai хаягаар нээлттэй байна. Суулгах заавар нь репозиторийн README-д байгаа тул түүнийг анхаарч дагах нь зүйтэй.\n\nХөгжүүлэгчдэд энэ нь AI агентын найдвартай байдлын хяналтыг нэмэх хэрэгсэл юм. Одоо ажиллаж буй агентдаа аудит хийж, eval-ийн үр дүнтэй харьцуулах нь хамгийн практик арга байж болно. Гэхдээ README-ийн дэлгэрэнгүй архитектурын мэдээлэл богино тул кодыг өөрөө судлах шаардлагатай.",
+   "published": "2026-11-19T18:11:56Z",
+   "added": "2026-11-19T19:30:55Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "38e178365e7c9e30",
+   "subtopic": "gh-oss",
+   "source": "Open Source Projects",
+   "source_label": "Open Source Projects",
+   "url": "https://www.opensourceprojects.dev/post/rust-anything",
+   "image": "https://opengraph.githubassets.com/1/erkamyaman/rust-anything",
+   "title": "Record what your app does, then port it to Rust piece by piece",
+   "summary_en": "You've got a working app in Node, Python, or Go, and you've decided to rewrite it in Rust. The performance argument is compelling. The problem is that nobody wants to be the person who ships a rewrite that quietly changes behavior in a dozen places nobody tested. rust-anything takes a different angl... GitHub Repository: https://github.com/erkamyaman/rust-anything",
+   "title_mn": "rust-anything: Node.js, Python болон бусад аппыг Rust-руу алхам алхмаар шилжүүлэх хэрэгсэл",
+   "summary_mn": "rust-anything нь одоо байгаа аппын зан төлөвийг бичиж аваад Rust-руу хэсэг хэсгээр шилжүүлж, бүрийг нь шалгах хэрэгсэл юм. Node.js, Python, C, Go, Ruby, Java хэлнүүдийг дэмжинэ.",
+   "body_mn": "rust-anything нь Node.js, Python, C, Go, Ruby болон Java дээр бичигдсэн аппыг Rust руу шилжүүлэхэд зориулагдсан нээлттэй эх кодтой хэрэгсэл юм. Гол санаа нь эхлээд аппын зан төлөвийг record командаар бичиж, дараа нь bridge командаар Rust crate болон хуучин API-г хадгалсан wrapper үүсгэх явдал юм.\n\ndiff командаар бичигдсэн бүх тохиолдлыг Rust кодонд дахин тоглуулж, бүх үр дүн таарах хүртэл шилжилт хийгдэхгүй. Эцэст нь app lift командаар бүх тест тэнцсэн үед цэвершүүн Rust апп болгон гаргаж авдаг. README-д Prettier-ийг Rust-руу шилжүүлсэн жишээ дурдсан бөгөөд 19 дахин хурдтай, 17,224 бичлэгт 0 зөрүүтэй гэж тайлбарласан.\n\nЭнэ арга нь том нэг удаагийн rewrite-ээс илүү аюулгүй гэдгийг харуулж байна. Хэсэг бүрийг шалгаж байж дараагийнхийг хийх тул аль ч үед ажиллаж буй систем үлдэнэ. Crates.io болон npm дээр суулгах боломжтой, MIT лицензтэй. Харин Rust кодыг та өөрөө бичих хэрэгтэй гэдгийг санаарай.",
+   "published": "2026-11-19T18:12:44Z",
+   "added": "2026-11-19T19:30:55Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a49a53940061b3c3",
+   "subtopic": "gh-oss",
+   "source": "Open Source Projects",
+   "source_label": "Open Source Projects",
+   "url": "https://www.opensourceprojects.dev/post/nginx-ui",
+   "image": "https://opengraph.githubassets.com/1/0xjacky/nginx-ui",
+   "title": "Another Nginx Web UI, this time from 0xJacky, Hintay and Akino",
+   "summary_en": "You've got Nginx running somewhere—maybe a few sites, a handful of config files scattered across `/etc/nginx`, and a nagging feeling that one misplaced semicolon will take everything down. Managing Nginx from the command line works, but it's not exactly friendly. Enter Nginx UI, a web interface for ... GitHub Repository: https://github.com/0xjacky/nginx-ui",
+   "title_mn": "Nginx UI: Nginx-ийг хөтөч дээрээс удирдах веб хяналтын самбар",
+   "summary_mn": "Nginx UI нь Nginx серверийн тохиргоог командын мөрөөс гадна хөтчөөр удирдах нээлттэй эх кодтой веб интерфейс юм. Docker дүрс болон хоёртын файлаар суулгах боломжтой.",
+   "body_mn": "Nginx UI нь 0xJacky, Hintay болон Akino нарын хөгжүүлсэн Nginx-ийн веб хяналтын самбар юм. Тохиргооны файлуудыг SSH-ээр гараар засахын оронд хөтөч дээрээс удирдах боломжийг олгодог. Төсөл идэвхтэй хөгжиж байгаа бөгөөд GitHub Actions болон Docker Hub дээрх uozi/nginx-ui дүрс байна.\n\nБаримтжуулалт nginxui.com хаяг дээр байгаа бөгөөд DeepWiki холбоос бас бий. README-д AtomGit дээр G-Star хөтөлбөрийн хүрээнд байрлуулсан гэж дурджээ. Badge-үүдээс харахад хувилбарын менежмент сайн явагдаж байгаа бололтой.\n\nЭнэ хэрэгсэл нь Nginx-ийн тохиргоог боловсруулдаг тул буруу бичлэг нь сайтуудыг унтрааж болзошгүй. Production серверт ашиглахын өмнө аюулгүй байдлын загварыг баримтаас сайтар уншиж үзэх нь зүйтэй. Хэрэв контейнер ашигладаг бол Docker нь хамгийн хурдан арга юм.",
+   "published": "2026-11-19T18:13:43Z",
+   "added": "2026-11-19T19:30:55Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
  }
 ]

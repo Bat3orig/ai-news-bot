@@ -1,0 +1,17 @@
+{
+ "id": "a49a53940061b3c3",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/nginx-ui",
+ "image": "https://opengraph.githubassets.com/1/0xjacky/nginx-ui",
+ "title": "Another Nginx Web UI, this time from 0xJacky, Hintay and Akino",
+ "summary_en": "You've got Nginx running somewhere—maybe a few sites, a handful of config files scattered across `/etc/nginx`, and a nagging feeling that one misplaced semicolon will take everything down. Managing Nginx from the command line works, but it's not exactly friendly. Enter Nginx UI, a web interface for ... GitHub Repository: https://github.com/0xjacky/nginx-ui",
+ "title_mn": "Nginx UI: Nginx-ийг хөтөч дээрээс удирдах веб хяналтын самбар",
+ "summary_mn": "Nginx UI нь Nginx серверийн тохиргоог командын мөрөөс гадна хөтчөөр удирдах нээлттэй эх кодтой веб интерфейс юм. Docker дүрс болон хоёртын файлаар суулгах боломжтой.",
+ "body_mn": "Nginx UI нь 0xJacky, Hintay болон Akino нарын хөгжүүлсэн Nginx-ийн веб хяналтын самбар юм. Тохиргооны файлуудыг SSH-ээр гараар засахын оронд хөтөч дээрээс удирдах боломжийг олгодог. Төсөл идэвхтэй хөгжиж байгаа бөгөөд GitHub Actions болон Docker Hub дээрх uozi/nginx-ui дүрс байна.\n\nБаримтжуулалт nginxui.com хаяг дээр байгаа бөгөөд DeepWiki холбоос бас бий. README-д AtomGit дээр G-Star хөтөлбөрийн хүрээнд байрлуулсан гэж дурджээ. Badge-үүдээс харахад хувилбарын менежмент сайн явагдаж байгаа бололтой.\n\nЭнэ хэрэгсэл нь Nginx-ийн тохиргоог боловсруулдаг тул буруу бичлэг нь сайтуудыг унтрааж болзошгүй. Production серверт ашиглахын өмнө аюулгүй байдлын загварыг баримтаас сайтар уншиж үзэх нь зүйтэй. Хэрэв контейнер ашигладаг бол Docker нь хамгийн хурдан арга юм.",
+ "published": "2026-11-19T18:13:43Z",
+ "added": "2026-11-19T19:30:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
