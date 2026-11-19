@@ -29,9 +29,12 @@ Topics (`topics.yaml`, chosen by the user — only these are sent):
   TypeScript, JavaScript (both → `gh-js`), Python, Rust. Entries are undated, ranked; `limit: 2–3`
   per feed per fetch, the rest marked seen. Subtopics are `dedicated: true` (AI never assigns them
   to mixed sources such as Hacker News).
+  2026-11-19: **Open source** subtopic (`gh-oss`) from opensourceprojects.dev RSS (one project per
+  post, 5–7/day). The user wants only software projects: its `ai_hint` gives score 1–2 to
+  consumer/self-hosted/homelab/hardware projects.
 - **Vibe coding** (2026-10-14, own Telegram topic): the user wants **usage-side** content (tips,
   workflows, tool how-tos), not business news. Sources: Simon Willison (`/atom/entries/`), Addy
-  Osmani, Harper Reed, Builder.io, Cursor changelog. Reddit works locally but usually blocks
+  Osmani (403 from Actions), Harper Reed, Builder.io, Cursor changelog, Flavio Copes (2026-11-19). Reddit works locally but usually blocks
   Actions IPs, so it is not used. Google News "vibe coding" is too business-heavy, so it is not used.
 - Source fields `limit` and `ai_hint` (passed to the AI as `editor_note`) are in `sources.yaml`.
 
@@ -99,6 +102,14 @@ python -m http.server -d public
 - **Always `git pull --rebase origin main` before editing** — the bot commits `state/` and `data/` every 30 min.
 - Headless Chrome screenshots work: `"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --screenshot=...` (min window width is ~500px; use an iframe to test 375px).
 - Use the scratchpad for test state, never the real `state/` with non-dry runs.
+
+## Status (2026-11-19)
+- 2026-11-19: fixed undated items never being processed (`56caaca`). Sorted as "now", they sat
+  behind a 120+ item backlog: no GitHub Trending articles since 10/26 and no Google Developers Blog
+  articles since 10/24 (its feed lost its dates). Undated items now go first, `limit` feeds first of all.
+- The backlog stays at 120–140 items, and the outbox holds 40 messages: cron runs only ~4×/day and
+  just ~2 of those runs fall inside the sending hours. Dated items older than 3 days drop out
+  unprocessed. External cron or a bigger `MAX_PER_RUN`/`max_per_send` is still undecided.
 
 ## Status (2026-10-14)
 - Deployed and running. gemini-3.8-flash works part of the time (45 articles 10/09–10/14), so the
