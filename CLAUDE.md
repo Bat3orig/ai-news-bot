@@ -71,9 +71,15 @@ State (committed by the bot every run):
   1. `sources.yaml` → `block:` publishers (substring of outlet name or resolved URL host) and title
      keywords; dropped before the AI (`drop_blocked`, run before and after enrich).
   2. AI `score` 1–5 = usefulness for developers; below `topics.yaml` → `filter.min_score` (3) is
-     dropped, except `github_release` sources. 2 = business/partnerships/IPO/lawsuits/politics/
+     dropped. Per-source override `min_score` (AI Google News sources: 4, since 2026-11-19). 2 = business/partnerships/IPO/lawsuits/politics/
      AI-safety incidents/gadgets. User said AI-incident stories (e.g. "Claude sent police a false
      tip") are NOT wanted. Score is saved in the article JSON (`score`) for tuning.
+- Releases (2026-11-19, user request: no routine updates in Software/AI): releases are scored
+  too (row `kind: "release"`, rubric in `ai.SYSTEM_TEMPLATE`): only a major version, security
+  fix, serious-bug fix, breaking change or significant feature gets 3+. `feeds.release_line`
+  drops backports to older major lines (electron v43/v44 while v45 is out; 0.x uses the minor).
+- Vercel (2026-11-19): `title_exclude` drops "X now available on AI Gateway / Token Pass", and
+  its `ai_hint` scores small platform tweaks 2. It used to send ~4/day.
 - `skip_prereleases` drops canary/alpha/beta/rc/nightly; `title_regex` for multi-package repos (tauri, shadcn).
 - GitHub release titles get the repo prefix ("claude-code v2.1.290").
 - Duplicate stories (Google News brings one story from 3–6 outlets), two layers:

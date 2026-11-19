@@ -12,6 +12,8 @@
 #   keywords          Нэмэлт шүүлтүүр: гарчиг/товчлолд эдгээрийн аль нэг байх ёстой
 #   skip_prereleases  true бол canary/alpha/beta/rc/nightly хувилбарыг алгасна
 #   title_regex       Гарчиг энэ regex-тэй таарсан мэдээг л авна
+#   title_exclude     Гарчиг энэ regex-тэй таарвал алгасна
+#   min_score         Энэ эх сурвалжид шаардах AI оноо (topics.yaml-ийн filter.min_score-ийг орлоно)
 #   limit             Нэг удаад зөвхөн эхний N шинэ мэдээг авч, үлдсэнийг алгасна (GitHub Trending)
 #   ai_hint           AI-д өгөх нэмэлт заавар (энэ эх сурвалжийн мэдээг юуг онцолж бичих вэ)
 #   enabled           false бол түр унтраана
@@ -90,21 +92,25 @@ sources:
     url: https://news.google.com/rss/search?q=Anthropic+Claude&hl=en-US&gl=US&ceid=US:en
     type: google_news
     subtopic: anthropic
+    min_score: 4
 
   - name: xAI (Google News)
     url: https://news.google.com/rss/search?q=xAI+Grok&hl=en-US&gl=US&ceid=US:en
     type: google_news
     subtopic: xai
+    min_score: 4
 
   - name: Qwen (Google News)
     url: https://news.google.com/rss/search?q=Qwen+Alibaba&hl=en-US&gl=US&ceid=US:en
     type: google_news
     subtopic: qwen
+    min_score: 4
 
   - name: Kimi (Google News)
     url: https://news.google.com/rss/search?q=Kimi+Moonshot+AI&hl=en-US&gl=US&ceid=US:en
     type: google_news
     subtopic: kimi
+    min_score: 4
 
   - name: GitHub Changelog
     url: https://github.blog/changelog/feed/
@@ -205,9 +211,18 @@ sources:
     url: https://nodejs.org/en/feed/blog.xml
     subtopic: node
 
+  # Өдөрт ~4 мэдээ ирдэг байсан. "X model now available on AI Gateway / Token Pass" нь
+  # тухайн моделийн мэдээгээр аль хэдийн ирдэг тул хасна; жижиг өөрчлөлтийг AI 2 оноогоор хасна.
   - name: Vercel
     url: https://vercel.com/atom
     subtopic: vercel-cloud
+    title_exclude: '\bavailable (on|in|via|through) (the )?(AI Gateway|Token Pass)\b'
+    ai_hint: >-
+      Vercel changelog/blog. Score 3 or more only for things many developers will notice:
+      a new product or SDK, a major feature, pricing/plan or limit changes that cost money,
+      deprecations, security issues. Score 2 for small platform tweaks: something is "now
+      faster", a limit raised, a new dashboard option or preset, a new runtime/image version,
+      a single new integration, opinion and marketing posts.
 
   # Долоо хоног бүрийн newsletter: шинэ package, framework, хэрэгслүүд
   - name: JavaScript Weekly

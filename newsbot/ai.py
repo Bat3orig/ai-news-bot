@@ -82,7 +82,16 @@ You receive news items as JSON. For EVERY item return one object with the same "
     AI-safety incidents and lab drama (e.g. a model sending a false tip to police), consumer
     gadgets and hardware, general-audience explainers.
   1 = spam, SEO comparison pages, crypto or stock price predictions, listicles, unrelated items.
-  Use 1 when relevant is false. Release notes from a dedicated repository are at least 3.
+  Use 1 when relevant is false.
+  Release notes (items with "kind": "release"): judge the changes, not the version number.
+  Readers only want releases worth acting on:
+  5 = new major version, or a security fix.
+  4 = fix for a serious bug users should upgrade for (crash, data loss, broken builds or
+    deploys, a regression many users hit), breaking change, or a significant new feature.
+  3 = several clearly useful new features.
+  2 = routine update: small fixes, minor improvements or small features, dependency bumps,
+    docs, internal refactors, performance tweaks - nothing users need to act on.
+  1 = empty or unreadable notes.
   GitHub repositories: 4-5 = useful, well-made developer tool, library, framework or app;
   3 = interesting project; 1-2 = link lists, course notes, piracy, tools for getting paid APIs
   for free or evading terms of service, non-software.
@@ -165,6 +174,8 @@ def _payload(items: list[Item], topics: Topics, already: list[str]) -> str:
             "text": it.extra.get("text") or it.summary,
             "subtopic_options": options,
         }
+        if it.source.type == "github_release":
+            row["kind"] = "release"
         if it.source.ai_hint:
             row["editor_note"] = it.source.ai_hint
         rows.append(row)

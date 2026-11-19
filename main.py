@@ -164,8 +164,8 @@ def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
         if tr and tr.get("duplicate"):
             log.info("AI: duplicate story, skipping: %s", it.title[:70])
             continue
-        # Release notes from a dedicated repo are always kept; the rest must be useful to devs.
-        if tr and tr["score"] < topics.min_score and it.source.type != "github_release":
+        # Releases too: routine patch releases score 2 (see ai.SYSTEM_TEMPLATE).
+        if tr and tr["score"] < (it.source.min_score or topics.min_score):
             log.info("AI: low value (score %d), skipping: %s", tr["score"], it.title[:70])
             continue
         art = to_article(it, tr, topics, now)

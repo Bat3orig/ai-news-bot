@@ -90,11 +90,15 @@ class Source:
     title_regex: re.Pattern | None = None
     limit: int = 0      # take only the first N new entries per fetch (feed order); 0 = all
     ai_hint: str = ""   # extra instruction for the AI about this source's items
+    title_exclude: re.Pattern | None = None  # titles matching this are skipped
+    min_score: int = 0  # AI score needed to publish; 0 = topics.yaml filter.min_score
 
     def accepts_title(self, title: str) -> bool:
         if self.skip_prereleases and PRERELEASE_RE.search(title):
             return False
         if self.title_regex and not self.title_regex.search(title):
+            return False
+        if self.title_exclude and self.title_exclude.search(title):
             return False
         return True
 
@@ -180,5 +184,7 @@ def load_sources(topics: Topics, path: Path = SOURCES_FILE) -> list[Source]:
             title_regex=re.compile(s["title_regex"], re.I) if s.get("title_regex") else None,
             limit=max(0, int(s.get("limit") or 0)),
             ai_hint=str(s.get("ai_hint") or "").strip(),
+            title_exclude=re.compile(s["title_exclude"], re.I) if s.get("title_exclude") else None,
+            min_score=max(0, int(s.get("min_score") or 0)),
         ))
     return sources

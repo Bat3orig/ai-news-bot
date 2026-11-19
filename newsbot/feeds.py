@@ -126,6 +126,18 @@ def build_item(entry, src: Source, topics: Topics) -> Item | None:
     )
 
 
+VERSION_RE = re.compile(r"\bv?(\d+)\.(\d+)")
+
+
+def release_line(title: str) -> tuple[int, ...] | None:
+    """'electron v45.2.1' -> (45,); '0.x' versions use the minor: 'ollama v0.40.1' -> (0, 40)."""
+    m = VERSION_RE.search(title)
+    if not m:
+        return None
+    major, minor = int(m.group(1)), int(m.group(2))
+    return (major,) if major else (0, minor)
+
+
 def collect(sources: list[Source], topics: Topics, state: State, now: datetime,
             workers: int = 8) -> tuple[list[Item], dict]:
     """Fetch every source; return new candidate items (unsorted) and stats.
@@ -157,8 +169,14 @@ def collect(sources: list[Source], topics: Topics, state: State, now: datetime,
         stats["ok"].append(src.name)
         bootstrap = state.first_run or src.name not in state.sources
         fresh = skipped = 0
-        for entry in entries:
-            item = build_item(entry, src, topics)
+        items = [build_item(entry, src, topics) for entry in entries]
+        newest = None
+        if src.type == "github_release":
+            # Backports to older major lines (electron v43 while v45 is out) are noise.
+            lines = [release_line(it.title) for it in items
+                     if it is not None and src.accepts_title(it.title)]
+            newest = max((ln for ln in lines if ln), default=None)
+        for item in items:
             if item is None:
                 continue
             if state.is_seen(item.keys):
@@ -170,6 +188,11 @@ def collect(sources: list[Source], topics: Topics, state: State, now: datetime,
             if item.published and item.published < cutoff:
                 continue
             if not src.accepts_title(item.title):
+                continue
+            line = release_line(item.title) if newest else None
+            if line and line < newest:
+                log.info("[%s] older release line, skipping: %s", src.name, item.title)
+                state.mark(item.keys, today)
                 continue
             text = f"{item.title}\n{item.summary}"
             if src.keywords and not src.keywords.search(text):
