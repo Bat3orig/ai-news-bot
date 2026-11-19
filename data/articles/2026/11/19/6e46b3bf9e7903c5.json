@@ -1,0 +1,17 @@
+{
+ "id": "6e46b3bf9e7903c5",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/banner-1600x900_1.2e16d0ba.fill-1200x600.png",
+ "title": "What is Pathways? Single-controller training for large models",
+ "summary_en": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous collectives, Pathways uses asynchronous dispatch and a central scheduler to maximize hardware utilization and prevent deadlocks in complex workloads. By decoupling model definition from physical hardware via virtual devices, developers can efficiently scale complex training architectures and seamlessly handle dynamic…",
+ "title_mn": "Google Cloud Pathways системийг албан ёсоор нээлээ",
+ "summary_mn": "Google Cloud нь Gemini зэрэг том хэмжээний загваруудыг сургахад ашигладаг Pathways тархсан системийг олон нийтэд нээлттэй болголоо.",
+ "body_mn": "Google компани том хэмжээний хиймэл оюун ухааны загваруудыг сургахад зориулан бүтээсэн Pathways тархсан системийг Google Cloud Platform дээр албан ёсоор ашиглалтад оруулснаа зарлалаа. Энэхүү систем нь олон тооны хурдасгууруудыг нэгдмэл байдлаар удирдах замаар сургалтын үйл явцыг илүү үр дүнтэй болгодог.\n\nУламжлалт SPMD (Single Program, Multiple Data) загварт төхөөрөмж бүр ижил програмыг зэрэг ажиллуулж, AllReduce гэх мэт үйлдэл ашиглан хоорондоо зохицдог. Гэвч энэ нь пайплайн эсвэл бэхжүүлсэн сургалтын гогцоо зэрэг нэгэн төрлийн бус ажлуудад хүндрэл учруулдаг бөгөөд техник хангамжийн саатал гарахад сургалтыг дахин эхлүүлэх шаардлагатай болдог.\n\nPathways систем нь энэхүү зохицуулалтын асуудлыг шийдвэрлэх зорилгоор бүх тооцооллыг нэг график хэлбэрээр тодорхойлох боломжийг олгодог. Тархсан ажиллах орчин нь өгөгдлийг хуваарилах, тенсоруудыг зөөвөрлөх болон хурдасгууруудыг тасралтгүй ажиллахад анхаардаг.\n\nЭнэ нь хөгжүүлэгчид болон инженерүүдэд олон төхөөрөмж дамнан ажиллах том хэмжээний сургалтын ажлыг илүү тогтвортой, өндөр бүтээмжтэйгээр удирдах боломжийг олгож байгаагаараа чухал ач холбогдолтой юм.",
+ "published": "2026-11-19T02:30:53Z",
+ "added": "2026-11-19T02:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

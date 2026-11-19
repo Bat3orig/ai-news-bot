@@ -1,0 +1,17 @@
+{
+ "id": "892e84ca9d3fb42a",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/1_3.2e16d0ba.fill-1200x600.png",
+ "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
+ "summary_en": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side-by-side trace comparisons, and automate evaluation passes. Developers will also learn how to integrate nightly scheduled runs with threshold-based alerting to track quality over time.",
+ "title_mn": "Agents CLI үнэлгээний гогцоо ашиглан агентын чанарыг сайжруулах нь",
+ "summary_mn": "AI агентын чанарыг загварын шинэчлэлт болон хэрэгслийн өөрчлөлтийн үед тогтвортой байлгахад зориулсан Agents CLI үнэлгээний гогцооны талаар танилцууллаа.",
+ "body_mn": "Демо дээр амжилттай ажилладаг агент бүтээх болон загварын шинэчлэлт, хэрэгслийн өөрчлөлтүүдийн үед тогтвортой ажиллах агентыг бүтээх хоёр нь хоорондоо тэс өөр асуудлууд юм. Эхнийх нь амралтын өдрүүдийг шаарддаг бол хоёрдох нь тасралтгүй үргэлжлэх үнэлгээний гогцоог шаарддаг.\n\nAgents CLI eval сан нь тест үүсгэх, үр дүнг үнэлэх, алдааг бүлэглэх болон систем prompt-ийг автоматаар сайжруулах команд өгөх зэрэг хүрээгүй байдлаар ажиллах боломжийг олгодог. Жишээлбэл, LLM-as-judge метрик ашиглан хариултын нарийвчлал, хамаарал болон тодорхой байдлыг 1-5 хүртэлх шкалаар үнэлэх боломжтой.\n\nTуршилтаар хөгжүүлэгч санамсаргүй байдлаар буруу систем prompt оруулж өгөхөд үнэлгээний оноо буурч байгааг илрүүлсэн бөгөөд энэ нь код хяналтын явцад анзаарагдахгүй өнгөрч болох алдааг илрүүлэхэд ямар чухал болохыг харуулж байна.\n\nЭнэхүү хэрэгсэл нь инженерүүдэд AI агентуудынхаа чанарыг системтэйгээр хянах, чанар буурахаас урьдчилан сэргийлэхэд туслах практик аргачлалыг санал болгож байна.",
+ "published": "2026-11-19T02:30:53Z",
+ "added": "2026-11-19T02:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

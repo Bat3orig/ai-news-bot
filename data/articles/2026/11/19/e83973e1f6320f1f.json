@@ -1,0 +1,17 @@
+{
+ "id": "e83973e1f6320f1f",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/cover-without-title.2e16d0ba.fill-1200x600.png",
+ "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
+ "summary_en": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
+ "title_mn": "A2UI болон CopilotKit ашиглан Генератив UI апп хөгжүүлэх нь",
+ "summary_mn": "Хиймэл оюун ухааны агентууд зөвхөн текст биш, харин хэрэглэгчийн хүсэлтэд тохируулан динамикаар UI бүрдүүлэх Генератив UI технологи хөгжиж байна.",
+ "body_mn": "Хиймэл оюун ухааны агентууд болон хэрэглэгчдийн харилцан үйлчлэл нь урт текстэн хариу өгөхөөс илүү баялаг интерфейс рүү шилжиж байна. Өмнө нь агентууд аялал төлөвлөхдөө бүх мэдээллийг энгийн текстаар буцаадаг байсан бол одоо сонгох боломжтой жагсаалт, газрын зураг эсвэл календарийн хэлбэрээр харуулах боломжтой болжээ.\n\nГенератив UI нь агентуудад ажиллах явцдаа хэрэглэгчийн хүсэлтэд нийцүүлэн интерфейс бүтээх боломжийг олгодог. Үүнийг хэрэгжүүлэхийн тулд UI-г тодорхойлох стандарт болон агентын системийг хооронд нь холбох шаардлагатай байдаг. Удирдлагатай горим болон нээлттэй код үүсгэх горимуудыг хоёуланг нь дэмждэг.\n\nA2UI нь рамворк хамаарахгүйгээр UI үүсгэх зорилгоор бүтээгдсэн стандарт бөгөөд хөгжүүлэгчид үндсэн компонент бүтээцээ нэг удаа бэлтгээд өгөхөд агент хүсэлт бүрт тохируулан тэдгээрийг угсарч харуулдаг. CopilotKit болон AG-UI (Agent-User Interaction Protocol) протоколын тусламжтайгаар эдгээр үйлдлийг клиент тал руу шууд дамжуулах боломжтой юм.\n\nЭнэхүү шийдэл нь хөгжүүлэгчдэд илүү интерактив, хэрэглэгчдэд ээлтэй хиймэл оюун ухааны аппликейшн бүтээхэд өргөн боломж нээж өгч байна.",
+ "published": "2026-11-19T02:30:53Z",
+ "added": "2026-11-19T02:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

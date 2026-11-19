@@ -1,0 +1,17 @@
+{
+ "id": "91e8fcd66207b655",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "NeoTeo",
+ "url": "https://www.neoteo.com/en/kimi-k31-pro-coder-what-its-figures-show",
+ "image": "https://www.nitroindex.com/opengraph/www.neoteo.com/og.png?url=https%3A%2F%2Fwww.neoteo.com%2Fen%2Fkimi-k31-pro-coder-what-its-figures-show",
+ "title": "Kimi K3.1 Pro Coder quantization: size and test claims",
+ "summary_en": "Grawnch’s Kimi K3.1 Pro Coder is a 774.97 GB community quantization. See how its memory tiers, benchmark samples and…",
+ "title_mn": "Kimi K3.1 Pro Coder: 774 GB-ийн олон түвшний квантчлалын тойм",
+ "summary_mn": "Grawnch нэртэй хэрэглэгч Moonshot AI-ийн Kimi K3.1 Pro загварыг 96 хэсэгт хувааж, 774.97 GB хэмжээтэйгээр квантчлан гаргажээ. Энэхүү загвар нь GPU VRAM, систем RAM болон NVMe санах ойд ачааллыг хуваарилж ажилладаг.",
+ "body_mn": "Moonshot AI компаниас гаргасан Kimi K3.1 Pro загварын олон нийтийн боловсруулсан шинэ квантчлал болох Kimi K3.1 Pro Coder нь нийт 774.97 GB хэмжээтэй бөгөөд 96 ширхэг хэсгээс бүрдэж байна. Энэхүү загвар нь MoE буюу холимог шинжээчдийн архитектурыг ашигладаг ба шинжээчдийн жинг санах ойн гурван өөр түвшинд хувааж байршуулдаг байна.\n\nЗагварын картын мэдээлснээр GPU, систем RAM болон NVMe санах ойн хоорондох ачааллыг кодлох болон математикийн бодолтын чиглэлээр оновчилсон байна. Туршилтын явцад AIME 2025 болон LiveCodeBench сорилтуудыг ашигласан бөгөөд үндсэн загвар болон квантчилсан хувилбар нь ижил үр дүн үзүүлжээ. Тухайлбал, дараагийн токений таамаглалын нийццэл өндөр гарсан байна.\n\nЛицензийн нөхцөлийн хувьд Moonshot AI-ийн зохиогчийн эрх үйлчлэх бөгөөд жилийн 20 сая ам.доллароос дээш орлоготой Model-as-a-Service операторууд арилжааны зорилгоор ашиглахын тулд тусгай гэрээ байгуулах шаардлагатай ажээ. Энэхүү том хэмжээний квантчлал нь хөгжүүлэгчдэд өндөр хүчин чадалтай санах ойн дэд бүтцийг ашиглан локал байдлаар туршилт хийх боломжийг олгож байна.",
+ "published": "2026-11-17T11:21:38Z",
+ "added": "2026-11-19T02:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

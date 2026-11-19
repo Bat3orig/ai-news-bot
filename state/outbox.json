@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "a26403ec2e7e0ed6",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Anthropic",
-   "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
-   "image": "https://assets.claude.com/87317c13cd86cd0b62244c430e91d0bb13b920a1.jpg",
-   "title": "Updating our coordinated vulnerability disclosure policy timelines",
-   "summary_en": "We’re shortening our vulnerability disclosure window from 90 days to 30 days for high- and critical-severity issues, and to 45 days for all other issues.",
-   "title_mn": "Anthropic эмзэг байдлыг мэдээлэх хугацааг богиносгожээ",
-   "summary_mn": "Anthropic компани эмзэг байдлыг зохицуулалттайгаар зарлах (CVD) хугацааг өндөр эрсдэлтэй тохиолдолд 90 хоногоос 30 хоног болгон богиносоголоо.",
-   "body_mn": "Хиймэл оюун ухааны загварууд эмзэг байдал илрүүлэх чадвар нь эрс сайжирснтай холбогдуулан Anthropic компани өөрийн CVD бодлогын хугацааг шинэчиллээ. 2027 оны нэгдүгээр сарын 1-нээс эхлэн өндөр болон критик эрсдэлтэй эмзэг байдлын хугацааг 90 хоногоос 30 хоног болгож бууруулж байна.\n\nЭнэхүү өөрчлөлт нь хиймэл оюун ухаан хөгжихийн хэрээр алдааг засах хурдыг нэмэгдүүлэх, хамгаалагчдад илүү хурдан хариу үйлдэл үзүүлэх боломжийг олгох зорилготой юм. Засвар хийхэд хүндрэлтэй дэд бүтцийн хувьд тусгайлан хугацаа тохиролцох аж.",
-   "published": "2026-11-16T14:32:51Z",
-   "added": "2026-11-18T01:05:51Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9aac4255dc9fce58",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Decoder",
-   "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude-2.png",
-   "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
-   "summary_en": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more than 400. A \"Dreaming\" process retroactively corrects faulty memories.",
-   "title_mn": "Anthropic: AI агентын санах ойд юу хадгалахаас илүү юуг мартах нь чухал",
-   "summary_mn": "Anthropic компани Claude агентын сесс хоорондын мэдээллийн санах ойг судлахад хэт их архив үүсгэхээс илүүтэй зорилтот тэмдэглэл хөтлөх нь илүү үр дүнтэй болохыг тогтоожээ. Мөн загвар өөрийн тэмдэглэлээ эргэн харах буюу 'зүүдлэх' аргаар алдаагаа засдаг байна.",
-   "body_mn": "AI агентуудтай олон өдрийн турш төсөл дээр ажиллахад сесс бүр шинээр эхэлдэг тул тодорхой хязгаар тулгардаг. Anthropic компани судалгаандаа Claude загвар сесс хооронд мэдээллийг хэрхэн хадгалж үлдэх талаар судалжээ. Үүний тулд Claude өөрийн уншиж болох тусгай хавтсанд тэмдэглэл үлдээх аргуудыг туршиж үзсэн байна.\n\nСудалгаанаас харахад өмнөх үеийн загварууд бүх зүйлийг эмх замбараагүй хадгалж, үр ашиггүй ажилладаг байсан бол илүү шинэ загварууд зөвхөн төлөвлөгөө, стратегийг тэмдэглэж илүү өндөр үр дүнд хүрсэн байна. Тухайлбал, агентуудад тодорхой зорилго өгч, тэмдэглэлээ хэрхэн ашиглахыг зааж өгөх нь чухал аж. Гэсэн хэдий ч агент буруу тэмдэглэлд итгэх эрсдэлтэй байдаг тул 'Dreaming' буюу зүүдлэх аргачлалыг боловсруулжээ. Энэ нь Claude завсарлагааны үеэр өмнөх сессийн тэмдэглэлийг бодит түүхтэй тулган шалгаж, алдаагаа засах боломжийг олгодог.\n\nЭнэхүү арга нь зөвхөн тоглоом тоглоход зориулагдаад зогсохгүй том хэмжээний баримт бичгийн сан болон вики үүсгэхэд маш үр дүнтэй болох нь батлагдсан байна. Claude вики болон хайлтын системийг хослуулан ашигласнаар олон баримт бичгээс мэдээлэл хайх чадвараа эрс сайжруулж чаджээ. Гэсэн хэдий ч тэмдэглэл хөтлөх нь нэмэлт тооцоолол шаардах болон цаг хугацаа алдах зэрэг сул талуудтай хэвээр байна.",
-   "published": "2026-11-16T15:28:34Z",
-   "added": "2026-11-18T08:45:22Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7f255190741c0179",
-   "subtopic": "css-web",
-   "source": "CSS-Tricks",
-   "source_label": "CSS-Tricks",
-   "url": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
-   "image": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png",
-   "title": "Staggering Scroll-Driven Animations with animation-range-start",
-   "summary_en": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value. Staggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
-   "title_mn": "CSS scroll-driven хөдөлгөөнт дүрс болон animation-range-start шинж чанар",
-   "summary_mn": "CSS ашиглан хуудасны гүйлгэлттэй холбоотой хөдөлгөөнт дүрс үүсгэхэд нарийн төвөгтэй томьёо ашиглахын оронд орчин үеийн animation-range-start шинж чанарыг ашиглах нь илүү хялбар бөгөөд үр дүнтэй болохыг хэлэлцжээ.",
-   "body_mn": "Frontend хөгжүүлэлтэд scroll-driven буюу хуудас гүйлгэхэд зориулсан хөдөлгөөнт дүрсүүдийг үүсгэхдээ олон төрлийн шинэ CSS боломжууд болон математик томьёог хослуулан ашиглах нь элбэг байдаг. Зарим тохиолдолд энэ нь маш нарийн төвөгтэй алгоритм шаарддаг бөгөөд хөгжүүлэгчдийн хувьд ойлгоход хүндрэлтэй том томьёонууд бий болдог.\n\nГэсэн хэдий ч орчин үеийн CSS стандартууд нь цаг хугацаанд суурилсан хөдөлгөөнт дүрсээс гадна гүйлгэх явцад шууд хяналт тавих боломжийг хэдийнэ олгож эхэлсэн байна. Жишээлбэл, хуучны animation-delay шинж чанар нь гүйлгэх хөдөлгөөнд шууд нөлөөлдөггүй бол animation-range-start нь хөдөлгөөнт дүрс эхлэх цэгийг гүйлгэлийн явцтай уялдаатайгаар нарийн тохируулах боломжийг олгодог.\n\nТиймээс хэт төвөгтэй математик томьёо ашиглаж кодоо хүндрүүлэхийн оронд хөтөчийн дэмждэг native шинж чанарууд болох scroll timelines болон range тохиргоонуудыг ашиглах нь илүү цэвэр бөгөөд оновчтой шийдэл юм.",
-   "published": "2026-11-16T16:47:05Z",
-   "added": "2026-11-18T08:45:22Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "0dce9358c2ec6d96",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "The Decoder",
-   "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
-   "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
-   "summary_en": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to release smaller Qwen4 models as open source.",
-   "title_mn": "Alibaba компани Opus 5.5 болон GPT-6-тай өрсөлдөх Qwen4-Max загвараа танилцууллаа",
-   "summary_mn": "Alibaba компанийн шинээр танилцуулсан Qwen4-Max нь 2.4 их наяд параметр бүхий томоохон mixture-of-experts загвар бөгөөд үнийг нь мэдэгдэхүйц бууруулж, салбар бүрийн мэргэжлийн ажлуудад зориулжээ.",
-   "body_mn": "Alibaba компани хиймэл оюун ухааны зах зээлд OpenAI-ийн GPT цуврал болон Anthropic-ийн загваруудтай өрсөлдөх зорилготой Qwen4-Max загвараа албан ёсоор танилцууллаа. Энэхүү шинэ флагман загвар нь илүү үр ашигтай архитектур болон хямд өртөгтэйгээрээ онцлог юм.\n\nQwen4-Max нь 2.4 их наяд параметр агуулсан хэдий ч нэг токен тутамд ердөө 71 тэрбум параметрийг идэвхжүүлдэг MoE архитектуртай бөгөөд 1 сая токенийн контекст цонхыг дэмждэг. Шинэ архитектур нь өмнөх контекстийг шахаж нэгтгэх замаар тооцооллын зардлыг эрс багасгаж чадсан байна. Alibaba-ийн дотоод болон гадаад хэмжүүрээр уг загвар нь аж үйлдвэр, шинжлэх ухаан, санхүүгийн салбарын даалгаваруудад өндөр үр дүнтэй болохоо харуулжээ.\n\nҮнийн хувьд Qwen4-Max нь өмнөх үеийн загваруудаа болон өрсөлдөгчдийн бүтээгдэхүүнийг бодвол API ашиглалтын өртгийг мэдэгдэхүйц хямдруулсан байна. Artificial Analysis болон бусад үнэлгээгээр энэхүү загвар нь гүйцэтгэл болон үнийн харьцаагаараа зах зээлд хүчтэй өрсөлдөгч болон гарч ирж байгаа ажээ.",
-   "published": "2026-11-16T16:58:45Z",
-   "added": "2026-11-18T08:45:22Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7d188b742715c3bc",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/iajKgHHs29vQXYUZMuMOy/061c4066e956c6ecb840b3a697cd97d2/image__100_.png",
-   "title": "Hy4 Flash now available on AI Gateway for 50% off",
-   "summary_en": "Hy4 Flash from Tencent is now available on AI Gateway with an introductory 50% discount on input, cached input, and output tokens through November 29, 2026. Hy4 Flash is the new lower-cost model in the Hy4 family. It keeps the full Hy4 feature set at roughly a tenth of the price per token: reasoning with preserved thinking across turns, tool calling, structured outputs, prompt caching, and image input, with the same 1M-token context window. Reasoning can be turned off for requests that don't need it, which suits high-volume coding, agent, and document workloads. Use tencent/hy4-flash as the…",
-   "title_mn": "AI Gateway дээр Tencent-ийн Hy4 Flash загвар 50% хямдарлаа",
-   "summary_mn": "Tencent-ийн Hy4 Flash загвар AI Gateway дээр нэмэгдэж, 11 дүгээр сарын 29 хүртэл 50%-ийн хямдралтайгаар ашиглагдах боломжтой боллоо. Энэхүү загвар нь 1 сая токенийн контекст цонх болон бүрэн боломжуудыг бага үнээр санал болгож байна.",
-   "body_mn": "Tencent компанийн шинэ Hy4 Flash загвар AI Gateway дээр албан ёсоор гарч, оролт, кешлэгдсэн оролт болон гаралт токенууд дээр 11 дүгээр сарын 29 хүртэл 50%-ийн хямдрал зарлалаа. Hy4 Flash нь өмнөх Hy4 загварынхаа үндсэн боломжуудыг хадгалан үлдсэн бөгөөд нэг токений үнийг ойролцоогоор арав дахин бууруулсан байна.\n\nЭнэхүү загвар нь эргэлт хоорондын санаа бодлыг хадгалах, функц дуудах (tool calling), бүтцэд орон зай гаргах, промпт кешлэлт, зургийн оролт зэрэг бүх үндсэн шинж чанарыг дэмжихийн зэрэгцээ 1 сая токенийн контекст цонхтой хэвээр үлджээ. Шаардлагагүй үед эргэцүүлэл (reasoning)-ийг унтрааж болох тул өндөр ачаалалтай код бичих, агент болон баримт бичиг боловсруулах ажилд маш тохиромжтой.\n\nClaude Code, Codex, Cursor зэрэг хэрэгслүүдэд ашиглахын тулд хэрэглэгчид Vercel CLI-ийн хамгийн сүүлийн хувилбарыг суулгаж, тохиргоо хийхэд хангалттай. AI Gateway нь үйлчилгээ үзүүлэгчдийн үнийг нэмэгдэлгүйгээр нэгдсэн API-аар хангаж, өгөгдөл хадгалахгүй байх (Zero Data Retention) болон зардлын хязгаарлалтын дэмжлэг үзүүлдэг.",
-   "published": "2026-11-16T17:00:00Z",
-   "added": "2026-11-18T08:45:22Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "4eca17a808cb9db0",
-   "subtopic": "design-systems",
-   "source": "Figma Blog",
-   "source_label": "Figma Blog",
-   "url": "https://www.figma.com/blog/1password-figma-make/",
-   "image": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format",
-   "title": "How 1Password uses Figma Make to design for trust and certainty",
-   "summary_en": "From autofill to AI agent approvals, every 1Password interaction counts. Here's how the design team uses Figma Make to design moments users trust.",
-   "title_mn": "1Password компани Figma Make ашиглан дизайн боловсруулж байна",
-   "summary_mn": "Аюулгүй байдлын 1Password компани Figma Make хэрэгслийг ашиглан хэрэглэгчдийн итгэлийг хүлээсэн UI дизайн гаргаж байна. Дизайн системээ AI хэрэгслүүдэд зориулан автоматжуулж байна.",
-   "body_mn": "1Password компани хэрэглэгчдэд итгэлцлийг бий болгох үүднээс Figma Make болон Figma AI бүх боломжуудыг ашиглаж эхэлжээ. Компанийн дизайны баг олон жилийн турш бий болгосон зааварчилгаа, контент дизайн, бүрэлдэхүүн хэсгүүдээ хиймэл оюун ухааны агентууд шууд ойлгож ажиллахаар баримтжуулсан байна.\n\nИнгэснээр хөгжүүлэгчид болон дизайрнерууд Figma Make ашиглан кодын бүтцийг хадгалсан байдлаар шууд прототип хийх боломжтой болжээ. Figma-ийн Code Connect технологийн тусламжтайгаар бүрэлдэхүүн хэсгүүд нь багийн хуваалцсан Figma сан болон кодын сан хоорондоо шууд уялдаж ажилладаг.\n\nЭнэхүү арга нь дизайны багт бүтээгдэхүүний өөрчлөлтийг хурдан хийх, агентуудад тодорхой хязгаарлалт, дүрэм журмын хүрээнд UI үүсгэх боломжийг олгож байна.",
-   "published": "2026-11-16T18:03:00Z",
-   "added": "2026-11-18T08:45:22Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5759ca3f46335abe",
-   "subtopic": "nestjs",
-   "source": "nestjs/nest",
-   "source_label": "nestjs/nest",
-   "url": "https://github.com/nestjs/nest/releases/tag/v12.5.1",
-   "image": "https://opengraph.githubassets.com/5e82e566226b8719eb2853ff0bf5962f823e0aac926ac699b6e6fdd53cccf782/nestjs/nest/releases/tag/v12.5.1",
-   "title": "nest v12.5.1",
-   "summary_en": "v12.5.1 (2026-11-16) Features core #18523 feat(core): accept module metadata as the root module ( @kamilmysliwiec ) Bug fixes common #18515 fix(common): reject a date past the end of its month in parse date pipe ( @jaeminbird ) microservices #18521 fix(microservices): decode each value of a repeated kafka header ( @yuvrajtiwary-bitmesraece ) #18512 fix(microservices): stop a kafka connection attempt once the client is closed ( @BillWGong ) platform-node #18509 fix(node): render nunjucks views through an Environment ( @xh123637 ) Enhancements microservices #18525 feat(microservices): graceful…",
-   "title_mn": "NestJS v12.5.1: модуль metadata-г root модуль болгож, RMQ, TCP, MQTT серверүүдэд graceful shutdown нэмэв",
-   "summary_mn": "NestJS v12.5.1 хувилбар core дээр module metadata-г root модуль болгон ашиглах боломжийг нэмсэн. Microservices талд RMQ, TCP, MQTT, Redis, NATS серверүүдэд graceful shutdown дэмжлэг нэмэгдсэн.",
-   "body_mn": "NestJS-ийн v12.5.1 хувилбар 2026 оны 11 дүгээр сарын 16-нд гарлаа. Гол шинэ боломж бол core модульд module metadata-г root модуль болгон дамжуулах чадвар юм.\n\nMicroservices хэсэгт graceful shutdown дэмжлэг хамгийн их нэмэгдсэн. RMQ, TCP, MQTT серверүүд болон Redis, NATS серверүүд хаагдахдаа зөв зохицуулалттай болсон байна.\n\nМөн алдаа засварууд орсон. Kafka холболтын оролдлого клиент хаагдсан үед зогсох, давтагдах Kafka header бүрийг зөв декодлох, parse date pipe нь сарын төгсгөлөөс хэтэрсэн огноог татгалзах, Nunjucks view-г Environment-аар рендер хийх зэрэг засварууд багтжээ.\n\nХөгжүүлэгчдэд ялангуяа микросервис ашигладаг төслүүд graceful shutdown-ийн шинэчлэлийг шалгаж, шинэчлэлт хийх нь зүйтэй. Бусад өөрчлөлтүүд ихэвчлэн засвар тул шууд нөлөөлөх магадлал бага.",
-   "published": "2026-11-16T18:57:12Z",
-   "added": "2026-11-18T08:45:22Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "96c29577c9dfa6c3",
-   "subtopic": "ai-devtools",
-   "source": "anthropics/claude-code",
-   "source_label": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
-   "image": "https://opengraph.githubassets.com/3040c3eaaedb0b2acd5bd42cdca9f7589df49c04f85cc0eeac6e357c6c6e8013/anthropics/claude-code/releases/tag/v2.1.326",
-   "title": "claude-code v2.1.326",
-   "summary_en": "What's changed Added support for turning on Code Mode while agent teams are enabled; if you already turned it on, sessions with teams on now start in Code Mode Added a startup warning when an --allowedTools , --disallowedTools or --tools value has an entry that doesn't look like a complete rule Added a message explaining why MCP servers stop loading when an administrator adds managed-mcp.json during a session Added a row to /status that says when your provider or an environment variable such as DISABLE_TELEMETRY turns features off Added a note in /plugin and claude plugin list when a…",
-   "title_mn": "Claude Code v2.1.326: Code Mode, MCP болон permission-ийн алдаа засагдлаа",
-   "summary_mn": "Anthropic-ийн Claude Code CLI v2.1.326 хувилбар гарлаа. Agent team идэвхтэй үед Code Mode дэмжих, MCP серверийн ачаалалтай холбоотой засвар, Bash болон permission-ийн олон алдааг засварласан.",
-   "body_mn": "Claude Code v2.1.326 хувилбарт agent team идэвхжсэн үед Code Mode дэмжих боломж нэмэгдэж, team-тэй session-үүд Code Mode-д шууд эхэлдэг болсон. Мөн --allowedTools, --disallowedTools, --tools утгууд бүрэн бус дүрэмтэй байвал анхааруулга гарна.\n\nMCP талд managed-mcp.json нэмэгдэх үед серверүүд яагаад ачаалагдахаа больсныг тайлбарлах мессеж орсон. Мөн MCP headersHelper ажиллахгүй үед бусад session-үүдэд серверийг алдахгүй болгосон. OpenTelemetry-д OTEL_RESOURCE_INCLUDE_HOST хувьсагч нэмэгдсэн.\n\nAbort, засварын хувьд Bash командын файл устгах, бичих үйлдлийг транскриптэд зөв ангилах, Edit deny дүрмийн асуудал, sandbox дээрх Linux symlink алдаа, settings файлын гүн утгуудыг 64 түвшнээс дээш бол унагаах зэрэг олон алдааг засжээ.",
-   "published": "2026-11-16T22:11:05Z",
-   "added": "2026-11-18T17:42:08Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "24023d9fe49b516a",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.52.0",
-   "image": "https://opengraph.githubassets.com/28ec8dd9b790b27570c4a8f5c76d2676fd2e45d7b7fa9906724eea01a3152dc8/openai/openai-python/releases/tag/v3.52.0",
-   "title": "openai-python v3.52.0",
-   "summary_en": "3.52.0 (2026-11-16) Features api: add schedule pause reasons ( #4278 ) ( a996ce2 ) api: deliver beta Agents session errors as stream events ( #4281 ) ( 690fba9 )",
-   "title_mn": "openai-python v3.52.0: schedule pause шалтгаан, Agents session алдаа stream-ээр",
-   "summary_mn": "OpenAI-ийн Python SDK v3.52.0 хувилбар гарлаа. Шинэчлэлд schedule pause шалтгаан нэмэгдэж, beta Agents session-ийн алдааг stream event-үүдээр дамжуулах боломж орсон.",
-   "body_mn": "openai-python v3.52.0 хувилбар 2026 оны 11 дүгээр сарын 16-нд гарсан. Шинэчлэлийн гол хэсэг api модулиад schedule pause reasons нэмсэн явдал юм. Энэ нь schedule-ийг түр зогсоох шалтгааныг API-аас илүү тодорхой авах боломж олгоно.\n\nМөн beta Agents session-ийн алдааг stream event хэлбэрээр хүлээн авдаг болсон. Энэ нь stream ашиглан ажилладаг агент программ хөгжүүлэгчдэд алдааг илүү шууд боловсруулах боломж олгоно.\n\nӨмнөх 3.50 болон 3.51 хувилбартай харьцуулахад энэ бол жижиг, тодорхой өөрчлөлттэй хувилбар юм. Хэрэв Agents beta ашигладаг бол кодоо шалгах хэрэгтэй.",
-   "published": "2026-11-16T22:40:22Z",
-   "added": "2026-11-18T17:42:08Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "341333f6cd123692",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/eve-is-now-generally-available",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1R5Z5o3JKUiGPhVNUYovLc/01b2bdf97e72fd4b6295c16196cdb51a/changlog-eve.png",
-   "title": "Introducing eve 1.0",
-   "summary_en": "Today we're announcing eve 1.0 , the open-source framework for building production-ready agents. Since the public preview in June , we've worked with early adopters to prepare eve for 1.0, shipping 230+ releases and merging thousands of pull requests. With this release, eve is now generally available. We've made eve faster, expanded integrations, and improved observability. Security controls let you decide which actions need approval and what data gets collected. We've also made it easier for coding agents to build with, measuring that experience with a rigorous evaluation suite. With eve…",
-   "title_mn": "Vercel eve 1.0 нээлттэй эхийн агент framework-ээ ерөнхий хэрэглээнд нээв",
-   "summary_mn": "Vercel-ийн нээлттэй эхийн eve 1.0 framework бэлэн болж, агентын harness, зөвшөөрөл, олон хэрэглэгчийн session, Slack болон бусад суваг дээрх интеграцийг дэмжинэ. Next.js, Nuxt, SvelteKit, Vite зэргийн интеграци бас нэмэгдлээ.",
-   "body_mn": "Vercel eve 1.0 нээлттэй эхийн framework-ээ ерөнхий хэрэглээнд гаргалаа. Framework нь агентын гол цикл болох модель дуудах, tool ажиллуулах, subagent-д ажил шилжүүлэх хэсгийг хариуцна. Хөгжүүлэгч загвар, tool, зааварчилгаа, зөвшөөрөл шаардах үйлдлийг өөрөө тохируулах боломжтой. Workflow SDK ажлын явцыг хадгалдаг тул агент тасарсан тохиолдолд сүүлийн дууссан алхамаас үргэлжлүүлнэ.\n\nОлон хэрэглэгч нэг session-д хамтран ажиллах, Slack-ийн thread бүрийг нэг session болгох, зөвшөөрлийн товчлуурыг зөвхөн зохих хүнд харуулах зэрэг функц нэмэгдсэн. Мөн Slack, Microsoft Teams, Discord, Telegram, GitHub, Linear зэрэг суваг, Chat SDK-аар WhatsApp, email зэрэг платформ дэмжигдэнэ. Ambient горим нь суваг дээр сонсож, шаардлагатай үед оролцдог бөгөөд жижиг загвар эхлээд мессежүүдийг шүүж загварын зардлыг бууруулна.\n\nNext.js, Nuxt, SvelteKit, TanStack Start, Vite-д зориулсан интеграци нь агентын route-ийг аппликешнтай хамт тохируулна. Vercel дээр агент болон сайтыг нэг төсөл болгон deploy хийх боломжтой. Хөгжүүлэгчдэд агент бүтээх ажлын ачааллыг бууруулах нэг шийдэл гэж харагдана.",
-   "published": "2026-11-17T00:00:00Z",
-   "added": "2026-11-18T17:42:08Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "0581208c30a28abd",
    "subtopic": "vercel-cloud",
    "source": "Vercel",
@@ -797,6 +597,146 @@
    "added": "2026-11-19T02:00:58Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cb1f592a974901d2",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/BlogHeader.2e16d0ba.fill-1200x600.png",
+   "title": "From prompt to app: Build with Google Maps in AI Studio",
+   "summary_en": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Routes—supported by daily sandbox quotas for seamless prototyping.",
+   "title_mn": "Google AI Studio дээр Google Maps платформыг ашиглан апп бүтээх боломжтой боллоо",
+   "summary_mn": "Google AI Studio нь хөгжүүлэгчдэд Google Maps-ийн боломжуудыг ашиглан апп бүтээх боломжийг олгож эхэллээ. Та санаагаа бичиж өгөөд л дэлгүүр хайгч, маршрут төлөвлөгч болон 3D аялал үүсгэх боломжтой.",
+   "body_mn": "Google компани хөгжүүлэгчдэд зориулан Google Maps платформыг Google AI Studio орчинд нэгтгэснээ зарлалаа. Ингэснээр хөгжүүлэгчид ямар нэгэн кредит карт эсвэл төлбөр шаардлагагүйгээр Google Maps-ийн орон зайн мэдээллийн хэрэгслүүдийг ашиглан төрөл бүрийн апп бүтээх боломжтой болж байна.\n\nТа өөрийн санаагаа энгийн текстаар дүрслэн бичиж өгөхөд л AI Studio нь тохиргоо болон API түлхүүрийн менежментийг автоматаар зохицуулна. Үүний тусламжтайгаар дэлгүүр олох үйлчилгээ, хүргэлтийн маршрут оновчлох, хотын 3D интерактив зураглал зэрэг олон төрлийн аппликейшнийг хэдхэн минутын дотор боловсруулах боломжтой юм.\n\nБүтээгчид галерей доторх бэлэн жишээнүүдийг шууд үзэж, өөрийн төсөлдөө ашиглан хөгжүүлэлтээ хурдасгах боломжтой. Үнэгүй эрхийн хязгаар нь өдөр бүр автоматаар шинэчлэгдэх бөгөөд бүтээгдэхүүнийг бодит хэрэглээнд гаргахын тулд Google Cloud төлбөрийн данс шаардлагатай.\n\nЭнэхүү шинэ боломж нь хөгжүүлэгчдэд бодит ертөнцийн газарзүйн контекстийг апп-даа шууд суулгах, хиймэл оюун ухааны тусламжтайгаар хөгжүүлэлтийн хугацааг эрс багасгах өргөн боломжийг олгож байна.",
+   "published": "2026-11-19T02:30:53Z",
+   "added": "2026-11-19T02:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6e46b3bf9e7903c5",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/banner-1600x900_1.2e16d0ba.fill-1200x600.png",
+   "title": "What is Pathways? Single-controller training for large models",
+   "summary_en": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous collectives, Pathways uses asynchronous dispatch and a central scheduler to maximize hardware utilization and prevent deadlocks in complex workloads. By decoupling model definition from physical hardware via virtual devices, developers can efficiently scale complex training architectures and seamlessly handle dynamic…",
+   "title_mn": "Google Cloud Pathways системийг албан ёсоор нээлээ",
+   "summary_mn": "Google Cloud нь Gemini зэрэг том хэмжээний загваруудыг сургахад ашигладаг Pathways тархсан системийг олон нийтэд нээлттэй болголоо.",
+   "body_mn": "Google компани том хэмжээний хиймэл оюун ухааны загваруудыг сургахад зориулан бүтээсэн Pathways тархсан системийг Google Cloud Platform дээр албан ёсоор ашиглалтад оруулснаа зарлалаа. Энэхүү систем нь олон тооны хурдасгууруудыг нэгдмэл байдлаар удирдах замаар сургалтын үйл явцыг илүү үр дүнтэй болгодог.\n\nУламжлалт SPMD (Single Program, Multiple Data) загварт төхөөрөмж бүр ижил програмыг зэрэг ажиллуулж, AllReduce гэх мэт үйлдэл ашиглан хоорондоо зохицдог. Гэвч энэ нь пайплайн эсвэл бэхжүүлсэн сургалтын гогцоо зэрэг нэгэн төрлийн бус ажлуудад хүндрэл учруулдаг бөгөөд техник хангамжийн саатал гарахад сургалтыг дахин эхлүүлэх шаардлагатай болдог.\n\nPathways систем нь энэхүү зохицуулалтын асуудлыг шийдвэрлэх зорилгоор бүх тооцооллыг нэг график хэлбэрээр тодорхойлох боломжийг олгодог. Тархсан ажиллах орчин нь өгөгдлийг хуваарилах, тенсоруудыг зөөвөрлөх болон хурдасгууруудыг тасралтгүй ажиллахад анхаардаг.\n\nЭнэ нь хөгжүүлэгчид болон инженерүүдэд олон төхөөрөмж дамнан ажиллах том хэмжээний сургалтын ажлыг илүү тогтвортой, өндөр бүтээмжтэйгээр удирдах боломжийг олгож байгаагаараа чухал ач холбогдолтой юм.",
+   "published": "2026-11-19T02:30:53Z",
+   "added": "2026-11-19T02:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dc3e712546312c98",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/agent-distraction/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Agent_Distraction_Cover_1600x900_.2e16d0ba.fill-1200x600.png",
+   "title": "Agent Distraction",
+   "summary_en": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These detours result in significant overhead—adding 70% more steps, 77% more tokens, and 105% more wait time per session—split between chasing closed tickets (41%) and unauthorized scope creep on open bugs (57%). Higher-capability models show higher distraction rates, highlighting the need for automated cleanup and linters to maintain agent-friendly codebases",
+   "title_mn": "Кодын сан дахь хуучирсан TODO тайлбарууд AI агентуудыг хэрхэн төөрөлдүүлдэг вэ?",
+   "summary_mn": "Кодын санд үлдсэн хуучирсан TODO тайлбарууд нь AI кодинг агентуудад буруу ойлголт төрүүлж, цаг болон токен үрэхэд хүргэдэг болохыг Google судлаачид тогтоожээ.",
+   "body_mn": "Кодын санг судлах явцад хүмүүсийн амархан анзаараад өнгөрдөг TODO тайлбарууд нь хиймэл оюун ухааны агентуудын хувьд хийх ёстой ажлын даалгавар мэт харагддаг байна. Энэ нь агентуудыг хуучирсан алдаа эсвэл шаардлагагүй ажилд төвлөрүүлж, улмаар логик алдаа гаргахад хүргэдэг аж.\n\nСудалгаагаар урьдчилан анхааруулаагүй алдааны мөрөөр хөөцөлдөх нь сесс бүрт нэмэлт зардал үүсгэж, агентын гүйцэтгэлийг бууруулдаг болохыг олон сая сессийн өгөгдөлд дүн шинжилгээ хийсэн олон талт регрессийн шинжилгээгээр баталжээ. Жишээлбэл, 2023 онд засагдсан алдааны тайлбар кодын санд үлрсэн байх нь агентыг буруу тийш нь хөтөлж байна.\n\nЭнэ асуудлыг шийдвэрлэхийн тулд Google-ийн инженерүүд кодын санг бүхэлд нь шүүж, аль хэдийн засагдсан эсвэл хуучирсан алдааны холбоосуудыг цэвэрлэх тусгай агентуудыг ашигласан байна. Агентууд кодын түүх болон өөрчлөлтүүдийг нарийвчлан шалгаж байж л уг тайлбар шаардлагатай эсэхийг тодорхойлдог.\n\nЭнэхүү судалгаа нь хөгжүүлэгчид AI агентуудтай хамтран ажиллах явцдаа кодын сангаа цэвэр байлгах, хуучирсан коммент болон TODO-уудыг тогтмол устгаж байх нь агентын үр ашгийг дээшлүүлэхэд ямар чухал болохыг харуулж байна.",
+   "published": "2026-11-19T02:30:53Z",
+   "added": "2026-11-19T02:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7fac7e57ac7ceb19",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/image3_1.2e16d0ba.fill-1200x600.jpg",
+   "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
+   "summary_en": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
+   "title_mn": "Хямд ангилагч ашиглан AI агентын зардлыг бууруулах нь",
+   "summary_mn": "Кодинг агентуудын зардлыг бууруулахын тулд нарийн төвөгтэй хүсэлтийг явуулахаас өмнө хөнгөн жинтэй ангилагч ашиглан тохирох загварт чиглүүлэх аргачлалыг туршиж үзжээ.",
+   "body_mn": "Токенуудын үнэ буурч байгаа хэдий ч бие даасан кодинг агентуудыг ажиллуулах инженерчлэлийн зардал өссөөр байна. Орчин үеийн үйлдвэрлэлийн эдийн засагт сая токенуудын үнэ бус, харин амжилттай гүйцэтгэсэн нэг даалгаврт ногдох өртөг гол хэмжүүр болж байна.\n\nХэрэв агент бүх жижиг шийдвэрт өндөр түвшний үндэслэл шаарддаг загварыг дуудвал шаардлагагүй өндөр зардал гарна. Үүнээс урьдчилан сэргийлэхийн тулд энгийн шийдвэрүүдийг үнэтэй загварт хүргэхээс өмнө таслан зогсоох хөнгөн жинтэй чиглүүлүүлэгч давхаргыг нэмэх нь чухал юм. Туршилтаар TypeSafe-ийн Jev бүтцийн гаралттай ангилагчийг ашиглан Gemini загваруудын хооронд үр дүнтэй чиглүүлэлт хийх боломжтойг харуулжээ.\n\nТуршилтаар өргөн хүрээтэй ерөнхий асуулт тавихаас илүүтэйгээр атомын түвшний буюу нарийвчилсан шалгуур тавих нь илүү оновчтой үр дүн өгдөг болохыг тогтоожээ. Энгийн regex болон хэлбэрийн урт шалгах аргуудтай харьцуулахад энэхүү бүтцийн ангилагч нь кодинг агентын ажлыг оновчтой хуваарилахад өндөр үр дүнтэй байна.\n\nЭнэхүү хандлага нь хөгжүүлэгчдэд AI агентуудынхаа архитектурыг оновчлох, хэрэггүй тооцооллын зардал гаргахгүй байх боломжийг олгож, бүтээмжийг нэмэгдүүлэхэд тусална.",
+   "published": "2026-11-19T02:30:53Z",
+   "added": "2026-11-19T02:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e83973e1f6320f1f",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/cover-without-title.2e16d0ba.fill-1200x600.png",
+   "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
+   "summary_en": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
+   "title_mn": "A2UI болон CopilotKit ашиглан Генератив UI апп хөгжүүлэх нь",
+   "summary_mn": "Хиймэл оюун ухааны агентууд зөвхөн текст биш, харин хэрэглэгчийн хүсэлтэд тохируулан динамикаар UI бүрдүүлэх Генератив UI технологи хөгжиж байна.",
+   "body_mn": "Хиймэл оюун ухааны агентууд болон хэрэглэгчдийн харилцан үйлчлэл нь урт текстэн хариу өгөхөөс илүү баялаг интерфейс рүү шилжиж байна. Өмнө нь агентууд аялал төлөвлөхдөө бүх мэдээллийг энгийн текстаар буцаадаг байсан бол одоо сонгох боломжтой жагсаалт, газрын зураг эсвэл календарийн хэлбэрээр харуулах боломжтой болжээ.\n\nГенератив UI нь агентуудад ажиллах явцдаа хэрэглэгчийн хүсэлтэд нийцүүлэн интерфейс бүтээх боломжийг олгодог. Үүнийг хэрэгжүүлэхийн тулд UI-г тодорхойлох стандарт болон агентын системийг хооронд нь холбох шаардлагатай байдаг. Удирдлагатай горим болон нээлттэй код үүсгэх горимуудыг хоёуланг нь дэмждэг.\n\nA2UI нь рамворк хамаарахгүйгээр UI үүсгэх зорилгоор бүтээгдсэн стандарт бөгөөд хөгжүүлэгчид үндсэн компонент бүтээцээ нэг удаа бэлтгээд өгөхөд агент хүсэлт бүрт тохируулан тэдгээрийг угсарч харуулдаг. CopilotKit болон AG-UI (Agent-User Interaction Protocol) протоколын тусламжтайгаар эдгээр үйлдлийг клиент тал руу шууд дамжуулах боломжтой юм.\n\nЭнэхүү шийдэл нь хөгжүүлэгчдэд илүү интерактив, хэрэглэгчдэд ээлтэй хиймэл оюун ухааны аппликейшн бүтээхэд өргөн боломж нээж өгч байна.",
+   "published": "2026-11-19T02:30:53Z",
+   "added": "2026-11-19T02:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "892e84ca9d3fb42a",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/1_3.2e16d0ba.fill-1200x600.png",
+   "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
+   "summary_en": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side-by-side trace comparisons, and automate evaluation passes. Developers will also learn how to integrate nightly scheduled runs with threshold-based alerting to track quality over time.",
+   "title_mn": "Agents CLI үнэлгээний гогцоо ашиглан агентын чанарыг сайжруулах нь",
+   "summary_mn": "AI агентын чанарыг загварын шинэчлэлт болон хэрэгслийн өөрчлөлтийн үед тогтвортой байлгахад зориулсан Agents CLI үнэлгээний гогцооны талаар танилцууллаа.",
+   "body_mn": "Демо дээр амжилттай ажилладаг агент бүтээх болон загварын шинэчлэлт, хэрэгслийн өөрчлөлтүүдийн үед тогтвортой ажиллах агентыг бүтээх хоёр нь хоорондоо тэс өөр асуудлууд юм. Эхнийх нь амралтын өдрүүдийг шаарддаг бол хоёрдох нь тасралтгүй үргэлжлэх үнэлгээний гогцоог шаарддаг.\n\nAgents CLI eval сан нь тест үүсгэх, үр дүнг үнэлэх, алдааг бүлэглэх болон систем prompt-ийг автоматаар сайжруулах команд өгөх зэрэг хүрээгүй байдлаар ажиллах боломжийг олгодог. Жишээлбэл, LLM-as-judge метрик ашиглан хариултын нарийвчлал, хамаарал болон тодорхой байдлыг 1-5 хүртэлх шкалаар үнэлэх боломжтой.\n\nTуршилтаар хөгжүүлэгч санамсаргүй байдлаар буруу систем prompt оруулж өгөхөд үнэлгээний оноо буурч байгааг илрүүлсэн бөгөөд энэ нь код хяналтын явцад анзаарагдахгүй өнгөрч болох алдааг илрүүлэхэд ямар чухал болохыг харуулж байна.\n\nЭнэхүү хэрэгсэл нь инженерүүдэд AI агентуудынхаа чанарыг системтэйгээр хянах, чанар буурахаас урьдчилан сэргийлэхэд туслах практик аргачлалыг санал болгож байна.",
+   "published": "2026-11-19T02:30:53Z",
+   "added": "2026-11-19T02:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "91e8fcd66207b655",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "NeoTeo",
+   "url": "https://www.neoteo.com/en/kimi-k31-pro-coder-what-its-figures-show",
+   "image": "https://www.nitroindex.com/opengraph/www.neoteo.com/og.png?url=https%3A%2F%2Fwww.neoteo.com%2Fen%2Fkimi-k31-pro-coder-what-its-figures-show",
+   "title": "Kimi K3.1 Pro Coder quantization: size and test claims",
+   "summary_en": "Grawnch’s Kimi K3.1 Pro Coder is a 774.97 GB community quantization. See how its memory tiers, benchmark samples and…",
+   "title_mn": "Kimi K3.1 Pro Coder: 774 GB-ийн олон түвшний квантчлалын тойм",
+   "summary_mn": "Grawnch нэртэй хэрэглэгч Moonshot AI-ийн Kimi K3.1 Pro загварыг 96 хэсэгт хувааж, 774.97 GB хэмжээтэйгээр квантчлан гаргажээ. Энэхүү загвар нь GPU VRAM, систем RAM болон NVMe санах ойд ачааллыг хуваарилж ажилладаг.",
+   "body_mn": "Moonshot AI компаниас гаргасан Kimi K3.1 Pro загварын олон нийтийн боловсруулсан шинэ квантчлал болох Kimi K3.1 Pro Coder нь нийт 774.97 GB хэмжээтэй бөгөөд 96 ширхэг хэсгээс бүрдэж байна. Энэхүү загвар нь MoE буюу холимог шинжээчдийн архитектурыг ашигладаг ба шинжээчдийн жинг санах ойн гурван өөр түвшинд хувааж байршуулдаг байна.\n\nЗагварын картын мэдээлснээр GPU, систем RAM болон NVMe санах ойн хоорондох ачааллыг кодлох болон математикийн бодолтын чиглэлээр оновчилсон байна. Туршилтын явцад AIME 2025 болон LiveCodeBench сорилтуудыг ашигласан бөгөөд үндсэн загвар болон квантчилсан хувилбар нь ижил үр дүн үзүүлжээ. Тухайлбал, дараагийн токений таамаглалын нийццэл өндөр гарсан байна.\n\nЛицензийн нөхцөлийн хувьд Moonshot AI-ийн зохиогчийн эрх үйлчлэх бөгөөд жилийн 20 сая ам.доллароос дээш орлоготой Model-as-a-Service операторууд арилжааны зорилгоор ашиглахын тулд тусгай гэрээ байгуулах шаардлагатай ажээ. Энэхүү том хэмжээний квантчлал нь хөгжүүлэгчдэд өндөр хүчин чадалтай санах ойн дэд бүтцийг ашиглан локал байдлаар туршилт хийх боломжийг олгож байна.",
+   "published": "2026-11-17T11:21:38Z",
+   "added": "2026-11-19T02:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
   }
  }
 ]

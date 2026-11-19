@@ -1,0 +1,17 @@
+{
+ "id": "dc3e712546312c98",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/agent-distraction/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Agent_Distraction_Cover_1600x900_.2e16d0ba.fill-1200x600.png",
+ "title": "Agent Distraction",
+ "summary_en": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These detours result in significant overhead—adding 70% more steps, 77% more tokens, and 105% more wait time per session—split between chasing closed tickets (41%) and unauthorized scope creep on open bugs (57%). Higher-capability models show higher distraction rates, highlighting the need for automated cleanup and linters to maintain agent-friendly codebases",
+ "title_mn": "Кодын сан дахь хуучирсан TODO тайлбарууд AI агентуудыг хэрхэн төөрөлдүүлдэг вэ?",
+ "summary_mn": "Кодын санд үлдсэн хуучирсан TODO тайлбарууд нь AI кодинг агентуудад буруу ойлголт төрүүлж, цаг болон токен үрэхэд хүргэдэг болохыг Google судлаачид тогтоожээ.",
+ "body_mn": "Кодын санг судлах явцад хүмүүсийн амархан анзаараад өнгөрдөг TODO тайлбарууд нь хиймэл оюун ухааны агентуудын хувьд хийх ёстой ажлын даалгавар мэт харагддаг байна. Энэ нь агентуудыг хуучирсан алдаа эсвэл шаардлагагүй ажилд төвлөрүүлж, улмаар логик алдаа гаргахад хүргэдэг аж.\n\nСудалгаагаар урьдчилан анхааруулаагүй алдааны мөрөөр хөөцөлдөх нь сесс бүрт нэмэлт зардал үүсгэж, агентын гүйцэтгэлийг бууруулдаг болохыг олон сая сессийн өгөгдөлд дүн шинжилгээ хийсэн олон талт регрессийн шинжилгээгээр баталжээ. Жишээлбэл, 2023 онд засагдсан алдааны тайлбар кодын санд үлрсэн байх нь агентыг буруу тийш нь хөтөлж байна.\n\nЭнэ асуудлыг шийдвэрлэхийн тулд Google-ийн инженерүүд кодын санг бүхэлд нь шүүж, аль хэдийн засагдсан эсвэл хуучирсан алдааны холбоосуудыг цэвэрлэх тусгай агентуудыг ашигласан байна. Агентууд кодын түүх болон өөрчлөлтүүдийг нарийвчлан шалгаж байж л уг тайлбар шаардлагатай эсэхийг тодорхойлдог.\n\nЭнэхүү судалгаа нь хөгжүүлэгчид AI агентуудтай хамтран ажиллах явцдаа кодын сангаа цэвэр байлгах, хуучирсан коммент болон TODO-уудыг тогтмол устгаж байх нь агентын үр ашгийг дээшлүүлэхэд ямар чухал болохыг харуулж байна.",
+ "published": "2026-11-19T02:30:53Z",
+ "added": "2026-11-19T02:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

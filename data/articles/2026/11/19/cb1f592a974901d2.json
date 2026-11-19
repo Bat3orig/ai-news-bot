@@ -1,0 +1,17 @@
+{
+ "id": "cb1f592a974901d2",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/BlogHeader.2e16d0ba.fill-1200x600.png",
+ "title": "From prompt to app: Build with Google Maps in AI Studio",
+ "summary_en": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Routes—supported by daily sandbox quotas for seamless prototyping.",
+ "title_mn": "Google AI Studio дээр Google Maps платформыг ашиглан апп бүтээх боломжтой боллоо",
+ "summary_mn": "Google AI Studio нь хөгжүүлэгчдэд Google Maps-ийн боломжуудыг ашиглан апп бүтээх боломжийг олгож эхэллээ. Та санаагаа бичиж өгөөд л дэлгүүр хайгч, маршрут төлөвлөгч болон 3D аялал үүсгэх боломжтой.",
+ "body_mn": "Google компани хөгжүүлэгчдэд зориулан Google Maps платформыг Google AI Studio орчинд нэгтгэснээ зарлалаа. Ингэснээр хөгжүүлэгчид ямар нэгэн кредит карт эсвэл төлбөр шаардлагагүйгээр Google Maps-ийн орон зайн мэдээллийн хэрэгслүүдийг ашиглан төрөл бүрийн апп бүтээх боломжтой болж байна.\n\nТа өөрийн санаагаа энгийн текстаар дүрслэн бичиж өгөхөд л AI Studio нь тохиргоо болон API түлхүүрийн менежментийг автоматаар зохицуулна. Үүний тусламжтайгаар дэлгүүр олох үйлчилгээ, хүргэлтийн маршрут оновчлох, хотын 3D интерактив зураглал зэрэг олон төрлийн аппликейшнийг хэдхэн минутын дотор боловсруулах боломжтой юм.\n\nБүтээгчид галерей доторх бэлэн жишээнүүдийг шууд үзэж, өөрийн төсөлдөө ашиглан хөгжүүлэлтээ хурдасгах боломжтой. Үнэгүй эрхийн хязгаар нь өдөр бүр автоматаар шинэчлэгдэх бөгөөд бүтээгдэхүүнийг бодит хэрэглээнд гаргахын тулд Google Cloud төлбөрийн данс шаардлагатай.\n\nЭнэхүү шинэ боломж нь хөгжүүлэгчдэд бодит ертөнцийн газарзүйн контекстийг апп-даа шууд суулгах, хиймэл оюун ухааны тусламжтайгаар хөгжүүлэлтийн хугацааг эрс багасгах өргөн боломжийг олгож байна.",
+ "published": "2026-11-19T02:30:53Z",
+ "added": "2026-11-19T02:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
