@@ -121,6 +121,13 @@ python -m http.server -d public
 - 2026-11-19: a provider that times out or returns 5xx is skipped for the rest of the run, like 429
   (gemini-3.8-flash timed out twice per run = 6 min lost).
 
+- **Check next session** (changes of 2026-11-19 are tested only with dry-runs/mocks, not the real AI):
+  "AI: low value" lines for releases (routine patches should score 2) and for the Google News sources
+  (min_score 4); that GitHub Trending / Google Developers Blog / Open source / Flavio Copes articles
+  arrive; that the outbox drains (40 → ~0) with the 30-min external cron. If too few items pass,
+  lower `min_score` 4 → 3 in `sources.yaml`.
+- Addy Osmani (Substack) returns 403 from Actions on every run; CSS-Tricks 415 was a one-off.
+
 ## Status (2026-10-14)
 - Deployed and running. gemini-3.8-flash works part of the time (45 articles 10/09–10/14), so the
   model id is right; the fallbacks are its free-quota 429s. No action needed.
