@@ -1,0 +1,17 @@
+{
+ "id": "43d3ef9bd32addf2",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/sveltejs/svelte",
+ "image": "https://repository-images.githubusercontent.com/74293321/6cef4300-6605-11e9-92a3-9171a14b1e2d",
+ "title": "sveltejs/svelte",
+ "summary_en": "web development for the rest of us https://svelte.dev What is Svelte? Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM. Learn more at the Svelte website , or stop by the Discord chatroom . Supporting Svelte Svelte is an MIT-licensed open source project with its ongoing development made possible entirely by fantastic volunteers. If you'd like to support their efforts, please consider: Becoming a backer on Open Collective . Funds donated via Open Collective will be…",
+ "title_mn": "sveltejs/svelte: Вэб апп бүтээх шинэ арга барил бүхий компилятор фреймворк",
+ "summary_mn": "Svelte бол декларатив компонентүүдийг үр ашигтай JavaScript код болгон хөрвүүлж, DOM-ийг шууд шинэчилдэг орчин үеийн вэб хөгжүүлэлтийн хэрэгсэл юм. Энэхүү MIT лицензтэй нээлттэй эхийн төсөл нь хөгжүүлэгчдэд илүү хурдан бөгөөд хөнгөн вэб апп бүтээх боломжийг олгодог.",
+ "body_mn": "Svelte нь уламжлалт фреймворк шиг хэрэглэгчийн төхөөрөмж дээр ажиллахдаа хүндхэн виртуал DOM ашиглахын оронд компиляторын түвшинд ажилладаг. Энэ нь бичигдсэн кодыг маш оновчтой JavaScript болгон хувиргаж, вэб хуудасны ачааллыг эрс багасгадаг.\n\nTөслийн хөгжүүлэлт нь сайн дурын хөгжүүлэгчдийн оролцоотойгоор хийгдэж байгаа бөгөөд Open Collective платформоор дамжуулан санхүүгийн дэмжлэг авдаг. Хөгжүүлэгчид албан ёсны вэбсайт болон Discord чат өрөөнөөр дамжуулан мэдээлэл солилцож, хувь нэмрээ оруулах боломжтой.\n\nMIT лицензтэй энэхүү төсөл нь вэб хөгжүүлэлтийг илүү хялбар бөгөөд өндөр бүтээмжтэй болгох зорилготойгоор тасралтгүй хөгжиж байна. Шинэчлэгдсэн замнал болон хувь нэмэр оруулах зааврыг GitHub хуудаснаас нь харж болно.",
+ "published": "2026-11-19T01:24:39Z",
+ "added": "2026-11-19T01:24:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

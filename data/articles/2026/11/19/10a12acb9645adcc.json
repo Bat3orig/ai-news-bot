@@ -1,0 +1,17 @@
+{
+ "id": "10a12acb9645adcc",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/ag-ui-protocol/ag-ui",
+ "image": "https://opengraph.githubassets.com/d06f11562798a77feafbfda818cdd9208adf5dd6bde50ffe94d1a1e83d073144/ag-ui-protocol/ag-ui",
+ "title": "ag-ui-protocol/ag-ui",
+ "summary_en": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com The open protocol that connects any agent to any app. Docs · Examples · Spec · Discord AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Agents don't fit the request/response model. They stream tokens, call tools mid-response, update shared state, pause for a human, and spawn subagents, and every framework does it differently. AG-UI replaces that custom wiring with one bi-directional event stream: the agent emits typed…",
+ "title_mn": "ag-ui-protocol/ag-ui: AI агентуудыг хэрэглэгчийн интерфейстэй холбох нээлттэй протокол",
+ "summary_mn": "AG-UI бол AI агентуудыг вэб, мобайл болон бусад хэрэглэгчийн интерфейстэй холбохыг стандартчилсан нээлттэй, хөнгөн жинтэй протокол юм. Энэхүү 1.0 хувилбар нь JSON Schema-д суурилсан тогтвортой спецификаци болон TypeScript, Python, .NET SDK-уудыг санал болгож байна.",
+ "body_mn": "AI агентууд энгийн хүсэлт/хариултын загварт захирагдалгүйгээр токеныг шууд дамжуулах, дундуур нь хэрэгсэл дуудах, төлөв шинэчлэх зэрэг үйлдлийг хийдэг ч хөгжүүлэгчид үүнийг янз бүрээр өөрөөр угсарч ирсэн. AG-UI энэ асуудлыг шийдэж, хоёр талын урсгал бүхий нэгдсэн эвент стримийг санал болгосноор ямар ч агент ямар ч платформ дээр ажиллах боломжийг бүрдүүлдэг.\n\nAG-UI 1.0 хувилбар нь албан ёсоор бэлэн болж, бүрэн тогтворжсон спецификаци болон TypeScript, Python, .NET хэлний SDK-уудтайгаар гарлаа. Энэхүү протокол нь өмнөх 0.x хувилбаруудтай бүрэн зохицох чадвартай бөгөөд хөгжүүлэгчид CLI ашиглан вэб болон терминал клиентүүдийг хялбархан угсрах боломжтой.\n\nЭнэхүү хэрэгсэл нь A2A болон MCP протоколуудтай төгс хослон ажиллаж, агентуудыг хэрэглэгчдэд хүргэх гүүр болдог. Google, Microsoft, Amazon зэрэг томоохон компаниудын дэмжлэгийг хүлээсэн бөгөөд олон төрлийн клиент, фреймворкуудтай шууд холбогдох боломжтой юм.",
+ "published": "2026-11-19T01:24:39Z",
+ "added": "2026-11-19T01:24:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

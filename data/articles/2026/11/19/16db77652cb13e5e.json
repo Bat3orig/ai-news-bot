@@ -1,0 +1,17 @@
+{
+ "id": "16db77652cb13e5e",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/google-research/paper-orchestra",
+ "image": "https://opengraph.githubassets.com/ebcc1f9e1e3d9436e62f229b4896a860ddab8b0f926b1000e7744567ca578d73/google-research/paper-orchestra",
+ "title": "google-research/paper-orchestra",
+ "summary_en": "PaperOrchestra is a multi-agent framework for automated AI research paper writing. https://yiwen-song.github.io/paper_orchestra/ 🎻 PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing Yiwen Song 1 , Yale Song 1 , Tomas Pfister 1 , and Jinsung Yoon 1 1 Google Cloud AI Research PaperOrchestra is a multi-agent framework for automated AI research paper writing. It flexibly transforms unconstrained pre-writing materials (ideas and experimental logs) into submission-ready LaTeX manuscripts, including comprehensive literature synthesis and generated visuals, such as plots…",
+ "title_mn": "google-research/paper-orchestra: AI судалгааны өгүүлэл автоматаар бичих олон агентын систем",
+ "summary_mn": "PaperOrchestra бол судалгааны түүхий материал болон туршилтын логуудыг боловсруулж, хэвлэлд бэлэн LaTeX өгүүлэл болгон хувиргадаг олон агентын фреймворк юм. Энэхүү төсөл нь уран зостлогын судалгаа, графика зураглал болон хэсгүүдийн бичвэрийг автоматаар гүйцэтгэдэг.",
+ "body_mn": "Шинжлэх ухааны судалгаа хийх болон үр дүнгээ өгүүлэл болгон бичих үйл явц нь маш их цаг хугацаа шаарддаг. PaperOrchestra нь энэ үйл явцыг автоматжуулж, судалгааны санаа болон туршилтын үр дүнгээс шууд хэвлэлд бэлэн LaTeX форматтай өгүүлэл гаргаж өгдөг.\n\nСистем нь тусгай үүрэг бүхий олон агентуудын баг хэлбэрээр ажиллаж, тойм судалгаа хийх, бүтэц гаргах, агуулгыг сайжруулах, графика зураг зохиох зэрэг ажлуудыг хооронд нь уялдаатайгаар гүйцэтгэдэг. Python 3.11 болон Conda орчинд суурилсан бөгөөд хөгжүүлэгчид Streamlit дээр суурилсан интерактив демог ашиглаж үзэх боломжтой.\n\nЭнэхүү төсөл нь Google-ийн албан ёсны бүтээгдэхүүн биш боловч судлаачид болон хөгжүүлэгчдэд эрдэм шинжилгээний өгүүлэл бичих ажлыг хөнгөвчлөхөд үнэтэй хувь нэмэр оруулах юм.",
+ "published": "2026-11-19T01:24:39Z",
+ "added": "2026-11-19T01:24:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

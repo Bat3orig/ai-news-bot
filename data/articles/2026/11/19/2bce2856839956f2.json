@@ -1,0 +1,17 @@
+{
+ "id": "2bce2856839956f2",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/BurntSushi/jiff",
+ "image": "https://opengraph.githubassets.com/ab7ae25d607161f214b9abd8d8514eccc3c630221bca911d0661c4457f300413/BurntSushi/jiff",
+ "title": "BurntSushi/jiff",
+ "summary_en": "A datetime library for Rust that encourages you to jump into the pit of success. Jiff Jiff is a datetime library for Rust that encourages you to jump into the pit of success. The focus of this library is providing high level datetime primitives that are difficult to misuse and have reasonable performance. Jiff supports automatic and seamless integration with the Time Zone Database, DST aware arithmetic and rounding, formatting and parsing zone aware datetimes losslessly, opt-in Serde support and a whole lot more. Jiff takes enormous inspiration from Temporal , which is a TC39 proposal to…",
+ "title_mn": "BurntSushi/jiff: Rust хэлэнд зориулсан өндөр түвшний огноо, цагийн сан",
+ "summary_mn": "Jiff бол Rust хэлэнд зориулсан, буруу ашиглахад хэцүү, өндөр гүйцэтгэлтэй огноо, цагийн сан юм. Энэхүү сан нь цагийн бүсийн өгөгдлийн сангийн дэмжлэг, зуны цагийн тооцоолол болон JavaScript Temporal сангаас санаа авсан хялбар API-уудыг санал болгодог.",
+ "body_mn": "Rust хэлний стандарт сан болон бусад сангуудад огноо, цагтай ажиллах нь заримдаа төвөгтэй бөгөөд алдаа гаргах магадлал өндөр байдаг. Jiff сан нь хөгжүүлэгчдэд хамгийн зөв аргаар огноо, цагтай ажиллах боломжийг олгох зорилготойгоор бүтээгдсэн өндөр түвшний шийдэл юм.\n\nЭнэхүү сан нь IANA цагийн бүсийн өгөгдлийн сантай автоматаар холбогдож, Unix болон Windows системүүд дээр найдвартай ажилладаг. Мөн Serde дэмжлэгтэй бөгөөд хөгжүүлэгчид Cargo ашиглан төсөлдөө хялбархан нэмж ашиглах боломжтой.\n\nГүйцэтгэл болон API-ийн зөв байдлыг хослуулсан энэхүү сан нь Rust хэл дээр цаг хугацаатай холбоотой төслүүд хөгжүүлж буй инженерүүдэд зайлшгүй шаардлагатай хэрэгсэл юм.",
+ "published": "2026-11-19T01:24:39Z",
+ "added": "2026-11-19T01:24:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

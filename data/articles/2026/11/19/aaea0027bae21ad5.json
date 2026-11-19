@@ -1,0 +1,17 @@
+{
+ "id": "aaea0027bae21ad5",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/karakeep-app/karakeep",
+ "image": "https://opengraph.githubassets.com/b3408c13a6fd68a49e5bd3e18ed00766579c723487feb54b7694fb799a81843f/karakeep-app/karakeep",
+ "title": "karakeep-app/karakeep",
+ "summary_en": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search https://karakeep.com Karakeep (previously Hoarder) is a self-hostable bookmark-everything app with a touch of AI for the data hoarders out there. Features Bookmark links, take simple notes and store images and pdfs. Automatic fetching for link titles, descriptions and images. Sort your bookmarks into lists. Collaborate with others on the same list. Full text & semantic search of all the content stored. LLM-based automatic tagging and summarization. With supports for local…",
+ "title_mn": "karakeep-app/karakeep: Өөрийн сервер дээр байршуулах боломжтой AI-тай хавчуургын апп",
+ "summary_mn": "Karakeep (хуучнаар Hoarder) нь вэб хуудас, тэмдэглэл, зураг зэргийг хадгалж, AI ашиглан автоматаар шошголох боломжтой, өөрийн сервер дээр байршуулдаг хавчуургын менежер юм. Системийн инженерүүд болон дата цуглуулагчдад зориулсан энэхүү төсөл нь бүрэн текст хайлт болон бусад хэрэгцээт боломжуудыг агуулжээ.",
+ "body_mn": "Интернэтээс сонирхолтой нийтлэл, хэрэгсэл олж хадгалаад дараа нь үзэхэд зориулагдсан уламжлалт Read-it-later аппликейшнүүдийн өөрийн сервер дээр байршуулж болох хувилбар юм. Энэхүү төсөл нь линкний урьдчилсан харагдац, AI тусламжтай автоматаар шошголох зэрэг функцүүдээрээ бусдаас ялгардаг.\n\nЭнэхүү апп нь систем хөгжүүлэгчдийн өдөр тутмын хэрэгцээнд зориулагдан бүтээгдсэн бөгөөд вэб хөгжүүлэлтийн ур чадвараа хадгалахын зэрэгцээ өөрт хэрэгтэй зүйлийг бодит болгох зорилготойгоор хөгжиж байна. Хөгжүүлэгчид өөрсдийн сервер дээр гар аргаар болон нэг товчлуурын суулгац ашиглан хялбархан байршуулах боломжтой.\n\nTөсөл нь AGPL-3.0 нээлттэй эх сурвалжийн лицензтэй бөгөөд Localhost Labs Ltd компани эзэмшдэг. Хэрэглэгчид өөрсдийн сервер дээр асаахаас гадна албан ёсны үүлэн үйлчилгээг ашиглах эсвэл Hostinger дээр нэг дарж байрлуулах боломжтой.",
+ "published": "2026-11-19T01:24:39Z",
+ "added": "2026-11-19T01:24:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

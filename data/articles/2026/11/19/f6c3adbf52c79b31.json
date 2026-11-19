@@ -1,0 +1,17 @@
+{
+ "id": "f6c3adbf52c79b31",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/elementalsouls/Claude-BugHunter",
+ "image": "https://repository-images.githubusercontent.com/1229774092/93703d75-077c-4a14-b580-e2374741fe3d",
+ "title": "elementalsouls/Claude-BugHunter",
+ "summary_en": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. https://elementalsouls.github.io/Claude-BugHunter claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability classes · enterprise identity + infrastructure attack matrices ·…",
+ "title_mn": "elementalsouls/Claude-BugHunter: Claude Code-д зориулсан алдаа хайх болон пентест хэрэгсэл",
+ "summary_mn": "Claude-BugHunter бол Claude Code системд зориулсан алдаа шалгах, кибер аюулгүй байдлын аудит хийх 83 төрлийн ур чадвар болон тушаалуудыг багтаасан багц юм. Энэхүү хэрэгсэл нь туршлагатай аюулгүй байдлын судлаачийн түвшинд ажиллаж, вэб болон дэд бүтцийн сул талуудыг илрүүлэхэд тусалдаг.",
+ "body_mn": "Энэхүү төсөл нь Claude Code хөгжүүлэлтын орчныг энгийн чатбот байхаа больж, туршлагатай пентест болон алдаа хайгч судлаач шиг ажиллах боломжийг олгодог. Систем нь янз бүрийн эмзэг байдлын ангиллууд болон нийтлэг тайлангийн загваруудыг өөртөө шингээсэн байдаг.\n\nХөгжүүлэгчид үүнийг Claude Code залгаас хэлбэрээр эсвэл терминал дээр суурилсан cbh runner хэлбэрээр хялбархан суулгах боломжтой. HackerOne API дэмжлэгтэйгээр хувийн хөтөлбөрүүд болон тайлангуудтай холбогдох боломжтой боловч ямар нэгэн API түлхүүргүйгээр ч үндсэн ур чадварууд бүрэн ажиллана.\n\nЭнэхүү хэрэгсэл нь интернэтэд нээлттэй гадаад халдлагын гадаргууг шалгахад голлон чиглэгддэг. AI агентуудын тусламжтайгаар код болон системийн аюулгүй байдлыг сайжруулахад чухал үүрэг гүйцэтгэх юм.",
+ "published": "2026-11-19T01:24:39Z",
+ "added": "2026-11-19T01:24:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "06b6387dd3484f1c",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+ "image": "https://opengraph.githubassets.com/9d551b276ad47ddd4e9a0f21c06e86d9d82e53d82d71544aba56a100feb52f55/PrimeIntellect-ai/prime-agent",
+ "title": "PrimeIntellect-ai/prime-agent",
+ "summary_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks. Prime Agent: A Self-Improving RLM Harness Documentation • Verifiers • PRIME-RL Prime Agent is an open-source coding and research agent for general and long-running work. It is designed around two core abstractions: The Recursive Language Model (RLM) treats context as variables ( prompt-as-a-variable ) and tools like recursive subagents as function calls ( programmatic tool /sub-agent calling ) inside a persistent REPL. The Continual Harness stores supplemental prompts, memories, skill descriptions, and…",
+ "title_mn": "PrimeIntellect-ai/prime-agent: Урт хугацааны даалгаварт зориулсан код бичих болон судалгааны агент",
+ "summary_mn": "Prime Agent нь код бичих болон судалгааны ажлыг урт хугацаанд бие даан гүйцэтгэхэд зориулагдсан нээлттэй эх сурвалжтай агент юм. Энэ нь Python хяналтын орчин болон дахин ашиглах боломжтой төлөвийг хослуулсан.",
+ "body_mn": "PrimeIntellect-ai/prime-agent нь ерөнхий болон урт хугацааны ажлуудад зориулагдсан код бичих болон судалгааны нээлттэй эх сурвалжтай агент юм. Энэхүү хэрэгсэл нь үндсэн хоёр абстракцид суурилсан бөгөөд ажиллах орчны нөхцөл болон дахин ашиглах боломжтой үйлдлийн хэв маягийг нэг чат цонхны хязгаараас давж хадгалах боломжийг олгодог.\n\nУг агентыг нэг командын суулгагчаар хялбархан суулгах боломжтой бөгөөд хөгжүүлэгчийн ажиллаж буй лавлах дотор тушаалуудыг гүйцэтгэж, файлуудыг өөрчлөх чадвартай. Аюулгүй байдлын үүднээс хөгжүүлэгчид өөрчлөлтийг сайтар хянаж, найдвартай репозитори дээр ашиглах шаардлагатайг анхааруулсан байна. Мөн worker болон kernel процессууд нь амьдралын мөчлөгийн тусгаарлалт, сэргээлтийг сайжруулдаг.\n\nMIT лицензээр нээлттэй гарсан энэхүү төсөл нь судалгааны ажил болон автоматжуулсан хөгжүүлэлтийн урсгалд маш тохиромжтой. Хөгжүүлэгчид төслийн GitHub хуудас руу орж суулгах заавар болон бусад дэлгэрэнгүй мэдээллүүдийг авах боломжтой.",
+ "published": "2026-11-19T01:24:39Z",
+ "added": "2026-11-19T01:24:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

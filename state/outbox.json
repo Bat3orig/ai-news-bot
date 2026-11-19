@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "f36760f448903c88",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Anthropic",
-   "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
-   "image": "https://assets.claude.com/04a298be2efa241bd5a4a810b97c62bb8ef257dc.jpg",
-   "title": "Building strong safety evaluations",
-   "summary_en": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
-   "title_mn": "Anthropic: Аюулгүй байдлын үнэлгээг хэрхэн зөв бүтээх вэ",
-   "summary_mn": "Anthropic AI загваруудын аюулгүй байдлын үнэлгээ (safety eval) бүтээх зөвлөмжүүдийг нийтэлжээ. Үнэлгээ нь ямар эрсдэлийг хэмжиж байгаа, хэн оролцох ёстой, сандбокс орчинд ажиллуулах шаардлагатай тухай тайлбарлана.",
-   "body_mn": "Anthropic компани AI загваруудын аюулгүй байдлын үнэлгээ (safety eval) хэрхэн бүтээх талаар дэлгэрэнгүй зөвлөмж нийтэллээ. Аюулгүй байдлын үнэлгээ нь загварын гаргах шийдвэр, нэмэлт хамгаалалт болон дараагийн сургалтын чиглэлд нөлөөлдөг тул найдвартай байх нь чухал гэж тэд онцолжээ.\n\nБичлэгт safety eval нь загварын харьцангуй чадвар биш, харин хор хөнөөл үүсгэх магадлал, хариултын эрсдэлийг хэмждэг гэж тайлбарласан байна. Жишээлбэл, хэрэглэгч шууд хортой зөвлөгөө хүсэх, эсвэл эмийн тунг асуух зэрэг тохиолдлууд орно. Мөн AI үнэлгээ нь амархан гажуудах, хэмжих зүйлээ зөв хэмждэггүй, давтан шалгахад хүндрэлтэй байдаг талаар анхаарууллаа.\n\nТүүнчлэн сэтгэл судлалын салбарын replication асуудлаас суралцахыг санал болгож, preregistration, илүү сайн хэмжилт, найдвартай статистик зэргийг чухалчилжээ. Үнэлгээнд домэйн мэргэжилтэн, арга зүйн мэргэжилтнүүдийг эхнээс нь оролцуулах шаардлагатай гэжээ.\n\nМөн cyber үнэлгээг интернетгүй sandbox орчинд, бодит цагт хянаж ажиллуулах хэрэгтэйг анхааруулсан байна. Хөгжүүлэгчдэд энэ нь AI загваруудын аюулгүй байдлын тайлан, системийн картыг илүү шүүмжлэлтэйгээр уншихад тусална.",
-   "published": "2026-11-14T01:40:13Z",
-   "added": "2026-11-16T16:47:09Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "04bc288951abfbc1",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Decoder",
-   "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
-   "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
-   "summary_en": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort.",
-   "title_mn": "Anthropic: Claude Opus 5.5-тэй ажиллахад хуучин prompt-ийн арга зам саатуулж байна",
-   "summary_mn": "Anthropic хэрэглэгчдэд Claude Opus 5.5-ийн хувьд \"think hard\" зэрэг хуучин prompt-ийн зуршлыг хасахыг зөвлөжээ. Medium effort түвшин нь Opus 5-ийн High түвшинтэй адил гүйцэтгэлтэй гэж мэдээлжээ.",
-   "body_mn": "Anthropic хэрэглэгчдээ Claude Opus 5.5-тэй ажиллахдаа өмнөх үеийн загваруудад зориулсан prompt-ийн зуршлуудыг хасах хэрэгтэйг зөвлөжээ. Opus 5.5 нь Pro, Max, Ultra болон Team төлөвлөгөөний анхдагч загвар болсон бөгөөд өмнөхөөсөө өөрөөр ажилладаг гэж компани тайлбарлав.\n\nЗөвлөмжийн нэг нь \"think hard\" эсвэл \"think carefully\" гэх мэт үгсийг prompt-оос хасах явдал юм. Компанийн хэлснээр загвар өөрөө дотооддоо сэтгэдэг бөгөөд даалгаварт тохируулан reasoning гүнийг сонгодог. Тэдний туршилтаар эдгээр үггүйгээр хариулт хурдан эхэлж, чанар мэдэгдэхүйц буураагүй байна.\n\nМөн Anthropic анхдагч effort түвшинг Medium-аар эхлүүлэхийг санал болгож байна. Тэдний дотоод туршилтаар Opus 5.5 Medium дээр өмнөх Opus 5-ийн High түвшний гүйцэтгэлтэй тэнцсэн гэжээ. Хэрэв Medium хангалтгүй бол зөвхөн High руу шилжих хэрэгтэй. Мөн Sonnet-ийг Extra High эсвэл Max дээр ажиллуулбал Opus 5.5-тай ойролцоо өртөг гарна гэж дурдсан байна.\n\nБусад зөвлөмжүүд нь даалгавраа нэг мессежээр бүрэн тайлбарлах, диаграм болон хүснэгтийг текст биш зураг эсвэл файлаар хавсаргах, эцсийн баримт бичгийг шууд хүсэх, дизайны хувьд тодорхой хэв маягийг нэрлэх зэрэг байна. Connector-оор файл болон системээ холбосон хэрэглэгчид илүү тохируулсан үр дүн авдаг гэжээ.\n\nХөгжүүлэгчдэд энэ нь Claude API болон Claude Code-д effort түвшин, prompt бүтцийг шинэчлэх практик зөвлөгөө юм. Гэхдээ мэдээнд API-ийн үнийн өөрчлөлтийн дэлгэрэнгүй тоо байхгүй тул шууд мэдээлэл биш зөвлөмж гэж ойлгох нь зөв.",
-   "published": "2026-11-14T16:50:52Z",
-   "added": "2026-11-16T16:47:09Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "61dbb72450eb9fba",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "BleepingComputer",
-   "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-   "image": "https://www.bleepstatic.com/content/hl-images/2025/07/13/cursor-header.jpg",
-   "title": "Cursor confirms security breach led to malicious Claude Code extension",
-   "summary_en": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.",
-   "title_mn": "Cursor-ийн дотоод нэвтрэлтээс болж хор хөнөөлтэй Claude Code өргөтгөл тараагдсан",
-   "summary_mn": "Cursor компани Fireworks AI-аас хулгайлагдсан түлхүүрээр халдлага болсныг баталжээ. Халдагчид Cursor-ийн extension marketplace-т Claude Code-ийн хортой хуулбар оруулж, ойролцоогоор 11 цагийн турш байршуулсан байна.",
-   "body_mn": "Cursor компани өөрийн AI код editor-т нэвтэрсэн халдлагын тухай шинэ тайланд мэдээлэв. Халдлага Fireworks AI-аас олж авсан хандалтын түлхүүрээс эхэлсэн бөгөөд халдагчид Cursor-тай хуваалцсан хадгалах сангаас өгөгдөл хуулжээ.\n\nХалдагчид 2025 оны AI кодын агентын trace-ууд болон зарим нийтлэгдсэн API credential-уудыг ашиглан Cursor-ийн SaaS үйлчилгээнүүдэд нэвтэрчээ. Cursor хэрэглэгчдийн 0.05-аас бага хувь нь trace-ууд ил болсон, 0.01-ээс бага хувь нь credential-уудаа алдсан гэж мэдэгджээ.\n\nХамгийн ноцтой нь 10-р сарын 29-нд халдагчид Anthropic-ийн Claude Code өргөтгөлийн хортой хувилбаруудыг (2.1.312, 2.1.313) Cursor-ийн VS Code marketplace-т байршуулсан явдал юм. Өргөтгөл 11 орчим цагийн турш боломжтой байсан бөгөөд SSH backdoor суулгах оролдлого хийдэг байжээ. Судлаачид кодын алдаанаас болж ихэнх Windows болон macOS системд backdoor ажиллаагүй гэж тэмдэглэсэн.\n\nХөгжүүлэгчдэд энэ нь extension татаж авсан эсэхээ шалгах, credential-уудаа эргүүлэн сольж, AI агентын trace-д нууц мэдээлэл үлдэхгүй байлгах шаардлагатайг сануулж байна.",
-   "published": "2026-11-14T17:27:25Z",
-   "added": "2026-11-17T00:35:50Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "a99ce1620d0ecaf4",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v45.3.3",
-   "image": "https://opengraph.githubassets.com/91809cd3763c700cb49331c854fb677d642fd3560a3024a1018a31ed197327fd/electron/electron/releases/tag/v45.3.3",
-   "title": "electron v45.3.3",
-   "summary_en": "Release Notes for v45.3.3 Fixes Fixed a race where a DevTools extension's devtools_page could run before chrome.devtools was available. #55794 (Also in 44 , 46 ) Other Changes Updated Node.js to v24.22.3. #55753",
-   "title_mn": "Electron v45.3.3 гарлаа: DevTools extension-ий race алдаа засагдлаа",
-   "summary_mn": "Electron v45.3.3 хувилбарт DevTools extension-ий devtools_page chrome.devtools-ийн бэлэн болохоосоо өмнө ажилладаг race алдааг засжээ. Node.js-ийг v24.22.3 хувилбар руу шинэчилсэн.",
-   "body_mn": "Electron-ийн шинэ v45.3.3 хувилбар гарлаа. Гол засвар нь DevTools extension-ий devtools_page нь chrome.devtools бэлэн болохоосоо өмнө ажилладаг race нөхцлийг засах явдал юм. Энэ засвар 44 болон 46 хувилбарт мөн орсон гэж тэмдэглэгджээ.\n\nМөн Node.js-ийг v24.22.3 хувилбар руу шинэчилсэн байна.\n\nDevTools extension ашигладаг Electron хөгжүүлэгчдэд энэ засвар чухал бөгөөд хувилбараа шинэчлэх нь зүйтэй.",
-   "published": "2026-11-14T20:52:24Z",
-   "added": "2026-11-17T00:35:50Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "18ebda86deb62ac1",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Wccftech",
-   "url": "https://wccftech.com/claude-fable-5-2-creates-stunning-underwater-world-in-just-97-kb-runs-at-180-fps-without-a-game-engine/",
-   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-41.jpg",
-   "title": "Claude Fable 5.2 Creates Stunning Underwater World In Just 97 KB, Runs At 180 FPS On An RTX 5070 Ti Without A Game Engine",
-   "summary_en": "Claude Fable 5.2 generates Abyssal Garden, a stunning 97 KB underwater world running in a browser at a reported 180 FPS without a game engine.",
-   "title_mn": "Claude Fable 5.2 ямар ч хөдөлгүүргүй 97 KB хэмжээтэй интерактив 3D орчин үүсгэжээ",
-   "summary_mn": "Claude Code ашиглан WebGPU дээр ажилладаг 97 KB хэмжээтэй 'Abyssal Garden' төслийг процедурал кодоор бүрэн бүтээжээ. Энэ нь RTX 5070 Ti дээр 180 FPS хүрдэг.",
-   "body_mn": "Anthropic-ийн Claude Fable 5.2 загварын тусламжтайгаар ямар нэгэн бэлэн тоглоомын хөдөлгүүр (Three.js, Babylon.js зэрэг), гаднын бүтэц (textures), 3D загвар ашиглалгүйгээр дан 97 KB бүхий HTML файлд багтсан далайн гүний интерактив орчныг амжилттай бүтээжээ. Noniv хэмээх хөгжүүлэгч Claude Code ашиглан 'Abyssal Garden' нэртэй уг төслийг хийсэн байна.\n\nЭнэхүү орчин нь вэб хөтөч дээр WebGPU ашиглан ажилладаг бөгөөд бүх зүйлсийг ачаалах үед кодоор процедурал байдлаар үүсгэдэг. Claude загвар нь WGSL шэйдерүүд, GPU-ээр сийлсэн далайн ёроол, ойролцоогоор 2 сая замаг, ургамал, хэдэн арван мянган чулуу, далайн амьтдыг бүрэн кодоор тооцоолон гаргажээ. Дуу авиаг ч мөн Web Audio API-аар бодит цагт синтез хийж байна.\n\nХөгжүүлэгчийн мэдээлснээр уг төсөл RTX 5070 Ti график карт дээр 1440p нягтралтайгаар 180 FPS хүрч ажиллаж байгаа бөгөөд гар утас зэрэг сул төхөөрөмжүүдэд зориулсан график тохиргоог ч агуулжээ. Эх код нь MIT лицензээр нээлттэй гарсан бөгөөд Chrome болон Edge дээр шууд туршиж үзэх боломжтой юм.",
-   "published": "2026-11-15T15:11:03Z",
-   "added": "2026-11-17T08:42:50Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b2af3a7815dcafce",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Decoder",
-   "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-   "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
-   "summary_en": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton.",
-   "title_mn": "Claude Fable 5.2 зургийг диффуз ашиглалгүй виртуал бийрээр зурж сурчээ",
-   "summary_mn": "Fable 5.2 нь бэлэн диффуз загварын оронд Python кодоор бийрийн хөдөлгөөн, будгийн физикийг дуурайн алдаагаа засах замаар бодит мэт уран зураг бүтээж байна.",
-   "body_mn": "Anthropic-ийн Claude Fable 5.2 загвар нь Midjourney зэрэг ердийн диффуз загваруудаас ялгаатай шинэ арга барилаар бодит мэт уран зургуудыг зурж эхэлжээ. Загвар нь зургийг шууд үүсгэхийн оронд виртуал зотон дээр бийрийн ширхэг, будгийн урсац, физик бүтцийг тооцоолсон кодоор мянга мянган бийрийн таталт хийж зурдаг байна.\n\nAnthropic-ийн судлаач Jake Eaton-ий үзүүлснээр тус загвар ойролцоогоор 700,000 бийрийн даралт хийсэн Python скрипт (1,000-аас 2,000 мөр код) ажиллуулж, авто зогсоолын дэлгүүрийн тэргэнцрийн бодит мэт зургийг гаргаж авчээ. Загвар нь зурж байх явцдаа алдаа гарвал бодит зураач шиг буцаах товч ашиглалгүйгээр дээрээс нь өөр өнгөөр давхарлан засвар хийдэг нь онцлог юм.\n\nИнженер Michael Graczyk-ийн хуваалцсан туршилтаар шувуу зурж байхдаа загвар нь хүний гарын бага зэргийн салганалтыг дуурайлган муруй таталт хийж, алдаагаа өд шиг болгон хувиргасан байна. Энэхүү дараалсан төлөвлөлт болон физик хязгаарлалтад дасан зохицох чадвар нь Fable 5.2 загварын урт хугацааны нарийн төвөгтэй агент даалгавруудыг гүйцэтгэх суурь чадварыг харуулж байна.",
-   "published": "2026-11-15T15:47:13Z",
-   "added": "2026-11-17T08:42:50Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dc1ef78483e2e42f",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2aBIEKewKIpdYSPv9E76Wn/5a0957249bafced81d33df0534df0187/Vercel_x_Qwen.png",
-   "title": "Qwen4-Max now available on AI Gateway",
-   "summary_en": "Alibaba’s Qwen4-Max is now available on AI Gateway . It’s a reasoning model for coding and long-running agent tasks, with image input, a 1M-token context window, tool calling, and structured outputs. With access to the appropriate tools, agents using Qwen4-Max can: Build 3D scenes and games: Work with Blender, Unity, Unreal Engine, and Godot, running what the agent builds and using visual feedback to fix issues. Analyze documents and create reports: Work across documents and images to produce spreadsheets, presentations, and reports with source citations. Alibaba reports 35% fewer tokens…",
-   "title_mn": "Qwen4-Max загвар Vercel AI Gateway дээр нэмэгдлээ",
-   "summary_mn": "Vercel AI Gateway 1 сая токен контексттэй Qwen4-Max загварыг дэмжиж эхэллээ. Үүнийг Claude Code, Cursor зэрэг агент хэрэгслүүдэд шууд ашиглах боломжтой.",
-   "body_mn": "Alibaba-ийн шинэ сэтгэн бодох чадвартай Qwen4-Max загвар Vercel AI Gateway дээр албан ёсоор гарлаа. Энэхүү загвар нь кодчилол болон урт хугацаанд ажиллах агентуудад зориулагдсан бөгөөд зураг хүлээн авах чадвар, 1 сая токены контекст цонх, tool calling болон бүтэцлэгдсэн өгөгдөл (structured outputs) гаргах боломжуудтай.\n\nQwen4-Max нь зохих хэрэгслүүдийн тусламжтайгаар Blender, Unity, Unreal Engine, Godot зэрэг дээр 3D орчин бүтээж, визуал үр дүнгээ шинжлэн алдаагаа засах чадвартай. Мөн Alibaba-ийн тайлбарласнаар уг загвар Work360 бенчмарк дээр өмнөх Qwen3.8-Max загвартай харьцуулахад 35% цөөн токен зарцуулдаг болсон байна.\n\nХөгжүүлэгчид Vercel CLI-ийн хамгийн сүүлийн хувилбарыг суулгаад Claude Code, Codex, Cursor зэрэг код бичих агентууддаа `alibaba/qwen4-max` загварыг шууд сонгон тохируулж ашиглах боломжтой боллоо.",
-   "published": "2026-11-15T20:00:00Z",
-   "added": "2026-11-17T08:42:50Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2e8f421d2ee2a3df",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "image": "",
-   "title": "A step toward defining the Standard Model on a lattice",
-   "summary_en": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-   "title_mn": "GPT-6 Astra физикийн Стандарт загварын баталгаанд тусалжээ",
-   "summary_mn": "OpenAI-ийн GPT-6 Astra загвар онолын физикийн салбарт Стандарт загварыг тороор тодорхойлох нарийн математик баталгаа гаргахад дэмжлэг үзүүлсэн байна.",
-   "body_mn": "OpenAI компани онолын физикийн салбарт гаргасан судалгааны ажлаасаа хуваалцаж, Стандарт загварыг (Standard Model) тор дээр тодорхойлох чиглэлээр GPT-6 Astra загварыг ашигласан туршлагаа нийтэллээ.\n\nСудалгааны хүрээнд тус хиймэл оюуны загвар нь физикийн нарийн төвөгтэй санааг математикийн бүрэн хэмжээний дэлгэрэнгүй баталгаа болгон боловсруулахад голлох тусламжийг үзүүлсэн байна.",
-   "published": "2026-11-15T22:00:01Z",
-   "added": "2026-11-17T08:42:50Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ee464def624c91a0",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/seedance-2-5-flash-now-available-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3PVusyg4GJTngxeJbW91dE/670e505710206670276c64b772a40692/image__21_.png",
-   "title": "Seedance 2.5 Flash now available on AI Gateway",
-   "summary_en": "ByteDance’s Seedance 2.5 Flash is now available on AI Gateway . Seedance 2.5 Flash is a faster, lower-cost version of Seedance 2.5 . The output is close to the standard model in human realism, reference-based editing, and prompt adherence. Generate videos with synchronized audio from text prompts or image, video, and audio references. Clips can be 4 to 30 seconds long at up to 720p and 24 frames per second, in landscape, square, or portrait formats. You can also edit or extend existing videos, or provide images to set the first and last frames. Use bytedance/seedance-2.5-flash with AI SDK 7…",
-   "title_mn": "ByteDance-ийн Seedance 2.5 Flash видео загвар Vercel AI Gateway-д нэмэгдлээ",
-   "summary_mn": "Vercel AI Gateway-д аудио бүхий видео үүсгэх Seedance 2.5 Flash загвар орлоо. AI SDK 7-оор дамжуулан 720p нягтралтай, 4-30 секундын видео боловсруулах боломжтой.",
-   "body_mn": "Vercel компани AI Gateway платформдоо ByteDance-ийн Seedance 2.5 Flash загварыг нэмж байгааг зарлалаа. Энэхүү хувилбар нь Seedance 2.5 загвартай дүйцэхүйц бодит дүрслэл болон зааварчилгааг чанд мөрдөх чадварыг хадгалсан бөгөөд илүү хурдан, өртөг багатайгаараа онцлог юм.\n\nSeedance 2.5 Flash нь текст болон зураг, видео, аудио жишигт үндэслэн аудиотой синхрончлогдсон видео үүсгэдэг. Хөгжүүлэгчид 720p нягтралтай, секундэд 24 кадрын давтамжтай, 4-өөс 30 секундын урттай хэвтээ, босоо эсвэл дөрвөлжин видеонуудыг боловсруулах боломжтой. Мөн бэлэн видеог засах, эхлэл төгсгөлийн кадруудыг зургаар тодорхойлох боломжийг дэмждэг.\n\nУг загварыг AI SDK 7 сан дээр bytedance/seedance-2.5-flash тодорхойлогчоор дуудан ашиглах бөгөөд жишиг зураг, видеоны холбоосыг inputReferences параметрээр дамжуулж болно. Мөн Vercel-ийн загварын туршилтын талбарт турших боломжтой.",
-   "published": "2026-11-16T00:00:00Z",
-   "added": "2026-11-17T08:42:50Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8dbc1c69e8740970",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/set-budgets-for-projects-and-products-in-spend-management",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/70OQRkf2udoqKajYXkpRsa/623d391faec14896f98a32cf4b52060e/budgets_og_final.png",
-   "title": "Set budgets for projects and products in Spend Management",
-   "summary_en": "Spend Management now supports budgets for individual projects and products, alongside existing team budgets. Project budgets: Track spend for one project and optionally pause its production deployments when the budget is reached, without pausing other projects. Product budgets: Track spend on one product, such as Fast Data Transfer, across your team. Only team and project budgets support automatic pausing of production deployments. Open the new Spend Management page to manage budgets, view spend for the current billing cycle, and see which thresholds have been reached. Vercel sends…",
-   "title_mn": "Vercel Spend Management: Төсөл болон бүтээгдэхүүн тус бүрд төсөв тогтоох боломжтой боллоо",
-   "summary_mn": "Vercel-ийн Spend Management хэрэгсэлд нэг бүрчлэн төсөл болон бүтээгдэхүүнд төсөв тогтоох боломж нэмэгдлээ. Төсөв хэтэрсэн үед тухайн төслийн деплойг автоматаар зогсоох боломжтой.",
-   "body_mn": "Vercel платформ зардлын хяналтын Spend Management системээ өргөтгөж, багийн нийт төсвөөс гадна тодорхой төсөл болон бүтээгдэхүүн тус бүрд төсөв тогтоох боломжийг нэвтрүүллээ.\n\nШинэ боломжийн хүрээнд төслийн төсөв хэтэрсэн үед бусад төслүүдэд нөлөөлөхгүйгээр зөвхөн тухайн төслийн продакшн деплойг автоматаар түр зогсоох тохиргоо хийж болно. Мөн Fast Data Transfer зэрэг тусдаа бүтээгдэхүүнд багийн хэмжээнд зарцуулах дээд лимитийг зааж өгөх боломжтой. Төсөв 50%, 75% болон 100%-д хүрэх үед Vercel автоматаар мэдэгдэл илгээнэ.\n\nЭдгээр тохиргоог вэб удирдлагын хуудаснаас гадна Vercel CLI ашиглан хийх боломжтой. Шинэ боломж нь Pro болон Enterprise багуудад ямар нэгэн нэмэлт төлбөргүйгээр нээгдэж байна.",
-   "published": "2026-11-16T00:00:00Z",
-   "added": "2026-11-17T08:42:50Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "55301efca077ecf8",
    "subtopic": "qwen",
    "source": "Qwen (Google News)",
@@ -797,6 +597,206 @@
    "added": "2026-11-18T23:44:40Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "10a12acb9645adcc",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/ag-ui-protocol/ag-ui",
+   "image": "https://opengraph.githubassets.com/d06f11562798a77feafbfda818cdd9208adf5dd6bde50ffe94d1a1e83d073144/ag-ui-protocol/ag-ui",
+   "title": "ag-ui-protocol/ag-ui",
+   "summary_en": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com The open protocol that connects any agent to any app. Docs · Examples · Spec · Discord AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Agents don't fit the request/response model. They stream tokens, call tools mid-response, update shared state, pause for a human, and spawn subagents, and every framework does it differently. AG-UI replaces that custom wiring with one bi-directional event stream: the agent emits typed…",
+   "title_mn": "ag-ui-protocol/ag-ui: AI агентуудыг хэрэглэгчийн интерфейстэй холбох нээлттэй протокол",
+   "summary_mn": "AG-UI бол AI агентуудыг вэб, мобайл болон бусад хэрэглэгчийн интерфейстэй холбохыг стандартчилсан нээлттэй, хөнгөн жинтэй протокол юм. Энэхүү 1.0 хувилбар нь JSON Schema-д суурилсан тогтвортой спецификаци болон TypeScript, Python, .NET SDK-уудыг санал болгож байна.",
+   "body_mn": "AI агентууд энгийн хүсэлт/хариултын загварт захирагдалгүйгээр токеныг шууд дамжуулах, дундуур нь хэрэгсэл дуудах, төлөв шинэчлэх зэрэг үйлдлийг хийдэг ч хөгжүүлэгчид үүнийг янз бүрээр өөрөөр угсарч ирсэн. AG-UI энэ асуудлыг шийдэж, хоёр талын урсгал бүхий нэгдсэн эвент стримийг санал болгосноор ямар ч агент ямар ч платформ дээр ажиллах боломжийг бүрдүүлдэг.\n\nAG-UI 1.0 хувилбар нь албан ёсоор бэлэн болж, бүрэн тогтворжсон спецификаци болон TypeScript, Python, .NET хэлний SDK-уудтайгаар гарлаа. Энэхүү протокол нь өмнөх 0.x хувилбаруудтай бүрэн зохицох чадвартай бөгөөд хөгжүүлэгчид CLI ашиглан вэб болон терминал клиентүүдийг хялбархан угсрах боломжтой.\n\nЭнэхүү хэрэгсэл нь A2A болон MCP протоколуудтай төгс хослон ажиллаж, агентуудыг хэрэглэгчдэд хүргэх гүүр болдог. Google, Microsoft, Amazon зэрэг томоохон компаниудын дэмжлэгийг хүлээсэн бөгөөд олон төрлийн клиент, фреймворкуудтай шууд холбогдох боломжтой юм.",
+   "published": "2026-11-19T01:24:39Z",
+   "added": "2026-11-19T01:24:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "aaea0027bae21ad5",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending TypeScript",
+   "source_label": "GitHub Trending TypeScript",
+   "url": "https://github.com/karakeep-app/karakeep",
+   "image": "https://opengraph.githubassets.com/b3408c13a6fd68a49e5bd3e18ed00766579c723487feb54b7694fb799a81843f/karakeep-app/karakeep",
+   "title": "karakeep-app/karakeep",
+   "summary_en": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search https://karakeep.com Karakeep (previously Hoarder) is a self-hostable bookmark-everything app with a touch of AI for the data hoarders out there. Features Bookmark links, take simple notes and store images and pdfs. Automatic fetching for link titles, descriptions and images. Sort your bookmarks into lists. Collaborate with others on the same list. Full text & semantic search of all the content stored. LLM-based automatic tagging and summarization. With supports for local…",
+   "title_mn": "karakeep-app/karakeep: Өөрийн сервер дээр байршуулах боломжтой AI-тай хавчуургын апп",
+   "summary_mn": "Karakeep (хуучнаар Hoarder) нь вэб хуудас, тэмдэглэл, зураг зэргийг хадгалж, AI ашиглан автоматаар шошголох боломжтой, өөрийн сервер дээр байршуулдаг хавчуургын менежер юм. Системийн инженерүүд болон дата цуглуулагчдад зориулсан энэхүү төсөл нь бүрэн текст хайлт болон бусад хэрэгцээт боломжуудыг агуулжээ.",
+   "body_mn": "Интернэтээс сонирхолтой нийтлэл, хэрэгсэл олж хадгалаад дараа нь үзэхэд зориулагдсан уламжлалт Read-it-later аппликейшнүүдийн өөрийн сервер дээр байршуулж болох хувилбар юм. Энэхүү төсөл нь линкний урьдчилсан харагдац, AI тусламжтай автоматаар шошголох зэрэг функцүүдээрээ бусдаас ялгардаг.\n\nЭнэхүү апп нь систем хөгжүүлэгчдийн өдөр тутмын хэрэгцээнд зориулагдан бүтээгдсэн бөгөөд вэб хөгжүүлэлтийн ур чадвараа хадгалахын зэрэгцээ өөрт хэрэгтэй зүйлийг бодит болгох зорилготойгоор хөгжиж байна. Хөгжүүлэгчид өөрсдийн сервер дээр гар аргаар болон нэг товчлуурын суулгац ашиглан хялбархан байршуулах боломжтой.\n\nTөсөл нь AGPL-3.0 нээлттэй эх сурвалжийн лицензтэй бөгөөд Localhost Labs Ltd компани эзэмшдэг. Хэрэглэгчид өөрсдийн сервер дээр асаахаас гадна албан ёсны үүлэн үйлчилгээг ашиглах эсвэл Hostinger дээр нэг дарж байрлуулах боломжтой.",
+   "published": "2026-11-19T01:24:39Z",
+   "added": "2026-11-19T01:24:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "43d3ef9bd32addf2",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/sveltejs/svelte",
+   "image": "https://repository-images.githubusercontent.com/74293321/6cef4300-6605-11e9-92a3-9171a14b1e2d",
+   "title": "sveltejs/svelte",
+   "summary_en": "web development for the rest of us https://svelte.dev What is Svelte? Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM. Learn more at the Svelte website , or stop by the Discord chatroom . Supporting Svelte Svelte is an MIT-licensed open source project with its ongoing development made possible entirely by fantastic volunteers. If you'd like to support their efforts, please consider: Becoming a backer on Open Collective . Funds donated via Open Collective will be…",
+   "title_mn": "sveltejs/svelte: Вэб апп бүтээх шинэ арга барил бүхий компилятор фреймворк",
+   "summary_mn": "Svelte бол декларатив компонентүүдийг үр ашигтай JavaScript код болгон хөрвүүлж, DOM-ийг шууд шинэчилдэг орчин үеийн вэб хөгжүүлэлтийн хэрэгсэл юм. Энэхүү MIT лицензтэй нээлттэй эхийн төсөл нь хөгжүүлэгчдэд илүү хурдан бөгөөд хөнгөн вэб апп бүтээх боломжийг олгодог.",
+   "body_mn": "Svelte нь уламжлалт фреймворк шиг хэрэглэгчийн төхөөрөмж дээр ажиллахдаа хүндхэн виртуал DOM ашиглахын оронд компиляторын түвшинд ажилладаг. Энэ нь бичигдсэн кодыг маш оновчтой JavaScript болгон хувиргаж, вэб хуудасны ачааллыг эрс багасгадаг.\n\nTөслийн хөгжүүлэлт нь сайн дурын хөгжүүлэгчдийн оролцоотойгоор хийгдэж байгаа бөгөөд Open Collective платформоор дамжуулан санхүүгийн дэмжлэг авдаг. Хөгжүүлэгчид албан ёсны вэбсайт болон Discord чат өрөөнөөр дамжуулан мэдээлэл солилцож, хувь нэмрээ оруулах боломжтой.\n\nMIT лицензтэй энэхүү төсөл нь вэб хөгжүүлэлтийг илүү хялбар бөгөөд өндөр бүтээмжтэй болгох зорилготойгоор тасралтгүй хөгжиж байна. Шинэчлэгдсэн замнал болон хувь нэмэр оруулах зааврыг GitHub хуудаснаас нь харж болно.",
+   "published": "2026-11-19T01:24:39Z",
+   "added": "2026-11-19T01:24:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f213677bccaa4f8f",
+   "subtopic": "gh-js",
+   "source": "GitHub Trending JavaScript",
+   "source_label": "GitHub Trending JavaScript",
+   "url": "https://github.com/DeanChensj/jiangshan-map",
+   "image": "https://opengraph.githubassets.com/66f0cd4580dc9aac5e6aff854ec012deeeb7aa6968e912a4da77642f48d5c8d7/DeanChensj/jiangshan-map",
+   "title": "DeanChensj/jiangshan-map",
+   "summary_en": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes https://deanchen.me/jiangshan-map/ Chronicles of the Realm · 江山时序 English · 简体中文 (Chinese) · 繁體中文 (Traditional Chinese) · 日本語 (Japanese) An Interactive Historical Atlas of China from the Warring States (403 BCE) to the Present — Scrub Through Time, Trace Ancient Cities, and Walk in the Footsteps of History Play Live Demo (English UI) → https://deanchen.me/jiangshan-map/?lang=en The story behind it (in…",
+   "title_mn": "DeanChensj/jiangshan-map: Хятадын түүхийг харуулах интерактив газрын зураг",
+   "summary_mn": "Jiangshan-map бол МЭӨ 403 оноос өнөөг хүртэлх Хятадын түүхийг цаг хугацааны дагуу харуулдаг интерактив түүхэн атлас юм. Хөгжүүлэгчид энэхүү хэрэгслийг ашиглан түүхэн газрууд, эзэнт гүрний хил хязгаар болон алдартай хүмүүсийн амьдралын замналыг газрын зураг дээрээс судлах боломжтой.",
+   "body_mn": "Энэхүү төсөл нь сурах бичгийн зургаас эхлээд олон улсын хөгжүүлэгчдийн анхаарлыг татсан интерактив түүхэн газарзүйн визуализацийн хөдөлгүүр юм. Хэрэглэгчид цаг хугацааны шкафыг урагш хойшлуулж, ямар ч хот эсвэл даваан дээр дарж тухайн үеийн түүхэн мэдээллийг үзэх боломжтой.\n\nМөн уг систем нь хэрэглэгчдэд түүхэн газруудын талаарх асуулт хариулт тоглох, алдартай яруу найрагч, жанжидын амьдралын замналыг мөрөөр нь хөөх боломжийг олгодог. Вэб хөгжүүлэгчид болон блогчид уг газрын зургийг өөрийн сайт эсвэл Notion хуудсанд хялбархан суулгах боломжтой.\n\nҮүнээс гадна энэхүү атлас нь AI агент болон LLM системүүдэд зориулсан түүхэн газарзүйн мэдээллийн сан болж чаддаг. AI загварууд ямар нэгэн координатын тооцоолол хийхгүйгээр шууд түүхэн болон орчин үеийн газар нэрсийг холбох боломжтой юм.",
+   "published": "2026-11-19T01:24:39Z",
+   "added": "2026-11-19T01:24:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f6c3adbf52c79b31",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/elementalsouls/Claude-BugHunter",
+   "image": "https://repository-images.githubusercontent.com/1229774092/93703d75-077c-4a14-b580-e2374741fe3d",
+   "title": "elementalsouls/Claude-BugHunter",
+   "summary_en": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. https://elementalsouls.github.io/Claude-BugHunter claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability classes · enterprise identity + infrastructure attack matrices ·…",
+   "title_mn": "elementalsouls/Claude-BugHunter: Claude Code-д зориулсан алдаа хайх болон пентест хэрэгсэл",
+   "summary_mn": "Claude-BugHunter бол Claude Code системд зориулсан алдаа шалгах, кибер аюулгүй байдлын аудит хийх 83 төрлийн ур чадвар болон тушаалуудыг багтаасан багц юм. Энэхүү хэрэгсэл нь туршлагатай аюулгүй байдлын судлаачийн түвшинд ажиллаж, вэб болон дэд бүтцийн сул талуудыг илрүүлэхэд тусалдаг.",
+   "body_mn": "Энэхүү төсөл нь Claude Code хөгжүүлэлтын орчныг энгийн чатбот байхаа больж, туршлагатай пентест болон алдаа хайгч судлаач шиг ажиллах боломжийг олгодог. Систем нь янз бүрийн эмзэг байдлын ангиллууд болон нийтлэг тайлангийн загваруудыг өөртөө шингээсэн байдаг.\n\nХөгжүүлэгчид үүнийг Claude Code залгаас хэлбэрээр эсвэл терминал дээр суурилсан cbh runner хэлбэрээр хялбархан суулгах боломжтой. HackerOne API дэмжлэгтэйгээр хувийн хөтөлбөрүүд болон тайлангуудтай холбогдох боломжтой боловч ямар нэгэн API түлхүүргүйгээр ч үндсэн ур чадварууд бүрэн ажиллана.\n\nЭнэхүү хэрэгсэл нь интернэтэд нээлттэй гадаад халдлагын гадаргууг шалгахад голлон чиглэгддэг. AI агентуудын тусламжтайгаар код болон системийн аюулгүй байдлыг сайжруулахад чухал үүрэг гүйцэтгэх юм.",
+   "published": "2026-11-19T01:24:39Z",
+   "added": "2026-11-19T01:24:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b03e856411c0697d",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/jingyaogong/minimind",
+   "image": "https://opengraph.githubassets.com/71569191a063bb8ee197d19a5c8a97b28c8003bc826223b18930459befd76c2c/jingyaogong/minimind",
+   "title": "jingyaogong/minimind",
+   "summary_en": "🧠 Train a 64M-parameter LLM from scratch in just 2h! https://jingyaogong.github.io/minimind \"大道至简\" 中文 | English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLHF（DPO）、RLAIF（PPO / GRPO / CISPO）、Tool Use、Agentic RL、自适应思考与模型蒸馏等全过程代码。 MiniMind 同时拓展了视觉模态模型 MiniMind-V 、多模态 Omni 模型 MiniMind-O 、扩散语言模型（MiniMind-dLM）、线性模型（MiniMind-Linear），详见 Discussion 。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM…",
+   "title_mn": "jingyaogong/minimind: Том хэлний загварыг эхнээс нь өөрөө сургаж бүтээхэд зориулсан төсөл",
+   "summary_mn": "MiniMind бол хөгжүүлэгчдэд том хэлний загварын (LLM) дотоод ажиллах зарчмыг ойлгуулж, ердөө хэдхэн төгрөгийн сервер түрээслэн эхнээс нь өөрөө хэлний загвар сургах боломжийг олгодог нээлттэй эхийн төсөл юм. Энэхүү төсөл нь Apache 2.0 лицензтэй бөгөөд PyTorch дээр суурилсан.",
+   "body_mn": "Өнөөгийн хиймэл оюун ухааны эрин үед ChatGPT, DeepSeek зэрэг загварууд гайхалтай үр дүн үзүүлж байгаа ч тэдний асар том хэмжээ нь хувь хөгжүүлэгчдэд сургах болон дотоод бүтцийг нь ойлгоход хүндрэлтэй байдаг. MiniMind энэ хязгаарлалтыг эвдэж, хөгжүүлэгчдэд өөрийн гараар маш жижиг хэлний загварыг бүтээх боломжийг олгодог.\n\nТөслийн зорилго бол хөгжүүлэгчдийг бэлэн сангуудын цаана нуугдсан логикийг ойлгоход туслах явдал юм. Хөгжүүлэгчид NVIDIA GPU ашиглан pretrain, SFT болон DPO буюу хүний таашаалд нийцүүлэх сургалтын үе шатуудыг өөрсдөө биечлэн туршиж үзэх боломжтой.\n\nЭнэхүү төсөл нь tokenizer бэлтгэх, өгөгдөл цэвэрлэх болон загварын жингийн тохиргоог хэрхэн хийхийг тодорхой харуулдаг. Хиймэл оюун ухааны инженерүүд болон загварын дотоод бүтцийг гүнзгий судалж үзэхийг хүссэн хэн бүхэнд хамгийн тохиромжтой сургалтын хэрэглэгдэхүүн юм.",
+   "published": "2026-11-19T01:24:39Z",
+   "added": "2026-11-19T01:24:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "16db77652cb13e5e",
+   "subtopic": "gh-python",
+   "source": "GitHub Trending Python",
+   "source_label": "GitHub Trending Python",
+   "url": "https://github.com/google-research/paper-orchestra",
+   "image": "https://opengraph.githubassets.com/ebcc1f9e1e3d9436e62f229b4896a860ddab8b0f926b1000e7744567ca578d73/google-research/paper-orchestra",
+   "title": "google-research/paper-orchestra",
+   "summary_en": "PaperOrchestra is a multi-agent framework for automated AI research paper writing. https://yiwen-song.github.io/paper_orchestra/ 🎻 PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing Yiwen Song 1 , Yale Song 1 , Tomas Pfister 1 , and Jinsung Yoon 1 1 Google Cloud AI Research PaperOrchestra is a multi-agent framework for automated AI research paper writing. It flexibly transforms unconstrained pre-writing materials (ideas and experimental logs) into submission-ready LaTeX manuscripts, including comprehensive literature synthesis and generated visuals, such as plots…",
+   "title_mn": "google-research/paper-orchestra: AI судалгааны өгүүлэл автоматаар бичих олон агентын систем",
+   "summary_mn": "PaperOrchestra бол судалгааны түүхий материал болон туршилтын логуудыг боловсруулж, хэвлэлд бэлэн LaTeX өгүүлэл болгон хувиргадаг олон агентын фреймворк юм. Энэхүү төсөл нь уран зостлогын судалгаа, графика зураглал болон хэсгүүдийн бичвэрийг автоматаар гүйцэтгэдэг.",
+   "body_mn": "Шинжлэх ухааны судалгаа хийх болон үр дүнгээ өгүүлэл болгон бичих үйл явц нь маш их цаг хугацаа шаарддаг. PaperOrchestra нь энэ үйл явцыг автоматжуулж, судалгааны санаа болон туршилтын үр дүнгээс шууд хэвлэлд бэлэн LaTeX форматтай өгүүлэл гаргаж өгдөг.\n\nСистем нь тусгай үүрэг бүхий олон агентуудын баг хэлбэрээр ажиллаж, тойм судалгаа хийх, бүтэц гаргах, агуулгыг сайжруулах, графика зураг зохиох зэрэг ажлуудыг хооронд нь уялдаатайгаар гүйцэтгэдэг. Python 3.11 болон Conda орчинд суурилсан бөгөөд хөгжүүлэгчид Streamlit дээр суурилсан интерактив демог ашиглаж үзэх боломжтой.\n\nЭнэхүү төсөл нь Google-ийн албан ёсны бүтээгдэхүүн биш боловч судлаачид болон хөгжүүлэгчдэд эрдэм шинжилгээний өгүүлэл бичих ажлыг хөнгөвчлөхөд үнэтэй хувь нэмэр оруулах юм.",
+   "published": "2026-11-19T01:24:39Z",
+   "added": "2026-11-19T01:24:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2bce2856839956f2",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/BurntSushi/jiff",
+   "image": "https://opengraph.githubassets.com/ab7ae25d607161f214b9abd8d8514eccc3c630221bca911d0661c4457f300413/BurntSushi/jiff",
+   "title": "BurntSushi/jiff",
+   "summary_en": "A datetime library for Rust that encourages you to jump into the pit of success. Jiff Jiff is a datetime library for Rust that encourages you to jump into the pit of success. The focus of this library is providing high level datetime primitives that are difficult to misuse and have reasonable performance. Jiff supports automatic and seamless integration with the Time Zone Database, DST aware arithmetic and rounding, formatting and parsing zone aware datetimes losslessly, opt-in Serde support and a whole lot more. Jiff takes enormous inspiration from Temporal , which is a TC39 proposal to…",
+   "title_mn": "BurntSushi/jiff: Rust хэлэнд зориулсан өндөр түвшний огноо, цагийн сан",
+   "summary_mn": "Jiff бол Rust хэлэнд зориулсан, буруу ашиглахад хэцүү, өндөр гүйцэтгэлтэй огноо, цагийн сан юм. Энэхүү сан нь цагийн бүсийн өгөгдлийн сангийн дэмжлэг, зуны цагийн тооцоолол болон JavaScript Temporal сангаас санаа авсан хялбар API-уудыг санал болгодог.",
+   "body_mn": "Rust хэлний стандарт сан болон бусад сангуудад огноо, цагтай ажиллах нь заримдаа төвөгтэй бөгөөд алдаа гаргах магадлал өндөр байдаг. Jiff сан нь хөгжүүлэгчдэд хамгийн зөв аргаар огноо, цагтай ажиллах боломжийг олгох зорилготойгоор бүтээгдсэн өндөр түвшний шийдэл юм.\n\nЭнэхүү сан нь IANA цагийн бүсийн өгөгдлийн сантай автоматаар холбогдож, Unix болон Windows системүүд дээр найдвартай ажилладаг. Мөн Serde дэмжлэгтэй бөгөөд хөгжүүлэгчид Cargo ашиглан төсөлдөө хялбархан нэмж ашиглах боломжтой.\n\nГүйцэтгэл болон API-ийн зөв байдлыг хослуулсан энэхүү сан нь Rust хэл дээр цаг хугацаатай холбоотой төслүүд хөгжүүлж буй инженерүүдэд зайлшгүй шаардлагатай хэрэгсэл юм.",
+   "published": "2026-11-19T01:24:39Z",
+   "added": "2026-11-19T01:24:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9cfddd638b21808d",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/antithesishq/bombadil",
+   "image": "https://opengraph.githubassets.com/d61af911579de12bd5dff5639e6a88fc1a3bb29c8600b8c051651156067c5c0d/antithesishq/bombadil",
+   "title": "antithesishq/bombadil",
+   "summary_en": "Property-based testing for web and terminal UIs https://antithesishq.github.io/bombadil/ Bombadil Property-based testing for web and terminal UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier . Runs in your local developer environment, in CI, and inside Antithesis. Documentation Learn all about Bombadil with the following resources: The Bombadil Manual Installation Examples Join us Join us on our quest to reinvent how the world thinks about software reliability. We are hiring. Or, if you want to hack on it, see Contributing . We prefer GitHub…",
+   "title_mn": "antithesishq/bombadil: Веб болон терминал UI-д зориулсан property-based тестийн хэрэгсэл",
+   "summary_mn": "Bombadil нь веба болон терминалын хэрэглэгчийн интерфэйст зориулсан property-based тестийн хэрэгсэл юм. Энэ нь алдааг эрт илрүүлэх зорилгоор зөв байх шинж чанаруудыг автоматаар шалгадаг.",
+   "body_mn": "antithesishq/bombadil нь веб болон терминал UI-д зориулагдсан property-based тестийн нээлттэй эх сурвалжтай хэрэгсэл юм. Энэхүү хэрэгсэл нь програм хангамжийн зөв байх шинж чанаруудыг автоматаар судлан шалгаж, илүү хүнд алдаануудыг хөгжүүлэлтийн эхэн үед илрүүлэхэд тусалдаг.\n\nУг хэрэгслийг хөгжүүлэгчийн дотоод орчин, CI систем болон Antithesis дотор шууд ажиллуулах боломжтой байдлаар бүтээжээ. Програм хангамжийн найдвартай байдлыг шинэ түвшинд гаргах зорилготой энэхүү төсөл нь Rust хэл дээр бичигдсэн бөгөөд хөгжүүлэгчдэд илүү хүчтэй спецификаци, хурдан феззер ашиглах боломжийг олгодог.\n\nТөслийг туршиж үзэхийг хүссэн хөгжүүлэгчид албан ёсны GitHub хуудас руу орж хувь нэмэр оруулах боломжтой байна. Багийн зүгээс таталт хүсэлт буюу pull request илгээхээс илүүтэйгээр GitHub асуудал болон Discord яриа өрнүүлэхийг илүүд үздэг ажээ.",
+   "published": "2026-11-19T01:24:39Z",
+   "added": "2026-11-19T01:24:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "06b6387dd3484f1c",
+   "subtopic": "gh-rust",
+   "source": "GitHub Trending Rust",
+   "source_label": "GitHub Trending Rust",
+   "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+   "image": "https://opengraph.githubassets.com/9d551b276ad47ddd4e9a0f21c06e86d9d82e53d82d71544aba56a100feb52f55/PrimeIntellect-ai/prime-agent",
+   "title": "PrimeIntellect-ai/prime-agent",
+   "summary_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks. Prime Agent: A Self-Improving RLM Harness Documentation • Verifiers • PRIME-RL Prime Agent is an open-source coding and research agent for general and long-running work. It is designed around two core abstractions: The Recursive Language Model (RLM) treats context as variables ( prompt-as-a-variable ) and tools like recursive subagents as function calls ( programmatic tool /sub-agent calling ) inside a persistent REPL. The Continual Harness stores supplemental prompts, memories, skill descriptions, and…",
+   "title_mn": "PrimeIntellect-ai/prime-agent: Урт хугацааны даалгаварт зориулсан код бичих болон судалгааны агент",
+   "summary_mn": "Prime Agent нь код бичих болон судалгааны ажлыг урт хугацаанд бие даан гүйцэтгэхэд зориулагдсан нээлттэй эх сурвалжтай агент юм. Энэ нь Python хяналтын орчин болон дахин ашиглах боломжтой төлөвийг хослуулсан.",
+   "body_mn": "PrimeIntellect-ai/prime-agent нь ерөнхий болон урт хугацааны ажлуудад зориулагдсан код бичих болон судалгааны нээлттэй эх сурвалжтай агент юм. Энэхүү хэрэгсэл нь үндсэн хоёр абстракцид суурилсан бөгөөд ажиллах орчны нөхцөл болон дахин ашиглах боломжтой үйлдлийн хэв маягийг нэг чат цонхны хязгаараас давж хадгалах боломжийг олгодог.\n\nУг агентыг нэг командын суулгагчаар хялбархан суулгах боломжтой бөгөөд хөгжүүлэгчийн ажиллаж буй лавлах дотор тушаалуудыг гүйцэтгэж, файлуудыг өөрчлөх чадвартай. Аюулгүй байдлын үүднээс хөгжүүлэгчид өөрчлөлтийг сайтар хянаж, найдвартай репозитори дээр ашиглах шаардлагатайг анхааруулсан байна. Мөн worker болон kernel процессууд нь амьдралын мөчлөгийн тусгаарлалт, сэргээлтийг сайжруулдаг.\n\nMIT лицензээр нээлттэй гарсан энэхүү төсөл нь судалгааны ажил болон автоматжуулсан хөгжүүлэлтийн урсгалд маш тохиромжтой. Хөгжүүлэгчид төслийн GitHub хуудас руу орж суулгах заавар болон бусад дэлгэрэнгүй мэдээллүүдийг авах боломжтой.",
+   "published": "2026-11-19T01:24:39Z",
+   "added": "2026-11-19T01:24:39Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
   }
  }
 ]

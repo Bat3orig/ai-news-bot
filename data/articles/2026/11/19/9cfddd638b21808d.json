@@ -1,0 +1,17 @@
+{
+ "id": "9cfddd638b21808d",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/antithesishq/bombadil",
+ "image": "https://opengraph.githubassets.com/d61af911579de12bd5dff5639e6a88fc1a3bb29c8600b8c051651156067c5c0d/antithesishq/bombadil",
+ "title": "antithesishq/bombadil",
+ "summary_en": "Property-based testing for web and terminal UIs https://antithesishq.github.io/bombadil/ Bombadil Property-based testing for web and terminal UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier . Runs in your local developer environment, in CI, and inside Antithesis. Documentation Learn all about Bombadil with the following resources: The Bombadil Manual Installation Examples Join us Join us on our quest to reinvent how the world thinks about software reliability. We are hiring. Or, if you want to hack on it, see Contributing . We prefer GitHub…",
+ "title_mn": "antithesishq/bombadil: Веб болон терминал UI-д зориулсан property-based тестийн хэрэгсэл",
+ "summary_mn": "Bombadil нь веба болон терминалын хэрэглэгчийн интерфэйст зориулсан property-based тестийн хэрэгсэл юм. Энэ нь алдааг эрт илрүүлэх зорилгоор зөв байх шинж чанаруудыг автоматаар шалгадаг.",
+ "body_mn": "antithesishq/bombadil нь веб болон терминал UI-д зориулагдсан property-based тестийн нээлттэй эх сурвалжтай хэрэгсэл юм. Энэхүү хэрэгсэл нь програм хангамжийн зөв байх шинж чанаруудыг автоматаар судлан шалгаж, илүү хүнд алдаануудыг хөгжүүлэлтийн эхэн үед илрүүлэхэд тусалдаг.\n\nУг хэрэгслийг хөгжүүлэгчийн дотоод орчин, CI систем болон Antithesis дотор шууд ажиллуулах боломжтой байдлаар бүтээжээ. Програм хангамжийн найдвартай байдлыг шинэ түвшинд гаргах зорилготой энэхүү төсөл нь Rust хэл дээр бичигдсэн бөгөөд хөгжүүлэгчдэд илүү хүчтэй спецификаци, хурдан феззер ашиглах боломжийг олгодог.\n\nТөслийг туршиж үзэхийг хүссэн хөгжүүлэгчид албан ёсны GitHub хуудас руу орж хувь нэмэр оруулах боломжтой байна. Багийн зүгээс таталт хүсэлт буюу pull request илгээхээс илүүтэйгээр GitHub асуудал болон Discord яриа өрнүүлэхийг илүүд үздэг ажээ.",
+ "published": "2026-11-19T01:24:39Z",
+ "added": "2026-11-19T01:24:39Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
