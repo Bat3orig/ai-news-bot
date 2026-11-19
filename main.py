@@ -120,7 +120,10 @@ def prepare(state: store.State, data_dir: Path, dry_run: bool) -> bool:
 
     # Outside sending hours the outbox grows overnight; keep processing so the site stays fresh.
     room = max(0, min(MAX_PER_RUN, MAX_OUTBOX - len(state.outbox)))
-    candidates.sort(key=lambda it: it.sort_time)
+    # Undated items (GitHub Trending, Google Developers Blog) go first, ranked feeds
+    # (`limit`) first of all: sorted as "now" they stayed behind the backlog forever and
+    # trending repos left the daily feed before being processed.
+    candidates.sort(key=lambda it: (it.published is not None, not it.source.limit, it.sort_time))
     recent = store.recent_titles(now, RECENT_DAYS, data_dir)
     block = load_block()
     candidates = drop_blocked(candidates, block, state, today)
