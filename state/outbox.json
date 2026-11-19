@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "e98b3ece297c5fcb",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "Analytics India Magazine",
-   "url": "https://analyticsindiamag.com/ai-news/alibaba-launches-qwen4-max-ai-model-with-focus-on-security",
-   "image": "https://analyticsindiamag.com/cdn-cgi/image/width=1200,height=675,fit=cover,quality=70,format=jpeg/https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769124936509-87606b56-c3de-44d6-b468-4fb190426c32-6gm6ua.webp",
-   "title": "Alibaba Launches Qwen4-Max AI Model With Focus on Security",
-   "summary_en": "The 2.4-trillion-parameter model includes a 1-million-token context window, native vision capabilities and security improvements across coding and other tasks.",
-   "title_mn": "Alibaba Qwen4-Max загвараа олон улсад танилцууллаа",
-   "summary_mn": "Alibaba компани 2.4 их над параметр, 1 сая токений контекст цонх бүхий шинэ флагман Qwen4-Max загвараа гаргалаа. Энэхүү загвар нь хэрэглээний зардлыг эрс бууруулж, аюулгүй байдлын шалгуураа мэдэгдэхүйц сайжруулсан байна.",
-   "body_mn": "Alibaba компани хиймэл оюун ухааны шинэ флагман Qwen4-Max загвараа албан ёсоор танилцууллаа. Энэхүү шинэ загвар нь 2.4 их над параметр болон 1 сая токений контекст цонхтой бөгөөд шинжлэх ухаан, програм хангамжийн хөгжүүлэлт, санхүү болон хууль эрх зүйн нарийн төвөгтэй ажлуудад зориулагдсан байна.\n\nКомпанийн зүгээс гаргасан үнэлгээгээр Qwen4-Max нь өмнөх үеийн загвартай харьцуулахад ажиллах хүчин чадал болон token ашиглалтын үр ашгаараа ихээхэн давуу болжээ. Тухайлбал, Work360 үнэлгээний дундаж өртөг 62 хувиар буурч, нэг задачад ноогдох зардал 4.43 ам.долланоос 1.67 ам.доллар болж хямдарсан байна.\n\nМөн аюулгүй байдлын чиглэлд онцгой анхаарч, кодын функц болон файлын түвшний шалгууруудыг сайжруулжээ. Кибер аюулгүй байдлын эрсдэлээс урьдчилан сэргийлэх хамгаалалтыг сайжруулж, эмзэг байдлыг илрүүлэх засах өгөгдлийг түлхүү ашигласан байна. Хөгжүүлэгчид уг загварыг QwenCloud, QwenWork болон API болон токен төлөвлөгөөгээр дамжуулан ашиглах боломжтой.",
-   "published": "2026-11-16T12:19:01Z",
-   "added": "2026-11-19T03:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "11d7f4207e0fe0d2",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-   "image": "https://github.blog/wp-content/uploads/2026/11/708276078-755fdd57-5343-48b5-a592-ecf652d88e0a.jpg",
-   "title": "Copilot code review: Adaptive effort, secret detection, and more",
-   "summary_en": "GitHub Copilot code review now helps you catch more issues earlier, with less effort. Adaptive matches review depth to each pull request, so routine changes get a quick pass and…",
-   "title_mn": "GitHub Copilot кодын шүүмжид Adaptive болон Secret Detection нэмэгдл",
-   "summary_mn": "GitHub Copilot code review шинэчлэгдэж PR-ийн төвөгтэй байдлаас хамааран хүчин чадлаа автоматаар сонгох Adaptive болон нууц үг, token алдагдлыг илрүүлэх боломжтой боллоо.",
-   "body_mn": "GitHub Copilot кодын шүүмжлэх хэрэгсэлд хөгжүүлэгчдийн ажлыг хөнгөвчлөх чухал шинэ боломжууд нэмэгдсэнийг зарлалаа. Үүнд PR-ийн эрсдэл болон төвөгтэй байдлаас шалтгаалан Lite, Balanced эсвэл Max түвшнийг автоматаар сонгох Adaptive горим public preview хэлбэрээр нээгдлээ.\n\nМөн cross-repository context буюу өөр холбоотой төслүүд дэх код болон баримт бичгийг уншиж шалгах чадвартай болжээ. Үүнээс гадна Secret detection функц нэмэгдсэн бөгөөд 코д нэгтгэхээс өмнө API түлхүүр, нууц үг болон бусад credential код дотор үлдсэн эсэхийг илрүүлж анхааруулна.\n\nЭдгээр шинэ боломжууд нь Copilot Pro, Business болон Enterprise хэрэглэгчдэд нээлттэй болсон бөгөөд Azure DevOps (Azure Repos) орчинд мөн бүрэн дэмжигдэж эхэллээ.",
-   "published": "2026-11-17T18:02:05Z",
-   "added": "2026-11-19T03:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "848186ead70c7091",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-   "image": "https://github.blog/wp-content/uploads/2026/11/707030498-32736842-e930-46d7-b653-5841bc626d76.png",
-   "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-   "summary_en": "Today, we’re expanding GitHub Copilot Fusion with new models, available on more Copilot surfaces, and results on two public Terminal-Bench leaderboards, giving you more ways to use Fusion and compare…",
-   "title_mn": "GitHub Copilot Fusion шинэ загварууд болон Terminal-Bench үр дүнгээ зарлалаа",
-   "summary_mn": "GitHub Copilot Fusion нь Terminal-Bench 4.1 шалгуурт өндөр амжилт үзүүлж, GitHub.com, Visual Studio болон Mobile аппуудад дэмжигдэж эхэллээ.",
-   "body_mn": "GitHub Copilot Fusion загвар болон платформын шинэчлэлтүүд гарлаа. Энэхүү хэрэгсэл нь Stanford болон бусад байгууллагуудын хамтран явуулдаг Terminal-Bench 4.1 терминалын хиймэл оюуны агентын үнэлгээнд 71.2%-ийн гүйцэтгэл үзүүлж тэргүүлэгчдийн эгнээнд багтжээ.\n\nCopilot Fusion нь өмнөх үеийн загваруудаас илүү хямд бөгөөд үр ашигтайгаар ажиллах чадвартай болохоо харуулсан байна. Хөгжүүлэгчид үүнийг одоо Visual Studio, github.com болон iOS, Android систем дэх GitHub Mobile аппуудын хамгийн сүүлийн хувилбаруудаас сонгон ашиглах боломжтой.\n\nХөгжүүлэгч хүссэн effort түвшнээ тохируулахад л Copilot Fusion автоматаар тухайн даалгаварт хамгийн тохиромжтой загваруудыг зохицуулан ажиллах юм.",
-   "published": "2026-11-17T18:04:48Z",
-   "added": "2026-11-19T03:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3c1c44c31d21a0f3",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Blog",
-   "source_label": "GitHub Blog",
-   "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
-   "image": "https://github.blog/wp-content/uploads/2026/11/agents-everywhere.png",
-   "title": "Building the Agent Host Protocol for sessions that continue across devices",
-   "summary_en": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.",
-   "title_mn": "Agent Host Protocol: Төхөөрөмж дамнан ажиллах AI агентын шинэ стандарт",
-   "summary_mn": "GitHub компани AI агентуудын сесс болон төлвийг ямар ч төхөөрөмж дээр тасалдалгүй үргэлжлүүлэх боломж олгох Agent Host Protocol (AHP) нээлттэй стандартыг танилцууллаа.",
-   "body_mn": "Хиймэл оюун ухааны агентууд одоо хэдэн цаг эсвэл хэд хоногийн турш бие даан ажиллах чадвартай болсон хэдий ч хөгжүүлэгч үүнийг хүссэн үедээ, ямар ч төхөөрөмжөөс шалгаж, үргэлжлүүлэх боломжтой байх шаардлагатай. Энэхүү асуудлыг шийдвэрлэхийн тулд GitHub компани Agent Host Protocol (AHP) нээлттэй стандартыг бүтээжээ.\n\nӨмнө нь Copilot агентууд зөвхөн VS Code-ийн цонх болон тухайн редактортой салшгүй холбоотой байсан бөгөөд цонх хаагдахад сесс тасардаг байв. Харин AHP протокол нь URI-аар тодорхойлогдсон channel болон reducer-д суурилсан төлөв удирдлагын тусламжтайгаар үүнийг өөрчилсөн байна.\n\nЭнэхүү стандартыг ашигласнаар хөгжүүлэгч утсан дээрээ үүсгэсэн сессийн ажлыг зөөврийн компьютер эсвэл сервер дээрээ ямар нэгэн тохиргооны алдагдалгүйгээр үргэлжлүүлж, сүлжээний тасалдал болон олон үйлдэлт клиентүүдийн ажиллагааг найдвартай дэмжих боломжтой болж байна.",
-   "published": "2026-11-17T18:20:40Z",
-   "added": "2026-11-19T03:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "70b956584e05d66e",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Blog",
-   "source_label": "GitHub Blog",
-   "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
-   "image": "https://github.blog/wp-content/uploads/2026/11/image-17.png",
-   "title": "Maintainers don’t need more AI bug reports. They need fixes.",
-   "summary_en": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half.",
-   "title_mn": "Microsoft болон GitHub нээлттэй эх сурвалжийн төслүүдийн сул талыг засах туршилт эхлүүллээ",
-   "summary_mn": "Microsoft болон GitHub хамтран Kodename MDASH агент систем ашиглан нээлттэй эх сурвалжийн төслүүдэд AI илрүүлэлт хийгээд зогсохгүй бодит код засвар буюу patch бэлтгэн өгөх туршилт явуулжээ.",
-   "body_mn": "Хиймэл оюун ухаан хөгжүүлж буй компаниуд болон нээлттэй эх сурвалжийн төслийн хөгжүүлэгчдийн хувьд AI-аар үүсгэгдсэн хуурамч эсвэл давхардсан эмзэг байдлын тайлангууд маш том дарамт болж байна. Үүнийг шийдвэрлэхийн тулд GitHub болон Microsoft компаниуд хамтран MDASH хэмээх агент хэлбэрийн скан хийх системээр дамжуулан засвартай тайлан илгээх туршилт хийжээ.\n\nТуршилтын хүрээнд 6 алдартай төсөл дээр судалгаа явуулж, AI зөвхөн сул тал олж илрүүлэх будиаан үүсгэхгүйгээр, судлаачдын гараар шалгагдсан бодит засварын патчийг хамт илгээжээ. Үр дүнд нь maintainer-ууд ердөө долоо хоногийн дотор шаардлагатай засваруудыг хүлээн авч нэгтгэсэн байна.\n\nЭнэхүү арга нь хөгжүүлэгчдийн ачааллыг бууруулж, цэвэр олдвор бус харин ажилладаг кодыг гаргаж авахад маш үр дүнтэй болох нь батлагджээ.",
-   "published": "2026-11-17T18:29:29Z",
-   "added": "2026-11-19T03:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "973d8da3cd5f28b7",
-   "subtopic": "ai-devtools",
-   "source": "openai/openai-python",
-   "source_label": "openai/openai-python",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.53.0",
-   "image": "https://opengraph.githubassets.com/b92b71984dea7e3d324ce0ff8f224f48659ee40ec5567b188e0d3c01186ebcb1/openai/openai-python/releases/tag/v3.53.0",
-   "title": "openai-python v3.53.0",
-   "summary_en": "3.53.0 (2026-11-17) Features api: add 2-hour and 8-hour Responses background windows ( 720bcb5 ) api: add the GPT-6.2 Astra Law Responses model identifier ( 720bcb5 ) api: add the GPT-6.2 Astra model identifier ( 720bcb5 ) api: add the GPT-6.2 Sol model identifier ( 720bcb5 )",
-   "title_mn": "openai-python v3.53.0 хувилбар шинэ загвар, боломжуудтайгаар гарлаа",
-   "summary_mn": "openai-python сангийн v3.53.0 хувилбар шинээр GPT-6.2 Astra болон Sol загварын нэршлийг нэмж, 2 болон 8 цагийн Responses background цонхыг дэмждэг боллоо.",
-   "body_mn": "openai-python багцын шинэ v3.53.0 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр хөгжүүлэгчдэд зориулсан хэд хэдэн чухал API боломжууд нэмэгджээ.\n\nТодруулбал, GPT-6.2 Astra, GPT-6.2 Astra Law болон GPT-6.2 Sol загварын шинэ нэршлүүд API дотор албан ёсоор бүртгэгдсэн байна. Мөн түүнчлэн API хүсэлтүүдэд зориулсан 2 болон 8 цагийн Responses background цонхны тохиргоог нэмжээ.\n\nХөгжүүлэгчид энэхүү хувилбарт шинэчлэгдсэн dependency болон API endpoints ашиглан шинэ загваруудыг өөрийн төслүүдэд шууд холбож турших боломжтой боллоо.",
-   "published": "2026-11-17T18:40:24Z",
-   "added": "2026-11-19T03:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "1f12985ebcfd0d9c",
-   "subtopic": "electron",
-   "source": "electron/electron",
-   "source_label": "electron/electron",
-   "url": "https://github.com/electron/electron/releases/tag/v45.3.4",
-   "image": "https://opengraph.githubassets.com/b443441034884197973a5c2c97e1d066857a8efdebcedad2a41eec447884d39f/electron/electron/releases/tag/v45.3.4",
-   "title": "electron v45.3.4",
-   "summary_en": "Release Notes for v45.3.4 Fixes Fixed a leak where right-clicked elements stayed alive after removal. #55503 (Also in 46 )",
-   "title_mn": "electron v45.3.4 хувилбар гарлаа",
-   "summary_mn": "Electron фрэймворкийн v45.3.4 хувилбар гарч, баруун товчлуураар дарсан элементийг устгасны дараа санах ойд үлдэж гажиг үүсгэдэг санах ойн алдагдлыг (memory leak) заслаа.",
-   "body_mn": "Electron desktop апп хөгжүүлэлтийн фрэймворкийн шинэ v45.3.4 засварын хувилбар албан ёсоор гарлаа. Энэхүү хувилбарт хөгжүүлэгчдийн анхаарах ёстой чухал алдааг зассан байна.\n\nТодруулбал, UI дотор баруун товчлуураар дарж сонгосон элементүүдийг устгасны дараа санах ойд үргэлжлэн амьд үлдэж санах ойн алдагдал (memory leak) үүсгэдэг байсан техникийн алдааг бүрэн зассан байна. Уг засвар нь мөн v46 хувилбарт хамт орсон болно.\n\nElectron ашиглан desktop апп бүтээж буй багууд уг шинэчлэлтийг хийснээр санах ойн ашиглалтаа сайжруулах боломжтой.",
-   "published": "2026-11-17T18:58:56Z",
-   "added": "2026-11-19T03:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ec7727aedb6b55ad",
-   "subtopic": "nextjs",
-   "source": "Next.js Blog",
-   "source_label": "Next.js Blog",
-   "url": "https://nextjs.org/blog/how-were-using-ai-to-make-nextjs-more-secure",
-   "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/how-were-using-ai-to-make-nextjs-more-secure/twitter-card.png",
-   "title": "How we're using AI to make Next.js more secure",
-   "summary_en": "Why you're seeing more Next.js security advisories, and what we're doing about it.",
-   "title_mn": "Next.js баг кодыг аюулгүй байлгахад хиймэл оюун ухааныг хэрхэн ашиглаж байна вэ?",
-   "summary_mn": "Next.js баг сүүлийн жилүүдэд гарсан аюулгүй байдлын зөвлөмжүүдийн өсөлт болон хиймэл оюун ухааныг ашиглан хуучин кодын алдааг олж засварлаж буй туршлагаа хуваалцжээ.",
-   "body_mn": "Сүүлийн жилүүдэд Next.js хүрээний хувьд аюулгүй байдлын зөвлөмжүүд олширсон нь хөгжүүлэгчдийн анхаарлыг татаж байна. Гэсэн хэдий ч энэ нь тус фреймворк муудсаных биш харин LLM буюу хиймэл оюун ухааны дэвшилтэт хэрэгслүүд гарч ирснээр далд байсан алдаануудыг хямд бөгөөд хурдан илрүүлэх боломжтой болсонтой холбоотой ажээ.\n\nЭнэхүү шинэ орчинд дасан зохицохын тулд Next.js баг аюулгүй байдлын хөтөлбөрөө эрчимжүүлж, хуучин кодын санд үлдсэн алдаанудыг цэвэрлэх арга хэмжээнүүдийг авч байна. Тэд алдаа илрүүлэгч урамшууллын хөтөлбөр болон Trail of Bits компаниар дамжуулан гадны аудит хийлгэжээ. Мөн дотооддоо хөгжүүлсэн Eve нэртэй ботыг ашиглан эмзэг байдлыг илрүүлэх, тайланг ангилах, засварын үр нөлөөг шинжлэх ажлуудыг хийж байна.\n\nҮүний үр дүнд тэд Next.js хэрэглэгчдэд засваруудыг тогтмол хуваарийн дагуу буюу сард нэг удаа урьдчилан мэдэгдэн хүргэх шинэ хөтөлбөрийг хэрэгжүүлж эхэлжээ. Энэ нь хөгжүүлэгчдэд шинэчлэлт хийх ажлаа төлөвлөх, хостинг үйлчилгээ үзүүлэгчдэд хамгаалалт бэлтгэхэд туслах юм.",
-   "published": "2026-11-17T20:00:00Z",
-   "added": "2026-11-19T03:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "344626cf5bc878d2",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/standard-build-billing-new-teams",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/JnMHu29jGgLKFR2evLjC1/78307a27bd6c46acef79ed298f2a7478/image__6_.png",
-   "title": "Standard builds move to usage-based billing for new teams",
-   "summary_en": "Starting today, new Pro and Enterprise teams no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. On Pro, Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Enterprise rates follow your contract. Standard builds remain billable after switching from Elastic to Standard for teams covered by this change. Select a build machine in team settings or project settings , or read more about managing your builds . Read more",
-   "title_mn": "Vercel стандард бүтээх орчны төлбөр тооцооны загварт өөрчлөлт орууллаа",
-   "summary_mn": "Шинэ Pro болон Enterprise багуудад зориулсан Стандарт бүтээх орчин хэрэглээнд суурилсан төлбөртэй болж өөрчлөгдлөө.",
-   "body_mn": "Vercel компани шинэ Pro болон Enterprise багуудад Standard build буюу стандартын дагуу бүтээх нэгжийг үндсэн багцад дагалдуулахаа больсноо зарлалаа. Ингэснээр стандартын бүтээх ажлууд бусад машин механизмын адил хэрэглээнд суурилсан тооцооны загварт шилжиж байна.\n\nPro багцын хувьд стандартын дагуу бүтээхэд минут тутамд 0.014 долларын үнэтэй байх бөгөөд сарын ашиглалтын эрх үүнд хамаарна. Харин Enterprise хэрэглэгчдийн хувьд гэрээний дагуу тооцогдох ажээ. Хөгжүүлэгчид багийн болон төслийн тохиргооноос build машин сонгох боломжтой хэвээр үлдэнэ.",
-   "published": "2026-11-17T20:00:00Z",
-   "added": "2026-11-19T03:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "68ddb817fe4001c0",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-   "image": "",
-   "title": "Advancing chip design with OpenAI models",
-   "summary_en": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-   "title_mn": "OpenAI загварууд чип дизайныг сайжруулахад туслаж байна",
-   "summary_mn": "OpenAI-ийн шинэ загварууд Jalapeño цахиур болон RISC-V цөмүүдийн хэлхээг оновчтой болгож, хиймэл оюун ухаанаар чип бүтээх ажилд ахиц гаргалаа.",
-   "body_mn": "OpenAI компани өөрсдийн загваруудыг ашиглан техник хангамж болон чип дизайны салбарт томоохон амжилтад хүрснээ зарлалаа. Тэдний загварууд Jalapeño кремний дээр суурилсан цахилгаан хэлхээг амжилттай оновчтой болгож, RISC-V цөмийн дизайн хөгжүүлэлтийг сайжруулжээ.\n\nЭнэхүү дэвшил нь GPT-6 Astra загварын чадавхыг ашиглан техник хангамжийн инженерчлэлийг хурдасгах, илүү үр ашигтай микропроцессор бүтээхэд хиймэл оюун ухаан ямар үүрэг гүйцэтгэж болохыг харуулсан чухал жишээ болж байна.",
-   "published": "2026-11-18T00:00:00Z",
-   "added": "2026-11-19T03:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "a275d53fb0d0d62c",
    "subtopic": "packages",
    "source": "Frontend Focus",
@@ -515,6 +315,126 @@
    "body_mn": "Google компани хөгжиж буй орнуудын сая сая хэрэглэгчдэд хиймэл оюун ухааны туслахыг хүргэх зорилгоор Gemini аппликейшнийг оновчтой болгосноо зарлалаа. Үүний үр дүнд санах ой багатай Android (Go edition) төхөөрөмжүүд дээр уг апп саадгүй ажиллах боломжтой болж байна.\n\nШинэчлэгдсэн хувилбараар хэрэглэгчид урт текст бичихийн оронд Gemini Live ашиглан 45 гаруй хэлээр ярьж дадлага хийх, камераа чиглүүлэн тэмдэглэл орчуулах зэрэг боломжуудыг ашиглах боломжтой. Энэ нь төхөөрөмжийн техник хангамжийн хязгаарлалтыг даван туулж, хиймэл оюун ухааныг илүү өргөн хүрээнд нэвтрүүлж буй чухал алхам юм.\n\nTranssion болон бусад түншүүдийн шинэ утсуудад уг апп урьдчилан суурилагдах бөгөөд Google Play дэлгүүрээс татаж аваад ашиглах боломжтой.",
    "published": "2026-11-18T17:00:00Z",
    "added": "2026-11-19T04:30:56Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cac57b5217ba2caa",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
+   "title": "Genie 4 is now available",
+   "summary_en": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+   "title_mn": "Google DeepMind Genie 4 загvүүгүүлэлээ",
+   "summary_mn": "Google AI Ultra хэрэглэгчдэд зориулсан Genie 4 загвар нь байгалийн хэлээр бодит цаг хугацаанд орчныг өөрчлөх, дуу чимээ нэмэх боломжийг олгож байна.",
+   "body_mn": "Google DeepMind компани өөрийн Project Genie туршилтын платформын шинэ хувилбар болох Genie 4 загварыг Google AI Ultra хэрэглэгчдэд нээлттэй болголоо. Энэхүү шинэ загвар нь интерактив дижитал ертөнцийг илүү хурдан, харилцан үйлдэлтэйгээр бүтээх боломжийг олгож байна.\n\nХэрэглэгчид энгийн ярианы хэл буюу промпт ашиглан орчны цаг агаар, дүрс болон дагалдах аудио дуу чимээг бодит цагт өөрчлөх боломжтой боллоо. Мөн шинээр нэмэгдсэн Project Genie agent болон олон нийтийн галерей хэсгээр дамжуулан өөрийн бүтээсэн ертөнцийг хуваалцах, бусадтай хамтран ажиллах боломжтой юм.\n\nЭнэхүү шинэчлэл нь Gemini загваруудтай хослон ажиллаж, хэрэглэгчдэд хөтөч дээрээ шууд өөрийн гэсэн интерактив ертөнцийг бүтээх боломжийг олгож байгаагаараа онцлог юм. Genie 3 загвар нь илүү урт хугацааны ажиллагаанд үргэлжлэн ашиглагдах болно.",
+   "published": "2026-11-18T18:13:42Z",
+   "added": "2026-11-19T05:01:05Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b21e3d35db3791fa",
+   "subtopic": "gemini",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+   "title": "Gemini 4 Neon",
+   "summary_en": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 599 # Comments: 532",
+   "title_mn": "Google DeepMind шинэ Gemini 4 Neon загвараа танилцууллаа",
+   "summary_mn": "Google-ийн шинэ Gemini 4 Neon загвар нь 1 сая токенийн контекст цонхтой бөгөөд программ хангамж хөгжүүлэлт болон шинжлэх ухааны ажлуудад өндөр гүйцэтгэл үзүүлнэ.",
+   "body_mn": "Google DeepMind компани нарийн төвөгтэй программ хангамж хөгжүүлэлт, судалгаа шинжилгээний ажлыг хурдан гүйцэтгэх чадвартай Gemini 4 Neon загвараа албан ёсоор танилцууллаа. Энэхүү загвар нь Artificial Analysis болон бусад бие даасан үнэлгээгээр өндөр байр эзэлж байна.\n\nNeon нь 1 сая токенийн контекст цонхтой бөгөөд код бичих, хүснэгт боловсруулах, хууль эрх зүйн болон санхүүгийн олон төрлийн өгөгдлийг нэгэн зэрэг нэгтгэн дүгнэх чадвартай. API болон Google AI Studio дээр оролтод сая токенийн хувьд өндөр хөнгөлөлттэй үнээр хэрэглэгчдэд хүртээмжтэй болж байна.\n\nХөгжүүлэгчдийн хувьд Terminal-Bench болон Coding Agent индекст өндөр оноо авсан энэхүү загвар нь олон файлаар ажиллах, даалгаврыг чанартай гүйцэтгэх чадвараараа агентын урт хугацааны ажлуудад онцгой үр дүнтэй шийдэл болж байна.",
+   "published": "2026-11-18T21:34:07Z",
+   "added": "2026-11-19T05:01:05Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "362ee7bc4f192047",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+   "image": "https://github.blog/wp-content/uploads/2026/11/710810976-7eb80d08-78b7-4fbe-b584-0995e1de504f.png",
+   "title": "Gemini 4 Neon in GitHub Copilot",
+   "summary_en": "Gemini 4 Neon is now generally available in GitHub Copilot. It is designed for agentic coding, multistep tool use, and knowledge work. According to Google, Gemini 4 Neon delivers quality…",
+   "title_mn": "GitHub Copilot-д Gemini 4 Neon загвар нэмэгдлээ",
+   "summary_mn": "Gemini 4 Neon загвар GitHub Copilot-д албан ёсоор нэвтэрч, агентын код бичих болон олон алхамт хэрэгсэл ашиглалтад ашиглагдах боломжтой боллоо.",
+   "body_mn": "Google компани Gemini 4 Neon загвараа GitHub Copilot платфортод бүх нийтээр ашиглах боломжтой болгосноо зарлалаа. Энэхүү загвар нь агентын код бичих, олон шаттай хэрэгслүүдийг ашиглах, мэдлэгийн чанартай ажлуудад зориулагдсан юм.\n\nGoogle-ийн мэдээлснээр Gemini 4 Neon нь Gemini 4 Carbon-той төстэй чанарыг үзүүлэх боловч нэгж даалгаварт зарцуулах токены өртөг багатай аж. Мөн хариу өгөх хурд илүү хурдан бөгөөд код бичих явцад хүсээгүй өөрчлөлт хийх нь бага байдгаараа давуу талтай.\n\nЭнэхүү загвар нь Copilot Pro+, Max, Business болон Enterprise хэрэглэгчдэд аדרминистраторын тохиргоогоор дамжин аажмаар хүрч байна. Хөгжүүлэгчид загвар сонгогч цэснээс уг загварыг сонгон ажиллах боломжтой.",
+   "published": "2026-11-18T21:49:21Z",
+   "added": "2026-11-19T05:01:05Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4e5c57bd6246e60b",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "title": "Connect Supabase, Box, Calendly, and more to Copilot",
+   "summary_en": "You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. They join more than 25 services you can already connect, like…",
+   "title_mn": "GitHub Copilot-д Supabase болон бусад үйлчилгээнүүдийг холбох боломжтой боллоо",
+   "summary_mn": "Хөгжүүлэгчид Supabase, Box, Calendly зэрэг 8 шинэ үйлчилгээг GitHub-аар баталгаажсан MCP серверүүдийг ашиглан Copilot-той холбох боломжтой боллоо.",
+   "body_mn": "GitHub Copilot дээр хөгжүүлэгчдэд зориулсан шинэ интеграциуд нэмэгдэж, одоо Supabase, Box, Calendly зэрэг найман шинэ үйлчилгээг холбох боломжтой боллоо. Эдгээр нь өмнө нь байсан Slack, Figma, Sentry зэрэг 25 гаруй үйлчилгээний жагсаалтад нэмэгдэж байна.\n\nЖишээлбэл, хөгжүүлэгчид Buildkite дээр бүтээлт яагаад алдаа гарсныг Copilot-оос асууж, нэг сессий дотор кодыг нь засах эсвэл шинэ миграци бичихээсээ өмнө Supabase схемийг шалгуулж болно. Энэ нь хөгжүүлэлтийн явцыг илүү хялбаршуулж байна.\n\nЭдгээр холболтууд нь одоогоор бүх Copilot багцуудад нийтийн урьдчилсан байдлаар (public preview) ажиллаж байна. Бизнес болон Enterprise хэрэглэгчдийн хувьд админ хэрэглэгч Editor preview болон MCP зөвшөөрлийн тохиргоог идэвхжүүлэх шаардлагатай.",
+   "published": "2026-11-18T22:04:50Z",
+   "added": "2026-11-19T05:01:05Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e0262e28b707e9f6",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+   "image": "https://www.slowchronicle.com/og-default.png",
+   "title": "LLM assisted reverse engineering",
+   "summary_en": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 112 # Comments: 32",
+   "title_mn": "LLM ашиглан програм хангамжийг задлан шинжлэх нь",
+   "summary_mn": "Хөгжүүлэгч хиймэл оюун ухааны тусгай агентууд болон ур чадваруудыг ашиглан хоёр арван жилийн турш хийж ирсэн реверс инженерийн ажлаа хэрхэн хурдасгаснаа хуваалцжээ.",
+   "body_mn": "Хөгжүүлэгч өөрийн олон жилийн туршлага дээр суурилж, орчин үеийн ухаалаг LLM болон тусгай агентуудыг ашиглан хоёртын файлуудад реверс инженерийн шинжилгээ хийх арга барилаа хуваалцлаа. Агентыг шууд хоэртын файлд чиглүүлж, тусгай агентын ур чадварууд болон Ghidra зэрэг хэрэгслүүдийг ашигласнаар шинжилгээний явц эрс хурдассан байна.\n\nӨгөгдлийг задлах, алдааг олж засварлах явцад агентыг төөрөгдүүлэхгүйн тулд Markdown файлуудад баримтжуулах, таамаглалд суурилсан дибаг хийх зэрэг арга зүйн ур чадваруудыг ашигладаг. Энэ нь агентуудыг тойрог хэлбэрээр буруу тийш явахаас сэргийлж, тодорхой туршилтуудыг хийхэд тусалдаг аж.\n\nХиймэл оюун ухааны тусламжтайгаар хуучин програм хангамж болон төхөөрөмжүүдийг задлан шинжлэх ажил эрс хялбар болж, хөгжүүлэгчдэд урьд өмнө жилүүд шаардагдах байсан ажлыг богино хугацаанд хийх боломжийг олгож байна.",
+   "published": "2026-11-18T22:29:13Z",
+   "added": "2026-11-19T05:01:05Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fc48b1e83d4da602",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
+   "title": "Wait for pull request events with GitHub CLI",
+   "summary_en": "GitHub CLI now supports GitHub Event Streams. With gh v2.105.0, you and your agents can wait for a pull request to change with a single command instead of polling it…",
+   "title_mn": "GitHub CLI v2.105.0 гарч, pull request үйл явдлыг хүлээх боломжтой боллоо",
+   "summary_mn": "GitHub CLI v2.105.0 хувилбар гарч GitHub Event Streams дэмждэг боллоо. Хөгжүүлэгчид болон AI агентууд pull request-ийн өөрчлөлтийг давталтгүйгээр нэг команд ашиглан шууд хүлээх боломжтой болжээ.\n\nШинэ gh event listen командын тусламжтайгаар pull request URL болон холбогдох үйл явдлуудыг (ревью илгээх, төлөв өөрчлөгдөх, мерж хийхэд үүсэх зөрчил гэх мэт) JSON хэлбэрээр шууд харах боломжтой. Энэ нь агентуудад polling хийх шаардлагагүйгээр илүү үр дүнтэй ажиллах нөхцөлийг бүрдүүлж байна.\n\nОдоогоор энэхүү боломж нь урьдчилсан байдлаар (preview) ажиллаж байгаа бөгөөд ашиглахын тулд GitHub-ийн Event Streams хүлээлгийн жагсаалтад бүртгүүлэх шаардлагатай. Хөгжүүлэгчид gh v2.105.0 болон түүнээс дээш хувилбар руу шинэчлэн туршиж үзэх боломжтой.",
+   "body_mn": "GitHub CLI v2.105.0 хувилбар гарч GitHub Event Streams дэмждэг боллоо. Хөгжүүлэгчид болон AI агентууд pull request-ийн өөрчлөлтийг давталтгүйгээр нэг команд ашиглан шууд хүлээх боломжтой болжээ.\n\nШинэ gh event listen командын тусламжтайгаар pull request URL болон холбогдох үйл явдлуудыг (ревью илгээх, төлөв өөрчлөгдөх, мерж хийхэд үүсэх зөрчил гэх мэт) JSON хэлбэрээр шууд харах боломжтой. Энэ нь агентуудад polling хийх шаардлагагүйгээр илүү үр дүнтэй ажиллах нөхцөлийг бүрдүүлж байна.\n\nОдоогоор энэхүү боломж нь урьдчилсан байдлаар (preview) ажиллаж байгаа бөгөөд ашиглахын тулд GitHub-ийн Event Streams хүлээлгийн жагсаалтад бүртгүүлэх шаардлагатай. Хөгжүүлэгчид gh v2.105.0 болон түүнээс дээш хувилбар руу шинэчлэн туршиж үзэх боломжтой.",
+   "published": "2026-11-19T00:00:13Z",
+   "added": "2026-11-19T05:01:05Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }

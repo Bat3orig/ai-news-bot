@@ -1,0 +1,17 @@
+{
+ "id": "b21e3d35db3791fa",
+ "subtopic": "gemini",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+ "title": "Gemini 4 Neon",
+ "summary_en": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 599 # Comments: 532",
+ "title_mn": "Google DeepMind шинэ Gemini 4 Neon загвараа танилцууллаа",
+ "summary_mn": "Google-ийн шинэ Gemini 4 Neon загвар нь 1 сая токенийн контекст цонхтой бөгөөд программ хангамж хөгжүүлэлт болон шинжлэх ухааны ажлуудад өндөр гүйцэтгэл үзүүлнэ.",
+ "body_mn": "Google DeepMind компани нарийн төвөгтэй программ хангамж хөгжүүлэлт, судалгаа шинжилгээний ажлыг хурдан гүйцэтгэх чадвартай Gemini 4 Neon загвараа албан ёсоор танилцууллаа. Энэхүү загвар нь Artificial Analysis болон бусад бие даасан үнэлгээгээр өндөр байр эзэлж байна.\n\nNeon нь 1 сая токенийн контекст цонхтой бөгөөд код бичих, хүснэгт боловсруулах, хууль эрх зүйн болон санхүүгийн олон төрлийн өгөгдлийг нэгэн зэрэг нэгтгэн дүгнэх чадвартай. API болон Google AI Studio дээр оролтод сая токенийн хувьд өндөр хөнгөлөлттэй үнээр хэрэглэгчдэд хүртээмжтэй болж байна.\n\nХөгжүүлэгчдийн хувьд Terminal-Bench болон Coding Agent индекст өндөр оноо авсан энэхүү загвар нь олон файлаар ажиллах, даалгаврыг чанартай гүйцэтгэх чадвараараа агентын урт хугацааны ажлуудад онцгой үр дүнтэй шийдэл болж байна.",
+ "published": "2026-11-18T21:34:07Z",
+ "added": "2026-11-19T05:01:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

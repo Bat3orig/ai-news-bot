@@ -1,0 +1,17 @@
+{
+ "id": "fc48b1e83d4da602",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
+ "title": "Wait for pull request events with GitHub CLI",
+ "summary_en": "GitHub CLI now supports GitHub Event Streams. With gh v2.105.0, you and your agents can wait for a pull request to change with a single command instead of polling it…",
+ "title_mn": "GitHub CLI v2.105.0 гарч, pull request үйл явдлыг хүлээх боломжтой боллоо",
+ "summary_mn": "GitHub CLI v2.105.0 хувилбар гарч GitHub Event Streams дэмждэг боллоо. Хөгжүүлэгчид болон AI агентууд pull request-ийн өөрчлөлтийг давталтгүйгээр нэг команд ашиглан шууд хүлээх боломжтой болжээ.\n\nШинэ gh event listen командын тусламжтайгаар pull request URL болон холбогдох үйл явдлуудыг (ревью илгээх, төлөв өөрчлөгдөх, мерж хийхэд үүсэх зөрчил гэх мэт) JSON хэлбэрээр шууд харах боломжтой. Энэ нь агентуудад polling хийх шаардлагагүйгээр илүү үр дүнтэй ажиллах нөхцөлийг бүрдүүлж байна.\n\nОдоогоор энэхүү боломж нь урьдчилсан байдлаар (preview) ажиллаж байгаа бөгөөд ашиглахын тулд GitHub-ийн Event Streams хүлээлгийн жагсаалтад бүртгүүлэх шаардлагатай. Хөгжүүлэгчид gh v2.105.0 болон түүнээс дээш хувилбар руу шинэчлэн туршиж үзэх боломжтой.",
+ "body_mn": "GitHub CLI v2.105.0 хувилбар гарч GitHub Event Streams дэмждэг боллоо. Хөгжүүлэгчид болон AI агентууд pull request-ийн өөрчлөлтийг давталтгүйгээр нэг команд ашиглан шууд хүлээх боломжтой болжээ.\n\nШинэ gh event listen командын тусламжтайгаар pull request URL болон холбогдох үйл явдлуудыг (ревью илгээх, төлөв өөрчлөгдөх, мерж хийхэд үүсэх зөрчил гэх мэт) JSON хэлбэрээр шууд харах боломжтой. Энэ нь агентуудад polling хийх шаардлагагүйгээр илүү үр дүнтэй ажиллах нөхцөлийг бүрдүүлж байна.\n\nОдоогоор энэхүү боломж нь урьдчилсан байдлаар (preview) ажиллаж байгаа бөгөөд ашиглахын тулд GitHub-ийн Event Streams хүлээлгийн жагсаалтад бүртгүүлэх шаардлагатай. Хөгжүүлэгчид gh v2.105.0 болон түүнээс дээш хувилбар руу шинэчлэн туршиж үзэх боломжтой.",
+ "published": "2026-11-19T00:00:13Z",
+ "added": "2026-11-19T05:01:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

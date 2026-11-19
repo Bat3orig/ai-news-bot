@@ -1,0 +1,17 @@
+{
+ "id": "362ee7bc4f192047",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+ "image": "https://github.blog/wp-content/uploads/2026/11/710810976-7eb80d08-78b7-4fbe-b584-0995e1de504f.png",
+ "title": "Gemini 4 Neon in GitHub Copilot",
+ "summary_en": "Gemini 4 Neon is now generally available in GitHub Copilot. It is designed for agentic coding, multistep tool use, and knowledge work. According to Google, Gemini 4 Neon delivers quality…",
+ "title_mn": "GitHub Copilot-д Gemini 4 Neon загвар нэмэгдлээ",
+ "summary_mn": "Gemini 4 Neon загвар GitHub Copilot-д албан ёсоор нэвтэрч, агентын код бичих болон олон алхамт хэрэгсэл ашиглалтад ашиглагдах боломжтой боллоо.",
+ "body_mn": "Google компани Gemini 4 Neon загвараа GitHub Copilot платфортод бүх нийтээр ашиглах боломжтой болгосноо зарлалаа. Энэхүү загвар нь агентын код бичих, олон шаттай хэрэгслүүдийг ашиглах, мэдлэгийн чанартай ажлуудад зориулагдсан юм.\n\nGoogle-ийн мэдээлснээр Gemini 4 Neon нь Gemini 4 Carbon-той төстэй чанарыг үзүүлэх боловч нэгж даалгаварт зарцуулах токены өртөг багатай аж. Мөн хариу өгөх хурд илүү хурдан бөгөөд код бичих явцад хүсээгүй өөрчлөлт хийх нь бага байдгаараа давуу талтай.\n\nЭнэхүү загвар нь Copilot Pro+, Max, Business болон Enterprise хэрэглэгчдэд аדרминистраторын тохиргоогоор дамжин аажмаар хүрч байна. Хөгжүүлэгчид загвар сонгогч цэснээс уг загварыг сонгон ажиллах боломжтой.",
+ "published": "2026-11-18T21:49:21Z",
+ "added": "2026-11-19T05:01:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

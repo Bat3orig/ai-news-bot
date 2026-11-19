@@ -1,0 +1,17 @@
+{
+ "id": "4e5c57bd6246e60b",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+ "title": "Connect Supabase, Box, Calendly, and more to Copilot",
+ "summary_en": "You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. They join more than 25 services you can already connect, like…",
+ "title_mn": "GitHub Copilot-д Supabase болон бусад үйлчилгээнүүдийг холбох боломжтой боллоо",
+ "summary_mn": "Хөгжүүлэгчид Supabase, Box, Calendly зэрэг 8 шинэ үйлчилгээг GitHub-аар баталгаажсан MCP серверүүдийг ашиглан Copilot-той холбох боломжтой боллоо.",
+ "body_mn": "GitHub Copilot дээр хөгжүүлэгчдэд зориулсан шинэ интеграциуд нэмэгдэж, одоо Supabase, Box, Calendly зэрэг найман шинэ үйлчилгээг холбох боломжтой боллоо. Эдгээр нь өмнө нь байсан Slack, Figma, Sentry зэрэг 25 гаруй үйлчилгээний жагсаалтад нэмэгдэж байна.\n\nЖишээлбэл, хөгжүүлэгчид Buildkite дээр бүтээлт яагаад алдаа гарсныг Copilot-оос асууж, нэг сессий дотор кодыг нь засах эсвэл шинэ миграци бичихээсээ өмнө Supabase схемийг шалгуулж болно. Энэ нь хөгжүүлэлтийн явцыг илүү хялбаршуулж байна.\n\nЭдгээр холболтууд нь одоогоор бүх Copilot багцуудад нийтийн урьдчилсан байдлаар (public preview) ажиллаж байна. Бизнес болон Enterprise хэрэглэгчдийн хувьд админ хэрэглэгч Editor preview болон MCP зөвшөөрлийн тохиргоог идэвхжүүлэх шаардлагатай.",
+ "published": "2026-11-18T22:04:50Z",
+ "added": "2026-11-19T05:01:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

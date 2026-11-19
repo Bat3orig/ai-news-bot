@@ -1,0 +1,17 @@
+{
+ "id": "cac57b5217ba2caa",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
+ "title": "Genie 4 is now available",
+ "summary_en": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+ "title_mn": "Google DeepMind Genie 4 загvүүгүүлэлээ",
+ "summary_mn": "Google AI Ultra хэрэглэгчдэд зориулсан Genie 4 загвар нь байгалийн хэлээр бодит цаг хугацаанд орчныг өөрчлөх, дуу чимээ нэмэх боломжийг олгож байна.",
+ "body_mn": "Google DeepMind компани өөрийн Project Genie туршилтын платформын шинэ хувилбар болох Genie 4 загварыг Google AI Ultra хэрэглэгчдэд нээлттэй болголоо. Энэхүү шинэ загвар нь интерактив дижитал ертөнцийг илүү хурдан, харилцан үйлдэлтэйгээр бүтээх боломжийг олгож байна.\n\nХэрэглэгчид энгийн ярианы хэл буюу промпт ашиглан орчны цаг агаар, дүрс болон дагалдах аудио дуу чимээг бодит цагт өөрчлөх боломжтой боллоо. Мөн шинээр нэмэгдсэн Project Genie agent болон олон нийтийн галерей хэсгээр дамжуулан өөрийн бүтээсэн ертөнцийг хуваалцах, бусадтай хамтран ажиллах боломжтой юм.\n\nЭнэхүү шинэчлэл нь Gemini загваруудтай хослон ажиллаж, хэрэглэгчдэд хөтөч дээрээ шууд өөрийн гэсэн интерактив ертөнцийг бүтээх боломжийг олгож байгаагаараа онцлог юм. Genie 3 загвар нь илүү урт хугацааны ажиллагаанд үргэлжлэн ашиглагдах болно.",
+ "published": "2026-11-18T18:13:42Z",
+ "added": "2026-11-19T05:01:05Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
