@@ -1,0 +1,17 @@
+{
+ "id": "e98b3ece297c5fcb",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Analytics India Magazine",
+ "url": "https://analyticsindiamag.com/ai-news/alibaba-launches-qwen4-max-ai-model-with-focus-on-security",
+ "image": "https://analyticsindiamag.com/cdn-cgi/image/width=1200,height=675,fit=cover,quality=70,format=jpeg/https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769124936509-87606b56-c3de-44d6-b468-4fb190426c32-6gm6ua.webp",
+ "title": "Alibaba Launches Qwen4-Max AI Model With Focus on Security",
+ "summary_en": "The 2.4-trillion-parameter model includes a 1-million-token context window, native vision capabilities and security improvements across coding and other tasks.",
+ "title_mn": "Alibaba Qwen4-Max загвараа олон улсад танилцууллаа",
+ "summary_mn": "Alibaba компани 2.4 их над параметр, 1 сая токений контекст цонх бүхий шинэ флагман Qwen4-Max загвараа гаргалаа. Энэхүү загвар нь хэрэглээний зардлыг эрс бууруулж, аюулгүй байдлын шалгуураа мэдэгдэхүйц сайжруулсан байна.",
+ "body_mn": "Alibaba компани хиймэл оюун ухааны шинэ флагман Qwen4-Max загвараа албан ёсоор танилцууллаа. Энэхүү шинэ загвар нь 2.4 их над параметр болон 1 сая токений контекст цонхтой бөгөөд шинжлэх ухаан, програм хангамжийн хөгжүүлэлт, санхүү болон хууль эрх зүйн нарийн төвөгтэй ажлуудад зориулагдсан байна.\n\nКомпанийн зүгээс гаргасан үнэлгээгээр Qwen4-Max нь өмнөх үеийн загвартай харьцуулахад ажиллах хүчин чадал болон token ашиглалтын үр ашгаараа ихээхэн давуу болжээ. Тухайлбал, Work360 үнэлгээний дундаж өртөг 62 хувиар буурч, нэг задачад ноогдох зардал 4.43 ам.долланоос 1.67 ам.доллар болж хямдарсан байна.\n\nМөн аюулгүй байдлын чиглэлд онцгой анхаарч, кодын функц болон файлын түвшний шалгууруудыг сайжруулжээ. Кибер аюулгүй байдлын эрсдэлээс урьдчилан сэргийлэх хамгаалалтыг сайжруулж, эмзэг байдлыг илрүүлэх засах өгөгдлийг түлхүү ашигласан байна. Хөгжүүлэгчид уг загварыг QwenCloud, QwenWork болон API болон токен төлөвлөгөөгээр дамжуулан ашиглах боломжтой.",
+ "published": "2026-11-16T12:19:01Z",
+ "added": "2026-11-19T03:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

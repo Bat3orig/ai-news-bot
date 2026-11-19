@@ -1,0 +1,17 @@
+{
+ "id": "11d7f4207e0fe0d2",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+ "image": "https://github.blog/wp-content/uploads/2026/11/708276078-755fdd57-5343-48b5-a592-ecf652d88e0a.jpg",
+ "title": "Copilot code review: Adaptive effort, secret detection, and more",
+ "summary_en": "GitHub Copilot code review now helps you catch more issues earlier, with less effort. Adaptive matches review depth to each pull request, so routine changes get a quick pass and…",
+ "title_mn": "GitHub Copilot кодын шүүмжид Adaptive болон Secret Detection нэмэгдл",
+ "summary_mn": "GitHub Copilot code review шинэчлэгдэж PR-ийн төвөгтэй байдлаас хамааран хүчин чадлаа автоматаар сонгох Adaptive болон нууц үг, token алдагдлыг илрүүлэх боломжтой боллоо.",
+ "body_mn": "GitHub Copilot кодын шүүмжлэх хэрэгсэлд хөгжүүлэгчдийн ажлыг хөнгөвчлөх чухал шинэ боломжууд нэмэгдсэнийг зарлалаа. Үүнд PR-ийн эрсдэл болон төвөгтэй байдлаас шалтгаалан Lite, Balanced эсвэл Max түвшнийг автоматаар сонгох Adaptive горим public preview хэлбэрээр нээгдлээ.\n\nМөн cross-repository context буюу өөр холбоотой төслүүд дэх код болон баримт бичгийг уншиж шалгах чадвартай болжээ. Үүнээс гадна Secret detection функц нэмэгдсэн бөгөөд 코д нэгтгэхээс өмнө API түлхүүр, нууц үг болон бусад credential код дотор үлдсэн эсэхийг илрүүлж анхааруулна.\n\nЭдгээр шинэ боломжууд нь Copilot Pro, Business болон Enterprise хэрэглэгчдэд нээлттэй болсон бөгөөд Azure DevOps (Azure Repos) орчинд мөн бүрэн дэмжигдэж эхэллээ.",
+ "published": "2026-11-17T18:02:05Z",
+ "added": "2026-11-19T03:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

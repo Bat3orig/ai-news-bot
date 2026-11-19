@@ -1,0 +1,17 @@
+{
+ "id": "1f12985ebcfd0d9c",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v45.3.4",
+ "image": "https://opengraph.githubassets.com/b443441034884197973a5c2c97e1d066857a8efdebcedad2a41eec447884d39f/electron/electron/releases/tag/v45.3.4",
+ "title": "electron v45.3.4",
+ "summary_en": "Release Notes for v45.3.4 Fixes Fixed a leak where right-clicked elements stayed alive after removal. #55503 (Also in 46 )",
+ "title_mn": "electron v45.3.4 хувилбар гарлаа",
+ "summary_mn": "Electron фрэймворкийн v45.3.4 хувилбар гарч, баруун товчлуураар дарсан элементийг устгасны дараа санах ойд үлдэж гажиг үүсгэдэг санах ойн алдагдлыг (memory leak) заслаа.",
+ "body_mn": "Electron desktop апп хөгжүүлэлтийн фрэймворкийн шинэ v45.3.4 засварын хувилбар албан ёсоор гарлаа. Энэхүү хувилбарт хөгжүүлэгчдийн анхаарах ёстой чухал алдааг зассан байна.\n\nТодруулбал, UI дотор баруун товчлуураар дарж сонгосон элементүүдийг устгасны дараа санах ойд үргэлжлэн амьд үлдэж санах ойн алдагдал (memory leak) үүсгэдэг байсан техникийн алдааг бүрэн зассан байна. Уг засвар нь мөн v46 хувилбарт хамт орсон болно.\n\nElectron ашиглан desktop апп бүтээж буй багууд уг шинэчлэлтийг хийснээр санах ойн ашиглалтаа сайжруулах боломжтой.",
+ "published": "2026-11-17T18:58:56Z",
+ "added": "2026-11-19T03:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

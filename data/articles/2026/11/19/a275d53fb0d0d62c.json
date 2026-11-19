@@ -1,0 +1,17 @@
+{
+ "id": "a275d53fb0d0d62c",
+ "subtopic": "packages",
+ "source": "Frontend Focus",
+ "source_label": "Frontend Focus",
+ "url": "https://frontendfoc.us/issues/767",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/jhi7bhjracqrzildsuo1.jpg",
+ "title": "What developers think of HTML right now",
+ "summary_en": "🚀 Frontend Focus #​767 — November 18, 2026 | Read on the web 🗳️ The State of HTML 2026 Results The State of HTML 2026 results are now out covering what developers are using, loving and struggling with, plus how much they use AI . Declarative, element-based features are winners, while form controls remain difficult. Some highlights: < details >/< summary > (72.5%) and < dialog > (67.8%) are the most used interactivity features, and use of the Popover API has reached 40% now that it works in every major browser. < select > and date inputs are the hardest elements to style, and customizable…",
+ "title_mn": "State of HTML 2026 судалгааны үр дүн болон Chrome 158 шинэчлэлтүүд",
+ "summary_mn": "State of HTML 2026 судалгаагаар хөгжүүлэгчдийн ашиглаж буй элементүүд болон тулгамдаж буй асуудлууд тодорхой боллоо. Мөн jQuery 4.1 болон тогтвортой Chrome 158 хувилбар гарлаа.",
+ "body_mn": "State of HTML 2026 судалгааны үр дүнгээр хөгжүүлэгчид dialog болон popover API зэрэг элементүүдийг өргөнөөр ашиглаж байгааг онцолжээ. Харин select элемент болон огнооны оролтуудыг загварчлахад хүндрэлтэй хэвээр байгаа аж. Судалгаагаар уугуул өгөгдлийн хүснэгтүүдийг эрэмбэлэх, шүүх боломжтой болгох нь хөгжүүлэгчдийн хүслийн жагсаалтыг тэргүүлжээ.\n\nҮүний зэрэгцээ Chrome 158 хувилбар тогтвортой байдалд шилжиж, шинэ элемента болон медиа төлөвийн pseudo-классуудыг нэвтрүүлсэн байна. Мөн jQuery 4.1 болон 3.8 хувилбарууд албан ёсоор гарсан бөгөөд 3.x цувралын сүүлийн боломжит шинэчлэлт болж байна.\n\nВэб хөгжүүлэлтэд AI хэрэгслүүдийг ашиглах үед гардаг алдаануудын талаарх Chrome багийн туршилт мөн нийтлэгдсэн байна. Орчин үеийн вэб удирдамж ашиглахгүйгээр AI агент нь вэб шилдэг туршлагуудын дөнгөж 50 хувийг л хангаж чадаж байгааг онцолжээ.",
+ "published": "2026-11-18T00:00:00Z",
+ "added": "2026-11-19T03:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

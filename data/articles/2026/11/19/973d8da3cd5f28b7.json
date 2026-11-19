@@ -1,0 +1,17 @@
+{
+ "id": "973d8da3cd5f28b7",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.53.0",
+ "image": "https://opengraph.githubassets.com/b92b71984dea7e3d324ce0ff8f224f48659ee40ec5567b188e0d3c01186ebcb1/openai/openai-python/releases/tag/v3.53.0",
+ "title": "openai-python v3.53.0",
+ "summary_en": "3.53.0 (2026-11-17) Features api: add 2-hour and 8-hour Responses background windows ( 720bcb5 ) api: add the GPT-6.2 Astra Law Responses model identifier ( 720bcb5 ) api: add the GPT-6.2 Astra model identifier ( 720bcb5 ) api: add the GPT-6.2 Sol model identifier ( 720bcb5 )",
+ "title_mn": "openai-python v3.53.0 хувилбар шинэ загвар, боломжуудтайгаар гарлаа",
+ "summary_mn": "openai-python сангийн v3.53.0 хувилбар шинээр GPT-6.2 Astra болон Sol загварын нэршлийг нэмж, 2 болон 8 цагийн Responses background цонхыг дэмждэг боллоо.",
+ "body_mn": "openai-python багцын шинэ v3.53.0 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр хөгжүүлэгчдэд зориулсан хэд хэдэн чухал API боломжууд нэмэгджээ.\n\nТодруулбал, GPT-6.2 Astra, GPT-6.2 Astra Law болон GPT-6.2 Sol загварын шинэ нэршлүүд API дотор албан ёсоор бүртгэгдсэн байна. Мөн түүнчлэн API хүсэлтүүдэд зориулсан 2 болон 8 цагийн Responses background цонхны тохиргоог нэмжээ.\n\nХөгжүүлэгчид энэхүү хувилбарт шинэчлэгдсэн dependency болон API endpoints ашиглан шинэ загваруудыг өөрийн төслүүдэд шууд холбож турших боломжтой боллоо.",
+ "published": "2026-11-17T18:40:24Z",
+ "added": "2026-11-19T03:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

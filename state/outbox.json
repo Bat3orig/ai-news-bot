@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "10a12acb9645adcc",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending TypeScript",
-   "source_label": "GitHub Trending TypeScript",
-   "url": "https://github.com/ag-ui-protocol/ag-ui",
-   "image": "https://opengraph.githubassets.com/d06f11562798a77feafbfda818cdd9208adf5dd6bde50ffe94d1a1e83d073144/ag-ui-protocol/ag-ui",
-   "title": "ag-ui-protocol/ag-ui",
-   "summary_en": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com The open protocol that connects any agent to any app. Docs · Examples · Spec · Discord AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Agents don't fit the request/response model. They stream tokens, call tools mid-response, update shared state, pause for a human, and spawn subagents, and every framework does it differently. AG-UI replaces that custom wiring with one bi-directional event stream: the agent emits typed…",
-   "title_mn": "ag-ui-protocol/ag-ui: AI агентуудыг хэрэглэгчийн интерфейстэй холбох нээлттэй протокол",
-   "summary_mn": "AG-UI бол AI агентуудыг вэб, мобайл болон бусад хэрэглэгчийн интерфейстэй холбохыг стандартчилсан нээлттэй, хөнгөн жинтэй протокол юм. Энэхүү 1.0 хувилбар нь JSON Schema-д суурилсан тогтвортой спецификаци болон TypeScript, Python, .NET SDK-уудыг санал болгож байна.",
-   "body_mn": "AI агентууд энгийн хүсэлт/хариултын загварт захирагдалгүйгээр токеныг шууд дамжуулах, дундуур нь хэрэгсэл дуудах, төлөв шинэчлэх зэрэг үйлдлийг хийдэг ч хөгжүүлэгчид үүнийг янз бүрээр өөрөөр угсарч ирсэн. AG-UI энэ асуудлыг шийдэж, хоёр талын урсгал бүхий нэгдсэн эвент стримийг санал болгосноор ямар ч агент ямар ч платформ дээр ажиллах боломжийг бүрдүүлдэг.\n\nAG-UI 1.0 хувилбар нь албан ёсоор бэлэн болж, бүрэн тогтворжсон спецификаци болон TypeScript, Python, .NET хэлний SDK-уудтайгаар гарлаа. Энэхүү протокол нь өмнөх 0.x хувилбаруудтай бүрэн зохицох чадвартай бөгөөд хөгжүүлэгчид CLI ашиглан вэб болон терминал клиентүүдийг хялбархан угсрах боломжтой.\n\nЭнэхүү хэрэгсэл нь A2A болон MCP протоколуудтай төгс хослон ажиллаж, агентуудыг хэрэглэгчдэд хүргэх гүүр болдог. Google, Microsoft, Amazon зэрэг томоохон компаниудын дэмжлэгийг хүлээсэн бөгөөд олон төрлийн клиент, фреймворкуудтай шууд холбогдох боломжтой юм.",
-   "published": "2026-11-19T01:24:39Z",
-   "added": "2026-11-19T01:24:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "aaea0027bae21ad5",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending TypeScript",
-   "source_label": "GitHub Trending TypeScript",
-   "url": "https://github.com/karakeep-app/karakeep",
-   "image": "https://opengraph.githubassets.com/b3408c13a6fd68a49e5bd3e18ed00766579c723487feb54b7694fb799a81843f/karakeep-app/karakeep",
-   "title": "karakeep-app/karakeep",
-   "summary_en": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search https://karakeep.com Karakeep (previously Hoarder) is a self-hostable bookmark-everything app with a touch of AI for the data hoarders out there. Features Bookmark links, take simple notes and store images and pdfs. Automatic fetching for link titles, descriptions and images. Sort your bookmarks into lists. Collaborate with others on the same list. Full text & semantic search of all the content stored. LLM-based automatic tagging and summarization. With supports for local…",
-   "title_mn": "karakeep-app/karakeep: Өөрийн сервер дээр байршуулах боломжтой AI-тай хавчуургын апп",
-   "summary_mn": "Karakeep (хуучнаар Hoarder) нь вэб хуудас, тэмдэглэл, зураг зэргийг хадгалж, AI ашиглан автоматаар шошголох боломжтой, өөрийн сервер дээр байршуулдаг хавчуургын менежер юм. Системийн инженерүүд болон дата цуглуулагчдад зориулсан энэхүү төсөл нь бүрэн текст хайлт болон бусад хэрэгцээт боломжуудыг агуулжээ.",
-   "body_mn": "Интернэтээс сонирхолтой нийтлэл, хэрэгсэл олж хадгалаад дараа нь үзэхэд зориулагдсан уламжлалт Read-it-later аппликейшнүүдийн өөрийн сервер дээр байршуулж болох хувилбар юм. Энэхүү төсөл нь линкний урьдчилсан харагдац, AI тусламжтай автоматаар шошголох зэрэг функцүүдээрээ бусдаас ялгардаг.\n\nЭнэхүү апп нь систем хөгжүүлэгчдийн өдөр тутмын хэрэгцээнд зориулагдан бүтээгдсэн бөгөөд вэб хөгжүүлэлтийн ур чадвараа хадгалахын зэрэгцээ өөрт хэрэгтэй зүйлийг бодит болгох зорилготойгоор хөгжиж байна. Хөгжүүлэгчид өөрсдийн сервер дээр гар аргаар болон нэг товчлуурын суулгац ашиглан хялбархан байршуулах боломжтой.\n\nTөсөл нь AGPL-3.0 нээлттэй эх сурвалжийн лицензтэй бөгөөд Localhost Labs Ltd компани эзэмшдэг. Хэрэглэгчид өөрсдийн сервер дээр асаахаас гадна албан ёсны үүлэн үйлчилгээг ашиглах эсвэл Hostinger дээр нэг дарж байрлуулах боломжтой.",
-   "published": "2026-11-19T01:24:39Z",
-   "added": "2026-11-19T01:24:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "43d3ef9bd32addf2",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending JavaScript",
-   "source_label": "GitHub Trending JavaScript",
-   "url": "https://github.com/sveltejs/svelte",
-   "image": "https://repository-images.githubusercontent.com/74293321/6cef4300-6605-11e9-92a3-9171a14b1e2d",
-   "title": "sveltejs/svelte",
-   "summary_en": "web development for the rest of us https://svelte.dev What is Svelte? Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM. Learn more at the Svelte website , or stop by the Discord chatroom . Supporting Svelte Svelte is an MIT-licensed open source project with its ongoing development made possible entirely by fantastic volunteers. If you'd like to support their efforts, please consider: Becoming a backer on Open Collective . Funds donated via Open Collective will be…",
-   "title_mn": "sveltejs/svelte: Вэб апп бүтээх шинэ арга барил бүхий компилятор фреймворк",
-   "summary_mn": "Svelte бол декларатив компонентүүдийг үр ашигтай JavaScript код болгон хөрвүүлж, DOM-ийг шууд шинэчилдэг орчин үеийн вэб хөгжүүлэлтийн хэрэгсэл юм. Энэхүү MIT лицензтэй нээлттэй эхийн төсөл нь хөгжүүлэгчдэд илүү хурдан бөгөөд хөнгөн вэб апп бүтээх боломжийг олгодог.",
-   "body_mn": "Svelte нь уламжлалт фреймворк шиг хэрэглэгчийн төхөөрөмж дээр ажиллахдаа хүндхэн виртуал DOM ашиглахын оронд компиляторын түвшинд ажилладаг. Энэ нь бичигдсэн кодыг маш оновчтой JavaScript болгон хувиргаж, вэб хуудасны ачааллыг эрс багасгадаг.\n\nTөслийн хөгжүүлэлт нь сайн дурын хөгжүүлэгчдийн оролцоотойгоор хийгдэж байгаа бөгөөд Open Collective платформоор дамжуулан санхүүгийн дэмжлэг авдаг. Хөгжүүлэгчид албан ёсны вэбсайт болон Discord чат өрөөнөөр дамжуулан мэдээлэл солилцож, хувь нэмрээ оруулах боломжтой.\n\nMIT лицензтэй энэхүү төсөл нь вэб хөгжүүлэлтийг илүү хялбар бөгөөд өндөр бүтээмжтэй болгох зорилготойгоор тасралтгүй хөгжиж байна. Шинэчлэгдсэн замнал болон хувь нэмэр оруулах зааврыг GitHub хуудаснаас нь харж болно.",
-   "published": "2026-11-19T01:24:39Z",
-   "added": "2026-11-19T01:24:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f213677bccaa4f8f",
-   "subtopic": "gh-js",
-   "source": "GitHub Trending JavaScript",
-   "source_label": "GitHub Trending JavaScript",
-   "url": "https://github.com/DeanChensj/jiangshan-map",
-   "image": "https://opengraph.githubassets.com/66f0cd4580dc9aac5e6aff854ec012deeeb7aa6968e912a4da77642f48d5c8d7/DeanChensj/jiangshan-map",
-   "title": "DeanChensj/jiangshan-map",
-   "summary_en": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes https://deanchen.me/jiangshan-map/ Chronicles of the Realm · 江山时序 English · 简体中文 (Chinese) · 繁體中文 (Traditional Chinese) · 日本語 (Japanese) An Interactive Historical Atlas of China from the Warring States (403 BCE) to the Present — Scrub Through Time, Trace Ancient Cities, and Walk in the Footsteps of History Play Live Demo (English UI) → https://deanchen.me/jiangshan-map/?lang=en The story behind it (in…",
-   "title_mn": "DeanChensj/jiangshan-map: Хятадын түүхийг харуулах интерактив газрын зураг",
-   "summary_mn": "Jiangshan-map бол МЭӨ 403 оноос өнөөг хүртэлх Хятадын түүхийг цаг хугацааны дагуу харуулдаг интерактив түүхэн атлас юм. Хөгжүүлэгчид энэхүү хэрэгслийг ашиглан түүхэн газрууд, эзэнт гүрний хил хязгаар болон алдартай хүмүүсийн амьдралын замналыг газрын зураг дээрээс судлах боломжтой.",
-   "body_mn": "Энэхүү төсөл нь сурах бичгийн зургаас эхлээд олон улсын хөгжүүлэгчдийн анхаарлыг татсан интерактив түүхэн газарзүйн визуализацийн хөдөлгүүр юм. Хэрэглэгчид цаг хугацааны шкафыг урагш хойшлуулж, ямар ч хот эсвэл даваан дээр дарж тухайн үеийн түүхэн мэдээллийг үзэх боломжтой.\n\nМөн уг систем нь хэрэглэгчдэд түүхэн газруудын талаарх асуулт хариулт тоглох, алдартай яруу найрагч, жанжидын амьдралын замналыг мөрөөр нь хөөх боломжийг олгодог. Вэб хөгжүүлэгчид болон блогчид уг газрын зургийг өөрийн сайт эсвэл Notion хуудсанд хялбархан суулгах боломжтой.\n\nҮүнээс гадна энэхүү атлас нь AI агент болон LLM системүүдэд зориулсан түүхэн газарзүйн мэдээллийн сан болж чаддаг. AI загварууд ямар нэгэн координатын тооцоолол хийхгүйгээр шууд түүхэн болон орчин үеийн газар нэрсийг холбох боломжтой юм.",
-   "published": "2026-11-19T01:24:39Z",
-   "added": "2026-11-19T01:24:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "f6c3adbf52c79b31",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/elementalsouls/Claude-BugHunter",
-   "image": "https://repository-images.githubusercontent.com/1229774092/93703d75-077c-4a14-b580-e2374741fe3d",
-   "title": "elementalsouls/Claude-BugHunter",
-   "summary_en": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. https://elementalsouls.github.io/Claude-BugHunter claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability classes · enterprise identity + infrastructure attack matrices ·…",
-   "title_mn": "elementalsouls/Claude-BugHunter: Claude Code-д зориулсан алдаа хайх болон пентест хэрэгсэл",
-   "summary_mn": "Claude-BugHunter бол Claude Code системд зориулсан алдаа шалгах, кибер аюулгүй байдлын аудит хийх 83 төрлийн ур чадвар болон тушаалуудыг багтаасан багц юм. Энэхүү хэрэгсэл нь туршлагатай аюулгүй байдлын судлаачийн түвшинд ажиллаж, вэб болон дэд бүтцийн сул талуудыг илрүүлэхэд тусалдаг.",
-   "body_mn": "Энэхүү төсөл нь Claude Code хөгжүүлэлтын орчныг энгийн чатбот байхаа больж, туршлагатай пентест болон алдаа хайгч судлаач шиг ажиллах боломжийг олгодог. Систем нь янз бүрийн эмзэг байдлын ангиллууд болон нийтлэг тайлангийн загваруудыг өөртөө шингээсэн байдаг.\n\nХөгжүүлэгчид үүнийг Claude Code залгаас хэлбэрээр эсвэл терминал дээр суурилсан cbh runner хэлбэрээр хялбархан суулгах боломжтой. HackerOne API дэмжлэгтэйгээр хувийн хөтөлбөрүүд болон тайлангуудтай холбогдох боломжтой боловч ямар нэгэн API түлхүүргүйгээр ч үндсэн ур чадварууд бүрэн ажиллана.\n\nЭнэхүү хэрэгсэл нь интернэтэд нээлттэй гадаад халдлагын гадаргууг шалгахад голлон чиглэгддэг. AI агентуудын тусламжтайгаар код болон системийн аюулгүй байдлыг сайжруулахад чухал үүрэг гүйцэтгэх юм.",
-   "published": "2026-11-19T01:24:39Z",
-   "added": "2026-11-19T01:24:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b03e856411c0697d",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/jingyaogong/minimind",
-   "image": "https://opengraph.githubassets.com/71569191a063bb8ee197d19a5c8a97b28c8003bc826223b18930459befd76c2c/jingyaogong/minimind",
-   "title": "jingyaogong/minimind",
-   "summary_en": "🧠 Train a 64M-parameter LLM from scratch in just 2h! https://jingyaogong.github.io/minimind \"大道至简\" 中文 | English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLHF（DPO）、RLAIF（PPO / GRPO / CISPO）、Tool Use、Agentic RL、自适应思考与模型蒸馏等全过程代码。 MiniMind 同时拓展了视觉模态模型 MiniMind-V 、多模态 Omni 模型 MiniMind-O 、扩散语言模型（MiniMind-dLM）、线性模型（MiniMind-Linear），详见 Discussion 。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM…",
-   "title_mn": "jingyaogong/minimind: Том хэлний загварыг эхнээс нь өөрөө сургаж бүтээхэд зориулсан төсөл",
-   "summary_mn": "MiniMind бол хөгжүүлэгчдэд том хэлний загварын (LLM) дотоод ажиллах зарчмыг ойлгуулж, ердөө хэдхэн төгрөгийн сервер түрээслэн эхнээс нь өөрөө хэлний загвар сургах боломжийг олгодог нээлттэй эхийн төсөл юм. Энэхүү төсөл нь Apache 2.0 лицензтэй бөгөөд PyTorch дээр суурилсан.",
-   "body_mn": "Өнөөгийн хиймэл оюун ухааны эрин үед ChatGPT, DeepSeek зэрэг загварууд гайхалтай үр дүн үзүүлж байгаа ч тэдний асар том хэмжээ нь хувь хөгжүүлэгчдэд сургах болон дотоод бүтцийг нь ойлгоход хүндрэлтэй байдаг. MiniMind энэ хязгаарлалтыг эвдэж, хөгжүүлэгчдэд өөрийн гараар маш жижиг хэлний загварыг бүтээх боломжийг олгодог.\n\nТөслийн зорилго бол хөгжүүлэгчдийг бэлэн сангуудын цаана нуугдсан логикийг ойлгоход туслах явдал юм. Хөгжүүлэгчид NVIDIA GPU ашиглан pretrain, SFT болон DPO буюу хүний таашаалд нийцүүлэх сургалтын үе шатуудыг өөрсдөө биечлэн туршиж үзэх боломжтой.\n\nЭнэхүү төсөл нь tokenizer бэлтгэх, өгөгдөл цэвэрлэх болон загварын жингийн тохиргоог хэрхэн хийхийг тодорхой харуулдаг. Хиймэл оюун ухааны инженерүүд болон загварын дотоод бүтцийг гүнзгий судалж үзэхийг хүссэн хэн бүхэнд хамгийн тохиромжтой сургалтын хэрэглэгдэхүүн юм.",
-   "published": "2026-11-19T01:24:39Z",
-   "added": "2026-11-19T01:24:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "16db77652cb13e5e",
-   "subtopic": "gh-python",
-   "source": "GitHub Trending Python",
-   "source_label": "GitHub Trending Python",
-   "url": "https://github.com/google-research/paper-orchestra",
-   "image": "https://opengraph.githubassets.com/ebcc1f9e1e3d9436e62f229b4896a860ddab8b0f926b1000e7744567ca578d73/google-research/paper-orchestra",
-   "title": "google-research/paper-orchestra",
-   "summary_en": "PaperOrchestra is a multi-agent framework for automated AI research paper writing. https://yiwen-song.github.io/paper_orchestra/ 🎻 PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing Yiwen Song 1 , Yale Song 1 , Tomas Pfister 1 , and Jinsung Yoon 1 1 Google Cloud AI Research PaperOrchestra is a multi-agent framework for automated AI research paper writing. It flexibly transforms unconstrained pre-writing materials (ideas and experimental logs) into submission-ready LaTeX manuscripts, including comprehensive literature synthesis and generated visuals, such as plots…",
-   "title_mn": "google-research/paper-orchestra: AI судалгааны өгүүлэл автоматаар бичих олон агентын систем",
-   "summary_mn": "PaperOrchestra бол судалгааны түүхий материал болон туршилтын логуудыг боловсруулж, хэвлэлд бэлэн LaTeX өгүүлэл болгон хувиргадаг олон агентын фреймворк юм. Энэхүү төсөл нь уран зостлогын судалгаа, графика зураглал болон хэсгүүдийн бичвэрийг автоматаар гүйцэтгэдэг.",
-   "body_mn": "Шинжлэх ухааны судалгаа хийх болон үр дүнгээ өгүүлэл болгон бичих үйл явц нь маш их цаг хугацаа шаарддаг. PaperOrchestra нь энэ үйл явцыг автоматжуулж, судалгааны санаа болон туршилтын үр дүнгээс шууд хэвлэлд бэлэн LaTeX форматтай өгүүлэл гаргаж өгдөг.\n\nСистем нь тусгай үүрэг бүхий олон агентуудын баг хэлбэрээр ажиллаж, тойм судалгаа хийх, бүтэц гаргах, агуулгыг сайжруулах, графика зураг зохиох зэрэг ажлуудыг хооронд нь уялдаатайгаар гүйцэтгэдэг. Python 3.11 болон Conda орчинд суурилсан бөгөөд хөгжүүлэгчид Streamlit дээр суурилсан интерактив демог ашиглаж үзэх боломжтой.\n\nЭнэхүү төсөл нь Google-ийн албан ёсны бүтээгдэхүүн биш боловч судлаачид болон хөгжүүлэгчдэд эрдэм шинжилгээний өгүүлэл бичих ажлыг хөнгөвчлөхөд үнэтэй хувь нэмэр оруулах юм.",
-   "published": "2026-11-19T01:24:39Z",
-   "added": "2026-11-19T01:24:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2bce2856839956f2",
-   "subtopic": "gh-rust",
-   "source": "GitHub Trending Rust",
-   "source_label": "GitHub Trending Rust",
-   "url": "https://github.com/BurntSushi/jiff",
-   "image": "https://opengraph.githubassets.com/ab7ae25d607161f214b9abd8d8514eccc3c630221bca911d0661c4457f300413/BurntSushi/jiff",
-   "title": "BurntSushi/jiff",
-   "summary_en": "A datetime library for Rust that encourages you to jump into the pit of success. Jiff Jiff is a datetime library for Rust that encourages you to jump into the pit of success. The focus of this library is providing high level datetime primitives that are difficult to misuse and have reasonable performance. Jiff supports automatic and seamless integration with the Time Zone Database, DST aware arithmetic and rounding, formatting and parsing zone aware datetimes losslessly, opt-in Serde support and a whole lot more. Jiff takes enormous inspiration from Temporal , which is a TC39 proposal to…",
-   "title_mn": "BurntSushi/jiff: Rust хэлэнд зориулсан өндөр түвшний огноо, цагийн сан",
-   "summary_mn": "Jiff бол Rust хэлэнд зориулсан, буруу ашиглахад хэцүү, өндөр гүйцэтгэлтэй огноо, цагийн сан юм. Энэхүү сан нь цагийн бүсийн өгөгдлийн сангийн дэмжлэг, зуны цагийн тооцоолол болон JavaScript Temporal сангаас санаа авсан хялбар API-уудыг санал болгодог.",
-   "body_mn": "Rust хэлний стандарт сан болон бусад сангуудад огноо, цагтай ажиллах нь заримдаа төвөгтэй бөгөөд алдаа гаргах магадлал өндөр байдаг. Jiff сан нь хөгжүүлэгчдэд хамгийн зөв аргаар огноо, цагтай ажиллах боломжийг олгох зорилготойгоор бүтээгдсэн өндөр түвшний шийдэл юм.\n\nЭнэхүү сан нь IANA цагийн бүсийн өгөгдлийн сантай автоматаар холбогдож, Unix болон Windows системүүд дээр найдвартай ажилладаг. Мөн Serde дэмжлэгтэй бөгөөд хөгжүүлэгчид Cargo ашиглан төсөлдөө хялбархан нэмж ашиглах боломжтой.\n\nГүйцэтгэл болон API-ийн зөв байдлыг хослуулсан энэхүү сан нь Rust хэл дээр цаг хугацаатай холбоотой төслүүд хөгжүүлж буй инженерүүдэд зайлшгүй шаардлагатай хэрэгсэл юм.",
-   "published": "2026-11-19T01:24:39Z",
-   "added": "2026-11-19T01:24:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9cfddd638b21808d",
-   "subtopic": "gh-rust",
-   "source": "GitHub Trending Rust",
-   "source_label": "GitHub Trending Rust",
-   "url": "https://github.com/antithesishq/bombadil",
-   "image": "https://opengraph.githubassets.com/d61af911579de12bd5dff5639e6a88fc1a3bb29c8600b8c051651156067c5c0d/antithesishq/bombadil",
-   "title": "antithesishq/bombadil",
-   "summary_en": "Property-based testing for web and terminal UIs https://antithesishq.github.io/bombadil/ Bombadil Property-based testing for web and terminal UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier . Runs in your local developer environment, in CI, and inside Antithesis. Documentation Learn all about Bombadil with the following resources: The Bombadil Manual Installation Examples Join us Join us on our quest to reinvent how the world thinks about software reliability. We are hiring. Or, if you want to hack on it, see Contributing . We prefer GitHub…",
-   "title_mn": "antithesishq/bombadil: Веб болон терминал UI-д зориулсан property-based тестийн хэрэгсэл",
-   "summary_mn": "Bombadil нь веба болон терминалын хэрэглэгчийн интерфэйст зориулсан property-based тестийн хэрэгсэл юм. Энэ нь алдааг эрт илрүүлэх зорилгоор зөв байх шинж чанаруудыг автоматаар шалгадаг.",
-   "body_mn": "antithesishq/bombadil нь веб болон терминал UI-д зориулагдсан property-based тестийн нээлттэй эх сурвалжтай хэрэгсэл юм. Энэхүү хэрэгсэл нь програм хангамжийн зөв байх шинж чанаруудыг автоматаар судлан шалгаж, илүү хүнд алдаануудыг хөгжүүлэлтийн эхэн үед илрүүлэхэд тусалдаг.\n\nУг хэрэгслийг хөгжүүлэгчийн дотоод орчин, CI систем болон Antithesis дотор шууд ажиллуулах боломжтой байдлаар бүтээжээ. Програм хангамжийн найдвартай байдлыг шинэ түвшинд гаргах зорилготой энэхүү төсөл нь Rust хэл дээр бичигдсэн бөгөөд хөгжүүлэгчдэд илүү хүчтэй спецификаци, хурдан феззер ашиглах боломжийг олгодог.\n\nТөслийг туршиж үзэхийг хүссэн хөгжүүлэгчид албан ёсны GitHub хуудас руу орж хувь нэмэр оруулах боломжтой байна. Багийн зүгээс таталт хүсэлт буюу pull request илгээхээс илүүтэйгээр GitHub асуудал болон Discord яриа өрнүүлэхийг илүүд үздэг ажээ.",
-   "published": "2026-11-19T01:24:39Z",
-   "added": "2026-11-19T01:24:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "06b6387dd3484f1c",
-   "subtopic": "gh-rust",
-   "source": "GitHub Trending Rust",
-   "source_label": "GitHub Trending Rust",
-   "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-   "image": "https://opengraph.githubassets.com/9d551b276ad47ddd4e9a0f21c06e86d9d82e53d82d71544aba56a100feb52f55/PrimeIntellect-ai/prime-agent",
-   "title": "PrimeIntellect-ai/prime-agent",
-   "summary_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks. Prime Agent: A Self-Improving RLM Harness Documentation • Verifiers • PRIME-RL Prime Agent is an open-source coding and research agent for general and long-running work. It is designed around two core abstractions: The Recursive Language Model (RLM) treats context as variables ( prompt-as-a-variable ) and tools like recursive subagents as function calls ( programmatic tool /sub-agent calling ) inside a persistent REPL. The Continual Harness stores supplemental prompts, memories, skill descriptions, and…",
-   "title_mn": "PrimeIntellect-ai/prime-agent: Урт хугацааны даалгаварт зориулсан код бичих болон судалгааны агент",
-   "summary_mn": "Prime Agent нь код бичих болон судалгааны ажлыг урт хугацаанд бие даан гүйцэтгэхэд зориулагдсан нээлттэй эх сурвалжтай агент юм. Энэ нь Python хяналтын орчин болон дахин ашиглах боломжтой төлөвийг хослуулсан.",
-   "body_mn": "PrimeIntellect-ai/prime-agent нь ерөнхий болон урт хугацааны ажлуудад зориулагдсан код бичих болон судалгааны нээлттэй эх сурвалжтай агент юм. Энэхүү хэрэгсэл нь үндсэн хоёр абстракцид суурилсан бөгөөд ажиллах орчны нөхцөл болон дахин ашиглах боломжтой үйлдлийн хэв маягийг нэг чат цонхны хязгаараас давж хадгалах боломжийг олгодог.\n\nУг агентыг нэг командын суулгагчаар хялбархан суулгах боломжтой бөгөөд хөгжүүлэгчийн ажиллаж буй лавлах дотор тушаалуудыг гүйцэтгэж, файлуудыг өөрчлөх чадвартай. Аюулгүй байдлын үүднээс хөгжүүлэгчид өөрчлөлтийг сайтар хянаж, найдвартай репозитори дээр ашиглах шаардлагатайг анхааруулсан байна. Мөн worker болон kernel процессууд нь амьдралын мөчлөгийн тусгаарлалт, сэргээлтийг сайжруулдаг.\n\nMIT лицензээр нээлттэй гарсан энэхүү төсөл нь судалгааны ажил болон автоматжуулсан хөгжүүлэлтийн урсгалд маш тохиромжтой. Хөгжүүлэгчид төслийн GitHub хуудас руу орж суулгах заавар болон бусад дэлгэрэнгүй мэдээллүүдийг авах боломжтой.",
-   "published": "2026-11-19T01:24:39Z",
-   "added": "2026-11-19T01:24:39Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "9026aaa1d5288963",
    "subtopic": "gemini",
    "source": "Google Developers Blog",
@@ -597,6 +397,246 @@
    "added": "2026-11-19T03:01:01Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e98b3ece297c5fcb",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Analytics India Magazine",
+   "url": "https://analyticsindiamag.com/ai-news/alibaba-launches-qwen4-max-ai-model-with-focus-on-security",
+   "image": "https://analyticsindiamag.com/cdn-cgi/image/width=1200,height=675,fit=cover,quality=70,format=jpeg/https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769124936509-87606b56-c3de-44d6-b468-4fb190426c32-6gm6ua.webp",
+   "title": "Alibaba Launches Qwen4-Max AI Model With Focus on Security",
+   "summary_en": "The 2.4-trillion-parameter model includes a 1-million-token context window, native vision capabilities and security improvements across coding and other tasks.",
+   "title_mn": "Alibaba Qwen4-Max загвараа олон улсад танилцууллаа",
+   "summary_mn": "Alibaba компани 2.4 их над параметр, 1 сая токений контекст цонх бүхий шинэ флагман Qwen4-Max загвараа гаргалаа. Энэхүү загвар нь хэрэглээний зардлыг эрс бууруулж, аюулгүй байдлын шалгуураа мэдэгдэхүйц сайжруулсан байна.",
+   "body_mn": "Alibaba компани хиймэл оюун ухааны шинэ флагман Qwen4-Max загвараа албан ёсоор танилцууллаа. Энэхүү шинэ загвар нь 2.4 их над параметр болон 1 сая токений контекст цонхтой бөгөөд шинжлэх ухаан, програм хангамжийн хөгжүүлэлт, санхүү болон хууль эрх зүйн нарийн төвөгтэй ажлуудад зориулагдсан байна.\n\nКомпанийн зүгээс гаргасан үнэлгээгээр Qwen4-Max нь өмнөх үеийн загвартай харьцуулахад ажиллах хүчин чадал болон token ашиглалтын үр ашгаараа ихээхэн давуу болжээ. Тухайлбал, Work360 үнэлгээний дундаж өртөг 62 хувиар буурч, нэг задачад ноогдох зардал 4.43 ам.долланоос 1.67 ам.доллар болж хямдарсан байна.\n\nМөн аюулгүй байдлын чиглэлд онцгой анхаарч, кодын функц болон файлын түвшний шалгууруудыг сайжруулжээ. Кибер аюулгүй байдлын эрсдэлээс урьдчилан сэргийлэх хамгаалалтыг сайжруулж, эмзэг байдлыг илрүүлэх засах өгөгдлийг түлхүү ашигласан байна. Хөгжүүлэгчид уг загварыг QwenCloud, QwenWork болон API болон токен төлөвлөгөөгээр дамжуулан ашиглах боломжтой.",
+   "published": "2026-11-16T12:19:01Z",
+   "added": "2026-11-19T03:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "11d7f4207e0fe0d2",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+   "image": "https://github.blog/wp-content/uploads/2026/11/708276078-755fdd57-5343-48b5-a592-ecf652d88e0a.jpg",
+   "title": "Copilot code review: Adaptive effort, secret detection, and more",
+   "summary_en": "GitHub Copilot code review now helps you catch more issues earlier, with less effort. Adaptive matches review depth to each pull request, so routine changes get a quick pass and…",
+   "title_mn": "GitHub Copilot кодын шүүмжид Adaptive болон Secret Detection нэмэгдл",
+   "summary_mn": "GitHub Copilot code review шинэчлэгдэж PR-ийн төвөгтэй байдлаас хамааран хүчин чадлаа автоматаар сонгох Adaptive болон нууц үг, token алдагдлыг илрүүлэх боломжтой боллоо.",
+   "body_mn": "GitHub Copilot кодын шүүмжлэх хэрэгсэлд хөгжүүлэгчдийн ажлыг хөнгөвчлөх чухал шинэ боломжууд нэмэгдсэнийг зарлалаа. Үүнд PR-ийн эрсдэл болон төвөгтэй байдлаас шалтгаалан Lite, Balanced эсвэл Max түвшнийг автоматаар сонгох Adaptive горим public preview хэлбэрээр нээгдлээ.\n\nМөн cross-repository context буюу өөр холбоотой төслүүд дэх код болон баримт бичгийг уншиж шалгах чадвартай болжээ. Үүнээс гадна Secret detection функц нэмэгдсэн бөгөөд 코д нэгтгэхээс өмнө API түлхүүр, нууц үг болон бусад credential код дотор үлдсэн эсэхийг илрүүлж анхааруулна.\n\nЭдгээр шинэ боломжууд нь Copilot Pro, Business болон Enterprise хэрэглэгчдэд нээлттэй болсон бөгөөд Azure DevOps (Azure Repos) орчинд мөн бүрэн дэмжигдэж эхэллээ.",
+   "published": "2026-11-17T18:02:05Z",
+   "added": "2026-11-19T03:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "848186ead70c7091",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+   "image": "https://github.blog/wp-content/uploads/2026/11/707030498-32736842-e930-46d7-b653-5841bc626d76.png",
+   "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+   "summary_en": "Today, we’re expanding GitHub Copilot Fusion with new models, available on more Copilot surfaces, and results on two public Terminal-Bench leaderboards, giving you more ways to use Fusion and compare…",
+   "title_mn": "GitHub Copilot Fusion шинэ загварууд болон Terminal-Bench үр дүнгээ зарлалаа",
+   "summary_mn": "GitHub Copilot Fusion нь Terminal-Bench 4.1 шалгуурт өндөр амжилт үзүүлж, GitHub.com, Visual Studio болон Mobile аппуудад дэмжигдэж эхэллээ.",
+   "body_mn": "GitHub Copilot Fusion загвар болон платформын шинэчлэлтүүд гарлаа. Энэхүү хэрэгсэл нь Stanford болон бусад байгууллагуудын хамтран явуулдаг Terminal-Bench 4.1 терминалын хиймэл оюуны агентын үнэлгээнд 71.2%-ийн гүйцэтгэл үзүүлж тэргүүлэгчдийн эгнээнд багтжээ.\n\nCopilot Fusion нь өмнөх үеийн загваруудаас илүү хямд бөгөөд үр ашигтайгаар ажиллах чадвартай болохоо харуулсан байна. Хөгжүүлэгчид үүнийг одоо Visual Studio, github.com болон iOS, Android систем дэх GitHub Mobile аппуудын хамгийн сүүлийн хувилбаруудаас сонгон ашиглах боломжтой.\n\nХөгжүүлэгч хүссэн effort түвшнээ тохируулахад л Copilot Fusion автоматаар тухайн даалгаварт хамгийн тохиромжтой загваруудыг зохицуулан ажиллах юм.",
+   "published": "2026-11-17T18:04:48Z",
+   "added": "2026-11-19T03:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3c1c44c31d21a0f3",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Blog",
+   "source_label": "GitHub Blog",
+   "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+   "image": "https://github.blog/wp-content/uploads/2026/11/agents-everywhere.png",
+   "title": "Building the Agent Host Protocol for sessions that continue across devices",
+   "summary_en": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.",
+   "title_mn": "Agent Host Protocol: Төхөөрөмж дамнан ажиллах AI агентын шинэ стандарт",
+   "summary_mn": "GitHub компани AI агентуудын сесс болон төлвийг ямар ч төхөөрөмж дээр тасалдалгүй үргэлжлүүлэх боломж олгох Agent Host Protocol (AHP) нээлттэй стандартыг танилцууллаа.",
+   "body_mn": "Хиймэл оюун ухааны агентууд одоо хэдэн цаг эсвэл хэд хоногийн турш бие даан ажиллах чадвартай болсон хэдий ч хөгжүүлэгч үүнийг хүссэн үедээ, ямар ч төхөөрөмжөөс шалгаж, үргэлжлүүлэх боломжтой байх шаардлагатай. Энэхүү асуудлыг шийдвэрлэхийн тулд GitHub компани Agent Host Protocol (AHP) нээлттэй стандартыг бүтээжээ.\n\nӨмнө нь Copilot агентууд зөвхөн VS Code-ийн цонх болон тухайн редактортой салшгүй холбоотой байсан бөгөөд цонх хаагдахад сесс тасардаг байв. Харин AHP протокол нь URI-аар тодорхойлогдсон channel болон reducer-д суурилсан төлөв удирдлагын тусламжтайгаар үүнийг өөрчилсөн байна.\n\nЭнэхүү стандартыг ашигласнаар хөгжүүлэгч утсан дээрээ үүсгэсэн сессийн ажлыг зөөврийн компьютер эсвэл сервер дээрээ ямар нэгэн тохиргооны алдагдалгүйгээр үргэлжлүүлж, сүлжээний тасалдал болон олон үйлдэлт клиентүүдийн ажиллагааг найдвартай дэмжих боломжтой болж байна.",
+   "published": "2026-11-17T18:20:40Z",
+   "added": "2026-11-19T03:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "70b956584e05d66e",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Blog",
+   "source_label": "GitHub Blog",
+   "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+   "image": "https://github.blog/wp-content/uploads/2026/11/image-17.png",
+   "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+   "summary_en": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half.",
+   "title_mn": "Microsoft болон GitHub нээлттэй эх сурвалжийн төслүүдийн сул талыг засах туршилт эхлүүллээ",
+   "summary_mn": "Microsoft болон GitHub хамтран Kodename MDASH агент систем ашиглан нээлттэй эх сурвалжийн төслүүдэд AI илрүүлэлт хийгээд зогсохгүй бодит код засвар буюу patch бэлтгэн өгөх туршилт явуулжээ.",
+   "body_mn": "Хиймэл оюун ухаан хөгжүүлж буй компаниуд болон нээлттэй эх сурвалжийн төслийн хөгжүүлэгчдийн хувьд AI-аар үүсгэгдсэн хуурамч эсвэл давхардсан эмзэг байдлын тайлангууд маш том дарамт болж байна. Үүнийг шийдвэрлэхийн тулд GitHub болон Microsoft компаниуд хамтран MDASH хэмээх агент хэлбэрийн скан хийх системээр дамжуулан засвартай тайлан илгээх туршилт хийжээ.\n\nТуршилтын хүрээнд 6 алдартай төсөл дээр судалгаа явуулж, AI зөвхөн сул тал олж илрүүлэх будиаан үүсгэхгүйгээр, судлаачдын гараар шалгагдсан бодит засварын патчийг хамт илгээжээ. Үр дүнд нь maintainer-ууд ердөө долоо хоногийн дотор шаардлагатай засваруудыг хүлээн авч нэгтгэсэн байна.\n\nЭнэхүү арга нь хөгжүүлэгчдийн ачааллыг бууруулж, цэвэр олдвор бус харин ажилладаг кодыг гаргаж авахад маш үр дүнтэй болох нь батлагджээ.",
+   "published": "2026-11-17T18:29:29Z",
+   "added": "2026-11-19T03:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "973d8da3cd5f28b7",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.53.0",
+   "image": "https://opengraph.githubassets.com/b92b71984dea7e3d324ce0ff8f224f48659ee40ec5567b188e0d3c01186ebcb1/openai/openai-python/releases/tag/v3.53.0",
+   "title": "openai-python v3.53.0",
+   "summary_en": "3.53.0 (2026-11-17) Features api: add 2-hour and 8-hour Responses background windows ( 720bcb5 ) api: add the GPT-6.2 Astra Law Responses model identifier ( 720bcb5 ) api: add the GPT-6.2 Astra model identifier ( 720bcb5 ) api: add the GPT-6.2 Sol model identifier ( 720bcb5 )",
+   "title_mn": "openai-python v3.53.0 хувилбар шинэ загвар, боломжуудтайгаар гарлаа",
+   "summary_mn": "openai-python сангийн v3.53.0 хувилбар шинээр GPT-6.2 Astra болон Sol загварын нэршлийг нэмж, 2 болон 8 цагийн Responses background цонхыг дэмждэг боллоо.",
+   "body_mn": "openai-python багцын шинэ v3.53.0 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр хөгжүүлэгчдэд зориулсан хэд хэдэн чухал API боломжууд нэмэгджээ.\n\nТодруулбал, GPT-6.2 Astra, GPT-6.2 Astra Law болон GPT-6.2 Sol загварын шинэ нэршлүүд API дотор албан ёсоор бүртгэгдсэн байна. Мөн түүнчлэн API хүсэлтүүдэд зориулсан 2 болон 8 цагийн Responses background цонхны тохиргоог нэмжээ.\n\nХөгжүүлэгчид энэхүү хувилбарт шинэчлэгдсэн dependency болон API endpoints ашиглан шинэ загваруудыг өөрийн төслүүдэд шууд холбож турших боломжтой боллоо.",
+   "published": "2026-11-17T18:40:24Z",
+   "added": "2026-11-19T03:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1f12985ebcfd0d9c",
+   "subtopic": "electron",
+   "source": "electron/electron",
+   "source_label": "electron/electron",
+   "url": "https://github.com/electron/electron/releases/tag/v45.3.4",
+   "image": "https://opengraph.githubassets.com/b443441034884197973a5c2c97e1d066857a8efdebcedad2a41eec447884d39f/electron/electron/releases/tag/v45.3.4",
+   "title": "electron v45.3.4",
+   "summary_en": "Release Notes for v45.3.4 Fixes Fixed a leak where right-clicked elements stayed alive after removal. #55503 (Also in 46 )",
+   "title_mn": "electron v45.3.4 хувилбар гарлаа",
+   "summary_mn": "Electron фрэймворкийн v45.3.4 хувилбар гарч, баруун товчлуураар дарсан элементийг устгасны дараа санах ойд үлдэж гажиг үүсгэдэг санах ойн алдагдлыг (memory leak) заслаа.",
+   "body_mn": "Electron desktop апп хөгжүүлэлтийн фрэймворкийн шинэ v45.3.4 засварын хувилбар албан ёсоор гарлаа. Энэхүү хувилбарт хөгжүүлэгчдийн анхаарах ёстой чухал алдааг зассан байна.\n\nТодруулбал, UI дотор баруун товчлуураар дарж сонгосон элементүүдийг устгасны дараа санах ойд үргэлжлэн амьд үлдэж санах ойн алдагдал (memory leak) үүсгэдэг байсан техникийн алдааг бүрэн зассан байна. Уг засвар нь мөн v46 хувилбарт хамт орсон болно.\n\nElectron ашиглан desktop апп бүтээж буй багууд уг шинэчлэлтийг хийснээр санах ойн ашиглалтаа сайжруулах боломжтой.",
+   "published": "2026-11-17T18:58:56Z",
+   "added": "2026-11-19T03:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ec7727aedb6b55ad",
+   "subtopic": "nextjs",
+   "source": "Next.js Blog",
+   "source_label": "Next.js Blog",
+   "url": "https://nextjs.org/blog/how-were-using-ai-to-make-nextjs-more-secure",
+   "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/how-were-using-ai-to-make-nextjs-more-secure/twitter-card.png",
+   "title": "How we're using AI to make Next.js more secure",
+   "summary_en": "Why you're seeing more Next.js security advisories, and what we're doing about it.",
+   "title_mn": "Next.js баг кодыг аюулгүй байлгахад хиймэл оюун ухааныг хэрхэн ашиглаж байна вэ?",
+   "summary_mn": "Next.js баг сүүлийн жилүүдэд гарсан аюулгүй байдлын зөвлөмжүүдийн өсөлт болон хиймэл оюун ухааныг ашиглан хуучин кодын алдааг олж засварлаж буй туршлагаа хуваалцжээ.",
+   "body_mn": "Сүүлийн жилүүдэд Next.js хүрээний хувьд аюулгүй байдлын зөвлөмжүүд олширсон нь хөгжүүлэгчдийн анхаарлыг татаж байна. Гэсэн хэдий ч энэ нь тус фреймворк муудсаных биш харин LLM буюу хиймэл оюун ухааны дэвшилтэт хэрэгслүүд гарч ирснээр далд байсан алдаануудыг хямд бөгөөд хурдан илрүүлэх боломжтой болсонтой холбоотой ажээ.\n\nЭнэхүү шинэ орчинд дасан зохицохын тулд Next.js баг аюулгүй байдлын хөтөлбөрөө эрчимжүүлж, хуучин кодын санд үлдсэн алдаанудыг цэвэрлэх арга хэмжээнүүдийг авч байна. Тэд алдаа илрүүлэгч урамшууллын хөтөлбөр болон Trail of Bits компаниар дамжуулан гадны аудит хийлгэжээ. Мөн дотооддоо хөгжүүлсэн Eve нэртэй ботыг ашиглан эмзэг байдлыг илрүүлэх, тайланг ангилах, засварын үр нөлөөг шинжлэх ажлуудыг хийж байна.\n\nҮүний үр дүнд тэд Next.js хэрэглэгчдэд засваруудыг тогтмол хуваарийн дагуу буюу сард нэг удаа урьдчилан мэдэгдэн хүргэх шинэ хөтөлбөрийг хэрэгжүүлж эхэлжээ. Энэ нь хөгжүүлэгчдэд шинэчлэлт хийх ажлаа төлөвлөх, хостинг үйлчилгээ үзүүлэгчдэд хамгаалалт бэлтгэхэд туслах юм.",
+   "published": "2026-11-17T20:00:00Z",
+   "added": "2026-11-19T03:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "344626cf5bc878d2",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/standard-build-billing-new-teams",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/JnMHu29jGgLKFR2evLjC1/78307a27bd6c46acef79ed298f2a7478/image__6_.png",
+   "title": "Standard builds move to usage-based billing for new teams",
+   "summary_en": "Starting today, new Pro and Enterprise teams no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. On Pro, Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Enterprise rates follow your contract. Standard builds remain billable after switching from Elastic to Standard for teams covered by this change. Select a build machine in team settings or project settings , or read more about managing your builds . Read more",
+   "title_mn": "Vercel стандард бүтээх орчны төлбөр тооцооны загварт өөрчлөлт орууллаа",
+   "summary_mn": "Шинэ Pro болон Enterprise багуудад зориулсан Стандарт бүтээх орчин хэрэглээнд суурилсан төлбөртэй болж өөрчлөгдлөө.",
+   "body_mn": "Vercel компани шинэ Pro болон Enterprise багуудад Standard build буюу стандартын дагуу бүтээх нэгжийг үндсэн багцад дагалдуулахаа больсноо зарлалаа. Ингэснээр стандартын бүтээх ажлууд бусад машин механизмын адил хэрэглээнд суурилсан тооцооны загварт шилжиж байна.\n\nPro багцын хувьд стандартын дагуу бүтээхэд минут тутамд 0.014 долларын үнэтэй байх бөгөөд сарын ашиглалтын эрх үүнд хамаарна. Харин Enterprise хэрэглэгчдийн хувьд гэрээний дагуу тооцогдох ажээ. Хөгжүүлэгчид багийн болон төслийн тохиргооноос build машин сонгох боломжтой хэвээр үлдэнэ.",
+   "published": "2026-11-17T20:00:00Z",
+   "added": "2026-11-19T03:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "68ddb817fe4001c0",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+   "image": "",
+   "title": "Advancing chip design with OpenAI models",
+   "summary_en": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+   "title_mn": "OpenAI загварууд чип дизайныг сайжруулахад туслаж байна",
+   "summary_mn": "OpenAI-ийн шинэ загварууд Jalapeño цахиур болон RISC-V цөмүүдийн хэлхээг оновчтой болгож, хиймэл оюун ухаанаар чип бүтээх ажилд ахиц гаргалаа.",
+   "body_mn": "OpenAI компани өөрсдийн загваруудыг ашиглан техник хангамж болон чип дизайны салбарт томоохон амжилтад хүрснээ зарлалаа. Тэдний загварууд Jalapeño кремний дээр суурилсан цахилгаан хэлхээг амжилттай оновчтой болгож, RISC-V цөмийн дизайн хөгжүүлэлтийг сайжруулжээ.\n\nЭнэхүү дэвшил нь GPT-6 Astra загварын чадавхыг ашиглан техник хангамжийн инженерчлэлийг хурдасгах, илүү үр ашигтай микропроцессор бүтээхэд хиймэл оюун ухаан ямар үүрэг гүйцэтгэж болохыг харуулсан чухал жишээ болж байна.",
+   "published": "2026-11-18T00:00:00Z",
+   "added": "2026-11-19T03:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a275d53fb0d0d62c",
+   "subtopic": "packages",
+   "source": "Frontend Focus",
+   "source_label": "Frontend Focus",
+   "url": "https://frontendfoc.us/issues/767",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/jhi7bhjracqrzildsuo1.jpg",
+   "title": "What developers think of HTML right now",
+   "summary_en": "🚀 Frontend Focus #​767 — November 18, 2026 | Read on the web 🗳️ The State of HTML 2026 Results The State of HTML 2026 results are now out covering what developers are using, loving and struggling with, plus how much they use AI . Declarative, element-based features are winners, while form controls remain difficult. Some highlights: < details >/< summary > (72.5%) and < dialog > (67.8%) are the most used interactivity features, and use of the Popover API has reached 40% now that it works in every major browser. < select > and date inputs are the hardest elements to style, and customizable…",
+   "title_mn": "State of HTML 2026 судалгааны үр дүн болон Chrome 158 шинэчлэлтүүд",
+   "summary_mn": "State of HTML 2026 судалгаагаар хөгжүүлэгчдийн ашиглаж буй элементүүд болон тулгамдаж буй асуудлууд тодорхой боллоо. Мөн jQuery 4.1 болон тогтвортой Chrome 158 хувилбар гарлаа.",
+   "body_mn": "State of HTML 2026 судалгааны үр дүнгээр хөгжүүлэгчид dialog болон popover API зэрэг элементүүдийг өргөнөөр ашиглаж байгааг онцолжээ. Харин select элемент болон огнооны оролтуудыг загварчлахад хүндрэлтэй хэвээр байгаа аж. Судалгаагаар уугуул өгөгдлийн хүснэгтүүдийг эрэмбэлэх, шүүх боломжтой болгох нь хөгжүүлэгчдийн хүслийн жагсаалтыг тэргүүлжээ.\n\nҮүний зэрэгцээ Chrome 158 хувилбар тогтвортой байдалд шилжиж, шинэ элемента болон медиа төлөвийн pseudo-классуудыг нэвтрүүлсэн байна. Мөн jQuery 4.1 болон 3.8 хувилбарууд албан ёсоор гарсан бөгөөд 3.x цувралын сүүлийн боломжит шинэчлэлт болж байна.\n\nВэб хөгжүүлэлтэд AI хэрэгслүүдийг ашиглах үед гардаг алдаануудын талаарх Chrome багийн туршилт мөн нийтлэгдсэн байна. Орчин үеийн вэб удирдамж ашиглахгүйгээр AI агент нь вэб шилдэг туршлагуудын дөнгөж 50 хувийг л хангаж чадаж байгааг онцолжээ.",
+   "published": "2026-11-18T00:00:00Z",
+   "added": "2026-11-19T03:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "05bed177568c3b94",
+   "subtopic": "ai-devtools",
+   "source": "openai/codex",
+   "source_label": "openai/codex",
+   "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0",
+   "image": "https://opengraph.githubassets.com/f558a5f554fe1b077a534f82044fd2a5d202f2eeb0f5121d88192f6a94c5eda5/openai/codex/releases/tag/rust-v0.170.0",
+   "title": "codex 0.170.0",
+   "summary_en": "New Features Added WebRTC negotiation for realtime voice calls in the TUI. ( #61172 ) Added automatically refreshed authentication headers for OpenTelemetry HTTP exporters. ( #61028 ) Added experimental support for using identically named MCP servers across environments. ( #60905 ) Bug Fixes Oversized WebSocket requests now fall back to HTTP without unnecessary retries. ( #60840 , #60841 ) Fixed MCP OAuth credential races during cancellation, login, and logout. ( #60849 , #60981 ) Improved automatic reconnection for Cloud conversations and preserved active recovery turns when clients…",
+   "title_mn": "Codex 0.170.0 хувилбар шинэ боломж болон алдаа засвартайгаар гарлаа",
+   "summary_mn": "Codex 0.170.0 хувилбар нь TUI дотор бодит цагийн дуудлага хийх WebRTC, OpenTelemetry экспортер болон олон төрлийн алдаа засварыг багтаажээ.",
+   "body_mn": "Codex хэрэгслийн шинэ 0.170.0 хувилбар албан ёсоор гарлаа. Энэхүү хувилбарт TUI орчинд дуут дуудлага хийх зорилгоор WebRTC тохиролцоог нэмсэн бөгөөд OpenTelemetry HTTP экспортер руу илгээх аутентификаციის толгойг автоматаар шинэчилдэг болжээ. Мөн орчны хооронд ижил нэртэй MCP серверийг зэрэг ашиглах туршилтын дэмжлэгийг нэмсэн байна.\n\nТүүнчлэн хэт том WebSocket хүсэлтүүдийг шаардлагагүй дахин оролдлогогүйгээр HTTP рүү буцаадаг болгож, MCP OAuth итгэмжлэлийн алдаа болон цонхны файлын солилцооны асуудлуудыг зассан байна. Хөгжүүлэгчид sandbox болон аюулгүй байдлын тохиргоонуудыг илүү найдвартай удирдах боломжтой боллоо.",
+   "published": "2026-11-18T03:45:39Z",
+   "added": "2026-11-19T03:30:53Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
   }
  }
 ]

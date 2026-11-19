@@ -1,0 +1,17 @@
+{
+ "id": "848186ead70c7091",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+ "image": "https://github.blog/wp-content/uploads/2026/11/707030498-32736842-e930-46d7-b653-5841bc626d76.png",
+ "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+ "summary_en": "Today, we’re expanding GitHub Copilot Fusion with new models, available on more Copilot surfaces, and results on two public Terminal-Bench leaderboards, giving you more ways to use Fusion and compare…",
+ "title_mn": "GitHub Copilot Fusion шинэ загварууд болон Terminal-Bench үр дүнгээ зарлалаа",
+ "summary_mn": "GitHub Copilot Fusion нь Terminal-Bench 4.1 шалгуурт өндөр амжилт үзүүлж, GitHub.com, Visual Studio болон Mobile аппуудад дэмжигдэж эхэллээ.",
+ "body_mn": "GitHub Copilot Fusion загвар болон платформын шинэчлэлтүүд гарлаа. Энэхүү хэрэгсэл нь Stanford болон бусад байгууллагуудын хамтран явуулдаг Terminal-Bench 4.1 терминалын хиймэл оюуны агентын үнэлгээнд 71.2%-ийн гүйцэтгэл үзүүлж тэргүүлэгчдийн эгнээнд багтжээ.\n\nCopilot Fusion нь өмнөх үеийн загваруудаас илүү хямд бөгөөд үр ашигтайгаар ажиллах чадвартай болохоо харуулсан байна. Хөгжүүлэгчид үүнийг одоо Visual Studio, github.com болон iOS, Android систем дэх GitHub Mobile аппуудын хамгийн сүүлийн хувилбаруудаас сонгон ашиглах боломжтой.\n\nХөгжүүлэгч хүссэн effort түвшнээ тохируулахад л Copilot Fusion автоматаар тухайн даалгаварт хамгийн тохиромжтой загваруудыг зохицуулан ажиллах юм.",
+ "published": "2026-11-17T18:04:48Z",
+ "added": "2026-11-19T03:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

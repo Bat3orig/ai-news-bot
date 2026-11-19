@@ -1,0 +1,17 @@
+{
+ "id": "68ddb817fe4001c0",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+ "image": "",
+ "title": "Advancing chip design with OpenAI models",
+ "summary_en": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+ "title_mn": "OpenAI загварууд чип дизайныг сайжруулахад туслаж байна",
+ "summary_mn": "OpenAI-ийн шинэ загварууд Jalapeño цахиур болон RISC-V цөмүүдийн хэлхээг оновчтой болгож, хиймэл оюун ухаанаар чип бүтээх ажилд ахиц гаргалаа.",
+ "body_mn": "OpenAI компани өөрсдийн загваруудыг ашиглан техник хангамж болон чип дизайны салбарт томоохон амжилтад хүрснээ зарлалаа. Тэдний загварууд Jalapeño кремний дээр суурилсан цахилгаан хэлхээг амжилттай оновчтой болгож, RISC-V цөмийн дизайн хөгжүүлэлтийг сайжруулжээ.\n\nЭнэхүү дэвшил нь GPT-6 Astra загварын чадавхыг ашиглан техник хангамжийн инженерчлэлийг хурдасгах, илүү үр ашигтай микропроцессор бүтээхэд хиймэл оюун ухаан ямар үүрэг гүйцэтгэж болохыг харуулсан чухал жишээ болж байна.",
+ "published": "2026-11-18T00:00:00Z",
+ "added": "2026-11-19T03:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "344626cf5bc878d2",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/standard-build-billing-new-teams",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/JnMHu29jGgLKFR2evLjC1/78307a27bd6c46acef79ed298f2a7478/image__6_.png",
+ "title": "Standard builds move to usage-based billing for new teams",
+ "summary_en": "Starting today, new Pro and Enterprise teams no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. On Pro, Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Enterprise rates follow your contract. Standard builds remain billable after switching from Elastic to Standard for teams covered by this change. Select a build machine in team settings or project settings , or read more about managing your builds . Read more",
+ "title_mn": "Vercel стандард бүтээх орчны төлбөр тооцооны загварт өөрчлөлт орууллаа",
+ "summary_mn": "Шинэ Pro болон Enterprise багуудад зориулсан Стандарт бүтээх орчин хэрэглээнд суурилсан төлбөртэй болж өөрчлөгдлөө.",
+ "body_mn": "Vercel компани шинэ Pro болон Enterprise багуудад Standard build буюу стандартын дагуу бүтээх нэгжийг үндсэн багцад дагалдуулахаа больсноо зарлалаа. Ингэснээр стандартын бүтээх ажлууд бусад машин механизмын адил хэрэглээнд суурилсан тооцооны загварт шилжиж байна.\n\nPro багцын хувьд стандартын дагуу бүтээхэд минут тутамд 0.014 долларын үнэтэй байх бөгөөд сарын ашиглалтын эрх үүнд хамаарна. Харин Enterprise хэрэглэгчдийн хувьд гэрээний дагуу тооцогдох ажээ. Хөгжүүлэгчид багийн болон төслийн тохиргооноос build машин сонгох боломжтой хэвээр үлдэнэ.",
+ "published": "2026-11-17T20:00:00Z",
+ "added": "2026-11-19T03:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

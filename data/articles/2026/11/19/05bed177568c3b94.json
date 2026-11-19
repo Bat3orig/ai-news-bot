@@ -1,0 +1,17 @@
+{
+ "id": "05bed177568c3b94",
+ "subtopic": "ai-devtools",
+ "source": "openai/codex",
+ "source_label": "openai/codex",
+ "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0",
+ "image": "https://opengraph.githubassets.com/f558a5f554fe1b077a534f82044fd2a5d202f2eeb0f5121d88192f6a94c5eda5/openai/codex/releases/tag/rust-v0.170.0",
+ "title": "codex 0.170.0",
+ "summary_en": "New Features Added WebRTC negotiation for realtime voice calls in the TUI. ( #61172 ) Added automatically refreshed authentication headers for OpenTelemetry HTTP exporters. ( #61028 ) Added experimental support for using identically named MCP servers across environments. ( #60905 ) Bug Fixes Oversized WebSocket requests now fall back to HTTP without unnecessary retries. ( #60840 , #60841 ) Fixed MCP OAuth credential races during cancellation, login, and logout. ( #60849 , #60981 ) Improved automatic reconnection for Cloud conversations and preserved active recovery turns when clients…",
+ "title_mn": "Codex 0.170.0 хувилбар шинэ боломж болон алдаа засвартайгаар гарлаа",
+ "summary_mn": "Codex 0.170.0 хувилбар нь TUI дотор бодит цагийн дуудлага хийх WebRTC, OpenTelemetry экспортер болон олон төрлийн алдаа засварыг багтаажээ.",
+ "body_mn": "Codex хэрэгслийн шинэ 0.170.0 хувилбар албан ёсоор гарлаа. Энэхүү хувилбарт TUI орчинд дуут дуудлага хийх зорилгоор WebRTC тохиролцоог нэмсэн бөгөөд OpenTelemetry HTTP экспортер руу илгээх аутентификаციის толгойг автоматаар шинэчилдэг болжээ. Мөн орчны хооронд ижил нэртэй MCP серверийг зэрэг ашиглах туршилтын дэмжлэгийг нэмсэн байна.\n\nТүүнчлэн хэт том WebSocket хүсэлтүүдийг шаардлагагүй дахин оролдлогогүйгээр HTTP рүү буцаадаг болгож, MCP OAuth итгэмжлэлийн алдаа болон цонхны файлын солилцооны асуудлуудыг зассан байна. Хөгжүүлэгчид sandbox болон аюулгүй байдлын тохиргоонуудыг илүү найдвартай удирдах боломжтой боллоо.",
+ "published": "2026-11-18T03:45:39Z",
+ "added": "2026-11-19T03:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

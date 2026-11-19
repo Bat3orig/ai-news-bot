@@ -1,0 +1,17 @@
+{
+ "id": "3c1c44c31d21a0f3",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+ "image": "https://github.blog/wp-content/uploads/2026/11/agents-everywhere.png",
+ "title": "Building the Agent Host Protocol for sessions that continue across devices",
+ "summary_en": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.",
+ "title_mn": "Agent Host Protocol: Төхөөрөмж дамнан ажиллах AI агентын шинэ стандарт",
+ "summary_mn": "GitHub компани AI агентуудын сесс болон төлвийг ямар ч төхөөрөмж дээр тасалдалгүй үргэлжлүүлэх боломж олгох Agent Host Protocol (AHP) нээлттэй стандартыг танилцууллаа.",
+ "body_mn": "Хиймэл оюун ухааны агентууд одоо хэдэн цаг эсвэл хэд хоногийн турш бие даан ажиллах чадвартай болсон хэдий ч хөгжүүлэгч үүнийг хүссэн үедээ, ямар ч төхөөрөмжөөс шалгаж, үргэлжлүүлэх боломжтой байх шаардлагатай. Энэхүү асуудлыг шийдвэрлэхийн тулд GitHub компани Agent Host Protocol (AHP) нээлттэй стандартыг бүтээжээ.\n\nӨмнө нь Copilot агентууд зөвхөн VS Code-ийн цонх болон тухайн редактортой салшгүй холбоотой байсан бөгөөд цонх хаагдахад сесс тасардаг байв. Харин AHP протокол нь URI-аар тодорхойлогдсон channel болон reducer-д суурилсан төлөв удирдлагын тусламжтайгаар үүнийг өөрчилсөн байна.\n\nЭнэхүү стандартыг ашигласнаар хөгжүүлэгч утсан дээрээ үүсгэсэн сессийн ажлыг зөөврийн компьютер эсвэл сервер дээрээ ямар нэгэн тохиргооны алдагдалгүйгээр үргэлжлүүлж, сүлжээний тасалдал болон олон үйлдэлт клиентүүдийн ажиллагааг найдвартай дэмжих боломжтой болж байна.",
+ "published": "2026-11-17T18:20:40Z",
+ "added": "2026-11-19T03:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
