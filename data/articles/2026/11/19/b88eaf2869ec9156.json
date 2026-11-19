@@ -1,0 +1,17 @@
+{
+ "id": "b88eaf2869ec9156",
+ "subtopic": "packages",
+ "source": "Node Weekly",
+ "source_label": "Node Weekly",
+ "url": "https://nodeweekly.com/issues/648",
+ "image": "https://res.cloudinary.com/cpress/image/upload/v1653576619/lgfqinzbdqttwmhvljxb.png",
+ "title": "Time-travel debugging for Node",
+ "summary_en": "#​648 — November 19, 2026 Read on the Web 🤖 node-skills: Teach Your Coding Agent About Modern Node.js — LLMs can fail to use features Node has added recently unless you provide a little extra guidance. James's agent skills augment your harness with the likes of node:sqlite , node:ffi , the permission model and new test runner features. James M Snell Build AI Agents That Don’t Burn Your Token Budget — Most AI problems don't need a swarm of agents. Bri Goldfarb from the GitHub Copilot team shows you how to weigh context, reliability, and cost, then build the simplest architecture that works in…",
+ "title_mn": "Node Weekly: Time-travel дебаг хийх хэрэгсэл болон бусад шинэчлэлтүүд",
+ "summary_mn": "Node.js орчинд time-travel дебаг хийх Replay хувилбар, Express 5-ын шинэ TracingChannel болон npm багц суулгах хурдыг сайжруулсан vlt толь болон бусад сонирхолтой хэрэгслүүд гарлаа.",
+ "body_mn": "Node Weekly сонины энэ дугаарт Node.js болон JavaScript хөгжүүлэгчдэд зориулсан олон сонирхолтой шинэ хэрэгсэл, санал болготууд багтжээ. Тухайлбал, Replay хэрэгсэл нь Linux x86-64 системд зориулсан Node хувилбараар дамжуулан аппликейшний алдааг хойш нь эргүүлж харах буюу time-travel дебаг хийх боломжийг олгож байна.\n\nМөн Express 5 хувилбар нь router-ийн түвшинд Node TracingChannel ашиглан middleware болон route handlers-ийн гүйцэтгэлийг ямар нэгэн monkey patching-гүйгээр хянах боломжтой болжээ. Түүнчлэн vlt нь npm багцын metadata татах хурдыг 20-70%-иар хурдасгасан олон нийтийн npm mirror үйлчилгээг нээсэн байна.\n\nХөгжүүлэгчдэд зориулж LLM агентуудад зориулсан node-skills, мөн OpenTelemetry-ийн JavaScript SDK 3.0 гарсан зэрэг нь backend хөгжүүлэлтийн бүтээмжийг нэмэгдүүлэх чухал шинэчлэлтүүд болж байна.",
+ "published": "2026-11-19T00:00:00Z",
+ "added": "2026-11-19T13:01:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
