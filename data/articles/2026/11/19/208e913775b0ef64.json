@@ -1,0 +1,17 @@
+{
+ "id": "208e913775b0ef64",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Ai-1-meta_4.2e16d0ba.fill-1200x600.png",
+ "title": "Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs",
+ "summary_en": "This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts, the approach significantly improves complex reasoning and tool compliance in interactive environments.",
+ "title_mn": "Tunix болон Gemma 4 ашиглан олон алхамт агентлаг сургалт хийх нь",
+ "summary_mn": "Google Cloud TPU дээр Tunix болон Gemma 4 загварыг ашиглан олон алхамт, хэрэгсэл ашигладаг хиймэл оюун ухааны агентыг хэрхэн сургах талаар танилцууллаа.",
+ "body_mn": "Google developers танилцуулснаар Cloud TPU v6e-8 дээр Tunix ашиглан олон алхамт, хэрэгсэл ашигладаг LLM агентыг хэрхэн сургах тухай заавар нийтэлжээ. Энэхүү арга нь загварт орчны хариуг ажиглах, багаж хэрэгсэл дуудах боломжийг олгодог.\n\nPlane Strike хэмээх самбарын тоглоомыг ашиглан Gemma 4 E2B загварын орон зайн сэтгэлгээг сайжруулж, ялалтын хувийг 9.4 хувиас 95 хувь хүртэл өсгөсөн байна. Tunix-ийн agentic GRPO аргыг ашигласнаар тоглоомын дундаж урт богиноссон бөгөөд кодыг GitHub дээрээс үзэх боломжтой.\n\nХөгжүүлэгчид хиймэл оюун ухааны агентуудыг бодит орчинд олон алхмаар ажиллахад сургах техникийг энэхүү заавраас харж болно. Энэ нь агентын хэрэгсэл дуудах болон орчны хариу үйлдэлд дасан зохицох чадварыг сайжруулахад чухал ач холбогдолтой юм.",
+ "published": "2026-11-19T17:30:58Z",
+ "added": "2026-11-19T17:30:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
