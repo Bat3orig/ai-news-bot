@@ -1,0 +1,17 @@
+{
+ "id": "02c236080e62c566",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
+ "image": "https://opengraph.githubassets.com/5b42bee5d440f0e84ecda22947f89cf6c4fa8ccb21c7ee3aac2297099480c966/anthropics/claude-code/releases/tag/v2.1.329",
+ "title": "claude-code v2.1.329",
+ "summary_en": "What's changed Added a trust dialog warning that says where a folder's hooks are declared Added a warning in the conversation, in Claude Desktop and other non-interactive hosts, when hooks in managed settings fail to load Added this session's scheduled tasks, /loop wakeups, the goal and this conversation's forks to /tasks ; x stops one after asking Added a \"Server message\" row to a server's page in /mcp that shows the JSON-RPC error message of a remote HTTP MCP server that refuses the connection Added a \"Marketplace auto-update\" row to /status that names managed marketplaces that get no…",
+ "title_mn": "Claude Code v2.1.329 хувилбар шинэчлэлтүүд болон засваруудтай гарлаа",
+ "summary_mn": "Claude Code хэрэгслийн v2.1.329 шинэ хувилбар гарч, ф олдерийн хууль бус холбоосыг анхааруулах диалог, аюулгүй байдлын сайжруулалт болон macOS дээрх түлхүүрийн сангийн алдааг засжээ.",
+ "body_mn": "Claude Code хэрэгслийн шинэчилсэн v2.1.329 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэ хувилбарт хавтасны (folder) дэгээ (hooks) хаана зарлагдсаныг сануулах шинэ анхааруулах диалог болон интерактив бус орчинд ажиллах үеийн мэдэгдлүүдийг нэмсэн байна. Мөн /tasks болон /mcp командуудад серверийн JSON-RPC алдааны мессежийг харуулах мөрүүдийг шинээр оруулжээ.\n\nТүүнчлэн хөгжүүлэгчдийн тулгардаг олон чухал алдааг засварласан байна. Тухайлбал, сүлжээний доголдлоос үүдэн ~/.claude.json файл анхны төлөв рүүгээ шинэчлэгддэг байсан алдаа болон macOS систем дээр Keychain рүү хадгалах үед гардаг давталттай гарах асуудлуудыг шийджээ. Мөн VS Code доторх diff болон код хянах хэсгүүдийн ажиллагааг сайжруулж, MCP серверүүдийн холболтын тогтвортой байдлыг хангасан байна.",
+ "published": "2026-11-19T22:14:41Z",
+ "added": "2026-11-19T22:32:02Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
