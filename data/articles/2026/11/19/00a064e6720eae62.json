@@ -1,0 +1,17 @@
+{
+ "id": "00a064e6720eae62",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-1440x810.png",
+ "title": "The Gemini app is now available on lower-memory Android devices.",
+ "summary_en": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+ "title_mn": "Gemini апп санах ой багатай Android төхөөрөмжүүдэд ажилладаг боллоо",
+ "summary_mn": "Google компани Gemini аппликейшнийг санах ой багатай Android (Go edition) төхөөрөмжүүдэд зориулан шинэчлэн бүтээж, сая сая хэрэглэгчдэд хүргэж эхэллээ.",
+ "body_mn": "Google компани хөгжиж буй орнуудын сая сая хэрэглэгчдэд хиймэл оюун ухааны туслахыг хүргэх зорилгоор Gemini аппликейшнийг оновчтой болгосноо зарлалаа. Үүний үр дүнд санах ой багатай Android (Go edition) төхөөрөмжүүд дээр уг апп саадгүй ажиллах боломжтой болж байна.\n\nШинэчлэгдсэн хувилбараар хэрэглэгчид урт текст бичихийн оронд Gemini Live ашиглан 45 гаруй хэлээр ярьж дадлага хийх, камераа чиглүүлэн тэмдэглэл орчуулах зэрэг боломжуудыг ашиглах боломжтой. Энэ нь төхөөрөмжийн техник хангамжийн хязгаарлалтыг даван туулж, хиймэл оюун ухааныг илүү өргөн хүрээнд нэвтрүүлж буй чухал алхам юм.\n\nTranssion болон бусад түншүүдийн шинэ утсуудад уг апп урьдчилан суурилагдах бөгөөд Google Play дэлгүүрээс татаж аваад ашиглах боломжтой.",
+ "published": "2026-11-18T17:00:00Z",
+ "added": "2026-11-19T04:30:56Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "187d47ece72966ae",
+ "subtopic": "react-native",
+ "source": "Expo Changelog",
+ "source_label": "Expo Changelog",
+ "url": "https://expo.dev/changelog/expo-services-app",
+ "image": "https://cdn.sanity.io/images/9r24npb8/production/3078963f927dfa96744cce75dff7de1ef0d71119-2400x1280.png?rect=0,10,2400,1260&w=1200&h=630&fm=webp&q=80&auto=format",
+ "title": "The Expo Services App is out: Workflows, Observe and Expo Simulators on your phone",
+ "summary_en": "The Expo Services app is out for iOS and Android. Run Workflows, check Observe data, and test builds on Expo Simulators from your phone.",
+ "title_mn": "Expo Services App албан ёсоор гарлаа",
+ "summary_mn": "Expo баг гар утсаараа дамжуулан Workflows, Observe болон Expo Simulators хянах боломжтой 'Expo Services App' аппликейшнийг гаргалаа.",
+ "body_mn": "Expo баг хөгжүүлэгчдэд зориулсан 'Expo Services App' аппликейшнийг албан ёсоор гаргаснаа зарлалаа. Энэхүү апп нь Expo Workflows, Expo Observe мэдээлэл болон Expo Simulators-ийг гар утсаараа шууд хянах боломжийг олгож байгаа бөгөөд iOS хувилбар нь бүхэлдээ Expo Exact фреймворкоор бичигджээ.\n\nХөгжүүлэгчид энэхүү аппаар дамжуулан идэвхтэй хэрэглэгчид, гүйцэтгэлийн графикууд, мөн Workflows ажиллагааны явцыг харж, мэдэгдэл хүлээн авах боломжтой. Түүнчлэн апп дотроос клоуд iOS симулятор ажиллуулж, процессор болон санах ойн ашиглалтыг шууд хянах боломжтой байна.\n\nОдоогоор симуляторын боломжууд зөвхөн iOS хувилбарт дэмжигдэж байгаа бөгөөд Андройд хувилбар болон үндсэн виджетүүд тун удахгүй нэмэгдэх юм. Хөгжүүлэгчид апп руу имэйл, Google, GitHub эсвэл passkey ашиглан нэвтрэх боломжтой.",
+ "published": "2026-11-18T16:00:00Z",
+ "added": "2026-11-19T04:30:56Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

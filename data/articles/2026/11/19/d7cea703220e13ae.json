@@ -1,0 +1,17 @@
+{
+ "id": "d7cea703220e13ae",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The American Bazaar",
+ "url": "https://americanbazaaronline.com/2026/11/18/microsoft-takes-aim-at-openai-and-anthropic-with-6-new-ai-models-at-a-fraction-of-the-cost-492589/",
+ "image": "https://americanbazaaronline.com/wp-content/uploads/2026/03/Microsoft-X-Anthropic.png",
+ "title": "Microsoft takes aim at OpenAI and Anthropic with 6 new AI models at a fraction of the cost",
+ "summary_en": "Microsoft has unveiled six specialized AI models targeting OpenAI and Anthropic, while CEO Mustafa Suleyman says the company is making progress toward building its own frontier AI model.",
+ "title_mn": "Майкрософт компани OpenAI болон Антропикийг өрсөлдөгч болгох 6 шинэ загвар танилцууллаа",
+ "summary_mn": "Майкрософт компани програмчлал, кибер аюулгүй байдал болон хиймэл оюун ухааны бусад чиглэлд өртөг багатай, өндөр бүтээмжтэй зургаан шинэ загварыг зах зээлд гаргалаа.",
+ "body_mn": "Майкрософт компани Сан Франциско хотноо болсон Ignite бага хурлын үеэр хиймэл оюун ухааны салбарт томоохон шинэчлэл хийж, OpenAI болон Антропик компаниудын тэргүүлэх загваруудтай өрсөлдөхүйц зургаан шинэ тусгай загварыг танилцууллаа. Эдгээр загварууд нь программ хангамж хөгжүүлэлт, кибер аюулгүй байдал, дуу хоолой болон дүрс бүтээх чиглэлд чиглэжээ.\n\nТус компани MAI Code 2 болон MAI Code 2 Flash хэмээх код бичих шинэ загваруудыг зарласан бөгөөд эдгээр нь өрсөлдөгчдийн бүтээгдэхүүнтэй дүйцэхүйц гүйцэтгэлтэй атлаа хамаагүй хямд өртөгтэй болохыг гүйцэтгэх захирал Мустафа Сулейман онцолсон байна. Тухайлбал, MAI Code 2 нь Claude Opus 5.5 загварын гүйцэтгэлийн 96 хувийг ердөө 5 хувийн үнээр үзүүлдэг ажээ.\n\nМөн кибер аюулгүй байдлын чиглэлд зориулсан MAI Cyber 2 Flash загвар нь даалгавар бүрийн өртөг багатайгаар өндөр үзүүлэлт харуулж байна. Майкрософт энэхүү алхмаараа гадны үйлчилгээ үзүүлэгчдээс хараат байдлаа бууруулж, аж ахуйн нэгж хэрэглэгчдэд илүү хэмнэлттэй шийдлүүдийг санал болгох зорилготой байна.",
+ "published": "2026-11-18T16:45:04Z",
+ "added": "2026-11-19T04:30:56Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

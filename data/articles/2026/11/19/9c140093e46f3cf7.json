@@ -1,0 +1,17 @@
+{
+ "id": "9c140093e46f3cf7",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+ "image": "https://europeanbusinessmagazine.com/wp-content/uploads/2026/06/ai5555-1024x678.jpg",
+ "title": "AI agents ask better questions than KPMG accountants in audit trial",
+ "summary_en": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 403 # Comments: 173",
+ "title_mn": "KPMG-ийн аудитын туршилтаар хиймэл оюун ухааны агентууд илүү сайн асуултууд тавьжээ",
+ "summary_mn": "KPMG UK компани санхүүгийн аудитын шалгалтанд 100 гаруй AI агент ашиглахад зарим тохиолдолд агентууд хүний аудиторуудаас илүү гүнзгий дүн шинжилгээ хийсэн байна.",
+ "body_mn": "KPMG UK компани FTSE 250 жагсаалтад багтдаг томоохон компанийн санхүүгийн тайланд туршилт хийх явцдаа 100 гаруй хиймэл оюун ухааны агентуудыг ашиглажээ. Project Exponential гэж нэрлэсэн уг туршилтаар AI агентууд санхүүгийн баримт бичгийг цуглуулж, дүн шинжилгээ хийхэд хүний баг анзаараагүй чухал асуудлуудыг хөндөж, илүү нарийн асуултуудыг тавьсан байна.\n\nГэсэн хэдий ч энэхүү туршилт нь албан ёсны хууль ёсны аудит биш бөгөөд хүний хяналт зайлшгүй шаардлагатай болохыг компани онцолжээ. Зарим тохиолдолд AI агент зохицуулалтын шаардлагыг компанийн баримт бичигтэй зөв тааруулж чадахгүй алдаа гаргаж байв. KPMG ирээдүйд энэхүү технологио илүү олон томоохон аудит дээр туршихаар төлөвлөж байна.",
+ "published": "2026-11-18T15:49:34Z",
+ "added": "2026-11-19T04:30:56Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

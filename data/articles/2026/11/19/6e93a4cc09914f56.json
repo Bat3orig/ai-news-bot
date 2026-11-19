@@ -1,0 +1,17 @@
+{
+ "id": "6e93a4cc09914f56",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
+ "image": "https://github.blog/wp-content/uploads/2026/11/682125868-f1b8f266-b7af-45d3-9337-bee8b85ea55a.png",
+ "title": "Customize GitHub Copilot for your team",
+ "summary_en": "You can now share the GitHub Copilot plugins your team relies on without asking every member to repeat the same setup. Team customizations are generally available for organization teams. Team…",
+ "title_mn": "GitHub Copilot багийн тохиргоогоо хялбархан хуваалцах боломжтой боллоо",
+ "summary_mn": "GitHub Copilot-д багийн гишүүдэд зориулсан Agent Plugins нэмэлтүүдийг анхдагчаар тохируулан хуваалцах боломж ерөнхий байдлаар нээгдлээ.",
+ "body_mn": "GitHub Copilot дээр багийнхаа ашигладаг нэмэлт хэрэгслүүдийг гишүүн бүрээр нь тус бүр тохируулуулах шаардлагагүйгээр хамтад нь хуваалцах боломжтой боллоо. Байгууллагын багийн ахлагчид болон эзэмшигчид багийн анхдагч болгон батлагдсан Agent Plugins нэмэлтүүдийг сонгох боломжтой байна.\n\nЭнэхүү функц нь VS Code, GitHub Copilot апп болон Copilot CLI дотор багийн гишүүдэд анхдагчаар идэвхжиж ажиллана. Гэсэн хэдий ч гишүүд өөрсдийн үйлчлүүлэгч дээр шаардлага хангасан тохиолдолд эдгээр залгаасыг унтраах боломжтой бөгөөд байгууллагын бодлого үргэлж илүү эрхтэйгээр хэрэгждэг.\n\nБагийн энэхүү тохиргоо нь Copilot Business болон Copilot Enterprise хэрэглэгчдэд боломжтой бөгөөд багийн хамтын ажиллагааг ихээхэн хөнгөвчлөх юм.",
+ "published": "2026-11-18T16:00:13Z",
+ "added": "2026-11-19T04:30:56Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "a3ed1e2bfd1a8426",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "CryptoSlate",
+ "url": "https://cryptoslate.com/anthropics-claude-completes-16-hour-human-research-job-in-under-3-hours/",
+ "image": "https://cryptoslate.com/wp-content/uploads/2026/11/claude-data-center-stopwatch.webp",
+ "title": "Anthropic’s Claude completes a 16-hour human research job in under 3 hours",
+ "summary_en": "Anthropic's Claude models scored up to 97.5% on a real-world research task, outperforming GPT-6.2 Astra's 65%.",
+ "title_mn": "Anthropic Claude модель хүний 16 цагийн судалгааны ажлыг 3 цаг хүрэхгүй хугацаанд гүйцэтгэжээ",
+ "summary_mn": "Epoch AI байгууллагын туршилтаар Anthropic-ийн Claude Opus 5.5 загвар нь хүний гүйцэтгэдэг 16 цагийн судалгааны ажлыг 3 цаг хүрэхгүй хугацаанд амжилттай хийжээ.",
+ "body_mn": "Epoch AI судалгааны байгууллага Anthropic-ийн Claude Opus 5.5 болон Claude Fable 5.2 загваруудыг мэдээллийн санд зориулсан судалгааны ажилд туршиж үзжээ. Энэхүү ажил нь мэдээллийн тайлан, зохицуулалтын баримт бичиг, хиймэл дагуулын зургийг судалж дата төвийн мэдээллийг цуглуулахад чиглэсэн байна.\n\nClaude Opus 5.5 загвар уг даалгаврыг 3 цаг хүрэхгүй хугацаанд гүйцэтгэж, мэргэжлийн гэрээт судлаачийн түвшинтэй дүйцэхүйц 87.5%-ийн үр дүн үзүүлжээ. Харин Claude Fable 5.2 загвар 97.5%-ийн өндөр оноо авсан боловч илүү их хугацаа болон зарцуулалт шаардсан байна. OpenAI-ын GPT-6.2 Astra загвар мөн туршилтаар 65%-ийн оноо авчээ.\n\nЭнэхүү үр дүн нь судалгааны байгууллагууд AI загваруудыг анхан шатны мэдээлэл цуглуулахад ашиглаж, хүний судлаачид үр дүнг нягтлах, засварлах ажлаар ажлын урсгалаа өөрчлөх боломжтойг харуулж байна.",
+ "published": "2026-11-18T15:30:42Z",
+ "added": "2026-11-19T04:30:56Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

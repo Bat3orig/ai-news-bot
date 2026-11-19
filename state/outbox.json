@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "cb1f592a974901d2",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/BlogHeader.2e16d0ba.fill-1200x600.png",
-   "title": "From prompt to app: Build with Google Maps in AI Studio",
-   "summary_en": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Routes—supported by daily sandbox quotas for seamless prototyping.",
-   "title_mn": "Google AI Studio дээр Google Maps платформыг ашиглан апп бүтээх боломжтой боллоо",
-   "summary_mn": "Google AI Studio нь хөгжүүлэгчдэд Google Maps-ийн боломжуудыг ашиглан апп бүтээх боломжийг олгож эхэллээ. Та санаагаа бичиж өгөөд л дэлгүүр хайгч, маршрут төлөвлөгч болон 3D аялал үүсгэх боломжтой.",
-   "body_mn": "Google компани хөгжүүлэгчдэд зориулан Google Maps платформыг Google AI Studio орчинд нэгтгэснээ зарлалаа. Ингэснээр хөгжүүлэгчид ямар нэгэн кредит карт эсвэл төлбөр шаардлагагүйгээр Google Maps-ийн орон зайн мэдээллийн хэрэгслүүдийг ашиглан төрөл бүрийн апп бүтээх боломжтой болж байна.\n\nТа өөрийн санаагаа энгийн текстаар дүрслэн бичиж өгөхөд л AI Studio нь тохиргоо болон API түлхүүрийн менежментийг автоматаар зохицуулна. Үүний тусламжтайгаар дэлгүүр олох үйлчилгээ, хүргэлтийн маршрут оновчлох, хотын 3D интерактив зураглал зэрэг олон төрлийн аппликейшнийг хэдхэн минутын дотор боловсруулах боломжтой юм.\n\nБүтээгчид галерей доторх бэлэн жишээнүүдийг шууд үзэж, өөрийн төсөлдөө ашиглан хөгжүүлэлтээ хурдасгах боломжтой. Үнэгүй эрхийн хязгаар нь өдөр бүр автоматаар шинэчлэгдэх бөгөөд бүтээгдэхүүнийг бодит хэрэглээнд гаргахын тулд Google Cloud төлбөрийн данс шаардлагатай.\n\nЭнэхүү шинэ боломж нь хөгжүүлэгчдэд бодит ертөнцийн газарзүйн контекстийг апп-даа шууд суулгах, хиймэл оюун ухааны тусламжтайгаар хөгжүүлэлтийн хугацааг эрс багасгах өргөн боломжийг олгож байна.",
-   "published": "2026-11-19T02:30:53Z",
-   "added": "2026-11-19T02:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "6e46b3bf9e7903c5",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/banner-1600x900_1.2e16d0ba.fill-1200x600.png",
-   "title": "What is Pathways? Single-controller training for large models",
-   "summary_en": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous collectives, Pathways uses asynchronous dispatch and a central scheduler to maximize hardware utilization and prevent deadlocks in complex workloads. By decoupling model definition from physical hardware via virtual devices, developers can efficiently scale complex training architectures and seamlessly handle dynamic…",
-   "title_mn": "Google Cloud Pathways системийг албан ёсоор нээлээ",
-   "summary_mn": "Google Cloud нь Gemini зэрэг том хэмжээний загваруудыг сургахад ашигладаг Pathways тархсан системийг олон нийтэд нээлттэй болголоо.",
-   "body_mn": "Google компани том хэмжээний хиймэл оюун ухааны загваруудыг сургахад зориулан бүтээсэн Pathways тархсан системийг Google Cloud Platform дээр албан ёсоор ашиглалтад оруулснаа зарлалаа. Энэхүү систем нь олон тооны хурдасгууруудыг нэгдмэл байдлаар удирдах замаар сургалтын үйл явцыг илүү үр дүнтэй болгодог.\n\nУламжлалт SPMD (Single Program, Multiple Data) загварт төхөөрөмж бүр ижил програмыг зэрэг ажиллуулж, AllReduce гэх мэт үйлдэл ашиглан хоорондоо зохицдог. Гэвч энэ нь пайплайн эсвэл бэхжүүлсэн сургалтын гогцоо зэрэг нэгэн төрлийн бус ажлуудад хүндрэл учруулдаг бөгөөд техник хангамжийн саатал гарахад сургалтыг дахин эхлүүлэх шаардлагатай болдог.\n\nPathways систем нь энэхүү зохицуулалтын асуудлыг шийдвэрлэх зорилгоор бүх тооцооллыг нэг график хэлбэрээр тодорхойлох боломжийг олгодог. Тархсан ажиллах орчин нь өгөгдлийг хуваарилах, тенсоруудыг зөөвөрлөх болон хурдасгууруудыг тасралтгүй ажиллахад анхаардаг.\n\nЭнэ нь хөгжүүлэгчид болон инженерүүдэд олон төхөөрөмж дамнан ажиллах том хэмжээний сургалтын ажлыг илүү тогтвортой, өндөр бүтээмжтэйгээр удирдах боломжийг олгож байгаагаараа чухал ач холбогдолтой юм.",
-   "published": "2026-11-19T02:30:53Z",
-   "added": "2026-11-19T02:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dc3e712546312c98",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/agent-distraction/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Agent_Distraction_Cover_1600x900_.2e16d0ba.fill-1200x600.png",
-   "title": "Agent Distraction",
-   "summary_en": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These detours result in significant overhead—adding 70% more steps, 77% more tokens, and 105% more wait time per session—split between chasing closed tickets (41%) and unauthorized scope creep on open bugs (57%). Higher-capability models show higher distraction rates, highlighting the need for automated cleanup and linters to maintain agent-friendly codebases",
-   "title_mn": "Кодын сан дахь хуучирсан TODO тайлбарууд AI агентуудыг хэрхэн төөрөлдүүлдэг вэ?",
-   "summary_mn": "Кодын санд үлдсэн хуучирсан TODO тайлбарууд нь AI кодинг агентуудад буруу ойлголт төрүүлж, цаг болон токен үрэхэд хүргэдэг болохыг Google судлаачид тогтоожээ.",
-   "body_mn": "Кодын санг судлах явцад хүмүүсийн амархан анзаараад өнгөрдөг TODO тайлбарууд нь хиймэл оюун ухааны агентуудын хувьд хийх ёстой ажлын даалгавар мэт харагддаг байна. Энэ нь агентуудыг хуучирсан алдаа эсвэл шаардлагагүй ажилд төвлөрүүлж, улмаар логик алдаа гаргахад хүргэдэг аж.\n\nСудалгаагаар урьдчилан анхааруулаагүй алдааны мөрөөр хөөцөлдөх нь сесс бүрт нэмэлт зардал үүсгэж, агентын гүйцэтгэлийг бууруулдаг болохыг олон сая сессийн өгөгдөлд дүн шинжилгээ хийсэн олон талт регрессийн шинжилгээгээр баталжээ. Жишээлбэл, 2023 онд засагдсан алдааны тайлбар кодын санд үлрсэн байх нь агентыг буруу тийш нь хөтөлж байна.\n\nЭнэ асуудлыг шийдвэрлэхийн тулд Google-ийн инженерүүд кодын санг бүхэлд нь шүүж, аль хэдийн засагдсан эсвэл хуучирсан алдааны холбоосуудыг цэвэрлэх тусгай агентуудыг ашигласан байна. Агентууд кодын түүх болон өөрчлөлтүүдийг нарийвчлан шалгаж байж л уг тайлбар шаардлагатай эсэхийг тодорхойлдог.\n\nЭнэхүү судалгаа нь хөгжүүлэгчид AI агентуудтай хамтран ажиллах явцдаа кодын сангаа цэвэр байлгах, хуучирсан коммент болон TODO-уудыг тогтмол устгаж байх нь агентын үр ашгийг дээшлүүлэхэд ямар чухал болохыг харуулж байна.",
-   "published": "2026-11-19T02:30:53Z",
-   "added": "2026-11-19T02:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7fac7e57ac7ceb19",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/image3_1.2e16d0ba.fill-1200x600.jpg",
-   "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
-   "summary_en": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
-   "title_mn": "Хямд ангилагч ашиглан AI агентын зардлыг бууруулах нь",
-   "summary_mn": "Кодинг агентуудын зардлыг бууруулахын тулд нарийн төвөгтэй хүсэлтийг явуулахаас өмнө хөнгөн жинтэй ангилагч ашиглан тохирох загварт чиглүүлэх аргачлалыг туршиж үзжээ.",
-   "body_mn": "Токенуудын үнэ буурч байгаа хэдий ч бие даасан кодинг агентуудыг ажиллуулах инженерчлэлийн зардал өссөөр байна. Орчин үеийн үйлдвэрлэлийн эдийн засагт сая токенуудын үнэ бус, харин амжилттай гүйцэтгэсэн нэг даалгаврт ногдох өртөг гол хэмжүүр болж байна.\n\nХэрэв агент бүх жижиг шийдвэрт өндөр түвшний үндэслэл шаарддаг загварыг дуудвал шаардлагагүй өндөр зардал гарна. Үүнээс урьдчилан сэргийлэхийн тулд энгийн шийдвэрүүдийг үнэтэй загварт хүргэхээс өмнө таслан зогсоох хөнгөн жинтэй чиглүүлүүлэгч давхаргыг нэмэх нь чухал юм. Туршилтаар TypeSafe-ийн Jev бүтцийн гаралттай ангилагчийг ашиглан Gemini загваруудын хооронд үр дүнтэй чиглүүлэлт хийх боломжтойг харуулжээ.\n\nТуршилтаар өргөн хүрээтэй ерөнхий асуулт тавихаас илүүтэйгээр атомын түвшний буюу нарийвчилсан шалгуур тавих нь илүү оновчтой үр дүн өгдөг болохыг тогтоожээ. Энгийн regex болон хэлбэрийн урт шалгах аргуудтай харьцуулахад энэхүү бүтцийн ангилагч нь кодинг агентын ажлыг оновчтой хуваарилахад өндөр үр дүнтэй байна.\n\nЭнэхүү хандлага нь хөгжүүлэгчдэд AI агентуудынхаа архитектурыг оновчлох, хэрэггүй тооцооллын зардал гаргахгүй байх боломжийг олгож, бүтээмжийг нэмэгдүүлэхэд тусална.",
-   "published": "2026-11-19T02:30:53Z",
-   "added": "2026-11-19T02:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e83973e1f6320f1f",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/cover-without-title.2e16d0ba.fill-1200x600.png",
-   "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
-   "summary_en": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
-   "title_mn": "A2UI болон CopilotKit ашиглан Генератив UI апп хөгжүүлэх нь",
-   "summary_mn": "Хиймэл оюун ухааны агентууд зөвхөн текст биш, харин хэрэглэгчийн хүсэлтэд тохируулан динамикаар UI бүрдүүлэх Генератив UI технологи хөгжиж байна.",
-   "body_mn": "Хиймэл оюун ухааны агентууд болон хэрэглэгчдийн харилцан үйлчлэл нь урт текстэн хариу өгөхөөс илүү баялаг интерфейс рүү шилжиж байна. Өмнө нь агентууд аялал төлөвлөхдөө бүх мэдээллийг энгийн текстаар буцаадаг байсан бол одоо сонгох боломжтой жагсаалт, газрын зураг эсвэл календарийн хэлбэрээр харуулах боломжтой болжээ.\n\nГенератив UI нь агентуудад ажиллах явцдаа хэрэглэгчийн хүсэлтэд нийцүүлэн интерфейс бүтээх боломжийг олгодог. Үүнийг хэрэгжүүлэхийн тулд UI-г тодорхойлох стандарт болон агентын системийг хооронд нь холбох шаардлагатай байдаг. Удирдлагатай горим болон нээлттэй код үүсгэх горимуудыг хоёуланг нь дэмждэг.\n\nA2UI нь рамворк хамаарахгүйгээр UI үүсгэх зорилгоор бүтээгдсэн стандарт бөгөөд хөгжүүлэгчид үндсэн компонент бүтээцээ нэг удаа бэлтгээд өгөхөд агент хүсэлт бүрт тохируулан тэдгээрийг угсарч харуулдаг. CopilotKit болон AG-UI (Agent-User Interaction Protocol) протоколын тусламжтайгаар эдгээр үйлдлийг клиент тал руу шууд дамжуулах боломжтой юм.\n\nЭнэхүү шийдэл нь хөгжүүлэгчдэд илүү интерактив, хэрэглэгчдэд ээлтэй хиймэл оюун ухааны аппликейшн бүтээхэд өргөн боломж нээж өгч байна.",
-   "published": "2026-11-19T02:30:53Z",
-   "added": "2026-11-19T02:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "892e84ca9d3fb42a",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/1_3.2e16d0ba.fill-1200x600.png",
-   "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
-   "summary_en": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side-by-side trace comparisons, and automate evaluation passes. Developers will also learn how to integrate nightly scheduled runs with threshold-based alerting to track quality over time.",
-   "title_mn": "Agents CLI үнэлгээний гогцоо ашиглан агентын чанарыг сайжруулах нь",
-   "summary_mn": "AI агентын чанарыг загварын шинэчлэлт болон хэрэгслийн өөрчлөлтийн үед тогтвортой байлгахад зориулсан Agents CLI үнэлгээний гогцооны талаар танилцууллаа.",
-   "body_mn": "Демо дээр амжилттай ажилладаг агент бүтээх болон загварын шинэчлэлт, хэрэгслийн өөрчлөлтүүдийн үед тогтвортой ажиллах агентыг бүтээх хоёр нь хоорондоо тэс өөр асуудлууд юм. Эхнийх нь амралтын өдрүүдийг шаарддаг бол хоёрдох нь тасралтгүй үргэлжлэх үнэлгээний гогцоог шаарддаг.\n\nAgents CLI eval сан нь тест үүсгэх, үр дүнг үнэлэх, алдааг бүлэглэх болон систем prompt-ийг автоматаар сайжруулах команд өгөх зэрэг хүрээгүй байдлаар ажиллах боломжийг олгодог. Жишээлбэл, LLM-as-judge метрик ашиглан хариултын нарийвчлал, хамаарал болон тодорхой байдлыг 1-5 хүртэлх шкалаар үнэлэх боломжтой.\n\nTуршилтаар хөгжүүлэгч санамсаргүй байдлаар буруу систем prompt оруулж өгөхөд үнэлгээний оноо буурч байгааг илрүүлсэн бөгөөд энэ нь код хяналтын явцад анзаарагдахгүй өнгөрч болох алдааг илрүүлэхэд ямар чухал болохыг харуулж байна.\n\nЭнэхүү хэрэгсэл нь инженерүүдэд AI агентуудынхаа чанарыг системтэйгээр хянах, чанар буурахаас урьдчилан сэргийлэхэд туслах практик аргачлалыг санал болгож байна.",
-   "published": "2026-11-19T02:30:53Z",
-   "added": "2026-11-19T02:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "91e8fcd66207b655",
-   "subtopic": "kimi",
-   "source": "Kimi (Google News)",
-   "source_label": "NeoTeo",
-   "url": "https://www.neoteo.com/en/kimi-k31-pro-coder-what-its-figures-show",
-   "image": "https://www.nitroindex.com/opengraph/www.neoteo.com/og.png?url=https%3A%2F%2Fwww.neoteo.com%2Fen%2Fkimi-k31-pro-coder-what-its-figures-show",
-   "title": "Kimi K3.1 Pro Coder quantization: size and test claims",
-   "summary_en": "Grawnch’s Kimi K3.1 Pro Coder is a 774.97 GB community quantization. See how its memory tiers, benchmark samples and…",
-   "title_mn": "Kimi K3.1 Pro Coder: 774 GB-ийн олон түвшний квантчлалын тойм",
-   "summary_mn": "Grawnch нэртэй хэрэглэгч Moonshot AI-ийн Kimi K3.1 Pro загварыг 96 хэсэгт хувааж, 774.97 GB хэмжээтэйгээр квантчлан гаргажээ. Энэхүү загвар нь GPU VRAM, систем RAM болон NVMe санах ойд ачааллыг хуваарилж ажилладаг.",
-   "body_mn": "Moonshot AI компаниас гаргасан Kimi K3.1 Pro загварын олон нийтийн боловсруулсан шинэ квантчлал болох Kimi K3.1 Pro Coder нь нийт 774.97 GB хэмжээтэй бөгөөд 96 ширхэг хэсгээс бүрдэж байна. Энэхүү загвар нь MoE буюу холимог шинжээчдийн архитектурыг ашигладаг ба шинжээчдийн жинг санах ойн гурван өөр түвшинд хувааж байршуулдаг байна.\n\nЗагварын картын мэдээлснээр GPU, систем RAM болон NVMe санах ойн хоорондох ачааллыг кодлох болон математикийн бодолтын чиглэлээр оновчилсон байна. Туршилтын явцад AIME 2025 болон LiveCodeBench сорилтуудыг ашигласан бөгөөд үндсэн загвар болон квантчилсан хувилбар нь ижил үр дүн үзүүлжээ. Тухайлбал, дараагийн токений таамаглалын нийццэл өндөр гарсан байна.\n\nЛицензийн нөхцөлийн хувьд Moonshot AI-ийн зохиогчийн эрх үйлчлэх бөгөөд жилийн 20 сая ам.доллароос дээш орлоготой Model-as-a-Service операторууд арилжааны зорилгоор ашиглахын тулд тусгай гэрээ байгуулах шаардлагатай ажээ. Энэхүү том хэмжээний квантчлал нь хөгжүүлэгчдэд өндөр хүчин чадалтай санах ойн дэд бүтцийг ашиглан локал байдлаар туршилт хийх боломжийг олгож байна.",
-   "published": "2026-11-17T11:21:38Z",
-   "added": "2026-11-19T02:30:53Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b4c9476d5d9aa952",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "www.trendingtopics.eu",
-   "url": "https://www.trendingtopics.eu/anthropic-mythos-amd-chips-cuda-moat/",
-   "image": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/amd-instinct-mi455x-16x9-1-scaled-social.jpg",
-   "title": "Anthropic’s A.I. Got Claude Running on AMD Chips in Three Days",
-   "summary_en": "Anthropic says its Claude Mythos model ported Claude to AMD chips in three days, writing nearly all kernels itself. A dent in Nvidia's CUDA moat?",
-   "title_mn": "Anthropic Claude AMD чип дээр ажиллаж эхэлснийг зарлав",
-   "summary_mn": "Anthropic компани өөрсдийн дотоод Claude Mythos Preview загвараа ашиглан Claude-г AMD график чип дээр ердөө гурван хоногт ажиллуулж чаджээ. Энэ нь Nvidia-гийн CUDA монополыг эвдэх чухал алхам болж байна.",
-   "body_mn": "Anthropic компани IPO хийх үеэрээ хувьцаа эзэмшигчдэдээ танилцуулсан тайландаа өөрсдийн Claude Mythos Preview загвараа ашиглан Claude загварыг AMD график чип дээр ердөө гурван хоногийн дотор ямар ч хүний оролцоогүйгээр амжилттай ажиллуулснаа мэдэгдлээ. Өмнө нь ийм төрлийн платформ солих ажил нь хэдэн арван инженерийн багт 6-12 сарын хугацаа шаарддаг байжээ.\n\nУг туршилтаар Mythos загвар нь AMD-гийн MI355X акселератор дээр загварын тооцоолол хийхэд шаардлагатай код, цөмүүдийг бараг 100 хувь бие даан бичиж эсвэл хөрвүүлсэн байна. Үүний үр дүнд богино хугацаанд хэрэглэгдэхүйц түвшний гүйцэтгэлд хүрсэн аж. Anthropic нь одоогоор Amazon Trainium, Google TPU, Nvidia болон AMD GPU гэсэн дөрвөн өөр чип дээр загваруудаа зэрэг ажиллуулдаг байна.\n\nЭнэхүү ололт нь Nvidia-гийн зах зээл дэх давамгайлал болон программ хангамжийн монопол байдалд ноцтой сорилт болж байна. Компаниуд Nvidia-гаас хамааралгүйгээр өөр чип дээр ажиллах боломжтой болж байгаа нь хардвер нийлүүлэгчдийн хоорондын өрсөлдөөнийг улам хурцатгаж, хөгжүүлэгчдэд илүү олон сонголт олгож байгаа юм.",
-   "published": "2026-11-17T11:57:44Z",
-   "added": "2026-11-19T03:01:01Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8f6af8c44a4a1bfb",
-   "subtopic": "openai",
-   "source": "OpenAI News",
-   "source_label": "OpenAI News",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-   "image": "",
-   "title": "Introducing GPT-6.2 Astra and Sol",
-   "summary_en": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-   "title_mn": "OpenAI компани GPT-6.2 Astra болон Sol загваруудыг танилцууллаа",
-   "summary_mn": "OpenAI компани мэргэжлийн түвшний гүйцэтгэл, код бичих чадвар, өртөг хэмнэсэн шинэ GPT-6.2 Astra болон Sol загваруудыг гаргалаа.",
-   "body_mn": "OpenAI-аас зарласнаар GPT-6.2 Astra болон Sol загварууд нь код бичих, компьютер ашиглах, мэргэжлийн түвшний гаралтын чанараараа илүү сайжирсан байна. Эдгээр шинэ загварууд нь ChatGPT Work, Codex болон API орчинд илүү хямд өртгөөр ажиллах юм.\n\nЭнэхүү шинэчлэлт нь хөгжүүлэгчид болон байгууллагуудад илүү өндөр үр бүтээмжтэй ажиллах боломжийг олгох бөгөөд OpenAI API болон бусад хэрэгслүүдэд шууд нэвтрэх боломжтойгоор тархаж байна.",
-   "published": "2026-11-17T17:45:00Z",
-   "added": "2026-11-19T03:01:01Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "467e19c06d56952c",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-   "image": "https://github.blog/wp-content/uploads/2026/11/708477214-1cb51fc6-9621-41e7-b5bb-ae9007edc021.png",
-   "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-   "summary_en": "The next generation of Microsoft AI (MAI) coding models has arrived in GitHub Copilot. Introducing MAI Code 2 and MAI Code 2 Flash, two new models that represent a major…",
-   "title_mn": "MAI Code 2 болон MAI Code 2 Flash GitHub Copilot-д нэмэгдлээ",
-   "summary_mn": "Microsoft AI-ийн бүтээсэн MAI Code 2 болон MAI Code 2 Flash загварууд GitHub Copilot-д албан ёсоор орж ирлээ.",
-   "body_mn": "Microsoft AI (MAI) код бичих загваруудын дараагийн үе болох MAI Code 2 болон MAI Code 2 Flash нь GitHub Copilot хэрэглэгчдэд ашиглагдаж эхэллээ. Эдгээр загварууд нь энгийн туслахаас эхлээд нарийн төвөгтэй программ хангамжийн инженерчлэл хүртэлх агентын ажлуудад зориулагдсан байна.\n\nХөгжүүлэгчид өөрсдийн ажлын онцлогт тохируулан эдгээр загваруудыг сонгож ашиглах боломжтой бөгөөд Copilot Enterprise болон Business төлөвлөгөө ашиглагчид администратор тохиргоогоор дамжуулан удирдах боломжтой. Шинэ загварууд нь хэрэглээнд суурилсан төлбөрийн нөхцөлтэйгээр санал болгогдож байна.",
-   "published": "2026-11-17T18:01:45Z",
-   "added": "2026-11-19T03:01:01Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "e98b3ece297c5fcb",
    "subtopic": "qwen",
    "source": "Qwen (Google News)",
@@ -597,6 +397,126 @@
    "added": "2026-11-19T04:01:02Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a3ed1e2bfd1a8426",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "CryptoSlate",
+   "url": "https://cryptoslate.com/anthropics-claude-completes-16-hour-human-research-job-in-under-3-hours/",
+   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/claude-data-center-stopwatch.webp",
+   "title": "Anthropic’s Claude completes a 16-hour human research job in under 3 hours",
+   "summary_en": "Anthropic's Claude models scored up to 97.5% on a real-world research task, outperforming GPT-6.2 Astra's 65%.",
+   "title_mn": "Anthropic Claude модель хүний 16 цагийн судалгааны ажлыг 3 цаг хүрэхгүй хугацаанд гүйцэтгэжээ",
+   "summary_mn": "Epoch AI байгууллагын туршилтаар Anthropic-ийн Claude Opus 5.5 загвар нь хүний гүйцэтгэдэг 16 цагийн судалгааны ажлыг 3 цаг хүрэхгүй хугацаанд амжилттай хийжээ.",
+   "body_mn": "Epoch AI судалгааны байгууллага Anthropic-ийн Claude Opus 5.5 болон Claude Fable 5.2 загваруудыг мэдээллийн санд зориулсан судалгааны ажилд туршиж үзжээ. Энэхүү ажил нь мэдээллийн тайлан, зохицуулалтын баримт бичиг, хиймэл дагуулын зургийг судалж дата төвийн мэдээллийг цуглуулахад чиглэсэн байна.\n\nClaude Opus 5.5 загвар уг даалгаврыг 3 цаг хүрэхгүй хугацаанд гүйцэтгэж, мэргэжлийн гэрээт судлаачийн түвшинтэй дүйцэхүйц 87.5%-ийн үр дүн үзүүлжээ. Харин Claude Fable 5.2 загвар 97.5%-ийн өндөр оноо авсан боловч илүү их хугацаа болон зарцуулалт шаардсан байна. OpenAI-ын GPT-6.2 Astra загвар мөн туршилтаар 65%-ийн оноо авчээ.\n\nЭнэхүү үр дүн нь судалгааны байгууллагууд AI загваруудыг анхан шатны мэдээлэл цуглуулахад ашиглаж, хүний судлаачид үр дүнг нягтлах, засварлах ажлаар ажлын урсгалаа өөрчлөх боломжтойг харуулж байна.",
+   "published": "2026-11-18T15:30:42Z",
+   "added": "2026-11-19T04:30:56Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9c140093e46f3cf7",
+   "subtopic": "ai-devtools",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+   "image": "https://europeanbusinessmagazine.com/wp-content/uploads/2026/06/ai5555-1024x678.jpg",
+   "title": "AI agents ask better questions than KPMG accountants in audit trial",
+   "summary_en": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 403 # Comments: 173",
+   "title_mn": "KPMG-ийн аудитын туршилтаар хиймэл оюун ухааны агентууд илүү сайн асуултууд тавьжээ",
+   "summary_mn": "KPMG UK компани санхүүгийн аудитын шалгалтанд 100 гаруй AI агент ашиглахад зарим тохиолдолд агентууд хүний аудиторуудаас илүү гүнзгий дүн шинжилгээ хийсэн байна.",
+   "body_mn": "KPMG UK компани FTSE 250 жагсаалтад багтдаг томоохон компанийн санхүүгийн тайланд туршилт хийх явцдаа 100 гаруй хиймэл оюун ухааны агентуудыг ашиглажээ. Project Exponential гэж нэрлэсэн уг туршилтаар AI агентууд санхүүгийн баримт бичгийг цуглуулж, дүн шинжилгээ хийхэд хүний баг анзаараагүй чухал асуудлуудыг хөндөж, илүү нарийн асуултуудыг тавьсан байна.\n\nГэсэн хэдий ч энэхүү туршилт нь албан ёсны хууль ёсны аудит биш бөгөөд хүний хяналт зайлшгүй шаардлагатай болохыг компани онцолжээ. Зарим тохиолдолд AI агент зохицуулалтын шаардлагыг компанийн баримт бичигтэй зөв тааруулж чадахгүй алдаа гаргаж байв. KPMG ирээдүйд энэхүү технологио илүү олон томоохон аудит дээр туршихаар төлөвлөж байна.",
+   "published": "2026-11-18T15:49:34Z",
+   "added": "2026-11-19T04:30:56Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "187d47ece72966ae",
+   "subtopic": "react-native",
+   "source": "Expo Changelog",
+   "source_label": "Expo Changelog",
+   "url": "https://expo.dev/changelog/expo-services-app",
+   "image": "https://cdn.sanity.io/images/9r24npb8/production/3078963f927dfa96744cce75dff7de1ef0d71119-2400x1280.png?rect=0,10,2400,1260&w=1200&h=630&fm=webp&q=80&auto=format",
+   "title": "The Expo Services App is out: Workflows, Observe and Expo Simulators on your phone",
+   "summary_en": "The Expo Services app is out for iOS and Android. Run Workflows, check Observe data, and test builds on Expo Simulators from your phone.",
+   "title_mn": "Expo Services App албан ёсоор гарлаа",
+   "summary_mn": "Expo баг гар утсаараа дамжуулан Workflows, Observe болон Expo Simulators хянах боломжтой 'Expo Services App' аппликейшнийг гаргалаа.",
+   "body_mn": "Expo баг хөгжүүлэгчдэд зориулсан 'Expo Services App' аппликейшнийг албан ёсоор гаргаснаа зарлалаа. Энэхүү апп нь Expo Workflows, Expo Observe мэдээлэл болон Expo Simulators-ийг гар утсаараа шууд хянах боломжийг олгож байгаа бөгөөд iOS хувилбар нь бүхэлдээ Expo Exact фреймворкоор бичигджээ.\n\nХөгжүүлэгчид энэхүү аппаар дамжуулан идэвхтэй хэрэглэгчид, гүйцэтгэлийн графикууд, мөн Workflows ажиллагааны явцыг харж, мэдэгдэл хүлээн авах боломжтой. Түүнчлэн апп дотроос клоуд iOS симулятор ажиллуулж, процессор болон санах ойн ашиглалтыг шууд хянах боломжтой байна.\n\nОдоогоор симуляторын боломжууд зөвхөн iOS хувилбарт дэмжигдэж байгаа бөгөөд Андройд хувилбар болон үндсэн виджетүүд тун удахгүй нэмэгдэх юм. Хөгжүүлэгчид апп руу имэйл, Google, GitHub эсвэл passkey ашиглан нэвтрэх боломжтой.",
+   "published": "2026-11-18T16:00:00Z",
+   "added": "2026-11-19T04:30:56Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6e93a4cc09914f56",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
+   "image": "https://github.blog/wp-content/uploads/2026/11/682125868-f1b8f266-b7af-45d3-9337-bee8b85ea55a.png",
+   "title": "Customize GitHub Copilot for your team",
+   "summary_en": "You can now share the GitHub Copilot plugins your team relies on without asking every member to repeat the same setup. Team customizations are generally available for organization teams. Team…",
+   "title_mn": "GitHub Copilot багийн тохиргоогоо хялбархан хуваалцах боломжтой боллоо",
+   "summary_mn": "GitHub Copilot-д багийн гишүүдэд зориулсан Agent Plugins нэмэлтүүдийг анхдагчаар тохируулан хуваалцах боломж ерөнхий байдлаар нээгдлээ.",
+   "body_mn": "GitHub Copilot дээр багийнхаа ашигладаг нэмэлт хэрэгслүүдийг гишүүн бүрээр нь тус бүр тохируулуулах шаардлагагүйгээр хамтад нь хуваалцах боломжтой боллоо. Байгууллагын багийн ахлагчид болон эзэмшигчид багийн анхдагч болгон батлагдсан Agent Plugins нэмэлтүүдийг сонгох боломжтой байна.\n\nЭнэхүү функц нь VS Code, GitHub Copilot апп болон Copilot CLI дотор багийн гишүүдэд анхдагчаар идэвхжиж ажиллана. Гэсэн хэдий ч гишүүд өөрсдийн үйлчлүүлэгч дээр шаардлага хангасан тохиолдолд эдгээр залгаасыг унтраах боломжтой бөгөөд байгууллагын бодлого үргэлж илүү эрхтэйгээр хэрэгждэг.\n\nБагийн энэхүү тохиргоо нь Copilot Business болон Copilot Enterprise хэрэглэгчдэд боломжтой бөгөөд багийн хамтын ажиллагааг ихээхэн хөнгөвчлөх юм.",
+   "published": "2026-11-18T16:00:13Z",
+   "added": "2026-11-19T04:30:56Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d7cea703220e13ae",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The American Bazaar",
+   "url": "https://americanbazaaronline.com/2026/11/18/microsoft-takes-aim-at-openai-and-anthropic-with-6-new-ai-models-at-a-fraction-of-the-cost-492589/",
+   "image": "https://americanbazaaronline.com/wp-content/uploads/2026/03/Microsoft-X-Anthropic.png",
+   "title": "Microsoft takes aim at OpenAI and Anthropic with 6 new AI models at a fraction of the cost",
+   "summary_en": "Microsoft has unveiled six specialized AI models targeting OpenAI and Anthropic, while CEO Mustafa Suleyman says the company is making progress toward building its own frontier AI model.",
+   "title_mn": "Майкрософт компани OpenAI болон Антропикийг өрсөлдөгч болгох 6 шинэ загвар танилцууллаа",
+   "summary_mn": "Майкрософт компани програмчлал, кибер аюулгүй байдал болон хиймэл оюун ухааны бусад чиглэлд өртөг багатай, өндөр бүтээмжтэй зургаан шинэ загварыг зах зээлд гаргалаа.",
+   "body_mn": "Майкрософт компани Сан Франциско хотноо болсон Ignite бага хурлын үеэр хиймэл оюун ухааны салбарт томоохон шинэчлэл хийж, OpenAI болон Антропик компаниудын тэргүүлэх загваруудтай өрсөлдөхүйц зургаан шинэ тусгай загварыг танилцууллаа. Эдгээр загварууд нь программ хангамж хөгжүүлэлт, кибер аюулгүй байдал, дуу хоолой болон дүрс бүтээх чиглэлд чиглэжээ.\n\nТус компани MAI Code 2 болон MAI Code 2 Flash хэмээх код бичих шинэ загваруудыг зарласан бөгөөд эдгээр нь өрсөлдөгчдийн бүтээгдэхүүнтэй дүйцэхүйц гүйцэтгэлтэй атлаа хамаагүй хямд өртөгтэй болохыг гүйцэтгэх захирал Мустафа Сулейман онцолсон байна. Тухайлбал, MAI Code 2 нь Claude Opus 5.5 загварын гүйцэтгэлийн 96 хувийг ердөө 5 хувийн үнээр үзүүлдэг ажээ.\n\nМөн кибер аюулгүй байдлын чиглэлд зориулсан MAI Cyber 2 Flash загвар нь даалгавар бүрийн өртөг багатайгаар өндөр үзүүлэлт харуулж байна. Майкрософт энэхүү алхмаараа гадны үйлчилгээ үзүүлэгчдээс хараат байдлаа бууруулж, аж ахуйн нэгж хэрэглэгчдэд илүү хэмнэлттэй шийдлүүдийг санал болгох зорилготой байна.",
+   "published": "2026-11-18T16:45:04Z",
+   "added": "2026-11-19T04:30:56Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "00a064e6720eae62",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-1440x810.png",
+   "title": "The Gemini app is now available on lower-memory Android devices.",
+   "summary_en": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+   "title_mn": "Gemini апп санах ой багатай Android төхөөрөмжүүдэд ажилладаг боллоо",
+   "summary_mn": "Google компани Gemini аппликейшнийг санах ой багатай Android (Go edition) төхөөрөмжүүдэд зориулан шинэчлэн бүтээж, сая сая хэрэглэгчдэд хүргэж эхэллээ.",
+   "body_mn": "Google компани хөгжиж буй орнуудын сая сая хэрэглэгчдэд хиймэл оюун ухааны туслахыг хүргэх зорилгоор Gemini аппликейшнийг оновчтой болгосноо зарлалаа. Үүний үр дүнд санах ой багатай Android (Go edition) төхөөрөмжүүд дээр уг апп саадгүй ажиллах боломжтой болж байна.\n\nШинэчлэгдсэн хувилбараар хэрэглэгчид урт текст бичихийн оронд Gemini Live ашиглан 45 гаруй хэлээр ярьж дадлага хийх, камераа чиглүүлэн тэмдэглэл орчуулах зэрэг боломжуудыг ашиглах боломжтой. Энэ нь төхөөрөмжийн техник хангамжийн хязгаарлалтыг даван туулж, хиймэл оюун ухааныг илүү өргөн хүрээнд нэвтрүүлж буй чухал алхам юм.\n\nTranssion болон бусад түншүүдийн шинэ утсуудад уг апп урьдчилан суурилагдах бөгөөд Google Play дэлгүүрээс татаж аваад ашиглах боломжтой.",
+   "published": "2026-11-18T17:00:00Z",
+   "added": "2026-11-19T04:30:56Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
   }
  }
 ]
