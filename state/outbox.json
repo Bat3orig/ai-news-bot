@@ -118,5 +118,85 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bc011ba53eafce07",
+   "subtopic": "gh-oss",
+   "source": "Open Source Projects",
+   "source_label": "Open Source Projects",
+   "url": "https://www.opensourceprojects.dev/post/openmotion",
+   "image": "https://opengraph.githubassets.com/1/nexu-io/openmotion",
+   "title": "OpenMotion: recreate videos with your own agent, keys, and brand kit",
+   "summary_en": "You've probably seen a video ad or social clip and thought, \"I could adapt that for my product.\" Then you looked at the timeline, the keyframes, the transitions, and quietly closed the tab. OpenMotion is an attempt to make that adaptation process less painful—it's an open-source, full-stack video st... GitHub Repository: https://github.com/nexu-io/openmotion",
+   "title_mn": "openmotion: AI агентаар видеог брэндийнхээ дагуу дахин бүтээх нээлттэй эхийн студи",
+   "summary_mn": "OpenMotion бол өөрийн агент, API түлхүүрээр ажилладаг нээлттэй эхийн видео студи юм. Motion.md форматаар видеоны шот, шилжилтийг Markdown-оор тодорхойлдог. Node.js 22.18 эсвэл түүнээс дээш хувилбар шаардлагатай.",
+   "body_mn": "OpenMotion нь лавлагаа видеог оруулахад агент түүний шот, хугацаа, шилжилтийг задлаад, өөрийн брэндийн материал болон текстээр дахин бүтээдэг нээлттэй эхийн full-stack видео студи юм. README-д Claude Motion болон CapCut-ийн нээлттэй эхийн альтернатив гэж бичсэн байна. Apache 2.0 лицензтэй бөгөөд OpenDesign баг хөгжүүлжээ.\n\nГол санаа нь BYOA болон BYOK буюу өөрийн агент, өөрийн API түлхүүрээ ашиглах явдал юм. Claude Code, Codex, WorkBuddy зэрэг агентууд дэмжигдэнэ. Ингэснээр хостинг дээрх үйлчилгээний нэмэлт төлбөргүй, брэндийн материал гуравдагч талд үлддэггүй.\n\nMotion.md формат нь видеоны бүтцийг Markdown-оор илэрхийлдэг тул хуваалцах, version control хийх боломжтой. Үүнээс гадна зураг (GPT Image 2.6), видеоны шот (Seedance 2.5), хөгжим (Suno), дуу хоолой (Eleven v4) үүсгэх хэсгүүд багтсан. Суулгахдаа ChatGPT Marketplace-ээс нэг товчлуураар суулгах боломжтой гэж тэмдэглэсэн.\n\nХөгжүүлэгчдэд энэ нь видеоны ажлыг агентаар хийх туршилтын хэрэгсэл юм. Repo: github.com/nexu-io/openmotion.",
+   "published": "2026-11-19T17:42:37Z",
+   "added": "2026-11-19T19:01:03Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2966d98d185e6df0",
+   "subtopic": "gh-oss",
+   "source": "Open Source Projects",
+   "source_label": "Open Source Projects",
+   "url": "https://www.opensourceprojects.dev/post/ffmpeg-skill",
+   "image": "https://opengraph.githubassets.com/1/kajisho5/ffmpeg-skill",
+   "title": "Give your coding agent a local video editor, then have it check its own output",
+   "summary_en": "You've probably handed a coding agent a tedious refactor or a test suite to fix. But what happens when the task isn't code? Say you want to cut the dead air out of a recording, reframe a 16:9 clip to vertical, or normalize the loudness of an audio track. An agent that can write code is only half the... GitHub Repository: https://github.com/kajisho5/ffmpeg-skill",
+   "title_mn": "ffmpeg-skill: AI агентад FFmpeg дээр суурилсан орон нутгийн видео засварлагч өгөх хэрэгсэл",
+   "summary_mn": "ffmpeg-skill нь Claude Code, Cursor, Codex зэрэг кодын агентад 42 FFmpeg хэрэгсэл өгч, видеог локалд засварлаж, гаралтаа өөрөө шалгах боломжийг олгодог. MCP-ээр мөн ашиглагдана. Суулгах нь npx ffmpeg-skill команд юм.",
+   "body_mn": "ffmpeg-skill нь SKILL.md файл уншдаг кодын агентуудад зориулсан Agent Skill бөгөөд FFmpeg болон ffprobe-оор бодит видео засварыг хийдэг. Тайрах, нэгтгэх, чимээгүй хэсгийг арилгах, харьцаа өөрчлөх, субтитр, HDR-ээс SDR рүү хөрвүүлэх, аудио нормалчлах зэрэг 42 хэрэгсэл багтана.\n\nАгент ажлаа дараалсан дөрвөн алхамаар хийдэг: probe, edit, check, verify. Ингэж гаралтын файлыг хэмжиж, хүссэн зүйлтэй нийцэж байгаа эсэхийг баталгаажуулдаг. README-ийн жишээнд 59.98 секунд, 1080x1920, 30 fps гэсэн үр дүн харуулсан байна. Боломжтой бол алдагдалгүй засвар хийх зарчимтай.\n\nЭнэ нь бүгд локалд ажилладаг, API түлхүүр шаарддаггүй, Python-ийн стандарт сангаар бичигдсэн. 42 хэрэгслийг MCP-ээр бас дуудаж болох бөгөөд анхдагчаар 12 үндсэн хэрэгслийг л зарладаг. CI нь FFmpeg 6.1, 7.1, 8, 9 дээр тестлэгддэг.\n\nСуулгах нь npx ffmpeg-skill командаар хийгдэнэ. Жишээ демо нь demos/build.py скриптээр дахин үүсгэгдэх боломжтой.",
+   "published": "2026-11-19T17:43:26Z",
+   "added": "2026-11-19T19:01:03Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9689c9b168578a29",
+   "subtopic": "gh-oss",
+   "source": "Open Source Projects",
+   "source_label": "Open Source Projects",
+   "url": "https://www.opensourceprojects.dev/post/loopforge",
+   "image": "https://opengraph.githubassets.com/1/tencent/loopforge",
+   "title": "Self-hosted Docker sandboxes where coding agents ship PRs and repeatable SOPs",
+   "summary_en": "You've probably tried pointing a coding agent at a repo and watching it produce something that looks like a PR. Then you spend the next hour figuring out what it actually changed, whether it broke anything, and how to hand it off for review. The agent did the typing; you did all the trust-building. ... GitHub Repository: https://github.com/tencent/loopforge",
+   "title_mn": "LoopForge: кодын агентуудыг Docker sandbox болон SOP-оор удирдах өөрөө хостлох платформ",
+   "summary_mn": "Tencent-ийн LoopForge нь кодын агентуудыг Docker sandbox дотор ажиллуулж, PR нээж, хүний баталгаажуулалтын алхмуудтай SOP урсгал үүсгэх боломжийг олгодог MIT лицензтэй платформ юм. Claude Code, Codex, Cursor CLI зэрэг олон CLI дэмжинэ.",
+   "body_mn": "LoopForge нь баг хамтдаа кодын агентуудаар програм хангамж хөгжүүлэх өөрөө хостлох платформ юм. Main Bot чат интерфейсээр даалгавар өгөхөд Docker sandbox үүсгэж, репозиторийг татаж, төслийн дүрүүдэд ажил хуваарилж, PR нээдэг. CodeBuddy, Codex, Claude Code, OpenCode, Cursor CLI, Kimi Code болон бусад CLI дэмжигдэнэ.\n\nОнцлог нь SOP горим юм. Амжилттай ажлын урсгалыг Agent, Script, Human-gate болон дэд SOP зангилаанаар хадгалж, дахин ажиллуулах боломжтой. Зангилаа бүр өөрийн sandbox-т ажилладаг. Хүний баталгаажуулалтын алхмаар буцаах, дахин ажиллуулах, түр зогсоох боломж байна.\n\nБүх код өөрийн дэд бүтцэд үлдэж, MIT лицензтэй. Суулгахдаа Docker шаардлагатай; дэлгэрэнгүй заавар README болон баримт бичигт байна. Хэрэгцээ нь кодын агентыг аль хэдийн ашигладаг, гэхдээ review болон хамтын ажлын хяналт хүсдэг багт тохиромжтой. Repo-г GitHub дээрээс үзнэ үү.",
+   "published": "2026-11-19T17:44:26Z",
+   "added": "2026-11-19T19:01:03Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1b3aafed7dd5d45c",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.width-1300.png",
+   "title": "Introducing Tool Retrieval in the Gemini API",
+   "summary_en": "Gemini spark on a space background",
+   "title_mn": "Gemini API-д Tool Retrieval нэвтэрлээ: хэрэгслийн схемийг шаардлагатай үед ачаална",
+   "summary_mn": "Gemini API-ийн Interactions API-д Tool Retrieval урьдчилан үзэх горимд гарлаа. tool_search хэрэгсэл болон defer_loading: true тохиргоогоор параметрийн схемийг зөвхөн хэрэгтэй үед ачаалж, оролтын токен болон хоцрогдлыг бууруулна.",
+   "body_mn": "Gemini API-д шинэ Tool Retrieval функц preview горимд гарсан. Олон хэрэгсэлтэй агент бүрэн схемийг хүсэлт бүрт илгээдэг байсан бол одоо хэрэгслийн нэр, тайлбар л харагдаж, параметрийн схемийг моделийн хэрэгцээнд тулгуурлан ачаална. Энэ нь оролтын токен, хоцрогдлыг бууруулж, хэрэгсэл сонголтын нарийвчлалыг сайжруулна.\n\nАшиглахдаа хүсэлтэд tool_search хэрэгсэл нэмээд, хойшлуулах хэрэгслүүд дээр defer_loading: true тохируулна. Модель нэрээр хэрэгсэл хайж, API схемийг ачаалж, function_call гаргана. Бүх алхам interaction.steps дотор харагдана.\n\nСерверт индекс бүтээх шаардлагагүй. Хэрэв өөрийн registry эсвэл embedding индекс байвал client горимоор тохируулж болно. Remote MCP сервер дээр defer_loading ашиглан бүх хэрэгслийг нэг дор хойшлуулж болно. Prefix caching-тай хамт ажиллана.",
+   "published": "2026-11-19T18:00:00Z",
+   "added": "2026-11-19T19:01:03Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]

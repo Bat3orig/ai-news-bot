@@ -1,0 +1,17 @@
+{
+ "id": "2966d98d185e6df0",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/ffmpeg-skill",
+ "image": "https://opengraph.githubassets.com/1/kajisho5/ffmpeg-skill",
+ "title": "Give your coding agent a local video editor, then have it check its own output",
+ "summary_en": "You've probably handed a coding agent a tedious refactor or a test suite to fix. But what happens when the task isn't code? Say you want to cut the dead air out of a recording, reframe a 16:9 clip to vertical, or normalize the loudness of an audio track. An agent that can write code is only half the... GitHub Repository: https://github.com/kajisho5/ffmpeg-skill",
+ "title_mn": "ffmpeg-skill: AI агентад FFmpeg дээр суурилсан орон нутгийн видео засварлагч өгөх хэрэгсэл",
+ "summary_mn": "ffmpeg-skill нь Claude Code, Cursor, Codex зэрэг кодын агентад 42 FFmpeg хэрэгсэл өгч, видеог локалд засварлаж, гаралтаа өөрөө шалгах боломжийг олгодог. MCP-ээр мөн ашиглагдана. Суулгах нь npx ffmpeg-skill команд юм.",
+ "body_mn": "ffmpeg-skill нь SKILL.md файл уншдаг кодын агентуудад зориулсан Agent Skill бөгөөд FFmpeg болон ffprobe-оор бодит видео засварыг хийдэг. Тайрах, нэгтгэх, чимээгүй хэсгийг арилгах, харьцаа өөрчлөх, субтитр, HDR-ээс SDR рүү хөрвүүлэх, аудио нормалчлах зэрэг 42 хэрэгсэл багтана.\n\nАгент ажлаа дараалсан дөрвөн алхамаар хийдэг: probe, edit, check, verify. Ингэж гаралтын файлыг хэмжиж, хүссэн зүйлтэй нийцэж байгаа эсэхийг баталгаажуулдаг. README-ийн жишээнд 59.98 секунд, 1080x1920, 30 fps гэсэн үр дүн харуулсан байна. Боломжтой бол алдагдалгүй засвар хийх зарчимтай.\n\nЭнэ нь бүгд локалд ажилладаг, API түлхүүр шаарддаггүй, Python-ийн стандарт сангаар бичигдсэн. 42 хэрэгслийг MCP-ээр бас дуудаж болох бөгөөд анхдагчаар 12 үндсэн хэрэгслийг л зарладаг. CI нь FFmpeg 6.1, 7.1, 8, 9 дээр тестлэгддэг.\n\nСуулгах нь npx ffmpeg-skill командаар хийгдэнэ. Жишээ демо нь demos/build.py скриптээр дахин үүсгэгдэх боломжтой.",
+ "published": "2026-11-19T17:43:26Z",
+ "added": "2026-11-19T19:01:03Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

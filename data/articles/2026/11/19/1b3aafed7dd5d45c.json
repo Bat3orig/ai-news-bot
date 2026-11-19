@@ -1,0 +1,17 @@
+{
+ "id": "1b3aafed7dd5d45c",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.width-1300.png",
+ "title": "Introducing Tool Retrieval in the Gemini API",
+ "summary_en": "Gemini spark on a space background",
+ "title_mn": "Gemini API-д Tool Retrieval нэвтэрлээ: хэрэгслийн схемийг шаардлагатай үед ачаална",
+ "summary_mn": "Gemini API-ийн Interactions API-д Tool Retrieval урьдчилан үзэх горимд гарлаа. tool_search хэрэгсэл болон defer_loading: true тохиргоогоор параметрийн схемийг зөвхөн хэрэгтэй үед ачаалж, оролтын токен болон хоцрогдлыг бууруулна.",
+ "body_mn": "Gemini API-д шинэ Tool Retrieval функц preview горимд гарсан. Олон хэрэгсэлтэй агент бүрэн схемийг хүсэлт бүрт илгээдэг байсан бол одоо хэрэгслийн нэр, тайлбар л харагдаж, параметрийн схемийг моделийн хэрэгцээнд тулгуурлан ачаална. Энэ нь оролтын токен, хоцрогдлыг бууруулж, хэрэгсэл сонголтын нарийвчлалыг сайжруулна.\n\nАшиглахдаа хүсэлтэд tool_search хэрэгсэл нэмээд, хойшлуулах хэрэгслүүд дээр defer_loading: true тохируулна. Модель нэрээр хэрэгсэл хайж, API схемийг ачаалж, function_call гаргана. Бүх алхам interaction.steps дотор харагдана.\n\nСерверт индекс бүтээх шаардлагагүй. Хэрэв өөрийн registry эсвэл embedding индекс байвал client горимоор тохируулж болно. Remote MCP сервер дээр defer_loading ашиглан бүх хэрэгслийг нэг дор хойшлуулж болно. Prefix caching-тай хамт ажиллана.",
+ "published": "2026-11-19T18:00:00Z",
+ "added": "2026-11-19T19:01:03Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

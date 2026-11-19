@@ -1,0 +1,17 @@
+{
+ "id": "bc011ba53eafce07",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/openmotion",
+ "image": "https://opengraph.githubassets.com/1/nexu-io/openmotion",
+ "title": "OpenMotion: recreate videos with your own agent, keys, and brand kit",
+ "summary_en": "You've probably seen a video ad or social clip and thought, \"I could adapt that for my product.\" Then you looked at the timeline, the keyframes, the transitions, and quietly closed the tab. OpenMotion is an attempt to make that adaptation process less painful—it's an open-source, full-stack video st... GitHub Repository: https://github.com/nexu-io/openmotion",
+ "title_mn": "openmotion: AI агентаар видеог брэндийнхээ дагуу дахин бүтээх нээлттэй эхийн студи",
+ "summary_mn": "OpenMotion бол өөрийн агент, API түлхүүрээр ажилладаг нээлттэй эхийн видео студи юм. Motion.md форматаар видеоны шот, шилжилтийг Markdown-оор тодорхойлдог. Node.js 22.18 эсвэл түүнээс дээш хувилбар шаардлагатай.",
+ "body_mn": "OpenMotion нь лавлагаа видеог оруулахад агент түүний шот, хугацаа, шилжилтийг задлаад, өөрийн брэндийн материал болон текстээр дахин бүтээдэг нээлттэй эхийн full-stack видео студи юм. README-д Claude Motion болон CapCut-ийн нээлттэй эхийн альтернатив гэж бичсэн байна. Apache 2.0 лицензтэй бөгөөд OpenDesign баг хөгжүүлжээ.\n\nГол санаа нь BYOA болон BYOK буюу өөрийн агент, өөрийн API түлхүүрээ ашиглах явдал юм. Claude Code, Codex, WorkBuddy зэрэг агентууд дэмжигдэнэ. Ингэснээр хостинг дээрх үйлчилгээний нэмэлт төлбөргүй, брэндийн материал гуравдагч талд үлддэггүй.\n\nMotion.md формат нь видеоны бүтцийг Markdown-оор илэрхийлдэг тул хуваалцах, version control хийх боломжтой. Үүнээс гадна зураг (GPT Image 2.6), видеоны шот (Seedance 2.5), хөгжим (Suno), дуу хоолой (Eleven v4) үүсгэх хэсгүүд багтсан. Суулгахдаа ChatGPT Marketplace-ээс нэг товчлуураар суулгах боломжтой гэж тэмдэглэсэн.\n\nХөгжүүлэгчдэд энэ нь видеоны ажлыг агентаар хийх туршилтын хэрэгсэл юм. Repo: github.com/nexu-io/openmotion.",
+ "published": "2026-11-19T17:42:37Z",
+ "added": "2026-11-19T19:01:03Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

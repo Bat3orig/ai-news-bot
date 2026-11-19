@@ -1,0 +1,17 @@
+{
+ "id": "9689c9b168578a29",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/loopforge",
+ "image": "https://opengraph.githubassets.com/1/tencent/loopforge",
+ "title": "Self-hosted Docker sandboxes where coding agents ship PRs and repeatable SOPs",
+ "summary_en": "You've probably tried pointing a coding agent at a repo and watching it produce something that looks like a PR. Then you spend the next hour figuring out what it actually changed, whether it broke anything, and how to hand it off for review. The agent did the typing; you did all the trust-building. ... GitHub Repository: https://github.com/tencent/loopforge",
+ "title_mn": "LoopForge: кодын агентуудыг Docker sandbox болон SOP-оор удирдах өөрөө хостлох платформ",
+ "summary_mn": "Tencent-ийн LoopForge нь кодын агентуудыг Docker sandbox дотор ажиллуулж, PR нээж, хүний баталгаажуулалтын алхмуудтай SOP урсгал үүсгэх боломжийг олгодог MIT лицензтэй платформ юм. Claude Code, Codex, Cursor CLI зэрэг олон CLI дэмжинэ.",
+ "body_mn": "LoopForge нь баг хамтдаа кодын агентуудаар програм хангамж хөгжүүлэх өөрөө хостлох платформ юм. Main Bot чат интерфейсээр даалгавар өгөхөд Docker sandbox үүсгэж, репозиторийг татаж, төслийн дүрүүдэд ажил хуваарилж, PR нээдэг. CodeBuddy, Codex, Claude Code, OpenCode, Cursor CLI, Kimi Code болон бусад CLI дэмжигдэнэ.\n\nОнцлог нь SOP горим юм. Амжилттай ажлын урсгалыг Agent, Script, Human-gate болон дэд SOP зангилаанаар хадгалж, дахин ажиллуулах боломжтой. Зангилаа бүр өөрийн sandbox-т ажилладаг. Хүний баталгаажуулалтын алхмаар буцаах, дахин ажиллуулах, түр зогсоох боломж байна.\n\nБүх код өөрийн дэд бүтцэд үлдэж, MIT лицензтэй. Суулгахдаа Docker шаардлагатай; дэлгэрэнгүй заавар README болон баримт бичигт байна. Хэрэгцээ нь кодын агентыг аль хэдийн ашигладаг, гэхдээ review болон хамтын ажлын хяналт хүсдэг багт тохиромжтой. Repo-г GitHub дээрээс үзнэ үү.",
+ "published": "2026-11-19T17:44:26Z",
+ "added": "2026-11-19T19:01:03Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
