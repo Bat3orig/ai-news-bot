@@ -1,0 +1,17 @@
+{
+ "id": "06878de0dc043f98",
+ "subtopic": "packages",
+ "source": "React Status",
+ "source_label": "React Status",
+ "url": "https://react.statuscode.com/issues/498",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ds7cbagrj5mmhgomkj4i.jpg",
+ "title": "Why Next.js has had so many security advisories",
+ "summary_en": "#​498 — November 20, 2026 Read on the Web React Status React Flow 13: Fewer Re-Renders for Big Node-Based UIs — The library behind countless node editors and workflow UIs gets its first major release in two years, with new hooks like useNode that cut unnecessary re-renders in large flows. Hayleigh Thompson (xyflow) 💡 If you're an existing user, there's a migration guide . Vue Flow has also now joined the xyflow family, alongside Svelte Flow . How to Build Your Own Automated Debugging Workflow — Factory, Exa, and Bolt connected their coding agents to Sentry so production errors become fix…",
+ "title_mn": "React Flow 13, Stepperize 9.0 болон Fate 2.0: React экосистемийн гол шинэчлэлтүүд",
+ "summary_mn": "React Status бюллетенийн энэ долоо хоногийн гол сангууд: React Flow 13 шинэ мажор хувилбар, Stepperize 9.0 болон Fate 2.0. Мөн Next.js-ийн аюулгүйн байдлын зөвлөмж, React Router-ийн засвар анхаарал татаж байна.",
+ "body_mn": "React Flow 13 нь олон node-д суурилсан UI-ийн гол сан болох React Flow-ийн хоёр жилийн дараах анхны мажор хувилбар юм. useNode зэрэг шинэ hook-ууд нь том урсгалуудад хэрэгтэй давтан рендерийг багасгах боломжийг олгоно. Хуучин хэрэглэгчдэд миграцийн гарын авлага бэлдсэн. Мөн Vue Flow болон Svelte Flow нь xyflow гэр бүлд нэгджээ.\n\nStepperize 9.0 нь wizard, checkout болон onboarding урсгалд зориулсан сан бөгөөд алхмуудыг нэг удаа тодорхойлоход типтэй навигаци өгнө. Fate 2.0 нь Relay-д санаа авсан data client бөгөөд серверийн болон клиентийн төлөвийг нэг views болон mutations-оор удирдана. Энэ нь GraphQL client-ээр ч ажиллана.\n\nNext.js-ийн талаар Next.js-д энэ жил 51 аюулгүйн зөвлөмж гарсан нь AI хуучин алдаануудыг илүү хурдан олж байгаатай холбоотой гэж баг тайлбарлажээ. Харин React Router 8.5.2 болон 7.18.6 хувилбарууд долоон аюулгүйн асуудлыг засдаг тул шинэчлэх шаардлагатай. Мөн React2STEAL гэх кампанит ажил React2Shell-ийн засваргүй серверүүдийг бай болгож байгаа тул аппликейшнээ шалгах нь чухал.\n\nБусад сангуудаас React Anatomy, Recharts 3.11, You Might Not Need an Effect 1.2 болон ka-table 13.0 зэргийг дурдсан байна. Хөгжүүлэгчдэд хамгийн хэрэгтэй нь аюулгүйн зөвлөмжүүд болон React Flow-ийн мажор шинэчлэл юм.",
+ "published": "2026-11-20T00:00:00Z",
+ "added": "2026-11-20T15:30:52Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
