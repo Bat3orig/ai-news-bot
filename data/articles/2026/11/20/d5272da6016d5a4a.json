@@ -1,0 +1,17 @@
+{
+ "id": "d5272da6016d5a4a",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/header_2.2e16d0ba.fill-1200x600.png",
+ "title": "Check what your AI agents do before they do it, with Semantic governance policies",
+ "summary_en": "Semantic governance policies enable developers to govern AI agents by evaluating every proposed tool call inline before execution. Operating via Agent Gateway, the policy engine checks each action against user intent and plain-language rules to prevent unauthorized data sharing and prompt injection attacks. Developers can easily attach natural-language constraints to their agents and monitor auditable verdicts through Cloud Logging.",
+ "title_mn": "Gemini платформд Semantic governance бодлого нэмэгдллээ",
+ "summary_mn": "Gemini платформд AI агентүүдийн хэрэгжүүлэх гэж буй tool call-ийг хэрэглэгчийн хүсэлт болон байгууллагын дүрэмтэй тулгаж шалгах Semantic governance бодлогыг Preview хэлбэрээр нэвтрүүлжээ.",
+ "body_mn": "Google компани Gemini платформдоо AI агентүүдийн үйл ажиллагааг хянах, аюулгүй байдлыг хангах зорилготой Semantic governance буюу утга зүйн засаглалын бодлогыг Preview хэлбэрээр гаргалаа. Энэхүү шийдэл нь агентүүдийн гүйцэтгэх гэж буй бүх tool call буюу багажны дуудлагыг хэрэглэгчийн анхны хүсэлт болон байгууллагынхаа боловсруулсан энгийн хэлний дүрэмтэй тулгаж урьдчилан шалгадаг байна.\n\nЭнэхүү шалгалтыг агентийн код болон загвараас тусгаарлагдсан Agent Gateway болон Semantic governance бодлогын хөдөлгүүрээр дамжуулан хийх бөгөөд дуудлага зөрчилтэй байвал LLM шүүгч үүнийг татгалзаж, тогтоосон мессежээр орлуулан аюулгүй байдлыг хангадаг аж. Шалгалтын үр дүн болон шүүгчийн шийдвэр Cloud Logging рүү илгээгдэх бөгөөд зөвхөн текстэн хариулт эсвэл төлөвлөгөө гаргах хүсэлтүүдэд энэхүү шүүлт хийгдэхгүй юм.\n\nЭнэхүү хэрэгсэл нь санхүү болон бусад эмзэг өгөгдөлтэй ажилладаг багийн хувьд AI агентүүд нууц мэдээллийг зөвшөөрөлгүй этгээдэд задлахаас урьдчилан сэргийлэх, шууд бус prompt injection буюу хортой заавраас хамгаалах чухал боломжийг олгож байна. Хөгжүүлэгчид агентийнхаа гарах урсгалыг Agent Gateway-ээр дамжуулан тохируулж, байгууллагынхаа бодлогыг natural language хэлбэрээр холбох боломжтой боллоо.",
+ "published": "2026-11-20T23:01:03Z",
+ "added": "2026-11-20T23:01:03Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

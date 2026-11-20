@@ -1,0 +1,17 @@
+{
+ "id": "79331c1bcfad881a",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
+ "image": "https://opengraph.githubassets.com/039682c0eddced240ab97c729ba18cf64b6d2a8143b2f64e8694fb42caf41007/anthropics/claude-code/releases/tag/v2.1.330",
+ "title": "claude-code v2.1.330",
+ "summary_en": "What's changed Added sign-in to organizations managed in Anthropic's Enterprise Admin Console: after claude auth login , Claude Code applies the organization's settings and uses its cloud provider or gateway Added easel, a built-in mod that draws charts when asked and under MCP metrics results, on Pro, Max and, where available, Team and Enterprise on macOS and Linux; turn automatic charts off in /config Added CLAUDE_CODE_FULL_SIGN_IN_LINK=1 to print the full sign-in link, if the short one shows an error or a script reads values from it Self-hosted runner: Added --start-dir /…",
+ "title_mn": "claude-code v2.1.330 хувилбар гарлаа",
+ "summary_mn": "Claude Code хэрэгслийн шинэ v2.1.330 хувилбараар Enterprise Admin Console нэвтрэлт, easel график дүрслэгч болон олон тооны алдаа засрууд нэмэгджээ.",
+ "body_mn": "Anthropic компани өөрийн Claude Code хэрэгслийн шинэ v2.1.330 хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэ хувилбарт байгууллагын Enterprise Admin Console орчноос шууд нэвтрэх боломжийг нэмсэн нь админ тохиргоог автоматаар ашиглах нөхцөлийг бүрдүүлжээ.\n\nMөн хэрэглэгчийн хүссэн үед диаграмм, график зурдаг easel хэмээх встроен модулийг Pro, Max болон зарим Team, Enterprise хэрэглэгчдэд macOS болон Linux дээр нэмсэн байна. Үүнээс гадна self-hosted runner болон MCP серверийн ажиллагааг сайжруулж, олон тооны тогтвортой байдлын засваруудыг хийжээ.\n\nТухайлбал урт яриаг шахах (compacting) үед гардаг гаэлийг засаж, WebFetch хэсэг гацах асуудлыг шийдвэрлэсэн байна. Мөн Bash команд болон Git үйлдлүүд удааширдаг байсан алдаануудыг зассан нь хөгжүүлэгчдийн өдөр тутмын ажлыг илүү хурдан бөгөөд найдвартай болгож байна.",
+ "published": "2026-11-20T22:32:56Z",
+ "added": "2026-11-20T23:01:03Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

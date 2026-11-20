@@ -238,5 +238,45 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d5272da6016d5a4a",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/header_2.2e16d0ba.fill-1200x600.png",
+   "title": "Check what your AI agents do before they do it, with Semantic governance policies",
+   "summary_en": "Semantic governance policies enable developers to govern AI agents by evaluating every proposed tool call inline before execution. Operating via Agent Gateway, the policy engine checks each action against user intent and plain-language rules to prevent unauthorized data sharing and prompt injection attacks. Developers can easily attach natural-language constraints to their agents and monitor auditable verdicts through Cloud Logging.",
+   "title_mn": "Gemini платформд Semantic governance бодлого нэмэгдллээ",
+   "summary_mn": "Gemini платформд AI агентүүдийн хэрэгжүүлэх гэж буй tool call-ийг хэрэглэгчийн хүсэлт болон байгууллагын дүрэмтэй тулгаж шалгах Semantic governance бодлогыг Preview хэлбэрээр нэвтрүүлжээ.",
+   "body_mn": "Google компани Gemini платформдоо AI агентүүдийн үйл ажиллагааг хянах, аюулгүй байдлыг хангах зорилготой Semantic governance буюу утга зүйн засаглалын бодлогыг Preview хэлбэрээр гаргалаа. Энэхүү шийдэл нь агентүүдийн гүйцэтгэх гэж буй бүх tool call буюу багажны дуудлагыг хэрэглэгчийн анхны хүсэлт болон байгууллагынхаа боловсруулсан энгийн хэлний дүрэмтэй тулгаж урьдчилан шалгадаг байна.\n\nЭнэхүү шалгалтыг агентийн код болон загвараас тусгаарлагдсан Agent Gateway болон Semantic governance бодлогын хөдөлгүүрээр дамжуулан хийх бөгөөд дуудлага зөрчилтэй байвал LLM шүүгч үүнийг татгалзаж, тогтоосон мессежээр орлуулан аюулгүй байдлыг хангадаг аж. Шалгалтын үр дүн болон шүүгчийн шийдвэр Cloud Logging рүү илгээгдэх бөгөөд зөвхөн текстэн хариулт эсвэл төлөвлөгөө гаргах хүсэлтүүдэд энэхүү шүүлт хийгдэхгүй юм.\n\nЭнэхүү хэрэгсэл нь санхүү болон бусад эмзэг өгөгдөлтэй ажилладаг багийн хувьд AI агентүүд нууц мэдээллийг зөвшөөрөлгүй этгээдэд задлахаас урьдчилан сэргийлэх, шууд бус prompt injection буюу хортой заавраас хамгаалах чухал боломжийг олгож байна. Хөгжүүлэгчид агентийнхаа гарах урсгалыг Agent Gateway-ээр дамжуулан тохируулж, байгууллагынхаа бодлогыг natural language хэлбэрээр холбох боломжтой боллоо.",
+   "published": "2026-11-20T23:01:03Z",
+   "added": "2026-11-20T23:01:03Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "79331c1bcfad881a",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
+   "image": "https://opengraph.githubassets.com/039682c0eddced240ab97c729ba18cf64b6d2a8143b2f64e8694fb42caf41007/anthropics/claude-code/releases/tag/v2.1.330",
+   "title": "claude-code v2.1.330",
+   "summary_en": "What's changed Added sign-in to organizations managed in Anthropic's Enterprise Admin Console: after claude auth login , Claude Code applies the organization's settings and uses its cloud provider or gateway Added easel, a built-in mod that draws charts when asked and under MCP metrics results, on Pro, Max and, where available, Team and Enterprise on macOS and Linux; turn automatic charts off in /config Added CLAUDE_CODE_FULL_SIGN_IN_LINK=1 to print the full sign-in link, if the short one shows an error or a script reads values from it Self-hosted runner: Added --start-dir /…",
+   "title_mn": "claude-code v2.1.330 хувилбар гарлаа",
+   "summary_mn": "Claude Code хэрэгслийн шинэ v2.1.330 хувилбараар Enterprise Admin Console нэвтрэлт, easel график дүрслэгч болон олон тооны алдаа засрууд нэмэгджээ.",
+   "body_mn": "Anthropic компани өөрийн Claude Code хэрэгслийн шинэ v2.1.330 хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэ хувилбарт байгууллагын Enterprise Admin Console орчноос шууд нэвтрэх боломжийг нэмсэн нь админ тохиргоог автоматаар ашиглах нөхцөлийг бүрдүүлжээ.\n\nMөн хэрэглэгчийн хүссэн үед диаграмм, график зурдаг easel хэмээх встроен модулийг Pro, Max болон зарим Team, Enterprise хэрэглэгчдэд macOS болон Linux дээр нэмсэн байна. Үүнээс гадна self-hosted runner болон MCP серверийн ажиллагааг сайжруулж, олон тооны тогтвортой байдлын засваруудыг хийжээ.\n\nТухайлбал урт яриаг шахах (compacting) үед гардаг гаэлийг засаж, WebFetch хэсэг гацах асуудлыг шийдвэрлэсэн байна. Мөн Bash команд болон Git үйлдлүүд удааширдаг байсан алдаануудыг зассан нь хөгжүүлэгчдийн өдөр тутмын ажлыг илүү хурдан бөгөөд найдвартай болгож байна.",
+   "published": "2026-11-20T22:32:56Z",
+   "added": "2026-11-20T23:01:03Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]
