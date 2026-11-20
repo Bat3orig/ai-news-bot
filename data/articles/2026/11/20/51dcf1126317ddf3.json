@@ -1,0 +1,17 @@
+{
+ "id": "51dcf1126317ddf3",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.6.0",
+ "image": "https://opengraph.githubassets.com/48946e7435da0936e5f4b262ad4dfbdcda02c0cbc996f25924c592e30e14b390/nestjs/nest/releases/tag/v12.6.0",
+ "title": "nest v12.6.0",
+ "summary_en": "v12.6.0 (2026-11-20) Notable changes New features NestFactory.create() infers the application type from the adapter: NestFactory.create(AppModule, new FastifyAdapter()) returns a NestFastifyApplication with no type argument, and the same goes for ExpressAdapter and NodeAdapter . An explicit type argument still works. A custom adapter declares its application type as the fourth type argument of AbstractHttpAdapter – #18623 WsAdapter takes gracefulShutdown ( false by default) and gracePeriod (10,000 ms by default). With gracefulShutdown , closing the application stops accepting connections (an…",
+ "title_mn": "NestJS v12.6.0 гарлаа: NestFactory төрөл автоматаар тодорхойлж, graceful shutdown сайжирлаа",
+ "summary_mn": "NestJS v12.6.0 хувилбарт NestFactory.create() адаптераас аппликейшний төрлийг автоматаар тодорхойлдог, WsAdapter болон gRPC-д gracefulShutdown нэмэгдсэн. Мөн gRPC дуудлагууд gracePeriod-ээс хойш цуцлагдах зэрэг зан төлөвийн өөрчлөлт орсон.",
+ "body_mn": "NestJS v12.6.0 хувилбар нь NestFactory.create() функц адаптераас аппликейшний төрлийг автоматаар гаргадаг болсныг онцолж байна. Жишээ нь FastifyAdapter, ExpressAdapter, NodeAdapter ашиглахад төрлийн аргумент заавал шаардлагагүй. Харин өөрийн адаптер бичигч нар AbstractHttpAdapter-ийн дөрөв дэх төрлийн аргументаар аппликейшний төрлөө заах ёстой.\n\nWsAdapter-т gracefulShutdown (анхдагчаар false) болон gracePeriod (анхдагчаар 10,000 мс) параметр нэмэгдсэн. Энэ горимд аппликейшнийг хаахад шинэ холболт хүлээн авахгүй, шинэ мессежийг үл тоомсорлож, боловсруулагчдыг хугацаанд нь хүлээнэ. gRPC сервер дээр мөн ижил gracePeriod нэмэгдсэн боловч ажиллаж буй дуудлагууд хугацаанаас хойш цуцлагдах тул урт стримтэй системд хугацааг тохируулах хэрэгтэй.\n\nТүүнчлэн @Res() болон @Res({ passthrough: true }) тохиргооны зан төлөв, Fastify дээрх хүсэлтийн алдаа, микросервисийн холболтын алдааны мэдээллүүд өөрчлөгдсөн. Тестийн модулиар logger тохиргоо ажиллах шинэчлэл ч орсон. Тиймээс хуучин кодоо шинэчлэхдээ shutdown болон алдааны боловсруулалтаа заавал шалгах хэрэгтэй.",
+ "published": "2026-11-20T12:51:21Z",
+ "added": "2026-11-20T13:00:59Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
