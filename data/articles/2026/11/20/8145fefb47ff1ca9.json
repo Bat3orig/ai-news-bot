@@ -1,0 +1,17 @@
+{
+ "id": "8145fefb47ff1ca9",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/business/customer-stories/hebbia",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
+ "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+ "summary_en": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+ "title_mn": "GPT-6 Astra санхүүгийн судалгаа болон тайлан бэлтгэлд амжилттай туршигдлаа",
+ "summary_mn": "Hebbia компани OpenAI-ийн GPT-6 Astra загварыг санхүүгийн судалгаа болон презентаци хийхэд туршиж, эх сурвалжийн баталгаажуулалт болон чанараар өндөр үр дүнтэй болохыг тогтоожээ.",
+ "body_mn": "Hebbia компани санхүүгийн судалгаа болон өгөгдлийн шинжилгээнд OpenAI-ийн шинэ GPT-6 Astra загварыг туршиж үзжээ. Туршилтаар уг загвар нь олон мянган баримт бичгээс хэрэгтэй эх сурвалжийг олж, нарийн ишлэл хийх чадвараараа бусад хувилбаруудыг тэргүүлсэн байна. Тухайлбал, шаардлагатай эх сурвалжийг зөв олох тал дээр өмнөх шилдэг хувилбараас 13.6 хувиар илүү гарчээ.\n\nМөн уг загвар нь цуглуулсан судалгаан дээрээ үндэслэн компанийн загвар, шаардлагад нийцсэн PowerPoint презентацийг автоматаар бэлтгэх чадвартай болох нь тогтоогджээ. Туршилтын явцад уг загвар нь презентацийн шаардлагын 97.9 хувийг хангаж, хүн хийсэн мэт чанартай үр дүн үзүүлсэн байна. Энэ нь санхүүчдэд миллион доллараар хэмжигдэх шийдвэр гаргахад найдвартай туслах хэрэгсэл болж байна.",
+ "published": "2026-11-20T00:00:00Z",
+ "added": "2026-11-20T21:00:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "63f88ed2e9984e7a",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "IBM",
+ "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdVkzQlNDalFhcHRTSENWWER3cHp5NDBSZGYxbnVkWUZGN0tDSndSSVFEU21lQ3N4N3htZGtZS3o5RlJzRVVCQXNRX2Npc2VGZmp5TWpQSXVhcFNQVEJsRXFpa3hMSHhac0xzbkRnUllnNlJtY3VjWFBkYnFVZU9vbVhCQQ?oc=5",
+ "image": "",
+ "title": "Anthropic mathematician claims AI helped solve a 167-year-old math mystery",
+ "summary_en": "",
+ "title_mn": "Anthropic-ийн математикч Claude загварын тусламжтайгаар 167 жилийн түүхтэй бодлогыг шийдсэн гэж мэдэгджээ",
+ "summary_mn": "Anthropic компанийн математикч Claude загварын тусламжтайгаар математикийн алдартай таамаглалыг шийдсэн гэж мэдэгдсэн нь мэргэжилтнүүдийн шалгалтад хүлээгдэж байна.",
+ "body_mn": "IBM болон бусад эх сурвалжийн мэдээлснээр Anthropic компанийн математикч Claude хиймэл оюун ухааны тусламжтайгаар 167 жилийн түүхтэй математикийн нууцыг тайлж, таамаглалыг баталсан гэж мэдэгджээ. Энэхүү гайхалтай амжилт нь одоогоор мэргэжилтнүүдийн нарийвчилсан шалгалт, хяналтад ороод байна.\n\nХэрэв энэ нь батлагдвал хиймэл оюун ухаан шинжлэх ухааны суурь судалгаа, тэр дундаа математикийн салбарт хэрхэн хувьсгал хийж болохыг харуулсан томоохон жишээ болох юм.",
+ "published": "2026-11-20T20:41:23Z",
+ "added": "2026-11-20T21:00:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
