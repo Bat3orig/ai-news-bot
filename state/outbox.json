@@ -118,5 +118,65 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c25cbf66426ae3e6",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-hero-banner.2e16d0ba.fill-1200x600.png",
+   "title": "Agent Anomaly Detection: Safeguarding agents across other clouds",
+   "summary_en": "Agent Anomaly Detection now monitors ADK agents running across AWS, Azure, or on-premises by analyzing their traces and logs in your Google Cloud project. By ingesting OpenTelemetry-formatted data through the Telemetry API, it evaluates full conversations for behavioral drift without needing access to the agent's underlying runtime. This enables security teams to detect risks like rogue behaviors, tool misuse, and resource exhaustion across multi-cloud environments.",
+   "title_mn": "Agent Anomaly Detection одоо Google Cloud-ээс гадуурх агентуудыг ч шалгах боломжтой боллоо",
+   "summary_mn": "Google Agent Anomaly Detection нь AWS Lambda болон Microsoft Foundry дээр ажиллаж буй агентуудын trace болон log-оор хэвийн бус зан төлөвийг илрүүлнэ. Энэ нь Private Preview хэлбэрээр боломжтой бөгөөд ADK for Python 2.12.0 эсвэл түүнээс хойшхи хувилбар шаардлагатай.",
+   "body_mn": "Google Developers Blog-д нийтлэгдсэн мэдээнд Agent Anomaly Detection нь Private Preview хэлбэрээр Google Cloud-ээс гадуур ажиллаж буй агентуудыг хянах боломжтой болсныг мэдээлжээ. Өмнө нь энэ багаж зөвхөн Agent Runtime, Cloud Run, GKE дээрх агентуудыг шалгадаг байсан.\n\nАгентын загвар болон tool дуудалт нь өөрийн ажиллаж буй орчинд үргэлжилдэг бөгөөд Google Cloud төсөлд зөвхөн telemetry, тэр дундаа уншигдах prompt болон хариултууд илгээгдэнэ. Шинжилгээ тусад нь явагдаж агентыг удаашруулахгүй. Агент нь ADK-ийн Google Cloud exporter болон хэдхэн орчны хувьсагчтай бол telemetry-гээ илгээж чадна.\n\nТуршилтад AWS Lambda дээрх inventory агент болон Microsoft Foundry дээрх customer-service агентыг ашигласан. Нэг session нь бараа шалгаад зогсох хэрэглэгч, нөгөө нь бүтээгдэхүүний каталогийг хуулах scraper байсан бөгөөд зөвхөн scraper-ийг тэмдэглэжээ. Хэрэв таны агент гадаад cloud дээр байгаа бол rate limit болон log-оо Google Cloud руу холбох талаар судлах хэрэгтэй.\n\nЭнэ нь олон cloud-д тархсан агентуудын аюулгүй байдлыг нэгтгэн хянах боломжийг олгож байна.",
+   "published": "2026-11-20T20:30:52Z",
+   "added": "2026-11-20T20:30:52Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "070a0f2f3b2e4322",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/meta-image-1600x900.2e16d0ba.fill-1200x600.png",
+   "title": "How to handle user, connector, and agent auth in Gemini Enterprise with a custom UI",
+   "summary_en": "When building a custom enterprise UI on top of Gemini Enterprise's :streamAssist API, developers must manually implement three core authentication layers. These include authenticating users or workloads via Google Identity or Workforce/Workload Identity Federation, managing third-party 3-legged OAuth (3LO) for Federated Connectors through the Keystore, and configuring on-demand per-tool OAuth for custom ADK agents using Vertex AI Agent Engine and GCP Auth Manager.",
+   "title_mn": "Gemini Enterprise-ийн захиалгат UI-д хэрэглэгч, connector болон агентын баталгаажуулалтыг хэрхэн хийх вэ",
+   "summary_mn": "Gemini Enterprise-ийн бэлэн веб апп нь нэвтрэлт, ACL болон гуравдагч талын connector-ийн баталгаажуулалтыг автоматаар хийдэг боловч захиалгат UI дуудахад эдгээр нь хөгжүүлэгчийн хариуцлага болдог. Нийтлэлд StreamAssist API-тай холбогдох гурван баталгаажуулалтын хэв маягийг тайлбарласан байна.",
+   "body_mn": "Google Developers Blog-ийн гарын авлагад Gemini Enterprise-ийг корпорацийн портал эсвэл дотоод апп-д суулгахдаа хөгжүүлэгч өөрөө баталгаажуулалтыг зохион байгуулах шаардлагатай болохыг тайлбарлажээ. Customer UI болон Customer BE нь StreamAssist API-г шууд дуудахдаа хэрэглэгчийн нэвтрэлт, ACL болон гуравдагч талын нэвтрэлтийг хариуцна.\n\nХэрэглэгч Google Workspace эсвэл Cloud Identity-ээр нэвтэрч байвал нэмэлт алхамгүйгээр ажиллана. Microsoft Entra ID эсвэл Okta-г Workforce Identity Federation-оор ашиглах тохиолдолд одоо холбогдсон Workforce Pool-ийг дахин ашиглана. Харин backend сервис эсвэл Slack, Teams webhook-д Service Account JSON түлхүүргүй Workload Identity Pool ашиглахыг зөвлөжээ.\n\nFederated Connector-ууд Google Drive, SharePoint, Jira, Box, ServiceNow, Confluence зэргийг хэрэглэгч бүрийн 3-Legged OAuth-аар холбодог. Хэрэглэгчийн refresh token-ийг Gemini Enterprise өөрөө хадгалдаг тул Customer BE гуравдагч талын нууц мэдээллийг өөрийн өгөгдлийн санд хадгалах шаардлагагүй. Захиалгат domain дээр popup handoff-ийг идэвхжүүлэх тохиргоо шаардлагатай гэдгийг анхаарах хэрэгтэй.",
+   "published": "2026-11-20T20:30:52Z",
+   "added": "2026-11-20T20:30:52Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "15d3164024fd1997",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/header_image_1600x900.2e16d0ba.fill-1200x600.png",
+   "title": "How to securely connect internal Cloud Run MCP servers to Gemini Enterprise",
+   "summary_en": "How to connect Gemini Enterprise privately to internal StreamableHTTP MCP servers on Cloud Run using Egress Agent Gateway, Private Service Connect, FQDN-scoped Private Cloud DNS, and dual-header OAuth 2.0 authentication.",
+   "title_mn": "Дотоод Cloud Run MCP серверийг Gemini Enterprise-тэй аюулгүйгээр холбох арга",
+   "summary_mn": "Cloud Run дээрх дотоод MCP серверийг Gemini Enterprise-тэй холбохдоо Egress Agent Gateway, Private Service Connect болон FQDN-д хамаарсан Private Cloud DNS ашиглахыг санал болгож байна. Жишээ код болон setup скриптүүд GitHub дээр байна.",
+   "body_mn": "Google Cloud блогт корпорацийн дотоод MCP сервер Cloud Run дээр ажиллуулахад гурван асуудал гарч байгааг тайлбарлажээ. Үүнд аюулгүй байдал, сүлжээ болон DNS холболтын асуудлууд багтана. Cloud Run нь serverless тул Compute Engine-ийн дотоод IP-тэй адил шууд холбогдож чадахгүй.\n\nЭнэ асуудлыг шийдэхийн тулд Egress Agent Gateway нь хүсэлтийг VPC руу дамжуулж, Private Service Connect Network Attachment нь холболтыг бүрдүүлдэг. Харин public DNS нь .run.app домайныг интернэтийн IP руу шийддэг тул PSC дээр HTTP 502 алдаа гардаг. Үүнийг засахын тулд зөвхөн тухайн MCP сервисийн яг FQDN-д зориулсан Private Cloud DNS zone үүсгэнэ. Ингэснээр бусад Cloud Run сервис хэвийн ажиллана.\n\nGemini Enterprise хүсэлт бүрт хоёр өөр authorization header илгээдэг тул серверийн талд тэдгээрийг зөв боловсруулах шаардлагатай. Сервисийг internal ingress болон IAM баталгаажуулалттай байрлуулж, Cloud Run Invoker эрхийг Gemini Enterprise service agent-д олгохыг зөвлөжээ. Корпорацийн MCP тохиргоо хийдэг хөгжүүлэгчдэд энэ нь ашигтай гарын авлага юм.",
+   "published": "2026-11-20T20:30:52Z",
+   "added": "2026-11-20T20:30:52Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]

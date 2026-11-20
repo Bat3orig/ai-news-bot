@@ -1,0 +1,17 @@
+{
+ "id": "070a0f2f3b2e4322",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/meta-image-1600x900.2e16d0ba.fill-1200x600.png",
+ "title": "How to handle user, connector, and agent auth in Gemini Enterprise with a custom UI",
+ "summary_en": "When building a custom enterprise UI on top of Gemini Enterprise's :streamAssist API, developers must manually implement three core authentication layers. These include authenticating users or workloads via Google Identity or Workforce/Workload Identity Federation, managing third-party 3-legged OAuth (3LO) for Federated Connectors through the Keystore, and configuring on-demand per-tool OAuth for custom ADK agents using Vertex AI Agent Engine and GCP Auth Manager.",
+ "title_mn": "Gemini Enterprise-ийн захиалгат UI-д хэрэглэгч, connector болон агентын баталгаажуулалтыг хэрхэн хийх вэ",
+ "summary_mn": "Gemini Enterprise-ийн бэлэн веб апп нь нэвтрэлт, ACL болон гуравдагч талын connector-ийн баталгаажуулалтыг автоматаар хийдэг боловч захиалгат UI дуудахад эдгээр нь хөгжүүлэгчийн хариуцлага болдог. Нийтлэлд StreamAssist API-тай холбогдох гурван баталгаажуулалтын хэв маягийг тайлбарласан байна.",
+ "body_mn": "Google Developers Blog-ийн гарын авлагад Gemini Enterprise-ийг корпорацийн портал эсвэл дотоод апп-д суулгахдаа хөгжүүлэгч өөрөө баталгаажуулалтыг зохион байгуулах шаардлагатай болохыг тайлбарлажээ. Customer UI болон Customer BE нь StreamAssist API-г шууд дуудахдаа хэрэглэгчийн нэвтрэлт, ACL болон гуравдагч талын нэвтрэлтийг хариуцна.\n\nХэрэглэгч Google Workspace эсвэл Cloud Identity-ээр нэвтэрч байвал нэмэлт алхамгүйгээр ажиллана. Microsoft Entra ID эсвэл Okta-г Workforce Identity Federation-оор ашиглах тохиолдолд одоо холбогдсон Workforce Pool-ийг дахин ашиглана. Харин backend сервис эсвэл Slack, Teams webhook-д Service Account JSON түлхүүргүй Workload Identity Pool ашиглахыг зөвлөжээ.\n\nFederated Connector-ууд Google Drive, SharePoint, Jira, Box, ServiceNow, Confluence зэргийг хэрэглэгч бүрийн 3-Legged OAuth-аар холбодог. Хэрэглэгчийн refresh token-ийг Gemini Enterprise өөрөө хадгалдаг тул Customer BE гуравдагч талын нууц мэдээллийг өөрийн өгөгдлийн санд хадгалах шаардлагагүй. Захиалгат domain дээр popup handoff-ийг идэвхжүүлэх тохиргоо шаардлагатай гэдгийг анхаарах хэрэгтэй.",
+ "published": "2026-11-20T20:30:52Z",
+ "added": "2026-11-20T20:30:52Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

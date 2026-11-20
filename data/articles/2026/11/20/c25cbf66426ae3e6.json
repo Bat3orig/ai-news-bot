@@ -1,0 +1,17 @@
+{
+ "id": "c25cbf66426ae3e6",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-hero-banner.2e16d0ba.fill-1200x600.png",
+ "title": "Agent Anomaly Detection: Safeguarding agents across other clouds",
+ "summary_en": "Agent Anomaly Detection now monitors ADK agents running across AWS, Azure, or on-premises by analyzing their traces and logs in your Google Cloud project. By ingesting OpenTelemetry-formatted data through the Telemetry API, it evaluates full conversations for behavioral drift without needing access to the agent's underlying runtime. This enables security teams to detect risks like rogue behaviors, tool misuse, and resource exhaustion across multi-cloud environments.",
+ "title_mn": "Agent Anomaly Detection одоо Google Cloud-ээс гадуурх агентуудыг ч шалгах боломжтой боллоо",
+ "summary_mn": "Google Agent Anomaly Detection нь AWS Lambda болон Microsoft Foundry дээр ажиллаж буй агентуудын trace болон log-оор хэвийн бус зан төлөвийг илрүүлнэ. Энэ нь Private Preview хэлбэрээр боломжтой бөгөөд ADK for Python 2.12.0 эсвэл түүнээс хойшхи хувилбар шаардлагатай.",
+ "body_mn": "Google Developers Blog-д нийтлэгдсэн мэдээнд Agent Anomaly Detection нь Private Preview хэлбэрээр Google Cloud-ээс гадуур ажиллаж буй агентуудыг хянах боломжтой болсныг мэдээлжээ. Өмнө нь энэ багаж зөвхөн Agent Runtime, Cloud Run, GKE дээрх агентуудыг шалгадаг байсан.\n\nАгентын загвар болон tool дуудалт нь өөрийн ажиллаж буй орчинд үргэлжилдэг бөгөөд Google Cloud төсөлд зөвхөн telemetry, тэр дундаа уншигдах prompt болон хариултууд илгээгдэнэ. Шинжилгээ тусад нь явагдаж агентыг удаашруулахгүй. Агент нь ADK-ийн Google Cloud exporter болон хэдхэн орчны хувьсагчтай бол telemetry-гээ илгээж чадна.\n\nТуршилтад AWS Lambda дээрх inventory агент болон Microsoft Foundry дээрх customer-service агентыг ашигласан. Нэг session нь бараа шалгаад зогсох хэрэглэгч, нөгөө нь бүтээгдэхүүний каталогийг хуулах scraper байсан бөгөөд зөвхөн scraper-ийг тэмдэглэжээ. Хэрэв таны агент гадаад cloud дээр байгаа бол rate limit болон log-оо Google Cloud руу холбох талаар судлах хэрэгтэй.\n\nЭнэ нь олон cloud-д тархсан агентуудын аюулгүй байдлыг нэгтгэн хянах боломжийг олгож байна.",
+ "published": "2026-11-20T20:30:52Z",
+ "added": "2026-11-20T20:30:52Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

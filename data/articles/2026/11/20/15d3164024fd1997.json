@@ -1,0 +1,17 @@
+{
+ "id": "15d3164024fd1997",
+ "subtopic": "gemini",
+ "source": "Google Developers Blog",
+ "source_label": "Google Developers Blog",
+ "url": "https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/",
+ "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/header_image_1600x900.2e16d0ba.fill-1200x600.png",
+ "title": "How to securely connect internal Cloud Run MCP servers to Gemini Enterprise",
+ "summary_en": "How to connect Gemini Enterprise privately to internal StreamableHTTP MCP servers on Cloud Run using Egress Agent Gateway, Private Service Connect, FQDN-scoped Private Cloud DNS, and dual-header OAuth 2.0 authentication.",
+ "title_mn": "Дотоод Cloud Run MCP серверийг Gemini Enterprise-тэй аюулгүйгээр холбох арга",
+ "summary_mn": "Cloud Run дээрх дотоод MCP серверийг Gemini Enterprise-тэй холбохдоо Egress Agent Gateway, Private Service Connect болон FQDN-д хамаарсан Private Cloud DNS ашиглахыг санал болгож байна. Жишээ код болон setup скриптүүд GitHub дээр байна.",
+ "body_mn": "Google Cloud блогт корпорацийн дотоод MCP сервер Cloud Run дээр ажиллуулахад гурван асуудал гарч байгааг тайлбарлажээ. Үүнд аюулгүй байдал, сүлжээ болон DNS холболтын асуудлууд багтана. Cloud Run нь serverless тул Compute Engine-ийн дотоод IP-тэй адил шууд холбогдож чадахгүй.\n\nЭнэ асуудлыг шийдэхийн тулд Egress Agent Gateway нь хүсэлтийг VPC руу дамжуулж, Private Service Connect Network Attachment нь холболтыг бүрдүүлдэг. Харин public DNS нь .run.app домайныг интернэтийн IP руу шийддэг тул PSC дээр HTTP 502 алдаа гардаг. Үүнийг засахын тулд зөвхөн тухайн MCP сервисийн яг FQDN-д зориулсан Private Cloud DNS zone үүсгэнэ. Ингэснээр бусад Cloud Run сервис хэвийн ажиллана.\n\nGemini Enterprise хүсэлт бүрт хоёр өөр authorization header илгээдэг тул серверийн талд тэдгээрийг зөв боловсруулах шаардлагатай. Сервисийг internal ingress болон IAM баталгаажуулалттай байрлуулж, Cloud Run Invoker эрхийг Gemini Enterprise service agent-д олгохыг зөвлөжээ. Корпорацийн MCP тохиргоо хийдэг хөгжүүлэгчдэд энэ нь ашигтай гарын авлага юм.",
+ "published": "2026-11-20T20:30:52Z",
+ "added": "2026-11-20T20:30:52Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
