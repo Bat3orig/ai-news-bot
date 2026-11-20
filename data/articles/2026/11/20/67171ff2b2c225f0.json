@@ -1,0 +1,17 @@
+{
+ "id": "67171ff2b2c225f0",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/juspay/hyperswitch",
+ "image": "https://repository-images.githubusercontent.com/552877440/fd8b83bc-a093-4f7b-9e16-a0cd1f9f8572",
+ "title": "juspay/hyperswitch",
+ "summary_en": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation https://hyperswitch.io/ Composable Open-Source Payments Infrastructure 📁 Table of Contents What Can I Do with Hyperswitch? Quickstart (Local Setup) Cloud Deployment Hosted Sandbox (No Setup Required) Why Hyperswitch? Architectural Overview Load…",
+ "title_mn": "juspay/hyperswitch: Төлбөрийн дэд бүтцийг удирдах модульчлагдсан нээлттэй эх сурвалж",
+ "summary_mn": "Hyperswitch бол төлбөр боловсруулалтын өртөг, чиглүүлэлт, найдвартай байдлыг оновчлох зорилготой, модульд суурилсан нээлттэй эх сурвалжтай төлбөрийн дэд бүтэц юм. Энэ нь Rust хэл дээр бичигдсэн бөгөөд Stripe, Adyen зэрэг 120+ төлбөрийн системтэй холбогддог.",
+ "body_mn": "Hyperswitch нь бизнесүүдэд одоо байгаа төлбөрийн систем дээрээ шаардлагатай модулиудаа сонгон нэгтгэх боломжийг олгодог модульд суурилсан, нээлттэй эх сурвалжтай төлбөрийн дэд бүтцийн платформ юм. Энэ нь төлбөрийн зардлын ажиглалт, орлого сэргээх, PCI нийцтэй Vault үйлчилгээ, ухаалаг чиглүүлэлт зэрэг бие даасан зорилго бүхий модулиудыг санал болгодог.\n\nӨндөр гүйцэтгэл, найдвартай байдлыг хангах үүднээс Rust хэл дээр бичигдсэн уг төсөл нь Stripe, Adyen, Braintree, Worldpay зэрэг дэлхийн 120 гаруй төлбөр боловсруулагчидтай холбогдож, гүйлгээг хамгийн өндөр амжилттай байхаар автоматаар чиглүүлдэг. Мөн AWS, GCP, Azure дээр Helm Charts ашиглан хялбархан байршуулах боломжтой.\n\nЭнэхүү төсөл нь төлбөрийн системээ бие даан удирдаж, олон төлбөр боловсруулагчийн хооронд ухаалаг чиглүүлэлт хийх хүсэлтэй хөгжүүлэгчид болон финтек компаниудад нэн тохиромжтой. Хөгжүүлэгчид GitHub repository-оос дэлгэрэнгүй мэдээлэл авч туршиж үзэх боломжтой.",
+ "published": "2026-11-20T08:30:53Z",
+ "added": "2026-11-20T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

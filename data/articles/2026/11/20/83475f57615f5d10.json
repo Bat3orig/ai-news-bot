@@ -1,0 +1,17 @@
+{
+ "id": "83475f57615f5d10",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/Tracer-Cloud/opensre",
+ "image": "https://repository-images.githubusercontent.com/1133141258/1e1ca9ef-fb92-4604-8b72-9e58667afce2",
+ "title": "Tracer-Cloud/opensre",
+ "summary_en": "The open-source agent for CI/CD reliability. https://opensre.com OpenSRE: The open-source agent for CI/CD reliability Your CI tells you it broke, but not why or how to fix it. OpenSRE is a CLI agent that reads the failed run, traces the cause and pushes a fix for you to review. Self-hosted, with your own models. Quickstart · Docs · FAQ · Security 🚧 Public Alpha: Core workflows are usable for early exploration, though not yet fully stable. The project is in active development, and APIs and integrations may evolve. Before you begin Make sure you have: A terminal open in a code project A Git…",
+ "title_mn": "Tracer-Cloud/opensre: CI/CD алдааг өөрөө оношилж засварлах CLI агент",
+ "summary_mn": "OpenSRE бол CI/CD системийн алдааг уншиж, шалтгааныг нь олж, засварласан санал бэлтгэдэг нээлттэй эх сурвалжтай CLI агент юм. Энэ нь хөгжүүлэгчдэд өөрийн дэд бүтэц болон загваруудыг ашиглан CI процессор дахь асуудлыг автоматаар шийдвэрлэх боломжийг олгодог.",
+ "body_mn": "OpenSRE нь CI/CD тест эсвэл конвейер бүтэлгүйтэх үед яг ямар алдаа гарсныг олж тогтоон, засварлах код санал болгодог нээлттэй эх сурвалжтай найдвартай байдлын агент юм. Багууд хугацааны шахалтаар алдаатай шалгалтыг дахин ажиллуулаад орхидог асуудлыг шийдвэрлэхэд чиглэсэн бөгөөд хөгжүүлэгчид өөрсдийн сервер болон LLM загваруудыг ашиглан өөрөө байршуулах боломжтой.\n\nЭнэхүү хэрэгсэл нь 60 гаруй үүлэн үйлчилгээ, ажиглалтын платформ, өгөгдлийн сангуудтай холбогдож ажилладаг. Интерактив CLI орчин (REPL), толгойгүй горим (Headless CLI), болон Python API ашиглан багийн өдөр тутмын ажлын урсгалд хялбархан нтгэх боломжтой бөгөөд хүссэн загвараа ашиглан инцидэнтэй ажиллах боломжийг олгодог.\n\nЭнэхүү хэрэгсэл нь CI/CD урсгалаа автоматжуулж, алдаа илрүүлэх болон засварлах цагаа хэмнэхийг хүссэн хөгжүүлэлтийн багуудад нэн тохиромжтой. Хөгжүүлэгчид GitHub дээрх суулгах зааврын дагуу төслийг татаж авч туршиж үзэх боломжтой.",
+ "published": "2026-11-20T08:30:53Z",
+ "added": "2026-11-20T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

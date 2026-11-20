@@ -1,0 +1,17 @@
+{
+ "id": "a95224bb2cacd889",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/ai-model-names/",
+ "image": "https://flaviocopes.com/img/og.png",
+ "title": "AI model names explained: Luna, Haiku, Hydrogen and the rest",
+ "summary_en": "OpenAI, Anthropic and Google each name their models by size. Here is which name is small, medium, large and largest, what the IDs mean, and how versions move.",
+ "title_mn": "Хиймэл оюун ухааны загваруудын нэршлийн учир: GPT, Claude, Gemini нэрс юу хэлдэг вэ?",
+ "summary_mn": "Томоохон AI лабораториуд өөрсдийн загваруудаа янз бүрийн хэмжээ, ангиллаар ялгахын тулд тэнгэр эрхэс, утга зохиол болон химийн үелөх системийн нэрсийг ашигладаг. Энэхүү нийтлэл нь загваруудын нэршил болон API үнийн бүтцийг хөгжүүлэгчдэд ойлгомжтойгоор тайлбарладаг.",
+ "body_mn": "Хиймэл оюун ухааны салбарт OpenAI, Anthropic, Google зэрэг компаниуд өөрсдийн загваруудын хэмжээ болон чадварыг ялгахын тулд өөр өөрсдийн өвөрмөц нэршлийн системийг ашигладаг. Тухайлбал, OpenAI нь тэнгэр эрхэс болон сансар огторгуйн объектуудын латин нэрсийг (Moon, Earth, Sun) ашигладаг бол Anthropic нь утга зохиөлын хэлбэрүүдийг (Haiku, Sonnet, Opus, Fable) сонгосон байдаг. Харин Google хувьд Gemini 4 хувилбараасаа эхлэн химийн үелөх системийн элементүүдийг ашиглах болжээ.\n\nЗагварын нэр дэх үг нь хэмжээ болон чадварыг нь илтгэдэг бөгөөд хэмжээ томрох тусам загвар илүү ухаалаг, удаан мөн үнэтэй болдог. Жишээлбэл, Anthropic-ийн хувьд Haiku нь богино бөгөөд хурдан үйлдэлд, харин Opus нь гүнзгий дүн шинжилгээ хийхэд зориулагдсан байдаг.\n\nХөгжүүлэгчид AI хэрэгслүүдийг ашиглахдаа эдгээр загварын хэмжээ, API үнийн бодлого болон контекст цонхны хэмжээг харгалзан үзэж, өөрийн төсөлд тохирох хувилбарыг зөв сонгох нь чухал юм.",
+ "published": "2026-11-20T08:08:00Z",
+ "added": "2026-11-20T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

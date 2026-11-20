@@ -1,0 +1,17 @@
+{
+ "id": "88c3606113f4102a",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/apache/airflow",
+ "image": "https://repository-images.githubusercontent.com/33884891/3e449402-c463-46f9-aa6c-26942a9e2bdc",
+ "title": "apache/airflow",
+ "summary_en": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows https://airflow.apache.org/ Apache Airflow Category Badges License PyPI Containers Community Dev tools Version Build Status Main 3.x Apache Airflow (or simply Airflow) is a platform to programmatically author, schedule, and monitor workflows. When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative. Use Airflow to author workflows (Dags) that orchestrate tasks. The Airflow scheduler executes your tasks on an array of workers while following the specified…",
+ "title_mn": "apache/airflow: Ажлын урсгалыг програмчлах замаар зохицуулах платформ",
+ "summary_mn": "Apache Airflow бол өгөгдлийн дамжуулах шугам болон машин сургалтын ажлын урсгалыг программчлан зохиох, хуваарьлах, хянах алдартай платформ юм. Энэ нь ажлын урсгалыг код хэлбэрээр тодорхойлж, илүү найдвартай, хувилбаржуулах боломжтой болгодог.",
+ "body_mn": "Apache Airflow нь өгөгдлийн урсгал (DAGs) болон даалгавруудыг програмчлах аргаар зохицуулах, хуваарьлах, хянах зориулалттай салбартаа тэргүүлэгч платформ юм. Ажлын урсгалыг код хэлбэрээр тодорхойлох нь тэдгээрийг засварлахад хялбар, хувилбарын хяналттай, тестлэхэд тохиромжтой болгодог ба Airflow хуваарьлагч нь заасан хамаарлын дагуу даалгавруудыг олон ажилчид дээр гүйцэтгэдэг.\n\nУламжлалт өгөгдлийн дамжуулах шугамаас гадна Airflow нь машин сургалтын ажлын урсгал (сургалт, үнэлгээ, байршуулалт) болон агентад суурилсан LLM ажлуудыг (өгөгдөл бэлтгэх, багаж дуудах, загвар дуудах) зохицуулахад өргөнөөр ашиглагдаж байна. Энэ нь ажлуудыг ижил төстэй (idempotent) байлгаж, шаардлагатай мета өгөгдлийг XCom функцээр дамжуулах боломжийг олгодог.\n\nЭнэхүү платформ нь өгөгдлийн инженерүүд болон AI систем хөгжүүлэгчдэд нарийн төвөгтэй ажлын урсгалыг автоматжуулах үндсэн суурь хэрэгсэл юм. Хөгжүүлэгчид PyPI дээрээс apache-airflow багцыг суулган ашиглах боломжтой бөгөөд албан ёсны баримт бичгээс дэлгэрэнгүй зааврыг авах боломжтой.",
+ "published": "2026-11-20T08:30:53Z",
+ "added": "2026-11-20T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

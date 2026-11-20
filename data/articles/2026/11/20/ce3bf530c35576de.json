@@ -1,0 +1,17 @@
+{
+ "id": "ce3bf530c35576de",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/zhouxiaoka/autoclip",
+ "image": "https://opengraph.githubassets.com/d7cc2eb6c87a5ef01feb0aa5114114d33b6931b21ac1496d81d3e80c17fa5d30/zhouxiaoka/autoclip",
+ "title": "zhouxiaoka/autoclip",
+ "summary_en": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing. https://zhouxiaoka.github.io/autoclip_intro/ AutoClip 一个链接，一键出片 开源，在你的电脑上剪辑与渲染。贴一个链接，选好平台，生成 视频、封面和发布文案 ， 适配抖音、小红书、TikTok、Reels、YouTube Shorts、B 站与 YouTube。 软件免费，云端模型按量计费；需要调整时可进入编辑器。 官网 · 下载桌面版 · 案例库 · 研究 · 快速开始 · 文档 · 问题反馈 简体中文 · English · 日本語 · 한국어 · Español · Português · Русский · Français 最新正式版 ，桌面、CLI 与 MCP 同步更新。版本以 autoclip --version 和 MCP get_version 为准。一键出片、字幕分页、人物取景与长视频队列修复见 更新日志 。旧版用户请升级。 真实成片…",
+ "title_mn": "zhouxiaoka/autoclip: Урт видеог богино хэмжээний контент болгон хөрвүүлэгч AI хэрэгсэл",
+ "summary_mn": "AutoClip бол подкаст, ярилцлага зэрэг урт видеог автоматаар тайрч, TikTok, YouTube Shorts, Reels болон бусад платформд зориулсан богино хэмжээний клип, хавтас, тайлбар үүсгэдэг нээлттэй эх сурвалжтай ширээний программ юм.",
+ "body_mn": "AutoClip нь хэрэглэгчийн компьютер дээр ажиллаж урт видео бичлэгүүдийг автомат байдлаар богино хэмжээний клип болгон хувиргадаг开源 (нээлттэй эх сурвалжтай) AI хэрэгсэл юм. Энэ нь видеоны линк оруулахад л тухайн платформын (TikTok, YouTube Shorts, Reels, Bilibili гэх мэт) шаардлагад нийцүүлэн хамгийн сонирхолтой хэсгүүдийг сонгож, хавтас, гарчиг, хаштаг болон ZIP пак үүсгэж өгдөг.\n\nЭнэхүү програм нь剪辑 (хайчлах), хүрээ сонгох, боловсруулах процессуудыг хэрэглэгчийн локал компьютер дээр гүйцэтгэдгээрээ онцлогтой. Хэрэглэгчид өөрсдийн хүссэн аналитик загвар эсвэл Whisper зэрэг локал дуу хоолойг текстад хөрвүүлэх хэрэгслүүдийг ашиглах боломжтой. Мөн Python CLI болон MCP (Model Context Protocol) дэмжлэгтэйгээр бусад хэрэгслүүдтэй хялбархан холбогдоно.\n\nЭнэхүү хэрэгсэл нь контент бүтээгчид, хөгжүүлэгчид болон маркетингийн багуудад урт хэмжээний видео контентоо олон нийтийн сүлжээнд зориулан хурдан шуурхай бэлтгэхэд маш хэрэгтэй хэрэгсэл юм. Хөгжүүлэгчид GitHub repository-оос татан авч Docker болон Python орчинд суулган ашиглах боломжтой.",
+ "published": "2026-11-20T08:30:53Z",
+ "added": "2026-11-20T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

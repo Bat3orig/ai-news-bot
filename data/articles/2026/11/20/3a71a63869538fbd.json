@@ -1,0 +1,17 @@
+{
+ "id": "3a71a63869538fbd",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/tianma-if/edgeever",
+ "image": "https://repository-images.githubusercontent.com/1281033762/bc2bf755-9304-44d0-97f1-6d104fe6a79d",
+ "title": "tianma-if/edgeever",
+ "summary_en": "AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker. https://edgeever.org EdgeEver AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker. 简体中文 | 繁體中文 | English | Español | Deutsch | Français | 日本語 | Polski | Русский Telegram Group | 🌐 Live Demo | 🗺️ Roadmap | 📱 Clients & Extension | Feature Matrix & Capabilities | 📥 Note…",
+ "title_mn": "tianma-if/edgeever: AI-уугуул тэмдэглэл хөтлөх болон мэдлэгийн сан",
+ "summary_mn": "EdgeEver бол Evernote болон Obsidian-ийг орлох, шуурхай синхрончлолтой, 100% үнэгүй байршуулж болох AI-уугуул тэмдэглэл хөтлөх программ юм. Энэ нь гурван баганын сонгодог загварыг хадгалж, Cloudflare болон Docker дээр ажилладаг.",
+ "body_mn": "EdgeEver нь хэрэглэгчдэд өөрийн мэдлэгийн санг бүрэн хянах боломжийг олгох зорилготой орчин үеийн, нээлттэй эх сурвалжтай тэмдэглэл болон ажлын талбар юм. Энэ нь мод хэлбэрийн харагдац, тэмдэглэл жагсаалт, редактор бүхий сонгодог гурван баганын бүтээмжийн ажлын урсгалыг хадгалан үлдэхийн зэрэгцээ AI Agent-уудтай хялбархан нэгтгэгддэг.\n\nУг төсөл нь Cloudflare-ийн үнэгүй квот дотор ямар нэгэн серверийн зардалгүйгээр 100% үнэгүй ажиллах боломжтойгоороо онцлог юм. Мөн өөрийн VPS, NAS эсвэл гэр сервер дээр ажиллуулахыг хүссэн хүмүүст зориулж Docker контейнер хувилбарыг санал болгодог. SQLite өгөгдлийн сан болон орчин үеийн вэб технологи дээр суурилсан.\n\nЭнэхүү хэрэгсэл нь хувийн мэдээллээ найдвартай хадгалж, олон төхөөрөмж хооронд хоцрогдолгүй синхрончлохыг хүсдэг хөгжүүлэгчид болон мэдлэг бүтээгчдэд зориулагдсан. Хэрэглэгчид Cloudflare Workers эсвэл Docker ашиглан хялбархан байршуулж туршиж үзэх боломжтой.",
+ "published": "2026-11-20T08:30:53Z",
+ "added": "2026-11-20T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

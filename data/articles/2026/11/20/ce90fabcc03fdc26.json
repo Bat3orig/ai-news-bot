@@ -1,0 +1,17 @@
+{
+ "id": "ce90fabcc03fdc26",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/0xPlaygrounds/rig",
+ "image": "https://opengraph.githubassets.com/6722df8a3a5acc4f61c975752d35648d84a0ed89e35403c0cb8774360eae39ff/0xPlaygrounds/rig",
+ "title": "0xPlaygrounds/rig",
+ "summary_en": "⚙️🦀 Build modular and scalable LLM Applications in Rust https://rig.rs Rig is a Rust library for building applications on large language models. It also ships rig , a terminal coding agent built on the library that you extend with Bevy plugins. The coding agent cargo install rig rig This installs the launcher. Until the next release it is 0.46.0, and its guide is on its tag. The agent guide describes main and how to install it from a checkout. The agent needs Rust 1.97.1 or newer and runs on Linux and macOS. The first rig builds the agent, which takes several minutes, and opens it. Run…",
+ "title_mn": "0xPlaygrounds/rig: Rust хэл дээр AI аппликейшн болон агент бүтээх номын сан",
+ "summary_mn": "Rig нь Rust хэл дээр том хэлний загварууд (LLM) дээр суурилсан аппликейшн хөгжүүлэхэд зориулсан номын сан юм. Энэ нь олон төрлийн загвар провайдерууд болон вектор сангуудыг нэгдмэл интерфейс дор нэгтгэж, терминал дээр ажиллах код бичих агентийг хамт агуулдаг.",
+ "body_mn": "Rig нь Rust хэл дээр LLM аппликейшн бүтээхэд зориулагдсан өргөн боломжит номын сан бөгөөд хөгжүүлэгчдэд зориулсан Bevy плагинаар өргөтгөх боломжтой терминал код бичих агентийг хамт агуулдаг. Энэхүү сан нь 20 гаруй загвар провайдер болон олон төрлийн вектор сангуудыг (LanceDB, Qdrant, PostgreSQL гэх мэт) нэгдмэл интерфейс дор нэгтгэж өгдөг.\n\nХөгжүүлэгчид уг санг ашиглан агентийн хэрэгслүүд, стриминг болон төрөлжсөн хуукуудыг (typed hooks) хялбархан тохируулах боломжтой. Түүнчлэн текст боловсруулах, embedding, дуу хоолой болон зураг үүсгэх загваруудыг дэмждэг ба OpenTelemetry GenAI стандартыг дагадаг байна. Гол модульчлагдсан бүтцэд нь rig-core, rig-derive, rig-http зэрэг дэд сангууд багтдаг.\n\nRig нь 1.0 хувилбараа гаргаагүй байгаа тул зарим шинэчлэлтүүд API өөрчлөлт дагуулж болзошгүйг анхаарах хэрэгтэй. Гэсэн хэдий ч Rust хэл ашиглан өндөр бүтээмжтэй, модульчлагдсан мөн өргөтгөх боломжтой AI аппликейшн болон агентуудыг бүтээхэд маш хүчирхэг хэрэгсэл юм.",
+ "published": "2026-11-20T08:30:53Z",
+ "added": "2026-11-20T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

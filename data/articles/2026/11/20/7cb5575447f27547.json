@@ -1,0 +1,17 @@
+{
+ "id": "7cb5575447f27547",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/cloudflare-browser-run/",
+ "image": "https://flaviocopes.com/images/cloudflare-browser-run/og.jpg",
+ "title": "Cloudflare Browser Run: headless Chrome for AI agents and web apps",
+ "summary_en": "What Cloudflare Browser Run is, the problem it solves, and how to use Quick Actions, Puppeteer sessions, CDP and MCP for AI agents and web apps.",
+ "title_mn": "Cloudflare Browser Run: Хиймэл оюун ухааны агент болон вэб аппликейшнд зориулсан headless Chrome",
+ "summary_mn": "Cloudflare Browser Run (хуучнаар Browser Rendering) нь хөгжүүлэгчдэд Cloudflare сүлжээ дээр headless Chrome ажиллуулах боломжийг олгодог үйлчилгээ юм. Энэ нь AI агентууд болон вэб аппликейшнүүдэд скрийншот хийх, вэб хуудас scrape хийх болон markdown рүү хөрвүүлэхэд маш хэрэгтэй хэрэгсэл юм.",
+ "body_mn": "Cloudflare Browser Run нь хөгжүүлэгчдэд сервер дээр Chrome хөтөч өөрөө тохируулах шаардлагагүйгээр cloud сүлжээ дээр шууд headless горимд ажиллуулах боломжийг олгодог хүчирхэг үйлчилгээ юм. JavaScript ашиглан динамикаар ачаалагддаг вэб хуудас руу хандах, скрийншот авах, PDF болгох эсвэл AI агентаар вэб хуудсыг удирдуулахад энэ хэрэгсэл маш хэрэгтэй.\n\nЭнэхүү үйлчилгээ нь Quick Actions буюу хурдан үйлдлүүдийг дэмждэг ба үүнд content, screenshot, pdf, markdown, snapshot, scrape, json, links болон crawl зэрэг үйлдлүүд багтдаг. Хөгжүүлэгчид wrangler.jsonc файлыг ашиглан Workers дотроос шууд холбож ашиглах боломжтой бөгөөд markdown үйлдлийг ашиглан вэб хуудсыг AI загварын контекстод шууд оруулах боломжтой формат руу хялбархан хөрвүүлдэг.\n\nBrowser Run нь цаг хугацаа болон сервер дээр хөтөч ажиллуулах төвөгтэй байдлыг шийдэж өгдөг тул AI агентууд болон автоматжуулалтын систем хөгжүүлж буй хөгжүүлэгчдэд цаг хэмнэсэн маш сайн шийдэл болж байна.",
+ "published": "2026-11-20T08:20:00Z",
+ "added": "2026-11-20T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

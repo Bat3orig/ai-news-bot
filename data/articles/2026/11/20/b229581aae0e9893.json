@@ -1,0 +1,17 @@
+{
+ "id": "b229581aae0e9893",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+ "image": "https://opengraph.githubassets.com/e365243f75786e03f74f8fc5e52ed2c53bb84a5aa69408a2f04f8b4167ebeb1c/wonderwhy-er/DesktopCommanderMCP",
+ "title": "wonderwhy-er/DesktopCommanderMCP",
+ "summary_en": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities https://desktopcommander.app/ Desktop Commander MCP Search, update, manage files and run terminal commands with AI Work with code and text, run processes, and automate tasks, going far beyond other AI editors - while using host client subscriptions instead of API token costs. Table of Contents Features How to install Getting Started Usage File Preview UI & Markdown Editor Handling Long-Running Commands Work in Progress and TODOs Sponsors and Supporters Website Media…",
+ "title_mn": "wonderwhy-er/DesktopCommanderMCP: Бүх AI хөгжүүлэлтийн хэрэгслийг нэгтгэгч",
+ "summary_mn": "DesktopCommanderMCP нь терминалын команд ажиллуулах, файл засварлах зэрэг үйлдлийг Model Context Protocol (MCP) ашиглан нэг чатад нэгтгэдэг хэрэгсэл юм. Энэ нь API эрхийн бичгийн оронд үндсэн үйлчлүүлэгчийн захиалгыг ашиглан зардлыг хэмнэдэг.",
+ "body_mn": "Desktop Commander нь хөгжүүлэгчдэд кодын болон текстийн ажил хийх, урт хугацаанд ажиллах терминалын команд гүйцэтгэх, процессуудыг автоматжуулах боломжийг олгодог хүчирхэг MCP серверийн хэрэгсэл юм. Энэ нь бусад AI редакторуудаас илүү өргөн боломжийг санал болгож, хэрэглэгчийн өөрийн худалдаж авсан клиент захиалгыг ашиглан нэмэлт API токены зардал гаргахгүйгээр ажилладаг.\n\nТехнологийн хувьд уг төсөл нь MCP Filesystem Server дээр суурилж, файлаас хайх болон солих нэмэлт боломжуудыг олгодог. ChatGPT, Claude web болон бусад алсын клиентүүдэд зориулсан тусгай төхөөрөмж ажиллуулагчдыг дэмждэг ба Claude Desktop, Cursor, Windsurf, VS Code зэрэг олон төрлийн орчинтой хялбархан холбогдоно.\n\nЭнэхүү хэрэгсэл нь AI кодын туслахын боломжийг өөрийн локал болон алсын орчинд бүрэн ашиглаж, ажлын бүтээмжээ сайжруулах хүсэлтэй хөгжүүлэгчдэд нэн тохиромжтой. Хөгжүүлэгчид npx команд эсвэл Docker ашиглан хялбархан суулгаж туршиж үзэх боломжтой.",
+ "published": "2026-11-20T08:30:53Z",
+ "added": "2026-11-20T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

@@ -1,0 +1,17 @@
+{
+ "id": "46db8ffd96fd56f9",
+ "subtopic": "gh-rust",
+ "source": "GitHub Trending Rust",
+ "source_label": "GitHub Trending Rust",
+ "url": "https://github.com/lbjlaq/Antigravity-Manager",
+ "image": "https://opengraph.githubassets.com/4a9b2d42e254e0ee18f374085bec9fb5fa2fd95b9f904c0eae1779b657026d0b/lbjlaq/Antigravity-Manager",
+ "title": "lbjlaq/Antigravity-Manager",
+ "summary_en": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。 https://lbjlaq.github.io/Antigravity-Manager/ Antigravity Tools 🚀 Professional Account Management & Protocol Proxy System for AI Services (v5.0.3) Antigravity Tools Multi-platform automation & multi-account matrix dispatch console Features • GUI Overview • Architecture • Installation • Integration English | 简体中文 Antigravity Tools is an all-in-one desktop application designed for developers and…",
+ "title_mn": "lbjlaq/Antigravity-Manager: AI үйлчилгээнд зориулсан дэвшилтэт удирдлагын систем",
+ "summary_mn": "Antigravity-Manager нь хөгжүүлэгчид болон AI сонирхогчдод зориулсан олон дансны удирдлага, прокси холболт, хүсэлт хуваарилах хэрэгсэл юм. Энэ нь Web Session-уудыг стандарт API интерфэйс болгон хувиргаж, локал түвшний өндөр хурдтай AI дамжуулагч станц үүсгэдэг.",
+ "body_mn": "Antigravity-Manager (v5.0.3) нь хөгжүүлэгчдэд зориулсан олон платформ дээр ажиллах автоматжуулалт болон олон дансны удирдлагын цогц систем юм. Энэхүү хэрэгсэл нь Google болон Anthropic зэрэг үйлчилгээний Web Session-уудыг стандарт API интерфэйс болгон хөрвүүлж, протколын зөрүүг арилгах замаар тогтвортой, өндөр хурдтай локал AI дамжуулагч станцыг бүтээдэг.\n\nЭнэхүү аппликейшн нь Linux, macOS, Windows үйлдлийн системүүдийг автоматаар ялган таньж, нэг команчаар татаж суулгах боломжийг олгодог бөгөөд Homebrew эсвэл Docker контейнер орчинд ч хялбар байдлаар байрлуулах боломжтой. Мөн хөгжүүлэгчид Docker ашиглан локал орчинд туршилтын хувилбаруудыг ажиллуулж, вэб дээр суурилсан хяналтын самбараар дамжуулан шууд удирдах боломжтой юм.\n\nУг төсөл нь мөн JeikCode хэмээх терминал дээр суурилсан орчин үеийн AI Coding Agent-тэй гүнзгий интеграцчилснаараа онцлог бөгөөд KV-Cache-ийн оновчлол болон хүсэлтийн түвшний хяналтыг санал болгодог. Хөгжүүлэгчид өөрсдийн AI хэрэгслүүдийн урсгалыг оновчтой болгох, олон дансны матриц удирдлагыг хэрэгжүүлэхэд энэхүү систем маш хэрэгтэй шийдэл болно.",
+ "published": "2026-11-20T08:30:53Z",
+ "added": "2026-11-20T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

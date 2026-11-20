@@ -1,0 +1,17 @@
+{
+ "id": "f5d3eec6056dbbd5",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/toeverything/AFFiNE",
+ "image": "https://repository-images.githubusercontent.com/519859998/81557da6-35e0-421d-8ad7-ec0c7a4725d2",
+ "title": "toeverything/AFFiNE",
+ "summary_en": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. https://affine.pro AFFiNE.Pro Write, Draw and Plan All at Once A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. One hyper-fused platform for wildly creative minds. Home Page | Discord | Live Demo | Blog | Documentation Docs, canvas and tables are hyper-merged with AFFiNE - just like the word affine (əˈfʌɪn | a-fine). Getting started &…",
+ "title_mn": "toeverything/AFFiNE: Notion болон Miro-гийн нээлттэй эх сурвалжтай хувилбар",
+ "summary_mn": "AFFiNE нь Notion болон Miro-г орлох хувийн нууцад чиглэсэн, орон нутагт суурилсан, нээлттэй эх сурвалжтай ажлын талбар юм. Энэ нь баримт бичиг болон самбарыг нэгтгэж, мультимодал AI туслахтайгаар мэдээллийн санг удирдах боломжийг олгодог.",
+ "body_mn": "AFFiNE бол мэдээллийн санг цогцоор нь удирдах, вики, танилцуулга болон дижитал хөрөнгө бүтээхэд зориулагдсан нээлттэй эх сурвалжтай ажлын талбар бөгөөд Notion болон Miro-гийн хүчирхэг өөр хувилбар юм. Энэхүү платформ нь баримт бичиг болон цагаан самбарыг бүрэн нэгтгэж, хэрэглэгчдэд бүтээлч санаагаа чөлөөтэй хөгжүүлэх боломжтой хувь хүний болон багийн хамтын ажиллагааны орчныг бүрдүүлдэг.\n\nТехнологийн хувьд уг төсөл нь хамтын ажиллагааны редакторын үндэс суурь болсон BlockSuite, локал-фёст функционаь байдлыг хангагч өндөр гүйцэтгэлтэй y-octo (YJS CRDT хэрэгжилт), мөн Rust хэлээр бичигдсэн хөнгөн бөгөөд өргөтгөх боломжтой OctoBase өгөгдлийн санг ашигладаг. Мөн Electron болон React дээр суурилан хөгжүүлэгдсэн.\n\nЭнэхүү хэрэгсэл нь мэдээллээ бүрэн хянаж, орон нутагт хадгалахыг хүсдэг хөгжүүлэгчид, судлаачид болон бүтээлч багуудад нэн тохиромжтой. Та GitHub дээрх албан ёсны repository-гоор зочилж төслийн кодыг үзэх, хувь нэмэр оруулах болон дэлгэрэнгүй мэдээллийг affine.pro сайтаас авах боломжтой.",
+ "published": "2026-11-20T08:30:53Z",
+ "added": "2026-11-20T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

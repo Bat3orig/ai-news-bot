@@ -1,0 +1,17 @@
+{
+ "id": "7341adec3047c931",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending JavaScript",
+ "source_label": "GitHub Trending JavaScript",
+ "url": "https://github.com/vercel-labs/agent-skills",
+ "image": "https://opengraph.githubassets.com/d5034070c2a17c1b978db7aceb43ccbf51c77dec3dd42d8f802620e24b3eb654/vercel-labs/agent-skills",
+ "title": "vercel-labs/agent-skills",
+ "summary_en": "Vercel's official collection of agent skills https://skills.sh/vercel-labs/agent-skills Agent Skills A collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities. Skills follow the Agent Skills format. Available Skills vercel-optimize Audits a Vercel project for cost, performance, reliability, caching, function usage, and billing opportunities. It collects Vercel metrics first, then investigates only the routes and files those metrics point to. Use when: Optimizing a deployed Vercel project Reducing Vercel costs or function usage…",
+ "title_mn": "vercel-labs/agent-skills: AI кодын агентуудад зориулсан багц ур чадварууд",
+ "summary_mn": "Vercel-ийн гаргасан agent-skills нь AI кодын агентуудын чадварыг өргөжүүлэхэд зориулагдсан багц заавар болон скриптүүдийн цуглуулга юм. Энэ нь төслийн гүйцэтгэл, өртөг, код хяналт болон React, Next.js оновчлолыг сайжруулахад тусална.",
+ "body_mn": "Vercel-ийн албан ёсны энэхүү төсөл нь AI кодын агентуудад зориулсан багц заавар болон скриптүүдийг агуулдаг бөгөөд агентын гүйцэтгэх ажлын хүрээг мэдэгдэхүйц өргөжүүлдэг. Энэхүү санд Vercel төслийн өртөг, гүйцэтгэл, найдвартай байдлыг шалгах аудитын хэрэгслүүд болон React, Next.js, React Native хөгжүүлэлтийн шилдэг туршлагууд багтсан болно.\n\nТухайлбал, вэб интерфейсийн шилдэг туршлагуудыг шалгах UI код хяналт, View Transition API ашиглан хөдөлгөөнт дүрс оновчлох, хөгжүүлэгчийн баримт бичгийн стандартыг хангах зэрэг 40 гаруй дүрэм болон агентын чадварууд багтсан байна. Суулгасны дараа агент холбогдох даалгаврыг илрүүлж автоматаар ашигладаг.\n\nЭнэхүү сан нь AI агентуудыг ашиглан орчин үеийн вэб аппликейшн хөгжүүлж буй багууд болон хөгжүүлэгчдэд кодын чанар, гүйцэтгэлээ автоматаар хянахад үнэлж баршгүй тус хүргэнэ. Хөгжүүлэгчид GitHub repository-оос дэлгэрэнгүй мэдээлэл авч төсөлдөө ашиглах боломжтой.",
+ "published": "2026-11-20T08:30:53Z",
+ "added": "2026-11-20T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
