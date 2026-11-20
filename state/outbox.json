@@ -58,5 +58,25 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d629229376486ae4",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/priority-projects-now-in-public-beta",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/RUeam0MmzbjcV6HiTnswC/1d5a871249eda033e20db740a2f1563a/image__20_.png",
+   "title": "Priority Projects now in public beta",
+   "summary_en": "Priority Projects are now in public beta for Pro and Enterprise teams. This optional upgrade for individual Vercel projects adds bot and traffic-source signals, Page Integrity for monitoring and controlling client-side scripts and connections, and additional Firewall controls and alerts. Bot signals Bot protection is free on all plans. You can enable it to challenge non-browser traffic while allowing verified bots. Priority adds more detailed bot signals: categories, verification status, and names where available. Use these signals in: Firewall rules: Match on bot_name , bot_category…",
+   "title_mn": "Vercel Priority Projects public beta-д гарлаа",
+   "summary_mn": "Vercel-ийн Priority Projects нь Pro болон Enterprise багуудад public beta хэлбэрээр нээлттэй боллоо. Энэ нь bot болон traffic source мэдээлэл, Page Integrity хяналт, Firewall-ийн нэмэлт хамгаалалт, анхааруулгыг нэмдэг. Bot protection бүх төлөвлөгөөнд үнэгүй.",
+   "body_mn": "Vercel-ийн Priority Projects нь Pro болон Enterprise багуудад зориулсан нэмэлт сонголт бөгөөд public beta үе шатанд гарлаа. Энэ нь тодорхой Vercel төслүүдэд bot болон traffic source-ийн дэлгэрэнгүй дохио, Page Integrity хяналт, Firewall-ийн нэмэлт удирдлага, анхааруулга нэмнэ. Bot protection нь бүх төлөвлөгөөнд үнэгүй боловч Priority нь bot-ийн ангилал, баталгаажуулалтын төлөв, нэрийг илүү дэлгэрэнгүй харуулна.\n\nХөгжүүлэгчдэд хамгийн ойр байгаа хэсэг нь request header-ууд юм. Routing Middleware болон Vercel Functions дотроос x-vercel-bot-category, x-vercel-bot-name, x-vercel-verified-bot header-ийг уншиж болно. Мөн Tor, VPN, proxy болон abuse blocklist-д орсон трафикт x-vercel-waf-source header-ээр label өгнө. Эдгээрийг Firewall дүрэм, Firewall Observability болон Log Drains-д ашиглаж болно. Traffic Sources managed ruleset-ийг CLI-аар vercel firewall managed-rulesets enable traffic-sources командаар идэвхжүүлж, vercel firewall diff-ээр шалгаад vercel firewall publish-ээр баталгаажуулна.\n\nPage Integrity нь client-side скрипт болон холболтуудыг хянаж, Content Security Policy ашиглан шинэ скрипт илрэхэд анхааруулна. Эхлээд report-only CSP-ээр илрүүлэх, дараа нь баталгаажуулах, эцэст нь зөвшөөрөгдөөгүй скриптийг блоклох үе шаттай. Энэ нь хөгжүүлэгчдэд frontend-ийн гуравдагч талын скриптийг хянах хэрэгслээ өгч байна. Page Integrity тусад нь идэвхжүүлэх шаардлагатай.",
+   "published": "2026-11-19T01:10:00Z",
+   "added": "2026-11-20T17:30:51Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
  }
 ]
