@@ -1,0 +1,17 @@
+{
+ "id": "8110d5c9b7ca222d",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc2",
+ "image": "https://opengraph.githubassets.com/b2447504bd35e4d5759b53f9734caadc19e13a3779c8b2db4af2897639037c99/ollama/ollama/releases/tag/v0.40.17-rc2",
+ "title": "ollama v0.40.17",
+ "summary_en": "What's Changed Improve ChatGPT CLI restore and graceful restart by @hoyyeva in #19583 cmd/launch: use thinking metadata for OpenCode settings by @hoyyeva in #19409 llm: use mmap for Vulkan integrated GPUs by @dhiltgen in #19640 rpreslar4765/Ollama by @rpreslar4765 in #17163 mlx: support concurrent generation by @dhiltgen in #19197 llama.cpp: version bump b12257 by @dhiltgen in #19646 MLX, MLX-C: version bump by @dhiltgen in #19647 New Contributors @rpreslar4765 made their first contribution in #17163 Full Changelog : v0.40.16...v0.40.17-rc0",
+ "title_mn": "Ollama v0.40.17 шинэчлэлт гарлаа",
+ "summary_mn": "Ollama v0.40.17 хувилбар гарч, ChatGPT CLI сэргээх болон дахин асах ажиллагааг сайжрууллаа. Мөн Vulkan интеграцитай GPU-уудад зориулсан mmap дэмжлэг нэмэгдэж, MLX дээр зэрэгцүүлэн ажиллах боломжтой боллоо.",
+ "body_mn": "Ollama хэрэгслийн v0.40.17 шинэчлэлт нь хөгжүүлэгчдэд зориулсан хэд хэдэн чухал сайжруулалтыг авчирлаа. Тухайлбал, ChatGPT CLI ашиглах үеийн сэргээх болон дахин асаах үйл явц илүү тогтвортой болсон байна.\n\nТехникийн хувьд Vulkan интеграцитай график карт хэрэглэгчдэд зориулж mmap ашиглах боломжийг нэмсэн нь санах ойн менежментийг сайжруулдаг. Мөн MLX орчинд зэрэгцүүлэн генераци хийх дэмжлэг нэмэгдсэн нь Apple Silicon хэрэглэгчдэд илүү хурдан ажиллах боломжийг олгоно.\n\nllama.cpp болон MLX санг шинэчилсэн нь локал орчинд LLM ажиллуулж буй хөгжүүлэгчдэд гүйцэтгэлийн хувьд бодит үр өгөөжтэй юм.",
+ "published": "2026-11-20T00:25:30Z",
+ "added": "2026-11-20T00:30:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
