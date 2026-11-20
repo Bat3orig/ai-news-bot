@@ -1,0 +1,17 @@
+{
+ "id": "05b6bffad9672b05",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Clarin.com",
+ "url": "https://www.clarin.com/us-news/who-is-levent-alpoge-the-anthropic-mathematician-who-claims-solved-the-riemann-hypothesis-with-claude_0_2WdGvYKBVM.html",
+ "image": "https://www.clarin.com/img/2026/11/20/ZJ-sB3q3i_2000x1500__1.jpg",
+ "title": "Who is Levent Alpöge? The Anthropic mathematician who claims he solved the Riemann hypothesis with Claude",
+ "summary_en": "When Levent Alpöge announced on November 20, 2026, that he and Anthropic’s AI model Claude had found a proof of the 167-year-old Riemann hypothesis, the claim sent shockwaves through both mathematics and Silicon Valley. Far from an unknown outsider, the 34-year-old Turkish-American number theorist holds degrees from Harvard, Cambridge, and Princeton—and has spent 2026 at the center of an unprecedented wave of AI-assisted mathematical breakthroughs. Here is everything to know about Levent Alpöge, his academic pedigree, and his controversial run with Claude.",
+ "title_mn": "Anthropic-ийн математикч Riemann таамаглалын баталгаа олсон гэж мэдэгдлээ",
+ "summary_mn": "Anthropic-ийн математикч Levent Alpöge Claude-тай хамтран Riemann таамаглалын баталгааг олсон гэж 2026 оны 11-р сарын 20-нд зарлав. Баталгаа одоогоор Lean 4 кодоор шалгагдаж байгаа бөгөөд бие даасан эрдэмтэд шалгаж дуусаагүй байна.",
+ "body_mn": "Anthropic-ийн математикч Levent Alpöge 2026 оны 11-р сарын 20-нд Riemann таамаглалын баталгааг Claude-тай хамтран олсон гэж мэдэгдсэн. Тэрээр Generalized Riemann Hypothesis-ийг мөн хамарсан гэж хэлсэн. Энэ нь математикийн хамгийн алдartай нээлттэй асуудлуудын нэг юм.\n\nТайлбарт дөрвөн хуудас тойм, 14 архивын файл багтсан бөгөөд нийт 175,187 Lean эх файлтай. Бүрэн бичсэн аргумент 250,000 хуудаснаас давсан гэж мэдээлсэн. Бие даасан төсөл Lean стандарт математикийн санд файлууд эмхэтгэгдэж байгааг баталсан ч проофын бүрэн автомат шалгалт үргэлжилж байна.\n\nClay Mathematics Institute-ийн дүрмийн дагуу Мянганы шагналын асуудлын шийдэл нь нэр хүндтэй сэтгүүлд нийтлэгдсэн байх ба дэлхийн математикчдын дунд хоёр жил шалгагдах шаардлагатай. Иймд энэ мэдэгдэл одоогоор баталгаажаагүй байна.\n\nХөгжүүлэгчдэд энэ нь шууд ажлын хэрэгсэл биш ч AI загварууд сложон математикийн судалгаанд ашиглагдаж буй хандлагыг харуулж байна.",
+ "published": "2026-11-20T17:01:44Z",
+ "added": "2026-11-20T18:00:58Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
