@@ -1,0 +1,17 @@
+{
+ "id": "cc863e5f1a240211",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.57.0",
+ "image": "https://opengraph.githubassets.com/fe6cfd98468202cff48428b528467d374df4060ec986f31924e32711b7d084c3/openai/openai-python/releases/tag/v3.57.0",
+ "title": "openai-python v3.57.0",
+ "summary_en": "3.57.0 (2026-11-19) Features api: support Live WebRTC standby ( #4296 ) ( 18d10c3 )",
+ "title_mn": "openai-python v3.57.0 хувилбарт Live WebRTC standby дэмжлэг нэмэгдлээ",
+ "summary_mn": "OpenAI-ийн албан ёсны Python сангаас v3.57.0 хувилбарыг гаргалаа. Уг хувилбараар Live WebRTC standby горимын дэмжлэгийг API-д шинээр нэвтрүүлсэн байна.",
+ "body_mn": "OpenAI компани албан ёсны openai-python сангийнхаа v3.57.0 хувилбарыг гаргалаа. Энэхүү хувилбарын гол өөрчлөлт нь бодит цагийн (Realtime/Live) аудио болон медиа холболтуудад зориулсан WebRTC standby горимын дэмжлэгийг API түвшинд нэмсэн явдал юм.\n\nWebRTC standby горим нь шууд холболт хийх үеийн нөөцийн зарцуулалтыг бууруулах, холболтын төлөвийг бэлэн байдалд түр байлгахад тусалдаг. Энэ нь OpenAI-ийн Realtime API ашиглан дуут туслах, интерактив аппликейшн хөгжүүлж буй инженерүүдэд хүлээлтийн хугацаа болон сүлжээний урсгалыг оновчтой удирдахад чухал ач холбогдолтой юм.\n\nТус шинэчлэлтийг ашиглахын тулд хөгжүүлэгчид өөрсдийн орчинд pip суулгагчаар openai сангийн хувилбараа шинэчлэхэд хангалттай.",
+ "published": "2026-11-20T01:27:57Z",
+ "added": "2026-11-20T01:30:58Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

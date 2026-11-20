@@ -1,0 +1,17 @@
+{
+ "id": "3d4f04be4a774f67",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Amazon Web Services (AWS)",
+ "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+ "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22481-featured-image.png",
+ "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+ "summary_en": "Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, so you can connect the open source coding agent to models like Kimi K3.1 Pro using your standard AWS credential chain (named profiles or SSO) instead of a separate API key. This post shows how to configure the provider and send your first request.",
+ "title_mn": "Kimi Code CLI Amazon Bedrock-ийн үндсэн интеграцыг дэмждэг боллоо",
+ "summary_mn": "Moonshot AI-ийн нээлттэй эхтэй Kimi Code CLI 2.7.0 хувилбараар Amazon Bedrock-ийн native provider дэмжлэг нэмэгдэв. Ингэснээр хөгжүүлэгчид нэмэлт Bedrock API түлхүүр үүсгэх шаардлагагүйгээр өөрсдийн стандарт AWS credential-аар Kimi K3.1 загваруудыг шууд ашиглах боломжтой боллоо.",
+ "body_mn": "Moonshot AI өөрсдийн Kimi Code CLI нээлттэй эх бүхий код бичих агентын v2.7.0 шинэчлэлтийг танилцуулж, Amazon Bedrock дэмжлэгийг сайжрууллаа. Өмнө нь тус хэрэгслээр Amazon Bedrock дээрх загваруудтай ажиллахын тулд тусдаа API түлхүүр тохируулж, OpenAI-тэй нийцтэй дуудлага хийх шаардлагатай байсан нь нэмэлт түлхүүр хадгалах, хамгаалах асуудал үүсгэдэг байв.\n\nШинэ bedrock provider-ийн тусламжтайгаар хөгжүүлэгчид нэрлэсэн профайл болон AWS SSO зэрэг стандарт AWS credential chain-ээ шууд холбох боломжтой болсон байна. CLI нь баталгаажуулалт болон хүсэлтийн чиглүүлэлтийг автоматаар хийж, 12 цаг хүртэл хугацаатай түр зуурын түлхүүрүүдийг ашигласнаар урт хугацаат түлхүүр хадгалах эрсдэлийг багасгажээ.\n\nЭнэхүү интеграц нь Kimi K3.1 Pro Highspeed загварын стриминг, бодолтын горим, зураг боловсруулалт болон клиент талын tool-calling боломжуудыг AWS орчиндоо аюулгүйгээр шууд хэрэгжүүлэх боломжийг олгож байна. Байгууллагын системд Kimi агент ашиглахад IAM эрхээр хязгаарлалт тавьж, cloud дэд бүтэцтэйгээ нягт уях маш тохиромжтой шийдэл боллоо.",
+ "published": "2026-11-20T00:33:30Z",
+ "added": "2026-11-20T01:30:58Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
