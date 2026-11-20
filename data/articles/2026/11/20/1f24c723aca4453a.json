@@ -1,0 +1,17 @@
+{
+ "id": "1f24c723aca4453a",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/onlook-dev/onlook/",
+ "image": "https://opengraph.githubassets.com/7a92809916ea366b5a412c2d280d91737e951c3598494150cf60ba2328f4964f/onlook-dev/onlook",
+ "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+ "summary_en": "Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it's been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the community. Here’s a demo video: ( https://youtu.be/BogcYWf4siM ) If you're an engineer, traditional engineering tools are largely…",
+ "title_mn": "Onlook: Дизайнеруудад зориулсан нээлттэй эхтэй visual хөгжүүлэлтийн хэрэгсэл гарлаа",
+ "summary_mn": "YC W25 дэмжлэгтэй Onlook төсөл дизайнеруудад кодоор бүтээгдэхүүн хийх боломж олгодог нээлттэй эх бүхий local-first платформоо танилцууллаа. Уг хэрэгсэл нь Figma болон V0-ийн хувилбар юм.",
+ "body_mn": "Y Combinator W25 багцын гишүүн Onlook нээлттэй эх бүхий visual код засварлагчаа танилцууллаа. Энэхүү хэрэгсэл нь дизайнеруудад өөрийн бүтээж буй вэбсайт болон прототипийг бодит кодоор нь шууд visual байдлаар засварлах, AI туслахын хамт кодыг өөрчлөх боломжийг олгож байна.\n\nOnlook нь local-first зарчмаар ажилладаг бөгөөд хөгжүүлэгчийн dev сервер дэмждэг ямар ч вэб фрэймворк, хэлтэй төвөггүй холбогдож ажилладаг. Figma, V0, Replit Agent, Webflow зэрэг хэрэгслүүдийн нээлттэй эхтэй хувилбар болох энэхүү төсөл нь хэрэглэгчийн аккаунт эсвэл үүлэн тохиргоо шаардахгүйгээр эх кодоос нь Mac дээр ажиллуулах бүрэн боломжийг санал болгодог.\n\nТөслийн эх код нь Apache 2.0 лицензээр түгээгдэж байгаа бөгөөд десктоп апп хэлбэрээр татах эсвэл эх кодоос нь угсарч ашиглаж болно. Загвар зохион бүтээгчид болон frontend хөгжүүлэгчдийн хоорондын уялдаа холбоог сайжруулах зорилготой уг хэрэгсэл нь visual UI инженерчлэлийг AI код бичилттэй хослуулснаараа онцлог юм.",
+ "published": "2026-11-19T16:34:04Z",
+ "added": "2026-11-20T06:00:59Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
