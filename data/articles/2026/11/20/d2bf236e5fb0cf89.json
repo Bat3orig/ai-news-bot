@@ -1,0 +1,17 @@
+{
+ "id": "d2bf236e5fb0cf89",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
+ "title": "Workflow lab: Turning context into a plan with Specs and the Figma agent",
+ "summary_en": "Bringing scattered context onto the canvas helps teams connect the diagrams, designs, and technical decisions they need to build, all in one place. This workflow shows how Specs and the Figma agent provide a container for that context so implementation is easy.",
+ "title_mn": "Figma Specs болон code layers шинэ боломжууд",
+ "summary_mn": "Figma нь canvas дээр контекстийг нэгтгэх Specs хэрэгслийг танилцуулж, code layers-ийг open beta-д шилжүүлжээ. Figma agent нь Hex зэрэг гадны холболтуудтай ажиллаж спек үүсгэх боломжтой.",
+ "body_mn": "Figma Specs нэртэй шинэ контейнер танилцуулсан бөгөөд энэ нь шаардлага, дизайны дэлгэрэнгүй, инженерийн зааврыг нэг canvas дээр цуглуулах зориулалттай. Мөн code layers функц open beta үе шатанд орсон тул багууд кодоор ажилладаг прототипийг canvas дээр шууд туршиж болно.\n\nТайлбарт жишээ болгож Figma agent-д Hex холболтыг нэмж, хэрэглээний өгөгдлөөс хамгийн их захиалга гардаг хотыг олж, спек болон газрын зургийн code layer үүсгэсэн үйл явцыг харуулсан. Connectors нь agent-д Figma-ийн гадна байгаа мэдээлэлд хандах боломж олгодог.\n\nХөгжүүлэгчдэд энэ нь дизайн ба инженерийн ажлын урсгалыг нэгтгэх, интерактив прототипийг кодтой нь холбох шинэ арга юм. Гэхдээ мэдээ нь ерөнхийдөө ажлын урсгалын жишээ дээр төвлөрсөн тул нарийн техникийн API мэдээлэл багатай.",
+ "published": "2026-11-20T22:17:00Z",
+ "added": "2026-11-20T22:30:57Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
