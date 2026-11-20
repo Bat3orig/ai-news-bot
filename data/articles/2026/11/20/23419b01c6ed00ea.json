@@ -1,0 +1,17 @@
+{
+ "id": "23419b01c6ed00ea",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Superpower Daily",
+ "url": "https://superpowerdaily.com/posts/anthropic-mathematician-claims-riemann-hypothesis-proof-with-claude-pending-expert-checks",
+ "image": "https://superpowerdaily.com/posts/anthropic-mathematician-claims-riemann-hypothesis-proof-with-claude-pending-expert-checks/opengraph-image",
+ "title": "Anthropic mathematician claims Riemann hypothesis proof with Claude, pending expert checks",
+ "summary_en": "Levent Alpöge says the argument also resolves the Generalized Riemann Hypothesis. He has released Lean files, while a readable explanation and expert verification remain ahead.",
+ "title_mn": "Anthropic-ийн математикч Claude-ийн тусламжтай Риманы таамаглалыг баталснаа зарлав",
+ "summary_mn": "Левент Алпёге Claude загварын тусламжтайгаар Риманы таамаглалыг баталж, Lean 4 хэл дээрх файлыг нийтэлжээ.",
+ "body_mn": "Anthropic компанийн математикч Левент Алпёге Claude загварын оролцоотойгоор Риманы таамаглал болон түүний ерөнхий хэлбэрийг баталж чадсанаа зарлалаа. Тэрээр уг баталгааг Lean 4 хэл дээр 14 хэсэг болгон албан ёсоор кодлож гаргасан бөгөөд Claude төслийн сүүлийн шатанд техникийн асар хурдтай дэвшил гаргахад тусалсан хэмээн онцолжээ. Гэвч математикийн салбарын бие даасан шинжээчид уг кодыг сайтар шалгаж байж баталгаатай эсэхийг эцэслэн тогтоох юм.\n\nЭнэхүү ажил нь хүний удирдлага дор хиймэл оюун ухааныг ашиглан шинжлэх ухааны суурь нээлт хийх боломжтойг харуулсан томоохон жишээ болж байна. Судлаач өөрөө зарим нарийн математик хэсгүүдийг бүрэн эзэмшиж амжаагүй байгаагаа хүлээн зөвшөөрсөн бөгөөд олон нийтэд илүү дэлгэрэнгүй тайлбар хүргэхээр төлөвлөжээ. Хөгжүүлэгчид болон судлаачдын хувьд хиймэл оюун ухаан хүнд хэцүү тооцоолол, онолын ажилд хэрхэн тусалж болохыг харуулсан сонирхолтой тохиолдол болж байна.",
+ "published": "2026-11-20T15:45:44Z",
+ "added": "2026-11-20T16:01:06Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
