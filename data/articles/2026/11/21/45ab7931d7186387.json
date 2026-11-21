@@ -1,0 +1,17 @@
+{
+ "id": "45ab7931d7186387",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/resend/",
+ "image": "https://flaviocopes.com/img/og.png",
+ "title": "Resend: the email API I use for my sites, my apps and my AI agents",
+ "summary_en": "What Resend does, how I use it to send sign-in links and form emails across my course sites, why I like it, and how to give AI agents email with its MCP server, CLI and skills.",
+ "title_mn": "Resend: Вэб апп болон AI агентуудад зориулсан и-мэйл API",
+ "summary_mn": "Хөгжүүлэгчдэд зориулсан Resend API-ийг ашиглан вэб систем болон бие даасан AI агентуудаас хэрхэн и-мэйл найдвартай илгээх тохиргоо, шилдэг туршлагуудыг хуваалцжээ.",
+ "body_mn": "Орчин үеийн программ хангамж болон AI агентуудад хэрэглэгчид рүү нэвтрэх холбоос, баримт, мэдэгдэл илгээх хэрэгцээ байнга гардаг. Хөгжүүлэгч Флавио Копес өөрийн төслүүд болон хиймэл оюуны агентууддаа Resend үйлчилгээг сонгон ашиглаж буй туршлага, тохиргооны зааврыг нийтэлжээ.\n\nResend нь HTTP хүсэлтээр энгийн JSON илгээж ажилладаг тул Cloudflare Workers, Pages Functions зэрэг сервэргүй (serverless) орчинд fetch функцээр шууд дуудахад тохиромжтой байдаг. Түүнчлэн үндсэн домайны нэр хүндийг хамгаалахын тулд дэд домайн ашиглах, SPF, DKIM болон DMARC бичилтүүдийг зөв тохируулахыг зөвлөсөн байна.\n\nAI агентууд код бичих эсвэл бие даан и-мэйл илгээх үед зөвхөн илгээх эрхтэй (Sending access) тусдаа API түлхүүр үүсгэх нь аюулгүй байдлын хувьд чухал юм. Мөн нэвтрэх холбоос зэрэг чухал өгөгдлийг хамгаалахын тулд нээлт болон линк даралтыг мөшгих (tracking) тохиргоог унтрааж ашиглах нь зүйтэйг тайлбарлажээ.",
+ "published": "2026-11-21T08:00:00Z",
+ "added": "2026-11-21T08:30:56Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}
