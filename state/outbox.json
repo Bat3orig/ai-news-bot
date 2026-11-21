@@ -38,5 +38,25 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1dd99e0177ea5d5e",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "AOL.com",
+   "url": "https://www.aol.com/articles/anthropic-mathematician-claims-used-claude-163949000.html",
+   "image": "https://hermes.media.static.aol.com/media/2026/11/21/0e562e7b-e5f5-38e4-ac26-7cdd3f12890a/b5696f99-51d3-42db-a556-52e8b580ff40.jpg",
+   "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+   "summary_en": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis",
+   "title_mn": "Судлаачид Claude-ийн тусламжтай баталсан Риманы таамаглалын баталгааг баталгаажуулав",
+   "summary_mn": "Anthropic-ийн математикч Levent Alpöge-ийн Claude загварын тусламжтай боловсруулсан Риманы таамаглалын Lean хэл дээрх баталгааг хөндлөнгийн хоёр байгууллага шалгаж албан ёсоор баталлаа.",
+   "body_mn": "Anthropic компанийн математикч Levent Alpöge нь Claude хиймэл оюуны тусламжтайгаар математикийн алдарт Риманы таамаглалыг баталсан тухайгаа зарласан билээ. Тэгвэл уг баталгааг Lean Focused Research Organization болон Mathlib Initiative байгууллагууд шалгаж, бодит бөгөөд зөв болохыг албан ёсоор нотоллоо.\n\nAlpöge уг баталгааг зургаан долоо хоногийн турш Claude-тэй хамтран боловсруулсан бөгөөд үр дүнгээ албан ёсны математикийн кодчиллын Lean хэл дээр нийтэлсэн байна. Шалгагч талууд Lean хэл дээр бичигдсэн кодыг машин болон хүний шалгалтаар бүрэн гүйлгэж нягталсны эцэст Alpöge-ийн баталгааг алдаагүй гэдэгт бүрэн итгэлтэй байгаагаа мэдэгдэв.\n\nЭнэхүү ололт нь 1859 оноос хойш шийдэгдээгүй байсан, Clay Mathematics Institute-ийн сая долларын шагналтай Мянганы долоон асуудлын нэгийг хиймэл оюун шийдвэрлэхэд шууд нөлөөлсөн түүхэн үйл явдал болж байна. Мөн албан ёсны баталгаажуулалтын хэлүүд (Lean) хиймэл оюуны гаргасан нарийн төвөгтэй шийдлийг шалгахад чухал үүрэг гүйцэтгэдгийг харууллаа.",
+   "published": "2026-11-21T20:15:57Z",
+   "added": "2026-11-21T21:00:54Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
  }
 ]
