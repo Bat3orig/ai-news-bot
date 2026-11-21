@@ -1,0 +1,17 @@
+{
+ "id": "443b4a9124028617",
+ "subtopic": "ai-devtools",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/diggerhq/opencomputer",
+ "image": "https://opengraph.githubassets.com/2d06d6f77a73e3ab2359c200e9dce9b7a58b1f07c50a8f9ce3bfb8a0364a5bbb/diggerhq/opencomputer",
+ "title": "Show HN: OpenComputer – an open source alternative to Devin",
+ "summary_en": "Hi HN! Utpal here, I'm one of the founders of OpenComputer. OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure). We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]). Two other choices: - One VM per team, scalable horizontally. Sessions are isolated in git worktrees. - Session files are backed up to a repo after every turn, so any session can resume on another VM. We noticed that past ~640…",
+ "title_mn": "OpenComputer: Devin-ийн нээлттэй эх сурвалжтай хувилбар гарла",
+ "summary_mn": "Slack болон үүлэн орчинд ажилладаг, өөрөө өөрийгөө удирдах чадвартай OpenComputer нэртэй код бичих агент нээлттэй эх сурвалж хэлбэрээр танилцуулагдлаа.",
+ "body_mn": "OpenComputer нь Devin хэрэгслийн нээлттэй эх сурвалжтай, өөрөө байршуулах боломжтой хувилбар юм. Хэрэглэгчид Slack чат дотор @Computer гэж дуудан ямар нэгэн ажил даалгах боломжтой бөгөөд уг агент нь тухайн даалгаврыг биелүүлж pull request үүсгэдэг байна. Энэхүү хэрэгсэл нь Claude Code, Codex зэрэг загваруудыг дэмждэг.\n\nУг системийн архитектур нь нэг виртуал машин дээр бүрэн ажиллах зориулалттай бөгөөд Cloudflare Workers болон Durable Objects дээр суурилжээ. Тус бүрхүүл нь rootless Podman ашиглан сесс тус бүрийг тусгаарладаг бөгөөд Git-д суурилсан санах ойд мэдээллээ хадгалдаг. Хөгжүүлэгчид үүнийг өөрсдийн үүлэн орчинд хялбархан байршуулж ашиглах боломжтой.\n\nБүтээгчдийн зүгээс уг агент нь Devin-ээс 3.3 дахин хурдан PR үүсгэдэг гэж мэдэгдсэн байна. Багууд Slack орчинд хамтран ажиллах явцдаа AI агентынхаа явцыг шууд хянаж, чиглүүлж өгөх боломжтой нь хөгжүүлэлтийн явцыг илүү уян хатан болгож байна.",
+ "published": "2026-11-20T20:19:56Z",
+ "added": "2026-11-21T07:30:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
