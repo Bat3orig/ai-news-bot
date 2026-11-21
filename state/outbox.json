@@ -1,1 +1,22 @@
-[]
+[
+ {
+  "kind": "article",
+  "article": {
+   "id": "906166dff8f74a4b",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Tbreak UAE",
+   "url": "https://tbreak.com/riemann-hypothesis-proof-claude-anthropic/",
+   "image": "https://i0.wp.com/tbreak.com/wp-content/uploads/2026/06/Claude-Opus-45.jpg?fit=1200%2C900&ssl=1",
+   "title": "Claude's Riemann hypothesis proof claim looks clean early",
+   "summary_en": "Anthropic mathematician Levent Alpöge says Claude helped him prove the Riemann hypothesis. Independent Lean checks look clean, but the proof is not confirmed.",
+   "title_mn": "Claude-ийн тусламжтай Риманы таамаглалыг баталсан байж магадгүй гэв",
+   "summary_mn": "Anthropic компанийн судлаач Claude загварыг ашиглан Риманы таамаглалыг баталсан гэж мэдэгдлээ. Бие даасан математикчид Lean шалгагч дээр алдаагүй ажилласныг тогтоосон ч нарийвчилсан шалгалт үргэлжилж байна.",
+   "body_mn": "Anthropic компанийн судлаач Levent Alpöge өөрийн веб сайтад Claude тусламжтайгаар 167 жилийн түүхтэй Риманы таамаглалыг баталсан гэдгээ нийтэлжээ. Тэрээр 10 дугаар сарын 6-наас 11 дүгээр сарын 16-ны хооронд чиглэлийг нь өгч, харин техникийн ажлыг Claude гүйцэтгэсэн гэж мэдэгдсэн байна.\n\nУг баталгааны бичвэр нь 250,000 гаруй хуудартай бөгөөд Lean хэл дээр архивлагдсан байна. MIT болон бусад сургуулийн бие даасан судлаачид уг материалыг Lean систем дээр ямар нэгэн алдаагүйгээр хөрвүүлж чадсан хэдий ч энэ нь Риманы таамаглалыг яг мөн эсэхийг баталгаажуулах шалгалт хийгдэж байна.\n\nЭнэхүү ололт нь програм хангамж болон криптографийн үндэс суурь болсон анхны тоонуудын тархалтын талаарх томоохон нээлт байж болох юм. Гэсэн хэдий ч Clay математикийн хүрээлэнгээс үүнийг албан ёсоор хүлээн зөвшөөрөхөд олон жилийн нягтлан шалгах үйл явц хэрэгтэй юм.",
+   "published": "2026-11-21T12:29:00Z",
+   "added": "2026-11-21T13:01:06Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ }
+]
