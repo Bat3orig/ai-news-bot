@@ -1,0 +1,17 @@
+{
+ "id": "0f9c128e56edef4e",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/opencomputer",
+ "image": "https://opengraph.githubassets.com/1/diggerhq/opencomputer",
+ "title": "A coding agent your team works with in Slack, on its own computers",
+ "summary_en": "You've probably noticed that the hardest part of using a coding agent isn't the code it writes—it's everything around it. Context gets lost, setup is a hassle, and the whole thing feels like a separate tool you have to remember to use. OpenComputer takes a different angle: it's an open-source altern... GitHub Repository: https://github.com/diggerhq/opencomputer",
+ "title_mn": "OpenComputer: Slack дотор ажилладаг нээлттэй эх сурвалжтай код бичих агент",
+ "summary_mn": "OpenComputer бол Devin-ийг орлох нээлттэй эх сурвалжтай код бичих агент бөгөөд танай багтай шууд Slack дээр өөрийн компьютерууд дээр ажилладаг.",
+ "body_mn": "OpenComputer нь багийн гишүүдийн өдөр тутмын яриа өрнүүлдэг Slack орчинд шууд ажиллах зориулалттай нээлттэй эх сурвалжтай програмчлалын агент юм. Энэ нь хөгжүүлэгчийн дотоод төхөөрөмжийн нөөцийг хуваалцахгүйгээр тусдаа машин дээр бие даан ажилладгаараа давуу талтай.\n\nДэд бүтцийн хувьд AWS болон GCP дээр өөрөө байршуулах (self-host) эсвэл үүлэн хувилбарыг нь ашиглах сонголтыг санал болгодог. Энэ нь дата аюулгүй байдал болон компаниудын дотоод бодлого шаардлагыг хангахад чухал шийдэл болж өгч байна.\n\nSlack-ийг хэрэглэгчийн интерфейс болгон ашиглаж байгаа нь багуудад ямар нэгэн шинэ самбар руу шилжих шаардлагагүйгээр агентаас хүссэн ажлаа шууд асуух боломжийг олгоно. Devin зэрэг хаалттай платформ хэрэглэхэд өртөг өндөртэй санагдсан хөгжүүлэгчдэд энэ нь зохимжтой хувилбар юм.",
+ "published": "2026-11-22T01:48:09Z",
+ "added": "2026-11-22T03:30:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "f7fcb3344a97c45a",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/diagram-design",
+ "image": "https://opengraph.githubassets.com/1/cathrynlavery/diagram-design",
+ "title": "Agent skill that draws diagrams as one self-contained HTML + SVG file",
+ "summary_en": "You've probably asked an AI agent to sketch out an architecture diagram at some point. And you've probably gotten back something that technically communicates the idea but looks like it crawled out of a 2015 wiki page. Boxes with drop shadows. Default fonts. That particular shade of blue nobody chos... GitHub Repository: https://github.com/cathrynlavery/diagram-design",
+ "title_mn": "cathrynlavery/diagram-design: HTML болон SVG файл руу диаграмм зурах AI чадвар",
+ "summary_mn": "Diagram Design бол Cursor, Claude Code болон бусад AI хэрэгслүүдэд зориулсан, брендэд тохирсон диаграммыг дан HTML болон SVG файлд үүсгэх чадвар юм.",
+ "body_mn": "Diagram Design нь хиймэл оюун ухааны агентуудад зориулсан бөгөөд архитектур болон бусад диаграммыг чанартай, цэвэр загвартай HTML болон SVG файл болгон зурах чадвар юм. Энэ нь Cursor, Claude Code, GitHub Copilot зэрэг олон төрлийн агентуудтай хамтран ажиллах боломжтой.\n\nЭнэхүү хэрэгсэл нь гадны ямар нэгэн хамааралгүйгээр шууд нэг файлыг үүсгэдэг бөгөөд архитектурын схем, дарааллын диаграмм зэрэг 51 төрлийн диаграммыг дэмждэг. Ямар нэгэн хэрэггүй сүүдэр, амьгүй дизайнгүйгээр цэвэр гаралтыг өгдөгөөрөө онцлогтой.\n\nБрэндийн өнгө болон фонтыг өөрийн сайттай холбох боломжтой ба draw.io, Mermaid, Excalidraw-аас мэдээлэл импортлох боломжтой. хөгжүүлэгчид баримт бичиг болон танилцуулгад зориулсан диаграммыг хурдан бөгөөд загварлаг гаргахад тусална.",
+ "published": "2026-11-22T01:47:37Z",
+ "added": "2026-11-22T03:30:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

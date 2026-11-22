@@ -1,0 +1,17 @@
+{
+ "id": "7f0e5ccbb0b395f4",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/autoclip",
+ "image": "https://opengraph.githubassets.com/1/zhouxiaoka/autoclip",
+ "title": "Paste one link, get a vertical video with subtitles and cover",
+ "summary_en": "You've got a long interview, a podcast episode, or a conference talk that you think would do well as a short. Now you need to find the good moment, crop it to vertical, frame the speaker properly, subtitle it, design a cover, and write a caption. That's an afternoon of work per clip, if you're fast.... GitHub Repository: https://github.com/zhouxiaoka/autoclip",
+ "title_mn": "autoclip: Холбоос оруулаад субтитр, ковер бүхий богино хэмжээний видео хийх хэрэгсэл",
+ "summary_mn": "AutoClip бол урт яриа, подкастын холбоосыг оруулахад босоо хэлбэрийн богино хэмжээний видео, субтитр болон ковер зургийг автомат үүсгэдэг нээлттэй эх сурвалжтай програм юм.",
+ "body_mn": "AutoClip нь хөгжүүлэгчид болон контент бүтээгчдэд зориулсан орон нутгийн компьютер дээр ажилладаг видео засварлах, render хийх хэрэгсэл юм. Та ямар нэгэн урт видеоны холбоосыг оруулахад уг хэрэгсэл автоматаар хүрээг босоо хэлбэрт шилжүүлж, субтитр болон ковер бэлтгэж өгдөг.\n\nЭнэ нь desktop апп, CLI болон MCP сервер хэлбэрээр ажилладаг бөгөөд хиймэл оюун ухааны агентуудын ажлын урсгалтай шууд холбогдох боломжтой. TikTok, YouTube Shorts, Reels зэрэг платформад зориулсан контент бүтээхэд гарын авлагын ажлыг эрс багасгадаг.\n\nПрограмын үндсэн хэсэг нь үнэ төлбөргүй боловч ард нь ажиллах ухаалаг үүлэн загваруудын хэрэглээ нь ашиглалтаас шалтгаалан төлбөртэй байж болно. Автоматжуулсан контент бүтээх шугам хоолой барихад сонирхолтой шийдэл юм.",
+ "published": "2026-11-22T01:49:27Z",
+ "added": "2026-11-22T03:30:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

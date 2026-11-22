@@ -1,0 +1,17 @@
+{
+ "id": "b96fedc027fff238",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/apprise",
+ "image": "https://opengraph.githubassets.com/1/caronc/apprise",
+ "title": "One notification library for almost every service you already use",
+ "summary_en": "You've got a script that needs to page you when a disk fills up. Then a cron job that should ping the team on Slack. Then some automation that needs to hit Telegram, and maybe a webhook somewhere else. Before long you're juggling a dozen different APIs, each with its own authentication quirks and pa... GitHub Repository: https://github.com/caronc/apprise",
+ "title_mn": "Apprise: Олон төрлийн үйлчилгээг нэгтгэсэн мэдэгдлийн python сан",
+ "summary_mn": "Apprise бол Python хэл дээр бичигдсэн бөгөөд Slack, Telegram, Discord болон бусад олон мэдэгдлийн үйлчилгээг нэг URL форматтай холбодог номын сан юм.",
+ "body_mn": "Apprise нь хөгжүүлэгчдэд олон төрлийн мэдэгдлийн API-уудын ялгаатай байдал болон баталгаажуулалтын төвөгтэй байдлыг шийдвэрлэхэд тусалдаг нэгдсэн мэдэгдлийн сан юм. Энэ нь Python хэл дээр бичигдсэн бөгөөд PyPI дээрээс авах боломжтой.\n\nЭнэхүү сангийн гол давуу тал нь мэдэгдэл илгээх газруудыг нэгдсэн URL форматаар тодорхойлж, async байдлаар хурдан шуурхай хүргэх явдал юм. Мөн зураг болон файлавч хавсаргах боломжийг олгодог бөгөөд гуравдагч талын серверүүдийг голдоо оруулахгүйгээр шууд хүргэдэг.\n\nТест амжилтгүй болох, диск дүүрэх зэрэг систем болон автоматаар ажиллах скриптүүдэд мэдэгдэл илгээх шаардлагатай хөгжүүлэгчдэд маш хэрэгтэй хэрэгсэл юм. Шошго (tags) ашиглан мэдэгдлийг тодорхой сувгуудаар шүүж явуулах боломжтой.",
+ "published": "2026-11-22T01:48:33Z",
+ "added": "2026-11-22T03:30:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

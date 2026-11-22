@@ -1,0 +1,17 @@
+{
+ "id": "fd248f81861045b4",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/awesome-cursorrules",
+ "image": "https://opengraph.githubassets.com/1/patrickjs/awesome-cursorrules",
+ "title": "Project-specific .mdc rules to keep Cursor aligned with your codebase",
+ "summary_en": "You've probably had this experience with Cursor: you explain your project's conventions, it generates something reasonable, and then it drifts back to generic patterns on the next prompt. You end up re-explaining the same architecture, the same preferred libraries, the same naming rules. Awesome Cur... GitHub Repository: https://github.com/patrickjs/awesome-cursorrules",
+ "title_mn": "awesome-cursor-rules: Cursor редакторт зориулсан төслийн дүрэм цуглуулга",
+ "summary_mn": "Awesome Cursor Rules бол Cursor хиймэл оюун ухаант редакторт танай төслийн архитектур, кодын стандартыг алдагдуулахгүй байх .mdc дүрэм файлуудын цуглуулга юм.",
+ "body_mn": "Awesome Cursor Rules нь хөгжүүлэгчдэд Cursor редактор дээр ажиллах үед кодын стандарт болон архитектурын дүрэм журмыг сануулахад зориулагдсан Markdown дээр суурилсан .mdc файлуудын цуглуулга юм. Энэ нь төслийн тодорхой хүрээнд хиймэл оюун ухааныг зөв чиглүүлж, ерөнхий код руу гулсахаас сэргийлдэг.\n\nУг цуглуулгад фронтенд фреймворк, бэкенд, гар утасны хөгжүүлэлт, өгөгдлийн сан, аюулгүй байдал зэрэг олон төрлийн ангиллын дүрэм файлууд багтсан байна. Хөгжүүлэгчид Эдгээр файлыг төслийнхөө .cursor/rules/ хавтсанд шууд хуулж ашиглах боломжтой.\n\nCursor ашигладаг баг хамт олон болон бие даасан хөгжүүлэгчдэд код бичих явцыг илүү тогтвортой, өөрийн төслийн онцлогт тохирсон байдлаар авч явахад тустай лавлах материал юм.",
+ "published": "2026-11-22T01:49:59Z",
+ "added": "2026-11-22T03:30:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

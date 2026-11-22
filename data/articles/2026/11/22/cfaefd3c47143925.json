@@ -1,0 +1,17 @@
+{
+ "id": "cfaefd3c47143925",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/volkswagen",
+ "image": "https://opengraph.githubassets.com/1/auchenberg/volkswagen",
+ "title": "A defeat device that makes your tests pass on CI servers",
+ "summary_en": "You've pushed a commit, the build is running, and you're watching the little spinner next to your pull request like it owes you money. What if the tests just... passed? Not because you fixed anything, but because something quietly decided the CI server didn't need to see the truth. That's the premis... GitHub Repository: https://github.com/auchenberg/volkswagen",
+ "title_mn": "volkswagen: CI серверийн тестүүдийг ямагт амжилттай болгодог хошигнол сан",
+ "summary_mn": "volkswagen бол CI орчинд ажиллаж байгааг автоматаар илрүүлж, шалгалтуудыг ямар ч алдаагүйгээр амжилттай өнгөрүүлдэг хошин npm сан юм.",
+ "body_mn": "Volkswagen компанийн утааны скандалаас сэдэвлэсэн volkswagen нэртэй энэхүү npm сан нь хөгжүүлэгчдэд зориулсан сонирхолтой бөгөөд шог хошин төсөл юм. Энэхүү Node.js модуль нь таны кодыг CI (Continuous Integration) сервер дээр ажиллаж байгаа эсэхийг шалгадаг.\n\nХэрэв тус сан CI орчныг илрүүлбэл, assert эсвэл бусад тестийн хэрэгслүүдийн гаралтын кодыг албаар амжилттай болгон өөрчилдөг. Энэ нь Travis CI, CircleCI, Jenkins, GitLab CI зэрэг олон төрлийн серверүүдийг дэмждэг бөгөөд CI эсвэл CONTINUOUS_INTEGRATION орчны хувьсагчдыг ашигладаг.\n\nМэдээжийн хэрэг энэ бол бүтээгдэхүүний код биш харин хөгжүүлэгчийн соёл, хошигнол зорилготой төсөл юм. Бодит үйлдвэрлэлийн орчинд үүнийг ашиглахгүй байх нь зүйтэй бөгөөд тестийн үнэн зөв байдлын талаар баг хамт олноохоо ярилцах хөгжилтэй арга юм.",
+ "published": "2026-11-22T01:47:15Z",
+ "added": "2026-11-22T03:30:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

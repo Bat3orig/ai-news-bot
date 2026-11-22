@@ -1,0 +1,17 @@
+{
+ "id": "a682ec654198ed47",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/raea",
+ "image": "https://opengraph.githubassets.com/1/shinyobjectz/raea",
+ "title": "Render video, 3D and games from React and TypeScript on your own GPU",
+ "summary_en": "You've probably spent more time fighting with timeline software than actually making the thing you wanted to make. Or maybe you've watched an AI generate code that works fine in a chat window but has no way to actually produce a rendered video, a 3D scene, or a game. raea is an attempt to close that... GitHub Repository: https://github.com/shinyobjectz/raea",
+ "title_mn": "raea: React болон TypeScript ашиглан видео болон 3D хөдөлгөөнт дүрс render хийх хөдөлгүүр",
+ "summary_mn": "raea бол React болон TypeScript код ашиглан видео, 3D сцен болон тоглоом бүтээж, өөрийн GPU дээр шууд render хийх шинэ үеийн хөдөлгүүр юм.",
+ "body_mn": "raea (Render Anything Engine) нь хөгжүүлэгчдэд React болон TypeScript хэл ашиглан хөдөлгөөнт дүрс, видео, 3D орчин бүтээх боломжийг олгодог шинэ desktop програм юм. AI туслахууд (Claude, ChatGPT гэх мэт) энэ хөдөлгүүрийн кодыг бичиж, та өөрийн GPU дээр хурдан хугацаанд render хийх боломжтой.\n\nЭнэхүү хэрэгсэл нь зөвхөн чат цонх биш бөгөөд видео засварлах хугацааны шугам (timeline) болон 3D сцен дээр гараараа засвар хийх боломжийг хослуулсан. Хэрэглэгчийн хийсэн өөрчлөлт код руу шууд бичигдэж, AI агентад эргэн мэдээлэгддэг нь хоёр талын уялдаа холбоог сайжруулдаг.\n\nmacOS, Linux, Windows үйлдвэрлэлийн системүүдийг дэмждэг ба орон нутгийн төхөөрөмж дээр ажилладагаараа онцлогтой. Бүтээлч ажил хийдэг хөгжүүлэгчдэд зориулсан хурдан бөгөөд уян хатан шийдэл юм.",
+ "published": "2026-11-22T01:48:59Z",
+ "added": "2026-11-22T03:30:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
