@@ -1,0 +1,17 @@
+{
+ "id": "e5b6d71bb5c1d221",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/clairic/",
+ "image": "https://flaviocopes.com/images/clairic/og.jpg",
+ "title": "A deep dive into Clairic",
+ "summary_en": "Extract typed values from text, screenshots, and PDFs with Clairic on Cloudflare Workers AI. Build a Worker and learn how to check the model's answers.",
+ "title_mn": "Cloudflare Workers AI дээрх Clairic өгөгдөл олборлох загварын талаар",
+ "summary_mn": "Cloudflare-ын саяхан гаргасан Clairic систем загварыг туршиж, Workers AI болон Wrangler ашиглан текст, зураг, PDF-ээс өгөгдөл хэрхэн нарийвчлалтай татаж авахыг харуулсан техникийн тойм.",
+ "body_mn": "Cloudflare компани Workers AI дээр урьдчилсан байдлаар гаргасан Clairic хэмээх шинэ олборлох загварын талаар Flavio Copes дэлгэрэнгүй бичжээ. Энэхүү загвар нь өгөгдсөн текст, зураг эсвэл PDF файлаас хүссэн талбаруудыг (огноо, тоо, текст г.м) ялган авч өгөх зориулалттай бөгөөд хөгжүүлэгчид Cloudflare Workers болон Wrangler ашиглан орон нутагтаа болон үүлэн орчинд шууд туршиж үзэх боломжтой аж.\n\nНийтлэлд загварын давуу болон сул талуудыг жишээн дээр тайлбарласан байна. Тухайлбал, загвар нь хямдралтай болон үндсэн үнийг ялгаж ойлгохдоо алдаа гаргаж болох ч итгэлцлийн оноо (confidence) болон эх сурвалжийн мэдээллийг хамт буцаадаг нь хөгжүүлэгчдэд алдааг шалгах боломж олгодог. Хөгжүүлэгчид wrangler.jsonc болон worker.js файлыг тохируулан REST API эсвэл bindings ашиглан дуудаж хэрхэн ашиглах талаар практик зааврыг өгсөн байна.\n\nЭнэ нь хиймэл оюун ухааны тусламжтайгаар дата боловсруулах, автоматжуулсан систем бүтээж буй хөгжүүлэгчдэд өгөгдөл олборлох шинэ боломжийг судлахад маш хэрэгтэй гарын авлага болж байна.",
+ "published": "2026-11-22T11:00:00Z",
+ "added": "2026-11-22T11:30:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
