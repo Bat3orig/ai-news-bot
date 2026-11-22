@@ -1,0 +1,17 @@
+{
+ "id": "a671921f671513e5",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/inkling-2-mini/",
+ "image": "https://flaviocopes.com/images/inkling-2-mini/og.jpg",
+ "title": "A deep dive into Inkling 2 Mini",
+ "summary_en": "Run Inkling 2 Mini on an Apple silicon Mac, send it a screenshot through Ollama, measure a local request, and see how a looped transformer reuses its layers.",
+ "title_mn": "Inkling 2 Mini загварыг Apple Silicon Mac дээр Ollama ашиглан локал байдлаар ажиллуулах нь",
+ "summary_mn": "Thinking Machines Lab-ын Inkling 2 Mini загварыг Apache 2.0 лицензтэйгээр гаргажээ. 32GB-аас дээш санах ойтой Apple Silicon Mac дээр Ollama ашиглан хэрхэн локал орчинд суулгаж, туршиж үзэх талаар дэлгэрэнгүй тайлбарлав.",
+ "body_mn": "Thinking Machines Lab компаниас гаргасан Inkling 2 Mini нь текст болон зураг боловсруулах чадвартай, Apache 2.0 лицензтэй нээлттэй жинтэй загвар юм. Энэхүү загвар нь 24 давхаргатай хэдий ч дунд хэсгийн 12 давхаргыг тэмдэгт (token) бүрд гурван удаа гүйцэтгэснээр үр дүнг сайжруулдаг онцлогтой. Хөгжүүлэгчид үүнийг 32GB болон түүнээс дээш унифийд санах ойтой Apple Silicon Mac дээр Ollama ашиглан төхөөрөмж дээрээ шууд ажиллуулах боломжтой юм.\n\nЗагварыг ажиллуулахын тулд Ollama v0.40.17 болон түүнээс дээш хувилбар шаардлагатай бөгөөд дискийн зайнд ойролцоогоор 20GB сул зай хэрэгтэй. Ollama серверээ асаасны дараа терминал дээр татаж аваад ашиглах боломжтой бөгөөд контекстийн хэмжээ болон санах ойн хуваарилалтыг тохируулах боломжтой. Жишээлбэл, 8,192 токеноор тохируулан мэдээлэл боловсруулах явцыг шалгаж болно.\n\nМөн Ollama API ашиглан хөгжүүлэгчид скрипт болон curl командын тусламжтайгаар хүсэлт илгээж, хариу авах боломжтой. Загварын хариу өгөх хурд болон явцыг хэмжихдээ eval_count болон eval_duration талбаруудыг ашиглан наносекундээр тооцоолж болно. Энэ нь үүлэн дэд бүтцээс хамааралгүйгээр локал орчинд AI загваруудыг турших, бүтээгдэхүүндээ нэгтгэхэд чухал ач холбогдолтой юм.",
+ "published": "2026-11-22T08:00:00Z",
+ "added": "2026-11-22T08:30:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
