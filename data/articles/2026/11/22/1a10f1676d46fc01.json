@@ -1,0 +1,17 @@
+{
+ "id": "1a10f1676d46fc01",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/perplexity-and-intelligence",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
+ "title": "Perplexity and Intelligence",
+ "summary_en": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+ "title_mn": "OpenAI: Загварын хөгжилд perplexity хэмжигдэхүүнийг ашиглах нь",
+ "summary_mn": "OpenAI-ийн Ахлах эрдэмтэн Жакуб Пахоцки орчин үеийн хиймэл оюун ухааны хөгжил дэвшлийг хянах гол хэмжүүр нь perplexity буюу cross-entropy loss болохыг тайлбарлав. Мөн тэд өөрсдийн дотоод сургалтын явцын хэмжилтүүдийг олон нийтэд ил болгожээ.",
+ "body_mn": "OpenAI-ийн ахлах эрдэмтэн Жакуб Пахоцки орчин үеийн хиймэл оюун ухааныг бүтээх үндсэн суурь нь том хэмжээний өгөгдөл дээр урьдчилан сургах явдал бөгөөд загварын чадавхыг хянах гол хэмжүүр нь perplexity буюу дараагийн токенийг таамаглах нарийвчлал гэдгийг онцолжээ. Бага perplexity нь илүү сайн таамаглал болон дэвшилтэт чадваруудыг илэрхийлдэг байна.\n\nУг нийтлэлд GPT-3.5, GPT-4 болон түүнээс хойших үеийн загваруудын perplexity үзүүлэлт хэрхэн буурч, шинэ чадварууд (кибер аюулгүй байдал, математикийн салбар дахь дэвшил) гарч ирснийг харуулсан график мэдээллийг хуваалцжээ. OpenAI энэхүү дотоод хэмжилтээ ил болгосноор салбарын аюулгүй байдлын стандартад хувь нэмэр оруулна гэж найдаж байна.\n\nХөгжүүлэгчдийн хувьд AI загваруудын суурь хөгжил, сургалтын явц хэрхэн явагддаг, мөн дараагийн үеийн загваруудын чадавхын хязгаарыг ойлгоход энэхүү мэдээлэл чухал ач холбогдолтой юм. загваруудын хөгжлийн чиг хандлагыг шинжлэх ухааны үндэслэлтэйгээр харах боломжийг олгож байна.",
+ "published": "2026-11-22T00:00:00Z",
+ "added": "2026-11-22T18:00:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
