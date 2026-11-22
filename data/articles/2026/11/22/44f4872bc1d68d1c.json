@@ -1,0 +1,17 @@
+{
+ "id": "44f4872bc1d68d1c",
+ "subtopic": "qwen",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+ "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
+ "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+ "summary_en": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 104 # Comments: 31",
+ "title_mn": "Локал AI-г өөрийн компьютер дээр Inkling, Qwen, Unsloth ашиглан хэрхэн суулгах вэ",
+ "summary_mn": "Хэрэглэгчид өөрийн компьютерт Qwen болон Unsloth ашиглан хувийн локал AI загвар суулгах гарын авлагыг хүргэж байна. Энэ нь үүлэн үйлчилгээний хязгаарлалт, нууцлалын асуудлыг шийдэхэд тусална.",
+ "body_mn": "Үүлэн дээр суурилсан том хэлний загваруудын үнэ өсөж, хэрэглээний хязгаарлалт болон нууцлалын санаа зовоосон асуудлууд нэмэгдэж байгаа энэ үед хөгжүүлэгчид өөрийн техник хангамж дээр локал AI ажиллуулахыг илүүд үзэх боллоо. Энэхүү гарын авлагаар Windows систем дээр Unsloth Desktop ашиглан Qwen3.8-27B загварыг 4-битийн квантчилалтайгаар хэрхэн хялбархан суулгахыг тайлбарласан байна.\n\nЗагварын хэмжээг багасгахын тулд квантчилал ашиглах нь VRAM-ийн багтаамжид тааруулахад чухал үүрэгтэй. Жишээлбэл, 32GB VRAM бүхий RTX 5090 карт дээр Qwen3.8-27B загварыг 128K контекц цонхтойгоор ажиллуулах боломжтой бөгөөд гэрийн сүлжээнд холбосноор гэр бүлийн гишүүд болон хамтрагчид ашиглах боломжтой юм.\n\nБага VRAM-тай хэрэглэгчдийн хувьд RTX 5060 эсвэл RTX 3060 зэрэг картанд тохирох Qwen3-14B эсвэл Gemma 4 26B зэрэг жижиг загваруудыг сонгох боломжтой. Ингэснээр ямар нэгэн терминал команд, нарийн төвөгтэй Python орчин шаардлагагүйгээр хувийн AI туслахтай болох юм.",
+ "published": "2026-11-22T21:01:16Z",
+ "added": "2026-11-22T23:30:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
