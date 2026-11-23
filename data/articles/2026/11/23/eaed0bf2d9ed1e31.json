@@ -1,0 +1,17 @@
+{
+ "id": "eaed0bf2d9ed1e31",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6t4TuQjTM6BbUrN38qacii/6440cfffd49f12256f63d6619257664f/download__7_.jpeg",
+ "title": "Catch missing feature flags before they reach production",
+ "summary_en": "Vercel Flags can now block a deployment from reaching production if you’ve declared a flag in code but haven’t created it in your project. Without that definition, your app can silently fall back to the flag’s default value, even if that turns on a feature you meant to keep off. The Flag Definitions Present Deployment Check runs when a deployment is ready. If any flags are missing, the check fails and lists them in the results, where you can create each one before redeploying. The check reads your Flags SDK discovery endpoint and requires FLAGS_SECRET to be set in your project’s environment…",
+ "title_mn": "Vercel Flags-d shinshuulolt: dutuu feature flag-uudiig shalgah",
+ "summary_mn": "Vercel Flags odoo project dotor declaration hiisen bolovch uusgeegui feature flag baival deployment-iig block hiih bolomjtoi bolloo.",
+ "body_mn": "Flag Definitions Present Deployment Check asuudal ni deployment hiih ued shalgalt hiij, dutuu flaguudiig jagsaaj haruulna. Ene shalgaltiig idevhjuulehiin tuld FLAGS_SECRET-iig environment dotor tohiruulj, project-iin Build and Deployment settings dotroos required bolgoj oorchilno. Ugaas default utga ruu siljih asuudlaas sergiileh davuu taltuudtai.",
+ "published": "2026-11-23T09:14:00Z",
+ "added": "2026-11-23T08:30:54Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
