@@ -1,0 +1,17 @@
+{
+ "id": "7b31fe335f7b0f7e",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/using-frontend-fallbacks/",
+ "image": "https://css-tricks.com/wp-content/uploads/2021/06/reset-refresh-recycle-default.jpg",
+ "title": "Using Fallbacks for a Robust Front-End",
+ "summary_en": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users. Using Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "title_mn": "Фронтэнд систем найдвартай байлгах fallback арга барилууд",
+ "summary_mn": "CSS-Tricks нь вебийн фронтэндийг найдвартай болгохын тулд fallback болон progressive enhancement аргуудыг тайлбарлажээ. Interop, Baseline, Can I Use зэрэг хэрэгслээр дэмжлэгийг шалгах талаар дурдсан.",
+ "body_mn": "Вебийн фронтэндийг найдвартай болгохын тулд HTML, CSS болон JavaScript-д олон давхар хамгаалалт суулгах хэрэгтэй гэж CSS-Tricks нийтлэлд дурдсан. Fallback нь үл боломжтой зүйлд хариу өгөх, харин progressive enhancement нь дэмжигдсэн функцийг нэмж өгөх арга юм. Зохиолч аль алиныг хослуулах нь зүйтэй гэж үзжээ.\n\nШинэ функцийг production-д ашиглахаас өмнө дэмжлэгийг шалгах хэрэгтэй. Interop төсөл нь томоохон браузерууд хамтран функцүүдийг нэгэн зэрэг гаргахад чиглэгддэг бол Baseline нь тодорхой функцийн дэмжлэг, хугацааг харуулдаг. Can I Use нь хурдан харьцуулалт хийхэд тусалдаг. Гэвч Baseline нь хүртээмжийн функцүүдийг хянадаггүй гэдгийг анхаарах хэрэгтэй.\n\nМөн JavaScript ачаалагдахгүй үед хэрэглэгчид мэдээлэл өгөх алдааны хуудас хэрэгтэй гэж зөвлөж байна. Энэ нь хөгжүүлэгчдэд практик зөвлөмж болно.",
+ "published": "2026-11-23T14:21:44Z",
+ "added": "2026-11-23T14:30:53Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
