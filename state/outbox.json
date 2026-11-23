@@ -258,5 +258,25 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b0689cf87ab570a4",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/introducing-shirudo",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&h=900&fit=fill",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "summary_en": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+   "title_mn": "OpenAI болон Cisco хамтран Shirudo нэртэй нээлттэй эх сурвалжтай аюулгүй байдлын систем гаргалаа",
+   "summary_mn": "OpenAI болон Cisco компаниуд Linux систем дэх эмзэг байдлыг нөхөх хүртэл түр зуур хамгаалах eBPF технологид суурилсан Shirudo нээлттэй эх сурвалжтай хэрэгслийг танилцууллаа.",
+   "body_mn": "OpenAI болон Cisco хамтран ажиллаж, Линукс системд гарсан эмзэг байдлыг системийн ажиллагааг зогсоохгүйгээр хамгаалах боломжтой Shirudo нэртэй нээлттэй эх сурвалжтай кодыг зарлалаа. Энэхүү төсөл нь OpenAI-ийн хиймэл оюун ухааны судалгаа болон Cisco-ийн аюулгүй байдлын туршлагыг нэгтгэжээ.\n\nЭнэхүү хэрэгсэл нь eBPF буюу Linux үйлдлийн системийн түвшинд ажилладаг технологи ашигладаг бөгөөд аюултай үйлдлийг илрүүлж, шаардлагатай хамгаалалтыг шууд ажиллаж буй систем дээр хэрэгжүүлдэг байна. Туршилтын явцад OpenAI-ийн Codex ашиглан үүсгэсэн хамгаалалт нь Elasticsearch үйлчилгээг Java4Shell халдлагаас амжилттай хамгаалж чаджээ.\n\nShirudo нь криптографийн аргаар баталгаажсан хамгаалалтын түлхүүрүүд болон TPM (Trusted Platform Module) ашиглан системийн аюулгүй байдлыг найдвартай хангах зорилготой. Ингэснээр хөгжүүлэгчид болон системийн админууд байнгын засвар гарахыг хүлээлгүйгээр системээ аюулгүй байлгах боломж бүрдэж байна.",
+   "published": "2026-11-23T21:20:00Z",
+   "added": "2026-11-23T22:30:51Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
  }
 ]
