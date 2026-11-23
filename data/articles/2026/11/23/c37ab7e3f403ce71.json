@@ -1,0 +1,17 @@
+{
+ "id": "c37ab7e3f403ce71",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/67XIifvPiGZjjxt9fE6s19/33e5a98b2743a7ecafaaa33a7c193c82/audited-zdr-og.png",
+ "title": "Introducing Audited ZDR on AI Gateway",
+ "summary_en": "AI is now used in every part of a business, and as a result, companies send source code, customer records, and regulated data through inference providers. The assurance that no data is retained after processing is still publicly unverified. Payment platforms, cloud infrastructure, and most other layers that handle data this sensitive have a way to prove their controls to outside parties, and inference will follow the same path. Today we are introducing Audited ZDR on AI Gateway. A provider is labeled Audited ZDR only after an independent security firm tests its zero data retention claims…",
+ "title_mn": "Vercel Audited ZDR-ийг AI Gateway дээр нэвтрүүллээ: өгөгдөл хадгалалтгүйг бие дааж шалгана",
+ "summary_mn": "Vercel AI Gateway дээр Audited ZDR гэсэн шинэ шошго нэвтэрлээ. Провайдер нь өгөгдөл хадгалахгүй гэсэн баталгааг бие даасан аудитын компани код, инфраstructure болон амьд трафикаар шалгасны дараа л энэ шошгыг авна.",
+ "body_mn": "Vercel AI Gateway дээр Audited ZDR (Zero Data Retention) гэсэн шинэ шошго нэвтэрлээ. Энэ нь провайдер өгөгдлөө хадгалахгүй гэсэн амлалтыг бие даасан аюулгүй байдлын компани шалгаж, тайлангаа нийтэлсний дараа л олгогдоно. Launch түнш нараар Baseten, Modal, Wafer орсон бөгөөд бусад провайдерууд нэгдэхийг урьж байна.\n\nӨмнө нь ZDR нь гэрээ болон өөрийгөө мэдэгдэх баталгаан дээр тулгуурладаг байв. Audited ZDR-д аудиторууд серверийн замын эх код, инфраструктурын тохиргоог шалгаж, дараа нь тестүүд явуулдаг. Шалгалт нь prompt-ууд логд, crash dump, tracing, кэш, backup, support хэрэгсэл болон сургалтын өгөгдөлд хадгалагдахгүй эсэхийг хамруулна.\n\nМөн ZDR-тэй хүсэлт ZDR биш endpoint руу хэзээ ч шилжихгүй гэдгийг шалгана. Хүсэлтийн хариуг буцаасны дараа агуулга провайдерийн системээс устах ёстой. KV кэш ашиглах тохиолдолд ч хадгалалт зөвхөн хүсэлтийн хугацаанд volatile санах ойд байх ёстой.\n\nХөгжүүлэгчдэд энэ нь аюулгүй байдлын шаардлагатай кодонд, хэрэглэгчийн мэдээлэлтэй AI ашиглахад илүү найдвартай сонголт болно. Vercel мөн ISO/IEC 42001 гэрчилгээгээ авсан гэдгээ дурдсан байна.",
+ "published": "2026-11-23T05:00:00Z",
+ "added": "2026-11-23T11:30:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
