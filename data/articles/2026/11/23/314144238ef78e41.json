@@ -1,0 +1,17 @@
+{
+ "id": "314144238ef78e41",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Digital Trends",
+ "url": "https://www.digitaltrends.com/computing/anthropic-claude-ship-code-review/",
+ "image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Claude-Code-Featured.jpg?resize=1200%2C630&ssl=1",
+ "title": "Anthropic expands Claude Code’s review tools with automated fixes and approvals",
+ "summary_en": "Anthropic’s Claude Code already has a pretty useful Code Review feature that can examine pull requests and flag problems before the code gets merged. But finding issues is only one part of the process. Developers still have to go back, fix the problems, run the checks again, and find someone to approve the changes. Anthropic […]",
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-23T20:51:12Z",
+ "added": "2026-11-23T21:00:56Z",
+ "ai": "",
+ "score": null
+}

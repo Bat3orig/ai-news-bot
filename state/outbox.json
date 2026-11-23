@@ -138,5 +138,85 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b0819de1a504b63c",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSUdSRURoZlNFYldLTEFwcHY5djYtNm1ub3hwX0tZYUxnS2hKQTFxbmNMTF95aS0tR1FScllWWlpieEZ4MXRQd19RX3VRYl9tcjZEUzY4a1BmRzhPMmNROEtTR1h4ZFlQVUFsTkRSWGxMVVVHYS1iY3B2LW9tbHgxWmpUcU1MM08ycFVMS1BZTXl2eHVPcnVmUEw5T0dseWJ4OVlBeWlzTjVXelQ5QllDTnpEYUplUUtUeGhR?oc=5",
+   "image": "",
+   "title": "Anthropic launches Claude Ship to help developers ship code faster",
+   "summary_en": "",
+   "title_mn": "Anthropic хөгжүүлэгчдэд код илүү хурдан гаргах Claude Ship багцыг гаргалаа",
+   "summary_mn": "Anthropic Claude Ship нэртэй хэрэгслийн багцаа танилцууллаа. Багцад кодын шалгалт, PR-ийн засвар, автомат зөвшөөрөл багтана. Хэрэгсэл нь GitHub төслүүдэд Claude Team болон Enterprise төлөвлөгөөгөөр ашиглагдана.",
+   "body_mn": "Anthropic Claude Ship нэртэй багц хэрэгслээ гаргаж, хөгжүүлэгчдэд код өөрчлөлтийг илүү хурдан бэлтгэх зорилготой гэдгээ мэдэгдлээ. Багцын гол хэсэг болох Code Review хэрэгсэл аль хэдийн боломжтой бөгөөд үйлдэгдсэн өөрчлөлтүүдийг шалгаж, асуудлыг тэмдэглэдэг.\n\nБусад хоёр бүрэлдэхүүн хэсэг буюу PR Steward болон Claude Approvals бета туршилтанд байна. PR Steward нь автомат шалгалтын алдаа, кодын зөрчил, ревьюерийн сэтгэгдлүүдийг засахад тусалдаг бөгөөд хийсэн өөрчлөлтөө тайлбарлаж, буцаах арга замыг заадаг. Claude Approvals нь багийн дүрмийн дагуу эрсдэл багатай өөрчлөлтүүдийг бие даан зөвшөөрч, харин эрсдэлтэйг хүнд шалгуулахаар илгээнэ.\n\nХэрэгсэл нь GitHub төслүүдэд Claude Team болон Enterprise төлөвлөгөөгөөр ашиглах боломжтой. Хөгжүүлэгчдийн хувьд PR-ийн урсгалыг автоматжуулах шинэ арга болох тул CI болон ревью процессоо хэрхэн тохируулах талаар бодох хэрэгтэй.",
+   "published": "2026-11-23T20:01:13Z",
+   "added": "2026-11-23T21:00:56Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2c2222474a62f387",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+   "image": "https://github.blog/wp-content/uploads/2026/11/716292665-b61bd263-dd28-430c-a147-fa22594ac67f.png",
+   "title": "Issue statuses and repository boards are in public preview",
+   "summary_en": "Open or closed doesn’t always tell you where an issue stands. You can now use more specific statuses to give your team and agents shared context about what’s in flight…",
+   "title_mn": "GitHub-ийн issue статус болон repository board-ууд public preview-д гарлаа",
+   "summary_mn": "GitHub issue-д илүү тодорхой статус өгөх боломжийг public preview-д нээлээ. Repository board-ууд нь ажлын явцыг харах хялбар арга болно. GraphQL, REST API болон MCP сервер дээр дэмжлэгтэй.",
+   "body_mn": "GitHub issue-д зөвхөн нээлттэй эсвэл хаалттай гэхээс илүү дэлгэрэнгүй статус сонгох боломж public preview-д гарлаа. Статусыг issue үүсгэх үед эсвэл issue-ийн толгой хэсгээс солих боломжтой бөгөөд repository board-д status: шүүлтүүрээр хайж болно.\n\nМөн автомат статус шинэчлэлтүүд нэмэгдсэн. GraphQL, REST API болон MCP сервер дээр issue-ийн статусыг унших, тохируулах, шинэ issue үүсгэхдээ анхны статусыг сонгох боломжтой. Статусын өөрчлөлтийг Copilot automation-ий триггер болгон ашиглаж болно.\n\nRepository saved view-д board хэлбэр нэмэгдсэн тул ажлын явцыг төслийн дотроос харж, issue-ийг шууд шинэчлэх боломжтой. Илүү нарийн төлөвлөлтийн хэрэгцээтэй бол GitHub Project ашиглахыг зөвлөжээ. Хөгжүүлэгчдэд энэ нь багийн ажлын урсгал болон агент автоматжуулалтыг илүү сайн удирдах боломж олгоно.",
+   "published": "2026-11-23T20:37:11Z",
+   "added": "2026-11-23T21:00:56Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8797bbf8fa255ae2",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "UA.NEWS",
+   "url": "https://ua.news/en/dovkolo-svitu/kompaniia-anthropic-zapustila-claude-ship-dlia-rozrobnikiv-channel-newsasia",
+   "image": "https://cdn-cabinet.ua.news/uploads/images/anthropic_launches_claude_ship_for_devel_1795465455265.webp",
+   "title": "Anthropic launches Claude Ship for developers — Channel NewsAsia",
+   "summary_en": "Anthropic has launched Claude Ship, a tool suite for developers that reviews code changes, helps resolve issues, and can approve routine changes under team rules.",
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-23T20:37:50Z",
+   "added": "2026-11-23T21:00:56Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "314144238ef78e41",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Digital Trends",
+   "url": "https://www.digitaltrends.com/computing/anthropic-claude-ship-code-review/",
+   "image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Claude-Code-Featured.jpg?resize=1200%2C630&ssl=1",
+   "title": "Anthropic expands Claude Code’s review tools with automated fixes and approvals",
+   "summary_en": "Anthropic’s Claude Code already has a pretty useful Code Review feature that can examine pull requests and flag problems before the code gets merged. But finding issues is only one part of the process. Developers still have to go back, fix the problems, run the checks again, and find someone to approve the changes. Anthropic […]",
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-23T20:51:12Z",
+   "added": "2026-11-23T21:00:56Z",
+   "ai": "",
+   "score": null
+  }
  }
 ]

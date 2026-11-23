@@ -1,0 +1,17 @@
+{
+ "id": "2c2222474a62f387",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+ "image": "https://github.blog/wp-content/uploads/2026/11/716292665-b61bd263-dd28-430c-a147-fa22594ac67f.png",
+ "title": "Issue statuses and repository boards are in public preview",
+ "summary_en": "Open or closed doesn’t always tell you where an issue stands. You can now use more specific statuses to give your team and agents shared context about what’s in flight…",
+ "title_mn": "GitHub-ийн issue статус болон repository board-ууд public preview-д гарлаа",
+ "summary_mn": "GitHub issue-д илүү тодорхой статус өгөх боломжийг public preview-д нээлээ. Repository board-ууд нь ажлын явцыг харах хялбар арга болно. GraphQL, REST API болон MCP сервер дээр дэмжлэгтэй.",
+ "body_mn": "GitHub issue-д зөвхөн нээлттэй эсвэл хаалттай гэхээс илүү дэлгэрэнгүй статус сонгох боломж public preview-д гарлаа. Статусыг issue үүсгэх үед эсвэл issue-ийн толгой хэсгээс солих боломжтой бөгөөд repository board-д status: шүүлтүүрээр хайж болно.\n\nМөн автомат статус шинэчлэлтүүд нэмэгдсэн. GraphQL, REST API болон MCP сервер дээр issue-ийн статусыг унших, тохируулах, шинэ issue үүсгэхдээ анхны статусыг сонгох боломжтой. Статусын өөрчлөлтийг Copilot automation-ий триггер болгон ашиглаж болно.\n\nRepository saved view-д board хэлбэр нэмэгдсэн тул ажлын явцыг төслийн дотроос харж, issue-ийг шууд шинэчлэх боломжтой. Илүү нарийн төлөвлөлтийн хэрэгцээтэй бол GitHub Project ашиглахыг зөвлөжээ. Хөгжүүлэгчдэд энэ нь багийн ажлын урсгал болон агент автоматжуулалтыг илүү сайн удирдах боломж олгоно.",
+ "published": "2026-11-23T20:37:11Z",
+ "added": "2026-11-23T21:00:56Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
