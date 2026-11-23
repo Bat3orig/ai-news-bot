@@ -1,0 +1,17 @@
+{
+ "id": "1526ad7c48bb771b",
+ "subtopic": "motion",
+ "source": "Motion Blog",
+ "source_label": "Motion Blog",
+ "url": "https://motion.dev/magazine/a-year-of-motion-plus-since-black-friday",
+ "image": "https://images.motion.dev/og/fresh/v1/site/magazine-a-year-of-motion-plus-since-black-friday-28d508lxsv9sv.png",
+ "title": "Motion+ 20% off for Black Friday 2026",
+ "summary_en": "Motion+ is a one-time payment for lifetime updates. For this year's Black Friday, there's a massive 20% discount. When we launched Motion+ \"lifetime updates\" was an easy promise to make. But, Motion+ is almost two years old now. We can look back and ask, if you bought it way back when, what would you have received over the last year - entirely for free? Quite a lot, it turns out. With more on the horizon. Read the full article on Motion",
+ "title_mn": "Motion+ 20% хямдралтай болж байна: Black Friday 2026",
+ "summary_mn": "Motion+ анимацийн сан 2026 оны Black Friday-д 20%-иар хямдарлаа. Motion+ нь нэг удаагийн төлбөртэй бөгөөд амьд хугацааны шинэчлэлттэй. Сүүлийн жилд AI Kit, Motion Studio зэрэг шинэ боломжууд үнэгүй нэмэгдсэн.",
+ "body_mn": "Motion+ нь нэг удаагийн төлбөртэй бүтээгдэхүүн бөгөөд худалдан авсан хэрэглэгчид бүх шинэчлэлтийг үнэгүй хүлээн авдаг. Motion-ийн хөгжүүлэгч энэ жилийн Black Friday-ийн хямдралаар Motion+-ийг 20%-иар хямдлаа. Компани энэ бүтээгдэхүүнийг хувийн бизнесийн загвар болгож байгаа тул урт хугацаанд үйлчлүүлэгчдэд шинэчлэлт санал болгох зорилготой гэж мэдэгдсэн.\n\nСүүлийн хугацаанд Motion+-д Cursor, Ticker, Carousel, Typewriter, Gallery зэрэг UI компонентууд нэмэгдсэн. Мөн 520 гаруй анимацийн жишээ React, Vue болон JavaScript-ийн хувьд бэлэн байдаг. Жишээ бүр хуулж авах эсвэл өөрийн төсөлд тохируулах боломжтой.\n\n2026 оны 9-р сард Motion Studio гарсан. Энэ нь таны сайт дээр dev горимд ажилладаг визуал цагийн хуваарь редактор юм. Motion+ хэрэглэгчид өөрчлөлтийг кодын агентад шууд илгээж, код дээрээ автоматаар бичүүлэх боломжтой.\n\nAI Kit нь /motion нэртэй ганц skill бөгөөд Motion-ийн MCP серверүүдтэй холбогддог. Энэ нь агентад хамгийн сүүлийн үеийн баримт бичиг, жишээ, зөвлөмжийг өгдөг. Performance Doctor анимацийн render зардлыг S-аас F хүртэлх MotionScore-ээр үнэлдэг.\n\nХөгжүүлэгчдэд энэ хямдрал нь AI агентуудтай анимаци бүтээх ажлыг хямд болгож байна. Гэхдээ хямдралын хугацаа, нөхцөлийг худалдан авахаасаа өмнө шалгах хэрэгтэй.",
+ "published": "2026-11-23T00:00:00Z",
+ "added": "2026-11-23T13:00:58Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
