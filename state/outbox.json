@@ -278,5 +278,25 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "aaf095a83539f55b",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/ai-gateway-now-supports-extraction-models",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3xEn9v4m7rKPph4Ck1TdC/6cafb3297644e4ba6df15ecd6173b814/extraction_models_og.png",
+   "title": "AI Gateway now supports extraction models",
+   "summary_en": "Extraction models are now on AI Gateway. They find specific details in the content you provide, such as an invoice number or contact names, and return them as separate fields your code can use. ScaleDown Extract-1 is the first available extraction model. It extracts text values or lists of text values from text, images, and PDFs. You can use it to process invoices, contracts, and other records. Extraction is currently available through the AI SDK only. With ai@7.0.176 or later, use experimental_extract and the model ID scaledown/extract-1 : Each key in fields has an entry in result.answers…",
+   "title_mn": "Vercel AI Gateway дээр extraction загварууд нэмэгдлээ",
+   "summary_mn": "Vercel AI Gateway нь текст, зураг болон PDF-ээс нарийвчилсан мэдээлэл гаргаж авдаг extraction загваруудыг дэмжих боллоо. Эхний загвар нь ScaleDown Extract-1 бөгөөд нэхэмжлэхийн дугаар, холбоо барих хүмүүсийн нэр зэрэг талбаруудыг буцаана. Одоогоор зөвхөн AI SDK-аар ашиглах боломжтой.",
+   "body_mn": "Vercel AI Gateway дээр шинэ төрлийн загвар нэмэгдлээ: extraction загварууд. Эдгээр загвар нь таны оруулсан агуулгаас тодорхой мэдээллийг олж, кодонд ашиглах боломжтой тусдаа талбаруудаар буцаана. Жишээ нь нэхэмжлэхийн дугаар эсвэл холбоо барих хүмүүсийн нэр.\n\nАнхны загвар бол ScaleDown Extract-1. Энэ нь текст, зураг, PDF-ээс текст утга эсвэл текст жагсаалтыг гаргаж авдаг. Нэхэмжлэх, гэрээ болон бусад бичиг баримтыг боловсруулахад тохиромжтой. Хэрэв талбар олдохгүй бол утга нь null болно. Загвар нь тохирлын итгэлцүүрийг 0-ээс 1 хүртэлх утгаар буцаадаг бөгөөд жагсаалтын элемент бүрд нь тооцдог тул эргэлзээтэй үр дүнг шалгалтад тавих боломжтой. Текст оруулсан үед тохирлын байрлалыг тэмдэгтийн офсетоор харуулж чадна.\n\nОдоогоор extraction зөвхөн AI SDK-аар боломжтой. ai@7.0.176 эсвэл түүнээс хойшхи хувилбарт experimental_extract функц болон scaledown/extract-1 загварын ID-г ашиглана. PDF эсвэл зургаас авахдаа файлыг state дотор file part хэлбэрээр дамжуулна.\n\nЭнэ хүсэлтүүд AI Gateway-ийн лог болон зардлын хяналтад харагдана. Тохируулах заавар болон нэвтрэлтийн талаар extraction quickstart баримтаас үзнэ үү.\n\nХөгжүүлэгчдэд ийм загвар нь баримт боловсруулах, мэдээлэл түүх хийх ажлыг кодоос шууд хийх боломж олгоно.",
+   "published": "2026-11-23T05:00:00Z",
+   "added": "2026-11-23T23:00:58Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
  }
 ]
