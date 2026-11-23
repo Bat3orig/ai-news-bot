@@ -1,0 +1,17 @@
+{
+ "id": "fc99ac9f01ba3757",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/gemini-4-neon-review/",
+ "image": "https://flaviocopes.com/images/gemini-4-neon-review/og.jpg",
+ "title": "Gemini 4 Neon a few days in: SimpleBench, high vs xhigh, and real coding",
+ "summary_en": "Why Gemini 4 Neon sits at #2 on SimpleBench, why xhigh rarely pays for itself over high, and what Theo found running it on real repos in T3 Code.",
+ "title_mn": "Gemini 4 Neon: SimpleBench дүн, high ба xhigh-ийн сонголт, зардлын бодит тооцоо",
+ "summary_mn": "Flavio Copes Gemini 4 Neon-ийг хэдэн өдрийн турш бодит кодын даалгавар дээр туршсан. SimpleBench, Artificial Analysis болон бусад дүнгээс харахад high түвшин ихэвчлэн xhigh-ээс илүү ашигтай, харин xhigh зардлыг 72%-иар нэмдэг байна.",
+ "body_mn": "Flavio Copes Gemini 4 Neon-ийг Opus 5.5 болон Carbon-тай хоёр жижиг кодын даалгаварт харьцуулсан. Commit message бичих болон 100k токений хайлт дээр бүх хариултыг зөв өгсөн ч урт prompt дээр 42% хэмнэсэн байна. Харин богино даалгаварт их хэмжээний reasoning токен зарцуулдаг нь ажиглагдсан.\n\nSimpleBench-ийн нийтэлсэн дүнгээр Neon 94.4% авч, Claude Fable 5.2 (94.9%)-ийн ард 2-р байранд оржээ. Хүний дундаж үзүүлэлт 83.7%. Харин SimpleBench-ийн Perf/$ хүснэгт сонирхолтой: жагсаалтын үнэ дангаараа зардлыг тодорхойлдоггүй, учир нь загварууд хариулахаас өмнө өөр өөр тооны output токен зарцуулдаг. Neon нэг асуултад 2,385 output токен ашигласан бөгөөд бодит ажиллуулалтад 7.99 долларын зардал гарсан, харин Fable 5.2 нь 5.15 доллар болсон.\n\nAdam Holter дөрвөн thinking түвшинг найман benchmark дээр харьцуулсан дүнгээс харахад low-оос medium, high руу шилжихэд оноо мэдэгдэхүйц дээшилдэг. High-оос xhigh руу шилжихэд зардал 72%-иар өсдөг боловч ихэнх даалгаварт оноо бараг өөрчлөгддөггүй. Theo мөн Neon-ийг T3 Code дотор бодит төслүүд дээр ашиглаж үзсэн.\n\nДеveloper-т гол зөвлөгөө: API-аар ажиллахдаа зөвхөн үнэ дээр бүү тулгуурла, харин нэг даалгаварт гарах бодит зардлыг хэмжих хэрэгтэй. Ихэнх ажлын хувьд high түвшинг сонгож, xhigh-г зөвхөн онцгой хүнд асуудалд туршиж үзэх нь ухаалаг байна. Google-ийн өгөгдсөн 61 оноо нь xhigh дээр хэмжигдсэн тул өдөр тутмын тохиргоотой харьцуулахдаа энэ ялгааг анхаарах хэрэгтэй.",
+ "published": "2026-11-23T09:00:00Z",
+ "added": "2026-11-23T09:30:52Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
