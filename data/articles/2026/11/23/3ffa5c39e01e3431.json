@@ -1,0 +1,17 @@
+{
+ "id": "3ffa5c39e01e3431",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+ "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w1200-h630-n-nu-rw",
+ "title": "Finding faster quantum algorithms with agents and formal verification",
+ "summary_en": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+ "title_mn": "Google DeepMind: Gemini 4 агентуудаар квант алгоритмыг сайжруулав",
+ "summary_mn": "Google DeepMind болон Google Quantum AI нь Gemini 4 агентын багуудаар квант алгоритмуудыг сайжруулж, Lean теорем батлагчаар баталгаажуулжээ. Lean номын сан болон шийдлүүдийг GitHub дээр нээлттэй болгосон.",
+ "body_mn": "Google DeepMind болон Google Quantum AI хамтран Gemini 4 агентын бие даасан багуудыг ашиглан квант алгоритмын хэлхээг оновчтой болгох судалгаа хийжээ. Энэ нь фьюжн энерги, хими, фермент загварчлалд ашиглагдах боломжтой.\n\nАгент бүрийн санал Lean теорем батлагчаар баттай баталгаажсаны дараа хуваалцсан notebook-д орсон. Агентууд дөрвөн цаг тутам виртуал хурлаар ideas солилцдог байжээ. Судлаачид Lean-д зориулсан шинэ нээлттэй квант алгоритмын номын санг бүтээсний дээр, асуудлыг тодорхойлж, чиглэлийг хянасан гэдгийг онцолжээ.\n\nХөгжүүлэгчдэд энэ нь formal verification-ийг AI агентуудтай хэрхэн хослуулж болохыг харуулсан жишээ юм. Lean номын сан, асуудлын тодорхойлолт, баталгаажсан шийдлүүд GitHub дээр нээлттэй байна. Гэхдээ нийтлэлд тодорхой хэмжээний гүйцэтгэлийн тоо баримт дурдагдаагүй болно.",
+ "published": "2026-11-23T16:59:40Z",
+ "added": "2026-11-23T17:01:09Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

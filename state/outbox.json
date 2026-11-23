@@ -58,5 +58,45 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d3630b85c37aec72",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/intent-hijacking-header-fullname-.2e16d0ba.fill-1200x600.png",
+   "title": "Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies",
+   "summary_en": "Semantic governance policies protect AI agents from indirect prompt injection and intent hijacking by validating every proposed tool call against user intent and natural language constraints before execution. As demonstrated on the AgentDojo benchmark using a Gemini 2.5 Flash agent, this mechanism reduced attack success rates from 48.7% to 0.9% while maintaining high task utility. Developers can leverage these policies in preview within the Gemini platform via Agent Gateway to secure tool-use workflows.",
+   "title_mn": "Semantic governance policies AI агентуудыг intent hijacking халдлагаас хамгаалдаг",
+   "summary_mn": "Google Developers Blog-ийн мэдээлснээр Semantic governance policies нь AgentDojo benchmark дээр халдлагын амжилтын хувийг 48.7%-аас 0.9% хүртэл бууруулсан байна. Энэ нь агентын tool call бүрийг ажиллуулахаас өмнө хэрэглэгчийн хүсэлттэй тулгаж шалгадаг.",
+   "body_mn": "AI агентууд имэйл уншиж, календарь шалгаж, мессеж илгээдэг учраас гадны эх сурвалжаас ирсэн агуулга нь халдлагын гадаргуу болдог. Жишээлбэл, хэрэглэгч банкны агентдаа \"bill-december-2023.txt\" дахь төлбөрийг төлөхийг хүсэхэд, тэр файлд нуугдсан зайлшгүй заавар нь мөнгийг халдагчийн дансруу шилжүүлэхийг шаардсан байна. Google-ийн туршилтад агент зургаан удаагийн бүх тохиолдолд мөнгө илгээжээ.\n\nSemantic governance policies нь Agent Gateway-ээр дамжих tool call бүрийг агент ажиллуулахаас өмнө LLM judge-д шалгуулдаг. Judge нь хэрэглэгчийн хүсэлт болон системийн заавруудыг итгэмжит контекст, файл, мессеж, API хариуг өгөгдөл гэж үздэг. Тиймээс энэ систем тодорхой халдлагын хэв маягийг таних шаардлагагүй, харин \"хэрэглэгч үүнийг хүссэн үү?\" гэсэн энгийн асуултад хариулдаг.\n\nЭнэ хамгаалалт нь user intent matching хэлбэрээр анхнаасаа идэвхтэй байдаг. Ямар ч нэмэлт policy тохируулаагүй үед ч гэсэн халдлагын амжилтыг ихээр бууруулж, харин хэвийн даалгаврын utility-д 2.6 пунктийн уналт гарсан гэж тайлагнасан байна.\n\nAgentDojo бол ETH Zurich болон Invariant Labs-ийн хөгжүүлсэн, NeurIPS 2024-т танилцуулсан нийтийн benchmark бөгөөд NIST-ийн CAISI-ийн үнэлгээнд ашиглагддаг. Агент банк, Slack, аялал, workspace зэрэг симуляци дээр ажилладаг. Хөгжүүлэгчдэд энэ нь агентын tool-ууд дээр policy layer нэмэх практик арга зам болно.",
+   "published": "2026-11-23T17:01:09Z",
+   "added": "2026-11-23T17:01:09Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3ffa5c39e01e3431",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w1200-h630-n-nu-rw",
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "summary_en": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+   "title_mn": "Google DeepMind: Gemini 4 агентуудаар квант алгоритмыг сайжруулав",
+   "summary_mn": "Google DeepMind болон Google Quantum AI нь Gemini 4 агентын багуудаар квант алгоритмуудыг сайжруулж, Lean теорем батлагчаар баталгаажуулжээ. Lean номын сан болон шийдлүүдийг GitHub дээр нээлттэй болгосон.",
+   "body_mn": "Google DeepMind болон Google Quantum AI хамтран Gemini 4 агентын бие даасан багуудыг ашиглан квант алгоритмын хэлхээг оновчтой болгох судалгаа хийжээ. Энэ нь фьюжн энерги, хими, фермент загварчлалд ашиглагдах боломжтой.\n\nАгент бүрийн санал Lean теорем батлагчаар баттай баталгаажсаны дараа хуваалцсан notebook-д орсон. Агентууд дөрвөн цаг тутам виртуал хурлаар ideas солилцдог байжээ. Судлаачид Lean-д зориулсан шинэ нээлттэй квант алгоритмын номын санг бүтээсний дээр, асуудлыг тодорхойлж, чиглэлийг хянасан гэдгийг онцолжээ.\n\nХөгжүүлэгчдэд энэ нь formal verification-ийг AI агентуудтай хэрхэн хослуулж болохыг харуулсан жишээ юм. Lean номын сан, асуудлын тодорхойлолт, баталгаажсан шийдлүүд GitHub дээр нээлттэй байна. Гэхдээ нийтлэлд тодорхой хэмжээний гүйцэтгэлийн тоо баримт дурдагдаагүй болно.",
+   "published": "2026-11-23T16:59:40Z",
+   "added": "2026-11-23T17:01:09Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
  }
 ]
