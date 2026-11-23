@@ -1,0 +1,17 @@
+{
+ "id": "143651d984cecb2e",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Geeky Gadgets",
+ "url": "https://www.geeky-gadgets.com/claude-code-4/",
+ "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/anthropic-claude-code-testing.jpg",
+ "title": "Anthropic Engineer Explains How to Verify Claude Code Builds",
+ "summary_en": "Anthropic Claude Code improves output quality by up to 3x when paired with robust verification loops. End-to-end testing catches UI defects before merges.",
+ "title_mn": "Anthropic инженер Claude Code-ын код хэрхэн баталгаажуулдаг вэ: verification loop арга",
+ "summary_mn": "Anthropic Claude Code-оор бичсэн кодыг баталгаажуулах verification loop арга барилаа тайлбарлав. Builder, review agent болон verifier-ийг давтан ажиллуулж, end-to-end шалгалтаар өөрчлөлтийг нэгтгэхээс өмнө шалгадаг. Энэ арга нь олон агентыг зэрэг ажиллуулах боломжийг нээдэг.",
+ "body_mn": "Anthropic-ийн инженер Claude Code-оор бичсэн кодыг хэрхэн шалгадаг талаар мэдээлсэн байна. Компани хоёр долоо хоногийн турш Claude-ийг staging орчинд тасралтгүй ажиллуулж, ачаалалтай туршилт хийж, олдсон алдааг засуулсан гэжээ. Үүний нэг хэсэг нь verification loop бөгөөд энэ нь builder агентын ажлыг review агент болон verifier-т дамжуулж, өөрчлөлт зорилгодоо нийцэж буйг шалгадаг.\n\nNeeded loop-д builder нь review агент болон verifier-ээр дамжин дээд тал нь гурван удаа давтагдана. Claude Code-ийг бүтээгч Boris Cherny эхний тооцоогоор, Claude өөрийн ажлыг шалгах боломжтой бол эцсийн үр дүн хоёр-гурав дахин сайжирч болно гэж хэлсэн. Шалгалт нь зөвхөн код алдаагүй ажиллаж байгааг бус, өөрчлөлтийн зорилтод нийцэж буйг мөн шалгах ёстой.\n\nAnthropic-ийн зөвлөмжид хэрэв нэг л төрлийн тест хийх бол end-to-end байх ёстой гэжээ. Агент энгийн unit тест эсвэл endpoint дуудлагыг сонгож, бүтэн урсгалыг туршихгүйгээр өөрчлөлтийг баталгаажсан гэж тайлагнаж болдог. Тиймээс setup, driving, checker гэсэн гурван үе шаттай verification skill ашиглаж болно. Мөн sandbox template-д хэрэгтэй програм болон хамаарлуудыг урьдчилан бэлдсэнээр агент орчныг эхнээс нь угсрах шаардлагагүй.\n\nЭнэ арга нь хөгжүүлэгчдэд AI-аар код бичихэд давхар хяналт бүрдүүлэх практик хэрэгсэл болно. Гэхдээ баталгаажуулах агент өөрөө ч алдаа гаргаж болох тул verifier-ийг бас шалгах хэрэгтэй гэж зөвлөж байна.",
+ "published": "2026-11-23T12:57:09Z",
+ "added": "2026-11-23T13:30:51Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
