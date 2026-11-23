@@ -118,5 +118,25 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5a96b69c105a774b",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7rTYk87PVckLTev2puQRn7/2054bccc806e46e84f3b080529ffc1e3/image__22_.png",
+   "title": "Vercel Drives adds CLI commands and standalone SDKs",
+   "summary_en": "You can now create, list, fork, and delete Vercel Drives with the new vercel drives commands or standalone SDKs for TypeScript ( @vercel/drives ) and Python ( vercel-drives ). Drives also have a REST API at /v1/drives and Drive-specific permissions, so managing them no longer requires Sandbox APIs or permissions. With the latest Vercel CLI, link your project with vercel link if needed, then run: Install the TypeScript SDK with npm install @vercel/drives , or the Python SDK with pip install vercel-drives , then run: Drives still mount into Vercel Sandboxes as before, and existing Sandbox CLI…",
+   "title_mn": "Vercel Drives нь CLI командууд болон тусдаа SDK-үүдтэй боллоо",
+   "summary_mn": "Vercel Drives-ийг одоо vercel drives CLI командаар, мөн TypeScript (@vercel/drives) болон Python (vercel-drives) SDK-аар үүсгэх, жагсаах, fork хийх, устгах боломжтой боллоо. Мөн /v1/drives REST API болон Drive-д зориулсан тусгай эрхийн тохиргоо нэмэгдлээ.",
+   "body_mn": "Vercel Drives-ийг удирдахын тулд одоо тусгай vercel drives командууд гарлаа. Мөн TypeScript-д зориулсан @vercel/drives болон Python-д зориулсан vercel-drives SDK-ууд нэмэгдсэн тул хөгжүүлэгчид шууд кодоосоо Drives-тай ажиллах боломжтой боллоо.\n\nӨмнө Drives-ийг удирдахад Sandbox API болон Sandbox-ийн эрх шаардлагатай байсан. Одоо Drives-д зориулсан REST API (/v1/drives) болон өөрийн эрхийн тохиргоо бий тул Sandbox-оос тусад нь удирддаг боллоо. Drives нь өмнөх шигээ Vercel Sandbox-д холбогдож ажиллана, харин одоогийн Sandbox CLI команд болон SDK код мөн хэвээр ажиллана.\n\nМөн Drives-д Vercel dashboard болон Observability-д тусгай хуудас нэмэгдсэн. Drives нь Hobby, Pro болон Enterprise төлөвлөгөөнд боломжтой. Дэлгэрэнгүйг Drives-ийн баримт бичгээс харж болно.\n\nХөгжүүлэгчдэд энэ нь Drives-ийг CI болон агент ажлын урсгалдаа шууд оруулах боломжийг олгоно.",
+   "published": "2026-11-23T05:00:00Z",
+   "added": "2026-11-23T19:01:03Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
  }
 ]
