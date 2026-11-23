@@ -1,0 +1,17 @@
+{
+ "id": "228c16bb64e5bec4",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Geeky Gadgets",
+ "url": "https://www.geeky-gadgets.com/anthropic-claude-token-limit/",
+ "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/anthropic-claude-token-limit.jpg",
+ "title": "Anthropic Engineer Shares How to Avoid Hitting Claude Code Token Limits",
+ "summary_en": "Stop hitting the Anthropic Claude token limit by using clean session contexts. Switching to Claude Haiku mid-session rebuilds the entire cache.",
+ "title_mn": "Claude Code-ийн токен хязгаарлалтыг хэрхэн хэмнэх вэ?",
+ "summary_mn": "Anthropic-ийн инженерүүдийн зөвлөгөөгээр Claude Code дээр шаардлагагүй зааварчилгаа ачаалахгүй байх нь токен хэмнэхэд тусална. Промпт кэшлэх (prompt caching) болон сессийн зөв менежмент нь хэрэглээний лимитийг илүү үр дүнтэй ашиглахад чухал үүрэгтэй.",
+ "body_mn": "Anthropic компанийн Claude Code хэрэгсэл дээрх токен зарцуулалтыг бууруулах аргуудын талаар инженерүүд мэдээллээ. Зарим загварын системийн промптын 80 хувийг туршилтын үр дүнд сөргөөр нөлөөлөхгүйгээр хассан нь шаардлагагүй зааварчилгааг урьдчилан ачаалахгүй байх нь ямар чухлыг харуулж байна.\n\nПромпт кэшлэх технологи нь өмнө боловсруулсан оролтыг дахин ашиглах боломжийг олгож, зардлыг мэдэгдэхүйц бууруулдаг. Хэрэв сессийн эхлэл буюу тохиргоо, хэрэгслүүд өөрчлөгдвөл кэш алдагдаж, Claude материал дахин боловсруулахад хүрдэг тул кэшийг халуун байлгах нь чухал юм.\n\nХөгжүүлэгчид сессийн эхэнд модель болон шаардлагатай хэрэгслүүдээ зөв сонгож, урт удаан хугацаагаар нэг сессийг хэт олон сэдвээр холихгүй байх хэрэгтэй. Жижиг ажлуудад туслах агент ашиглах нь үндсэн сессийн кэшийг хадгалахад тусалдаг байна.",
+ "published": "2026-11-23T07:17:07Z",
+ "added": "2026-11-23T09:01:06Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

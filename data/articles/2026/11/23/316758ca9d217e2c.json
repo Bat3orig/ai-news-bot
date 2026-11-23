@@ -1,0 +1,17 @@
+{
+ "id": "316758ca9d217e2c",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/claude-code-guide/",
+ "image": "https://flaviocopes.com/images/claude-code-guide/og.jpg",
+ "title": "The complete guide to Claude Code",
+ "summary_en": "Install Claude Code, pick models and effort, write a CLAUDE.md, run worktrees and background agents, and see my real skills, hooks, plugins and MCP setup.",
+ "title_mn": "Claude Code-ийн дэлгэрэнгүй гарын авлага: Терминалаас Desktop хүртэл",
+ "summary_mn": "Anthropic-ийн Claude Code хэрэгслийг суулгах, тохируулах болон төсөлдөө ашиглах бүрэн гарын авлагыг танилцууллаа. Энэхүү хэрэгсэл нь файл унших, засварлах, тестийг автоматаар шалгах боломжийг олгодог.",
+ "body_mn": "Claude Code нь кодыг унших, өөрчлөх, тестийг ажиллуулах болон алдааг өөрөө засварлах чадвартай Anthropic-ийн хиймэл оюунт код бичих агент юм. Терминал, Claude desktop апп, хөтөч эсвэл утаснаасаа шууд төслийн фолдер дээрээ ажиллах боломжтой байдаг.\n\nСуулгах болон эхлэх явцад claude doctor командын тусламжтайгаар орчноо шалгах боломжтой бөгөөд зөвхөн итгэлтэй фолдерууд дээр ажиллуулах шаардлагатай. Жишээлбэл, бага эрчимтэй горим дээр шинэ модуль бичүүлж, Node-ийн тест runner ашиглан шалгуулахад хэдхэн хором зарцуулдаг байна.\n\nClaude Code нь хөгжүүлэгчийн бичсэн кодыг шалгаж, тест амжилттай болсон эсэхийг баталгаажуулдаг боловч үр дүнг хөгжүүлэгч өөрөө сайтар хянаж шалгах нь чухал юм. Мөн CLI хувилбар дээр шинэ боломжууд хамгийн түрүүнд нэвтэрдэг тул терминалаар ажиллахад илүү тохиромжтой.",
+ "published": "2026-11-23T08:25:00Z",
+ "added": "2026-11-23T09:01:06Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
