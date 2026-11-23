@@ -1,0 +1,17 @@
+{
+ "id": "0b0f82d5ced07f4e",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Crypto Briefing",
+ "url": "https://cryptobriefing.com/venturebeat-claude-bug-fix-cost-test/",
+ "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/23162709/library-venturebeat-bug-fix-test-finds-anthropic-s-top-claude-mo-800x450.jpg",
+ "title": "VentureBeat bug-fix test finds Anthropic’s top Claude model costs triple for similar results",
+ "summary_en": "VentureBeat's bug-fix pilot found Claude Fable 5.2 cost about three times more than Opus 5.5 for nearly identical results. Here's why.",
+ "title_mn": "VentureBeat: Claude Fable 5.2 ба Opus 5.5 хоёрын алдаа засварлах туршилтын үнийн зөрүү гурав дахин байв",
+ "summary_mn": "VentureBeat-ийн туршилтод Claude Fable 5.2 15 алдаанаас 10-ыг засаж, нийт зардал нь ойролцоогоор $89 болжээ. Opus 5.5 9 алдааг $29-д засаж, хоёр загварын ажлын үр дүн бараг ижил байв.",
+ "body_mn": "VentureBeat сэтгүүл Anthropic-ийн хоёр загварыг жижиг туршилтаар харьцуулжээ. Туршилтад Claude Fable 5.2 бодит 15 алдаанаас 10-ыг засаж, нийт зардал ойролцоогоор $89 болсон байна. Харин Opus 5.5 ижил 15 даалгаврын 9-ийг засаж, ойролцоогоор $29 зарцуулжээ.\n\nСэтгүүлийнхний дүгнэлтээр хоёр загварын ажлын үр дүнд гарсан зөрүү хэт бага буюу статистикийн хувьд найдвартай гэж хэлэх аргагүй. Харин зардлын зөрүү маш том байна. Ижил хэмжээний ажлыг гурав дахин их мөнгөөр хийсэн гэсэн үг.\n\nЭнэ нь хөгжүүлэгчдэд чухал дохио. AI кодын агент олон удаа ажилладаг тул загвар сонгох нь зардалд шууд нөлөөлнө. Туршилтын өгөгдлөөр шилдэг загвар үргэлж хамгийн үр ашигтай байдаггүй тул жижиг даалгавраар өөрийн ажлын урсгалыг шалгаж үзэхийг зөвлөж байна.",
+ "published": "2026-11-23T21:27:15Z",
+ "added": "2026-11-23T22:00:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

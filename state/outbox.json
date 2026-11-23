@@ -218,5 +218,45 @@
    "ai": "",
    "score": null
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0b0f82d5ced07f4e",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/venturebeat-claude-bug-fix-cost-test/",
+   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/23162709/library-venturebeat-bug-fix-test-finds-anthropic-s-top-claude-mo-800x450.jpg",
+   "title": "VentureBeat bug-fix test finds Anthropic’s top Claude model costs triple for similar results",
+   "summary_en": "VentureBeat's bug-fix pilot found Claude Fable 5.2 cost about three times more than Opus 5.5 for nearly identical results. Here's why.",
+   "title_mn": "VentureBeat: Claude Fable 5.2 ба Opus 5.5 хоёрын алдаа засварлах туршилтын үнийн зөрүү гурав дахин байв",
+   "summary_mn": "VentureBeat-ийн туршилтод Claude Fable 5.2 15 алдаанаас 10-ыг засаж, нийт зардал нь ойролцоогоор $89 болжээ. Opus 5.5 9 алдааг $29-д засаж, хоёр загварын ажлын үр дүн бараг ижил байв.",
+   "body_mn": "VentureBeat сэтгүүл Anthropic-ийн хоёр загварыг жижиг туршилтаар харьцуулжээ. Туршилтад Claude Fable 5.2 бодит 15 алдаанаас 10-ыг засаж, нийт зардал ойролцоогоор $89 болсон байна. Харин Opus 5.5 ижил 15 даалгаврын 9-ийг засаж, ойролцоогоор $29 зарцуулжээ.\n\nСэтгүүлийнхний дүгнэлтээр хоёр загварын ажлын үр дүнд гарсан зөрүү хэт бага буюу статистикийн хувьд найдвартай гэж хэлэх аргагүй. Харин зардлын зөрүү маш том байна. Ижил хэмжээний ажлыг гурав дахин их мөнгөөр хийсэн гэсэн үг.\n\nЭнэ нь хөгжүүлэгчдэд чухал дохио. AI кодын агент олон удаа ажилладаг тул загвар сонгох нь зардалд шууд нөлөөлнө. Туршилтын өгөгдлөөр шилдэг загвар үргэлж хамгийн үр ашигтай байдаггүй тул жижиг даалгавраар өөрийн ажлын урсгалыг шалгаж үзэхийг зөвлөж байна.",
+   "published": "2026-11-23T21:27:15Z",
+   "added": "2026-11-23T22:00:55Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "47d9cbf31f8b0336",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
+   "image": "https://opengraph.githubassets.com/024b07707ad2eebad60c40b7aa2fa7d9bae5b770f3d2f6f73ce77b08ec266bd2/anthropics/claude-code/releases/tag/v2.1.331",
+   "title": "claude-code v2.1.331",
+   "summary_en": "What's changed Added Code Mode support in terminal sessions on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude Platform on AWS Added oidc.groups_jsonpath to the Claude apps gateway, to read groups from the matching entries of a list of objects with a small subset of JSONPath (RFC 9535) Added an API connectivity section to claude doctor that reports whether the API can be reached, with the HTTP status or the error, or says why it wasn't tested Added a notice when tap-mode voice dictation stops by itself, after 15 seconds without recognized speech or at its 2-minute…",
+   "title_mn": "Claude Code v2.1.331: Bedrock дээрх Code Mode, шинэ оношлогоо болон олон засвар",
+   "summary_mn": "Claude Code v2.1.331 хувилбарт Code Mode-ийг Amazon Bedrock болон бусад платформд нэмж, claude doctor-д API холболтын шалгалт нэмжээ. Мөн MCP дуудлагын гацалт болон /diff-ийн алдааг засжээ.",
+   "body_mn": "Claude Code-ийн шинэ v2.1.331 хувилбар гарлаа. Шинэчлэлтэд Code Mode-ийг terminal сешнд Amazon Bedrock, Google Cloud Agent Platform, Microsoft Foundry болон Claude Platform on AWS дээр дэмжих боломж нэмэгджээ.\n\nХөгжүүлэгчдэд ашигтай шинэ функцүүд олон бий. claude doctor нь API-д хүрэх эсэх болон HTTP статусыг харуулдаг болсон. Мөн claude_code.llm_request trace span-д gen_ai.usage болон бусад хэмжүүрүүд нэмэгдсэн. CLAUDE_CODE_DISABLE_RESPONSE_COMPRESSION орчны хувьсагчаар прокси дээр хариултыг шахалтгүйгээр авах боломжтой.\n\nАлдааны засварт MCP хэрэгслийн дуудлага зарим тохиолдолд 30 минут хүртэл гацдаг асуудал, Stop hook-ийн сүүлчийн хариултыг Claude Desktop дээр алгасдаг асуудал засагдсан. Cloud сешнд хариулт зогсох үед дахин оролдох логик нэмэгдсэн. Хэрэв та Claude Code-ийг ашигладаг бол шинэчлэх нь зүйтэй.",
+   "published": "2026-11-23T21:34:41Z",
+   "added": "2026-11-23T22:00:55Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
  }
 ]
