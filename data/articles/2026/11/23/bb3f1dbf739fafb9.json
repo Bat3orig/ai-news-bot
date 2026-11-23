@@ -1,0 +1,17 @@
+{
+ "id": "bb3f1dbf739fafb9",
+ "subtopic": "vibe-coding",
+ "source": "Builder.io Blog",
+ "source_label": "Builder.io Blog",
+ "url": "https://www.builder.io/blog/agent-native-hackathon-winners",
+ "image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/d2221062791e440eb5745f5a3da7cb94?width=1200",
+ "title": "Meet the Agent-Native hackathon winners",
+ "summary_en": "The Agent-Native hackathon winners, from bookkeeping in five Nigerian languages to chess by voice in Hindi, plus more apps we loved.",
+ "title_mn": "Builder.io-ийн Agent-Native хакатоны ялагчид: AI агент ба UI нэг кодтой апп бүтээх жишээ",
+ "summary_mn": "Builder.io 221 оролцогчтой Agent-Native хакатоныг зохион байгуулж, таван шагналт ялагчдыг зарлав. Нэгдүгээр байранд Muscle Memory апп шалгарсан бөгөөд энэ нь хэрэглэгчийн үйлдлийг AI-гүй рецепт болгон хувиргадаг.",
+ "body_mn": "Builder.io 10 сарын 27-оос 11 сарын 9-ний хооронд зохион байгуулсан Agent-Native хакатоны ялагчдыг 11 сарын 13-нд зарлав. Нийт 221 оролцогч, 10,000 доллар шагналын сан байсан бөгөөд тав шагналт, дөрвөн ангиллын шагналт апп шалгарчээ. Agent-Native нь UI болон AI агент нэг кодыг хуваалцдаг Builder-ийн нээлттэй эхийн TypeScript framework юм.\n\nGrand prize хүртсэн Muscle Memory апп хэрэглэгчийн үйлдлийг бүртгээд дахин ашиглах рецепт болгодог. Мэдээний дагуу тухайн рецептийн аргумент бүрийг эх сурвалжтай нь холбож, тодорхойгүй байвал асууна. Жишээ демод AI загвар ашиглахад ойролцоогоор 101,000 токен, 7 секунд зарцуулагдсан бол рецептээр ижил ажиллагаа 0 токен, 20 миллисекундэд хийгдсэн гэж тайлагнасан байна.\n\nЭнэ нь AI агентыг практик байдлаар хэрхэн бууруулж болохыг харуулсан жишээ юм. Рецептийг skill эсвэл MCP tool болгон deploy хийлгүйгээр нийтлэх боломжтой гэж демод Claude Code-оор харуулсан байна. Хөгжүүлэгчид Agent-Native-ийн эх кодыг үзэж, өөрсдийн апп дээр туршиж болно.",
+ "published": "2026-11-23T19:00:00Z",
+ "added": "2026-11-23T18:30:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
