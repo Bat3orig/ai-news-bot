@@ -1,0 +1,17 @@
+{
+ "id": "155c92aff90ad9be",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-brings-server-supplied-skills-and-background-tasks-to-claude/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-brings-server-supplied-skills-and-background-tasks-to-claude.jpg",
+ "title": "Anthropic Brings Server-Supplied Skills and Background Tasks to Claude",
+ "summary_en": "Anthropic announced on November 24, 2026 that Skills over MCP is in public beta in Claude and Claude Code, while Tasks and Elicitation are generally available and File Uploads will roll out soon. The additions let connec...",
+ "title_mn": "Anthropic Claude-д MCP серверээс ирэх skills, background tasks, elicitation функцүүд нэмэгдлээ",
+ "summary_mn": "Anthropic 11-р сарын 24-нд MCP-ээр дамжих Skills-ийг Claude болон Claude Code-д public beta-аар нэвтрүүлж, Tasks болон Elicitation-ийг ерөнхийдөө боломжтой болгосон. Ингэснээр MCP сервер ажлын зааварчилгаа өгөх, удаан ажлыг арын горимд ажиллуулах, хэрэглэгчээс оролт асуух боломжтой боллоо.",
+ "body_mn": "Anthropic нь нээлттэй Model Context Protocol (MCP) дээр суурилсан гурван шинэ боломжийг зарлав. Skills over MCP нь public beta-д орсон бөгөөд Claude болон Claude Code дээр ажиллана. Tasks болон Elicitation нь ерөнхийдөө боломжтой боллоо. File Uploads удахгүй нэвтрэх бөгөөд сервертэй файл солилцох боломж олгоно. Anthropic 700 сая сарын MCP SDK татаж авалт болон 10,000-аас дээш MCP коннектор байгаа гэж мэдээлсэн.\n\nSkills нь SKILL.md файл болон нэмэлт файлуудаас бүрдэх директорыг тодорхойлдог. Claude шаардлагатай үед л үүнийг татаж авна. Хөгжүүлэгчид файлын хэмжээ болон SHA-256 hash-ыг шалгах, өөрчлөгдсөн файлд шинээр зөвшөөрөл авах шаардлагатай. Beta нь Pro, Max, Ultra төлөвлөгөөд өгөгдмөл байдлаар идэвхтэй, Team-д админ идэвхжүүлснээр боломжтой, Enterprise-д удахгүй гарна.\n\nTasks нь удаан үргэлжлэх ажлыг сервер дээр арын горимд ажиллуулж, хэрэглэгч бусад ажлаа үргэлжлүүлэх боломжийг олгоно. Сервер бүтэлгүйтэх эсвэл дахин эхлэхэд task ID-аар үргэлжлүүлэх боломжтой. Elicitation нь ажиллахаас өмнө хэрэглэгчээс маягт эсвэл холбоосоор оролт авах боломжийг олгоно. Спецификацид нууц үг, API түлхүүр, токен, төлбөрийн мэдээлэл гуйхыг хориглосон байна.\n\nХөгжүүлэгчдэд MCP сервер бүрийг илүү баялаг, найдвартай болгох шинэ хэрэгсэл гарсан гэсэн үг юм. Гэхдээ клиент болон host талын дэмжлэг бүрэн хэрэгжээгүй байгаа тул хэрэгжүүлэхийн өмнө хамгийн сүүлийн баримт бичгийг шалгах нь зүйтэй.",
+ "published": "2026-11-24T18:15:04Z",
+ "added": "2026-11-24T18:30:53Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
