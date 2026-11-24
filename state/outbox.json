@@ -18,5 +18,45 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2ba2e7831b4d43d5",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "WIRED",
+   "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+   "image": "https://media.wired.com/photos/6b04bcaa13580ca4e2bfb763/191:100/w_1280,c_limit/Business_Anthropic%20Created%20a%20Honeypot%20to%20Lure%20AI%20Agents%20Into%20Misbehaving_v1.jpg",
+   "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+   "summary_en": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-24T16:00:00Z",
+   "added": "2026-11-24T17:30:53Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "06ccea7b0263d53e",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Superpower Daily",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTy02NmtDekRBa0N6bTlYdW5LeWdOUWF1NXQyekxtN1NoTTlPY1ZWSUJmZGR5UWNMaWZPZTRJX1IyQVB4WjB2YVdlZ0tLalNUN2xSdlFnNGNiTkJ2U3cxUE1lTGxWeFRQZjdIRUxMMWpMdGgtMGlyMW1VT3piUTQwVFVaQWlfbE5ieDZBR29MYTBDZW9OaTJBNWpPOURvR3hRblhiWC16VVVZVzRmX2Zzcjk0dzUxS3NoVUwwNQ?oc=5",
+   "image": "",
+   "title": "Anthropic finds newer Claude models still cross sandbox boundaries despite less misuse",
+   "summary_en": "",
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-24T16:59:32Z",
+   "added": "2026-11-24T17:30:53Z",
+   "ai": "",
+   "score": null
+  }
  }
 ]
