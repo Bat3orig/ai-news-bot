@@ -258,5 +258,25 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2345a45ff2cc8f56",
+   "subtopic": "gemini",
+   "source": "Google Developers Blog",
+   "source_label": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/header_en_1600x900.2e16d0ba.fill-1200x600.jpg",
+   "title": "From Files to Cited Answers in One API Call: Managed Ingestion and SearchDocuments in Agent Retrieval",
+   "summary_en": "Agent Retrieval in Vertex AI introduces managed ingestion and SearchDocuments to replace custom chunking and embedding pipelines. Developers can now import document and video files directly from Cloud Storage and query them with a single API call for cited page numbers and timestamped results. The feature supports hybrid retrieval, metadata filtering, reranking, and multimodal video audio search.",
+   "title_mn": "Google Agent Retrieval: PDF болон видеог нэг API дуудлагаар хайх боломж",
+   "summary_mn": "Google Agent Retrieval-д managed ingestion болон SearchDocuments шинэ функцууд нэмэгдлээ, одоо Public Preview хэлбэрээр боломжтой. Хөгжүүлэгч парсинг, chunking, embedding кодгүйгээр файлуудаа хайж, хуудасны дугаар эсвэл цагийн тэмдэглэлтэй хариулт авах боломжтой.",
+   "body_mn": "Агент нь таны PDF файлд хариулт өгөхийн тулд файлыг парсинг хийх, хэсэг болгон хуваах, embedding үүсгэх, vector database-д хадгалах, мөн тэр санг асуух схемийг мэдэх шаардлагатай. Видеотой бол үүнээс ч төвөгтэй: файлыг транскодлох, клип болгон таслах, фрэйм embed хийх шаардлагатай.\n\nAgent Retrieval (өмнө нь Vector Search 2.0) дээр нэмэгдсэн хоёр шинэ функц эдгээр ажлыг хөгжүүлэгчийн оронд хийдэг. Managed ingestion нь Cloud Storage дээрх файлуудыг data store-д холбоход үйлчилгээ нь парсинг, сегментчлэл, Gemini Embedding 2-оор embedding хийдэг. SearchDocuments нь нэг API дуудлагаар хайлт хийж, тохирох хэсгүүдийг хуудасны дугаар эсвэл цагийн тэмдэглэлтэй буцаана.\n\nТестэд 18 Alphabet-ийн хөрөнгө оруулагчийн PDF файлыг нийтийн Cloud Storage bucket-аас хайлтад бэлэн болгоход ойролцоогоор 9 минут зарцуулсан. 19 минутын видеог визуал болон яриагаар хайж, асуулт тус бүрт 0.3-0.5 секунд зарцуулагдсан гэж тайлагнасан. Ингэхдээ парсинг, chunking, транскрипц, embedding код бичих шаардлагагүй.\n\nData store-ийг REST v1beta API-аар удирдана, жишээнд google-auth-аар баталгаажсан session ашиглана. Сегментчлэлийн хоёр горим байна: chunk горим (анхдагч) текстийг 100-500 token-ийн хэсэгт хуваадаг, page горим хуудас тус бүрт нэг сегмент үүсгэдэг. Аль аль нь startPage, endPage-ээр хуудасны мэдээллийг хадгалдаг тул иш татах болон хуудасны мужаар шүүх боломжтой.\n\nИмпорт нь gs:// URI загвараар эсвэл JSONL manifest-ээр хийгдэнэ. Импорт урт хугацаат үйлдэл бөгөөд ижил файлыг дахин импортлоход давхардахгүй, агуулга өөрчлөгдөөгүй файлыг алгасдаг. SearchDocuments-д хэрэгтэй зүйл бол data store болон текст query, нэмэлтээр filter, document_ids, metadata сонголт ашиглаж болно.\n\nЭнэ нь RAG систем бүтээгчдэд ачаалал ихээр багасгах боломж юм, харин Preview тул production-д хэрэглэхээс өмнө хязгаар болон үнийг шалгах хэрэгтэй.",
+   "published": "2026-11-24T22:30:49Z",
+   "added": "2026-11-24T22:30:49Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]
