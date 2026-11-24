@@ -1,0 +1,17 @@
+{
+ "id": "b65f3a2b92d148b0",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/google-colab/",
+ "image": "https://flaviocopes.com/images/google-colab/og.jpg",
+ "title": "What you can actually do with Google Colab",
+ "summary_en": "What Google Colab gives you with Google AI Ultra, live-measured GPU burn rates, and real ways developers, experimenters, and prosumers can use it.",
+ "title_mn": "Google Colab-ийг терминал, VS Code болон MCP-ээр GPU дээр ажиллуулах арга",
+ "summary_mn": "Google шинэ google-colab-cli, VS Code өргөтгөл болон colab-mcp серверээр Colab-ийн GPU-г кодын агент болон терминалаас шууд ашиглах боломжтой болгожээ. Flavio Copes үнэ, compute unit-ийн хэмжилтүүдийг нийтлэв.",
+ "body_mn": "Flavio Copes Google Colab-ийг зөвхөн браузерийн notebook гэж үзэх нь хуучирсан гэж үзэж байна. Google одоо албан ёсны google-colab-cli, VS Code өргөтгөл, colab-mcp MCP сервер болон Antigravity дээрх Colab skill-ийг санал болгож байна. Эдгээрийн тусламжтайгаар терминалаас Linux VM, NVIDIA GPU-г асааж, скрипт ажиллуулж, үр дүнг татаж аваад машиныг унтраах боломжтой.\n\nColab-ийн төлбөр нь цагийн доллараар биш, compute unit (CU)-ээр тооцогдоно. Google AI Ultra төлөвлөгөөнд сард 2000 CU багтаж, ашиглаагүй units нь 90 хоног хадгалагдана. Зохиогчийн хэмжилтээр L4 нь 1.94 CU/цаг буюу T4-ээс бага зэрэг өндөр боловч илүү их RAM болон 24 GB VRAM өгдөг. G4 (96 GB VRAM) нь 10.05 CU/цаг байна.\n\nA100, H100 болон TPU v5e1 нь 30 секундээс давж хүлээлгэтэй байсан бөгөөд L4 ч дараа нь хүлээлттэй болсон. Иймээс багтаамжаас хамаарч найдвартай ажиллахын тулд нөөц төлөвлөх хэрэгтэй.\n\nVS Code дээр Colab өргөтгөлөөр локал .ipynb файлаа Git repo-доо байлгаж, хүнд cell-үүдийг үүлэн дээр ажиллуулж болно. Энэ нь кодын агентуудтай GPU ажлыг хослуулах шилдэг арга юм.",
+ "published": "2026-11-24T07:15:00Z",
+ "added": "2026-11-24T08:00:58Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "11964596f539f13d",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/cloudflare/",
+ "image": "https://flaviocopes.com/images/cloudflare/og.jpg",
+ "title": "Production-Ready on Cloudflare: the complete guide",
+ "summary_en": "The complete free handbook to shipping and operating production apps on Cloudflare: Workers, Static Assets, Wrangler 4, Local Explorer, D1, KV, R2, Queues, Durable Objects, Turnstile, Email Service, observability, gradual deploys, and rollbacks.",
+ "title_mn": "Cloudflare дээр production-д бэлэн апп хэрхэн ажиллуулах вэ: бүрэн гарын авлага",
+ "summary_mn": "Flavio Copes AI кодын агентуудаар үүсгэсэн вэб аппыг Cloudflare дээр жинхэнэ хэрэглэгчтэй ажиллуулах дадлагын гарын авлага нийтлэв. DNS, TLS, Workers болон Static Assets-ийн тохиргоог багтаасан.",
+ "body_mn": "Flavio Copes Cloudflare дээрх production-ийн бүрэн гарын авлагаа нийтэлжээ. Түүний хэлснээр AI кодын агентууд ажилтай вэб аппыг хурдан бүтээж чаддаг боловч гол асуудал нь хэрэглэгч, bot, буруу migration болон ачааллын үед аппыг ажиллуулах явдал юм. Гарын авлага нь Wrangler 4.167 дээр ажиллуулсан Worker аппаас авсан жинхэнэ команд, трейс болон хэмжилтүүдэд тулгуурлана.\n\nCloudflare нь CDN-ээс эхэлсэн тул хэрэглэгчийн хүсэлт ойр байрлах дата төвд очдог. TLS-ийг edge дээр зогсоож, статик файлуудыг шууд үйлчилдэг. curl -I командаар cf-ray толгойн төгсгөлийг шалгаж аль дата төв хариулсныг харж болно.\n\nWorkers нь workerd нээлттэй эх V8 isolate орчинд ажилладаг. Тиймээс виртуал машин эсвэл байнгын Node.js серверийн процесс байхгүй бөгөөд энэ ялгаа нь AI агентуудын хамгийн түгээмэл алдааны эх сурвалж болдог гэж зохиогч тэмдэглэжээ. Нэмж, тодорхой хэрэгцээ гарахад л илүү хүнд үйлчилгээ рүү шилжих хэрэгтэй гэж зөвлөсөн байна.\n\nШинэ full-stack төслүүдийн хувьд Cloudflare-ийн санал болгож буй Workers with Static Assets загварыг ашиглахыг зохиогч дэмжиж байна. Frontend болон API нэг repository, нэг wrangler тохиргоо, нэг deploy дамжуулалтад багтана.\n\nХөгжүүлэгчдэд энэ нь AI-аар бичсэн кодыг production-д оруулахаас өмнө DNS болон TLS тохиргоог эхэнд нь шалгах, Workers болон Static Assets-ийн хүрээг ойлгох практик хэрэгцээтэй гарын авлага юм.",
+ "published": "2026-11-24T07:00:00Z",
+ "added": "2026-11-24T08:00:58Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
