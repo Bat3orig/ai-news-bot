@@ -1,0 +1,17 @@
+{
+ "id": "0876d35abde78986",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/raycast-one-key-prompt/",
+ "image": "https://flaviocopes.com/images/raycast-one-key-prompt/og.jpg",
+ "title": "One keyboard shortcut to paste and send a repeated prompt on macOS",
+ "summary_en": "Bind a single macOS keyboard shortcut to paste canned text and press Return only in one app, then restore your clipboard, with Raycast or alternate Mac tools.",
+ "title_mn": "macOS дээр давтагдсан мессежийг нэг товчлуураар хуулж илгээх арга",
+ "summary_mn": "Mac хэрэглэгчид Raycast скрипт ашиглан тодорхой товчлуурын хослолоор хүссэн мессежээ хуулж, автоматаар Return дарж илгээх боломжтой боллоо. Энэ нь Electron суурьтай чат болон хөгжүүлэгчийн хэрэгслүүдэд илүү хурдан ажиллахад тусална.",
+ "body_mn": "Mac хэрэглэгчид Discord, Slack, Claude Desktop зэрэг Electron суурьтай аппликейшнүүдэд давтагддаг командыг гараас нэг товчлуурын хослолоор (жишээ нь ⌃⌥E) шууд илгээхэд хүндрэлтэй байдаг. Үүнийг шийдэх нэг арга бол Raycast Script Command ашиглан жижиг shell скрипт бичих явдал юм.\n\nЭнэхүү скрипт нь тухайн аппын bundle ID-г шалгаж буруу цонхонд алдаа гарахаас сэргийлж, clipboard-ийг түр нөөцлөн мессежийг буулгаад шууд Return дарж илгээсний дараа өмнөх clipboard-ийг сэргээдэг. Скрипт доторх богино хугацааны хүлээлтүүд (0.15 секунд) нь товчлуурын хослол давхардахаас хамгаалж, Electron аппликейшнүүдэд найдвартай ажиллах нөхцөлийг бүрдүүлдэг.\n\nХөгжүүлэгчид өөрсдийн Raycast скрипт хавтас дотроо уг скриптийг байрлуулаад global hotkey холбосноор хиймэл оюун ухаан болон хөгжүүлэлтийн багаж хэрэгслүүдтэй ажиллах давтамжтай үйлдлүүдээ эрс хурдасгах боломжтой.",
+ "published": "2026-11-24T08:00:00Z",
+ "added": "2026-11-24T08:30:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

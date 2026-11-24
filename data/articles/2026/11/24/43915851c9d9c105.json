@@ -1,0 +1,17 @@
+{
+ "id": "43915851c9d9c105",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "infoq.com",
+ "url": "https://www.infoq.com/news/2026/11/claude-code-mode/",
+ "image": "https://res.infoq.com/news/2026/11/claude-code-mode/en/headerimage/generatedHeaderImage-1795090945761.jpg",
+ "title": "Claude Code Adds Experimental Code Mode to Orchestrate Tool Calls with JavaScript",
+ "summary_en": "Anthropic's experimental Code Mode lets Claude Code write JavaScript that chains, parallelizes, and filters Bash, Read, and Edit calls, with changes to how auto mode and hooks review those calls.",
+ "title_mn": "Claude Code JavaScript ашиглан Tool Call удирдах Code Mode горимтой боллоо",
+ "summary_mn": "Anthropic компани Claude Code хэрэгсэлд JavaScript код ашиглан tool call-уудыг зэрэгцүүлэн ажиллуулах туршилтын Code Mode горимыг нэмжээ. Энэ нь контекстийн хэмжээг багасгаж, зардлыг бууруулахад тусалдаг байна.",
+ "body_mn": "Anthropic компани Claude Code хэрэгсэлд туршилтын шинэ Code Mode горимыг нэмсэн бөгөөд энэ нь загварт тус бүрээр нь Bash, Read, Edit хийх хүсэлт явуулахын оронд JavaScript код бичиж өөрийн хэрэгслүүдийг удирдах боломжийг олгодог. Энэхүү горим нь анхдагчаар идэвхгүй байдаг бөгөөд Claude Code v2.1.323 болон түүнээс дээш хувилбар шаардах ба CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 орчны хувьсагчаар дамжуулан идэвхжүүлдэг.\n\nЕрдийн үед Claude нэг tool call хийгээд хариуг нь хүлээдэг бол Code Mode үед нэг скрипт нь командуудыг зэрэгцүүлэн ажиллуулж, нэгнийх нь үр дүнг нөгөө рүү дамжуулан зөвхөн шаардлагатай гарцыг буцаадаг. Туршилтаар энэ нь контекстийг 20-25%-иар жижигрүүлж, токений хэрэглээг 37%-иар, зардлыг 19%-иар бууруулж байгааг хөгжүүлэгчид тэмдэглэжээ.\n\nЭнэхүү горим нь зөвхөн интерактив терминал сессүүдэд, тухайлбал Opus 5.5, Sonnet 5.5, Haiku 5.5 эсвэл Fable 5.2 загварууд дээр ажиллах ба Claude захиалга эсвэл Console аккаунтаар ашиглах боломжтой. Гэхдээ -p флаг, Agent SDK, VS Code панель болон Amazon Bedrock зэрэгт дэмжигдэхгүй болохыг анхаарах хэрэгтэй.",
+ "published": "2026-11-23T12:20:42Z",
+ "added": "2026-11-24T08:30:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

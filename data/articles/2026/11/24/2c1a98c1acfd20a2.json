@@ -1,0 +1,17 @@
+{
+ "id": "2c1a98c1acfd20a2",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/google-ai-ultra-api-credits/",
+ "image": "https://flaviocopes.com/images/google-ai-ultra-api-credits/og.jpg",
+ "title": "How to claim your free Gemini API credits with Google AI Ultra",
+ "summary_en": "Google AI Pro and Ultra subscriptions do not cover Gemini API calls directly, but they include monthly Google Cloud credits you can claim in Google AI Studio.",
+ "title_mn": "Google AI Pro болон Ultra захиалгаар үнэгүй Gemini API эрх авах арга",
+ "summary_mn": "Google AI Pro болон Ultra захиалагчид Google Developer Program болон Google Cloud ашиглан сар бүрийн API кредитээ үнэгүй авах боломжтойг танилцууллаа. Энэ нь HTTP хүсэлт болон скриптүүдээр дамжуулан Gemini загваруудыг туршихад тусална.",
+ "body_mn": "Хэрэв та Google AI Pro эсвэл Google AI Ultra захиалдаг бол энэ нь таны Gemini апп болон хэрэглэгчийн квот дээр ажиллахаас гадна шууд утгаараа Gemini API дуудлагуудыг автоматаар үнэгүй болгодоггүй. API төлбөр тооцоо нь Google Cloud-аар дамжин тусдаа явагддаг.\n\nГэсэн хэдий ч Google Developer Program-аар дамжуулан Google AI Studio дотроос сар бүр олгогдох API кредитийг үнэгүй авах боломжтой байдаг. Жишээлбэл, Google AI Studio рүү ороход зүүн доод буланд сар бүрийн болон өмнөх үлдэгдэл бүхий API кредитийг шууд идэвхжүүлэх товч харагдана.\n\nҮүнийг идэвхжүүлснээр Google Cloud billing аккаунттайгаа холбож, gemini-4-neon болон бусад төлбөртэй загваруудыг турших, eval хийх эсвэл өөрийн бүтээгдэхүүндээ AI боломж нэмэхэд уг кредитийг ашиглах боломжтой болно. Мөн кредитийн хугацаа 1 жил хүртэл хүчинтэй байдаг тул хөгжүүлэгчид скрипт болон side project дээрээ санаа зоволтгүй туршилт хийх боломж бүрддэг.",
+ "published": "2026-11-24T08:16:00Z",
+ "added": "2026-11-24T08:30:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
