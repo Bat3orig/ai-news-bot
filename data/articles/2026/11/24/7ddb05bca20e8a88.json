@@ -1,0 +1,17 @@
+{
+ "id": "7ddb05bca20e8a88",
+ "subtopic": "packages",
+ "source": "JavaScript Weekly",
+ "source_label": "JavaScript Weekly",
+ "url": "https://javascriptweekly.com/issues/812",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/zeicnfyzbo9kgkkmmgwf.jpg",
+ "title": "Bundler-free npm imports in the browser",
+ "summary_en": "#​812 — November 24, 2026 Read on the Web JavaScript Weekly Nudeps: Use npm Packages in the Browser, No Bundler Required — What if you could npm install a package and import it by name in the browser? Lea and Dmitry Sharabin's new tool makes it easy and uses import maps (which it keeps up to date). npx nudeps install sets it up and there are demos to try. Lea Verou 💡 This work follows on from Lea's popular essay earlier this year: Web Dependencies are Broken. Can We Fix Them? Agents Didn’t Clear Your Plate. They Dumped Reviews on It — Your agents write PRs in minutes, then eat your afternoon…",
+ "title_mn": "JavaScript Weekly: nudeps, jQuery 4.1, Bun 1.4.5 аюулгүйн засвар, Jimp 2.0 гарлаа",
+ "summary_mn": "Энэ долоо хоногийн JavaScript Weekly дайджест nudeps, jQuery 4.1, Bun 1.4.5 аюулгүйн засвар, Jimp 2.0 зэрэг чухал хэрэгслүүдийг онцолжээ. Svelte 5.59 нь DOM-оос гадуур рендер хийх боломжийг нэмсэн байна.",
+ "body_mn": "Nudeps бол npm пакетуудыг bundler ашиглалгүйгээр хөтөч дээр шууд импортлох хэрэгсэл юм. Энэ нь import maps-ийг автоматаар шинэчилдэг бөгөөд npx nudeps install командаар хялбар тохируулагдана. Энэ ажил Lea-гийн \"Web Dependencies are Broken\" нийтлэлийн дараагийн алхам юм.\n\njQuery 4.1 хувилбар гарсан бөгөөд хуудсыг гацааж болох selector алдааг засжээ. Мөн 3.8 нь 3.x салбарын сүүлчийн төлөвлөсөн feature хувилбар болсон тул хуучин хувилбар ашигладаг хөгжүүлэгчид шилжих талаар бодох хэрэгтэй. Bun 1.4.5 нь HTTP/3, TLS, DNS болон Zstandard дээрх засваруудтай аюулгүйн хувилбар бөгөөд Bun.serve, fetch болон node: модулиудад нөлөөлдөг.\n\nSvelte 5.59 туршилтын custom renderer боломжийг нэвтрүүлсэн. Иймд Svelte компонентуудыг WebGL, native UI эсвэл терминалд рендер хийх боломжтой болж байна. Jimp 2.0 нь JavaScript дээр зураг боловсруулах хэрэгсэл бөгөөд одоо animated GIF-ийг дэмжиж байна.\n\nДайджест мөн Chrome DevTools-ийн scopes proposal мэдээлэлтэй source map дээр минификаци хийсэн кодыг анхны хувьсагчийн нэрээр дебаг хийх боломжийг, TC39-ийн дараагийн хурлын төлөвлөгөөг дурдсан байна. Хөгжүүлэгчдэд хамгийн ашигтай нь Bun-ийн аюулгүйн засвар бөгөөд шинэчлэх хэрэгтэй.",
+ "published": "2026-11-24T00:00:00Z",
+ "added": "2026-11-24T12:30:49Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
