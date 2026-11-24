@@ -178,5 +178,85 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ac2f786b30f6d457",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "summary_en": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "title_mn": "GPT-6 загварууд уургийн бүтэц, дарааллыг өөрөө зохиож чаддаг болжээ",
+   "summary_mn": "OpenAI-ийн GPT-6 загварууд тусгай биологийн загваргүйгээр зөвхөн reasoning болон кодоор шинэ уургийн бүтэц, дарааллыг зохиож байгаа гэж урьдчилсан судалгаанд дурджээ. Onava лабораторийн туршилтад таван зорилтот дээр холбогдох шинж тэмдэг илэрсэн гэв.",
+   "body_mn": "OpenAI GPT-6 загварын гэр бүл нь шинэ уургийн хэлбэр, амин хүчлийн дарааллыг зөвхөн үндэслэлтэй бичвэр болон код ашиглан зохиож чаддаг гэж мэдээлжээ. Дотоод судалгааны загвар тусгай биологийн загваруудтай адил буюу түүнээс дээгүүр гүйцэтгэл үзүүлсэн гэж тайлбарлана. Судлаачид загварт уургийн холбогдох хэсэг, хэлбэрийг текстээр заах боломжтой байсан байна.\n\nLaboratory туршилтад Onava-тай хамтран GPT-6.2 загварын загвараар бүтээсэн уурагууд таван зорилтот дээр холбогдох шинж тэмдэг харуулсан гэв. Дахин загварчилсан эсрэгбие мөн холбогдох чадвараа хадгалжээ. Тусгай загварууд зарим дараалал сонгоход тусалсан ч гол үүрэг нь GPT-6-д байсан гэж нийтлэлд дурджээ.\n\nЭнэ нь хөгжүүлэгчдэд чухал, учир нь нэг ерөнхий загвар олон тусгай хэрэгслийн оронд тохиргоог текстээр өөрчилж болохыг харуулж байна. Гэхдээ энэ бол урьдчилсан судалгаа бөгөөд бие даасан баталгаажуулалт хараахан хийгдээгүй гэдгийг санах нь зүйтэй.",
+   "published": "2026-11-24T13:00:00Z",
+   "added": "2026-11-24T21:25:14Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "59b4e4c983ce74cf",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Superpower Daily",
+   "url": "https://superpowerdaily.com/posts/anthropic-lets-claude-users-turn-custom-tools-into-mac-and-windows-apps",
+   "image": "https://superpowerdaily.com/posts/anthropic-lets-claude-users-turn-custom-tools-into-mac-and-windows-apps/opengraph-image",
+   "title": "Anthropic lets Claude users turn custom tools into Mac and Windows apps",
+   "summary_en": "The beta removes packaging and API-key setup, but installed tools still depend on Claude. Full computer access requires separate approval.",
+   "title_mn": "Claude Artifacts-ийг Mac ба Windows дээр суулгагдах апп болгох beta боломж гарлаа",
+   "summary_mn": "Anthropic хэрэглэгчдэд Claude-д бүтээсэн artifact-аа Mac, Windows дээр тусдаа апп болгон суулгах beta боломжийг нээжээ. Апп нь Claude Desktop 6.28899.0 буюу түүнээс дээш хувилбар шаарддаг бөгөөд файл, програм ажиллуулах эрх тусгайлан зөвшөөрөгддөг.",
+   "body_mn": "Anthropic 2026 оны 11-р сарын 24-нөөс эхлэн Install as app боломжийг нэвтрүүлж эхэлжээ. Энэ нь чатын цонхноос гадуур, тусдаа цонхтой апп болгон ажиллуулах боломж юм. Апп нь Claude хэрэглэгчийн дансаар ажиллаж, нэмэлт API түлхүүр эсвэл тусдаа нэвтрэлт шаарддаггүй. Суулгасан апп нь эх artifact-тай холбоотой хэвээр байж, засвар орвол шинэчлэгддэг.\n\nҮндсэндээ апп нь хөтөч дотор хийх боломжтой зүйлээс илүү эрх хүсэхгүй бол зөвхөн тэр хэмжээнд ажилладаг. Харин файл уншиж, өөрчилж, устгах, програм ажиллуулах эрх нь маш өргөн бөгөөд Anthropic апп бүрийг урьдчилан шалгадаггүй гэж анхааруулжээ. Иймээс зөвхөн итгэлтэй апп дээр ийм эрх олгох хэрэгтэй. Бүх хувилбар бүрт зөвшөөрөл дахин асууна.\n\nХөгжүүлэгчдэд энэ нь Claude-ийг ашиглан хувийн хэрэгслүүдийг хурдан апп болгох боломж нээж байгаа ч аюулгүй байдал, хэрэглээний хязгаарыг анхаарах шаардлагатай.",
+   "published": "2026-11-24T20:29:54Z",
+   "added": "2026-11-24T21:25:14Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a3492a1b31455174",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Superpower Daily",
+   "url": "https://superpowerdaily.com/posts/anthropic-will-remove-sonnet-4-6-from-claude-s-individual-plans-on-december-8",
+   "image": "https://superpowerdaily.com/posts/anthropic-will-remove-sonnet-4-6-from-claude-s-individual-plans-on-december-8/opengraph-image",
+   "title": "Anthropic will remove Sonnet 4.6 from Claude’s individual plans on December 8",
+   "summary_en": "Chat histories will stay, but continuing them can trigger a model change. Anthropic recommends Sonnet 5.5 and warns that not every task will switch automatically.",
+   "title_mn": "Sonnet 4.6 нь 12-р сарын 8-наас хувь хүний Claude төлөвлөгөөнөөс хасагдана",
+   "summary_mn": "Anthropic 2026 оны 12-р сарын 8-наас Free, Pro, Max, Ultra хэрэглэгчдэд Sonnet 4.6-г чатын загвараас хасахаа зарлав. Ярианы түүх хадгалагдах ч дараагийн хариулт Sonnet 5.5 рүү шилжиж магадгүй.",
+   "body_mn": "Anthropic хувь хүний Claude төлөвлөгөөнөөс Sonnet 4.6 загварыг 2026 оны 12-р сарын 8-наас хасна. Энэ нь Claude чат болон Cowork-ийн desktop, mobile хувилбаруудад хамаарна. Ярианы түүх хэвээр үлдэх боловч үргэлжлүүлэн яриа хийвэл загвар солигдож магадгүй. Anthropic Sonnet 5.5-г сонгохыг зөвлөж байна.\n\nSonnet 4.6 нь Claude Code, Team, Enterprise төлөвлөгөө болон Claude Platform API дээр хэвээр байна. Гэвч бүх яриа, даалгавар автоматаар шилжихгүй тул хэрэглэгчид урьдчилан сонгох хэрэгтэй гэж компани анхааруулжээ. Хуваарьт даалгаврууд мөн хамаарна.\n\nХөгжүүлэгчдэд энэ нь загварын устгал хэн, хаана ашиглаж байгаагаас хамаарч өөр байдгийг харуулж байна. Хэрэв таны ажлын урсгал Claude чатад тулгуурласан бол загварын өөрчлөлтийг урьдчилан шалгах нь зүйтэй.",
+   "published": "2026-11-24T20:39:25Z",
+   "added": "2026-11-24T21:25:14Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1e826d13408ddec3",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/anthropic-lets-claude-users-install-ai-built-tools-as-desktop-apps/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-lets-claude-users-install-ai-built-tools-as-desktop-apps.jpg",
+   "title": "Anthropic Lets Claude Users Install AI-Built Tools as Desktop Apps",
+   "summary_en": "Anthropic announced on November 24, 2026 that Claude users can install artifacts as desktop apps in beta on macOS and Windows. The apps have their own windows and icons, are rolling out to free and paid plans, and can re...",
+   "title_mn": "Anthropic: Claude-ийн artifact-уудыг Mac болон Windows дээр desktop апп болгон суулгах боломж нээлээ",
+   "summary_mn": "Anthropic 2026 оны 11-р сарын 24-нд Claude хэрэглэгчид artifact-аа Mac болон Windows дээр desktop апп болгон суулгах бета боломжийг зарлалаа. Апп нь өөрийн цонх, дүрстэй бөгөөд файл, програм, мэдэгдэлд хандах эрх хүсэх боломжтой. Бүх төлөвлөгөөнд, гэхдээ Linux, веб болон мобайл дээр боломжгүй.",
+   "body_mn": "Anthropic 2026 оны 11-р сарын 24-нд Claude хэрэглэгчид artifact-уудаа desktop апп болгон суулгаж болохыг бета хэлбэрээр зарлалаа. Artifact гэдэг нь Claude-ийн бичсэн дизайн, баримт, дашборд болон жижиг интерактив хэрэгслүүд юм. Суулгасан апп нь өөрийн цонх, дүрстэй бөгөөд macOS дээр Claude Apps фолдерт, Windows дээр Start цэс эсвэл ширээний товчлолоор нээгдэнэ.\n\nБета нь Free, Pro, Max, Ultra, Team болон Enterprise төлөвлөгөөнд нээлттэй бөгөөд Claude for Mac эсвэл Claude for Windows 6.28899.0 ба түүнээс хойшхи хувилбар шаардлагатай. Апп нь artifact-ийн Claude болон коннекторуудад хандах эрхээ хадгална. Харин хамгийн дээд түвшний эрх нь програм ажиллуулах, файл унших, өөрчлөх, устгах боломжтой бөгөөд Anthropic апп-уудыг суулгахаас өмнө шалгадаггүй гэдгийг анхааруулжээ.\n\nЭнэ нь хөгжүүлэгчдэд чухал, учир нь хэрэглэгч хүссэн хэрэгслээ чатаар бичүүлээд шууд ажиллуулах боломжтой болж байна. Гэхдээ зохиогчийн эрх, файлын хандалт, өгөгдлийн хадгалалт, админы бодлого гэх мэт асуултууд нэмэгдэнэ. Нэг хувилбарт өгсөн зөвшөөрөл шинэчлэлтэд хүчинтэй байхгүй, мөн засвар хийсэн ч дахин асууна.\n\nТеам төлөвлөгөөнд суулгалт анхдагчаар идэвхтэй боловч бүтэн компьютерын эрхийг админ асаах хүртэл унтраалттай байна. Enterprise дээр эзэн асаах хүртэл бүх боломж хаалттай. HIPAA-ийн тохиргоотой байгууллагууд апп ашиглаж чадахгүй.",
+   "published": "2026-11-24T20:59:02Z",
+   "added": "2026-11-24T21:25:14Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]

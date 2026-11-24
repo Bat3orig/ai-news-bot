@@ -1,0 +1,17 @@
+{
+ "id": "ac2f786b30f6d457",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
+ "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+ "summary_en": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+ "title_mn": "GPT-6 загварууд уургийн бүтэц, дарааллыг өөрөө зохиож чаддаг болжээ",
+ "summary_mn": "OpenAI-ийн GPT-6 загварууд тусгай биологийн загваргүйгээр зөвхөн reasoning болон кодоор шинэ уургийн бүтэц, дарааллыг зохиож байгаа гэж урьдчилсан судалгаанд дурджээ. Onava лабораторийн туршилтад таван зорилтот дээр холбогдох шинж тэмдэг илэрсэн гэв.",
+ "body_mn": "OpenAI GPT-6 загварын гэр бүл нь шинэ уургийн хэлбэр, амин хүчлийн дарааллыг зөвхөн үндэслэлтэй бичвэр болон код ашиглан зохиож чаддаг гэж мэдээлжээ. Дотоод судалгааны загвар тусгай биологийн загваруудтай адил буюу түүнээс дээгүүр гүйцэтгэл үзүүлсэн гэж тайлбарлана. Судлаачид загварт уургийн холбогдох хэсэг, хэлбэрийг текстээр заах боломжтой байсан байна.\n\nLaboratory туршилтад Onava-тай хамтран GPT-6.2 загварын загвараар бүтээсэн уурагууд таван зорилтот дээр холбогдох шинж тэмдэг харуулсан гэв. Дахин загварчилсан эсрэгбие мөн холбогдох чадвараа хадгалжээ. Тусгай загварууд зарим дараалал сонгоход тусалсан ч гол үүрэг нь GPT-6-д байсан гэж нийтлэлд дурджээ.\n\nЭнэ нь хөгжүүлэгчдэд чухал, учир нь нэг ерөнхий загвар олон тусгай хэрэгслийн оронд тохиргоог текстээр өөрчилж болохыг харуулж байна. Гэхдээ энэ бол урьдчилсан судалгаа бөгөөд бие даасан баталгаажуулалт хараахан хийгдээгүй гэдгийг санах нь зүйтэй.",
+ "published": "2026-11-24T13:00:00Z",
+ "added": "2026-11-24T21:25:14Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

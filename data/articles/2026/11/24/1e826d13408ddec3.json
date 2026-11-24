@@ -1,0 +1,17 @@
+{
+ "id": "1e826d13408ddec3",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-lets-claude-users-install-ai-built-tools-as-desktop-apps/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-lets-claude-users-install-ai-built-tools-as-desktop-apps.jpg",
+ "title": "Anthropic Lets Claude Users Install AI-Built Tools as Desktop Apps",
+ "summary_en": "Anthropic announced on November 24, 2026 that Claude users can install artifacts as desktop apps in beta on macOS and Windows. The apps have their own windows and icons, are rolling out to free and paid plans, and can re...",
+ "title_mn": "Anthropic: Claude-ийн artifact-уудыг Mac болон Windows дээр desktop апп болгон суулгах боломж нээлээ",
+ "summary_mn": "Anthropic 2026 оны 11-р сарын 24-нд Claude хэрэглэгчид artifact-аа Mac болон Windows дээр desktop апп болгон суулгах бета боломжийг зарлалаа. Апп нь өөрийн цонх, дүрстэй бөгөөд файл, програм, мэдэгдэлд хандах эрх хүсэх боломжтой. Бүх төлөвлөгөөнд, гэхдээ Linux, веб болон мобайл дээр боломжгүй.",
+ "body_mn": "Anthropic 2026 оны 11-р сарын 24-нд Claude хэрэглэгчид artifact-уудаа desktop апп болгон суулгаж болохыг бета хэлбэрээр зарлалаа. Artifact гэдэг нь Claude-ийн бичсэн дизайн, баримт, дашборд болон жижиг интерактив хэрэгслүүд юм. Суулгасан апп нь өөрийн цонх, дүрстэй бөгөөд macOS дээр Claude Apps фолдерт, Windows дээр Start цэс эсвэл ширээний товчлолоор нээгдэнэ.\n\nБета нь Free, Pro, Max, Ultra, Team болон Enterprise төлөвлөгөөнд нээлттэй бөгөөд Claude for Mac эсвэл Claude for Windows 6.28899.0 ба түүнээс хойшхи хувилбар шаардлагатай. Апп нь artifact-ийн Claude болон коннекторуудад хандах эрхээ хадгална. Харин хамгийн дээд түвшний эрх нь програм ажиллуулах, файл унших, өөрчлөх, устгах боломжтой бөгөөд Anthropic апп-уудыг суулгахаас өмнө шалгадаггүй гэдгийг анхааруулжээ.\n\nЭнэ нь хөгжүүлэгчдэд чухал, учир нь хэрэглэгч хүссэн хэрэгслээ чатаар бичүүлээд шууд ажиллуулах боломжтой болж байна. Гэхдээ зохиогчийн эрх, файлын хандалт, өгөгдлийн хадгалалт, админы бодлого гэх мэт асуултууд нэмэгдэнэ. Нэг хувилбарт өгсөн зөвшөөрөл шинэчлэлтэд хүчинтэй байхгүй, мөн засвар хийсэн ч дахин асууна.\n\nТеам төлөвлөгөөнд суулгалт анхдагчаар идэвхтэй боловч бүтэн компьютерын эрхийг админ асаах хүртэл унтраалттай байна. Enterprise дээр эзэн асаах хүртэл бүх боломж хаалттай. HIPAA-ийн тохиргоотой байгууллагууд апп ашиглаж чадахгүй.",
+ "published": "2026-11-24T20:59:02Z",
+ "added": "2026-11-24T21:25:14Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

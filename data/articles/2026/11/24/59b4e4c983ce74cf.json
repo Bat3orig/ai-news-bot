@@ -1,0 +1,17 @@
+{
+ "id": "59b4e4c983ce74cf",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Superpower Daily",
+ "url": "https://superpowerdaily.com/posts/anthropic-lets-claude-users-turn-custom-tools-into-mac-and-windows-apps",
+ "image": "https://superpowerdaily.com/posts/anthropic-lets-claude-users-turn-custom-tools-into-mac-and-windows-apps/opengraph-image",
+ "title": "Anthropic lets Claude users turn custom tools into Mac and Windows apps",
+ "summary_en": "The beta removes packaging and API-key setup, but installed tools still depend on Claude. Full computer access requires separate approval.",
+ "title_mn": "Claude Artifacts-ийг Mac ба Windows дээр суулгагдах апп болгох beta боломж гарлаа",
+ "summary_mn": "Anthropic хэрэглэгчдэд Claude-д бүтээсэн artifact-аа Mac, Windows дээр тусдаа апп болгон суулгах beta боломжийг нээжээ. Апп нь Claude Desktop 6.28899.0 буюу түүнээс дээш хувилбар шаарддаг бөгөөд файл, програм ажиллуулах эрх тусгайлан зөвшөөрөгддөг.",
+ "body_mn": "Anthropic 2026 оны 11-р сарын 24-нөөс эхлэн Install as app боломжийг нэвтрүүлж эхэлжээ. Энэ нь чатын цонхноос гадуур, тусдаа цонхтой апп болгон ажиллуулах боломж юм. Апп нь Claude хэрэглэгчийн дансаар ажиллаж, нэмэлт API түлхүүр эсвэл тусдаа нэвтрэлт шаарддаггүй. Суулгасан апп нь эх artifact-тай холбоотой хэвээр байж, засвар орвол шинэчлэгддэг.\n\nҮндсэндээ апп нь хөтөч дотор хийх боломжтой зүйлээс илүү эрх хүсэхгүй бол зөвхөн тэр хэмжээнд ажилладаг. Харин файл уншиж, өөрчилж, устгах, програм ажиллуулах эрх нь маш өргөн бөгөөд Anthropic апп бүрийг урьдчилан шалгадаггүй гэж анхааруулжээ. Иймээс зөвхөн итгэлтэй апп дээр ийм эрх олгох хэрэгтэй. Бүх хувилбар бүрт зөвшөөрөл дахин асууна.\n\nХөгжүүлэгчдэд энэ нь Claude-ийг ашиглан хувийн хэрэгслүүдийг хурдан апп болгох боломж нээж байгаа ч аюулгүй байдал, хэрэглээний хязгаарыг анхаарах шаардлагатай.",
+ "published": "2026-11-24T20:29:54Z",
+ "added": "2026-11-24T21:25:14Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

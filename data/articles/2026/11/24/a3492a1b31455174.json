@@ -1,0 +1,17 @@
+{
+ "id": "a3492a1b31455174",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Superpower Daily",
+ "url": "https://superpowerdaily.com/posts/anthropic-will-remove-sonnet-4-6-from-claude-s-individual-plans-on-december-8",
+ "image": "https://superpowerdaily.com/posts/anthropic-will-remove-sonnet-4-6-from-claude-s-individual-plans-on-december-8/opengraph-image",
+ "title": "Anthropic will remove Sonnet 4.6 from Claude’s individual plans on December 8",
+ "summary_en": "Chat histories will stay, but continuing them can trigger a model change. Anthropic recommends Sonnet 5.5 and warns that not every task will switch automatically.",
+ "title_mn": "Sonnet 4.6 нь 12-р сарын 8-наас хувь хүний Claude төлөвлөгөөнөөс хасагдана",
+ "summary_mn": "Anthropic 2026 оны 12-р сарын 8-наас Free, Pro, Max, Ultra хэрэглэгчдэд Sonnet 4.6-г чатын загвараас хасахаа зарлав. Ярианы түүх хадгалагдах ч дараагийн хариулт Sonnet 5.5 рүү шилжиж магадгүй.",
+ "body_mn": "Anthropic хувь хүний Claude төлөвлөгөөнөөс Sonnet 4.6 загварыг 2026 оны 12-р сарын 8-наас хасна. Энэ нь Claude чат болон Cowork-ийн desktop, mobile хувилбаруудад хамаарна. Ярианы түүх хэвээр үлдэх боловч үргэлжлүүлэн яриа хийвэл загвар солигдож магадгүй. Anthropic Sonnet 5.5-г сонгохыг зөвлөж байна.\n\nSonnet 4.6 нь Claude Code, Team, Enterprise төлөвлөгөө болон Claude Platform API дээр хэвээр байна. Гэвч бүх яриа, даалгавар автоматаар шилжихгүй тул хэрэглэгчид урьдчилан сонгох хэрэгтэй гэж компани анхааруулжээ. Хуваарьт даалгаврууд мөн хамаарна.\n\nХөгжүүлэгчдэд энэ нь загварын устгал хэн, хаана ашиглаж байгаагаас хамаарч өөр байдгийг харуулж байна. Хэрэв таны ажлын урсгал Claude чатад тулгуурласан бол загварын өөрчлөлтийг урьдчилан шалгах нь зүйтэй.",
+ "published": "2026-11-24T20:39:25Z",
+ "added": "2026-11-24T21:25:14Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}
