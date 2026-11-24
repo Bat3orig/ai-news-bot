@@ -1,0 +1,17 @@
+{
+ "id": "d13da08641e36d38",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Interesting Engineering",
+ "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZjRyR0RacHg5YTNIMUNEbVBqZzlNSEJINDludkxOTkNSY1ZFNXRaalhEM3Z6RmY4bVppWXZDc0xIM2lJVG9wYm9CN2RKSHYyMWhjTGppeHVDaXl6emwzSnVEZjRSbkRCWndEQmhxZDlTTW1lRWxkS1NSOWItR013ckJXdGFENEFxSVZfYTRlNmg5eVpG?oc=5",
+ "image": "",
+ "title": "Claude claims to prove VP ≠ VNP in Valiant's 47-year-old conjecture",
+ "summary_en": "",
+ "title_mn": "Claude загвар Валиантын 47 жилийн өмнөх таамаглалыг баталсан гэж мэдэгджээ",
+ "summary_mn": "Anthropic компанийн Claude загвар математикийн томоохон таамаглал болох VP болон VNP-ийн тэнцвэргүй байдлыг баталсан гэдгээ зарлав.",
+ "body_mn": "Сонирхолтой инженерчлэлийн мэдээлснээр, Anthropic компанийн хөгжүүлсэн Claude хиймэл оюун ухааны загвар нь математикийн салбарт олон арван жилийн турш шийдэгдээгүй байсан Валиантын таамаглалыг баталж чадсан гэдгээ мэдэгджээ. Энэхүү 47 жилийн настай таамаглал нь тооцооллын нарийн төвөгтэй байдлын онолын чухал асуудалд хамаардаг байна.\n\nХэдийгээр эцсийн үр дүнг мэргэжилтнүүд сайтар нягталж шалгах шаардлагатай байгаа боловч энэ нь хиймэл оюун ухаан шинжлэх ухааны суурь судалгаа болон нарийн төвөгтэй математикийн бодлогод ямар түвшинд тусалж чадахыг харуулсан томоохон дэвшил юм. Хөгжүүлэгчид болон судлаачдын хувьд LLM загварууд логик сэтгэлгээ, алгоритмын шинжилгээнд хэрхэн нөлөөлж буйг анхаарах хэрэгтэй чухал үйл явдал болж байна.",
+ "published": "2026-11-24T01:27:00Z",
+ "added": "2026-11-24T02:00:56Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
