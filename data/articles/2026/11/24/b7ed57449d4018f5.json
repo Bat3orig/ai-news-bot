@@ -1,0 +1,17 @@
+{
+ "id": "b7ed57449d4018f5",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/minimind",
+ "image": "https://opengraph.githubassets.com/1/jingyaogong/minimind",
+ "title": "Train a 64M language model from scratch in 2 hours",
+ "summary_en": "You've probably fine-tuned a model or two by now. Maybe you've even run through a LoRA tutorial and felt that small thrill of watching loss go down. But somewhere in the back of your mind, there's a nagging question: what actually happens between a pile of text files and a model that can hold a conv... GitHub Repository: https://github.com/jingyaogong/minimind",
+ "title_mn": "MiniMind: 64M параметрын хэлний загварыг эхнээс нь 2 цагт сургах төсөл",
+ "summary_mn": "MiniMind нь GPT-3-аас ~2700 дахин жижиг 64M параметрын хэлний загварыг эхнээс нь нэг GPU дээр сургах бүрэн шугамыг нээлттэй болгосон төсөл юм. Pretraining, SFT, LoRA, DPO, PPO/GRPO, distillation зэрэг бүх алхмыг native PyTorch-оор бичсэн. Apache 2.0 лицензтэй.",
+ "body_mn": "MiniMind нь хэлний загварыг эхнээс нь сургах мэдлэгийг хүртээмжтэй болгох зорилготой нээлттэй төсөл юм. Үндсэн загвар нь ойролцоогоор 64M параметртэй бөгөөд GPT-3-аас ~2700 дахин жижиг. README-ийн бенчмарк нь нэг NVIDIA 3090 дээр явагдсан. \"2 цаг\" гэдэг нь тэр картан дээр SFT-ийн нэг epoch-ийн хугацаа, \"3 юань\" нь тэр хугацааны GPU түрээсийн зардал гэж тодорхойлсон байна.\n\nТөсөл нь зөвхөн сургалтын скрипт биш. Архитектур, өгөгдөл цэвэрлэх, pretraining, SFT, LoRA, DPO, PPO/GRPO/CISPO-р RLAIF, tool use, distillation зэрэг бүх алхмыг хамруулдаг. Мөн MiniMind-V (vision), MiniMind-O (omni), MiniMind-dLM (diffusion), MiniMind-Linear гэх хувилбарууд бий. Бүх гол алгоритмыг transformers, trl, peft гэх мэт сангуудгүйгээр native PyTorch-оор бичсэн тул DPO яг юу хийдгийг код дээрээс нь уншиж ойлгож болно.\n\nЭнэ нь production-д ашиглах загвар биш, харин LLM-ийн бүрэн мөчлөгийг ойлгохын тулд зориулагдсан сургалтын төсөл юм. Apache 2.0 лицензтэй бөгөөд үнэгүй ашиглаж болно.",
+ "published": "2026-11-24T01:50:09Z",
+ "added": "2026-11-24T03:00:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

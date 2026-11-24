@@ -1,0 +1,17 @@
+{
+ "id": "48c16d9ff169304c",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/fast-anything",
+ "image": "https://opengraph.githubassets.com/1/el4cteo/fast-anything",
+ "title": "Port only the functions that are slow to Rust, then verify them",
+ "summary_en": "You've probably heard the advice a hundred times: if your app is slow, rewrite it in Rust. Then you look at your codebase, think about months of porting work, minute-long compile times, and gigabytes of `target/` directories, and quietly close the tab. But here's the thing—most of your runtime proba... GitHub Repository: https://github.com/el4cteo/fast-anything",
+ "title_mn": "fast-anything: удаан функцүүдийг л Rust руу шилжүүлж, зөв эсэхийг нь баталгаажуулдаг CLI",
+ "summary_mn": "fast-anything нь аппликейшнийг профайлдаж, хамгийн удаан функцүүдийг олж, зөвхөн тэдгээрийг Rust руу порт хийх CLI хэрэгсэл юм. Порт нь бүх бүртгэгдсэн дуудлагаар шалгагдаж, хурд нь ч сайжирсан эсэхийг шалгана. npm багц болон Rust crate хэлбэрээр гарсан.",
+ "body_mn": "fast-anything нь \"бүх кодыг Rust руу бичих\" гэсэн зөвлөгөөний оронд \"удаан байгаа цөөн функцийг л шилжүүлэх\" гэсэн санаан дээр суурилдаг. Хэрэгсэл нь аппликейшнийг профайлдаж, функцүүдийг эзэлж буй хугацаа болон порт хийхэд хялбар байдлаар нь эрэмбэлнэ. Дараа нь coding agent-д зориулж нэг функцтэй Rust crate болон TASK.md файл үүсгэнэ. Дэмжигдэх хэлнүүд: Python, Node, TypeScript, Ruby, Java, Go, PHP, C, C++, C#, R зэрэг.\n\nКомандууд нь scan, port, verify, enable/disable, bench, report, doctor гэх мэт. port нь 500 хүртэлх бодит дуудлагыг бүртгэж, verify нь тэдгээрийг release build дээр дахин тоглуулна. README-ийн жишээнд портын алдааг 500-с 148 дуудлага илрүүлсэн тухай дурдсан байна. Нэмэлт тест болгон NaN, ±infinity, хоосон оролт, 16 дахин том оролт зэргийг автоматаар үүсгэнэ. Порт хурдгүй бол (Rust рүү дуудах зардал давсан бол) идэвхжүүлэхгүй.\n\nSwap нь тэмдэглэгдсэн нэг блок бөгөөд FAST_ANYTHING_DISABLE=1 тохиргоогоор анхны кодыг ажиллуулах боломжтой. Claude Code plugin болон MCP server хэлбэрээр ч ашиглаж болно. Rust toolchain (rustup) суулгасан байх шаардлагатай. Бүрэн баримтыг repository-оос үзнэ үү.",
+ "published": "2026-11-24T01:47:46Z",
+ "added": "2026-11-24T03:00:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

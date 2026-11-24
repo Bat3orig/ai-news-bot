@@ -1,0 +1,17 @@
+{
+ "id": "4f510f340a02d2cc",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/pocketflow-tutorial-codebase-knowledge",
+ "image": "https://opengraph.githubassets.com/1/the-pocket/pocketflow-tutorial-codebase-knowledge",
+ "title": "An AI agent that turns GitHub repos into beginner-friendly tutorials",
+ "summary_en": "You've just joined a project, cloned the repo, and opened the main directory. Forty files stare back at you, none of them obvious, and the person who wrote it all left the company two years ago. You could spend a week tracing imports and guessing at architecture—or you could let an AI agent do the f... GitHub Repository: https://github.com/the-pocket/pocketflow-tutorial-codebase-knowledge",
+ "title_mn": "PocketFlow tutorial: GitHub репозиторыг эхлэгчдэд зориулсан зааварт хөрвүүлдэг AI агент",
+ "summary_mn": "PocketFlow-ийн tutorial төсөл нь GitHub репозиторыг уншиж, гол абстракцуудыг тодорхойлон эхлэгчдэд зориулсан заавар үүсгэдэг AI агент бүтээх жишээ юм. Агент 100 мөрийн LLM framework дээр суурилдаг. Үүссэн жишээ туурвилууд нь олон алдартай репозиторт байна.",
+ "body_mn": "PocketFlow-ийн tutorial төсөл нь шинэ хүнд таалагдахуйц ойлголт өгөх зорилготой. Агент GitHub репозиторыг татаж, source code-оос knowledge base үүсгээд, гол абстракцуудыг тодорхойлон тайлбар бүхий заавар бичдэг. Заавар нь хүний бичсэн биш, AI-аар бүтээгдсэн.\n\nPocketFlow нь 100 мөрийн орчим LLM framework тул агентын бүтцийг бүхэлд нь нэг өдөрт уншиж ойлгох боломжтой. README-д олон алдартай репозиторын жишээ заавар холбогдсон байна. 2025 оны 4-р сард Hacker News-ийн нүүр хуудсанд гарч 900 гаруй upvote авсан.\n\nЭнэ нь tutorial төсөл тул код уншиж дагаж туршиж үзэх нь илүү үр дүнтэй. Суулгах заавар README-д бүрэн орсон эсэх нь тодорхойгүй тул эхлэхдээ репозиторыг шалгаарай. Шинэ код хийхээс өмнө эхний газрын зураг маягаар ашиглах боломжтой.",
+ "published": "2026-11-24T01:49:37Z",
+ "added": "2026-11-24T03:00:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

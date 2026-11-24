@@ -1,0 +1,17 @@
+{
+ "id": "f63dd63d1169893e",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/opensre",
+ "image": "https://opengraph.githubassets.com/1/tracer-cloud/opensre",
+ "title": "A CLI agent that reads your failed CI run and traces the cause",
+ "summary_en": "You've seen it a hundred times: a red X in your pull request, a wall of logs, and a failure message that tells you *something* went wrong but not really *why*. You scroll through output, squint at stack traces, and try to reconstruct what changed. OpenSRE is a CLI agent that takes a different approa... GitHub Repository: https://github.com/tracer-cloud/opensre",
+ "title_mn": "OpenSRE: CI-ийн унасан ажлыг уншиж шалтгааныг нь олдог CLI агент",
+ "summary_mn": "OpenSRE нь амжилтгүй CI run-ийг уншин шалтгааныг нь хайж, засварыг pull request хэлбэрээр санал болгодог нээлттэй эхийн CLI агент юм. Өөрийн загваргаар self-hosted ажилладаг бөгөөд Apache 2.0 лиценцтэй, одоогоор public alpha шатанд байна.",
+ "body_mn": "OpenSRE нь CI-ийн унасан build-ийн лог дээр гараар цаг үрэхийн оронд агентаар эхний шатны шинжилгээ хийлгэдэг CLI хэрэгсэл юм. Агент унасан run-ийг уншаад шалтгааныг нь мөрдөж, засварыг санал болгодог. Засварыг автоматаар merge хийдэггүй, харин хянах боломжийг хэрэглэгчид үлдээдэг.\n\nДавуу тал нь self-hosted байдал юм. Build лог нь дотоод зам, орчны мэдээлэл, магадгүй нууцлал агуулдаг тул өөрийн загвартай ажиллуулах нь чухал. Төсөл Apache 2.0 лицензтэй бөгөөд одоогоор public alpha тул API болон интеграци өөрчлөгдөж болзошгүй. Суулгалт нь нэг команд бөгөөд sudo шаардахгүй. Windows-д зориулсан тусдаа заавар бий.\n\nTeam-үүд CI алдааг тайлахад их цаг зарцуулдаг бол туршиж үзэх сонирхолтой хэрэгсэл юм. Харин критик pipeline-д шууд холбохоос өмнө alpha шатныг анхаарах хэрэгтэй. Дэлгэрэнгүйг репозиторийн quickstart болон docs-оос үзнэ үү.",
+ "published": "2026-11-24T01:49:09Z",
+ "added": "2026-11-24T03:00:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

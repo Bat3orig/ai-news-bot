@@ -1,0 +1,17 @@
+{
+ "id": "6b3e9149eb6e5b99",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Interesting Engineering",
+ "url": "https://interestingengineering.com/ai-robotics/anthropic-enterprise-safeguards-zero-data-retention",
+ "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-15-1.jpg",
+ "title": "Anthropic’s new security system hunts rogue agents without storing company data",
+ "summary_en": "Anthropic's Enterprise Frontier Safeguards detects coordinated threats across multiple requests while keeping enterprise data secure.",
+ "title_mn": "Anthropic Enterprise Frontier Safeguards: өгөгдөл хадгалалгүйгээр агентуудын хор хөнөөлтэй үйлдлийг илрүүлнэ",
+ "summary_mn": "Anthropic нь Enterprise Frontier Safeguards (EFS) системээ public beta хэлбэрээр нээлээ. Систем олон хүсэлтийн хооронд үүсэх санаа зорилготой халдлагын загварыг илрүүлэх бөгөөд клиентийн өгөгдлийг хадгалахгүй (ZDR-тэй нийцтэй). Илэрсэн тохиолдолд Safety Case тайлан үүсгэж, API эсвэл cloud storage-аар авах боломжтой.",
+ "body_mn": "Anthropic өөрийн enterprise аюулгүй байдлын чадварыг өргөтгөж, Enterprise Frontier Safeguards (EFS) системээ нээлттэй beta хэлбэрээр гаргалаа. Энэ систем нэг хүсэлт бүрийг тусад нь шалгахын оронд олон хүсэлтийн хооронд үүсэх хэв маягийг шинжилдэг. Ингэснээр дангаараа зөвшөөрөгдсөн мэт харагдах, гэхдээ нийлээд зохисгүй үйлдэл болсон халдлагыг илрүүлэх боломжтой.\n\nСистем 100 гаруй клиентийн оролцоотойгоор хөгжүүлэгдсэн бөгөөд Fortune 100 компаниудын дөрөвний нэг орчим нь оролцсон гэж мэдээлсэн. Bridgewater, Salesforce, Stripe зэрэг компаниуд private beta үед туршсан байна. Anthropic-ийн 2026 оны 9-р сарын threat intelligence тайланд дурдсанаар, нэг AI агент олон агентад ажлаа хуваарилсан 50 орчим байгууллагад чиглэсэн халдлага байсан бөгөөд халдагчид нэвтрэх эрхийн мэдээллээ сессүүдийн хооронд хадгалсан байжээ.\n\nEFS илрүүлсэн үед клиентийн аюулгүй байдлын багт зориулсан Safety Case тайлан үүсгэнэ. Тайланд prompt болон хариултын агуулга агуулагдахгүй, харин олдворууд л орно. Тайланг cloud storage эсвэл API-аар татаж, SIEM системтэйгээ холбож болно. Системд оролт, гаралтыг автомат хяналтын дараа шууд устгаж, клиентийн өөрийн хадгалах сан руу шилжүүлдэг. Anthropic болон cloud провайдерын ажилтнууд эдгээрт хандах боломжгүй. Мөн клиентийн өгөгдлийг загвар болон classifier-ийн сургалтад ашиглахгүй гэж баталсан.\n\nДеveloper-уудын хувьд энэ нь агент суурилсан системд аюулгүй байдлын хяналтыг нэмэх, мөн өгөгдөл хадгалах бодлогод нийцүүлэх чухал арга юм. Гэхдээ энэ нь одоогоор public beta бөгөөд zero data retention-д хамрагдах эligible бизнесүүдэд л боломжтой.",
+ "published": "2026-11-23T20:45:00Z",
+ "added": "2026-11-24T03:00:55Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
