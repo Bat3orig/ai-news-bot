@@ -1,0 +1,17 @@
+{
+ "id": "7758c04a629331bf",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
+ "title": "Searching for distant planets with Astra",
+ "summary_en": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+ "title_mn": "Codex болон Astra ашиглан сул дохиотой гариг хайж буй аматөр одон орон судлаачид",
+ "summary_mn": "Хоёр аматөр одон судлаач Codex болон Astra-г ашиглан Kepler болон бусад телескопын өгөгдлөөс гаригийн дохио хайжээ. Тэд эхний хайлтаас 200 гаруй дохио олж, мэргэжлийн судлаачдад шалгуулахаар илгээсэн.",
+ "body_mn": "Одоогоор 6,400 гаруй гариг тодорхойлогдсон байна. Аматөр одон судлаачид телескопын өгөгдлөөс оддын гэрлийн бууралтыг хайдаг. Гариг оддыг тойрох үед гэрлийн хэмжээ бага зэрэг буурдаг бөгөөд энэ давтагдах хэв маягийг олох нь хайлтын гол зорилго юм.\n\nOpenAI-ийн инженер Kevin Bond Kepler телескопын 100,000 орчим оддын ажиглалтыг Codex-ээр хайжээ. Нэг AI агент гэрлийн муруйг шүүж, нөгөө агент тэмдэглэгдсэн нэр дэвшигчдэд илүү дэлгэрэнгүй шалгалт хийсэн. Програм нь 200 гаруй дохио олж, үүний 10 нь өмнө нь батлагдсан гаригууд байжээ.\n\nEthan Byrd нь Astra-г ашиглан TESS-ийн өгөгдлийн 19 сая орчим оддыг шинжилжээ. Тэрээр хамгийн хүчтэй нэр дэвшигчээ судалгааны багт илгээсэн. Bond-ийн хайлтын дохиог SETI Institute-ийн эрдэмтэн бие даан шалгаж, хоёр дохио давхцсан байна.\n\nЭнэ туршлага нь кодын хайлт, давталтын арга, AI агентуудыг шинжлэх ухааны өгөгдөлд ашиглах боломжийг харуулж байна. Харин нийтлэлд Codex эсвэл Astra-ийн шинэ функц, үнэ, API өөрчлөлт зарлагдаагүй байна.",
+ "published": "2026-11-24T11:00:00Z",
+ "added": "2026-11-24T19:31:10Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

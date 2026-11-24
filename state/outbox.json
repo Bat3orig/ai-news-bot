@@ -78,5 +78,65 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "89a905d5eae9fa3e",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/business/customer-stories/ifood",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/4Ts7RsLLSU4iEOxQwBkGgg/cbf56c075004a9ae2c41af4d5f7b428b/ifood-customer-story-social.png?w=1600&h=900&fit=fill",
+   "title": "How iFood scales coding agents across 15,000 repositories",
+   "summary_en": "",
+   "title_mn": "iFood компани 15,000 репозиторид coding agent-үүдийг хэрхэн өргөжүүлсэн бэ",
+   "summary_mn": "iFood компани Remote Agents Platform гэх REST API-д суурилсан платформоор 15,000 гаруй репозиторид кодын даалгаврыг автоматаар гүйцэтгэж байна. Платформ нь тусгаарлагдсан sandbox орчинд GPT-5.6 Luna загвар ажиллуулж, үр дүнг merge request хэлбэрээр буцаадаг.",
+   "body_mn": "Brazil-ийн хүргэлтийн платформ iFood нь 15,000 гаруй code repository-ийг хариуцдаг. Баг бүр тогтмол код шалгах, хамааралтай сангийн эмзэг байдлыг засах, шинжилгээ хийх зэрэг даалгавруудыг гүйцэтгэх шаардлагатай байдаг. Эдгээр даалгавар тус бүр хялбар боловч өргөн хэмжээнд хийхэд хүндрэлтэй.\n\nRemote Agents Platform нь инженерийн даалгаврыг API дуудалт болгон хувиргадаг. Хэрэглэгч REST дуудлагаар орчны шаардлагатай хамт даалгавраа илгээхэд платформ тусгаарлагдсан remote runner дээр ажиллуулж, дараа нь үр дүнг авах боломжтой. Ажлын явцыг бодit цагт хянах боломжтой гэжээ.\n\nAjlyn urson nь хоёр төрлийн алхамаас бүрдэнэ. Тодорхойлогдсон алхамууд нь repository-г clone хийх, ур чадваруудыг импортлох, branch бэлтгэх, эцэст нь merge request нийтлэх зэрэг ажлуудыг хариуцна. Харин хоорондын хэсэгт sandbox дотор GPT-5.6 Luna загвар агент байдлаар ажилладаг. Sandbox нь Ubuntu дээр суурилж Python, Java, Kotlin, C#, TypeScript, Rust, JavaScript, Go зэрэг хэлний toolchain-уудтай.\n\nЗагвар сонгохдоо iFood нь оюун ухаан, эффектив байдал, гүйцэтгэх хурдыг хамтад нь харгалзсан гэжээ. Нэг удаагийн ажил биш, өргөн хэмжээний платформд энэ тэнцвэр чухал юм. Нэг ажиллагаанд ойролцоогоор дөрвөн америк цент зарцуулдаг гэж мэдээлсэн нь зардлыг архитектурын чухал асуудал болгож байгааг харуулж байна.\n\nЭнэ туршлага нь агентуудыг том хэмжээний код менежментэд ашиглах хүсэлтэй хөгжүүлэгчдэд практик жишээ болно. Гэхдээ нийтлэлд SDK эсвэл үнийн шинэ бодлого зарлагдаагүй байна.",
+   "published": "2026-11-24T00:00:00Z",
+   "added": "2026-11-24T19:31:10Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7758c04a629331bf",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
+   "title": "Searching for distant planets with Astra",
+   "summary_en": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "title_mn": "Codex болон Astra ашиглан сул дохиотой гариг хайж буй аматөр одон орон судлаачид",
+   "summary_mn": "Хоёр аматөр одон судлаач Codex болон Astra-г ашиглан Kepler болон бусад телескопын өгөгдлөөс гаригийн дохио хайжээ. Тэд эхний хайлтаас 200 гаруй дохио олж, мэргэжлийн судлаачдад шалгуулахаар илгээсэн.",
+   "body_mn": "Одоогоор 6,400 гаруй гариг тодорхойлогдсон байна. Аматөр одон судлаачид телескопын өгөгдлөөс оддын гэрлийн бууралтыг хайдаг. Гариг оддыг тойрох үед гэрлийн хэмжээ бага зэрэг буурдаг бөгөөд энэ давтагдах хэв маягийг олох нь хайлтын гол зорилго юм.\n\nOpenAI-ийн инженер Kevin Bond Kepler телескопын 100,000 орчим оддын ажиглалтыг Codex-ээр хайжээ. Нэг AI агент гэрлийн муруйг шүүж, нөгөө агент тэмдэглэгдсэн нэр дэвшигчдэд илүү дэлгэрэнгүй шалгалт хийсэн. Програм нь 200 гаруй дохио олж, үүний 10 нь өмнө нь батлагдсан гаригууд байжээ.\n\nEthan Byrd нь Astra-г ашиглан TESS-ийн өгөгдлийн 19 сая орчим оддыг шинжилжээ. Тэрээр хамгийн хүчтэй нэр дэвшигчээ судалгааны багт илгээсэн. Bond-ийн хайлтын дохиог SETI Institute-ийн эрдэмтэн бие даан шалгаж, хоёр дохио давхцсан байна.\n\nЭнэ туршлага нь кодын хайлт, давталтын арга, AI агентуудыг шинжлэх ухааны өгөгдөлд ашиглах боломжийг харуулж байна. Харин нийтлэлд Codex эсвэл Astra-ийн шинэ функц, үнэ, API өөрчлөлт зарлагдаагүй байна.",
+   "published": "2026-11-24T11:00:00Z",
+   "added": "2026-11-24T19:31:10Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4a2440c50783074d",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "the-decoder.com",
+   "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
+   "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+   "summary_en": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work more independently.",
+   "title_mn": "Anthropic-ийн MCP SDK сард 700 сая татагдаж, агентуудад зориулсан шинэ боломж нэмэв",
+   "summary_mn": "Anthropic MCP стандарт сард 700 сая гаруй SDK татагдсан гэж мэдээлэв. Tasks, Elicitation нь ерөнхий хүртээмжтэй болж, Skills over MCP болон файл upload зэрэг шинэ боломжууд нэмэгдэж байна.",
+   "body_mn": "Anthropic-ийн Model Context Protocol (MCP) нь хоёр жилийн дотор сарын 700 сая гаруй SDK татагдсан гэж мэдээлжээ. Мөн 10,000 гаруй MCP connector Claude-д ашиглагдаж байна. Протокол нь AI агентууд хоорондоо харилцаж, ажлын урсгалыг зохицуулах боломжтой болгохоор өргөжиж байна.\n\nTasks нь сервер урт ажлыг арын дэвсгэрт ажиллуулж, үр дүн бэлэн болсны дараа мэдэгдэх боломжийг олгоно. Elicitation нь ажиллаж буй процесс хэрэглэгчээс дутуу мэдээлэл асуух боломжийг олгоно. Энэ хоёр нь 10-р сард туршилтын шатнаас ерөнхий хүртээмжтэй болжээ.\n\nSkills over MCP нь одоогоор public beta шатанд байгаа бөгөөд серверүүд хэрэгслүүдээ олон алхамтай ажилд чиглүүлэх ур чадвартай хослуулах боломжтой. File upload дэмжлэг удахгүй гарах бөгөөд PDF, spreadsheet, зураг зэрэг файлыг Claude-оос MCP сервер рүү шууд дамжуулна.\n\nTool Search нь хэрэгслийн тайлбарыг хэрэгтэй үед л ачаалах замаар олон серверийн орчинд context ашиглалтыг 85 хувиас илүүгээр бууруулна гэж мэдээлжээ. Enterprise Managed Auth нь админ сервер зөвшөөрч, ажилчид автоматаар холбогдох боломжийг олгоно. Энэ нь хөгжүүлэгчдэд чухал шинэчлэл юм.",
+   "published": "2026-11-24T19:23:41Z",
+   "added": "2026-11-24T19:31:10Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]
