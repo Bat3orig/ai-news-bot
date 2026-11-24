@@ -1,0 +1,17 @@
+{
+ "id": "6704ee9ea9e08414",
+ "subtopic": "vibe-coding",
+ "source": "Builder.io Blog",
+ "source_label": "Builder.io Blog",
+ "url": "https://www.builder.io/blog/claude-skills-for-designers",
+ "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7db544210c1444d296dc1444620d45d4?width=1200",
+ "title": "5 Best Claude Skills for Designers in 2026",
+ "summary_en": "The 5 best Claude skills for designers in 2026, with the exact commands I use. Impeccable for UI work, /remix for inspiration, Emil Kowalski's for motion.",
+ "title_mn": "2026 оны дизайнерт зориулсан Claude skill-үүдийн шилдэг 5 жагсаалт",
+ "summary_mn": "Builder.io-ийн нийтлэлд Impeccable, /remix, Emil Kowalski-ийн skill-үүд, taste-skill болон Designer Skills Collection зэргийг дизайнерууд Claude Code дээр ашиглах боломжийн талаар танилцуулжээ. Тус бүрийн зориулалт, командуудыг тайлбарласан байна.",
+ "body_mn": "Builder.io-ийн нийтлэгч Claude Code дээр дизайны ажлаа хийхдээ гурван skill-д голчлон найддаг гэж бичжээ. Эдгээр нь Impeccable, /remix болон Emil Kowalski-ийн skill-үүд юм. Мөн taste-skill болон Designer Skills Collection зэрэг нэмэлт сонголтууд байна.\n\nImpeccable нь 23 командтай бөгөөд UI ажил эхлэхэд анх ачаалдаг skill юм. Жишээ нь /impeccable typeset гэх мэт командыг тодорхой зорилготой ашиглахад илүү сайн үр дүн гардаг. Энэ нь загвар төлөвлөлт, зай, уншигдах дараалал, мобайл дасан зохицуулалт зэргийг хамардаг.\n\n/remix нь бусад сайтын UI-г авч өөрийн өнгө, фонт, дүрсээр дахин бүтээхэд тусалдаг. Emil Kowalski-ийн skill-үүд нь хөдөлгөөн, анимацитай ажиллахад хэрэгтэй бөгөөд /animate болон /review-animations зэрэг командууд байна.\n\ntaste-skill нь товч брифээс компани болон маркетингийн сайт үүсгэдэг бөгөөд /design-taste-frontend командаар дуудна. Designer Skills Collection нь codebase шаарддаггүй, судалгаа болон handoff ажилд зориулагдсан.\n\nНийтлэгч Anthropic-ийн frontend-design skill нь түүнд тийм ч тус болоогүй тул жагсаалтад оруулаагүй гэжээ. Эдгээр skill-үүдийг Claude Code-оос гадна Codex, Cursor зэрэг бусад coding agent дээр ч ашиглах боломжтой.",
+ "published": "2026-11-24T16:07:44Z",
+ "added": "2026-11-24T20:01:03Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

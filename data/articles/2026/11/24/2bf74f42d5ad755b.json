@@ -1,0 +1,17 @@
+{
+ "id": "2bf74f42d5ad755b",
+ "subtopic": "vibe-coding",
+ "source": "Builder.io Blog",
+ "source_label": "Builder.io Blog",
+ "url": "https://www.builder.io/blog/reverse-engineer-website",
+ "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F9e44c4242c9245fa92cfe15700e7842e?width=1200",
+ "title": "How to reverse engineer a website with AI",
+ "summary_en": "How to reverse engineer a website's UI with AI. Find the element that draws it, take it apart in Agent-Native Design and rebuild it in your brand.",
+ "title_mn": "Claude Code болон AI агентаар вебсайтын UI-г хэрхэн дахин бүтээх вэ",
+ "summary_mn": "Builder.io-ийн блогт Stripe-ийн нүүр хуудасны долгионы эффектийг /remix skill ашиглан задлан шинжилж, өөрийн төсөлд дахин бүтээх алхмуудыг тайлбарласан байна. Canvas, WebGL илрүүлэх зэрэг практик аргууд багтжээ.",
+ "body_mn": "Builder.io-ийн нийтлэгч Stripe-ийн нүүр хуудасны хөдөлгөөнт долгионы эффектийг хэрхэн бүтээсэн бэ гэдгийг судлахын тулд /remix нэртэй нээлттэй эх skill-ийг ашиглажээ. Энэ skill нь Claude Code болон бусад coding agent-д зориулагдсан бөгөөд DevTools-ийн үр дүнг нэмж, UI-ийг давхаргуудад задалж өгдөг.\n\nЭхлээд хөгжүүлэгч нэг элемент сонгож, юу мэдэхийг хүсч байгаагаа бичих ёстой. Хөдөлгөөнт элементүүд нь ихэвчлэн <canvas> дээр зурагдсан байдаг тул Chrome Console дээр canvas-уудыг жагсаах скрипт ажиллуулж олох боломжтой. Stripe дээр single-wave__canvas нэртэй том canvas долгионыг хариуцдаг байна.\n\nХэрэв эффект WebGL дээр байвал Chrome-ийн Animations самбар хоосон харагдаж болно. Энэ тохиолдолд shader кодыг шууд уншихад хүндрэлтэй тул agent-ийн тусламж хэрэгтэй. Харин CSS анимаци бол Animations самбарт хугацаа, easing-ийг нь харж болно.\n\nAgent сайтыг өөрийн браузерт нээж, HTML, CSS, JavaScript болон shader-уудыг уншаад Agent-Native Design дээр давхарга тус бүрт зориулсан туршилтын самбар үүсгэдэг. Энэ алхамд таны өөрийн төсөлд ямар ч өөрчлөлт орохгүй. Дараа нь зөвхөн хэрэгтэй хэсгийг өөрийн дизайнд нэвтрүүлэх боломжтой.\n\nЭнэ арга нь ялангуяа өнгөний шилжилт, хөдөлгөөн зэрэг хэцүү хэсгүүдийг ойлгоход тустай. Суралцахын зэрэгцээ өөрийн UI-г бүтээх чадварыг сайжруулна.",
+ "published": "2026-11-24T16:07:44Z",
+ "added": "2026-11-24T20:01:03Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
