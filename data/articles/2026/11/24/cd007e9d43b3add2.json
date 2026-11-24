@@ -1,0 +1,17 @@
+{
+ "id": "cd007e9d43b3add2",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/support-agent-loop/",
+ "image": "https://flaviocopes.com/images/support-agent-loop/og.jpg",
+ "title": "A support workflow with Grok Bot, Executor and T3 Code",
+ "summary_en": "A design for turning an app support ticket into a fix on a branch and a drafted reply, using Grok Bot, Executor and T3 Code.",
+ "title_mn": "Grok Bot, Executor болон T3 Code ашиглан хэрэглэгчийн дэмжлэгийн урсгал бүтээх нь",
+ "summary_mn": "Flavio Copes Mac апп-уудынхаа хэрэглэгчийн дэмжлэгийн асуултад хариулахын тулд Grok Bot, Executor болон T3 Code хэрэгслүүдийг холбон автоматжуулах загвар гаргаснаа хуваалцжээ.",
+ "body_mn": "Хөгжүүлэгч Flavio Copes өөрийн Mac апп-уудын хэрэглэгчийн дэмжлэгийн үйлчилгээг сайжруулах зорилгоор Grok Bot, Executor болон T3 Code хэрэгслүүдийг хослуулан ажиллах дэд бүтцийн загварыг танилцууллаа. Энэхүү урсгалд хэрэглэгчээс ирсэн асуултыг Cloudflare Worker болон Resend ашиглан хүлээн авч, Grok Bot-д вебхүүгээр дамжуулан харуулах бөгөөд робот нь зөвхөн хариултын ноорог бэлдэх аж.\n\nСистемийн архитектурт робот нь хэрэглэгчийн хувийн мэдээлэлд шууд хүрэхгүй бөгөөд зөвхөн Executor хэрэгслээр дамжуулан зөвшөөрөгдсөн эх сурвалж руу хандана. Мөн төлбөр болон буцаан олголт зэрэг эмзэг үйлдлийг агент бус шууд эзэн нь хянадаг байхаар тохируулжээ. T3 Code болон t3 CLI нь энэ бүх орчныг хянаж, удирдахад тусална.\n\nЭнэхүү ажлын урсгал нь хөгжүүлэгчдэд хиймэл оюун ухааны агентуудыг өөрийн бүтээгдэхүүний туслах үйлчилгээнд хэрхэн аюулгүйгээр ашиглах талаар практик санаа өгч байгаагаараа онцлог юм. Робот нь шууд хариу илгээхгүй харин ноорог бичих тул аюулгүй байдал бүрэн хангагдана.",
+ "published": "2026-11-24T07:00:00Z",
+ "added": "2026-11-24T07:30:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
