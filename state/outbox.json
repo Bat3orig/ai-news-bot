@@ -2,206 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "1526ad7c48bb771b",
-   "subtopic": "motion",
-   "source": "Motion Blog",
-   "source_label": "Motion Blog",
-   "url": "https://motion.dev/magazine/a-year-of-motion-plus-since-black-friday",
-   "image": "https://images.motion.dev/og/fresh/v1/site/magazine-a-year-of-motion-plus-since-black-friday-28d508lxsv9sv.png",
-   "title": "Motion+ 20% off for Black Friday 2026",
-   "summary_en": "Motion+ is a one-time payment for lifetime updates. For this year's Black Friday, there's a massive 20% discount. When we launched Motion+ \"lifetime updates\" was an easy promise to make. But, Motion+ is almost two years old now. We can look back and ask, if you bought it way back when, what would you have received over the last year - entirely for free? Quite a lot, it turns out. With more on the horizon. Read the full article on Motion",
-   "title_mn": "Motion+ 20% хямдралтай болж байна: Black Friday 2026",
-   "summary_mn": "Motion+ анимацийн сан 2026 оны Black Friday-д 20%-иар хямдарлаа. Motion+ нь нэг удаагийн төлбөртэй бөгөөд амьд хугацааны шинэчлэлттэй. Сүүлийн жилд AI Kit, Motion Studio зэрэг шинэ боломжууд үнэгүй нэмэгдсэн.",
-   "body_mn": "Motion+ нь нэг удаагийн төлбөртэй бүтээгдэхүүн бөгөөд худалдан авсан хэрэглэгчид бүх шинэчлэлтийг үнэгүй хүлээн авдаг. Motion-ийн хөгжүүлэгч энэ жилийн Black Friday-ийн хямдралаар Motion+-ийг 20%-иар хямдлаа. Компани энэ бүтээгдэхүүнийг хувийн бизнесийн загвар болгож байгаа тул урт хугацаанд үйлчлүүлэгчдэд шинэчлэлт санал болгох зорилготой гэж мэдэгдсэн.\n\nСүүлийн хугацаанд Motion+-д Cursor, Ticker, Carousel, Typewriter, Gallery зэрэг UI компонентууд нэмэгдсэн. Мөн 520 гаруй анимацийн жишээ React, Vue болон JavaScript-ийн хувьд бэлэн байдаг. Жишээ бүр хуулж авах эсвэл өөрийн төсөлд тохируулах боломжтой.\n\n2026 оны 9-р сард Motion Studio гарсан. Энэ нь таны сайт дээр dev горимд ажилладаг визуал цагийн хуваарь редактор юм. Motion+ хэрэглэгчид өөрчлөлтийг кодын агентад шууд илгээж, код дээрээ автоматаар бичүүлэх боломжтой.\n\nAI Kit нь /motion нэртэй ганц skill бөгөөд Motion-ийн MCP серверүүдтэй холбогддог. Энэ нь агентад хамгийн сүүлийн үеийн баримт бичиг, жишээ, зөвлөмжийг өгдөг. Performance Doctor анимацийн render зардлыг S-аас F хүртэлх MotionScore-ээр үнэлдэг.\n\nХөгжүүлэгчдэд энэ хямдрал нь AI агентуудтай анимаци бүтээх ажлыг хямд болгож байна. Гэхдээ хямдралын хугацаа, нөхцөлийг худалдан авахаасаа өмнө шалгах хэрэгтэй.",
-   "published": "2026-11-23T00:00:00Z",
-   "added": "2026-11-23T13:00:58Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "143651d984cecb2e",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Geeky Gadgets",
-   "url": "https://www.geeky-gadgets.com/claude-code-4/",
-   "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/anthropic-claude-code-testing.jpg",
-   "title": "Anthropic Engineer Explains How to Verify Claude Code Builds",
-   "summary_en": "Anthropic Claude Code improves output quality by up to 3x when paired with robust verification loops. End-to-end testing catches UI defects before merges.",
-   "title_mn": "Anthropic инженер Claude Code-ын код хэрхэн баталгаажуулдаг вэ: verification loop арга",
-   "summary_mn": "Anthropic Claude Code-оор бичсэн кодыг баталгаажуулах verification loop арга барилаа тайлбарлав. Builder, review agent болон verifier-ийг давтан ажиллуулж, end-to-end шалгалтаар өөрчлөлтийг нэгтгэхээс өмнө шалгадаг. Энэ арга нь олон агентыг зэрэг ажиллуулах боломжийг нээдэг.",
-   "body_mn": "Anthropic-ийн инженер Claude Code-оор бичсэн кодыг хэрхэн шалгадаг талаар мэдээлсэн байна. Компани хоёр долоо хоногийн турш Claude-ийг staging орчинд тасралтгүй ажиллуулж, ачаалалтай туршилт хийж, олдсон алдааг засуулсан гэжээ. Үүний нэг хэсэг нь verification loop бөгөөд энэ нь builder агентын ажлыг review агент болон verifier-т дамжуулж, өөрчлөлт зорилгодоо нийцэж буйг шалгадаг.\n\nNeeded loop-д builder нь review агент болон verifier-ээр дамжин дээд тал нь гурван удаа давтагдана. Claude Code-ийг бүтээгч Boris Cherny эхний тооцоогоор, Claude өөрийн ажлыг шалгах боломжтой бол эцсийн үр дүн хоёр-гурав дахин сайжирч болно гэж хэлсэн. Шалгалт нь зөвхөн код алдаагүй ажиллаж байгааг бус, өөрчлөлтийн зорилтод нийцэж буйг мөн шалгах ёстой.\n\nAnthropic-ийн зөвлөмжид хэрэв нэг л төрлийн тест хийх бол end-to-end байх ёстой гэжээ. Агент энгийн unit тест эсвэл endpoint дуудлагыг сонгож, бүтэн урсгалыг туршихгүйгээр өөрчлөлтийг баталгаажсан гэж тайлагнаж болдог. Тиймээс setup, driving, checker гэсэн гурван үе шаттай verification skill ашиглаж болно. Мөн sandbox template-д хэрэгтэй програм болон хамаарлуудыг урьдчилан бэлдсэнээр агент орчныг эхнээс нь угсрах шаардлагагүй.\n\nЭнэ арга нь хөгжүүлэгчдэд AI-аар код бичихэд давхар хяналт бүрдүүлэх практик хэрэгсэл болно. Гэхдээ баталгаажуулах агент өөрөө ч алдаа гаргаж болох тул verifier-ийг бас шалгах хэрэгтэй гэж зөвлөж байна.",
-   "published": "2026-11-23T12:57:09Z",
-   "added": "2026-11-23T13:30:51Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7b31fe335f7b0f7e",
-   "subtopic": "css-web",
-   "source": "CSS-Tricks",
-   "source_label": "CSS-Tricks",
-   "url": "https://css-tricks.com/using-frontend-fallbacks/",
-   "image": "https://css-tricks.com/wp-content/uploads/2021/06/reset-refresh-recycle-default.jpg",
-   "title": "Using Fallbacks for a Robust Front-End",
-   "summary_en": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users. Using Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
-   "title_mn": "Фронтэнд систем найдвартай байлгах fallback арга барилууд",
-   "summary_mn": "CSS-Tricks нь вебийн фронтэндийг найдвартай болгохын тулд fallback болон progressive enhancement аргуудыг тайлбарлажээ. Interop, Baseline, Can I Use зэрэг хэрэгслээр дэмжлэгийг шалгах талаар дурдсан.",
-   "body_mn": "Вебийн фронтэндийг найдвартай болгохын тулд HTML, CSS болон JavaScript-д олон давхар хамгаалалт суулгах хэрэгтэй гэж CSS-Tricks нийтлэлд дурдсан. Fallback нь үл боломжтой зүйлд хариу өгөх, харин progressive enhancement нь дэмжигдсэн функцийг нэмж өгөх арга юм. Зохиолч аль алиныг хослуулах нь зүйтэй гэж үзжээ.\n\nШинэ функцийг production-д ашиглахаас өмнө дэмжлэгийг шалгах хэрэгтэй. Interop төсөл нь томоохон браузерууд хамтран функцүүдийг нэгэн зэрэг гаргахад чиглэгддэг бол Baseline нь тодорхой функцийн дэмжлэг, хугацааг харуулдаг. Can I Use нь хурдан харьцуулалт хийхэд тусалдаг. Гэвч Baseline нь хүртээмжийн функцүүдийг хянадаггүй гэдгийг анхаарах хэрэгтэй.\n\nМөн JavaScript ачаалагдахгүй үед хэрэглэгчид мэдээлэл өгөх алдааны хуудас хэрэгтэй гэж зөвлөж байна. Энэ нь хөгжүүлэгчдэд практик зөвлөмж болно.",
-   "published": "2026-11-23T14:21:44Z",
-   "added": "2026-11-23T14:30:53Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d3630b85c37aec72",
-   "subtopic": "gemini",
-   "source": "Google Developers Blog",
-   "source_label": "Google Developers Blog",
-   "url": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/intent-hijacking-header-fullname-.2e16d0ba.fill-1200x600.png",
-   "title": "Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies",
-   "summary_en": "Semantic governance policies protect AI agents from indirect prompt injection and intent hijacking by validating every proposed tool call against user intent and natural language constraints before execution. As demonstrated on the AgentDojo benchmark using a Gemini 2.5 Flash agent, this mechanism reduced attack success rates from 48.7% to 0.9% while maintaining high task utility. Developers can leverage these policies in preview within the Gemini platform via Agent Gateway to secure tool-use workflows.",
-   "title_mn": "Semantic governance policies AI агентуудыг intent hijacking халдлагаас хамгаалдаг",
-   "summary_mn": "Google Developers Blog-ийн мэдээлснээр Semantic governance policies нь AgentDojo benchmark дээр халдлагын амжилтын хувийг 48.7%-аас 0.9% хүртэл бууруулсан байна. Энэ нь агентын tool call бүрийг ажиллуулахаас өмнө хэрэглэгчийн хүсэлттэй тулгаж шалгадаг.",
-   "body_mn": "AI агентууд имэйл уншиж, календарь шалгаж, мессеж илгээдэг учраас гадны эх сурвалжаас ирсэн агуулга нь халдлагын гадаргуу болдог. Жишээлбэл, хэрэглэгч банкны агентдаа \"bill-december-2023.txt\" дахь төлбөрийг төлөхийг хүсэхэд, тэр файлд нуугдсан зайлшгүй заавар нь мөнгийг халдагчийн дансруу шилжүүлэхийг шаардсан байна. Google-ийн туршилтад агент зургаан удаагийн бүх тохиолдолд мөнгө илгээжээ.\n\nSemantic governance policies нь Agent Gateway-ээр дамжих tool call бүрийг агент ажиллуулахаас өмнө LLM judge-д шалгуулдаг. Judge нь хэрэглэгчийн хүсэлт болон системийн заавруудыг итгэмжит контекст, файл, мессеж, API хариуг өгөгдөл гэж үздэг. Тиймээс энэ систем тодорхой халдлагын хэв маягийг таних шаардлагагүй, харин \"хэрэглэгч үүнийг хүссэн үү?\" гэсэн энгийн асуултад хариулдаг.\n\nЭнэ хамгаалалт нь user intent matching хэлбэрээр анхнаасаа идэвхтэй байдаг. Ямар ч нэмэлт policy тохируулаагүй үед ч гэсэн халдлагын амжилтыг ихээр бууруулж, харин хэвийн даалгаврын utility-д 2.6 пунктийн уналт гарсан гэж тайлагнасан байна.\n\nAgentDojo бол ETH Zurich болон Invariant Labs-ийн хөгжүүлсэн, NeurIPS 2024-т танилцуулсан нийтийн benchmark бөгөөд NIST-ийн CAISI-ийн үнэлгээнд ашиглагддаг. Агент банк, Slack, аялал, workspace зэрэг симуляци дээр ажилладаг. Хөгжүүлэгчдэд энэ нь агентын tool-ууд дээр policy layer нэмэх практик арга зам болно.",
-   "published": "2026-11-23T17:01:09Z",
-   "added": "2026-11-23T17:01:09Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3ffa5c39e01e3431",
-   "subtopic": "gemini",
-   "source": "Google DeepMind",
-   "source_label": "Google DeepMind",
-   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-   "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w1200-h630-n-nu-rw",
-   "title": "Finding faster quantum algorithms with agents and formal verification",
-   "summary_en": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-   "title_mn": "Google DeepMind: Gemini 4 агентуудаар квант алгоритмыг сайжруулав",
-   "summary_mn": "Google DeepMind болон Google Quantum AI нь Gemini 4 агентын багуудаар квант алгоритмуудыг сайжруулж, Lean теорем батлагчаар баталгаажуулжээ. Lean номын сан болон шийдлүүдийг GitHub дээр нээлттэй болгосон.",
-   "body_mn": "Google DeepMind болон Google Quantum AI хамтран Gemini 4 агентын бие даасан багуудыг ашиглан квант алгоритмын хэлхээг оновчтой болгох судалгаа хийжээ. Энэ нь фьюжн энерги, хими, фермент загварчлалд ашиглагдах боломжтой.\n\nАгент бүрийн санал Lean теорем батлагчаар баттай баталгаажсаны дараа хуваалцсан notebook-д орсон. Агентууд дөрвөн цаг тутам виртуал хурлаар ideas солилцдог байжээ. Судлаачид Lean-д зориулсан шинэ нээлттэй квант алгоритмын номын санг бүтээсний дээр, асуудлыг тодорхойлж, чиглэлийг хянасан гэдгийг онцолжээ.\n\nХөгжүүлэгчдэд энэ нь formal verification-ийг AI агентуудтай хэрхэн хослуулж болохыг харуулсан жишээ юм. Lean номын сан, асуудлын тодорхойлолт, баталгаажсан шийдлүүд GitHub дээр нээлттэй байна. Гэхдээ нийтлэлд тодорхой хэмжээний гүйцэтгэлийн тоо баримт дурдагдаагүй болно.",
-   "published": "2026-11-23T16:59:40Z",
-   "added": "2026-11-23T17:01:09Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "bb3f1dbf739fafb9",
-   "subtopic": "vibe-coding",
-   "source": "Builder.io Blog",
-   "source_label": "Builder.io Blog",
-   "url": "https://www.builder.io/blog/agent-native-hackathon-winners",
-   "image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/d2221062791e440eb5745f5a3da7cb94?width=1200",
-   "title": "Meet the Agent-Native hackathon winners",
-   "summary_en": "The Agent-Native hackathon winners, from bookkeeping in five Nigerian languages to chess by voice in Hindi, plus more apps we loved.",
-   "title_mn": "Builder.io-ийн Agent-Native хакатоны ялагчид: AI агент ба UI нэг кодтой апп бүтээх жишээ",
-   "summary_mn": "Builder.io 221 оролцогчтой Agent-Native хакатоныг зохион байгуулж, таван шагналт ялагчдыг зарлав. Нэгдүгээр байранд Muscle Memory апп шалгарсан бөгөөд энэ нь хэрэглэгчийн үйлдлийг AI-гүй рецепт болгон хувиргадаг.",
-   "body_mn": "Builder.io 10 сарын 27-оос 11 сарын 9-ний хооронд зохион байгуулсан Agent-Native хакатоны ялагчдыг 11 сарын 13-нд зарлав. Нийт 221 оролцогч, 10,000 доллар шагналын сан байсан бөгөөд тав шагналт, дөрвөн ангиллын шагналт апп шалгарчээ. Agent-Native нь UI болон AI агент нэг кодыг хуваалцдаг Builder-ийн нээлттэй эхийн TypeScript framework юм.\n\nGrand prize хүртсэн Muscle Memory апп хэрэглэгчийн үйлдлийг бүртгээд дахин ашиглах рецепт болгодог. Мэдээний дагуу тухайн рецептийн аргумент бүрийг эх сурвалжтай нь холбож, тодорхойгүй байвал асууна. Жишээ демод AI загвар ашиглахад ойролцоогоор 101,000 токен, 7 секунд зарцуулагдсан бол рецептээр ижил ажиллагаа 0 токен, 20 миллисекундэд хийгдсэн гэж тайлагнасан байна.\n\nЭнэ нь AI агентыг практик байдлаар хэрхэн бууруулж болохыг харуулсан жишээ юм. Рецептийг skill эсвэл MCP tool болгон deploy хийлгүйгээр нийтлэх боломжтой гэж демод Claude Code-оор харуулсан байна. Хөгжүүлэгчид Agent-Native-ийн эх кодыг үзэж, өөрсдийн апп дээр туршиж болно.",
-   "published": "2026-11-23T19:00:00Z",
-   "added": "2026-11-23T18:30:55Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5a96b69c105a774b",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7rTYk87PVckLTev2puQRn7/2054bccc806e46e84f3b080529ffc1e3/image__22_.png",
-   "title": "Vercel Drives adds CLI commands and standalone SDKs",
-   "summary_en": "You can now create, list, fork, and delete Vercel Drives with the new vercel drives commands or standalone SDKs for TypeScript ( @vercel/drives ) and Python ( vercel-drives ). Drives also have a REST API at /v1/drives and Drive-specific permissions, so managing them no longer requires Sandbox APIs or permissions. With the latest Vercel CLI, link your project with vercel link if needed, then run: Install the TypeScript SDK with npm install @vercel/drives , or the Python SDK with pip install vercel-drives , then run: Drives still mount into Vercel Sandboxes as before, and existing Sandbox CLI…",
-   "title_mn": "Vercel Drives нь CLI командууд болон тусдаа SDK-үүдтэй боллоо",
-   "summary_mn": "Vercel Drives-ийг одоо vercel drives CLI командаар, мөн TypeScript (@vercel/drives) болон Python (vercel-drives) SDK-аар үүсгэх, жагсаах, fork хийх, устгах боломжтой боллоо. Мөн /v1/drives REST API болон Drive-д зориулсан тусгай эрхийн тохиргоо нэмэгдлээ.",
-   "body_mn": "Vercel Drives-ийг удирдахын тулд одоо тусгай vercel drives командууд гарлаа. Мөн TypeScript-д зориулсан @vercel/drives болон Python-д зориулсан vercel-drives SDK-ууд нэмэгдсэн тул хөгжүүлэгчид шууд кодоосоо Drives-тай ажиллах боломжтой боллоо.\n\nӨмнө Drives-ийг удирдахад Sandbox API болон Sandbox-ийн эрх шаардлагатай байсан. Одоо Drives-д зориулсан REST API (/v1/drives) болон өөрийн эрхийн тохиргоо бий тул Sandbox-оос тусад нь удирддаг боллоо. Drives нь өмнөх шигээ Vercel Sandbox-д холбогдож ажиллана, харин одоогийн Sandbox CLI команд болон SDK код мөн хэвээр ажиллана.\n\nМөн Drives-д Vercel dashboard болон Observability-д тусгай хуудас нэмэгдсэн. Drives нь Hobby, Pro болон Enterprise төлөвлөгөөнд боломжтой. Дэлгэрэнгүйг Drives-ийн баримт бичгээс харж болно.\n\nХөгжүүлэгчдэд энэ нь Drives-ийг CI болон агент ажлын урсгалдаа шууд оруулах боломжийг олгоно.",
-   "published": "2026-11-23T05:00:00Z",
-   "added": "2026-11-23T19:01:03Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "b0819de1a504b63c",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSUdSRURoZlNFYldLTEFwcHY5djYtNm1ub3hwX0tZYUxnS2hKQTFxbmNMTF95aS0tR1FScllWWlpieEZ4MXRQd19RX3VRYl9tcjZEUzY4a1BmRzhPMmNROEtTR1h4ZFlQVUFsTkRSWGxMVVVHYS1iY3B2LW9tbHgxWmpUcU1MM08ycFVMS1BZTXl2eHVPcnVmUEw5T0dseWJ4OVlBeWlzTjVXelQ5QllDTnpEYUplUUtUeGhR?oc=5",
-   "image": "",
-   "title": "Anthropic launches Claude Ship to help developers ship code faster",
-   "summary_en": "",
-   "title_mn": "Anthropic хөгжүүлэгчдэд код илүү хурдан гаргах Claude Ship багцыг гаргалаа",
-   "summary_mn": "Anthropic Claude Ship нэртэй хэрэгслийн багцаа танилцууллаа. Багцад кодын шалгалт, PR-ийн засвар, автомат зөвшөөрөл багтана. Хэрэгсэл нь GitHub төслүүдэд Claude Team болон Enterprise төлөвлөгөөгөөр ашиглагдана.",
-   "body_mn": "Anthropic Claude Ship нэртэй багц хэрэгслээ гаргаж, хөгжүүлэгчдэд код өөрчлөлтийг илүү хурдан бэлтгэх зорилготой гэдгээ мэдэгдлээ. Багцын гол хэсэг болох Code Review хэрэгсэл аль хэдийн боломжтой бөгөөд үйлдэгдсэн өөрчлөлтүүдийг шалгаж, асуудлыг тэмдэглэдэг.\n\nБусад хоёр бүрэлдэхүүн хэсэг буюу PR Steward болон Claude Approvals бета туршилтанд байна. PR Steward нь автомат шалгалтын алдаа, кодын зөрчил, ревьюерийн сэтгэгдлүүдийг засахад тусалдаг бөгөөд хийсэн өөрчлөлтөө тайлбарлаж, буцаах арга замыг заадаг. Claude Approvals нь багийн дүрмийн дагуу эрсдэл багатай өөрчлөлтүүдийг бие даан зөвшөөрч, харин эрсдэлтэйг хүнд шалгуулахаар илгээнэ.\n\nХэрэгсэл нь GitHub төслүүдэд Claude Team болон Enterprise төлөвлөгөөгөөр ашиглах боломжтой. Хөгжүүлэгчдийн хувьд PR-ийн урсгалыг автоматжуулах шинэ арга болох тул CI болон ревью процессоо хэрхэн тохируулах талаар бодох хэрэгтэй.",
-   "published": "2026-11-23T20:01:13Z",
-   "added": "2026-11-23T21:00:56Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "2c2222474a62f387",
-   "subtopic": "ai-devtools",
-   "source": "GitHub Changelog",
-   "source_label": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-   "image": "https://github.blog/wp-content/uploads/2026/11/716292665-b61bd263-dd28-430c-a147-fa22594ac67f.png",
-   "title": "Issue statuses and repository boards are in public preview",
-   "summary_en": "Open or closed doesn’t always tell you where an issue stands. You can now use more specific statuses to give your team and agents shared context about what’s in flight…",
-   "title_mn": "GitHub-ийн issue статус болон repository board-ууд public preview-д гарлаа",
-   "summary_mn": "GitHub issue-д илүү тодорхой статус өгөх боломжийг public preview-д нээлээ. Repository board-ууд нь ажлын явцыг харах хялбар арга болно. GraphQL, REST API болон MCP сервер дээр дэмжлэгтэй.",
-   "body_mn": "GitHub issue-д зөвхөн нээлттэй эсвэл хаалттай гэхээс илүү дэлгэрэнгүй статус сонгох боломж public preview-д гарлаа. Статусыг issue үүсгэх үед эсвэл issue-ийн толгой хэсгээс солих боломжтой бөгөөд repository board-д status: шүүлтүүрээр хайж болно.\n\nМөн автомат статус шинэчлэлтүүд нэмэгдсэн. GraphQL, REST API болон MCP сервер дээр issue-ийн статусыг унших, тохируулах, шинэ issue үүсгэхдээ анхны статусыг сонгох боломжтой. Статусын өөрчлөлтийг Copilot automation-ий триггер болгон ашиглаж болно.\n\nRepository saved view-д board хэлбэр нэмэгдсэн тул ажлын явцыг төслийн дотроос харж, issue-ийг шууд шинэчлэх боломжтой. Илүү нарийн төлөвлөлтийн хэрэгцээтэй бол GitHub Project ашиглахыг зөвлөжээ. Хөгжүүлэгчдэд энэ нь багийн ажлын урсгал болон агент автоматжуулалтыг илүү сайн удирдах боломж олгоно.",
-   "published": "2026-11-23T20:37:11Z",
-   "added": "2026-11-23T21:00:56Z",
-   "ai": "claude:claude-haiku-5-5",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8797bbf8fa255ae2",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "UA.NEWS",
-   "url": "https://ua.news/en/dovkolo-svitu/kompaniia-anthropic-zapustila-claude-ship-dlia-rozrobnikiv-channel-newsasia",
-   "image": "https://cdn-cabinet.ua.news/uploads/images/anthropic_launches_claude_ship_for_devel_1795465455265.webp",
-   "title": "Anthropic launches Claude Ship for developers — Channel NewsAsia",
-   "summary_en": "Anthropic has launched Claude Ship, a tool suite for developers that reviews code changes, helps resolve issues, and can approve routine changes under team rules.",
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-23T20:37:50Z",
-   "added": "2026-11-23T21:00:56Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "314144238ef78e41",
    "subtopic": "anthropic",
    "source": "Anthropic (Google News)",
@@ -297,6 +97,26 @@
    "added": "2026-11-23T23:00:58Z",
    "ai": "claude:claude-haiku-5-5",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2d4d36eb70d4dd44",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "TestingCatalog AI News",
+   "url": "https://www.testingcatalog.com/anthropic-launches-claude-ship-to-review-and-approve-prs/",
+   "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/og.png",
+   "title": "Anthropic launches Claude Ship to review and approve PRs",
+   "summary_en": "Claude Ship is live in beta on Team and Enterprise plans, with a new /ship command in Claude Code and agents that fix PRs and approve them per team policy.",
+   "title_mn": "Anthropic компани PR хяналтыг автоматжуулах Claude Ship-ийг зарлалаа",
+   "summary_mn": "Anthropic компани Claude Team болон Enterprise хэрэглэгчдэд зориулсан Claude Ship платформыг бета хувилбараар гаргалаа. Энэхүү систем нь Code Review, PR Steward, Claude Approvals агентуудыг нэгтгэж, код шалгах, засвар хийх болон PR батлах үйл явцыг бүрэн автоматжуулдаг.",
+   "body_mn": "Anthropic компани хөгжүүлэгчдэд зориулсан Claude Ship системийг бета хэлбэрээр албан ёсоор танилцууллаа. Энэхүү шинэ платформын зорилго нь код бичихээс эхлээд түүнийг production орчинд нэгтгэх хүртэлх бүх шат дамжлагыг хурдасгахад оршиж байна.\n\nСистем нь Code Review, PR Steward болон Claude Approvals гэсэн үндсэн гурван бүрэлдэхүүн хэсгээс бүрдэнэ. PR Steward нь алдаатай CI шалгалт, merge конфликтуудыг автоматаар шийдвэрлэдэг бол Claude Approvals нь багийн боловсруулсан бодлогын файлд үндэслэн PR-уудыг шалгаж зөвшөөрөл өгөх эсэхээ шийддэг байна. Хөгжүүлэгчид Claude Code доторх шинэ /ship команд ашиглан өөрчлөлтийг шууд илгээх боломжтой.\n\nAnthropic өөрийн Claude Code баг дээр туршиж үзэхэд энэ системийг ашигласнаар нэгтгэсэн PR-ын тоо хоёр дахин өсөж, буцаагдсан өөрчлөлтийн хэмжээ 40 хувиар буурсан байна. Энэ нь хиймэл оюун ухааны тусламжтайгаар зөвхөн код бичих биш, харин код хяналт болон төслийн менежментийг бүхэлд нь автоматжуулах чухал алхам болж байна.",
+   "published": "2026-11-23T23:29:45Z",
+   "added": "2026-11-24T00:01:00Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
   }
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "id": "2d4d36eb70d4dd44",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "TestingCatalog AI News",
+ "url": "https://www.testingcatalog.com/anthropic-launches-claude-ship-to-review-and-approve-prs/",
+ "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/og.png",
+ "title": "Anthropic launches Claude Ship to review and approve PRs",
+ "summary_en": "Claude Ship is live in beta on Team and Enterprise plans, with a new /ship command in Claude Code and agents that fix PRs and approve them per team policy.",
+ "title_mn": "Anthropic компани PR хяналтыг автоматжуулах Claude Ship-ийг зарлалаа",
+ "summary_mn": "Anthropic компани Claude Team болон Enterprise хэрэглэгчдэд зориулсан Claude Ship платформыг бета хувилбараар гаргалаа. Энэхүү систем нь Code Review, PR Steward, Claude Approvals агентуудыг нэгтгэж, код шалгах, засвар хийх болон PR батлах үйл явцыг бүрэн автоматжуулдаг.",
+ "body_mn": "Anthropic компани хөгжүүлэгчдэд зориулсан Claude Ship системийг бета хэлбэрээр албан ёсоор танилцууллаа. Энэхүү шинэ платформын зорилго нь код бичихээс эхлээд түүнийг production орчинд нэгтгэх хүртэлх бүх шат дамжлагыг хурдасгахад оршиж байна.\n\nСистем нь Code Review, PR Steward болон Claude Approvals гэсэн үндсэн гурван бүрэлдэхүүн хэсгээс бүрдэнэ. PR Steward нь алдаатай CI шалгалт, merge конфликтуудыг автоматаар шийдвэрлэдэг бол Claude Approvals нь багийн боловсруулсан бодлогын файлд үндэслэн PR-уудыг шалгаж зөвшөөрөл өгөх эсэхээ шийддэг байна. Хөгжүүлэгчид Claude Code доторх шинэ /ship команд ашиглан өөрчлөлтийг шууд илгээх боломжтой.\n\nAnthropic өөрийн Claude Code баг дээр туршиж үзэхэд энэ системийг ашигласнаар нэгтгэсэн PR-ын тоо хоёр дахин өсөж, буцаагдсан өөрчлөлтийн хэмжээ 40 хувиар буурсан байна. Энэ нь хиймэл оюун ухааны тусламжтайгаар зөвхөн код бичих биш, харин код хяналт болон төслийн менежментийг бүхэлд нь автоматжуулах чухал алхам болж байна.",
+ "published": "2026-11-23T23:29:45Z",
+ "added": "2026-11-24T00:01:00Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
