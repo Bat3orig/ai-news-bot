@@ -1,0 +1,17 @@
+{
+ "id": "efe7bc326481ea2f",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/tooling-around-my-apps/",
+ "image": "https://flaviocopes.com/images/tooling-around-my-apps/og.jpg",
+ "title": "The best thing agents built for me wasn't an app, it was the tooling around my apps",
+ "summary_en": "The biggest win from coding agents wasn't the apps they shipped, it was the peripheral tools around them: testvm, OCR redaction, backdrops, and CLI manifests.",
+ "title_mn": "AI агентууд аппликешны ард хэрэгтэй хэрэгслүүдийг бичих нь үнэ цэнтэй",
+ "summary_mn": "Flavio Copes кодын агент ашиглан Mac аппуудыг бичсэн ч хамгийн их ашиг нь туслах скрипт, CLI, тест хийх хэрэгслүүдээс олдсон гэж бичжээ. Тэрээр testvm, VM Peek болон screenshot-ийг автоматаар нууцлах скриптийн жишээ үзүүлэв.",
+ "body_mn": "Flavio Copes өмнөх постондоо кодын агент ашиглан энэ жил олон десктоп апп хийсэн тухайгаа дурджээ. Харин түүний хувьд хамгийн их өөрчлөлт авчирсан зүйл бол апп-ын эргэн тойронд байгаа жижиг давхарга буюу скрипт, туслах CLI болон апп-уудыг тест хийх, screenshot авах, нууцлах, баримтжуулах хэрэгслүүд байжээ.\n\nТөслийн нэг жишээ бол testvm нэртэй 574 мөр Bash скрипт юм. Агент Mac дээр build хийгээд .app файлыг headless macOS VM руу хуулж, бүх даралт, гарны оролт, screenshot-ийг SSH-ээр гүйцэтгэдэг. Ингэснээр агентууд ажиллаж байхад хэрэглэгчийн дэлгэц хаагдахгүй. Зургаар дамжуулан 7 хоногт агентууд 44,670 команд ажиллуулсны 41,136 нь Claude Code-оор гүйцэтгэгдсэн байна.\n\nӨөр нэг жишээ бол scripts/redact-screenshot.swift нэртэй 126 мөр Swift скрипт юм. Энэ нь macOS Vision OCR ашиглан IPv4 болон IPv6 хаягуудыг олж, тэдгээрийн дээр нэг өнгийн тууз зурдаг. Скрипт нь гадны багц шаарддаггүй бөгөөд --dry-run горимоор юу олохыг урьдчилж харах боломжтой.\n\nЭнэ нь жижиг, нэг ажлыг шийдэх хэрэгслийг агентаар хурдан бичиж болохыг харуулж байна. Хөгжүүлэгчид өөрсдийн ажлын урсгалын давтагддаг асуудлуудыг жижиг скриптээр шийдэж эхлэх боломжтой.",
+ "published": "2026-11-24T09:00:00Z",
+ "added": "2026-11-24T09:30:54Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
