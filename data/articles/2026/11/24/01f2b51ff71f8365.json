@@ -1,0 +1,17 @@
+{
+ "id": "01f2b51ff71f8365",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "CASRAI",
+ "url": "https://casrai.org/news/anthropic-claude-authored-vp-vnp-proof-unverified-lean-2026",
+ "image": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/ido7qwlr5kaw/b/casrai-news-images/o/anthropic-claude-authored-vp-vnp-proof-unverified-lean-2026-14a2.jpg",
+ "title": "Anthropic Posts Claude-Authored VP ≠ VNP Proof With Lean Formalization, Not Yet Human-Verified",
+ "summary_en": "Anthropic posted a Claude-credited VP ≠ VNP proof with Lean code; its README says no human has checked it. What research offices and journals should note.",
+ "title_mn": "Anthropic компани Claude бичсэн VP ≠ VNP таамаглалын баталгааг Lean хэл дээр нийтэллээ",
+ "summary_mn": "Anthropic компани Claude загвараар бүтээгдсэн Валиантын VP ≠ VNP таамаглалын баталгаа болон Lean 4 албан ёсны кодыг GitHub дээр байршуулжээ. Гэхдээ уг баталгааг хүний математикчид хараахан шалгаагүй байна.",
+ "body_mn": "Anthropic компани өөрийн Claude загвараар бичигдсэн математикийн шинжлэх ухааны томоохон бүтээлийг олон нийтэд дэлгэлээ. Энэхүү судалгаа нь Валиантын VP ≠ VNP таамаглалыг бүх талбарт батлахыг зорьсон бөгөөд Lean 4 програмчлалын хэл дээр албан ёсоор формальчлагдсан байна.\n\nGitHub дээр нийтлэгдсэн уг репозиторид хэлхээний доод хязгаар болон бусад нарийн төвөгтэй математикийн тооцооллуудыг багтаажээ. Гэсэн хэдий ч уг баримт бичгийн README хэсэгт уг баталгааг одоогоор ямар нэгэн хүн математикч шалгаж амжаагүй бөгөөд хиймэл оюун ухаан өөрөө бичсэн болохыг тодорхой дурдсан байна.\n\nЭнэхүү ололт нь шинжлэх ухааны салбарт хиймэл оюун ухааны гүйцэтгэх үүргийг шинэ түвшинд гаргаж байгаа боловч үр дүнг хүний мэргэжилтнүүд нягталж шалгах шаардлагатай хэвээр байгаа аж. Сонирхсон хөгжүүлэгчид болон судлаачид Lean суулгаж уг кодыг өөрсдөө ажиллуулж шалгах боломжтой юм.",
+ "published": "2026-11-24T04:11:49Z",
+ "added": "2026-11-24T04:30:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
