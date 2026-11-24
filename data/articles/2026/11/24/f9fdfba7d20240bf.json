@@ -1,0 +1,17 @@
+{
+ "id": "f9fdfba7d20240bf",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5CRJ6FfiOuKiCLKFQYYg4n/dc78d62fd5595089b8c39758414e377d/download__3_.jpeg",
+ "title": "AWS PrivateLink endpoints are now available on Secure Compute",
+ "summary_en": "Enterprise teams using Secure Compute can now create and manage AWS PrivateLink endpoints directly from the Vercel dashboard. Endpoints on Secure Compute live in your team's dedicated VPC and use the network's AWS region. They belong to the network and are shared by its connected project environments. Vercel Functions , Vercel Sandbox , and builds connected to the network can reach AWS-hosted backends over the AWS private network. Before you add an endpoint in Vercel, the backend must already be exposed through a published AWS PrivateLink endpoint service. Examples include RDS, Aurora…",
+ "title_mn": "Vercel Secure Compute дээр AWS PrivateLink холболт ашиглах боломжтой боллоо",
+ "summary_mn": "Enterprise хэрэглэгчид Vercel хянах самбараас AWS PrivateLink төгсгөлийн цэгүүдийг шууд үүсгэж, удирдах боломжтой боллоо.",
+ "body_mn": "Vercel платформ нь Secure Compute сүлжээндээ AWS PrivateLink холболтыг нэмснээр байгууллагууд үүлэн дэд бүтцэд илүү найдвартай холбогдох боломжийг бүрдүүллээ. Энэхүү шинэ боломжийн тусламжтайгаар хэрэглэгчид өөрсдийн VPC дотор AWS PrivateLink цэгүүдийг шууд үүсгэж удирдах боломжтой болж байна.\n\nSecure Compute сүлжээнд холбогдсон Vercel Functions, Vercel Sandbox болон бусад бүтээх үйл явц нь AWS-ийн хувийн сүлжээгээр дамжин RDS, Aurora, Redshift, Snowflake болон MongoDB Atlas зэрэг датабааз болон үйлчилгээнүүдтэй холбогдох юм. Энэ нь дата дамжуулалтын аюулгүй байдлыг сайжруулаад зогсохгүй дотоод сүлжээний хандалтыг хялбарчилж өгдөг.\n\nШинэ боломжийг Vercel хянах самбарын Team Settings хэсэг дэх Networking тохиргооноос идэвхжүүлэх боломжтой. Secure Compute сүлжээ бүрд үндсэн нэг AWS PrivateLink цэг багтах бөгөөд нэмэлт цэг тус бүр сарын 30 ам.долларын үнэтэй байх ба дата дамжуулалтын төлбөр GB тутамд 0.04 ам.доллар байхаар зохицуулжээ.",
+ "published": "2026-11-24T09:54:00Z",
+ "added": "2026-11-24T23:30:51Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
