@@ -1,0 +1,17 @@
+{
+ "id": "ef8dbc3575f05659",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "IT Pro",
+ "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQRlVDcmpneVpsMmotbGRGTlMwdE8tYm5ZcXVmQTZQTDB5WnV1UFZDU1dnQktoRUYtSFd1MEt3dExuNXVOSF9hbV9CWkJDQVNlU1hYV1ZfWjhZT3NMUTA0LU9XbGk4QjFSVWFTVHlQVWo0UUdETUZkWXhWWDNCRWhMY2VENFE5SlpOQ1BrSjhZOElwMldZbmt4WmIyNmFzZ2JSbjRVaHlIMXhYRWUybktVMzVvUHQwUWpyNnNidm5pTTBCc3dNT3ZIYXRSam9YT010QzBRamlJclJ1T2txLWREaVFCdDI4LTZYV0dkQVVCNmllUnhWeGg3QTE1YTBQeEdkVlozZTdkOXdpZHhIN2N2QUgyWW9rejZ6Nl9BemZ1ZG4xaDlvVWMyeS0xSTA4Zk4wZW9JSXEtRElJdw?oc=5",
+ "image": "",
+ "title": "Anthropic's new Claude Ship service hands the reins to agents to fix and review code changes – but the company warns it may 'miss bugs, security vulnerabilities, or other issues'",
+ "summary_en": "",
+ "title_mn": "Anthropic Claude Ship үйлчилгээгээ танилцууллаа: агентууд кодыг засаж, шалгана",
+ "summary_mn": "Anthropic агентуудад кодын өөрчлөлтийг засах, шалгах үүрэг өгдөг Claude Ship үйлчилгээг шинээр гаргалаа. Компани алдаа, аюулгүй байдлын асуудлыг алдаж магадгүй гэж анхааруулжээ.",
+ "body_mn": "Anthropic шинэ Claude Ship үйлчилгээгээ танилцуулсан. Энэ үйлчилгээ агентуудад кодын өөрчлөлтийг засах болон шалгах үүргийг өгдөг.\n\nIT Pro-ийн мэдээлснээр компани үйлчилгээ нь bug, аюулгүй байдлын эмзэг байдал эсвэл бусад асуудлыг алдаж магадгүй гэж анхааруулжээ. Иймд хүний шалгалт шаардлагатай хэвээр байна.\n\nТа хөгжүүлэгчийн хувьд энэ нь PR шалгалтын урсгалд агентыг оруулах боломжтой болохыг харуулж байна. Гэхдээ дэлгэрэнгүй техникийн баримт, үнийн мэдээлэл бидэнд байхгүй байна.",
+ "published": "2026-11-24T11:38:46Z",
+ "added": "2026-11-24T14:00:58Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
