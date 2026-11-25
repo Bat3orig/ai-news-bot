@@ -1,0 +1,17 @@
+{
+ "id": "5ef9f724a7da7fc5",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/git-ai",
+ "image": "https://opengraph.githubassets.com/1/feder-cr/git-ai",
+ "title": "An open-source take on Scion: Git hosting for AI agents",
+ "summary_en": "If you've ever watched a coding agent spend more time cloning a repo than actually changing code, you've run into the wall that Git hosting was never designed to handle. Anthropic described an internal system called Scion to fix this, but it's not public. gitai is an open-source implementation of th... GitHub Repository: https://github.com/feder-cr/git-ai",
+ "title_mn": "gitai: AI агентуудад зориулсан орон нутгийн болон серверийн Git хувилбар хяналтын сервер",
+ "summary_mn": "gitai нь код бичих AI агентуудын хэрэгцээнд зориулагдсан нээлттэй эх сурвалжтай хувилбар хяналтын сервер юм. Энэ нь сервер талдаа түүх болон хайлтын ажлыг гүйцэтгэж, агентуудын зэрэгцээ ажиллах чадварыг сайжруулдаг.",
+ "body_mn": "Код бичих агентууд олон тооны богино хугацааны даалгавар гүйцэтгэхэд стандарт Git хувилбар хяналтын системүүд удааширдаг сул талтай. gitai нь Anthropic компанийн дотоод системээс санаа авч бүтээсэн, агентуудын ажиллах хурд болон zэрэгцээ байдалд тохируулсан нээлттэй эх сурвалжтай хувилбар хяналтын сервер юм.\n\nУг сервер нь клиентаас бүх репозиторыг клон хийх шаардлагагүйгээр сервер талдаа объект болон моднуудыг удирдах боломжийг олгодог. Түүхийн асуулга, зам хайлт зэргийг сервер талдаа тооцоолж хадгалдаг бөгөөд SQLite эсвэл PostgreSQL ашиглан масштаблах боломжтой. Мөн ямар нэгэн хэлний загвараас хамааралгүйгээр ажилладаг.\n\nГол онцлог нь агентууд зэрэгцэн салбар дээр ажиллах үед зөрчилдөөнийг ухаалгаар шийдвэрлэх, үр дүнг баталгаажуулах механизм юм. Өөрчлөлт бүрийг хэн ямар агентаар хийсэн болохыг нарийвчлан бүртгэдэг тул олон агент нэгэн зэрэг ажиллаж буй багуудад маш тохиромжтой шийдэл юм.\n\nЭнэхүү төсөл нь AI агентуудтай хамтран ажилладаг хөгжүүлэгчид болон багуудад зориулагдсан бөгөөд дэлгэрэнгүй мэдээлэл болон суулгах зааврыг албан ёсны репозитороос авах боломжтой.",
+ "published": "2026-11-25T01:48:07Z",
+ "added": "2026-11-25T03:00:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "1cd935f5bc417718",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/victory",
+ "image": "https://opengraph.githubassets.com/1/marvisak/victory",
+ "title": "GTA VI on Windows: runs the title's code in-process, world still unlit",
+ "summary_en": "You've probably seen those \"can it run Crysis\" jokes, but here's a harder question: what does it actually take to run a console game on your PC when you don't have the source code, the engine, or any official support? For one developer, the answer is a project called VIctory—an attempt to run Grand ... GitHub Repository: https://github.com/marvisak/victory",
+ "title_mn": "VIctory: Консол тоглоомын кодыг эмуляторгүйгээр Windows дээр шууд ажиллуулах систем",
+ "summary_mn": "VIctory нь консол тоглоомын x86-64 кодыг ямар нэгэн эмулятор ашиглахгүйгээр Windows процесст шууд ажиллуулж, шейдерүүдийг DXIL хэлбэрт хөрвүүлдэг дэвшилтэт систем юм.",
+ "body_mn": "Эх код болон албан ёсны дэмжлэг байхгүй үед консол тоглоомыг компьютер дээр ажиллуулах нь маш төвөгтэй инженерчлэлийн ажил байдаг. VIctory нь тоглоомын кодыг өөрчлөлгүйгээр дотоод процесстоо ажиллуулж, доод түвшний платформын үйлчилгээг үзүүлдэг Rust хэлээр бичигдсэн төсөл юм.\n\nУг төсөл нь эмуляци хийхийн оронд тоглоомын кодыг шууд ажиллуулж, консолын график шейдерүүдийг Direct3D 12 болон DXIL формат руу хөрвүүлдэг. Одоогоор цэс ачаалах, эхлэх дэлгэц, дуу дүрс гарч ирэх зэрэг амжилттай үе шатуудад хүрсэн боловч гэрэлтүүлэг болон зарим дүрслэл дутуу хэвээр байна.\n\nЭнэ нь тоглоом тоглоход зориулагдсан бүтээгдэхүүн биш харин систем инженерчлэл, график дамжуулалт болон платформ дахин хэрэгжүүлэлт сонирхдог хөгжүүлэгчдэд зориулсан судалгааны төсөл юм. Дэлгэрэнгүй мэдээллийг GitHub хуудаснаас үзэх боломжтой.",
+ "published": "2026-11-25T01:48:56Z",
+ "added": "2026-11-25T03:00:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

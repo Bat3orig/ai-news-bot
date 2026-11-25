@@ -1,0 +1,17 @@
+{
+ "id": "c2776e418e3c6dcd",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/serie",
+ "image": "https://opengraph.githubassets.com/1/lusingander/serie",
+ "title": "A richer git commit graph, rendered right in your terminal",
+ "summary_en": "You've probably typed `git log --graph --all` at some point, squinted at the ASCII output, and wondered why anyone thought this was good enough. The information is all there, but parsing it takes real effort—especially on a branchy repository. Serie is a small TUI application that takes a different ... GitHub Repository: https://github.com/lusingander/serie",
+ "title_mn": "Serie: Терминал дотор зурган хэлбэрээр Git commit граф харуулах хэрэгсэл",
+ "summary_mn": "Serie нь Rust хэл дээр Ratatui ашиглан бүтээгдсэн бөгөөд терминал emulator-ийн зураг харуулах протоколыг ашиглан Git commit графыг тод зургаар дүрсэлдэг терминал хэрэглэгчийн интерфейс юм.",
+ "body_mn": "Энгийн git log --graph команд ашиглахад гарч ирдэг ASCII тэмдэгтүүдийг уншиж ойлгох нь ялангуяа олон салбар бүхий репозиторт төвөгтэй байдаг. Serie нь энэ асуудлыг шийдвэрлэхээр бүтээгдсэн бөгөөд Git commit графыг терминал дотроо шууд жинхэнэ зураг хэлбэрээр чанартай харуулдаг.\n\nЭнэхүү хэрэгсэл нь Rust хэлээр бичигдсэн ба Ratatui санг ашигладаг. Гол аргачлал нь терминал emulator-ийн зургийн протоколыг ашиглах явдал бөгөөд ингэснээр энгийн git log-оос илүүтэйгээр жинхэнэ Git GUI шиг харагдах боломжийг олгодог. Serie нь бүрэн хэмжээний Git клиент байхыг зорьдоггүй бөгөөд зөвхөн commit графыг харах зорилготой нарийн мэргэшсэн хэрэгсэл юм.\n\nГраф дүрслэх тохиргоонууд нь маш уян хатан бөгөөд захын хэв маягийг дугуйрсан, өнцөгтэй эсвэл муруй хэлбэрээр сонгох, эсийн өргөнийг тохируулах, antialiasing идэвхжүүлэх боломжтой. Мөн iterm, kitty зэрэг терминалын протоколуудыг дэмждэг ба гол салбаруудыг зүүн захын баганад тогтвортой байрлуулах тохиргоотой.\n\nСуулгаж туршиж үзэхэд хялбар бөгөөд хэрэв танд Cargo суулгасан бол шууд суулгаад репозитор дотроо ажиллуулахад хангалттай. Эх код болон дэлгэрэнгүй баримт бичгийг github.com/lusingander/serie хаягаас үзэх боломжтой.",
+ "published": "2026-11-25T01:47:16Z",
+ "added": "2026-11-25T03:00:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

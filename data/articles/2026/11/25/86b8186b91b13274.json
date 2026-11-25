@@ -1,0 +1,17 @@
+{
+ "id": "86b8186b91b13274",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/hop",
+ "image": "https://opengraph.githubassets.com/1/arjun-ingole/hop",
+ "title": "Install Linux next to Windows without a USB stick",
+ "summary_en": "You've probably got an old laptop or a spare partition and a vague intention to try Linux someday. Then you remember the ritual: find a USB stick, download an ISO, burn it, reboot, fight the BIOS boot menu. That friction is enough to kill the idea before it starts. hop is a Windows app that skips th... GitHub Repository: https://github.com/arjun-ingole/hop",
+ "title_mn": "hop: USB флаш диск ашиглахгүйгээр Windows дотроос Linux суулгах хэрэгсэл",
+ "summary_mn": "hop нь Windows орчноос гарахгүйгээр Linux үйлдлийн системийг шууд хажууд нь суулгах боломжийг олгодог Windows хэрэглээний програм юм. Энэ нь ISO файл татах, дискний зай гаргах, хуваалт үүсгэх ажлыг хялбаршуулдаг.",
+ "body_mn": "Хуучин зөөврийн компьютер эсвэл сул диск дээрээ Linux суулгахын тулд USB флаш бэлтгэх, ISO татаж ачаалах зэрэг төвөгтэй алхмуудыг хийх шаардлагатай болдог. hop нь энэхүү хүндрэлийг алгасаж, Windows дотроос шууд Linux суулгах боломжийг олгодог програм юм.\n\nЭнэхүү хэрэгсэл нь хэрэглэгчид Linux түгээмэл системийг сонгох, дискний зайг гулсуураар тохируулах боломжийг олгоно. Програм нь ISO файлыг татаж шалгаад, дискний сул зайг ашиглан хуваалт үүсгэн суулгах бэлтгэлийг хангадаг. Мөн Windows-ийн зай гаргах процессыг автоматаар удирдаж, диск хуваахад тулгардаг саад бэрхшээлийг шийддэг.\n\nhop нь аюулгүй байдлыг хангах үүднээс суулгахын өмнө урьдчилсан шалгалтуудыг хийдэг ба дэмжигдсэн системүүдийн хувьд бүрэн устгаж шинээр суулгах сонголтыг ч санал болгодог. Энэ нь хөгжүүлэгчид болон тест хийх хүсэлтэй хэрэглэгчдэд Windows болон Linux орчныг хослуулан ашиглахад хялбар шийдэл болж байна.",
+ "published": "2026-11-25T01:47:41Z",
+ "added": "2026-11-25T03:00:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

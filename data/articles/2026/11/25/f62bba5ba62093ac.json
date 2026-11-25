@@ -1,0 +1,17 @@
+{
+ "id": "f62bba5ba62093ac",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/oat",
+ "image": "https://opengraph.githubassets.com/1/knadh/oat",
+ "title": "A 10KB semantic UI library with zero dependencies, no build step",
+ "summary_en": "You've been there: you spin up a small project, reach for a UI library, and suddenly you're staring at a node_modules folder the size of a small country. Or maybe you've inherited a codebase where every element has six classes stapled to it and nobody remembers what half of them do. Oat UI is a reac... GitHub Repository: https://github.com/knadh/oat",
+ "title_mn": "Oat UI: Бүтээх үе шат болон хамааралгүй 10KB хэмжээтэй семантик UI сан",
+ "summary_mn": "Oat UI нь ямар нэгэн бүтээх шат (build step) болон гадаад хамааралгүйгээр ажилладаг, ердөө 10KB хэмжээтэй семантик UI бүрэлдэхүүн хэсгүүдийн сан юм. Энэ нь цэвэр HTML болон CSS ашиглан хөнгөн бөгөөд ойлгомжтой вэб апп бүтээхэд зориулагдсан.",
+ "body_mn": "Жижиг төслийн хүрээнд UI сан ашиглах гэхэд л node_modules хавтас хэт томрох асуудал олон хөгжүүлэгчдэд тохиолддог. Oat UI нь энэхүү хэт хөөсөрсөн байдлыг шийдвэрлэх зорилгоор бүтээгдсэн бөгөөд ердөө 10KB орчим CSS болон JS файлын хэмжээтэй, ямар ч гадаад хамааралгүй минимал сан юм.\n\nЭнэхүү сан нь ямар нэгэн фреймворк сурах шаардлагагүй, ямар нэгэн build step тохируулахгүйгээр шууд ашиглахаар бүтээгдсэн. Та ердөө жижиг CSS болон JS файлыг төсөвтөө нэмээд л үндсэн бүрэлдэхүүн хэсгүүдийг ашиглаж эхлэх боломжтой. Oat UI нь семантик HTML шошго болон атрибутуудад үндэслэн загвар гаргадаг тул кодыг цэвэрхэн байлгахад тусалдаг.\n\nТөслийн гол онцлог нь жижиг хэмжээ бөгөөд вэб хуудасны ачаалал, хэмжээг чухалчилдаг дотоод хэрэгслүүд болон жижиг төслүүдэд маш тохиромжтой. Хөгжүүлэгчид ямар нэгэн бандлер, хөрвүүлэгч ашиглалгүйгээр шууд хэрэгжүүлэх боломжтой бөгөөд код нь ил тод, ойлгомжтой байдгаараа давуу талтай.\n\nЭнэхүү хэрэгслийг туршиж үзэхийг хүссэн хөгжүүлэгчид албан ёсны oat.ink сайт болон GitHub дахь эх кодыг ашиглан танилцах боломжтой. Хэрэв та олон тооны хамааралтай том фреймворкуудаас залхсан бол Oat UI нь хөнгөн бөгөөд урьдчилан таамаглах боломжтой шийдэл байх болно.",
+ "published": "2026-11-25T01:46:53Z",
+ "added": "2026-11-25T03:00:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
