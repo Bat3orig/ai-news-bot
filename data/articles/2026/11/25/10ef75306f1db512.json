@@ -1,0 +1,17 @@
+{
+ "id": "10ef75306f1db512",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+ "image": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w1200-h630-n-nu-rw",
+ "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+ "summary_en": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+ "title_mn": "Google Antigravity-д зориулсан Mass Spec Skills: молекулыг спектраас бүтэц рүү тодорхойлох",
+ "summary_mn": "Google DeepMind Mass Spec Skills нэртэй ур чадварын багцаа Google Antigravity дээр гаргалаа. Багц нь Gemini-ийн химийн дүгнэлтийг мас спектрометрийн хэрэгслүүд болон химийн өгөгдлийн сангуудтай хослуулна. Энэ нь судлаачдад MS/MS спектрээс нэр дэвшигч бүтцийг олоход туслана.",
+ "body_mn": "Google DeepMind мас спектрометрийн өгөгдлийг шинжлэхэд зориулсан Mass Spec Skills багцыг Google Antigravity-д нэвтрүүллээ. Багц нь tandem мас спектр (MS/MS) дээрх фрагмент ионуудыг шинжилж, химийн баазуудаас нэр дэвшигч бүтцийг хайж, тэдгээрийг туршиж үздэг.\n\nМэдээллийн сангуудын хувьд спектрийн лавлах сангууд ихэвчлэн зөвхөн орчин үеийн спектрийн 5 орчмыг тайлдаг гэж тэмдэглэсэн байна. Үлдсэн хэсэг нь \"харанхуй материй\" хэмээгдэх тул бүтцийг шууд таамаглах шаардлагатай болдог.\n\nХөгжүүлэгчдэд энэ нь AI агентыг шинжлэх ухааны ажлын урсгалд хэрхэн холбох вэ гэдгийн жишээ юм. Gemini зөвхөн таамаглахаас гадна точный тооцоолол, хэрэгслийн дуудалт хийдэг. Хэдэн мянган спектр дээр ажиллах боломжтой автоматжуулалт энд гол үнэ цэнэ юм.\n\nНовтлон зааж буйгаар агент эцсийн дүгнэлтийг химичид шалгах нотлох баримттай хамт үзүүлдэг.",
+ "published": "2026-11-24T13:07:53Z",
+ "added": "2026-11-25T17:30:49Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "45bb8c9ac518d968",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-details-claude-assisted-rust-migration-of-messages-api/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-details-claude-assisted-rust-migration-of-messages-api.jpg",
+ "title": "Anthropic Details Claude-Assisted Rust Migration of Messages API",
+ "summary_en": "Anthropic reported on November 25, 2026 that Claude agents helped move its Messages API from Python to Rust without an outage or a freeze on feature development. Per-request CPU and memory use fell about 70% and more tha...",
+ "title_mn": "Anthropic Claude-ийн тусламжтайгаар Messages API-г Python-ээс Rust рүү шилжүүлжээ",
+ "summary_mn": "Anthropic өөрсдийн Messages API-г Python-ээс Rust руу шилжүүлэхэд Claude агентууд тусалсан гэж мэдээлэв. Хүсэлт тутмын CPU ашиглалт ойролцоогоор 70%, санах ой 80%-аас дээш буурчээ. Тестүүд болон production шалгалтын аргачлал мөн дэлгэрэнгүй тайлагдсан.",
+ "body_mn": "Anthropic 2026 оны 11-р сарын 25-нд Claude агентууд Messages API-г Python-ээс Rust руу шилжүүлэхэд тусалсныг мэдээлсэн. Шилжилт ямар ч унтрал эсвэл онцлогийн хөгжүүлэлтийн зогсолтгүйгээр хийгдсэн гэжээ. Тухайн API нь Claude болон Claude Code, Cowork зэрэг аппуудын гол зам юм.\n\nХүсэлт тутмын CPU ашиглалт ойролцоогоор 70%, санах ой 80%-аас илүүгээр буурсан. Claude Code-ийн хүсэлтүүдийн эхний токений хүлээх хугацааны медиан нь ойролцоогоор 20%-иар багассан гэж тайлагнасан. API-ийн траффик 2024 оны эхнээс 2026 оны намар хүртэл ойролцоогоор 1800 дахин өссөн байна.\n\nЭхний Rust-ийн оролдлого CPU-г 8-10% хэмнэсэн ч токен бүр Python ба Rust хооронд гурав гаталдаг байсан тул хэмнэлт хангалтгүй гэж үзсэн. Тестийн сангийн 700 орчим интеграцийн тестийг Python-д холбоотой байсан тул шинэчилсэн. Аудит 100 гаруй сулруулсан баталгаажуулалтыг илрүүлжээ.\n\nNicht тэрээр production хүсэлтүүдийг лавлагаа болгож харьцуулсан. Хэрэглэгчийн агуулгыг уншихгүйгээр алдааны хээг бүлэглэх арга хэрэглэжээ. Хөгжүүлэгчдэд энэ нь том хэмжээний хэлний шилжилтийн практик жишээ юм.",
+ "published": "2026-11-25T17:19:06Z",
+ "added": "2026-11-25T17:30:49Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
