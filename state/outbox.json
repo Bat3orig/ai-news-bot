@@ -218,5 +218,25 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fdcbd69684c8f751",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/workflows-speculative-execution",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7tAiCbAE55zQh4pcmjhm5s/440e89b07055b9672878f5e3572aa4ba/workflow-10x-faster.png",
+   "title": "Workflow is 10x faster, again",
+   "summary_en": "Workflow SDK 5.8 runs workflows on a new execution engine, rebuilt for performance. Step-to-step latency is 12x lower, and large fan-outs, like running 256 steps in parallel, use 14x less function time outside your step code. This directly improves turn times for durable AI agents , among many other improvements. To get the new engine, upgrade to workflow@5.8.0 or later. New runs will use the new engine by default, and runs already started on an older version will safely keep running on that version. Make sure your steps are idempotent where possible to get the most out of this upgrade…",
+   "title_mn": "Workflow SDK 5.8: Шинэ гүйцэтгэх хөдөлгүүртэйгээр 12 дахин хурдав",
+   "summary_mn": "Vercel компани Workflow SDK 5.8 хувилбарыг гаргаж, алхам хоорондын хугацааг 12 дахин бууруулж, гүйцэтгэлийг эрс сайжрууллаа. Энэ нь удаан хугацаанд ажилладаг AI агент болон бусад төслүүдийн хурдыг мэдэгдэхүйц нэмэгдүүлнэ.",
+   "body_mn": "Vercel баг Workflow SDK 5.8 хувилбараа танилцуулж, гүйцэтгэлийг шинээр бүтээсэн хөдөлгүүрт шилжүүлжээ. Ингэснээр алхам хоорондын саатал 12 дахин багасч, 256 зэрэгцээ алхам бүхий том фан-аут үйлдлүүд функцийг илүү бага хугацаанд зарцуулдаг болсон байна. Жишээ нь, туршилтаар p75 саатал 85 миллисекунд байснаас 7 миллисекунд болж буурчээ.\n\nШинэ хувилбарт орохын тулд төслийнхөө workflow@5.8.0 эсвэл түүнээс дээш хувилбар руу шинэчлэх шаардлагатай. Шинээр эхэлсэн ажлууд шинэ хөдөлгүүрийг анхдагчаар ашиглах бол хуучин хувилбар дээр эхэлсэн ажлууд аюулгүйгээр үргэлжлэн ажиллах юм. Мөн хөгжүүлэгчид үр дүнг бүрэн авахын тулд алхмуудаа давтан ажиллахад алдаагүй (idempotent) байхаар төлөвлөх эсвэл maxRetries = 0 тохиргоог ашиглах хэрэгтэй.\n\nЭнэхүү шинэчлэл нь хиймэл оюун ухааны агент болон нарийн төвөгтэй урсгалуудыг бүтээдэг хөгжүүлэгчдэд илүү хурдан бөгөөд үр ашигтай ажиллах боломжийг олгож байна. Хэрэв та өмнөх 4.x хувилбар дээр яваа бол шилжилтийн гарын авлагыг сайтар шалгаж үзэх нь зүйтэй.",
+   "published": "2026-11-25T00:00:00Z",
+   "added": "2026-11-25T20:30:52Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]
