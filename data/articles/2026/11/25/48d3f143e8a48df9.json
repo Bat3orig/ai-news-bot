@@ -1,0 +1,17 @@
+{
+ "id": "48d3f143e8a48df9",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Digg",
+ "url": "https://digg.com/tech/t9fo4cmd",
+ "image": "https://digg.com/tech/t9fo4cmd/opengraph-image?6a9dc854e855d953",
+ "title": "Anthropic says Claude helped rewrite its Messages API in Rust. The tests weren’t enough.",
+ "summary_en": "Anthropic reports about 70% less CPU per request in one region, after agents hunted mismatches and humans reviewed fixes.",
+ "title_mn": "Anthropic: Claude-ийн тусламжтайгаар Messages API-г Python-оос Rust руу шилжүүлжээ",
+ "summary_mn": "Anthropic нь Messages API-ийн боловсруулалтыг Python-оос Rust руу Claude-ийн тусламжтайгаар шилжүүлсэн талаар инженерийн дэлгэрэнгүй тайлан нshared хийлээ. Нэг бүс нутагт CPU хэрэглээ нэг хүсэлтэд ойролцоогоор 70% буурчээ.",
+ "body_mn": "Anthropic-ийн 11-р сарын 25-ны мэдэгдлээр Claude-ийн тусламжтайгаар Messages API-ийн боловсруулах хэсгийг Python-оос Rust руу шилжүүлсэн байна. Messages API бол клиент болон Claude Code, Cowork зэрэг Anthropic-ийн апп-ууд Claude-д хандах интерфейс юм. Шилжилт нь моделийн дотоод бус, моделийн дуудлагын эргэн тойронд явагдсан процесс байв.\n\nКомпанийн мэдээлснээр нэг бүс нутагт CPU хэрэглээ нэг хүсэлтэд ойролцоогоор 70% буурсан, харин median time to first token ойролцоогоор 20% багассан гэжээ. Гэхдээ 20%-ийн хугацаа нь бүх хариултыг 20% хурдан дуусгана гэсэн утгагүй бөгөөд Claude Code-ын хүсэлтүүд дээр богино хугацааны хэмжилтээс гаралтай.\n\nClaude Rust-ийн үндсэн хүсэлтийн замын анхны хувилбарыг ойролцоогоор нэг долоо хоногт бичсэн ч энэ нь бүх шилжилтийн хугацаа биш. Тестийн 98 орчим хувь нь давсан ч production хүсэлтийн зөвхөн ойролцоогоор дөрөвний нэгт нь оролтын боловсруулалт Python-тэй таарчээ. Аудитаар 100 гаруй сул assertion илэрсэн нь тестийн үр дүн дангаараа хангалтгүйг харуулжээ.\n\nАнтропик live traffic дээр shadowing аргаар хуучин болон шинэ системийг харьцуулсан. Claude-ийн хариулт санамсаргүй байдаг тул моделийг нэг удаа дуудаж, гаралтыг Rust руу дахин тоглуулан урд болон хойно боловсруулалтын алхмуудыг харьцуулжээ.\n\nDeveloper-уудын хувьд энэ нь AI-аар том системийг шилжүүлэхдээ зөвхөн тест хангалтгүй, production traffic дээрх харьцуулалт чухал гэдгийг харуулсан жишээ юм.",
+ "published": "2026-11-25T16:26:00Z",
+ "added": "2026-11-25T18:30:53Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
