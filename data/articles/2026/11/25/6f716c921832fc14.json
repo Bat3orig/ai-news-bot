@@ -1,0 +1,17 @@
+{
+ "id": "6f716c921832fc14",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.6.2",
+ "image": "https://opengraph.githubassets.com/a15cfcb6848b9dc58a39b68261fe00a3b46c65fa76e7f339fcd8cdbfcb7d192f/nestjs/nest/releases/tag/v12.6.2",
+ "title": "nest v12.6.2",
+ "summary_en": "v12.6.2 (2026-11-25) Notable changes Fixes of 12.6.1 applyDecorators() type-checks again as a class, method and property decorator. In 12.6.1 its return type became a union that TypeScript rejects where a composed decorator is applied (TS1270), also with skipLibCheck . It now also types as a parameter decorator, which it supports since 12.6.1 – #18710 Behaviour changes @nestjs/platform-node : res.send() pipes a Readable stream, as Fastify's reply.send() does, with application/octet-stream unless a Content-Type is set. It used to send the stream's fields as JSON (e.g. the path of a file…",
+ "title_mn": "NestJS v12.6.2: applyDecorators-ийн TypeScript алдаа засагдаж, RabbitMQ-ийн асуудал засав",
+ "summary_mn": "NestJS 12.6.2 хувилбар 12.6.1-д гарсан applyDecorators-ийн TS1270 алдааг засч, parameter decorator-ийн дэмжлэгийг нэмжээ. Мөн res.send() стрийм дамжуулах, RabbitMQ-ийн reconnect асуудал зэрэг өөрчлөлтүүд орсон.",
+ "body_mn": "NestJS 12.6.2 хувилбар 12.6.1-ийн үед гарсан хэд хэдэн асуудлыг засав. Хамгийн чухал нь applyDecorators() функцийн буцах төрөл TypeScript-д class, method, property decorator-ийн хувьд дахин зөв ажиллахаар засагдсан. Өмнөх хувилбарт энэ нь TS1270 алдаа гаргаж, skipLibCheck-ийг ашигласан ч асуудал арилдаггүй байв.\n\nӨөрчлөлтүүдийн дунд res.send() нь Readable стримийг Fastify-ийн reply.send() шиг дамжуулдаг болсон. Content-Type тодорхойлоогүй бол application/octet-stream гэж илгээнэ. Өмнө нь стримийн талбаруудыг JSON болгож явуулдаг байсан нь хэрэглэгчдэд хүндрэл үүсгэж байв. StreamableFile нь 204, 205, 304 статустай бол биеийг илгээхгүй болсон.\n\nParseDatePipe нь Feb 30, Sep 31 зэрэг сарын хоногоос хэтэрсэн огноог одоо татгалзана. Хэрэв decorator metadata байхгүй subclass ажиллавал анхааруулга гарна. @nestjs/common-оос олон option, host төрлүүд root-оос экспортлогдоно.\n\nMicroservices-ийн хувьд RabbitMQ дээр таарахгүй мессеж гарвал channel дээр нь negative acknowledge хийдэг болсон. Үүнийг өмнө нь reconnect-ийн дараа шинэ channel-д явуулж PRECONDITION_FAILED алдаа гардаг байв. MQTT-ийн close() нь брокер алга болсон үед хүлээхээ больсон.\n\nDeveloper-т энэ хувилбар засварын тул шинэчлэх нь зүйтэй, ялангуяа applyDecorators болон RabbitMQ ашигладаг бол. Stream болон 204/205/304 хариултын өөрчлөлтийг шалгах хэрэгтэй.",
+ "published": "2026-11-25T14:05:56Z",
+ "added": "2026-11-25T14:30:59Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

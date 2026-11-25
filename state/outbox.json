@@ -18,5 +18,85 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d39dabf3d06d9338",
+   "subtopic": "qwen",
+   "source": "Hacker News",
+   "source_label": "Hacker News",
+   "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+   "image": "https://noahbuilt.it/og-lambda-layers.jpg",
+   "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+   "summary_en": "Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas Comments URL: https://news.ycombinator.com/item?id=50638070 Points: 102 # Comments: 14",
+   "title_mn": "Qwen моделийг AWS Lambda дээр ажиллуулах туршилт: GPU-гүй байсан ч 80 дахин үнэтэй гарлаа",
+   "summary_mn": "Bevyl компанид ажилладаг инженер Qwen3.5-4B дээр суурилсан H2O-Lightning загварыг AWS Lambda дээр хуваан ажиллуулах туршилт хийжээ. Загвар 9.3 ГБ, харин Lambda 3 ГБ хязгаартай тул 32 давхаргыг 5600 гаруй Lambda ажилд хуваасан. Үр дүн нь Google-ийн Gemini Decision 1-ээс 80 гаруй дахин үнэтэй гарчээ.",
+   "body_mn": "Энэ туршилтын санаа нь AWS Lambda-ийн маш олон функцийг зэрэг ажиллуулах чадвараас үүдсэн. Зохиогч Lambda-г ffmpeg зэрэг CPU-д суурилсан ажилд амжилттай ашигладаг байсан тул шууд загвар ажиллуулж болох эсэхийг шалгахыг хүссэн байна.\n\nТуршилтанд Qwen3.5-4B дээр суурилсан, шийдвэр гаргахад зориулагдсан H2O-Lightning загварыг сонгосон. Загварын нийт хэмжээ 9.3 ГБ байсан тул нэг Lambda-д багтахгүй. Харин загвар 32 давхаргатай, давхарга бүр 225 МБ орчим тул нэг давхаргыг нэг Lambda ажил болгон хуваасан. Ажлууд S3-аас оролт уншин, үр дүнгээ буцаан бичдэг idempotent API хэлбэртэй байв.\n\nҮр дүн нь харамсалтай байсан. 4000 токен бүхий баримт уншихад 17 секунд зарцуулж, 3.4 цент төлсөн нь сая токен тутамд 8.40 доллар болж байна. Харин Google-ийн Gemini Decision 1 сая токенд 0.10 доллар үнэтэй тул зохиогчийн систем 80 гаруй дахин үнэтэй гарсан.\n\nЗохиогч гол дүгнэлтээ нэгдүгээрт, нэг давхаргад хэдэн мянган токен оруулах нь GPU-д зориулагдсан том матриц үржүүлэг бөгөөд CPU-гаар үүнийг хямдхан болгох боломжгүй гэж бичжээ. Хоёрдугаарт, open model-ийг одоо энгийн API шиг ашиглах боломжтой болсныг онцолжээ. Developer-т энэ нь хэрэгтэй сургамж: хуваарилсан Lambda-аар загвар ажиллуулах нь зардлын хувьд ашиггүй байж болно.\n\nЭнэ туршилт нь serverless архитектур бүх ачаанд тохирохгүй гэдгийг харуулж байна. Загвар ажиллуулахдаа зөв хардware болон managed inference сонголтыг харьцуулж үзэх нь эдийн засгийн хувьд зүйтэй.",
+   "published": "2026-11-25T03:28:06Z",
+   "added": "2026-11-25T14:30:59Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3786693dcad5eea9",
+   "subtopic": "vibe-coding",
+   "source": "Flavio Copes",
+   "source_label": "Flavio Copes",
+   "url": "https://flaviocopes.com/antigravity/",
+   "image": "https://flaviocopes.com/images/antigravity-guide/og.jpg",
+   "title": "The complete guide to Google Antigravity",
+   "summary_en": "Learn the Google Antigravity app from your first project to daily work: projects, /plan, Gemini 4 and Orchestrator, the browser agent, permissions and the sandbox, rules, skills, MCP, plugins, Automations, slash commands and the agy CLI.",
+   "title_mn": "Google Antigravity-ийн бүрэн гарын авлага: агентаар апп бүтээх алхам алхмаар",
+   "summary_mn": "Google-ийн агент суурьтай кодын хэрэгсэл Antigravity 2.0 апп-ыг суулгах, нэвтрэх, төслөө удирдах зэргийг зааж өгсөн гарын авлага гарлаа. Жишээ болгож гүйлтийн хурд тооцоолох вэбапп бүтээжээ. Агент файл уншиж, код бичиж, терминал ажиллуулж, хөтчөөр туршиж чаддаг.",
+   "body_mn": "Antigravity бол Google-ийн агентад суурилсан кодын хэрэгсэл юм. Хэрэглэгч даалгавраа бичиж өгөхөд Gemini (эсвэл Claude) загварт суурилсан агент файл уншиж, код бичиж, командууд ажиллуулж, вэбапп хөтөчөөр нээж туршилт хийдэг. Гарын авлага нь Antigravity 2.35.1-ийг macOS дээр, Google AI Ultra багцтай ашиглаж туршсан тайлан болно.\n\nҮндсэн ойлголт нь загвар нь зөвхөн текст хариулдаг бөгөөд агент нь түүнд файл засах, терминал, вэб хайлт, хөтөч удирдах хэрэгслүүдийг өгдөг. Агент даалгаврыг шалгаж, үр дүнг шалгаад, дуустал үргэлжлүүлнэ. Төсөл болон командууд компьютер дээр үлддэг ч prompt болон холбогдох код Google-ийн сервер (эсвэл Anthropic-ийн) рүү илгээгддэг тул нууцлалыг анхаарах хэрэгтэй.\n\nТуршилтанд хурдан тооцоологч бүхий вэбапп хийлгэсэн. Хэрэглэгч зай болон цаг оруулахад тэр хурд болон өөр зайн таамагласан цагийг харуулна. Гарын авлагад дэлгэцийн доод хэсэг дэх төсөл, загвар, зөвшөөрлийн сонголтууд, Settings > General > Interface Layout зэргийг тайлбарласан.\n\nЗохиогч Claude Code, Cursor, Gemini CLI-ийн тохиргоо, MCP сервер, skills, rules-ийг импорт хийх боломжтойг онцолжээ. Нэг удаа нэвтэрснээр app, agy CLI болон IDE нэгэн credential ашигладаг.\n\nDeveloper-т энэ гарын авлага practical ач холбогдолтой: агентаар жижиг апп бүтээх дарааллыг туршиж үзэх, rules, skills, worktree зэргийг ашиглах арга заасан. Эхлээд жижиг төсөл дээр туршиж, дараа нь томруулж болно.",
+   "published": "2026-11-25T14:00:00Z",
+   "added": "2026-11-25T14:30:59Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6f716c921832fc14",
+   "subtopic": "nestjs",
+   "source": "nestjs/nest",
+   "source_label": "nestjs/nest",
+   "url": "https://github.com/nestjs/nest/releases/tag/v12.6.2",
+   "image": "https://opengraph.githubassets.com/a15cfcb6848b9dc58a39b68261fe00a3b46c65fa76e7f339fcd8cdbfcb7d192f/nestjs/nest/releases/tag/v12.6.2",
+   "title": "nest v12.6.2",
+   "summary_en": "v12.6.2 (2026-11-25) Notable changes Fixes of 12.6.1 applyDecorators() type-checks again as a class, method and property decorator. In 12.6.1 its return type became a union that TypeScript rejects where a composed decorator is applied (TS1270), also with skipLibCheck . It now also types as a parameter decorator, which it supports since 12.6.1 – #18710 Behaviour changes @nestjs/platform-node : res.send() pipes a Readable stream, as Fastify's reply.send() does, with application/octet-stream unless a Content-Type is set. It used to send the stream's fields as JSON (e.g. the path of a file…",
+   "title_mn": "NestJS v12.6.2: applyDecorators-ийн TypeScript алдаа засагдаж, RabbitMQ-ийн асуудал засав",
+   "summary_mn": "NestJS 12.6.2 хувилбар 12.6.1-д гарсан applyDecorators-ийн TS1270 алдааг засч, parameter decorator-ийн дэмжлэгийг нэмжээ. Мөн res.send() стрийм дамжуулах, RabbitMQ-ийн reconnect асуудал зэрэг өөрчлөлтүүд орсон.",
+   "body_mn": "NestJS 12.6.2 хувилбар 12.6.1-ийн үед гарсан хэд хэдэн асуудлыг засав. Хамгийн чухал нь applyDecorators() функцийн буцах төрөл TypeScript-д class, method, property decorator-ийн хувьд дахин зөв ажиллахаар засагдсан. Өмнөх хувилбарт энэ нь TS1270 алдаа гаргаж, skipLibCheck-ийг ашигласан ч асуудал арилдаггүй байв.\n\nӨөрчлөлтүүдийн дунд res.send() нь Readable стримийг Fastify-ийн reply.send() шиг дамжуулдаг болсон. Content-Type тодорхойлоогүй бол application/octet-stream гэж илгээнэ. Өмнө нь стримийн талбаруудыг JSON болгож явуулдаг байсан нь хэрэглэгчдэд хүндрэл үүсгэж байв. StreamableFile нь 204, 205, 304 статустай бол биеийг илгээхгүй болсон.\n\nParseDatePipe нь Feb 30, Sep 31 зэрэг сарын хоногоос хэтэрсэн огноог одоо татгалзана. Хэрэв decorator metadata байхгүй subclass ажиллавал анхааруулга гарна. @nestjs/common-оос олон option, host төрлүүд root-оос экспортлогдоно.\n\nMicroservices-ийн хувьд RabbitMQ дээр таарахгүй мессеж гарвал channel дээр нь negative acknowledge хийдэг болсон. Үүнийг өмнө нь reconnect-ийн дараа шинэ channel-д явуулж PRECONDITION_FAILED алдаа гардаг байв. MQTT-ийн close() нь брокер алга болсон үед хүлээхээ больсон.\n\nDeveloper-т энэ хувилбар засварын тул шинэчлэх нь зүйтэй, ялангуяа applyDecorators болон RabbitMQ ашигладаг бол. Stream болон 204/205/304 хариултын өөрчлөлтийг шалгах хэрэгтэй.",
+   "published": "2026-11-25T14:05:56Z",
+   "added": "2026-11-25T14:30:59Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b4e620a556c2bfcc",
+   "subtopic": "css-web",
+   "source": "CSS-Tricks",
+   "source_label": "CSS-Tricks",
+   "url": "https://css-tricks.com/css-style-queries-as-conditional-modifiers/",
+   "image": "https://css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png",
+   "title": "Style Queries as Conditional Modifiers",
+   "summary_en": "Where style queries shine is when the condition and the styles need to live in different places, or when one condition needs to affect several things at once: components that keep working, and adapt sensibly, no matter where they end up. Style Queries as Conditional Modifiers originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+   "title_mn": "CSS style query-г нөхцөлт модификатор болгон ашиглах нь",
+   "summary_mn": "Container style query нь custom property-ийн утгаар дизайныг контекстээр нь өөрчлөх боломж олгоно. CSS-Tricks-ийн энэ нийтлэл card-ын compact хувилбарыг жишээ болгон харуулжээ. Одоо Baseline Newly Available болсон.",
+   "body_mn": "Модификатор класс эсвэл attribute ашиглах уламжлалт арга нь ихэвчлэн элементийн өөрийнх нь төрөлд тулгуурладаг. Гэвч layout-д элемент хаана байгаагаас шалтгаалан өөрчлөгдөх хэрэгтэй байдаг. Жишээ нь card-ууд хэсэг бүрт өөр padding-тэй байх шаардлага гарна.\n\nЭнэ асуудлыг container style query шийдэж чадна. Нийтлэлд дурдсанаар, container style query нь @container at-rule-ийг ашиглан size биш custom property-ийн утгыг шалгадаг. Жишээ нь хэрэв ойрын container дээр --theme: high-contrast байвал card-ийн стилийг өөрчилнө. Одоо энэ функц Baseline Newly Available төлөвт орсон.\n\nЗохиолч анхаарах зүйл дурдсан: style query нь элементийн өөрийнх нь биш дээд талын ancestor-ийн custom property-г шалгадаг. Иймээс custom property-г элементээс дээр тохируулах хэрэгтэй. Үүнийг мартахад хүмүүс ихэвчлэн алдаа гаргадаг.\n\nМөн if() функц ирж байгаа бөгөөд нэг property-д ашиглахад илүү хялбар, харин style query олон property-тэй дүрмийг шалгаж чадна. Медиа query, container query, :has() эсвэл эцэг хэсгийн утгыг бүгдийг нь custom property-ээр удирдах боломжтой.\n\nDeveloper-т энэ нь дизайны системд нэг стилийг нэг удаа бичээд янз бүрийн контекстээр удирддаг практик арга юм. Хөтчийн дэмжлэгээ шалгаад ашиглах нь зүйтэй.",
+   "published": "2026-11-25T14:06:34Z",
+   "added": "2026-11-25T14:30:59Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]

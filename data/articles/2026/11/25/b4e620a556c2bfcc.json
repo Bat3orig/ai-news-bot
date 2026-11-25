@@ -1,0 +1,17 @@
+{
+ "id": "b4e620a556c2bfcc",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/css-style-queries-as-conditional-modifiers/",
+ "image": "https://css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png",
+ "title": "Style Queries as Conditional Modifiers",
+ "summary_en": "Where style queries shine is when the condition and the styles need to live in different places, or when one condition needs to affect several things at once: components that keep working, and adapt sensibly, no matter where they end up. Style Queries as Conditional Modifiers originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "title_mn": "CSS style query-г нөхцөлт модификатор болгон ашиглах нь",
+ "summary_mn": "Container style query нь custom property-ийн утгаар дизайныг контекстээр нь өөрчлөх боломж олгоно. CSS-Tricks-ийн энэ нийтлэл card-ын compact хувилбарыг жишээ болгон харуулжээ. Одоо Baseline Newly Available болсон.",
+ "body_mn": "Модификатор класс эсвэл attribute ашиглах уламжлалт арга нь ихэвчлэн элементийн өөрийнх нь төрөлд тулгуурладаг. Гэвч layout-д элемент хаана байгаагаас шалтгаалан өөрчлөгдөх хэрэгтэй байдаг. Жишээ нь card-ууд хэсэг бүрт өөр padding-тэй байх шаардлага гарна.\n\nЭнэ асуудлыг container style query шийдэж чадна. Нийтлэлд дурдсанаар, container style query нь @container at-rule-ийг ашиглан size биш custom property-ийн утгыг шалгадаг. Жишээ нь хэрэв ойрын container дээр --theme: high-contrast байвал card-ийн стилийг өөрчилнө. Одоо энэ функц Baseline Newly Available төлөвт орсон.\n\nЗохиолч анхаарах зүйл дурдсан: style query нь элементийн өөрийнх нь биш дээд талын ancestor-ийн custom property-г шалгадаг. Иймээс custom property-г элементээс дээр тохируулах хэрэгтэй. Үүнийг мартахад хүмүүс ихэвчлэн алдаа гаргадаг.\n\nМөн if() функц ирж байгаа бөгөөд нэг property-д ашиглахад илүү хялбар, харин style query олон property-тэй дүрмийг шалгаж чадна. Медиа query, container query, :has() эсвэл эцэг хэсгийн утгыг бүгдийг нь custom property-ээр удирдах боломжтой.\n\nDeveloper-т энэ нь дизайны системд нэг стилийг нэг удаа бичээд янз бүрийн контекстээр удирддаг практик арга юм. Хөтчийн дэмжлэгээ шалгаад ашиглах нь зүйтэй.",
+ "published": "2026-11-25T14:06:34Z",
+ "added": "2026-11-25T14:30:59Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

@@ -1,0 +1,17 @@
+{
+ "id": "3786693dcad5eea9",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/antigravity/",
+ "image": "https://flaviocopes.com/images/antigravity-guide/og.jpg",
+ "title": "The complete guide to Google Antigravity",
+ "summary_en": "Learn the Google Antigravity app from your first project to daily work: projects, /plan, Gemini 4 and Orchestrator, the browser agent, permissions and the sandbox, rules, skills, MCP, plugins, Automations, slash commands and the agy CLI.",
+ "title_mn": "Google Antigravity-ийн бүрэн гарын авлага: агентаар апп бүтээх алхам алхмаар",
+ "summary_mn": "Google-ийн агент суурьтай кодын хэрэгсэл Antigravity 2.0 апп-ыг суулгах, нэвтрэх, төслөө удирдах зэргийг зааж өгсөн гарын авлага гарлаа. Жишээ болгож гүйлтийн хурд тооцоолох вэбапп бүтээжээ. Агент файл уншиж, код бичиж, терминал ажиллуулж, хөтчөөр туршиж чаддаг.",
+ "body_mn": "Antigravity бол Google-ийн агентад суурилсан кодын хэрэгсэл юм. Хэрэглэгч даалгавраа бичиж өгөхөд Gemini (эсвэл Claude) загварт суурилсан агент файл уншиж, код бичиж, командууд ажиллуулж, вэбапп хөтөчөөр нээж туршилт хийдэг. Гарын авлага нь Antigravity 2.35.1-ийг macOS дээр, Google AI Ultra багцтай ашиглаж туршсан тайлан болно.\n\nҮндсэн ойлголт нь загвар нь зөвхөн текст хариулдаг бөгөөд агент нь түүнд файл засах, терминал, вэб хайлт, хөтөч удирдах хэрэгслүүдийг өгдөг. Агент даалгаврыг шалгаж, үр дүнг шалгаад, дуустал үргэлжлүүлнэ. Төсөл болон командууд компьютер дээр үлддэг ч prompt болон холбогдох код Google-ийн сервер (эсвэл Anthropic-ийн) рүү илгээгддэг тул нууцлалыг анхаарах хэрэгтэй.\n\nТуршилтанд хурдан тооцоологч бүхий вэбапп хийлгэсэн. Хэрэглэгч зай болон цаг оруулахад тэр хурд болон өөр зайн таамагласан цагийг харуулна. Гарын авлагад дэлгэцийн доод хэсэг дэх төсөл, загвар, зөвшөөрлийн сонголтууд, Settings > General > Interface Layout зэргийг тайлбарласан.\n\nЗохиогч Claude Code, Cursor, Gemini CLI-ийн тохиргоо, MCP сервер, skills, rules-ийг импорт хийх боломжтойг онцолжээ. Нэг удаа нэвтэрснээр app, agy CLI болон IDE нэгэн credential ашигладаг.\n\nDeveloper-т энэ гарын авлага practical ач холбогдолтой: агентаар жижиг апп бүтээх дарааллыг туршиж үзэх, rules, skills, worktree зэргийг ашиглах арга заасан. Эхлээд жижиг төсөл дээр туршиж, дараа нь томруулж болно.",
+ "published": "2026-11-25T14:00:00Z",
+ "added": "2026-11-25T14:30:59Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
