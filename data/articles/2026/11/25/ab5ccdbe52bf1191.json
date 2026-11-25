@@ -1,0 +1,17 @@
+{
+ "id": "ab5ccdbe52bf1191",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Tech Times",
+ "url": "https://www.techtimes.com/articles/331497/20261125/anthropic-rolls-out-claude-artifacts-that-helps-create-new-apps-using-ai-windows-mac.htm",
+ "image": "https://d.techtimes.com/en/full/479138/anthropic-claude-artifacts.png",
+ "title": "Anthropic Rolls Out Claude Artifacts That Helps Create New Apps Using AI on Windows, Mac",
+ "summary_en": "Anthropic’s Claude has rolled out the Artifacts feature, and it helps users create apps using the AI on Windows and Mac PCs.",
+ "title_mn": "Claude Artifacts-аас Mac болон Windows дээр ажиллах апп үүсгэх боломж нэвтэрлээ",
+ "summary_mn": "Anthropic компани Claude хэрэглэгчдэд artifact-аа Mac болон Windows дээрх нативь десктоп апп болгон суулгах \"Install as app\" функцийг бета хэлбэрээр нэвтрүүллээ. Функц бүх Claude төлөвлөгөөд хамаарна.",
+ "body_mn": "Anthropic компани Claude хэрэглэгчдэд artifact-уудаа Mac болон Windows дээр ажиллах нативь апп болгон суулгах боломжийг нэмжээ. Энэ функц Claude десктоп аппын Share цэсээр хандах бөгөөд одоогоор бета хэлбэрээр нэвтэрч байна.\n\nArtifact нь анх график, вэб хуудас, баримт зэрэг нэг удаагийн гаралт байсан ч одоо хэрэглэгчид өдөр тутам ашигладаг хэрэгсэл болжээ. Жишээ нь календарь, имэйлээс мэдээлэл татдаг уулзалтын бэлтгэлийн хуудас эсвэл захиалгын хяналтын хэрэгсэл гэх мэт. Суулгасан апп бүр өөрийн дүрс тэмдэг, цонхтой байж, Claude-аас тусдаа ажиллана.\n\nЭнэ апп нь тусдаа API түлхүүр шаардахгүй, харин хэрэглэгчийн Claude дансыг ашигладаг. Апп-аас гарах Claude хүсэлтүүд тухайн төлөвлөгөөний ашиглалтын хязгаарт тооцогдоно. Artifact шинэчлэгдэхэд суулгасан апп автоматаар шинэчлэгдэнэ. Мөн код баталгаажуулалт, багцлалт, түгээлтийн тохиргоо шаардлагагүй гэж Anthropic тайлбарлажээ.\n\nХөгжүүлэгчдэд энэ нь прототип хурдан хийх, дотоод хэрэгслүүдийг хялбар тараах боломж олгож байна. Харин Team болон Enterprise төлөвлөгөөнд админ эрхийн тохиргоог анхаарах шаардлагатай.",
+ "published": "2026-11-25T09:55:32Z",
+ "added": "2026-11-25T10:30:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 5
+}
