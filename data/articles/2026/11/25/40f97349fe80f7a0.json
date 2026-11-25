@@ -1,0 +1,17 @@
+{
+ "id": "40f97349fe80f7a0",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/antigravity-swarm/",
+ "image": "https://flaviocopes.com/images/antigravity-swarm/og.jpg",
+ "title": "Trying /swarm in Google Antigravity",
+ "summary_en": "I ran Antigravity /swarm with Orchestrator (Gemini 4 Neon and Hydrogen) on a three-area audit of flaviocopes.com. How it works, what the verifier caught, and when one agent is still better.",
+ "title_mn": "Google Antigravity-ийн /swarm командыг бодитоор туршиж үзэв",
+ "summary_mn": "Antigravity-ийн /swarm команд нь нэг агент хийж чадахгүй томоохон аудитыг хэд хэдэн агентаар зэрэг хийлгэх боломжтойг туршилтаар харуулав. Orchestrator сонголтоор planner ба executor загваруудыг хослуулж болно.",
+ "body_mn": "Kevin Hou-ийн зөвлөснөөр Gemini 4 Neon болон Orchestrator сонголтыг /swarm командтай хамт ашиглах туршилтыг Flavio Copes flaviocopes.com репозиторт хийжээ. Antigravity-ийн Orchestrator нь нэг чатын дотор илүү том planner загвар төлөвлөгөө гаргаж, харин хурдан executor загвар хайлт, файл засвар, build, тест хийдэг. Google AI Pro болон AI Ultra төлөвлөгөөнд ийм хуваарилалт байдаг.\n\nТуршилтад зөвхөн уншдаг аудит хийлгэсэн. Линк, зураг, build гэсэн гурван чиглэлд тусдаа агент ажиллаж, нэмэлтээр verifier агент нь мэдэгдэл бүрийг шалгасан. Coordinator нь өөрөө ажил хийхгүй, харин workers-ыг удирдаж, тэдний ажлыг Swarm UI-аар хянадаг. Board хэсэгт агентууд хоорондоо мессежээр харилцаж, файлын зам болон мөрийн дугаараар тайлагнасан.\n\nЭнэ туршилтын гол үр дүн бол /swarm нь том repo-г хуваасан хэсгүүдээр зэрэгцүүлэн шалгах хэрэгтэй үед ашигтай байна. Харин энгийн засвар дээр нэг агент илүү хурдан байж магадгүй. Хөгжүүлэгчид зориулалтаа сайтар тодорхойлж, read-only зааврыг тодорхой бичвэл үр дүн илүү найдвартай гарна. Graph хэсгийн Mentions болон Hive харагдац нь агентуудын харилцааг хянах туслах хэрэгсэл юм.",
+ "published": "2026-11-25T11:00:00Z",
+ "added": "2026-11-25T11:30:48Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
