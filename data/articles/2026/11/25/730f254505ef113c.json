@@ -1,0 +1,17 @@
+{
+ "id": "730f254505ef113c",
+ "subtopic": "packages",
+ "source": "Frontend Focus",
+ "source_label": "Frontend Focus",
+ "url": "https://frontendfoc.us/issues/768",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1795606329/zfisuejumjtruxporeby.jpg",
+ "title": "The things you can now do directly in the browser",
+ "summary_en": "🚀 Frontend Focus #​768 — November 25, 2026 | Read on the web Things You Can Do With a Browser in 2027 — Luigi returns with a sequel to the popular browser-2020 list, highlighting some of the lesser-known things browsers can do today, including HTML-in-Canvas, the < model > element, HDR, on-device AI, hardware APIs, and more. Each feature is quickly explained alongside a browser support table. Luigi De Rosa Agents Didn’t Clear Your Plate. They Dumped Reviews on It — Your agents write PRs in minutes, then eat your afternoon in review. When did ‘saving time’ start to mean babysitting agents’…",
+ "title_mn": "Frontend Focus: Nudeps, Ladybird alpha болон браузерын шинэ боломжууд",
+ "summary_mn": "Frontend Focus-ийн #768 дугаарт npm пакетуудыг bundler-гүйгээр браузерт шууд импортлох Nudeps, macOS болон Linux дээр alpha хувилбарлагдсан Ladybird браузер зэрэг шинэ хэрэгслүүд онцлогдов. Firefox 161 нь CSS random() функцийг дэмжсэн байна.",
+ "body_mn": "Frontend Focus-ийн энэ дугаарт веб хөгжүүлэгчдэд ач холбогдолтой хэд хэдэн хэрэгсэл, хувилбар багтжээ. Хамгийн анхаарал татсан нь Лея Веру болон Дмитрий Шарабин нарын хөгжүүлсэн Nudeps юм. Энэ хэрэгсэл нь npm багцуудыг суулгаад, bundler ашиглалгүйгээр браузер дотроос нэрээр нь импортлох боломжийг олгодог.\n\nӨөр нэг онцлох зүйл бол Ladybird браузер юм. Энэ нь шинээр бүтнээр нь бичигдсэн browser engine төсөл бөгөөд одоо macOS болон Linux дээр alpha хувилбараар татаж авах боломжтой болсон. Simon Willison энэ alpha хувилбарыг туршаад \"гайхалтай их хүсэл тэмүүлэлтэй төсөл\" гэж үнэлжээ.\n\nМөн Firefox 161 хувилбар CSS random() функцийг дэмжсэн нь онцлог юм. Энэ функцийг Chrome болон Safari аль хэдийн дэмждэг байсан. Дизайнерууд болон фронтенд хөгжүүлэгчид үүнийг ашиглан элементүүдэд санамсаргүй боловч удирдлагатай хэв маягийг өгч болно. Түүнчлэн Compression Dictionary Transport дэмжлэг нэмэгдсэн.\n\nЭнэ дугаар нь мөн CSS layout, CSS layers, browser дэмжлэгийн хүснэгт зэрэг веб платформын сэдвүүдийг хамарсан бөгөөд веб хөгжүүлэгчдэд шинэ боломжуудыг судлах сайн эх сурвалж болно.",
+ "published": "2026-11-25T00:00:00Z",
+ "added": "2026-11-25T17:01:01Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
