@@ -238,5 +238,25 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "69c0601d70f93f1e",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "title": "Copilot code review billing will default to the organization",
+   "summary_en": "If you haven’t chosen how to bill Copilot code review for members with a Copilot license, those reviews will be billed to your organization starting December 30, 2026. To keep…",
+   "title_mn": "Copilot кодын шүүлтийн төлбөр байгууллага руу шилжихээр боллоо",
+   "summary_mn": "GitHub Copilot кодын шүүлтийн тохиргоог гараар сонгоогүй бол 12-р сарын 30-наас байгууллагын зардалд автоматаар тооцогдоно.",
+   "body_mn": "GitHub Copilot кодын шүүлтийн (code review) төлбөрийн бүтцэд өөрчлөлт орж байна. Хэрэв админууд тусгайлан төлбөрийн сонголт хийгээгүй бол 2026 оны 12-р сарын 30-наас эхлэн Copilot эрхтэй хэрэглэгчдийн хийсэн бүх кодын шүүлтийн төлбөрийг харьяа байгууллагаас нь (organization) автоматаар суутгах горимд шилжүүлнэ.\n\nОдоогоор байгууллагын тохиргоо сонгогдоогүй тохиолдолд төлбөртэй Copilot эрхтэй хэрэглэгчийн өөрийнх нь эрхээс зарцуулагддаг байсан юм. Хэрэв хуучин горимыг хэвээр хадгалахыг хүсвэл Enterprise эсвэл Organization-ийн Copilot бодлогын тохиргоо руу орж \"Member\" сонголтыг 12-р сарын 30-наас өмнө гараар идэвхжүүлэх шаардлагатай.\n\nБайгууллагын зардалд тооцохын тулд AI Credits төлбөрт ашиглалтыг идэвхжүүлсэн байх ёстой бөгөөд энэ нь байгууллагын нийт зардлыг нэмэгдүүлж болзошгүй тул багийн удирдлагууд болон DevOps инженерууд тохиргоогоо эртнээс шалгахыг зөвлөж байна.",
+   "published": "2026-11-25T22:18:03Z",
+   "added": "2026-11-25T22:30:59Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
  }
 ]
