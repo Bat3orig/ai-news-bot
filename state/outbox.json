@@ -98,5 +98,25 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "19a82ac58b4c0c64",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "WinBuzzer",
+   "url": "https://winbuzzer.com/2026/11/25/claude-ship-can-approve-github-code-changes-under-team-rules-xcxwbn/",
+   "image": "https://winbuzzer.com/wp-content/uploads/2026/11/Claude-Ship.webp",
+   "title": "Anthropic Introduces Claude Ship Which Can Sign Off GitHub Pull Requests",
+   "summary_en": "Anthropic’s Claude Ship beta lets teams decide which GitHub code changes it can approve. GitHub still enforces any checks or human sign-offs a repository requires.",
+   "title_mn": "Anthropic Claude Ship бета хувилбараар GitHub pull request-ийг зөвшөөрч чадна",
+   "summary_mn": "Anthropic 11-р сарын 23-нд Claude Ship бета хувилбараа гаргасан. Энэ нь PR Steward-аар засвар хийж, Claude Approvals-аар багийн бодлогод нийцсэн өөрчлөлтийг зөвшөөрөх боломжтой.",
+   "body_mn": "Anthropic-ийн Claude Ship бета нь GitHub дээрх pull request-үүдийг засаж, багийн бодлогод нийцсэн өөрчлөлтийг зөвшөөрч чаддаг. Энэ нь PR Steward болон Claude Approvals гэсэн хоёр агентаас бүрдэнэ. PR Steward тестийн алдаа, merge зөрчил зэргийг засаж, өөрчлөлт бүрийн дараа тайлбар үлдээдэг. Developer агентыг зогсоож эсвэл чиглүүлэх боломжтой.\n\nClaude Approvals нь репозиторид хадгалагдсан бодлогын файлыг уншина. Observe горимд Claude зөвхөн юу зөвшөөрөх байсныг харуулж, enforcement горимд GitHub review хийж нэг approval өгнө. GitHub-ийн branch protection дүрмүүд хүний батлалтыг шаардвал тэр хэвээр үлдэнэ.\n\nЭнэ нь хөгжүүлэгчдийн code review урсгалд шууд нөлөөлөх тул анхаарах хэрэгтэй. Гэхдээ Anthropic өөрөө алдаа, аюулгүй байдлын асуудлыг алдаж магадгүй гэж анхааруулжээ. Claude Ship нь 11-р сарын 23-нд зарлагдсан.",
+   "published": "2026-11-25T15:48:06Z",
+   "added": "2026-11-25T16:30:51Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]
