@@ -1,0 +1,17 @@
+{
+ "id": "60eae85783b84675",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332",
+ "image": "https://opengraph.githubassets.com/919324041eedcaf4a424c836139814d4046b4da5b938e45291280317bc14f2e0/anthropics/claude-code/releases/tag/v2.1.332",
+ "title": "claude-code v2.1.332",
+ "summary_en": "What's changed Added skills from MCP servers (beta). They show as server:skill in the / menu; other skills keep their names Added a PreSkillShellCommand hook event that can refuse a skill or command's inline shell commands as it loads; on 2.1.331 and older, a settings file naming it opens a dialog at start Added \"Always deliver\" to the prompt for held messages from other sessions Added a footer line that stays while a flagged message has your session on a different model, until you pick one with /model Added an OpenTelemetry assistant_response event for text Claude sends through…",
+ "title_mn": "claude-code v2.1.332 хувилбар гарлаа",
+ "summary_mn": "Claude Code хэрэгслийн шинэ хувилбарт MCP серверээс чадвар нэмэх боломж, PreSkillShellCommand дэгээ арга хэмжээ болон олон төрлийн алдаа засагджээ.",
+ "body_mn": "Claude Code хэрэгслийн шинэ v2.1.332 шинэчлэлтээр хөгжүүлэгчдэд зориулсан олон чухал өөрчлөлт болон алдаа засварууд орлоо. Тодруулбал, MCP серверүүдээс шууд чадвар (skills) нэмэх боломжийг beta хэлбэрээр нэмсэн бөгөөд тэдгээр нь / цэсэнд server:skill хэлбэрээр харагдах юм.\n\nМөн PreSkillShellCommand дэгээ арга хэмжээ нэмэгдсэн нь inline shell командуудыг ачаалах явцад татгалзах боломжийг олгож байна. Түүнчлэн claude auth login командыг хадгалах боломжгүй үед алдааг зөв мэдэгддэг болгож сайжруулсан байна.\n\nХөгжүүлэгчдийн анхаарах бас нэгэн чухал зүйл бол автоматаар комьюкт хийх явц гацах, санах ойн хэт ашиглалт, мөн хязгаарлагдмал орчинд пайп (named pipe) болон MCP серверүүдээс үүдэлтэй царцах асуудлуудыг олноор нь шийдвэрлэжээ. Энэхүү шинэчлэлт нь код бичих явцыг илүү тогтвортой, аюулгүй болгож байна.",
+ "published": "2026-11-25T01:32:14Z",
+ "added": "2026-11-25T02:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
