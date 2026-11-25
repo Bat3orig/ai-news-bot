@@ -1,1 +1,22 @@
-[]
+[
+ {
+  "kind": "article",
+  "article": {
+   "id": "12340a69162979ba",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "TestingCatalog AI News",
+   "url": "https://www.testingcatalog.com/anthropic-now-allows-installing-artifacts-as-desktop-apps/",
+   "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/og--1-.png",
+   "title": "Anthropic now allows installing artifacts as desktop apps",
+   "summary_en": "Claude artifacts can be installed as standalone Mac and Windows apps in a beta on all plans, from desktop version 6.28899.0 onward.",
+   "title_mn": "Anthropic: Claude artifact-уудыг Mac болон Windows дээр тусдаа апп болгон суулгах боломжтой боллоо",
+   "summary_mn": "Claude artifact-уудыг Install as app функцээр Mac болон Windows дээр бие даасан десктоп апп болгон суулгаж болох боллоо. Бета хувилбар Free-ээс Enterprise хүртэл төлөвлөгөөнд нээлттэй.",
+   "body_mn": "Anthropic Claude artifact-уудыг Mac болон Windows дээр десктоп апп болгон суулгах боломжийг бета хэлбэрээр нэвтрүүлж эхэллээ. Хэрэглэгч artifact бүтээгээд цэсээс \"Install as app\" сонголтыг сонгоход тусдаа цонх, дүрс бүхий апп үүснэ. macOS дээр Claude Apps фолдерт, Windows дээр Start цэс эсвэл ширээний товчлолд гарна.\n\nСуулгагдсан апп нь хэрэглэгчийн Claude данс болон холболтуудыг ашиглана. Хэрэглэгчийн зөвшөөрлөөр мэдэгдэл илгээх, macOS цэсний мөр эсвэл Windows системийн тавцангийн дүрс нэмэх, товчлуурын шуурхай холбоос сонсох, бусад цонхны дээр харагдах боломжтой. Anthropic-ийн инженер Felix Rieseberg үйлдлийн системийн API-уудыг ашиглаж болно гэж хэлсэн. Багаж, файл менежер, видео засварлагч зэрэг жишээг дурдсан.\n\nХөгжүүлэгчдэд чухал зүйл: апп-ыг багцлах, гарын үсэг зурах, API түлхүүр тохируулах шаардлагагүй. Гэхдээ апп ажиллахад интернэт холболт, Claude Desktop шаардлагатай бөгөөд хувилбар 6.28899.0 эсвэл түүнээс дээш байх ёстой. Суулгагдсан апп Linux, веб, мобайл дээр ажиллахгүй.\n\nАюулгүй байдлын хувьд Anthropic апп-уудыг суулгахаас өмнө шалгадаггүй. Бүх хандалтын зөвшөөрөл тухайн хувилбарт л хамаарч, шинэчлэлт бүрт дахин асууна. Бүрэн компьютерийн хандалтыг зөвхөн өөрийн бүтээсэн эсвэл Team, Enterprise дотор ижил байгууллагын апп-д олгох боломжтой.\n\nInstall as app нь Free, Pro, Max, Ultra, Team, Enterprise төлөвлөгөөнд бета хэлбэрээр нээлттэй. HIPAA-д бэлтгэсэн байгууллага болон hybrid байрлуулалт ашиглах боломжгүй.",
+   "published": "2026-11-25T12:56:34Z",
+   "added": "2026-11-25T13:00:56Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ }
+]
