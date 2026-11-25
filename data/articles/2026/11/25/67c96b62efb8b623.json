@@ -1,0 +1,17 @@
+{
+ "id": "67c96b62efb8b623",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Help Net Security",
+ "url": "https://www.helpnetsecurity.com/2026/11/25/anthropic-enterprise-frontier-safeguards-public-beta/",
+ "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/03/11120918/anthropic-2-1500.webp",
+ "title": "Anthropic wants to catch rogue AI activity without retaining your data",
+ "summary_en": "Anthropic launches Enterprise Frontier Safeguards in public beta to enable AI misuse detection while maintaining zero data retention.",
+ "title_mn": "Anthropic Enterprise Frontier Safeguards: ZDR-тай хэрээр хортой AI үйл ажиллагааг илрүүлэх",
+ "summary_mn": "Anthropic Enterprise Frontier Safeguards (EFS) нэртэй бета үйлчилгээг гаргалаа. Энэ нь өгөгдлөө хадгалахгүйгээр олон харилцан үйлдлийн хооронд хортой үйл ажиллагааг илрүүлнэ. Amazon Bedrock болон Google Cloud дээр боломжтой.",
+ "body_mn": "Anthropic Enterprise Frontier Safeguards (EFS)-ийг бета хэлбэрээр нээлттэй болгосон. Энэ систем нь байгууллагууд zero data retention (ZDR) горимоо хадгалсаар, олон харилцан үйлдлийн хооронд хортой AI үйл ажиллагааг илрүүлэх боломжийг олгоно.\n\nХуучин ZDR хамгаалалт нь хүсэлт бүрийг тус тусад нь шалгадаг байсан. Харин EFS нь хэд хэдэн харилцан үйлдлийн хооронд хэв маягийг илрүүлдэг. Илэрсэн эрсдэлийг Safety Case хэлбэрээр гаргаж, SIEM системд холбож болно. Safety Case-д prompt болон хариулт агуулагдахгүй.\n\nӨгөгдөл байгууллагын өөрийн cloud орчинд хадгалагдаж, Anthropic болон cloud түншлэгч нь хуулбар хадгалахгүй гэж мэдэгджээ. Шифрлэлтийн түлхүүрийг байгууллага өөрөө хянана. EFS нь Claude Platform, Claude Platform on AWS, Amazon Bedrock болон Google Cloud дээр боломжтой. Microsoft Foundry дэмжлэг удахгүй нэмэгдэнэ.\n\nХөгжүүлэгчдэд энэ нь эмзэг мэдээлэлтэй системд AI ашиглахад аюулгүй байдлын хяналтыг сайжруулах шинэ сонголт юм. Хэрэгжүүлэх зардал нь S3 эсвэл Cloud Storage-ийн хадгалалтаас хамаарна.",
+ "published": "2026-11-25T09:20:14Z",
+ "added": "2026-11-25T09:30:54Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
