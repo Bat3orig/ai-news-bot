@@ -1,0 +1,17 @@
+{
+ "id": "6465aebedaa8ae1c",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Mashable",
+ "url": "https://mashable.com/tech/claude-artifacts-apps",
+ "image": "https://helios-i.mashable.com/imagery/articles/004mMNo8nzsmJcSC2ZjVf8k/hero-image.fill.size_1200x675.v1795696454.png",
+ "title": "Anthropic's Claude now lets you turn artifacts into apps",
+ "summary_en": "Well, they are kinda like apps anyways.",
+ "title_mn": "Claude дээрх artifact-аа десктоп апп болгон суулгах боломж нэмэгдлээ",
+ "summary_mn": "Anthropic-ийн Claude-д artifact-уудыг \"Install as an app\" сонголтоор десктоп апп болгон суулгах боломж бета хэлбэрээр нэмэгдэж байна. Апп нь мэдэгдэл илгээх, menu bar-д нэмэх зэрэг үйлдэл хийх боломжтой.",
+ "body_mn": "Anthropic-ийн Claude-д artifact гэдэг нь вэбсайт маягийн, диаграм, график, текст, зураг, видео болон интерактив элементүүд агуулж болох ажлын гаралт юм. Өмнө нь эдгээр зөвхөн Claude дотор л харагддаг байсан. Одоо artifact нээгээд зүүн дээд талын цэснээс \"Install as an app\" гэсэн сонголтыг сонгоно.\n\nДесктоп дээр суулгасан апп нь мэдэгдэл илгээх, menu bar-д зүйл нэмэх зэрэг үйлдэл хийх боломжтой. Ерөнхийдөө анхдагчаар хөтөч дээр хийх боломжтой зүйлээс илүүгүй, харин хэрэглэгч зөвшөөрөл тохируулж бүтэн эрхийг өгч болно. Mashable-ийн туршилтаар Mac дээр сайн ажилласан боловч бүх artifact суудаггүй. Claude Docs, Slides, Sheets зэрэг зарим artifact апп болгож чадахгүй гэж компани тайлбарлажээ.\n\nЭнэ боломж бүх төлөвлөгөөнд бета функц хэлбэрээр нэвтэрч байна. Team төлөвлөгөөнд анхдагчаар идэвхтэй, Enterprise-д эзэн асаах хүртэл унтраалттай байна. Хөгжүүлэгчдэд энэ нь Claude-аар хурдан прототип хийж, хэрэглэгчдэд хүргэх шинэ арга болж болзошгүй юм.",
+ "published": "2026-11-26T14:34:09Z",
+ "added": "2026-11-26T15:01:01Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

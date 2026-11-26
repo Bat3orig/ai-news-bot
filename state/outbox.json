@@ -18,5 +18,45 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "246a198f39ab910a",
+   "subtopic": "packages",
+   "source": "Node Weekly",
+   "source_label": "Node Weekly",
+   "url": "https://nodeweekly.com/issues/649",
+   "image": "https://res.cloudinary.com/cpress/image/upload/v1653576619/lgfqinzbdqttwmhvljxb.png",
+   "title": "node:sqlite marked stable",
+   "summary_en": "#​649 — November 26, 2026 Read on the Web Your Tools Are Hiding npm Audits From You — Running npm audit over a fresh Next.js app can show zero vulnerabilities, but a separate audit of its bundled dependencies tells a different story. Zach shows how Next.js can 'sweep audits under the rug' by vendoring dependencies, and has built 📊 Prototype Pollution Report to rank popular frameworks' packages based on their audit results. Zach Leatherman Instant Postgres Branches for Every Agent Run — ClickHouse acquired Xata to bring instant branching, cloning, and scale-to-zero to ClickHouse Managed…",
+   "title_mn": "node:sqlite тогтвортой болж, Fastify аюулгүйн засвар, Jimp 2.2 гарлаа",
+   "summary_mn": "Node.js-ийн дотоод node:sqlite модуль Node 27 alpha 0.2.0-д тогтвортой гэж тэмдэглэгдлээ. Мөн Fastify-ийн хэд хэдэн плагинд чухал аюулгүйн засвар гарч, Jimp 2.2 шинэчлэлт гарлаа.",
+   "body_mn": "Node Weekly-ийн энэ дугаарт Node.js-ийн хувьд хамгийн чухал мэдээ бол node:sqlite модулийг тогтвортой гэж тэмдэглэсэн явдал юм. Энэ модуль хоёр гаруй жилийн турш туршилтын шатанд байсан бөгөөд одоо Node 27 alpha (0.2.0)-ээс эхлэн тогтвортой болжээ. Native addon шаардлагагүй.\n\nАюулгүйн талаас Fastify-ийн хэд хэдэн плагинд засвар гарсан байна. @fastify/express болон @fastify/middie дахь ноцтой middleware bypass, @fastify/reply-from дахь request smuggling зэрэг асуудал орсон тул Fastify ашигладаг төслүүд хамаарлаа шалгаж шинэчлэх хэрэгтэй. AWS Lambda нь Node.js 26-г managed runtime болон container base image-д дэмжиж эхэллээ.\n\nБусад сонирхолтой хэрэгслүүдийн дотор Jimp 2.0, 2.1, 2.2 хувилбарууд энэ долоо хоногт гарсан бөгөөд урт хугацааны алдаануудыг засаж, зурах API нэмжээ. Харин жижиг хувилбар хүсвэл ImageScript 4.0 нь WebP, AVIF, JPEG XL уншиж бичих боломжтой, WASM шаардахгүй. Bloomberg-ийн Stricli CLI фреймворк, Vercel-ийн eve агент фреймворк 1.0 хувилбарт хүрсэн нь мөн анхаарал татна.\n\nМөн Node-ийн main салбарт Ada 4.1 URL парсер орсон нь URL-тэй ажиллахад хурдан болгоно.",
+   "published": "2026-11-26T00:00:00Z",
+   "added": "2026-11-26T15:01:01Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6465aebedaa8ae1c",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Mashable",
+   "url": "https://mashable.com/tech/claude-artifacts-apps",
+   "image": "https://helios-i.mashable.com/imagery/articles/004mMNo8nzsmJcSC2ZjVf8k/hero-image.fill.size_1200x675.v1795696454.png",
+   "title": "Anthropic's Claude now lets you turn artifacts into apps",
+   "summary_en": "Well, they are kinda like apps anyways.",
+   "title_mn": "Claude дээрх artifact-аа десктоп апп болгон суулгах боломж нэмэгдлээ",
+   "summary_mn": "Anthropic-ийн Claude-д artifact-уудыг \"Install as an app\" сонголтоор десктоп апп болгон суулгах боломж бета хэлбэрээр нэмэгдэж байна. Апп нь мэдэгдэл илгээх, menu bar-д нэмэх зэрэг үйлдэл хийх боломжтой.",
+   "body_mn": "Anthropic-ийн Claude-д artifact гэдэг нь вэбсайт маягийн, диаграм, график, текст, зураг, видео болон интерактив элементүүд агуулж болох ажлын гаралт юм. Өмнө нь эдгээр зөвхөн Claude дотор л харагддаг байсан. Одоо artifact нээгээд зүүн дээд талын цэснээс \"Install as an app\" гэсэн сонголтыг сонгоно.\n\nДесктоп дээр суулгасан апп нь мэдэгдэл илгээх, menu bar-д зүйл нэмэх зэрэг үйлдэл хийх боломжтой. Ерөнхийдөө анхдагчаар хөтөч дээр хийх боломжтой зүйлээс илүүгүй, харин хэрэглэгч зөвшөөрөл тохируулж бүтэн эрхийг өгч болно. Mashable-ийн туршилтаар Mac дээр сайн ажилласан боловч бүх artifact суудаггүй. Claude Docs, Slides, Sheets зэрэг зарим artifact апп болгож чадахгүй гэж компани тайлбарлажээ.\n\nЭнэ боломж бүх төлөвлөгөөнд бета функц хэлбэрээр нэвтэрч байна. Team төлөвлөгөөнд анхдагчаар идэвхтэй, Enterprise-д эзэн асаах хүртэл унтраалттай байна. Хөгжүүлэгчдэд энэ нь Claude-аар хурдан прототип хийж, хэрэглэгчдэд хүргэх шинэ арга болж болзошгүй юм.",
+   "published": "2026-11-26T14:34:09Z",
+   "added": "2026-11-26T15:01:01Z",
+   "ai": "claude:claude-haiku-5-5",
+   "score": 4
+  }
  }
 ]
