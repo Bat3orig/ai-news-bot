@@ -1,0 +1,17 @@
+{
+ "id": "4cbf9c8456344c68",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "TechRepublic",
+ "url": "https://www.techrepublic.com/article/news-anthropic-claude-mcp-skills-background-tasks/",
+ "image": "https://assets.techrepublic.com/uploads/2026/11/Focused-Developer-Workstation.png?f=jpeg",
+ "title": "Anthropic Adds MCP Skills and Background Tasks to Claude",
+ "summary_en": "Anthropic lets MCP servers supply Claude with reusable skills and background tasks. See which features are live, supported plans, and what teams should test.",
+ "title_mn": "Anthropic компани Claude-д MCP Skills болон Background Tasks нэмлээ",
+ "summary_mn": "Anthropic компани Model Context Protocol (MCP) стандарт системдээ дахин ашиглах боломжтой skills, background tasks болон хэрэглэгчээс зөвшөөрөл авах интерактив үйлдлүүдийг нэмлээ.",
+ "body_mn": "Anthropic компани Model Context Protocol (MCP)-ийн боломжийг өргөжүүлж, Claude болон Claude Code хэрэгслүүдэд дахин ашиглах боломжтой skills буюу ур чадварууд, дэвсгэр горимд ажиллах background tasks болон зөвшөөрөл хүсэх elicitation чадваруудыг нэмсэн байна. Энэхүү шинэчлэл нь хиймэл оюун ухааны агентуудад олон алхамтай ажлуудыг илүү бие даан гүйцэтгэх боломжийг олгоно.\n\nШинэчлэлийн хүрээнд хөгжүүлэгчид серверийнхээ хажуугаар тусгай зааварчилгаа, шилдэг туршлагуудыг Claude-д түгээх боломжтой болж байна. Тухайлбал, Supabase болон GitHub зэрэг үйлчилгээнүүд төсөл үүсгэх эсвэл устгахын өмнө хэрэглэгчээс баталгаажуулалт шаардах зэргээр аюулгүй байдлыг хангах хяналтын цэгүүдийг бий болгожээ.",
+ "published": "2026-11-26T18:26:58Z",
+ "added": "2026-11-26T18:30:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

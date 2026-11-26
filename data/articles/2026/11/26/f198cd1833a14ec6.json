@@ -1,0 +1,17 @@
+{
+ "id": "f198cd1833a14ec6",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "TestingCatalog AI News",
+ "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbUd5Ti0tSEhKREU3VnhCQy1aY3E5cVpCME9aaWRQZm81c3FwUVN0bWR6RWxVOXFVLTNVS3FrLWdhNEZwZXdac2NuVU5pb3Q2bmNPWnlqenFEdzdZZEZBLV9sd1ZqWmdrdXlITDhqdDJiUGU0SW9tOUV6R2RVWW5INzVhVGFHbXJkanVTTGpSVWQ?oc=5",
+ "image": "",
+ "title": "Anthropic prepares Google Drive file browser for Claude",
+ "summary_en": "",
+ "title_mn": "Anthropic компани Claude-д зориулсан Google Drive файлын хөтчийг бэлтгэж байна",
+ "summary_mn": "Anthropic компани Claude хиймэл оюун ухаандаа Google Drive файлын сан руу шууд хандах боломжийг олгох файлын хөтөч нэмэхээр бэлтгэж байна.",
+ "body_mn": "TestingCatalog-ийн мэдээлснээр Anthropic компани Claude туслагчдаа Google Drive дээрх файлуудыг шууд удирдах, үзэх боломжийг олгох шинэ integrations буюу интеграцчилал бэлтгэж байна. Энэ нь хэрэглэгчдэд үүлэн дэх баримт бичгүүдтэйгээ ажиллахад илүү хялбар болгох юм.\n\nХөгжүүлэгчид болон багийн хамт олон энэхүү боломжоор дамжуулан Claude-д төслийн баримт бичиг, код болон бусад файлуудыг шууд уншуулж, хайлт хийлгэх замаар ажлын бүтээмжрээ өсгөх боломжтой болно.",
+ "published": "2026-11-26T18:01:27Z",
+ "added": "2026-11-26T18:30:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
