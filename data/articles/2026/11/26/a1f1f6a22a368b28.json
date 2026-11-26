@@ -1,0 +1,17 @@
+{
+ "id": "a1f1f6a22a368b28",
+ "subtopic": "qwen",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+ "image": "https://opengraph.githubassets.com/f73c3894db36c08507d1836f301387360555a84d42d599d8fb13f575478f19ce/alesha-pro/llm.asm",
+ "title": "Bare Metal Qwen",
+ "summary_en": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 106 # Comments: 22",
+ "title_mn": "Bare Metal Qwen: Линукс болон Визгүйгээр шууд төхөөрөмж дээр ажиллах OS",
+ "summary_mn": "Qwen3-0.6B загварыг ямар нэгэн үйлдлийн систем, C эсвэл Rust хэлний хэрэглүүргүйгээр шууд x86-64 техник хангамж эсвэл KVM дээр ажиллуулах боломжтой standalone bootable үйлдлийн систем бүтээжээ.",
+ "body_mn": "Энэхүү сонирхолтой төсөл нь Qwen/Qwen3-0.6B загварыг ямар нэгэн Linux, Windows, C, Rust болон libc-ийн хамааралгүйгээр шууд техник хангамж эсвэл KVM дээр ажиллуулах боломжтой 64-бит x86-64 үйлдлийн систем юм. Дискгүй Proxmox VE виртуал машин дээр hybrid BIOS+UEFI ISO файл ашиглан амжилттай ажиллаж байгаа ажээ.\n\nУг сингл ISO файл нь ердөө 23 КБ хэмжээтэй кернел, GRUB2 Multiboot 1 тохиргоо болон 649 МБ жинтэй .asmbin загварыг өөртөө багтаасан бөгөөд нийтдээ ~661 МБ болж байна. Систем нь санах ойд бүхлээрээ ачаалагддаг тул ямар нэгэн хатуу диск шаардлагагүй юм. Мөн 2 МБ хэмжээтэй huge pages ашиглан санах ойн хандалтыг оновчилсноор стандарт Linux mmap() эсвэл llama.cpp CPU Q8_0-оос илүү хурдтай ажиллаж байна.\n\nХөгжүүлэгчдийн хувьд энэ нь хиймэл оюун ухааны загварыг техник хангамжийн түвшинд хэрхэн туйлын хөнгөн байдлаар буулгаж болохыг харуулсан техникийн гүнзгий туршилт юм. PS/2 гар болон COM1 сериалаар зэрэг холбогдож олон эргэлттэй (multi-turn) чат горимоор ажиллах ба KV-cache санах ойг оновчтой удирддаг. Low-level систем хөгжүүлэлт болон LLM-ийн дотоод бүтцийг сонирхогчдод маш сонирхолтой материал болжээ.",
+ "published": "2026-11-25T22:15:34Z",
+ "added": "2026-11-26T06:00:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
