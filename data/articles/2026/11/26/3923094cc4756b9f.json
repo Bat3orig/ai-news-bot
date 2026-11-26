@@ -1,0 +1,17 @@
+{
+ "id": "3923094cc4756b9f",
+ "subtopic": "openai",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+ "image": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg",
+ "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+ "summary_en": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 113 # Comments: 58",
+ "title_mn": "OpenAI GPT-6.2 ашиглалтын хязгаарлалтыг шинэчиллээ",
+ "summary_mn": "OpenAI компани гаргасан тооцооллын алдаагаа зассанаар GPT-6.2 Astra болон Sol загваруудын хэрэглээний хязгаар өмнөхөөсөө 25-40%-иар хурдан дуусах болсныг мэдэгдлээ.",
+ "body_mn": "OpenAI компани GPT-6.2 загваруудыг анх зах зээлд гаргах үедээ тооцооллын алдаа гаргаж, Astra болон Sol загваруудын ашиглалтыг ихэнх хэрэглэгчдэд буруу хямдруулж тооцож байжээ.\n\nЭнэхүү алдааг засварласантай холбоотойгоор хэрэглэгчид багцынхаа хязгаарт өмнөх долоо хоногийнхоос илүү хурдан хүрэх ажээ. Тодруулбал, GPT-6.2 Astra загварын хязгаар 40%-иар, Sol загварынх 25%-иар илүү хурдан дуусах юм байна.\n\nЭнэ нь хөгжүүлэгчид болон хиймэл оюун ухааны хэрэгслүүдийг өдөр тутмын ажилдаа ашигладаг хүмүүсийн хувьд API болон загварын нөөцөө илүү нарийн хянах шаардлагатай болж байгааг харуулж байна.",
+ "published": "2026-11-26T03:36:58Z",
+ "added": "2026-11-26T06:30:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
