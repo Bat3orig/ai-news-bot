@@ -1,0 +1,17 @@
+{
+ "id": "288cc263565402af",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.60.0",
+ "image": "https://opengraph.githubassets.com/a62f192072fe5f4fd1dd150cf611c387eb37435cdf477fff2db3047d70fcf51e/openai/openai-python/releases/tag/v3.60.0",
+ "title": "openai-python v3.60.0",
+ "summary_en": "3.60.0 (2026-11-26) Features api: add spend alerts and response compaction fields ( #4335 ) ( 4713afd ) api: support updating session vaults ( #4334 ) ( c386f19 ) Chores api: clarify message retries and Batch endpoints ( #4333 ) ( b5b55ab ) api: clarify Realtime audio noise reduction ( #4331 ) ( 6626656 ) api: correct metadata documentation ( #4328 ) ( aff223d ) api: document inline skill upload limits ( #4300 ) ( 621fd09 )",
+ "title_mn": "openai-python v3.60.0 шинэчлэлт гарлаа",
+ "summary_mn": "Python хэлний OpenAI албан ёсны сан v3.60.0 хувилбараараа шинэчлэгдэн гарлаа. Энэхүү хувилбарт зардлын сэрүүлэг, хариултын шахалт болон сессийн санг шинэчлэх API боломжууд нэмэгджээ.",
+ "body_mn": "OpenAI Python хөгжүүлэлтийн сангийн шинэ v3.60.0 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлт нь хөгжүүлэгчдэд API ашиглалтаа илүү үр дүнтэй хянах, удирдахад туслах шинэ боломжуудыг авчирч байна.\n\nШинэ хувилбарт API хэсэгт зардлын сэрүүлэг (spend alerts) болон хариултын шахалтын талбарууд нэмэгдсэн байна. Мөн сессийн сангуудыг шинэчлэх (updating session vaults) боломжтой болжээ.\n\nҮүнээс гадна мессеж давтах болон Batch төгсгөлийн цэгүүдийг илүү тодорхой болгосон байна. Бодит цагийн аудио дуу чимээг бууруулах тохиргоо болон инлайн ур чадвар байршуулах хязгаарлалтын баримт бичгүүдийг шинэчлэн сайжруулжээ.",
+ "published": "2026-11-26T07:09:55Z",
+ "added": "2026-11-26T07:30:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
