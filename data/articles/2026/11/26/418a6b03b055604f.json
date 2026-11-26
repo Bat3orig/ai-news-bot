@@ -1,0 +1,17 @@
+{
+ "id": "418a6b03b055604f",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "MacStories",
+ "url": "https://www.macstories.net/stories/a-closer-look-at-claudes-mac-apps/",
+ "image": "https://cdn.macstories.net/images/uploads/2026/11/25/shortcut-upload-1795625565922-e54ce57825.png",
+ "title": "A Closer Look at Claude’s Mac “Apps”",
+ "summary_en": "Yesterday, Anthropic announced a major new feature for artifacts, now available in beta for Mac and Windows: the ability for users to turn artifacts into “apps” they can install on their computers. From the company’s blog: Starting today, you can use Claude artifacts to create, run, and share desktop apps. The \"Install as app\" feature",
+ "title_mn": "Claude артефактуудыг Mac болон Windows десктоп апп болгон суулгах боломжтой боллоо",
+ "summary_mn": "Anthropic компани хэрэглэгчдэд Claude артефактуудыг өөрийн компьютер дээр бие даасан апп болгон суулгах боломжийг бета хэлбэрээр нээлээ. Эдгээр апп нь өөрийн гэсэн цонх, дүрс тэмдэгтэй байхаас гадна үндсэн Claude апп дээр суурилж ажилладаг.",
+ "body_mn": "Anthropic компани Claude хэрэглэгчдэд зориулсан томоохон шинэ боломжийг танилцуулж, артефактуудыг Mac болон Windows үйлдлийн систем дээр шууд десктоп апп хэлбэрээр суулгах боломжтой болгожээ. Энэхүү Install as app функц нь одоо бета хэлбэрээр нээгдэж байгаа бөгөөд хөгжүүлэгчид болон мэдлэгийн ажилтнуудад өөрсдийн бүтээсэн аппаа хялбархан турших, хуваалцах боломжийг олгож байна.\n\nШинээр үүсгэсэн апп нь үндсэн Claude интерфейсээс тусдаа өөрийн цонх болон dock дээр байрших дүрс тэмдэгтэй байх ба Spotlight-аар хайхад гарч ирнэ. Технологийн хувьд Эдгээр нь үндсэндээ Chromium болон Electron дээр суурилсан HTML аппууд бөгөөд ар талдаа Claude-ийн үндсэн процессыг ашиглан үйлдлийн системтэй харилцдаг байна. Жишээлбэл, дискний зай шалгагч зэрэг багажийг шууд код бичилгүйгээр prompt ашиглан бүтээж, Dock дээр шууд байрлуулах боломжтой болжээ.\n\nЭнэхүү шинэчлэлт нь хөгжүүлэгчдэд хиймэл оюун ухааны тусламжтайгаар багаж хэрэгсэл, хурдан прототип бүтээх ажлыг эрс хялбарчилж байна. Гэсэн хэдий ч эдгээр апп нь Claude-ийн эрх болон хэрэглээний хязгаарлалтад хамаарах тул ашиглах явцдаа хүсэлтийн тоог хянах шаардлагатай юм.",
+ "published": "2026-11-25T17:25:49Z",
+ "added": "2026-11-26T01:00:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
