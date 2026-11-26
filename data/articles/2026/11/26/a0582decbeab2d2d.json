@@ -1,0 +1,17 @@
+{
+ "id": "a0582decbeab2d2d",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.6.3",
+ "image": "https://opengraph.githubassets.com/cd6b329070941a7bb0613766e328174fbe660a85d102cbf004ae815d79ae492d/nestjs/nest/releases/tag/v12.6.3",
+ "title": "nest v12.6.3",
+ "summary_en": "v12.6.3 (2026-11-26) Notable changes Testing Test.createTestingModule() accepts the instrument option, like NestFactory.create() . Its instanceDecorator decorates the module's providers, overridden ones included, and the applications and microservices created from the module use it unless their own options set one. Tests can now run an app instrumented as it is in production. With NestJS Observe, for example, gateway tests no longer log that the instrument option is missing – #18743 Instances that an application context creates through resolve() (request-scoped and transient providers) are…",
+ "title_mn": "NestJS v12.6.3: тест дээр instrument сонголт, route шалгалтын өөрчлөлт",
+ "summary_mn": "NestJS v12.6.3 нь Test.createTestingModule() дээр instrument сонголтыг нэмж, route conflict шалгалтыг router-ын тохиргоотой нийцүүлсэн. Express дээр GET /users ба GET /Users адил гэж үзэгдэх тул bootstrap алдаа гаргаж болно.",
+ "body_mn": "NestJS v12.6.3 хувилбар нь тестийн талд чухал шинэчлэлтийг авчирсан. Test.createTestingModule() одоо NestFactory.create()-тэй адил instrument сонголтыг хүлээн авдаг бөгөөд тестийн аппууд production-тай ижил instrument-ээр ажиллах боломжтой болсон. NestJS Observe-ийн жишээгээр gateway тестэд instrument сонголт дутуу гэсэн анхааруулга гарахгүй болсон.\n\nХамгийн анхаарах зүйл бол route давхцлын шалгалтын өөрчлөлт юм. Express дээр case-insensitive матчлах тул GET /users болон GET /Users адил route гэж үзэгдэж, duplicate: 'error' тохиргоотой үед bootstrap зогсоно. Fastify дээр caseSensitive: false үед ижил зүйл тохиолдоно. Fastify-ийн анхдагч тохиргоо, Node adapter болон case-sensitive Express дээр өөрчлөлт байхгүй.\n\nМөн exclude() болон enableCsrfProtection()-ийн exclude сонголт нь версиййн тодорхойлолтгүй үед анхдагч версийн route-уудад мөн хамаарна. @Body('key') нь \"\", 0, false зэрэг falsy primitive body-д одоо undefined буцаана. ParseDatePipe нь сарын хоногоос хэтэрсэн огноог татгалзана.\n\nГүйцэтгэлийн хувьд унаагүй route-ийн 404 алдаа stack trace-гүй үүсгэгдэх болсон бөгөөд Express дээр CPU хугацаа 21.9 µs-ээс 15.5 µs болж буурчээ. Fastify render() болон app.listen() backlog-ийн алдаа засагдсан. Хэрэв таны төсөлд route шалгалт эсвэл тест байгаа бол upgrade хийхээсээ өмнө шалгах хэрэгтэй.",
+ "published": "2026-11-26T11:07:23Z",
+ "added": "2026-11-26T11:30:49Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

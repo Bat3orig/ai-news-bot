@@ -1,0 +1,17 @@
+{
+ "id": "971bf30f6d340821",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/solidcraft/",
+ "image": "https://flaviocopes.com/images/solidcraft/og.jpg",
+ "title": "Using SolidCraft with AI for hobbyist 3D CAD",
+ "summary_en": "Design 3D-printable enclosures, cable combs, and motor mounts in SolidCraft with AI over MCP and the built-in Assistant, plus CLI resizing.",
+ "title_mn": "SolidCraft ашиглан AI агентаар сонирхогчдын 3D CAD загвар зохиох заавар",
+ "summary_mn": "SolidCraft нь Rust-аар бичигдсэн нээлттэй параметрт 3D CAD программ бөгөөд AI агент нь toolbar-ын командуудыг шууд дуудаж чаддаг. Энэ заавар нь принтерт зориулсан гурван хэсгийг хэрхэн бүтээхийг харуулна.",
+ "body_mn": "SolidCraft нь MIT ба Apache-2.0 лицензтэй, Rust-аар бичсэн параметрт 3D CAD программ юм. Үүнийг macOS, Windows, Linux дээр desktop аппаар, solidcraft.io/app хаягаар браузерт, эсвэл terminal болон AI агентаас ажиллуулж болно. Гол онцлог нь агент нь OpenSCAD скрипт бичихийн оронд UI дээрх ижил parametric командуудыг ашигладаа.\n\nЭнэ нь sketch, fillet, hole зэргийг feature timeline дээр үлдээдэг тул хэрэглэгч дараа нь гараар засаж болно. Заавар нь 3D принтер, ESP32 эсвэл Raspberry Pi-ийн бүрээс, шатны бэхэлгээ зэрэг гурван жишээг бүтээхийг харуулна. Жишээ нь USB-C, M3 бүрэг зэрэг бодит хэмжээстэй хэсгүүдэд mesh-д суурилсан AI генератор тохирохгүй гэж үздэг.\n\nSolidCraft нь нэрлэсэн параметрүүдтэй, нарийн B-rep solid ашигладаг. Жишээ нь агент L = 74 mm, W = 52 mm, wall = 2.4 mm гэх мэт утгуудыг тодорхойлж, тэдгээрт холбогдсон дүрс зурж, экструд, shell хийдэг. Дараа нь L-ийг 96 mm болгоход бүх хэсэг автоматаар шинэчлэгдэнэ. Файлыг STEP, STL, 3MF хэлбэрээр экспортлож болно.\n\nAI-тай холбох дөрвөн арга бий. Assistant панелийг Cmd+Shift+A (Windows, Linux дээр Ctrl+Shift+A) товчоор нээнэ. Панел нь ACP протоколоор Claude Code, Codex, OpenCode, xAI Grok зэрэг агентуудтай холбогдоно. Мөн локал Ollama эсвэл LM Studio-г ашиглаж болно. Claude Code, Cursor зэрэг хөгжүүлэлтийн орчинд solidcraft-cli дотор MCP сервер байна.\n\nХөгжүүлэгч эхний удаа AI-гаар параметрт загвар бүтээж, дараа нь CLI-аар өөр хэмжээсүүдийг хурдан гаргаж болно. Энэ нь 3D хэвлэлтийн ажлыг автоматжуулах практик арга юм.",
+ "published": "2026-11-26T11:00:00Z",
+ "added": "2026-11-26T11:30:49Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
