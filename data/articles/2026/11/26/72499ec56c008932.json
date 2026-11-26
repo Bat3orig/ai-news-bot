@@ -1,0 +1,17 @@
+{
+ "id": "72499ec56c008932",
+ "subtopic": "gh-python",
+ "source": "GitHub Trending Python",
+ "source_label": "GitHub Trending Python",
+ "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+ "image": "https://opengraph.githubassets.com/8122acf0b74d62d2292dc202c84db85db09779dae91f0b87ab1b1ade2ed76f34/samuelgursky/davinci-resolve-mcp",
+ "title": "samuelgursky/davinci-resolve-mcp",
+ "summary_en": "MCP server integration for DaVinci Resolve Studio DaVinci Resolve MCP Server English | 简体中文 | 繁體中文 A Model Context Protocol (MCP) server that lets AI assistants control DaVinci Resolve Studio through the official Scripting API. It provides full API coverage plus guarded workflow helpers for editing, media pool organization, render setup, review markers, grading, Fusion, Fairlight, project lifecycle tasks, extension authoring, and source-safe media analysis. A local browser control panel ships with the server for inspecting Resolve state, running source-safe analysis, drilling into analyzed…",
+ "title_mn": "davinci-resolve-mcp: DaVinci Resolve-ийг AI туслахуудаас MCP-ээр удирдах сервер",
+ "summary_mn": "davinci-resolve-mcp нь AI туслахуудад DaVinci Resolve Studio-г rasmi Scripting API-ээр дамжуулан удирдах боломж олгодог Model Context Protocol серверийн төсөл юм. Засварлалт, медиа сан, рендер, градинг, Fusion болон Fairlight-ийн ажлуудыг хамарна.",
+ "body_mn": "davinci-resolve-mcp бол Model Context Protocol (MCP) сервер бөгөөд AI туслахууд DaVinci Resolve Studio-г албан ёсны Scripting API-ээр удирдах боломжтой болгодог. Төсөл нь API-ийн бүрэн хамралтаас гадна засварлалт, медиа сан зохион байгуулалт, рендерийн тохиргоо, review marker, грейдинг, Fusion, Fairlight болон төслийн удирдлагад зориулсан туслах функцуудыг агуулна.\n\nСерверийн хамт локал браузерт суурилсан удирдлагын самбар ирдэг бөгөөд Resolve-ийн төлөвийг шалгах, клипүүдийг шинжлэх, шинжилгээний үр дүнг шууд засах боломжтой. Суурилуулагч нь Claude Desktop, Claude Code, Cursor, VS Code, Windsurf, Zed, Cline, Codex CLI зэрэг олон клиентэд тохиргоог автоматаар хийж чадна.\n\nАнхааруулга: Blackmagic-ийн хязгаарлалтаас шалтгаалан external scripting нь зөвхөн Studio хувилбарт бүрэн ажилладаг. Үнэгүй хувилбарт төсөл нь Resolve 21.0.x дээрх Scripts цэсээр дамжуулсан bridge механизм ашигладаг бөгөөд энэ нь Resolve 21.1 дээр баталгаажаагүй байна. macOS дээр Python 3-ийн зам тохируулах шаардлагатай байдаг.\n\nЭнэ төсөл нь видео засварын ажлыг AI агентаар автоматжуулах хүсэлтэй developer-үүдэд сонирхолтой.",
+ "published": "2026-11-26T10:00:56Z",
+ "added": "2026-11-26T10:00:56Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
