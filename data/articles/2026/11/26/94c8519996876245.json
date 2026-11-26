@@ -1,0 +1,17 @@
+{
+ "id": "94c8519996876245",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/llm-temperature-randomness/",
+ "image": "https://flaviocopes.com/images/llm-temperature-randomness/og.jpg",
+ "title": "Temperature and response randomness in LLMs",
+ "summary_en": "What temperature actually does to next-token logits, why temperature=0 is still non-deterministic in cloud APIs, and measured reliability across 270 live runs.",
+ "title_mn": "LLM-ийн temperature яагаад тогтмол хариулт өгдөггүйг ойлгох нь",
+ "summary_mn": "Temperature нь логитуудыг хуваах үйлдэл бөгөөд загварын мэдлэгт нөлөөлдөггүй. Туршилтаар temperature 0 үед ч хариулт өөр байгаа нь харагдсан. Хөгжүүлэгчид үүнийг зөв ашиглах ёстой.",
+ "body_mn": "Ихэнх хөгжүүлэгчид temperature-ийг 0 болгоход хариулт тогтмол болно гэж ойлгодог. Гэвчи нийтлэгч 20 ижил хүсэлтийг gpt-4.1-mini загвараар temperature: 0 ба seed: 42 тохиргоотойгоор илгээхэд system_fingerprint ижил хэвээр байсан ч гаралт бүрт өөр хариулт ирсэн гэж мэдээлжээ.\n\nМөн нийтлэгч 270 удаагийн дуудлагаар temperature-ийг 0-ээс 1.8 хүртэл шилжүүлэн туршиж үзсэн. JSON задлалт 100% нарийвчлалтай хэвээр байсан бол JavaScript кодын үүсгэлт нэгжийн тестээр 100%-аас 60% хүртэл буурсан байна.\n\nТемператур нь токен сонгогчид логитуудыг T-д хуваадаг нэг үйлдэл юм. T бага байвал хамгийн өндөр оноотой токен давамгайлж, T их байвал бусад токен илүү магадлалтай болдог. Энэ нь загварын жин эсвэл мэдлэгийг өөрчилдөггүй.\n\nХөгжүүлэгчдэд практик зөвлөмж: JSON болон бүтэцтэй гаралтад бага temperature ашиглаж болно, харин кодын чанарыг тестээр шалгах шаардлагатай. Мөн зарим загварт (жишээ нь gpt-6-luna) temperature: 0 параметр огт дэмжигдэхгүй тул API-гийн баримтыг шалгах нь чухал.\n\nЭнэхүү мэдээлэл нь AI tool-оор код бичих ажлын урсгалыг тохируулахад тустай.",
+ "published": "2026-11-26T08:00:00Z",
+ "added": "2026-11-26T08:30:50Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}
