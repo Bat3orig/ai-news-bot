@@ -1,0 +1,17 @@
+{
+ "id": "4702535a0537969a",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/ollama-python",
+ "image": "https://opengraph.githubassets.com/1/ollama/ollama-python",
+ "title": "A Python client for Ollama, sync or async, local or cloud",
+ "summary_en": "You've got Ollama running on your machine, a model pulled and ready, and now you want to actually use it from Python. You could hand-roll HTTP requests against the REST API, but that gets old fast once you're dealing with streaming, async, and response parsing. The Ollama Python library is the offic... GitHub Repository: https://github.com/ollama/ollama-python",
+ "title_mn": "ollama-python: Ollama-д зориулсан Python клиент номын сан",
+ "summary_mn": "Ollama-ийн албан ёсны Python клиент номын сан нь хөгжүүлэгчдэд орон нутгийн болон үүлэн дэх хиймэл оюун ухааны загваруудтай синхрон болон асинхрон байдлаар ажиллах боломжийг олгодог.",
+ "body_mn": "Ollama Python номын сан нь Ollama REST API-тай хялбар холбогдох боломжийг олгодог бөгөөд Python 3.8 болон түүнээс дээш хувилбаруудыг дэмждэг. Энэхүү клиент нь синхрон Client болон асинхрон AsyncClient классаар дамжуулан хүсэлт илгээх үндсэн логикийг хялбарчилж өгдөг.\n\nУг номын сан нь орон нутгийн болон үүлэн дэх загваруудтай ижил интерфейсээр харилцах боломжийг олгодог бөгөөд chat функцээр дамжуулан хүссэн мессежээ дамжуулан хариу авах боломжтой. Мөн stream=True параметрийг тохируулснаар хариуг хэсэгчлэн хүлээж авах боломж бүрддэг.\n\nХөгжүүлэгчид httpx сангийн өргөн боломжуудыг ашиглан өөрсдийн хүссэн толгой хэсэг (headers) болон холболтын тохиргоог хийх боломжтой байна. Энэ нь LLM интеграцчилал хийж буй Python хөгжүүлэгчдэд зайлшгүй шаардлагатай суурь хэрэгсэл юм.",
+ "published": "2026-11-26T01:49:02Z",
+ "added": "2026-11-26T03:00:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

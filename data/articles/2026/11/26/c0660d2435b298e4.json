@@ -1,0 +1,17 @@
+{
+ "id": "c0660d2435b298e4",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/tracekit",
+ "image": "https://opengraph.githubassets.com/1/cygnux-labs/tracekit",
+ "title": "A flight recorder for AI agents that even auditors can verify offline",
+ "summary_en": "You've given an AI agent access to a shell, a database, or a payment API. It works. Then one day it does something nobody expected, and you're left trying to reconstruct what happened from logs that the agent itself could have written—or rewritten. Tracekit is an open-source project that tries to fi... GitHub Repository: https://github.com/cygnux-labs/tracekit",
+ "title_mn": "Tracekit: AI агентуудад зориулсан нээлттэй эх сурвалжтай flight recorder",
+ "summary_mn": "Tracekit нь хиймэл оюун ухааны агентуудын хийж буй үйлдэл болон багажийн дуудлагыг хадгалж, хөндлөнгөөс өөрчлөх боломжгүйгээр баталгаажуулдаг нээлттэй эх сурвалжтай хэрэгсэл юм.",
+ "body_mn": "Tracekit нь AI агент болон түүний ашиглаж буй хэрэгслүүдийн хооронд ажиллаж, ямар нэгэн үйлдэл хийгдэхээс өмнө зөвшөөрөл олгох эсвэл татгалзах шийдвэр гаргадаг хяналтын систем юм. Бүх үйлдэл болон үр дүнг агент өөрөө өөрчлөх боломжгүй криптографийн хаш гинжин хэлхээнд хадгалдаг.\n\nУг төсөл нь Сертификатын ил тод байдлын (Certificate Transparency) загвраас санаа авсан бөгөөд агентын гүйцэтгэлийг аудиторууд болон хөгжүүлэгчид офлайн байдлаар шалгах боломжийг олгодог. Python, TypeScript болон Go хэл дээрх баталгаажуулагчдыг дэмждэг.\n\nAI агентуудыг бодит системд нэвтрүүлж буй багуудад агентын алдаа болон зөвшөөрөлгүй үйлдлийг хянах, шалгах найдвартай шийдлийг санал болгож байгаагаараа чухал ач холбогдолтой юм.",
+ "published": "2026-11-26T01:49:29Z",
+ "added": "2026-11-26T03:00:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

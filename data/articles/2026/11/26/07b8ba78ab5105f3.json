@@ -1,0 +1,17 @@
+{
+ "id": "07b8ba78ab5105f3",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/nod",
+ "image": "https://opengraph.githubassets.com/1/n8n-io/nod",
+ "title": "n8n's open source personal agent runs on your machine and asks before it acts",
+ "summary_en": "You've probably tried a personal AI agent by now. Maybe it booked a meeting for you, or filled out a form, or wrote something you didn't feel like writing. And then you wondered where all that data went, and why the agent did three things you didn't ask for. Nod is n8n's attempt at a different model... GitHub Repository: https://github.com/n8n-io/nod",
+ "title_mn": "Nod: n8n-ийн бүтээсэн орон нутгийн хувийн AI агент",
+ "summary_mn": "Nod нь хэрэглэгчийн компьютер дээр ажилладаг бөгөөд ямар нэгэн үйлдэл хийхээсээ өмнө хүнээс зөвшөөрөл хүсдэг нээлттэй эх сурвалжтай хувийн AI агент юм.",
+ "body_mn": "Nod бол n8n багийн хөгжүүлж буй орон нутгийн машин дээр ажилладаг үнэгүй, нээлттэй эх сурвалжтай хувийн туслах агент юм. Энэ нь нэхэмжлэх шалгах, яриа бэлтгэх зэрэг бодит вэб сайт дээрх ажлуудыг гүйцэтгэх зориулалттай.\n\nУг төсөл нь хэрэглэгчдэд өөрсдийн ChatGPT захиалга эсвэл дурын API түлхүүрийг ашиглах боломжийг олгодог бөгөөд үүлэн серверт мэдээллээ алдах эрсдэлгүйгээр ажилладаг. Агент ямар нэгэн чухал үйлдэл хийхээсээ өмнө заавал хэрэглэгчээс зөвшөөрөл хүсдэг нь аюулгүй байдлыг хангаж өгдөг.\n\nОдоогоор судалгааны хувилбар хэлбэрээр хөгжүүлэгдэж буй бөгөөд Mac, Windows болон Linux үйлдлийн системүүдийг дэмжиж байна. AI агентуудыг өдөр тутмын ажлуудад аюулгүйгээр ашиглахыг хүссэн хөгжүүлэгчдэд зориулсан сонирхолтой төсөл юм.",
+ "published": "2026-11-26T01:49:57Z",
+ "added": "2026-11-26T03:00:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
