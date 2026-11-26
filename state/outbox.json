@@ -1,1 +1,22 @@
-[]
+[
+ {
+  "kind": "article",
+  "article": {
+   "id": "53af61b4949380e5",
+   "subtopic": "vibe-coding",
+   "source": "Flavio Copes",
+   "source_label": "Flavio Copes",
+   "url": "https://flaviocopes.com/google-workspace-mcp/",
+   "image": "https://flaviocopes.com/images/google-workspace-mcp/og.jpg",
+   "title": "Google is requiring AI agents to use its Workspace MCP servers",
+   "summary_en": "From February 1, 2027, Google requires AI agents to use its Workspace MCP servers. What the live endpoints expose, what stays partner-only, and what it costs.",
+   "title_mn": "Google Workspace MCP серверүүдийг AI агентудад заавал ашиглахаар болголоо",
+   "summary_mn": "Google компани Workspace-ийн 8 MCP серверээ нээлттэй болгож, 2027 оны 2 дугаар сарын 1-нээс эхлэн AI агент болон хэрэгслүүд Gmail, Drive зэрэг үйлчилгээтэй шууд REST API-аар биш зөвхөн MCP серверээр холбогдохыг шаардахаар болжээ.",
+   "body_mn": "Google компани өөрийн найман Google Workspace MCP сервер болон gwscli хэрэгслээ нийтэд гаргаж, Workspace AI Tools нэмэлт нөхцөлийг танилцууллаа. Ирэх оны хоёрдугаар сарын 1-нээс эхлэн AI агент, harnesses болон загваруудыг ашигладаг аливаа хэрэгсэл Gmail, Drive, Calendar, Docs зэрэг үйлчилгээтэй REST API-аар шууд холбогдохын оронд Google-ийн MCP серверүүдийг ашиглах үүрэгтэй болж байна.\n\nХэрэв AI агент эдгээр сервер рүү холбогдохдоо шууд REST API ашигласаар байвал төлбөрийн зэрэглэлээс үл хамааран Standard Tier квот буюу хязгаарлалтад орох юм. Мөн мэдээлэл хадгалах хугацааны бодлогоор агент таны сүүлийн 30 хоногийн датаг л хадгалах боломжтой тул хөгжүүлэгчид вектор дата сангийн архитектураа өөрчлөх шаардлагатай тулгарч байна.\n\nШинэ MCP серверүүд нь HTTPS протоколоор дамжуулан JSON-RPC хүсэлт хүлээн авдаг ба хөгжүүлэгчид curl ашиглан шууд шалгах боломжтой. Гэхдээ Gmail болон Drive серверүүд зарим нэг дутуу функцтэй бөгөөд имэйл илгээх, загвар засах эсвэл файлыг хавтас хооронд зөөх зэрэг үйлдэл нь тусгай түншийн эрх шаардаж байна.",
+   "published": "2026-11-26T14:00:00Z",
+   "added": "2026-11-26T14:30:49Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ }
+]
