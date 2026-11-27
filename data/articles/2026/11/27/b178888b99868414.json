@@ -1,0 +1,17 @@
+{
+ "id": "b178888b99868414",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/gemini-api-cli/",
+ "image": "https://flaviocopes.com/images/gemini-api-cli/og.jpg",
+ "title": "Call Gemini from any shell with the new Gemini API CLI",
+ "summary_en": "Call Gemini models, generate images, speech, music and video, transcribe audio and run managed agents from any shell or coding agent with gemini-api.",
+ "title_mn": "Gemini API CLI ашиглан ямар ч команд мөрөөс Gemini загваруудыг дуудах нь",
+ "summary_mn": "Google компани Go хэлээр бичигдсэн, ямар ч runtime хамааралгүй open-source gemini-api CLI хэрэгслийг гаргалаа. Энэ нь кодын агент болон терминалаас Gemini загварууд, медиа хэрэгслүүдийг шууд ашиглах боломжийг олгоно.",
+ "body_mn": "Google компани хөгжүүлэгчдэд зориулсан шинэ gemini-api хэрэгслийг beta хувилбартайгаар танилцууллаа. Энэхүү open-source Go хоёртын файл нь ямар нэгэн нэмэлт runtime хамааралгүйгээр ажилладаг бөгөөд Claude Code, Cursor, эсвэл Antigravity зэрэг кодын агентууд болон CI скриптүүдээс шууд Gemini загварууд, медиа үүсгэгчдийг дуудах боломжийг олгодог.\n\nЭнэхүү хэрэгсэл нь Interactions API-аар дамжин ажилладаг тул текст, зураг, яриа, хөгжим, видео болон файлын шинжилгээ зэргийг нэг командын мөр болон нэг эрх шалгах тохиргоогоор нэгтгэдэг. Хөгжүүлэгчид -m тусламжтайгаар загвараа сольж болно. Жишээ нь илүү хүнд түвшний логикийн хувьд gemini-4-neon эсвэл хурдан хувилбарын хувьд gemini-3.8-flash-lite-tts загварыг сонгох боломжтой.\n\nСуулгахын тулд macOS эсвэл Linux дээр албан ёсны script ашиглах эсвэл Go 1.26.10 болон түүнээс дээш хувилбар байвал go install командыг ашиглаж болно. API түлхүүрээ Google AI Studio-оос үүсгэх ба хэрэв Google AI Pro эсвэл Ultra эрхтэй бол сарын үнэгүй кредитийг ашиглах боломжтойг анхаарах хэрэгтэй.\n\nЭнэхүү хэрэгсэл нь хөгжүүлэгчдэд терминал болон автоматжуулсан CI орчноос хиймэл оюун ухааны чадваруудыг ямар нэгэн хүндрэлгүйгээр шууд холбож ашиглах өргөн боломжийг олгож байгаагаараа онцлог юм.",
+ "published": "2026-11-27T13:00:00Z",
+ "added": "2026-11-27T14:30:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
