@@ -98,5 +98,25 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9454171ab00df198",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/grok-build-1092-headless-agent-update/",
+   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/27140353/library-grok-build-1-0-92-targets-headless-agent-reliability-and-800x450.jpg",
+   "title": "Grok Build 1.0.92 targets headless agent reliability and remote workflows",
+   "summary_en": "xAI's Grok Build 1.0.92 adds a 5-minute inactivity timeout, MCP image support, error recovery for headless runs, and remote terminal fixes.",
+   "title_mn": "Grok Build 1.0.92 шинэчлэлтээр headless горим болон алдаа сэргээх боломж нэмэгдлээ",
+   "summary_mn": "xAI компани Grok Build 1.0.92 хувилбарыг гаргаж, 5 минутын идэвхгүй байдлын цаг хязгаарлалт, алдаанаас сэргэх чадвар болон MCP дүрсний дэмжлэгийг нэмл.",
+   "body_mn": "xAI компани өөрийн терминал дээр суурилсан кодын агент болох Grok Build хэрэгслийн 1.0.92 хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэчлэлт нь хүний хяналтгүйгээр буюу headless горимд автоматаар ажиллах чадварыг сайжруулахад голлон анхаарсан байна.\n\nШинэ хувилбарт автомат сессийн үеэр 5 минут ямар нэгэн үйлдэл хийгдэхгүй бол зогсох цаг хязгаарлалт (inactivity timeout) нэмэгдсэн нь CI дамжлага болон скрипт ажиллуулахад гардаг гацалтыг бууруулна. Түүнчлэн скрипт болон автомат ажлын явцад гарсан зарим алдаанаас дахин сэргэж үргэлжлүүлэх боломжтой болжээ.\n\nМөн Model Context Protocol (MCP) хэрэгслүүдээр дамжуулан зураг боловсруулах чадварыг сайжруулж, headless дамжуулалтын үеэр дүрсэн мэдээллийг дамжуулах боломжтой болгосон байна. Энэ нь хөгжүүлэгчдэд сервер болон алсын терминал дээр AI агентуудыг илүү найдвартай ажиллуулах нөхцлийг бүрдүүлж өгч байна.",
+   "published": "2026-11-27T19:04:04Z",
+   "added": "2026-11-27T19:30:55Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]
