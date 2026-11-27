@@ -1,0 +1,17 @@
+{
+ "id": "3546dec1f526a08c",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/using-light-dark-without-getting-caught-out/",
+ "image": "https://css-tricks.com/wp-content/uploads/2018/12/candles-lightbulb-1024x512.png",
+ "title": "Using light-dark() without getting caught out",
+ "summary_en": "I honestly hadn't thought about \"getting caught\" by light-dark() — particularly when leaning heavily on it for this site — but Martin Underhill explains the user and rendering considerations, making me reflect on my choices as well. Using light-dark() without getting caught out originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "title_mn": "light-dark() ашиглахдаа fallback-гүйгээр алдах эрсдэлээс хэрхэн сэргийлэх вэ",
+ "summary_mn": "CSS-Tricks-ийн нийтлэлд light-dark() функцийг дэмжихгүй браузерууд хэрхэн ажилладаг, мөн fallback болон token-ээр хийсэн хийсвэрлэлтийн талаар хуваалцжээ. Нийтлэлд гүйцэтгэлийн асуудал ч дурдагдана.",
+ "body_mn": "CSS-Tricks-ийн зохиогч light-dark() функцийг fallback-гүйгээр ашиглах эрсдэлийн талаар бичжээ. light-dark()-ийг дэмждэггүй браузерууд гэрлийн горимд хар текст, харанхуй горимд цагаан текст харуулах тул сайт бүрэн эвдрэхгүй ч өнгө нь хүссэн шигээ биш байж болно.\n\nЗохиогч media query-ээр prefers-color-scheme-ийг удаа дараа бичих нь хүнд байсан тул light-dark()-д шилжсэн. Гэвч хоёр өнгийн утгыг бичих нь ядаруулдаг тул CSS хувьсагч болон бусад хийсвэрлэлтүүдийг ашиглажээ. Текст ба фон хоёрын урвуу хэрэглээг илэрхийлэх нэмэлт helper-ууд ч туршсан боловч бүгд төгс биш гэж дүгнэжээ.\n\nMartin Underhill-ийн санал болгосон cascade-д суурилсан fallback нь хамгаалалтын найдвартай арга юм. Зохиогч light-dark()-ийн fallback аргумент байсан бол илүү тохиромжтой байх байсан гэж үзсэн. Мөн light-dark() нь byte хэмнэлтийн хувьд media query-ээс давуу биш гэдгийг CSS-Tricks дээр туршиж үзсэн ч үр дүн нь тааруухан байжээ. Тиймээс developer-үүд DX ба гүйцэтгэлийн хооронд сонголт хийх хэрэгтэй.",
+ "published": "2026-11-27T16:01:31Z",
+ "added": "2026-11-27T16:30:49Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 4
+}

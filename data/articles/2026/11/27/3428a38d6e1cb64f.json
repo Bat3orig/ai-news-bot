@@ -1,0 +1,17 @@
+{
+ "id": "3428a38d6e1cb64f",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/hardware-security-keys/",
+ "image": "https://flaviocopes.com/images/hardware-security-keys/og.jpg",
+ "title": "Hardware security keys for developers and AI engineers",
+ "summary_en": "How physical security keys like YubiKeys protect your GitHub, email, password manager, and AI workflows from phishing and breaches without slowing you down.",
+ "title_mn": "Developer-д зориулсан hardware security key: GitHub нэвтрэлтээ хамгаалах нь",
+ "summary_mn": "1Password-ийн ажилтны GitHub бүртгэл хакерт нэвтэрсний дараа хэрэглэгчдийн мэдээлэл алдагдсан. Энэ нийтлэлд YubiKo зэрэг hardware security key-үүд developer болон AI agent-ийн ажлын урсгалд хэрхэн нөлөөлөх талаар тайлбарлана.",
+ "body_mn": "1Password 2026 оны 11-р сарын 19-нд ажилтны корпорын GitHub бүртгэлд зөвшөөрөлгүй нэвтэрсэн явдлыг илрүүлж, 11-р сарын 25-нд олон нийтэд мэдэгдсэн. Халдагч private repository-уудыг хуулж, CI/CD-д хандаж, backend сервисүүд рүү код түлхэж, хэрэглэгчдийн нэр, имэйл, account ID, SRP параметр зэрэг мэдээллийг гаргасан байна. Харин хэрэглэгчийн vault-ууд хөндөгдөөгүй, учир нь 1Password сервертээ master password болон Secret Key хадгалдаггүй.\n\nЭнэ нь developer-үүдэд хоёр эрсдэл үүсгэнэ: алдагдсан жагсаалт дээр суурилсан фишинг имэйл, мөн нэг GitHub бүртгэл эсвэл password manager компрометац болвол хэдий хэр их хохирол учрах вэ гэдэг асуулт. Hardware key нь FIDO2/WebAuthn протоколд суурилдаг. Түлхүүр нь чип дотор үүсч, хэзээ ч уншигдахгүй. Нэвтрэх үед браузер домэйн нэрийг key-д дамжуулдаг тул хуурамч сайт дээр key хариу өгөхгүй.\n\nЗөвлөмж нь хамгийн өндөр нөлөөтэй \"хүний удирдлагын хавтгай\" дээр key тавих явдал юм: имэйл, GitHub, password manager, домэйн бүртгэгч, Stripe зэрэг. Харин терминал, git push, агентууд зэрэг автомат хэсэгт тусдаа хязгаарлалт хэрэгтэй. Hardware key нь credential хулгай болон фишингээс хамгаалдаг ч машины бүх аюулаас хамгаалдаггүй.",
+ "published": "2026-11-27T16:00:00Z",
+ "added": "2026-11-27T16:30:49Z",
+ "ai": "claude:claude-haiku-5-5",
+ "score": 3
+}
