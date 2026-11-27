@@ -1,0 +1,17 @@
+{
+ "id": "0fdb511fa1af5682",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/node-modules-inspector",
+ "image": "https://opengraph.githubassets.com/1/antfu/node-modules-inspector",
+ "title": "Visualize your node_modules and inspect duplicate packages and install sizes",
+ "summary_en": "You've probably had this moment: you open `node_modules`, scroll through a few thousand folders, and wonder what's actually taking up all that space. Or you notice the same package name showing up with three different version numbers and have no idea why. Node Modules Inspector is a tool that makes ... GitHub Repository: https://github.com/antfu/node-modules-inspector",
+ "title_mn": "Node Modules Inspector: node_modules хавтас болон санах ойн ашиглалтыг хянах нь",
+ "summary_mn": "Node Modules Inspector нь node_modules хавтасны бүтцийг харуулах, давхардсан сангуудыг илрүүлэх интерактив вэб интерфейс болон CLI хэрэгсэл юм.",
+ "body_mn": "Node Modules Inspector нь төслийн node_modules хавтас доторх сангууд хэр их зай эзэлж буйг болон ямар хувилбарууд давхардаж суусныг нүдээр харж шалгах боломжийг олгодог дүрслэх болон шалгах хэрэгсэл юм. Уг хэрэгсэл нь pnpm, npm болон bun төслүүдийг дэмждэг байна.\n\nХэрэгсэл нь вэб интерфэйсээс гадна команд мөрөөс ажиллах CLI тайлангууд болон MCP хэрэгслүүдийг санал болгодог. Тухайлбал, давхардсан сангууд, сангуудын хэмжээ болон шинэчлэх боломжтой хувилруудыг шалгаж JSON форматаар гаргах боломжтой бөгөөд AI агентуудад шууд холбож ашиглахад зориулагдсан байна.\n\nЭнэхүү багаж нь том хэмжээний төслүүдийн хамаарлыг цэгцлэх, шаардлагагүй том сангуудыг олж илрүүлэхэд хөгжүүлэгчдэд маш тустай бөгөөд вэб хувилбарыг нь шууд хصفх эсвэл статик байдлаар үүсгэж багтайгаа хуваалцах боломжтой юм.",
+ "published": "2026-11-27T01:47:25Z",
+ "added": "2026-11-27T03:01:00Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
