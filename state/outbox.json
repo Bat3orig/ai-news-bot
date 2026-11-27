@@ -78,5 +78,25 @@
    "ai": "claude:claude-haiku-5-5",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "561eb45495511dc4",
+   "subtopic": "packages",
+   "source": "React Status",
+   "source_label": "React Status",
+   "url": "https://react.statuscode.com/issues/499",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/iyljdqwehjcad5y5dro8.jpg",
+   "title": "Ricky Hanlon leaves Meta (but not React)",
+   "summary_en": "#​499 — November 27, 2026 Read on the Web React Status Ricky Hanlon is Leaving Meta (But Not React) — After years helping get React \"from 4 million to 250 million weekly downloads\" , Ricky has left React's birthplace, noting \"most of the React Core team have left Meta\" . This is more an 'end of an era' than big news, as he'll continue to work on React, and React getting its own foundation this year showed us the direction of travel. Ricky Hanlon 💡 Paul O'Shannessy, who pushed React's first public code in 2013 and helped form the foundation, also left Meta this year and wrote a look back at…",
+   "title_mn": "React Status: TanStack Query v6 төлөвлөгөө болон шинэ хэрэгслүүд",
+   "summary_mn": "React Status мэдээллийн товхимолд TanStack Query v6 хувилбарын төлөвлөгөө, Rust дээр суурилсан Exact фреймворк болон бусад хэрэгтэй хэрэгслүүдийг танилцуулжээ.",
+   "body_mn": "React Status товхимолд хөгжүүлэгчдийн анхаарлыг татаж буй хэд хэдэн чухал мэдээ болон санг онцолжээ. Тухайлбал, TanStack Query-ийн зохиогч Dominik дараагийн томоохон хувилбар болох v6-ийн төлөвлөгөөг хуваалцсан бөгөөд уг хувилбар нь ESM-д бүрэн шилжиж, React 19-ийг суурь болгон ашиглахаар чиглэгдэж байна.\n\nМөн React Native болон Expo-г бүтээгчдийн зүгээс Rust хэл дээр суурилсан, олон платформд зориулсан 'agent native' шинэ Exact фреймворкийг туршиж эхэлжээ. Энэ нь хөгжүүлэгчдэд олон төрлийн төхөөрөмжид зориулсан апп бүтээхэд шинэ боломж олгох юм.\n\nҮүнээс гадна хөгжүүлэгчдэд тустай хэд хэдэн шинэ санг танилцуулсан байна. Тухайлбал, програмын интерфэйс дэх LLM-ийн ачаалах төлөвийг харуулах Generative Loaders, хэрэглэгчийн үйлдлийг дуугаар баталгаажуулах button sounds аудио хэрэгсэл болон React апп дотор хэмжээг нь өөрчлөх боломжтой цонх үүсгэх Sashay сангууд багтжээ.",
+   "published": "2026-11-27T00:00:00Z",
+   "added": "2026-11-27T17:01:06Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]
