@@ -1,0 +1,17 @@
+{
+ "id": "0ad3efb1b24e7e43",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/infra-secrets/",
+ "image": "https://images.flaviocopes.com/infra-secrets/og.jpg",
+ "title": "Managing secrets and API keys on your own infrastructure",
+ "summary_en": "Store, deliver, scope, and rotate API keys across your Mac, Cloudflare Workers, a Linux VPS, PaaS, and GitHub Actions without plaintext .env files.",
+ "title_mn": "Инфраструктур дээрээ API түлхүүр болон нууц мэдээллийг удирдах нь",
+ "summary_mn": "Төрөл бүрийн серверист ажиллах төслүүдийн нууц түлхүүрийг Git-д үлдээхгүйгээр хэрхэн найдвартай удирдах тухай практик гарын авлага.",
+ "body_mn": "Төсөл томрох тусам олон газарт API түлхүүр, webhook болон базын нууц үг хэрэг болж эхэлдэг. Нууц мэдээллийг Git дотор ил хадгалахгүй байх, серверийн байршлаар нь зөв хуваарилах нь чухал юм.\n\nЭнгийн тохиргоог серверийн үндсэн дэмждэг хэрэгслүүдтэй хослуулан ашиглах боломжтой. Жишээ нь олон нийтэд ил тохиргоог код руу хийж болох ба харин API түлхүүр зэрэг нууц мэдээллийг кодоос бүрэн тусгаарлах хэрэгтэй.\n\nmacOS дээр ажилладаг хүмүүс macOS Keychain ашиглан нууц мэдээллээ шифрлэн хадгалах боломжтой. Ингэснээр терминал түүх болон файл дотор нууц түлхүүр үлдэхгүйгээр шууд дамжуулан ашиглах боломж бүрдэнэ.",
+ "published": "2026-11-28T10:05:00Z",
+ "added": "2026-11-28T10:30:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

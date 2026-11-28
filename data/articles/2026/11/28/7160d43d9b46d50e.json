@@ -1,0 +1,17 @@
+{
+ "id": "7160d43d9b46d50e",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/ai-product-engineering/",
+ "image": "https://images.flaviocopes.com/ai-product-engineering/og.jpg",
+ "title": "AI product engineering: building reliable AI features after the demo",
+ "summary_en": "A practical handbook for shipping AI inside real products with Google Gemini models: when to use AI, model selection, structured output, tool calling, hybrid RAG, evals, guardrails, prompt injection, cost, caching, fallbacks, observability, human approval, workflows vs agents, and model migrations.",
+ "title_mn": "AI бүтээгдэхүүн инженерчлэл: Демо хувилбарын дараах найдвартай байдал",
+ "summary_mn": "AI код бичих болон программ дотроо AI суулгах нь өөр зүйлс юм. Энэхүү гарын авлага нь Node.js болон Google Gemini API ашиглан хувьсагч утга, алдаатай JSON, аюулгүй байдлыг хэрхэн зохицуулахыг заана.",
+ "body_mn": "Программ бичихэд AI ашиглах, мөн бүтээгдэхүүндээ AI суулгах нь тэс өөр хоёр ажил юм. Туршилтын демог хэдхэн мөр кодоор босгож болох ч саруудын дараа түүнийг хурдан, аюулгүй, алдаагүй байлгах нь жинхэнэ инженерчлэл шаарддаг.\n\nЭнэхүү гарын авлага нь Google-ийн Gemini API (@google/genai v3.6.1) ашиглан бодит жишээн дээр алдаатай хүсэлт, нууц түлхүүр алдагдахаас сэргийлэх, prompt injection илрүүлэх зэрэг практик асуудлуудыг хэрхэн шийдвэрлэхийг тайлбарладаг.\n\nХөгжүүлэгчид Google AI Studio ашиглан API эрхийн бичиг авах боломжтой ба Google AI Pro хэрэглэгчид сард 10 доллар, Ultra хэрэглэгчид 40-100 долларын хөнгөлөлт эдлэх боломжтой байдаг. LLM нь эмх цэгцгүй хэрэглэгчийн мессеж, лог зэрэгт гайхалтай ажилладаг ч яг тооцоолол болон хандалтын хяналтад тохиромжгүйг санах хэрэгтэй.",
+ "published": "2026-11-28T10:00:00Z",
+ "added": "2026-11-28T10:30:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
