@@ -1,0 +1,17 @@
+{
+ "id": "81c6932182bf7a2c",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/mygo",
+ "image": "https://opengraph.githubassets.com/1/egoist/mygo",
+ "title": "Desktop apps in Go with native UI or web frontend",
+ "summary_en": "You want to build a desktop app. You also want to stay in Go, the language you actually like. But the usual paths push you into cgo, heavy runtimes, or a webview that makes you wonder if you're shipping an app or a browser. MyGo is a project that takes a different angle: desktop apps written in Go, ... GitHub Repository: https://github.com/egoist/mygo",
+ "title_mn": "MyGo: Go хэлээрデスktop апп бүтээх фреймворк",
+ "summary_mn": "MyGo бол Go хэл ашиглан GPU дээр зурагддаг native UI эсвэл web frontend-тэйデスktop болон мобайл апп бүтээхэд зориулсан нээлттэй эх сурвалжтай фреймворк юм. Энэ нь cgo ашиглахгүйгээр хэдхэн MB хэмжээтэй бинар файл болж хөрвөнө.",
+ "body_mn": "MyGo бол хөгжүүлэгчдэд Go хэлээ ашигланデスktop апп бүтээх боломжийг олгодог сонирхолтой төсөл юм. Энэхүү фреймворк нь системд бэлэн байдаг webview ашиглан web хуудас гаргах эсвэл GPU дээр шууд зурагдах Go хэлний native UI ашиглах гэсэн хоёр үндсэн сонголтыг санал болгодог.\n\nЭнэхүү хэрэгслийн нэг гол давуу тал нь cgo ашигладаггүй тул ямар ч төхөөрөмжөөс бүхデスktop платформ руу хялбархан cross-compile хийх боломжтой юм. Мөн мобайл платформ дээр ажиллах чадвартай бөгөөд веб болон backend хоорондын харилцааг Go код дээрээс автоматаар үүсгэгддэг TypeScript клиентээр дамжуулан төрөлжүүлсэн (typed) хэлбэрээр хийдэг.\n\nNative UI хэсэг нь flexbox, сетка байрлал, виджет, анимаци, дэлгэц уншигчийн дэмжлэг зэрэг өргөн боломжуудыг агуулдаг. Түүнчлэн цонх, цэс, мэдэгдэл, файлын холболт зэрэгデスktop хөгжүүлэлтэд шаардлагатай стандарт API-уудыг бүрэн хамарсан байна.\n\nЭнэхүү төсөл нь Go хэлэнд дуртай бөгөөд хүндрэл багатайгаар кросс-платформ апп бүтээхийг хүссэн хөгжүүлэгчдэд тохиромжтой шийдэл юм.",
+ "published": "2026-11-28T01:49:39Z",
+ "added": "2026-11-28T03:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

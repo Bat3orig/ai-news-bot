@@ -1,0 +1,17 @@
+{
+ "id": "af8362f73e196598",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/openbitfun",
+ "image": "https://opengraph.githubassets.com/1/openbitfun/openbitfun",
+ "title": "OpenBitFun: an agent workspace with four harness modes and phone remote control",
+ "summary_en": "You've probably got an agent running on your desktop, and you've probably also wanted to check on it from somewhere else—the couch, the train, your phone. Most tools make you choose between a powerful local workspace and remote access. OpenBitFun is an open-source agent workspace that tries to give ... GitHub Repository: https://github.com/openbitfun/openbitfun",
+ "title_mn": "OpenBitFun: Утаснаасаа удирдах боломжтой AI агентын ажлын орчин",
+ "summary_mn": "OpenBitFun бол AI агентуудыг ажиллуулах дөрвөн төрлийн горим болон гар утаснаасаа алсаас удирдах боломжийг олгодог нээлттэй эх сурвалжтай десктоп програм юм.",
+ "body_mn": "OpenBitFun бол хиймэл оюун ухааны агентуудтай ажиллах боломжийг олгодог Windows, macOS, Linux системд зориулсан нээлттэй эх сурвалжтай десктоп програм юм. Энэхүү төслийн гол зорилго нь агентын даалгаврыг төлөвлөх, багаж хэрэгсэл ашиглах ажлыг удирдах уян хатан орчныг бүрдүүлэх явдал юм.\n\nЭнэхүү програм нь Minimalism, Standard, Ultimate, Creative гэсэн агентын ажлыг гүйцэтгэх дөрвөн горимыг санал болгодог. Мөн хэрэглэгчид компьютер хооронд ажлын орчноо солих боломжтойгоос гадна гар утас эсвэл браузераар дамжуулан алсаас даалгаврын явцыг хянаж, зөвшөөрөл өгөх боломжтой байдаг. Алсын холболтын хувьд албан ёсны Relay үйлчилгээг ашигладаг тул тусдаа сервер тохируулах шаардлагагүй.\n\nТөслийн эх код MIT лицензтэй бөгөөд Mini App зах зээлээр дамжуулан өргөтгөл хийх боломжтой. AI агентуудтай идэвхтэй ажилладаг хөгжүүлэгчдэд зориулсан сонирхолтой шийдэл юм.",
+ "published": "2026-11-28T01:49:12Z",
+ "added": "2026-11-28T03:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -1,0 +1,17 @@
+{
+ "id": "c251b155773a444c",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/front-end-checklist",
+ "image": "https://opengraph.githubassets.com/1/thedaviddias/front-end-checklist",
+ "title": "386 front-end review rules your AI agent can actually use",
+ "summary_en": "You've probably asked an AI agent to review your front-end code, only to get a vague list of suggestions that may or may not reflect real best practices. Or maybe you've got a mental checklist of things to verify before shipping—accessibility, performance, SEO, security—but it lives in your head, an... GitHub Repository: https://github.com/thedaviddias/front-end-checklist",
+ "title_mn": "Front-End Checklist: AI агентад зориулсан вэб хөгжүүлэлтийн шалгуур дүрэм",
+ "summary_mn": "Front-End Checklist нь вэб хөгжүүлэлтийн чанарыг шалгах 386 дүрэм бүхий нээлттэй эх сурвалжтай систем бөгөөд MCP-ээр дамжуулан AI агентуудтай ажиллах боломжтой.",
+ "body_mn": "Front-End Checklist бол вэб хөгжүүлэлтийн чанар, хүртээмж, гүйцэтгэл, SEO болон аюулгүй байдлыг шалгахад зориулагдсан 386 дүрэм бүхий нээлттэй эх сурвалжтай чанарын систем юм. Энэ нь хөгжүүлэгчдэд алдаа гаргахаас сэргийлж, кодын чанарыг сайжруулахад тусална.\n\nЭнэхүү төсөл нь вэб сайт болон README файлуудаас гадна MCP (Model Context Protocol) серверээр дамжуулан AI агентуудтай холбогдох боломжийг олгодог. Сервер нь 11 ширхэг MCP хэрэгслийг санал болгодог бөгөөд агентууд дүррүүдийг хайж, аудит хийх, засвар санал болгох ажлыг автоматаар гүйцэтгэх чадвартай.\n\nДүрмүүд нь Критик, Өндөр, Дунд, Бага гэсэн зэрэглэлд хуваагддаг нь хөгжүүлэгчдэд юуг түрүүлж засхаа шийдэхэд тусална. Хөгжүүлэгчид frontendchecklist.io сайт руу орж дүрмүүдийг шүүж үзэх эсвэл AI агентуудтайгаа холбож ашиглах боломжтой.",
+ "published": "2026-11-28T01:47:55Z",
+ "added": "2026-11-28T03:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

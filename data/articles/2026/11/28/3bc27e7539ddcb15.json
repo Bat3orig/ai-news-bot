@@ -1,0 +1,17 @@
+{
+ "id": "3bc27e7539ddcb15",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/intel-one-mono",
+ "image": "https://opengraph.githubassets.com/1/intel/intel-one-mono",
+ "title": "Intel One Mono: a monospaced font designed with low-vision developers",
+ "summary_en": "You spend hours staring at code, and by the end of the day the characters start to blur together—the difference between a lowercase l, a capital I, and a number 1 becomes a guessing game. Intel One Mono is a monospaced font family built specifically to address that problem, designed with clarity and... GitHub Repository: https://github.com/intel/intel-one-mono",
+ "title_mn": "Intel One Mono: Хөгжүүлэгчдэд зориулсан гаргац сайтай фонт",
+ "summary_mn": "Intel One Mono бол харааны бэрхшээлтэй хөгжүүлэгчдэд зориулан код унших чадварыг сайжруулах зорилгоор бүтээсэн нээлттэй эх сурвалжтай моноспейс фонт юм.",
+ "body_mn": "Intel One Mono бол код бичих явцад нүд ядрахаас сэргийлж, тэмдэгтүүдийг хооронд нь ялгахад хялбар байхаар бүтээгдсэн нээлттэй эх сурвалжтай моноспейс фонт юм. Энэхүү фонтыг Frere-Jones Type болон Intel компани хамтран бүтээсэн бөгөөд харааны бэрхшээлтэй хөгжүүлэгчдийн санал хүсэлт дээр үндэслэн зохион бүтээжээ.\n\nЭнэхүү фонт нь Light, Regular, Medium, Bold гэсэн дөрвөн жинтэйгээр гардаг бөгөөд Латин үсгийн системтэй 200 гаруй хэлийг дэмждэг. Мөн вэб, десктоп болон мобайл програмуудад зориулсан .otf, .ttf, .woff, .woff2 форматаар татаж авах боломжтой.\n\nПрограмчлалын лигатур болон бусад тусгай тохиргоонуудыг ашиглах боломжтой бөгөөд хөгжүүлэгчид VSCode зэрэг редакторууд дээрээ тохируулан ашиглах боломжтой. Фонтын эх код болон бүтээх зааврыг GitHub дээрээс авах боломжтой.",
+ "published": "2026-11-28T01:48:47Z",
+ "added": "2026-11-28T03:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

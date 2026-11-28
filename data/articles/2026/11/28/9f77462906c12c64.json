@@ -1,0 +1,17 @@
+{
+ "id": "9f77462906c12c64",
+ "subtopic": "gh-oss",
+ "source": "Open Source Projects",
+ "source_label": "Open Source Projects",
+ "url": "https://www.opensourceprojects.dev/post/codesandbox-client",
+ "image": "https://opengraph.githubassets.com/1/codesandbox/codesandbox-client",
+ "title": "A full-featured online IDE for web development in your browser",
+ "summary_en": "You've probably been there: an idea hits, you want to try it, and suddenly you're installing dependencies, configuring a build tool, and arguing with Node versions before you've written a single line of app code. CodeSandbox takes that whole ritual and moves it into a browser tab. The `codesandbox-c... GitHub Repository: https://github.com/codesandbox/codesandbox-client",
+ "title_mn": "codesandbox-client: Вэб хөгжүүлэлт хийх браузер дээрх онлайн IDE",
+ "summary_mn": "CodeSandbox бол ямар ч төхөөрөмж дээр шууд ажиллаж эхлэх боломжтой вэб хөгжүүлэлтийн онлайн орчин юм. Энэхүү төсөл нь хөгжүүлэгчдэд орчин бэлдэх цаг үрэлгүйгээр хурдан прототип хийх боломж олгодог.",
+ "body_mn": "CodeSandbox бол санаа төрсөн даруйд вэб хөгжүүлэлт хийж эхлэхэд зориулагдсан онлайн IDE юм. Энэ нь хөгжүүлэгчдэд локал орчин тохируулах, Node.js хувилбар болон build хэрэгслүүдтэй ноцолдох шаардлагагүйгээр шууд браузер дээр ажиллах боломжийг олгодог.\n\nЭнэхүү төсөл нь клиент хэсгээс гадна Phoenix API сервер, Nginx тохиргоо, GitHub сангаас эх кодыг татах Git Extractor зэрэг хэсгүүдээс бүрдэнэ. Клиент програм нь Lerna болон monorepo бүтцийг ашигладаг бөгөөд олон багцуудыг нэг дор удирдах боломжтой болгожээ. Мөн мөрийн тавцангаас (CLI) шууд төсөл байршуулах боломжтой байдаг нь ажлын урсгалыг хөнгөвчилдөг.\n\nТөслийн хувьд хувь нэмэр оруулагчдад маш нээлттэй бөгөөд автоматжуулсан браузер хоорондын тестүүдийг ашигладаг. Хөгжүүлэгчид codesandbox.io руу орж шууд туршиж үзэх боломжтой ба эх кодыг нь GitHub дээрээс судлах боломжтой.",
+ "published": "2026-11-28T01:47:00Z",
+ "added": "2026-11-28T03:00:58Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
