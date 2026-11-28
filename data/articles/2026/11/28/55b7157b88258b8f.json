@@ -1,0 +1,17 @@
+{
+ "id": "55b7157b88258b8f",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/structured-outputs-few-shot/",
+ "image": "https://images.flaviocopes.com/structured-outputs-few-shot/og.jpg",
+ "title": "Structured outputs and few-shot examples: getting reliable data from LLMs",
+ "summary_en": "How constrained decoding, JSON Schema design, field order, nullable fields, and boundary few-shot examples work across 150 release-note runs.",
+ "title_mn": "LLM-ээс JSON өгөгдлийг найдвартай авах аргууд",
+ "summary_mn": "Хэлний загвараас бүтэцтэй JSON өгөгдөл гаргаж авахын тулд constrain decoding буюу хувилбарын хязгаарлалт болон схема ашиглах аргуудыг туршиж үзээрэй.",
+ "body_mn": "LLM буюу хэлний загвараас хүссэн JSON форматаа алдаагүй гаргаж авах нь програмын хөгжүүлэлтэд чухал асуудал юм. Энгийн систем промптод JSON буцаа гэж бичих нь бодит хөдөлгөөний үед code fence буюу гадаад тэмдэглэгээтэй ирэх эсвэл утга нь алдагдах зэрэг асуудал үүсгэдэг.\n\nЭнэ асуудлыг шийдвэрлэхэд constrained decoding буюу token үүсгэх явцад JSON Schema-д хязгаарлах арга маш үр дүнтэй. Гэвч grammar compilation буюу схемийг хөрвүүлэх үйл явц нь эхний хүсэлтэд CPU ачаалал үүсгэдэг тул схемийг динамикаар өөрчлөхгүй байх, статик байдлаар хадгалах нь гүйцэтгэлд сайнаар нөлөөлдөг.\n\nХөгжүүлэгчид загвартай ажиллахдаа few-shot жишээнүүдийг зөв ашиглаж, token-ийг оновчлох боломжтой. Загварын схем болон промптыг зөв хослуулснаар аппликейшний найдвартай байдлыг хангах боломжтой.",
+ "published": "2026-11-28T08:00:00Z",
+ "added": "2026-11-28T08:30:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

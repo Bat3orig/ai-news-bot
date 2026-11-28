@@ -1,0 +1,17 @@
+{
+ "id": "da74f76b594c2ff0",
+ "subtopic": "vibe-coding",
+ "source": "Flavio Copes",
+ "source_label": "Flavio Copes",
+ "url": "https://flaviocopes.com/macos-touch-id-user-switching/",
+ "image": "https://images.flaviocopes.com/macos-touch-id-user-switching/og.jpg",
+ "title": "Switch macOS users with a different Touch ID finger",
+ "summary_en": "Switch macOS user accounts with a different Touch ID finger for cleaner work or recording setups, or to isolate AI coding agents in a Standard user.",
+ "title_mn": "macOS үйлдлийн систем дээр Touch ID ашиглан хэрэглэгчдийг шууд солих",
+ "summary_mn": "macOS-ийн өөр хурууны хээг ашиглан хэрэглэгчийн эрх хооронд секундын дотор хурдан шилжих боломжтойг ашиглан AI агентуудыг тусдаа Standard эрхэнд тусгаарлаарай.",
+ "body_mn": "Mac компьютер дээр өөр хурууны хээгээр Touch ID дарж хэрэглэгчийн эрх хооронд шууд шилжих боломжтой бөгөөд энэ нь ихэнх хэрэглэгчдэд төдийлөн сайн танигдаагүй арга юм. Уг аргыг ашигласнаар хувийн болон ажлын орчныг тусгаарлахаас гадна Claude Code эсвэл Codex зэрэг AI coding агентуудыг тусдаа Standard macOS эрхэнд ажиллуулахад маш тохиромжтой.\n\nСистемийн тохиргоо буюу System Settings хэсгээс шинээр Стандарт төрлийн хэрэглэгч нэмж үүсгэн, Control Center дотроос Fast User Switching буюу хэрэглэгч хурдан солих тохиргоог идэвхжүүлнэ. Ингэснээр үндсэн админ эрх болон тусгай хэрэглэгчийн хооронд цэс рүү оролгүйгээр зөвхөн Touch ID мэдрүүлэгч дээр өөр хуруугаа тавьж шууд шилжих боломж бүрдэнэ.\n\nЭнэхүү арга нь таны хувийн ssh түлхүүр, browser cookie болоннууц үгийн менежерийг AI агентуудаас хамгаалж, Unix түвшний бодит тусгаарлалтыг үүсгэнэ. Mac компьютер өөрөө Apple Silicon хурдаар ямар нэгэн виртуаль машин ашиглалгүйгээр бүрэн хурдаараа ажиллах давуу талтай.",
+ "published": "2026-11-28T08:00:00Z",
+ "added": "2026-11-28T08:30:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
