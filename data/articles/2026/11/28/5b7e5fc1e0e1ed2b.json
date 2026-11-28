@@ -1,0 +1,17 @@
+{
+ "id": "5b7e5fc1e0e1ed2b",
+ "subtopic": "gh-js",
+ "source": "GitHub Trending TypeScript",
+ "source_label": "GitHub Trending TypeScript",
+ "url": "https://github.com/NYLLON-SOFTWARE/SignuDoc",
+ "image": "https://repository-images.githubusercontent.com/1192193764/a577af7e-ab80-45cf-ae31-8cc9a182cf5b",
+ "title": "NYLLON-SOFTWARE/SignuDoc",
+ "summary_en": "Open-source document signature platform. Not affiliated with DocuSign. An e-signature app for your own organization, on your own Vercel account. Upload a PDF, place fields, send signing links, and keep the sealed, signed copy with its audit certificate. or copy this to your LLM Features · SignuDoc vs DocuSign · What it costs · Get started · Self-hosting guide Why SignuDoc No seats to pay for. SignuDoc is open source, and the Deploy button sets it up on free plans from Vercel, Neon and Resend, which carry about 250 documents a month for $0. A 15-person team pays DocuSign $8,100 a year for…",
+ "title_mn": "NYLLON-SOFTWARE/SignuDoc: Өөрийн Vercel дээр ажиллах нээлттэй эх сурвалжтай электрон гарын үсгийн систем",
+ "summary_mn": "SignuDoc бол DocuSign-ийг орлох боломжтой, Vercel, Neon болон Resend дээр суурилдаг нээлттэй эх сурвалжтай цахим гарын үсгийн апп юм. Хэрэглэгчид ямар нэгэн суудал эсвэл дугтуйн хязгаарлалтгүйгээр PDF файлд гарын үсэг цуглуулах боломжтой.",
+ "body_mn": "SignuDoc нь байгууллага дотроо PDF файл илгээх, талбар байрлуулах, гарын үсэг зуруулах болон баталгаажуулах аудитын гэрчилгээ үүсгэхэд зориулагдсан үнэ төлбөргүй бөгөөд нээлттэй эх сурвалжтай шийдэл юм. Энэхүү апп нь үнэгүй төлөвлөгөө ашиглан Vercel, Neon Postgres болон Resend үйлчилгээн дээр шууд байрших боломжтой бөгөөд сард дунджаар 250 баримт бичиг боловсруулах боломж олгодог.\n\nЭнэхүү хэрэгслийн гол давуу тал нь хэрэглэгчийн тоогоор төлбөр авдаггүй тул DocuSign шиг өндөр үнэтэй бизнесийн эрх аваха шаардлагагүй юм. Баримт бичгүүд таны хувийн Vercel Blob болон Neon өгөгдлийн санд хадгалагдах тул аюулгүй байдал бүрэн хангагдана. Мөн PDF болон аудитын мэдээлэл бүр PAdES тамгатай байх бөгөөд өөрчлөлт орсон эсэхийг хялбархан шалгах боломжтой.\n\nСистемийг ашиглахад маш хялбар бөгөөд нэг товчлуураар өөрийн сервер дээр байршуулах боломжтой. Баримт бичигт 25 хүртэлх хүн дарааллаар эсвэл зэрэг гарын үсэг зурах боломжтой ба цахим шуудангаар холбоос хүлээн авч утас, таблет эсвэл компьютерээсээ зурах боломжтой. Мөн хөгжүүлэгчид өөрсдийн апп-аараа дамжуулан SignuDoc API ашиглан баримт илгээх боломжтой байна.",
+ "published": "2026-11-28T09:30:49Z",
+ "added": "2026-11-28T09:30:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
